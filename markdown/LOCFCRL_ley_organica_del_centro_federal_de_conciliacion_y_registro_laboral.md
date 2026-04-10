@@ -15,6 +15,7 @@ Se expide la Ley Orgánica del Centro Federal de Conciliación y Registro Labora
 
 ## Título Primero — Disposiciones Generales
 
+
 ### Artículo 1
 . El Centro Federal de Conciliación y Registro Laboral es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, y con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
 La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
@@ -62,6 +63,7 @@ Asimismo, el Centro establecerá mecanismos de ingreso, adscripción, ascenso, e
 
 ## Título Segundo — De las Atribuciones del Centro
 
+
 ### Artículo 9
 . Corresponden al Centro las siguientes atribuciones:
 
@@ -105,6 +107,7 @@ XIX. Las demás que establezcan la Ley Federal del Trabajo, la presente Ley y la
 
 ## Título Tercero — De la Administración, Organización y Funcionamiento del Centro
 
+
 ### Artículo 10
 . El Centro contará con los siguientes órganos de gobierno y administración:
 
@@ -113,6 +116,7 @@ I. La Junta de Gobierno, y
 II. La Dirección General.
 
 ## Capítulo I — De la Junta de Gobierno
+
 
 ### Artículo 11
 . La Junta de Gobierno estará conformada por:
@@ -181,6 +185,7 @@ Los cargos de Secretario Técnico y de prosecretario de la Junta de Gobierno ser
 
 ## Sección Única — De las Sesiones de la Junta de Gobierno
 
+
 ### Artículo 15
 . A las sesiones de la Junta de Gobierno podrán asistir el Director General y los comisarios con derecho a voz, pero sin derecho a voto.
 
@@ -203,6 +208,7 @@ Cuando se encuentren reunidos la totalidad de los miembros de la Junta de Gobier
 Para el cumplimiento de todas y cada una de las obligaciones a cargo del Centro, la Junta de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico sin que pueda ser menor de cuatro veces al año.
 
 ## Capítulo II — De la Dirección General
+
 
 ### Artículo 20
 . El o la Director (a) General del Centro será designado conforme a lo dispuesto en el artículo 123, Apartado A, fracción XX, párrafo sexto de la Constitución, el cuál desempeñará su cargo por seis años y podrá ser reelecto por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
@@ -243,6 +249,7 @@ VIII. Todas las que se deriven de la Ley Federal del Trabajo, de esta Ley, del e
 
 ## Título Cuarto — De la Vigilancia, Control y Evaluación del Centro
 
+
 ### Artículo 23
 . El Centro contará con un órgano de vigilancia, control y evaluación que estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública.
 Los mismos asistirán con voz, pero sin voto a las reuniones ordinarias y extraordinarias de la Junta de Gobierno. Asimismo, podrán asistir a las sesiones de los comités y subcomités técnicos especializados del Centro.
@@ -259,6 +266,7 @@ III. Emitirá el Código de Ética para la actuación de las personas servidoras
 IV. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y presentará a la persona titular de la Dirección General, a la Junta de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
 ## Título Quinto — Del Patrimonio del Centro
+
 
 ### Artículo 25
 . El patrimonio del Centro se integra por:
@@ -279,9 +287,9 @@ VII. Todos los demás bienes o derechos que perciba en el ejercicio de sus atrib
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El servicio profesional entrará en vigor un año después de la creación del Centro Federal de Conciliación y Registro Laboral, y su implementación será gradual conforme a los lineamientos y manuales que presente el Director o Directora del Centro y que sean aprobados por la Junta de Gobierno; durante el procedimiento de contratación, se actualizará y capacitará a todo el personal con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional que requiere el Centro.
-**Tercero.** El procedimiento previsto en el artículo Décimo Primero Transitorio del Decreto publicado el 1o. de mayo de 2019, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, será realizado por el Centro Federal de Conciliación y Registro Laboral hasta que inicie sus funciones registrales y emita el Protocolo correspondiente. Los expedientes de los procedimientos de legitimación de contratos colectivos de trabajo realizados ante la Secretaría del Trabajo y Previsión Social, se transferirán al Centro Federal de Conciliación y Registro Laboral, el cual podrá determinar la terminación de aquellos contratos colectivos que no cumplan los requisitos previstos en la Ley Federal del Trabajo.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El servicio profesional entrará en vigor un año después de la creación del Centro Federal de Conciliación y Registro Laboral, y su implementación será gradual conforme a los lineamientos y manuales que presente el Director o Directora del Centro y que sean aprobados por la Junta de Gobierno; durante el procedimiento de contratación, se actualizará y capacitará a todo el personal con la finalidad de dar cumplimiento a los principios y valores en que se sostiene el servicio profesional que requiere el Centro.
+**Tercero.-** El procedimiento previsto en el artículo Décimo Primero Transitorio del Decreto publicado el 1o. de mayo de 2019, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, será realizado por el Centro Federal de Conciliación y Registro Laboral hasta que inicie sus funciones registrales y emita el Protocolo correspondiente. Los expedientes de los procedimientos de legitimación de contratos colectivos de trabajo realizados ante la Secretaría del Trabajo y Previsión Social, se transferirán al Centro Federal de Conciliación y Registro Laboral, el cual podrá determinar la terminación de aquellos contratos colectivos que no cumplan los requisitos previstos en la Ley Federal del Trabajo.
 Para la verificación de los procedimientos de legitimación de contratos colectivos de trabajo, el Centro Federal de Conciliación y Registro Laboral suscribirá los acuerdos de colaboración necesarios con la Secretaría del Trabajo y Previsión Social y las Secretarías del Trabajo u homólogas de las entidades federativas.
-**Cuarto.** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+**Cuarto.-** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
 Ciudad de México, a 14 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

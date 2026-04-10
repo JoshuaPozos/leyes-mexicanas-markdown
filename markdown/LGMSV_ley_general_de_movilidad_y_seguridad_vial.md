@@ -15,7 +15,9 @@ Se expide la Ley General de Movilidad y Seguridad Vial
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## CAPÍTULO I
+
 Objeto de la Ley
 
 ### Artículo 1
@@ -192,6 +194,7 @@ LXX. Violencias contra las mujeres: Cualquier acción u omisión, basada en su g
 
 ## CAPÍTULO II — De los principios de movilidad y seguridad vial
 
+
 ### Artículo 4
 . Principios de movilidad y seguridad vial.
 La Administración Pública Federal, de las entidades federativas, municipal, de las demarcaciones territoriales de la Ciudad de México, y demás autoridades en la materia, de acuerdo con sus facultades, considerarán los siguientes principios:
@@ -260,6 +263,7 @@ IX. El diseño vial y servicio de transporte debe ser modificado o adaptado, inc
 
 ## CAPÍTULO III — De la jerarquía de movilidad
 
+
 ### Artículo 6
 . Jerarquía de la movilidad.
 La planeación, diseño e implementación de las políticas públicas, planes y programas en materia de movilidad deberán favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía de la movilidad:
@@ -276,9 +280,11 @@ V. Personas usuarias de vehículos motorizados particulares.
 Las autoridades de los tres órdenes de gobierno establecerán en sus respectivos reglamentos el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera.
 
 ## TÍTULO SEGUNDO
+
 De la Política Pública a través del Sistema Nacional de Movilidad y Seguridad Vial
 
 ## CAPÍTULO I
+
 El Sistema Nacional de Movilidad y Seguridad Vial y la política nacional, sectorial y regional
 
 ### Artículo 7
@@ -351,6 +357,7 @@ XIV. Las demás que se establezcan para el funcionamiento del Sistema y el cumpl
 La política nacional de movilidad y seguridad vial se diseñará con un enfoque sistémico y ejecutará con base en los principios establecidos en esta Ley, los que para tal efecto emita el Sistema Nacional, así como a través de los mecanismos de coordinación, información y participación correspondientes, con el objetivo de garantizar el derecho a la movilidad con las condiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO II — Del derecho a la movilidad
+
 
 ### Artículo 9
 . La movilidad es el derecho de toda persona a trasladarse y a disponer de un sistema integral de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita el desplazamiento de personas, bienes y mercancías, el cual deberá contribuir al ejercicio y garantía de los demás derechos humanos, por lo que las personas serán el centro del diseño y del desarrollo de los planes, programas, estrategias y acciones en la materia.
@@ -476,6 +483,7 @@ En los procesos penales iniciados con motivo de un siniestro de tránsito en el 
 Para el cumplimiento de lo anterior las autoridades deberán emitir los protocolos de actuación necesarios, que serán de observancia obligatoria para todas las personas servidoras públicas que se relacionen con la materia.
 
 ## CAPÍTULO III
+
 Estrategia Nacional de Movilidad y Seguridad Vial
 
 ### Artículo 24
@@ -514,9 +522,11 @@ II. Una vez aprobada la Estrategia Nacional, se publicará en el Diario Oficial 
 III. Las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, ajustarán sus políticas y acciones a lo establecido en la Estrategia.
 
 ## CAPÍTULO IV
+
 Sistema de Información Territorial y Urbano
 
 ## Sección Primera
+
 Movilidad y Seguridad Vial dentro del Sistema de Información Territorial y Urbano
 
 ### Artículo 27
@@ -536,6 +546,7 @@ I. Base de Datos sobre información de movilidad, y
 II. Base de Datos de información y seguimiento de seguridad vial.
 
 ## Sección Segunda — De las Bases de Datos sobre Movilidad y Seguridad Vial
+
 
 ### Artículo 29
 . Bases de Datos sobre Movilidad y Seguridad Vial.
@@ -574,9 +585,11 @@ Para el seguimiento, evaluación y control de la política, planes, programas y 
 La información de las entidades federativas deberá ser remitida en datos georreferenciados y estadísticos, indicadores de movilidad, seguridad vial y gestión administrativa, así como indicadores incluidos en los instrumentos de planeación e información sobre el avance de los proyectos y programas locales.
 
 ## CAPÍTULO V
+
 Planeación y Programación de la Movilidad y la Seguridad Vial
 
 ## Sección Primera
+
 Política de Movilidad y Seguridad Vial
 
 ### Artículo 31
@@ -636,6 +649,7 @@ II. Incluir en las estrategias e instrumentos de movilidad y seguridad vial, en 
 III. Considerar en la planeación de la movilidad y la seguridad vial los criterios y contenido de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y demás legislación en materia de prevención de la violencia en razón de género, así como incorporar recomendaciones y políticas para asegurar la integridad, dignidad y libertad de las mujeres al hacer uso de la vía, emitidas por el Instituto Nacional de las Mujeres, la Comisión Nacional de los Derechos Humanos, la Secretaría de Seguridad Ciudadana, y demás dependencias e institutos estatales y municipales relevantes, así como de la sociedad civil y organismos internacionales.
 
 ## Sección Segunda — De los Instrumentos de Política Pública de Movilidad y Seguridad Vial para la
+
 Infraestructura
 
 ### Artículo 33
@@ -784,6 +798,7 @@ A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros d
 Las autoridades competentes podrán establecer los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación de los sistemas de transporte, además de implementar las medidas necesarias para fomentar la renovación.
 
 ## Sección Tercera
+
 De los Instrumentos de Política Pública de Movilidad y Seguridad Vial del Tránsito
 
 ### Artículo 48
@@ -893,6 +908,7 @@ Las autoridades competentes, en coordinación con la Secretaría de Infraestruct
 Las autoridades federales y de las entidades federativas, en el ámbito de sus competencias, deberán verificar la seguridad de los vehículos nuevos y en circulación, de acuerdo con las disposiciones normativas vigentes y aplicables.
 
 ## Sección Cuarta
+
 De los Instrumentos en materia de Movilidad y Seguridad Vial en la Gestión de la Demanda
 
 ### Artículo 55
@@ -915,6 +931,7 @@ La Federación, entidades federativas y municipios y las demarcaciones territori
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México en sus respectivas disposiciones normativas, preverán la elaboración de estudios de evaluación del impacto en la movilidad y la seguridad vial, lo cual tendrá por objeto analizar y evaluar las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas, sobre los desplazamientos de las personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida, la accesibilidad, la competitividad, y los demás aspectos previstos en esta Ley.
 
 ## Sección Quinta
+
 Instrumentos financieros
 
 ### Artículo 59
@@ -944,6 +961,7 @@ VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos 
 Las dependencias y entidades de la Administración Pública Federal incorporarán en la ejecución de sus programas de inversión y obras de infraestructura para la movilidad, los principios y las políticas establecidas en esta Ley.
 
 ## Sección Sexta
+
 De la sensibilización, educación y formación en materia de movilidad y seguridad vial
 
 ### Artículo 62
@@ -994,7 +1012,9 @@ La Federación, las entidades federativas, los municipios y las demarcaciones te
 
 ## TÍTULO TERCERO — De la Distribución de Competencias
 
+
 ## CAPÍTULO I — De la Distribución de Competencias y Coordinación
+
 
 ### Artículo 66
 . De la Federación.
@@ -1261,6 +1281,7 @@ VIII. Los institutos de planeación de las entidades federativas, de los municip
 Las atribuciones en materia de esta Ley de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, se ejercerán a través de las dependencias y entidades que señalen sus propios ordenamientos o que sean designadas para tal efecto.
 
 ## CAPÍTULO II
+
 Convenios de Coordinación Metropolitanos
 
 ### Artículo 75
@@ -1276,6 +1297,7 @@ En el caso de que la zona metropolitana, delimitada formalmente, sea de carácte
 Los convenios de coordinación metropolitanos celebrados por los tres órdenes de gobierno, podrán establecer las autoridades que serán las encargadas de la planeación, diseño, ejecución, operación, monitoreo y evaluación de la política de movilidad y seguridad vial a nivel metropolitano prevista en esta Ley y demás disposiciones jurídicas aplicables.
 
 ## CAPÍTULO III
+
 De la participación social de las entidades federativas, municipios, demarcaciones territoriales y zonas metropolitanas
 
 ### Artículo 78
@@ -1296,12 +1318,12 @@ La Federación, las entidades federativas, los municipios y las demarcaciones te
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Congreso de la Unión y las Legislaturas de las entidades federativas, en un plazo no mayor a 180 días, contados a partir de la entrada en vigor de la presente Ley, deberán aprobar las reformas necesarias a las leyes de su competencia, a fin de armonizarlas con lo dispuesto en esta Ley.
-**Tercero.** El Sistema Nacional de Movilidad y Seguridad Vial deberá emitir la Estrategia Nacional de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
-**Cuarto.** El Sistema Nacional de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
-**Quinto.** En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, las Secretarías integrantes del Sistema Nacional de Movilidad y Seguridad Vial, las entidades federativas, así como los municipios, deberán integrar los registros, indicadores y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
-**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, y en caso de que se realice alguna modificación a la estructura orgánica de las dependencias y entidades de la Administración Pública Federal, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se incrementará su presupuesto regularizable ni se autorizarán ampliaciones al presupuesto de las mismas para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor de la presente Ley.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Congreso de la Unión y las Legislaturas de las entidades federativas, en un plazo no mayor a 180 días, contados a partir de la entrada en vigor de la presente Ley, deberán aprobar las reformas necesarias a las leyes de su competencia, a fin de armonizarlas con lo dispuesto en esta Ley.
+**Tercero.-** El Sistema Nacional de Movilidad y Seguridad Vial deberá emitir la Estrategia Nacional de Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley.
+**Cuarto.-** El Sistema Nacional de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+**Quinto.-** En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la presente Ley, las Secretarías integrantes del Sistema Nacional de Movilidad y Seguridad Vial, las entidades federativas, así como los municipios, deberán integrar los registros, indicadores y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, y en caso de que se realice alguna modificación a la estructura orgánica de las dependencias y entidades de la Administración Pública Federal, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se incrementará su presupuesto regularizable ni se autorizarán ampliaciones al presupuesto de las mismas para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor de la presente Ley.
 Ciudad de México, a 5 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

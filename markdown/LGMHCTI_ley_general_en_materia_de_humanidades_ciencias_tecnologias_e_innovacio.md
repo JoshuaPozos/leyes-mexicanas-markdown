@@ -15,9 +15,11 @@ Se expide la Ley General en materia de Humanidades, Ciencias, Tecnologías e Inn
 LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN
 
 ## TÍTULO PRIMERO — DEL DERECHO HUMANO A LA CIENCIA COMO FUNDAMENTO DE LAS POLÍTICAS
+
 PÚBLICAS
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria de la fracción V del artículo 3o. y de la fracción XXIX-F del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son de orden público, interés social y de observancia general en todo el territorio nacional. Su aplicación corresponderá a la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en los términos y ámbitos de competencia en ella previstos.
@@ -103,6 +105,7 @@ XXVII. Sistema Nacional de Información: Sistema Nacional de Información en Mat
 
 ## Capítulo II — De las obligaciones del Estado
 
+
 ### Artículo 5
 . El Estado debe fomentar que la formación, la investigación, la divulgación y el desarrollo de proyectos en materia de humanidades, ciencias, tecnologías e innovación se realice bajo los siguientes principios: rigor epistemológico, igualdad y no discriminación, libertad académica, inclusión, pluralidad y equidad epistémicas, interculturalidad, diálogo de saberes, producción horizontal y transversal del conocimiento, trabajo colaborativo, solidaridad, beneficio social y precaución.
 Las autoridades competentes en la aplicación de la presente Ley deben vigilar que dichas actividades cumplan con los límites establecidos en la normativa aplicable, especialmente la relacionada con el principio precautorio, la seguridad, salud, responsabilidad ética, social y ambiental o cualquier otra causa de interés público, social o general.
@@ -145,6 +148,7 @@ VII. Los mecanismos e instrumentos públicos de fomento y apoyo, y
 VIII. El Sistema Nacional de Información.
 
 ## Capítulo III — De los fines, principios y bases de las políticas públicas
+
 
 ### Artículo 9
 . Para cumplir con el objeto de esta Ley, la Federación, las entidades federativas, los municipios y las demarcaciones, a través de las instituciones correspondientes, deben aplicar políticas públicas dirigidas a realizar, fomentar y apoyar la formación, investigación, difusión, divulgación y desarrollo de proyectos, en materia de humanidades, ciencias, tecnologías e innovación, así como el acceso abierto a la información que derive de dichas actividades, con el fin de contribuir al avance del conocimiento universal, al fortalecimiento de la soberanía nacional, al desarrollo integral y sostenible del país, al bienestar de las generaciones presentes y futuras, a la preservación, restauración, protección y mejoramiento del ambiente, y a la consecución de los objetivos constitucionales del Estado mexicano.
@@ -226,6 +230,7 @@ XXVI. La erradicación del hostigamiento laboral, el acoso sexual y otras formas
 
 ## Capítulo IV — De la Agenda Nacional y la planeación estratégica y participativa
 
+
 ### Artículo 12
 . El Consejo Nacional, a partir de la identificación pertinente y oportuna que haga de las necesidades, problemáticas, capacidades y vocaciones locales y regionales, así como de las propuestas generadas por la comunidad, las autoridades en materia de humanidades, ciencias, tecnologías e innovación de las entidades federativas y por los sectores social y privado, incluyendo las que realicen los pueblos y comunidades indígenas, afromexicanos, campesinos y equiparables, debe coordinar la integración democrática de una Agenda Nacional que establezca líneas de acción en torno de los asuntos estratégicos o prioritarios para el desarrollo del país y los temas de interés público nacional o de atención indispensable en materia de humanidades, ciencias, tecnologías e innovación, sin menoscabo de la libertad de investigación ni de la autonomía que reconozca la ley a las universidades e instituciones públicas de educación superior.
 La Agenda Nacional y los instrumentos de planeación estratégica y participativa se integrarán, aprobarán, actualizarán, ejecutarán y evaluarán conforme a los fines, principios y bases de las políticas públicas previstos en la presente Ley, la Ley de Planeación y demás disposiciones aplicables.
@@ -252,6 +257,7 @@ V. Acceso universal al conocimiento humanístico y científico y a sus beneficio
 VI. Los demás que establezca el Consejo Nacional.
 
 ## Sección Primera
+
 Del Programa Especial en materia de Humanidades, Ciencias, Tecnologías e Innovación
 
 ### Artículo 15
@@ -280,6 +286,7 @@ VI. El Programa para el Desarrollo de la Bioseguridad y la Biotecnología a que 
 
 ## Sección Segunda — De los Programas de las Entidades Federativas
 
+
 ### Artículo 18
 . Los gobiernos de las entidades federativas elaborarán sus respectivos programas en materia de humanidades, ciencias, tecnologías e innovación contemplando las propuestas que presenten las dependencias y entidades de la administración pública local que fomenten, realicen o apoyen actividades de investigación humanística o científica, desarrollo tecnológico e innovación. De igual manera, se tomarán en cuenta las opiniones que emitan los órganos internos consultivos, las universidades, las instituciones de educación superior, los centros de investigación y la comunidad en general, así como los sectores social y privado, de la entidad federativa correspondiente.
 El diseño e implementación de los programas de las entidades federativas deberán contemplar como punto de partida las necesidades, problemáticas, capacidades y vocaciones de los municipios y de las demarcaciones, según corresponda, de conformidad con la legislación aplicable. Asimismo, los programas de las entidades federativas deberán ser congruentes con los fines, principios y bases de las políticas públicas.
@@ -295,7 +302,9 @@ III. Las consideraciones y proyecciones de las estrategias y acciones para el de
 
 ## TÍTULO SEGUNDO — DEL SISTEMA NACIONAL Y LAS BASES DE COORDINACIÓN
 
+
 ## Capítulo I — De la integración
+
 
 ### Artículo 20
 . El Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación es el conjunto articulado de personas e instituciones de los sectores público, social y privado que fomentan, realizan o apoyan actividades en materia de humanidades, ciencias, tecnologías e innovación, incluidas aquellas que participen en el Ecosistema Nacional de Innovación Abierta.
@@ -321,6 +330,7 @@ VIII. Las personas físicas o morales, colectivos y organizaciones ciudadanas, a
 . Los integrantes del Sistema Nacional tienen la obligación de promover la transparencia, la rendición de cuentas y el combate a la corrupción en el sector.
 
 ## Capítulo II — De la distribución de las competencias
+
 
 ### Artículo 22
 . En términos de las disposiciones jurídicas aplicables, a la Federación le corresponden las siguientes facultades en materia de humanidades, ciencias, tecnologías e innovación:
@@ -446,6 +456,7 @@ VIII. No cuentan con personalidad jurídica ni capacidad para obligarse; tampoco
 
 ## Capítulo III — De las Relaciones Intergubernamentales
 
+
 ### Artículo 27
 . La Federación, las entidades federativas, los municipios y las demarcaciones podrán celebrar entre sí convenios de colaboración y de cofinanciamiento de proyectos enmarcados en las políticas públicas. Asimismo, el Gobierno Federal podrá celebrar convenios con los poderes legislativo y judicial, así como con los organismos constitucionales autónomos, tanto de la federación como de las entidades federativas, con el objeto de facilitar la asesoría técnica para la toma de decisiones de orden público.
 De igual manera, los gobiernos de las entidades federativas podrán celebrar convenios con los poderes legislativo y judicial locales, así como con los organismos constitucionales autónomos de la propia entidad federativa, con el objeto de facilitar la asesoría técnica para la toma de decisiones de orden público.
@@ -457,9 +468,11 @@ Por cada región se constituirá un Comité Regional de Coordinación que permit
 Los acuerdos mediante los que se establezcan las regiones precisarán las bases de integración y funcionamiento del Comité Regional de Coordinación respectivo.
 
 ## TÍTULO TERCERO — DEL FOMENTO Y FINANCIAMIENTO DE LAS HUMANIDADES, LAS CIENCIAS, LAS
+
 TECNOLOGÍAS Y LA INNOVACIÓN
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 29
 . El Estado debe apoyar la investigación humanística y científica, el desarrollo tecnológico y la innovación, además de garantizar el acceso abierto a la información que derive de ellos, para lo cual proveerá de recursos y estímulos suficientes, oportunos y adecuados, conforme al principio constitucional de progresividad y no regresión.
@@ -509,9 +522,11 @@ X. La información que derive de actividades apoyadas por el Estado será de acc
 XI. Las personas beneficiarias de apoyos de carácter económico deben retribuir a la sociedad el apoyo público recibido, en los términos que se establezcan en los convenios o contratos correspondientes, de conformidad con esta Ley y demás disposiciones jurídicas aplicables.
 
 ## Capítulo II
+
 De los Mecanismos e Instrumentos Públicos de Fomento y Apoyo del Gobierno Federal
 
 ## Sección Primera — Disposiciones generales
+
 
 ### Artículo 34
 . Los mecanismos e instrumentos públicos de fomento y apoyo de las dependencias y entidades se destinarán de manera preponderante a becas de posgrado y posdoctorado, a apoyos económicos para las personas integrantes del Sistema Nacional de Investigadoras e Investigadores que se encuentren realizando actividades en materia de humanidades, ciencias, tecnologías o innovación en universidades, instituciones de educación superior o centros de investigación del sector público, así como a proyectos y actividades de investigación humanística y científica, desarrollo tecnológico e innovación relacionados con las áreas estratégicas o prioritarias del desarrollo nacional y los temas de interés público nacional o de atención indispensable considerados en la Agenda Nacional, en los términos de esta Ley.
@@ -530,6 +545,7 @@ Cuando para el financiamiento y ejecución de actividades y proyectos concurran 
 En su caso, el otorgamiento de licencias y la participación en las regalías se definirán en los instrumentos normativos y convenios que se suscriban para tales efectos, de conformidad con la legislación aplicable.
 
 ## Sección Segunda — De las Becas, Apoyos y Otros Mecanismos para la Formación y Consolidación de la
+
 Comunidad
 
 ### Artículo 37
@@ -575,6 +591,7 @@ La Junta de Gobierno del Consejo Nacional debe expedir el Reglamento del Sistema
 El Consejo Nacional y la Secretaría de Educación Pública deben coordinarse para garantizar el aprovechamiento óptimo de los recursos públicos que administren, evitando la duplicidad en los apoyos que otorguen y asegurando que los procedimientos para su asignación sean eficientes. Para ello, deberán establecer únicamente los requisitos mínimos indispensables y procurar que la canalización de recursos se realice de forma directa a los beneficiarios, sin intermediación de instituciones u organizaciones de ningún tipo.
 
 ## Sección Tercera
+
 Del Impulso a la Ciencia Básica y de Frontera y el Derecho Humano a la Educación
 
 ### Artículo 42
@@ -596,6 +613,7 @@ La Secretaría de Educación Pública, con apoyo de la Secretaría de Medio Ambi
 
 ## Sección Cuarta — De los Programas Nacionales Estratégicos
 
+
 ### Artículo 46
 . El Consejo Nacional debe implementar Programas Nacionales Estratégicos orientados a diagnosticar, prospectar y proponer a las autoridades competentes acciones y medidas para la prevención, atención y solución de problemáticas nacionales concretas que, por su importancia estratégica y gravedad, requieran de una atención articulada y soluciones integrales, profundas y amplias, sobre la base de agendas temáticas en materia de salud, agua, educación, cultura, vivienda, soberanía alimentaria, agentes tóxicos y procesos contaminantes, seguridad humana, sistemas socioecológicos, energía y cambio climático, incluida la transición energética, entre otras que resulten pertinentes.
 
@@ -612,6 +630,7 @@ IV. Los resultados de sus actividades y proyectos serán de acceso abierto y se 
 El Consejo Nacional emitirá los Lineamientos de operación de los Programas Nacionales Estratégicos.
 
 ## Sección Quinta — Del Programa Nacional de Innovación
+
 
 ### Artículo 48
 . El Consejo Nacional, en términos de las disposiciones jurídicas aplicables debe conducir y coordinar la elaboración y ejecución del Programa Nacional de Innovación, con el propósito de contribuir al fortalecimiento de la soberanía nacional y la independencia científica y tecnológica del país, así como a la prevención, atención y solución de problemáticas nacionales, sobre la base de agendas públicas en el marco de los Programas Nacionales Estratégicos.
@@ -637,6 +656,7 @@ El Consejo Nacional podrá celebrar convenios de colaboración o coordinación c
 Las instituciones del sector público que realicen actividades de investigación humanística y científica, desarrollo tecnológico e innovación podrán compartir infraestructura y equipamiento en términos de los convenios que se suscriban para tal efecto.
 
 ## Sección Sexta
+
 Estrategia Nacional de Acceso a la Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación
 
 ### Artículo 53
@@ -670,6 +690,7 @@ VI. Las demás que determine el Consejo Nacional.
 
 ## Sección Séptima — De las Facilidades Administrativas
 
+
 ### Artículo 54
 . El Gobierno Federal fomentará la corresponsabilidad del sector privado para que realice en el país actividades directamente vinculadas con la investigación humanística y científica, el desarrollo tecnológico y la innovación, preferentemente mediante incentivos al financiamiento y facilidades administrativas, en términos de las disposiciones aplicables, los cuales responderán a los contenidos de la Agenda Nacional. En todo caso, el Consejo Nacional determinará, en la convocatoria respectiva, los aspectos científicos, tecnológicos y de pertinencia social que deberán satisfacer las personas o proyectos para ser beneficiarios.
 Asimismo, sin perjuicio de los tratados comerciales de los que el Estado mexicano sea parte, el Gobierno Federal impulsará mecanismos adecuados para reducir o eliminar aranceles a importaciones de insumos para proyectos de investigación humanística o científica, desarrollo tecnológico o innovación apoyados con recursos públicos, particularmente los relativos a la Agenda Nacional, siempre y cuando no se disponga en el país de insumos análogos.
@@ -679,14 +700,17 @@ Además, el Gobierno Federal promoverá facilidades administrativas relacionadas
 . Las personas que realicen proyectos de investigación humanística y científica, desarrollo tecnológico e innovación podrán gozar del estímulo fiscal previsto en el artículo 202 de la Ley del Impuesto Sobre la Renta. Para el otorgamiento de dicho estímulo se deberá aplicar lo establecido en dicho ordenamiento y en las reglas generales que al efecto se emitan conforme a esta última.
 
 ## TÍTULO CUARTO — DEL ACCESO ABIERTO A LA INFORMACIÓN QUE DERIVE DE LAS HUMANIDADES, LAS
+
 CIENCIAS, LAS TECNOLOGÍAS Y LA INNOVACIÓN APOYADAS POR EL ESTADO
 
 ## Capítulo I — Del Acceso Abierto
+
 
 ### Artículo 56
 . Con el fin de garantizar el derecho humano a la ciencia, así como el interés público, la información derivada de las actividades de investigación humanística y científica, desarrollo tecnológico e innovación apoyadas por el Estado será invariablemente de acceso abierto, sin perjuicio de las disposiciones aplicables en materia de propiedad intelectual, seguridad nacional o protección de datos personales, entre otras.
 
 ## Capítulo II — Del Sistema Nacional de Información
+
 
 ### Artículo 57
 . El Sistema Nacional de Información será administrado y operado por el Consejo Nacional y deberá ser accesible al público en general, sin perjuicio de los derechos de propiedad intelectual y de la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
@@ -727,7 +751,9 @@ El Consejo Nacional emitirá los lineamientos específicos para la creación y o
 
 ## TÍTULO QUINTO — DEL CONSEJO NACIONAL
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 62
 . El Consejo Nacional de Humanidades, Ciencias y Tecnologías es un organismo público descentralizado de la Administración Pública Federal, no sectorizado, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica y de gestión, con domicilio en Ciudad de México, que tiene como objeto formular y conducir la política nacional en materia de humanidades, ciencias, tecnologías e innovación.
@@ -812,6 +838,7 @@ Las relaciones de trabajo entre el Consejo Nacional y sus trabajadores se regir�
 
 ## Capítulo II — De los Órganos de Gobierno y Administración
 
+
 ### Artículo 67
 . El Consejo Nacional contará con los siguientes órganos de gobierno y administración:
 
@@ -820,6 +847,7 @@ I. La Junta de Gobierno, y
 II. La Dirección General.
 
 ## Sección Primera — De la Junta de Gobierno
+
 
 ### Artículo 68
 . La Junta de Gobierno estará integrada por la persona titular de la Dirección General, quien la presidirá, y por representantes de las siguientes dependencias y entidades de la Administración Pública Federal:
@@ -897,6 +925,7 @@ XVI. Las demás que le resulten aplicables.
 
 ## Sección Segunda — De la Dirección General
 
+
 ### Artículo 70
 . La persona titular del Ejecutivo Federal puede designar y remover libremente a la persona titular de la Dirección General del Consejo Nacional, quien deberá reunir los siguientes requisitos:
 
@@ -946,6 +975,7 @@ XVI. Las que le confieran los ordenamientos aplicables y las demás que con fund
 
 ## Capítulo III — Del Órgano Interno Consultivo
 
+
 ### Artículo 72
 . El Consejo Nacional contará con un Órgano Interno Consultivo al que le son aplicables las bases señaladas en el artículo 26 de la presente Ley, además de las siguientes:
 
@@ -973,7 +1003,9 @@ Las personas integrantes del Consejo Consultivo de Ciencias serán invitadas a f
 
 ## TÍTULO SEXTO — DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 75
 . Se crea el Sistema Nacional de Centros Públicos como una herramienta de articulación de los recursos, infraestructuras y redes de los Centros Públicos, con el objeto de contribuir con sus capacidades al diseño, ejecución y evaluación de actividades, programas y proyectos en materia de humanidades, ciencias, tecnologías e innovación relacionados con las áreas estratégicas o prioritarias del desarrollo nacional y los temas de interés público nacional o de atención indispensable considerados en la Agenda Nacional, a fin de alcanzar y consolidar la independencia científica y tecnológica del país, así como garantizar que los beneficios sociales del progreso científico y tecnológico redunden en el bienestar del pueblo de México e incluyan la preservación, restauración, protección y mejoramiento del ambiente.
@@ -1034,6 +1066,7 @@ El Gobierno Federal promoverá, en igualdad de circunstancias, a Centros Públic
 
 ## Capítulo II — De los Centros Públicos
 
+
 ### Artículo 81
 . Los Centros Públicos son instituciones fundamentales para alcanzar y consolidar la independencia científica y tecnológica del país, por lo que brindarán al Estado mexicano la solvencia humanística, científica, tecnológica y de innovación indispensable para la comprensión y atención integral de problemáticas nacionales relacionadas con la Agenda Nacional, así como, en general, para la toma de decisiones en asuntos públicos a partir del conocimiento científico y sus aplicaciones tecnológicas, desde un enfoque intercultural, de territorialidades y de derechos humanos con responsabilidad ética, social y ambiental.
 
@@ -1087,6 +1120,7 @@ El Consejo Nacional validará las actividades de vinculación con el sector prod
 Nacional de Centros Públicos, cuando así corresponda, y por sus instrumentos de creación, así como por la normativa que, en su caso, expida el Consejo Nacional. En lo no previsto en estos ordenamientos se aplicará supletoriamente la Ley Federal de las Entidades Paraestatales, siempre y cuando sea para fortalecer su autonomía técnica y de gestión, sin perjuicio de la legislación aplicable en otras materias. De igual manera, los Centros Públicos coordinados por dependencias federales deberán aplicar la normativa sectorial que corresponda.
 
 ## Capítulo III — De los Órganos de los Centros Públicos
+
 
 ### Artículo 92
 . Los Centros Públicos deben contar con los siguientes órganos de gobierno, dirección, consulta y evaluación:
@@ -1184,6 +1218,7 @@ De igual manera, las Asambleas podrán conocer, a propuesta de la persona titula
 
 ## Capítulo IV — De los Programas Institucionales
 
+
 ### Artículo 99
 . Las personas titulares de las Direcciones Generales o equivalentes son las responsables de elaborar los programas institucionales de los Centros Públicos, así como de proponer a los Órganos de Gobierno las modificaciones que estimen pertinentes. Las personas titulares de las Direcciones Generales o equivalentes tomarán en cuenta la opinión de la Asamblea del Personal de la entidad para tal efecto.
 Además de lo previsto en la Ley de Planeación, el Programa Institucional establecerá la misión, visión, objetivos, estrategias, indicadores y proyecciones financieras y de inversión, así como las metas del Centro Público para el periodo correspondiente a la administración encabezada por la persona titular del Ejecutivo Federal en turno. La elaboración, presentación y evaluación de los programas institucionales tendrán como referencia los ejes programáticos y de articulación de las políticas públicas.
@@ -1197,31 +1232,31 @@ Artículos Segundo y Tercero. ………
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
-**Tercero.** Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-**Cuarto.** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
-**Quinto.** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y Tecnologías.
-**Sexto.** En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
-**Séptimo.** Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución necesaria de facultades.
-**Octavo.** En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las demarcaciones, en materia de humanidades, ciencias, tecnologías e innovación.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
+**Tercero.-** Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+**Cuarto.-** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
+**Quinto.-** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y Tecnologías.
+**Sexto.-** En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
+**Séptimo.-** Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución necesaria de facultades.
+**Octavo.-** En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las demarcaciones, en materia de humanidades, ciencias, tecnologías e innovación.
 En caso de que, agotado el plazo señalado, no se hubieran emitido las disposiciones correspondientes, se aplicará la presente Ley de manera directa a las autoridades y Centros locales de Investigación.
-**Noveno.** Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
-**Décimo.** Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
-**Décimo Primero.** El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
-**Décimo Segundo.** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
-**Décimo Tercero.** A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
+**Noveno.-** Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+**Décimo.-** Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
+**Décimo Primero.-** El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
+**Décimo Segundo.-** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
+**Décimo Tercero.-** A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
 Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto se realice en el Sistema Nacional de Información.
-**Décimo Cuarto.** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
-**Décimo Quinto.** En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley, los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará facultado para realizarlas directamente.
-**Décimo Sexto.** En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
+**Décimo Cuarto.-** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+**Décimo Quinto.-** En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley, los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará facultado para realizarlas directamente.
+**Décimo Sexto.-** En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
 Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar los Programas Institucionales a que se refiere esta Ley.
-**Décimo Séptimo.** La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
-**Décimo Octavo.** En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
-**Décimo Noveno.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
-**Vigésimo.** Las legislaturas de las entidades federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de la presente Ley.
-**Vigésimo Primero.** Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
-**Vigésimo Segundo.** Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
+**Décimo Séptimo.-** La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
+**Décimo Octavo.-** En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
+**Décimo Noveno.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+**Vigésimo.-** Las legislaturas de las entidades federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de la presente Ley.
+**Vigésimo Primero.-** Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
+**Vigésimo Segundo.-** Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

@@ -17,8 +17,10 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MÉXICO, POR EL PODER EJECUTIVO FED
 
 ### Artículo 2o
 .- Se deroga.
-Artículo reformado DOF 30-12-1963, 13-01-1965, 31-12-1970, 31-12-1975, 30-12-1977, 07-01-1980, 01-12-1983, 26-12-1989, 10-05-1996, 14-05-2012. Derogado DOF 29-12-2014 Articulo 3o.- Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe aportaciones adicionales hasta por el equivalente de 17,434,076 (diecisiete millones cuatrocientos treinta y cuatro mil setenta y seis) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de los Estados Unidos Mexicanos al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
-Artículo reformado DOF 30-12-1963, 13-01-1965, 28-12-1967, 31-12-1970, 31-12-1975, 07-01-1980, 01-12-1983, 26-12-1989, 10-05-1996, 14-05-2012
+Artículo reformado DOF 30-12-1963, 13-01-1965, 31-12-1970, 31-12-1975, 30-12-1977, 07-01-1980, 01-12-1983, 26-12-1989, 10-05-1996,
+14-05-2012. Derogado DOF 29-12-2014 Articulo 3o.- Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe aportaciones adicionales hasta por el equivalente de 17,434,076 (diecisiete millones cuatrocientos treinta y cuatro mil setenta y seis) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de los Estados Unidos Mexicanos al Fondo para Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho Organismo.
+Artículo reformado DOF 30-12-1963, 13-01-1965, 28-12-1967, 31-12-1970, 31-12-1975, 07-01-1980, 01-12-1983, 26-12-1989, 10-05-1996,
+14-05-2012
 
 ### Artículo 4o
 .- La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo al Banco Interamericano de Desarrollo y ejercer al respecto todo clase de facultades.
@@ -29,7 +31,8 @@ Artículo reformado DOF 13-01-1986
 
 ### Artículo 6o
 .- (Se deroga).
-Artículo reformado DOF 13-01-1986. Derogado DOF 10-05-1996 CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
+Artículo reformado DOF 13-01-1986. Derogado DOF 10-05-1996
+CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
 ### Artículo 7o
 .- El Secretario de Hacienda y Crédito Público será el Gobernador Propietario y Designará a un Gobernador Suplente que fungirá con tal carácter en el Banco Interamericano de Desarrollo.
@@ -54,7 +57,8 @@ Párrafo reformado DOF 13-01-1986
 
 ### Artículo 12
 .- El Gobierno Federal requerirá exclusivamente la aprobación del Senado, de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo del Banco Interamericano de Desarrollo o para modificar la suscripción del Gobierno de México al Banco Interamericano de Desarrollo.
-Artículo reformado DOF 29-12-2014 Juan Sabines Gutiérrez, D. P.- Rúbrica.- Guillermo Ibarra, S. P.- Marta Andrade del Rosal, D. S.Carlos Román Celis, S. S.-Rúbricas.
+Artículo reformado DOF 29-12-2014
+Juan Sabines Gutiérrez, D. P.- Rúbrica.- Guillermo Ibarra, S. P.- Marta Andrade del Rosal, D. S.Carlos Román Celis, S. S.-Rúbricas.
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez y ocho días del mes de diciembre de mil novecientos cincuenta y nueve.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.-El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.
 CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1996 DECRETO por el que se reforman y derogan diversas disposiciones de la Ley que establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo.
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 1996
@@ -98,5 +102,5 @@ Se autoriza al Ejecutivo Federal para actualizar la suscripción adicional de ac
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 4 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

@@ -15,7 +15,9 @@ Se expide la Ley Federal de Responsabilidad Ambiental.
 
 ## TÍTULO PRIMERO — De la responsabilidad ambiental
 
+
 ## CAPÍTULO PRIMERO — Disposiciones generales
+
 
 ### Artículo 1o
 .- La presente Ley regula la responsabilidad ambiental que nace de los daños ocasionados al ambiente, así como la reparación y compensación de dichos daños cuando sea exigible a través de los procesos judiciales federales previstos por el artículo 17 constitucional, los mecanismos alternativos de solución de controversias, los procedimientos administrativos y aquellos que correspondan a la comisión de delitos contra el ambiente y la gestión ambiental.
@@ -98,6 +100,7 @@ En términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la P
 Artículo reformado DOF 14-11-2025
 
 ## CAPÍTULO SEGUNDO
+
 Obligaciones derivadas de los daños ocasionados al ambiente
 
 ### Artículo 10
@@ -209,9 +212,11 @@ III. Cuente con la garantía financiera prevista en el artículo 8o. de esta Ley
 La sanción económica que corresponda será impuesta individualmente a cada una de las responsables.
 
 ## CAPÍTULO TERCERO
+
 Procedimiento judicial de responsabilidad ambiental
 
 ## SECCIÓN 1 — De la acción para demandar la responsabilidad ambiental
+
 
 ### Artículo 27
 .- Las personas e instituciones legitimadas conforme al artículo 28 de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Nacional de Procedimientos Civiles y Familiares, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -228,7 +233,8 @@ III. La Federación a través de la procuraduría, y
 
 IV. Las Procuradurías o instituciones que ejerzan funciones de protección ambiental de las entidades federativas y del Distrito Federal en el ámbito de su circunscripción territorial, conjuntamente con la procuraduría.
 Las personas morales referidas en la fracción II de este artículo, deberán acreditar que fueron legalmente constituidas por lo menos tres años antes de la presentación de la demanda por daño ocasionado al ambiente. Asimismo deberán cumplir por los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Los legitimados en las fracciones I y II tendrán además derecho e interés legítimo para reclamar el pago de las erogaciones que hayan hecho para acreditar la responsabilidad ambiental.
+Párrafo reformado DOF 14-11-2025
+Los legitimados en las fracciones I y II tendrán además derecho e interés legítimo para reclamar el pago de las erogaciones que hayan hecho para acreditar la responsabilidad ambiental.
 
 ### Artículo 29
 .- La acción a la que hace referencia el presente Título prescribe en doce años, contados a partir del día en que se produzca el daño al ambiente y sus efectos.
@@ -239,6 +245,7 @@ Salvo en los casos previstos en los artículos 23 y 28 de la presente Ley, ningu
 En ausencia de los anteriores serán competentes para conocer de los procedimientos judiciales de responsabilidad ambiental a que hace referencia el presente Título los jueces de distrito que correspondan según la materia.
 
 ## SECCIÓN 2 — De la tutela anticipada y medidas cautelares
+
 
 ### Artículo 31
 .- La autoridad jurisdiccional que conozca de las acciones y demandas a que hace referencia el presente Capítulo, deberá ordenar a la Secretaría y a la Procuraduría, a efecto de que imponga inmediatamente las medidas preventivas y correctivas procedentes en el ámbito de sus atribuciones.
@@ -258,6 +265,7 @@ Párrafo reformado DOF 14-11-2025
 
 ## SECCIÓN 3 — De los elementos de prueba
 
+
 ### Artículo 34
 .- El órgano jurisdiccional podrá allegarse oficiosamente de los medios de prueba que considere necesarios, sin más limitación que las establecidas en la ley.
 El Juez requerirá a la Secretaría y a la Procuraduría para que aporten todos los elementos periciales, testimoniales, documentales y demás indicios y elementos de prueba con los que cuenten. Los servidores públicos estarán obligados a cumplir con dicha obligación.
@@ -271,6 +279,7 @@ Artículo reformado DOF 14-11-2025
 El nexo de causalidad entre el daño ocasionado y la conducta imputada al demandado debe probarse en la sustanciación del juicio. El juez considerará en su valoración la naturaleza intrínseca de la conducta y la forma en que se ha desarrollado para generar o causar el daño.
 
 ## SECCIÓN 4 — De la sentencia, ejecución y seguimiento
+
 
 ### Artículo 37
 .- Además de lo previsto por el Código Nacional de Procedimientos Civiles y Familiares, la sentencia condenatoria que se dicte deberá precisar:
@@ -358,6 +367,7 @@ Artículo reformado DOF 14-11-2025
 
 ## SECCIÓN 5 — Del Fondo
 
+
 ### Artículo 45
 .- El Fondo de Responsabilidad Ambiental tendrá como objeto el pago de la reparación de los daños que sean ocasionados al ambiente, en los casos que por razones de urgencia o importancia determine la administración pública federal, además del pago de los estudios e investigaciones que el juez requiera realizar a la Secretaría o la Procuraduría durante el proceso jurisdiccional de responsabilidad ambiental.
 La información relativa a la operación del Fondo será pública en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
@@ -374,7 +384,9 @@ El Fondo se sujetará a los procedimientos de control, auditoría, transparencia
 
 ## TÍTULO SEGUNDO
 
+
 ## CAPÍTULO ÚNICO
+
 Mecanismos alternativos de solución de controversias
 
 ### Artículo 47
@@ -402,7 +414,9 @@ El fin de estos mecanismos será lograr la justicia restaurativa, mediante la pa
 
 ## TÍTULO TERCERO
 
+
 ## CAPÍTULO ÚNICO
+
 Responsabilidad penal en materia ambiental
 
 ### Artículo 52
@@ -411,7 +425,8 @@ El Ministerio Público está obligado a solicitar de oficio la reparación y com
 
 ### Artículo 53
 .- El Ejecutivo Federal, el Congreso de la Unión y la Fiscalía General de la República desarrollarán políticas integrales en materia de prevención de daños al ambiente; investigación, persecución, sanción y prevención general y especial de los delitos e infracciones administrativas que los ocasionan, en sus respectivos ámbitos de competencia; así como para la reinserción social de los individuos penal y ambientalmente responsables que induzcan al respeto de las Leyes ambientales y los tratados internacionales de los que México sea parte. Para tal efecto la procuraduría y la Fiscalía General de la República harán públicos los programas respectivos.
-Párrafo reformado DOF 20-05-2021 Estas políticas serán acordes con la formulación y conducción de la política ambiental y se llevarán a cabo en el marco del Sistema Nacional de Seguridad Pública.
+Párrafo reformado DOF 20-05-2021
+Estas políticas serán acordes con la formulación y conducción de la política ambiental y se llevarán a cabo en el marco del Sistema Nacional de Seguridad Pública.
 
 ### Artículo 54
 .- Toda persona que tenga conocimiento de la comisión de un delito contra el ambiente podrá denunciarlo directamente ante el Ministerio Público.
@@ -421,7 +436,8 @@ Todo servidor público está obligado a notificar de manera inmediata al Ministe
 
 ### Artículo 55
 .- Para efectos de lograr la reparación y compensación de los daños ocasionados al ambiente la Procuraduría será coadyuvante del Ministerio Público, en los términos previstos por el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido por sí mismo o a través de su representante legal.
-Párrafo reformado DOF 14-11-2025 La Secretaría y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental.
+Párrafo reformado DOF 14-11-2025
+La Secretaría y la Procuraduría proporcionarán los dictámenes técnicos o periciales que le requiera el Ministerio Público o las autoridades judiciales, con motivo de los procedimientos penales que se inicien por la comisión de delitos contra el ambiente o la gestión ambiental.
 
 ### Artículo 56
 .- Atento a lo dispuesto por el párrafo cuarto del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, se considerará víctima de los delitos contra el ambiente a toda persona habitante de la comunidad posiblemente afectada por el ilícito cuando se constituya como denunciante ante el Ministerio Público.
@@ -441,52 +457,52 @@ Se reforma el primer párrafo del artículo 53 de la Ley Federal de Responsabili
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Cuadragésimo.- Se reforman los artículos 9o.; 27; 28, segundo párrafo; 32, primer y
-**segundo.** párrafos; 35; 37, primer párrafo; 38, primer párrafo; 43; 47, tercer párrafo y 55, primer párrafo, de la Ley Federal de Responsabilidad Ambiental, para quedar como sigue: ………
+**segundo.-** párrafos; 35; 37, primer párrafo; 38, primer párrafo; 43; 47, tercer párrafo y 55, primer párrafo, de la Ley Federal de Responsabilidad Ambiental, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

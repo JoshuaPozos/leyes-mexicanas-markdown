@@ -15,7 +15,9 @@ Se expide la Ley General del Sistema Nacional Anticorrupción.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I
+
 Objeto de la Ley
 
 ### Artículo 1
@@ -78,6 +80,7 @@ XIII. Sistemas Locales: los sistemas anticorrupción de las entidades federativa
 . Son sujetos de la presente Ley, los Entes públicos que integran el Sistema Nacional.
 
 ## Capítulo II
+
 Principios que rigen el servicio público
 
 ### Artículo 5
@@ -86,7 +89,9 @@ Los Entes públicos están obligados a crear y mantener condiciones estructurale
 
 ## TÍTULO SEGUNDO — DEL SISTEMA NACIONAL ANTICORRUPCIÓN
 
+
 ## Capítulo I — Del objeto del Sistema Nacional Anticorrupción
+
 
 ### Artículo 6
 . El Sistema Nacional tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de todos los órdenes de gobierno en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar la política en la materia.
@@ -105,6 +110,7 @@ III. El Comité Rector del Sistema Nacional de Fiscalización, y
 IV. Los Sistemas Locales, quienes concurrirán a través de sus representantes.
 
 ## Capítulo II — Del Comité Coordinador
+
 
 ### Artículo 8
 . El Comité Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Nacional y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas de combate a la corrupción.
@@ -204,6 +210,7 @@ El Sistema Nacional sesionará previa convocatoria del Comité Coordinador en lo
 El Presidente del Comité Coordinador tendrá voto de calidad en caso de empate. Los miembros del Comité Coordinador podrán emitir voto particular de los asuntos que se aprueben en el seno del mismo.
 
 ## Capítulo III — Del Comité de Participación Ciudadana
+
 
 ### Artículo 15
 . El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Nacional.
@@ -316,7 +323,9 @@ IV. Garantizar el seguimiento de los temas de la fracción II.
 
 ## Capítulo IV — De la Secretaría Ejecutiva del Sistema Nacional Anticorrupción
 
+
 ## Sección I — De su organización y funcionamiento
+
 
 ### Artículo 24
 . La Secretaría Ejecutiva del Sistema Nacional es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo que tendrá su sede en la Ciudad de México. Contará con una estructura operativa para la realización de sus atribuciones, objetivos y fines.
@@ -361,6 +370,7 @@ Asimismo, tendrá la atribución indelegable de nombrar y remover, por mayoría 
 
 ## Sección II — De la Comisión Ejecutiva
 
+
 ### Artículo 30
 . La Comisión Ejecutiva estará integrada por:
 
@@ -394,6 +404,7 @@ Por las labores que realicen como miembros de la Comisión Ejecutiva, los integr
 La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador, a través del Secretario Técnico.
 
 ## Sección III — Del Secretario Técnico
+
 
 ### Artículo 33
 . El Secretario Técnico será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
@@ -454,6 +465,7 @@ XII. Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboració
 
 ## Capítulo V — De los Sistemas Locales
 
+
 ### Artículo 36
 . Las leyes de las entidades federativas desarrollarán la integración, atribuciones, funcionamiento de los Sistemas Locales atendiendo a las siguientes bases:
 
@@ -473,7 +485,9 @@ VII. Los integrantes de los consejos de participación ciudadana de las entidade
 
 ## TÍTULO TERCERO — DEL SISTEMA NACIONAL DE FISCALIZACIÓN
 
+
 ## Capítulo Único — De su integración y funcionamiento
+
 
 ### Artículo 37
 . El Sistema Nacional de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias, promoverán el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos. Son integrantes del Sistema Nacional de Fiscalización:
@@ -549,7 +563,9 @@ Corresponderá al Comité Rector del Sistema Nacional de Fiscalización emitir l
 
 ## TÍTULO CUARTO — PLATAFORMA DIGITAL NACIONAL
 
+
 ## Capítulo Único — De la Plataforma Digital Nacional
+
 
 ### Artículo 48
 . El Comité Coordinador emitirá las bases para el funcionamiento de la Plataforma Digital Nacional que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley y la Ley General de Responsabilidades Administrativas, así como para los sujetos de esta Ley, atendiendo a las necesidades de accesibilidad de los usuarios.
@@ -597,7 +613,9 @@ El funcionamiento del sistema de información a que hace alusión el presente ar
 
 ## TÍTULO QUINTO — DE LAS RECOMENDACIONES DEL COMITÉ COORDINADOR
 
+
 ## Capítulo Único — De las recomendaciones
+
 
 ### Artículo 57
 . El Secretario Técnico solicitará a los miembros del Comité Coordinador toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir el Comité Coordinador, incluidos los proyectos de recomendaciones. Asimismo, solicitará a las entidades de fiscalización superior y los Órganos internos de control de los Entes públicos que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Los informes serán integrados al informe anual del Comité Coordinador como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Comité Coordinador.
@@ -618,22 +636,22 @@ ARTÍCULOS SEGUNDO Y TERCERO. ………
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-**Segundo.** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
-**Tercero.** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+**Segundo.-** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+**Tercero.-** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
 El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
 Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos previstas en las leyes federales y locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
 Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
 Con la entrada en vigor de la Ley General de Responsabilidades Administrativas quedarán abrogadas Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
-**Cuarto.** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Cuarto.-** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
 La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes: a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador. b. Un integrante que durará en su encargo dos años. c. Un integrante que durará en su encargo tres años. d. Un integrante que durará en su encargo cuatro años. e. Un integrante que durará en su encargo cinco años.
 Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
 La sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
-**Quinto.** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Quinto.-** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
 El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
 Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
@@ -641,7 +659,7 @@ Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a l
 Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
-**primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+**primero.-** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
@@ -654,37 +672,37 @@ Se reforma la fracción VI del artículo 3; la fracción III del artículo 10; y
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

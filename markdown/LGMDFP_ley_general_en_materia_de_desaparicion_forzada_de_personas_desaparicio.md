@@ -16,7 +16,9 @@ LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMET
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO PRIMERO
+
 
 ### Artículo 1
 . La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional, de conformidad con el mandato establecido en el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos.
@@ -27,7 +29,8 @@ LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMET
 I. Establecer la distribución de competencias y la forma de coordinación entre las autoridades de los distintos órdenes de gobierno, para buscar a las Personas Desaparecidas y No Localizadas, y esclarecer los hechos; así como para prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, así como los delitos vinculados que establece esta Ley;
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS I Bis. Establecer la Alerta Nacional de Búsqueda, Localización e Identificación, ante la Noticia, Reporte o denuncia de Persona Desaparecida o No Localizada, que deberá activarse en todo el país.
 La Comisión Nacional de Búsqueda deberá emitir el Protocolo para la activación de la Alerta, el cual deberá establecer como elementos mínimos, el mecanismo para su activación y operación que asegure la coordinación de las autoridades federales y locales, así como las obligaciones específicas de las instituciones competentes;
-Fracción adicionada DOF 16-07-2025 I Ter. Crear la Base Nacional de Carpetas de Investigación de Personas Desaparecidas y No Localizadas;
+Fracción adicionada DOF 16-07-2025
+I Ter. Crear la Base Nacional de Carpetas de Investigación de Personas Desaparecidas y No Localizadas;
 Fracción adicionada DOF 16-07-2025
 
 II. Establecer los tipos penales en materia de desaparición forzada de personas y desaparición cometida por particulares, y de otros delitos vinculados, sus sanciones, así como las responsabilidades y sanciones en que incurran las autoridades y particulares que incumplan con las obligaciones previstas en esta Ley;
@@ -53,11 +56,16 @@ VII. Establecer la forma de participación de los Familiares en el diseño, impl
 
 I. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que concentra las bases de datos de las Entidades Federativas y de la Federación; así como, PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas;
 I Bis. Autoridades: a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal; los poderes legislativo y judicial, sus respectivos homólogos de las Entidades Federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como los organismos con autonomía constitucional;
-Fracción adicionada DOF 13-05-2022. Reformada DOF 16-07-2025 I Ter. Plataforma Única de Identidad: a la herramienta para la consulta, validación y gestión de las Claves Únicas de Registro de Población, a que se refiere la Ley General de Población;
-Fracción adicionada DOF 16-07-2025 I Quater. Registros Administrativos: a las bases de datos de cualquier Autoridad que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan;
-Fracción adicionada DOF 16-07-2025 I Quinquies. Clave Única de Registro de Población: a la fuente única de identidad de las personas, que permite asociar a una persona con cualquier registro en poder de Autoridades y particulares de cualquier naturaleza, que servirá como mecanismo para el cruce, alerta y consulta de la información de sus bases de datos, para el cumplimiento del objeto de la presente Ley General;
-Fracción adicionada DOF 16-07-2025 I Sexies. Centro Nacional: al Centro Nacional de Identificación Humana adscrito orgánicamente a la Comisión Nacional de Búsqueda;
-Fracción adicionada DOF 16-07-2025 I Septies. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las Fiscalías Especializadas;
+Fracción adicionada DOF 13-05-2022. Reformada DOF 16-07-2025
+I Ter. Plataforma Única de Identidad: a la herramienta para la consulta, validación y gestión de las Claves Únicas de Registro de Población, a que se refiere la Ley General de Población;
+Fracción adicionada DOF 16-07-2025
+I Quater. Registros Administrativos: a las bases de datos de cualquier Autoridad que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan;
+Fracción adicionada DOF 16-07-2025
+I Quinquies. Clave Única de Registro de Población: a la fuente única de identidad de las personas, que permite asociar a una persona con cualquier registro en poder de Autoridades y particulares de cualquier naturaleza, que servirá como mecanismo para el cruce, alerta y consulta de la información de sus bases de datos, para el cumplimiento del objeto de la presente Ley General;
+Fracción adicionada DOF 16-07-2025
+I Sexies. Centro Nacional: al Centro Nacional de Identificación Humana adscrito orgánicamente a la Comisión Nacional de Búsqueda;
+Fracción adicionada DOF 16-07-2025
+I Septies. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las Fiscalías Especializadas;
 Fracción adicionada DOF 16-07-2025
 
 II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a Víctimas;
@@ -72,15 +80,18 @@ VI. Consejo Ciudadano: al Consejo Nacional Ciudadano, órgano del Sistema Nacion
 
 VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición;
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS VII Bis. Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse;
-Fracción adicionada DOF 13-05-2022 VII Ter. Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando información caso por caso;
-Fracción adicionada DOF 13-05-2022 VII Quater. Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
+Fracción adicionada DOF 13-05-2022
+VII Ter. Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando información caso por caso;
+Fracción adicionada DOF 13-05-2022
+VII Quater. Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
 Fracción adicionada DOF 13-05-2022
 
 VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. Familiares: a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
 IX Bis. Familia Social: persona o conjunto de personas cercanas a la Persona Desaparecida o No Localizada que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia de lazos consanguíneos, legales o de parentesco formal, de conformidad con los protocolos vigentes;
-Fracción adicionada DOF 16-07-2025 IX Ter. Nombre Social: es el vocativo por el cual se reconoce, identifica y alude a la persona en sus relaciones personales dentro de los contextos específicos y consiste en el nombre que una persona se autoasigna;
+Fracción adicionada DOF 16-07-2025
+IX Ter. Nombre Social: es el vocativo por el cual se reconoce, identifica y alude a la persona en sus relaciones personales dentro de los contextos específicos y consiste en el nombre que una persona se autoasigna;
 Fracción adicionada DOF 16-07-2025
 
 X. Fiscalía: a la Fiscalía General de la República;
@@ -90,7 +101,8 @@ XI. Fiscalías Especializadas: a la Fiscalía Especializada de la Fiscalía y de
 Fracción reformada DOF 20-05-2021
 
 XII. Grupo de Búsqueda: al grupo de personas especializadas en materia de búsqueda de personas de la Comisión Nacional de Búsqueda, que realizarán la búsqueda de campo, entre otras;
-Fracción reformada DOF 20-05-2021 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Fracción reformada DOF 20-05-2021
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 XIII. Instituciones de Seguridad Pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario, y otras autoridades del Consejo Nacional de Seguridad Pública, encargadas o que realicen funciones de Seguridad Pública en los órdenes federal, local y municipal;
 Fracción reformada DOF 20-05-2021
@@ -165,13 +177,16 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 XII. Presunción de vida: en las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida o No Localizada está con vida, y
 
 XIII. Verdad: el derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en esta Ley, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de los artículos 1o. y 20 de la Constitución Política de los Estados Unidos Mexicanos.
-XIII Bis. Proporcionalidad: consiste en que los Sujetos Obligados sólo deberán tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para la finalidad que justifica su tratamiento, en términos de la presente Ley y conforme a la normatividad aplicable en materia de protección de datos personales, y Fracción adicionada DOF 16-07-2025 XIII Ter. El funcionamiento y operación de la Plataforma Única de Identidad se sujetará, además de los establecidos en las leyes de la materia, a los principios de licitud, proporcionalidad, necesidad, finalidad y responsabilidad en el acceso y uso de la información a que se refiere la presente Ley.
+XIII Bis. Proporcionalidad: consiste en que los Sujetos Obligados sólo deberán tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para la finalidad que justifica su tratamiento, en términos de la presente Ley y conforme a la normatividad aplicable en materia de protección de datos personales, y
+Fracción adicionada DOF 16-07-2025
+XIII Ter. El funcionamiento y operación de la Plataforma Única de Identidad se sujetará, además de los establecidos en las leyes de la materia, a los principios de licitud, proporcionalidad, necesidad, finalidad y responsabilidad en el acceso y uso de la información a que se refiere la presente Ley.
 Fracción adicionada DOF 16-07-2025
 
 ### Artículo 6
 . En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones legislaciones civiles aplicables, así como la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
 ## CAPÍTULO SEGUNDO — DISPOSICIONES GENERALES PARA PERSONAS DESAPARECIDAS MENORES DE 18
+
 AÑOS
 
 ### Artículo 7
@@ -194,6 +209,7 @@ La divulgación que hagan o soliciten las autoridades responsables en medios de 
 . Para el diseño de las acciones, herramientas y el protocolo especializado para la búsqueda e investigación de niñas, niños y adolescentes, el Sistema Nacional tomará en cuenta la opinión de las autoridades del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
 
 ## CAPÍTULO TERCERO — DE LA PLATAFORMA ÚNICA DE IDENTIDAD
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 12
@@ -231,6 +247,7 @@ El acceso de la Fiscalía, las Fiscalías Locales, la Comisión Nacional y las C
 Artículo adicionado DOF 16-07-2025
 
 ## CAPÍTULO CUARTO — DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 12
@@ -263,7 +280,9 @@ Undecies. Los servicios periciales y servicios forenses de la Federación y de l
 Artículo adicionado DOF 16-07-2025
 
 ## CAPÍTULO QUINTO — DE LA FICHA DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN
-Capítulo adicionado DOF 16-07-2025 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+
+Capítulo adicionado DOF 16-07-2025
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ### Artículo 12
 Duodecies. La autoridad competente que reciba una Noticia, Reporte o denuncia por la desaparición o no localización de una persona, la registrará sin dilación alguna en el Registro Nacional y en la Base Nacional de Carpetas de Investigación, y remitirá por los medios disponibles a las Fiscalías Especializadas y Comisiones Locales de Búsqueda una Ficha de Búsqueda, conforme al protocolo de Alerta Nacional de Búsqueda y Localización, debiendo asegurarse de la recepción. En este último supuesto las Fiscalías, de oficio y sin demora, deberán completar el registro en la Base Nacional de Carpetas de Investigación.
@@ -300,7 +319,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## TÍTULO SEGUNDO — DE LOS DELITOS Y DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
+
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
+
 
 ### Artículo 13
 . Los delitos de Desaparición Forzada de Personas y de Desaparición cometida por Particulares serán perseguidos de oficio y tienen el carácter de permanentes o continuos, en tanto la suerte y el paradero de la Persona Desaparecida no se hayan determinado o sus restos no hayan sido localizados y plenamente identificados.
@@ -340,6 +361,7 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ## CAPÍTULO SEGUNDO — DE LA COMPETENCIA DE LOS DELITOS
 
+
 ### Artículo 24
 . La investigación, persecución y sanción de los delitos previstos en esta Ley, corresponderá a las autoridades federales cuando:
 
@@ -362,6 +384,7 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 . La investigación, persecución, procesamiento y sanción de los delitos previstos en esta Ley deberá ser competencia exclusiva de las autoridades federales o estatales del orden civil, aun cuando esté involucrado un servidor público.
 
 ## CAPÍTULO TERCERO — DE LA DESAPARICIÓN FORZADA DE PERSONAS
+
 
 ### Artículo 27
 . Comete el delito de desaparición forzada de personas, el servidor público o el particular que, con la autorización, el apoyo o la aquiescencia de un servidor público, prive de la libertad en cualquier forma a una persona, seguida de la abstención o negativa a reconocer dicha privación de la libertad o a proporcionar la información sobre la misma o su suerte, destino o paradero.
@@ -411,7 +434,8 @@ Fracción reformada DOF 16-07-2025
 II. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización con vida de la Persona Desaparecida, disminuirán hasta en dos terceras partes;
 Fracción reformada DOF 16-07-2025
 
-III. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, disminuirán hasta en una tercera parte, y Fracción reformada DOF 16-07-2025
+III. Si las personas autoras o partícipes proporcionan información efectiva que conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, disminuirán hasta en una tercera parte, y
+Fracción reformada DOF 16-07-2025
 
 IV. Si las personas autoras o partícipes proporcionan información efectiva que permita esclarecer los hechos o identificar a los responsables, disminuirán hasta en una cuarta parte.
 Fracción reformada DOF 16-07-2025
@@ -420,6 +444,7 @@ Fracción reformada DOF 16-07-2025
 Bis. A las personas participantes que no intervinieron directamente en la privación de la libertad ni en la privación de la vida de la víctima y proporcionen información efectiva que permita la localización con vida de la víctima o conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, se les impondrá una pena de ocho a doce años de prisión y multa de tres mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ## CAPÍTULO CUARTO — DE LA DESAPARICIÓN COMETIDA POR PARTICULARES
+
 
 ### Artículo 34
 . Incurre en el delito de desaparición cometida por particulares quien prive de la libertad a una persona con la finalidad de ocultar a la víctima o su suerte o paradero. A quien cometa este delito se le impondrá pena de veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa.
@@ -433,6 +458,7 @@ Asimismo, se impondrá pena de diez a veinte años de prisión a quien, sin habe
 . Las penas aplicables para los delitos establecidos en los artículos 34 y 35 de esta Ley pueden ser determinadas y modificadas conforme a las reglas previstas en los artículos 32 y 33 de esta Ley.
 
 ## CAPÍTULO QUINTO — DE LOS DELITOS VINCULADOS CON LA DESAPARICIÓN DE PERSONAS
+
 
 ### Artículo 37
 . A quien oculte, deseche, incinere, sepulte, inhume, desintegre o destruya, total o parcialmente, restos de un ser humano o el cadáver de una persona, con el fin de ocultar la comisión de un delito, se le impondrá pena de quince a veinte años de prisión y de mil a mil quinientos días multa.
@@ -451,6 +477,7 @@ Asimismo, se impondrá pena de diez a veinte años de prisión a quien, sin habe
 Se aplicarán las mismas penas a quien, dolosamente, utilice los documentos falsificados de una niña o niño a que se refiere el párrafo anterior, con el conocimiento de dicha circunstancia.
 
 ## CAPÍTULO SEXTO — DE LAS RESPONSABILIDADES ADMINISTRATIVAS Y DE LAS INFRACCIONES
+
 Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 42
@@ -467,7 +494,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## TÍTULO TERCERO — DEL SISTEMA NACIONAL
 
+
 ## CAPÍTULO PRIMERO — DEL SISTEMA NACIONAL
+
 
 ### Artículo 44
 . El Sistema Nacional tiene como objetivo diseñar y evaluar de manera eficiente y armónica los recursos del Estado Mexicano para establecer las bases generales, políticas públicas y procedimientos entre las autoridades de todos los órdenes de gobierno para la búsqueda, localización e identificación de Personas Desaparecidas y No Localizadas, así como para la prevención, investigación y sanción de los delitos en materia de esta Ley.
@@ -500,14 +529,19 @@ Fracción reformada DOF 16-07-2025
 IX. La persona que designe la Conferencia Nacional de Procuración de Justicia, en representación de las Fiscalías Locales;
 Fracción reformada DOF 16-07-2025
 
-X. La persona titular de la Secretaría de Seguridad y Protección Ciudadana, y Fracción adicionada DOF 16-07-2025
+X. La persona titular de la Secretaría de Seguridad y Protección Ciudadana, y
+Fracción adicionada DOF 16-07-2025
 
 XI. La persona titular de la Comisión Ejecutiva de Atención a Víctimas.
-Fracción adicionada DOF 16-07-2025 Las personas integrantes del Sistema Nacional deben nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico inmediato inferior. Para el caso de la Fiscalía General de la República, se deberá atender a lo que se señala en la Ley de la Fiscalía General de la República. Para el caso de las fracciones VI y IX, el suplente será designado por los propios órganos a los que se refieren las citadas fracciones.
-Párrafo reformado DOF 20-05-2021 Las personas integrantes e invitados del Sistema Nacional no recibirán pago alguno por su participación en el mismo.
+Fracción adicionada DOF 16-07-2025
+Las personas integrantes del Sistema Nacional deben nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico inmediato inferior. Para el caso de la Fiscalía General de la República, se deberá atender a lo que se señala en la Ley de la Fiscalía General de la República. Para el caso de las fracciones VI y IX, el suplente será designado por los propios órganos a los que se refieren las citadas fracciones.
+Párrafo reformado DOF 20-05-2021
+Las personas integrantes e invitados del Sistema Nacional no recibirán pago alguno por su participación en el mismo.
 Son autoridades invitadas permanentes con derecho a voz, pero sin voto, las personas titulares de las Fiscalías Locales, en su carácter de órganos constitucionales autónomos.
-Párrafo adicionado DOF 16-07-2025 La persona que preside el Sistema Nacional podrá invitar a las sesiones respectivas a cualquier otra Autoridad u organismo nacional o internacional, según la naturaleza de los asuntos a tratar, quien intervendrá con voz, pero sin voto.
-Párrafo reformado DOF 20-05-2021, 16-07-2025 Las instancias y las personas que integran el Sistema Nacional están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano, sin que esto implique subordinación alguna y en pleno respeto a las facultades y a la autonomía otorgadas por la Constitución y las leyes a cada institución.
+Párrafo adicionado DOF 16-07-2025
+La persona que preside el Sistema Nacional podrá invitar a las sesiones respectivas a cualquier otra Autoridad u organismo nacional o internacional, según la naturaleza de los asuntos a tratar, quien intervendrá con voz, pero sin voto.
+Párrafo reformado DOF 20-05-2021, 16-07-2025
+Las instancias y las personas que integran el Sistema Nacional están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano, sin que esto implique subordinación alguna y en pleno respeto a las facultades y a la autonomía otorgadas por la Constitución y las leyes a cada institución.
 Párrafo reformado DOF 20-05-2021
 
 ### Artículo 46
@@ -515,7 +549,8 @@ Párrafo reformado DOF 20-05-2021
 
 ### Artículo 47
 . Las sesiones del Sistema Nacional deben celebrarse de manera ordinaria, por lo menos, cada seis meses por convocatoria de la Secretaría Ejecutiva del Sistema Nacional, por instrucción de la persona que lo presida, y de manera extraordinaria cuantas veces sea necesario a propuesta de un tercio de sus integrantes.
-Párrafo reformado DOF 16-07-2025 Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.
+Párrafo reformado DOF 16-07-2025
+Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ### Artículo 48
@@ -536,7 +571,9 @@ VI Bis. El Centro Nacional;
 Fracción adicionada DOF 13-05-2022
 
 VII. El Protocolo Homologado de Búsqueda y los protocolos previstos en el artículo 73 de esta Ley;
-Fracción reformada DOF 16-07-2025 VII Bis. La Base Nacional de Carpetas de Investigación, y Fracción adicionada DOF 16-07-2025
+Fracción reformada DOF 16-07-2025
+VII Bis. La Base Nacional de Carpetas de Investigación, y
+Fracción adicionada DOF 16-07-2025
 
 VIII. Otros registros necesarios para su operación en términos de lo que prevé esta Ley.
 
@@ -582,9 +619,11 @@ XVII. Las demás que se requieran para el cumplimiento de los objetivos de esta 
 
 ## CAPÍTULO SEGUNDO — DE LA COMISIÓN NACIONAL DE BÚSQUEDA
 
+
 ### Artículo 50
 . La Comisión Nacional de Búsqueda es un órgano administrativo desconcentrado de la Secretaría de Gobernación, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio nacional. Esto incluye, además de la búsqueda en vida, la búsqueda forense con fines de identificación de cuerpos y restos humanos desde la perspectiva individualizada o generalizada a través de un enfoque masivo o a gran escala o, en su caso, de identificación humana complementario y de la operación de un Centro Nacional con competencia en todo el territorio nacional, el cual debe interconectarse y compartir la información con el resto de las herramientas precisadas en el artículo 48 de la presente Ley y demás disposiciones jurídicas aplicables.
-Párrafo reformado DOF 13-05-2022 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Nacional de Búsqueda para el cumplimiento de esta Ley.
+Párrafo reformado DOF 13-05-2022
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión Nacional de Búsqueda para el cumplimiento de esta Ley.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Cada Entidad Federativa debe crear una Comisión Local de Búsqueda, la cual debe coordinarse con la Comisión Nacional de Búsqueda y realizar, en el ámbito de sus competencias, funciones análogas a las previstas en esta Ley para la Comisión Nacional de Búsqueda.
 
 ### Artículo 51
@@ -649,7 +688,8 @@ XIII. Acceder sin restricciones a la información contenida en plataformas, base
 XIV. Emitir los lineamientos para acceder a la información a que se refiere la fracción anterior;
 
 XV. Solicitar la participación de la Guardia Nacional en acciones específicas de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas;
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Fracción reformada DOF 16-07-2025
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Fracción reformada DOF 16-07-2025
 
 XVI. Solicitar la colaboración de los tres órdenes de gobierno y otras instancias, para la búsqueda y localización de Personas Desaparecidas o No Localizadas;
 
@@ -673,13 +713,20 @@ XXV. Evaluar las políticas y estrategias para la búsqueda y localización de P
 
 XXVI. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones federales y Entidades Federativas;
 XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda forense con fines de identificación humana en coadyuvancia con las Comisiones Locales de Búsqueda, la Fiscalía, las Fiscalías Especializadas y las instituciones que presten servicios forenses y otras instancias creadas con el fin de contribuir a la identificación humana dentro del Sistema Nacional;
-Fracción adicionada DOF 13-05-2022 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético;
-Fracción adicionada DOF 13-05-2022 XXVI Quater. Resguardar, a través del Centro Nacional, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
-Fracción adicionada DOF 13-05-2022 XXVI Quinquies. Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública;
-Fracción adicionada DOF 13-05-2022 XXVI Sexies. Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel nacional, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia;
-Fracción adicionada DOF 13-05-2022 XXVI Septies. Emitir los lineamientos que regulen el procesamiento de la información proporcionada por la Fiscalía, las Fiscalías y demás autoridades competentes;
-Fracción adicionada DOF 13-05-2022 XXVI Octies. Coordinar la operación del Centro Nacional en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
-Fracción adicionada DOF 13-05-2022 XXVI Nonies. Inspeccionar centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar;
+Fracción adicionada DOF 13-05-2022
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético;
+Fracción adicionada DOF 13-05-2022
+XXVI Quater. Resguardar, a través del Centro Nacional, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
+Fracción adicionada DOF 13-05-2022
+XXVI Quinquies. Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública;
+Fracción adicionada DOF 13-05-2022
+XXVI Sexies. Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel nacional, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia;
+Fracción adicionada DOF 13-05-2022
+XXVI Septies. Emitir los lineamientos que regulen el procesamiento de la información proporcionada por la Fiscalía, las Fiscalías y demás autoridades competentes;
+Fracción adicionada DOF 13-05-2022
+XXVI Octies. Coordinar la operación del Centro Nacional en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+Fracción adicionada DOF 13-05-2022
+XXVI Nonies. Inspeccionar centros de resguardo, cementerios, fosas comunes y todo sitio en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar;
 Fracción adicionada DOF 13-05-2022
 
 XXVII. Celebrar, de conformidad con las disposiciones aplicables, convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de los objetivos del Sistema Nacional, así como de sus atribuciones;
@@ -788,6 +835,7 @@ IV. La estructura administrativa necesaria para el cumplimiento de sus funciones
 
 ## CAPÍTULO TERCERO — DEL CONSEJO NACIONAL CIUDADANO
 
+
 ### Artículo 59
 . El Consejo Ciudadano es un órgano ciudadano de consulta del Sistema Nacional, en materia de búsqueda de personas.
 
@@ -800,14 +848,19 @@ II. Cuatro especialistas de reconocido prestigio en la protección y defensa de 
 
 III. Cuatro representantes de organizaciones de la sociedad civil de derechos humanos.
 Las personas integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Senado de la República previa consulta pública con las organizaciones de Familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de Víctimas y de las personas expertas en las materias de esta Ley, garantizando en todo momento el principio de paridad de género.
-Párrafo reformado DOF 28-04-2022 La duración de su función será de tres años, sin posibilidad de reelección, y no deberán desempeñar ningún cargo como servidor público.
+Párrafo reformado DOF 28-04-2022
+La duración de su función será de tres años, sin posibilidad de reelección, y no deberán desempeñar ningún cargo como servidor público.
 
 ### Artículo 61
 . Quienes integren el Consejo Ciudadano ejercerán su función en forma honorífica, y no deben recibir emolumento o contraprestación económica alguna por su desempeño.
-Párrafo reformado DOF 28-04-2022 Quienes integren el Consejo Ciudadano deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año.
-Párrafo reformado DOF 28-04-2022 El Consejo Ciudadano emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a la persona titular de la Secretaría Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
-Párrafo reformado DOF 28-04-2022 Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a quienes integren el Sistema Nacional, y podrán ser consideradas para la toma de decisiones. Quien formando parte del Sistema Nacional determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
-Párrafo reformado DOF 28-04-2022 La Secretaría de Gobernación proveerá al Consejo Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones.
+Párrafo reformado DOF 28-04-2022
+Quienes integren el Consejo Ciudadano deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año.
+Párrafo reformado DOF 28-04-2022
+El Consejo Ciudadano emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a la persona titular de la Secretaría Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
+Párrafo reformado DOF 28-04-2022
+Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a quienes integren el Sistema Nacional, y podrán ser consideradas para la toma de decisiones. Quien formando parte del Sistema Nacional determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
+Párrafo reformado DOF 28-04-2022
+La Secretaría de Gobernación proveerá al Consejo Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones.
 
 ### Artículo 62
 . El Consejo Ciudadano tiene las funciones siguientes:
@@ -855,6 +908,7 @@ V. Las demás que determine el Consejo Nacional Ciudadano, en el marco de sus at
 
 ## CAPÍTULO CUARTO — DE LOS GRUPOS DE BÚSQUEDA
 
+
 ### Artículo 65
 . La Comisión Nacional de Búsqueda contará con Grupos de Búsqueda integrados por servidores públicos especializados en la búsqueda de personas.
 Con independencia de lo anterior, la Comisión Nacional de Búsqueda podrá auxiliarse por personas especializadas en búsqueda de personas, así como por cuerpos policiales especializados que colaboren con las autoridades competentes, en términos de las disposiciones aplicables.
@@ -876,9 +930,11 @@ El personal al que se refiere el párrafo anterior, además de cumplir con la ce
 
 ## CAPÍTULO QUINTO — DE LAS FISCALÍAS ESPECIALIZADAS
 
+
 ### Artículo 68
 . La Fiscalía y las Fiscalías y Procuradurías Locales deben contar con Fiscalías Especializadas para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, las que deberán coordinarse y dar impulso permanente a la búsqueda de Personas Desaparecidas.
-Párrafo reformado DOF 20-05-2021 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Las Fiscalías Especializadas a que se refiere el párrafo primero de este artículo deben contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, así como con:
+Párrafo reformado DOF 20-05-2021
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Las Fiscalías Especializadas a que se refiere el párrafo primero de este artículo deben contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, así como con:
 
 I. Unidades especializadas de investigación;
 
@@ -890,14 +946,16 @@ IV. Unidades de búsqueda inmediata y de larga data, y
 
 V. Áreas especializadas en delitos cibernéticos.
 Párrafo con fracciones reformado DOF 16-07-2025 Las Fiscalías Especializadas a que se refiere el presente artículo deberán contar con personal sustantivo ministerial, policial, pericial, así como de análisis de contexto y de apoyo psicosocial, quienes deberán cumplir con los perfiles establecidos por la Conferencia Nacional de Procuración de Justicia.
-Párrafo adicionado DOF 16-07-2025 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con las Fiscalías Especializadas para el cumplimiento de la Ley.
+Párrafo adicionado DOF 16-07-2025
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con las Fiscalías Especializadas para el cumplimiento de la Ley.
 
 ### Artículo 69
 . Los servidores públicos que integren las Fiscalías Especializadas deberán cumplir, como mínimo, los siguientes requisitos:
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública;
 
-II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia, la Ley General del Sistema Nacional de Seguridad Pública, y deberá de ser acorde a los objetivos señalados en el artículo anterior, y Fracción reformada DOF 16-07-2025
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia, la Ley General del Sistema Nacional de Seguridad Pública, y deberá de ser acorde a los objetivos señalados en el artículo anterior, y
+Fracción reformada DOF 16-07-2025
 
 III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 La Fiscalía, así como las Fiscalías y Procuradurías Locales deben capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a las Fiscalías Especializadas en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las Víctimas, sensibilización y relevancia específica de la Desaparición de Personas, aplicación del Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de esta Ley.
@@ -908,14 +966,16 @@ Párrafo reformado DOF 20-05-2021
 Párrafo reformado DOF 20-05-2021, 16-07-2025
 
 I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de esta Ley, iniciar la carpeta de investigación correspondiente y ordenar las diligencias o actos de investigación que correspondan en el ámbito de su competencia;
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Fracción reformada DOF 16-07-2025
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Fracción reformada DOF 16-07-2025
 
 II. Mantener coordinación con la Comisión Nacional de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de esta Ley, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
 III. Dar aviso de manera inmediata, a través del Registro Nacional, a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos materia de esta Ley, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 III Bis. Proporcionar a la Comisión Nacional de Búsqueda la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión;
 Asimismo, la información que proporcione la Comisión Nacional de Búsqueda a la Fiscalía con fines de la búsqueda, localización e identificación humana, deberá cumplir con la formalidad que establece la normativa relativa a la cadena de custodia, previa habilitación que realice la Agencia del Ministerio Público que corresponda;
-Párrafo adicionado DOF 16-07-2025 Fracción adicionada DOF 13-05-2022
+Párrafo adicionado DOF 16-07-2025
+Fracción adicionada DOF 13-05-2022
 
 IV. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
@@ -967,7 +1027,9 @@ XXIV. Proporcionar asistencia técnica a las Fiscalías Especializadas de las En
 Fracción reformada DOF 16-07-2025
 
 XXV. Registrar y actualizar de manera inmediata, la información de los registros, bases de datos y sistemas de información, desde el momento en que se inicie la investigación;
-Fracción adicionada DOF 16-07-2025 XXV Bis. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación, y Fracción adicionada DOF 16-07-2025
+Fracción adicionada DOF 16-07-2025
+XXV Bis. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación, y
+Fracción adicionada DOF 16-07-2025
 
 XXVI. Las demás que establezcan otras disposiciones jurídicas aplicables.
 Fracción recorrida DOF 16-07-2025
@@ -1048,7 +1110,9 @@ Artículo reformado DOF 20-05-2021
 
 ## CAPÍTULO SEXTO — DE LA BÚSQUEDA DE PERSONAS
 
+
 ## SECCIÓN PRIMERA — DE LA SOLICITUD DE BÚSQUEDA
+
 
 ### Artículo 79
 . La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados.
@@ -1067,7 +1131,8 @@ III. Denuncia.
 La Noticia, el Reporte o la Denuncia pueden realizarse en forma anónima.
 Tratándose de Denuncia, no será necesaria su ratificación. Tanto la búsqueda como la investigación se llevarán a cabo sin dilación.
 La autoridad que reciba una Noticia, Reporte o denuncia deberá informar inmediatamente a la Fiscalía Especializada competente, la que iniciará sin dilación alguna la investigación y asignará el número de carpeta correspondiente. La omisión de iniciar la investigación correspondiente y/o de iniciar el reporte de desaparición pertinente, se sancionará de acuerdo con las disposiciones de esta Ley.
-Párrafo adicionado DOF 16-07-2025 Ningún protocolo establecerá plazos de espera para iniciar la investigación.
+Párrafo adicionado DOF 16-07-2025
+Ningún protocolo establecerá plazos de espera para iniciar la investigación.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 81
@@ -1079,7 +1144,8 @@ II. Medios Digitales;
 
 III. Presencial, ante la Comisión Nacional de Búsqueda, las Comisiones Locales de Búsqueda y el Ministerio Público;
 
-IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, las cuales deberán remitir sin dilación el Reporte a la Comisión Nacional de Búsqueda, a la Unidad de Investigación de Delitos para Personas Migrantes de la Fiscalía y a la Fiscalía Especializada que corresponda, o Fracción reformada DOF 20-05-2021
+IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, las cuales deberán remitir sin dilación el Reporte a la Comisión Nacional de Búsqueda, a la Unidad de Investigación de Delitos para Personas Migrantes de la Fiscalía y a la Fiscalía Especializada que corresponda, o
+Fracción reformada DOF 20-05-2021
 
 V. El Sistema Nacional, mediante acuerdo publicado en el Diario Oficial de la Federación, puede establecer medios adicionales a los previstos en este artículo para recibir Reportes.
 Cuando la distancia o los medios de comunicación no permitan realizar el Reporte en términos de las fracciones anteriores, este puede realizarse ante la policía o la autoridad municipal que el Ayuntamiento designe para tal efecto y que cuente con la capacitación para aplicar el protocolo de búsqueda correspondiente.
@@ -1144,7 +1210,8 @@ Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 89
 . Cuando la Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente tenga Noticia o Reporte de una Persona Desaparecida o No Localizada, iniciará la búsqueda de inmediato e informará sin dilación a la fiscalía competente.
-Párrafo reformado DOF 16-07-2025 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Asimismo, informará sin dilación a la Fiscalía Especializada competente cuando considere que la desaparición de la persona se debe a la comisión de un delito.
+Párrafo reformado DOF 16-07-2025
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Asimismo, informará sin dilación a la Fiscalía Especializada competente cuando considere que la desaparición de la persona se debe a la comisión de un delito.
 En todos los casos, la Unidad de Gestión podrá solicitar constituirse como coadyuvante en los procesos que se sigan por los delitos de Desaparición Forzada de Personas y de Desaparición cometida por Particulares.
 Reforma DOF 16-07-2025: Derogó del artículo el entonces párrafo tercero
 
@@ -1221,6 +1288,7 @@ VI. Actualizar el Registro Nacional que corresponda en términos del artículo 1
 El servidor público que incumpla con lo dispuesto en el párrafo anterior, será sancionado conforme a la normativa correspondiente.
 
 ## SECCIÓN SEGUNDA — DE LOS PROTOCOLOS
+
 
 ### Artículo 99
 . La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente y las Fiscalías Especializadas, de conformidad con las atribuciones que le confiere esta Ley, deberán realizar las acciones de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas; así como de investigación y persecución de los delitos materia de esta Ley, conforme a los protocolos correspondientes.
@@ -1307,7 +1375,9 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ## CAPÍTULO SÉPTIMO — DE LOS REGISTROS
 
+
 ## SECCIÓN PRIMERA — DEL REGISTRO NACIONAL DE PERSONAS DESAPARECIDAS O NO LOCALIZADAS
+
 
 ### Artículo 102
 . El Registro Nacional es una herramienta de búsqueda e identificación que organiza y concentra la información sobre Personas Desaparecidas y No Localizadas, con el objeto de proporcionar apoyo en las investigaciones para su búsqueda, localización e identificación.
@@ -1403,7 +1473,8 @@ Asimismo, se deben incorporar toda la información novedosa que resulte de las d
 
 ### Artículo 107
 . Los datos obtenidos inicialmente a través de la Denuncia, Reporte o Noticia deberán asentarse en el Registro Nacional de manera inmediata y actualizarse en tiempo real.
-Párrafo reformado DOF 16-07-2025 Los datos e información que no puedan ser asentados de forma inmediata o que por su naturaleza requieran de un procedimiento para su obtención previsto en los protocolos a que se refiere esta Ley, deberán ser recabados por personal debidamente capacitado. Asimismo, se deberán llevar a cabo una o más entrevistas con Familiares de la Persona Desaparecida o No Localizada, o con otras personas, de conformidad con el protocolo homologado que corresponda, con el fin de obtener la información detallada sobre la persona. Una vez que se recabe la información deberá incorporarse inmediatamente al Registro Nacional.
+Párrafo reformado DOF 16-07-2025
+Los datos e información que no puedan ser asentados de forma inmediata o que por su naturaleza requieran de un procedimiento para su obtención previsto en los protocolos a que se refiere esta Ley, deberán ser recabados por personal debidamente capacitado. Asimismo, se deberán llevar a cabo una o más entrevistas con Familiares de la Persona Desaparecida o No Localizada, o con otras personas, de conformidad con el protocolo homologado que corresponda, con el fin de obtener la información detallada sobre la persona. Una vez que se recabe la información deberá incorporarse inmediatamente al Registro Nacional.
 El personal que lleve a cabo las entrevistas para la obtención de datos forenses deberá ser capacitado en atención psicosocial.
 En ningún caso podrá negarse la recepción de una denuncia por desaparición.
 Párrafo reformado DOF 16-07-2025
@@ -1437,14 +1508,17 @@ III. Registros con datos insuficientes para su búsqueda o identificación, pend
 Artículo reformado DOF 16-07-2025
 
 ## SECCIÓN SEGUNDA — DEL REGISTRO NACIONAL DE PERSONAS FALLECIDAS NO IDENTIFICADAS Y NO
+
 RECLAMADAS
 
 ### Artículo 111
 . El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas se encuentra a cargo de la Fiscalía, formará parte del Banco Nacional de Datos Forenses y contiene información sobre los datos forenses de los cadáveres o restos de personas no identificadas y no reclamadas, del lugar del hallazgo, el lugar de inhumación o destino final y demás información relevante para su posterior identificación.
-Párrafo reformado DOF 20-05-2021 El Registro Nacional de Personas Fallecidas y No Identificadas se integra con la información proporcionada por las autoridades competentes, la Federación y las Entidades Federativas.
+Párrafo reformado DOF 20-05-2021
+El Registro Nacional de Personas Fallecidas y No Identificadas se integra con la información proporcionada por las autoridades competentes, la Federación y las Entidades Federativas.
 El objetivo de este Registro Nacional es el de concentrar la información que permita la identificación de las personas fallecidas no identificadas y apoyar en la localización de los Familiares de personas fallecidas no reclamadas.
 La Fiscalía emitirá los lineamientos para que las autoridades de los distintos órdenes de gobierno remitan dicha información de forma homologada.
-Párrafo reformado DOF 20-05-2021 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Párrafo reformado DOF 20-05-2021
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ### Artículo 112
 . El Registro Nacional de Personas Fallecidas y No Identificadas deberá contener como mínimo, los siguientes campos:
@@ -1473,7 +1547,9 @@ Una vez realizada la identificación positiva, la notificación a las familias y
 
 ### Artículo 113
 . El Registro Nacional de Personas Fallecidas y No Identificadas es una herramienta de búsqueda e identificación. La información contenida se actualiza en tiempo real por parte de los servicios periciales o los servicios médicos forenses de la Federación y las Entidades Federativas, en cuanto se recabe la información, de conformidad con los lineamientos que emita la Fiscalía y la Secretaría de Salud o en su caso, el protocolo que corresponda.
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Párrafo reformado DOF 20-05-2021 Para cumplir con sus obligaciones de búsqueda, la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda pueden consultar en cualquier momento este registro.
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Párrafo reformado DOF 20-05-2021
+Para cumplir con sus obligaciones de búsqueda, la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda pueden consultar en cualquier momento este registro.
 
 ### Artículo 114
 . El personal de servicios periciales y servicios médicos forenses deberá estar permanentemente capacitado y actualizado de conformidad con el protocolo que corresponda.
@@ -1492,14 +1568,19 @@ PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Párrafo reformado 
 
 ## SECCIÓN TERCERA — DEL BANCO NACIONAL DE DATOS FORENSES
 
+
 ### Artículo 119
 . El Banco Nacional de Datos Forenses está a cargo de la Fiscalía y que tiene por objeto concentrar la información relevante para la búsqueda e identificación de Personas Desaparecidas, así como para la investigación de los delitos materia de esta Ley.
-Párrafo reformado DOF 20-05-2021 El Banco Nacional de Datos Forenses se conforma con las bases de datos de los registros forenses de la Federación, de las Entidades Federativas, sus Poderes Judiciales, incluidos los de información genética, servicios periciales y forenses, los cuales deben estar interconectados en tiempo real. El incumplimiento de la actualización dará lugar a las responsabilidades administrativas correspondientes.
-Párrafo reformado DOF 16-07-2025 El Banco Nacional de Datos Forenses debe estar interconectado con las herramientas de búsqueda e identificación previstas en esta Ley que conforman el Sistema Nacional y ser actualizado en tiempo real, mediante personal designado y capacitado para ello.
+Párrafo reformado DOF 20-05-2021
+El Banco Nacional de Datos Forenses se conforma con las bases de datos de los registros forenses de la Federación, de las Entidades Federativas, sus Poderes Judiciales, incluidos los de información genética, servicios periciales y forenses, los cuales deben estar interconectados en tiempo real. El incumplimiento de la actualización dará lugar a las responsabilidades administrativas correspondientes.
+Párrafo reformado DOF 16-07-2025
+El Banco Nacional de Datos Forenses debe estar interconectado con las herramientas de búsqueda e identificación previstas en esta Ley que conforman el Sistema Nacional y ser actualizado en tiempo real, mediante personal designado y capacitado para ello.
 La información deberá ser recabada de conformidad con los protocolos correspondientes.
 El Banco Nacional de Datos Forenses deberá realizar cruces de información de manera permanente y continua con el Registro Nacional y el Registro Nacional de Personas Fallecidas y No Identificadas. Así como, con otros registros que no forman parte del Sistema Nacional que contengan información forense relevante para la búsqueda de personas.
 La Fiscalía emitirá los lineamientos para que las autoridades de los distintos órdenes de gobierno remitan dicha información de forma homologada. Estos lineamientos se elaborarán considerando la opinión de autoridades competentes y expertos en la materia y de acuerdo a estándares internacionales.
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Párrafo reformado DOF 20-05-2021 La Fiscalía, las Fiscalías Locales, los Tribunales Superiores de Justicia y cualquier autoridad que tenga a su cargo los servicios periciales y forenses están obligados a interconectar sus bases de datos, registros o sistemas con el Banco Nacional de Datos Forenses y mantenerlas actualizadas; asimismo, deberán proporcionar la información que les sea requerida por la Fiscalía para su adecuada operación.
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Párrafo reformado DOF 20-05-2021
+La Fiscalía, las Fiscalías Locales, los Tribunales Superiores de Justicia y cualquier autoridad que tenga a su cargo los servicios periciales y forenses están obligados a interconectar sus bases de datos, registros o sistemas con el Banco Nacional de Datos Forenses y mantenerlas actualizadas; asimismo, deberán proporcionar la información que les sea requerida por la Fiscalía para su adecuada operación.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 120
@@ -1536,7 +1617,8 @@ Las muestras para análisis pericial y su subsecuente incorporación al registro
 ### Artículo 126
 . La información contenida en los registros forenses a que se refiere esta Sección puede ser confrontada con la información que esté en poder de otras autoridades e instituciones, nacionales o extranjeras, así como otros bancos forenses que puedan ser útiles para identificar a una persona.
 La Fiscalía, así como las Fiscalías y Procuradurías Locales deben establecer los mecanismos de colaboración necesarios para cumplir con lo dispuesto en el párrafo anterior. Asimismo, podrán coordinarse con las autoridades de otros países que posean bases de datos, prioritariamente con aquellos países que tengan frontera o flujo migratorio relevante con México.
-Párrafo reformado DOF 20-05-2021 Cuando se trate de personas migrantes desaparecidas en México, se estará a lo que establecen las disposiciones legales aplicables.
+Párrafo reformado DOF 20-05-2021
+Cuando se trate de personas migrantes desaparecidas en México, se estará a lo que establecen las disposiciones legales aplicables.
 
 ### Artículo 127
 . Los datos personales contenidos en el Banco Nacional de Datos Forenses deberán ser tratados de acuerdo con las disposiciones jurídicas aplicables en materia de transparencia y protección de datos personales.
@@ -1545,20 +1627,26 @@ Una vez identificada la Persona Desaparecida o No Localizada, los titulares de l
 
 ## SECCIÓN CUARTA — DE LA DISPOSICIÓN DE CADÁVERES DE PERSONAS
 
+
 ### Artículo 128
 . Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias.
 La Fiscalía y las Fiscalías Locales y otras autoridades que tengan a su cargo servicios forenses deben tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas.
-PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Párrafo reformado DOF 20-05-2021, 16-07-2025 Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el agente del Ministerio Público competente podrá autorizar que los Familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes de conformidad con el Código Nacional de Procedimientos Penales.
-Párrafo reformado DOF 16-07-2025 En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezca la Secretaría de Salud.
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Párrafo reformado DOF 20-05-2021, 16-07-2025
+Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el agente del Ministerio Público competente podrá autorizar que los Familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes de conformidad con el Código Nacional de Procedimientos Penales.
+Párrafo reformado DOF 16-07-2025
+En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezca la Secretaría de Salud.
 
 ### Artículo 129
 . Las autoridades correspondientes deben recabar, ingresar y actualizar las muestras necesarias para ingresar los datos al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas con el propósito de la identificación de un cadáver o resto humano antes de inhumarlo, a partir de los procedimientos establecidos por el protocolo homologado aplicable que deberá integrar las diversas ciencias y disciplinas que se utilizan para la identificación forense.
-Párrafo reformado DOF 16-07-2025 Una vez recabadas las muestras a que se refiere el párrafo anterior, el Agente del Ministerio Público de la Federación podrá autorizar la inhumación de un cadáver o resto humano no identificado. En el caso de inhumación, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
+Párrafo reformado DOF 16-07-2025
+Una vez recabadas las muestras a que se refiere el párrafo anterior, el Agente del Ministerio Público de la Federación podrá autorizar la inhumación de un cadáver o resto humano no identificado. En el caso de inhumación, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
 
 ### Artículo 130
 . Para efectos de lo dispuesto en esta Sección, la Conferencia Nacional de Procuración de Justicia y la Secretaría de Salud, determinarán las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas, mediante lineamientos conforme a los más altos estándares internacionales que deberán publicar en el Diario Oficial de la Federación.
 
 ## SECCIÓN QUINTA — DE LAS HERRAMIENTAS TECNOLÓGICAS
+
 
 ### Artículo 131
 . Las bases y los registros a que se refiere esta Ley deben estar diseñados de tal forma que:
@@ -1567,7 +1655,8 @@ I. No exista duplicidad de registros;
 
 II. Permitan utilizar en la búsqueda y en la investigación de los delitos, las herramientas de análisis de contexto, con enfoque transnacional, a fin de determinar patrones de criminalidad, modo de operación, mapas criminológicos, estructura y actividad de grupos de delincuencia organizada, entre otros;
 
-III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del artículo 53 de esta Ley, y Fracción reformada DOF 20-05-2021
+III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del artículo 53 de esta Ley, y
+Fracción reformada DOF 20-05-2021
 
 IV. Permitan su actualización permanente por parte de las Fiscalías Especializadas y demás autoridades competentes, en términos de lo previsto en esta Ley.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
@@ -1593,12 +1682,14 @@ Párrafo reformado DOF 20-05-2021
 I. El Registro Nacional de Detenciones, previsto en la Ley Nacional del Registro de Detenciones;
 Fracción reformada DOF 16-07-2025
 
-II. El Registro Nacional de Fosas, el cual deberá contar con la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía, así como las Fiscalías Locales localicen, y Fracción reformada DOF 20-05-2021, 16-07-2025
+II. El Registro Nacional de Fosas, el cual deberá contar con la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía, así como las Fiscalías Locales localicen, y
+Fracción reformada DOF 20-05-2021, 16-07-2025
 
 III. Bases de datos de indicios criminalísticos que incluya exclusivamente información fotográfica y de ubicación de indicios relacionados con investigaciones, en particular lugares clandestinos de inhumación, casas de seguridad, entre otros, que permita hacer un cotejo forense con información tecnológica y de inteligencia artificial.
 Fracción adicionada DOF 16-07-2025
 
 ## CAPÍTULO OCTAVO — DEL PROGRAMA NACIONAL DE BÚSQUEDA Y DEL PROGRAMA NACIONAL DE
+
 EXHUMACIONES
 
 ### Artículo 134
@@ -1674,7 +1765,9 @@ Párrafo reformado DOF 20-05-2021
 
 ## TÍTULO CUARTO — DE LOS DERECHOS DE LAS VÍCTIMAS
 
+
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
+
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 ### Artículo 136
@@ -1728,6 +1821,7 @@ XII. Acceder a los programas y servicios especializados que las autoridades comp
 
 ## CAPÍTULO SEGUNDO — DE LAS MEDIDAS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
+
 ### Artículo 139
 . Los Familiares, a partir del momento en que tengan conocimiento de la desaparición, y lo hagan del conocimiento de la autoridad competente, pueden solicitar y tienen derecho a recibir de inmediato y sin restricción alguna, las medidas de ayuda, asistencia y atención previstas en los Títulos Segundo, Tercero y Cuarto de la Ley General de Víctimas.
 
@@ -1739,6 +1833,7 @@ La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar las medi
 . Cuando durante la búsqueda o investigación exista un cambio de fuero, las Víctimas deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión de Atención a Víctimas que le atiende al momento del cambio, en tanto se establece el mecanismo de atención a Víctimas del fuero que corresponda.
 
 ## CAPÍTULO TERCERO — DE LA DECLARACIÓN ESPECIAL DE AUSENCIA
+
 
 ### Artículo 142
 . Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, que emita la Declaración Especial de Ausencia en términos de lo dispuesto en esta Ley y las leyes aplicables.
@@ -1804,6 +1899,7 @@ Si la persona declarada ausente es encontrada sin vida, sus Familiares pueden so
 
 ## CAPÍTULO CUARTO — DE LAS MEDIDAS DE REPARACIÓN INTEGRAL A LAS VÍCTIMAS
 
+
 ### Artículo 150
 . Las Víctimas de los delitos establecidos en la presente Ley tienen derecho a ser reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica, en términos de la Ley General de Víctimas.
 El derecho para que la víctima solicite la reparación integral es imprescriptible.
@@ -1836,6 +1932,7 @@ Artículo adicionado DOF 16-07-2025
 
 ## CAPÍTULO QUINTO — DE LA PROTECCIÓN DE PERSONAS
 
+
 ### Artículo 153
 . Las Fiscalías Especializadas, en el ámbito de sus respectivas competencias, deben establecer programas para la protección de las Víctimas, los Familiares y toda persona involucrada en el proceso de búsqueda de Personas Desaparecidas o No Localizadas, investigación o proceso penal de los delitos previstos en esta Ley, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal o las leyes análogas de las Entidades Federativas.
 También deberán otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección a su integridad física.
@@ -1860,22 +1957,27 @@ Cuando se trate de personas defensoras de los derechos humanos o periodistas se 
 
 ## TÍTULO QUINTO — DE LA PREVENCIÓN DE LOS DELITOS
 
+
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
+
 
 ### Artículo 158
 . La Secretaría de Gobernación, la Fiscalía, así como las Fiscalías y Procuradurías Locales y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de prevención previstas en el artículo 161 de esta Ley.
-Párrafo reformado DOF 20-05-2021 Lo anterior con independencia de las establecidas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como en la Ley General del Sistema Nacional de Seguridad Pública.
+Párrafo reformado DOF 20-05-2021
+Lo anterior con independencia de las establecidas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como en la Ley General del Sistema Nacional de Seguridad Pública.
 
 ### Artículo 159
 . Todo establecimiento, instalación o cualquier sitio en control de las autoridades federales, estatales o municipales en donde pudieran encontrarse personas en privación de la libertad, deberá contar con cámaras de video que permitan registrar los accesos y salidas del lugar. Las grabaciones deberán almacenarse de forma segura por dos años.
 
 ### Artículo 160
 . La Fiscalía, así como las Fiscalías y Procuradurías Locales deben administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en esta Ley, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, Entidad Federativa, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
-Párrafo reformado DOF 20-05-2021 Las bases de datos a que se refiere el párrafo que antecede deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modus operandi, delimitación territorial, rutas y zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno de los delitos previstos en esta Ley para garantizar su prevención.
+Párrafo reformado DOF 20-05-2021
+Las bases de datos a que se refiere el párrafo que antecede deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modus operandi, delimitación territorial, rutas y zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno de los delitos previstos en esta Ley para garantizar su prevención.
 
 ### Artículo 161
 . El Sistema Nacional, a través de la Comisión Nacional de Búsqueda, la Secretaría de Gobernación, la Fiscalía, así como las Fiscalías y Procuradurías Locales y las Instituciones de Seguridad Pública, debe respecto de los delitos previstos en esta Ley:
-Párrafo reformado DOF 20-05-2021 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
+Párrafo reformado DOF 20-05-2021
+PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 
 I. Llevar a cabo campañas informativas dirigidas a fomentar la Denuncia de los delitos y sobre instituciones de atención y servicios que brindan;
 I Bis. Generar políticas públicas y otras acciones para sensibilizar a la población en general, con enfoque diferenciado, en relación con la información, prevención y mitigación de los factores de riesgo de la desaparición de personas;
@@ -1916,6 +2018,7 @@ Artículo reformado DOF 20-05-2021
 
 ## CAPÍTULO SEGUNDO — DE LA PROGRAMACIÓN
 
+
 ### Artículo 165
 . Los programas de prevención a que se refiere el presente Título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos, sector privado y población general.
 Artículo reformado DOF 16-07-2025
@@ -1924,6 +2027,7 @@ Artículo reformado DOF 16-07-2025
 . La Federación, las Entidades Federativas, los municipios y demarcaciones territoriales de la Ciudad de México están obligados a remitir anualmente al Centro Nacional de Prevención del Delito y Participación Ciudadana, conforme a los acuerdos generados en el marco del Sistema Nacional de Seguridad Pública, estudios sobre las causas, distribución geográfica de la frecuencia delictiva, estadísticas, tendencias históricas y patrones de comportamiento que permitan perfeccionar la investigación para la prevención de los delitos previstos en esta Ley, así como su programa de prevención sobre los mismos. Estos estudios deberán ser públicos y podrán consultarse en la página de Internet del Sistema Nacional de Seguridad Pública, de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 ## CAPÍTULO TERCERO — DE LA CAPACITACIÓN
+
 
 ### Artículo 167
 . La Comisión Nacional de Búsqueda, las Fiscalías Especializadas y la autoridad municipal que el titular del Ayuntamiento determine deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5 de esta Ley, para servidores públicos de las Instituciones de Seguridad Pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
@@ -1954,33 +2058,32 @@ ARTÍCULOS SEGUNDO Y TERCERO.- ……….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
 A partir de la entrada en vigor del presente Decreto y hasta la emisión de los instrumentos a que se refiere el Artículo Décimo Cuarto Transitorio, la Procuraduría y las Procuradurías Locales y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a esta Ley.
 La Procuraduría y las Procuradurías Locales, además de los protocolos previstos en esta Ley, continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
-**Segundo.** Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
-**Tercero.** Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+**Segundo.-** Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+**Tercero.-** Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 53, fracción VIII, de esta Ley.
 Dentro de los ciento ochenta días posteriores a la entrada en funciones de la Comisión Nacional de Búsqueda, ésta deberá emitir el Programa Nacional de Búsqueda.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Los servidores públicos que integren las Fiscalías Especializadas y las Comisiones de Búsqueda deberán estar certificados dentro del año posterior a su creación.
 Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Nacional de Búsqueda emitirá los criterios previstos en el artículo 53, fracción L, de esta Ley, dentro de los noventa días posteriores a su entrada en funciones.
 La Comisión Nacional de Búsqueda y las comisiones locales podrán, a partir de que entren en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes. La Comisión Nacional de Búsqueda coordinará la búsqueda de las personas desaparecidas relacionadas con búsquedas en las que, a la entrada en vigor de esta Ley, participen autoridades federales.
-**Cuarto.** Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
+**Cuarto.-** Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
 La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales para el establecimiento de sus Comisiones Locales de Búsqueda.
-**Quinto.** El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+**Quinto.-** El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
 En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
-**Sexto.** El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+**Sexto.-** El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
 En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el artículo 55.
-**Séptimo.** Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
+**Séptimo.-** Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No Localizadas.
 Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de Personas Desaparecidas y No Localizadas.
-**Octavo.** En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
+**Octavo.-** En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de esta Ley.
 La Federación y las Entidades Federativas deberán migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
-**Noveno.** El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
+**Noveno.-** El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
-**Décimo.** A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
-
+**Décimo.-** A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
 I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
 
 II. En las investigaciones iniciadas en las que aún no se ejerza acción penal, el Ministerio Público la ejercitará de conformidad con la traslación del tipo que resulte procedente;
@@ -1992,8 +2095,8 @@ IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los
 V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
 
 VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
-**Décimo Primero.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
-**Décimo Segundo.** Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+**Décimo Primero.-** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+**Décimo Segundo.-** Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
 Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
 
@@ -2004,20 +2107,20 @@ II. En términos de la fracción anterior, las Fiscalías Especializadas que est
 III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
 
 IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
-**Décimo Tercero.** El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
+**Décimo Tercero.-** El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
-**Décimo Cuarto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
-**Décimo Quinto.** Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
-**Décimo Sexto.** En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
-**Décimo Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+**Décimo Cuarto.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
+**Décimo Quinto.-** Las autoridades e instituciones que recaban la información a que se refiere el artículo 103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+**Décimo Sexto.-** En las Entidades Federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
+**Décimo Séptimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
 Las Legislaturas de las Entidades Federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
-**Décimo Octavo.** Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
-**Décimo Noveno.** La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+**Décimo Octavo.-** Los lineamientos para determinar las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley.
+**Décimo Noveno.-** La Procuraduría General de la República debe emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131, fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
 Dentro del plazo previsto en el párrafo anterior la Procuraduría General de la República emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
-**Vigésimo.** En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+**Vigésimo.-** En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-**Vigésimo Primero.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
+**Vigésimo Primero.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
@@ -2027,12 +2130,12 @@ Se adiciona un párrafo segundo al artículo 14 de la Ley General en Materia de 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Tercero.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+**Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Quinto.-** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
@@ -2040,58 +2143,58 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Cuarto
 Se reforman la actual fracción XIX que pasa a ser la X y la actual fracción X para ser la XI recorriéndose las subsecuentes en su orden hasta la fracción XIX, y la fracción XXIII, del artículo 4; la fracción III, los párrafos segundo, cuarto y quinto del artículo 45; el párrafo primero del artículo 68, el párrafo segundo del artículo 69; el párrafo primero del artículo 70; el párrafo segundo del artículo 71; el artículo 74; el artículo 76; la fracción IV del artículo 81; los párrafos primero y cuarto del artículo 111; el párrafo primero del artículo 113; los párrafos primero y sexto del artículo 119; el artículo 120; el párrafo segundo del artículo 126; el párrafo segundo del artículo 128; la fracción III del artículo 131; los párrafos primero y segundo del artículo 132; la fracción II del artículo 133; los párrafos primero y
-**segundo.** del artículo 135; el párrafo primero del artículo 158; el párrafo primero del artículo 160; el párrafo
-**primero.** del artículo 161; el artículo 163; el artículo 168; el artículo 171 y el artículo 172 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
+**segundo.-** del artículo 135; el párrafo primero del artículo 158; el párrafo primero del artículo 160; el párrafo
+**primero.-** del artículo 161; el artículo 163; el artículo 168; el artículo 171 y el artículo 172 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacional de los Pueblos Indígenas, la Ley General de Derechos Lingüísticos de los Pueblos Indígenas y la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 
 ### ARTÍCULO CUARTO
 Se reforma el párrafo segundo del artículo 60; y los párrafos primero, segundo,
-**tercero.** y cuarto del artículo 61 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
+**tercero.-** y cuarto del artículo 61 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -2126,7 +2229,7 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Primero
 Se reforman los artículos 2, fracción II; 4, fracciones I Bis y XX; 33, fracciones I, II, III y IV; la denominación del Capítulo Sexto del Título Segundo; 45, párrafo primero, fracciones VII, VIII y IX, y actual párrafo cuarto; 47, párrafo primero; 48, fracción VII; 53, párrafo primero, fracciones II, XV y XXXIV; 68, párrafo segundo; 69, párrafo primero, fracción II; 70, párrafo primero y sus fracciones I, XVII y XXIV; 89, párrafo primero; 105, párrafo quinto; 107, párrafos primero y cuarto; 110; 119, párrafo segundo; 128, párrafos segundo y tercero; 129, párrafo primero; 132, párrafo primero, fracción I; 133, fracciones I y II; 137, párrafo primero, fracción II; 165; 168 y 171, se adicionan las fracciones I Bis y I Ter al artículo 2; las fracciones I Ter, I Quater, I Quinquies, I Sexies, I Septies, IX Bis, IX Ter y XXVI Bis al artículo 4; las fracciones XIII Bis y XIII Ter al artículo 5; los capítulos Tercero, Cuarto y Quinto al Título Primero, los cuales comprenden del artículo 12 Bis al 12 Quater, del 12 Quinquies al 12 Undecies, y 12 Duodecies; 33 Bis; párrafo segundo al artículo 43; 43 Bis; el párrafo primero, las fracciones I Bis, X y XI, y el párrafo
-**cuarto.** y se recorren los actuales párrafos cuarto y quinto para ser quinto y sexto al artículo 45; la fracción VII Bis al artículo 48; el párrafo tercero y se recorre el actual párrafo tercero para ser cuarto al artículo 68; la fracción III Bis, el párrafo segundo, y las fracciones XXV y XXV Bis, recorriéndose la actual XXV a XXVI al artículo 70; 73 Bis; 73 Ter; 74 Bis; los párrafos cuarto y quinto al artículo 80; el párrafo primero, fracción I Bis al artículo 85; el párrafo segundo al artículo 88; el párrafo séptimo al artículo 119; la fracción III al artículo 133; 152 Bis; 153 Bis; y fracción I Bis al artículo 161, y se derogan de los artículos 53, párrafo primero, la fracción XLIII, y 89, el párrafo tercero, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ……..
+**cuarto.-** y se recorren los actuales párrafos cuarto y quinto para ser quinto y sexto al artículo 45; la fracción VII Bis al artículo 48; el párrafo tercero y se recorre el actual párrafo tercero para ser cuarto al artículo 68; la fracción III Bis, el párrafo segundo, y las fracciones XXV y XXV Bis, recorriéndose la actual XXV a XXVI al artículo 70; 73 Bis; 73 Ter; 74 Bis; los párrafos cuarto y quinto al artículo 80; el párrafo primero, fracción I Bis al artículo 85; el párrafo segundo al artículo 88; el párrafo séptimo al artículo 119; la fracción III al artículo 133; 152 Bis; 153 Bis; y fracción I Bis al artículo 161, y se derogan de los artículos 53, párrafo primero, la fracción XLIII, y 89, el párrafo tercero, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2138,7 +2241,6 @@ La Fiscalía, las Fiscalías Locales y las Fiscalías Especializadas contarán c
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Las leyes de las entidades federativas deberán implementar el contenido del presente Decreto, particularmente el artículo 68 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, dentro del término de 60 días naturales contados a partir de la armonización a que se refiere el párrafo anterior.
 **Quinto.-** Se abrogan todas las disposiciones que contravengan el presente Decreto.
 **Sexto.-** Las entidades federativas y municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
-
 I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
 
 II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional de Búsqueda, y
@@ -2151,6 +2253,6 @@ III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

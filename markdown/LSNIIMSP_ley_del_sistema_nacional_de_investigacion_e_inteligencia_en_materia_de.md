@@ -16,7 +16,9 @@ LEY DEL SISTEMA NACIONAL DE INVESTIGACIÓN E INTELIGENCIA EN MATERIA DE SEGURIDA
 
 ## TÍTULO PRIMERO — BASES GENERALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 . Objeto La presente Ley es reglamentaria del párrafo décimo tercero del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; es de orden público, interés social, observancia general en toda la República Mexicana, y tiene por objeto establecer los fines y regular la integración, el funcionamiento y la operación del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública, así como los mecanismos de coordinación y colaboración entre las instituciones, autoridades y los entes que lo integran, a efecto de eficientar los trabajos para prevenir, investigar y perseguir los delitos, las causas que los generan y lograr la paz social.
@@ -56,7 +58,9 @@ Los productos de inteligencia podrán ser utilizados en los términos de lo que 
 
 ## TÍTULO SEGUNDO — DEL SISTEMA NACIONAL
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 4
 . Integración y principios El Sistema Nacional estará integrado por las personas, instituciones, los procesos, las normas y las herramientas normativas, tecnológicas, científicas y de información previstas en la presente Ley, dirigidas por el Consejo Nacional y coordinadas por la Secretaría, para el desarrollo y aprovechamiento de las tareas de investigación e inteligencia en materia de seguridad pública.
@@ -88,7 +92,9 @@ III. El CNI, que lo gestiona y opera.
 
 ## TÍTULO TERCERO — DEL CONSEJO NACIONAL DE INTELIGENCIA EN SEGURIDAD PÚBLICA
 
+
 ## Capítulo Único — Del Consejo Nacional
+
 
 ### Artículo 7
 . Naturaleza y función El Consejo Nacional es la instancia superior interinstitucional, deliberativa, coordinada y colegiada en materia de inteligencia para la seguridad pública, encargada de la dirección, el mando único, y la toma de decisiones para el funcionamiento del Sistema Nacional y la consecución de sus fines. Sus integrantes participarán en el Consejo ejerciendo las funciones que esta Ley y otras relacionadas les atribuyan.
@@ -162,7 +168,9 @@ Previa autorización de la persona que presida el Consejo Nacional, se podrán r
 
 ## TÍTULO CUARTO — DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
+
 ## Capítulo I
+
 Atribuciones de la Secretaría de Seguridad y Protección Ciudadana
 
 ### Artículo 12
@@ -206,6 +214,7 @@ Para el cumplimiento de los fines del Sistema Nacional, la Secretaría auxiliar�
 La Secretaría podrá proponer al Consejo Nacional y al Consejo Nacional de Seguridad Pública, la celebración de mesas de trabajo regionales, a partir de la reunión de diferentes autoridades estatales y de la Ciudad de México para la atención de riesgos y situaciones delictivas comunes. Estas mesas de trabajo tendrán por objeto el suministro de información por parte de los estados y de la Ciudad de México, que le permitan a los órganos del Sistema Nacional conocer los fenómenos delictivos, elaborar productos de inteligencia, así como planear, implementar y coordinar la ejecución de acciones para su prevención, disuasión, investigación y persecución.
 
 ## Capítulo II
+
 Atribuciones de la Subsecretaría de Inteligencia e Investigación Policial
 
 ### Artículo 15
@@ -223,7 +232,9 @@ Cuando existan elementos suficientes para ello, los agentes analistas, investiga
 
 ## TÍTULO QUINTO — DEL CENTRO NACIONAL DE INTELIGENCIA Y SUS GRUPOS DE TRABAJO
 
+
 ## Capítulo I — Del Centro Nacional de Inteligencia
+
 
 ### Artículo 18
 . Intervención del CNI en el Sistema Nacional Sin detrimento de las funciones y atribuciones que tiene señaladas en otros ordenamientos, en relación con el Sistema Nacional, el CNI es el órgano responsable de la operación diaria del Sistema, de la administración y el control de la Plataforma, de la articulación de las acciones de los entes que lo conforman, del uso y aprovechamiento de la información, así como de la generación de los productos de inteligencia.
@@ -293,6 +304,7 @@ VIII. Previo acuerdo con la persona titular de la Secretaría, resolver todas aq
 
 ## CAPÍTULO II — De los Grupos de Trabajo del CNI
 
+
 ### Artículo 22
 . Conformación Para el desempeño de sus funciones, el CNI se apoyará en grupos de trabajo especializados por materias, los cuales se conformarán por acuerdo de su titular y funcionarán de conformidad con los lineamientos que para tal efecto emita.
 Los grupos de trabajo serán los siguientes:
@@ -351,7 +363,9 @@ XI. Todas aquellas que sean necesarias para el ejercicio de sus funciones, el me
 
 ## TÍTULO SEXTO — REGLAS GENERALES
 
+
 ## Capítulo I
+
 Sistemas de Inteligencia, Bases de Datos, Registros Administrativos e Información
 
 ### Artículo 24
@@ -378,6 +392,7 @@ En el tratamiento de la información en posesión de particulares, se deberá ob
 . Criterios técnicos y de homologación El Consejo Nacional emitirá las bases mínimas que deberá cumplir la información contenida en los sistemas de inteligencia a cargo de las instituciones policiales, penitenciarias, de procuración de justicia y los centros de comando y control, procurando su homologación, y en atención a sus respectivos ámbitos de competencia para que los datos que se tengan en estos se mantengan exactos, completos, correctos y actualizados. El CNI, a través de sus grupos de trabajo, velará por que la información a la que tenga acceso cumpla con las bases mínimas referidas en este artículo.
 
 ## Capítulo II
+
 Consulta de la Información
 
 ### Artículo 30
@@ -390,6 +405,7 @@ No se permitirá la conexión de entes privados a sistemas, bases de datos y reg
 Con independencia de la Plataforma, los órganos que integran el Sistema Nacional podrán consultar cualquier información contenida en bases de datos, registros, sistemas informáticos o plataformas digitales en posesión de cualquier autoridad, haciendo uso de las herramientas tecnológicas, científicas y cualquier otro medio del que dispongan.
 
 ## Capítulo III
+
 Uso y Aprovechamiento de la Información
 
 ### Artículo 32
@@ -416,6 +432,7 @@ VIII. Lineamientos que permitan el establecimiento de políticas generales para 
 IX. Todos aquellos que la Secretaría considere necesarios para el cumplimiento de los fines del Sistema y el logro de la paz social del país, en apego a las disposiciones legales que resulten aplicables.
 
 ## Capítulo IV
+
 Toma de Decisiones
 
 ### Artículo 33
@@ -466,7 +483,9 @@ Tratándose de la prevención, investigación y persecución de delitos en mater
 
 ## TÍTULO SÉPTIMO — OPERACIÓN DE LA PLATAFORMA CENTRAL DE INTELIGENCIA
 
+
 ## Capítulo I — De la Plataforma Central de Inteligencia
+
 
 ### Artículo 36
 . Naturaleza y objeto La Plataforma es la herramienta tecnológica de interconexión del Sistema Nacional, operada por el CNI en una unidad central. Funciona a través de su interconexión, para consulta a las bases de datos, los registros y sistemas de inteligencia e información a la que se refiere la presente Ley. Tiene el objeto de servir para identificar, integrar, producir, sistematizar, analizar y aprovechar en tiempo real o con la mayor oportunidad posible, la información y los datos disponibles para la elaboración de productos de inteligencia y la obtención de datos de prueba.
@@ -542,6 +561,7 @@ Cuando así lo considere el CNI y sus grupos de trabajo, podrá compartir inform
 En el caso de que el CNI, derivado de los productos de inteligencia, advierta que se desprenden hechos posiblemente constitutivos de delitos, lo hará del conocimiento del Ministerio Público, con la finalidad de que, bajo su conducción y mando, se realice la investigación y la persecución respectiva, de conformidad con su competencia, ante los tribunales.
 
 ## Capítulo II
+
 Medidas de Seguridad
 
 ### Artículo 41
@@ -556,9 +576,11 @@ El CNI establecerá los requisitos, las condiciones y los controles de tales niv
 . Protección y respaldo de la información y los productos de inteligencia Toda la información que se aloje en la Plataforma en particular y a la que se tenga acceso a través de la inteligencia criminal en general, así como los estudios y resultados del análisis de datos y los productos de inteligencia generados de conformidad con la presente Ley, deberán contar con las medidas de cifrado encriptado y descifrado que determine el CNI; en los casos en que lo considere necesario, podrá ser respaldada y complementada mediante dispositivos extraíbles y archivos físicos debidamente resguardados.
 
 ## TÍTULO OCTAVO — FUNCIONES DE LA GUARDIA NACIONAL Y PARTICIPACIÓN DE LAS INSTITUCIONES DE
+
 SEGURIDAD Y PROCURACIÓN DE JUSTICIA ESTATALES
 
 ## Capítulo I — De la Guardia Nacional
+
 
 ### Artículo 44
 . Acciones de investigación e inteligencia de la Guardia Nacional Para el cumplimiento de sus funciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables, así como para el mejor ejercicio de sus atribuciones, la Guardia Nacional realizará acciones de investigación e inteligencia en seguridad pública apoyándose en los mecanismos con que cuenta el Sistema Nacional.
@@ -566,6 +588,7 @@ Se coordinará de manera directa con el CNI a efecto de aprovechar la operación
 La Secretaría y el CNI se coordinarán con la Guardia Nacional para la elaboración de estudios, análisis, diagnósticos y cualquier otro documento que, con base en la experiencia operativa del Sistema Nacional y de la Plataforma, sirvan para proponer y enriquecer la toma de decisiones y las acciones que se emprendan por acuerdo del Consejo Nacional y, en su caso, del Gabinete Federal de Seguridad.
 
 ## Capítulo II — De las Instituciones de Seguridad y Procuración de Justicia Estatales
+
 
 ### Artículo 45
 . Secretarías encargadas del ramo de la seguridad pública en los estados y la Ciudad de México Todas las instituciones policiales, de seguridad pública y de procuración de justicia del país, deberán colaborar con el Sistema Nacional para el logro de la paz pública y la seguridad de la población, en cumplimiento de los fines previstos en la presente Ley.
@@ -583,7 +606,9 @@ El CNI podrá acceder de manera permanente y en tiempo real o cuando lo consider
 
 ## TÍTULO NOVENO — FORMACIÓN, ACREDITACIÓN Y CERTIFICACIÓN
 
+
 ## Capítulo Único — Del personal encargado de las funciones de inteligencia en Seguridad Pública
+
 
 ### Artículo 48
 . Requisitos y características de los agentes investigadores y mandos medios operadores de inteligencia en seguridad pública Los mecanismos y las reglas para la selección, el ingreso, nombramiento, la capacitación, promoción y profesionalización del personal del CNI, se regirán por su Estatuto Laboral. En éste, se garantizarán los mecanismos de capacitación y promoción para la seguridad laboral, así como los estímulos requeridos para un servicio confiable, profesional y de calidad por parte del personal. Todas las funciones que desempeñen las personas servidoras públicas del CNI serán consideradas de confianza y están obligadas a mantener reserva de la información y de los asuntos a los que tengan acceso, por la naturaleza de sus funciones.
@@ -596,7 +621,9 @@ La capacitación, evaluación y certificación también será exigible para las 
 
 ## TÍTULO DÉCIMO — DISPOSICIONES FINALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 50
 . Leyes vinculadas y supletoriedad La información y los datos de prueba que se generen como consecuencia directa o indirecta de la operación de la Plataforma, deberán obtenerse, tratarse y ajustarse a las disposiciones previstas en la Personales en Posesión de Sujetos Obligados, Ley Federal de Protección de Datos Personales en Posesión de los Particulares, así como en el Código Nacional de Procedimientos Penales. En lo no previsto en la presente Ley y que resulte aplicable, serán supletorias de la misma, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Nacional.
@@ -607,11 +634,11 @@ La persona que, por cualquier motivo participe o tenga conocimiento de productos
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La operación y funcionamiento de la Plataforma prevista en el artículo 36 se realizará con los recursos humanos, financieros y materiales asignados durante el presente ejercicio fiscal. Para los ejercicios presupuestales posteriores, el CNI solicitará a la Secretaría de Hacienda y Crédito Público, los recursos necesarios para el correcto funcionamiento de la Plataforma.
-**Tercero.** La Plataforma prevista en el artículo 36 del presente Decreto deberá iniciar operaciones en su totalidad en un plazo no mayor a 180 días hábiles contados a partir de la fecha de entrada en vigor de la presente Ley; plazo durante el cual, se deberán realizar las acciones necesarias para que la Plataforma se encuentre interconectada a los entes previstos en el artículo 39, apartado A.
-**Cuarto.** El Ejecutivo Federal realizará las adecuaciones necesarias al Estatuto del CNI en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto eso suceda, se continuará aplicando el Estatuto vigente.
-**Quinto.** La instalación de los Grupos de Trabajo previstos en el presente Decreto deberá realizarse dentro de los 90 días hábiles posteriores a la publicación de la presente Ley.
-**Sexto.** El Congreso de la Unión, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de la presente Ley, deberá aprobar las reformas necesarias a la Ley de Seguridad Nacional, a fin de armonizarlas con lo dispuesto en esta Ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La operación y funcionamiento de la Plataforma prevista en el artículo 36 se realizará con los recursos humanos, financieros y materiales asignados durante el presente ejercicio fiscal. Para los ejercicios presupuestales posteriores, el CNI solicitará a la Secretaría de Hacienda y Crédito Público, los recursos necesarios para el correcto funcionamiento de la Plataforma.
+**Tercero.-** La Plataforma prevista en el artículo 36 del presente Decreto deberá iniciar operaciones en su totalidad en un plazo no mayor a 180 días hábiles contados a partir de la fecha de entrada en vigor de la presente Ley; plazo durante el cual, se deberán realizar las acciones necesarias para que la Plataforma se encuentre interconectada a los entes previstos en el artículo 39, apartado A.
+**Cuarto.-** El Ejecutivo Federal realizará las adecuaciones necesarias al Estatuto del CNI en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto eso suceda, se continuará aplicando el Estatuto vigente.
+**Quinto.-** La instalación de los Grupos de Trabajo previstos en el presente Decreto deberá realizarse dentro de los 90 días hábiles posteriores a la publicación de la presente Ley.
+**Sexto.-** El Congreso de la Unión, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de la presente Ley, deberá aprobar las reformas necesarias a la Ley de Seguridad Nacional, a fin de armonizarlas con lo dispuesto en esta Ley.
 Ciudad de México, a 1 de julio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

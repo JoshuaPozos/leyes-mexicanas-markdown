@@ -58,7 +58,8 @@ Fracción adicionada DOF 25-10-2005
 XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro;
 Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013
 
-XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y Fracción adicionada DOF 21-05-2013
+XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y
+Fracción adicionada DOF 21-05-2013
 
 XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
 Fracción recorrida DOF 25-10-2005, 21-05-2013
@@ -69,11 +70,14 @@ Fracción recorrida DOF 25-10-2005, 21-05-2013
 ### Artículo 4o
 .- A falta de disposición expresa en esta Ley o en sus reglamentos o en los tratados internacionales, se aplicarán:
 
-I. La Ley de Vías Generales de Comunicación; y Fracción reformada DOF 14-11-2025 CAPITULO II JURISDICCION Y COMPETENCIA
+I. La Ley de Vías Generales de Comunicación; y
+Fracción reformada DOF 14-11-2025
+CAPITULO II JURISDICCION Y COMPETENCIA
 
 ### Artículo 5o
 . Es de jurisdicción federal todo lo relacionado con los caminos, puentes, así como el tránsito y los servicios de autotransporte federal que en ellos operan y sus servicios auxiliares.
-Párrafo reformado DOF 25-10-2005 Corresponden a la Secretaría, sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Federal las siguientes atribuciones:
+Párrafo reformado DOF 25-10-2005
+Corresponden a la Secretaría, sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Federal las siguientes atribuciones:
 
 I. Planear, formular y conducir las políticas y programas para el desarrollo de los caminos, puentes, servicios de autotransporte federal y sus servicios auxiliares;
 
@@ -89,10 +93,13 @@ Fracción reformada DOF 10-10-2016
 
 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
 
-VII. Derogada Fracción derogada DOF 04-01-1999
+VII. Derogada
+Fracción derogada DOF 04-01-1999
 
 VIII. Establecer las bases generales de regulación tarifaria.
-Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y Párrafo adicionado DOF 15-11-2023 Fracción reformada DOF 18-05-2012
+Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y
+Párrafo adicionado DOF 15-11-2023
+Fracción reformada DOF 18-05-2012
 
 IX. Las demás que señalen otras disposiciones legales aplicables.
 CAPITULO III CONCESIONES Y PERMISOS
@@ -101,7 +108,8 @@ CAPITULO III CONCESIONES Y PERMISOS
 .- Se requiere de concesión para construir, operar, explotar, conservar y mantener los caminos y puentes federales.
 Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan esta Ley y los reglamentos respectivos.
 Las concesiones se otorgarán hasta por un plazo de treinta años, las cuales podrán ser prorrogadas hasta por un plazo equivalente al señalado originalmente, en cualquier momento después del primer tercio de la vigencia de las mismas, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre los que se incluyan demoras en la liberación del derecho de vía. La prórroga de las concesiones a que se refiere este párrafo se otorgará siempre que los concesionarios hayan cumplido con las condiciones y obligaciones impuestas en los títulos de concesión.
-Párrafo reformado DOF 04-11-2010, 08-06-2016 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+Párrafo reformado DOF 04-11-2010, 08-06-2016
+La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 Para otorgar las concesiones a las que el presente artículo se refiere, la Secretaría podrá requerir la utilización de materiales reciclados, así como el uso de energías renovables, y en general, toda clase de medidas sustentables y que contribuyan con la protección al medio ambiente.
 Párrafo adicionado DOF 04-06-2014. Reformado DOF 25-06-2018
 
@@ -268,10 +276,12 @@ Fracción recorrida DOF 04-06-2014
 XIII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 Fracción recorrida DOF 04-06-2014
 
-XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y Fracción recorrida DOF 04-06-2014
+XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y
+Fracción recorrida DOF 04-06-2014
 
 XV. Las demás previstas en la concesión o el permiso respectivo.
-Fracción recorrida DOF 04-06-2014 El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución respectiva.
+Fracción recorrida DOF 04-06-2014
+El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución respectiva.
 
 ### Artículo 18
 .- Cumplido el término de la concesión, y en su caso, de la prórroga que se hubiere otorgado, la vía general de comunicación con los derechos de vía y sus servicios auxiliares, pasarán al dominio de la Nación, sin costo alguno y libre de todo gravamen.
@@ -358,11 +368,14 @@ Las empresas que cuenten con los elementos técnicos conforme a la norma oficial
 
 ### Artículo 36
 . Los conductores de vehículos de autotransporte federal, deberán obtener y, en su caso, renovar, la licencia federal que expida la Secretaría, en los términos que establezca el reglamento respectivo. Quedan exceptuados de esta disposición los conductores de vehículos a los que se refieren los artículos 40 y 44.
-Párrafo reformado DOF 25-10-2005 El interesado deberá aprobar los cursos de capacitación y actualización de conocimientos teóricos y prácticos con vehículos o simuladores que se establezcan en el reglamento respectivo.
-Párrafo reformado DOF 25-10-2005 Los permisionarios están obligados a vigilar y constatar que los conductores de sus vehículos cuentan con la licencia federal vigente.
+Párrafo reformado DOF 25-10-2005
+El interesado deberá aprobar los cursos de capacitación y actualización de conocimientos teóricos y prácticos con vehículos o simuladores que se establezcan en el reglamento respectivo.
+Párrafo reformado DOF 25-10-2005
+Los permisionarios están obligados a vigilar y constatar que los conductores de sus vehículos cuentan con la licencia federal vigente.
 La Secretaría llevará un registro de las licencias que otorgue.
 Los conductores de vehículos que transitan en los caminos y puentes, deberán portar la licencia vigente que exijan las disposiciones jurídicas aplicables. Asimismo, se abstendrán de conducir en estado de ebriedad o bajo los efectos de drogas de abuso, hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, salvo que lo haga con tecnología de manos libres, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, o rebasar los máximos de velocidad, establecidos por la Secretaría.
-Párrafo adicionado DOF 25-10-2005. Reformado DOF 01-12-2020 El reglamento respectivo establecerá las causas de suspensión o cancelación de las licencias federales, así como las disposiciones relativas al tránsito.
+Párrafo adicionado DOF 25-10-2005. Reformado DOF 01-12-2020
+El reglamento respectivo establecerá las causas de suspensión o cancelación de las licencias federales, así como las disposiciones relativas al tránsito.
 Párrafo adicionado DOF 25-10-2005
 
 ### Artículo 37
@@ -430,7 +443,8 @@ a) Los edictos se publicarán en el Diario Oficial de la Federación, en un diar
 b) Los edictos deberán contener un resumen de la resolución por notificar.
 Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de la última publicación.
 Los plazos establecidos en esta Ley empezarán a correr el día siguiente a aquél en que haya surtido efectos la notificación respectiva.
-Artículo adicionado DOF 16-12-2013 CAPITULO II DEL AUTOTRANSPORTE DE PASAJEROS
+Artículo adicionado DOF 16-12-2013
+CAPITULO II DEL AUTOTRANSPORTE DE PASAJEROS
 
 ### Artículo 46
 .- Atendiendo a su operación y al tipo de vehículos, el servicio de autotransporte de pasajeros se clasificará de conformidad con lo establecido en el reglamento respectivo.
@@ -475,7 +489,8 @@ CAPITULO II TERMINALES DE PASAJEROS
 .- Para la prestación del servicio de autotransporte de pasajeros, los permisionarios deberán contar con terminales de origen y destino conforme a los reglamentos respectivos, para el ascenso y descenso de pasajeros; sin perjuicio de obtener, en su caso, la autorización de uso del suelo por parte de las autoridades estatales y municipales.
 La operación y explotación de terminales de pasajeros, se llevará a cabo conforme a los términos establecidos en el Reglamento correspondiente.
 Las terminales de origen y destino de pasajeros deberán contar, al menos, con instalaciones para el ascenso, espera y descenso de pasajeros, así como con instalaciones sanitarias de uso gratuito para los pasajeros, de conformidad con el reglamento correspondiente.
-Párrafo adicionado DOF 24-05-2018 CAPITULO III TERMINALES INTERIORES DE CARGA
+Párrafo adicionado DOF 24-05-2018
+CAPITULO III TERMINALES INTERIORES DE CARGA
 
 ### Artículo 54
 .- Las terminales interiores de carga son instalaciones auxiliares al servicio de transporte en las que se brindan a terceros servicios de transbordo de carga y otros complementarios. Entre estos se encuentran: carga y descarga de camiones y de trenes, almacenamiento, acarreo, consolidación y desconsolidación de cargas y vigilancia y custodia de mercancías.
@@ -497,7 +512,8 @@ Artículo adicionado DOF 16-12-2013
 Bis 2.- El permisionario deberá notificar a la Dirección General de Autotransporte Federal el listado de unidades que cumplan con los requisitos para considerarse en el supuesto de abandono, con excepción de los que estén sujetos a procedimientos administrativos, jurisdiccionales o cualquier acción de reclamación, bajo protesta de decir verdad y que estén o hayan estado a disposición de autoridades federales, a efecto de que se realice la supervisión de la solicitud y con los datos proporcionados se haga la publicación correspondiente, de acuerdo a lo establecido en el artículo 45 Bis 1 de esta Ley.
 Una vez transcurrido el plazo de 90 días naturales a partir de la publicación, se considerarán abandonados por disposición legal en favor de Gobierno Federal y el permisionario tendrá 30 días naturales para poner a disposición los vehículos al Servicio de Administración y Enajenación de Bienes, de conformidad con las disposiciones aplicables.
 El otorgamiento de datos falsos por parte del permisionario lo hará responsable de las acciones penales, civiles o administrativas que pudiesen surgir y será causa de revocación del permiso.
-Artículo adicionado DOF 16-12-2013 CAPITULO V UNIDADES DE VERIFICACION Y CENTROS DE CAPACITACION
+Artículo adicionado DOF 16-12-2013
+CAPITULO V UNIDADES DE VERIFICACION Y CENTROS DE CAPACITACION
 
 ### Artículo 56
 .- Las unidades de verificación físico-mecánica de los vehículos que circulen por carreteras federales, podrán ser operadas por particulares mediante permiso expedido por la Secretaría y su otorgamiento se ajustará, en lo conducente, al procedimiento a que se refiere el artículo 7o. de esta Ley.
@@ -615,7 +631,8 @@ VIII. Declaración de la persona que atendió la visita o su negativa a permitir
 
 IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
 Una vez elaborada el acta, el servidor público que realiza la inspección proporcionará una copia de la misma a la persona que atendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
-Párrafo reformado DOF 25-10-2005 El visitado contará con un término de 10 días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
+Párrafo reformado DOF 25-10-2005
+El visitado contará con un término de 10 días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
 TITULO OCTAVO DE LAS SANCIONES
 
 ### Artículo 74
@@ -646,7 +663,8 @@ El propietario del vehículo tendrá 45 días naturales para la contratación de
 Fracción adicionada DOF 21-05-2013
 
 III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
-Fracción recorrida DOF 21-05-2013 En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+Fracción recorrida DOF 21-05-2013
+En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo 74 de esta Ley.
 La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
 Artículo adicionado DOF 25-10-2005
@@ -763,14 +781,14 @@ Se reforman los Artículos 1o.; 5o., primer párrafo; 36, primero y segundo pár
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
-**TERCERO.** El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
-**CUARTO.** Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
-**QUINTO.** Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
-**SEXTO.** La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
-**SÉPTIMO.** Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
-**OCTAVO.** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+**TERCERO.-** El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+**CUARTO.-** Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+**QUINTO.-** Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+**SEXTO.-** La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+**SÉPTIMO.-** Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+**OCTAVO.-** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 México, D.F., a 8 de septiembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
 Heliodoro Díaz Escárraga, Presidente.- Sen. Micaela Aguilar González, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de octubre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
@@ -801,9 +819,9 @@ Se reforma el artículo 74 Bis, primer párrafo; y se adiciona al artículo 2o.,
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional de Seguros y Fianzas, haya publicado en el Diario Oficial de la Federación las disposiciones administrativas que fijen los términos del contrato de seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas, materia de las presentes reformas.
-**Segundo.** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
-**Tercero.** El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+**Primero.-** El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional de Seguros y Fianzas, haya publicado en el Diario Oficial de la Federación las disposiciones administrativas que fijen los términos del contrato de seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas, materia de las presentes reformas.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+**Tercero.-** El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
 México, D.F., a 4 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan los artículos 45 bis, 45 bis 1, 55 bis, 55 bis 1 y 55 bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal.
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2013
@@ -813,12 +831,12 @@ Se adicionan los artículos 45 Bis, 45 Bis 1, 55 Bis, 55 Bis 1 y 55 Bis 2 a la L
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes, de conformidad al Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal el listado de unidades que reciban, así como las que sean susceptibles de considerarse en abandono en favor del gobierno federal.
-**TERCERO.** La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de control e información de los permisionarios del autotransporte federal en un plazo máximo de 18 meses, de acuerdo a la disponibilidad presupuestal.
-**CUARTO.** La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo establecido en el artículo 55 Bis 2, dentro de los 30 días naturales siguientes, en tanto se expide el Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal, el cual buscará salvaguardar el interés de los usuarios y evitar abusos de los prestadores de servicios, en un plazo máximo de 18 meses.
-**QUINTO.** La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda y Crédito Público, con cargo al Presupuesto de Egresos de la Federación, los recursos necesarios para el adecuado desarrollo del Programa de Reordenamiento General del Autotransporte Federal.
-**SEXTO.** Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes, de conformidad al Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal el listado de unidades que reciban, así como las que sean susceptibles de considerarse en abandono en favor del gobierno federal.
+**TERCERO.-** La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de control e información de los permisionarios del autotransporte federal en un plazo máximo de 18 meses, de acuerdo a la disponibilidad presupuestal.
+**CUARTO.-** La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo establecido en el artículo 55 Bis 2, dentro de los 30 días naturales siguientes, en tanto se expide el Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal, el cual buscará salvaguardar el interés de los usuarios y evitar abusos de los prestadores de servicios, en un plazo máximo de 18 meses.
+**QUINTO.-** La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda y Crédito Público, con cargo al Presupuesto de Egresos de la Federación, los recursos necesarios para el adecuado desarrollo del Programa de Reordenamiento General del Autotransporte Federal.
+**SEXTO.-** Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
 En el caso de los vehículos que causen abandono con más de cinco años en depósito de guarda y custodia, en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, serán adjudicados en forma directa al permisionario federal correspondiente, quien cubrirá los gastos administrativos en que incurra la Dirección General de Autotransporte Federal y el Servicio de Administración y Enajenación de Bienes. Asimismo, el permisionario federal aportará a la Dirección General de Autotransporte Federal, el uno por ciento de los ingresos que obtenga por este concepto, descontados los gastos administrativos mencionados en el presente párrafo, para el desarrollo de un sistema automatizado de control e información de los permisionarios del autotransporte federal.
 México, D.F., a 3 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Xavier Azuara Zúñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y Autotransporte Federal.
@@ -891,7 +909,7 @@ Se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal.
 Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2020
@@ -934,13 +952,13 @@ Se reforma el artículo 2o., fracción VI, de la Ley de Caminos, Puentes y Autot
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
 **Segundo.-** Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
 **Tercero.-** La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
 **Cuarto.-** Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
 **Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
-**Sexto.** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+**Sexto.-** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -948,12 +966,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

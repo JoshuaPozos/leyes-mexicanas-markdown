@@ -13,12 +13,15 @@ TITULO PRIMERO DEL AMBITO DE APLICACION Y PRINCIPIOS GENERALES CAPITULO UNICO
 ### Artículo 1
 .- Las disposiciones de esta ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Federal centralizada, sin perjuicio de lo dispuesto en los Tratados Internacionales de los que México sea parte.
 El presente ordenamiento también se aplicará a los organismos descentralizados de la administración pública federal paraestatal respecto a sus actos de autoridad, a los servicios que el estado preste de manera exclusiva, y a los contratos que los particulares sólo puedan celebrar con el mismo.
-Párrafo adicionado DOF 19-04-2000 Este ordenamiento no será aplicable a las materias de carácter fiscal, responsabilidades de los servidores públicos, justicia agraria y laboral, ni al ministerio público en ejercicio de sus funciones constitucionales. En relación con las materias de competencia económica, prácticas desleales de comercio internacional y financiera, únicamente les será aplicable el título tercero A.
-Párrafo reformado DOF 24-12-1996, 19-04-2000 Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
+Párrafo adicionado DOF 19-04-2000
+Este ordenamiento no será aplicable a las materias de carácter fiscal, responsabilidades de los servidores públicos, justicia agraria y laboral, ni al ministerio público en ejercicio de sus funciones constitucionales. En relación con las materias de competencia económica, prácticas desleales de comercio internacional y financiera, únicamente les será aplicable el título tercero A.
+Párrafo reformado DOF 24-12-1996, 19-04-2000
+Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose de las contribuciones y los accesorios que deriven directamente de aquéllas.
 
 ### Artículo 2
 .- Esta Ley, salvo por lo que toca al título tercero A, se aplicará supletoriamente a las diversas leyes administrativas. El Código Nacional de Procedimientos Civiles y Familiares se aplicará, a su vez, supletoriamente a esta Ley, en lo conducente.
-Artículo reformado DOF 19-04-2000, 14-11-2025 TITULO SEGUNDO DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS CAPITULO PRIMERO DEL ACTO ADMINISTRATIVO
+Artículo reformado DOF 19-04-2000, 14-11-2025
+TITULO SEGUNDO DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS CAPITULO PRIMERO DEL ACTO ADMINISTRATIVO
 
 ### Artículo 3
 .- Son elementos y requisitos del acto administrativo:
@@ -32,7 +35,8 @@ III. Cumplir con la finalidad de interés público regulado por las normas en qu
 IV. Hacer constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición;
 
 V. Estar fundado y motivado;
-VI.- (Se deroga) Fracción derogada DOF 24-12-1996
+VI.- (Se deroga)
+Fracción derogada DOF 24-12-1996
 
 VII. Ser expedido sujetándose a las disposiciones relativas al procedimiento administrativo previstas en esta Ley;
 
@@ -41,7 +45,8 @@ VIII. Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre 
 IX. Ser expedido sin que medie dolo o violencia en su emisión;
 
 X. Mencionar el órgano del cual emana;
-XI.- (Se deroga) Fracción derogada DOF 24-12-1996
+XI.- (Se deroga)
+Fracción derogada DOF 24-12-1996
 
 XII. Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de las personas;
 
@@ -59,14 +64,16 @@ Artículo reformado DOF 19-04-2000
 
 ### Artículo 4-A
 .- Se deroga.
-Artículo adicionado DOF 24-12-1996. Derogado DOF 19-04-2000 CAPITULO SEGUNDO DE LA NULIDAD Y ANULABILIDAD DEL ACTO ADMINISTRATIVO
+Artículo adicionado DOF 24-12-1996. Derogado DOF 19-04-2000
+CAPITULO SEGUNDO DE LA NULIDAD Y ANULABILIDAD DEL ACTO ADMINISTRATIVO
 
 ### Artículo 5
 .- La omisión o irregularidad de los elementos y requisitos exigidos por el Artículo 3 de esta Ley, o por las leyes administrativas de las materias de que se trate, producirán, según sea el caso, nulidad o anulabilidad del acto administrativo.
 
 ### Artículo 6
 .- La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en las fracciones I a X del artículo 3 de la presente Ley, producirá la nulidad del acto administrativo, la cual será declarada por el superior jerárquico de la autoridad que lo haya emitido, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso la nulidad será declarada por el mismo.
-Párrafo reformado DOF 24-12-1996 El acto administrativo que se declare jurídicamente nulo será inválido; no se presumirá legítimo ni ejecutable; será subsanable, sin perjuicio de que pueda expedirse un nuevo acto. Los particulares no tendrán obligación de cumplirlo y los servidores públicos deberán hacer constar su oposición a ejecutar el acto, fundando y motivando tal negativa. La declaración de nulidad producirá efectos retroactivos.
+Párrafo reformado DOF 24-12-1996
+El acto administrativo que se declare jurídicamente nulo será inválido; no se presumirá legítimo ni ejecutable; será subsanable, sin perjuicio de que pueda expedirse un nuevo acto. Los particulares no tendrán obligación de cumplirlo y los servidores públicos deberán hacer constar su oposición a ejecutar el acto, fundando y motivando tal negativa. La declaración de nulidad producirá efectos retroactivos.
 En caso de que el acto se hubiera consumado, o bien, sea imposible de hecho o de derecho retrotraer sus efectos, sólo dará lugar a la responsabilidad del servidor público que la hubiere emitido u ordenado.
 
 ### Artículo 7
@@ -153,7 +160,8 @@ X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en
 
 ### Artículo 17
 .- Salvo que en otra disposición legal o administrativa de carácter general se establezca otro plazo, no podrá exceder de tres meses el tiempo para que la dependencia u organismo descentralizado resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en otra disposición legal o administrativa de carácter general se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante quien deba resolver; igual constancia deberá expedirse cuando otras disposiciones prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo.
-Párrafo reformado DOF 24-12-1996, 19-04-2000 En el caso de que se recurra la negativa por falta de resolución, y ésta a su vez no se resuelva dentro del mismo término, se entenderá confirmada en sentido negativo.
+Párrafo reformado DOF 24-12-1996, 19-04-2000
+En el caso de que se recurra la negativa por falta de resolución, y ésta a su vez no se resuelva dentro del mismo término, se entenderá confirmada en sentido negativo.
 
 ### Artículo 17-A
 .- Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo descentralizado correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la dependencia u organismo descentralizado, el cual no podrá ser menor de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
@@ -251,11 +259,13 @@ CAPITULO SEXTO DE LAS NOTIFICACIONES
 
 I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio, y Fracción reformada DOF 30-05-2000, 02-05-2017
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio, y
+Fracción reformada DOF 30-05-2000, 02-05-2017
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro medio similar.
-Párrafo reformado DOF 24-12-1996, 30-05-2000 Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite el comprobante de pago del servicio respectivo.
+Párrafo reformado DOF 24-12-1996, 30-05-2000
+Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite el comprobante de pago del servicio respectivo.
 Párrafo adicionado DOF 24-12-1996
 
 ### Artículo 36
@@ -427,7 +437,10 @@ IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de q
 
 ### Artículo 69
 .- Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
-TITULO TERCERO A De la mejora regulatoria Título adicionado DOF 19-04-2000 Capítulo primero Disposiciones generales Capítulo adicionado DOF 19-04-2000
+TITULO TERCERO A De la mejora regulatoria
+Título adicionado DOF 19-04-2000
+Capítulo primero Disposiciones generales
+Capítulo adicionado DOF 19-04-2000
 
 ### Artículo 69-A
 .- Se deroga.
@@ -436,15 +449,22 @@ Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
 ### Artículo 69-B
 .- Cada dependencia y organismo descentralizado creará un Registro de Personas Acreditadas para realizar trámites ante éstas; asignando al efecto un número de identificación al interesado, quien, al citar dicho número en los trámites subsecuentes que presente, no requerirá asentar los datos ni acompañar los documentos mencionados en el artículo 15, salvo al órgano a quien se dirige el trámite, la petición que se formula, los hechos y razones que dan motivo a la petición y el lugar y fecha de emisión del escrito. El número de identificación se conformará en los términos que establezca la Comisión Federal de Mejora Regulatoria, con base en la clave del Registro Federal de Contribuyentes del interesado, en caso de estar inscrito en el mismo.
 Los registros de personas acreditadas deberán estar interconectados informáticamente y el número de identificación asignado por una dependencia u organismo descentralizado será obligatorio para las demás.
-Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo tercero Artículo adicionado DOF 19-04-2000
+Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo tercero
+Artículo adicionado DOF 19-04-2000
 
 ### Artículo 69-C
 .- En los procedimientos administrativos, las dependencias y los organismos descentralizados de la Administración Pública Federal recibirán las promociones o solicitudes que, en términos de esta Ley, los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios de comunicación electrónica en las etapas que las propias dependencias y organismos así lo determinen mediante reglas de carácter general publicadas en el Diario Oficial de la Federación. En estos últimos casos se emplearán, en sustitución de la firma autógrafa, medios de identificación electrónica.
-Párrafo adicionado DOF 30-05-2000 El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado, incluidos los particulares que se encuentren inscritos en el Registro de Personas Acreditadas a que alude el artículo 69-B de esta Ley.
-Párrafo adicionado DOF 30-05-2000 Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
-Párrafo adicionado DOF 30-05-2000 La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismo descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
-Párrafo adicionado DOF 30-05-2000. Reformado DOF 09-04-2012 Las dependencias y organismos descentralizados podrán hacer uso de los medios de comunicación electrónica para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 35 de esta Ley.
-Párrafo adicionado DOF 30-05-2000 Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo primero Artículo adicionado DOF 19-04-2000
+Párrafo adicionado DOF 30-05-2000
+El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado, incluidos los particulares que se encuentren inscritos en el Registro de Personas Acreditadas a que alude el artículo 69-B de esta Ley.
+Párrafo adicionado DOF 30-05-2000
+Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+Párrafo adicionado DOF 30-05-2000
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismo descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
+Párrafo adicionado DOF 30-05-2000. Reformado DOF 09-04-2012
+Las dependencias y organismos descentralizados podrán hacer uso de los medios de comunicación electrónica para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 35 de esta Ley.
+Párrafo adicionado DOF 30-05-2000
+Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo primero
+Artículo adicionado DOF 19-04-2000
 
 ### Artículo 69
 C Bis.- Asimismo, a efecto de facilitar las gestiones de los interesados frente a las autoridades y evitar duplicidad de información en trámites y crear sinergias entre las diversas bases de datos, las dependencias y organismos descentralizados que estén vinculados en la realización de procedimientos administrativos relacionados con la apertura y operación de empresas, estarán obligados a coordinarse con la Secretaría de Economía, para el cumplimiento de dichos fines. La Secretaría de Economía tendrá la facultad de organizar, unificar e implementar el sistema informático que preverá expedientes electrónicos empresariales.
@@ -456,7 +476,9 @@ Artículo adicionado DOF 15-12-2011
 
 ### Artículo 69-D
 .- Se deroga.
-Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018 Capítulo segundo De la Comisión Federal de Mejora Regulatoria Capítulo adicionado DOF 19-04-2000
+Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
+Capítulo segundo De la Comisión Federal de Mejora Regulatoria
+Capítulo adicionado DOF 19-04-2000
 
 ### Artículo 69-E
 .- Se deroga.
@@ -468,7 +490,9 @@ Artículo adicionado DOF 19-04-2000. Reformado DOF 09-04-2012. Derogado DOF 18-0
 
 ### Artículo 69-G
 .- Se deroga.
-Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018 Capítulo tercero De la manifestación de impacto regulatorio Capítulo adicionado DOF 19-04-2000
+Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
+Capítulo tercero De la manifestación de impacto regulatorio
+Capítulo adicionado DOF 19-04-2000
 
 ### Artículo 69-H
 .- Se deroga.
@@ -488,7 +512,9 @@ Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
 
 ### Artículo 69-L
 .- Se deroga.
-Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018 Capítulo cuarto Del Registro Federal de Trámites y Servicios Capítulo adicionado DOF 19-04-2000
+Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
+Capítulo cuarto Del Registro Federal de Trámites y Servicios
+Capítulo adicionado DOF 19-04-2000
 
 ### Artículo 69-M
 .- Se deroga.
@@ -508,7 +534,8 @@ Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
 
 ### Artículo 69-Q
 .- Se deroga.
-Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018 TITULO CUARTO DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS CAPITULO UNICO
+Artículo adicionado DOF 19-04-2000. Derogado DOF 18-05-2018
+TITULO CUARTO DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS CAPITULO UNICO
 
 ### Artículo 70
 .- Las sanciones administrativas deberán estar previstas en las leyes respectivas y podrán consistir en:
@@ -530,21 +557,31 @@ VI. Las demás que señalen las leyes o reglamentos.
 
 I. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, incumpla por dos veces lo dispuesto en el artículo 17;
 
-II. (Se deroga) Fracción derogada DOF 18-05-2018
+II. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-III. (Se deroga) Fracción derogada DOF 18-05-2018
+III. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-IV. (Se deroga) Fracción derogada DOF 18-05-2018
+IV. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-V. (Se deroga) Fracción derogada DOF 18-05-2018
+V. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-VI. (Se deroga) Fracción derogada DOF 18-05-2018
+VI. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-VII. (Se deroga) Fracción derogada DOF 18-05-2018
+VII. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-VIII. (Se deroga) Fracción derogada DOF 18-05-2018
+VIII. (Se deroga)
+Fracción derogada DOF 18-05-2018
 
-IX. (Se deroga) Fracción derogada DOF 18-05-2018 Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo segundo (antes reformado DOF 09-04-2012) Artículo adicionado DOF 19-04-2000
+IX. (Se deroga)
+Fracción derogada DOF 18-05-2018
+Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo segundo (antes reformado DOF 09-04-2012)
+Artículo adicionado DOF 19-04-2000
 
 ### Artículo 71
 .- Sin perjuicio de lo establecido en las leyes administrativas, en caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
@@ -708,10 +745,10 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 ## TRANSITORIOS
 
-**PRIMERO.** Esta ley entrará en vigor el 1o. de junio de 1995.
-**SEGUNDO.** Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en particular los diversos recursos administrativos de las diferentes leyes administrativas en las materias reguladas por este ordenamiento. Los recursos administrativos en trámite a la entrada en vigor de esta Ley, se resolverán conforme a la ley de la materia.
-**TERCERO.** En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
-**CUARTO.** Los procedimientos de conciliación y arbitraje previstos en los ordenamientos materia de la presente Ley, se seguirán sustanciando conforme a lo dispuesto en dichos ordenamientos legales.
+**PRIMERO.-** Esta ley entrará en vigor el 1o. de junio de 1995.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en particular los diversos recursos administrativos de las diferentes leyes administrativas en las materias reguladas por este ordenamiento. Los recursos administrativos en trámite a la entrada en vigor de esta Ley, se resolverán conforme a la ley de la materia.
+**TERCERO.-** En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
+**CUARTO.-** Los procedimientos de conciliación y arbitraje previstos en los ordenamientos materia de la presente Ley, se seguirán sustanciando conforme a lo dispuesto en dichos ordenamientos legales.
 México, D.F., a 14 de julio de 1994.- Dip. Manuel Huerta Ladrón de Guevara, Presidente.- Sen.
 Ricardo Monreal Avila, Presidente.- Dip. José Raúl Hernández Avila, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
@@ -728,12 +765,11 @@ Se reforman el párrafo segundo del artículo 1, el párrafo primero de los art�
 México, D.F., a 10 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Felipe Amadeo Flores Espinosa, Presidente.- Sen. Ángel Ventura Valle, Secretario.- Dip. Carlos Núñez Hurtado, Secretario." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforma la Ley Federal de Procedimiento Administrativo.
 Publicado en el Diario Oficial de la Federación el 19 de abril de 2000 Artículo Unico.- Se reforman los artículos 1, segundo párrafo, 2, 4, 17, primer párrafo, 17-A y 83; se adicionan un segundo párrafo al artículo 1, recorriéndose en su orden actual los párrafos segundo y
-**tercero.** , el artículo 15-A, un título tercero A y los artículos 69-A a 69-Q y 70-A, y se deroga el artículo 4-A de la Ley Federal de Procedimiento Administrativo, para quedar como sigue: ..........
+**tercero.-** , el artículo 15-A, un título tercero A y los artículos 69-A a 69-Q y 70-A, y se deroga el artículo 4-A de la Ley Federal de Procedimiento Administrativo, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
 **PRIMERO.-** El presente Decreto entrará en vigor al mes siguiente de su publicación en el Diario Oficial de la Federación, salvo:
-
 I. Lo previsto en los artículos 69-B, primer párrafo, 69-O y 69-Q, que entrarán en vigor al día hábil siguiente en que la dependencia u organismo descentralizado correspondiente publique en el Diario Oficial de la Federación un acuerdo mediante el que informe que está operando el Registro de Personas Acreditadas o que están inscritos en el Registro todos los trámites que les corresponde aplicar, según corresponda; dicha publicación deberá hacerse en un plazo máximo de tres años a partir del mes siguiente a que se publique este Decreto;
 
 II. Lo previsto en el artículo 69-B, segundo párrafo, que entrará en vigor al día hábil siguiente en que el Titular del Ejecutivo Federal publique en el Diario Oficial de la Federación un decreto mediante el que informe que están operando de manera interconectada todos los registros de Personas Acreditadas; dicha publicación deberá hacerse en un plazo máximo de tres años a partir del mes siguiente a que se publique este Decreto, y
@@ -772,8 +808,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de Procedimiento Administrativo y se reforman y adicionan diversas disposiciones de los artículos 90 Bis, 91 y 92 del Código de Comercio.
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
@@ -804,12 +840,12 @@ Cuarto.- Se reforma el artículo 2 de la Ley Federal de Procedimiento Administra
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

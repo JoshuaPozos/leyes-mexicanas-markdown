@@ -14,7 +14,9 @@ Se expide la “
 
 ## TÍTULO PRIMERO — DEL OBJETO DE LA LEY
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto establecer un sistema de protección al ahorro bancario en favor de las personas que realicen cualquiera de las operaciones garantizadas, en los términos y con las limitantes que la misma determina; regular los apoyos financieros que se otorguen a las instituciones de banca múltiple para la protección de los intereses del público ahorrador, así como establecer las bases para la organización y funcionamiento de la entidad pública encargada de estas funciones.
@@ -44,7 +46,9 @@ VI. Bienes, a los créditos, derechos, acciones y otros bienes de cualquier natu
 
 ## TÍTULO SEGUNDO — DEL SISTEMA DE PROTECCIÓN AL AHORRO BANCARIO
 
+
 ## CAPÍTULO I — De las Obligaciones Garantizadas
+
 
 ### Artículo 6o
 .- Para los efectos de esta Ley, se considerarán obligaciones garantizadas los depósitos, préstamos y créditos a que se refieren las fracciones I y II del artículo 46 de la Ley de Instituciones de Crédito.
@@ -55,10 +59,12 @@ Las Instituciones tienen la obligación de informar a las personas usuarias de s
 Artículo derogado DOF 06-07-2006
 
 ### Artículo 8o
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 9o
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 10o
 .- El Instituto no garantizará las operaciones siguientes:
@@ -75,24 +81,29 @@ V. Las operaciones que no se hayan sujetado a las disposiciones legales, reglame
 
 ## CAPÍTULO II — Del Pago de las Obligaciones Garantizadas
 
+
 ### Artículo 11
 .- El Instituto pagará el saldo de las obligaciones garantizadas, considerando el monto del principal y accesorios, hasta por una cantidad equivalente a cuatrocientas mil unidades de inversión por persona, física o moral, cualquiera que sea el número y clase de dichas obligaciones a su favor y a cargo de una misma Institución.
 
 ### Artículo 12
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 13
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 14
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 15
 .- Se deroga.
 Artículo derogado DOF 06-07-2006
 
 ### Artículo 16
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 17
 .- Por el solo pago de las obligaciones garantizadas, el Instituto se subrogará en los derechos de cobro, en la liquidación, suspensión de pagos o quiebra de la Institución, con los privilegios correspondientes a las personas a las que se les hizo dicho pago, hasta por el monto cubierto, siendo suficiente título el documento en que conste el pago referido. Los derechos de cobro del Instituto antes señalados, tendrán preferencia sobre aquellos correspondientes al saldo no cubierto por éste de las obligaciones garantizadas.
@@ -104,6 +115,7 @@ Artículo derogado DOF 06-07-2006
 .- Si alguna persona no está de acuerdo en recibir del Instituto el monto correspondiente a las obligaciones garantizadas a su favor, calculado conforme a lo dispuesto en este Título, podrá reclamar la cantidad relativa a la totalidad de las obligaciones garantizadas directamente a la Institución, de acuerdo al contrato o título respectivo, así como en términos de las disposiciones legales reglamentarias y administrativas aplicables.
 
 ## CAPÍTULO III — De las Cuotas
+
 
 ### Artículo 20
 .- A fin de cumplir con el objeto de la presente Ley, las Instituciones estarán obligadas a pagar al Instituto las cuotas ordinarias y extraordinarias que establezca la Junta de Gobierno, en los términos y condiciones dispuestos en este Capítulo.
@@ -136,6 +148,7 @@ Sin perjuicio de lo anterior, el Instituto, con cargo a dicha cuenta, podrá man
 Artículo reformado DOF 31-12-2000
 
 ## CAPÍTULO IV — De los Apoyos y Programas para el Saneamiento Financiero de las Instituciones
+
 
 ### Artículo 28
 .- Se deroga.
@@ -220,12 +233,14 @@ Para fines del límite a que se refiere el párrafo anterior también computará
 
 ## CAPÍTULO V — De la Administración Cautelar
 
+
 ### Artículo 49
 .- Se deroga.
 Artículo derogado DOF 06-07-2006
 
 ### Artículo 50
-.- Se deroga Artículo derogado DOF 06-07-2006
+.- Se deroga
+Artículo derogado DOF 06-07-2006
 
 ### Artículo 51
 .- Se deroga.
@@ -245,6 +260,7 @@ Artículo derogado DOF 06-07-2006
 
 ## CAPÍTULO VI — De la Liquidación, Suspensión de Pagos y Quiebra de las Instituciones
 
+
 ### Artículo 55
 .- Se deroga.
 Artículo derogado DOF 06-07-2006
@@ -259,11 +275,14 @@ Artículo derogado DOF 06-07-2006
 
 ## TÍTULO TERCERO — DE LOS BIENES
 
+
 ## CAPÍTULO I
+
 La Adquisición y Régimen de los Bienes
 
 ### Artículo 58
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 59
 .- Los Bienes, independientemente de su naturaleza y características, no se considerarán para ningún efecto bienes nacionales, por tanto, no les serán aplicables las disposiciones legales y administrativas correspondientes, ni aun las de carácter presupuestario o relacionadas con el gasto público.
@@ -273,31 +292,40 @@ La Adquisición y Régimen de los Bienes
 
 ## CAPÍTULO II — De los Procedimientos de Administración, Enajenación y Control de los Bienes
 
+
 ### Artículo 61
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 62
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 63
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 64
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 64
-Bis.- Se deroga Artículo adicionado DOF 01-06-2001. Derogado DOF 10-01-2014
+Bis.- Se deroga
+Artículo adicionado DOF 01-06-2001. Derogado DOF 10-01-2014
 
 ### Artículo 65
 . Una vez hechas las enajenaciones, el otorgamiento del uso a título gratuito o las donaciones a que se refieren los artículos anteriores, el Instituto deberá remitir un informe detallado a las Secretarías de Hacienda y Crédito Público y de la Función Pública, así como a la Cámara de Diputados a través de su Comisión de Cultura, en un plazo máximo de treinta días hábiles posteriores a su formalización.
-Párrafo reformado DOF 01-06-2001, 09-04-2012 Asimismo, el órgano de control interno del Instituto hará un seguimiento puntual de dichas operaciones, y las áreas operativas formularán la memoria circunstanciada de cada una de ellas.
+Párrafo reformado DOF 01-06-2001, 09-04-2012
+Asimismo, el órgano de control interno del Instituto hará un seguimiento puntual de dichas operaciones, y las áreas operativas formularán la memoria circunstanciada de cada una de ellas.
 
 ### Artículo 66
 .- El Instituto deberá enviar anualmente al Ejecutivo Federal, con el detalle de las operaciones al 31 de diciembre, un ejemplar de la memoria a que se refiere el artículo anterior, para que conjuntamente con la Cuenta de la Hacienda Pública Federal del ejercicio correspondiente se presente a la Cámara de Diputados.
 
 ## TÍTULO CUARTO — DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
+
 ## CAPÍTULO I — De las Atribuciones y Patrimonio
+
 
 ### Artículo 67
 .- El Instituto tiene por objeto:
@@ -345,7 +373,8 @@ XVII. Comunicar a la Procuraduría Fiscal de la Federación las irregularidades 
 
 XVIII. Denunciar o formular querella ante el Ministerio Público de los hechos que conozca con motivo del desarrollo de sus funciones, que puedan ser constitutivos de delito y desistirse u otorgar el perdón, previa autorización de la Junta de Gobierno, cuando proceda;
 
-XIX. Evaluar de manera permanente el desempeño que las Instituciones y los terceros especializados, en su caso, tengan con respecto a la recuperación, administración y enajenación de Bienes, de conformidad con lo que establece esta Ley y la Ley de Instituciones de Crédito, y Fracción reformada DOF 10-01-2014
+XIX. Evaluar de manera permanente el desempeño que las Instituciones y los terceros especializados, en su caso, tengan con respecto a la recuperación, administración y enajenación de Bienes, de conformidad con lo que establece esta Ley y la Ley de Instituciones de Crédito, y
+Fracción reformada DOF 10-01-2014
 
 XX. Las demás que le otorguen esta Ley, así como otras leyes aplicables.
 
@@ -379,6 +408,7 @@ VII. Los demás derechos y obligaciones que el Instituto reciba, adquiera o cont
 .- El Instituto podrá realizar las gestiones necesarias para convenir la substitución de los deberes fiduciarios, tratándose de instituciones que sean administradas por aquél o bien que se encuentren intervenidas por la Comisión.
 
 ## CAPÍTULO II — Del Gobierno y Administración
+
 
 ### Artículo 74
 .- El gobierno y administración del Instituto están a cargo de una Junta de Gobierno y un Secretario Ejecutivo, respectivamente, quienes serán apoyados por la estructura administrativa que la propia Junta de Gobierno determine.
@@ -479,6 +509,7 @@ Las sesiones se efectuarán con la asistencia de por lo menos cuatro de sus miem
 
 ## CAPÍTULO III — Del Secretario Ejecutivo
 
+
 ### Artículo 83
 .- Para ser Secretario Ejecutivo se deberá cumplir con los requisitos del 78, salvo en el caso de la experiencia la cual deberá ser superior a cinco años en cargos de responsabilidad decisoria relacionados con asuntos financieros.
 
@@ -509,6 +540,7 @@ XI. Las demás que expresamente le asigne la Junta de Gobierno así como informa
 
 ## CAPÍTULO IV — De los Servidores Públicos del Instituto
 
+
 ### Artículo 85
 .- El Secretario Ejecutivo será auxiliado por los servidores públicos que al efecto señale el Estatuto Orgánico del Instituto.
 
@@ -520,6 +552,7 @@ XI. Las demás que expresamente le asigne la Junta de Gobierno así como informa
 
 ## CAPÍTULO V — De los Informes y de la Vigilancia
 
+
 ### Artículo 88
 .- Cualquiera de las Cámaras, podrán citar a comparecer al Secretario Ejecutivo cuando se analice o estudie un negocio concerniente a las actividades del Instituto, así como cuando se integren comisiones para investigar su funcionamiento.
 
@@ -530,7 +563,9 @@ Párrafo reformado DOF 09-04-2012
 
 ## TÍTULO QUINTO — DE LAS SANCIONES
 
+
 ## Capítulo Único
+
 
 ### Artículo 90
 .- Son infracciones de las Instituciones a esta Ley:
@@ -623,7 +658,6 @@ C) El Instituto y las Instituciones, acordarán un mecanismo propicio para que e
 D) Se establecerán incentivos para que los deudores realicen un pronto pago, así como los mecanismos que induzcan, preferentemente, el pago de los grandes deudores que cuenten con activos para hacer frente a sus compromisos derivados de los derechos de cobro que han sido garantizados por el Instituto.
 Para participar en el nuevo programa, la Institución de que se trate, deberá cumplir con los niveles de capitalización establecidos por las disposiciones aplicables. El Instituto cuidará que durante la vigencia de las garantías o de los instrumentos de pago, las Instituciones cuenten con un nivel de capitalización adecuado para la promoción de la actividad crediticia del país.
 **SEXTO.-** Para los efectos de estas disposiciones transitorias se entenderá por BIEN o BIENES:
-
 a) Las acciones de instituciones de banca múltiple, casas de bolsa y de otras sociedades, de las cuales sean titulares los Fideicomisos a que se refieren los artículos 122 de la Ley de entrada en vigor del presente Decreto;
 
 b) Los derechos fideicomisarios de los que sean titular el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, para recibir el producto de la recuperación de los créditos que se designaron en los convenios celebrados con las instituciones de banca múltiple, dentro de los programas de capitalización y saneamiento de tales instituciones implantados por las autoridades financieras, así como los derechos que confieren a dicho fondo los referidos convenios;
@@ -722,8 +756,8 @@ III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2001.
-**Segundo.** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 2001.
+**Segundo.-** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
 México, D.F., a 28 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip.
 Manuel Medellín Milán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -763,8 +797,8 @@ Se reforman los artículos 65, primer párrafo y 89 de la Ley de Protección al 
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
@@ -774,8 +808,7 @@ TERCERO.- Se REFORMA la fracción XIX del artículo 68; la fracción VI del art�
 
 ### ARTÍCULO TRIGÉSIMO
 QUINTO.- En relación con las modificaciones a que se refieren los Artículos
-**Trigésimo.** Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
-
+**Trigésimo.-** Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
 I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
 
@@ -801,7 +834,7 @@ X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario exp
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
@@ -811,9 +844,9 @@ Se reforma el primer y segundo párrafos del artículo 75 de la Ley de Protecci�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

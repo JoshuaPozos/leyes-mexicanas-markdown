@@ -7,9 +7,11 @@
 
 (Antes “Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 15 de marzo de 1926 TEXTO VIGENTE Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: “PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
-Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025
+Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente
+Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025
 
 ## CAPÍTULO I — Disposiciones Generales
+
 Denominación del Capítulo reformada DOF 10-12-2004
 
 ### Artículo 1o
@@ -38,7 +40,9 @@ Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025
 Artículo reformado DOF 11-12-1995
 
 ## CAPÍTULO II
-Principios Generales de Disciplina Militar Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)
+
+Principios Generales de Disciplina Militar
+Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)
 
 ### Artículo 5o
 .- El militar debe proceder de un modo legal, justo y enérgico en el cumplimiento de sus obligaciones, a fin de obtener la estimación y obediencia de sus subalternos. Es deber del superior educar y dirigir a los individuos que la Nación pone bajo su mando.
@@ -118,7 +122,9 @@ Bis.- El militar, atendiendo a su honor y principios, debe obrar con equidad y j
 Artículo adicionado DOF 10-12-2004
 
 ## CAPÍTULO III
-Correctivos Disciplinarios Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)
+
+Correctivos Disciplinarios
+Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)
 
 ### Artículo 24
 Ter.- El correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército, Fuerza Aérea y Guardia Nacional, por haber infringido las leyes, reglamentos militares, siempre y cuando no constituyan un delito.
@@ -131,10 +137,12 @@ I.- Amonestación;
 II. Arresto;
 Fracción reformada DOF 16-07-2025
 
-III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y Fracción reformada DOF 16-07-2025
+III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y
+Fracción reformada DOF 16-07-2025
 
 IV. Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
-Fracción adicionada DOF 16-07-2025 Artículo adicionado DOF 10-12-2004
+Fracción adicionada DOF 16-07-2025
+Artículo adicionado DOF 10-12-2004
 
 ### Artículo 24
 Quinquies.- La amonestación es el acto por el cual el superior advierte al subalterno, de palabra o por escrito, la omisión o defecto en el cumplimiento de sus deberes; invitándolo a corregirse.
@@ -168,8 +176,10 @@ Artículo derogado DOF 10-12-2004
 
 ### Artículo 31
 .- El militar que ejerce Superioridad jerárquica o de cargo, podrá imponer correctivos disciplinarios.
-Párrafo reformado DOF 10-12-2004 Superioridad jerárquica, es la que corresponde a la dignidad militar que representa el grado, con arreglo a la escala del Ejército, Fuerza Aérea y Guardia Nacional.
-Párrafo reformado DOF 11-12-1995, 16-07-2025 Superioridad de cargo, es la inherente a la comisión que desempeña un militar, por razón de sus funciones y de la autoridad de que está investido.
+Párrafo reformado DOF 10-12-2004
+Superioridad jerárquica, es la que corresponde a la dignidad militar que representa el grado, con arreglo a la escala del Ejército, Fuerza Aérea y Guardia Nacional.
+Párrafo reformado DOF 11-12-1995, 16-07-2025
+Superioridad de cargo, es la inherente a la comisión que desempeña un militar, por razón de sus funciones y de la autoridad de que está investido.
 Párrafo reformado DOF 16-07-2025
 
 ### Artículo 32
@@ -216,7 +226,9 @@ Sexies.- La suspensión es el correctivo disciplinario que se impone a la person
 Artículo adicionado DOF 16-07-2025
 
 ## CAPÍTULO IV
-Consejo de Honor Capítulo adicionado DOF 10-12-2004
+
+Consejo de Honor
+Capítulo adicionado DOF 10-12-2004
 
 ### Artículo 34
 .- El Consejo de Honor se establecerá en las unidades y dependencias del Ejército, Fuerza Aérea y Guardia Nacional; se constituirá con un presidente y cuatro vocales en las unidades y con un presidente y dos vocales en las dependencias, conforme al Reglamento respectivo.
@@ -225,10 +237,13 @@ Artículo reformado DOF 11-12-1995; 10-12-2004, 16-07-2025
 ### Artículo 35
 .- Corresponde conocer al Consejo de Honor:
 I.- De todo lo relativo a la reputación de la Unidad, Dependencia o Instalación;
-Fracción reformada DOF 11-12-1995 II.- De la embriaguez, uso de narcóticos y juegos prohibidos por la ley;
-Fracción reformada DOF 11-12-1995; 10-12-2004 III.- De la disolución escandalosa.
+Fracción reformada DOF 11-12-1995
+II.- De la embriaguez, uso de narcóticos y juegos prohibidos por la ley;
+Fracción reformada DOF 11-12-1995; 10-12-2004
+III.- De la disolución escandalosa.
 IV.- De la falta de honradez en el manejo de caudales que no constituya un delito;
-Fracción reformada DOF 10-12-2004 V.- De la negligencia en el servicio, que no constituya un delito.
+Fracción reformada DOF 10-12-2004
+V.- De la negligencia en el servicio, que no constituya un delito.
 VI.- De todo lo que concierne a la dignidad militar.
 
 ### Artículo 36
@@ -237,15 +252,19 @@ I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Ofic
 II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo.
 
 III. Acordar se solicite la baja del Ejército, Fuerza Aérea y Guardia Nacional por determinación de mala conducta, para el personal de Tropa y discentes del Sistema Educativo Militar;
-Fracción reformada DOF 11-12-1995, 10-12-2004, 03-05-2024, 16-07-2025 IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes.
+Fracción reformada DOF 11-12-1995, 10-12-2004, 03-05-2024, 16-07-2025
+IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes.
 Fracción adicionada DOF 11-12-1995
 
 V. Acordar se solicite la suspensión hasta por treinta días del empleo por determinación de mala conducta al personal de Oficiales y Tropa del Ejército, Fuerza Aérea y Guardia Nacional.
-Fracción adicionada DOF 16-07-2025 En el caso de las fracciones III y V se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga.
+Fracción adicionada DOF 16-07-2025
+En el caso de las fracciones III y V se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga.
 Párrafo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025
 
 ## CAPÍTULO IV BIS
-Consejo Superior de Disciplina Capítulo adicionado DOF 16-07-2025
+
+Consejo Superior de Disciplina
+Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 36
 Bis.- El Consejo Superior de Disciplina es un órgano colegiado que conocerá de la conducta de los Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional.
@@ -284,7 +303,8 @@ Artículo adicionado DOF 16-07-2025
 
 ### Artículo 37
 .- Los castigos correccionales a que se refiere la fracción II del artículo 36 son:
-Párrafo reformado DOF 16-07-2025 I.- Para las clases y soldados, el cambio de unidad, dependencia e instalación o el arresto hasta por quince días en prisión militar, y II.- Para los Oficiales, el cambio de unidad, dependencia, instalación, comisión o el arresto hasta por quince días en prisión militar.
+Párrafo reformado DOF 16-07-2025
+I.- Para las clases y soldados, el cambio de unidad, dependencia e instalación o el arresto hasta por quince días en prisión militar, y II.- Para los Oficiales, el cambio de unidad, dependencia, instalación, comisión o el arresto hasta por quince días en prisión militar.
 Artículo reformado DOF 11-12-1995; 10-12-2004
 
 ### Artículo 38
@@ -303,7 +323,9 @@ Artículo reformado DOF 11-12-1995
 Artículo reformado DOF 11-12-1995
 
 ## CAPÍTULO V
-Prevenciones Generales Capítulo adicionado DOF 10-12-2004
+
+Prevenciones Generales
+Capítulo adicionado DOF 10-12-2004
 
 ### Artículo 42
 .- El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario.
@@ -343,7 +365,7 @@ México, D.F., a 16 de noviembre de 1995.- Dip. Fernando Salgado Delgado, Presid
 Ernesto Navarro González, Presidente.- Dip. Aurelio Marín Huazo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos.
 Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2004
-**ÚNICO.** : Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ..........
+**ÚNICO.-** : Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -374,7 +396,7 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Séptimo
 Se reforman los artículos 1o.; 1o Bis; 2o.; 3o.; 3o Bis; 21; 24 Ter; 25; 31, párrafos
-**segundo.** y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado “Consejo Superior de Disciplina”, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
+**segundo.-** y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado “Consejo Superior de Disciplina”, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
 
 ## Transitorios
 

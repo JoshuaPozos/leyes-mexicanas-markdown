@@ -16,7 +16,9 @@ LEY PARA LA COMPROBACIÓN, AJUSTE Y CÓMPUTO DE SERVICIOS EN EL EJÉRCITO Y FUER
 
 ## TÍTULO PRIMERO — De la Comprobación, Ajuste y Cómputo de Servicios
 
+
 ## CAPÍTULO I
+
 Generalidades
 
 ### Artículo 1
@@ -37,6 +39,7 @@ IV. Petición del interesado.
 .- Cuando los interesados requieran conocer o consultar los datos y constancias relacionados con su actuación militar, tramitarán su petición ante la unidad competente de la Secretaría de la Defensa Nacional, la que dará las facilidades necesarias para que hagan las observaciones que juzguen pertinentes.
 
 ## CAPÍTULO II — De la Comprobación del Tiempo de Servicios
+
 
 ### Artículo 4
 .- La comprobación del tiempo de servicios prestados por el personal del Ejército y Fuerza Aérea Mexicanos, se hará con base en los documentos que existan en los expedientes respectivos y en los que aporten los interesados de conformidad con esta Ley.
@@ -60,6 +63,7 @@ Los certificados de que trata este artículo también podrán ser expedidos por 
 En los casos en que hubiere duda acerca de si la fuerza a que pertenecía el interesado se encontraba o no en campaña, se consultará sobre el particular al Organismo competente de la Secretaría de la Defensa Nacional.
 
 ## CAPÍTULO III — Del Ajuste y Cómputo del Tiempo de Servicios
+
 
 ### Artículo 10
 .- El ajuste es el procedimiento mediante el cual se determinan los períodos que deben abonarse o deducirse al tiempo de servicios del militar, tomando como base lo establecido en la presente Ley.
@@ -102,7 +106,8 @@ El Comandante, Director o Jefe del Organismo al que pertenezca el militar que se
 .- Las deducciones en el tiempo de servicios y de antigüedad procederán en los siguientes casos:
 
 I. A los que hubiesen estado separados del servicio activo por licencia ilimitada o por licencia especial distinta de las previstas en el artículo 20 de esta ley o que hayan permanecido de hecho sustraídos del servicio por cualquier causa no imputable a la Secretaría de la Defensa Nacional, se les deducirá el tiempo que dure dicha circunstancia.
-Párrafo reformado DOF 12-06-2009 Se considera causa imputable a la Secretaría de la Defensa Nacional, el desempeño de una comisión ajena al servicio militar por órdenes de la propia Secretaría, siempre y cuando ésta no haya sido solicitada por el interesado;
+Párrafo reformado DOF 12-06-2009
+Se considera causa imputable a la Secretaría de la Defensa Nacional, el desempeño de una comisión ajena al servicio militar por órdenes de la propia Secretaría, siempre y cuando ésta no haya sido solicitada por el interesado;
 
 II. A los que hayan sido condenados a pena privativa de libertad, se les deducirá el tiempo de la condena, salvo el tiempo que presten en servicio activo por habérseles concedido algún beneficio preliberacional o cuando se sustituya la pena por la de amonestación o multa;
 
@@ -130,6 +135,7 @@ Artículo reformado DOF 12-06-2009
 
 ## TÍTULO SEGUNDO — De la Documentación Comprobatoria de la Actuación y del Tiempo de Servicios
 
+
 ### Artículo 22
 .- La actuación del personal militar se asentará en los documentos siguientes:
 
@@ -142,6 +148,7 @@ III. Memorial de Servicios, y
 IV. Extracto de Antecedentes Militares.
 
 ## CAPÍTULO I — De la Hoja de Actuación
+
 
 ### Artículo 23
 .- La Hoja de Actuación es el documento en el que se conceptúa la actuación y se asienta la historia periódica de los Generales, Jefes y Oficiales durante su permanencia en una Unidad, Dependencia o Instalación del Ejército y Fuerza Aérea Mexicanos. Deberán ser elaboradas por los Comandantes, Directores o Jefes de quienes dependan tales militares, en los formatos que expida la Secretaría de la Defensa Nacional.
@@ -202,6 +209,7 @@ En los casos previstos en las fracciones I y II, la Hoja de Actuación se expedi
 
 ## CAPÍTULO II — De la Hoja de Servicios
 
+
 ### Artículo 27
 .- La Hoja de Servicios es el documento que resume la historia de la vida militar de los Generales, Jefes y Oficiales. Será formulada por la unidad administrativa referida en el artículo 2 de esta Ley, en el formato que expida la Secretaría de la Defensa Nacional y contendrá los datos que arrojen sus expedientes desde su ingreso al Ejército y Fuerza Aérea Mexicanos hasta su separación definitiva.
 
@@ -240,6 +248,7 @@ XII. Todos los conceptos militares emitidos en relación con el interesado.
 .- Al concluir las anotaciones en la Hoja de Servicios, la unidad administrativa a que hace referencia el artículo 2 de esta Ley expedirá un certificado en el que se exprese el motivo que originó el trámite.
 
 ## CAPÍTULO III — Del Memorial de Servicios
+
 
 ### Artículo 31
 .- El Memorial de Servicios es el documento en el que se hace constar la historia de la vida militar del personal de Tropa del Ejército y Fuerza Aérea Mexicanos en orden cronológico. Será elaborado por los Comandantes, Directores o Jefes de quien dependa el militar, a partir del nivel corporación o su equivalente, en los formatos que expida la Secretaría de la Defensa Nacional.
@@ -286,6 +295,7 @@ En este caso, los jefes de las oficinas administrativas o quienes realicen estas
 Cuando un individuo de Tropa ascienda a la jerarquía de Oficial o cause baja del Ejército y Fuerza Aérea Mexicanos, se cerrará su Memorial de Servicios y se le enviará a la unidad administrativa referida en el artículo 2 de esta Ley, para que con éste se abra su expediente o para su resguardo, según corresponda.
 
 ## CAPÍTULO IV — Del Extracto de Antecedentes Militares
+
 
 ### Artículo 35
 .- El Extracto de Antecedentes Militares es el documento en el que se hace constar la totalidad de los años, meses y días, así como las Unidades, Dependencias e Instalaciones en que sirvió el militar desde que causó alta en el Ejército y Fuerza Aérea Mexicanos, hasta su separación del activo o la fecha de su elaboración. Es utilizado para comprobar el tiempo total de servicios, considerando los abonos y deducciones contemplados en esta Ley.

@@ -15,7 +15,9 @@ Se expide la Ley Reglamentaria del Artículo 3o. de la Constitución Política d
 
 ## Título Primero — Disposiciones Generales
 
+
 ## Capítulo Único — Del objeto de la Ley
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de mejora continua de la educación. Es de observancia general para toda la República y sus disposiciones son de orden público e interés social.
@@ -58,7 +60,9 @@ XIV. Unidad del Sistema: a la Unidad del Sistema Nacional para la Carrera de las
 
 ## Título Segundo — Del Sistema Nacional de Mejora Continua de la Educación
 
+
 ## Capítulo I — Del objeto y principios del Sistema Nacional de Mejora Continua de la Educación
+
 
 ### Artículo 4
 . El Sistema Nacional de Mejora Continua de la Educación es un conjunto de actores, instituciones y procesos estructurados y coordinados, que contribuyen a la mejora continua de la LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS educación, para dar cumplimiento a los principios, fines y criterios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación y en la presente Ley.
@@ -85,6 +89,7 @@ VII. La participación social y comunitaria.
 Todo lo anterior en concordancia con el enfoque de derechos humanos, de igualdad sustantiva y de respeto irrestricto a la dignidad de las personas, así como del carácter obligatorio, universal, inclusivo, intercultural, integral, público, gratuito, de excelencia y laico de la educación que imparte el Estado y la rectoría que éste ejerce, de conformidad con los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para lograr la mejora continua de la educación.
 
 ## Capítulo II
+
 De la integración y facultades del Sistema Nacional de Mejora Continua de la Educación
 
 ### Artículo 7
@@ -129,9 +134,11 @@ La presidencia del Comité, por conducto de la Secretaría Técnica, convocará 
 En las sesiones del Comité se tomará en cuenta los resolutivos del Consejo Nacional de Autoridades Educativas que adopte en materia de mejora continua de la educación.
 
 ## Título Tercero — Del Sistema Integral de Formación, Capacitación y Actualización
+
 LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
 
 ## Capítulo I
+
 Del derecho a la formación, capacitación y actualización de las maestras y los maestros
 
 ### Artículo 12
@@ -207,6 +214,7 @@ La Unidad del Sistema remitirá a las autoridades de educación media superior, 
 
 ## Capítulo II — De las evaluaciones diagnósticas
 
+
 ### Artículo 18
 . Las evaluaciones diagnósticas serán formativas e integrales y consisten en procesos mediante los cuales se formulan juicios fundamentados en evidencia, sobre las cualidades de los actores, instituciones o procesos del Sistema Educativo Nacional, con la finalidad de contar con una retroalimentación que promueva una acción de mejora en la educación.
 La evaluación del Sistema Educativo Nacional será integral, continua, colectiva, incluyente, diagnóstica y comunitaria. Contará al menos con las etapas de diagnóstico, implementación, seguimiento y evaluación. Será participativa y transparente en todas sus etapas, sustentada en los principios de igualdad sustantiva, interculturalidad, imparcialidad, transparencia y rendición de cuentas de la autoridad educativa, además de los criterios de equidad y excelencia en educación.
@@ -230,7 +238,9 @@ La Secretaría dispondrá de las medidas para que cada participante conozca los 
 
 ## Título Cuarto — De la Comisión Nacional para la Mejora Continua de la Educación
 
+
 ## Capítulo I — De la naturaleza, objeto y atribuciones de la Comisión
+
 
 ### Artículo 24
 . La Comisión se constituye como un organismo público descentralizado, no sectorizado, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y patrimonio propio.
@@ -266,6 +276,7 @@ VIII. Las demás que se establezcan en otras disposiciones legales.
 En el ejercicio de sus atribuciones, la Comisión se regirá por los principios de independencia, transparencia, rendición de cuentas, objetividad, pertinencia, diversidad e inclusión.
 
 ## Capítulo II — Del gobierno, organización y funcionamiento
+
 
 ### Artículo 29
 . La Comisión está integrada por:
@@ -366,6 +377,7 @@ VI. Las demás que le confiera la presente Ley o las derivadas de los acuerdos d
 
 ## Capítulo III — Del Consejo Técnico de Educación
 
+
 ### Artículo 41
 . La Comisión contará con un Consejo Técnico de Educación, que será un órgano colegiado multidisciplinario, cuyo propósito es asesorar a la Junta en aspectos técnicos y metodológicos, en materia de mejora continua de la educación, para el cumplimiento de sus atribuciones.
 
@@ -427,6 +439,7 @@ La presidencia del Consejo Técnico deberá informar a la Junta el orden del dí
 
 ## Capítulo IV — Del Consejo Ciudadano
 
+
 ### Artículo 50
 . El Consejo Ciudadano es un órgano colegiado honorífico de consulta de la Comisión, constituido bajo el principio de máxima inclusión, cuyo propósito es facilitar la participación activa y armónica de los actores del proceso educativo y de los sectores social, público y privado en la mejora continua de la educación. Su función es conocer, opinar y dar seguimiento a los resultados de los trabajos que realice la Comisión, así como a las acciones para su difusión. Tendrá a su cargo la elaboración de un plan de gran visión educativa de carácter orientador para la formulación de los programas de mediano plazo.
 
@@ -475,6 +488,7 @@ La presidencia del Consejo Ciudadano deberá informar a la Junta, al momento de 
 
 ## Capítulo V — De la Secretaría Ejecutiva
 
+
 ### Artículo 56
 . La Secretaría Ejecutiva es la instancia encargada de auxiliar a la Junta en la coordinación, administración y funcionamiento de la Comisión, de conformidad con las disposiciones aplicables.
 LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS Para el cumplimiento de sus atribuciones, le corresponde a la Secretaría Ejecutiva:
@@ -501,6 +515,7 @@ X. Representar legalmente a la Comisión y otorgar, sustituir y revocar poderes 
 
 ## Capítulo VI — De las áreas administrativas
 
+
 ### Artículo 57
 . La Comisión contará con las siguientes áreas administrativas:
 
@@ -521,7 +536,9 @@ III. De vinculación e integralidad del aprendizaje.
 
 ## Título Quinto — De los mecanismos de colaboración y coordinación
 
+
 ## Capítulo Único — Disposiciones generales
+
 
 ### Artículo 61
 . Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, la Comisión podrá suscribir los convenios necesarios para la coordinación y colaboración con autoridades educativas, instituciones académicas y de investigación, organizaciones sociales nacionales o extranjeras, relacionadas con la mejora continua de la educación.
@@ -533,14 +550,17 @@ III. De vinculación e integralidad del aprendizaje.
 . Para el cumplimiento de sus atribuciones, la Comisión además podrá suscribir convenios con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Título Sexto
+
 Previsiones Generales
 
 ## Capítulo I — De la información pública, la transparencia y la rendición de cuentas
+
 
 ### Artículo 64
 . Toda la información generada, obtenida, adquirida, transformada o en posesión de la Comisión es pública y accesible a cualquier persona, misma que se sujetará a los términos y condiciones Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables.
 
 ## Capítulo II — De la vigilancia y del Órgano Interno de Control
+
 LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
 
 ### Artículo 65
@@ -554,16 +574,17 @@ LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS
 
 ## Capítulo III — Del régimen laboral
 
+
 ### Artículo 68
 . Las relaciones laborales entre la Comisión y sus trabajadores se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones normativas, legales y reglamentarias que se opongan al sentido de la presente Ley.
-**Tercero.** El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.
-**Cuarto.** Los integrantes de la Junta Directiva y del Consejo Técnico de Educación de la Comisión Nacional para la Mejora Continua de la Educación, electos por la Cámara de Senadores en sesión extraordinaria del 1 de julio de 2019, asumirán sus funciones hasta la entrada en vigor de la presente Ley, en términos del artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
-**Quinto.** Para la integración del primer Consejo Ciudadano de la Comisión Nacional para la Mejora Continua de la Educación, la Junta Directiva de este órgano, emitirá la convocatoria respectiva en un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones normativas, legales y reglamentarias que se opongan al sentido de la presente Ley.
+**Tercero.-** El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.
+**Cuarto.-** Los integrantes de la Junta Directiva y del Consejo Técnico de Educación de la Comisión Nacional para la Mejora Continua de la Educación, electos por la Cámara de Senadores en sesión extraordinaria del 1 de julio de 2019, asumirán sus funciones hasta la entrada en vigor de la presente Ley, en términos del artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
+**Quinto.-** Para la integración del primer Consejo Ciudadano de la Comisión Nacional para la Mejora Continua de la Educación, la Junta Directiva de este órgano, emitirá la convocatoria respectiva en un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
 Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, éstos se harán por los periodos siguientes:
 
 a) Tres nombramientos por un periodo de tres años;
@@ -578,18 +599,18 @@ LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS
 e) Dos nombramientos por un periodo de once años, y
 
 f) Un nombramiento por un periodo de doce años.
-**Sexto.** Una vez instalado el Comité del Sistema Nacional de Mejora Continua de la Educación, en su primera sesión ordinaria, deberá someter para su aprobación a la persona que fungirá como Secretaria Técnica quien, a su vez, tendrá el carácter de Secretaria Ejecutiva de la Comisión Nacional para la Mejora Continua de la Educación, una vez ratificada por su Junta Directiva.
-**Séptimo.** Los recursos materiales y financieros del extinto Instituto Nacional para la Evaluación de la Educación, pasan a formar parte de la Comisión Nacional para la Mejora Continua de la Educación que se regula en los términos de la presente Ley y demás disposiciones aplicables.
-**Octavo.** Los proyectos, planes, procedimientos, trámites, investigaciones y asuntos en general, que se encuentren en proceso, se deberán concluir conforme a lo programado, en aquello que no se contraponga a la presente Ley.
-**Noveno.** Los asuntos que se encuentren en trámite en el Órgano Interno de Control serán desahogados por el servidor público designado para ese fin por la Secretaría de la Función Pública conforme al artículo 66 de esta Ley.
-**Décimo.** El acervo de información, archivos administrativos, bases de datos y cualquier otro instrumento documental, en cualquier medio impreso o digital de conservación, que no revista el carácter de información pública en términos del artículo Décimo Transitorio del Decreto citado en el artículo Cuarto
+**Sexto.-** Una vez instalado el Comité del Sistema Nacional de Mejora Continua de la Educación, en su primera sesión ordinaria, deberá someter para su aprobación a la persona que fungirá como Secretaria Técnica quien, a su vez, tendrá el carácter de Secretaria Ejecutiva de la Comisión Nacional para la Mejora Continua de la Educación, una vez ratificada por su Junta Directiva.
+**Séptimo.-** Los recursos materiales y financieros del extinto Instituto Nacional para la Evaluación de la Educación, pasan a formar parte de la Comisión Nacional para la Mejora Continua de la Educación que se regula en los términos de la presente Ley y demás disposiciones aplicables.
+**Octavo.-** Los proyectos, planes, procedimientos, trámites, investigaciones y asuntos en general, que se encuentren en proceso, se deberán concluir conforme a lo programado, en aquello que no se contraponga a la presente Ley.
+**Noveno.-** Los asuntos que se encuentren en trámite en el Órgano Interno de Control serán desahogados por el servidor público designado para ese fin por la Secretaría de la Función Pública conforme al artículo 66 de esta Ley.
+**Décimo.-** El acervo de información, archivos administrativos, bases de datos y cualquier otro instrumento documental, en cualquier medio impreso o digital de conservación, que no revista el carácter de información pública en términos del artículo Décimo Transitorio del Decreto citado en el artículo Cuarto
 
 ## Transitorio
 
 de esta Ley, deberá quedar en resguardo de la Secretaría Ejecutiva de la Comisión Nacional para la Mejora Continua de la Educación, una vez realizada su designación.
-**Décimo Primero.** Los derechos y obligaciones a cargo del extinto Instituto Nacional para la Evaluación de la Educación, que no hubieren terminado a partir de la reforma constitucional del 15 de mayo de 2019, serán asumidos por la Comisión Nacional para la Mejora Continua de la Educación en lo que resulte compatible con sus atribuciones constitucionales y legales.
-**Décimo Segundo.** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
-**Décimo Tercero.** La Comisión Nacional para la Mejora Continua de la Educación permanecerá en el Ramo 42 del Presupuesto de Egresos de la Federación hasta el 31 de diciembre de 2019. A partir del 1o. de enero de 2020 se incluirá en la relación de Entidades Paraestatales de la Administración Pública Paraestatal como descentralizado no sectorizado.
-**Décimo Cuarto.** Las personas integrantes de la Junta Directiva de la Comisión Nacional para la Mejora Continua, las y los servidores públicos de la Comisión y las personas que tengan acceso a información que se genere en estricto apego a las facultades de la Junta y que esté catalogada como reservada no podrán difundir, transmitir o utilizar dicha información, salvo para el estricto ejercicio de sus funciones. La violación a este precepto será sancionada en los términos de las disposiciones legales aplicables.
+**Décimo Primero.-** Los derechos y obligaciones a cargo del extinto Instituto Nacional para la Evaluación de la Educación, que no hubieren terminado a partir de la reforma constitucional del 15 de mayo de 2019, serán asumidos por la Comisión Nacional para la Mejora Continua de la Educación en lo que resulte compatible con sus atribuciones constitucionales y legales.
+**Décimo Segundo.-** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+**Décimo Tercero.-** La Comisión Nacional para la Mejora Continua de la Educación permanecerá en el Ramo 42 del Presupuesto de Egresos de la Federación hasta el 31 de diciembre de 2019. A partir del 1o. de enero de 2020 se incluirá en la relación de Entidades Paraestatales de la Administración Pública Paraestatal como descentralizado no sectorizado.
+**Décimo Cuarto.-** Las personas integrantes de la Junta Directiva de la Comisión Nacional para la Mejora Continua, las y los servidores públicos de la Comisión y las personas que tengan acceso a información que se genere en estricto apego a las facultades de la Junta y que esté catalogada como reservada no podrán difundir, transmitir o utilizar dicha información, salvo para el estricto ejercicio de sus funciones. La violación a este precepto será sancionada en los términos de las disposiciones legales aplicables.
 Asimismo, los datos personales y la información considerada como confidencial, no se podrá dar a conocer, salvo las excepciones que la propia legislación de la materia establece.
 LEY REGLAMENTARIA DEL ARTÍCULO 3o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

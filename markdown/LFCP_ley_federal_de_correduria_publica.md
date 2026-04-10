@@ -11,9 +11,11 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E 
 LEY FEDERAL DE CORREDURIA PUBLICA ARTICULO 1o.- La presente ley es de orden público y de observancia en toda la República. Su objeto es regular la función del corredor público.
 ARTICULO 2o.- La aplicación de la presente Ley corresponde al Ejecutivo Federal, a través de la Secretaría de Economía, con la participación que corresponda a las autoridades estatales.
 Cuando esta Ley haga referencia a la Secretaría, se entenderá la Secretaría de Economía.
-Artículo reformado DOF 08-06-2011, 09-04-2012 ARTICULO 3o.- Corresponde a la Secretaría:
+Artículo reformado DOF 08-06-2011, 09-04-2012
+ARTICULO 3o.- Corresponde a la Secretaría:
 I.- Asegurar la eficacia del servicio que prestan los corredores públicos, como auxiliares del comercio y como fedatarios públicos en la materia que esta ley les autoriza, cuidando siempre la seguridad jurídica en los actos en que intervengan;
-Fracción reformada DOF 08-06-2011 II.- Examinar a las personas que deseen obtener la calidad de aspirantes a corredores o a ejercer como corredores públicos, asegurándose de que éstos sean personas dotadas de alta calidad profesional y reconocida honorabilidad;
+Fracción reformada DOF 08-06-2011
+II.- Examinar a las personas que deseen obtener la calidad de aspirantes a corredores o a ejercer como corredores públicos, asegurándose de que éstos sean personas dotadas de alta calidad profesional y reconocida honorabilidad;
 III.- Expedir y revocar las habilitaciones correspondientes;
 IV.- Vigilar la actuación de los corredores públicos y la de los colegios de corredores;
 V.- Imponer las sanciones que prescribe la presente ley; y VI.- Las demás funciones que dispongan las leyes y reglamentos.
@@ -33,14 +35,17 @@ Fracción reformada DOF 23-05-2006
 VI. Actuar como fedatario en la constitución y en los demás actos previstos por la Ley General de Sociedades Mercantiles incluso aquellos en los que se haga constar la representación orgánica;
 Fracción reformada DOF 23-05-2006
 
-VII. Cotejar y certificar las copias de las pólizas o actas que hayan sido otorgadas ante ellos, así como de los documentos que hayan tenido a la vista que sean de los referidos en los artículos 33 a 50 del Código de Comercio, y Fracción reformada DOF 23-05-2006
+VII. Cotejar y certificar las copias de las pólizas o actas que hayan sido otorgadas ante ellos, así como de los documentos que hayan tenido a la vista que sean de los referidos en los artículos 33 a 50 del Código de Comercio, y
+Fracción reformada DOF 23-05-2006
 
 VIII. Las demás funciones que le señalen ésta y otras leyes o reglamentos.
-Fracción adicionada DOF 23-05-2006 Las anteriores funciones se entenderán sin perjuicio de lo dispuesto en otras leyes y no se consideran exclusivas de los corredores públicos.
+Fracción adicionada DOF 23-05-2006
+Las anteriores funciones se entenderán sin perjuicio de lo dispuesto en otras leyes y no se consideran exclusivas de los corredores públicos.
 ARTICULO 7o.- Sólo podrán ostentarse como corredores públicos las personas habilitadas por la Secretaría, en los términos de esta ley. La infracción a este precepto será sancionada con una multa hasta por el equivalente a 500 veces el salario mínimo general vigente para el Distrito Federal, monto que podrá imponerse diariamente mientras persista la infracción, sin perjuicio de la responsabilidad penal que resulte.
 ARTICULO 8o.- Para ser corredor se requiere:
 I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-Fracción reformada DOF 23-01-1998 II.- Contar con título profesional de licenciado en derecho y la cédula correspondiente;
+Fracción reformada DOF 23-01-1998
+II.- Contar con título profesional de licenciado en derecho y la cédula correspondiente;
 III.- No haber sido condenado, mediante sentencia ejecutoriada, por delito intencional que merezca pena corporal; y IV.- Solicitar, presentar y aprobar el examen para aspirante y el examen definitivo, habiendo obtenido la habilitación correspondiente.
 ARTICULO 9o.- Para la realización de los exámenes se estará a lo siguiente:
 I.- Para el examen de aspirante se deberá:
@@ -62,7 +67,9 @@ ARTICULO 10.- El examen definitivo será sustentado ante un jurado que se integr
 I. Un representante de la Secretaría, el cual deberá tener por lo menos nivel de director general o contar con designación específica del Secretario de Economía, y sin cuya presencia no podrá celebrarse el examen;
 Fracción reformada DOF 08-06-2011, 09-04-2012
 
-II. Un representante del Gobernador del Estado o de Jefe de Gobierno del Distrito Federal, según corresponda; y Fracción reformada DOF 09-04-2012 III.- Un corredor público designado por el colegio de corredores local o, en su defecto, por la Secretaría.
+II. Un representante del Gobernador del Estado o de Jefe de Gobierno del Distrito Federal, según corresponda; y
+Fracción reformada DOF 09-04-2012
+III.- Un corredor público designado por el colegio de corredores local o, en su defecto, por la Secretaría.
 No podrá fungir como miembro del jurado el corredor bajo cuya responsabilidad realizó su práctica el sustentante o persona alguna que tenga relación de parentesco o laboral o que perciba honorarios de dicho sustentante.
 ARTICULO 11.- El examen definitivo constará de dos partes:
 I.- Una prueba escrita, que podrá consistir en la resolución de un cuestionario o en la redacción de una póliza o acta, una u otra de alto grado de dificultad; y II.- Una prueba oral, que consistirá en las preguntas que los miembros del jurado harán al sustentante sobre la prueba a que se refiere la fracción anterior y sobre cuestiones jurídicas aplicables a la función del corredor público.
@@ -88,12 +95,15 @@ IX.- Pertenecer al colegio de corredores de la plaza en que ejerza; y X.- Las de
 ARTICULO 16.- Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los actos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en un libro especial que llevarán al efecto y que se denominará de registro, el cual deberá estar formado por volúmenes de doscientas cincuenta hojas foliadas y que no deberá tener raspaduras, enmendaduras, o abreviaturas.
 El libro de registro y el archivo deberán llevarse con estricto apego a lo dispuesto por esta ley y su reglamento.
 Además de los libros descritos en los dos párrafos anteriores, los corredores públicos integrarán y trasmitirán los archivos electrónicos de los mismos bajo las características de orden y contenido similares a las versiones que señalan los dos párrafos anteriores y conforme a las disposiciones que se prevean en el reglamento de esta ley y los criterios que al efecto emita la Secretaría.
-Artículo reformado DOF 08-06-2011 ARTICULO 17.- El libro de registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder al colegio de corredores respectivo para su guarda, y si no lo hubiere, a la Secretaría.
+Artículo reformado DOF 08-06-2011
+ARTICULO 17.- El libro de registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder al colegio de corredores respectivo para su guarda, y si no lo hubiere, a la Secretaría.
 ARTICULO 18. Póliza es el instrumento redactado por el corredor para hacer constar en él un acto jurídico, convenio o contrato mercantil en el que esté autorizado a intervenir como fedatario.
 Acta es la relación escrita de un hecho jurídico de naturaleza mercantil.
 Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas y demás ejemplares que expida de las pólizas, actas y asientos, en los que esté autorizado a intervenir como fedatario, son documentos públicos que hacen prueba plena de los contratos, actos jurídicos y hechos respectivos.
-Párrafo reformado DOF 08-06-2011 El corredor podrá expedir copias certificadas de las pólizas y actas en que haya intervenido, siempre que obren en su archivo y en el libro de registro correspondiente.
-Artículo reformado DOF 23-05-2006 ARTICULO 19.- Las pólizas y actas a que se refiere el artículo anterior deberán:
+Párrafo reformado DOF 08-06-2011
+El corredor podrá expedir copias certificadas de las pólizas y actas en que haya intervenido, siempre que obren en su archivo y en el libro de registro correspondiente.
+Artículo reformado DOF 23-05-2006
+ARTICULO 19.- Las pólizas y actas a que se refiere el artículo anterior deberán:
 I.- Contener el lugar y fecha de su elaboración y el nombre y número del corredor, así como su firma y sello;
 II.- Consignar los antecedentes y contener la certificación, en su caso, de que el corredor tuvo a la vista los documentos que se le hubieren presentado;
 III.- Ser redactados con claridad, precisión y concisión;
@@ -101,7 +111,8 @@ IV.- Dejar acreditada la personalidad de las partes o comparecientes, así como 
 V.- Elaborarse en español.
 Podrán asentarse palabras en otro idioma que sean generalmente usadas como términos de ciencia o arte, o que sean usadas como nombre o marca o aviso comercial, o en actas y pólizas cuando se trate de transcripciones literales o de lo percibido por el corredor público respectivamente.
 Los documentos que se le presenten en idioma extranjero deberán ser traducidos por perito traductor reconocido por alguna autoridad. No se requerirá traducción cuando se trate de documentos presentados para cotejo, o cuando se trate de dar fe de hechos de la entrega o recepción de documentos o para realizar el reconocimiento o puesta de firmas, siempre y cuando las partes declaren conocer y entender su contenido y alcance y el corredor comprenda cabalmente el contenido y alcance del mismo;
-Fracción reformada DOF 08-06-2011 VI.- Hacer constar que el corredor se aseguró de la identidad de las partes contratantes o ratificantes y que, a su juicio, tienen capacidad legal;
+Fracción reformada DOF 08-06-2011
+VI.- Hacer constar que el corredor se aseguró de la identidad de las partes contratantes o ratificantes y que, a su juicio, tienen capacidad legal;
 VII.- Hacer constar que les fue leído el instrumento a las partes, testigos o intérpretes, o que la leyeron ellos mismos;
 VIII.- Hacer constar que el corredor les explicó a las partes el valor y las consecuencias legales del contenido del instrumento;
 IX.- Hacer constar que las partes firmaron de conformidad el instrumento, o, en su caso, que no lo firmaron por haber declarado no saber o no poder hacerlo, en cuyo caso firmará la persona que elija, sin que lo pueda hacer el corredor. En todo caso, la persona que no firme imprimirá su huella digital;
@@ -127,15 +138,19 @@ X.- Ejercer su actividad si el hecho o el fin del acto es legalmente imposible o
 XI. Actuar como fedatario fuera de los casos autorizados por la ley y su reglamento; así como en actos jurídicos no mercantiles; en tratándose de inmuebles, así como dar fe de hechos que no se consideren de naturaleza mercantil;
 Fracción adicionada DOF 23-05-2006
 
-XII. Actuar como fedatarios en los casos a que se refiere la fracción anterior, aún cuando se modifique o altere su denominación, se trate de actos jurídicos, convenios o contratos innominados, intervengan sujetos que por su actividad sean calificados de comerciantes, o se refieran a cosas mercantiles o se denomine un acto como mercantil cuando el acto real tenga otra naturaleza, y Fracción adicionada DOF 23-05-2006
+XII. Actuar como fedatarios en los casos a que se refiere la fracción anterior, aún cuando se modifique o altere su denominación, se trate de actos jurídicos, convenios o contratos innominados, intervengan sujetos que por su actividad sean calificados de comerciantes, o se refieran a cosas mercantiles o se denomine un acto como mercantil cuando el acto real tenga otra naturaleza, y
+Fracción adicionada DOF 23-05-2006
 
 XIII. Las demás que establezcan las leyes y reglamentos.
-Fracción reformada DOF 23-05-2006 (se recorre) ARTICULO 21. El corredor público que incumpla con lo dispuesto en esta Ley y su reglamento se hará acreedor a las siguientes sanciones:
-Párrafo reformado DOF 23-05-2006 I.- Amonestación escrita;
+Fracción reformada DOF 23-05-2006 (se recorre)
+ARTICULO 21. El corredor público que incumpla con lo dispuesto en esta Ley y su reglamento se hará acreedor a las siguientes sanciones:
+Párrafo reformado DOF 23-05-2006
+I.- Amonestación escrita;
 II.- Multa hasta por el equivalente a 500 veces el salario mínimo general vigente para el Distrito Federal;
 
 III. Suspensión hasta por seis meses en caso de reincidencia y por violar alguna de las prohibiciones de las fracciones VII, VIII, XI, XII y XIII del artículo 20 de esta Ley;
-Fracción reformada DOF 23-05-2006 IV.- Cancelación definitiva de la habilitación en los siguientes casos:
+Fracción reformada DOF 23-05-2006
+IV.- Cancelación definitiva de la habilitación en los siguientes casos:
 
 a) Violaciones graves y reiteradas a las disposiciones de la presente ley;
 
@@ -204,6 +219,6 @@ SÉPTIMO. Se reforman los artículos 2o. y 10, fracciones I y II de la Ley Feder
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

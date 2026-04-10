@@ -2,6 +2,43 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Modelo canónico JSON/AST] — 2026-04-09
+
+El JSON es ahora la fuente de verdad. El Markdown se renderiza desde el AST.
+
+### Pipeline nuevo
+- `extract_lines()` → `build_ast()` → **AST canónico (JSON)** → `render_markdown()` → **Markdown**
+- El antiguo `build_markdown()` se conserva como legacy pero ya no es invocado por el pipeline principal
+
+### Nuevas funciones en `pdf_to_md.py`
+- `build_ast(lines, metadata) → dict` — construye árbol canónico con IDs estables jerárquicos
+- `render_markdown(ast) → list[str]` — renderiza AST a Markdown limpio
+- Notas de reforma separadas correctamente del texto siguiente (antes se unían en una misma línea)
+- `--format json|md|both` — controla qué formatos generar (default: `both`)
+- `--validate` — valida el JSON contra `schema/law_ast.schema.json`
+
+### JSON canónico (`canonical/`)
+- 315 leyes en JSON estructurado (93 MB total)
+- JSON Schema: `schema/law_ast.schema.json`
+- Nodos estructurales: `libro`, `titulo`, `capitulo`, `seccion`, `articulo`, `transitorios`, `transitorio_articulo`
+- Nodos de contenido: `paragraph`, `fraccion`, `inciso`, `numeral`, `apartado`, `table`, `reform_note`
+- IDs estables: `titulo-i.capitulo-ii.articulo-15`
+- Metadatos: fuente PDF, fecha DOF, catálogo de diputados
+- 315/315 válidos contra schema
+
+### Dataset
+- 37,939 artículos · 58,310 fracciones · 12,370 incisos · 35,176 notas de reforma · 42 tablas OCR
+
+### Otros cambios
+- `batch_convert.py`: flags `--format` y `--validate` propagados
+- `gen_indice.py`: reescrito — columna de artículos por ley, link a JSON, corregido bug de escritura duplicada
+- `INDICE.md`: regenerado con 6 columnas (No., Ley, Reforma, Arts., Markdown, JSON)
+- `README.md`: reescrito para reflejar la nueva arquitectura
+- `TODOS.md`: actualizado con estado completado
+
+### Fix: Schema preamble
+- `preamble.items` cambiado de `text_block` a `content_element` — el preámbulo puede contener fracciones, incisos y notas de reforma, no solo párrafos
+
 ## [Fix 12 — Tablas OCR en posición correcta] — 2026-03-21
 
 - `extract_lines()`: para páginas con tablas-imagen, divide la extracción en regiones verticales (texto arriba + OCR tabla + texto abajo) en vez de extraer todo el texto y agregar la tabla al final

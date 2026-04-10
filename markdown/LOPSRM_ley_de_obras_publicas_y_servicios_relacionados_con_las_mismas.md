@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de contrataciones de obras públicas, así como de los servicios relacionados con las mismas, que realicen:
@@ -30,9 +32,12 @@ IV. Los organismos descentralizados;
 V. Las empresas de participación estatal mayoritaria y los fideicomisos en los que el fideicomitente sea el Gobierno Federal o una entidad paraestatal, y
 
 VI. Las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México, y los entes públicos de unas y otros, con cargo total o parcial a recursos federales, conforme a los convenios que celebren con el Ejecutivo Federal. No quedan comprendidos para la aplicación de la presente Ley los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal.
-Fracción reformada DOF 28-05-2009, 16-04-2025 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las entidades que cuenten con un régimen específico en materia de obras públicas y servicios relacionadas con las mismas, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
-Párrafo reformado DOF 28-05-2009 Las obras públicas y servicios relacionados con las mismas que contraten las empresas públicas del Estado, quedan excluidas de la aplicación de este ordenamiento.
-Párrafo adicionado DOF 28-11-2008. Reformado DOF 11-08-2014, 16-04-2025 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
+Fracción reformada DOF 28-05-2009, 16-04-2025
+Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las entidades que cuenten con un régimen específico en materia de obras públicas y servicios relacionadas con las mismas, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
+Párrafo reformado DOF 28-05-2009
+Las obras públicas y servicios relacionados con las mismas que contraten las empresas públicas del Estado, quedan excluidas de la aplicación de este ordenamiento.
+Párrafo adicionado DOF 28-11-2008. Reformado DOF 11-08-2014, 16-04-2025
+No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
 Las dependencias y entidades se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que evadan lo previsto en este ordenamiento.
 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo cuarto Reforma DOF 16-04-2025: Derogó del artículo los entonces párrafos sexto y séptimo (antes reformados DOF 28-05-2009)
 
@@ -178,7 +183,8 @@ Artículo reformado DOF 28-05-2009, 16-04-2025
 
 ### Artículo 9
 . Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Economía dictará las reglas que deban observar las dependencias y entidades, derivadas de programas que tengan por objeto promover la participación de las empresas nacionales, especialmente de las micro, pequeñas y medianas.
-Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo Artículo reformado DOF 28-05-2009
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo
+Artículo reformado DOF 28-05-2009
 
 ### Artículo 10
 . En materia de obras públicas y servicios relacionados con las mismas, las personas titulares de las dependencias y los órganos de gobierno de las entidades serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la modernización y desarrollo administrativo, así como la efectiva delegación de facultades.
@@ -194,7 +200,8 @@ Artículo reformado DOF 07-07-2005, 28-05-2009, 16-04-2025
 
 ### Artículo 13
 . Serán supletorias de esta Ley y de las demás disposiciones que de ella se deriven, en lo Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Lo anterior sin perjuicio de lo dispuesto en el artículo 79 de la presente Ley.
+Párrafo reformado DOF 14-11-2025
+Lo anterior sin perjuicio de lo dispuesto en el artículo 79 de la presente Ley.
 Artículo reformado DOF 28-05-2009
 
 ### Artículo 14
@@ -209,15 +216,19 @@ Artículo reformado DOF 28-05-2009
 ### Artículo 16
 .- Los contratos celebrados en el extranjero respecto de obras públicas o servicios relacionados con las mismas que deban ser ejecutados o prestados fuera del territorio nacional, se regirán por la legislación del lugar donde se formalice el acto, aplicando en lo procedente lo dispuesto por esta Ley.
 Cuando las obras y servicios hubieren de ser ejecutados o prestados en el país, su procedimiento de contratación y los contratos deberán realizarse dentro del territorio nacional.
-Párrafo reformado DOF 28-05-2009 En el caso a que se refiere el párrafo anterior, cuando se acredite previamente que el procedimiento de contratación y los contratos no pueden realizarse dentro del territorio nacional, conforme a lo dispuesto por esta Ley, las obras y servicios se podrán contratar en el extranjero, aplicando los principios dispuestos por ésta.
-Párrafo adicionado DOF 28-05-2009 En los supuestos previstos en los párrafos primero y tercero de este artículo, para acreditar la aplicación de los principios dispuestos por esta Ley, tanto la justificación de la selección del contratista, como de las obras o servicios a contratar y el precio de los mismos, según las circunstancias que concurran en cada caso, deberá motivarse en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado, lo cual constará en un escrito firmado por la persona titular del área contratante, y el dictamen de procedencia de la contratación será autorizado por la persona titular de la dependencia o entidad, o aquella persona servidora pública en quien se delegue dicha función. En ningún caso la delegación podrá recaer en una persona servidora pública con nivel inferior al de director general en las dependencias o su equivalente en las entidades.
+Párrafo reformado DOF 28-05-2009
+En el caso a que se refiere el párrafo anterior, cuando se acredite previamente que el procedimiento de contratación y los contratos no pueden realizarse dentro del territorio nacional, conforme a lo dispuesto por esta Ley, las obras y servicios se podrán contratar en el extranjero, aplicando los principios dispuestos por ésta.
+Párrafo adicionado DOF 28-05-2009
+En los supuestos previstos en los párrafos primero y tercero de este artículo, para acreditar la aplicación de los principios dispuestos por esta Ley, tanto la justificación de la selección del contratista, como de las obras o servicios a contratar y el precio de los mismos, según las circunstancias que concurran en cada caso, deberá motivarse en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado, lo cual constará en un escrito firmado por la persona titular del área contratante, y el dictamen de procedencia de la contratación será autorizado por la persona titular de la dependencia o entidad, o aquella persona servidora pública en quien se delegue dicha función. En ningún caso la delegación podrá recaer en una persona servidora pública con nivel inferior al de director general en las dependencias o su equivalente en las entidades.
 Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
 
 ## TÍTULO SEGUNDO — DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTO
+
 Se deroga referencia al Título (nuevo Título Segundo reubicado a partir del artículo 27).
 Denominación del Título reformada DOF 07-07-2005. Referencia al Título derogada DOF 28-05-2009
 
 ## CAPÍTULO ÚNICO
+
 Se deroga referencia al Capítulo.
 Referencia al Capítulo derogada DOF 28-05-2009
 
@@ -247,7 +258,8 @@ Artículo reformado DOF 07-07-2005, 28-05-2009
 
 ### Artículo 19
 . Las dependencias y entidades que realicen obras públicas y servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, ordenamiento territorial, desarrollo urbano y construcción rijan en el ámbito federal, estatal y municipal.
-Párrafo reformado DOF 16-04-2025 Las dependencias y entidades, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación se precisarán, en su caso, aquéllos trámites que corresponderá realizar al contratista.
+Párrafo reformado DOF 16-04-2025
+Las dependencias y entidades, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación se precisarán, en su caso, aquéllos trámites que corresponderá realizar al contratista.
 Párrafo reformado DOF 28-05-2009
 
 ### Artículo 19
@@ -306,7 +318,8 @@ Artículo reformado DOF 07-07-2005, 28-05-2009, 16-04-2025
 .- En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias o entidades deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
 El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
 Para los efectos de este artículo, las dependencias y entidades observarán lo dispuesto en el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de la Plataforma.
-Párrafo reformado DOF 28-05-2009, 16-04-2025 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero
+Párrafo reformado DOF 28-05-2009, 16-04-2025
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero
 
 ### Artículo 24
 . La planeación, programación, presupuestación y el gasto de las obras y servicios relacionados con las mismas, se sujetará a las disposiciones específicas del Presupuesto de Egresos de la Federación, así como a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables y los recursos destinados a ese fin se administrarán con eficiencia, eficacia, economía, transparencia, honradez e imparcialidad para satisfacer los objetivos a los que fueren destinados.
@@ -356,7 +369,9 @@ VI. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables, y
 
 VII. Analizar trimestralmente el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que el programa y presupuesto de obras y servicios se ejecuten en tiempo y forma, así como proponer medidas tendientes a mejorar o corregir sus procesos de contratación y ejecución.
 La Secretaría podrá autorizar la creación de comités en órganos desconcentrados, cuando la cantidad y monto de sus operaciones o las características de sus funciones así lo justifiquen y se cuente con la anuencia de la persona titular de la dependencia a la que pertenezcan, en cuyo caso, sólo podrán delegarse las funciones a que se refieren las fracciones III, IV, V y VI del presente artículo.
-Párrafo reformado DOF 16-04-2025 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero Artículo reformado DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero
+Artículo reformado DOF 07-07-2005, 28-05-2009
 
 ### Artículo 26
 .- Las dependencias y entidades podrán realizar las obras públicas y servicios relacionados con las mismas por alguna de las dos formas siguientes:
@@ -373,9 +388,11 @@ El Reglamento de esta Ley establecerá los supuestos que deberán seguirse para 
 Artículo adicionado DOF 16-04-2025
 
 ## TÍTULO SEGUNDO — DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
+
 Título reubicado DOF 28-05-2009 (antes Título Tercero)
 
 ## CAPÍTULO PRIMERO — GENERALIDADES
+
 
 ### Artículo 27
 . Los procedimientos de contratación deberán asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, siendo los siguientes:
@@ -449,6 +466,7 @@ Artículo reformado DOF 13-06-2003, 07-07-2005, 28-05-2009, 16-04-2025
 
 ## CAPÍTULO SEGUNDO — DE LA LICITACIÓN PÚBLICA
 
+
 ### Artículo 30
 . El carácter de las licitaciones públicas, será:
 
@@ -507,7 +525,8 @@ XI. La fecha y hora en que se llevará a cabo a través de la Plataforma la cele
 Fracción reformada DOF 16-04-2025
 
 XII. El señalamiento de que para intervenir en el acto de presentación y apertura de proposiciones bastará que los licitantes presenten un escrito a través de la Plataforma en el cual su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, sin que resulte necesario acreditar su personalidad jurídica;
-Fracción reformada DOF 16-04-2025 XII Bis. El señalamiento de que el licitante deberá estar inscrito en el Registro electrónico de personas físicas y morales a que hace referencia el artículo 74 Bis de esta Ley;
+Fracción reformada DOF 16-04-2025
+XII Bis. El señalamiento de que el licitante deberá estar inscrito en el Registro electrónico de personas físicas y morales a que hace referencia el artículo 74 Bis de esta Ley;
 Fracción adicionada DOF 16-04-2025
 
 XIII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las proposiciones y, en su caso, firma del contrato;
@@ -517,7 +536,8 @@ XIV. Precisar que será requisito el que los licitantes entreguen dentro del sob
 Fracción reformada DOF 16-04-2025
 
 XV. La indicación de que las personas a que se refiere el segundo párrafo de la fracción VII del artículo 51 de esta Ley, que pretendan participar en el procedimiento de contratación para la ejecución de una obra a que se refiere el artículo 18, párrafo quinto de esta Ley, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar, así como que, en su caso, consideran costos estimados apegados a las condiciones del mercado.
-Párrafo reformado DOF 16-04-2025 En el caso de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme al Título Sexto de esta Ley;
+Párrafo reformado DOF 16-04-2025
+En el caso de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme al Título Sexto de esta Ley;
 
 XVI. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
@@ -534,11 +554,13 @@ XXI. El porcentaje mínimo de mano de obra local que los licitantes deberán inc
 Fracción adicionada DOF 13-01-2016
 
 XXII. Información específica sobre las partes de los trabajos que podrán subcontratarse, sin que sea factible subcontratar más del cuarenta y nueve por ciento del importe total del contrato;
-Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025 XXII Bis. Precisar que será requisito el que los licitantes presenten un escrito en el que manifiesten bajo protesta de decir verdad, que al resultar ganador en el procedimiento de contratación de que se trate, no podrá subcontratar a otro licitante que haya participado en el mismo procedimiento;
+Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
+XXII Bis. Precisar que será requisito el que los licitantes presenten un escrito en el que manifiesten bajo protesta de decir verdad, que al resultar ganador en el procedimiento de contratación de que se trate, no podrá subcontratar a otro licitante que haya participado en el mismo procedimiento;
 Fracción adicionada DOF 16-04-2025
 
 XXIII. Criterios claros y detallados para la evaluación de las proposiciones y la adjudicación de los contratos, de conformidad con lo establecido por el artículo 38 de esta Ley;
-Fracción recorrida DOF 13-01-2016 XXIII Bis. La indicación de si en el procedimiento de contratación se aplicará la modalidad de oferta subsecuente de descuento;
+Fracción recorrida DOF 13-01-2016
+XXIII Bis. La indicación de si en el procedimiento de contratación se aplicará la modalidad de oferta subsecuente de descuento;
 Fracción adicionada DOF 16-04-2025
 
 XXIV. Señalamiento de las causas expresas de desechamiento, que afecten directamente la solvencia de las proposiciones, entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes.
@@ -568,13 +590,19 @@ XXXI. El domicilio de las oficinas de la Secretaría o de los gobiernos de las e
 Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
 
 XXXII. Precisar que será requisito el que los licitantes presenten a través de la Plataforma una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas, para que las personas servidoras públicas de la dependencia o entidad, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes, así como, de incorporar durante la vigencia de los contratos a personas que se encuentren inhabilitadas;
-Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025 XXXII Bis. Precisar que será requisito que los licitantes acrediten haber presentado el manifiesto bajo protesta de decir verdad, mediante el cual afirmen o nieguen los vínculos o relaciones de negocios, laborales, profesionales, personales o de parentesco por consanguinidad o afinidad hasta el cuarto grado con las personas servidoras públicas que establece el Protocolo de Actuación en Contrataciones. Dicho manifiesto será presentado a través del medio electrónico que disponga la Secretaría;
-Fracción adicionada DOF 16-04-2025 XXXII Ter. Precisar que será requisito el que los licitantes presenten un escrito en el que su firmante manifieste bajo protesta de decir verdad, que no ejecuta con otro participante acciones que impliquen o tengan por objeto obtener un beneficio, ventaja indebida en el procedimiento o sobre los demás licitantes, u ocasionar un daño a la Hacienda Pública, o al patrimonio de los entes públicos, y Fracción adicionada DOF 16-04-2025
+Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
+XXXII Bis. Precisar que será requisito que los licitantes acrediten haber presentado el manifiesto bajo protesta de decir verdad, mediante el cual afirmen o nieguen los vínculos o relaciones de negocios, laborales, profesionales, personales o de parentesco por consanguinidad o afinidad hasta el cuarto grado con las personas servidoras públicas que establece el Protocolo de Actuación en Contrataciones. Dicho manifiesto será presentado a través del medio electrónico que disponga la Secretaría;
+Fracción adicionada DOF 16-04-2025
+XXXII Ter. Precisar que será requisito el que los licitantes presenten un escrito en el que su firmante manifieste bajo protesta de decir verdad, que no ejecuta con otro participante acciones que impliquen o tengan por objeto obtener un beneficio, ventaja indebida en el procedimiento o sobre los demás licitantes, u ocasionar un daño a la Hacienda Pública, o al patrimonio de los entes públicos, y
+Fracción adicionada DOF 16-04-2025
 
 XXXIII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
-Fracción recorrida DOF 13-01-2016 Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. Se entenderá que no se limita la libre participación, cuando con la investigación de mercado correspondiente al procedimiento de contratación, se constate por regla general la existencia de al menos tres probables interesados, de forma individual o de manera conjunta, que pudieran cumplir con los requerimientos de la dependencia o entidad. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir. La dependencia o entidad convocante tomará en cuenta las recomendaciones previas que, en su caso, emita la autoridad competente en materia de libre competencia y concurrencia, en términos de las disposiciones jurídicas aplicables.
-Párrafo reformado DOF 16-04-2025 Previo a la publicación de la convocatoria a la licitación pública cuyo presupuesto estimado de contratación sea superior a seiscientas noventa mil veces el valor diario de la UMA, podrán difundir el proyecto de la misma a través de la Plataforma, al menos durante cinco días hábiles, lapso durante el cual éstas recibirán los comentarios pertinentes en dicha Plataforma.
-Párrafo reformado DOF 16-04-2025 En los casos de licitaciones cuyo monto sea inferior al señalado en el párrafo que antecede, la publicación previa de las convocatorias será opcional para las dependencias y entidades.
+Fracción recorrida DOF 13-01-2016
+Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. Se entenderá que no se limita la libre participación, cuando con la investigación de mercado correspondiente al procedimiento de contratación, se constate por regla general la existencia de al menos tres probables interesados, de forma individual o de manera conjunta, que pudieran cumplir con los requerimientos de la dependencia o entidad. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir. La dependencia o entidad convocante tomará en cuenta las recomendaciones previas que, en su caso, emita la autoridad competente en materia de libre competencia y concurrencia, en términos de las disposiciones jurídicas aplicables.
+Párrafo reformado DOF 16-04-2025
+Previo a la publicación de la convocatoria a la licitación pública cuyo presupuesto estimado de contratación sea superior a seiscientas noventa mil veces el valor diario de la UMA, podrán difundir el proyecto de la misma a través de la Plataforma, al menos durante cinco días hábiles, lapso durante el cual éstas recibirán los comentarios pertinentes en dicha Plataforma.
+Párrafo reformado DOF 16-04-2025
+En los casos de licitaciones cuyo monto sea inferior al señalado en el párrafo que antecede, la publicación previa de las convocatorias será opcional para las dependencias y entidades.
 Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán analizados por las dependencias y entidades a efecto de, en su caso, considerarlas para enriquecer el proyecto.
 Artículo reformado DOF 07-07-2005, 28-05-2009
 
@@ -660,17 +688,24 @@ Fracción adicionada DOF 16-04-2025
 III. Nombre y domicilio del licitante a quien se adjudica el contrato, indicando las razones que motivaron la adjudicación, de acuerdo a los criterios previstos en la convocatoria, así como el monto total de la proposición;
 Fracción reformada DOF 16-04-2025
 
-IV. Fecha y hora para la firma del contrato en la Plataforma, así como para la presentación de garantías y, en su caso, para la entrega de anticipos, y Fracción reformada DOF 16-04-2025
+IV. Fecha y hora para la firma del contrato en la Plataforma, así como para la presentación de garantías y, en su caso, para la entrega de anticipos, y
+Fracción reformada DOF 16-04-2025
 
 V. Nombre, cargo y firma de la persona servidora pública que lo emite, señalando sus facultades de acuerdo con los ordenamientos jurídicos que rijan a la convocante. Indicará también el nombre y cargo de los responsables de la evaluación de las proposiciones.
-Fracción reformada DOF 16-04-2025 En caso de que se declare desierta la licitación, se señalaran en el fallo las razones que lo motivaron.
+Fracción reformada DOF 16-04-2025
+En caso de que se declare desierta la licitación, se señalaran en el fallo las razones que lo motivaron.
 En el fallo no se deberá incluir información reservada o confidencial, en los términos de las disposiciones aplicables.
 Para efectos de su notificación, el acta de fallo, se publicará en la Plataforma el mismo día en que se emita.
-Párrafo reformado DOF 16-04-2025 Con la notificación del fallo por el que se adjudica el contrato y la suscripción del mismo, las obligaciones derivadas del fallo serán exigibles.
-Párrafo reformado DOF 16-04-2025 Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, la persona titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma al órgano interno de control dentro de los cinco días hábiles posteriores a la fecha de su firma.
-Párrafo reformado DOF 16-04-2025 Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, la persona servidora pública responsable dará vista de inmediato al órgano interno de control, a efecto de que, previa intervención de oficio, se emitan las directrices para su reposición.
-Párrafo reformado DOF 16-04-2025 Contra el fallo no procederá recurso alguno; sin embargo procederá la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
-Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo octavo Artículo reformado DOF 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Con la notificación del fallo por el que se adjudica el contrato y la suscripción del mismo, las obligaciones derivadas del fallo serán exigibles.
+Párrafo reformado DOF 16-04-2025
+Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, la persona titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma al órgano interno de control dentro de los cinco días hábiles posteriores a la fecha de su firma.
+Párrafo reformado DOF 16-04-2025
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, la persona servidora pública responsable dará vista de inmediato al órgano interno de control, a efecto de que, previa intervención de oficio, se emitan las directrices para su reposición.
+Párrafo reformado DOF 16-04-2025
+Contra el fallo no procederá recurso alguno; sin embargo procederá la inconformidad en términos del Título Séptimo, Capítulo Primero de esta Ley.
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo octavo
+Artículo reformado DOF 28-05-2009
 
 ### Artículo 39
 Bis. Las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones, y de la junta pública en la que se dé a conocer el fallo serán firmadas electrónicamente por las personas servidoras públicas que intervengan en ellas. En el caso de las actas de las juntas de aclaraciones, serán firmadas por los licitantes que hubieran enviado preguntas, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas.
@@ -698,6 +733,7 @@ El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesari
 Artículo adicionado DOF 16-01-2012
 
 ## CAPÍTULO TERCERO — DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+
 
 ### Artículo 41
 . En los supuestos que prevé el artículo 42 de esta Ley, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
@@ -729,7 +765,8 @@ VI. Se hubiere rescindido el contrato respectivo por causas imputables al contra
 Fracción reformada DOF 07-07-2005, 28-05-2009, 16-04-2025
 
 VII. Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria a la licitación cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones;
-Fracción reformada DOF 07-07-2005, 28-05-2009 VII Bis. En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, la persona titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en la invitación;
+Fracción reformada DOF 07-07-2005, 28-05-2009
+VII Bis. En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, la persona titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en la invitación;
 Fracción adicionada DOF 16-04-2025
 
 VIII. Se trate de trabajos de mantenimiento, restauración, reparación y demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
@@ -740,7 +777,8 @@ X. Se trate de servicios relacionados con las obras públicas prestados por una 
 
 XI. Se trate de servicios de consultorías, asesorías, estudios o investigaciones, relacionados con obras públicas, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán instituciones públicas y privadas de educación superior y centros públicos de investigación.
 Sólo podrá autorizarse la contratación mediante adjudicación directa, cuando la información que se tenga que proporcionar a los licitantes, para la elaboración de su proposición, se encuentre reservada en los términos establecidos en las disposiciones vigentes en materia de transparencia y acceso a la información pública y de protección de datos personales;
-Párrafo reformado DOF 16-04-2025 Fracción reformada DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Fracción reformada DOF 07-07-2005, 28-05-2009
 
 XII. Se acepte la ejecución de los trabajos a título de dación en pago, en los términos de la Ley del Servicio de Tesorería de la Federación;
 Fracción adicionada DOF 07-07-2005. Reformada DOF 28-05-2009
@@ -750,18 +788,24 @@ Fracción adicionada DOF 28-05-2009. Reformada DOF 16-04-2025
 
 XIV. Se trate de servicios que tengan por objeto elaborar o concluir los estudios, planes o programas necesarios que permitan la realización de la licitación pública para la ejecución de las obras públicas asociadas a proyectos de infraestructura, siempre y cuando el precio de los mismos no sea mayor al cuatro por ciento del monto total del proyecto cuya ejecución se pretenda licitar, o bien, al monto de cuarenta millones de pesos, lo que resulte menor, debiéndose adjudicar directamente el contrato respectivo.
 Para la determinación de los precios a que se refiere el párrafo anterior, las dependencias y entidades observarán los lineamientos que al efecto emita la Secretaría.
-Párrafo reformado DOF 16-04-2025 Para los supuestos previstos en esta fracción, la información no podrá ser reservada y será de acceso general, desde el inicio de la propuesta del proyecto y hasta la conclusión de la realización del mismo, pero siempre en apego a las disposiciones legales aplicables en materia de transparencia y acceso a la información pública, y Párrafo reformado DOF 16-04-2025 Fracción adicionada DOF 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Para los supuestos previstos en esta fracción, la información no podrá ser reservada y será de acceso general, desde el inicio de la propuesta del proyecto y hasta la conclusión de la realización del mismo, pero siempre en apego a las disposiciones legales aplicables en materia de transparencia y acceso a la información pública, y
+Párrafo reformado DOF 16-04-2025
+Fracción adicionada DOF 28-05-2009
 
 XV. Se trate del reconocimiento de trabajos extraordinarios no considerados en los alcances de los contratos a precio alzado.
-Fracción adicionada DOF 16-04-2025 Tratándose de las fracciones II, IV, V, VI, VII, XIV y XV de este artículo, no será necesario contar con el dictamen previo de excepción a la licitación pública del Comité de Obras Públicas, por lo que en estos casos, el área responsable de la contratación en la dependencia o entidad respectiva deberá informar al propio Comité, una vez que se concluya el procedimiento de contratación correspondiente; lo anterior, sin perjuicio de que el área responsable de las contrataciones pueda someter previamente a dictamen del Comité los citados casos de excepción a la licitación pública.
+Fracción adicionada DOF 16-04-2025
+Tratándose de las fracciones II, IV, V, VI, VII, XIV y XV de este artículo, no será necesario contar con el dictamen previo de excepción a la licitación pública del Comité de Obras Públicas, por lo que en estos casos, el área responsable de la contratación en la dependencia o entidad respectiva deberá informar al propio Comité, una vez que se concluya el procedimiento de contratación correspondiente; lo anterior, sin perjuicio de que el área responsable de las contrataciones pueda someter previamente a dictamen del Comité los citados casos de excepción a la licitación pública.
 Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-01-2012, 16-04-2025
 
 ### Artículo 43
 . Las dependencias y entidades, bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública, a través de los de invitación a cuando menos tres personas o de adjudicación directa, cuando el importe de cada contrato no exceda de los montos máximos que al efecto se establezcan en el Presupuesto de Egresos de la Federación, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 Lo dispuesto en el tercer párrafo del artículo 41 de esta Ley resultará aplicable a la contratación mediante los procedimientos de invitación a cuando menos tres personas y de adjudicación directa que se fundamenten en este artículo.
 La suma de los montos de los contratos que se realicen al amparo de este artículo no podrá exceder del veinte por ciento del presupuesto autorizado a las dependencias y entidades para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestario. La contratación deberá ajustarse a los límites establecidos en el Presupuesto de Egresos de la Federación.
-Párrafo reformado DOF 16-04-2025 En casos excepcionales, la persona titular de la dependencia o el órgano de gobierno de la entidad, bajo su responsabilidad, podrá fijar un porcentaje mayor al indicado en este artículo, debiéndolo hacer del conocimiento del órgano interno de control. Esta facultad podrá delegarse a la persona titular de la Unidad de Administración y Finanzas, o en su caso de la Oficialía Mayor o su equivalente en las dependencias o entidades.
-Párrafo reformado DOF 16-04-2025 Artículo reformado DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+En casos excepcionales, la persona titular de la dependencia o el órgano de gobierno de la entidad, bajo su responsabilidad, podrá fijar un porcentaje mayor al indicado en este artículo, debiéndolo hacer del conocimiento del órgano interno de control. Esta facultad podrá delegarse a la persona titular de la Unidad de Administración y Finanzas, o en su caso de la Oficialía Mayor o su equivalente en las dependencias o entidades.
+Párrafo reformado DOF 16-04-2025
+Artículo reformado DOF 07-07-2005, 28-05-2009
 
 ### Artículo 44
 .- El procedimiento de invitación a cuando menos tres personas se sujetará a lo siguiente:
@@ -773,7 +817,8 @@ II. El acto de presentación y apertura de proposiciones se llevará a cabo a tr
 Fracción reformada DOF 28-05-2009, 16-04-2025
 
 III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de análisis;
-Fracción reformada DOF 28-05-2009 En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si después de la evaluación resulta solvente porque reúne las condiciones requeridas;
+Fracción reformada DOF 28-05-2009
+En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si después de la evaluación resulta solvente porque reúne las condiciones requeridas;
 Párrafo adicionado DOF 16-01-2012. Reformado DOF 16-04-2025
 
 IV. En la invitación se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos contenidos en el artículo 31 de esta Ley que fueren aplicables;
@@ -786,7 +831,9 @@ VI. Se deroga.
 Fracción derogada DOF 28-05-2009
 
 VII. A las demás disposiciones de esta Ley que resulten aplicables a la licitación pública.
-Fracción reformada DOF 28-05-2009 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 28-05-2009 y reformado DOF 16-01-2012) Artículo reformado DOF 07-07-2005
+Fracción reformada DOF 28-05-2009
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 28-05-2009 y reformado DOF 16-01-2012)
+Artículo reformado DOF 07-07-2005
 
 ### Artículo 44
 Bis. El procedimiento de adjudicación directa que se realice bajo los supuestos a que se refieren los artículos 42 y 43 de esta Ley, inicia con la solicitud de la cotización y termina con la notificación de la adjudicación del contrato, o bien con la determinación de la dependencia o entidad de no realizar la adjudicación.
@@ -809,9 +856,11 @@ En la cotización conjunta solo podrán participar las personas que hayan recibi
 Artículo adicionado DOF 16-04-2025
 
 ## TÍTULO TERCERO — DE LOS CONTRATOS
+
 Título reubicado DOF 28-05-2009 (antes Título Cuarto)
 
 ## CAPÍTULO PRIMERO — DE LA CONTRATACIÓN
+
 
 ### Artículo 45
 . Las dependencias y entidades deberán incorporar en las convocatorias a las licitaciones, las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, ajustándose a las condiciones de pago señaladas en este artículo.
@@ -823,14 +872,17 @@ Fracción reformada DOF 16-04-2025
 
 II. A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por los trabajos totalmente terminados y ejecutados en el plazo establecido.
 Las proposiciones que presenten los contratistas para la celebración de estos contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco actividades principales.
-Párrafo reformado DOF 16-04-2025 Las actividades principales que se pacten permanecerán fijas durante la vigencia del contrato, y Párrafo adicionado DOF 16-04-2025
+Párrafo reformado DOF 16-04-2025
+Las actividades principales que se pacten permanecerán fijas durante la vigencia del contrato, y
+Párrafo adicionado DOF 16-04-2025
 
 III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
 Las dependencias y entidades que celebren contratos mixtos deberán ajustarse a las disposiciones que se establecen en la presente Ley para los contratos sobre la base de precios unitarios y para los contratos a precio alzado en su parte correspondiente. En el contrato mixto se indicarán las actividades que correspondan a cada tipo de contrato, a efecto de identificar de forma precisa lo que se ejecutará de acuerdo a la condición de pago establecida.
 Fracción reformada DOF 16-04-2025
 
 IV. Derogada.
-Fracción derogada DOF 16-04-2025 Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Fracción derogada DOF 16-04-2025
+Los trabajos cuya ejecución comprenda más de un ejercicio fiscal, deberán formularse en un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 Artículo reformado DOF 01-10-2007, 28-05-2009
 
 ### Artículo 45
@@ -876,14 +928,20 @@ XIII. La indicación de que en caso de violaciones en materia de derechos inhere
 XIV. Los procedimientos para resolución de controversias previstos en el Capítulo Tercero del Título Séptimo de esta Ley, distintos al procedimiento de conciliación;
 
 XV. Causales por las que la dependencia o entidad podrá dar por rescindido el contrato;
-Fracción reformada DOF 16-04-2025 XV Bis. La obligación del contratista para mantenerse al corriente de sus obligaciones fiscales durante la vigencia del contrato, para lo cual deberá acreditar la opinión u opiniones positivas que le emita la autoridad fiscal competente, en los plazos que le determine la dependencia o entidad contratante;
-Fracción adicionada DOF 16-04-2025 XV Ter. Precisar que la vigencia del contrato iniciará con la suscripción del mismo por el contratista y finalizará cuando se firme el acta de extinción de derechos y obligaciones de las partes, y Fracción adicionada DOF 16-04-2025
+Fracción reformada DOF 16-04-2025
+XV Bis. La obligación del contratista para mantenerse al corriente de sus obligaciones fiscales durante la vigencia del contrato, para lo cual deberá acreditar la opinión u opiniones positivas que le emita la autoridad fiscal competente, en los plazos que le determine la dependencia o entidad contratante;
+Fracción adicionada DOF 16-04-2025
+XV Ter. Precisar que la vigencia del contrato iniciará con la suscripción del mismo por el contratista y finalizará cuando se firme el acta de extinción de derechos y obligaciones de las partes, y
+Fracción adicionada DOF 16-04-2025
 
 XVI. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres personas, así como los relativos al tipo de contrato de que se trate.
 Para los efectos de esta Ley, la convocatoria a la licitación, en su caso, la invitación a cuando menos tres personas o la solicitud de cotización, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación, la invitación a cuando menos tres personas o la solicitud de cotización.
-Párrafo reformado DOF 16-04-2025 La formalización de los contratos será realizada en la Plataforma.
-Párrafo reformado DOF 16-04-2025 En la elaboración, control y seguimiento de la bitácora, se deberán utilizar medios remotos de comunicación electrónica, salvo en los casos en que la Secretaría lo autorice.
-Párrafo reformado DOF 16-04-2025 Artículo reformado DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+La formalización de los contratos será realizada en la Plataforma.
+Párrafo reformado DOF 16-04-2025
+En la elaboración, control y seguimiento de la bitácora, se deberán utilizar medios remotos de comunicación electrónica, salvo en los casos en que la Secretaría lo autorice.
+Párrafo reformado DOF 16-04-2025
+Artículo reformado DOF 07-07-2005, 28-05-2009
 
 ### Artículo 46
 Bis. Las penas convencionales se aplicarán por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función del importe de los trabajos no ejecutados en la fecha pactada en el contrato para la conclusión total de las obras. Asimismo, se podrá pactar que las penas convencionales se aplicarán por atraso en el cumplimiento de las fechas críticas establecidas en el programa de ejecución general de los trabajos.
@@ -909,7 +967,8 @@ I. Los anticipos que reciban. Estas garantías deberán presentarse en la fecha 
 
 II. El cumplimiento de los contratos. Esta garantía deberá presentarse en la fecha y lugar establecidos en la convocatoria de la licitación o en su defecto, dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
 Para los efectos de este artículo, las personas titulares de las dependencias o los órganos de gobierno de las entidades, fijarán las bases, la forma y el porcentaje a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los contratistas en los contratos celebrados con las dependencias y entidades, a efecto de determinar montos menores para éstos, de acuerdo a los lineamientos que al efecto emita la Secretaría. En los casos señalados en los artículos 42 fracciones IX, X y XV, y 43 de esta Ley, la persona servidora pública facultada para firmar el contrato, bajo su responsabilidad, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento del contrato respectivo.
-Párrafo reformado DOF 16-04-2025 Artículo reformado DOF 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Artículo reformado DOF 28-05-2009
 
 ### Artículo 49
 .- Las garantías que deban otorgarse conforme a esta Ley se constituirán en favor de:
@@ -926,10 +985,12 @@ Fracción reformada DOF 07-07-2005, 28-05-2009
 
 I. El importe del anticipo concedido será puesto a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía de anticipo dentro del plazo señalado en el artículo 48 de esta Ley, no procederá el diferimiento y, por lo tanto, deberá iniciar los trabajos en la fecha establecida originalmente. El otorgamiento del anticipo podrá realizarse en una sola exhibición o en varias parcialidades, debiendo señalarse tal cuestión en la convocatoria a la licitación y en el contrato respectivo;
 Cuando el contratista inicie la ejecución de los trabajos sin contar previamente con el importe del anticipo, no procederá el diferimiento del programa de ejecución pactado y el residente deberá registrar en la Bitácora la fecha de inicio de los trabajos;
-Párrafo adicionado DOF 16-04-2025 Fracción reformada DOF 28-05-2009
+Párrafo adicionado DOF 16-04-2025
+Fracción reformada DOF 28-05-2009
 
 II. Las dependencias y entidades podrán otorgar hasta un treinta por ciento de la asignación presupuestaria correspondiente al contrato para cada ejercicio de que se trate, considerando el monto pendiente de ejecutar conforme al programa de ejecución de los trabajos, misma que deberá ser notificada mediante Bitácora por parte del residente, para que el contratista realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas e instalaciones y, en su caso, para los gastos de traslado de la maquinaria y equipo de construcción e inicio de los trabajos; así como, para la compra y producción de materiales de construcción, la adquisición de equipos que se instalen permanentemente y demás insumos que deberán otorgar.
-Párrafo reformado DOF 07-07-2005, 16-04-2025 Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado por la convocante atendiendo a las características, complejidad y magnitud del servicio; en el supuesto de que la dependencia o entidad decida otorgarlo, deberá ajustarse a lo previsto en este artículo;
+Párrafo reformado DOF 07-07-2005, 16-04-2025
+Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado por la convocante atendiendo a las características, complejidad y magnitud del servicio; en el supuesto de que la dependencia o entidad decida otorgarlo, deberá ajustarse a lo previsto en este artículo;
 
 III. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su proposición;
 Fracción reformada DOF 28-05-2009
@@ -940,11 +1001,14 @@ Fracción reformada DOF 16-04-2025
 V. Cuando los trabajos rebasen más de un ejercicio presupuestario, y se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, las dependencias o entidades podrán, bajo su responsabilidad, otorgar como anticipo hasta el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, vigilando que se cuente con la suficiencia presupuestaria para el pago de la obra por ejecutar en el ejercicio de que se trate;
 Fracción reformada DOF 07-07-2005, 16-04-2025
 
-VI. En ejercicios fiscales subsecuentes al del inicio de los trabajos, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes al inicio de cada ejercicio fiscal, previa entrega de la garantía correspondiente. El atraso en la entrega de los anticipos será motivo para ajustar el costo financiero pactado en el contrato, y Fracción adicionada DOF 16-04-2025
+VI. En ejercicios fiscales subsecuentes al del inicio de los trabajos, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes al inicio de cada ejercicio fiscal, previa entrega de la garantía correspondiente. El atraso en la entrega de los anticipos será motivo para ajustar el costo financiero pactado en el contrato, y
+Fracción adicionada DOF 16-04-2025
 
 VII. Las dependencias y entidades podrán otorgar anticipos para los convenios que se celebren en términos del artículo 59 de esta Ley, sin que pueda exceder el porcentaje originalmente autorizado en el contrato respectivo.
-Fracción reformada DOF 07-07-2005. Recorrida DOF 16-04-2025 Para la amortización del anticipo en el supuesto de que sea rescindido o terminado anticipadamente el contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea comunicada al contratista la determinación de dar por rescindido o terminar anticipadamente el contrato.
-Párrafo reformado DOF 16-04-2025 El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme con lo indicado en el párrafo primero del artículo 55 de esta Ley.
+Fracción reformada DOF 07-07-2005. Recorrida DOF 16-04-2025
+Para la amortización del anticipo en el supuesto de que sea rescindido o terminado anticipadamente el contrato, el saldo por amortizar se reintegrará a la dependencia o entidad en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea comunicada al contratista la determinación de dar por rescindido o terminar anticipadamente el contrato.
+Párrafo reformado DOF 16-04-2025
+El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme con lo indicado en el párrafo primero del artículo 55 de esta Ley.
 
 ### Artículo 51
 . Las dependencias y entidades se abstendrán de adjudicar y formalizar contrato alguno en las materias a que se refiere esta Ley, con las personas siguientes:
@@ -955,7 +1019,8 @@ Fracción reformada DOF 07-07-2005, 16-04-2025
 
 II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría.
 En el caso de las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México y los entes públicos de unas y otras, la autorización previa será emitida por sus autoridades de control interno;
-Fracción reformada DOF 07-07-2005, 16-04-2025 II Bis. Personas morales de derecho privado de las que las personas servidoras públicas designadas por la persona titular del Ejecutivo Federal, formen o hayan formado parte en los dos últimos años previos a la fecha de celebración del procedimiento de contratación de que se trate.
+Fracción reformada DOF 07-07-2005, 16-04-2025
+II Bis. Personas morales de derecho privado de las que las personas servidoras públicas designadas por la persona titular del Ejecutivo Federal, formen o hayan formado parte en los dos últimos años previos a la fecha de celebración del procedimiento de contratación de que se trate.
 Esta restricción será igualmente aplicable para las personas morales de derecho privado, de las que formen o hayan formado parte en los dos últimos años previos a la fecha de celebración del procedimiento de contratación de que se trate, el cónyuge, concubino, o sus parientes consanguíneos hasta el cuarto grado o hasta el segundo grado por afinidad;
 Fracción adicionada DOF 16-04-2025
 
@@ -972,11 +1037,13 @@ Fracción reformada DOF 07-07-2005
 
 VI. Los licitantes que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común.
 Se entenderá que es socio o asociado común, aquella persona física o moral que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitantes o en cualquier otro documento en que se le reconozca con tal calidad, por tener una participación accionaria en el capital social;
-Párrafo reformado DOF 16-04-2025 Fracción reformada DOF 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Fracción reformada DOF 28-05-2009
 
 VII. Las que pretendan participar en un procedimiento de contratación y previamente, hayan realizado o se encuentren realizando por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación y control de obra; preparación de especificaciones de construcción; presupuesto de los trabajos; selección o aprobación de materiales, equipos y procesos, así como la preparación de cualquier documento relacionado directamente con la convocatoria a la licitación, o bien, asesoren o intervengan en cualquier etapa del procedimiento de contratación.
 Las personas que hayan realizado, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, estudios, planes o programas para la realización de obras públicas asociadas a proyectos de infraestructura a que se refiere el artículo 18, párrafo quinto de esta Ley, en los que se incluyan trabajos de preparación de especificaciones de construcción, presupuesto, selección o aprobación de materiales, equipos o procesos, podrán participar en el procedimiento de licitación pública para la ejecución de los proyectos de infraestructura respectivos, siempre y cuando la información utilizada por dichas personas en los supuestos indicados, sea proporcionada a los demás licitantes;
-Párrafo reformado DOF 16-04-2025 Fracción reformada DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+Fracción reformada DOF 07-07-2005, 28-05-2009
 
 VIII. Aquéllas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean partes;
 Fracción reformada DOF 07-07-2005
@@ -985,20 +1052,28 @@ IX. Las que hayan utilizado información privilegiada proporcionada indebidament
 Fracción reformada DOF 07-07-2005
 
 X. Las que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación;
-Fracción adicionada DOF 07-07-2005. Reformada DOF 16-04-2025 X Bis. Aquellas personas que hubieren sido sancionadas por la autoridad competente en materia de libre competencia y concurrencia por una práctica monopólica absoluta. Este impedimento prevalecerá ante las dependencias y entidades convocantes por un plazo de dos años calendario contados a partir de que surta efectos la notificación de la resolución sancionatoria emitida por dicha autoridad;
-Fracción adicionada DOF 16-04-2025 X Ter. Aquellas que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, y Fracción adicionada DOF 16-04-2025
+Fracción adicionada DOF 07-07-2005. Reformada DOF 16-04-2025
+X Bis. Aquellas personas que hubieren sido sancionadas por la autoridad competente en materia de libre competencia y concurrencia por una práctica monopólica absoluta. Este impedimento prevalecerá ante las dependencias y entidades convocantes por un plazo de dos años calendario contados a partir de que surta efectos la notificación de la resolución sancionatoria emitida por dicha autoridad;
+Fracción adicionada DOF 16-04-2025
+X Ter. Aquellas que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, y
+Fracción adicionada DOF 16-04-2025
 
 XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
-Fracción adicionada DOF 07-07-2005 La Secretaría tendrá acceso a la información necesaria con motivo del ejercicio de sus facultades relativas al cumplimiento de las obligaciones establecidas en la presente Ley, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial.
-Párrafo adicionado DOF 16-04-2025 Para el cumplimiento de las atribuciones señaladas en el párrafo anterior, no serán oponibles las disposiciones dirigidas a proteger la secrecía de la información fiscal, con la obligación de mantener la misma en reserva o secrecía, para lo cual se celebrarán convenios de colaboración con las autoridades correspondientes.
-Párrafo adicionado DOF 16-04-2025 Las personas titulares de las Unidades de Administración y Finanzas, o en su caso de la oficialía mayor o su equivalente de la dependencia o entidad, deberá llevar el registro, control y difusión de las personas con las que se encuentren impedidas de contratar, el cual será difundido a través de la Plataforma.
+Fracción adicionada DOF 07-07-2005
+La Secretaría tendrá acceso a la información necesaria con motivo del ejercicio de sus facultades relativas al cumplimiento de las obligaciones establecidas en la presente Ley, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial.
+Párrafo adicionado DOF 16-04-2025
+Para el cumplimiento de las atribuciones señaladas en el párrafo anterior, no serán oponibles las disposiciones dirigidas a proteger la secrecía de la información fiscal, con la obligación de mantener la misma en reserva o secrecía, para lo cual se celebrarán convenios de colaboración con las autoridades correspondientes.
+Párrafo adicionado DOF 16-04-2025
+Las personas titulares de las Unidades de Administración y Finanzas, o en su caso de la oficialía mayor o su equivalente de la dependencia o entidad, deberá llevar el registro, control y difusión de las personas con las que se encuentren impedidas de contratar, el cual será difundido a través de la Plataforma.
 Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
 
 ## CAPÍTULO SEGUNDO — DE LA EJECUCIÓN
 
+
 ### Artículo 52
 . La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la dependencia o entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la dependencia o entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar en la Bitácora.
-Párrafo reformado DOF 16-04-2025 El programa de ejecución convenido en el contrato y sus modificaciones, será la base conforme al cual se medirá el avance en la ejecución de los trabajos.
+Párrafo reformado DOF 16-04-2025
+El programa de ejecución convenido en el contrato y sus modificaciones, será la base conforme al cual se medirá el avance en la ejecución de los trabajos.
 Párrafo adicionado DOF 28-05-2009
 
 ### Artículo 52
@@ -1134,12 +1209,15 @@ Artículo reformado DOF 07-07-2005, 28-05-2009, 16-04-2025
 .- Las dependencias y entidades podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del contratista.
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
-I. Se iniciará a partir de que al contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un término de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes, y Fracción reformada DOF 28-05-2009
+I. Se iniciará a partir de que al contratista le sea comunicado el incumplimiento en que haya incurrido, para que en un término de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes, y
+Fracción reformada DOF 28-05-2009
 
-II. Transcurrido el término a que se refiere la fracción anterior, la dependencia o entidad contará con un plazo de diez días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el contratista. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al contratista dentro de dicho plazo, y Fracción reformada DOF 28-05-2009, 16-04-2025
+II. Transcurrido el término a que se refiere la fracción anterior, la dependencia o entidad contará con un plazo de diez días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el contratista. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al contratista dentro de dicho plazo, y
+Fracción reformada DOF 28-05-2009, 16-04-2025
 
 III. Se deroga.
-Fracción derogada DOF 28-05-2009 Las dependencias y entidades podrán, bajo su responsabilidad, suspender el trámite del procedimiento de rescisión, cuando se hubiere iniciado un procedimiento de conciliación respecto del contrato materia de la rescisión.
+Fracción derogada DOF 28-05-2009
+Las dependencias y entidades podrán, bajo su responsabilidad, suspender el trámite del procedimiento de rescisión, cuando se hubiere iniciado un procedimiento de conciliación respecto del contrato materia de la rescisión.
 Párrafo adicionado DOF 28-05-2009
 
 ### Artículo 61
@@ -1159,7 +1237,8 @@ III. Cuando se den por terminados anticipadamente los contratos, la dependencia 
 
 IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá optar por no ejecutarlos. En este supuesto, si opta por la terminación anticipada del contrato, deberá solicitarla a la dependencia o entidad, quien determinará lo conducente dentro de los quince días naturales siguientes a la presentación del escrito respectivo; en caso de negativa, será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente, pero si la dependencia o entidad no contesta en dicho plazo, se tendrá por aceptada la petición del contratista.
 Una vez comunicada por la dependencia o entidad la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, éstas procederán a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, y en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra. En el caso de entidades, el acta circunstanciada se levantará ante la presencia de fedatario público.
-Párrafo reformado DOF 07-07-2005 El contratista estará obligado a devolver a la dependencia o entidad, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
+Párrafo reformado DOF 07-07-2005
+El contratista estará obligado a devolver a la dependencia o entidad, en un plazo de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
 
 ### Artículo 63
 .- De ocurrir los supuestos establecidos en el artículo anterior, las dependencias y entidades comunicarán la suspensión, rescisión o terminación anticipada del contrato al contratista; posteriormente, lo harán del conocimiento de su órgano interno de control, a más tardar el último día hábil de cada mes, mediante un informe en el que se referirá los supuestos ocurridos en el mes calendario inmediato anterior.
@@ -1167,7 +1246,8 @@ Párrafo reformado DOF 07-07-2005 El contratista estará obligado a devolver a l
 ### Artículo 64
 .- El contratista comunicará a la dependencia o entidad la conclusión de los trabajos que le fueron encomendados, para que ésta, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la dependencia o entidad contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
 Recibidos físicamente los trabajos, las partes dentro del término estipulado en el contrato, el cual no podrá exceder de sesenta días naturales a partir de la recepción de los trabajos, deberán elaborar el finiquito de los mismos, en el que se hará constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
-Párrafo reformado DOF 28-05-2009 De existir desacuerdo entre las partes respecto al finiquito, o bien, el contratista no acuda con la dependencia o entidad para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda, si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
+Párrafo reformado DOF 28-05-2009
+De existir desacuerdo entre las partes respecto al finiquito, o bien, el contratista no acuda con la dependencia o entidad para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda, si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
 Determinado el saldo total, la dependencia o entidad pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
 ### Artículo 65
@@ -1193,9 +1273,11 @@ Párrafo reformado DOF 28-05-2009
 .- Las dependencias y entidades bajo cuya responsabilidad quede una obra pública concluida, estarán obligadas, por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento. Los órganos internos de control vigilarán que su uso, operación y mantenimiento se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
 
 ## TÍTULO CUARTO — DE LA ADMINISTRACIÓN DIRECTA
+
 Título reubicado DOF 28-05-2009 (antes Título Quinto)
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 70
 .- Cumplidos los requisitos establecidos en el artículo 24 de esta Ley, las dependencias y entidades podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria y equipo de construcción y personal técnico, según el caso, que se requieran para el desarrollo de los trabajos respectivos y podrán:
@@ -1222,9 +1304,11 @@ Los órganos internos de control en las dependencias y entidades, previamente a 
 Artículo reformado DOF 16-04-2025
 
 ## TÍTULO QUINTO — DE LA PLATAFORMA
+
 Título reubicado DOF 28-05-2009 (antes Título Sexto). Denominación reformada DOF 16-04-2025
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 74
 . La Secretaría implementará y administrará la Plataforma como una herramienta electrónica oficial y transaccional, integrada por diversos módulos, a través de la cual se realizarán los procedimientos de contratación en materia de obras públicas y servicios relacionados con las mismas previstos en el artículo 27 de la presente Ley, así como la suscripción y administración de los contratos derivados de estos.
@@ -1299,12 +1383,15 @@ Artículo reformado DOF 28-05-2009, 16-04-2025
 
 ### Artículo 76
 . La Secretaría podrá verificar la calidad de los trabajos a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
-Párrafo reformado DOF 28-05-2009, 16-04-2025 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el contratista y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del contratista no invalidará dicho dictamen.
+Párrafo reformado DOF 28-05-2009, 16-04-2025
+El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el contratista y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del contratista no invalidará dicho dictamen.
 
 ## TÍTULO SEXTO — DE LAS INFRACCIONES Y SANCIONES
+
 Título reubicado DOF 28-05-2009 (antes Título Séptimo)
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 77
 . Los licitantes, cotizantes o contratistas que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría con multa equivalente a la cantidad de cincuenta hasta tres mil veces el valor de la UMA diaria vigente elevada al mes, en la fecha de la infracción.
@@ -1324,17 +1411,24 @@ III. Los contratistas que no cumplan con sus obligaciones contractuales por caus
 Fracción reformada DOF 16-04-2025
 
 IV. Las que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad;
-Fracción reformada DOF 07-07-2005, 28-05-2009 IV Bis. Los que actúen como interpósita persona en los procedimientos de contratación;
+Fracción reformada DOF 07-07-2005, 28-05-2009
+IV Bis. Los que actúen como interpósita persona en los procedimientos de contratación;
 Fracción adicionada DOF 16-04-2025
 
-V. Los contratistas que se encuentren en el supuesto de la fracción X del artículo 51 de la presente Ley, y Fracción adicionada DOF 07-07-2005. Reformada DOF 28-05-2009, 16-04-2025
+V. Los contratistas que se encuentren en el supuesto de la fracción X del artículo 51 de la presente Ley, y
+Fracción adicionada DOF 07-07-2005. Reformada DOF 28-05-2009, 16-04-2025
 
 VI. Aquéllas que se encuentren en el supuesto del segundo párrafo del artículo 92 de esta Ley.
-Fracción adicionada DOF 28-05-2009 La inhabilitación que se imponga no será menor de tres meses ni mayor de siete años, plazo que comenzará a transcurrir a partir del día siguiente en que la Secretaría la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Diario Oficial de la Federación y se registre en la Plataforma.
-Párrafo reformado DOF 28-05-2009, 16-04-2025 Tratándose de los supuestos previstos en las fracciones I, II, III y IV de este artículo, la multa e inhabilitación que como sanción corresponda se aumentará hasta en un tercio más, cuando con motivo de la conducta se haya afectado o puesto en riesgo la salud, educación, seguridad social o la ejecución de programas prioritarios o proyectos estratégicos.
-Párrafo adicionado DOF 16-04-2025 Lo anterior sin perjuicio de las responsabilidades y penas que correspondan por los delitos que resulten.
-Párrafo adicionado DOF 16-04-2025 Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos del artículo anterior, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
-Párrafo adicionado DOF 07-07-2005 Las dependencias y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Secretaría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+Fracción adicionada DOF 28-05-2009
+La inhabilitación que se imponga no será menor de tres meses ni mayor de siete años, plazo que comenzará a transcurrir a partir del día siguiente en que la Secretaría la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Diario Oficial de la Federación y se registre en la Plataforma.
+Párrafo reformado DOF 28-05-2009, 16-04-2025
+Tratándose de los supuestos previstos en las fracciones I, II, III y IV de este artículo, la multa e inhabilitación que como sanción corresponda se aumentará hasta en un tercio más, cuando con motivo de la conducta se haya afectado o puesto en riesgo la salud, educación, seguridad social o la ejecución de programas prioritarios o proyectos estratégicos.
+Párrafo adicionado DOF 16-04-2025
+Lo anterior sin perjuicio de las responsabilidades y penas que correspondan por los delitos que resulten.
+Párrafo adicionado DOF 16-04-2025
+Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos del artículo anterior, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
+Párrafo adicionado DOF 07-07-2005
+Las dependencias y entidades, dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Secretaría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 Párrafo reformado DOF 28-05-2009, 16-04-2025
 
 ### Artículo 79
@@ -1366,9 +1460,11 @@ Artículo reformado DOF 28-05-2009
 Artículo reformado DOF 28-05-2009, 16-04-2025
 
 ## TÍTULO SÉPTIMO — DE LA SOLUCIÓN DE LAS CONTROVERSIAS
+
 Denominación del Título reformada y reubicado DOF 28-05-2009 (antes Título Octavo)
 
 ## CAPÍTULO PRIMERO — DE LA INSTANCIA DE INCONFORMIDAD
+
 Denominación del Capítulo reformada DOF 28-05-2009
 
 ### Artículo 83
@@ -1462,8 +1558,10 @@ II. Por rotulón, que se fijará en lugar visible y de fácil acceso al público
 
 III. Por oficio, aquéllas dirigidas a la convocante.
 Las notificaciones a que se refiere este artículo podrán realizarse a través de correo electrónico, previo consentimiento expreso del inconforme o del tercero interesado.
-Párrafo reformado DOF 16-04-2025 En el caso del inconforme, deberá expresar su consentimiento en su escrito inicial de inconformidad, y en caso del tercero interesado, en el escrito mediante el cual desahogue el derecho de audiencia. Las notificaciones electrónicas previamente consentidas por las partes sustituirán la notificación personal.
-Párrafo adicionado DOF 16-04-2025 Artículo reformado DOF 07-07-2005, 28-05-2009
+Párrafo reformado DOF 16-04-2025
+En el caso del inconforme, deberá expresar su consentimiento en su escrito inicial de inconformidad, y en caso del tercero interesado, en el escrito mediante el cual desahogue el derecho de audiencia. Las notificaciones electrónicas previamente consentidas por las partes sustituirán la notificación personal.
+Párrafo adicionado DOF 16-04-2025
+Artículo reformado DOF 07-07-2005, 28-05-2009
 
 ### Artículo 88
 . Se decretará la suspensión de los actos del procedimiento de contratación y los que de éste deriven, siempre que lo solicite el inconforme en su escrito inicial y se advierta que existan o pudieren existir actos contrarios a las disposiciones de esta Ley o a las que de ella deriven y, además, no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
@@ -1488,9 +1586,12 @@ Artículo reformado DOF 28-05-2009
 . La autoridad que conozca de la inconformidad la examinará y si encontrare motivo manifiesto de improcedencia, la desechará de plano.
 Recibida la inconformidad, se requerirá a la convocante que rinda en el plazo de dos días hábiles un informe previo en el que manifieste los datos generales del procedimiento de contratación y del tercero interesado, y pronuncie las razones por las que estime que la suspensión resulta o no procedente.
 Se requerirá también a la convocante que rinda en el plazo de seis días hábiles un informe circunstanciado, en el que se expondrán las razones y fundamentos para sostener la improcedencia de la inconformidad, así como la validez o legalidad del acto impugnado y se acompañará, en su caso, copia certificada o autorizada de las constancias necesarias para apoyarlo, así como aquéllas a que se refiere la fracción IV del artículo 84 de la presente Ley.
-Párrafo reformado DOF 16-04-2025 Se considerarán rendidos los informes aún recibidos en forma extemporánea, sin perjuicio de que el desacato en su oportuna rendición sea sancionable conforme a la ley aplicable.
-Párrafo reformado DOF 16-04-2025 Una vez conocidos los datos del tercero interesado, se le correrá traslado con copia del escrito inicial y sus anexos, a efecto de que, dentro de los seis días hábiles siguientes, comparezca al procedimiento a manifestar lo que a su interés convenga, resultándole aplicable, en lo conducente, lo dispuesto por el artículo 84 de esta Ley.
-Párrafo reformado DOF 16-04-2025 El inconforme, dentro de los tres días hábiles siguientes a aquel en que se tenga por recibido el informe circunstanciado, tendrá derecho de ampliar sus motivos de impugnación, cuando del mismo aparezcan elementos que no conocía.
+Párrafo reformado DOF 16-04-2025
+Se considerarán rendidos los informes aún recibidos en forma extemporánea, sin perjuicio de que el desacato en su oportuna rendición sea sancionable conforme a la ley aplicable.
+Párrafo reformado DOF 16-04-2025
+Una vez conocidos los datos del tercero interesado, se le correrá traslado con copia del escrito inicial y sus anexos, a efecto de que, dentro de los seis días hábiles siguientes, comparezca al procedimiento a manifestar lo que a su interés convenga, resultándole aplicable, en lo conducente, lo dispuesto por el artículo 84 de esta Ley.
+Párrafo reformado DOF 16-04-2025
+El inconforme, dentro de los tres días hábiles siguientes a aquel en que se tenga por recibido el informe circunstanciado, tendrá derecho de ampliar sus motivos de impugnación, cuando del mismo aparezcan elementos que no conocía.
 La autoridad que conozca de la inconformidad, en caso de estimar procedente la ampliación, requerirá a la convocante para que en el plazo de tres días hábiles rinda el informe circunstanciado correspondiente, y dará vista al tercero interesado para que en el mismo plazo manifieste lo que a su interés convenga.
 Artículo reformado y reubicado DOF 28-05-2009
 
@@ -1514,7 +1615,8 @@ V. Las consideraciones y fundamentos legales en que se apoye, y
 
 VI. Los puntos resolutivos que expresen claramente sus alcances y efectos, en congruencia con la parte considerativa, fijando cuando proceda las directrices para la reposición de actos decretados nulos o para la firma del contrato.
 Una vez que cause estado la resolución que ponga fin a la inconformidad, ésta será publicada en la Plataforma.
-Párrafo reformado DOF 16-04-2025 Artículo reformado DOF 07-07-2005, 28-05-2009 (y reubicado)
+Párrafo reformado DOF 16-04-2025
+Artículo reformado DOF 07-07-2005, 28-05-2009 (y reubicado)
 
 ### Artículo 92
 . La resolución que emita la autoridad podrá:
@@ -1581,6 +1683,7 @@ En caso de que la autoridad resuelva que los actos del procedimiento de contrata
 Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
 
 ## CAPÍTULO SEGUNDO — DEL PROCEDIMIENTO DE CONCILIACIÓN
+
 Capítulo adicionado DOF 28-05-2009 (reubicado)
 
 ### Artículo 95
@@ -1610,10 +1713,12 @@ Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
 
 ### Artículo 97
 . En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. La Secretaría dará seguimiento a los acuerdos de voluntades, para lo cual las dependencias, entidades o contratistas deberán remitir un informe o reporte, según corresponda, sobre el avance de cumplimiento del mismo, en términos del Reglamento de esta Ley.
-Párrafo reformado DOF 16-04-2025 En caso de no existir acuerdo de voluntades, las partes podrán optar por cualquier vía de solución a su controversia.
+Párrafo reformado DOF 16-04-2025
+En caso de no existir acuerdo de voluntades, las partes podrán optar por cualquier vía de solución a su controversia.
 Artículo adicionado DOF 28-05-2009
 
 ## CAPÍTULO TERCERO — DE LOS MEDIOS DE APREMIO
+
 Capítulo adicionado DOF 28-05-2009. Denominación reformada DOF 16-04-2025
 
 ### Artículo 97
@@ -1627,7 +1732,9 @@ III. Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, 
 Artículo adicionado DOF 16-04-2025
 
 ## CAPÍTULO CUARTO — DEL ARBITRAJE, OTROS MECANISMOS DE SOLUCIÓN DE CONTROVERSIAS Y
-COMPETENCIA JUDICIAL Capítulo adicionado DOF 16-04-2025
+
+COMPETENCIA JUDICIAL
+Capítulo adicionado DOF 16-04-2025
 
 ### Artículo 98
 . Se podrá convenir compromiso arbitral respecto de aquellas controversias que surjan entre las partes por interpretación a las cláusulas de los contratos o por cuestiones derivadas de su ejecución, en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio.
@@ -1700,8 +1807,8 @@ Se REFORMAN los artículos 33, párrafo segundo, y 45, párrafo tercero, y se AD
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanueva Abrajan, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se expide la Ley de Petróleos Mexicanos; se adicionan el artículo 3o. de la Ley Federal de las Entidades Paraestatales; el artículo 1 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y un párrafo tercero al artículo 1 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
@@ -1720,38 +1827,38 @@ Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009
 
 ### Artículo Segundo
 Se reforman los artículos 1 en sus párrafos primero, segundo, sexto y séptimo y en las fracciones II y VI; 2 en sus fracciones II, VI, VII y VIII; 3 en sus fracciones III, VII y VIII; 8, 9, 12, 13, 15, 16 en su párrafo segundo, 17 en su párrafo primero y en su fracción III; 18, 19 en su párrafo segundo; 22, 23 en su último párrafo; 24, 25, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41 en sus párrafos
-**segundo.** y cuarto; 42 en sus fracciones IV, VI, VII, XI y XII; 43, 44 en sus fracciones I, II, III, V y VII; 45, 46, 47 en sus párrafos primero, segundo, cuarto y sexto; 48, 49 en su fracción III; 50 en sus fracciones I y III; 51 en su párrafo primero y fracciones III, IV, VI y VII; 53 en su párrafo primero; 54 en sus párrafos
-**segundo.** y cuarto; 56, 57, 58, 59, 60, 61 en las fracciones I y II; 64 en su párrafo segundo; 65, 66 en su párrafo sexto; 74, 75, 76 en su párrafo primero; 77, 78 en sus párrafos primero, segundo y cuarto, y las fracciones II, IV y V; 79 en sus párrafos primero y segundo, y la fracción I; 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90 y 91, asimismo, el Título Tercero denominado "De los Procedimientos de Contratación" que pasa a ser el Título Segundo; el Título Cuarto denominado "De los Contratos" que pasa a ser el Título
-**Tercero.** ; el Título Quinto denominado "De la Administración Directa" que pasa a ser el Título Cuarto; el Título Sexto denominado "De la Información y Verificación" que pasa a ser el Título Quinto; el Título
-**Séptimo.** denominado "De las Infracciones y Sanciones" que pasa a ser el Título Sexto; el Título Octavo denominado "De las Inconformidades y del Procedimiento de Conciliación" que pasa a ser el Título
-**Séptimo.** con la denominación "De la Solución de las Controversias" y la denominación de su Capítulo
-**Primero.** denominado "De las Inconformidades" para quedar "De la Instancia de Inconformidad". Se adicionan los artículos 2 con las fracciones IX, X, XI y XII; 3 con una fracción IX; 16 con los párrafos
-**tercero.** y cuarto; 27 bis, 39 Bis, 41 con un último párrafo; 42 con las fracciones XIII y XIV y con un último párrafo; 44 con un último párrafo; 45 Bis, 45 Ter, 46 Bis, 47 con un último párrafo, 52 con un párrafo
-**segundo.** ; 53 con un párrafo tercero; 61 con un párrafo tercero; 74 Bis, 78 con una fracción VI; 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104; asimismo, al Título Séptimo un Capítulo Segundo denominado "Del Procedimiento de Conciliación" y un Capítulo Tercero denominado "Del Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial". Se derogan los artículos 3 en su fracción II; 7, 44 en su fracción VI y, 61 en su fracción III; asimismo, las divisiones correspondientes al Título Segundo denominado "De la Planeación, Programación y Presupuesto" y al Capítulo Único, todos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue: ……….
+**segundo.-** y cuarto; 42 en sus fracciones IV, VI, VII, XI y XII; 43, 44 en sus fracciones I, II, III, V y VII; 45, 46, 47 en sus párrafos primero, segundo, cuarto y sexto; 48, 49 en su fracción III; 50 en sus fracciones I y III; 51 en su párrafo primero y fracciones III, IV, VI y VII; 53 en su párrafo primero; 54 en sus párrafos
+**segundo.-** y cuarto; 56, 57, 58, 59, 60, 61 en las fracciones I y II; 64 en su párrafo segundo; 65, 66 en su párrafo sexto; 74, 75, 76 en su párrafo primero; 77, 78 en sus párrafos primero, segundo y cuarto, y las fracciones II, IV y V; 79 en sus párrafos primero y segundo, y la fracción I; 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90 y 91, asimismo, el Título Tercero denominado "De los Procedimientos de Contratación" que pasa a ser el Título Segundo; el Título Cuarto denominado "De los Contratos" que pasa a ser el Título
+**Tercero.-** ; el Título Quinto denominado "De la Administración Directa" que pasa a ser el Título Cuarto; el Título Sexto denominado "De la Información y Verificación" que pasa a ser el Título Quinto; el Título
+**Séptimo.-** denominado "De las Infracciones y Sanciones" que pasa a ser el Título Sexto; el Título Octavo denominado "De las Inconformidades y del Procedimiento de Conciliación" que pasa a ser el Título
+**Séptimo.-** con la denominación "De la Solución de las Controversias" y la denominación de su Capítulo
+**Primero.-** denominado "De las Inconformidades" para quedar "De la Instancia de Inconformidad". Se adicionan los artículos 2 con las fracciones IX, X, XI y XII; 3 con una fracción IX; 16 con los párrafos
+**tercero.-** y cuarto; 27 bis, 39 Bis, 41 con un último párrafo; 42 con las fracciones XIII y XIV y con un último párrafo; 44 con un último párrafo; 45 Bis, 45 Ter, 46 Bis, 47 con un último párrafo, 52 con un párrafo
+**segundo.-** ; 53 con un párrafo tercero; 61 con un párrafo tercero; 74 Bis, 78 con una fracción VI; 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104; asimismo, al Título Séptimo un Capítulo Segundo denominado "Del Procedimiento de Conciliación" y un Capítulo Tercero denominado "Del Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial". Se derogan los artículos 3 en su fracción II; 7, 44 en su fracción VI y, 61 en su fracción III; asimismo, las divisiones correspondientes al Título Segundo denominado "De la Planeación, Programación y Presupuesto" y al Capítulo Único, todos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue: ……….
 ARTÍCULOS TRANSITORIOS
-**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
-**SEGUNDO.** Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
-**TERCERO.** En tanto se expidan las reformas correspondientes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones administrativas derivadas de este Decreto, se continuarán aplicando los reglamentos de dichas leyes y disposiciones administrativas vigentes en la materia, en lo que no se opongan al presente Decreto.
-**CUARTO.** La Secretaría de la Función Pública realizará cada año una evaluación para determinar el incremento de la cobertura de participación de los testigos sociales a que se refieren los artículos 26 Ter de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 Bis de la Ley de Obras Públicas y Servicios Relacionados con las Mismas. Asimismo, esa Secretaría instrumentará medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de diez años a partir de la entrada en vigor de esta Ley, la cobertura total de testigos sociales en la contratación pública.
-**QUINTO.** Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hacen referencia los artículos 36 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 38 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Secretaría de la Función Pública emitirá en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos correspondientes.
-**SEXTO.** Los lineamientos a que se refiere el segundo párrafo de los artículos 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán ser emitidos en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de los preceptos legales mencionados.
-**SÉPTIMO.** Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su inicio.
-**OCTAVO.** Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
-**NOVENO.** Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
-**DÉCIMO.** Las adecuaciones al sistema electrónico de contrataciones gubernamentales CompraNet que permitan la aplicación de las reformas que mediante el presente Decreto se realizan a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán estar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+**TERCERO.-** En tanto se expidan las reformas correspondientes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones administrativas derivadas de este Decreto, se continuarán aplicando los reglamentos de dichas leyes y disposiciones administrativas vigentes en la materia, en lo que no se opongan al presente Decreto.
+**CUARTO.-** La Secretaría de la Función Pública realizará cada año una evaluación para determinar el incremento de la cobertura de participación de los testigos sociales a que se refieren los artículos 26 Ter de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 Bis de la Ley de Obras Públicas y Servicios Relacionados con las Mismas. Asimismo, esa Secretaría instrumentará medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de diez años a partir de la entrada en vigor de esta Ley, la cobertura total de testigos sociales en la contratación pública.
+**QUINTO.-** Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hacen referencia los artículos 36 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 38 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Secretaría de la Función Pública emitirá en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos correspondientes.
+**SEXTO.-** Los lineamientos a que se refiere el segundo párrafo de los artículos 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán ser emitidos en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de los preceptos legales mencionados.
+**SÉPTIMO.-** Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su inicio.
+**OCTAVO.-** Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
+**NOVENO.-** Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+**DÉCIMO.-** Las adecuaciones al sistema electrónico de contrataciones gubernamentales CompraNet que permitan la aplicación de las reformas que mediante el presente Decreto se realizan a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán estar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
 Entrarán en vigor dentro de dicho plazo conforme se realicen las modificaciones a que se refiere el párrafo anterior, los artículos 37 párrafo quinto en cuanto a la notificación del fallo en CompraNet; 48
-**segundo.** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de proveedores en los contratos a efecto de determinar los porcentajes de las garantías; 50 último párrafo, 56 y 69 párrafo segundo, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 39 penúltimo párrafo en cuanto a la notificación del fallo en CompraNet; 48
-**segundo.** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de contratistas en los contratos a efecto de determinar los porcentajes de las garantías; 51 último párrafo, 74 y 87 párrafo segundo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+**segundo.-** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de proveedores en los contratos a efecto de determinar los porcentajes de las garantías; 50 último párrafo, 56 y 69 párrafo segundo, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 39 penúltimo párrafo en cuanto a la notificación del fallo en CompraNet; 48
+**segundo.-** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de contratistas en los contratos a efecto de determinar los porcentajes de las garantías; 51 último párrafo, 74 y 87 párrafo segundo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior, los actos señalados en las mismas se continuarán realizando conforme a la normatividad vigente.
 En un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, estará disponible en CompraNet la información relativa a los programas anuales en materia de adquisiciones, arrendamientos y servicios y obras públicas y servicios relacionados con las mismas de las dependencias y entidades, padrón de testigos sociales, el registro de proveedores y contratistas sancionados, y los testimonios de los testigos sociales, a que se refieren los artículos 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 En el caso de las dependencias y entidades que cuenten con una base de datos sobre el cumplimiento de los proveedores y contratistas en los contratos que hayan celebrado con los mismos, podrán aplicar a la entrada en vigor del presente Decreto, lo dispuesto en el segundo párrafo del artículo 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y en el segundo párrafo del artículo 48 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, conforme a los lineamientos que emita la Secretaría de la Función Pública.
-**DÉCIMO PRIMERO.** La Secretaría de Economía incrementará progresivamente el porcentaje de contenido nacional a que se refiere la fracción I del artículo 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, hasta un sesenta y cinco por ciento, en un plazo de tres años, contados a partir de la entrada en vigor del presente Decreto.
-**DÉCIMO SEGUNDO.** La unidad administrativa de la Secretaría de la Función Pública a que se refieren los artículos 2 fracción II y 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 2 fracción II y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no implicará la creación de nuevas estructuras orgánicas y ocupacionales, ni la creación de plazas presupuestarias.
-**DÉCIMO TERCERO.** La Secretaría de la Función Pública emitirá los lineamientos que promuevan la agilización de los pagos a proveedores, que se regulan en el artículo 51 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto.
-**DÉCIMO CUARTO.** Con independencia de las excepciones al procedimiento de licitación previstas en el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a partir del siguiente día de la publicación del presente Decreto en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2009, se exceptuará también del procedimiento de licitación pública toda contratación de construcción, mantenimiento o reparación de obras, en la que se acredite contar con empleo intensivo de mano de obra que represente al menos un 50% del costo total del proyecto.
-**DÉCIMO QUINTO.** La suma de los montos de los contratos que se realicen durante el año 2009, al amparo del artículo 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no podrá exceder del treinta y cinco por ciento del presupuesto autorizado para llevar a cabo obras públicas y servicios relacionados con las mismas; el monto asignado a cada contratista no podrá exceder del cinco por ciento de dicho presupuesto.
-**DÉCIMO SEXTO.** El Ejecutivo Federal deberá informar a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, en su caso, a través de la Comisión Permanente del Congreso de la Unión, sobre los avances en los ahorros que se generen con motivo de la aplicación de las medidas relativas a la racionalización del gasto previstas en el Programa de Mediano Plazo, conforme a lo dispuesto en los artículos 45 y 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; en el
-**artículo segundo.** del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal, de Coordinación Fiscal, de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 1 de octubre de 2007; así como el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009.
+**DÉCIMO PRIMERO.-** La Secretaría de Economía incrementará progresivamente el porcentaje de contenido nacional a que se refiere la fracción I del artículo 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, hasta un sesenta y cinco por ciento, en un plazo de tres años, contados a partir de la entrada en vigor del presente Decreto.
+**DÉCIMO SEGUNDO.-** La unidad administrativa de la Secretaría de la Función Pública a que se refieren los artículos 2 fracción II y 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 2 fracción II y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no implicará la creación de nuevas estructuras orgánicas y ocupacionales, ni la creación de plazas presupuestarias.
+**DÉCIMO TERCERO.-** La Secretaría de la Función Pública emitirá los lineamientos que promuevan la agilización de los pagos a proveedores, que se regulan en el artículo 51 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto.
+**DÉCIMO CUARTO.-** Con independencia de las excepciones al procedimiento de licitación previstas en el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a partir del siguiente día de la publicación del presente Decreto en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2009, se exceptuará también del procedimiento de licitación pública toda contratación de construcción, mantenimiento o reparación de obras, en la que se acredite contar con empleo intensivo de mano de obra que represente al menos un 50% del costo total del proyecto.
+**DÉCIMO QUINTO.-** La suma de los montos de los contratos que se realicen durante el año 2009, al amparo del artículo 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no podrá exceder del treinta y cinco por ciento del presupuesto autorizado para llevar a cabo obras públicas y servicios relacionados con las mismas; el monto asignado a cada contratista no podrá exceder del cinco por ciento de dicho presupuesto.
+**DÉCIMO SEXTO.-** El Ejecutivo Federal deberá informar a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, en su caso, a través de la Comisión Permanente del Congreso de la Unión, sobre los avances en los ahorros que se generen con motivo de la aplicación de las medidas relativas a la racionalización del gasto previstas en el Programa de Mediano Plazo, conforme a lo dispuesto en los artículos 45 y 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; en el
+**artículo segundo.-** del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal, de Coordinación Fiscal, de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 1 de octubre de 2007; así como el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009.
 La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados tomará en cuenta la información que rinda el Ejecutivo Federal, respecto a los conceptos señalados en el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para efectos del proceso de aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2010.
 **DÉCIMO SÉPTIMO.-** El Ejecutivo Federal, a través de la Secretaría de la Función Pública y de la Secretaría del Medio Ambiente y Recursos Naturales, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la debida aplicación de lo dispuesto en el párrafo cuarto del artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen.
@@ -1765,12 +1872,12 @@ Se reforman los artículos 42, último párrafo; 44, último párrafo, y 102, y 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
-**SEGUNDO.** Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+**PRIMERO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+**SEGUNDO.-** Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
 En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
-**TERCERO.** El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
-**CUARTO.** Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
-**QUINTO.** La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+**TERCERO.-** El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+**CUARTO.-** Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+**QUINTO.-** La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
@@ -1781,8 +1888,8 @@ Se reforma el artículo 20 de la Ley de Obras Públicas y Servicios relacionados
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expiden la Ley de Petróleos Mexicanos y la Ley de la Comisión Federal de Electricidad, y se reforman y derogan diversas disposiciones de la Ley Federal de las Entidades Paraestatales; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
@@ -1792,10 +1899,10 @@ Se reforma el párrafo tercero del artículo 1 de la Ley de Obras Públicas y Se
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo
-**primero.** del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
-**Tercero.** La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo
+**primero.-** del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
+**Tercero.-** La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 México, D.F., a 5 de agosto de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona la fracción XXI al artículo 31 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 Publicado en el Diario Oficial de la Federación el 13 de enero de 2016
@@ -1812,49 +1919,49 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
 
 ### Artículo Único
 Se reforman los artículos 1, fracciones II y VI, y el párrafo tercero; 2; 3, fracciones I, III, VII y IX; 4, fracciones III, IV y V; 8; 10; 12; 16, párrafo cuarto; 17; 19, párrafo primero; 21, párrafo
-**primero.** , fracción V; 22; 23, párrafo cuarto; 24; 25, párrafos primero, fracciones II, III y V, inciso a), y
-**segundo.** ; 27; 27 Bis; 28; 30; 31, fracciones III, IV, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, párrafo primero, XVII, XXII, XXIV, XXVI, XXIX, XXX, XXXI y XXXII, y párrafos segundo y tercero; 32; 33; 34; 35; 36; 37; 38; 39, fracciones III, IV y V, y párrafos cuarto, quinto, sexto y séptimo; 39 Bis; 41; 42, fracciones III, V, VI, XI, párrafo segundo, XIII, XIV, párrafos segundo y tercero, y párrafo segundo; 43, párrafos tercero y cuarto; 44, fracciones I, II, III, párrafo segundo, y V; 45, párrafo segundo, fracciones I, II, párrafo segundo, y III; 46, fracciones V, XV, y párrafos segundo, tercero y cuarto; 47; 48, párrafo segundo; 50, fracciones II, párrafo primero, IV, V y VI, y párrafo segundo; 51, párrafos primero, fracciones I, II, III, IV, VI, párrafo
-**segundo.** , VII, párrafo segundo, y X, y actual segundo; 52, párrafo primero; 53; 54; 55; 56; 57; 58; 59; 60; 61, fracción II; 65; 73; 74; 74 Bis; 75; 76, párrafo primero; 77; 78, párrafos primero, fracciones I, II, III y V, y segundo y actual cuarto; 79, párrafo segundo; 80; 82; 83; 84; 86, fracción I; 87, párrafo segundo; 89, párrafos tercero, cuarto y quinto; 90; 91, párrafo segundo; 92; 93; 94; 95; 96; 97, párrafo primero, y 99, así como las denominaciones de TÍTULO QUINTO, y del CAPÍTULO TERCERO del TÍTULO SÉPTIMO; se adicionan los artículos 1 Bis; 1 Ter; 1 Quáter; 1 Quinquies; 24 Bis; 25, fracción IV, párrafo segundo; 26 Bis; 31, fracciones XII Bis, XXII Bis, XXIII Bis, XXXII Bis y XXXII Ter; 39, fracción II Bis; 42, fracciones VII Bis y XV; 44 Bis; 45, fracción II, párrafo tercero; 46, fracciones VI, párrafo segundo, XV Bis y XV Ter; 50, fracciones I, párrafo segundo, y VI, recorriéndose la actual fracción VI para ser fracción VII; 51, fracciones II Bis, X Bis, X Ter, párrafos segundo y tercero, recorriéndose el actual párrafo segundo para ser párrafo
-**cuarto.** ; 52 Bis; 52 Ter; 59 Bis; 59 Ter; 61 Bis; 74 Ter; 74 Quáter; 74 Quinquies; 74 Sexies; 74 Septies; 78, fracción IV Bis, y los párrafos tercero y cuarto, recorriéndose los actuales párrafos tercero y cuarto para ser párrafo quinto y sexto; 86, fracción I, segundo párrafo; 87, párrafo tercero; 93 Bis; 93 Ter; 95 Bis, y 97 Bis, así como el CAPÍTULO CUARTO del TÍTULO SÉPTIMO, y se derogan los párrafos cuarto, sexto y
-**séptimo.** del artículo 1; la fracción VIII del artículo 3; el párrafo segundo del artículo 9; el párrafo tercero del artículo 23; el párrafo tercero del artículo 25; el párrafo octavo del artículo 39; el párrafo segundo del artículo 44, y la fracción IV del artículo 45, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue: ……..
+**primero.-** , fracción V; 22; 23, párrafo cuarto; 24; 25, párrafos primero, fracciones II, III y V, inciso a), y
+**segundo.-** ; 27; 27 Bis; 28; 30; 31, fracciones III, IV, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, párrafo primero, XVII, XXII, XXIV, XXVI, XXIX, XXX, XXXI y XXXII, y párrafos segundo y tercero; 32; 33; 34; 35; 36; 37; 38; 39, fracciones III, IV y V, y párrafos cuarto, quinto, sexto y séptimo; 39 Bis; 41; 42, fracciones III, V, VI, XI, párrafo segundo, XIII, XIV, párrafos segundo y tercero, y párrafo segundo; 43, párrafos tercero y cuarto; 44, fracciones I, II, III, párrafo segundo, y V; 45, párrafo segundo, fracciones I, II, párrafo segundo, y III; 46, fracciones V, XV, y párrafos segundo, tercero y cuarto; 47; 48, párrafo segundo; 50, fracciones II, párrafo primero, IV, V y VI, y párrafo segundo; 51, párrafos primero, fracciones I, II, III, IV, VI, párrafo
+**segundo.-** , VII, párrafo segundo, y X, y actual segundo; 52, párrafo primero; 53; 54; 55; 56; 57; 58; 59; 60; 61, fracción II; 65; 73; 74; 74 Bis; 75; 76, párrafo primero; 77; 78, párrafos primero, fracciones I, II, III y V, y segundo y actual cuarto; 79, párrafo segundo; 80; 82; 83; 84; 86, fracción I; 87, párrafo segundo; 89, párrafos tercero, cuarto y quinto; 90; 91, párrafo segundo; 92; 93; 94; 95; 96; 97, párrafo primero, y 99, así como las denominaciones de TÍTULO QUINTO, y del CAPÍTULO TERCERO del TÍTULO SÉPTIMO; se adicionan los artículos 1 Bis; 1 Ter; 1 Quáter; 1 Quinquies; 24 Bis; 25, fracción IV, párrafo segundo; 26 Bis; 31, fracciones XII Bis, XXII Bis, XXIII Bis, XXXII Bis y XXXII Ter; 39, fracción II Bis; 42, fracciones VII Bis y XV; 44 Bis; 45, fracción II, párrafo tercero; 46, fracciones VI, párrafo segundo, XV Bis y XV Ter; 50, fracciones I, párrafo segundo, y VI, recorriéndose la actual fracción VI para ser fracción VII; 51, fracciones II Bis, X Bis, X Ter, párrafos segundo y tercero, recorriéndose el actual párrafo segundo para ser párrafo
+**cuarto.-** ; 52 Bis; 52 Ter; 59 Bis; 59 Ter; 61 Bis; 74 Ter; 74 Quáter; 74 Quinquies; 74 Sexies; 74 Septies; 78, fracción IV Bis, y los párrafos tercero y cuarto, recorriéndose los actuales párrafos tercero y cuarto para ser párrafo quinto y sexto; 86, fracción I, segundo párrafo; 87, párrafo tercero; 93 Bis; 93 Ter; 95 Bis, y 97 Bis, así como el CAPÍTULO CUARTO del TÍTULO SÉPTIMO, y se derogan los párrafos cuarto, sexto y
+**séptimo.-** del artículo 1; la fracción VIII del artículo 3; el párrafo segundo del artículo 9; el párrafo tercero del artículo 23; el párrafo tercero del artículo 25; el párrafo octavo del artículo 39; el párrafo segundo del artículo 44, y la fracción IV del artículo 45, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -1882,12 +1989,12 @@ Se reforman los artículos 13, primer párrafo y 79, último párrafo, de la Ley
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

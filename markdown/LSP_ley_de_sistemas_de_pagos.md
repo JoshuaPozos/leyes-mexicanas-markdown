@@ -12,6 +12,7 @@ SE EXPIDE LA
 
 ## CAPÍTULO I — Disposiciones generales
 
+
 ### Artículo 1o
 . La presente Ley es de orden público e interés social y tiene por objeto propiciar el buen funcionamiento de los sistemas de pagos que la propia Ley señala, al establecer, para los efectos previstos en este ordenamiento, el carácter definitivo e irrevocable de las órdenes de transferencia y de la compensación y liquidación derivados de éstas, que se procesen a través de dichos sistemas, incluyendo los relacionados con operaciones con valores.
 Las disposiciones de esta Ley aplicarán igualmente a las garantías y demás actos que los participantes en los sistemas de pagos previstos en ella, otorguen o celebren para el debido cumplimiento de las obligaciones de pago que se generen por las órdenes de transferencia que se cursen a través de dichos sistemas.
@@ -90,6 +91,7 @@ Artículo reformado DOF 14-11-2025
 . La presente Ley es reglamentaria del párrafo séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, incluyendo lo relativo a las facultades del Banco de México en materia de regulación de la intermediación y servicios financieros, contando tal autoridad con las atribuciones necesarias para emitirla y proveer a su observancia.
 
 ## CAPÍTULO II
+
 Irrevocabilidad y validez de las Órdenes de Transferencia Aceptadas y de las obligaciones que deriven de ellas
 
 ### Artículo 11
@@ -119,6 +121,7 @@ III. El cumplimiento de las obligaciones de pago derivadas de los actos a que se
 
 ## CAPÍTULO III — De las Garantías y la Prelación
 
+
 ### Artículo 15
 . Las garantías y los recursos provenientes de las cuentas que los Participantes, en términos de las Normas Internas de los Sistemas de Pagos, tengan afectos al cumplimiento tanto de las Órdenes de Transferencia Aceptadas, como de la Compensación y Liquidación que resulten de éstas, serán inembargables desde el inicio de la operación diaria del Sistema de Pagos hasta que se cumplan las obligaciones de pago derivadas de la Liquidación de tales Órdenes de Transferencia Aceptadas cada día. Por lo anterior, durante el período mencionado no podrá trabarse ejecución alguna sobre ellos ordenada por autoridad administrativa o judicial.
 Las cuentas que las instituciones de crédito estén obligadas a mantener en el Banco de México, ya sea en moneda nacional o en dólares de los Estados Unidos de América, serán inembargables.
@@ -136,6 +139,7 @@ Cuando el producto de la ejecución de las garantías y, en su caso, de cualquie
 En caso de que de la ejecución de dichas garantías resulte algún remanente, éste deberá ponerse a disposición de los órganos concursales, del Participante o de quien corresponda, en términos de las disposiciones aplicables.
 
 ## CAPÍTULO IV — De las facultades del Banco de México
+
 
 ### Artículo 19
 . El Banco de México, con base en la información que, al efecto, se le presente de conformidad con lo dispuesto en esta Ley, ejercerá funciones de supervisión y vigilancia de los Administradores de los Sistemas y de los Sistemas de Pagos, a fin de procurar su correcto funcionamiento.
@@ -219,7 +223,9 @@ Asimismo, lo previsto en este ordenamiento es sin perjuicio de las atribuciones 
 
 ## CAPÍTULO V — Del Recurso de Reconsideración
 
+
 ## Sección I
+
 Reglas Generales
 
 ### Artículo 33
@@ -236,6 +242,7 @@ Artículo reformado DOF 14-11-2025
 . La autoridad a la que de conformidad con el Reglamento Interior del Banco de México corresponda resolver el recurso de reconsideración, tendrá la facultad de certificar y expedir copias de los documentos que obren en el expediente del propio recurso, para ser exhibidos en asuntos judiciales o ante cualquier otra autoridad, relativos al ámbito de su competencia.
 
 ## Sección II — De la interposición y sustanciación del recurso
+
 
 ### Artículo 37
 . En el escrito por el que se interponga el recurso de reconsideración deberá expresarse:
@@ -269,6 +276,7 @@ Si el recurrente omitió ofrecer pruebas o acompañar documentos, se tendrá por
 
 ## Sección III — De la resolución del recurso
 
+
 ### Artículo 42
 . El recurso de reconsideración deberá resolverse dentro de un plazo máximo de cuarenta y cinco días hábiles bancarios, contado a partir de la fecha de su presentación, de no ser así, se considerará confirmado el acto impugnado.
 
@@ -293,12 +301,12 @@ Se reforman los artículos 9o.; 12, segundo párrafo, y 33 de la Ley de Sistemas
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

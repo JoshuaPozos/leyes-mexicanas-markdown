@@ -15,7 +15,9 @@ Se expide la Ley General de Economía Circular, para quedar como sigue:
 
 ## Título Primero — Disposiciones Generales
 
+
 ## Capítulo Primero — Del objeto y ámbito de aplicación
+
 
 ### Artículo 1
 .- La presente Ley es de orden público, interés social y de observancia general en el territorio nacional y es reglamentaria de los artículos 4o., párrafo sexto; 25, párrafos primero y séptimo, y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos.
@@ -126,6 +128,7 @@ XXXII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales, y
 XXXIII. Sistema: Sistema Nacional de Economía Circular.
 
 ## Capítulo Segundo
+
 Criterios y principios de Economía Circular
 
 ### Artículo 4
@@ -198,9 +201,11 @@ XIV. Transversalidad: Coordinación y colaboración entre distintos órdenes de 
 XV. Trazabilidad: Información en toda la cadena de manejo de un determinado Producto o material, con la finalidad de contar con un registro de los datos de los flujos del Ciclo de Vida, conforme a la normativa aplicable.
 
 ## Título Segundo
+
 Sistema Nacional de Economía Circular y distribución de competencias
 
 ## Capítulo Primero — Del Sistema Nacional de Economía Circular
+
 
 ### Artículo 5
 .- El Sistema Nacional de Economía Circular tiene como objetivo la coordinación entre los tres órdenes de gobierno para el cumplimiento de los fines de la Economía Circular de acuerdo con los criterios y principios establecidos en esta Ley. La conducción del Sistema está a cargo de la Secretaría.
@@ -231,6 +236,7 @@ A las sesiones del Sistema se pueden convocar a los sectores público, social y 
 El Sistema debe expedir las reglas para su operación y funcionamiento, conforme a las cuales se llevan a cabo sus sesiones y las convocatorias a estas.
 
 ## Capítulo Segundo — De la distribución de competencias
+
 
 ### Artículo 6
 .- La Federación, en el ámbito administrativo, a través de la Secretaría tiene las atribuciones siguientes:
@@ -324,6 +330,7 @@ Corresponde al Gobierno de la Ciudad de México, ejercer las facultades y obliga
 
 ## Título Tercero — De las políticas públicas y mecanismos de circularidad
 
+
 ### Artículo 10
 .- La Secretaría, mediante acuerdos generales de implementación de la REP determinará mecanismos para la implementación gradual de las obligaciones contenidas en esta Ley, por sector productivo, Producto, o ambos. El sector productivo debe ser convocado a participar en la elaboración del proyecto del acuerdo general correspondiente.
 La Secretaría de Economía emitirá opinión previa sobre los acuerdos generales de implementación de la REP en el ámbito de su competencia. En los casos que proceda, los anunciará, notificará o consultará, según corresponda, en términos de los acuerdos internacionales en materia económica.
@@ -336,6 +343,7 @@ II. Pueden celebrar convenios de concertación con la Secretaría en términos d
 Las autoridades competentes podrán otorgar estímulos fiscales en términos de la normativa aplicable.
 
 ## Capítulo Primero — De la Gestión Circular y su registro
+
 
 ### Artículo 11
 .- La Gestión Circular debe incorporar integralmente los aspectos ambientales, funcionales, económicos y sociales a lo largo del Ciclo de Vida de materiales, productos y residuos.
@@ -387,6 +395,7 @@ La Gestión Circular debe tener como fundamento las disposiciones aplicables de 
 
 ## Capítulo Segundo — De los instrumentos de política pública
 
+
 ### Artículo 17
 .- Son instrumentos de política pública en materia de Economía Circular:
 
@@ -407,6 +416,7 @@ VII. Los instrumentos económicos, y
 VIII. Los demás que establezca la normativa en la materia.
 
 ## Sección Primera — Del Programa Nacional
+
 
 ### Artículo 18
 .- El Programa Nacional es un instrumento de planeación, en los términos de la Ley de Planeación, que integra, coordina e impulsa políticas públicas, subprogramas, proyectos y actividades, bajo los criterios y principios de Economía Circular previstos en la presente Ley, con el fin de alcanzar objetivos de protección ambiental, la implementación de mecanismos que sean ambiental, técnica y económicamente viables para la promoción del desarrollo de la Economía Circular.
@@ -513,6 +523,7 @@ IX. Las demás que se establezcan en el Reglamento.
 
 ## Sección Segunda — Del Distintivo Nacional de Economía Circular
 
+
 ### Artículo 23
 .- La Secretaría autorizará el uso del Distintivo Nacional de Economía Circular para identificar los productos que cumplen con los principios y criterios de Economía Circular. El distintivo brinda información veraz, verificable y accesible al consumidor respecto del cumplimiento a lo dispuesto por esta Ley.
 Los requisitos y formalidades para el uso del Distintivo Nacional de Economía Circular se establecen en el Reglamento de la presente Ley.
@@ -526,6 +537,7 @@ El uso del Distintivo queda sujeto a la autorización que emita la Secretaría c
 
 ## Sección Tercera — Del Instrumento Económico
 
+
 ### Artículo 26
 .- Al Ejecutivo Federal le corresponde la expedición de instrumentos económicos para fomentar la Economía Circular, alineados con el Programa Nacional y al Reglamento de esta Ley. Los instrumentos que contengan estímulos fiscales deben sujetarse a las disposiciones fiscales aplicables.
 
@@ -534,7 +546,9 @@ El uso del Distintivo queda sujeto a la autorización que emita la Secretaría c
 
 ## Título Cuarto — De la información, la educación, la cultura y la investigación
 
+
 ## Capítulo Primero — De la Plataforma Nacional
+
 
 ### Artículo 28
 .- A la Secretaría, en la calidad de presidencia del Sistema, le corresponde implementar, coordinar y operar la Plataforma Nacional, para el registro y difusión de información en la materia de Economía Circular, con la participación de las dependencias de la Administración Pública Federal en el ámbito de sus respectivas competencias.
@@ -563,6 +577,7 @@ VII. La demás información que se requiera para alimentar a la Plataforma Nacio
 
 ## Capítulo Segundo — De la educación, la cultura y la investigación en materia de Economía Circular
 
+
 ### Artículo 31
 .- El Gobierno Federal, los gobiernos de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, en sus respectivos ámbitos de competencia, deben promover la participación y el involucramiento de los distintos sectores en la generación de materiales que contribuyan a impulsar la corresponsabilidad social y la transición hacia modelos de Economía Circular, así como propiciar la generación de campañas de comunicación masiva, para lo cual pueden utilizar diversos medios, para el fortalecimiento de la conciencia ambiental y la adopción de hábitos de Consumo Responsable, así como para la divulgación de una perspectiva de Reciclaje Inclusivo.
 Los tres órdenes de gobierno deben propiciar la participación e involucramiento de los diferentes sectores de la sociedad para el cumplimiento del presente artículo.
@@ -580,7 +595,9 @@ Asimismo, la Secretaría de Educación Pública y las autoridades educativas de 
 
 ## Título Quinto — De las obligaciones y las responsabilidades ambientales
 
+
 ## Capítulo Primero — De la auditoría ambiental voluntaria en materia de economía circular
+
 
 ### Artículo 35
 .- La Secretaría promoverá por conducto de la Procuraduría Federal de Protección al Ambiente la realización de auditorías ambientales voluntarias, conforme a las disposiciones de la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás normativa aplicable.
@@ -589,6 +606,7 @@ La finalidad de la evaluación es identificar oportunidades de mejora en los pro
 El Reglamento debe prever los procedimientos, requisitos y demás disposiciones relativas a la auditoría en materia de Economía Circular, a fin de establecer criterios técnicos, metodologías de evaluación, acreditación de auditores y los mecanismos de supervisión que aseguren su implementación efectiva, con el objeto de definir las medidas preventivas y correctivas necesarias.
 
 ## Capítulo Segundo
+
 De la responsabilidad empresarial y Responsabilidad Extendida del Productor o REP
 
 ### Artículo 36
@@ -635,6 +653,7 @@ En el Reglamento se establecen los procedimientos para incluir las medidas de co
 
 ## Capítulo Tercero — De la responsabilidad social y la participación de las personas consumidoras
 
+
 ### Artículo 42
 .- La población participa en la Economía Circular mediante los hábitos de Consumo Responsable siguientes:
 
@@ -667,6 +686,7 @@ VI. Las demás que se establecen en el Reglamento.
 
 ## Capítulo Cuarto — De las responsabilidades y sanciones
 
+
 ### Artículo 44
 .- La persona productora, importadora o el Organismo Coordinador responsable de fuentes de generación o manejo del Producto, o materias reguladas por esta Ley o en el Reglamento debe proporcionar a la Secretaría los informes, o documentos conforme a las obligaciones previstas en la Gestión Circular inscrita en el Registro, dentro del plazo que establecen las disposiciones jurídicas aplicables.
 En caso de no cumplir con esta obligación se les aplicarán las sanciones administrativas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
@@ -680,6 +700,7 @@ Lo anterior, sin perjuicio de la responsabilidad por daños al ambiente, así co
 
 ## Capítulo Quinto — De la gradualidad
 
+
 ### Artículo 47
 .- La Secretaría, mediante acuerdos generales de implementación de la REP que deben publicarse en el Diario Oficial de la Federación, puede establecer la gradualidad diferenciada para el cumplimiento de las disposiciones de circularidad, mediante metas que fije con base en las capacidades económicas, financieras, y tecnológicas de cada persona productora, Producción o importación, en particular de las micro, pequeñas y medianas empresas, así como la aplicación de mecanismos directos e indirectos de circularidad, la suscripción de convenios y la ejecución de las demás medidas que establece esta Ley.
 Las micro, pequeñas y medianas empresas son aquellas que se prevén en sus términos en la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
@@ -689,6 +710,7 @@ Las micro, pequeñas y medianas empresas son aquellas que se prevén en sus tér
 
 ## Título Sexto — De la aplicación supletoria
 
+
 ### Artículo 49
 .- En lo no previsto en esta Ley se aplicarán supletoriamente la Ley General del Equilibrio Ecológico y Procedimiento Administrativo y la normativa aplicable.
 
@@ -697,12 +719,12 @@ y Artículo Tercero.- ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
 Para la implementación de esta disposición transitoria debe seguirse lo establecido en la fracción III del artículo 6 de esta Ley.
-**Tercero.** El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
-**Cuarto.** Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
-**Quinto.** Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
-**Sexto.** A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
-**Séptimo.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+**Tercero.-** El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+**Cuarto.-** Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
+**Quinto.-** Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+**Sexto.-** A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
+**Séptimo.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

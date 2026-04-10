@@ -16,24 +16,37 @@ LEY DE PLANEACION CAPITULO PRIMERO Disposiciones Generales
 I.- Las normas y principios básicos conforme a los cuales se llevará a cabo la Planeación Nacional del Desarrollo y encauzar, en función de ésta, las actividades de la administración Pública Federal;
 II.- Las bases de integración y funcionamiento del Sistema Nacional de Planeación Democrática;
 III.- Las bases para que el Ejecutivo Federal coordine las actividades de planeación de la Administración Pública Federal, así como la participación, en su caso, mediante convenio, de los órganos constitucionales autónomos y los gobiernos de las entidades federativas, conforme a la legislación aplicable;
-Fracción reformada DOF 16-02-2018 IV.- Los órganos responsables del proceso de planeación;
-Fracción adicionada DOF 16-02-2018 V.- Las bases de participación y consulta a la sociedad, incluyendo a los pueblos y comunidades indígenas, a través de sus representantes y autoridades, en la elaboración del Plan y los programas a que se refiere esta Ley, y Fracción reformada DOF 13-06-2003. Reformada y recorrida DOF 16-02-2018 VI.- Las bases para que el Ejecutivo Federal concierte con los particulares las acciones a realizar para la elaboración y ejecución del Plan y los programas a que se refiere esta Ley.
+Fracción reformada DOF 16-02-2018
+IV.- Los órganos responsables del proceso de planeación;
+Fracción adicionada DOF 16-02-2018
+V.- Las bases de participación y consulta a la sociedad, incluyendo a los pueblos y comunidades indígenas, a través de sus representantes y autoridades, en la elaboración del Plan y los programas a que se refiere esta Ley, y
+Fracción reformada DOF 13-06-2003. Reformada y recorrida DOF 16-02-2018
+VI.- Las bases para que el Ejecutivo Federal concierte con los particulares las acciones a realizar para la elaboración y ejecución del Plan y los programas a que se refiere esta Ley.
 Fracción reformada y recorrida DOF 16-02-2018
 
 ### Artículo 2o
 .- La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo equitativo, incluyente, integral, sustentable y sostenible del país, con perspectiva de interculturalidad y de género, y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales, ambientales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
-Párrafo reformado DOF 23-05-2002, 16-02-2018 I.- El fortalecimiento de la soberanía, la independencia y autodeterminación nacionales, en lo político, lo económico y lo cultural;
+Párrafo reformado DOF 23-05-2002, 16-02-2018
+I.- El fortalecimiento de la soberanía, la independencia y autodeterminación nacionales, en lo político, lo económico y lo cultural;
 II.- La preservación y el perfeccionamiento del régimen representativo, democrático, laico y federal que la Constitución establece; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo en un medio ambiente sano;
-Fracción reformada DOF 16-02-2018 III.- La igualdad de derechos entre las personas, la no discriminación, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
-Fracción reformada DOF 23-05-2002, 20-06-2011, 16-02-2018 IV.- Las obligaciones del Estado de promover, respetar, proteger y garantizar los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte;
-Fracción reformada DOF 27-01-2012, 16-02-2018 V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del país, promoviendo la descentralización de la vida nacional;
-Fracción reformada DOF 20-06-2011 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social;
-Fracción reformada DOF 20-06-2011, 27-01-2012 VII.- La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y Fracción adicionada DOF 20-06-2011. Reformada DOF 27-01-2012, 15-01-2026 VIII.- La factibilidad cultural de las políticas públicas nacionales.
+Fracción reformada DOF 16-02-2018
+III.- La igualdad de derechos entre las personas, la no discriminación, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
+Fracción reformada DOF 23-05-2002, 20-06-2011, 16-02-2018
+IV.- Las obligaciones del Estado de promover, respetar, proteger y garantizar los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte;
+Fracción reformada DOF 27-01-2012, 16-02-2018
+V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del país, promoviendo la descentralización de la vida nacional;
+Fracción reformada DOF 20-06-2011
+VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social;
+Fracción reformada DOF 20-06-2011, 27-01-2012
+VII.- La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y
+Fracción adicionada DOF 20-06-2011. Reformada DOF 27-01-2012, 15-01-2026
+VIII.- La factibilidad cultural de las políticas públicas nacionales.
 Fracción adicionada DOF 27-01-2012
 
 ### Artículo 3o
 .- Para los efectos de esta Ley se entiende por planeación nacional de desarrollo la ordenación racional y sistemática de acciones que, en base al ejercicio de las atribuciones del Ejecutivo Federal en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales así como de ordenamiento territorial de los asentamientos humanos y desarrollo urbano, tiene como propósito la transformación de la realidad del país, de conformidad con las normas, principios y objetivos que la propia Constitución y la ley establecen.
-Párrafo reformado DOF 23-05-2002, 28-11-2016 Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades, así como criterios basados en estudios de factibilidad cultural; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
+Párrafo reformado DOF 23-05-2002, 28-11-2016
+Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades, así como criterios basados en estudios de factibilidad cultural; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
 Párrafo reformado DOF 27-01-2012
 
 ### Artículo 4o
@@ -56,13 +69,16 @@ Artículo reformado DOF 16-02-2018
 
 ### Artículo 8o
 .- Las personas titulares de las Secretarías de Estado al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
-Párrafo reformado DOF 23-05-2002, 09-04-2012, 15-01-2026 Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres, hombres y grupos en situación de vulnerabilidad.
-Párrafo adicionado DOF 23-05-2002. Reformado DOF 20-06-2011, 27-01-2012, 15-01-2026 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
+Párrafo reformado DOF 23-05-2002, 09-04-2012, 15-01-2026
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres, hombres y grupos en situación de vulnerabilidad.
+Párrafo adicionado DOF 23-05-2002. Reformado DOF 20-06-2011, 27-01-2012, 15-01-2026
+En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
 ### Artículo 9o
 .- Las dependencias y entidades de la Administración Pública Federal deberán planear y conducir sus actividades con perspectiva intercultural, de género y de respeto a los derechos humanos, con la finalidad de impulsar la igualdad sustantiva y la inclusión de grupos en situación de vulnerabilidad, así como con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, incluyente, integral, sustentable y sostenible.
-Párrafo reformado DOF 15-01-2026 Para el caso de las entidades, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley. Las entidades que no estuvieran agrupadas en un sector específico, se sujetarán a lo previsto por el artículo 7 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Párrafo reformado DOF 15-01-2026
+Para el caso de las entidades, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley. Las entidades que no estuvieran agrupadas en un sector específico, se sujetarán a lo previsto por el artículo 7 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, dará seguimiento a los avances de las dependencias y entidades de la Administración Pública Federal en el logro de los objetivos y metas del Plan y sus programas, con base en el Sistema de Evaluación del Desempeño previsto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 La Secretaría de Hacienda y Crédito Público publicará la información relacionada con el seguimiento a que se refiere el párrafo anterior, en el Portal de Transparencia Presupuestaria de la Secretaría de Hacienda y Crédito Público, en los términos previstos por la legislación en materia de transparencia y acceso a la información pública.
 Artículo reformado DOF 23-05-2002, 10-04-2003, 20-06-2011, 09-04-2012, 16-02-2018
@@ -72,7 +88,8 @@ Artículo reformado DOF 23-05-2002, 10-04-2003, 20-06-2011, 09-04-2012, 16-02-20
 
 ### Artículo 11
 .- En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva para afectos administrativos, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
-Artículo reformado DOF 09-04-2012 CAPITULO SEGUNDO Sistema Nacional de Planeación Democrática
+Artículo reformado DOF 09-04-2012
+CAPITULO SEGUNDO Sistema Nacional de Planeación Democrática
 
 ### Artículo 12
 .- Los aspectos de la Planeación Nacional del Desarrollo que correspondan a las dependencias y entidades de la Administración Pública Federal se llevarán a cabo, en los términos de esta Ley, mediante el Sistema Nacional de Planeación Democrática.
@@ -83,12 +100,19 @@ Las dependencias y entidades de la Administración Pública Federal formarán pa
 
 ### Artículo 14
 .- La Secretaría de Hacienda y Crédito Público tendrá las siguientes atribuciones:
-Párrafo reformado DOF 13-06-2003 I.- Coordinar las actividades de Planeación Nacional del Desarrollo;
+Párrafo reformado DOF 13-06-2003
+I.- Coordinar las actividades de Planeación Nacional del Desarrollo;
 II.- Elaborar y someter a consideración del Presidente de la República, el proyecto de Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Federal y, en su caso, de los órganos constitucionales autónomos y de los gobiernos de las entidades federativas, así como los planteamientos que deriven de los ejercicios de participación social incluyendo a los pueblos y comunidades indígenas y a las personas con discapacidad en términos de la Ley General para la Inclusión de las Personas con Discapacidad;
-Fracción reformada DOF 13-06-2003, 20-06-2011, 16-02-2018 III.- Establecer los criterios generales que deberán observar las dependencias y entidades de la Administración Pública Federal para la elaboración de los programas derivados del Plan que tengan a su cargo, para lo cual se deberá prever la participación que corresponda a los gobiernos de las entidades federativas, municipios y demarcaciones territoriales; los ejercicios de participación social de los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen;
-Fracción reformada DOF 13-06-2003, 16-02-2018 IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido;
+Fracción reformada DOF 13-06-2003, 20-06-2011, 16-02-2018
+III.- Establecer los criterios generales que deberán observar las dependencias y entidades de la Administración Pública Federal para la elaboración de los programas derivados del Plan que tengan a su cargo, para lo cual se deberá prever la participación que corresponda a los gobiernos de las entidades federativas, municipios y demarcaciones territoriales; los ejercicios de participación social de los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen;
+Fracción reformada DOF 13-06-2003, 16-02-2018
+IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido;
 V.- Coordinar las actividades que en materia de investigación y capacitación para la planeación realicen las dependencias de la Administración Pública Federal;
-VI.- Se deroga Fracción reformada DOF 20-06-2011. Derogada DOF 16-02-2018 VII.- Definir los mecanismos para que verifique, periódicamente, la relación que guarden los presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y sus programas, así como para adoptar las adecuaciones a los programas respectivos que, en su caso, resulten necesarias para promover el logro de sus objetivos, y Fracción reformada DOF 20-06-2011, 16-02-2018 VIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en grupos específicos de la población, distinguiendo por origen étnico, género, edad, condición de discapacidad, tipo de localidad, entre otros.
+VI.- Se deroga
+Fracción reformada DOF 20-06-2011. Derogada DOF 16-02-2018
+VII.- Definir los mecanismos para que verifique, periódicamente, la relación que guarden los presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y sus programas, así como para adoptar las adecuaciones a los programas respectivos que, en su caso, resulten necesarias para promover el logro de sus objetivos, y
+Fracción reformada DOF 20-06-2011, 16-02-2018
+VIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en grupos específicos de la población, distinguiendo por origen étnico, género, edad, condición de discapacidad, tipo de localidad, entre otros.
 Fracción adicionada DOF 20-06-2011. Reformada DOF 16-02-2018
 
 ### Artículo 15
@@ -96,28 +120,41 @@ Fracción adicionada DOF 20-06-2011. Reformada DOF 16-02-2018
 I.- Participar en la elaboración del Plan Nacional de Desarrollo, respecto de la definición de las políticas financiera, fiscal y crediticia;
 
 II. Proyectar y calcular los ingresos de la Federación y de las entidades paraestatales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan y los programas;
-Fracción reformada DOF 13-06-2003 III.- Procurar el cumplimiento de los objetivos y prioridades del Plan y los programas, en el ejercicio de sus atribuciones de planeación, coordinación, evaluación y vigilancia del Sistema Bancario.
+Fracción reformada DOF 13-06-2003
+III.- Procurar el cumplimiento de los objetivos y prioridades del Plan y los programas, en el ejercicio de sus atribuciones de planeación, coordinación, evaluación y vigilancia del Sistema Bancario.
 IV.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan y los programas; y V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
 
 ### Artículo 16
 .- A las dependencias de la Administración Pública Federal les corresponde:
-Párrafo reformado DOF 23-05-2002, 16-02-2018 I.- Intervenir respecto de las materias que les competan, en la elaboración del Plan Nacional de Desarrollo, observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de sus facultades;
-Fracción reformada DOF 23-05-2002 II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública Federal, determine el Presidente de la República.
+Párrafo reformado DOF 23-05-2002, 16-02-2018
+I.- Intervenir respecto de las materias que les competan, en la elaboración del Plan Nacional de Desarrollo, observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de sus facultades;
+Fracción reformada DOF 23-05-2002
+II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública Federal, determine el Presidente de la República.
 III.- Elaborar los programas sectoriales, considerando las propuestas que, en su caso, presenten las entidades del sector, los órganos constitucionales autónomos, y los gobiernos de las entidades federativas, así como las que deriven de los ejercicios de participación social y de los pueblos y comunidades indígenas interesados;
-Fracción reformada DOF 23-05-2002, 13-06-2003, 16-02-2018 IV.- Asegurar la congruencia de los programas sectoriales con el Plan, así como con los programas especiales en los términos que establezca éste;
-Fracción reformada DOF 16-02-2018 V.- Considerar el ámbito territorial de las acciones previstas en sus programas sectoriales, promoviendo que los planes y programas de los gobiernos de las entidades federativas guarden congruencia con éstos;
-Fracción reformada DOF 16-02-2018 VI.- Vigilar que las entidades del sector que coordinen, conduzcan sus actividades conforme al Plan Nacional de Desarrollo y al programa sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 17, fracción II;
-Fracción reformada DOF 16-02-2018 VII.- Verificar periódicamente la relación que guarden los presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de promover las adecuaciones que consideren necesarias para el logro de sus objetivos, y Fracción reformada DOF 16-02-2018 VIII.- Coordinar la elaboración y ejecución de los programas especiales y regionales que correspondan conforme a su ámbito de atribuciones.
+Fracción reformada DOF 23-05-2002, 13-06-2003, 16-02-2018
+IV.- Asegurar la congruencia de los programas sectoriales con el Plan, así como con los programas especiales en los términos que establezca éste;
+Fracción reformada DOF 16-02-2018
+V.- Considerar el ámbito territorial de las acciones previstas en sus programas sectoriales, promoviendo que los planes y programas de los gobiernos de las entidades federativas guarden congruencia con éstos;
+Fracción reformada DOF 16-02-2018
+VI.- Vigilar que las entidades del sector que coordinen, conduzcan sus actividades conforme al Plan Nacional de Desarrollo y al programa sectorial correspondiente, y cumplan con lo previsto en el programa institucional a que se refiere el Artículo 17, fracción II;
+Fracción reformada DOF 16-02-2018
+VII.- Verificar periódicamente la relación que guarden los presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de promover las adecuaciones que consideren necesarias para el logro de sus objetivos, y
+Fracción reformada DOF 16-02-2018
+VIII.- Coordinar la elaboración y ejecución de los programas especiales y regionales que correspondan conforme a su ámbito de atribuciones.
 Fracción reformada DOF 16-02-2018
 
 ### Artículo 17
 .- Las entidades paraestatales deberán:
 I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan con relación a sus funciones y objeto observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de éstos.
 Respecto del programa sectorial en materia de investigación humanística y científica, desarrollo tecnológico e innovación, el Consejo Nacional de Humanidades, Ciencias y Tecnologías realizará la elaboración y presentación de la propuesta;
-Fracción reformada DOF 23-05-2002, 08-05-2023 II.- Elaborar sus respectivos programas institucionales, en los términos previstos en esta Ley, la Ley Federal de las Entidades Paraestatales o, en su caso, por las disposiciones que regulen su organización y funcionamiento, atendiendo a las previsiones contenidas en el programa sectorial correspondiente observando en lo conducente las variables ambientales, económicas, sociales y culturales respectivas;
-Fracción reformada DOF 23-05-2002, 16-02-2018 III.- Elaborar sus anteproyectos de presupuesto considerando los objetivos de sus respectivos programas institucionales;
-Fracción reformada DOF 16-02-2018 IV.- Considerar el ámbito territorial de sus acciones, atendiendo las propuestas de los gobiernos de las entidades federativas, a través de la dependencia coordinadora de sector, conforme a los lineamientos que al efecto señale esta última;
-Fracción reformada DOF 16-02-2018 V.- Asegurar la congruencia del programa institucional con el programa sectorial respectivo; y VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
+Fracción reformada DOF 23-05-2002, 08-05-2023
+II.- Elaborar sus respectivos programas institucionales, en los términos previstos en esta Ley, la Ley Federal de las Entidades Paraestatales o, en su caso, por las disposiciones que regulen su organización y funcionamiento, atendiendo a las previsiones contenidas en el programa sectorial correspondiente observando en lo conducente las variables ambientales, económicas, sociales y culturales respectivas;
+Fracción reformada DOF 23-05-2002, 16-02-2018
+III.- Elaborar sus anteproyectos de presupuesto considerando los objetivos de sus respectivos programas institucionales;
+Fracción reformada DOF 16-02-2018
+IV.- Considerar el ámbito territorial de sus acciones, atendiendo las propuestas de los gobiernos de las entidades federativas, a través de la dependencia coordinadora de sector, conforme a los lineamientos que al efecto señale esta última;
+Fracción reformada DOF 16-02-2018
+V.- Asegurar la congruencia del programa institucional con el programa sectorial respectivo; y VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
 ### Artículo 18
 .- La Secretaría de la Función Pública realizará, en los términos de las disposiciones aplicables, el control interno y la evaluación de la gestión gubernamental, respecto de las acciones que lleven a cabo las dependencias y entidades de la Administración Pública Federal en el cumplimiento del Plan y los programas.
@@ -125,20 +162,24 @@ Artículo reformado DOF 16-02-2018
 
 ### Artículo 19
 . El Presidente de la República podrá establecer comisiones intersecretariales para la atención de actividades de la planeación nacional que deban desarrollar conjuntamente varias Secretarías de Estado.
-Párrafo reformado DOF 09-04-2012 Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que el mismo Presidente determine.
+Párrafo reformado DOF 09-04-2012
+Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que el mismo Presidente determine.
 Las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones y subcomisiones, cuando se trate de asuntos relacionados con su objeto.
 CAPITULO TERCERO Participación Social en la Planeación
 
 ### Artículo 20
 .- En el ámbito del Sistema Nacional de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan y los programas a que se refiere esta Ley.
 Las organizaciones representativas de los obreros, campesinos, pueblos y grupos populares; de las instituciones académicas, profesionales y de investigación de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad a través de foros de consulta popular que al efecto se convocarán. Así mismo, participarán en los mismos foros los diputados y senadores del Congreso de la Unión.
-Párrafo reformado DOF 13-06-2003 Las comunidades indígenas deberán ser consultadas y podrán participar en la definición de los programas federales que afecten directamente el desarrollo de sus pueblos y comunidades.
-Párrafo adicionado DOF 13-06-2003 Para tal efecto, y conforme a la legislación aplicable, en las disposiciones reglamentarias deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación nacional del desarrollo.
+Párrafo reformado DOF 13-06-2003
+Las comunidades indígenas deberán ser consultadas y podrán participar en la definición de los programas federales que afecten directamente el desarrollo de sus pueblos y comunidades.
+Párrafo adicionado DOF 13-06-2003
+Para tal efecto, y conforme a la legislación aplicable, en las disposiciones reglamentarias deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación nacional del desarrollo.
 Párrafo reformado DOF 16-02-2018
 
 ### Artículo 20
 Bis.- En los asuntos relacionados con el ámbito indígena, el Ejecutivo Federal consultará, en forma previa, a las comunidades indígenas, para que éstas emitan la opinión correspondiente.
-Artículo adicionado DOF 13-06-2003 CAPITULO CUARTO Plan y Programas
+Artículo adicionado DOF 13-06-2003
+CAPITULO CUARTO Plan y Programas
 
 ### Artículo 21
 .- El Presidente de la República enviará el Plan Nacional de Desarrollo a la Cámara de Diputados del Congreso de la Unión para su aprobación, a más tardar el último día hábil de febrero del año siguiente a su toma de posesión.
@@ -168,7 +209,8 @@ Artículo adicionado DOF 16-02-2018
 
 ### Artículo 22
 .- El Plan indicará los programas sectoriales, institucionales, regionales y especiales que deberán ser elaborados conforme a este capítulo, sin perjuicio de aquellos cuya elaboración se encuentre prevista en las leyes o que determine el Presidente de la República posteriormente.
-Párrafo reformado DOF 16-02-2018 Estos programas observarán congruencia con el Plan, y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
+Párrafo reformado DOF 16-02-2018
+Estos programas observarán congruencia con el Plan, y su vigencia no excederá del período constitucional de la gestión gubernamental en que se aprueben, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
 
 ### Artículo 23
 .- Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y responsables de su ejecución.
@@ -192,7 +234,9 @@ I.- Un diagnóstico general sobre la problemática a atender por el programa as�
 II.- Los objetivos específicos del programa alineados a las estrategias del Plan;
 III.- Las estrategias para ejecutar las acciones que permitan lograr los objetivos específicos del programa;
 IV.- Las líneas de acción que apoyen la implementación de las estrategias planteadas en cada programa indicando la dependencia o entidad responsable de su ejecución;
-V.- Los indicadores estratégicos que permitan dar seguimiento al logro de los objetivos del Programa, incluyendo aquellos que midan avances en la igualdad sustantiva entre mujeres y hombres, y Fracción reformada DOF 15-01-2026 VI.- Los demás que se establezcan en las disposiciones jurídicas aplicables.
+V.- Los indicadores estratégicos que permitan dar seguimiento al logro de los objetivos del Programa, incluyendo aquellos que midan avances en la igualdad sustantiva entre mujeres y hombres, y
+Fracción reformada DOF 15-01-2026
+VI.- Los demás que se establezcan en las disposiciones jurídicas aplicables.
 Artículo adicionado DOF 16-02-2018
 
 ### Artículo 27
@@ -205,8 +249,10 @@ Artículo reformado DOF 16-02-2018
 
 ### Artículo 29
 .- Los programas regionales y especiales deberán ser sometidos por la Secretaría de Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
-Párrafo reformado DOF 13-06-2003, 16-02-2018 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Presidente de la República por la dependencia coordinadora del sector correspondiente y por el Consejo Nacional de Humanidades, Ciencias y Tecnologías en la materia de su competencia, previo dictamen de la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 09-04-2012, 08-05-2023 Los programas institucionales deberán ser sometidos por el órgano de gobierno y administración de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector.
+Párrafo reformado DOF 13-06-2003, 16-02-2018
+Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Presidente de la República por la dependencia coordinadora del sector correspondiente y por el Consejo Nacional de Humanidades, Ciencias y Tecnologías en la materia de su competencia, previo dictamen de la Secretaría de Hacienda y Crédito Público.
+Párrafo reformado DOF 09-04-2012, 08-05-2023
+Los programas institucionales deberán ser sometidos por el órgano de gobierno y administración de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector.
 Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Hacienda y Crédito Público.
 Párrafo reformado DOF 13-06-2003
 
@@ -225,7 +271,8 @@ Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad 
 La ejecución del Plan y los programas podrán concertarse, conforme a esta ley, con las representaciones de los grupos sociales interesados o con los particulares.
 Mediante el ejercicio de las atribuciones que le confiere la ley, el Ejecutivo Federal inducirá las acciones de los particulares y, en general, del conjunto de la población, a fin de propiciar la consecución de los objetivos y prioridades del Plan y los programas.
 La coordinación en la ejecución del Plan y los programas deberá proponerse a los gobiernos de las entidades federativas o a los órganos constitucionales autónomos, a través de los convenios respectivos.
-Párrafo reformado DOF 16-02-2018 CAPITULO QUINTO Coordinación
+Párrafo reformado DOF 16-02-2018
+CAPITULO QUINTO Coordinación
 
 ### Artículo 33
 .- El Ejecutivo Federal podrá convenir con los órganos constitucionales autónomos y los gobiernos de las entidades federativas, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que éstos participen en la planeación nacional del desarrollo; coadyuven, en el ámbito de sus respectivas competencias, a la consecución de los objetivos de la planeación nacional, y para que las acciones a realizarse por dichas instancias se planeen de manera conjunta. En los casos de coordinación con los gobiernos de las entidades federativas se deberá considerar la participación que corresponda a los municipios y demarcaciones territoriales.
@@ -240,7 +287,8 @@ II.- Los procedimientos de coordinación entre las autoridades de todos los órd
 Fracción reformada DOF 16-02-2018
 
 III. Los lineamientos metodológicos para la realización de las actividades de planeación, en el ámbito de su jurisdicción;
-IV.- La elaboración de los programas regionales a que se refiere el artículo 25, de conformidad con los criterios establecidos en la fracción III del artículo 14 de este ordenamiento, y Fracción reformada DOF 16-02-2018
+IV.- La elaboración de los programas regionales a que se refiere el artículo 25, de conformidad con los criterios establecidos en la fracción III del artículo 14 de este ordenamiento, y
+Fracción reformada DOF 16-02-2018
 
 V. La ejecución de las acciones que deban realizarse en cada entidad federativa, y que competen a ambos órdenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 Para este efecto la Secretaría de Hacienda y Crédito Público propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
@@ -255,7 +303,8 @@ CAPITULO SEXTO Concertación e Inducción
 
 ### Artículo 37
 .- El Ejecutivo Federal, por sí o a través de sus dependencias, y las entidades paraestatales, podrán concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados, promoviendo la participación equilibrada de mujeres y hombres.
-Párrafo reformado DOF 15-01-2026 El Ejecutivo Federal podrá signar convenios de concertación de acciones con las comunidades indígenas, en todos aquellos asuntos que se consideren pertinentes y de conformidad con lo establecido en las leyes que rijan en la materia de que se trate.
+Párrafo reformado DOF 15-01-2026
+El Ejecutivo Federal podrá signar convenios de concertación de acciones con las comunidades indígenas, en todos aquellos asuntos que se consideren pertinentes y de conformidad con lo establecido en las leyes que rijan en la materia de que se trate.
 Párrafo adicionado DOF 13-06-2003
 
 ### Artículo 38
@@ -272,7 +321,8 @@ Artículo reformado DOF 23-05-2002, 27-01-2012, 09-04-2012, 16-02-2018
 
 ### Artículo 41
 .- Las políticas que normen el ejercicio de las atribuciones que las leyes confieran al Ejecutivo Federal para fomentar, promover, regular, restringir, orientar, prohibir, y, en general, inducir acciones de los particulares en materia económica, social y ambiental, se ajustarán a los objetivos y prioridades del plan y los programas.
-Artículo reformado DOF 23-05-2002 CAPITULO SEPTIMO Responsabilidades
+Artículo reformado DOF 23-05-2002
+CAPITULO SEPTIMO Responsabilidades
 
 ### Artículo 42
 .- A los servidores públicos de la Administración Pública Federal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, se les sancionará en términos de la Ley General de Responsabilidades Administrativas.
@@ -296,7 +346,7 @@ ARTICULO QUINTO.- Una vez publicada la presente Ley, el Ejecutivo Federal deber�
 México D. F., a 29 de diciembre de 1982.- Mariano Piña Olaya, D. P.- Antonio Riva Palacio López,S.P.- Hilda Anderson Nevárez de Rojas, D.S.- Silvia Hernández de Galindo,- S.S.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 2, párrafo primero y fracción III; 3; 8, párrafo segundo; 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo
-**segundo.** ; 27; 40, párrafo primero y 41 de la Ley de Planeación.
+**segundo.-** ; 27; 40, párrafo primero y 41 de la Ley de Planeación.
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2002
 
 ### ARTÍCULO ÚNICO
@@ -352,7 +402,7 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2012
 
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 2, fracciones IV, VI y VII; 3, segundo párrafo; 8,
-**segundo.** párrafo; 21, segundo párrafo; 27, y 40, primer párrafo; y se adiciona una fracción VIII al artículo 2, todos de la Ley de Planeación, para quedar como sigue: ……….
+**segundo.-** párrafo; 21, segundo párrafo; 27, y 40, primer párrafo; y se adiciona una fracción VIII al artículo 2, todos de la Ley de Planeación, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -364,12 +414,12 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 ### ARTÍCULO DÉCIMO NOVENO
 Se reforman los artículos 6o, tercer párrafo; 8o, primer párrafo; 9o,
-**segundo.** párrafo; 11; 18; 19, primer párrafo; 29, segundo párrafo; y 40, primer párrafo, de la Ley de Planeación, para quedar como sigue: ……….
+**segundo.-** párrafo; 11; 18; 19, primer párrafo; 29, segundo párrafo; y 40, primer párrafo, de la Ley de Planeación, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, y se adiciona un artículo 21 Bis a la Ley de Planeación.
 Publicado en el Diario Oficial de la Federación el 6 de mayo de 2015
@@ -397,24 +447,24 @@ Se reforma el primer párrafo del artículo 3o. de la Ley de Planeación, para q
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
-**TERCERO.** En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+**TERCERO.-** En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
 En el caso de la Ciudad de México, la Legislatura de la Ciudad de México, las autoridades del gobierno central y de las Demarcaciones Territoriales correspondientes, deberán efectuar las adecuaciones legislativas y reglamentarias de conformidad con lo dispuesto en el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos y con las disposiciones de la Constitución de la Ciudad de México una vez que entren en vigor.
-**CUARTO.** En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los derechos humanos vinculados al ordenamiento territorial.
-**QUINTO.** En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título Décimo Primero de la Ley que se expide.
+**CUARTO.-** En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los derechos humanos vinculados al ordenamiento territorial.
+**QUINTO.-** En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título Décimo Primero de la Ley que se expide.
 Los registros públicos de la propiedad, los catastros y el Registro Agrario Nacional estarán a lo señalado en los artículos 60, 111 y 112 del presente Decreto, una vez que sean adecuados los planes y programas mencionados en el párrafo anterior.
-**SEXTO.** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
+**SEXTO.-** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 Los gobiernos locales y municipales, convocarán en el mismo plazo a las sesiones de instalación de los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
-**SÉPTIMO.** En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y funcionamiento del Consejo Nacional.
-**OCTAVO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
-**NOVENO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
-**DÉCIMO.** En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley que se expide.
-**DÉCIMO PRIMERO.** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
-**DÉCIMO SEGUNDO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
-**DÉCIMO TERCERO.** En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en zonas de riesgo.
-**DÉCIMO CUARTO.** En un plazo no mayor a seis meses a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y Urbano.
-**DÉCIMO QUINTO.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+**SÉPTIMO.-** En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y funcionamiento del Consejo Nacional.
+**OCTAVO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
+**NOVENO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
+**DÉCIMO.-** En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley que se expide.
+**DÉCIMO PRIMERO.-** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
+**DÉCIMO SEGUNDO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
+**DÉCIMO TERCERO.-** En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en zonas de riesgo.
+**DÉCIMO CUARTO.-** En un plazo no mayor a seis meses a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y Urbano.
+**DÉCIMO QUINTO.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente Decreto.
 Ciudad de México, a 13 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
@@ -446,31 +496,31 @@ Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adici
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
-**Tercero.** Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-**Cuarto.** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
-**Quinto.** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y Tecnologías.
-**Sexto.** En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
-**Séptimo.** Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución necesaria de facultades.
-**Octavo.** En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las demarcaciones, en materia de humanidades, ciencias, tecnologías e innovación.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
+**Tercero.-** Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+**Cuarto.-** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
+**Quinto.-** A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y Tecnologías.
+**Sexto.-** En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
+**Séptimo.-** Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución necesaria de facultades.
+**Octavo.-** En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las demarcaciones, en materia de humanidades, ciencias, tecnologías e innovación.
 En caso de que, agotado el plazo señalado, no se hubieran emitido las disposiciones correspondientes, se aplicará la presente Ley de manera directa a las autoridades y Centros locales de Investigación.
-**Noveno.** Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
-**Décimo.** Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
-**Décimo Primero.** El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
-**Décimo Segundo.** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
-**Décimo Tercero.** A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
+**Noveno.-** Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+**Décimo.-** Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
+**Décimo Primero.-** El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
+**Décimo Segundo.-** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
+**Décimo Tercero.-** A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
 Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto se realice en el Sistema Nacional de Información.
-**Décimo Cuarto.** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
-**Décimo Quinto.** En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley, los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará facultado para realizarlas directamente.
-**Décimo Sexto.** En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
+**Décimo Cuarto.-** A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+**Décimo Quinto.-** En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley, los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará facultado para realizarlas directamente.
+**Décimo Sexto.-** En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
 Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar los Programas Institucionales a que se refiere esta Ley.
-**Décimo Séptimo.** La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
-**Décimo Octavo.** En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
-**Décimo Noveno.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
-**Vigésimo.** Las legislaturas de las entidades federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de la presente Ley.
-**Vigésimo Primero.** Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
-**Vigésimo Segundo.** Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
+**Décimo Séptimo.-** La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
+**Décimo Octavo.-** En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
+**Décimo Noveno.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+**Vigésimo.-** Las legislaturas de las entidades federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de la presente Ley.
+**Vigésimo Primero.-** Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
+**Vigésimo Segundo.-** Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -482,11 +532,11 @@ Se reforman los artículos 2o., fracción VII; 8o., primer y segundo párrafos; 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

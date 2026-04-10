@@ -15,7 +15,9 @@ Se expide la Ley General de Transparencia y Acceso a la Información Pública, p
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I — Disposiciones Preliminares
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de transparencia y acceso a la información pública y sus disposiciones son de orden público, de interés social y de observancia general en todo el territorio nacional, con el fin de garantizar el derecho humano al acceso a la información y promover la transparencia y rendición de cuentas.
@@ -127,7 +129,9 @@ Para el caso de la interpretación, se podrán considerar los criterios, determi
 
 ## Capítulo II — De los Principios Generales
 
+
 ## Sección Primera — De los principios rectores de las Autoridades garantes
+
 
 ### Artículo 8
 . Las Autoridades garantes deberán regir su funcionamiento de acuerdo a los siguientes principios:
@@ -159,6 +163,7 @@ XII. Profesionalismo: Deben sujetar su actuación a conocimientos técnicos, te�
 XIII. Transparencia: Dar publicidad a los actos relacionados con sus atribuciones, así como dar acceso a la información que tengan la obligación de documentar.
 
 ## Sección Segunda — De los Principios en Materia de Transparencia y Acceso a la Información Pública
+
 
 ### Artículo 9
 . Las Autoridades garantes, así como los sujetos obligados, en el ejercicio, tramitación e interpretación de la presente Ley, las correspondientes de las entidades federativas y demás disposiciones relacionadas con la referida materia, deberán atender a los principios establecidos en la presente sección.
@@ -202,6 +207,7 @@ I. Sustanciarse de manera sencilla, clara y expedita, conforme a las disposicion
 II. Propiciar las condiciones necesarias para garantizar que este sea accesible a cualquier persona, de conformidad con el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Capítulo III — De los Sujetos Obligados
+
 
 ### Artículo 19
 . Los sujetos obligados deberán transparentar y garantizar el acceso a la información documentada en su poder, de conformidad con las disposiciones jurídicas aplicables.
@@ -251,7 +257,9 @@ XVII. Las demás que resulten de las disposiciones aplicables.
 
 ## TÍTULO SEGUNDO — RESPONSABLES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
+
 ## Capítulo I — Del Sistema Nacional
+
 
 ### Artículo 23
 . El Sistema Nacional se integra por el conjunto orgánico y articulado de sus miembros, procedimientos, instrumentos y políticas, con el objeto de fortalecer la rendición de cuentas del Estado mexicano.
@@ -297,6 +305,7 @@ XV. Emitir las reglas de operación y funcionamiento del Sistema Nacional, y
 XVI. Las demás que se desprendan de esta Ley y demás disposiciones jurídicas aplicables.
 
 ## Capítulo II — Del Consejo Nacional
+
 
 ### Artículo 26
 . El Consejo Nacional estará integrado por las personas titulares de:
@@ -344,6 +353,7 @@ V. Las demás que le encomiende la persona titular de la Presidencia del Consejo
 
 ## Capítulo III — De los Subsistemas de Transparencia
 
+
 ### Artículo 31
 . El Sistema Nacional contará con un Subsistema de Transparencia por cada entidad federativa, que funcionará por conducto de su respectivo Comité.
 Los Subsistemas de Transparencia tendrán las siguientes funciones:
@@ -379,6 +389,7 @@ Las decisiones del Comité de cada Subsistema de Transparencia se tomarán por m
 . El Comité de cada Subsistema de Transparencia podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones, representantes de los sujetos obligados y de la sociedad para el desahogo de las reuniones del mismo. En todo caso, los sujetos obligados tendrán la potestad de solicitar ser invitados a estas reuniones.
 
 ## Capítulo IV — De las Autoridades garantes
+
 
 ### Artículo 34
 . Las Autoridades garantes serán responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, así como por lo previsto en esta Ley y demás disposiciones jurídicas aplicables.
@@ -442,6 +453,7 @@ III. Las demás que le confiera el Sistema Nacional por conducto del Consejo Nac
 
 ## Capítulo V — De los Comités de Transparencia
 
+
 ### Artículo 39
 . En cada sujeto obligado se integrará un Comité de Transparencia colegiado e integrado por un número impar.
 El Comité de Transparencia adoptará sus resoluciones por mayoría de votos, en caso de empate, quien presida el Comité tendrá voto de calidad. A sus sesiones podrán asistir como personas invitadas, aquéllas que sus integrantes consideren necesarias, quienes tendrán voz, pero no voto.
@@ -478,6 +490,7 @@ VII. Solicitar y autorizar la ampliación del plazo de reserva de la informació
 VIII. Las demás que se desprendan de las disposiciones jurídicas aplicables.
 
 ## Capítulo VI — De las Unidades de Transparencia
+
 
 ### Artículo 41
 . Los sujetos obligados designarán a la persona responsable de la Unidad de Transparencia, quien tendrá las siguientes atribuciones:
@@ -517,7 +530,9 @@ Los sujetos obligados deberán capacitar al personal que integra las Unidades de
 
 ## TÍTULO TERCERO — PLATAFORMA NACIONAL DE TRANSPARENCIA
 
+
 ## Capítulo Único — De la Plataforma Nacional de Transparencia
+
 
 ### Artículo 44
 . La Secretaría Anticorrupción y Buen Gobierno administrará, implementará y pondrá en funcionamiento la Plataforma Nacional que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente Ley para los sujetos obligados y Autoridades garantes atendiendo a las necesidades de accesibilidad de las personas usuarias, así como en otras disposiciones jurídicas.
@@ -540,7 +555,9 @@ V. Cualquier otro que determine el Sistema Nacional.
 
 ## TÍTULO CUARTO — CULTURA DE TRANSPARENCIA Y APERTURA INSTITUCIONAL
 
+
 ## Capítulo I — De la Promoción de la Transparencia y el Derecho de Acceso a la Información
+
 
 ### Artículo 47
 . Los sujetos obligados en coordinación con las Autoridades garantes deberán capacitar y actualizar de forma permanente, a todas sus personas servidoras públicas en materia del derecho de acceso a la información, a través de los medios que se considere pertinentes.
@@ -580,6 +597,7 @@ IV. Procurar la accesibilidad de la información.
 
 ## Capítulo II — De la Transparencia con Sentido Social
 
+
 ### Artículo 50
 . Las Autoridades garantes emitirán políticas de transparencia con sentido social, en atención a los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información de utilidad sobre temas prioritarios. Dichas políticas tendrán por objeto, entre otros, promover la reutilización y aprovechamiento de la información que generan los sujetos obligados, considerando la demanda de la sociedad, identificada con base en las metodologías previamente establecidas.
 
@@ -591,6 +609,7 @@ IV. Procurar la accesibilidad de la información.
 La información que se publique, como resultado de las políticas de transparencia, deberá permitir la generación de conocimiento público útil, para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o cualquier persona y deberá tener un objeto claro enfocado en las necesidades de sectores de la sociedad determinados o determinables.
 
 ## Capítulo III — De la Apertura Institucional
+
 
 ### Artículo 53
 . Las Autoridades garantes, en el ámbito de sus atribuciones, coadyuvarán con los sujetos obligados y representantes de la sociedad civil en la construcción e implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura institucional.
@@ -609,7 +628,9 @@ III. Procurar mecanismos que fortalezcan la participación y la colaboración de
 
 ## TÍTULO QUINTO — OBLIGACIONES DE TRANSPARENCIA
 
+
 ## Capítulo I — De las Obligaciones Generales
+
 
 ### Artículo 56
 . Los sujetos obligados deberán cumplir con las obligaciones de transparencia y poner a disposición del público y mantener actualizada, en los respectivos medios electrónicos, de acuerdo con sus facultades, atribuciones, funciones u objeto social, según corresponda, la información, por lo menos, de los temas, documentos y políticas e información señalados en este Título.
@@ -648,6 +669,7 @@ Se promoverá la homogeneidad y la estandarización de la información, a travé
 Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de las personas a que haga referencia la información de acuerdo a las disposiciones jurídicas aplicables. Lo anterior, sin perjuicio a lo establecido por el artículo 119 de esta Ley.
 
 ## Capítulo II — De las Obligaciones de Transparencia Comunes
+
 
 ### Artículo 65
 . Los sujetos obligados pondrán a disposición del público y mantendrán actualizada, en los respectivos medios electrónicos, de acuerdo con sus facultades, atribuciones, funciones u objeto social, según corresponda, la información, por lo menos, de los temas, documentos y políticas que a continuación se señalan:
@@ -785,6 +807,7 @@ Los sujetos obligados deberán informar a las Autoridades garantes de forma fund
 Una vez que cuenten con la validación de referencia los sujetos obligados procederán a publicarlas en la Plataforma Nacional.
 
 ## Capítulo III — De las Obligaciones Específicas
+
 
 ### Artículo 66
 . Los sujetos obligados de los Poderes Ejecutivos Federal, de las entidades federativas y municipales o de las demarcaciones territoriales de la Ciudad de México, además de lo señalado en el artículo anterior, deberán poner a disposición del público y actualizar, conforme al ámbito de su competencia la información siguiente:
@@ -1409,6 +1432,7 @@ II. Revisar el listado que remitió el sujeto obligado con base en las funciones
 III. Determinar el catálogo de información que el sujeto obligado deberá publicar como obligación de transparencia.
 
 ## Capítulo IV
+
 De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
 
 ### Artículo 80
@@ -1426,6 +1450,7 @@ II. Revisar el listado que remitió la persona física o moral en la medida en q
 III. Determinar las obligaciones de transparencia que deben cumplir y los plazos para ello.
 
 ## Capítulo V — De las Obligaciones Específicas en Materia Energética
+
 
 ### Artículo 82
 . Los sujetos obligados del sector energético, además de la información señalada en el artículo 65 de esta Ley, deberán poner a disposición del público y, en su caso, mantener actualizada la siguiente información:
@@ -1582,6 +1607,7 @@ g) La meta de generación limpia de electricidad.
 
 ## Capítulo VI — De la Verificación de las Obligaciones de Transparencia
 
+
 ### Artículo 83
 . Las Autoridades garantes, en su ámbito de competencia, vigilarán que las obligaciones de transparencia que publiquen los sujetos obligados cumplan con lo dispuesto en esta Ley.
 
@@ -1608,6 +1634,7 @@ En caso de que las Autoridades garantes consideren que subsiste el incumplimient
 Adicionalmente, las Autoridades garantes podrán emitir recomendaciones a los sujetos obligados, a fin de procurar que los formatos en que se publique la información, sea de mayor utilidad.
 
 ## Capítulo VII — De la Denuncia por Incumplimiento a las Obligaciones de Transparencia
+
 
 ### Artículo 88
 . Cualquier persona podrá denunciar ante las Autoridades garantes la falta de publicación de las obligaciones de transparencia previstas en los artículos 63 a 80 de esta Ley y demás disposiciones jurídicas aplicables, en sus respectivos ámbitos de competencia.
@@ -1698,7 +1725,9 @@ Cuando las Autoridades garantes consideren que existe un incumplimiento total o 
 
 ## TÍTULO SEXTO — INFORMACIÓN CLASIFICADA
 
+
 ## Capítulo I
+
 De las Disposiciones Generales de la Clasificación y Desclasificación de la Información
 
 ### Artículo 102
@@ -1769,6 +1798,7 @@ La carga de la prueba para justificar toda negativa de acceso a la información,
 
 ## Capítulo II — De la Información Reservada
 
+
 ### Artículo 112
 . Como información reservada podrá clasificarse aquella cuya publicación:
 
@@ -1818,6 +1848,7 @@ II. Se trate de información relacionada con actos de corrupción acreditados de
 
 ## Capítulo III — De la Información Confidencial
 
+
 ### Artículo 115
 . Se considera información confidencial la que contiene datos personales concernientes a una persona física identificada o identificable.
 La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y las personas servidoras públicas facultadas para ello.
@@ -1851,6 +1882,7 @@ Para efectos de la fracción IV del presente artículo, la Autoridad garante, de
 
 ## Capítulo IV — De las Versiones Públicas
 
+
 ### Artículo 120
 . Cuando un documento o expediente contenga partes o secciones reservadas o confidenciales, los sujetos obligados a través de sus áreas, para efectos de atender una solicitud de información, deberán elaborar una versión pública en la que se testen las partes o secciones clasificadas, indicando su contenido de manera genérica, fundando y motivando su clasificación, en términos de lo que determine el Sistema Nacional.
 
@@ -1862,7 +1894,9 @@ Para efectos de la fracción IV del presente artículo, la Autoridad garante, de
 
 ## TÍTULO SÉPTIMO — PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+
 ## Capítulo I — Del Procedimiento de Acceso a la Información
+
 
 ### Artículo 123
 . Las Unidades de Transparencia de los sujetos obligados deberán garantizar las medidas y condiciones de accesibilidad para que toda persona pueda ejercer el derecho de acceso a la información, mediante solicitudes de información y deberá apoyar a la persona solicitante en la elaboración de las mismas, de conformidad con las bases establecidas en el presente Título.
@@ -1965,6 +1999,7 @@ Cuando se requiera un dato estadístico o numérico, y el resultado de la búsqu
 
 ## Capítulo II — De las Cuotas de Acceso
 
+
 ### Artículo 143
 . En caso de existir costos para obtener la información, deberán cubrirse de manera previa a la entrega y no podrán ser superiores a la suma de:
 
@@ -1980,7 +2015,9 @@ Las Unidades de Transparencia podrán exceptuar el pago de reproducción y enví
 
 ## TÍTULO OCTAVO — DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN
 
+
 ## Capítulo I — Del Recurso de Revisión
+
 
 ### Artículo 144
 . La persona solicitante podrá interponer, por sí mismo o por conducto de su representante, de manera física o por medios electrónicos, recurso de revisión ante la Autoridad garante que corresponda, o ante la Unidad de Transparencia que haya conocido de la solicitud dentro de los quince días siguientes a la fecha de la notificación de la respuesta, o del vencimiento del plazo para su notificación.
@@ -2144,6 +2181,7 @@ Los juicios de amparo serán sustanciados por jueces y tribunales especializados
 
 ## Capítulo II — Del Recurso de Inconformidad
 
+
 ### Artículo 162
 . Tratándose de las resoluciones a los recursos de revisión de las Autoridades garantes locales cuando las mismas se encuentren vinculadas con solicitudes de información concernientes a recursos públicos federales, las personas particulares podrán acudir ante la Autoridad garante federal o ante los tribunales especializados en materia de transparencia del Poder Judicial de la Federación.
 En el supuesto de que el Sistema Nacional adopte los acuerdos previstos en el artículo 25, fracción XIV de la presente Ley, la Autoridad garante federal deberá de aplicar las disposiciones previstas en este Capítulo.
@@ -2274,6 +2312,7 @@ Las personas particulares podrán impugnar las resoluciones de la Autoridad gara
 
 ## Capítulo III — Del Recurso de Revisión en Materia de Seguridad Nacional
 
+
 ### Artículo 184
 . La persona titular de la Consejería Jurídica del Ejecutivo Federal podrá interponer recurso de revisión en materia de seguridad nacional directamente ante la Suprema Corte de Justicia de la Nación, cuando considere que las resoluciones emitidas por la Autoridad garante federal ponen en peligro la seguridad nacional.
 El recurso debe interponerse durante los siete días siguientes a aquél en el que la Autoridad garante notifique la resolución al sujeto obligado. La Suprema Corte de Justicia de la Nación determinará, de inmediato, en su caso, la suspensión de la ejecución de la resolución y dentro de los cinco días siguientes a la interposición del recurso resolverá sobre su admisión o improcedencia.
@@ -2293,6 +2332,7 @@ En todo momento, las Ministras y los Ministros deben tener acceso a la informaci
 En caso de que se revoque la resolución, la Autoridad garante federal debe actuar en los términos que ordene la Suprema Corte de Justicia de la Nación.
 
 ## Capítulo IV
+
 Del Recurso de Revisión de Asuntos Jurisdiccionales de la Suprema Corte de Justicia de la Nación
 
 ### Artículo 189
@@ -2304,6 +2344,7 @@ Para resolver los recursos de revisión relacionados con la información de asun
 La Suprema Corte de Justicia de la Nación podrá emitir un Acuerdo para la integración, plazos, términos y procedimientos del Comité referido, de conformidad con los principios, reglas y procedimientos de resolución establecidos en esta Ley.
 
 ## Capítulo V — Del Cumplimiento de las Resoluciones
+
 
 ### Artículo 191
 . Los sujetos obligados deben, por medio de sus Unidades de Transparencia, dar estricto cumplimiento a las resoluciones de las Autoridades garantes, y deberán informar a estos sobre su cumplimiento.
@@ -2325,6 +2366,7 @@ III. Determinarán las medidas de apremio o sanciones, según corresponda, que d
 
 ## Capítulo VI — De los Criterios de Interpretación
 
+
 ### Artículo 194
 . Una vez que hayan causado ejecutoria las resoluciones dictadas en los recursos que se sometan a su competencia, la Autoridad garante federal podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en dichos asuntos.
 La Autoridad garante federal podrá emitir criterios de carácter orientador para las Autoridades garantes, que se establecerán por reiteración al resolver tres casos análogos de manera consecutiva en el mismo sentido, derivados de resoluciones que hayan causado estado.
@@ -2335,7 +2377,9 @@ Todo criterio que emita la Autoridad garante federal debe contener una clave de 
 
 ## TÍTULO NOVENO — MEDIDAS DE APREMIO Y SANCIONES
 
+
 ## Capítulo I — De las Medidas de Apremio
+
 
 ### Artículo 196
 . Las Autoridades garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, o a las y los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
@@ -2378,6 +2422,7 @@ Las multas que fijen las Autoridades garantes se harán efectivas ante el Servic
 . Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio, lo dispuesto en la Ley Federal de Procedimiento Administrativo y la equivalente en las entidades federativas.
 
 ## Capítulo II — De las Sanciones
+
 
 ### Artículo 204
 . Serán causas de sanción por incumplimiento de las obligaciones establecidas en la materia de la presente Ley, al menos las siguientes:
@@ -2479,7 +2524,6 @@ Se aplicará multa adicional de hasta cincuenta veces el valor diario de la Unid
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
 **Segundo.-** A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
-
 I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el 5 de julio de 2010;
 
 II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 4 de mayo de 2015 y sus modificaciones posteriores;
@@ -2512,7 +2556,7 @@ La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad gar
 La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
 **Décimo Cuarto.-** El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 **Décimo Quinto.-** Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y Décimo
-**Tercero.** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
+**Tercero.-** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
 El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
 **Décimo Sexto.-** El Consejo del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno.
 Hasta en tanto las legislaturas de las entidades federativas que correspondan armonizan su marco jurídico en materia de acceso a la información pública en términos de lo previsto en el transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, la persona titular del poder ejecutivo local de que se trate será integrante del Consejo del Sistema Nacional de Acceso a la Información Pública.

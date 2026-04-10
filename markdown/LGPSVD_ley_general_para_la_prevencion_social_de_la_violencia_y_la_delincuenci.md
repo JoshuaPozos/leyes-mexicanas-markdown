@@ -15,6 +15,7 @@ Se expide la Ley General para la Prevención Social de la Violencia y la Delincu
 
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- La presente Ley es de orden público e interés social y de observancia general en todo el territorio nacional y tiene por objeto establecer las bases de coordinación entre la Federación, los Estados, el Distrito Federal y los Municipios en materia de prevención social de la violencia y la delincuencia en el marco del Sistema Nacional de Seguridad Pública, previsto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -71,6 +72,7 @@ Quedan incluidas las diversas manifestaciones que tiene la violencia como la de 
 .- En lo no previsto por la presente Ley, se aplicarán, conforme a su naturaleza y de forma supletoria, las disposiciones contenidas en la Ley General del Sistema Nacional de Seguridad Pública.
 
 ## CAPÍTULO SEGUNDO — DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA Y LA ATENCIÓN A
+
 LAS VÍCTIMAS
 
 ### Artículo 6
@@ -97,7 +99,8 @@ Fracción reformada DOF 04-05-2021
 IV. Estrategias de educación y sensibilización de la población para promover la cultura de legalidad y tolerancia respetando al mismo tiempo las diversas identidades culturales. Incluye tanto programas generales como aquéllos enfocados a grupos sociales y comunidades en altas condiciones de vulnerabilidad;
 Fracción reformada DOF 04-05-2021
 
-V. Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, marginación, o afectación, y Fracción reformada DOF 04-05-2021
+V. Se establecerán programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para los grupos en situación de riesgo, vulnerabilidad, marginación, o afectación, y
+Fracción reformada DOF 04-05-2021
 
 VI. Estrategias y acciones de protección a las familias para evitar su desintegración y cualquier modalidad de violencia que la propicie, a través de la educación y el empoderamiento de todos sus miembros sin ningún tipo de discriminación.
 Fracción adicionada DOF 04-05-2021
@@ -127,7 +130,8 @@ III. La vigilancia respetando los derechos a la intimidad y a la privacidad;
 IV. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia;
 Fracción reformada DOF 04-05-2021
 
-V. La aplicación de estrategias para garantizar la no repetición de casos de victimización, y Fracción reformada DOF 04-05-2021
+V. La aplicación de estrategias para garantizar la no repetición de casos de victimización, y
+Fracción reformada DOF 04-05-2021
 
 VI. La recuperación de espacios públicos, con la participación de la comunidad incluyendo todos los grupos que la conforman.
 Fracción adicionada DOF 04-05-2021
@@ -140,7 +144,8 @@ I. Impulsar el diseño y aplicación de programas formativos en habilidades para
 II. La inclusión de la prevención de la violencia, la delincuencia y de las adicciones, principalmente de alcohol, tabaco y estupefacientes, en las políticas públicas en materia de educación, a través de la difusión de contenidos tendientes a disminuirlas;
 Fracción reformada DOF 04-05-2021
 
-III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos, y Fracción reformada DOF 04-05-2021
+III. El fortalecimiento de las capacidades institucionales que asegure la sostenibilidad de los programas preventivos, y
+Fracción reformada DOF 04-05-2021
 
 IV. El fortalecimiento de las medidas de detección, prevención y atención del acoso entre niñas, niños, adolescentes y mujeres, en las escuelas y comunidades, que privilegien la retroalimentación de sus experiencias en la comunidad.
 Fracción adicionada DOF 04-05-2021
@@ -160,7 +165,9 @@ V. La reparación integral del daño que incluye el reconocimiento público, la 
 
 ## CAPÍTULO TERCERO — DE LAS INSTANCIAS DE COORDINACIÓN
 
+
 ## Sección Primera — Del Consejo Nacional de Seguridad Pública
+
 
 ### Artículo 12
 .- El Consejo Nacional será la máxima instancia para la coordinación y definición de la política de prevención social de la violencia y la delincuencia.
@@ -184,6 +191,7 @@ VI. Las demás que establezcan otras disposiciones legales y las que sean necesa
 
 ## Sección Segunda — Del Secretariado Ejecutivo
 
+
 ### Artículo 14
 .- El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
 
@@ -198,6 +206,7 @@ IV. Difundir la información estadística en materia de incidencia delictiva y d
 V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales.
 
 ## Sección Tercera — Del Centro Nacional de Prevención del Delito y Participación Ciudadana
+
 
 ### Artículo 15
 .- El Centro Nacional tendrá, además de las que le confiere la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones:
@@ -268,6 +277,7 @@ XXVI. Las demás que establezcan otras disposiciones legales.
 
 ## Sección Cuarta — De la Comisión Permanente de Prevención del Delito y Participación Ciudadana
 
+
 ### Artículo 16
 .- La Comisión tendrá, además de las que le confiere la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones:
 
@@ -280,6 +290,7 @@ III. Apoyar al Centro Nacional en la promoción de la participación ciudadana y
 IV. Proponer al Consejo Nacional los estándares y las metodologías de evaluación para medir el impacto de los programas en las materias propias de esta Ley.
 
 ## CAPÍTULO CUARTO — DE LA COORDINACIÓN DE PROGRAMAS
+
 
 ### Artículo 17
 .- Los programas nacional, sectoriales, especiales e institucionales que incidan en la prevención social de la violencia y la delincuencia, deberán diseñarse considerando la participación interinstitucional con enfoque multidisciplinario, enfatizando la colaboración con universidades y entidades orientadas a la investigación, asimismo se orientarán a contrarrestar, neutralizar o disminuir los factores de riesgo y las consecuencias, daño e impacto social y comunitario de la violencia y la delincuencia.
@@ -308,6 +319,7 @@ VII. Realizar estudios periódicos sobre la victimización y la delincuencia, y
 VIII. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia.
 
 ## CAPÍTULO QUINTO — DEL PROGRAMA NACIONAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA
+
 DELINCUENCIA
 
 ### Artículo 20
@@ -335,6 +347,7 @@ Las autoridades de los gobiernos Federal, los Estados, el Distrito Federal y los
 
 ## Sección Primera — De la Evaluación
 
+
 ### Artículo 22
 .- El Centro Nacional evaluará las acciones realizadas para ejecutar el programa anual y los resultados del año anterior. El resultado de la evaluación se remitirá al Consejo Nacional quien lo hará público en los términos que establezcan las disposiciones aplicables.
 Para la evaluación de las acciones referidas en los programas, se convocará a los organismos públicos de derechos humanos, instituciones académicas y organizaciones de la sociedad civil.
@@ -344,6 +357,7 @@ Los resultados de las evaluaciones determinarán la continuidad de los programas
 .- El Centro Nacional deberá coadyuvar con el Consejo Nacional de Evaluación de la Política Social u otras instancias gubernamentales o de la sociedad para el desarrollo de las evaluaciones respectivas.
 
 ## Sección Segunda — De la Participación Ciudadana y Comunitaria
+
 
 ### Artículo 24
 .- La participación ciudadana y comunitaria, organizada o no organizada, en materia de prevención social de la violencia y la delincuencia, es un derecho de las personas.
@@ -356,6 +370,7 @@ Los resultados de las evaluaciones determinarán la continuidad de los programas
 
 ## CAPÍTULO SEXTO — DEL FINANCIAMIENTO
 
+
 ### Artículo 27
 .- Los programas federales, de los estados, el Distrito Federal o municipales, en materia de prevención social de la violencia y de la delincuencia, deberán cubrirse con cargo a sus respectivos presupuestos y sujetarse a las bases que establecen la presente Ley, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
 
@@ -366,6 +381,7 @@ Los resultados de las evaluaciones determinarán la continuidad de los programas
 .- El Centro Nacional propondrá, previa aprobación del Secretario Ejecutivo, el desarrollo de mecanismos de financiamiento para proyectos de la sociedad civil, de los municipios o de las entidades federativas que tengan incidencia directa en temas prioritarios de prevención social de la violencia y la delincuencia, con base en los lineamientos que emita para tales efectos el Consejo Nacional, asegurando la coordinación de acciones para evitar la duplicación en el ejercicio de los recursos.
 
 ## CAPÍTULO SÉPTIMO — DE LAS SANCIONES
+
 
 ### Artículo 30
 .- El incumplimiento en el ejercicio de las obligaciones que se derivan de la presente Ley será sancionado de conformidad con la legislación en materia de responsabilidades administrativas de los servidores públicos.
@@ -393,6 +409,6 @@ Se reforman las fracciones III y V del artículo 7; las fracciones IV y V del ar
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 17 de marzo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

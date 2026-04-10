@@ -15,12 +15,15 @@ Se expide la Ley Orgánica de la Armada de México, para quedar como sigue:
 
 ## TÍTULO PRIMERO — DE LA MISIÓN Y ATRIBUCIONES DE LA ARMADA DE MÉXICO
 
+
 ## CAPÍTULO I — DE LA MISIÓN
+
 
 ### Artículo 1
 . La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior, proteger la soberanía de la Nación y sus intereses marítimos, mantener el estado de derecho en las zonas marinas mexicanas y coadyuvar en la seguridad interior del país, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado mexicano sea parte.
 
 ## CAPÍTULO II — DE LAS ATRIBUCIONES
+
 
 ### Artículo 2
 . Son atribuciones de la Armada de México, las siguientes:
@@ -79,7 +82,9 @@ XX. Las demás que le señalen las disposiciones aplicables y le encomiende el M
 
 ## TÍTULO SEGUNDO — DE LA INTEGRACIÓN, NIVELES DE MANDO Y ORGANIZACIÓN
 
+
 ## CAPÍTULO I — DE LA INTEGRACIÓN
+
 
 ### Artículo 4
 . La Armada de México está integrada por:
@@ -93,6 +98,7 @@ III. Recursos financieros, aquellos asignados por la Secretaría de Marina a la 
 IV. Recursos animales, constituidos por elementos de distintas especies animales, adiestradas para realizar tareas específicas en apoyo al cumplimiento de la misión y atribuciones.
 
 ## CAPÍTULO II — DE LOS NIVELES DE MANDO
+
 
 ### Artículo 5
 . La Armada de México, para el cumplimiento de su misión, ejercicio de sus atribuciones y desarrollo de sus operaciones navales, tendrá los siguientes niveles de mando:
@@ -203,6 +209,7 @@ V. Los Mandos Subordinados serán suplidos por la persona titular de la Jefatura
 
 ## CAPÍTULO III — DE LA ORGANIZACIÓN
 
+
 ### Artículo 10
 . La Jefatura de Operaciones Navales está integrada por Subjefaturas, Coordinadoras, Secciones y demás órganos administrativos y operativos necesarios para el cumplimiento de su misión, así como con los recursos humanos, materiales, financieros y animales asignados.
 La persona titular de la Jefatura de Operaciones Navales será de la jerarquía de Almirante y estará subordinada directamente al Alto Mando.
@@ -232,6 +239,7 @@ Asimismo, brindan apoyo logístico a las unidades adscritas, incorporadas y dest
 Las personas titulares de las Comandancias de los Sectores Navales serán de la categoría de Almirante y estarán subordinadas al mando de la Región o Zona Naval que corresponda.
 
 ## SECCIÓN I — UNIDADES OPERATIVAS
+
 
 ### Artículo 16
 . Las unidades operativas son aquellas con capacidades marítimas, aéreas, terrestres o cibernéticas que contarán con el personal naval necesario de los Cuerpos y Servicios, mediante las cuales se materializan las atribuciones de la Armada de México.
@@ -328,6 +336,7 @@ Las personas titulares de las Comandancias de las Unidades de Soporte Estratégi
 
 ## SECCIÓN II — INSTALACIONES
 
+
 ### Artículo 39
 . Las instalaciones de la Armada de México, son todos aquellos bienes inmuebles, construidos y edificados para alojar y concentrar a los recursos humanos y materiales necesarios para el cumplimiento y desarrollo de sus atribuciones y funciones, así como terrenos, campos de tiro y de entrenamiento destinados para el adiestramiento del personal naval, siendo éstas las siguientes:
 
@@ -348,6 +357,7 @@ Las instalaciones previstas en las fracciones IV, V y VI sirven de apoyo a las f
 
 ## SECCIÓN III — MATERIAL
 
+
 ### Artículo 40
 . El material podrá encontrarse en cualquiera de las situaciones siguientes:
 
@@ -360,6 +370,7 @@ III. En fabricación, construcción o modernización, el que está en este proce
 IV. En trámite de baja, el material que no es susceptible de recuperarse.
 
 ## SECCIÓN IV — ÓRGANOS ASESORES DEL ALTO MANDO
+
 
 ### Artículo 41
 . El Alto Mando cuenta con órganos asesores que le proporcionan elementos de juicio para la toma de decisiones, los cuales son los siguientes:
@@ -403,6 +414,7 @@ IV. Conocer en su modalidad de reducido, de acuerdo con su reglamento respectivo
 
 ## SECCIÓN V — ÓRGANOS DE DISCIPLINA Y JUNTA NAVAL
 
+
 ### Artículo 47
 . Para sancionar las faltas graves en contra de la disciplina naval, establecidas en la Ley de Disciplina para el Personal de la Armada de México, la Armada de México contará con órganos de disciplina, los cuales en ningún caso y por ningún motivo podrán conocer de asuntos en los que esté involucrada una persona que no sea militar.
 
@@ -440,7 +452,9 @@ El personal naval de la jerarquía de Capitán de Fragata a Almirante sólo podr
 
 ## TÍTULO TERCERO — DEL PERSONAL NAVAL
 
+
 ## CAPÍTULO I — DEL INGRESO
+
 
 ### Artículo 51
 . Los requisitos esenciales para causar alta en el servicio activo de la Armada de México son:
@@ -463,6 +477,7 @@ I. Por contrato de enganche voluntario para prestar servicios en la Armada de M�
 II. Por ingreso a los establecimientos educativos navales como personal de Cadetes o Alumnado mediante contrato de enganche voluntario, de conformidad con los ordenamientos aplicables.
 
 ## CAPÍTULO II — DE LA CLASIFICACIÓN
+
 
 ### Artículo 53
 . Para su clasificación el personal naval pertenece a:
@@ -527,6 +542,7 @@ La adecuación de grado estará sujeta a que exista vacante, presentación de t�
 . Las personas becarias no serán consideradas como elementos de la Armada de México, pero están sujetas a la reglamentación interna de los establecimientos educativos navales.
 
 ## CAPÍTULO III — DE LOS CUERPOS Y SERVICIOS
+
 
 ### Artículo 60
 . El personal se agrupa en Cuerpos y Servicios en atención a su formación y funciones.
@@ -603,6 +619,7 @@ Para efectos de ascenso la antigüedad en el Grado contará a partir de la fecha
 
 ## CAPÍTULO IV — DEL DESEMPEÑO Y FUNCIONES DEL PERSONAL
 
+
 ### Artículo 70
 . El personal naval, sin distinción de género, desempeñará los mandos, cargos y comisiones acordes a su Cuerpo, Servicio y Grado establecidos en las planillas orgánicas de las unidades y establecimientos de la Armada de México y de la Secretaría de Marina, así como los que se le nombren, de conformidad con los ordenamientos aplicables.
 
@@ -629,6 +646,7 @@ III. Desempeñar los cargos, comisiones y asignaciones que les sean conferidos e
 
 ## CAPÍTULO V — DEL DESARROLLO DEL PERSONAL NAVAL
 
+
 ### Artículo 74
 . El desarrollo del personal naval tiene como propósito formar de manera integral al recurso humano que compone a la Armada de México, con conocimientos navales, militares y doctrinarios, así como técnicos y profesionales, de acuerdo a los objetivos del Sistema Educativo Naval.
 Dicho Sistema, además de los conocimientos señalados en el párrafo anterior, fomentará, en el recurso humano que compone a la Armada de México, los principios de amor a la patria, legalidad, objetividad, eficiencia, profesionalismo, imparcialidad, honradez, probidad y respeto a los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos.
@@ -649,6 +667,7 @@ El personal que solicite su separación del servicio activo y no haya concluido 
 Para efectos disciplinarios se regirán por los reglamentos de los establecimientos educativos navales correspondientes y para efectos de la comisión de delitos del fuero de guerra se sujetarán a lo establecido en el Código de Justicia Militar.
 
 ## CAPÍTULO VI — DE LOS GRADOS DEL PERSONAL NAVAL Y ESCALAFÓN
+
 
 ### Artículo 78
 . El personal naval está constituido por las mujeres y los hombres que pertenecen a la Armada de México y ostentarán un grado de la escala jerárquica prevista en el presente capítulo, sujetándose a las obligaciones y derechos que para ello establece la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás ordenamientos aplicables.
@@ -720,6 +739,7 @@ c) Escala no profesional: hasta Teniente de Navío.
 . El escalafón de la Armada de México, se integra agrupando al personal naval por Cuerpos y Servicios, Núcleos y Escalas en orden descendente, en razón de la Categoría, Grado y antigüedad en el Grado, de cada elemento, señalando las especialidades que ostenten.
 
 ## CAPÍTULO VII — SITUACIÓN DEL PERSONAL
+
 
 ### Artículo 87
 . El personal de la Armada de México podrá encontrarse en alguna de las situaciones siguientes:
@@ -871,10 +891,10 @@ El Alto Mando podrá llamar a la Primera o Segunda Reserva, en su totalidad, en 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor de este Decreto, se abroga la Ley Orgánica de la Armada de México, publicada el 14 de octubre de 2021 en el Diario Oficial de la Federación y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-**Tercero.** Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor de este Decreto, se abroga la Ley Orgánica de la Armada de México, publicada el 14 de octubre de 2021 en el Diario Oficial de la Federación y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+**Tercero.-** Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
 Las modificaciones a la estructura orgánica de la Secretaría de Marina que deriven por la entrada en vigor del presente Decreto se llevarán a cabo mediante movimientos compensados, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de esa dependencia para ejercicios fiscales subsecuentes.
-**Cuarto.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen.
-**Quinto.** Las referencias que se hagan de las personas servidoras públicas o unidades operativas de la Armada de México en otros ordenamientos, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor de la presente Ley, se entenderán referidas a las personas servidoras públicas y unidades operativas que, conforme al mismo, sean competentes en la materia que se trate.
+**Cuarto.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen.
+**Quinto.-** Las referencias que se hagan de las personas servidoras públicas o unidades operativas de la Armada de México en otros ordenamientos, cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor de la presente Ley, se entenderán referidas a las personas servidoras públicas y unidades operativas que, conforme al mismo, sean competentes en la materia que se trate.
 Ciudad de México, a 29 de octubre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

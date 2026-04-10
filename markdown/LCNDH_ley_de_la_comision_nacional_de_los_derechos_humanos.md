@@ -8,7 +8,8 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 29 de junio de 1992 TEXTO VIGENTE Últimas reformas publicadas DOF 01-04-2024 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-Denominación de la Ley reformada DOF 26-11-2001 TITULO I CAPITULO UNICO DISPOSICIONES GENERALES
+Denominación de la Ley reformada DOF 26-11-2001
+TITULO I CAPITULO UNICO DISPOSICIONES GENERALES
 
 ### Artículo 1o
 .- Esta ley es de orden público y de aplicación en todo el territorio nacional en materia de Derechos Humanos, respecto de los mexicanos y extranjeros que se encuentren en el país, en los términos establecidos por el apartado "B" del artículo 102 constitucional.
@@ -26,12 +27,14 @@ Párrafo reformado DOF 26-11-2001
 
 ### Artículo 4o
 .- Para la defensa y promoción de los derechos humanos se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad. Los procedimientos de la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a formalidades esenciales que requiera la documentación de los expedientes respectivos; seguirán además los principios de inmediatez, concentración y rapidez. Se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
-Párrafo reformado DOF 15-06-2012 El personal de la Comisión Nacional deberá manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia.
+Párrafo reformado DOF 15-06-2012
+El personal de la Comisión Nacional deberá manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia.
 TITULO II INTEGRACION DE LA COMISION NACIONAL DE DERECHOS HUMANOS CAPITULO I DE LA INTEGRACION Y FACULTADES DE LA COMISION NACIONAL
 
 ### Artículo 5o
 .- La Comisión Nacional se integrará con una Presidencia, una Secretaría Ejecutiva, Visitadurías Generales, así como el número de visitadurías adjuntas y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
-Párrafo reformado DOF 15-06-2012, 26-03-2024 La Comisión Nacional para el mejor desempeño de sus responsabilidades contará con un Consejo.
+Párrafo reformado DOF 15-06-2012, 26-03-2024
+La Comisión Nacional para el mejor desempeño de sus responsabilidades contará con un Consejo.
 En la designación de las Visitadurías Generales se debe aplicar el principio de paridad de género.
 Párrafo adicionado DOF 26-03-2024
 
@@ -45,26 +48,33 @@ a) Por actos u omisiones de autoridades administrativas de carácter federal;
 b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas;
 
 III. Formular recomendaciones públicas no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
-Fracción reformada DOF 26-11-2001 IV.- Conocer y decidir en última instancia las inconformidades que se presenten respecto de las recomendaciones y acuerdos de los organismos de derechos humanos de las Entidades Federativas a que se refiere el citado artículo 102, apartado B, de la Constitución Política;
+Fracción reformada DOF 26-11-2001
+IV.- Conocer y decidir en última instancia las inconformidades que se presenten respecto de las recomendaciones y acuerdos de los organismos de derechos humanos de las Entidades Federativas a que se refiere el citado artículo 102, apartado B, de la Constitución Política;
 
 V. Conocer y decidir en última instancia las inconformidades por omisiones en que incurran los organismos de derechos humanos a que se refiere la fracción anterior, y por insuficiencia en el cumplimiento de las recomendaciones de éstos por parte de las autoridades locales, en los términos señalados por esta ley;
-Fracción reformada DOF 26-11-2001 VI.- Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita;
+Fracción reformada DOF 26-11-2001
+VI.- Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita;
 VII.- Impulsar la observancia de los derechos humanos en el país;
 VIII.- Proponer a las diversas autoridades del país, que en el exclusivo ámbito de su competencia, promuevan los cambios y modificaciones de disposiciones legislativas y reglamentarias, así como de prácticas administrativas, que a juicio de la Comisión Nacional redunden en una mejor protección de los derechos humanos;
 IX.- Promover el estudio, la enseñanza y divulgación de los derechos humanos en el ámbito nacional e internacional;
 X.- Expedir su Reglamento Interno;
 XI.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
 XI Bis.- Presidir y garantizar el cumplimiento de las atribuciones conferidas al Mecanismo Nacional de Prevención, en términos de lo establecido en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
-Fracción adicionada DOF 26-06-2017 XII.- Supervisar el respeto a los derechos humanos en el sistema de reinserción social y en las estancias migratorias del país mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
-Párrafo reformado DOF 01-04-2024 En dicho diagnóstico deberán incluirse, además de las evaluaciones que la Comisión pondere, datos estadísticos sobre el número, las causas y efectos de los homicidios, así como de las riñas, motines, desórdenes, abusos y quejas documentadas que sucedan en las prisiones, centros de detención y retención federales y locales.
+Fracción adicionada DOF 26-06-2017
+XII.- Supervisar el respeto a los derechos humanos en el sistema de reinserción social y en las estancias migratorias del país mediante la elaboración de un diagnóstico anual sobre la situación que éstos guarden.
+Párrafo reformado DOF 01-04-2024
+En dicho diagnóstico deberán incluirse, además de las evaluaciones que la Comisión pondere, datos estadísticos sobre el número, las causas y efectos de los homicidios, así como de las riñas, motines, desórdenes, abusos y quejas documentadas que sucedan en las prisiones, centros de detención y retención federales y locales.
 El diagnóstico se hará del conocimiento de las dependencias federales y locales competentes en la materia para que éstas elaboren, considerando las opiniones de la Comisión, las políticas públicas tendientes a garantizar el respeto de los derechos humanos de los internos;
-Fracción reformada DOF 10-06-2013 XIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del territorio nacional de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
+Fracción reformada DOF 10-06-2013
+XIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del territorio nacional de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
 XIII Bis.- Promover la cultura de la paz;
-Fracción adicionada DOF 01-04-2024 XIV.- Proponer al Ejecutivo Federal, en los términos de la legislación aplicable, la suscripción de convenios o acuerdos internacionales en materia de derechos humanos;
+Fracción adicionada DOF 01-04-2024
+XIV.- Proponer al Ejecutivo Federal, en los términos de la legislación aplicable, la suscripción de convenios o acuerdos internacionales en materia de derechos humanos;
 XIV Bis.- La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
 Fracción adicionada DOF 26-01-2006
 
-XV. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el Gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas, y Fracción adicionada DOF 15-06-2012
+XV. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el Gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas, y
+Fracción adicionada DOF 15-06-2012
 
 XVI. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 Fracción reformada y recorrida DOF 15-06-2012
@@ -74,12 +84,14 @@ Fracción reformada y recorrida DOF 15-06-2012
 I.- Actos y resoluciones de organismos y autoridades electorales;
 II.- Resoluciones de carácter jurisdiccional;
 III.- Se deroga.
-Fracción derogada DOF 15-06-2012 IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
+Fracción derogada DOF 15-06-2012
+IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
 ### Artículo 8o
 .- En los términos de esta ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales, salvo las de carácter federal, cuando dichos actos u omisiones tengan carácter administrativo. La Comisión Nacional por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
 ## Capítulo II — De la elección, facultades y obligaciones del Presidente de la Comisión
+
 Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 9o
@@ -104,7 +116,8 @@ Artículo reformado DOF 23-01-1998, 26-11-2001
 ### Artículo 10
 . El Presidente de la Comisión Nacional de los Derechos Humanos, será elegido por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. Para tales efectos, la comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos.
 Con base en dicha auscultación, la comisión o comisiones correspondientes de la Cámara de Senadores propondrá al pleno de la misma o ante la Comisión Permanente del Congreso de la Unión, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
-Párrafo reformado DOF 25-06-2018 Artículo reformado DOF 26-11-2001
+Párrafo reformado DOF 25-06-2018
+Artículo reformado DOF 26-11-2001
 
 ### Artículo 10
 Bis. Para efectos de lo dispuesto en el artículo anterior, la comisión o comisiones correspondientes de la Cámara de Senadores deberán:
@@ -154,16 +167,20 @@ Artículo reformado DOF 26-11-2001
 
 ### Artículo 15
 .- El Presidente de la Comisión Nacional tendrá las siguientes facultades y obligaciones:
-Párrafo reformado DOF 26-11-2001 I.- Ejercer la representación legal de la Comisión Nacional;
+Párrafo reformado DOF 26-11-2001
+I.- Ejercer la representación legal de la Comisión Nacional;
 II.- Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autoridad;
 III.- Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
 IV. Distribuir y delegar funciones en los términos del Reglamento Interno;
-Fracción reformada DOF 26-11-2001 V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley.
-Fracción reformada DOF 26-11-2001, 30-06-2006 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
+Fracción reformada DOF 26-11-2001
+V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley.
+Fracción reformada DOF 26-11-2001, 30-06-2006
+VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
 VII. Aprobar y emitir las recomendaciones públicas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
-Fracción reformada DOF 26-11-2001 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el país;
+Fracción reformada DOF 26-11-2001
+VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el país;
 
 IX. Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
 Fracción reformada DOF 15-06-2012
@@ -171,7 +188,8 @@ Fracción reformada DOF 15-06-2012
 X. Solicitar, en los términos del artículo 46 de esta Ley, a la Cámara de Senadores o en sus recesos, a la Comisión Permanente, o a las legislaturas de las entidades federativas, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos;
 Fracción adicionada DOF 15-06-2012
 
-XI. Promover las acciones de inconstitucionalidad, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte, y Fracción adicionada DOF 15-06-2012
+XI. Promover las acciones de inconstitucionalidad, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte, y
+Fracción adicionada DOF 15-06-2012
 
 XII. Las demás que le señalen la presente Ley y otros ordenamientos.
 Fracción reformada y recorrida DOF 15-06-2012
@@ -180,25 +198,32 @@ Fracción reformada y recorrida DOF 15-06-2012
 .- Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades, presentadas ante la Comisión Nacional.
 
 ## Capítulo III — De la integración y facultades del Consejo
+
 Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 17
 .- El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos siete de entre ellos no deben desempeñar ningún cargo o comisión como servidor público.
 El Presidente de la Comisión Nacional lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, anualmente, durante el mes de octubre, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quién disponga el orden cronológico que deba seguirse; sin que puedan ser más de dos nombramientos, derivados por el principio de renovación anual a que se refiere este artículo.
-Párrafo reformado DOF 26-11-2001, 02-04-2014 En caso de falta absoluta de cualquier integrante del Consejo Consultivo, el Presidente de la Comisión Nacional notificará inmediatamente a la Cámara de Senadores o, en su caso, a la Comisión Permanente; y se llevará a cabo el procedimiento establecido en el artículo 18 de esta Ley, dentro de los 90 días siguientes, independientemente de la renovación anual a que se refiere este artículo y por procedimiento separado. Esta designación será por un periodo completo.
-Párrafo adicionado DOF 02-04-2014 De realizarse más de un procedimiento de selección y designación de miembros del Consejo Consultivo, en el mismo año natural a aquel en que haya participado un candidato, éste podrá acudir al segundo o ulteriores procedimientos, siempre que haya cubierto los requisitos en aquel en que participó.
-Párrafo adicionado DOF 02-04-2014 En tal caso, bastará con que manifieste su deseo e interés de volver a participar, por escrito, sin necesidad de realizar trámite de registro adicional, siempre que su manifestación se realice hasta antes de que fenezca el periodo para registrarse conforme a la convocatoria correspondiente.
-Párrafo adicionado DOF 02-04-2014 Quienes en su calidad de integrantes del Consejo Consultivo deseen ser ratificados para un segundo periodo, deberán manifestar su interés por escrito al Senado de la República o, en su caso, a la Comisión Permanente, a efecto de ser considerados en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
+Párrafo reformado DOF 26-11-2001, 02-04-2014
+En caso de falta absoluta de cualquier integrante del Consejo Consultivo, el Presidente de la Comisión Nacional notificará inmediatamente a la Cámara de Senadores o, en su caso, a la Comisión Permanente; y se llevará a cabo el procedimiento establecido en el artículo 18 de esta Ley, dentro de los 90 días siguientes, independientemente de la renovación anual a que se refiere este artículo y por procedimiento separado. Esta designación será por un periodo completo.
+Párrafo adicionado DOF 02-04-2014
+De realizarse más de un procedimiento de selección y designación de miembros del Consejo Consultivo, en el mismo año natural a aquel en que haya participado un candidato, éste podrá acudir al segundo o ulteriores procedimientos, siempre que haya cubierto los requisitos en aquel en que participó.
+Párrafo adicionado DOF 02-04-2014
+En tal caso, bastará con que manifieste su deseo e interés de volver a participar, por escrito, sin necesidad de realizar trámite de registro adicional, siempre que su manifestación se realice hasta antes de que fenezca el periodo para registrarse conforme a la convocatoria correspondiente.
+Párrafo adicionado DOF 02-04-2014
+Quienes en su calidad de integrantes del Consejo Consultivo deseen ser ratificados para un segundo periodo, deberán manifestar su interés por escrito al Senado de la República o, en su caso, a la Comisión Permanente, a efecto de ser considerados en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
 Párrafo adicionado DOF 07-11-2013
 
 ### Artículo 18
 . Para la elección de los miembros del Consejo Consultivo se aplicará lo previsto en los artículos 10 Bis y 10 Ter de esta ley y serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión con la misma votación calificada.
-Párrafo reformado DOF 25-06-2018 La comisión correspondiente de la Cámara de Senadores, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los consejeros.
+Párrafo reformado DOF 25-06-2018
+La comisión correspondiente de la Cámara de Senadores, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los consejeros.
 Artículo reformado DOF 26-11-2001
 
 ### Artículo 19
 . El Consejo Consultivo de la Comisión Nacional tendrá las siguientes facultades:
-Párrafo reformado DOF 26-11-2001 I.- Establecer los lineamientos generales de actuación de la Comisión Nacional;
+Párrafo reformado DOF 26-11-2001
+I.- Establecer los lineamientos generales de actuación de la Comisión Nacional;
 II.- Aprobar el Reglamento Interno de la Comisión Nacional;
 III.- Aprobar las normas de carácter interno relacionadas con la Comisión Nacional;
 
@@ -208,7 +233,8 @@ Fracción reformada DOF 26-11-2001
 V. Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional;
 Fracción reformada DOF 23-04-2013
 
-VI. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente; y Fracción adicionada DOF 23-04-2013
+VI. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente; y
+Fracción adicionada DOF 23-04-2013
 
 VII. Conocer el informe del Presidente de la Comisión Nacional respecto al ejercicio presupuestal.
 Fracción recorrida DOF 23-04-2013
@@ -233,7 +259,8 @@ IV. Derogada.
 Fracción derogada DOF 26-11-2001
 
 V. Derogada.
-Fracción derogada DOF 26-11-2001 VI.- Enriquecer, mantener y custodiar el acervo documental de la Comisión Nacional; y VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
+Fracción derogada DOF 26-11-2001
+VI.- Enriquecer, mantener y custodiar el acervo documental de la Comisión Nacional; y VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
 CAPITULO V DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES
 
 ### Artículo 23
@@ -241,7 +268,10 @@ CAPITULO V DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 II.- Ser mayor de treinta años de edad, el día de su nombramiento;
 III.- Tener título de Licenciado en Derecho expedido legalmente, y tener tres años de ejercicio profesional cuando menos;
-Fracción reformada DOF 25-06-2018 III Bis.- Contar con experiencia mínima de tres años en materia de derechos humanos, y Fracción adicionada DOF 25-06-2018 IV.- Ser de reconocida buena fama.
+Fracción reformada DOF 25-06-2018
+III Bis.- Contar con experiencia mínima de tres años en materia de derechos humanos, y
+Fracción adicionada DOF 25-06-2018
+IV.- Ser de reconocida buena fama.
 
 ### Artículo 24
 .- Los Visitadores Generales tendrán las siguientes facultades y obligaciones:
@@ -252,6 +282,7 @@ IV.- Realizar las investigaciones y estudios necesarios para formular los proyec
 Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
 ## CAPÍTULO VI — DEL ÓRGANO INTERNO DE CONTROL
+
 Capítulo adicionado DOF 27-01-2017
 
 ### Artículo 24
@@ -324,7 +355,9 @@ VI. No pertenecer o haber pertenecido en los cinco años anteriores a su designa
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
 VIII. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
-Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 27-01-2017 TITULO III DEL PROCEDIMIENTO ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS CAPITULO I DISPOSICIONES GENERALES
+Fracción reformada DOF 20-05-2021
+Artículo adicionado DOF 27-01-2017
+TITULO III DEL PROCEDIMIENTO ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS CAPITULO I DISPOSICIONES GENERALES
 
 ### Artículo 25
 .- Cualquier persona podrá denunciar presuntas violaciones a los derechos humanos y acudir ante las oficinas de la Comisión Nacional para presentar, ya sea directamente o por medio de representante, quejas contra dichas violaciones.
@@ -336,7 +369,8 @@ Las organizaciones no gubernamentales legalmente constituidas podrán acudir ant
 
 ### Artículo 27
 .- La instancia respectiva deberá presentarse de forma oral, por escrito o por lenguaje de señas mexicanas y podrá formularse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los cinco días siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento.
-Párrafo reformado DOF 10-06-2013, 19-01-2023 Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser trasmitidos a la Comisión Nacional sin demora alguna por los encargados de dichos centros o reclusorios o aquéllos podrán entregarse directamente a los Visitadores Generales o adjuntos.
+Párrafo reformado DOF 10-06-2013, 19-01-2023
+Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser trasmitidos a la Comisión Nacional sin demora alguna por los encargados de dichos centros o reclusorios o aquéllos podrán entregarse directamente a los Visitadores Generales o adjuntos.
 
 ### Artículo 28
 .- La Comisión Nacional designará personal de guardia para recibir y atender las reclamaciones o quejas urgentes a cualquier hora del día y de la noche.
@@ -392,6 +426,7 @@ Dichas medidas pueden ser de conservación o restitutorias, según lo requiera l
 .- Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
 ## Capítulo II — De los acuerdos y recomendaciones
+
 Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 43
@@ -407,7 +442,8 @@ Los proyectos antes referidos serán sometidos al Presidente de la Comisión Nac
 
 ### Artículo 46
 . La recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
-Párrafo reformado DOF 26-11-2001 En todo caso, una vez recibida, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
+Párrafo reformado DOF 26-11-2001
+En todo caso, una vez recibida, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
 Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
 Párrafo adicionado DOF 15-06-2012
 
@@ -544,11 +580,14 @@ Artículo adicionado DOF 27-01-2017
 ### Artículo 73
 .- Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por la Comisión Nacional, podrá solicitar la amonestación pública o privada, según el caso, al titular de la dependencia de que se trate.
 La Comisión Nacional podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales y administrativos que se integren o instruyan con motivo de su intervención en términos de la presente Ley y del artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, a través de sus visitadores generales y de los visitadores adjuntos adscritos a ellos. Esta facultad se limitará únicamente a la observación atenta del curso del asunto de que se trate hasta su resolución definitiva, sin que en ningún caso se entienda como la posibilidad de intervenir como parte en aquéllos, haciendo o promoviendo las diligencias conducentes para su resolución.
-Párrafo adicionado DOF 30-06-2006 En caso de que algún servidor público en respuesta a un requerimiento de información formulado por la Comisión Nacional rindiera informes falsos o parcialmente verdaderos, se le sancionará en los Párrafo adicionado DOF 30-06-2006
+Párrafo adicionado DOF 30-06-2006
+En caso de que algún servidor público en respuesta a un requerimiento de información formulado por la Comisión Nacional rindiera informes falsos o parcialmente verdaderos, se le sancionará en los
+Párrafo adicionado DOF 30-06-2006
 
 ### Artículo 73
 bis.- La Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
-Artículo adicionado DOF 15-06-2012 TITULO V DEL REGIMEN LABORAL CAPITULO UNICO
+Artículo adicionado DOF 15-06-2012
+TITULO V DEL REGIMEN LABORAL CAPITULO UNICO
 
 ### Artículo 74
 .- El personal que preste sus servicios a la Comisión Nacional de Derechos Humanos se regirá por las disposiciones del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal de los Trabajadores al Servicio del Estado. Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -587,7 +626,7 @@ Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de l
 México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones y rubros de la Ley de la Comisión Nacional de Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 26 de noviembre de 2001 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES Y RUBROS DE LA LEY DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS QUE COMPRENDEN LOS ARTÍCULOS 2o., 3o., PÁRRAFO CUARTO, 6o., FRACCIONES III Y V; 9o., FRACCIONES I A VII; 10, ADICIONANDO UN PÁRRAFO SEGUNDO; 11; 14; 15, FRACCIONES IV, V Y VII; 17, PÁRRAFO
-**SEGUNDO.** ; 18; 19, PRIMER PÁRRAFO Y FRACCIÓN IV; 22; 46, PRIMER PÁRRAFO, Y 52.
+**SEGUNDO.-** ; 18; 19, PRIMER PÁRRAFO Y FRACCIÓN IV; 22; 46, PRIMER PÁRRAFO, Y 52.
 
 ### ARTÍCULO PRIMERO
 : Se modifica la denominación de la Ley para quedar como sigue: Ley de la Comisión Nacional de los Derechos Humanos.
@@ -600,10 +639,10 @@ Publicado en el Diario Oficial de la Federación el 26 de noviembre de 2001 SE R
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** En el informe correspondiente al año 2001, éste abarcará desde el día 16 de noviembre de 2000 hasta el 31 de diciembre de 2001.
-**TERCERO.** Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
-**CUARTO.** Toda referencia que se haga en ésta y en otras disposiciones legales a la Comisión Nacional de Derechos Humanos y al Consejo de la Comisión Nacional de Derechos Humanos, deberán entenderse hechas a la Comisión Nacional de los Derechos Humanos y al Consejo Consultivo respectivamente.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** En el informe correspondiente al año 2001, éste abarcará desde el día 16 de noviembre de 2000 hasta el 31 de diciembre de 2001.
+**TERCERO.-** Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+**CUARTO.-** Toda referencia que se haga en ésta y en otras disposiciones legales a la Comisión Nacional de Derechos Humanos y al Consejo de la Comisión Nacional de Derechos Humanos, deberán entenderse hechas a la Comisión Nacional de los Derechos Humanos y al Consejo Consultivo respectivamente.
 México, D.F., a 6 de noviembre de 2001.- Sen. Diego Fernández de Cevallos, Presidente.- Dip.
 Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara I. Castellanos C., Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -671,7 +710,7 @@ Se reforma el artículo 29 y se adiciona una fracción VI, recorriéndose la act
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 14 de marzo de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciocho de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma la fracción XII del artículo 6o. de la Ley de la Comisión Nacional de los Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2013
@@ -701,7 +740,7 @@ Se adiciona un último párrafo al artículo 17 de la Ley de la Comisión Nacion
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de septiembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 17 de la Ley de la Comisión Nacional de los Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
@@ -711,7 +750,7 @@ Se reforma el párrafo segundo y se adiciona un párrafo tercero, un párrafo cu
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 5 de marzo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
@@ -721,14 +760,14 @@ Se reforma el artículo 72, segundo párrafo, se adicionan un Capítulo VI denom
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
-**Tercero.** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
-**Cuarto.** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
-**Quinto.** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
-**Sexto.** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
-**Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+**Tercero.-** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+**Cuarto.-** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+**Quinto.-** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+**Sexto.-** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+**Séptimo.-** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
@@ -738,34 +777,34 @@ Se adiciona la fracción XI Bis al artículo 6o. de la Ley de la Comisión Nacio
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
 Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la presente Ley.
 Los procedimientos iniciados antes de la vigencia de la presente ley continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
-**Tercero.** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
-**Cuarto.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-**Quinto.** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+**Tercero.-** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
+**Cuarto.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Quinto.-** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.
-**Sexto.** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
-**Séptimo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-**Octavo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
-**Noveno.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
+**Sexto.-** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+**Séptimo.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Octavo.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+**Noveno.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
 De la misma manera, dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, deberán expedir los lineamientos de carácter general que determinen las modalidades y procedimientos que deberán seguir durante las visitas.
 La persona titular del Mecanismo Nacional de Prevención realizará el nombramiento del Director Ejecutivo dentro de los noventa días siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
 La elección de los integrantes del Comité Técnico a que se refiere la fracción II del artículo 73 de esta Ley, se hará por única ocasión, atendiendo a la gradualidad siguiente:
 De las cuatro personas expertas elegidas, dos durarán en su encargo dos años y las otras dos durarán cuatro años, situación que será definida por el Senado conforme a la votación por mayoría; lo anterior para que exista sustitución escalonada en la integración del Comité Técnico, por lo que a partir de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los sustituyan serán elegidos en los términos de la ley por cuatro años.
 El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
-**Décimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-**Décimo Primero.** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
-**Décimo Segundo.** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
-**Décimo Tercero.** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+**Décimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+**Décimo Primero.-** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+**Décimo Segundo.-** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+**Décimo Tercero.-** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, será competente la Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior.
 En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa, correspondiente.
-**Décimo Cuarto.** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
-**Décimo Quinto.** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
-**Décimo Sexto.** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+**Décimo Cuarto.-** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+**Décimo Quinto.-** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+**Décimo Sexto.-** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se adiciona una fracción III Bis al artículo 23 de la Ley de la Comisión Nacional de los Derechos Humanos.
@@ -793,39 +832,39 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma el artículo 27 de la Ley de la Comisión Nacional de los Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
@@ -835,7 +874,7 @@ Se reforma el párrafo primero del artículo 27 de la Ley de la Comisión Nacion
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
@@ -847,7 +886,7 @@ Se reforma el primer párrafo y se adiciona un tercer párrafo al artículo 5o. 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforma la fracción XII del artículo 6o. de la Ley de la Comisión Nacional de los Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024

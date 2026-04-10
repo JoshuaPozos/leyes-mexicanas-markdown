@@ -18,6 +18,7 @@ Se expide la Ley Federal de Remuneraciones de los Servidores Públicos.
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es reglamentaria de los artículos 75 y 127, así como, en lo conducente, del 74, fracción IV, y del 126 de la Constitución Política de los Estados Unidos Mexicanos y tiene por objeto regular las remuneraciones de los servidores públicos de la Federación, sus entidades y dependencias, así como de sus administraciones paraestatales, fideicomisos, instituciones y organismos dotados de autonomía, empresas productivas del Estado y cualquier otro ente público federal.
 La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Federal, corresponde a la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Función Pública, dentro de sus respectivas atribuciones.
@@ -141,6 +142,7 @@ Se exceptúa de esta obligación al personal de base y supernumerario de las ent
 
 ## Capítulo II — De la determinación de las remuneraciones
 
+
 ### Artículo 9
 . Ningún servidor público obligado por la presente Ley recibirá una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión igual o mayor a la Remuneración Anual Máxima que tenga derecho a recibir el Presidente de la República por concepto de percepciones ordinarias, sin considerar las prestaciones de seguridad social a las cuales tenga derecho conforme a la legislación en la materia.
 
@@ -236,6 +238,7 @@ Cuando se acredita que un servidor público declaró con falsedad respecto de la
 
 ## Capítulo III — De la presupuestación de las remuneraciones
 
+
 ### Artículo 20
 . La determinación de las remuneraciones a que se refiere esta Ley se realiza bajo los límites y parámetros dispuestos en la misma, y con sujeción al control presupuestal de los servicios personales.
 Con base en lo dispuesto en el párrafo anterior, las estructuras organizacionales deberán alinearse a las remuneraciones mediante un sistema de valuación de puestos, expresado como una metodología que confiera valores conforme a las funciones y al grado de responsabilidad que se desempeñan en cada puesto.
@@ -263,6 +266,7 @@ Para los efectos del párrafo anterior, los ejecutores de gasto público federal
 
 ## Capítulo IV — De las percepciones por retiro y otras prestaciones
 
+
 ### Artículo 26
 . No se concederán ni cubrirán jubilaciones, pensiones, haberes de retiro o pagos de semejante naturaleza por servicios prestados en el desempeño de la función pública sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, conforme lo prescrito en la fracción IV del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, son nulas de pleno derecho las jubilaciones o pensiones, en términos de las disposiciones aplicables, los haberes de retiro o pagos semejantes que se encontraran en curso de pago sin haber sido concedidas con base en los instrumentos jurídicos señalados.
 
@@ -281,6 +285,7 @@ Los conceptos descritos en el párrafo precedente no se hacen extensivos a favor
 Las remuneraciones, incluyendo prestaciones o beneficios económicos, establecidas en contratos colectivos de trabajo, contratos ley o condiciones generales de trabajo que por mandato de la ley que regula la relación jurídico laboral se otorgan a los servidores públicos que ocupan puestos de los niveles descritos en el párrafo anterior se fijan en un capítulo específico de dichos instrumentos y se incluyen en los tabuladores respectivos. Tales remuneraciones sólo se mantienen en la medida en que la remuneración total del servidor público no excede los límites máximos previstos en la Constitución y el Presupuesto de Egresos.
 
 ## Capítulo V — Del control, las responsabilidades y las sanciones
+
 
 ### Artículo 30
 . Cualquier persona puede formular denuncia ante el sistema de denuncias públicas de faltas administrativas y hechos de corrupción o ante el órgano de control interno de los entes definidos por el artículo 2 de esta Ley respecto de las conductas de los servidores públicos que sean consideradas contrarias a las disposiciones contenidas en la misma, para el efecto de que se inicie el procedimiento de responsabilidad correspondiente, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas.
@@ -307,9 +312,9 @@ Las sanciones administrativas se impondrán independientemente de aquéllas civi
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se exceptúa de la aplicación del artículo 9 de la presente Ley a los servidores públicos aludidos en el Artículo Tercero Transitorio del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 24 de agosto de 2009, que se encuentren en funciones a la entrada en vigor del presente Decreto y hasta la conclusión de su respectivo periodo.
-**Tercero.** Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
-**Cuarto.** Se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018.
-**Quinto.** Para la determinación de la Remuneración Anual Máxima aplicable para el ejercicio fiscal de 2022 conforme a lo previsto en el artículo 12, inciso b), de esta Ley, se tomará como base la aprobada para el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2021.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se exceptúa de la aplicación del artículo 9 de la presente Ley a los servidores públicos aludidos en el Artículo Tercero Transitorio del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 24 de agosto de 2009, que se encuentren en funciones a la entrada en vigor del presente Decreto y hasta la conclusión de su respectivo periodo.
+**Tercero.-** Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
+**Cuarto.-** Se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el 5 de noviembre de 2018.
+**Quinto.-** Para la determinación de la Remuneración Anual Máxima aplicable para el ejercicio fiscal de 2022 conforme a lo previsto en el artículo 12, inciso b), de esta Ley, se tomará como base la aprobada para el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2021.
 Ciudad de México, a 27 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

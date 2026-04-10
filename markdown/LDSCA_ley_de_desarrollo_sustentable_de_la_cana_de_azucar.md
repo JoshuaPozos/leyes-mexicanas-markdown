@@ -124,10 +124,12 @@ CAPITULO II Del Comité Nacional para el Desarrollo Sustentable de la Caña de A
 
 ## Sección Primera — De la denominación, objeto y domicilio.
 
+
 ### Artículo 9
 .- En términos de lo dispuesto en el Artículo 14 de la Ley Federal de las Entidades Paraestatales, se constituye el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar como un organismo público descentralizado, dependiente de la Administración Pública Federal, cuyo objeto será la coordinación y la realización de todas las actividades previstas en esta Ley relacionadas con la agroindustria de la caña de azúcar; su domicilio legal será la Ciudad de México, Distrito Federal.
 
 ## Sección Segunda — De las atribuciones
+
 
 ### Artículo 10
 .- El Comité Nacional, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
@@ -191,6 +193,7 @@ XXVIII. Invitar a los centros de investigación, instituciones de educación sup
 XXIX. Las demás que se señalen en esta Ley.
 
 ## Sección Tercera — De los Órganos de Administración del Comité Nacional
+
 
 ### Artículo 11
 .- La administración del Comité Nacional estará a cargo de:
@@ -346,6 +349,7 @@ XXVII. Las demás que le confiera la presente Ley y las disposiciones legales ap
 
 ## Sección Cuarta — Del Patrimonio del Comité Nacional
 
+
 ### Artículo 18
 .- El patrimonio del Comité Nacional se integrará con:
 
@@ -361,6 +365,7 @@ V. Los intereses, rendimientos y en general, todo ingreso que adquiera por cualq
 
 ## Sección Quinta — De la Vigilancia
 
+
 ### Artículo 19
 .- La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de la Función Pública; lo anterior sin perjuicio de que el Comité Nacional integre en su estructura su propio órgano interno de control.
 
@@ -368,6 +373,7 @@ V. Los intereses, rendimientos y en general, todo ingreso que adquiera por cualq
 .- El Comisario evaluará el desempeño general y por funciones del Comité Nacional, realizará estudios sobre la eficiencia con la que se ejerzan las erogaciones de los gastos corriente y de inversión, así como lo referente a los ingresos y en general solicitará toda la información para efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne de conformidad con la ley. Para el adecuado cumplimiento de sus funciones, la Junta Directiva y el Director General, deberán proporcionar la información que solicite el Comisario.
 
 ## Sección Sexta — De las relaciones laborales
+
 
 ### Artículo 21
 .- Las relaciones de trabajo entre el organismo descentralizado y su personal, se regirán por la legislación que dispone el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -496,13 +502,14 @@ CAPITULO III De las Organizaciones Nacionales de Abastecedores de Caña
 ### Artículo 38
 .- Las organizaciones nacionales de Abastecedores de Caña de azúcar deberán estar debidamente inscritas ante el Registro.
 Para su debido registro, deberán exhibir dos copias del padrón de Abastecedores de Caña asociados que deberán actualizar anualmente. La certificación del padrón se basará en el registro de afiliaciones de
-
 zaciones locales, sancionadas por el Comité de cada uno de los Ingenios. jeto de fomentar la constitución de nuevas organizaciones nacionales de Abastec única vez el Servicio Nacional del Registro Agropecuario podrá otorgar a orga de Abastecedores de Caña registro condicionado durante los ciclos 2005-2006 y * rá ser definitivo siempre y cuando dichas Organizaciones demuestren que sus orga án constituidas en términos del artículo 34 de esta Ley, y:
 Contar inicialmente con el 5% de la membresía del Padrón Nacional de Abastet Caña, el 5% de la producción nacional de caña y tener presencia al menos Estados productores de caña de azúcar, y Contar con presencia en Estados productores de caña de azúcar y con el por membresía y de producción nacional durante los ciclos azucareros siguientes:
 Ciclo Azucarero Porcentaje de Número de Estados Abastecedores de Caña y Cañeros en los que de Producción Nacional deberá tener presencia con organización local
-| 2005-2006 5% | 4aX |
-2006-2007 — _e 7 2008-2009 7 2009-2010 10% | 8 |
 
+| 2005-2006 5% | 4aX |
+| --- | --- |
+
+2006-2007 — _e 7 2008-2009 7 2009-2010 10% | 8 |
 Si en cualquier ciclo de los mencionados, la organización nacional que tenga registro condicionado acredita cumplir con los requisitos previstos en el párrafo segundo de este artículo, obtendrá su registro definitivo; en caso de no cumplirlos perderá el registro condicionado.
 La organización nacional con registro condicionado, tendrá derecho a participar con voz y sin voto en el Comité Nacional y en la Junta Permanente, hasta en tanto no obtenga su registro definitivo.
 
@@ -1161,9 +1168,9 @@ MINISTRO PONENTE: JUAN N. SILVA MEZA.
 SECRETARIA: GUILLERMINA COUTIÑO MATA.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día nueve de julio de dos mil siete.
 VISTOS; y RESULTANDO:
-**PRIMERO.** A DECIMO.- ……….
+**PRIMERO.-** A DECIMO.- ……….
 CONSIDERANDO:
-**PRIMERO.** A QUINTO.- ……….
+**PRIMERO.-** A QUINTO.- ……….
 **SEXTO.-** ……….
 En consecuencia, se declara la invalidez del artículo 50, en la porción normativa de su segundo párrafo que señala: “así como a la jurisdicción de la Junta Permanente”; del artículo 56 en su integridad, el que prevé que “Los Ingenios y sus Abastecedores de Caña se someterán expresamente a la jurisdicción de la Junta Permanente con el objeto de dirimir las controversias que surjan con motivo del incumplimiento de lo establecido en la presente Ley y del Contrato que celebren y demás disposiciones derivadas y relacionadas”; y el artículo 125, en su integridad, el que señala: “Para la resolución de las controversias azucareras que se susciten, los Abastecedores de Caña y los Industriales deberán someterse a la jurisdicción de la Junta Permanente, a petición de parte, en los términos establecidos en esta Ley, en el Contrato y demás disposiciones derivadas.-- Las partes deberán cumplir con las resoluciones que dicte la Junta Permanente, una vez que causen estado”, todos de la Ley de Desarrollo Sustentable de la Caña de Azúcar, esta declaratoria de invalidez surtirá efectos al día siguiente de la publicación de la presente ejecutoria, en el Diario Oficial de la Federación.
 SEPTIMO A DECIMO.- ……….
@@ -1176,7 +1183,7 @@ Por lo expuesto y fundado se resuelve:
 **SEXTO.-** Publíquese esta sentencia en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
 Puesto a votación el proyecto modificado, por unanimidad de nueve votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia se aprobaron: el Resolutivo Primero; el Resolutivo Segundo, excepto la declaración de invalidez del artículo 87, la que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Valls Hernández y Silva Meza y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; el Resolutivo Tercero; el Resolutivo Cuarto, excepto el reconocimiento de validez de los artículos 57 y 58, el que se aprobó por mayoría de cinco votos de los señores Ministros Franco González Salas, Góngora Pimentel, Azuela Güitrón, Valls Hernández y Silva Meza, votaron en contra los señores Ministros Aguirre Anguiano, Gudiño Pelayo, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el reconocimiento de validez del artículo 98, el que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Góngora Pimentel y Gudiño Pelayo y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el Resolutivo
-**Quinto.** En virtud de que la declaración de invalidez del artículo 87 no obtuvo la votación calificada de ocho votos, de conformidad con lo dispuesto en el artículo 105, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del artículo 105 constitucional, deberá desestimarse la acción de inconstitucionalidad respecto de dicho precepto legal y redactarse el resolutivo y el considerando respectivos.- No asistieron la señora Ministra Margarita Luna Ramos por estar cumpliendo con una comisión de carácter oficial, y el señor Ministro José Ramón Cossío Díaz, por estar disfrutando de vacaciones en virtud de haber integrado la Comisión de Receso del Segundo Período de Sesiones de dos mil seis.
+**Quinto.-** En virtud de que la declaración de invalidez del artículo 87 no obtuvo la votación calificada de ocho votos, de conformidad con lo dispuesto en el artículo 105, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del artículo 105 constitucional, deberá desestimarse la acción de inconstitucionalidad respecto de dicho precepto legal y redactarse el resolutivo y el considerando respectivos.- No asistieron la señora Ministra Margarita Luna Ramos por estar cumpliendo con una comisión de carácter oficial, y el señor Ministro José Ramón Cossío Díaz, por estar disfrutando de vacaciones en virtud de haber integrado la Comisión de Receso del Segundo Período de Sesiones de dos mil seis.
 Firman el Ministro Presidente de la Suprema Corte de Justicia de la Nación Guillermo I. Ortíz Mayagoitia, y el Ministro Ponente Juan N. Silva Meza y el Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos, que autoriza y da fe.
 Presidente Guillermo I. Ortiz Mayagoitia.- Rúbrica.- Ministro Ponente: Juan N. Silva Meza.Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de ochenta y ocho fojas útiles, concuerda fiel y exactamente con su original que corresponde a la sentencia de nueve de julio último dictada en la acción de inconstitucionalidad 27/2005 promovida por el Procurador General de la República en contra del Congreso de la Unión y el Presidente de la República. Se certifica para su publicación en el Diario Oficial de la Federación, en cumplimiento a lo ordenado por el Tribunal Pleno de esta Suprema Corte de Justicia de la Nación en el punto Sexto resolutivo de dicha sentencia.México, Distrito Federal, a siete de noviembre de dos mil siete.- Conste.- Rúbrica.
@@ -1190,12 +1197,12 @@ Se reforman los artículos 118, segundo párrafo y, 149 de la Ley de Desarrollo 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

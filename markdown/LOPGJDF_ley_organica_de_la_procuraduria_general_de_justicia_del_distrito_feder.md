@@ -399,6 +399,7 @@ TITULO SEGUNDO DE LAS BASES DE ORGANIZACIÓN DE LA PROCURADURÍA
 
 ## CAPÍTULO I — UNIDADES ADMINISTRATIVAS QUE INTEGRAN LA PROCURADURÍA
 
+
 ### Artículo 21
 . (Autoridad jerárquica de la Procuraduría). El Procurador General de Justicia del Distrito Federal, titular de la institución del Ministerio Público, ejercerá autoridad jerárquica sobre todo el personal de la Institución.
 Para el despacho de los asuntos que competen a la institución, y de conformidad con el presupuesto que se le asigne, la Procuraduría contará con las unidades administrativas y los servidores públicos siguientes:
@@ -819,6 +820,7 @@ CAPITULO V DE LA VISITADURIA MINISTERIAL
 TITULO TERCERO DEL INGRESO Y PERMANENCIA DEL PERSONAL SUSTANTIVO
 
 ## CAPÍTULO I — DEL MINISTERIO PÚBLICO
+
 
 ### Artículo 36
 . (Requisitos para ingresar y permanecer como Agente del Ministerio Público). Para ingresar y permanecer como Agente del Ministerio Público dentro del Servicio Profesional de Carrera, se requiere:
@@ -1423,9 +1425,9 @@ MINISTRO PONENTE: SERGIO A. VALLS HERNANDEZ.
 SECRETARIA: LAURA GARCIA VELASCO.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al nueve de enero de dos mil doce.
 VISTOS; Y RESULTANDO:
-**PRIMERO.** A OCTAVO.- ……….
+**PRIMERO.-** A OCTAVO.- ……….
 CONSIDERANDO
-**PRIMERO.** A OCTAVO.- ……….
+**PRIMERO.-** A OCTAVO.- ……….
 Por lo expuesto y fundado, se resuelve:
 **PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad.
 **SEGUNDO.-** Se declara la invalidez de los artículos 36, fracción I; 37, fracción I; y, 39, fracción I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, en las respectivas porciones normativas que indican “por nacimiento”; la que surtirá efectos a partir de la fecha de notificación de los presentes puntos resolutivos al Congreso de la Unión.

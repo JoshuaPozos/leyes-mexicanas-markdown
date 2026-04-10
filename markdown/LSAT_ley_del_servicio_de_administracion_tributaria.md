@@ -16,7 +16,9 @@ Ley del Servicio de Administración Tributaria
 
 ## Título Primero — De la Naturaleza, Objeto y Atribuciones
 
+
 ## Capítulo I — De la Naturaleza y Objeto
+
 
 ### Artículo 1o
 . El Servicio de Administración Tributaria es un órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, con el carácter de autoridad fiscal, y con las atribuciones y facultades ejecutivas que señala esta Ley.
@@ -51,6 +53,7 @@ En caso de que los recursos asignados conforme al párrafo anterior no se ejerza
 Con base en la información y requerimientos que al efecto presente el Servicio de Administración Tributaria, la Tesorería de la Federación hará las previsiones necesarias para devolver a los contribuyentes, por cuenta de la Secretaría de Hacienda y Crédito Público, las cantidades que, en su caso, corresponda. El Servicio de Administración Tributaria y la Tesorería de la Federación convendrán, de conformidad con las disposiciones jurídicas aplicables, los plazos y las condiciones bajo los cuales se efectuarán dichas devoluciones.
 
 ## Capítulo II — De las Atribuciones
+
 
 ### Artículo 7o
 . El Servicio de Administración Tributaria tendrá las atribuciones siguientes:
@@ -94,7 +97,8 @@ Fracción adicionada DOF 12-06-2003
 XVI. Emitir las disposiciones de carácter general necesarias para el ejercicio eficaz de sus facultades, así como para la aplicación de las leyes, tratados y disposiciones que con base en ellas se expidan.
 Fracción adicionada DOF 12-06-2003
 
-XVII. Emitir los marbetes y los precintos que los contribuyentes deban utilizar cuando las leyes fiscales los obliguen, y Fracción adicionada DOF 12-06-2003
+XVII. Emitir los marbetes y los precintos que los contribuyentes deban utilizar cuando las leyes fiscales los obliguen, y
+Fracción adicionada DOF 12-06-2003
 
 XVIII. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
 Fracción adicionada DOF 12-06-2003
@@ -115,29 +119,35 @@ Artículo adicionado DOF 12-06-2003
 
 ### Artículo 7o
 .-D. El Comité a que se refiere el artículo 7o.-B se integrará por ocho personas expertas en artes plásticas, que serán nombrados por la Junta de Gobierno, un representante del Servicio de Administración Tributaria y un representante de la Secretaría de Cultura. Los dos representantes mencionados en último término tendrán voz pero no voto.
-Párrafo reformado DOF 17-12-2015 Los miembros del Comité que tengan derecho a voto, durarán en su encargo cuatro años y no podrán ser designados para formar parte del Comité dentro de los cuatro años siguientes a la fecha en que dejaron de formar parte del mismo. Las vacantes que se den en el Comité de los integrantes con derecho a voto serán ocupadas por las personas que designe el propio Comité. La designación de miembros para cubrir las vacantes que se produzcan antes de la terminación del periodo por el que fue designado el miembro a sustituir, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
+Párrafo reformado DOF 17-12-2015
+Los miembros del Comité que tengan derecho a voto, durarán en su encargo cuatro años y no podrán ser designados para formar parte del Comité dentro de los cuatro años siguientes a la fecha en que dejaron de formar parte del mismo. Las vacantes que se den en el Comité de los integrantes con derecho a voto serán ocupadas por las personas que designe el propio Comité. La designación de miembros para cubrir las vacantes que se produzcan antes de la terminación del periodo por el que fue designado el miembro a sustituir, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
 El Comité establecerá el reglamento para su funcionamiento interno y la conformación de su estructura orgánica.
 Artículo adicionado DOF 12-06-2003
 
 ## Título Segundo — De la Organización
 
+
 ## Capítulo I — De los Organos
+
 
 ### Artículo 8o
 . Para la consecución de su objeto y el ejercicio de sus atribuciones, el Servicio de Administración Tributaria contará con los órganos siguientes:
 
 I. Junta de Gobierno;
 
-II. Jefe, y Fracción reformada DOF 12-06-2003
+II. Jefe, y
+Fracción reformada DOF 12-06-2003
 
 III. Las unidades administrativas que establezca su reglamento interior.
 
 ## Capítulo II — De la Junta de Gobierno
 
+
 ### Artículo 9o
 . La Junta de Gobierno del Servicio de Administración Tributaria se integrará por:
 
-I. El Secretario de Hacienda y Crédito Público y tres consejeros designados por él de entre los empleados superiores de Hacienda. El Secretario de Hacienda y Crédito Público presidirá la Junta de Gobierno y podrá ser suplido por otro empleado superior de Hacienda que sea distinto de los designados para integrar la Junta de Gobierno, y Fracción reformada DOF 12-06-2003
+I. El Secretario de Hacienda y Crédito Público y tres consejeros designados por él de entre los empleados superiores de Hacienda. El Secretario de Hacienda y Crédito Público presidirá la Junta de Gobierno y podrá ser suplido por otro empleado superior de Hacienda que sea distinto de los designados para integrar la Junta de Gobierno, y
+Fracción reformada DOF 12-06-2003
 
 II. Tres consejeros independientes, designados por el Presidente de la República, dos de éstos a propuesta de la Reunión Nacional de Funcionarios Fiscales a que hace referencia la Ley de Coordinación Fiscal. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la administración tributaria, federal o estatal, y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan contribuir a mejorar la eficiencia de la administración tributaria y la atención al contribuyente.
 Al aceptar el cargo cada consejero independiente deberá suscribir un documento donde declare bajo protesta de decir verdad que no tiene impedimento alguno para desempeñarse como consejero, así como aceptar los derechos y obligaciones derivados de tal cargo, sin que por ello se le considere servidor público en los términos de la legislación aplicable.
@@ -199,13 +209,15 @@ Fracción adicionada DOF 12-06-2003
 
 ### Artículo 11
 . La Junta de Gobierno celebrará sesiones ordinarias por lo menos una vez cada tres meses y extraordinarias cuando así lo proponga el Secretario de Hacienda y Crédito Público o el Jefe del Servicio de Administración Tributaria. Para que la Junta de Gobierno sesione válidamente, se requerirá la asistencia de más de la mitad de sus integrantes.
-Párrafo reformado DOF 12-06-2003 Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de los integrantes presentes. El Secretario de Hacienda y Crédito Público tendrá voto de calidad en caso de empate.
+Párrafo reformado DOF 12-06-2003
+Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de los integrantes presentes. El Secretario de Hacienda y Crédito Público tendrá voto de calidad en caso de empate.
 
 ### Artículo 12
 . El Servicio de Administración Tributaria contará con un Contralor Interno, quien podrá asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto, así como con una unidad administrativa encargada de planear, programar, presupuestar, controlar y evaluar sus actividades respecto al gasto público y su organización interna.
 El Servicio de Administración Tributaria realizará periódicamente una evaluación de la administración tributaria en función de los objetivos y metas aprobados, haciendo del conocimiento del Congreso de la Unión trimestralmente, los resultados obtenidos, dentro del informe sobre la situación económica y las finanzas públicas que presenta el Ejecutivo Federal.
 
 ## Capítulo III — De la Presidencia
+
 
 ### Artículo 13
 . El Jefe del Servicio de Administración Tributaria será nombrado por el Presidente de la República. Este nombramiento estará sujeto a la ratificación del Senado de la República o, en su caso, de la Comisión Permanente del Congreso de la Unión, y deberá reunir los requisitos siguientes:
@@ -216,7 +228,8 @@ I. Ser ciudadano mexicano;
 II. Poseer al día de la designación, título profesional en las áreas de derecho, administración, economía, contaduría o materias afines, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello; así como contar con experiencia probada y estudios en materia fiscal, aduanera, financiera o alguna otra materia relacionada;
 Fracción reformada DOF 12-06-2003, 04-12-2018
 
-III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y Fracción reformada DOF 12-06-2003
+III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
+Fracción reformada DOF 12-06-2003
 
 IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo dentro de la Federación, Entidades Federativas, Municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, empresas productivas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
 Fracción adicionada DOF 12-06-2003. Reformada DOF 04-12-2018
@@ -263,6 +276,7 @@ IX. Aquéllas que le ordene o, en su caso, delegue, la Junta de Gobierno y las d
 Durante los primeros cuarenta y cinco días de cada año, el Presidente del Servicio de Administración Tributaria enviará al Congreso de la Unión, y en los recesos de este último, a su Comisión Permanente, una exposición sobre los programas a ejecutar por el órgano, la información relacionada con el presupuesto correspondiente a dicho ejercicio y la información sobre la actividad recaudatoria correspondiente al ejercicio inmediato anterior, en el contexto de la situación económica nacional.
 
 ## Título Tercero — Del Servicio Fiscal de Carrera
+
 Capítulo Unico
 
 ### Artículo 15
@@ -295,6 +309,7 @@ V. Integridad, responsabilidad y conducta adecuada de los funcionarios fiscales,
 El régimen específico del Servicio Fiscal de Carrera quedará establecido en el Estatuto del Servicio Fiscal de Carrera que para tales efectos expida la Junta de Gobierno.
 
 ## Título Cuarto — De las Disposiciones Generales
+
 Capítulo Unico
 
 ### Artículo 19
@@ -316,10 +331,14 @@ Los contribuyentes beneficiados por esta excepción recibirán un apercibimiento
 Artículo adicionado DOF 12-06-2003
 
 ## Título Quinto
-"De la Información, la Transparencia y la Evaluación de la Eficiencia Recaudatoria y de Fiscalización" Título adicionado DOF 12-06-2003
+
+"De la Información, la Transparencia y la Evaluación de la Eficiencia Recaudatoria y de Fiscalización"
+Título adicionado DOF 12-06-2003
 
 ## Capítulo I
-"De la Información y la Transparencia" Capítulo adicionado DOF 12-06-2003
+
+"De la Información y la Transparencia"
+Capítulo adicionado DOF 12-06-2003
 
 ### Artículo 21
 . Anualmente, el Servicio de Administración Tributaria deberá elaborar y hacer público un programa de mejora continua que establezca metas específicas sobre los siguientes aspectos:
@@ -440,6 +459,7 @@ Artículo adicionado DOF 12-06-2003
 Artículo adicionado DOF 12-06-2003
 
 ## Capítulo II — De la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
+
 Capítulo adicionado DOF 12-06-2003
 
 ### Artículo 28
@@ -467,9 +487,11 @@ Artículo adicionado DOF 12-06-2003
 Artículo adicionado DOF 12-06-2003
 
 ## Título Sexto — De la Responsabilidad del Servicio de Administración Tributaria
+
 Título adicionado DOF 12-06-2003
 
 ## Capítulo Único
+
 Capítulo adicionado DOF 12-06-2003
 
 ### Artículo 34
@@ -497,7 +519,8 @@ I. Carezca por completo de fundamentación o motivación,
 II. No sea congruente con la cuestión, solicitud o petición efectivamente planteada por el contribuyente, o
 
 III. Se acredite en el procedimiento de responsabilidades que al servidor público le son imputables conductas que atentan contra la independencia de criterio que debió guardar al resolver el procedimiento de que se trate, es decir, que aceptó consignas, presiones, encargos, comisiones, o bien, que realizó cualquier otra acción que genere o implique subordinación respecto del promovente o peticionario, ya sea de manera directa o a través de interpósita persona.
-Artículo adicionado DOF 06-05-2009 T r a n s i t o r i o s Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
+Artículo adicionado DOF 06-05-2009
+T r a n s i t o r i o s Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
 Segundo. A partir de la entrada en vigor de esta Ley, quedan derogados los artículos 33, fracción III, y 70 bis del Código Fiscal de la Federación y 201 de la Ley Aduanera. La Secretaría de Hacienda y Crédito Público establecerá mecanismos para que las percepciones de los trabajadores no sufran menoscabo.
 Tercero. Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Hacienda y Crédito Público o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria cuando se trate de atribuciones vinculadas con la materia objeto de la presente Ley, su reglamento interior o cualquier otra disposición jurídica que emane de ellos.
 Cuarto. Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaría de Ingresos de la Secretaría de Hacienda y Crédito Público que pasen a formar parte del Servicio de Administración Tributaria, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Tributaria o serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la presente Ley, su reglamento interior y cualquier otra disposición jurídica que emane de ellos.
@@ -575,7 +598,7 @@ Se adiciona el artículo 35 a la Ley del Servicio de Administración Tributaria,
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 31 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
@@ -586,8 +609,8 @@ PRIMERO. Se reforma el artículo 28 de la Ley del Servicio de Administración Tr
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
@@ -597,19 +620,19 @@ Se REFORMA el artículo 7o.-D, párrafo primero de la Ley del Servicio de Admini
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo 13 de la Ley del Servicio de Administración Tributaria.
@@ -620,7 +643,7 @@ Se reforman las fracciones II y IV del artículo 13 de la Ley del Servicio de Ad
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de noviembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip.
 Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Héctor René Cruz Aparicio, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los cuatro días del mes de diciembre de dos mil dieciocho.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra.
 Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

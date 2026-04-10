@@ -18,7 +18,9 @@ Se expide la Ley de la Comisión Nacional de Energía, para quedar como sigue:
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único
+
 Naturaleza y objeto
 
 ### Artículo 1
@@ -50,7 +52,9 @@ IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y 
 
 ## TÍTULO SEGUNDO — ATRIBUCIONES DE LA COMISIÓN Y LAS BASES DE COORDINACIÓN
 
+
 ## Capítulo I
+
 Atribuciones de la Comisión Nacional de Energía
 
 ### Artículo 7
@@ -138,6 +142,7 @@ V. El acopio, resguardo, uso, administración y actualización, así como la pub
 VI. Las demás que le confiera esta Ley y otros ordenamientos jurídicos aplicables, así como las que le delegue la Secretaría relacionadas con el sector.
 
 ## Capítulo II
+
 Coordinación con otras autoridades
 
 ### Artículo 10
@@ -149,7 +154,9 @@ La Comisión debe promover, en coordinación con la Agencia Nacional de Segurida
 
 ## TÍTULO TERCERO — DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN
 
+
 ## Capítulo I — De la organización e integración de la Comisión
+
 
 ### Artículo 12
 .- La Comisión debe ser dirigida y administrada por una Dirección General. Para el mejor desempeño de sus funciones y transparentar el otorgamiento de permisos y la emisión de la regulación de las actividades de su competencia, debe contar con un Comité Técnico para que dichas decisiones sean colegiadas.
@@ -159,6 +166,7 @@ La Comisión debe promover, en coordinación con la Agencia Nacional de Segurida
 Su estructura debe optimizar los recursos humanos, financieros y materiales en el marco de la austeridad; simplificar los procesos administrativos; evitar la duplicidad de funciones y cumplir con los principios de eficiencia y transparencia.
 
 ## Capítulo II — De la Dirección General
+
 
 ### Artículo 14
 .- La Comisión está a cargo de la persona titular de la Dirección General quien es nombrada y removida libremente por la persona titular del Ejecutivo Federal y ratificada por la Cámara de Senadores.
@@ -237,6 +245,7 @@ XXV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplic
 Para el ejercicio de las facultades establecidas en este artículo y el despacho de los asuntos de su competencia, la persona titular de la Dirección General se auxilia de las personas titulares de las unidades administrativas y demás personas funcionarias, en los términos que establezca el reglamento interior de la Comisión y las disposiciones legales aplicables.
 
 ## Capítulo III — Del Comité Técnico
+
 
 ### Artículo 17
 .- El Comité Técnico es un órgano colegiado, cuyo objeto es conocer, opinar, analizar, evaluar, dictaminar y aprobar los actos jurídicos o administrativos que emita la Comisión en el ámbito de su competencia; de manera particular, cuenta con las siguientes atribuciones:
@@ -359,7 +368,9 @@ El desarrollo de las sesiones se debe llevar a cabo en términos de las reglas d
 
 ## TÍTULO CUARTO — PRESUPUESTO
 
+
 ## Capítulo Único
+
 
 ### Artículo 26
 .- La Cámara de Diputados debe realizar las acciones necesarias para proveer de recursos presupuestarios a la Comisión, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado debe cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
@@ -369,7 +380,9 @@ El desarrollo de las sesiones se debe llevar a cabo en términos de las reglas d
 
 ## TÍTULO QUINTO — DEFINITIVIDAD DE LAS NORMAS GENERALES Y ACTOS DE LA COMISIÓN
 
+
 ## Capítulo Único
+
 
 ### Artículo 28
 .- Contra los actos u omisiones de la Comisión pueden interponerse los medios de defensa previstos por las disposiciones legales aplicables.
@@ -403,14 +416,14 @@ Y ARTÍCULO DÉCIMO.- ………..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 RESOLUTIVOS DE SENTENCIA DE LA SCJN PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 51/2025, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 4 de noviembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/HMS/311/2025 SEÑOR LICENCIADO FERMÍN SANTIAGO SANTIAGO SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN (fsantiago@scjn.gob.mx) P R E S E N T E El Tribunal Pleno, en su sesión ordinaria celebrada el tres de noviembre de dos mil veinticinco, resolvió la acción de inconstitucionalidad 51/2025, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante el DECRETO publicado en el Diario Oficial de la Federación el dieciocho de marzo de dos mil veinticinco, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surta sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito gire instrucciones para que, a la brevedad, se practique la citada notificación al referido Congreso, inclusive al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante el DECRETO publicado en el Diario Oficial de la Federación el dieciocho de marzo de dos mil veinticinco, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surta sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito gire instrucciones para que, a la brevedad, se practique la citada notificación al referido Congreso, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 3 de noviembre de 2025 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el martes 4 de noviembre de 2025 a las 11:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -422,12 +435,11 @@ ANTECEDENTES Y TRÁMITE DE LA DEMANDA …….
 I. COMPETENCIA a VI. ESTUDIO DE FONDO …….
 
 VII. EFECTOS 45. Con fundamento en el artículo 73, en relación con los diversos 41, fracciones IV y V, y 45, párrafo
-**primero.** , de la Ley Reglamentaria de la materia, se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía. 46. La invalidez decretada surtirá efectos a partir de la notificación de los puntos resolutivos de esta resolución al Congreso de la Unión.
-
+**primero.-** , de la Ley Reglamentaria de la materia, se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía. 46. La invalidez decretada surtirá efectos a partir de la notificación de los puntos resolutivos de esta resolución al Congreso de la Unión.
 VIII. DECISIÓN 47. Por lo expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante el DECRETO publicado en el Diario Oficial de la Federación el dieciocho de marzo de dos mil veinticinco, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante el DECRETO publicado en el Diario Oficial de la Federación el dieciocho de marzo de dos mil veinticinco, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de nueve votos de las personas Ministras Herrerías Guerra, Espinosa Betanzo, Ríos González, Esquivel Mossa, Batres Guadarrama, Ortiz Ahlf, Figueroa Mejía, Guerrero García y Presidente Aguilar Ortiz.
 El señor Ministro Presidente Aguilar Ortiz declaró que el asunto se resolvió en los términos propuestos. Doy fe.

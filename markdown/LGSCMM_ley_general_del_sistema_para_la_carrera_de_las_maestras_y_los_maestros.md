@@ -16,7 +16,9 @@ LEY GENERAL DEL SISTEMA PARA LA CARRERA DE LAS MAESTRAS Y LOS MAESTROS
 
 ## Título Primero — De la Revalorización de las Maestras y los Maestros
 
+
 ## Capítulo Único — Disposiciones generales
+
 
 ### Artículo 1
 . La presente Ley sienta las bases para reconocer la contribución a la transformación social de las maestras y los maestros como agentes fundamentales del proceso educativo y es reglamentaria de los párrafos séptimo y octavo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos. Las disposiciones que contiene son de orden público, interés social y de observancia general en toda la República.
@@ -115,7 +117,9 @@ XXI. Unidad del Sistema: a la Unidad del Sistema para la Carrera de las Maestras
 
 ## Título Segundo — Del Sistema para la Carrera de las Maestras y los Maestros
 
+
 ## Capítulo I — De los objetivos del Sistema para la Carrera de las Maestras y los Maestros
+
 
 ### Artículo 8
 . El Sistema para la Carrera de las Maestras y los Maestros es un instrumento del Estado para que el personal al que se refiere esta Ley acceda a una carrera justa y equitativa.
@@ -148,6 +152,7 @@ La Secretaría, las autoridades de educación media superior, las autoridades de
 
 ## Capítulo II — De los principios del Sistema para la Carrera de las Maestras y los Maestros
 
+
 ### Artículo 11
 . En la aplicación y vigilancia del cumplimiento de esta Ley se deberán observar los principios de legalidad, certeza, equidad, imparcialidad, objetividad, transparencia y publicidad, atendiendo a las diferencias regionales.
 
@@ -159,6 +164,7 @@ La Secretaría, las autoridades de educación media superior, las autoridades de
 Quienes desempeñen dichas tareas deberán reunir las cualidades personales y competencias profesionales conforme a los criterios e indicadores que determine la Secretaría, para asegurar que cuenten con los conocimientos, aptitudes, actitudes y capacidades que correspondan a los distintos contextos sociales y culturales.
 
 ## Capítulo III — De los ámbitos de competencia
+
 
 ### Artículo 14
 . En materia del Sistema, corresponderá a la Federación su rectoría y, en coordinación con las entidades federativas, su implementación.
@@ -325,7 +331,9 @@ Asimismo, asegurarán la difusión de dichos criterios e indicadores para que el
 
 ## Título Tercero — De la Unidad del Sistema para la Carrera de las Maestras y los Maestros
 
+
 ## Capítulo Único
+
 De la naturaleza, funcionamiento y atribuciones de la Unidad del Sistema para la Carrera de las Maestras y los Maestros
 
 ### Artículo 26
@@ -355,7 +363,9 @@ Respecto a los asuntos señalados en la fracción II de este artículo, el titul
 
 ## Título Cuarto — De la admisión y promoción
 
+
 ## Capítulo I
+
 De las disposiciones comunes aplicables a la admisión y promoción en educación básica y educación media superior
 
 ### Artículo 31
@@ -387,7 +397,9 @@ Quienes sean objeto de una admisión o promoción derivada de un proceso de sele
 
 ## Capítulo II — De la admisión y promoción en educación básica
 
+
 ## Sección Primera — De la admisión en educación básica
+
 
 ### Artículo 39
 . La admisión al servicio de educación básica que imparta el Estado se realizará mediante procesos anuales de selección, a los que concurran los aspirantes en igualdad de condiciones, los cuales serán públicos, transparentes, equitativos e imparciales.
@@ -446,6 +458,7 @@ Con objeto de fortalecer a las instituciones públicas de formación docente, co
 
 ## Sección Segunda — De la promoción a la función directiva o de supervisión en educación básica
 
+
 ### Artículo 41
 . La Unidad del Sistema regulará el proceso de promoción que será público, transparente, equitativo e imparcial; para ello, emitirá los lineamientos a los que se sujetarán las autoridades educativas de las entidades federativas en el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica.
 
@@ -485,6 +498,7 @@ VIII. El personal de educación básica que obtenga promoción a plaza con funci
 Para el caso de las vacantes temporales que se presenten al inicio y durante el ciclo escolar se otorgarán de manera temporal a las personas participantes que hayan obtenido los puntajes más altos en el proceso de selección para la promoción y no hayan obtenido una plaza, quienes conservarán el derecho, en su caso, a que se le otorgue una vacante definitiva.
 
 ## Sección Tercera — De la promoción en el servicio en educación básica
+
 
 ### Artículo 44
 . La promoción horizontal se llevará a cabo mediante un programa integrado por niveles de estímulo y con reglas de incorporación, promoción y permanencia diferenciadas en cada uno de ellos.
@@ -540,7 +554,9 @@ Cuando haya más de un docente que cumpla con los requisitos establecidos, las a
 
 ## Capítulo III — De la admisión y promoción en educación media superior
 
+
 ## Sección Primera — De la admisión en educación media superior
+
 
 ### Artículo 57
 . La admisión al Sistema en la educación media superior que imparta el Estado se realizará mediante procesos anuales de selección, a los que concurran los aspirantes en igualdad de condiciones, los cuales serán públicos, transparentes, equitativos e imparciales.
@@ -595,6 +611,7 @@ XII. La contratación de los aspirantes por parte de las autoridades de educaci�
 . En la educación media superior, la admisión al servicio público educativo, derivada de los procesos de selección previstos en esta Ley, dará acceso a una plaza vacante definitiva para desempeñar la función docente o técnico docente en las unidades académicas curriculares afines a su perfil profesional. La prestación del servicio docente por seis meses y un día, sin nota desfavorable en su expediente fundada y motivada, en términos de esta Ley, dará lugar a un nombramiento definitivo.
 
 ## Sección Segunda
+
 De la promoción a cargos con función directiva o de supervisión en educación media superior
 
 ### Artículo 59
@@ -643,6 +660,7 @@ Para el caso de las vacantes temporales que se presenten al inicio y durante el 
 
 ## Sección Tercera — De la promoción en el servicio en educación media superior
 
+
 ### Artículo 64
 . Las autoridades de educación media superior y los organismos descentralizados, para la promoción en el servicio docente por cambio de categoría o por asignación de horas adicionales, emitirán, previa aprobación de la Secretaría, el programa correspondiente, que contendrá las categorías y niveles de la función docente, así como los lineamientos y requisitos respectivos para su implementación.
 En dicho programa se considerarán los siguientes criterios en el personal a promover:
@@ -672,7 +690,9 @@ X. El desempeño en el plantel o subsistema en el que realice su labor.
 
 ## Título Quinto — Del reconocimiento
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 66
 . Con el objeto de reconocer la función social de las maestras y los maestros, y del personal directivo o de supervisión, las autoridades educativas podrán otorgar reconocimientos que consisten en distinciones, estímulos y opciones de desarrollo profesional para aquellos que destaquen por el desempeño de sus funciones, los cuales serán:
@@ -727,6 +747,7 @@ IV. El desempeño en el plantel o subsistema en el que realice su labor.
 
 ## Capítulo II — De la Beca Comisión
 
+
 ### Artículo 72
 . La Beca Comisión es un reconocimiento al personal al que se refiere esta Ley que se otorga para efectuar estudios de especialidad, maestría o doctorado en instituciones de educación superior.
 Tendrán derecho a acceder a este reconocimiento, el personal que cumpla con los siguientes requisitos:
@@ -743,6 +764,7 @@ Cuando el personal becado suspenda sus estudios sin mediar causa justificada o n
 Al término de la Beca Comisión el personal se reincorporará al servicio activo y deberá laborar en el servicio público educativo, cuando menos, por un tiempo igual al de la duración de los estudios realizados bajo la Beca Comisión; en caso contrario deberá reembolsar el monto total objeto de dicho reconocimiento.
 
 ## Capítulo III — De la función de asesoría técnica pedagógica
+
 
 ### Artículo 73
 . La asesoría técnica pedagógica, es una función en la que los docentes participantes proporcionan apoyo técnico, asesoría y acompañamiento a otros docentes y a la escuela en su conjunto, para facilitar la reflexión sobre la práctica profesional y la mejora de ésta, en su relación con el entorno social y personal del educando.
@@ -763,6 +785,7 @@ II. Favorecer experiencias de aprendizaje y formación que incidan en la transfo
 . Las funciones de asesoría técnica pedagógica en educación básica se efectuarán en los términos establecidos en los Lineamientos Generales para la prestación del Servicio de Asesoría y Acompañamiento a las Escuelas que emita la Secretaría.
 
 ## Capítulo IV — De las tutorías
+
 
 ### Artículo 77
 . El personal de nuevo ingreso al servicio público educativo en la educación básica y media superior recibirá tutoría que lo apoye para mejorar su práctica profesional durante dos años.
@@ -789,6 +812,7 @@ II. Contribuir a la mejora de la práctica profesional, de modo que cuente con m
 . En educación media superior, la designación del personal docente para realizar la función adicional de tutoría estará sujeta a las necesidades del servicio, conforme a las disposiciones que emita las autoridades de educación media superior y los organismos descentralizados.
 
 ## Capítulo V — De la asesoría técnica
+
 
 ### Artículo 83
 . La asesoría técnica será una estrategia de apoyo a las actividades de dirección a otras escuelas de educación básica, a través de la cual se promueve que el personal con funciones de dirección cuente con el apoyo de directores experimentados que lo acompañarán en el ejercicio de su función, con la finalidad de mejorar sus competencias profesionales y sus prácticas directivas.
@@ -819,9 +843,11 @@ Este servicio representa un conjunto de mecanismos debidamente articulados, cuya
 En la educación media superior, las autoridades de este tipo de educación y los organismos descentralizados, organizarán y operarán dicho Servicio de Asesoría y Acompañamiento a las Escuelas y, en todo caso, propiciarán que sea eficaz y pertinente.
 
 ## Título Sexto
+
 Previsiones generales
 
 ## Capítulo Único — Disposiciones generales
+
 
 ### Artículo 90
 . La Secretaría establecerá, mediante disposiciones de carácter general, de conformidad con la legislación laboral aplicable, las reglas de los procesos para la autorización de cambio de centro de trabajo, dentro de la entidad federativa de que se trate, así como los cambios de una entidad federativa a otra. Los cambios de adscripción se realizarán únicamente al término del ciclo escolar, salvo por necesidades del servicio o por razones de enfermedad, peligro de vida y seguridad personal debidamente comprobadas.
@@ -929,35 +955,35 @@ En educación media superior, en los convenios de transferencia de recursos que 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan las disposiciones que se opongan a este Decreto.
-**Tercero.** Los gobiernos estatales, deberán armonizar su legislación y demás disposiciones aplicables con base en lo que establece esta Ley una vez que haya entrado en vigor, dentro del plazo establecido en el Artículo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
-**Cuarto.** Los procesos administrativos a los que se refiere el artículo 75 de la Ley General del Servicio Profesional Docente que se encuentren en trámite, quedarán sin efectos a la entrada en vigor del presente Decreto.
-**Quinto.** Los recursos humanos, financieros y materiales que tenga asignados la Coordinación Nacional del Servicio Profesional Docente, se transferirán a la Unidad del Sistema para la Carrera de las Maestras y los Maestros, en términos de las directrices que establezca la Secretaría.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones que se opongan a este Decreto.
+**Tercero.-** Los gobiernos estatales, deberán armonizar su legislación y demás disposiciones aplicables con base en lo que establece esta Ley una vez que haya entrado en vigor, dentro del plazo establecido en el Artículo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+**Cuarto.-** Los procesos administrativos a los que se refiere el artículo 75 de la Ley General del Servicio Profesional Docente que se encuentren en trámite, quedarán sin efectos a la entrada en vigor del presente Decreto.
+**Quinto.-** Los recursos humanos, financieros y materiales que tenga asignados la Coordinación Nacional del Servicio Profesional Docente, se transferirán a la Unidad del Sistema para la Carrera de las Maestras y los Maestros, en términos de las directrices que establezca la Secretaría.
 En un plazo no mayor a ciento ochenta días, contados a la entrada en vigor del presente Decreto, la Secretaría emitirá el Manual de Organización de la Unidad del Sistema para la Carrera de las Maestras y los Maestros. Hasta en tanto no se expida, continuará vigente el Manual de Organización General de la Coordinación Nacional del Servicio Profesional Docente.
-**Sexto.** La Autoridad Educativa Federal en la Ciudad de México, ejercerá las atribuciones de esta Ley en materia de educación básica, incluyendo la indígena y los servicios de educación especial, que esta Ley le confiere a la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
-**Séptimo.** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley, la Secretaría publicará un calendario en el que se precisen las fechas y plazos para la operación de los procesos de selección previstos en esta Ley.
-**Octavo.** Hasta en tanto se instrumenten los procesos de selección para la admisión, promoción y reconocimiento previstos en el presente Decreto, continuarán vigentes, en su parte conducente, los "Lineamientos administrativos para dar cumplimiento al artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019", expedidos por la Coordinación Nacional del Servicio Profesional Docente el 21 de mayo de 2019.
-**Noveno.** La Unidad del Sistema para la Carrera de las Maestras y los Maestros compilará los lineamientos, criterios y demás disposiciones que mandatan a la Secretaría, derivados de los procesos de selección para la admisión, promoción y reconocimiento.
-**Décimo.** Al personal docente en servicio de educación básica y media superior que a la entrada en vigor de esta Ley ostente una plaza sin titular derivados de los procesos de ingreso previstos en la Ley General del Servicio Profesional Docente, que era sujeto a la evaluación del desempeño, además cuente con una antigüedad de seis meses y un día de servicio en ella, sin nota desfavorable en su expediente, y cumpla con el perfil correspondiente, se le expedirá el nombramiento definitivo en dicha plaza.
-**Décimo Primero.** Las menciones que en otras disposiciones de carácter federal se hagan a la Ley General del Servicio Profesional Docente y al Servicio Profesional Docente, se entenderán referidas a la Ley General del Sistema para la Carrera de las Maestras y los Maestros y al Sistema para la Carrera de las Maestras y los Maestros, respectivamente.
-**Décimo Segundo.** Los programas de "Promoción en la Función por Incentivos en Educación Básica", de "Promoción en la Función por Incentivos en la Educación Media Superior" y de "Promoción en la Función con Cambio de Categoría en la Educación Media Superior", continuarán en funcionamiento hasta en tanto entren en vigor los programas a que se refieren los artículos 44, 64, 65, y 69 de esta Ley, cuya publicación deberá hacerse a más tardar en ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+**Sexto.-** La Autoridad Educativa Federal en la Ciudad de México, ejercerá las atribuciones de esta Ley en materia de educación básica, incluyendo la indígena y los servicios de educación especial, que esta Ley le confiere a la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+**Séptimo.-** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley, la Secretaría publicará un calendario en el que se precisen las fechas y plazos para la operación de los procesos de selección previstos en esta Ley.
+**Octavo.-** Hasta en tanto se instrumenten los procesos de selección para la admisión, promoción y reconocimiento previstos en el presente Decreto, continuarán vigentes, en su parte conducente, los "Lineamientos administrativos para dar cumplimiento al artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019", expedidos por la Coordinación Nacional del Servicio Profesional Docente el 21 de mayo de 2019.
+**Noveno.-** La Unidad del Sistema para la Carrera de las Maestras y los Maestros compilará los lineamientos, criterios y demás disposiciones que mandatan a la Secretaría, derivados de los procesos de selección para la admisión, promoción y reconocimiento.
+**Décimo.-** Al personal docente en servicio de educación básica y media superior que a la entrada en vigor de esta Ley ostente una plaza sin titular derivados de los procesos de ingreso previstos en la Ley General del Servicio Profesional Docente, que era sujeto a la evaluación del desempeño, además cuente con una antigüedad de seis meses y un día de servicio en ella, sin nota desfavorable en su expediente, y cumpla con el perfil correspondiente, se le expedirá el nombramiento definitivo en dicha plaza.
+**Décimo Primero.-** Las menciones que en otras disposiciones de carácter federal se hagan a la Ley General del Servicio Profesional Docente y al Servicio Profesional Docente, se entenderán referidas a la Ley General del Sistema para la Carrera de las Maestras y los Maestros y al Sistema para la Carrera de las Maestras y los Maestros, respectivamente.
+**Décimo Segundo.-** Los programas de "Promoción en la Función por Incentivos en Educación Básica", de "Promoción en la Función por Incentivos en la Educación Media Superior" y de "Promoción en la Función con Cambio de Categoría en la Educación Media Superior", continuarán en funcionamiento hasta en tanto entren en vigor los programas a que se refieren los artículos 44, 64, 65, y 69 de esta Ley, cuya publicación deberá hacerse a más tardar en ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
 Los beneficios adquiridos por el personal que participó en los programas mencionados en el párrafo anterior, no podrán ser afectados por la entrada en vigor de esta Ley.
-**Décimo Tercero.** El Programa de Promoción Horizontal por Niveles con Incentivos en Educación Básica, sustituye al "Programa de Promoción en la Función por Incentivos en Educación Básica", su operación y control, estará a cargo de la Secretaría, con la participación de las autoridades educativas de las entidades federativas, en los términos de la presente Ley.
+**Décimo Tercero.-** El Programa de Promoción Horizontal por Niveles con Incentivos en Educación Básica, sustituye al "Programa de Promoción en la Función por Incentivos en Educación Básica", su operación y control, estará a cargo de la Secretaría, con la participación de las autoridades educativas de las entidades federativas, en los términos de la presente Ley.
 Las reglas a que se refiere el artículo 44 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros, deberán ser expedidas por la Secretaría, previa autorización de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones.
-**Décimo Cuarto.** El personal que realice funciones de asesoría técnica pedagógica docente y que cuente con la categoría respectiva otorgada en términos de la Ley General del Servicio Profesional Docente, podrá participar en los procesos de promoción en los términos establecidos en el presente Decreto.
+**Décimo Cuarto.-** El personal que realice funciones de asesoría técnica pedagógica docente y que cuente con la categoría respectiva otorgada en términos de la Ley General del Servicio Profesional Docente, podrá participar en los procesos de promoción en los términos establecidos en el presente Decreto.
 El personal docente que, habiendo participado en un proceso de promoción para ejercer funciones de asesoría técnica pedagógica en educación básica, en términos de la Ley General del Servicio Profesional Docente y que al momento de su abrogación se encontraban en el periodo de inducción, continuará recibiendo el incentivo que le fue asignado, de manera permanente, sin menoscabo de que puedan participar en otros procesos de promoción establecidos en la presente Ley.
-**Décimo Quinto.** El personal de educación básica y media superior que, derivado de su participación en los procesos de evaluación del desempeño Ciclos Escolares 2016-2017, 2017-2018 y 2018-2019, obtuvieron un resultado que les permita acceder a la promoción de horas adicionales, podrán obtenerlas durante el periodo establecido para ello, de conformidad con los criterios que para tal efecto emita la Unidad del Sistema para la Carrera de las Maestras y los Maestros.
-**Décimo Sexto.** Los programas y sistemas de promoción y reconocimiento docente, que hayan dejado de tener vigencia con la entrada en vigor de la Ley General del Servicio Profesional Docente, continúan derogados.
-**Décimo Séptimo.** Las autoridades de educación media superior y organismos descentralizados deberán implementar gradualmente, conforme a las disponibilidades presupuestales, el servicio de tutoría para asegurar el acompañamiento a los docentes de nuevo ingreso.
-**Décimo Octavo.** Las autoridades de educación media superior y los organismos descentralizados emitirán los programas al que se refieren los artículos 64, 65 y 70 en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto. En el ámbito federal, dichos programas deberán contar con la autorización de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones.
-**Décimo Noveno.** A la entrada en vigor de la presente Ley, no se autorizará la adscripción de personal con plaza docente en centros de trabajo administrativo. Con la finalidad de fortalecer el servicio público educativo, las plazas docentes vacantes que se generen en centro de trabajo administrativo, deberán ser reubicadas en un centro de trabajo para el desempeño de funciones docentes, directivas o de supervisión, en su caso.
-**Vigésimo.** Para los efectos de lo dispuesto en el párrafo tercero del artículo 107 de esta Ley, la Secretaría de Educación Pública y las autoridades educativas competentes de las entidades federativas deberán suscribir los convenios respectivos en un término no mayor de doscientos setenta días contados a partir de la entrada en vigor del presente Decreto. En ese término, se deberá establecer el sistema de administración de nómina a que se refiere el precepto citado, así como los mecanismos correspondientes para el cumplimiento de las obligaciones fiscales federales respectivas.
-**Vigésimo Primero.** La Secretaría de Educación Pública en un plazo no mayor a ciento ochenta días a la entrada en vigor de este Decreto, tendrá en operación el Sistema Abierto y Transparente de Asignación de Plazas para la ocupación de las vacantes de personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección o supervisión, con sus respectivos lineamientos de operación.
-**Vigésimo Segundo.** Las relaciones laborales de los trabajadores al servicio de la educación que, al momento de la entrada en vigor de esta Ley, se rigen por el artículo 123 Constitucional Apartado A o B, según corresponda, se mantendrán en esos términos, de conformidad con lo dispuesto en el Artículo
-**Décimo Sexto.** Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
-**Vigésimo Tercero.** Para efectos de lo dispuesto en el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros, la información que servirá de base para el censo será aquella que corresponda al inicio del ciclo escolar 2019-2020. Asimismo, las Secretarías de Educación Pública y de Hacienda y Crédito Público conjuntamente darán a conocer a las autoridades educativas correspondientes el procedimiento y los plazos para la basificación respectiva.
-**Vigésimo Cuarto.** Los compromisos que, para los distintos órdenes de gobierno, deriven de la implementación del presente Decreto, incluyendo los establecidos en los Títulos Quinto y Sexto, y el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros y su régimen
+**Décimo Quinto.-** El personal de educación básica y media superior que, derivado de su participación en los procesos de evaluación del desempeño Ciclos Escolares 2016-2017, 2017-2018 y 2018-2019, obtuvieron un resultado que les permita acceder a la promoción de horas adicionales, podrán obtenerlas durante el periodo establecido para ello, de conformidad con los criterios que para tal efecto emita la Unidad del Sistema para la Carrera de las Maestras y los Maestros.
+**Décimo Sexto.-** Los programas y sistemas de promoción y reconocimiento docente, que hayan dejado de tener vigencia con la entrada en vigor de la Ley General del Servicio Profesional Docente, continúan derogados.
+**Décimo Séptimo.-** Las autoridades de educación media superior y organismos descentralizados deberán implementar gradualmente, conforme a las disponibilidades presupuestales, el servicio de tutoría para asegurar el acompañamiento a los docentes de nuevo ingreso.
+**Décimo Octavo.-** Las autoridades de educación media superior y los organismos descentralizados emitirán los programas al que se refieren los artículos 64, 65 y 70 en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto. En el ámbito federal, dichos programas deberán contar con la autorización de la Secretaría de Hacienda y Crédito Público, en el ámbito de sus atribuciones.
+**Décimo Noveno.-** A la entrada en vigor de la presente Ley, no se autorizará la adscripción de personal con plaza docente en centros de trabajo administrativo. Con la finalidad de fortalecer el servicio público educativo, las plazas docentes vacantes que se generen en centro de trabajo administrativo, deberán ser reubicadas en un centro de trabajo para el desempeño de funciones docentes, directivas o de supervisión, en su caso.
+**Vigésimo.-** Para los efectos de lo dispuesto en el párrafo tercero del artículo 107 de esta Ley, la Secretaría de Educación Pública y las autoridades educativas competentes de las entidades federativas deberán suscribir los convenios respectivos en un término no mayor de doscientos setenta días contados a partir de la entrada en vigor del presente Decreto. En ese término, se deberá establecer el sistema de administración de nómina a que se refiere el precepto citado, así como los mecanismos correspondientes para el cumplimiento de las obligaciones fiscales federales respectivas.
+**Vigésimo Primero.-** La Secretaría de Educación Pública en un plazo no mayor a ciento ochenta días a la entrada en vigor de este Decreto, tendrá en operación el Sistema Abierto y Transparente de Asignación de Plazas para la ocupación de las vacantes de personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección o supervisión, con sus respectivos lineamientos de operación.
+**Vigésimo Segundo.-** Las relaciones laborales de los trabajadores al servicio de la educación que, al momento de la entrada en vigor de esta Ley, se rigen por el artículo 123 Constitucional Apartado A o B, según corresponda, se mantendrán en esos términos, de conformidad con lo dispuesto en el Artículo
+**Décimo Sexto.-** Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
+**Vigésimo Tercero.-** Para efectos de lo dispuesto en el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros, la información que servirá de base para el censo será aquella que corresponda al inicio del ciclo escolar 2019-2020. Asimismo, las Secretarías de Educación Pública y de Hacienda y Crédito Público conjuntamente darán a conocer a las autoridades educativas correspondientes el procedimiento y los plazos para la basificación respectiva.
+**Vigésimo Cuarto.-** Los compromisos que, para los distintos órdenes de gobierno, deriven de la implementación del presente Decreto, incluyendo los establecidos en los Títulos Quinto y Sexto, y el artículo 106 de la Ley General del Sistema para la Carrera de las Maestras y los Maestros y su régimen
 
 ## transitorio
 

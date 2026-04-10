@@ -13,7 +13,8 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL TITULO PRIMERO De la Administr
 ### Artículo 1o
 .- La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 La Oficina de la Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
-Párrafo reformado DOF 28-12-1994, 15-05-1996, 09-04-2012, 02-01-2013, 11-08-2014, 18-03-2025 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
+Párrafo reformado DOF 28-12-1994, 15-05-1996, 09-04-2012, 02-01-2013, 11-08-2014, 18-03-2025
+Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
 ### Artículo 2o
 .- En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la Administración Pública Centralizada:
@@ -30,15 +31,18 @@ I.- Organismos descentralizados;
 II. Empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito e instituciones nacionales de seguros y de fianzas;
 Fracción reformada DOF 18-03-2025
 
-III. Fideicomisos, y Fracción reformada DOF 18-03-2025
+III. Fideicomisos, y
+Fracción reformada DOF 18-03-2025
 
 IV. Las Empresas Públicas del Estado, que se regulan por sus propias leyes.
 Fracción adicionada DOF 18-03-2025
 
 ### Artículo 4o
 .- La función de Consejero Jurídico, prevista en el artículo 90 de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo de la Consejería Jurídica del Ejecutivo Federal. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Presidente de la República, y será nombrado y removido libremente por éste.
-Párrafo reformado DOF 30-11-2018 Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General de la República.
-Párrafo reformado DOF 30-11-2018 A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público federal, así como las demás que rigen a las dependencias del Ejecutivo Federal. En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
+Párrafo reformado DOF 30-11-2018
+Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General de la República.
+Párrafo reformado DOF 30-11-2018
+A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público federal, así como las demás que rigen a las dependencias del Ejecutivo Federal. En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 Artículo derogado DOF 28-12-1994. Adicionado DOF 15-05-1996
 
 ### Artículo 5o
@@ -56,8 +60,10 @@ Artículo reformado DOF 29-12-1982, 09-04-2012, 02-01-2013
 
 ### Artículo 8o
 .- La persona titular del Ejecutivo Federal contará con el apoyo directo de la Oficina de la Presidencia de la República para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias. La persona titular del Ejecutivo Federal designará a la Jefa o Jefe de dicha Oficina.
-Párrafo reformado DOF 28-11-2024 La persona titular del Ejecutivo Federal contará con las unidades de apoyo técnico y estructura que determine, de acuerdo con el presupuesto asignado a dicha Oficina.
-Párrafo reformado DOF 30-11-2018, 28-11-2024 Las unidades señaladas en el párrafo anterior podrán estar adscritas de manera directa a la Presidencia o a través de la Oficina referida y desarrollarán, en otras funciones, las siguientes:
+Párrafo reformado DOF 28-11-2024
+La persona titular del Ejecutivo Federal contará con las unidades de apoyo técnico y estructura que determine, de acuerdo con el presupuesto asignado a dicha Oficina.
+Párrafo reformado DOF 30-11-2018, 28-11-2024
+Las unidades señaladas en el párrafo anterior podrán estar adscritas de manera directa a la Presidencia o a través de la Oficina referida y desarrollarán, en otras funciones, las siguientes:
 
 I. Se deroga.
 Fracción derogada DOF 28-11-2024
@@ -66,11 +72,15 @@ II. Formular y conducir la política de comunicación social del Gobierno Federa
 Para tal efecto establecerá, mediante disposiciones de carácter general, el modelo organizacional y de operación de las unidades administrativas que realicen actividades en esta materia, y
 
 III. Se deroga.
-Fracción derogada DOF 05-04-2022 Párrafo con fracciones adicionado DOF 30-11-2018 Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013
+Fracción derogada DOF 05-04-2022
+Párrafo con fracciones adicionado DOF 30-11-2018
+Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013
 
 ### Artículo 9o
 .- Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación nacional del desarrollo, establezca el Ejecutivo Federal.
-Artículo reformado DOF 04-01-1982, 29-12-1982 TITULO SEGUNDO De la Administración Pública Centralizada CAPITULO I De las Secretarías de Estado Denominación del Capítulo reformada DOF 09-04-2012
+Artículo reformado DOF 04-01-1982, 29-12-1982
+TITULO SEGUNDO De la Administración Pública Centralizada CAPITULO I De las Secretarías de Estado
+Denominación del Capítulo reformada DOF 09-04-2012
 
 ### Artículo 10
 .- Las Secretarías de Estado tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Presidente de la República, la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
@@ -86,8 +96,10 @@ Artículo reformado DOF 09-04-2012
 
 ### Artículo 13
 .- Los reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales, ir firmados por el Secretario de Estado respectivo y, cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por todos los titulares de las mismas.
-Párrafo reformado DOF 09-04-2012, 02-01-2013 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
-Párrafo adicionado DOF 26-12-1985 Artículo reformado DOF 04-01-1982
+Párrafo reformado DOF 09-04-2012, 02-01-2013
+Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso de la Unión, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
+Párrafo adicionado DOF 26-12-1985
+Artículo reformado DOF 04-01-1982
 
 ### Artículo 14
 .- Al frente de cada Secretaría de Estado habrá una persona titular, quien, para el despacho de los asuntos de su competencia, se auxiliará de las personas titulares de las subsecretarías, de las Unidades de Administración y Finanzas, de las jefaturas de unidad, de las direcciones, de las subdirecciones, de las jefaturas de departamento, y demás personas funcionarias, en los términos que establezca el reglamento interior respectivo y las disposiciones legales aplicables.
@@ -103,19 +115,25 @@ Fracción reformada DOF 28-11-2024
 
 II. Serán consideradas en la estructura y presupuesto de la dependencia o entidad paraestatal a la que se encuentren adscritas;
 
-III. Actúan, en el ámbito de su competencia, en nombre y representación de las dependencias o entidades paraestatales, para el ejercicio de las atribuciones y funciones previstas en las leyes y demás ordenamientos jurídicos aplicables, observando los lineamientos, disposiciones, directrices y políticas que emitan las Secretarías de Hacienda y Crédito Público y Anticorrupción y Buen Gobierno para su conducción y coordinación, en el ámbito de sus competencias, y Fracción reformada DOF 28-11-2024
+III. Actúan, en el ámbito de su competencia, en nombre y representación de las dependencias o entidades paraestatales, para el ejercicio de las atribuciones y funciones previstas en las leyes y demás ordenamientos jurídicos aplicables, observando los lineamientos, disposiciones, directrices y políticas que emitan las Secretarías de Hacienda y Crédito Público y Anticorrupción y Buen Gobierno para su conducción y coordinación, en el ámbito de sus competencias, y
+Fracción reformada DOF 28-11-2024
 
 IV. Se organizan y operan conforme a lo señalado en los artículos 20 y 31, fracción XXXII de esta Ley.
-Fracción reformada DOF 28-11-2024 A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo.
-Párrafo reformado DOF 28-11-2024 Artículo adicionado DOF 03-05-2023
+Fracción reformada DOF 28-11-2024
+A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo.
+Párrafo reformado DOF 28-11-2024
+Artículo adicionado DOF 03-05-2023
 
 ### Artículo 15
-. (Derogado) Artículo derogado DOF 09-04-2012
+. (Derogado)
+Artículo derogado DOF 09-04-2012
 
 ### Artículo 16
 .- Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refiere el artículo 14 de esta Ley, cualesquiera de sus facultades, excepto aquéllas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
-Párrafo reformado DOF 09-04-2012, 02-01-2013 Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
-Párrafo adicionado DOF 30-12-1983. Reformado DOF 09-04-2012, 30-11-2018 Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
+Párrafo reformado DOF 09-04-2012, 02-01-2013
+Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
+Párrafo adicionado DOF 30-12-1983. Reformado DOF 09-04-2012, 30-11-2018
+Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
 Párrafo adicionado DOF 30-12-1983
 
 ### Artículo 17
@@ -129,7 +147,8 @@ Párrafo reformado DOF 30-11-2018
 I. Los funcionarios públicos adscritos a las oficinas de representación, serán designados de conformidad con lo establecido por el reglamento interior o los ordenamientos legales de las dependencias y entidades;
 Fracción reformada DOF 30-11-2018
 
-II. Los servidores públicos adscritos a las oficinas de representación se sujetarán a las disposiciones establecidas en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación, y a las demás disposiciones previstas en dicha ley, y Fracción reformada DOF 30-11-2018
+II. Los servidores públicos adscritos a las oficinas de representación se sujetarán a las disposiciones establecidas en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación, y a las demás disposiciones previstas en dicha ley, y
+Fracción reformada DOF 30-11-2018
 
 III. Las dependencias o entidades responsables de la ejecución de programas para entregar un beneficio social directo a la población, deberán sujetarse a lo siguiente:
 Párrafo reformado DOF 30-11-2018
@@ -149,10 +168,12 @@ Inciso con subincisos reformado y recorrido DOF 30-11-2018
 d) Incluir, en todo caso, en la difusión de cada programa la leyenda siguiente: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”;
 Inciso reformado y recorrido DOF 30-11-2018
 
-e) Realizar acciones de orientación y difusión con los beneficiarios para garantizar su transparencia y evitar cualquier uso ilegal del programa, y Inciso reformado y recorrido DOF 30-11-2018
+e) Realizar acciones de orientación y difusión con los beneficiarios para garantizar su transparencia y evitar cualquier uso ilegal del programa, y
+Inciso reformado y recorrido DOF 30-11-2018
 
 f) Realizar las designaciones referidas en la fracción I de este artículo a propuesta del Delegado Estatal de Programas para el Desarrollo de la entidad respectiva.
-Inciso adicionado DOF 30-11-2018 Artículo adicionado DOF 01-10-2007
+Inciso adicionado DOF 30-11-2018
+Artículo adicionado DOF 01-10-2007
 
 ### Artículo 17
 Ter.- El Poder Ejecutivo Federal contará en las entidades federativas con las Delegaciones de Programas para el Desarrollo que tendrán a su cargo la coordinación e implementación de planes, programas y acciones para el desarrollo integral, funciones de atención ciudadana, la supervisión de los servicios y los programas a cargo de las dependencias y entidades, así como la supervisión de los programas que ejercen algún beneficio directo a la población, de conformidad con los lineamientos que emitan la Secretaría de Bienestar y la Coordinación General de Programas para el Desarrollo.
@@ -175,12 +196,18 @@ Artículo reformado DOF 09-04-2012, 18-07-2016, 28-11-2024
 ### Artículo 20
 .- Las dependencias y las entidades paraestatales de la Administración Pública Federal contarán con una Unidad de Administración y Finanzas o equivalente, encargada de ejecutar, en los términos de las disposiciones aplicables, los servicios de apoyo administrativo en materia de planeación, programación, presupuesto, tecnologías de la información, recursos humanos, recursos materiales, contabilidad, archivos, y los demás que sean necesarios, en los términos que establezca el Ejecutivo Federal. En los casos de las Secretarías de la Defensa Nacional y de Marina, dichos servicios se llevarán a cabo por sus respectivas oficialías mayores.
 La persona titular del Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, establecerá mediante disposiciones de carácter general, el modelo organizacional y de operación de las Unidades de Administración y Finanzas de la Administración Pública Centralizada y Paraestatal, el cual deberá ser observado por las dependencias y entidades paraestatales, al momento de emitir o modificar las disposiciones que regulen la organización y operación de las Unidades de Administración y Finanzas o equivalentes. Los movimientos a las estructuras organizacionales y ocupacionales estarán sujetos a las autorizaciones que emitan las Secretarías de Hacienda y Crédito Público y Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, conforme a las disposiciones jurídicas aplicables.
-Párrafo reformado DOF 28-11-2024 La Secretaría de Hacienda y Crédito Público conducirá y coordinará la operación de las Unidades de Administración y Finanzas o equivalentes de las dependencias y de las entidades paraestatales, en los términos de las disposiciones legales y reglamentarias aplicables, y con base en los lineamientos, disposiciones, directrices y políticas que al efecto emita la propia Secretaría.
-Párrafo reformado DOF 28-11-2024 Las personas titulares de las Unidades de Administración y Finanzas o equivalentes nombrarán y removerán, en los términos de las disposiciones jurídicas aplicables, al personal de su adscripción; ello sin perjuicio de lo previsto en el artículo 31, fracción XXXII, de esta Ley.
-Párrafo reformado DOF 28-11-2024 Los puestos correspondientes a las personas titulares de las Unidades de Administración y Finanzas o equivalentes en las dependencias y entidades paraestatales, así como de los dos niveles jerárquicos inmediatos inferiores, son de libre designación, en términos de las disposiciones jurídicas aplicables.
-Párrafo reformado DOF 28-11-2024 A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo.
-Párrafo reformado DOF 28-11-2024 Las disposiciones de este artículo no son aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las Empresas Públicas del Estado, las que se rigen conforme a las disposiciones legales que les sean aplicables.
-Párrafo reformado DOF 18-03-2025 Artículo reformado DOF 09-04-2012, 30-11-2018, 03-05-2023
+Párrafo reformado DOF 28-11-2024
+La Secretaría de Hacienda y Crédito Público conducirá y coordinará la operación de las Unidades de Administración y Finanzas o equivalentes de las dependencias y de las entidades paraestatales, en los términos de las disposiciones legales y reglamentarias aplicables, y con base en los lineamientos, disposiciones, directrices y políticas que al efecto emita la propia Secretaría.
+Párrafo reformado DOF 28-11-2024
+Las personas titulares de las Unidades de Administración y Finanzas o equivalentes nombrarán y removerán, en los términos de las disposiciones jurídicas aplicables, al personal de su adscripción; ello sin perjuicio de lo previsto en el artículo 31, fracción XXXII, de esta Ley.
+Párrafo reformado DOF 28-11-2024
+Los puestos correspondientes a las personas titulares de las Unidades de Administración y Finanzas o equivalentes en las dependencias y entidades paraestatales, así como de los dos niveles jerárquicos inmediatos inferiores, son de libre designación, en términos de las disposiciones jurídicas aplicables.
+Párrafo reformado DOF 28-11-2024
+A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo.
+Párrafo reformado DOF 28-11-2024
+Las disposiciones de este artículo no son aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las Empresas Públicas del Estado, las que se rigen conforme a las disposiciones legales que les sean aplicables.
+Párrafo reformado DOF 18-03-2025
+Artículo reformado DOF 09-04-2012, 30-11-2018, 03-05-2023
 
 ### Artículo 21
 . El Presidente de la República, para el mejor despacho de los asuntos a su cargo, podrá constituir comisiones intersecretariales, consultivas y presidenciales a través de decretos.
@@ -218,7 +245,9 @@ Artículo reformado DOF 09-04-2012
 
 ### Artículo 25
 .- Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la República necesiten informes, datos o la cooperación técnica de cualquier otra dependencia para el cumplimiento de sus atribuciones, ésta tendrá la obligación de proporcionarlos, en los términos de las disposiciones jurídicas aplicables.
-Artículo reformado DOF 29-12-1982, 09-04-2012, 02-01-2013, 28-11-2024 CAPITULO II De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal Denominación del Capítulo reformada DOF 15-05-1996, 09-04-2012
+Artículo reformado DOF 29-12-1982, 09-04-2012, 02-01-2013, 28-11-2024
+CAPITULO II De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
+Denominación del Capítulo reformada DOF 15-05-1996, 09-04-2012
 
 ### Artículo 26
 .- Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes Secretarías:
@@ -266,7 +295,8 @@ XX. Secretaría de Turismo;
 XXI. Secretaría de las Mujeres, y
 
 XXII. Agencia de Transformación Digital y Telecomunicaciones.
-Artículo reformado DOF 04-01-1982, 29-12-1982, 21-01-1985, 21-02-1992, 25-05-1992, 28-12-1994, 15-05-1996, 04-12-1997. Aclaración DOF 11-02-1998. Reformado DOF 30-11-2000, 10-04-2003, 02-01-2013, 17-12-2015, 18-07-2016, 30-11-2018, 20-10-2021, 28-11-2024
+Artículo reformado DOF 04-01-1982, 29-12-1982, 21-01-1985, 21-02-1992, 25-05-1992, 28-12-1994, 15-05-1996, 04-12-1997. Aclaración DOF
+11-02-1998. Reformado DOF 30-11-2000, 10-04-2003, 02-01-2013, 17-12-2015, 18-07-2016, 30-11-2018, 20-10-2021, 28-11-2024
 
 ### Artículo 27
 .- A la Secretaría de Gobernación le corresponde el despacho de los siguientes asuntos:
@@ -287,9 +317,12 @@ Fracción reformada DOF 28-11-2024
 
 VII. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del país; coordinar, en vinculación con las organizaciones de la sociedad civil, la promoción y defensa de los derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia, así como dictar las medidas administrativas necesarias para tal efecto;
 VII Bis. Formular y coordinar la política de prevención social del delito, cultura de paz y de legalidad, mediante programas que refuercen la inclusión social y la igualdad, estrategias y acciones que contribuyan a prevenir y eliminar la discriminación o vulnerabilidad de grupos sociales, así como diseñar e instrumentar programas para la atención integral a víctimas y coadyuvar en la celebración de acuerdos de colaboración con otras instituciones del sector público y privado;
-Fracción publicada con numeración “VII Bis” en la reforma íntegra de este artículo DOF 30-11-2018 VII Ter. Crear e implementar en forma permanente una página electrónica de consulta pública en la cual se registren los datos de las personas reportadas como desaparecidas en todo el país, así como establecer otra para los casos de mujeres y niñas; ambas plataformas tendrán como fin que la población en general contribuya con información sobre la localización de las personas desaparecidas;
-Fracción publicada con numeración “VII Ter” en la reforma íntegra de este artículo DOF 30-11-2018 VII Quáter. Elaborar y ejecutar los programas de reinserción social y apoyo a las personas que hayan cumplido con su sentencia y sean puestas en libertad;
-Fracción publicada con numeración “VII Quáter” en la reforma íntegra de este artículo DOF 30-11-2018 VII Quinquies. Proponer y ejecutar las acciones tendientes a asegurar la coordinación nacional entre la Federación, la Ciudad de México, los estados y los municipios, en el ámbito del Consejo Nacional de Seguridad Pública, para diseñar e instrumentar la política orientada a la construcción de la paz en el país;
+Fracción publicada con numeración “VII Bis” en la reforma íntegra de este artículo DOF 30-11-2018
+VII Ter. Crear e implementar en forma permanente una página electrónica de consulta pública en la cual se registren los datos de las personas reportadas como desaparecidas en todo el país, así como establecer otra para los casos de mujeres y niñas; ambas plataformas tendrán como fin que la población en general contribuya con información sobre la localización de las personas desaparecidas;
+Fracción publicada con numeración “VII Ter” en la reforma íntegra de este artículo DOF 30-11-2018
+VII Quáter. Elaborar y ejecutar los programas de reinserción social y apoyo a las personas que hayan cumplido con su sentencia y sean puestas en libertad;
+Fracción publicada con numeración “VII Quáter” en la reforma íntegra de este artículo DOF 30-11-2018
+VII Quinquies. Proponer y ejecutar las acciones tendientes a asegurar la coordinación nacional entre la Federación, la Ciudad de México, los estados y los municipios, en el ámbito del Consejo Nacional de Seguridad Pública, para diseñar e instrumentar la política orientada a la construcción de la paz en el país;
 Fracción adicionada DOF 28-11-2024
 
 VIII. En el ámbito de su competencia, elaborar e instrumentar la normatividad aplicable, conforme a la Constitución y las leyes, en materia de comunicación social del Gobierno Federal y las relaciones con los medios masivos de información; administrar, salvo lo establecido en las leyes electorales, el tiempo de que dispone el Estado en radio y televisión; así como autorizar, supervisar y evaluar los programas de comunicación social y publicidad de las dependencias y entidades de la Administración Pública Federal;
@@ -325,68 +358,99 @@ Fracción reformada DOF 28-11-2024
 
 XXII. Llevar el registro de autógrafos de los funcionarios federales, de los Gobernadores de los Estados y del jefe de gobierno de la Ciudad de México y legalizar las firmas de los mismos;
 
-XXIII. Fijar los calendarios oficial y cívico, y Fracción reformada DOF 28-11-2024
+XXIII. Fijar los calendarios oficial y cívico, y
+Fracción reformada DOF 28-11-2024
 
 XXIV. Los demás que le atribuyan expresamente las leyes y reglamentos.
-Artículo reformado DOF 31-12-1980, 04-01-1982, 29-12-1982, 28-12-1994, 04-01-1999, 18-05-1999, 30-11-2000, 02-06-2006, 09-04-2012, 02-01-2013, 20-05-2014. Artículo con declaratorias de invalidez parcial por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (publicada por segunda ocasión DOF 19-03-2015). Artículo reformado DOF 13-05-2015, 09-03-2018, 30-11-2018
+Artículo reformado DOF 31-12-1980, 04-01-1982, 29-12-1982, 28-12-1994, 04-01-1999, 18-05-1999, 30-11-2000, 02-06-2006, 09-04-2012,
+02-01-2013, 20-05-2014. Artículo con declaratorias de invalidez parcial por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-02-2015 (publicada por segunda ocasión DOF 19-03-2015). Artículo reformado DOF 13-05-2015, 09-03-2018, 30-11-2018
 
 ### Artículo 28
 .- A la Secretaría de Relaciones Exteriores le corresponde el despacho de los siguientes asuntos:
-Párrafo reformado DOF 28-11-2024 I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior de las dependencias y entidades de la Administración Pública Federal; y sin afectar el ejercicio de las atribuciones que a cada una de ellas corresponda, conducir la política exterior, para lo cual intervendrá en toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
+Párrafo reformado DOF 28-11-2024
+I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior de las dependencias y entidades de la Administración Pública Federal; y sin afectar el ejercicio de las atribuciones que a cada una de ellas corresponda, conducir la política exterior, para lo cual intervendrá en toda clase de tratados, acuerdos y convenciones en los que el país sea parte;
 Fracción reformada DOF 29-12-1982
 
 II. Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes de este servicio, velar en el extranjero por el buen nombre de México; garantizar la revalorización del fenómeno migratorio y el trato digno de mexicanas y mexicanos que viven en el exterior; impartir protección a las mexicanas y mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial, y las demás funciones federales que señalan las leyes, así como adquirir, administrar y conservar las propiedades de la Nación en el extranjero;
-Fracción reformada DOF 04-01-1982, 28-11-2024 II A. Coadyuvar a la promoción económica, comercial, turística y cultural del país por conducto de sus embajadas y consulados;
-Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024 II B. Capacitar al personal del Servicio Exterior Mexicano en las áreas económica, comercial, turística y cultural para que puedan cumplir con las responsabilidades que deriven de la fracción anterior;
+Fracción reformada DOF 04-01-1982, 28-11-2024
+II A. Coadyuvar a la promoción económica, comercial, turística y cultural del país por conducto de sus embajadas y consulados;
+Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024
+II B. Capacitar al personal del Servicio Exterior Mexicano en las áreas económica, comercial, turística y cultural para que puedan cumplir con las responsabilidades que deriven de la fracción anterior;
 Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024
 
 III. Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y representar a México ante organismos e institutos internacionales sin perjuicio de la competencia de otras dependencias de la Administración Pública Federal;
-Fracción reformada DOF 28-11-2024 IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
+Fracción reformada DOF 28-11-2024
+IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
 V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o los permisos para adquirir bienes inmuebles o derechos sobre ellos;
-Fracción reformada DOF 04-01-1982, 15-12-2011 VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
+Fracción reformada DOF 04-01-1982, 15-12-2011
+VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
 VII.- Intervenir en todas las cuestiones relacionadas con nacionalidad y naturalización;
 VIII.- Guardar y usar el Gran Sello de la Nación;
 IX.- Coleccionar los autógrafos de toda clase de documentos diplomáticos;
 X.- Legalizar las firmas de los documentos que deban producir efectos en el extranjero, y de los documentos extranjeros que deban producirlos en la República;
 
-XI. Colaborar con el Fiscal General de la República, en la extradición conforme a la ley o tratados y en los exhortos internacionales o comisiones rogatorias para hacerlos llegar a su destino, previo examen de que llenen los requisitos de forma para su diligenciación y de su procedencia o improcedencia, para hacerlo del conocimiento de las autoridades judiciales competentes, y Fracción reformada DOF 30-11-2018 XII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XI. Colaborar con el Fiscal General de la República, en la extradición conforme a la ley o tratados y en los exhortos internacionales o comisiones rogatorias para hacerlos llegar a su destino, previo examen de que llenen los requisitos de forma para su diligenciación y de su procedencia o improcedencia, para hacerlo del conocimiento de las autoridades judiciales competentes, y
+Fracción reformada DOF 30-11-2018
+XII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ### Artículo 29
 .- A la Secretaría de la Defensa Nacional, corresponde el despacho de los siguientes asuntos:
 I.- Organizar, administrar y preparar al Ejército, la Fuerza Aérea y la Guardia Nacional;
-Fracción reformada DOF 16-07-2025 II.- Organizar y preparar el servicio militar nacional;
+Fracción reformada DOF 16-07-2025
+II.- Organizar y preparar el servicio militar nacional;
 III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
 IV.- Manejar el activo del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 09-09-2022 Fracción declarada parcialmente inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023 Fracción reformada DOF 16-07-2025 V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 VI.- Planear, dirigir y manejar la movilización del país en caso de guerra; formular y ejecutar, en su caso, los planes y órdenes necesarios para la defensa del país y dirigir y asesorar la defensa civil;
+Fracción reformada DOF 09-09-2022
+Fracción declarada parcialmente inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023
+Fracción reformada DOF 16-07-2025
+V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército, Fuerza Aérea y Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+VI.- Planear, dirigir y manejar la movilización del país en caso de guerra; formular y ejecutar, en su caso, los planes y órdenes necesarios para la defensa del país y dirigir y asesorar la defensa civil;
 VII.- Construir y preparar la infraestructura militar, fortificaciones, fortalezas y toda clase de recintos militares para uso del Ejército, Fuerza Aérea y Guardia Nacional; así como la administración y conservación de cuarteles y hospitales y demás establecimientos militares;
-Fracción reformada DOF 16-07-2025 VIII.- Asesorar militarmente la construcción de toda clase de vías de comunicación terrestres y aéreas;
+Fracción reformada DOF 16-07-2025
+VIII.- Asesorar militarmente la construcción de toda clase de vías de comunicación terrestres y aéreas;
 VIII Bis.- Salvaguardar la soberanía y defender la integridad del territorio nacional, incluyendo su espacio aéreo, en coordinación con la Secretaría de Marina en lo correspondiente a la protección del espacio situado sobre el mar territorial;
-Fracción adicionada DOF 03-05-2023 VIII Ter.- Establecer acciones para garantizar que las operaciones aéreas en el territorio nacional no se realicen con fines ilícitos o atenten contra la seguridad nacional;
-Fracción adicionada DOF 03-05-2023 VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo 80 de la Ley de Aviación Civil;
-Fracción adicionada DOF 03-05-2023 VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, las zonas de vigilancia y protección del espacio aéreo;
-Fracción adicionada DOF 03-05-2023 IX.- Manejar los almacenes del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 X.- Administrar la Justicia Militar;
+Fracción adicionada DOF 03-05-2023
+VIII Ter.- Establecer acciones para garantizar que las operaciones aéreas en el territorio nacional no se realicen con fines ilícitos o atenten contra la seguridad nacional;
+Fracción adicionada DOF 03-05-2023
+VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo 80 de la Ley de Aviación Civil;
+Fracción adicionada DOF 03-05-2023
+VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, las zonas de vigilancia y protección del espacio aéreo;
+Fracción adicionada DOF 03-05-2023
+IX.- Manejar los almacenes del Ejército, Fuerza Aérea y Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+X.- Administrar la Justicia Militar;
 XI.- Intervenir en los indultos de delitos del orden militar;
 XII.- Organizar y prestar los servicios de sanidad militar;
 XIII.- Dirigir la educación profesional de los miembros del Ejército, Fuerza Aérea y Guardia Nacional y coordinar, en su caso, la instrucción militar de la población civil;
-Fracción reformada DOF 16-07-2025 XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 XV.- Inspeccionar los servicios del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no se incluyan las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Fuerza Aérea, Armada y Guardia Nacional, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
-Fracción reformada DOF 30-11-2000, 30-11-2018, 09-09-2022, 16-07-2025 XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+Fracción reformada DOF 16-07-2025
+XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército, Fuerza Aérea y Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+XV.- Inspeccionar los servicios del Ejército, Fuerza Aérea y Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no se incluyan las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Fuerza Aérea, Armada y Guardia Nacional, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+Fracción reformada DOF 30-11-2000, 30-11-2018, 09-09-2022, 16-07-2025
+XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
 XIX.- Prestar los servicios auxiliares que requieran el Ejército, Fuerza Aérea y Guardia Nacional, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
-Fracción reformada DOF 11-01-2021, 16-07-2025 XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente;
-Fracción adicionada DOF 11-01-2021. Reformada DOF 16-07-2025 XXI.- Generar, operar, procesar y utilizar información en materia de seguridad nacional, para advertir riesgos y prevenir amenazas mediante los organismos de inteligencia, que contribuyan a preservar la integridad, estabilidad y permanencia del Estado mexicano, coadyuven con la gobernabilidad y el fortalecimiento del estado de derecho, de conformidad con la legislación aplicable;
-Fracción adicionada DOF 16-07-2025 XXII.- Requerir e intercambiar información en materia de seguridad nacional, previa coordinación con las instancias del Consejo de Seguridad Nacional, para el cumplimiento de sus funciones;
-Fracción adicionada DOF 16-07-2025 XXIII.- En materia de seguridad nacional, coadyuvar y coordinar, en el ámbito de su competencia, con las instancias de seguridad nacional, acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado mexicano;
-Fracción adicionada DOF 16-07-2025 XXIV.- Respecto a la Guardia Nacional, como Fuerza de Seguridad Pública, a la Secretaría de la Defensa Nacional, le corresponde:
+Fracción reformada DOF 11-01-2021, 16-07-2025
+XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente;
+Fracción adicionada DOF 11-01-2021. Reformada DOF 16-07-2025
+XXI.- Generar, operar, procesar y utilizar información en materia de seguridad nacional, para advertir riesgos y prevenir amenazas mediante los organismos de inteligencia, que contribuyan a preservar la integridad, estabilidad y permanencia del Estado mexicano, coadyuven con la gobernabilidad y el fortalecimiento del estado de derecho, de conformidad con la legislación aplicable;
+Fracción adicionada DOF 16-07-2025
+XXII.- Requerir e intercambiar información en materia de seguridad nacional, previa coordinación con las instancias del Consejo de Seguridad Nacional, para el cumplimiento de sus funciones;
+Fracción adicionada DOF 16-07-2025
+XXIII.- En materia de seguridad nacional, coadyuvar y coordinar, en el ámbito de su competencia, con las instancias de seguridad nacional, acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado mexicano;
+Fracción adicionada DOF 16-07-2025
+XXIV.- Respecto a la Guardia Nacional, como Fuerza de Seguridad Pública, a la Secretaría de la Defensa Nacional, le corresponde:
 
 a) Supervisar las operaciones que realice la Guardia Nacional, para la ejecución de la Estrategia Nacional de Seguridad Pública;
 
 b) Verificar el correcto cumplimiento de los fines, atribuciones y obligaciones de la Guardia Nacional; así como, las responsabilidades de su titular, y
 
-c) Establecer coordinación con el Centro Nacional de Inteligencia y el Centro Nacional de Información, para generar, compartir y obtener información en materia de seguridad pública, que contribuya a restablecer el orden y la paz social, y Fracción adicionada DOF 16-07-2025 XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+c) Establecer coordinación con el Centro Nacional de Inteligencia y el Centro Nacional de Información, para generar, compartir y obtener información en materia de seguridad pública, que contribuya a restablecer el orden y la paz social, y
+Fracción adicionada DOF 16-07-2025
+XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 Fracción recorrida DOF 11-01-2021, 16-07-2025
 
 ### Artículo 30
@@ -395,7 +459,9 @@ I.- Organizar, administrar y preparar la Armada;
 II.- Manejar el activo y las reservas de la Armada en todos sus aspectos;
 III.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros de la Armada;
 IV.- Ejercer: a. La soberanía en el mar territorial, su espacio aéreo y costas del territorio; b. Vigilancia, visita, inspección u otras acciones previstas en las disposiciones jurídicas aplicables en las zonas marinas mexicanas, costas y recintos portuarios, sin perjuicio de las atribuciones que correspondan a otras dependencias.
-Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, y Inciso reformado DOF 19-05-2017 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva.
+Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo, y
+Inciso reformado DOF 19-05-2017
+c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva.
 Fracción reformada DOF 04-05-2006
 
 V. Ejercer la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales; así como, en su caso, aguas nacionales donde se realicen actividades de su competencia, en las materias siguientes:
@@ -405,46 +471,71 @@ a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
 
 b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
 
-c) Prevención de la contaminación marina originada por embarcaciones o artefactos navales, así como el vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y Inciso reformado DOF 07-12-2020
+c) Prevención de la contaminación marina originada por embarcaciones o artefactos navales, así como el vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
+Inciso reformado DOF 07-12-2020
 
 d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales de los que el Estado mexicano es parte y la normatividad nacional en la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
-Inciso reformado DOF 07-12-2020 Fracción reformada DOF 04-05-2006, 26-12-2013, 19-12-2016 V Bis. Regular las comunicaciones y transportes por agua, así como formular y conducir las políticas y programas para su desarrollo, de acuerdo a las necesidades del país;
+Inciso reformado DOF 07-12-2020
+Fracción reformada DOF 04-05-2006, 26-12-2013, 19-12-2016
+V Bis. Regular las comunicaciones y transportes por agua, así como formular y conducir las políticas y programas para su desarrollo, de acuerdo a las necesidades del país;
 Fracción adicionada DOF 07-12-2020
 
 VI. Dirigir la educación naval militar y la educación náutica mercante;
-Fracción reformada DOF 07-12-2020 VI Bis. Regular, promover y organizar a la marina mercante, así como establecer los requisitos que deba satisfacer el personal técnico de la marina mercante y conceder las licencias y autorizaciones respectivas;
-Fracción adicionada DOF 07-12-2020 VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
-Fracción reformada DOF 04-05-2006, 19-05-2017 VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
-Fracción adicionada DOF 04-05-2006. Reformada DOF 26-12-2013 VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
-Fracción adicionada DOF 19-12-2016 VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporcionar los servicios de información y seguridad para la navegación marítima;
-Fracción adicionada DOF 19-12-2016 VIII.- Inspeccionar los servicios de la Armada;
+Fracción reformada DOF 07-12-2020
+VI Bis. Regular, promover y organizar a la marina mercante, así como establecer los requisitos que deba satisfacer el personal técnico de la marina mercante y conceder las licencias y autorizaciones respectivas;
+Fracción adicionada DOF 07-12-2020
+VII.- Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, ejerciendo funciones de guardia costera a través de la Armada;
+Fracción reformada DOF 04-05-2006, 19-05-2017
+VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
+Fracción adicionada DOF 04-05-2006. Reformada DOF 26-12-2013
+VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
+Fracción adicionada DOF 19-12-2016
+VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporcionar los servicios de información y seguridad para la navegación marítima;
+Fracción adicionada DOF 19-12-2016
+VIII.- Inspeccionar los servicios de la Armada;
 
 IX. Construir, reconstruir y conservar las obras portuarias que requiera la Armada y la Secretaría de Marina; las obras marítimas, portuarias y de dragado que requiera el país y, en su caso, autorizarlas cuando sobrepasen sus capacidades técnicas y operativas, así como aquellas que requiera el interés nacional en áreas estratégicas y prioritarias vinculadas al desarrollo marítimo;
-Fracción reformada DOF 07-12-2020, 01-12-2023 X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
+Fracción reformada DOF 07-12-2020, 01-12-2023
+X.- Establecer y administrar los almacenes y estaciones de combustibles y lubricantes de la Armada;
 XI.- Ejecutar los trabajos hidrográficos de las costas, islas, puertos y vías navegables, así como organizar el archivo de cartas marítimas y las estadísticas relativas;
-Fracción reformada DOF 04-05-2006 XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas, extranjeras o internacionales en aguas nacionales;
+Fracción reformada DOF 04-05-2006
+XII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas, extranjeras o internacionales en aguas nacionales;
 XII Bis. Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones y transportes por agua con embarcaciones o artefactos navales;
-Fracción adicionada DOF 07-12-2020 XII Ter. Coordinar la implementación de las acciones necesarias con las demás dependencias de la Administración Pública Federal, para el cumplimiento de las disposiciones nacionales e internacionales en materia marítima, en el ámbito de su competencia;
-Fracción adicionada DOF 07-12-2020 XIII.- Intervenir en la administración de la justicia militar;
+Fracción adicionada DOF 07-12-2020
+XII Ter. Coordinar la implementación de las acciones necesarias con las demás dependencias de la Administración Pública Federal, para el cumplimiento de las disposiciones nacionales e internacionales en materia marítima, en el ámbito de su competencia;
+Fracción adicionada DOF 07-12-2020
+XIII.- Intervenir en la administración de la justicia militar;
 XIV.- Construir, mantener y operar astilleros, diques, varaderos, dragas, unidades y establecimientos navales y aeronavales, para el cumplimiento de la misión de la Armada de México, así como prestar servicios en el ámbito de su competencia que coadyuven al desarrollo marítimo nacional, de conformidad con las disposiciones aplicables y en concordancia con las políticas y programas que para dicho desarrollo determine la Secretaría de Infraestructura, Comunicaciones y Transportes y las demás dependencias que tengan relación con el mismo;
-Fracción reformada DOF 04-05-2006, 20-10-2021 XIV Bis. Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
-Fracción adicionada DOF 07-12-2020 XIV Ter. Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
-Fracción adicionada DOF 07-12-2020 XIV Quáter. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes por agua y las tarifas para el cobro de los mismos; otorgar concesiones y permisos, y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con las comunicaciones y transportes por agua; así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes por agua;
-Fracción adicionada DOF 07-12-2020 XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
-Fracción reformada DOF 04-05-2006 XVI.- Organizar y prestar los servicios de sanidad naval;
+Fracción reformada DOF 04-05-2006, 20-10-2021
+XIV Bis. Coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento;
+Fracción adicionada DOF 07-12-2020
+XIV Ter. Administrar los puertos centralizados y coordinar los de la administración paraestatal, y otorgar concesiones y permisos para la ocupación de las zonas federales dentro de los recintos portuarios;
+Fracción adicionada DOF 07-12-2020
+XIV Quáter. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes por agua y las tarifas para el cobro de los mismos; otorgar concesiones y permisos, y fijar las tarifas y reglas de aplicación de todas las maniobras y servicios marítimos, portuarios, auxiliares y conexos relacionados con las comunicaciones y transportes por agua; así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes por agua;
+Fracción adicionada DOF 07-12-2020
+XV.- Emitir opinión con fines de seguridad nacional en los proyectos de construcción de toda clase de vías generales de comunicación por agua y sus partes, relacionados con la ingeniería portuaria marítima y señalamiento marino;
+Fracción reformada DOF 04-05-2006
+XVI.- Organizar y prestar los servicios de sanidad naval;
 XVII.- Programar, fomentar, desarrollar y ejecutar, sin perjuicio de las atribuciones que correspondan a otras dependencias, los trabajos de investigación científica y tecnológica en las ciencias marítimas, creando los institutos de investigación necesarios;
-Fracción reformada DOF 04-05-2006 XVIII.- Integrar el archivo de información oceanográfica nacional, y XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
-Fracción adicionada DOF 04-05-2006 XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, en términos de las disposiciones jurídicas aplicables;
-Fracción adicionada DOF 04-05-2006. Reformada DOF 19-12-2016 XXI.- Participar y llevar a cabo las acciones que le corresponden dentro del marco del sistema nacional de protección civil para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre;
-Fracción adicionada DOF 04-05-2006 XXII.- Adquirir, diseñar y fabricar armamento, municiones, vestuario, y toda clase de medios navales e ingenios materiales, así como intervenir en la importación y exportación de éstos, cuando, sean de uso exclusivo de la Secretaría de Marina-Armada de México;
-Fracción adicionada DOF 04-05-2006 XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los servicios de apoyo a otras dependencias federales, de las entidades federativas y de los municipios que lo soliciten o cuando así lo señale el titular del Ejecutivo Federal;
-Fracción adicionada DOF 04-05-2006 XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
+Fracción reformada DOF 04-05-2006
+XVIII.- Integrar el archivo de información oceanográfica nacional, y XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
+Fracción adicionada DOF 04-05-2006
+XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, en términos de las disposiciones jurídicas aplicables;
+Fracción adicionada DOF 04-05-2006. Reformada DOF 19-12-2016
+XXI.- Participar y llevar a cabo las acciones que le corresponden dentro del marco del sistema nacional de protección civil para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre;
+Fracción adicionada DOF 04-05-2006
+XXII.- Adquirir, diseñar y fabricar armamento, municiones, vestuario, y toda clase de medios navales e ingenios materiales, así como intervenir en la importación y exportación de éstos, cuando, sean de uso exclusivo de la Secretaría de Marina-Armada de México;
+Fracción adicionada DOF 04-05-2006
+XXIII.- Prestar los servicios auxiliares que requiera la Armada, así como los servicios de apoyo a otras dependencias federales, de las entidades federativas y de los municipios que lo soliciten o cuando así lo señale el titular del Ejecutivo Federal;
+Fracción adicionada DOF 04-05-2006
+XXIV.- Intervenir, en el ámbito de su responsabilidad, en la protección y conservación del medio ambiente marino sin perjuicio de las atribuciones que correspondan a otras dependencias;
 Fracción adicionada DOF 04-05-2006
 
 XXV. Inspeccionar, patrullar y llevar a cabo labores de reconocimiento y vigilancia para preservar, las Áreas Naturales Protegidas, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables;
 Fracción adicionada DOF 04-05-2006. Reformada DOF 01-12-2023
 
-XXVI. Coadyuvar en la vigilancia y protección de las instalaciones estratégicas y prioritarias del país, vinculadas al desarrollo nacional, y Fracción adicionada DOF 01-12-2023
+XXVI. Coadyuvar en la vigilancia y protección de las instalaciones estratégicas y prioritarias del país, vinculadas al desarrollo nacional, y
+Fracción adicionada DOF 01-12-2023
 
 XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 Fracción reformada y recorrida DOF 04-05-2006. Recorrida DOF 01-12-2023
@@ -454,7 +545,8 @@ Bis.- A la Secretaría de Seguridad y Protección Ciudadana le corresponde el de
 Párrafo reformado DOF 28-11-2024
 
 I. Formular la Estrategia Nacional de Seguridad Pública y la propuesta de Programa Nacional de Seguridad Pública, dirigir la política de prevención social de las violencias y ejecutar, en el marco de sus atribuciones, las políticas, programas y acciones, así como el programa sectorial correspondiente, con el fin de coordinar la prevención del delito; proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
-Párrafo reformado DOF 28-11-2024 Asimismo, proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal;
+Párrafo reformado DOF 28-11-2024
+Asimismo, proponer al Ejecutivo Federal la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública Federal;
 Fracción reformada DOF 09-09-2022
 
 II. Coordinar el gabinete de seguridad del Gobierno Federal, las acciones para la vigilancia y protección de las instalaciones estratégicas, en términos de ley, así como, en el marco del Sistema Nacional de Seguridad Pública, proponer acciones tendientes a asegurar la coordinación entre la Federación, la Ciudad de México, los estados y los municipios.
@@ -523,36 +615,45 @@ XXV. Recibir las solicitudes de indulto y amnistía formuladas en el ámbito de 
 Fracción adicionada DOF 09-09-2022
 
 XXVI. Prestar servicios de protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones, a las dependencias y entidades de la Administración Pública Federal, así como a los órganos de carácter federal de los Poderes Legislativo y Judicial, organismos constitucionalmente autónomos y demás instituciones públicas que así lo soliciten, y llevar a cabo operaciones especiales y estrategias de investigación e inteligencia derivado de su labor como policía complementaria;
-Párrafo reformado DOF 28-11-2024 Asimismo, podrá prestar dichos servicios a personas físicas o morales cuando se requiera preservar la seguridad de bienes nacionales, de actividades concesionadas o permisionadas por el Estado, u otras que por su condición, relevancia o trascendencia contribuyan al desarrollo nacional, así como a representaciones de gobiernos extranjeros en territorio nacional.
-Los entes públicos o privados que soliciten los servicios deben cubrir el pago autorizado por la Secretaría de Hacienda y Crédito Público por concepto de contraprestación, y Fracción adicionada DOF 09-09-2022
+Párrafo reformado DOF 28-11-2024
+Asimismo, podrá prestar dichos servicios a personas físicas o morales cuando se requiera preservar la seguridad de bienes nacionales, de actividades concesionadas o permisionadas por el Estado, u otras que por su condición, relevancia o trascendencia contribuyan al desarrollo nacional, así como a representaciones de gobiernos extranjeros en territorio nacional.
+Los entes públicos o privados que soliciten los servicios deben cubrir el pago autorizado por la Secretaría de Hacienda y Crédito Público por concepto de contraprestación, y
+Fracción adicionada DOF 09-09-2022
 
 XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
-Fracción recorrida DOF 09-09-2022 Artículo adicionado DOF 30-11-2000. Reformado DOF 24-04-2006, 14-06-2012, 27-12-2012. Derogado DOF 02-01-2013.
+Fracción recorrida DOF 09-09-2022
+Artículo adicionado DOF 30-11-2000. Reformado DOF 24-04-2006, 14-06-2012, 27-12-2012. Derogado DOF 02-01-2013.
 Adicionado DOF 30-11-2018
 
 ### Artículo 31
 .- A la Secretaría de Hacienda y Crédito Público le corresponde el despacho de los siguientes asuntos:
-Párrafo reformado DOF 28-11-2024 I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
+Párrafo reformado DOF 28-11-2024
+I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
 
 II. Proyectar y calcular los ingresos de la Federación y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la Administración Pública Federal;
 Fracción reformada DOF 09-04-2012, 30-11-2018
 
 III. Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la Federación;
-Fracción reformada DOF 09-04-2012, 30-11-2018 IV.- (Se deroga).
+Fracción reformada DOF 09-04-2012, 30-11-2018
+IV.- (Se deroga).
 Fracción derogada DOF 23-12-1993
 
 V. Manejar la deuda pública de la Federación;
-Fracción reformada DOF 09-04-2012, 30-11-2018 VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
+Fracción reformada DOF 09-04-2012, 30-11-2018
+VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
 
 VII. Planear, coordinar, evaluar y vigilar el sistema bancario del país, que comprende a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito;
 Fracción parcialmente “sin efecto” DOF 23-12-1993. Reformada DOF 30-11-2018 VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito;
-Fracción reformada DOF 25-05-1992 IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que lo competa a otra Secretaría;
+Fracción reformada DOF 25-05-1992
+IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que lo competa a otra Secretaría;
 
 X. Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Economía y con la participación de las dependencias que correspondan;
-Fracción reformada DOF 08-12-2005 XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
+Fracción reformada DOF 08-12-2005
+XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
 XII. Organizar y dirigir los servicios aduanales y de inspección;
-Fracción reformada DOF 04-01-1999, 02-01-2013, 18-07-2016 XIII.- Representar el interés de la Federación en controversias fiscales;
+Fracción reformada DOF 04-01-1999, 02-01-2013, 18-07-2016
+XIII.- Representar el interés de la Federación en controversias fiscales;
 XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo nacional;
 
 XV. Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos a la consideración de la persona titular del Ejecutivo Federal;
@@ -562,16 +663,19 @@ XVI. Normar, autorizar y evaluar los programas de inversión pública de la admi
 Fracción reformada DOF 01-10-2007
 
 XVII. Llevar a cabo las tramitaciones y registros que requiera el control y la evaluación del ejercicio del gasto público federal y de los programas y presupuestos de egresos, así como presidir las instancias de coordinación que establezca el Ejecutivo Federal para dar seguimiento al gasto público y sus resultados;
-Fracción reformada DOF 01-10-2007 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
+Fracción reformada DOF 01-10-2007
+XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
 XIX. Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la Administración Pública Federal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
-Fracción reformada DOF 10-04-2003, 01-10-2007, 02-01-2013 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
+Fracción reformada DOF 10-04-2003, 01-10-2007, 02-01-2013
+XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
 XXI. Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Federal;
 Fracción reformada DOF 28-12-1994, 02-01-2013, 18-07-2016
 
 XXII. Se deroga.
-Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
+Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada
+DOF 03-05-2023 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
 XXIV. Ejercer el control presupuestario de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro;
 Fracción derogada DOF 25-05-1992. Adicionada DOF 28-12-1994. Reformada DOF 10-04-2003, 02-01-2013, 18-07-2016
@@ -594,17 +698,20 @@ Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016
 XXX. Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación;
 Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016
 
-XXXI. Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables, y Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016. Recorrida (antes fracción XXXIII) DOF 30-11-2018
+XXXI. Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables, y
+Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016. Recorrida (antes fracción XXXIII) DOF 30-11-2018
 
 XXXII. Nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas o equivalentes, así como, en su caso, a las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores adscritas a dichas unidades. Asimismo, proponer al órgano de gobierno de las entidades paraestatales de la Administración Pública Federal, el nombramiento y la remoción de las personas titulares de sus Unidades de Administración y Finanzas o equivalentes;
 Fracción adicionada DOF 28-11-2024
 
 XXXIII. Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que se determinen en términos de las disposiciones jurídicas aplicables.
-Para tales efectos, llevará a cabo los actos de planeación, investigación de mercado y procedimientos de contratación correspondientes, y Fracción adicionada DOF 28-11-2024
+Para tales efectos, llevará a cabo los actos de planeación, investigación de mercado y procedimientos de contratación correspondientes, y
+Fracción adicionada DOF 28-11-2024
 
 XXXIV. Los demás que le atribuyan expresamente las leyes y reglamentos.
 Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016. Recorrida (antes fracción XXXIV) DOF 30-11-2018.
-Recorrida DOF 28-11-2024 Reforma DOF 30-11-2018: Suprimió del artículo las entonces fracciones XXXI y XXXII (antes adicionadas DOF 02-01-2013 y derogadas DOF 18-07-2016) Artículo reformado DOF 08-12-1978, 29-12-1982, 30-12-1983, 21-02-1992
+Recorrida DOF 28-11-2024 Reforma DOF 30-11-2018: Suprimió del artículo las entonces fracciones XXXI y XXXII (antes adicionadas DOF 02-01-2013 y derogadas DOF 18-07-2016)
+Artículo reformado DOF 08-12-1978, 29-12-1982, 30-12-1983, 21-02-1992
 
 ### Artículo 32
 .- A la Secretaría de Bienestar corresponde el despacho de los siguientes asuntos:
@@ -618,7 +725,8 @@ a) Combate efectivo a la pobreza;
 b) Atención específica a las necesidades de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas; y
 
 c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos y comunidades indígenas y afromexicanas y de las personas con discapacidad;
-Inciso reformado DOF 30-11-2018, 01-04-2024 Fracción reformada DOF 28-12-1994, 02-01-2013
+Inciso reformado DOF 30-11-2018, 01-04-2024
+Fracción reformada DOF 28-12-1994, 02-01-2013
 
 II. Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza;
 Fracción reformada DOF 02-01-2013
@@ -659,7 +767,8 @@ Fracción reformada DOF 30-11-2000, 02-01-2013, 30-11-2018, 01-04-2024
 XIV. Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
 Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-12-2015
 
-XV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-12-2015
+XV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y
+Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-12-2015
 
 XVI. Fomentar y apoyar a las unidades de producción familiar rural de subsistencia;
 Fracción reformada DOF 28-12-1994, 30-11-2000, 02-01-2013, 30-11-2018
@@ -685,10 +794,13 @@ Fracción adicionada DOF 09-08-2019
 XXIII. Ejecutar y dar seguimiento a los acuerdos tomados por el Gabinete Social de la Presidencia de la República, así como convocar a las personas titulares de las entidades que lo conforman a reuniones ordinarias;
 Fracción adicionada DOF 09-08-2019
 
-XXIV. Coordinarse con la persona Titular de la Secretaría Técnica para elaborar y entregar un informe anual al Congreso de la Unión sobre la transferencia, asignación y destino de los Bienes a los que se refiere la Ley Nacional de Extinción de Dominio, así como de las actividades y reuniones del Gabinete Social de la Presidencia de la República, y Fracción adicionada DOF 09-08-2019
+XXIV. Coordinarse con la persona Titular de la Secretaría Técnica para elaborar y entregar un informe anual al Congreso de la Unión sobre la transferencia, asignación y destino de los Bienes a los que se refiere la Ley Nacional de Extinción de Dominio, así como de las actividades y reuniones del Gabinete Social de la Presidencia de la República, y
+Fracción adicionada DOF 09-08-2019
 
 XXV. Las demás que le encomienden expresamente las leyes y reglamentos.
-Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018. Recorrida DOF 09-08-2019 Reforma DOF 30-11-2018: Suprimió del artículo las entonces fracciones XXIII a XXXIII (antes derogadas DOF 28-12-1994) Artículo reformado DOF 08-12-1978, 31-12-1980, 04-01-1982, 29-12-1982. Derogado DOF 21-02-1992. Adicionado DOF 25-05-1992
+Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018. Recorrida DOF 09-08-2019
+Reforma DOF 30-11-2018: Suprimió del artículo las entonces fracciones XXIII a XXXIII (antes derogadas DOF 28-12-1994)
+Artículo reformado DOF 08-12-1978, 31-12-1980, 04-01-1982, 29-12-1982. Derogado DOF 21-02-1992. Adicionado DOF 25-05-1992
 
 ### Artículo 32
 Bis.- A la Secretaría de Medio Ambiente y Recursos Naturales le corresponde el despacho de los siguientes asuntos:
@@ -698,7 +810,8 @@ I. Fomentar la protección, restauración, conservación, preservación y aprove
 Fracción reformada DOF 30-11-2018
 
 II. Formular, conducir y evaluar la política en materia de recursos naturales, siempre que no estén encomendados expresamente a otra dependencia; así como en materia de ecología, saneamiento ambiental, agua, regulación ambiental del desarrollo urbano y de la actividad pesquera, con la participación que corresponda a otras dependencias y entidades;
-Fracción reformada DOF 30-11-2000, 30-11-2018 II Bis. Ejercer acciones para realizar la defensa del derecho a un medio ambiente sano y demás derechos humanos relacionados con el medio ambiente, en términos de las disposiciones jurídicas aplicables;
+Fracción reformada DOF 30-11-2000, 30-11-2018
+II Bis. Ejercer acciones para realizar la defensa del derecho a un medio ambiente sano y demás derechos humanos relacionados con el medio ambiente, en términos de las disposiciones jurídicas aplicables;
 Fracción adicionada DOF 28-11-2024
 
 III. Regular el uso, así como administrar y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción de los hidrocarburos, los minerales radioactivos y demás minerales o substancias competencia de otra dependencia o entidad de la Administración Pública Federal;
@@ -708,7 +821,8 @@ IV. Establecer, con la participación que corresponda a otras dependencias y a l
 Fracción reformada DOF 30-11-2018, 28-11-2024
 
 V. Vigilar, promover y estimular, en coordinación con las autoridades federales, estatales y municipales, el cumplimiento de las leyes, reglamentos, normas oficiales mexicanas y estándares, así como programas relacionados con recursos naturales, medio ambiente, aguas, bosques, la atmósfera, suelos, biodiversidad y demás materias competencia de la Secretaría;
-Fracción reformada DOF 30-11-2018, 28-11-2024, 28-11-2024 V Bis. Identificar e inspeccionar lugares y zonas en materia ambiental en coordinación con las autoridades competentes y, en su caso, iniciar los procedimientos e imponer las sanciones y ordenar las medidas de seguridad y de urgente aplicación que resulten procedentes, de conformidad con las disposiciones aplicables;
+Fracción reformada DOF 30-11-2018, 28-11-2024, 28-11-2024
+V Bis. Identificar e inspeccionar lugares y zonas en materia ambiental en coordinación con las autoridades competentes y, en su caso, iniciar los procedimientos e imponer las sanciones y ordenar las medidas de seguridad y de urgente aplicación que resulten procedentes, de conformidad con las disposiciones aplicables;
 Fracción adicionada DOF 28-11-2024
 
 VI. Proponer al Ejecutivo Federal el establecimiento de áreas naturales protegidas en cualquiera de sus categorías de protección, y promover para su conservación, restauración, remediación, administración y vigilancia, la participación de autoridades federales o locales, de universidades, centros de investigación y particulares;
@@ -816,10 +930,13 @@ Fracción adicionada DOF 28-11-2024
 XLIII. Regular, autorizar y vigilar las actividades forestales productivas, así como coordinar programas de conservación, aprovechamiento sostenible y restauración, de los suelos forestales y sus ecosistemas;
 Fracción adicionada DOF 28-11-2024
 
-XLIV. Planear, ejecutar, supervisar, dirigir y contratar la realización de obras de infraestructura que tengan como finalidad la conservación, rehabilitación, mejoramiento, desarrollo y funcionamiento de las áreas naturales protegidas o áreas cercanas a ellas, en coordinación con las autoridades competentes y las comunidades que las habiten o cotidianamente las ocupen o las transiten, y Fracción adicionada DOF 28-11-2024
+XLIV. Planear, ejecutar, supervisar, dirigir y contratar la realización de obras de infraestructura que tengan como finalidad la conservación, rehabilitación, mejoramiento, desarrollo y funcionamiento de las áreas naturales protegidas o áreas cercanas a ellas, en coordinación con las autoridades competentes y las comunidades que las habiten o cotidianamente las ocupen o las transiten, y
+Fracción adicionada DOF 28-11-2024
 
 XLV. Las demás que le atribuyan expresamente las leyes y reglamentos.
-Fracción reformada y recorrida DOF 05-12-2013. Recorrida DOF 28-11-2024 Artículo adicionado DOF 29-12-1982. Reformado y reenumerado (32-Bis pasa a 32) DOF 21-02-1992. Reenumerado (32 pasa a 32 Bis) DOF 25-05-1992. Reformado DOF 28-12-1994
+Fracción reformada y recorrida DOF 05-12-2013. Recorrida DOF 28-11-2024
+Artículo adicionado DOF 29-12-1982. Reformado y reenumerado (32-Bis pasa a 32) DOF 21-02-1992. Reenumerado (32 pasa a 32 Bis) DOF
+25-05-1992. Reformado DOF 28-12-1994
 
 ### Artículo 33
 .- A la Secretaría de Energía le corresponde el despacho de los siguientes asuntos:
@@ -912,7 +1029,8 @@ Fracción adicionada DOF 11-08-2014. Reformada DOF 18-03-2025
 XXIX. Fijar la política de desarrollo del sector eléctrico que garantice el suministro continuo, confiable, eficiente y sustentable de electricidad en el país, así como establecer los requerimientos obligatorios en materia de fuentes renovables de energía para la generación de energía eléctrica;
 Fracción adicionada DOF 11-08-2014. Reformada DOF 18-03-2025
 
-XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y Fracción adicionada DOF 11-08-2014
+XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y
+Fracción adicionada DOF 11-08-2014
 
 XXXI. Llevar la regulación técnica y económica; así como sancionar en materia energética y de hidrocarburos, en los términos que determine la ley;
 Fracción adicionada DOF 18-03-2025
@@ -929,15 +1047,19 @@ Fracción adicionada DOF 18-03-2025
 XXXV. Requerir información a las personas físicas o morales con actividades en el sector, así como a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia;
 Fracción adicionada DOF 18-03-2025
 
-XXXVI. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios para el desarrollo de las actividades reguladas en materia de biocombustibles y geotermia, y Fracción adicionada DOF 18-03-2025
+XXXVI. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios para el desarrollo de las actividades reguladas en materia de biocombustibles y geotermia, y
+Fracción adicionada DOF 18-03-2025
 
 XXXVII. Los demás que le encomienden expresamente las leyes y reglamentos.
-Fracción adicionada DOF 11-08-2014. Recorrida DOF 18-03-2025 Para el ejercicio de las atribuciones en materia energética y de hidrocarburos, cuenta con un Comité de Asignaciones, Contratos y Permisos, y un Órgano Administrativo Desconcentrado denominado Comisión Nacional de Energía.
-Párrafo adicionado DOF 18-03-2025 Fe de erratas al artículo DOF 02-02-1977. Reformado DOF 29-12-1982, 28-12-1994, 28-11-2008
+Fracción adicionada DOF 11-08-2014. Recorrida DOF 18-03-2025
+Para el ejercicio de las atribuciones en materia energética y de hidrocarburos, cuenta con un Comité de Asignaciones, Contratos y Permisos, y un Órgano Administrativo Desconcentrado denominado Comisión Nacional de Energía.
+Párrafo adicionado DOF 18-03-2025
+Fe de erratas al artículo DOF 02-02-1977. Reformado DOF 29-12-1982, 28-12-1994, 28-11-2008
 
 ### Artículo 34
 .- A la Secretaría de Economía le corresponde el despacho de los siguientes asuntos:
-Párrafo reformado DOF 28-12-1994, 19-12-1995, 30-11-2000, 28-11-2024 I.- Formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país; con excepción de los precios de bienes y servicios de la Administración Pública Federal;
+Párrafo reformado DOF 28-12-1994, 19-12-1995, 30-11-2000, 28-11-2024
+I.- Formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país; con excepción de los precios de bienes y servicios de la Administración Pública Federal;
 II.- Regular, promover y vigilar la comercialización, distribución y consumo de los bienes y servicios;
 III.- Establecer la Política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, en coordinación con las dependencias competentes;
 Fracción reformada DOF 22-07-1991
@@ -946,7 +1068,8 @@ IV. Fomentar, en coordinación con la Secretaría de Relaciones Exteriores en el
 Fracción reformada DOF 19-12-1995, 30-11-2018
 
 V. Estudiar, proyectar y determinar los aranceles escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
-Fracción reformada DOF 30-11-2018 VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
+Fracción reformada DOF 30-11-2018
+VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 Fracción reformada DOF 30-12-1983
 
 VII. Establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
@@ -956,13 +1079,16 @@ IX. Participar con las Secretarías de Bienestar, de Agricultura y Desarrollo Ru
 Fracción reformada DOF 22-07-1991, 28-12-1994, 30-11-2000, 30-11-2018
 
 X. Se deroga.
-Fracción derogada DOF 30-12-2015 X bis. Coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de escasos recursos en áreas urbanas a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, previa calificación, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+Fracción derogada DOF 30-12-2015
+X bis. Coordinar y ejecutar la política nacional para crear y apoyar empresas que asocien a grupos de escasos recursos en áreas urbanas a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, previa calificación, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 Fracción adicionada DOF 30-11-2000
 
 XI. Coordinar y dirigir con la colaboración de la Secretaría de Agricultura y Desarrollo Rural, el Sistema Nacional para el Abasto, con el fin de asegurar la adecuada distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
-Fracción reformada DOF 30-11-2000, 30-11-2018 XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
+Fracción reformada DOF 30-11-2000, 30-11-2018
+XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
 XII bis.- Autorizar el uso o modificación de denominación o razón social de sociedades mercantiles o civiles;
-Fracción adicionada DOF 15-12-2011 XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
+Fracción adicionada DOF 15-12-2011
+XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
 XIV.- Regular y vigilar, de conformidad con las disposiciones aplicables, la prestación del servicio registral mercantil a nivel federal, así como promover y apoyar el adecuado funcionamiento de los registros públicos locales;
 Fracción reformada DOF 28-12-1994
 
@@ -970,17 +1096,20 @@ XV. Fomentar el desarrollo del pequeño comercio rural y urbano, así como promo
 Fracción reformada DOF 28-12-1994, 30-11-2000, 30-11-2018
 
 XVI. Impulsar, en coordinación con las dependencias o entidades de la Administración Pública Federal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren necesarios para garantizar el abasto y el funcionamiento eficiente de los mercados;
-Fracción reformada DOF 30-11-2018 XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
+Fracción reformada DOF 30-11-2018
+XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
 XVIII.- Organizar la distribución y consumo a fin de evitar el acaparamiento y que las intermediaciones innecesarias o excesivas provoquen el encarecimiento de los productos y servicios;
 XIX.- Regular la producción industrial con exclusión de la que esté asignada a otras dependencias;
 XX.- Asesorar a la iniciativa privada en el establecimiento de nuevas industrias en el de las empresas que se dediquen a la exportación de manufacturas nacionales;
 
 XXI. Fomentar, regular y promover el desarrollo de la industria de transformación y definir las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria eléctrica;
-Fracción reformada DOF 30-12-1983, 30-11-2018 XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
+Fracción reformada DOF 30-12-1983, 30-11-2018
+XXII.- Fomentar, estimular y organizar la producción económica del artesanado, de las artes populares y de las industrias familiares;
 XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
 
 XXIV. Promover, orientar, fomentar y estimular el desarrollo de la micro, pequeña y mediana empresa y la microindustria y actividad artesanal, así como regular la organización de productores industriales;
-Fracción reformada DOF 22-07-1991, 30-11-2018 XXIV Bis. Organizar, unificar e implementar, el sistema informático que establecerá expedientes electrónicos empresariales con la finalidad de simplificar los trámites que los interesados realizan ante la Administración Pública Federal centralizada y paraestatal, en coordinación con la Agencia de Transformación Digital y Telecomunicaciones;
+Fracción reformada DOF 22-07-1991, 30-11-2018
+XXIV Bis. Organizar, unificar e implementar, el sistema informático que establecerá expedientes electrónicos empresariales con la finalidad de simplificar los trámites que los interesados realizan ante la Administración Pública Federal centralizada y paraestatal, en coordinación con la Agencia de Transformación Digital y Telecomunicaciones;
 Fracción adicionada DOF 15-12-2011. Reformada DOF 28-11-2024
 
 XXV. Promover y, en su caso, organizar, en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la investigación técnico-industrial;
@@ -995,7 +1124,8 @@ Fracción recorrida DOF 30-12-1983. Reformada DOF 28-12-1994, 30-11-2018, 01-04-
 XXVIII. Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar;
 Fracción adicionada DOF 28-12-1994
 
-XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y Fracción adicionada DOF 28-12-1994
+XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y
+Fracción adicionada DOF 28-12-1994
 
 XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales en coordinación con las autoridades competentes, así como con las entidades federativas, para que se facilite su traslado con infraestructura industrial;
 Fracción adicionada DOF 10-06-2005. Reformada DOF 30-11-2018
@@ -1003,10 +1133,12 @@ Fracción adicionada DOF 10-06-2005. Reformada DOF 30-11-2018
 XXXI. Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
 Fracción adicionada DOF 13-06-2014
 
-XXXII. Establecer, junto con la Secretaría de Energía, la política nacional de fomento a las compras de proveedores nacionales en los sectores de hidrocarburos y electricidad, Fracción adicionada DOF 11-08-2014
+XXXII. Establecer, junto con la Secretaría de Energía, la política nacional de fomento a las compras de proveedores nacionales en los sectores de hidrocarburos y electricidad,
+Fracción adicionada DOF 11-08-2014
 
 XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
-Fracción adicionada DOF 28-12-1994. Recorrida DOF 10-06-2005, 13-06-2014, 11-08-2014 Artículo reformado DOF 08-12-1978, 04-01-1982, 29-12-1982
+Fracción adicionada DOF 28-12-1994. Recorrida DOF 10-06-2005, 13-06-2014, 11-08-2014
+Artículo reformado DOF 08-12-1978, 04-01-1982, 29-12-1982
 
 ### Artículo 35
 .- A la Secretaría de Agricultura y Desarrollo Rural le corresponde el despacho de los siguientes asuntos:
@@ -1016,7 +1148,8 @@ I. Formular, conducir y evaluar la política general de desarrollo rural sustent
 Fracción reformada DOF 28-11-2024
 
 II. Promover la productividad, la producción, el empleo, el ingreso, la sustentabilidad, la resiliencia y la mitigación climáticas en el medio rural, en las actividades de agricultura, ganadería, acuacultura, pesca y desarrollo rural; establecer programas prioritariamente en beneficio de las unidades productivas agroalimentarias de pequeña y mediana escala y de las personas jornaleras en los sectores agrícola y pesquero;
-Fracción reformada DOF 28-11-2024 II Bis. Promover el desarrollo rural del país, conforme a la Ley de Desarrollo Rural Sustentable;
+Fracción reformada DOF 28-11-2024
+II Bis. Promover el desarrollo rural del país, conforme a la Ley de Desarrollo Rural Sustentable;
 Fracción adicionada DOF 28-11-2024
 
 III. Evaluar, integrar e impulsar proyectos de inversión y financiamiento que permitan canalizar, productivamente, recursos públicos y privados al gasto social en el sector agroalimentario; coordinar y ejecutar la política nacional para fortalecer empresas sociales productivas del sector agropecuario, acuícola y pesquero a través de las acciones de planeación, programación, concertación, coordinación; de aplicación, recuperación y revolvencia de recursos, para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
@@ -1093,47 +1226,60 @@ f) Se deroga.
 Inciso derogado DOF 28-11-2024
 
 g) Promover, en coordinación con la Secretaría de Economía, el consumo humano de productos acuícolas y pesqueros, así como contribuir a asegurar el abasto y la distribución de dichos productos y de materia prima a la industria nacional;
-Inciso reformado DOF 28-11-2024 Fracción reformada DOF 30-11-2000
+Inciso reformado DOF 28-11-2024
+Fracción reformada DOF 30-11-2000
 
 XXII. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponda a las Secretarías de Economía y de Bienestar bajo principios que eviten su uso o aprovechamiento indebido o ajeno a los objetivos institucionales;
 Fracción adicionada DOF 30-11-2018
 
-XXIII. Contribuir a la seguridad alimentaria, garantizando el abasto de productos básicos, y Fracción adicionada DOF 30-11-2018
+XXIII. Contribuir a la seguridad alimentaria, garantizando el abasto de productos básicos, y
+Fracción adicionada DOF 30-11-2018
 
 XXIV. Establecer y fomentar políticas, instrumentos y mecanismos en la producción, distribución y comercialización de semillas, en coordinación con las dependencias competentes, con prioridad a las de los cultivos considerados como básicos y estratégicos en la Ley de Desarrollo Rural Sustentable; y otros que la Secretaría establezca como prioridad nacional;
 Fracción adicionada DOF 28-11-2024
 
-XXV. Expedir las normas oficiales mexicanas y, en su caso, estándares en materia agrícola, ganadera, acuícola y pesquera; de bioseguridad de los organismos genéticamente modificados y derivados de la biotecnología; de sanidad vegetal, animal, acuícola y pesquera; de inocuidad, calidad y buenas prácticas agroalimentarias; así como las que por su materia le corresponda expedir de manera conjunta con otras dependencias, y Fracción adicionada DOF 28-11-2024
+XXV. Expedir las normas oficiales mexicanas y, en su caso, estándares en materia agrícola, ganadera, acuícola y pesquera; de bioseguridad de los organismos genéticamente modificados y derivados de la biotecnología; de sanidad vegetal, animal, acuícola y pesquera; de inocuidad, calidad y buenas prácticas agroalimentarias; así como las que por su materia le corresponda expedir de manera conjunta con otras dependencias, y
+Fracción adicionada DOF 28-11-2024
 
 XXVI. Los demás que expresamente le atribuyan las leyes y reglamentos.
-Fracción adicionada DOF 30-11-2000. Recorrida DOF 30-11-2018, 28-11-2024 Artículo reformado DOF 29-12-1982, 22-07-1991, 25-05-1992, 28-12-1994
+Fracción adicionada DOF 30-11-2000. Recorrida DOF 30-11-2018, 28-11-2024
+Artículo reformado DOF 29-12-1982, 22-07-1991, 25-05-1992, 28-12-1994
 
 ### Artículo 36
 .- A la Secretaría de Infraestructura, Comunicaciones y Transportes le corresponde el despacho de los siguientes asuntos:
 Párrafo reformado DOF 20-10-2021, 28-11-2024
 
 I. Formular y conducir las políticas y programas para el desarrollo de las comunicaciones y transporte terrestre y aéreo, de acuerdo a las necesidades del país;
-Fracción reformada DOF 19-12-2016, 07-12-2020 I Bis. Se deroga.
-Fracción adicionada DOF 14-07-2014. Derogada DOF 28-11-2024 I Ter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar obras públicas de infraestructura urbana y para el transporte público de pasajeros, así como intervenciones en espacio público necesarias para el desarrollo, en coordinación con los tres órdenes de gobierno, desde la planeación, programación, presupuestación y ejecución;
-Fracción adicionada DOF 28-11-2024 I Quáter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar infraestructura urbana, para proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
-Fracción adicionada DOF 28-11-2024 I Quinquies. Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+Fracción reformada DOF 19-12-2016, 07-12-2020
+I Bis. Se deroga.
+Fracción adicionada DOF 14-07-2014. Derogada DOF 28-11-2024
+I Ter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar obras públicas de infraestructura urbana y para el transporte público de pasajeros, así como intervenciones en espacio público necesarias para el desarrollo, en coordinación con los tres órdenes de gobierno, desde la planeación, programación, presupuestación y ejecución;
+Fracción adicionada DOF 28-11-2024
+I Quáter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar infraestructura urbana, para proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+Fracción adicionada DOF 28-11-2024
+I Quinquies. Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
 Fracción adicionada DOF 28-11-2024
 
 II. Se deroga.
-Fracción reformada DOF 24-12-1986, 14-07-2014. Derogada DOF 28-11-2024 III.- Se deroga.
-Fracción derogada DOF 14-07-2014 IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
+Fracción reformada DOF 24-12-1986, 14-07-2014. Derogada DOF 28-11-2024
+III.- Se deroga.
+Fracción derogada DOF 14-07-2014
+IV.- Otorgar concesiones y permisos para establecer y operar servicios aéreos en el territorio nacional, fomentar, regular y vigilar su funcionamiento y operación, así como negociar convenios para la prestación de servicios aéreos internacionales;
 V.- Regular y vigilar la administración de los aeropuertos nacionales, conceder permisos para la construcción de aeropuertos particulares y vigilar su operación;
 VI.- Administrar la operación de los servicios de control de tránsito, así como de información y seguridad de la navegación aérea;
 VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, tanto para el transporte de carga, como de pasajeros y la vigilancia técnica de su funcionamiento y operación;
 Fracción reformada DOF 16-07-2025
 
 VIII. Planificar, regular y vigilar la administración y operación del sistema ferroviario;
-Fracción reformada DOF 28-11-2024 IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
+Fracción reformada DOF 28-11-2024
+IX.- Otorgar concesiones y permisos para la explotación de servicios de autotransportes en las carreteras federales y vigilar técnicamente su funcionamiento y operación, así como el cumplimiento de las disposiciones legales respectivas;
 X.- (Se deroga).
-Fracción derogada DOF 04-01-1999 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
+Fracción derogada DOF 04-01-1999
+XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
 XII. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres;
-Fracción reformada DOF 07-12-2020 XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
+Fracción reformada DOF 07-12-2020
+XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
 XIV. Se deroga.
 Fracción derogada DOF 07-12-2020
@@ -1154,12 +1300,14 @@ XIX. Se deroga.
 Fracción derogada DOF 07-12-2020
 
 XX. Se deroga.
-Fracción derogada DOF 07-12-2020 XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
+Fracción derogada DOF 07-12-2020
+XXI.- Construir y conservar los caminos y puentes federales, incluso los internacionales; así como las estaciones y centrales de autotransporte federal;
 XXII.- Construir y conservar caminos y puentes, en cooperación con los gobiernos de las entidades federativas, con los municipios y los particulares;
 XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
 
 XXIV. Otorgar concesiones, asignaciones o permisos para construir las obras que le corresponda ejecutar;
-Fracción reformada DOF 16-07-2025 XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
+Fracción reformada DOF 16-07-2025
+XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
 Fracción reformada DOF 25-05-1992
 
 XXVI. Promover y en su caso organizar la capacitación, investigación y el desarrollo en materia de comunicaciones y transportes; lo que podrá realizar en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
@@ -1177,10 +1325,12 @@ Fracción adicionada DOF 28-11-2024
 XXX. Aplicar la política general de contrataciones públicas en materia de infraestructura y de sistemas de transporte público de pasajeros y sus componentes, conforme a las disposiciones jurídicas aplicables;
 Fracción adicionada DOF 28-11-2024
 
-XXXI. Coadyuvar con la Secretaría de Medio Ambiente y Recursos Naturales en la construcción, restauración, reforzamiento, reconstrucción y rehabilitación de infraestructura para sistemas de reciclamiento y tratamiento de residuos sólidos, estaciones de transferencia, plantas de selección para el reciclaje y de composta, y de cualquier tecnología para el manejo y tratamiento de los residuos sólidos, y Fracción adicionada DOF 28-11-2024
+XXXI. Coadyuvar con la Secretaría de Medio Ambiente y Recursos Naturales en la construcción, restauración, reforzamiento, reconstrucción y rehabilitación de infraestructura para sistemas de reciclamiento y tratamiento de residuos sólidos, estaciones de transferencia, plantas de selección para el reciclaje y de composta, y de cualquier tecnología para el manejo y tratamiento de los residuos sólidos, y
+Fracción adicionada DOF 28-11-2024
 
 XXXII. Los demás que expresamente le fijen las leyes y reglamentos.
-Fracción recorrida DOF 28-11-2024 Artículo reformado DOF 29-12-1982
+Fracción recorrida DOF 28-11-2024
+Artículo reformado DOF 29-12-1982
 
 ### Artículo 37
 .- A la Secretaría Anticorrupción y Buen Gobierno le corresponde el despacho de los siguientes asuntos:
@@ -1279,11 +1429,13 @@ XLV. Llevar a cabo el proceso de evaluación de la confiabilidad de las personas
 
 XLVI. Las demás que le encomienden expresamente las leyes y reglamentos.
 El nombramiento de la persona titular de la Secretaría Anticorrupción y Buen Gobierno que somete la persona titular del Ejecutivo Federal a ratificación del Senado de la República, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley General de Responsabilidades Administrativas.
-Artículo reformado DOF 04-01-1982, 29-12-1982. Derogado DOF 25-05-1992. Adicionado DOF 28-12-1994. Reformado DOF 24-12-1996, 30-11-2000, 13-03-2002, 10-04-2003, 01-10-2007, 09-04-2012. Derogado DOF 02-01-2013. Adicionado DOF 18-07-2016. Reformado DOF 30-11-2018, 03-05-2023, 28-11-2024
+Artículo reformado DOF 04-01-1982, 29-12-1982. Derogado DOF 25-05-1992. Adicionado DOF 28-12-1994. Reformado DOF 24-12-1996,
+30-11-2000, 13-03-2002, 10-04-2003, 01-10-2007, 09-04-2012. Derogado DOF 02-01-2013. Adicionado DOF 18-07-2016. Reformado DOF 30-11-2018, 03-05-2023, 28-11-2024
 
 ### Artículo 38
 .- A la Secretaría de Educación Pública le corresponde el despacho de los siguientes asuntos:
-Párrafo reformado DOF 28-11-2024 I.- Organizar, vigilar y desarrollar en las escuelas oficiales, incorporadas o reconocidas;
+Párrafo reformado DOF 28-11-2024
+I.- Organizar, vigilar y desarrollar en las escuelas oficiales, incorporadas o reconocidas;
 
 a) La enseñanza preescolar, primaria, secundaria y normal, urbana, semiurbana y rural.
 
@@ -1302,7 +1454,8 @@ II. Organizar y desarrollar la educación artística, en coordinación con la Se
 Fracción reformada DOF 17-12-2015
 
 III. Establecer, en colaboración con el Instituto Nacional para la Evaluación de la Educación, un sistema destinado a obtener, sistematizar, procesar, automatizar, analizar, estudiar, difundir y poner al alcance de la sociedad, información sobre la operación, cobertura, equidad, calidad y demás atributos y condiciones estructurales del sistema educativo nacional;
-Fracción reformada DOF 30-11-2018 IV.- Crear y mantener, en su caso, escuelas de todas clases que funcionen en la República, dependientes de la Federación, exceptuadas las que por la Ley estén adscritas a otras dependencias del Gobierno Federal;
+Fracción reformada DOF 30-11-2018
+IV.- Crear y mantener, en su caso, escuelas de todas clases que funcionen en la República, dependientes de la Federación, exceptuadas las que por la Ley estén adscritas a otras dependencias del Gobierno Federal;
 V.- Vigilar que se observen y cumplan las disposiciones relacionadas con la educación preescolar, primaria, secundaria, técnica y normal, establecidas en la Constitución y prescribir las normas a que debe ajustarse la incorporación de las escuelas particulares al sistema educativo nacional;
 VI.- Ejercer la supervisión y vigilancia que proceda en los planteles que impartan educación en la República, conforme a lo prescrito por el Artículo 3o. Constitucional;
 VII.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas generales o especializadas que sostenga la propia Secretaría o que formen parte de sus dependencias;
@@ -1314,7 +1467,8 @@ IX. Patrocinar la realización de congresos, asambleas y reuniones, eventos, com
 Fracción reformada DOF 17-12-2015
 
 X. Fomentar la lectura en todo el país, especialmente entre la niñez y la juventud, así como crear repositorios en bibliotecas, tanto físicas como digitales, dirigidos a fortalecer la identidad colectiva y acrecentar la memoria histórica y cultural nacional, regional, local y comunitaria;
-Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018 XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
+Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
+XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
 Fracción reformada DOF 29-12-1982, 21-02-1992
 
 XII. Garantizar la capacitación y formación continuas del magisterio del país, así como del personal directivo y de supervisión escolar, con el fin de contribuir a su profesionalización y al desarrollo de competencias docentes, incluidas las referidas al aprovechamiento de tecnologías de la información y comunicación;
@@ -1324,7 +1478,8 @@ XIII. Otorgar becas, en coordinación con la Secretaría de Ciencia, Humanidades
 Fracción reformada DOF 28-11-2024
 
 XIV. Regir el sistema educativo nacional; formular, regular, coordinar y conducir la política educativa que competa al Ejecutivo y contribuir al fortalecimiento de las instituciones educativas públicas;
-Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018 XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
+Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
+XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
 XVI.- Vigilar, con auxilio de las asociaciones de profesionistas, el correcto ejercicio de las profesiones;
 
 XVII. Participar en la coordinación de los programas en que la educación sea uno de sus componentes, particularmente los de desarrollo en la primera infancia;
@@ -1343,7 +1498,8 @@ XXI. Establecer los acuerdos para cumplir lo dispuesto por el artículo 3o. cons
 Fracción reformada DOF 28-12-1994. Derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
 
 XXII. Ejercer las facultades conferidas a la Federación en el artículo 3o. constitucional, salvo las que se atribuyan expresamente a otro organismo, con la participación de las autoridades de las entidades federativas, municipios y otros actores educativos;
-Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018 XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
+Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
+XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
 XXIV.- Cooperar en las tareas que desempeñe la Confederación Deportiva y mantener la Escuela de Educación Física;
 
 XXV. Formular normas y programas, y ejecutar acciones para promover la educación física, el deporte para todas las personas, el deporte estudiantil, el deporte selectivo, deporte social, comunitario y las artes; promover y en su caso, organizar la formación y capacitación de instructores, entrenadores, profesores y licenciados en especialidades de cultura física y deporte; fomentar los estudios de posgrado y la investigación de las ciencias del deporte, así como la creación de esquemas de financiamiento al deporte con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
@@ -1362,7 +1518,8 @@ XXIX. Establecer los criterios educativos en la producción cinematográfica, de
 Fracción reformada DOF 29-12-1982, 17-12-2015
 
 XXX. Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centros de estudio, programas de recreación y de atención a los problemas de los jóvenes, así como crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran;
-Fracción reformada DOF 30-11-2018 XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional, cuando se trate de cuestiones educativas, y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras públicas que tengan preponderantemente fines educativos, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia proponga la Secretaría de Cultura;
+Fracción reformada DOF 30-11-2018
+XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional, cuando se trate de cuestiones educativas, y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras públicas que tengan preponderantemente fines educativos, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia proponga la Secretaría de Cultura;
 Fracción adicionada DOF 30-11-2000. Reformada DOF 09-04-2012, 17-12-2015, 30-11-2018
 
 XXXI. Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo con las autoridades educativas de las entidades federativas y de los municipios, con el magisterio nacional, con instituciones especializadas en educación, con agrupaciones ciudadanas, organizaciones sociales y demás actores sociales en la materia;
@@ -1374,7 +1531,8 @@ Fracción adicionada DOF 30-11-2018
 XXXIII. Fortalecer, con el apoyo de la Agencia de Transformación Digital y Telecomunicaciones, el acceso a la información digital en los espacios escolares, así como la conectividad en éstos a redes de telecomunicaciones;
 Fracción adicionada DOF 30-11-2018. Reformada DOF 20-10-2021, 28-11-2024
 
-XXXIV. La promoción de la salud en el entorno escolar, en coordinación con las autoridades del sector, y Fracción adicionada DOF 28-11-2024
+XXXIV. La promoción de la salud en el entorno escolar, en coordinación con las autoridades del sector, y
+Fracción adicionada DOF 28-11-2024
 
 XXXV. Los demás que le fijen expresamente las leyes y reglamentos.
 Fracción recorrida DOF 30-11-2018, 28-11-2024
@@ -1460,7 +1618,8 @@ II. Crear y administrar establecimientos de salud, de asistencia social, de medi
 Fracción reformada DOF 29-12-1982, 30-11-2018, 28-11-2024
 
 III. Aplicar a la asistencia social, los fondos que le proporcione la Lotería Nacional y administrar el patrimonio de la Beneficencia Pública y de los bienes y fondos que el Gobierno Federal destine para la atención de los servicios de asistencia social, en los términos de las disposiciones legales aplicables, a fin de apoyar los programas de salud;
-Fracción reformada DOF 21-01-1985, 28-11-2024 IV.- Organizar y vigilar las instituciones de beneficencia privada, en los términos de las leyes relativas, e integrar sus patronatos, respetando la voluntad de los fundadores;
+Fracción reformada DOF 21-01-1985, 28-11-2024
+IV.- Organizar y vigilar las instituciones de beneficencia privada, en los términos de las leyes relativas, e integrar sus patronatos, respetando la voluntad de los fundadores;
 
 V. Planear, normar, coordinar y evaluar el Sistema Nacional de Salud y proveer la adecuada participación de las dependencias y entidades públicas que presten servicios de salud, a fin de asegurar el cumplimiento del derecho a la protección de la salud. Asimismo, propiciará y coordinará la participación de los sectores social y privado en dicho sistema y determinará las políticas y acciones de concertación entre los diferentes subsistemas del sector público;
 Fracción reformada DOF 28-11-2024
@@ -1472,22 +1631,26 @@ VII. Planear, normar y controlar los servicios de salud pública, asistencia soc
 Fracción reformada DOF 29-12-1982, 21-01-1985, 28-11-2024
 
 VIII. Dictar la política y normativa para la prestación de servicios de salud en las materias de salud pública, atención médica, y asistencia social, por parte de los sectores público, social y privado, y verificar su cumplimiento;
-Fracción reformada DOF 21-01-1985, 28-11-2024 IX.- Organizar y administrar servicios sanitarios generales en toda la República;
+Fracción reformada DOF 21-01-1985, 28-11-2024
+IX.- Organizar y administrar servicios sanitarios generales en toda la República;
 
 X. Dirigir acciones de inspección médico sanitaria, con excepción de la agropecuaria, salvo cuando se trate de preservar la salud humana;
 Fracción reformada DOF 30-11-2018
 
 XI. Dirigir acciones de inspección médico sanitaria especial en los puertos, costas y fronteras, con excepción de la agropecuaria, salvo cuando afecte o pueda afectar a la salud humana;
-Fracción reformada DOF 30-11-2018 XII.- Realizar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
+Fracción reformada DOF 30-11-2018
+XII.- Realizar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
 
 XIII. Realizar el control de la preparación, aplicación, posesión, uso, suministro, importación, exportación y distribución de medicamentos, productos biológicos, vacunas, insumos y dispositivos médicos, a excepción de los de uso veterinario;
-Fracción reformada DOF 28-11-2024 XIV.- Regular la higiene veterinaria exclusivamente en lo que se relaciona con los alimentos que puedan afectar a la salud humana;
+Fracción reformada DOF 28-11-2024
+XIV.- Regular la higiene veterinaria exclusivamente en lo que se relaciona con los alimentos que puedan afectar a la salud humana;
 
 XV. Se deroga.
 Fracción derogada DOF 28-11-2024
 
 XVI. Estudiar, adaptar, promover y poner en vigor las medidas necesarias, contra las enfermedades transmisibles y no transmisibles, así como las situaciones sociales en materia de salud y adicciones que afectan a la salud física y mental de las personas;
-Fracción reformada DOF 28-11-2024 XVII.- Poner en práctica las medidas tendientes a conservar la salud y la vida de los trabajadores del campo y de la ciudad y la higiene industrial, con excepción de lo que se relaciona con la previsión social en el trabajo;
+Fracción reformada DOF 28-11-2024
+XVII.- Poner en práctica las medidas tendientes a conservar la salud y la vida de los trabajadores del campo y de la ciudad y la higiene industrial, con excepción de lo que se relaciona con la previsión social en el trabajo;
 
 XVIII. Administrar y controlar las escuelas, institutos y servicios sanitarios establecidos por la Federación en toda la República, exceptuando aquellos que se relacionan exclusivamente con la sanidad animal;
 Fracción reformada DOF 28-11-2024
@@ -1516,7 +1679,8 @@ Fracción adicionada DOF 30-11-2018. Reformada DOF 28-11-2024
 XXVI. Promover acciones de coordinación con otras dependencias y entidades de la Administración Pública Federal para abordar conjuntamente los determinantes sociales de la salud;
 Fracción adicionada DOF 30-11-2018
 
-XXVII. Integrar y administrar una Base Nacional de Información en Salud, alimentada de manera obligatoria por los prestadores de servicios de atención a la salud, tanto públicos como privados, con información nominal de la prestación de sus servicios, a fin de contar con una base de datos que permita, entre otros aspectos que determine la propia Secretaría, la evaluación de su desempeño, el intercambio de servicios y la planeación estratégica de las políticas, criterios y directrices en materia de salud, y Fracción adicionada DOF 28-11-2024
+XXVII. Integrar y administrar una Base Nacional de Información en Salud, alimentada de manera obligatoria por los prestadores de servicios de atención a la salud, tanto públicos como privados, con información nominal de la prestación de sus servicios, a fin de contar con una base de datos que permita, entre otros aspectos que determine la propia Secretaría, la evaluación de su desempeño, el intercambio de servicios y la planeación estratégica de las políticas, criterios y directrices en materia de salud, y
+Fracción adicionada DOF 28-11-2024
 
 XXVIII. Los demás que le fijen expresamente las leyes y reglamentos.
 Fracción recorrida DOF 29-12-1982. Reformada y recorrida DOF 28-12-1994, 30-11-2018. Recorrida DOF 28-11-2024
@@ -1526,10 +1690,12 @@ Fracción recorrida DOF 29-12-1982. Reformada y recorrida DOF 28-12-1994, 30-11-
 I.- Vigilar la observancia y aplicación de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
 II.- Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales relativas;
 III.- Intervenir en los contratos de trabajo de los nacionales que vayan a prestar sus servicios en el extranjero, en cooperación con las Secretarías de Gobernación, de Economía y de Relaciones Exteriores;
-Fracción reformada DOF 30-11-2000 IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
+Fracción reformada DOF 30-11-2000
+IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
 V.- Promover el incremento de la productividad del trabajo;
 VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública;
-Fracción reformada DOF 30-12-1983 VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
+Fracción reformada DOF 30-12-1983
+VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
 VIII.- Coordinar la integración y establecimiento de las Juntas Federales de Conciliación, de la Federal de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción federal, así como vigilar su funcionamiento;
 IX.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción federal que se ajusten a las leyes;
 X.- Promover la organización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo, en coordinación con las dependencias competentes, así como resolver, tramitar y registrar su constitución, disolución y liquidación;
@@ -1539,7 +1705,8 @@ XII. Dirigir y coordinar la Procuraduría Federal de la Defensa del Trabajo;
 XIII.- Organizar y patrocinar exposiciones y museos de trabajo y previsión social;
 XIV.- Participar en los congresos y reuniones internacionales de trabajo, de acuerdo con la Secretaría de Relaciones Exteriores;
 XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
-Fracción reformada DOF 21-02-1992 XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
+Fracción reformada DOF 21-02-1992
+XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
 XVII.- Estudiar y proyectar planes para impulsar la ocupación en el país;
 
 XVIII. Promover la cultura y recreación entre los trabajadores y sus familias;
@@ -1551,10 +1718,12 @@ Fracción adicionada DOF 30-11-2018
 XX. Dar cumplimiento a los convenios internacionales en materia de derechos laborales;
 Fracción adicionada DOF 30-11-2018
 
-XXI. Promover la organización de los jornaleros agrícolas y garantizar la protección laboral y de seguridad social que establece la legislación aplicable, y Fracción adicionada DOF 30-11-2018
+XXI. Promover la organización de los jornaleros agrícolas y garantizar la protección laboral y de seguridad social que establece la legislación aplicable, y
+Fracción adicionada DOF 30-11-2018
 
 XXII. Los demás que le fijen expresamente las leyes y reglamentos.
-Fracción recorrida DOF 30-12-1983, 30-11-2018 Artículo reformado DOF 29-12-1982
+Fracción recorrida DOF 30-12-1983, 30-11-2018
+Artículo reformado DOF 29-12-1982
 
 ### Artículo 41
 .- A la Secretaría de Desarrollo Agrario, Territorial y Urbano le corresponde el despacho de los siguientes asuntos:
@@ -1573,7 +1742,8 @@ Inciso reformado DOF 30-11-2018
 d) Los procesos de planeación de los asentamientos humanos y el desarrollo urbano, los relacionados a la conservación y aprovechamiento sustentable de los ecosistemas, recursos naturales y sus elementos;
 Inciso adicionado DOF 30-11-2018
 
-e) La planeación habitacional y del desarrollo de vivienda, y Inciso reformado y recorrido DOF 30-11-2018
+e) La planeación habitacional y del desarrollo de vivienda, y
+Inciso reformado y recorrido DOF 30-11-2018
 
 f) El aprovechamiento de las ventajas productivas de las diversas regiones del país;
 Inciso recorrido DOF 30-11-2018
@@ -1639,10 +1809,12 @@ Fracción adicionada DOF 30-11-2018. Reformada DOF 28-11-2024
 XXVI. Emitir opinión ante la Secretaría de Hacienda y Crédito Público en los proyectos de inversión pública con impacto territorial, regional y urbano;
 Fracción adicionada DOF 30-11-2018
 
-XXVII. Diseñar los programas de modernización de los registros públicos inmobiliarios así como los catastros, a través de la administración de la plataforma nacional de información a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y Fracción adicionada DOF 30-11-2018
+XXVII. Diseñar los programas de modernización de los registros públicos inmobiliarios así como los catastros, a través de la administración de la plataforma nacional de información a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y
+Fracción adicionada DOF 30-11-2018
 
 XXVIII. Los demás que le fijen expresamente las leyes y reglamentos.
-Fracción recorrida DOF 30-11-2018 Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013
+Fracción recorrida DOF 30-11-2018
+Artículo reformado DOF 29-12-1982, 30-11-2000, 02-01-2013
 
 ### Artículo 41
 Bis.- A la Secretaría de Cultura le corresponde el despacho de los siguientes asuntos:
@@ -1714,16 +1886,20 @@ Fracción adicionada DOF 30-11-2018
 XXV. Coordinar, en colaboración con las autoridades correspondientes en las entidades federativas, los municipios y comunidades, acciones de fomento, vinculación, desarrollo y difusión de la producción artística, dentro del territorio nacional y en el extranjero;
 Fracción adicionada DOF 30-11-2018
 
-XXVI. Promover la creación artística y el acceso a la cultura, así como el ejercicio de los derechos culturales, y Fracción adicionada DOF 30-11-2018
+XXVI. Promover la creación artística y el acceso a la cultura, así como el ejercicio de los derechos culturales, y
+Fracción adicionada DOF 30-11-2018
 
 XXVII. Los demás que le fijen expresamente las leyes y reglamentos.
-Fracción recorrida DOF 30-11-2018 Artículo adicionado DOF 17-12-2015
+Fracción recorrida DOF 30-11-2018
+Artículo adicionado DOF 17-12-2015
 
 ### Artículo 42
 .- A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
-Párrafo reformado DOF 28-11-2024 I.- Formular y conducir la política de desarrollo de la actividad turística nacional;
+Párrafo reformado DOF 28-11-2024
+I.- Formular y conducir la política de desarrollo de la actividad turística nacional;
 II.- Promover, en coordinación con las entidades federativas, las zonas de desarrollo turístico nacional y formular en forma conjunta con la Secretaría de Medio Ambiente y Recursos Naturales la declaratoria respectiva;
-Fracción reformada DOF 30-11-2000 III.- Participar con voz y voto en las comisiones Consultiva de Tarifas y la Técnica Consultiva de Vías Generales de Comunicación;
+Fracción reformada DOF 30-11-2000
+III.- Participar con voz y voto en las comisiones Consultiva de Tarifas y la Técnica Consultiva de Vías Generales de Comunicación;
 IV.- Registrar a los prestadores de servicios turísticos, en los términos señalados por las leyes;
 V.- Promover y opinar el otorgamiento de facilidades y franquicias a los prestadores de servicios turísticos y participar con la Secretaría de Hacienda y Crédito Público, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
@@ -1731,18 +1907,22 @@ VI. Participar con la Secretaría de Hacienda y Crédito Público en el establec
 Fracción reformada DOF 17-06-2009
 
 VII. Se Deroga.
-Fracción derogada DOF 17-06-2009 VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
+Fracción derogada DOF 17-06-2009
+VIII.- Estimular la formación de asociaciones, comités y patronatos de carácter público, privado o mixto, de naturaleza turística;
 IX.- Emitir opinión ante la Secretaría de Economía, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos;
-Fracción reformada DOF 30-11-2000 X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
+Fracción reformada DOF 30-11-2000
+X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
 XI.- Promover y facilitar el intercambio y desarrollo turístico en el exterior, en coordinación con la Secretaría de Relaciones Exteriores;
 
 XII. Promover, y en su caso, organizar en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la capacitación, investigación y el desarrollo tecnológico en materia turística;
-Fracción reformada DOF 28-11-2024 XIII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que en esta materia efectúen las entidades del gobierno federal, las autoridades estatales y municipales y promover la que efectúan los sectores social y privado;
+Fracción reformada DOF 28-11-2024
+XIII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que en esta materia efectúen las entidades del gobierno federal, las autoridades estatales y municipales y promover la que efectúan los sectores social y privado;
 XIV.- Promover, coordinar, y en su caso, organizar los espectáculos, congresos, excursiones, audiciones, representaciones y otros eventos tradicionales y folklóricos de carácter oficial, para atracción turística;
 XV.- Fijar y en su caso, modificar las categorías de los prestadores de servicios turísticos por ramas:
 XVI.- Autorizar los reglamentos interiores de los establecimientos de servicios al turismo;
 XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
-Fracción reformada DOF 21-02-1992 XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
+Fracción reformada DOF 21-02-1992
+XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
 XIX.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado;
 XX.- Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación de las disposiciones en materia turística, y XXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 Artículo reformado DOF 29-12-1982
@@ -1851,20 +2031,24 @@ V.- Prestar asesoría jurídica cuando el Presidente de la República así lo ac
 VI.- Coordinar los programas de normatividad jurídica de la Administración Pública Federal que apruebe el Presidente de la República y procurar la congruencia de los criterios jurídicos de las dependencias y entidades;
 VII.- Presidir la Comisión de Estudios Jurídicos del Gobierno Federal, integrada por los responsables de las unidades de asuntos jurídicos de cada dependencia de la Administración Pública Federal, la que tendrá por objeto la coordinación en materia jurídica de las dependencias y entidades de la Administración Pública Federal.
 El Consejero Jurídico nombrará y, en su caso, removerá a los titulares de las unidades encargadas del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal, quienes estarán adscritos administrativa y presupuestalmente a las dependencias y entidades respectivas;
-Párrafo reformado DOF 30-11-2018 VIII.- Participar, junto con las demás dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
+Párrafo reformado DOF 30-11-2018
+VIII.- Participar, junto con las demás dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
 IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
 
 X. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios y procedimientos en que el titular del Ejecutivo Federal intervenga con cualquier carácter. En el caso de los juicios y procedimientos, la Consejería Jurídica del Ejecutivo Federal podrá determinar la dependencia en la que recaerá la representación para la defensa de la Federación. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
 Fracción reformada DOF 02-04-2013, 12-04-2019
 
-XI. Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y Fracción adicionada DOF 02-04-2013
+XI. Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
+Fracción adicionada DOF 02-04-2013
 
 XII. Las demás que le atribuyan expresamente las leyes y reglamentos.
-Fracción recorrida DOF 02-04-2013 Artículo reformado DOF 04-01-1982, 29-12-1982, 22-07-1991, 25-05-1992. Derogado DOF 28-12-1994. Adicionado DOF 15-05-1996
+Fracción recorrida DOF 02-04-2013
+Artículo reformado DOF 04-01-1982, 29-12-1982, 22-07-1991, 25-05-1992. Derogado DOF 28-12-1994. Adicionado DOF 15-05-1996
 
 ### Artículo 43
 Bis.- Las dependencias de la Administración Pública Federal enviarán a la Consejería Jurídica del Ejecutivo Federal los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso de la Unión o a una de sus cámaras, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de Ley de Ingresos y proyecto de Presupuesto de Egresos de la Federación, y en aquellos otros de notoria urgencia a juicio del Presidente de la República; en su caso, estos últimos serán sometidos al titular del Poder Ejecutivo Federal por conducto de la Consejería Jurídica.
-Párrafo reformado DOF 30-11-2018 Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
+Párrafo reformado DOF 30-11-2018
+Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
 Artículo adicionado DOF 15-05-1996
 
 ### Artículo 43
@@ -1873,16 +2057,23 @@ Artículo adicionado DOF 11-08-2014. Reformado DOF 03-05-2023. Derogado DOF 18-0
 
 ### Artículo 44
 .- Las personas titulares de los órganos internos de control en las dependencias, incluso en sus órganos administrativos desconcentrados y en las entidades de la Administración Pública Federal, así como de las unidades de responsabilidades o equivalentes en las Empresas Públicas del Estado y las áreas que les estén adscritas, conforme al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno, son responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en la materia, en términos de las políticas, directrices y normativa que emita la Secretaría Anticorrupción y Buen Gobierno y las disposiciones jurídicas aplicables y conforme al Plan Anual de Fiscalización que emita dicha Secretaría.
-Párrafo reformado DOF 03-05-2023, 28-11-2024, 18-03-2025 Las atribuciones señaladas se ejercerán respecto de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales o Empresas Públicas del Estado, y a las personas servidoras públicas que les estén adscritas presupuestal y estructuralmente conforme a la competencia señalada en las disposiciones jurídicas aplicables para los órganos internos de control, ya sea por sector, materia, especialidad, función específica o ente público.
-Párrafo adicionado DOF 03-05-2023. Reformado DOF 18-03-2025 Los órganos internos de control, en ejercicio de su función de fiscalización, prevista en la fracción XLI del artículo 37 de esta Ley, se regirán por las leyes y disposiciones jurídicas sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y materias afines. Asimismo, se conducirán conforme a las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría Anticorrupción y Buen Gobierno, respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
-Párrafo reformado DOF 03-05-2023, 28-11-2024 Las unidades encargadas de la función de fiscalización de la Secretaría Anticorrupción y Buen Gobierno y los órganos internos de control formarán parte del Sistema Nacional de Fiscalización e del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
-Párrafo reformado DOF 03-05-2023, 28-11-2024 Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+Párrafo reformado DOF 03-05-2023, 28-11-2024, 18-03-2025
+Las atribuciones señaladas se ejercerán respecto de las dependencias, incluyendo sus órganos administrativos desconcentrados, entidades paraestatales o Empresas Públicas del Estado, y a las personas servidoras públicas que les estén adscritas presupuestal y estructuralmente conforme a la competencia señalada en las disposiciones jurídicas aplicables para los órganos internos de control, ya sea por sector, materia, especialidad, función específica o ente público.
+Párrafo adicionado DOF 03-05-2023. Reformado DOF 18-03-2025
+Los órganos internos de control, en ejercicio de su función de fiscalización, prevista en la fracción XLI del artículo 37 de esta Ley, se regirán por las leyes y disposiciones jurídicas sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y materias afines. Asimismo, se conducirán conforme a las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Nacional Anticorrupción y la Secretaría Anticorrupción y Buen Gobierno, respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias, incluyendo sus órganos administrativos desconcentrados, y entidades paraestatales de la Administración Pública Federal y presentación de informes por parte de dichos órganos.
+Párrafo reformado DOF 03-05-2023, 28-11-2024
+Las unidades encargadas de la función de fiscalización de la Secretaría Anticorrupción y Buen Gobierno y los órganos internos de control formarán parte del Sistema Nacional de Fiscalización e del Sistema Nacional Anticorrupción y las mejores prácticas que considere el referido sistema.
+Párrafo reformado DOF 03-05-2023, 28-11-2024
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
 Las personas titulares de las unidades encargadas de la función de fiscalización de la Secretaría Anticorrupción y Buen Gobierno y de los órganos internos de control, entregarán, en enero de cada año, un informe del resultado de la fiscalización del año inmediato anterior a la persona titular de dicha Secretaría. El informe contendrá lo siguiente: el resumen de los resultados de la fiscalización y los hallazgos detectados, las recomendaciones preventivas y al desempeño; las observaciones correctivas; las promociones de responsabilidades administrativas sancionatorias y las promociones del ejercicio de la facultad de comprobación fiscal; las denuncias de hechos, así como las sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Federal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Materia de Combate a la Corrupción, y la información detallada del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
-Párrafo reformado DOF 03-05-2023, 28-11-2024 Con base en dicho informe, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades paraestatales, así como la Secretaría Anticorrupción y Buen Gobierno, implementarán las acciones pertinentes para la mejora de la gestión.
-Párrafo reformado DOF 03-05-2023, 28-11-2024 Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+Párrafo reformado DOF 03-05-2023, 28-11-2024
+Con base en dicho informe, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Nacional Anticorrupción, tanto las dependencias y entidades paraestatales, así como la Secretaría Anticorrupción y Buen Gobierno, implementarán las acciones pertinentes para la mejora de la gestión.
+Párrafo reformado DOF 03-05-2023, 28-11-2024
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Nacional Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 Artículo derogado DOF 04-12-1997. Adicionado DOF 02-01-2013. Reformado DOF 18-07-2016
 
 ## CAPÍTULO III — Del Gabinete Social de la Presidencia de la República
+
 Capítulo adicionado DOF 09-08-2019
 
 ### Artículo 44
@@ -1913,9 +2104,12 @@ X. La persona Titular del Sistema Nacional para el Desarrollo Integral de la Fam
 XI. La persona Titular de la Comisión Nacional contra las Adicciones.
 
 XII. La persona titular de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
-Fracción adicionada DOF 28-11-2024 Los integrantes del Gabinete Social de la Presidencia de la República no podrán nombrar suplente. En caso de ausencia de la persona titular del Ejecutivo Federal, la persona Titular de la Secretaría Ejecutiva presidirá la reunión.
-Párrafo reformado DOF 28-11-2024 Podrán ser invitados otras personas titulares de las Secretarías de Estado o personas titulares de entidades paraestatales a las sesiones de este Gabinete.
-Párrafo reformado DOF 28-11-2024 Artículo adicionado DOF 09-08-2019
+Fracción adicionada DOF 28-11-2024
+Los integrantes del Gabinete Social de la Presidencia de la República no podrán nombrar suplente. En caso de ausencia de la persona titular del Ejecutivo Federal, la persona Titular de la Secretaría Ejecutiva presidirá la reunión.
+Párrafo reformado DOF 28-11-2024
+Podrán ser invitados otras personas titulares de las Secretarías de Estado o personas titulares de entidades paraestatales a las sesiones de este Gabinete.
+Párrafo reformado DOF 28-11-2024
+Artículo adicionado DOF 09-08-2019
 
 ### Artículo 44
 Ter.- El Gabinete Social de la Presidencia de la República tendrá a su cargo las atribuciones siguientes:
@@ -1945,7 +2139,8 @@ Quáter.- El Gabinete Social de la Presidencia de la República podrá celebrar 
 I. Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, mismas que serán convocadas por la persona Titular de la Secretaría Ejecutiva, y
 
 II. Las reuniones extraordinarias se convocarán en cualquier momento por el Titular del Ejecutivo Federal.
-Artículo adicionado DOF 09-08-2019 TITULO TERCERO De la Administración Pública Paraestatal CAPITULO UNICO De la Administración Pública Paraestatal
+Artículo adicionado DOF 09-08-2019
+TITULO TERCERO De la Administración Pública Paraestatal CAPITULO UNICO De la Administración Pública Paraestatal
 
 ### Artículo 45
 .- Son organismos descentralizados las entidades creadas por ley o decreto del Congreso de la Unión o por decreto del Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
@@ -1963,7 +2158,8 @@ Artículo reformado DOF 04-01-1982, 30-12-1983, 14-05-1986
 ### Artículo 47
 .- Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 En los fideicomisos constituidos por el gobierno federal, la Secretaría de Hacienda y Crédito Público fungirá como fideicomitente único de la Administración Pública Centralizada.
-Párrafo reformado DOF 21-02-1992 Artículo reformado DOF 14-05-1986
+Párrafo reformado DOF 21-02-1992
+Artículo reformado DOF 14-05-1986
 
 ### Artículo 48
 .- A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, la persona titular del Ejecutivo Federal las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades, en relación con la esfera de competencia que ésta y otras leyes atribuyen a las dependencias.
@@ -2063,7 +2259,7 @@ DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley Genera
 DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.
 DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo
-**segundo.** y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+**segundo.-** y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
 Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
 México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
@@ -2231,7 +2427,7 @@ Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003 ARTICU
 ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 **PRIMERO.-**
 **SEGUNDO.-** La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-**TERCERO.** A DECIMO PRIMERO.- ...........
+**TERCERO.-** A DECIMO PRIMERO.- ...........
 ARTICULO TERCERO. Se reforman las fracciones XIII, XIV, XVIII y XX del artículo 32 bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ..........
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
@@ -2259,7 +2455,9 @@ González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de abril de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se expide la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y se abroga la Ley de Creación del Instituto Nacional Indigenista; se reforma la fracción VI y se deroga la fracción VII del artículo 32 de la Ley Orgánica de la Administración Pública Federal; y se reforma el primer párrafo del artículo 5o. de la Ley Federal de las Entidades Paraestatales.
 Publicado en el Diario Oficial de la Federación el 21 de mayo de 2003
-**Artículo segundo.-** Se reforma la fracción VI y se deroga la fracción VII del artículo 32 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ..........
+
+### Artículo segundo
+Se reforma la fracción VI y se deroga la fracción VII del artículo 32 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ..........
 
 ## Transitorio
 
@@ -2329,8 +2527,8 @@ Se REFORMAN los artículos 31, fracciones XV, XVI, XVII y XIX, y 37, fracción I
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanueva Abrajan, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 33 de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
@@ -2338,10 +2536,10 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
 ### ARTÍCULO ÚNICO
 Se reforma y adiciona el artículo 33 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……….
 ARTÍCULOS TRANSITORIOS
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
-**TERCERO.** La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
-**CUARTO.** El Titular del Ejecutivo Federal enviará al Congreso el primer documento relativo a la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de la Administración Pública Federal que contiene el presente Decreto, en el mes de febrero del año 2010.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
+**TERCERO.-** La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+**CUARTO.-** El Titular del Ejecutivo Federal enviará al Congreso el primer documento relativo a la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de la Administración Pública Federal que contiene el presente Decreto, en el mes de febrero del año 2010.
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Maria del Carmen Pinete Vargas, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se expide la Ley General de Turismo y se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2009
@@ -2370,8 +2568,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
@@ -2381,8 +2579,8 @@ Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley Federal de Justicia para Adolescentes; y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma la Ley Federal de Defensoría Pública.
 Publicado en el Diario Oficial de la Federación el 27 de diciembre 2012
@@ -2392,17 +2590,17 @@ Se reforma la fracción XXV del artículo 30 Bis de la Ley Orgánica de la Admin
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
+**PRIMERO.-** El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
 Artículo reformado DOF 24-12-2014
-**SEGUNDO.** Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
-**TERCERO.** Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
-**CUARTO.** Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
-**QUINTO.** Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
-**SEXTO.** Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-**SÉPTIMO.** Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
-**OCTAVO.** El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero,
-**cuarto.** y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
-**NOVENO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**SEGUNDO.-** Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+**TERCERO.-** Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+**CUARTO.-** Las instituciones encargadas de la formación de los agentes de las policías federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás ordenamientos federales aplicables.
+**QUINTO.-** Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+**SEXTO.-** Las erogaciones que en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+**SÉPTIMO.-** Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+**OCTAVO.-** El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero,
+**cuarto.-** y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
+**NOVENO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 28 de noviembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jesús Murillo Karam, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de diciembre de dos mil doce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 2 de enero de 2013
@@ -2413,7 +2611,8 @@ Se reforman los artículos 1o., segundo párrafo; 7o.; 8o.; 10; 13, primer párr
 ## TRANSITORIOS
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.-** (Se deroga) Artículo derogado DOF 18-07-2016
+**Segundo.-** (Se deroga)
+Artículo derogado DOF 18-07-2016
 **Tercero.-** El Titular del Poder Ejecutivo Federal deberá expedir la reforma a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, así como de la Oficina de la Presidencia de la República, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
 **Cuarto.-** Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias cuyas funciones cambian por este Decreto a otras Secretarías de Estado, se transferirán a éstas, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
 Los oficiales mayores de las dependencias a que se refiere el presente Decreto serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto, así como de la elaboración de la información necesaria para la integración de la Cuenta Pública en el ámbito de su competencia.
@@ -2427,7 +2626,7 @@ El Titular del Poder Ejecutivo de la Unión expedirá las modificaciones a los r
 Las dependencias reformadas en virtud del presente Decreto integrarán los diversos consejos, comisiones intersecretariales y órganos directivos contemplados en las leyes, en función de sus nuevas atribuciones. En su caso, resolverá la Secretaría de Gobernación.
 **Noveno.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
 **Décimo.-** La Secretaría de Desarrollo Agrario, Territorial y Urbano será la dependencia que continuará atendiendo los asuntos pendientes de la materia agraria, en términos de lo establecido por el artículo
-**tercero.** transitorio del Decreto por el que se reforma el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 6 de enero de 1992.
+**tercero.-** transitorio del Decreto por el que se reforma el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 6 de enero de 1992.
 **Décimo Primero.-** La Secretaría de Gobernación resolverá sobre los aspectos de adscripciones, integraciones de órganos y definición de competencias no previstos en el presente régimen transitorio. La Secretaría de Hacienda y Crédito Público resolverá sobre los aspectos administrativos no contemplados en el régimen mencionado.
 **Décimo Segundo.-** El Congreso de la Unión expedirá la legislación sobre el uso legítimo de la fuerza en un plazo no mayor de seis meses a partir de la entrada en vigor del presente Decreto.
 México, D.F., a 13 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
@@ -2440,7 +2639,7 @@ Se adiciona una fracción XI, recorriéndose en su orden la subsecuente al artí
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona una fracción XLI al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2013
@@ -2450,7 +2649,7 @@ Se adiciona una fracción XLI, recorriendo la actual en su orden, al artículo 3
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Merilyn Gómez Pozos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
@@ -2461,8 +2660,8 @@ Se reforman las fracciones V y VII Bis del artículo 30, y la fracción XVII del
 ## TRANSITORIOS
 
 **PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
-**TERCERO.** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+**SEGUNDO.-** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+**TERCERO.-** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica de la Administración materia de Iniciativa Ciudadana e Iniciativa Preferente.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2014
@@ -2472,8 +2671,8 @@ Se reforma la fracción II del artículo 27 de la Ley Orgánica de la Administra
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 **Tercero.-** Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
 México, D.F., a 9 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 19 de mayo de 2014.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Derechos y de la Ley Orgánica de la Administración Pública Federal, en relación con la Miscelánea en Materia Mercantil.
@@ -2484,9 +2683,9 @@ Se adiciona el artículo 34, con una fracción XXXI, pasando la actual XXXI a se
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
-**Tercero.** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+**Tercero.-** Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión.
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
@@ -2496,31 +2695,30 @@ Se reforman las fracciones II y XV del artículo 36; se adiciona una fracción I
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**TERCERO.** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**CUARTO.** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**QUINTO.** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**TERCERO.-** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**CUARTO.-** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**QUINTO.-** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar videojuegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-**SEXTO.** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
+**SEXTO.-** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
 
 ## Transitorio
 
 del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
-**SÉPTIMO.** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
+**SÉPTIMO.-** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
 Párrafo adicionado DOF 15-06-2018
-**OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**OCTAVO.-** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
-**NOVENO.** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
+**NOVENO.-** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 Por Índice Hirschman-Herfindahl “IHH” se entiende la suma de los cuadrados de las participaciones de cada agente económico (IHH=i qi2), en el sector que corresponda, medida para el caso del sector de las telecomunicaciones con base en el indicador de número de suscriptores y usuarios de servicios de telecomunicaciones, y para el sector de la radiodifusión con base en audiencia. Este índice puede tomar valores entre cero y diez mil.
 Para calcular el Índice de Dominancia “ID”, se determinará primero la contribución porcentual hi de cada agente económico al índice IHH definido en el párrafo anterior (hi = 100xqi2/IHH). Después se calculará el valor de ID aplicando la fórmula del Hirschman-Herfindahl, pero utilizando ahora las contribuciones hi en vez de las participaciones qi (es decir, ID=i hi2). Este índice también varía entre cero y diez mil.
 Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
-**DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
-
+**DÉCIMO.-** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
 
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
@@ -2530,9 +2728,8 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
-
+**artículo Octavo.-** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**DÉCIMO PRIMERO.-** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
 
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
@@ -2543,7 +2740,7 @@ Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto
 IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
+**DÉCIMO SEGUNDO.-** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
 
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
@@ -2552,7 +2749,7 @@ II. En caso que el Instituto Federal de Telecomunicaciones considere que la info
 
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
-**Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
+**Octavo.-** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
 
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
@@ -2570,64 +2767,65 @@ VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracc
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
 
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
-**DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**DÉCIMO TERCERO.-** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
-**DÉCIMO CUARTO.** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
-**DÉCIMO QUINTO.** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SEXTO.** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SÉPTIMO.** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
+**DÉCIMO CUARTO.-** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
+**DÉCIMO QUINTO.-** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SEXTO.-** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SÉPTIMO.-** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
 Para transitar al régimen de concesión correspondiente, los permisionarios deberán presentar solicitud al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en un plazo de noventa días hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
 En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-**DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
-**DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
+**DÉCIMO OCTAVO.-** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+**DÉCIMO NOVENO.-** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.-** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
-Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
-Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
-**VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+Párrafo adicionado DOF 18-12-2015
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+Párrafo reformado DOF 18-12-2015
+Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
+**VIGÉSIMO.-** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
+**artículo Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
-**VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
-**VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
-**VIGÉSIMO TERCERO.** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
-**VIGÉSIMO CUARTO.** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
-**VIGÉSIMO QUINTO.** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
+**VIGÉSIMO PRIMERO.-** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+**VIGÉSIMO SEGUNDO.-** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+**VIGÉSIMO TERCERO.-** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
+**VIGÉSIMO CUARTO.-** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
+**VIGÉSIMO QUINTO.-** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
 Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen con motivo de dicha consolidación.
 Asimismo, el Instituto Federal de Telecomunicaciones, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá definir los puntos de interconexión a la red pública de telecomunicaciones del agente económico preponderante o con poder sustancial.
 Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan a lo previsto en el presente transitorio.
 Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales como números 900.
-**VIGÉSIMO SEXTO.** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO SEXTO.-** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.
-**VIGÉSIMO SÉPTIMO.** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO OCTAVO.** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO NOVENO.** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
-**TRIGÉSIMO.** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
+**VIGÉSIMO SÉPTIMO.-** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO OCTAVO.-** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO NOVENO.-** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+**TRIGÉSIMO.-** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
 En tanto se emite el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
 Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.
-**TRIGÉSIMO.** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
-**TRIGÉSIMO.** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
+**TRIGÉSIMO.-** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+**TRIGÉSIMO.-** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
-**TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
-**TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
-
+**TRIGÉSIMO.-** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+**TRIGÉSIMO.-** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
 I. Sus planes de crecimiento;
 
 II. Sus gastos de operación, y
 
 III. Su equilibrio financiero.
-**TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
-**TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
-**TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
-**TRIGÉSIMO.** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+**TRIGÉSIMO.-** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
+**TRIGÉSIMO.-** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
+**TRIGÉSIMO.-** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+**TRIGÉSIMO.-** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
 Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
 Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
-**TRIGÉSIMO.** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
+**TRIGÉSIMO.-** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
 CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley Federal de Telecomunicaciones y Radiodifusión, a partir de su entrada en vigor.
 CUADRAGÉSIMO PRIMERO. Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos 67 fracción II y 76 fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
 CUADRAGÉSIMO SEGUNDO. A la concesión para instalar, operar y explotar una red pública de telecomunicaciones que, en los términos del artículo Décimo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o, 7o, 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, debe ser cedida por la Comisión Federal de Electricidad a Telecomunicaciones de México, no le resultará aplicable lo establecido en los artículos 140 y 144 de la Ley Federal de Telecomunicaciones y Radiodifusión, exclusivamente respecto a aquellos contratos vigentes a la fecha de publicación del presente Decreto que hayan sido celebrados entre la Comisión Federal de Electricidad y aquellas personas físicas o morales que, conforme a la misma Ley, han de ser considerados como usuarios finales.
@@ -2636,7 +2834,7 @@ En caso de que exista impedimento técnico, legal o económico para que Telecomu
 CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir de la entrada en vigor del presente Decreto, las señales de los concesionarios de uso comercial que transmitan televisión radiodifundida y que cubran más del cincuenta por ciento del territorio nacional deberán contar con lenguaje de señas mexicana o subtitulaje oculto en idioma nacional, en la programación que transmitan de las 06:00 a las 24:00 horas, excluyendo la publicidad y otros casos que establezca el Instituto Federal de Telecomunicaciones, atendiendo a las mejores prácticas internacionales. Los entes públicos federales que sean concesionarios de uso público de televisión radiodifundida estarán sujetos a la misma obligación.
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
-**Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+**Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley de los Órganos Reguladores Coordinados en Materia Energética; se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y, se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
@@ -2646,8 +2844,8 @@ Se reforman los artículos 1o., párrafo segundo; 2o., fracciones I a III; 32 Bi
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 México, D.F., a 31 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo primero transitorio del Decreto por el que se expide la Ley Federal de Justicia para Adolescentes y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma la Ley Federal de Defensoría Pública, publicado el 27 de diciembre de 2012.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2014
@@ -2768,19 +2966,19 @@ Se REFORMAN los artículos 26; 38, fracciones II, IX, XXVIII, XXIX y XXX Bis; se
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
@@ -2791,9 +2989,9 @@ Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el a
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
-**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+**Tercero.-** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
 México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015
@@ -2803,14 +3001,13 @@ Se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
-**Segundo.** El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
-**Tercero.** El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
-**Cuarto.** Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
-**Quinto.** Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+**Segundo.-** El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+**Tercero.-** El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+**Cuarto.-** Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+**Quinto.-** Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
 En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
-**Sexto.** En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
-
+**Sexto.-** En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
 a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
 
 b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto.
@@ -2824,18 +3021,18 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
-**Tercero.** Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+**Tercero.-** Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo
 
 ## transitorio
 
 anterior.
-**Cuarto.** En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013. de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
-**Sexto.** Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+**Cuarto.-** En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013. de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+**Sexto.-** Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
 Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
 Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
-**Séptimo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Séptimo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 14 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma y deroga diversas disposiciones de la Ley Orgánica de la Administración Pública Federal en Materia de Control Interno del Ejecutivo Federal.
@@ -2846,9 +3043,9 @@ Se reforman los artículos 19; 26; 31, fracciones XII, XXI, XXIV, XXIX, XXX, XXX
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el Decreto por el que se expide la Ley General de Responsabilidades Administrativas.
-**SEGUNDO.** Se deroga el Segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
-**TERCERO.** Por lo que respecta a las atribuciones de la Secretaría de Hacienda y Crédito Público a que se refieren las fracciones XXIX, XXX y XXXIII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, éstas entrarán en vigor cuando el Titular del Poder Ejecutivo Federal expida las reformas a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, las cuales deberán realizarse en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, y que deberán prever las modificaciones necesarias para la readscripción de los órganos desconcentrados que corresponda.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el Decreto por el que se expide la Ley General de Responsabilidades Administrativas.
+**SEGUNDO.-** Se deroga el Segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+**TERCERO.-** Por lo que respecta a las atribuciones de la Secretaría de Hacienda y Crédito Público a que se refieren las fracciones XXIX, XXX y XXXIII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, éstas entrarán en vigor cuando el Titular del Poder Ejecutivo Federal expida las reformas a los reglamentos interiores de las Secretarías de Estado afectadas por el presente Decreto, las cuales deberán realizarse en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, y que deberán prever las modificaciones necesarias para la readscripción de los órganos desconcentrados que corresponda.
 Las facultades con que cuentan las unidades administrativas y órganos desconcentrados que, por virtud del presente Decreto, pasen a formar parte de otras dependencias, continuarán vigentes en términos de los reglamentos interiores que las rigen, hasta en tanto sean emitidos los nuevos reglamentos interiores, conforme a lo dispuesto en el párrafo anterior.
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias cuyas funciones cambian por este Decreto a otras Secretarías de Estado, se transferirán a éstas, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
@@ -2898,12 +3095,12 @@ Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017
 
 ### Artículo Primero
 Se reforman el inciso b, de la fracción IV, y la fracción VII y se adiciona un
-**segundo.** párrafo al inciso b del artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ………
+**segundo.-** párrafo al inciso b del artículo 30 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor de este Decreto.
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecinueve de mayo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -2914,10 +3111,10 @@ Se reforma la fracción XL del artículo 27 de la Ley Orgánica de la Administra
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
-**Tercero.** La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-**Cuarto.** Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+**Tercero.-** La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**Cuarto.-** Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip.
 Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
@@ -2947,7 +3144,7 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2018
 
 ### Artículo Único
 Se reforman los párrafos primero y segundo y se adicionan los párrafos tercero,
-**cuarto.** y sexto, pasando el actual segundo a ser quinto, del artículo 21 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……..
+**cuarto.-** y sexto, pasando el actual segundo a ser quinto, del artículo 21 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -3015,25 +3212,25 @@ Se adicionan las fracciones XXII, XXIII y XXIV, pasando la actual XII a ser XXV,
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
-**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
-**Quinto.** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+**Cuarto.-** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+**Quinto.-** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
 El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
 Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo
 
 ## Transitorio
 
 del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
-**Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
-**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+**Sexto.-** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+**Séptimo.-** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
 Artículo reformado DOF 22-01-2020
-**Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-**Noveno.** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
-**Décimo.** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
-**Décimo Primero.** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
-**Décimo Segundo.** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+**Octavo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Noveno.-** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+**Décimo.-** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+**Décimo Primero.-** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+**Décimo Segundo.-** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
 Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.
 Publicado en el Diario Oficial de la Federación el 22 de enero de 2020
@@ -3046,8 +3243,8 @@ Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide l
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
 Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen.
 Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos.
@@ -3058,17 +3255,17 @@ Se reforman los artículos 30, fracciones V, incisos c) y d), VI y IX; 36, fracc
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
-**Cuarto.** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+**Cuarto.-** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
 La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
 Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
 Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
-**Quinto.** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
-**Sexto.** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
-**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+**Quinto.-** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+**Sexto.-** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+**Séptimo.-** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
 Ciudad de México, a 28 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adiciona una fracción XX al artículo 29 de la Ley Orgánica de la Administración Pública Federal.
@@ -3090,8 +3287,8 @@ Se reforman los artículos 26, párrafo décimo tercero; 30, fracción XIV; 32 B
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Todas las referencias que hagan mención a la Secretaría de Comunicaciones y Transportes contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Secretaría de Infraestructura, Comunicaciones y Transportes.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Todas las referencias que hagan mención a la Secretaría de Comunicaciones y Transportes contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Secretaría de Infraestructura, Comunicaciones y Transportes.
 Ciudad de México, a 7 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.Sen. Nancy de la Sierra Arámburo, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de Archivos.
 Publicado en el Diario Oficial de la Federación el 5 de abril de 2022
@@ -3113,7 +3310,7 @@ Publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022
 
 ### Artículo Primero
 Se reforman los artículos 29, fracciones IV y XVI; 30 Bis, fracciones I, párrafo
-**primero.** , II y III, y se adicionan al artículo 30 Bis, fracción I, el párrafo segundo, y las fracciones XXV y XXVI, recorriéndose la actual en su orden, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: …….
+**primero.-** , II y III, y se adicionan al artículo 30 Bis, fracción I, el párrafo segundo, y las fracciones XXV y XXVI, recorriéndose la actual en su orden, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: …….
 
 ## Transitorios
 
@@ -3125,7 +3322,6 @@ En todo caso, al personal a que se refiere esta disposición le serán respetado
 **Cuarto.-** El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
 **Quinto.-** La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
 **Sexto.-** [La Secretaría de Seguridad y Protección Ciudadana:
-
 I. Coordinará con la Secretaría de la Defensa Nacional la homologación del adiestramiento especializado, considerando la Estrategia Nacional de Seguridad Pública;
 
 II. Transferirá a la Secretaría de la Defensa Nacional, dentro de un plazo de sesenta días naturales, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales y gastos de operación de la Guardia Nacional, así como los recursos materiales destinados a su operación, con excepción de aquéllos requeridos para el personal que seguirá bajo la adscripción de la Secretaría de Seguridad y Protección Ciudadana. Asimismo, destinará dichos recursos a la Secretaría de la Defensa Nacional conforme vayan quedando vacantes las plazas;
@@ -3134,7 +3330,6 @@ III. Dispondrá que el personal procedente de la extinta Policía Federal cese d
 
 IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023
 **Séptimo.-** [La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
-
 I. Observará lo señalado en el tercero transitorio del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, para dar cumplimiento a lo previsto en el presente Decreto;
 
 II. Realizará las acciones que correspondan para que la Secretaría de la Defensa Nacional cuente con los recursos presupuestarios para cubrir las vacantes a que se refiere la fracción II del artículo sexto transitorio del presente Decreto.
@@ -3150,16 +3345,16 @@ Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Se
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 137/2022, promovida por senadoras y senadores de la LXV Legislatura del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 25 de abril de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/HMS/149/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veinte de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 137/2022, promovida por senadoras y senadores de la LXV Legislatura del Congreso de la Unión, en los términos siguientes: “PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
-**TERCERO.** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI VII, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo
-**tercero.** , 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo
-**segundo.** , -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III y 86, párrafo
-**segundo.** , de la Ley de la Guardia Nacional; y, 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y
-**noveno.** del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
-**CUARTO.** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo
-**primero.** , en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y, 1º, párrafo segundo, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
-**QUINTO.** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que se notifiquen los puntos resolutivos al Congreso de la Unión y, al Titular del Poder Ejecutivo Federal, por conducto de la Secretaría de Seguridad y Protección Ciudadana, la Secretaría de la Defensa Nacional y la Secretaría de Hacienda y Crédito Público, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+**SEGUNDO.-** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
+**TERCERO.-** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI VII, -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo
+**tercero.-** , 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo
+**segundo.-** , -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III y 86, párrafo
+**segundo.-** , de la Ley de la Guardia Nacional; y, 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y
+**noveno.-** del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
+**CUARTO.-** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo
+**primero.-** , en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y, 1º, párrafo segundo, de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
+**QUINTO.-** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que se notifiquen los puntos resolutivos al Congreso de la Unión y, al Titular del Poder Ejecutivo Federal, por conducto de la Secretaría de Seguridad y Protección Ciudadana, la Secretaría de la Defensa Nacional y la Secretaría de Hacienda y Crédito Público, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 20 de abril de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el martes 25 de abril de 2023 a las 11:11 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -3171,13 +3366,13 @@ Se adicionan las fracciones VIII Bis, VIII Ter, VIII Quáter y VIII Quinquies al
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
-**Tercero.** Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
-**Cuarto.** A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
-**Quinto.** A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
-**Sexto.** Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
-**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+**Tercero.-** Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+**Cuarto.-** A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
+**Quinto.-** A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
+**Sexto.-** Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
+**Séptimo.-** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -3222,13 +3417,13 @@ Publicada en el Diario Oficial de la Federación el 20 de septiembre de 2023 Al 
 SENTENCIA ……..
 
 VIII. EFECTOS 369. De conformidad con los artículos 73 y 41 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, y para añadir claridad en la fijación de los efectos, se retoman a continuación las declaratorias de invalidez alcanzadas: a. En el Apartado A, se declaró la invalidez del artículo 29, fracción IV, en su porción normativa “y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana;” de la Ley Orgánica de la Administración Pública Federal; de la porción normativa “de la Defensa Nacional” contenida en los artículos 12, fracción I, del artículo 13 Bis y del artículo 23, párrafo segundo, de la Ley de la Guardia Nacional; y, de los artículos transitorios sexto y séptimo del Decreto impugnado. b. En el Apartado B, se declaró la invalidez de las porciones normativas “a propuesta de la persona titular de la Secretaría de la Defensa Nacional” y “grado jerárquico de Comisario General” del artículo 14, párrafo primero y fracción III, respectivamente; así como del artículo 15, fracción VII, en su porción normativa “de la Defensa Nacional” de la Ley de la Guardia Nacional; y, del artículo transitorio tercero del Decreto impugnado. c. En el Apartado C, se declaró la invalidez del artículo 57, párrafo segundo, de la Ley de la Guardia Nacional; los artículos 138, fracción VII, y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y, del segundo párrafo del artículo 1 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos. 370. De acuerdo con la Ley Reglamentaria de la materia, este Tribunal Pleno deberá fijar los alcances y efectos de la sentencia estableciendo con precisión los elementos necesarios para su plena eficacia en el ámbito que corresponda. En ese sentido, es importante considerar que las declaratorias alcanzadas en la presente acción de inconstitucionalidad, como quedó de manifiesto en esta ejecutoria, involucran un reajuste en el control administrativo, presupuestal y operativo de la Guardia Nacional que corresponde, por mandato del artículo 21 constitucional, a la Secretaría del ramo de la seguridad pública. 371. Por ello, en aras de proveer los elementos necesarios para la plena eficacia de la sentencia, este Pleno determina que las declaratorias de invalidez alcanzadas surtirán sus efectos el primero de enero de dos mil veinticuatro. En ese plazo, las dependencias involucradas contarán con el tiempo requerido para realizar gradualmente el reajuste mencionado. Además, este aplazamiento permitirá llevar a cabo el reajuste mencionado de forma plena, paulatina y ordenada. 372. Con la prórroga en el surtimiento de los efectos de la presente ejecutoria se privilegia la certeza jurídica en el control y en la operación de la Guardia Nacional, así como en el estatus jurídico de quienes la componen, asegurando la integración de las provisiones necesarias para tal efecto en el Presupuesto de Egresos de la Federación. 373. Finalmente, de conformidad con la Ley Reglamentaria en la materia, se ordena que la presente ejecutoria sea notificada al Congreso de la Unión y, por la materia del Decreto impugnado, al Poder Ejecutivo Federal por conducto de la Secretaría de Seguridad y Protección Ciudadana, de la Secretaría de la Defensa Nacional y de la Secretaría de Hacienda y Crédito Público. 374. Por lo expuesto y fundado, este Tribunal Pleno RESUELVE:
-**PRIMERO.** Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII, de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y 138, fracciones V y VI, y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
-**TERCERO.** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12 -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI, VII -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo tercero, 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo segundo -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III, y 86, párrafo segundo, de la Ley de la Guardia Nacional; y 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y noveno del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
-**CUARTO.** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo primero, en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII, y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y 1°, párrafo
-**segundo.** , de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
-**QUINTO.** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII, de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y 138, fracciones V y VI, y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós, en términos del apartado VI de esta decisión.
+**TERCERO.-** Se reconoce la validez de los artículos 29, fracciones IV, en su porción normativa “Manejar el activo del Ejército y la Fuerza Aérea”, y XVI, así como 30 Bis, fracciones I, II, III, XXV y XXVI, de la Ley Orgánica de la Administración Pública Federal; 7, fracción IX, 12 -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 13, 13 Bis -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 14, párrafo primero -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia- y fracción III -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 15, fracciones II, IV, V, VI, VII -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, VIII, VIII Bis, XII, XV y XVI, 17, párrafo tercero, 18, párrafo cuarto, 19, fracción I, 21, fracciones III y VII, 22, párrafo primero, 23, párrafo segundo -con la salvedad precisada en el punto resolutivo cuarto de esta sentencia-, 25, fracción IX, 26, fracciones V, VI, VII y VIII, 32 Bis, 34, fracción III, inciso d), 39, fracción III, y 86, párrafo segundo, de la Ley de la Guardia Nacional; y 2 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios primero, segundo, cuarto, quinto, octavo y noveno del referido Decreto, conforme a lo sostenido en el apartado VII de esta ejecutoria.
+**CUARTO.-** Se declara la invalidez de los artículos 29, fracción IV, en su porción normativa “, y ejercer el control operativo y administrativo de la Guardia Nacional, conforme a la Estrategia Nacional de Seguridad Pública que defina la Secretaría de Seguridad y Protección Ciudadana”, de la Ley Orgánica de la Administración Pública Federal; 12, fracción I, en su porción normativa “de la Defensa Nacional”, 13 Bis, en su porción normativa “de la Defensa Nacional”, 14, párrafo primero, en su porción normativa “a propuesta de la persona titular de la Secretaría de la Defensa Nacional”, y fracción III, en su porción normativa “grado jerárquico de Comisario General y”, 15, fracción VII, en su porción normativa “de la Defensa Nacional”, 23, párrafo segundo, en su porción normativa “de la Defensa Nacional”, y 57, párrafo segundo, de la Ley de la Guardia Nacional; 138, fracción VII, y 170, fracción II, apartado H, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; y 1°, párrafo
+**segundo.-** , de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; contenidos en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Publica, publicado en el Diario Oficial de la Federación el nueve de septiembre de dos mil veintidós; así como de los artículos transitorios tercero, sexto y séptimo del referido Decreto, de conformidad con su apartado VII.
+**QUINTO.-** La declaratoria de invalidez decretada surtirá sus efectos al primero de enero de dos mil veinticuatro, en términos del apartado VIII de esta decisión.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese, haciéndolo por medio de oficio a las partes, y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……… La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
 Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
@@ -3242,9 +3437,9 @@ Se reforma la fracción IX y se adiciona una fracción XXVI, recorriendo en su o
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal expedirá las modificaciones a las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina.
 Ciudad de México, a 18 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
@@ -3261,9 +3456,9 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2024
 
 ### Artículo Único
 Se reforman los artículos 8o., párrafos primero y segundo; 14 Bis, fracciones I, III y IV, y párrafo segundo; 19; 20, párrafos segundo, tercero, cuarto, quinto y sexto; 25; 26; 27, párrafo
-**primero.** , y fracciones VI, XXI y XXIII; 28, párrafo primero, y fracciones II, II A, II B y III; 30 Bis, párrafo
-**primero.** , y fracciones I, II, III, V, VI, X, XI, XII, XVI, XVII, XVIII, XXI, XXIII y XXVI, párrafo primero; 31, párrafo primero, y fracción XV; 32 Bis, párrafo primero, y fracciones III, IV, V, VI, VII, IX, XI, XII, XIII, XIV, XV, XVII, XIX, XX, XXII, XXV, XXXI, XXXIV, XXXVI, XXXVIII, XXXIX y XL; 33, párrafo primero, y fracción V, segundo párrafo; 34, párrafo primero, y fracciones XXIV Bis y XXV; 35, párrafo primero, y fracciones I, II, III, IV, V, VII, VIII, IX, XII, XIII, XIV, XV, XVII, XVIII, XX y, XXI, párrafo primero, e incisos a), b), e) y g); 36, párrafo primero, y fracciones VIII y XXVI; 37; 38, párrafo primero, y fracciones XIII, XXV y XXXIII; 39, párrafo primero, y fracciones I, II, III, actuales V y VI, VII, VIII, XIII, XVI, XVIII, XIX, XX, XXI, XXII, XXIII y XXV; 41, párrafo primero, y fracciones II, VIII, XVI, XX y XXV; 41 Bis, párrafo primero, y fracciones IV, párrafo primero, y XV; 42, párrafo primero, y fracción XII; 44, párrafos primero, tercero, cuarto, sexto y
-**séptimo.** ; 44 Bis, párrafos segundo y tercero; 48 y 50; se adicionan las fracciones VII Quinquies y VIII Bis al artículo 27; un segundo párrafo a la fracción IX del artículo 30 Bis; las fracciones XXXII y XXXIII, recorriéndose la subsecuente en su orden, al artículo 31; las fracciones II Bis, V Bis, XLII, XLIII y XLIV, recorriéndose la subsecuente en su orden, al artículo 32 Bis; las fracciones II Bis, XXIV y XXV, recorriéndose la subsecuente en su orden, al artículo 35; las fracciones I Ter, I Quáter, I Quinquies, XXVII, XXVIII, XXIX, XXX y XXXI, recorriéndose la subsecuente en su orden, al artículo 36; la fracción XXXIV, recorriéndose la subsecuente en su orden, al artículo 38; el artículo 38 Bis; las fracciones VI y XXVII, recorriéndose la subsecuente en su orden, al artículo 39; los artículos 42 Bis y 42 Ter, y la fracción XII al artículo 44 Bis; y se derogan la fracción I del párrafo tercero del artículo 8o.; las fracciones X, XI, XVI y XXI, incisos d) y f) del artículo 35; las fracciones I Bis y II del artículo 36, y la fracción XV del artículo 39, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……..
+**primero.-** , y fracciones VI, XXI y XXIII; 28, párrafo primero, y fracciones II, II A, II B y III; 30 Bis, párrafo
+**primero.-** , y fracciones I, II, III, V, VI, X, XI, XII, XVI, XVII, XVIII, XXI, XXIII y XXVI, párrafo primero; 31, párrafo primero, y fracción XV; 32 Bis, párrafo primero, y fracciones III, IV, V, VI, VII, IX, XI, XII, XIII, XIV, XV, XVII, XIX, XX, XXII, XXV, XXXI, XXXIV, XXXVI, XXXVIII, XXXIX y XL; 33, párrafo primero, y fracción V, segundo párrafo; 34, párrafo primero, y fracciones XXIV Bis y XXV; 35, párrafo primero, y fracciones I, II, III, IV, V, VII, VIII, IX, XII, XIII, XIV, XV, XVII, XVIII, XX y, XXI, párrafo primero, e incisos a), b), e) y g); 36, párrafo primero, y fracciones VIII y XXVI; 37; 38, párrafo primero, y fracciones XIII, XXV y XXXIII; 39, párrafo primero, y fracciones I, II, III, actuales V y VI, VII, VIII, XIII, XVI, XVIII, XIX, XX, XXI, XXII, XXIII y XXV; 41, párrafo primero, y fracciones II, VIII, XVI, XX y XXV; 41 Bis, párrafo primero, y fracciones IV, párrafo primero, y XV; 42, párrafo primero, y fracción XII; 44, párrafos primero, tercero, cuarto, sexto y
+**séptimo.-** ; 44 Bis, párrafos segundo y tercero; 48 y 50; se adicionan las fracciones VII Quinquies y VIII Bis al artículo 27; un segundo párrafo a la fracción IX del artículo 30 Bis; las fracciones XXXII y XXXIII, recorriéndose la subsecuente en su orden, al artículo 31; las fracciones II Bis, V Bis, XLII, XLIII y XLIV, recorriéndose la subsecuente en su orden, al artículo 32 Bis; las fracciones II Bis, XXIV y XXV, recorriéndose la subsecuente en su orden, al artículo 35; las fracciones I Ter, I Quáter, I Quinquies, XXVII, XXVIII, XXIX, XXX y XXXI, recorriéndose la subsecuente en su orden, al artículo 36; la fracción XXXIV, recorriéndose la subsecuente en su orden, al artículo 38; el artículo 38 Bis; las fracciones VI y XXVII, recorriéndose la subsecuente en su orden, al artículo 39; los artículos 42 Bis y 42 Ter, y la fracción XII al artículo 44 Bis; y se derogan la fracción I del párrafo tercero del artículo 8o.; las fracciones X, XI, XVI y XXI, incisos d) y f) del artículo 35; las fracciones I Bis y II del artículo 36, y la fracción XV del artículo 39, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -3317,8 +3512,8 @@ La Secretaría de Energía puede solicitar el apoyo del Instituto Mexicano del P
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública; la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados; la Ley Federal de Protección de Datos Personales en Posesión de los Particulares; y se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 2025
@@ -3330,7 +3525,6 @@ Se reforma el artículo 37, fracción XV, de la Ley Orgánica de la Administraci
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
 **Segundo.-** A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
-
 I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el 5 de julio de 2010;
 
 II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 4 de mayo de 2015 y sus modificaciones posteriores;
@@ -3363,7 +3557,7 @@ La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad gar
 La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
 **Décimo Cuarto.-** El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 **Décimo Quinto.-** Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y
-**Décimo Tercero.** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios
+**Décimo Tercero.-** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios
 
 ## transitorios
 
@@ -3405,12 +3599,12 @@ Se reforma el artículo 36, fracciones VII, XXIV y XXVII, de la Ley Orgánica de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
 **Segundo.-** Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
 **Tercero.-** La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
 **Cuarto.-** Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
 **Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
-**Sexto.** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+**Sexto.-** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

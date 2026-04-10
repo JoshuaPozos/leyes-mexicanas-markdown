@@ -18,7 +18,9 @@ Se expide la Ley de Planeación y Transición Energética, para quedar como sigu
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo Único — Del Objeto de la Ley y Definiciones
+
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de los artículos 25, párrafo tercero; 27, párrafos sexto y séptimo; 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, es de orden público e interés social y de observancia general en los Estados Unidos Mexicanos.
@@ -137,6 +139,7 @@ La Secretaría, la CONUEE, la Comisión Nacional de Energía y el Centro Naciona
 
 ## TÍTULO SEGUNDO — De la Planeación del Sector Energético
 
+
 ### Artículo 6
 .- El Ejecutivo Federal, por conducto de la Secretaría, la Secretaría de Medio Ambiente y Recursos Naturales, la CONUEE, el Centro Nacional de Control de Energía, el Centro Nacional de Control del Gas Natural, la Comisión Nacional de Energía, las Empresas Públicas del Estado, el Instituto Mexicano del Petróleo y el Instituto Nacional de Electricidad y Energías Limpias, en el ámbito de sus atribuciones, deben ejercer las facultades conferidas por esta Ley.
 
@@ -144,6 +147,7 @@ La Secretaría, la CONUEE, la Comisión Nacional de Energía y el Centro Naciona
 .- La Secretaría de Medio Ambiente y Recursos Naturales, la CONUEE, el Centro Nacional de Control de Energía, el Centro Nacional de Control del Gas Natural, la Comisión Nacional de Energía y las Empresas Públicas del Estado, bajo la coordinación de la Secretaría, deben facilitar la implementación de la planeación vinculante en el Sector Energético.
 
 ## Capítulo I — De las Autoridades y Organismos
+
 
 ### Artículo 8
 .- Para efectos de esta Ley, corresponde a la Secretaría:
@@ -313,6 +317,7 @@ III. Proporcionar a la Secretaría la información que ésta le solicite para la
 
 ## Capítulo II — Del Consejo de Planeación Energética
 
+
 ### Artículo 16
 .- El Consejo es el órgano de coordinación y seguimiento de la planeación energética nacional, establecida a través de los instrumentos de planeación, así como de la mejora de la información energética requerida para dicha planeación. El Consejo se debe reunir al menos dos veces al año y cuando se requiera, para los fines de sus atribuciones.
 La Secretaría debe emitir los lineamientos de operación del Consejo.
@@ -363,6 +368,7 @@ c) Emitir recomendaciones para el mejoramiento y acceso de la información para 
 d) La persona secretaria técnica debe elaborar un reporte anual de mejora y acceso de la información para la planeación energética nacional, donde se presentan avances y áreas de oportunidad.
 
 ## Capítulo III — De los Instrumentos de Planeación Energética
+
 
 ### Artículo 21
 .- Son instrumentos de planeación del Sector Energético los siguientes:
@@ -481,7 +487,9 @@ La Comisión Federal de Electricidad debe considerar la Estrategia y el PLADESE,
 
 ## Capítulo IV — De la Información Energética
 
+
 ## Sección I — Del Sistema Nacional de Información Energética
+
 
 ### Artículo 33
 .- La Secretaría debe administrar el Sistema Nacional de Información Energética con el objeto de registrar, organizar, actualizar y difundir la información del Sector Energético. Los requisitos para el cumplimiento de este artículo se deben determinar en el Reglamento.
@@ -510,6 +518,7 @@ Los escenarios prospectivos del Balance Nacional de Energía y escenarios prospe
 
 ## Sección II — De la información en materia de Eficiencia Energética
 
+
 ### Artículo 36
 .- La CONUEE debe elaborar y publicar un catálogo de los equipos y aparatos que deben incluir de forma clara, sencilla y visible para el público la información sobre su consumo energético. Este catálogo incluye a los equipos y aparatos cuyo consumo de energía y número de unidades comercializadas sean relevante a consideración de la CONUEE. Esta información debe ser visible al público en general y en la página de Internet de la CONUEE, a fin de ayudar a las personas consumidoras a tomar decisiones de compra entre las distintas opciones que existan en el mercado.
 La CONUEE debe proponer a la Secretaría las disposiciones reglamentarias donde establezcan el detalle de la información sobre el consumo energético que debe incluirse en los equipos y aparatos referidos en este artículo, así como la forma en la que ésta se incluya.
@@ -528,7 +537,9 @@ A partir de las conclusiones de dichos estudios, la CONUEE debe realizar las mod
 
 ## TÍTULO TERCERO — De la Transición Energética y la reducción de la Pobreza Energética
 
+
 ## Capítulo I — Del Financiamiento
+
 
 ### Artículo 40
 .- Los recursos necesarios para que la Administración Pública Federal cumpla con las obligaciones que establece esta Ley deben provenir del Presupuesto de Egresos de la Federación, el Mercado Eléctrico Mayorista, el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de los instrumentos financieros y económicos disponibles para obras y servicios públicos y demás instrumentos que se establezcan para tales fines.
@@ -541,6 +552,7 @@ Los recursos públicos o privados asignados con base en esta Ley deben ser ejerc
 .- El Ejecutivo Federal debe instrumentar políticas y medidas para facilitar apoyos financieros, económicos y de mercado que se destinen al cumplimiento de los fines de esta Ley.
 
 ## Capítulo II
+
 Del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía
 
 ### Artículo 43
@@ -570,6 +582,7 @@ Las entidades públicas deben tener preferencia de asignación de recursos y, en
 
 ## Capítulo III — Del Fondo de Servicio Universal Energético
 
+
 ### Artículo 49
 .- El Fondo de Servicio Universal Energético, debe ser administrado y coordinado por la Secretaría y tiene como meta financiar acciones de cobertura eléctrica para las poblaciones que aún no tienen acceso a la electricidad, la Justicia Energética y la reducción de la Pobreza Energética.
 
@@ -596,6 +609,7 @@ IV. Por los montos de las multas y sanciones que sean impuestas y cobradas a las
 El órgano colegiado a que se refiere este artículo puede contar con el apoyo técnico y con fines de consulta de aquellas entidades que requiera para la consecución de sus objetivos.
 
 ## Capítulo IV
+
 De los Recursos de Innovación, Desarrollo Tecnológico y Formación de Recursos Humanos
 
 ### Artículo 54
@@ -624,6 +638,7 @@ Adicionalmente, los órganos colegiados pueden contar con el apoyo técnico y co
 
 ## Capítulo V — De la Investigación Científica, la Innovación y el Desarrollo Tecnológico
 
+
 ### Artículo 59
 .- La Secretaría, con el apoyo de los institutos sectorizados a la Secretaría debe promover la investigación aplicada, la innovación, el desarrollo tecnológico y la formación de recursos humanos especializados para contribuir a la Transición Energética y la Justicia Energética, para el cumplimiento de las metas de los instrumentos de planeación a partir de, entre otros, los siguientes criterios:
 
@@ -634,6 +649,7 @@ II. La viabilidad técnica, ambiental, financiera, administrativa, social y de e
 III. La vinculación de los resultados de la investigación científica, la innovación y el desarrollo tecnológico nacional con la soberanía energética, la seguridad cibernética, el desarrollo económico y social tanto nacional como regional, poniendo especial atención en la generación de empleos.
 
 ## Capítulo VI — De los Certificados de Energías Limpias
+
 
 ### Artículo 60
 .- Con el objetivo de fomentar el crecimiento de Energías Limpias a que se refiere la presente Ley y en los términos establecidos en la Ley del Sector Eléctrico, la Secretaría establece criterios para reconocer a los generadores de Energía Limpia y para otorgar los Certificados de Energías Limpias. La Secretaría debe emitir las disposiciones correspondientes.
@@ -660,6 +676,7 @@ Los errores materiales deben corregirse con un nuevo asiento registral sin elimi
 
 ## Capítulo VII — Del Desarrollo Industrial
 
+
 ### Artículo 67
 .- La Secretaría de Economía, en coordinación con la Secretaría, debe promover el desarrollo de cadenas de valor de las Energías Limpias, en condiciones de sustentabilidad económica y atendiendo a las condiciones presupuestales aprobadas. En dicho contexto, se debe identificar los minerales críticos necesarios para la Transición Energética, garantizando su disponibilidad, acceso y aprovechamiento sustentable, con el fin de fortalecer las capacidades nacionales en la producción y adopción de Tecnologías Limpias, en congruencia con los objetivos de la política energética y ambiental del país.
 
@@ -667,6 +684,7 @@ Los errores materiales deben corregirse con un nuevo asiento registral sin elimi
 .- La Secretaría, con la colaboración de la Secretaría de Economía y con el apoyo técnico de la Comisión Federal de Electricidad y el Centro Nacional de Control de Energía, debe elaborar un estudio para determinar las necesidades y el potencial del Sector Eléctrico en materia de Energías Limpias cada vez que se elabore o actualice una nueva Estrategia o un PLATEASE, de acuerdo con lo establecido en el Reglamento.
 
 ## Capítulo VIII — Del Financiamiento para el Aprovechamiento Sustentable de la Energía
+
 
 ### Artículo 69
 .- El financiamiento para el Aprovechamiento Sustentable de la Energía se debe realizar observando el interés público y la planeación sectorial, y tienen por objeto alguno de los siguientes fines:
@@ -709,7 +727,9 @@ La CONUEE debe determinar aquellas tecnologías económicamente viables y energ�
 
 ## Capítulo IX — De la Participación Voluntaria
 
+
 ## Sección I — Del Reconocimiento en excelencia en Eficiencia Energética
+
 
 ### Artículo 77
 .- El reconocimiento a la excelencia en Eficiencia Energética consta de la participación voluntaria para reconocer a las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía.
@@ -724,6 +744,7 @@ La CONUEE debe determinar aquellas tecnologías económicamente viables y energ�
 .- La CONUEE debe integrar, administrar y actualizar el registro de instalaciones, edificaciones, empresas o productos que reciban el reconocimiento de excelencia en Eficiencia Energética.
 
 ## Sección II — De los acuerdos voluntarios
+
 
 ### Artículo 81
 .- La Secretaría, a través de la CONUEE, puede celebrar acuerdos voluntarios con personas participantes de los sectores productivos que tengan consumos significativos de energía por cada unidad de producción física, a fin de reducir la intensidad energética en sus actividades.
@@ -749,6 +770,7 @@ Con base en este reporte, la Secretaría debe determinar la conveniencia de esta
 
 ## TÍTULO CUARTO — De la Transparencia y Acceso a la Información
 
+
 ### Artículo 87
 .- La Secretaría, con apoyo del Instituto Nacional de Electricidad y Energías Limpias, debe elaborar y desarrollar una página de Internet que incluya los reportes y documentos requeridos en la presente Ley.
 
@@ -757,7 +779,9 @@ Con base en este reporte, la Secretaría debe determinar la conveniencia de esta
 
 ## TÍTULO QUINTO — De la Inspección, Vigilancia y Sanciones
 
+
 ## Capítulo I — De la Inspección y Vigilancia
+
 
 ### Artículo 89
 .- La Secretaría de Energía y la Comisión Nacional de Energía pueden realizar visitas de verificación, inspección y vigilancia, de acuerdo con las disposiciones aplicables.
@@ -766,6 +790,7 @@ Con base en este reporte, la Secretaría debe determinar la conveniencia de esta
 .- La CONUEE puede, de manera aleatoria o cuando lo considere necesario, vigilar y supervisar de forma física o remota la ejecución de los procesos que desarrollen los particulares para mejorar su Eficiencia Energética y ordenar visitas de verificación a los Usuarios de Patrón de Alto Consumo de energía, a las Empresas Públicas del Estado y a la Administración Pública Federal.
 
 ## Capítulo II — De las Sanciones
+
 
 ### Artículo 91
 .- La Secretaría, la Comisión Nacional de Energía o la CONUEE pueden sancionar con multas de cien a mil veces el valor de la Unidad de Medida y Actualización vigente, u otras medidas, a los sujetos obligados que no le proporcionen la información a que se refiere esta Ley o que proporcionen información falsa o incompleta, sin perjuicio de las responsabilidades civiles, penales o fiscales en que dichas personas usuarias incurran en adición a estas.
@@ -795,6 +820,7 @@ Se entiende por reincidencia, para los efectos de esta Ley y demás disposicione
 .- Los ingresos percibidos por la imposición de las sanciones establecidas en la presente Ley se deben aportar a los fondos que se constituyan para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
 
 ## Capítulo III
+
 De la Responsabilidad de las personas servidoras públicas, personas usuarias u otras
 
 ### Artículo 97
@@ -828,6 +854,6 @@ La Secretaría de Energía fijará como meta una participación mínima de energ
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

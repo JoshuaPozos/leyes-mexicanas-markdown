@@ -15,6 +15,7 @@ Se expide la Ley Federal para Prevenir y Eliminar la Discriminación, para queda
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- Las disposiciones de esta Ley son de orden público y de interés social. El objeto de la misma es prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona en los términos del Artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, así como promover la igualdad de oportunidades y de trato.
 Para los efectos de esta ley se entenderá por:
@@ -24,7 +25,8 @@ I. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas 
 II. Consejo: El Consejo Nacional para Prevenir la Discriminación;
 
 III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
-Párrafo reformado DOF 17-05-2022 También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+Párrafo reformado DOF 17-05-2022
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 III Bis. Discriminación interseccional, se presenta cuando dos o más motivos prohibidos de discriminación, de forma concomitante, producen un efecto mayor al de la suma simple de cada uno de aquellos motivos:
 
 a) Discriminación directa: Cuando una persona recibe un trato menos favorable que otra en una situación similar, por alguna causa relacionada con uno o varios de los motivos prohibidos de discriminación previstos en la presente Ley.
@@ -58,7 +60,8 @@ Artículo reformado DOF 19-01-2023
 ### Artículo 3
 .- Cada uno de los poderes públicos federales adoptará las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio correspondiente, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y en los tratados internacionales de los que el estado mexicano sea parte.
 En el Presupuesto de Egresos de la Federación, para cada ejercicio fiscal, se incluirán las asignaciones correspondientes para promover las acciones de nivelación, de inclusión y las acciones afirmativas a que se refiere el Capítulo IV de esta Ley.
-Párrafo reformado DOF 01-12-2016 Artículo reformado DOF 20-03-2014
+Párrafo reformado DOF 01-12-2016
+Artículo reformado DOF 20-03-2014
 
 ### Artículo 4
 .- Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo 1o. constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley.
@@ -80,6 +83,7 @@ Artículo reformado DOF 20-03-2014
 Artículo reformado DOF 20-03-2014
 
 ## CAPÍTULO II — MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
+
 
 ### Artículo 9
 .- Con base en lo establecido en el artículo primero constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley se consideran como discriminación, entre otras:
@@ -141,8 +145,10 @@ XXII. Bis. La falta de accesibilidad en el entorno físico, el transporte, la in
 Fracción adicionada DOF 20-03-2014
 
 XXII. Ter. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
-Fracción adicionada DOF 20-03-2014 XXII Quáter. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad;
-Fracción adicionada DOF 04-12-2023 XXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
+Fracción adicionada DOF 20-03-2014
+XXII Quáter. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad;
+Fracción adicionada DOF 04-12-2023
+XXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
 Fracción adicionada DOF 04-12-2023
 
 XXIII. Explotar o dar un trato abusivo o degradante;
@@ -174,12 +180,15 @@ Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022
 XXXIII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
 Fracción adicionada DOF 20-03-2014. Reformada DOF 22-11-2021
 
-XXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos, y Fracción adicionada DOF 22-11-2021
+XXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos, y
+Fracción adicionada DOF 22-11-2021
 
 XXXV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, párrafo segundo, fracción III de esta Ley.
-Fracción reformada y recorrida DOF 20-03-2014. Recorrida DOF 22-11-2021 Reforma DOF 20-03-2014: Derogó del artículo el entonces párrafo primero
+Fracción reformada y recorrida DOF 20-03-2014. Recorrida DOF 22-11-2021
+Reforma DOF 20-03-2014: Derogó del artículo el entonces párrafo primero
 
 ## CAPÍTULO III — MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE
+
 OPORTUNIDADES
 
 ### Artículo 10
@@ -207,7 +216,9 @@ Artículo derogado DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## CAPÍTULO IV — DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES
-AFIRMATIVAS Capítulo adicionado DOF 20-03-2014
+
+AFIRMATIVAS
+Capítulo adicionado DOF 20-03-2014
 
 ### Artículo 15
 Bis.- Cada uno de los poderes públicos federales y aquellas instituciones que estén bajo su regulación o competencia, están obligados a realizar las medidas de nivelación, las medidas de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación.
@@ -263,16 +274,19 @@ Artículo adicionado DOF 20-03-2014
 ### Artículo 15
 Octavus.- Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas.
 Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, afro descendientes, mujeres, niñas, niños y adolescentes, personas jóvenes, personas con discapacidad y personas adultas mayores.
-Párrafo reformado DOF 08-12-2023, 01-04-2024 Artículo adicionado DOF 20-03-2014
+Párrafo reformado DOF 08-12-2023, 01-04-2024
+Artículo adicionado DOF 20-03-2014
 
 ### Artículo 15
 Novenus.- Las instancias públicas que adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas periódicamente al Consejo para su registro y monitoreo. El Consejo determinará la información a recabar y la forma de hacerlo en los términos que se establecen en el estatuto.
 Artículo adicionado DOF 20-03-2014
 
 ## CAPÍTULO V — DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
+
 Capítulo recorrido (antes Capítulo IV) DOF 20-03-2014
 
 ## Sección Primera
+
 Denominación, Objeto, Domicilio y Patrimonio.
 
 ### Artículo 16
@@ -307,6 +321,7 @@ IV. Los fondos que obtenga por el financiamiento de programas específicos, y
 V. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales.
 
 ## Sección Segunda — De las Atribuciones.
+
 
 ### Artículo 20
 .- Son atribuciones del Consejo:
@@ -475,7 +490,8 @@ Fracción adicionada DOF 20-03-2014
 LIV. Elaborar un informe anual de sus actividades;
 Fracción adicionada DOF 20-03-2014
 
-LV. Proponer modificaciones al Estatuto Orgánico, y Fracción adicionada DOF 20-03-2014
+LV. Proponer modificaciones al Estatuto Orgánico, y
+Fracción adicionada DOF 20-03-2014
 
 LVI. Las demás establecidas en esta Ley, en el Estatuto Orgánico y en otras disposiciones aplicables.
 Fracción adicionada DOF 20-03-2014
@@ -485,6 +501,7 @@ Fracción adicionada DOF 20-03-2014
 
 ## Sección Tercera — De los Órganos de Administración.
 
+
 ### Artículo 22
 .- La Administración del Consejo corresponde a:
 
@@ -493,6 +510,7 @@ I. La Junta de Gobierno, y
 II. La Presidencia del Consejo.
 
 ## Sección Cuarta — De la Junta de Gobierno
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 23
@@ -514,7 +532,8 @@ VI. Secretaría de Desarrollo Social, e
 VII. Instituto Nacional de las Mujeres.
 Cada persona representante tendrá el nivel de titular de subsecretaría o rango inferior al titular, y las personas suplentes, del inferior jerárquico inmediato al de aquélla.
 Las personas integrantes designadas por la Asamblea Consultiva y sus respectivas personas suplentes durarán en su encargo tres años, pudiendo ser ratificadas por otro período igual por una sola ocasión, o hasta la terminación de su periodo como integrante de la Asamblea Consultiva. En la designación de las personas de la Asamblea Consultiva que integrarán la Junta de Gobierno deberá garantizarse el principio de paridad de género, alternando el género mayoritario. Este cargo tendrá carácter honorario.
-Párrafo reformado DOF 28-04-2022 La Junta de Gobierno será presidida por la persona que ocupe la presidencia del Consejo.
+Párrafo reformado DOF 28-04-2022
+La Junta de Gobierno será presidida por la persona que ocupe la presidencia del Consejo.
 Serán invitadas permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, las siguientes entidades: Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, Instituto Mexicano de la Juventud, Comisión Nacional para el Desarrollo de los Pueblos Indígenas, Instituto Nacional de las Personas Adultas Mayores, Consejo Nacional para la Prevención y Control del VIH/SIDA, Instituto Nacional de Migración y Sistema Nacional para el Desarrollo Integral de la Familia.
 Artículo reformado DOF 20-03-2014
 
@@ -525,7 +544,8 @@ I. Aprobar y modificar su reglamento de sesiones, y el Estatuto Orgánico del Co
 Fracción reformada DOF 20-03-2014
 
 II. Aprobar los ordenamientos administrativos que regulen el funcionamiento interno del Consejo propuestos por quien ocupe la presidencia, así como establecer los lineamientos y las políticas generales para su conducción con apego a esta Ley, su Estatuto Orgánico, los reglamentos de la Junta de Gobierno y de la Asamblea Consultiva, el Programa Nacional para la Igualdad y no Discriminación y Eliminar la Discriminación, y las demás disposiciones legales aplicables;
-Fracción reformada DOF 20-03-2014 II Bis. Aprobar la estrategia, criterios y lineamientos propuestos por la Presidencia del Consejo, que permitan a las instituciones públicas, privadas y organizaciones sociales llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
+Fracción reformada DOF 20-03-2014
+II Bis. Aprobar la estrategia, criterios y lineamientos propuestos por la Presidencia del Consejo, que permitan a las instituciones públicas, privadas y organizaciones sociales llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
 Fracción adicionada DOF 20-03-2014
 
 III. Aprobar el proyecto de presupuesto y del programa operativo anual que someta a su consideración la Presidencia del Consejo y conocer los informes de su ejercicio y ejecución;
@@ -549,7 +569,8 @@ Fracción derogada DOF 20-03-2014
 IX. Considerar las opiniones de la Asamblea Consultiva en materia de prevención y eliminación de la discriminación;
 Fracción adicionada DOF 20-03-2014
 
-X. Acordar la realización de las operaciones inherentes al objeto del organismo con sujeción a las disposiciones aplicables, y Fracción adicionada DOF 20-03-2014
+X. Acordar la realización de las operaciones inherentes al objeto del organismo con sujeción a las disposiciones aplicables, y
+Fracción adicionada DOF 20-03-2014
 
 XI. Las demás que le confieran éste u otros ordenamientos.
 Fracción recorrida DOF 20-03-2014
@@ -561,6 +582,7 @@ Las sesiones serán ordinarias y extraordinarias; las ordinarias se llevarán a 
 Artículo reformado DOF 20-03-2014
 
 ## Sección Quinta — De la Presidencia
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 26
@@ -573,7 +595,8 @@ Fracción derogada DOF 13-05-2022
 II. Haberse desempeñado destacadamente en actividades profesionales, sociales, de servicio público o académicas, relacionadas con la materia de esta Ley, y
 
 III. No haberse desempeñado como secretario/a de Estado, procurador/a General de la República o Fiscal General de la República, gobernador/a, jefe/a del gobierno, senador/a, diputado/a federal o local, o dirigente de un partido o asociación política durante los dos años previos al día de su nombramiento.
-Fracción reformada DOF 20-05-2021 Artículo reformado DOF 20-03-2014
+Fracción reformada DOF 20-05-2021
+Artículo reformado DOF 20-03-2014
 
 ### Artículo 27
 .- Durante su encargo la persona que ocupe la Presidencia del Consejo no podrá desempeñar algún otro empleo, cargo o comisión distintos, que sean remunerados, con excepción de los de carácter docente o científico.
@@ -593,7 +616,9 @@ Párrafo reformado DOF 20-03-2014
 
 I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
 
-I. Bis. Proponer a la Junta de Gobierno, para su aprobación, los ordenamientos administrativos que regulen el funcionamiento interno del Consejo, incluyendo el Estatuto Orgánico, manuales, lineamientos, Fracción adicionada DOF 20-03-2014 I Ter. Someter a la Junta de Gobierno, para su aprobación, la estrategia, criterios o lineamientos que permitan a las instituciones públicas, privadas y organizaciones sociales llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
+I. Bis. Proponer a la Junta de Gobierno, para su aprobación, los ordenamientos administrativos que regulen el funcionamiento interno del Consejo, incluyendo el Estatuto Orgánico, manuales, lineamientos,
+Fracción adicionada DOF 20-03-2014
+I Ter. Someter a la Junta de Gobierno, para su aprobación, la estrategia, criterios o lineamientos que permitan a las instituciones públicas, privadas y organizaciones sociales llevar a cabo programas y medidas para prevenir y eliminar la discriminación en sus prácticas, instrumentos organizativos y presupuestos;
 Fracción adicionada DOF 20-03-2014
 
 II. Presentar a la consideración de la Junta de Gobierno, para su aprobación, el proyecto del Programa Nacional para la Igualdad y no Discriminación;
@@ -623,12 +648,15 @@ X. Proponer a la Junta de Gobierno, para su aprobación, el tabulador salarial d
 Fracción reformada DOF 20-03-2014
 
 XI. Solicitar a la Asamblea Consultiva opiniones relacionadas con el desarrollo de los programas y actividades que realice el Consejo, y con cuestiones en materia de prevención y eliminación de la discriminación;
-Fracción adicionada DOF 20-03-2014. Reformada DOF 01-12-2016 XI Bis. Emitir y suscribir resoluciones por disposición e informes especiales, así como establecer medidas administrativas y de reparación derivadas de las quejas que por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta Ley resulten y sean atribuidas a particulares, personas físicas o morales, a personas servidoras públicas federales y a los poderes públicos federales, teniendo la facultad de delegar dichas atribuciones a la persona titular de la Dirección General Adjunta de Quejas, y Fracción adicionada DOF 01-12-2016
+Fracción adicionada DOF 20-03-2014. Reformada DOF 01-12-2016
+XI Bis. Emitir y suscribir resoluciones por disposición e informes especiales, así como establecer medidas administrativas y de reparación derivadas de las quejas que por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta Ley resulten y sean atribuidas a particulares, personas físicas o morales, a personas servidoras públicas federales y a los poderes públicos federales, teniendo la facultad de delegar dichas atribuciones a la persona titular de la Dirección General Adjunta de Quejas, y
+Fracción adicionada DOF 01-12-2016
 
 XII. Las demás que le confieran esta ley u otros ordenamientos.
 Fracción reformada y recorrida DOF 20-03-2014
 
 ## Sección Sexta — De la Asamblea Consultiva
+
 Sección recorrida (antes Sección Cuarta) DOF 20-03-2014
 
 ### Artículo 31
@@ -679,13 +707,16 @@ Artículo reformado DOF 20-03-2014, 01-12-2016
 .- El Consejo proveerá a la Asamblea Consultiva de los recursos necesarios para el desempeño de sus actividades.
 
 ## Sección Séptima — De los Órganos de Vigilancia
+
 Sección recorrida (antes Sección Quinta) DOF 20-03-2014
 
 ### Artículo 38
 .- El Consejo contará con una contraloría, órgano de control interno, al frente de la cual estará la persona designada en los términos de la Ley Orgánica de la Administración Pública Federal.
 Corresponderá al órgano constitucional autónomo en materia anticorrupción por sí o a través del órgano interno de control del Consejo, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
-Párrafo reformado DOF 09-04-2012, 20-03-2014 El órgano de vigilancia del Consejo estará integrado por un Comisario Público propietario y suplente, designados por el órgano constitucional autónomo a que hace referencia el párrafo anterior, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
-Párrafo reformado DOF 09-04-2012, 20-03-2014 El Comisario acudirá con voz pero sin voto, a las sesiones de la Junta de Gobierno.
+Párrafo reformado DOF 09-04-2012, 20-03-2014
+El órgano de vigilancia del Consejo estará integrado por un Comisario Público propietario y suplente, designados por el órgano constitucional autónomo a que hace referencia el párrafo anterior, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
+Párrafo reformado DOF 09-04-2012, 20-03-2014
+El Comisario acudirá con voz pero sin voto, a las sesiones de la Junta de Gobierno.
 
 ### Artículo 39
 .- El Comisario Público, tendrá las siguientes facultades:
@@ -702,7 +733,9 @@ V. Las demás inherentes a su función y las que le señale expresamente el órg
 Fracción reformada DOF 09-04-2012, 20-03-2014
 
 ## Sección Octava
-Prevenciones Generales Sección recorrida (antes Sección Sexta) DOF 20-03-2014
+
+Prevenciones Generales
+Sección recorrida (antes Sección Sexta) DOF 20-03-2014
 
 ### Artículo 40
 .- El Consejo se regirá por lo dispuesto en esta Ley y su Estatuto Orgánico en lo relativo a su estructura, funcionamiento, operación, desarrollo y control. Para tal efecto contará con las disposiciones generales a la naturaleza y características del organismo, a sus órganos de administración, a las unidades que integran estos últimos, a la vigilancia, y demás que se requieran para su regulación interna, conforme a lo establecido en la legislación de la materia y por esta Ley.
@@ -711,15 +744,20 @@ Prevenciones Generales Sección recorrida (antes Sección Sexta) DOF 20-03-2014
 .- Queda reservado a los Tribunales Federales el conocimiento y resolución de todas las controversias en que sea parte el Consejo.
 
 ## Sección Novena
-Régimen de Trabajo Sección recorrida (antes Sección Séptima) DOF 20-03-2014
+
+Régimen de Trabajo
+Sección recorrida (antes Sección Séptima) DOF 20-03-2014
 
 ### Artículo 42
 .- Las relaciones de trabajo del organismo y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO V — (sic DOF 20-03-2014)
-DEL PROCEDIMIENTO DE QUEJA Capítulo recorrido y denominación reformada DOF 20-03-2014
+
+DEL PROCEDIMIENTO DE QUEJA
+Capítulo recorrido y denominación reformada DOF 20-03-2014
 
 ## Sección Primera — Disposiciones Generales.
+
 
 ### Artículo 43
 .- El Consejo conocerá de las quejas por los presuntos actos, omisiones o prácticas sociales discriminatorias a que se refiere esta ley, atribuidas a particulares, personas físicas o morales, así como a personas servidoras públicas federales, y a los poderes públicos federales, e impondrá en su caso las medidas administrativas y de reparación que esta Ley previene.
@@ -794,7 +832,9 @@ Artículo derogado DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## Sección Segunda — De la Reclamación.
-(Se deroga) Sección derogada DOF 20-03-2014
+
+(Se deroga)
+Sección derogada DOF 20-03-2014
 
 ### Artículo 58
 .- Derogado.
@@ -821,6 +861,7 @@ Artículo derogado DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## Sección Tercera — De la Sustanciación
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 63
@@ -854,6 +895,7 @@ Octavus.- Los particulares que consideren haber sido discriminados por actos de 
 Artículo adicionado DOF 20-03-2014
 
 ## Sección Cuarta — De la Conciliación
+
 Sección recorrida (antes Sección Tercera) DOF 20-03-2014
 
 ### Artículo 64
@@ -901,6 +943,7 @@ Artículo reformado DOF 20-03-2014
 Artículo reformado DOF 20-03-2014
 
 ## Sección Quinta — De la Investigación
+
 Sección recorrida (antes Sección Cuarta) DOF 20-03-2014
 
 ### Artículo 73
@@ -938,6 +981,7 @@ Artículo derogado DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## Sección Sexta — De la Resolución
+
 Sección recorrida (antes Sección Quinta) DOF 20-03-2014
 
 ### Artículo 77
@@ -973,7 +1017,9 @@ La resolución emitida por el Consejo constituirá prueba plena dentro del proce
 Artículo adicionado DOF 20-03-2014
 
 ## Sección Sexta — Del Procedimiento Conciliatorio entre Particulares.
-(Se deroga la anterior Sección Sexta) Sección derogada DOF 20-03-2014
+
+(Se deroga la anterior Sección Sexta)
+Sección derogada DOF 20-03-2014
 
 ### Artículo 80
 .- Derogado.
@@ -988,9 +1034,12 @@ Artículo derogado DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## CAPÍTULO VI — (sic DOF 20-03-2014)
-DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN Capítulo recorrido y denominación reformada DOF 20-03-2014
+
+DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
+Capítulo recorrido y denominación reformada DOF 20-03-2014
 
 ## Sección Primera — De las Medidas Administrativas y de Reparación
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 83
@@ -1005,10 +1054,13 @@ Fracción reformada DOF 20-03-2014
 III. La presencia de personal del Consejo para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación;
 Fracción reformada DOF 20-03-2014
 
-IV. La difusión de la versión pública de la resolución en el órgano de difusión del Consejo, y Fracción reformada DOF 20-03-2014
+IV. La difusión de la versión pública de la resolución en el órgano de difusión del Consejo, y
+Fracción reformada DOF 20-03-2014
 
 V. La publicación o difusión de una síntesis de la resolución en los medios impresos o electrónicos de comunicación.
-Fracción reformada DOF 20-03-2014 (Se deroga el último párrafo) Párrafo derogado DOF 20-03-2014
+Fracción reformada DOF 20-03-2014
+(Se deroga el último párrafo)
+Párrafo derogado DOF 20-03-2014
 
 ### Artículo 83
 Bis.- El Consejo podrá imponer las siguientes medidas de reparación:
@@ -1029,14 +1081,17 @@ Ter.- Las medidas administrativas y de reparación señaladas se impondrán sin 
 Artículo adicionado DOF 20-03-2014
 
 ## Sección Segunda — De los Criterios para la Imposición de Medidas Administrativas y de Reparación
-Sección adicionada DOF 20-03-2014 Articulo 84.- Para la imposición de las medidas administrativas y de reparación, se tendrá en consideración:
+
+Sección adicionada DOF 20-03-2014
+Articulo 84.- Para la imposición de las medidas administrativas y de reparación, se tendrá en consideración:
 Párrafo reformado DOF 20-03-2014
 
 I. Derogada.
 Fracción derogada DOF 20-03-2014
 
 II. La gravedad de la conducta o práctica social discriminatoria;
-Fracción reformada DOF 20-03-2014 II Bis. La concurrencia de dos o más motivos o formas de discriminación;
+Fracción reformada DOF 20-03-2014
+II Bis. La concurrencia de dos o más motivos o formas de discriminación;
 Fracción adicionada DOF 20-03-2014
 
 III. La reincidencia, entendiéndose por ésta cuando la misma persona incurra en igual, semejante o nueva violación al derecho a la no discriminación, sea en perjuicio de la misma o diferente parte agraviada;
@@ -1050,6 +1105,7 @@ Fracción adicionada DOF 20-03-2014
 Artículo derogado DOF 20-03-2014
 
 ## Sección Tercera — De la Ejecución de las Medidas Administrativas y de Reparación
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 86
@@ -1063,6 +1119,7 @@ No obstante, los costos que se generen por esos conceptos deberán ser asumidos 
 Artículo adicionado DOF 20-03-2014
 
 ## Sección Cuarta — Del Recurso de Revisión
+
 Sección adicionada DOF 20-03-2014
 
 ### Artículo 88
@@ -1106,8 +1163,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma la fracción XI del artículo 9 y se adiciona la fracción V al artículo 10 de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
@@ -1117,7 +1174,7 @@ Se reforma la fracción XI del artículo 9 y se adiciona la fracción V al artí
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Magdalena del Socorro Nuñez Monreal, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el artículo 4o. de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2013
@@ -1127,7 +1184,7 @@ Se reforma el artículo 4o. de la Ley Federal para Prevenir y Eliminar la Discri
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 30 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma la fracción V del artículo 11 de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
@@ -1144,20 +1201,21 @@ Publicado en el Diario Oficial de la Federación el 20 de marzo de 2014
 
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 3, 4, 5, 6 y 8; el párrafo segundo del 9 y sus fracciones I, V, VI, XII, XIII, XV y la XXIX que pasa a ser la fracción XXXIV, así como sus fracciones XXVII, XXVIII; el artículo 16; el primer párrafo del artículo 20; el articulo 23 en sus párrafos primero, segundo, tercero,
-**cuarto.** y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del artículo 24; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y las fracciones II, III, IV, V, VII, VIII, IX, X y XI del artículo 30; los artículos 32, 34 y 35; el segundo y tercer párrafos del artículo 38; la fracción V del artículo 39; la denominación del Capítulo Quinto “De los Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del artículo 44; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50; los artículos 51, 52, 53, 54 y 55; el primer párrafo del artículo 64; los artículos 65, 66, 67, 68, 69 y 70; el primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del artículo 73; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el primer párrafo y las fracciones II y III del artículo 84; Se adicionan un párrafo segundo y las fracciones I, II, III, IV, V, VI, VII, VIII, IX y X al artículo 1; las fracciones XXII Bis, XXII Ter, XXIX a XXXIII al 9; un capítulo IV “De las Medidas de Nivelación, Medidas de Inclusión y Acciones Afirmativas” conformado por los artículos 15 Bis, 15 Ter, 15 Quáter, 15 Quintus, 15 Sextus, 15 Septimus, 15 Octavus y 15 Novenus, recorriéndose el orden del actual Capítulo IV “Del Consejo Nacional para Prevenir la Discriminación” y los subsecuentes; las fracciones XX a LVI al artículo 20; una Sección Cuarta “De la Junta de Gobierno” y una
+**cuarto.-** y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del artículo 24; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y las fracciones II, III, IV, V, VII, VIII, IX, X y XI del artículo 30; los artículos 32, 34 y 35; el segundo y tercer párrafos del artículo 38; la fracción V del artículo 39; la denominación del Capítulo Quinto “De los Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del artículo 44; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50; los artículos 51, 52, 53, 54 y 55; el primer párrafo del artículo 64; los artículos 65, 66, 67, 68, 69 y 70; el primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del artículo 73; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el primer párrafo y las fracciones II y III del artículo 84; Se adicionan un párrafo segundo y las fracciones I, II, III, IV, V, VI, VII, VIII, IX y X al artículo 1; las fracciones XXII Bis, XXII Ter, XXIX a XXXIII al 9; un capítulo IV “De las Medidas de Nivelación, Medidas de Inclusión y Acciones Afirmativas” conformado por los artículos 15 Bis, 15 Ter, 15 Quáter, 15 Quintus, 15 Sextus, 15 Septimus, 15 Octavus y 15 Novenus, recorriéndose el orden del actual Capítulo IV “Del Consejo Nacional para Prevenir la Discriminación” y los subsecuentes; las fracciones XX a LVI al artículo 20; una Sección Cuarta “De la Junta de Gobierno” y una
 
 ## Sección Quinta — “De la Presidencia” al Capítulo V “Del Consejo Nacional para Prevenir la Discriminación”
+
 recorriéndose a la Sección Sexta la actual Sección Cuarta “De la Asamblea Consultiva” y el orden de las subsecuentes secciones; las fracciones VI, VII y el párrafo quinto -recorriéndose el orden del subsecuente- al artículo 23; las fracciones II Bis, IX y X del artículo 24, recorriendo la actual fracción IX a la XI; un segundo párrafo y las fracciones I, II y III al artículo 26; las fracciones I Bis, I Ter y XI del artículo 30, recorriendo el orden de sus actuales fracciones XI a la XII; un primer y cuarto párrafo al artículo 43, recorriéndose el orden de sus actuales párrafos primero y segundo; un segundo párrafo al artículo 44; un párrafo segundo al artículo 48; un artículo 48 Bis; los párrafos segundo y tercero al artículo 50; la Sección Tercera “De la Sustanciación” del Capítulo V “De los Procedimientos”, recorriéndose el orden de las subsecuentes secciones; un segundo párrafo al artículo 64; un artículo 65 Bis, un segundo párrafo al artículo 71; un segundo párrafo a la fracción II del artículo 73; los artículos 77 Bis, 77 Ter y 77 Quáter; el
-**segundo.** y tercer párrafo al artículo 79; los artículos 79 Bis y 79 Ter; el Capítulo VI “De las medidas administrativas y de reparación” y su Sección Primera “De las medidas administrativas y de reparación”; los artículos 83 Bis y 83 Ter; la Sección Segunda “De los criterios para la imposición de medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación”; las fracciones II Bis y IV al artículo 84; la Sección Tercera “De la ejecución de las medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación” integrada por los artículos 86 y 87; la Sección Cuarta “Del recurso de revisión” al Capítulo VI “De las medidas administrativas y de reparación”; Se DEROGAN las fracciones I a VIII del artículo 5; el primer párrafo del artículo 9, recorriéndose el orden de los subsecuentes; los artículos 10, 11, 12, 13, 14 y 15; las fracciones I a XIX del artículo 20; la fracción VIII del artículo 24; la fracción VI del artículo 30; la fracción VII del artículo 34; la Sección Segunda “De la Reclamación” del actual Capítulo V “De los Procedimientos”, los artículos 56 y 57; el artículo 63; el segundo párrafo del artículo 65; los artículos 76 y 77; la actual Sección Sexta “Del Procedimiento Conciliatorio entre Particulares” del Capítulo V “De los Procedimientos”; el último párrafo del artículo 83; la fracción I del artículo 84, y el artículo 85 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como siguen: ………
+**segundo.-** y tercer párrafo al artículo 79; los artículos 79 Bis y 79 Ter; el Capítulo VI “De las medidas administrativas y de reparación” y su Sección Primera “De las medidas administrativas y de reparación”; los artículos 83 Bis y 83 Ter; la Sección Segunda “De los criterios para la imposición de medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación”; las fracciones II Bis y IV al artículo 84; la Sección Tercera “De la ejecución de las medidas administrativas y de reparación” al Capítulo VI “De las medidas administrativas y de reparación” integrada por los artículos 86 y 87; la Sección Cuarta “Del recurso de revisión” al Capítulo VI “De las medidas administrativas y de reparación”; Se DEROGAN las fracciones I a VIII del artículo 5; el primer párrafo del artículo 9, recorriéndose el orden de los subsecuentes; los artículos 10, 11, 12, 13, 14 y 15; las fracciones I a XIX del artículo 20; la fracción VIII del artículo 24; la fracción VI del artículo 30; la fracción VII del artículo 34; la Sección Segunda “De la Reclamación” del actual Capítulo V “De los Procedimientos”, los artículos 56 y 57; el artículo 63; el segundo párrafo del artículo 65; los artículos 76 y 77; la actual Sección Sexta “Del Procedimiento Conciliatorio entre Particulares” del Capítulo V “De los Procedimientos”; el último párrafo del artículo 83; la fracción I del artículo 84, y el artículo 85 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como siguen: ………
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente decreto.
-**TERCERO.** El período de duración a que hace referencia esta ley para la persona que ocupe el cargo de la presidencia del Consejo Nacional para Prevenir la Discriminación entrará en vigor a partir del siguiente nombramiento que se realice.
-**CUARTO.** El sistema para iniciar la renovación escalonada de las personas integrantes de la Asamblea Consultiva se propondrá mediante acuerdo de dicho órgano colegiado, y se pondrá a consideración de la Junta de Gobierno para su aprobación.
-**QUINTO.** Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Consejo Nacional para Prevenir la Discriminación deberá emitir los lineamientos que regulen la aplicación de las medidas previstas en los artículos 83 y 83 Bis de la presente Ley.
-**SEXTO.** Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, las modificaciones previstas en el presente Decreto para los artículos 38, 39, 73 Ter y 86 de esta Ley, exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente decreto.
+**TERCERO.-** El período de duración a que hace referencia esta ley para la persona que ocupe el cargo de la presidencia del Consejo Nacional para Prevenir la Discriminación entrará en vigor a partir del siguiente nombramiento que se realice.
+**CUARTO.-** El sistema para iniciar la renovación escalonada de las personas integrantes de la Asamblea Consultiva se propondrá mediante acuerdo de dicho órgano colegiado, y se pondrá a consideración de la Junta de Gobierno para su aprobación.
+**QUINTO.-** Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Consejo Nacional para Prevenir la Discriminación deberá emitir los lineamientos que regulen la aplicación de las medidas previstas en los artículos 83 y 83 Bis de la presente Ley.
+**SEXTO.-** Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, las modificaciones previstas en el presente Decreto para los artículos 38, 39, 73 Ter y 86 de esta Ley, exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
 Entre tanto se expiden y entran en vigor las disposiciones a que se refiere este artículo, la Secretaría de la Función Pública continuará ejerciendo sus atribuciones conforme a los ordenamientos vigentes al momento de expedición de este decreto.
 México, D.F., a 6 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Angelina Carreño Mijares, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación.
@@ -1168,9 +1226,9 @@ Se reforman los artículos 3, en su segundo párrafo, y 35; y se adiciona una fr
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
-**Tercero.** Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para Prevenir y Eliminar la Discriminación, que se reforma con motivo del presente Decreto, se propondrá mediante acuerdo de la Asamblea Consultiva y se pondrá a consideración de la Junta de Gobierno para su aprobación.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
+**Tercero.-** Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para Prevenir y Eliminar la Discriminación, que se reforma con motivo del presente Decreto, se propondrá mediante acuerdo de la Asamblea Consultiva y se pondrá a consideración de la Junta de Gobierno para su aprobación.
 Ciudad de México, a 25 de octubre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip.
 Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip.
 Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
@@ -1182,47 +1240,47 @@ Se reforman las fracciones XXIX y XXXII del artículo 20 de la Ley Federal para 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Quincuagésimo Cuarto.- Se reforma la fracción III del artículo 26 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adiciona una fracción XXXIV al artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
@@ -1242,10 +1300,10 @@ Se reforma el párrafo cuarto del artículo 23 de la Ley Federal para Prevenir y
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -1279,7 +1337,7 @@ Se reforma el artículo 2 de la Ley Federal para Prevenir y Eliminar la Discrimi
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se adiciona una fracción III Bis al artículo 1 de la Ley Federal para Prevenir y Eliminar la Discriminación.
@@ -1329,12 +1387,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

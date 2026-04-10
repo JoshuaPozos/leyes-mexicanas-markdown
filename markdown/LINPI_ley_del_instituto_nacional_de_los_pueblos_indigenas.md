@@ -14,6 +14,7 @@ SE EXPIDE LA   Y SE ABROGA LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE
 Se expide la Ley del Instituto Nacional de los Pueblos Indígenas y se abroga la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas Ley del Instituto Nacional de los Pueblos Indígenas
 
 ## Capítulo I
+
 De la Naturaleza, Objeto y Funciones del Instituto Nacional de los Pueblos Indígenas
 
 ### Artículo 1
@@ -175,6 +176,7 @@ Para estos efectos, se reconoce a la Asamblea General Comunitaria como la máxim
 
 ## Capítulo II — De los Órganos y Funcionamiento del Instituto Nacional de los Pueblos Indígenas
 
+
 ### Artículo 11
 . El Instituto contará con los Órganos siguientes:
 
@@ -219,14 +221,16 @@ i) Salud;
 j) Desarrollo Agrario, Territorial y Urbano;
 Inciso reformado DOF 18-05-2022
 
-k) Relaciones Exteriores, y Inciso reformado DOF 18-05-2022
+k) Relaciones Exteriores, y
+Inciso reformado DOF 18-05-2022
 
 l) Cultura.
 Inciso adicionado DOF 18-05-2022
 
 III. Una representación del Consejo Nacional de Pueblos Indígenas.
 La persona titular de la Comisión de Asuntos Indígenas del Senado de la República, así como de la Comisión de Pueblos Indígenas de la Cámara de Diputados del Congreso de la Unión; participarán como invitadas permanentes con derecho a voz sin voto.
-Párrafo reformado DOF 28-04-2022 En los casos a los que se refieren las fracciones I y II, cada integrante contará con una persona suplente. Las personas suplentes tendrán derecho a voz y voto en ausencia de su titular.
+Párrafo reformado DOF 28-04-2022
+En los casos a los que se refieren las fracciones I y II, cada integrante contará con una persona suplente. Las personas suplentes tendrán derecho a voz y voto en ausencia de su titular.
 Párrafo reformado DOF 28-04-2022
 
 ### Artículo 13
@@ -363,6 +367,7 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 En caso de que los servidores públicos del Instituto pertenezcan a un pueblo indígena y sean nombrados para desempeñar algún cargo en sus comunidades o municipios, se les proporcionará el apoyo y las facilidades que correspondan.
 
 ## Capítulo III
+
 Del Mecanismo para la Implementación y Protección de los Derechos de los Pueblos Indígenas
 
 ### Artículo 27
@@ -440,10 +445,12 @@ Fracción reformada DOF 28-04-2022
 IX. Una persona representante de la Comisión Nacional de los Derechos Humanos;
 Fracción reformada DOF 28-04-2022
 
-X. La persona Titular de la Dirección General del Instituto, quien fungirá como Secretaria o Secretario Técnico, y Fracción reformada DOF 28-04-2022
+X. La persona Titular de la Dirección General del Instituto, quien fungirá como Secretaria o Secretario Técnico, y
+Fracción reformada DOF 28-04-2022
 
 XI. La persona que presida el Consejo Nacional de Pueblos Indígenas y cuatro de sus integrantes, elegidos conforme al principio de paridad de género y de acuerdo con lo que establezca su Reglamento.
-Fracción reformada DOF 28-04-2022 Las personas integrantes del Mecanismo antes mencionado serán las titulares de las instituciones que representan o, en suplencia, el subsecretario, subsecretaría o equivalente.
+Fracción reformada DOF 28-04-2022
+Las personas integrantes del Mecanismo antes mencionado serán las titulares de las instituciones que representan o, en suplencia, el subsecretario, subsecretaría o equivalente.
 Párrafo reformado DOF 28-04-2022
 
 ### Artículo 29
@@ -454,18 +461,18 @@ Tendrán el carácter de invitados a las sesiones del Mecanismo o de las comisio
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
-**Tercero.** La Secretaría de Hacienda y Crédito Público realizará las adecuaciones presupuestarias necesarias para el tratamiento del Instituto Nacional de los Pueblos Indígenas como entidad no sectorizada.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+**Tercero.-** La Secretaría de Hacienda y Crédito Público realizará las adecuaciones presupuestarias necesarias para el tratamiento del Instituto Nacional de los Pueblos Indígenas como entidad no sectorizada.
 El Instituto Nacional de los Pueblos Indígenas conservará la personalidad jurídica y el patrimonio de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
-**Cuarto.** La Junta de Gobierno del Instituto Nacional de los Pueblos Indígenas expedirá el Estatuto Orgánico de dicha entidad en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este Decreto.
+**Cuarto.-** La Junta de Gobierno del Instituto Nacional de los Pueblos Indígenas expedirá el Estatuto Orgánico de dicha entidad en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este Decreto.
 En tanto se expide el Estatuto Orgánico, se continuará aplicando el de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas en lo que no se oponga a esta Ley; y en lo no previsto se estará a lo que resuelva la Junta de Gobierno.
-**Quinto.** El Consejo Nacional de Pueblos Indígenas deberá estar instalado dentro de los 180 días naturales siguientes a la entrada en vigor del Estatuto Orgánico a que hace referencia el artículo anterior.
-**Sexto.** Los trabajadores de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán siéndolo del Instituto Nacional de los Pueblos Indígenas, conservando su antigüedad, derechos y condiciones laborales, en términos de la legislación aplicable.
+**Quinto.-** El Consejo Nacional de Pueblos Indígenas deberá estar instalado dentro de los 180 días naturales siguientes a la entrada en vigor del Estatuto Orgánico a que hace referencia el artículo anterior.
+**Sexto.-** Los trabajadores de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán siéndolo del Instituto Nacional de los Pueblos Indígenas, conservando su antigüedad, derechos y condiciones laborales, en términos de la legislación aplicable.
 Los recursos materiales, financieros y activos con que cuente la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, pasarán a formar parte del Instituto Nacional de los Pueblos Indígenas.
-**Séptimo.** Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, las dependencias y entidades de la Administración Pública Federal propondrán al Presidente de la República, dentro del ámbito de sus respectivas competencias, las modificaciones del marco jurídico que consideren necesarias para el pleno respeto e implementación de los derechos y el desarrollo de los pueblos indígenas y afromexicano.
-**Octavo.** Los asuntos que se encuentren en trámite en la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán a cargo del Instituto Nacional de los Pueblos Indígenas.
-**Noveno.** Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga a la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, se entenderá hecha al Instituto Nacional de los Pueblos Indígenas.
+**Séptimo.-** Dentro de los 180 días naturales siguientes a la entrada en vigor de esta Ley, las dependencias y entidades de la Administración Pública Federal propondrán al Presidente de la República, dentro del ámbito de sus respectivas competencias, las modificaciones del marco jurídico que consideren necesarias para el pleno respeto e implementación de los derechos y el desarrollo de los pueblos indígenas y afromexicano.
+**Octavo.-** Los asuntos que se encuentren en trámite en la Comisión Nacional para el Desarrollo de los Pueblos Indígenas seguirán a cargo del Instituto Nacional de los Pueblos Indígenas.
+**Noveno.-** Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga a la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, se entenderá hecha al Instituto Nacional de los Pueblos Indígenas.
 Ciudad de México, a 28 de noviembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip.
 Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los cuatro días del mes de diciembre de dos mil dieciocho.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra.
 Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -477,10 +484,10 @@ Se reforma las fracciones I y II y los párrafos segundo y tercero del artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

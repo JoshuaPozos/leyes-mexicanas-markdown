@@ -12,7 +12,9 @@ SE EXPIDE LA   Y SE ABROGA LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
 ## TÍTULO PRIMERO — Del Ámbito de Aplicación de la Ley y de las Autoridades
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto establecer las bases de las políticas en materia de telecomunicaciones, radiodifusión y satelital; regular el uso, aprovechamiento y explotación del espectro radioeléctrico, las redes públicas de telecomunicaciones, el despliegue y el acceso a la infraestructura activa y pasiva, los recursos orbitales, la comunicación vía satélite, los servicios espaciales y sus aplicaciones, la sostenibilidad espacial, la prestación de los servicios públicos de interés general de telecomunicaciones y radiodifusión, y la convergencia entre éstos, los derechos de los usuarios y las audiencias, así como garantizar el desarrollo eficiente de los sectores de telecomunicaciones y radiodifusión, que contribuyan a los fines y al ejercicio de los derechos establecidos en los artículos 6o., 7o., 27 y 28 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -236,7 +238,9 @@ X. Las Leyes aplicables en materia electoral.
 
 ## Capítulo II — De la Competencia de las Autoridades
 
+
 ## Sección I — De la Comisión
+
 
 ### Artículo 7
 . La Comisión es un órgano administrativo desconcentrado de la Agencia, con independencia técnica, operativa y de gestión, que actuará con imparcialidad para dictar resoluciones, cuyo objeto es garantizar el desarrollo eficiente de las telecomunicaciones y la radiodifusión, en los términos que fija la Constitución, la presente Ley y demás disposiciones jurídicas aplicables.
@@ -248,6 +252,7 @@ La Comisión emitirá Normas Oficiales Mexicanas y lineamientos técnicos relati
 La organización y funcionamiento de la Comisión se regirá conforme a su Reglamento Interior, en el cual se establecerán las facultades que ejercerán las diversas unidades de la misma.
 
 ## Sección II — De las atribuciones de la Agencia
+
 
 ### Artículo 9
 . Corresponde a la Agencia:
@@ -282,7 +287,9 @@ XIV. Las demás que le confiera esta Ley y otras disposiciones legales o adminis
 
 ## Capítulo III — De las Atribuciones de la Comisión y su Integración
 
+
 ## Sección I
+
 Atribuciones de la Comisión
 
 ### Artículo 10
@@ -407,6 +414,7 @@ LVIII. Las demás que le confiera esta Ley y otras disposiciones legales o admin
 
 ## Sección II — Del Pleno de la Comisión
 
+
 ### Artículo 11
 . El Pleno es el órgano máximo de gobierno y decisión de la Comisión, integrado por cinco Personas Comisionadas con voz y voto, incluida la persona Comisionada presidenta.
 
@@ -425,6 +433,7 @@ El Reglamento Interior o, en su caso, el acuerdo delegatorio correspondiente pub
 . El Pleno contará con una persona Secretaria Técnica que será designada en los términos previstos en su Reglamento Interior.
 
 ## Sección III — Del Nombramiento de las Personas Comisionadas
+
 
 ### Artículo 14
 . Las Personas Comisionadas serán nombradas en forma escalonada por la persona titular del Ejecutivo Federal y ratificadas por el voto de la mayoría de las personas integrantes presentes del Senado de la República, o en sus recesos, por la Comisión Permanente, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta de nombramiento.
@@ -461,6 +470,7 @@ En caso de falta absoluta de alguna Persona Comisionada, la persona titular del 
 
 ## Sección IV — De la Persona Comisionada Presidenta
 
+
 ### Artículo 19
 . Corresponde a la persona Comisionada Presidenta:
 
@@ -481,6 +491,7 @@ VII. Someter a consideración del Pleno los asunto competencia, y
 VIII. Las demás que le confieran esta Ley, el Reglamento de la Comisión y demás disposiciones aplicables.
 
 ## Sección V — De las Personas Comisionadas
+
 
 ### Artículo 20
 . Corresponde a las Personas Comisionadas:
@@ -552,6 +563,7 @@ VI. No excusarse de participar en aquellas tomas de decisiones en las que sus in
 VII. No emitir su voto razonado por escrito en casos de ausencia en los términos previstos en esta Ley.
 
 ## Sección VI
+
 De las Sesiones del Pleno de la Comisión, de sus Resoluciones, de la Transparencia y de la Confidencialidad de las Votaciones
 
 ### Artículo 24
@@ -585,14 +597,18 @@ La Comisión contará con un espacio dentro de su portal de Internet destinado e
 
 ## Capítulo IV — De la Colaboración con otras Autoridades
 
+
 ### Artículo 31
 . Para el ejercicio de sus atribuciones, la Agencia y la Comisión podrán solicitar la colaboración y apoyo de las dependencias y entidades del Gobierno Federal, del Gobierno de la Ciudad de México y sus demarcaciones territoriales; así como de los gobiernos de las entidades federativas, de los municipios, o de cualquier otra autoridad, conforme a sus respectivos ámbitos de competencia. La Agencia y la Comisión prestarán la colaboración que les soliciten, en el ámbito de sus atribuciones, en términos de los convenios de colaboración que al efecto celebren.
 
 ## TÍTULO SEGUNDO — Del Espectro Radioeléctrico y Recursos Orbitales
 
+
 ## Capítulo Único — Del Espectro Radioeléctrico
 
+
 ## Sección I — Disposiciones Generales
+
 
 ### Artículo 32
 . El espectro radioeléctrico y los recursos orbitales son bienes del dominio público de la Nación, cuya titularidad y administración corresponden al Estado.
@@ -630,6 +646,7 @@ III. Espectro protegido: Son aquellas bandas de frecuencias atribuidas a nivel m
 La Comisión llevará a cabo las acciones necesarias para garantizar la operación de dichas bandas de frecuencia en condiciones de seguridad y libre de interferencias perjudiciales, bajo los lineamientos, título habilitante o especificaciones que establezca la Comisión.
 
 ## Sección II — De la Administración del Espectro Radioeléctrico
+
 
 ### Artículo 34
 . Para la adecuada planeación, administración y control del espectro radioeléctrico y para su uso y aprovechamiento eficiente, la Comisión deberá mantener actualizado el Cuadro Nacional de Atribución de Frecuencias con base en el interés general. La Comisión deberá considerar la evolución tecnológica en materia de telecomunicaciones y radiodifusión, particularmente la de radiocomunicación y la reglamentación en materia de radiocomunicaciones de la Unión Internacional de Telecomunicaciones.
@@ -683,7 +700,9 @@ Los equipos o aparatos científicos, médicos o industriales, deberán cumplir l
 
 ## TÍTULO TERCERO — Del Régimen de Concesiones
 
+
 ## Capítulo I — De la Concesión Única
+
 
 ### Artículo 45
 . Se requerirá concesión única para prestar todo tipo de servicios públicos de telecomunicaciones y radiodifusión.
@@ -720,6 +739,7 @@ La participación de la inversión extranjera en sociedades concesionarias se pe
 Al otorgar las concesiones la Comisión deberá establecer que en la prestación de los servicios se encuentra prohibido establecer privilegios o distinciones que configuren algún tipo de discriminación y tratándose de personas físicas estará prohibida toda discriminación motivada por origen étnico o nacional, el color de piel, la cultura, el idioma, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, la identidad o filiación política, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, y se deberá observar el principio de igualdad de género.
 
 ## Capítulo II — Del Otorgamiento de la Concesión Única
+
 
 ### Artículo 51
 . La concesión única se otorgará por la Comisión por un plazo de hasta treinta años y podrá ser prorrogada hasta por plazos iguales, conforme lo dispuesto en este Título.
@@ -759,7 +779,9 @@ VII. Los demás derechos y obligaciones de los concesionarios.
 
 ## Capítulo III — De las Concesiones sobre el Espectro Radioeléctrico y los Recursos Orbitales
 
+
 ## Sección I — Disposiciones Generales
+
 
 ### Artículo 54
 . Las concesiones para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico de uso determinado y para la ocupación y explotación de recursos orbitales, se otorgarán por la Comisión por un plazo de hasta veinte años y podrán ser prorrogadas hasta por plazos iguales conforme a lo dispuesto en este Título.
@@ -784,6 +806,7 @@ La participación de la inversión extranjera en sociedades concesionarias se pe
 Cuando se solicite concesión para prestar servicios de radiodifusión que involucre participación de inversión extranjera, se requerirá la opinión previa y favorable de la Comisión Nacional de Inversiones Extranjeras, quien verificará que se cumpla con los límites de inversión extranjera previstos en este artículo y en la Ley de Inversión Extranjera. Dicha opinión deberá ser presentada por la persona interesada a la Comisión.
 
 ## Sección II — De las Concesiones sobre el Espectro Radioeléctrico para uso Comercial
+
 
 ### Artículo 57
 . Las concesiones para el uso, aprovechamiento y explotación del espectro radioeléctrico para uso comercial se otorgarán a través del proceso de licitación pública, previo pago de una contraprestación, para lo cual se deberán observar los criterios previstos en los artículos 2o., 6o., 7o., 28 y 134 de la Constitución y lo establecido en el Capítulo IV del presente Título, así como lo siguiente:
@@ -853,6 +876,7 @@ VII. Los demás derechos y obligaciones de los concesionarios.
 
 ## Sección III — De las Concesiones sobre el Espectro Radioeléctrico para uso Privado
 
+
 ### Artículo 61
 . El espectro radioeléctrico para uso privado con propósitos de comunicación privada se concesionará directamente sujeto a disponibilidad, hasta por un plazo de quince años prorrogables por plazos iguales, previo pago de una contraprestación conforme a lo establecido en el Capítulo IV del presente Título.
 Para la asignación de las concesiones sobre el espectro radioeléctrico para uso privado, la persona interesada deberá presentar ante la Comisión solicitud que contenga al menos la siguiente información:
@@ -869,6 +893,7 @@ V. La documentación que acredite su capacidad técnica, económica, jurídica y
 Los lineamientos para el otorgamiento de la concesión a los que se refiere este artículo serán establecidos por la Comisión, mediante reglas de carácter general sobre la base de resolver la solicitud en el orden en que se hubiere presentado e incluirán el pago previo de una contraprestación a favor del Gobierno Federal en términos de la presente Ley.
 
 ## Sección IV — De las Concesiones sobre el Espectro Radioeléctrico para uso Público o Social
+
 
 ### Artículo 62
 . Las concesiones sobre el espectro radioeléctrico para uso público o social se otorgarán mediante asignación directa hasta por quince años y podrán ser prorrogadas hasta por plazos iguales, conforme lo dispuesto en este Título. Bajo esta modalidad de concesiones no se podrán prestar servicios con fines de lucro, ni compartir el espectro radioeléctrico con terceros. Lo anterior, sin perjuicio de la multiprogramación de las concesiones de radiodifusión en la que se podrá ofrecer capacidad a terceros de conformidad con esta Ley.
@@ -903,6 +928,7 @@ Una vez cumplidos los requisitos señalados, la Comisión resolverá lo conducen
 La Comisión podrá donar a los concesionarios de uso social que presten servicios de radiodifusión, equipos transmisores que hayan pasado a propiedad de la Nación como consecuencia de los procedimientos y supuestos previstos de pérdida de bienes por uso del espectro radioeléctrico sin contar con concesión.
 
 ## Sección V
+
 De las Concesiones sobre el Espectro Radioeléctrico para uso Público y uso Social para prestar el Servicio de Radiodifusión
 
 ### Artículo 65
@@ -989,6 +1015,7 @@ La Comisión deberá emitir y, en su caso, actualizar los parámetros técnicos 
 
 ## Sección VI — De las Concesiones para la Ocupación y Explotación de Recursos Orbitales
 
+
 ### Artículo 71
 . Las concesiones para ocupar y explotar recursos orbitales para uso comercial, se otorgarán, previo pago de una contraprestación, mediante licitación pública, salvo lo dispuesto en este Título, para lo cual, se deberán observar los criterios previstos en los artículos 28 y 134 de la Constitución.
 Si derivado del objeto de la concesión de recursos orbitales se requiere de una concesión única para la prestación de servicios satelitales, ésta última se otorgará de manera simultánea, salvo que el concesionario ya cuente con dicho título habilitante.
@@ -1064,6 +1091,7 @@ VIII. Los demás derechos y obligaciones de los concesionarios.
 . Se declarará desierta y podrá expedirse una nueva convocatoria, cuando las propuestas presentadas en la licitación pública no aseguren las mejores condiciones conforme al interés público, o no cumplan con los requisitos establecidos en las bases de la licitación, o cuando las propuestas ofrecidas no sean satisfactorias, a juicio de la Comisión, o sean inferiores al valor mínimo de referencia.
 
 ## Sección VII
+
 De las Concesiones para la Ocupación y Explotación de Recursos Orbitales que se obtengan a solicitud de parte interesada
 
 ### Artículo 75
@@ -1116,6 +1144,7 @@ La Comisión deberá garantizar en todo momento la disponibilidad de recursos or
 La Comisión podrá asignar de manera directa concesiones de recursos orbitales para las modalidades de uso público, uso social y uso privado en los términos indicados en la presente sección, una vez que las personas interesadas cumplan con los requisitos que al efecto establezca la Comisión.
 
 ## Sección VIII
+
 De las Concesiones Únicas y sobre bandas de frecuencias del espectro radioeléctrico para uso Comercial otorgadas a la empresa pública del Estado
 
 ### Artículo 78
@@ -1129,6 +1158,7 @@ Las concesiones para uso comercial a que se refiere esta Sección deberán sujet
 . La empresa pública del Estado, cuyo objeto es contribuir en la provisión del servicio de Internet y telecomunicaciones, compartirá su infraestructura asociada con la prestación del acceso a Internet, cuando su capacidad lo permita, en condiciones de no discriminación, a precios competitivos y en proporción al volumen de operaciones, capacidades técnicas, económicas y tamaño de la red de los concesionarios o autorizados que lo soliciten, en los términos que establezca la Comisión.
 
 ## Capítulo IV
+
 De las Contraprestaciones y contribuciones por el uso, goce, aprovechamiento o explotación de las bandas de frecuencia del espectro radioeléctrico
 
 ### Artículo 81
@@ -1166,6 +1196,7 @@ Los títulos de concesión se entregarán, una vez que se haya cumplido con el p
 
 ## Capítulo V — Del Arrendamiento del Espectro Radioeléctrico
 
+
 ### Artículo 86
 . Los concesionarios podrán dar en arrendamiento, únicamente bandas de frecuencias concesionadas para uso comercial, previa autorización de la Comisión. Para tal efecto, deberá observarse lo siguiente:
 
@@ -1181,6 +1212,7 @@ La Comisión tendrá cuarenta y cinco días hábiles para resolver sobre la soli
 El arrendamiento de las bandas de frecuencias se extingue de pleno derecho cuando termine la concesión en cualquiera de los supuestos previstos en esta Ley.
 
 ## Capítulo VI — Del Cambio o Rescate del Espectro Radioeléctrico o de Recursos Orbitales
+
 
 ### Artículo 87
 . La Comisión podrá, de oficio, cambiar o rescatar bandas de frecuencias o recursos orbitales, en cualquiera de los siguientes casos:
@@ -1227,6 +1259,7 @@ Tratándose de autorizaciones y constancias de registro no procederá indemnizac
 
 ## Capítulo VII — De la Cesión de Derechos
 
+
 ### Artículo 92
 . Solo las concesiones para uso comercial o privado podrán cederse previa autorización de la Comisión, en los términos previstos en esta Ley.
 Tratándose de concesiones para uso comercial, previamente a la presentación de la solicitud de cesión de derechos, el concesionario debe contar con la opinión favorable de la autoridad en materia de libre competencia y concurrencia sobre los efectos que dicho acto tenga o pueda tener en el mercado correspondiente.
@@ -1244,6 +1277,7 @@ Los actos que se realicen en contra de lo previsto en este artículo serán nulo
 
 ## Capítulo VIII — Del Control Accionario
 
+
 ### Artículo 94
 . El concesionario, cuando sea una persona moral, presentará a la Comisión, a más tardar el treinta de junio de cada año, su estructura accionaria o de partes sociales de que se trate, con sus respectivos porcentajes de participación, acompañando además una relación de los accionistas que sean titulares del cinco por ciento o más del capital social de la empresa, así como el nombre de las personas físicas que participen directa o indirectamente con el diez por ciento o más del capital social de la empresa, sus principales accionistas y sus respectivos porcentajes de participación, a la que acompañará la información en el formato que determine la Comisión.
 En cualquier supuesto de suscripción o enajenación de acciones o partes sociales en un acto o sucesión de actos, que represente el diez por ciento o más del monto de su capital social, y siempre que no se actualice la obligación de notificar la operación conforme a lo previsto en la ley en materia de competencia económica, el concesionario estará obligado a observar el régimen siguiente:
@@ -1259,6 +1293,7 @@ En caso de que se actualice la obligación de notificar una concentración confo
 Este artículo deberá incluirse íntegra y expresamente en los estatutos sociales del concesionario, así como en los títulos o certificados que éste emita. Para efectos de lo anterior, el concesionario contará con un plazo de noventa días hábiles contados a partir de la fecha de la concesión, para presentar ante la Comisión las modificaciones correspondientes a sus estatutos sociales.
 
 ## Capítulo IX
+
 Del control de socios y asociados de personas morales concesionarias para uso social y uso social comunitario
 
 ### Artículo 95
@@ -1271,6 +1306,7 @@ Cuando por cualquier causa se separe un integrante de la concesionaria social en
 
 ## Capítulo X — De la Prórroga de las Concesiones
 
+
 ### Artículo 96
 . La concesión única podrá prorrogarse por la Comisión, siempre y cuando el concesionario lo hubiere solicitado dentro del año previo al inicio de la última quinta parte del plazo de vigencia de la concesión, se encuentre al corriente en el cumplimiento de las obligaciones establecidas en la Ley y demás disposiciones aplicables, así como en su título de concesión y acepte, previamente, las nuevas condiciones que, en su caso, se establezcan. La Comisión resolverá lo conducente dentro de los ciento ochenta días hábiles siguientes a la presentación de la solicitud.
 En caso de que la Comisión no resuelva en el plazo señalado en el párrafo anterior, se entenderá prorrogada la concesión única.
@@ -1281,6 +1317,7 @@ La Comisión analizará dentro de los treinta días hábiles siguientes a la pre
 En caso de que la Comisión determine que no existe interés público en recuperar el espectro radioeléctrico o los recursos orbitales, otorgará la prórroga solicitada dentro del mismo plazo señalado en el artículo anterior, siempre y cuando el concesionario acepte, previamente, las nuevas condiciones que fije la Comisión, entre las que se incluirá el pago de una contraprestación.
 
 ## Capítulo XI
+
 De la Terminación de las Concesiones, Autorizaciones, Constancias de Registro y la Requisa
 
 ### Artículo 98
@@ -1315,7 +1352,9 @@ El Ejecutivo Federal, salvo en el caso de guerra, indemnizará a las personas in
 
 ## TÍTULO CUARTO — De las Redes y los Servicios de Telecomunicaciones
 
+
 ## Capítulo I — De la Instalación y Operación de las Redes Públicas de Telecomunicaciones
+
 
 ### Artículo 102
 . Los concesionarios que operen redes públicas de telecomunicaciones deberán:
@@ -1365,6 +1404,7 @@ Los concesionarios de redes públicas de telecomunicaciones fijas que celebren a
 . La información que se transmita a través de las redes y servicios de telecomunicaciones será confidencial, salvo aquella que por su propia naturaleza sea pública o cuando medie orden de autoridad judicial competente.
 
 ## Capítulo II
+
 De la Numeración, el Direccionamiento y la Denominación en los Servicios de Telecomunicaciones
 
 ### Artículo 108
@@ -1375,6 +1415,7 @@ La Comisión, al administrar los recursos públicos de numeración, garantizará
 Los recursos públicos de numeración que sean asignados por la Comisión deberán sujetarse al vencimiento del plazo de la concesión o autorización que motive su asignación, por lo que al término de su vencimiento no deberán utilizarse, y tendrán que ser reintegrados a la Comisión para que ésta pueda reasignarlos.
 
 ## Capítulo III — Del Acceso y la Interconexión
+
 
 ### Artículo 109
 . Los concesionarios que operen redes públicas de telecomunicaciones deberán adoptar diseños de arquitectura abierta de red para garantizar la interconexión e interoperabilidad de sus redes.
@@ -1547,10 +1588,12 @@ IX. Las demás que determine la autoridad en materia de libre competencia y conc
 
 ## Capítulo IV — Del Acceso y la Interconexión para Concesionarios de Uso Público y Uso Social
 
+
 ### Artículo 124
 . Los concesionarios de uso público y uso social podrán solicitar la interconexión de sus redes con las de concesionarios que operen redes públicas de telecomunicaciones. Los concesionarios que operen redes públicas de telecomunicaciones no podrán negar la interconexión a dichos concesionarios y deberán observar los términos, condiciones técnicas mínimas y tarifas de interconexión que establezca la Agencia para tales efectos.
 
 ## Capítulo V — De la Compartición de Infraestructura
+
 
 ### Artículo 125
 . Con el fin de garantizar el uso eficiente de la infraestructura, reducir los costos de despliegue y garantizar el desarrollo eficiente del sector de telecomunicaciones, la Comisión establecerá lineamientos que permitan impulsar de manera estructurada y progresiva la coubicación y el uso compartido de infraestructura pasiva y activa, derechos de vía y demás recursos físicos necesarios para la prestación de servicios de telecomunicaciones, considerando en todo momento las características estructurales y operativas de los concesionarios y en su caso autorizados, en proporción a su volumen de operaciones y capacidades técnicas, económicas, cobertura y naturaleza de la red.
@@ -1562,11 +1605,13 @@ La Comisión podrá verificar en cualquier momento las condiciones de los conven
 
 ## Capítulo VI — Del Reordenamiento, Retiro y Soterramiento de Infraestructura
 
+
 ### Artículo 126
 . La Comisión expedirá los lineamientos para el reordenamiento, retiro o soterramiento de infraestructura de telecomunicaciones, a los que deberán sujetarse los concesionarios y, en su caso, autorizados, así como proveedores de infraestructura pasiva.
 Dichos lineamientos deberán tomar en consideración la gradualidad en su aplicación y un análisis de costobeneficio que permita asegurar su implementación de manera proporcional y sostenible.
 
 ## Capítulo VII — De las Redes Públicas de Telecomunicaciones con Participación Pública
+
 
 ### Artículo 127
 . La Comisión podrá otorgar concesiones de uso comercial con carácter de red compartida mayorista de servicios de telecomunicaciones, a Entes Públicos, aún bajo un esquema de asociación público-privada. En ningún caso, dicho título de concesión habilitará la prestación de servicios a usuarios finales.
@@ -1584,6 +1629,7 @@ Los concesionarios que operen redes compartidas mayoristas sólo podrán ofrecer
 
 ## Capítulo VIII — De la Neutralidad de las Redes
 
+
 ### Artículo 131
 . Los concesionarios y autorizados que presten el servicio de acceso a Internet deberán sujetarse a los lineamientos de carácter general que al efecto expida la Comisión.
 Dichos lineamientos serán emitidos conforme a principios de libre elección, no discriminación, privacidad, transparencia y derechos establecidos en la Constitución, en esta Ley, en las recomendaciones de organismos internacionales expertos en la materia, en los tratados y acuerdos internacionales suscritos por México, en lo que resulte aplicable.
@@ -1592,6 +1638,7 @@ Dichos lineamientos serán emitidos conforme a principios de libre elección, no
 . Los concesionarios y los autorizados deberán prestar el servicio de acceso a Internet respetando la capacidad, velocidad y calidad contratada por el usuario, con independencia del contenido, origen, destino, terminal o aplicación, así como de los servicios que se provean a través de Internet, en cumplimiento de lo señalado en el artículo anterior.
 
 ## Capítulo IX
+
 Del Aprovechamiento de los bienes del Estado para el despliegue de Infraestructura de Telecomunicaciones
 
 ### Artículo 133
@@ -1609,6 +1656,7 @@ Ningún concesionario de redes públicas de telecomunicaciones podrá contratar 
 . Con el fin de promover la compartición de infraestructura y el aprovechamiento de los bienes del Estado, cualquier concesionario podrá instalar infraestructura en bienes del Estado para desplegar redes públicas de telecomunicaciones y de radiodifusión.
 
 ## Capítulo X — De la Comunicación por Satélite
+
 
 ### Artículo 136
 . La Comisión en coordinación con las dependencias y entidades, definirá la capacidad satelital que, en su caso, se requiera de los concesionarios de recursos orbitales y de los autorizados para explotar los derechos de emisión y recepción de señales de satélites extranjeros para prestar servicios en el territorio nacional, como reserva del Estado para redes de seguridad nacional, servicios de carácter social y demás necesidades del Gobierno Federal.
@@ -1654,9 +1702,11 @@ La presentación del plan de reemplazo de los satélites constituye una obligaci
 No obstante lo señalado en el párrafo anterior, los concesionarios de recursos orbitales de órbitas satelitales podrán quedar exentos de la presentación del plan de reemplazo, siempre que aseguren la continuidad y calidad en la prestación de los servicios a través de otros satélites de su sistema satelital o la reconfiguración de su red, en cuyo caso, deberán presentar, dentro de los ciento veinte días hábiles posteriores al otorgamiento de la concesión, una manifestación que justifique las directrices que seguirán en caso de sustitución de uno o más satélites de su sistema satelital o la reconfiguración de su red, así como el reemplazo de los satélites de su sistema satelital, en cumplimiento a las condiciones previstas en el título de concesión de recursos orbitales, así como lo establecido en la reglamentación internacional aplicable. La Comisión evaluará el contenido de la manifestación con relación a lo señalado en el presente artículo y resolverá lo conducente dentro de los cuarenta días hábiles siguientes a su presentación.
 
 ## Capítulo XI
+
 Disposiciones Específicas para el Servicio de Radiodifusión, Televisión y Audio Restringidos
 
 ## Sección I — De la Instalación y Operación
+
 
 ### Artículo 144
 . Las estaciones radiodifusoras y sus equipos complementarios se construirán, instalarán y operarán con sujeción a los requisitos técnicos que fije la Comisión de acuerdo con lo establecido en esta Ley, los tratados internacionales, las Normas Oficiales Mexicanas, normas técnicas, las normas de ingeniería generalmente aceptadas y las demás disposiciones aplicables. Las modificaciones a las características técnicas se someterán a la aprobación de la Comisión.
@@ -1683,6 +1733,7 @@ La persistencia de la suspensión del servicio más allá de los plazos autoriza
 La Comisión emitirá las disposiciones de carácter general que tendrán por objeto establecer el procedimiento y plazos para presentar los avisos de suspensión parcial o total de transmisiones del servicio de radiodifusión en caso de hecho fortuito o causa de fuerza mayor.
 
 ## Sección II
+
 Multiprogramación
 
 ### Artículo 147
@@ -1734,6 +1785,7 @@ II. Contar con servicios de subtitulaje o doblaje al español y lengua de señas
 
 ## Sección III — De la Retransmisión
 
+
 ### Artículo 153
 . Los concesionarios que presten servicios de televisión radiodifundida están obligados a permitir a los concesionarios de televisión restringida la retransmisión de su señal, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde.
 Los concesionarios que presten servicios de televisión restringida están obligados a retransmitir la señal de televisión radiodifundida, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde, e incluirla sin costo adicional en los servicios contratados por los suscriptores y usuarios.
@@ -1754,9 +1806,11 @@ Los concesionarios que presten servicios de televisión restringida están oblig
 . Las obligaciones de ofrecer y retransmitir gratuitamente los contenidos radiodifundidos perderán su vigencia simultáneamente cuando existan condiciones de competencia en los mercados de radiodifusión y telecomunicaciones. Esta declaración será realizada por la autoridad en materia de libre competencia y concurrencia en los términos de esta Ley y la ley en materia de competencia económica. En este caso, los concesionarios estarán en libertad de acordar los precios y condiciones de la retransmisión de contenidos radiodifundidos. En caso de diferendo la Comisión determinará la tarifa que deberá estar orientada a costos.
 
 ## TÍTULO QUINTO
+
 Régimen de Autorizaciones
 
 ## Capítulo I — De las Autorizaciones
+
 
 ### Artículo 159
 . Se requiere autorización de la Comisión para:
@@ -1829,6 +1883,7 @@ El agente económico que haya sido declarado preponderante en el sector de telec
 . Las solicitudes de otorgamiento, modificación o prórroga de autorizaciones serán resueltas por la Comisión en un plazo no mayor a sesenta días hábiles siguientes a su presentación, transcurrido dicho plazo sin haberse resuelto, se entenderán por no otorgadas.
 
 ## Capítulo II
+
 De las autorizaciones para el uso del espectro radioeléctrico y los recursos orbitales
 
 ### Artículo 166
@@ -1867,10 +1922,12 @@ Las autorizaciones previstas en las fracciones II, III, y IV del artículo 166, 
 
 ## TÍTULO SEXTO — Del Registro Público de Telecomunicaciones
 
+
 ### Artículo 169
 . La Comisión llevará el Registro Público de Telecomunicaciones, el cual estará integrado por el Registro Público de Concesiones y el Sistema Nacional de Información de Infraestructura, de conformidad con lo dispuesto en la presente Ley y las disposiciones aplicables que se emitan.
 
 ## Capítulo I — Del Registro Público de Concesiones
+
 
 ### Artículo 170
 . La Comisión será la encargada de crear, llevar y mantener actualizado el Registro Público de Concesiones en el cual se inscribirán:
@@ -1932,6 +1989,7 @@ La inscripción en el Registro tendrá efectos declarativos y los actos en él i
 
 ## Capítulo II — Del Sistema Nacional de Información de Infraestructura
 
+
 ### Artículo 174
 . La Comisión creará y mantendrá actualizada una base de datos nacional geo-referenciada que contenga la información de los registros de infraestructura activa y medios de transmisión, de infraestructura pasiva y derechos de vía y de sitios públicos.
 La base de datos será reservada en términos de las disposiciones jurídicas aplicables en materia de transparencia, acceso a la información pública sin perjuicio de que la Comisión dé acceso a los concesionarios o a aquellas personas que pretendan ser concesionarios o autorizados, siempre y cuando:
@@ -1945,6 +2003,7 @@ A dicha base tendrán acceso las autoridades de seguridad y de procuración de j
 
 ## Sección I — De la Infraestructura Activa
 
+
 ### Artículo 175
 . La información relativa a infraestructura activa y medios de transmisión contendrá todos los datos que permitan determinar y geo-localizar el tipo, ubicación, capacidad, áreas de cobertura y, si es el caso, rutas y demás características de todas las redes de telecomunicaciones y de radiodifusión, así como, en su caso, las bandas de frecuencias que utilizan y cualquier otra información adicional que determine la Comisión.
 
@@ -1954,6 +2013,7 @@ Para el caso que utilice infraestructura activa o medios de transmisión de otro
 
 ## Sección II — De la Infraestructura Pasiva y Derechos de Vía
 
+
 ### Artículo 177
 . La información relativa a infraestructura pasiva y derechos de vía contendrá todos los datos que permitan determinar y geo-localizar el tipo, ubicación, capacidad y, si es el caso, rutas y demás características de toda la infraestructura pasiva utilizada o aquella susceptible de utilización, para el despliegue e instalación de infraestructura activa y redes públicas de telecomunicaciones y radiodifusión. También contendrá la identidad de los concesionarios que utilizan dicha infraestructura pasiva y derechos de vía y cualquier otra información adicional en los términos y plazos que determine la Comisión.
 
@@ -1962,6 +2022,7 @@ Para el caso que utilice infraestructura activa o medios de transmisión de otro
 Para el caso que utilicen infraestructura pasiva o derechos de vía de terceros, en los contratos correspondientes deberán establecer mecanismos que aseguren la entrega a la Comisión de la información relativa a dicha infraestructura, en los términos y plazos que ésta determine.
 
 ## Sección III — De los Sitios Públicos y Privados
+
 
 ### Artículo 179
 . La información relativa a sitios públicos contendrá todos los datos que permitan determinar y geolocalizar el tipo y ubicación de todos los inmuebles y espacios públicos bajo el control de las dependencias y entidades de la administración pública de los distintos órdenes de gobierno, los órganos autónomos y, en general, todos los organismos e instituciones públicas. Asimismo, el registro deberá, para cada sitio, señalar si cuenta con conectividad a Internet y, en caso afirmativo, si ésta es accesible al público en general y el ancho de banda con el que se encuentra conectado.
@@ -1975,7 +2036,9 @@ La Comisión publicará en su página de Internet los bienes inmuebles que hayan
 
 ## TÍTULO SÉPTIMO — De la Colaboración con la Justicia
 
+
 ## Capítulo Único — De las Obligaciones en materia de Seguridad y Justicia
+
 
 ### Artículo 182
 . Los concesionarios de telecomunicaciones y, en su caso, los autorizados y los proveedores de servicios de aplicaciones y contenidos, están obligados a atender todo mandamiento por escrito, fundado y motivado de la autoridad competente en los términos que establezcan las leyes.
@@ -2045,7 +2108,9 @@ Con excepción de lo dispuesto en el párrafo anterior, se podrá instruir la fa
 
 ## TÍTULO OCTAVO — De los usuarios
 
+
 ## Capítulo I — De los Derechos de los Usuarios y sus Mecanismos de Protección
+
 
 ### Artículo 185
 . Los usuarios gozarán de los derechos previstos en esta Ley y en la Ley Federal de Protección al Consumidor, así como en las demás disposiciones aplicables.
@@ -2143,6 +2208,7 @@ Asimismo, deberán tener disponible para los usuarios que lo soliciten, un servi
 
 ## Capítulo II — De los Derechos de los Usuarios con Discapacidad
 
+
 ### Artículo 192
 . La PROFECO promoverá que los usuarios con discapacidad, tengan acceso a los servicios de telecomunicaciones, en igualdad de condiciones con los demás usuarios.
 
@@ -2179,6 +2245,7 @@ Los portales y las aplicaciones gubernamentales deberán atender a las disposici
 
 ## Capítulo III — De las Tarifas a los Usuarios
 
+
 ### Artículo 196
 . Los concesionarios del servicio de telecomunicaciones para uso comercial o para uso social fijarán libremente las tarifas a los usuarios de los servicios que presten.
 
@@ -2208,6 +2275,7 @@ V. Abstenerse de celebrar contratos de exclusividad para puntos de venta y de di
 
 ## Capítulo IV — De la conservación de los Números Telefónicos por los Abonados
 
+
 ### Artículo 201
 . Los concesionarios garantizarán, de conformidad con los lineamientos que a tal efecto apruebe la Comisión, que los abonados con números del plan nacional de numeración telefónica puedan conservar, previa solicitud, los números que les hayan sido asignados, con independencia del concesionario que preste el servicio.
 Los costos derivados de la actualización de los elementos de la red y de los sistemas necesarios para hacer posible la conservación de los números deberán ser sufragados por cada concesionario sin que, por ello, tengan derecho a percibir indemnización alguna. Los demás costos que produzca la conservación de los números telefónicos se repartirán, a través del oportuno acuerdo, entre los concesionarios afectados por el cambio. A falta de acuerdo, resolverá la Comisión.
@@ -2215,7 +2283,9 @@ Los costos a que se refiere el párrafo anterior deberán estar orientados en fu
 
 ## TÍTULO NOVENO — De la Cobertura Universal
 
+
 ## Capítulo Único
+
 De la Cobertura Universal y el programa de conectividad en sitios públicos y áreas de atención prioritaria
 
 ### Artículo 202
@@ -2243,7 +2313,9 @@ Los concesionarios involucrados en los programas de cobertura social en áreas d
 
 ## TÍTULO DÉCIMO — De los Contenidos Audiovisuales
 
+
 ## Capítulo I — De la Competencia de las Autoridades
+
 
 ### Artículo 208
 . Corresponde a la Comisión:
@@ -2328,7 +2400,9 @@ VI. Las demás que le confieran esta Ley y otras disposiciones legales.
 
 ## Capítulo II — De los Contenidos
 
+
 ## Sección I — Disposiciones Comunes
+
 
 ### Artículo 215
 . El derecho de información, de expresión y de recepción de contenidos a través del servicio público de radiodifusión y de televisión y audio restringidos, es libre y consecuentemente no será objeto de ninguna persecución o investigación judicial o administrativa ni de limitación alguna ni censura previa, y se ejercerá en los términos de la Constitución, los tratados internacionales y las leyes aplicables.
@@ -2443,6 +2517,7 @@ III. Tres canales, cuando el servicio consista de 46 a 64 canales. Por arriba de
 El concesionario cubrirá por su cuenta el costo de los equipos e instalaciones necesarios para la recepción y distribución de las señales que le sean indicadas. La calidad de transmisión de estas señales será, por lo menos, igual a las del resto del servicio.
 
 ## Sección II
+
 Publicidad
 
 ### Artículo 230
@@ -2519,6 +2594,7 @@ VIII. Contener mensajes subliminales o subrepticios.
 
 ## Sección III — De la Producción Nacional y la Producción Nacional Independiente
 
+
 ### Artículo 241
 . Los concesionarios que presten el servicio financiamiento de radiodifusión para uso comercial que cubran con producción nacional cuando menos un veinte por ciento de su programación, podrán incrementar el porcentaje de tiempo de publicidad a que se refiere esta Ley, hasta en dos puntos porcentuales.
 Este incentivo se aplicará de manera directamente proporcional al porcentaje de producción nacional con el que se dé cumplimiento a lo establecido en el párrafo anterior.
@@ -2535,7 +2611,9 @@ Este incentivo se aplicará de manera directamente proporcional al porcentaje de
 
 ## Capítulo III — De los Tiempos Gratuitos para el Estado
 
+
 ## Sección I
+
 Tiempo del Estado
 
 ### Artículo 245
@@ -2554,6 +2632,7 @@ II. Quince minutos en formatos o segmentos no menores de cinco minutos cada uno.
 . Todos los concesionarios de uso comercial, público y social que presten servicios de radiodifusión estarán obligados a transmitir el Himno Nacional a las seis y veinticuatro horas, y en el caso de la televisión, además, simultáneamente la imagen de la Bandera Nacional.
 
 ## Sección II
+
 Boletines y Cadenas Nacionales
 
 ### Artículo 248
@@ -2570,7 +2649,9 @@ III. Los mensajes o cualquier aviso relacionado con embarcaciones o aeronaves en
 
 ## Capítulo IV — De los Derechos de las Audiencias
 
+
 ## Sección I — De los Derechos
+
 
 ### Artículo 250
 . El servicio público de radiodifusión de interés general deberá prestarse en condiciones de competencia y calidad, a efecto de satisfacer los derechos de las audiencias, para lo cual, a través de sus transmisiones brindará los beneficios de la cultura, preservando la pluralidad y veracidad de la información, además de fomentar los valores de la identidad nacional, con el propósito de contribuir a la satisfacción de los fines establecidos en el artículo 3o. de la Constitución.
@@ -2598,6 +2679,7 @@ Los lineamientos que emita la Comisión deberán garantizar que los concesionari
 
 ## Sección II — De los Derechos de las Audiencias con Discapacidad
 
+
 ### Artículo 251
 . La Comisión promoverá condiciones para que las audiencias con discapacidad, tengan acceso a los servicios de radiodifusión, televisión y audio restringida en igualdad de condiciones con las demás audiencias.
 
@@ -2613,6 +2695,7 @@ III. A contar con mecanismos que les den accesibilidad para expresar sus reclama
 IV. Acceso a la guía de programación a través de un número telefónico, aplicaciones o de portales de Internet de los concesionarios en formatos accesibles para personas con discapacidad.
 
 ## Sección III — De la Defensoría de Audiencias
+
 
 ### Artículo 253
 . Los concesionarios que presten el servicio de radiodifusión deberán contar con una defensoría de las audiencias.
@@ -2643,9 +2726,11 @@ El defensor responderá al radioescucha o televidente en un plazo máximo de vei
 La rectificación, recomendación o propuesta de acción correctiva que proponga el defensor de la audiencia al concesionario, deberá ser clara y precisa. Se difundirá y hará pública dentro de un plazo de veinticuatro horas, en la página electrónica que el concesionario de radiodifusión publique para dichos efectos, sin perjuicio de que también pueda difundirse en medios de comunicación, incluyendo el del propio concesionario.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 De la Regulación Asimétrica
 
 ## Capítulo I — De la Preponderancia
+
 
 ### Artículo 256
 . La autoridad en materia de libre competencia y concurrencia podrá determinar la existencia de Agentes Económicos Preponderantes en los sectores de radiodifusión y de telecomunicaciones e impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia y, con ello, a los usuarios finales, e incluirán, en lo aplicable, la regulación asimétrica relacionada con información, oferta y calidad de servicios, acuerdos en exclusiva, limitaciones al uso de equipos terminales entre redes, tarifas e infraestructuras de red, incluyendo la desagregación de sus elementos esenciales y, en su caso, la separación contable, funcional o estructural de dichos agentes.
@@ -2715,13 +2800,9 @@ XXIV. Aquellas medidas específicas adicionales que la autoridad en materia de l
 ### Artículo 259
 . En lo que respecta al sector de telecomunicaciones, la autoridad en materia de libre competencia y concurrencia podrá imponer al Agente Económico Preponderante las siguientes medidas:
 
-I. Someter para aprobación de la Comisión de manera anual o multianual, según lo determine la Comisión, las ofertas públicas de referencia para los servicios de:
+I. Someter para aprobación de la Comisión de manera anual o multianual, según lo determine la Comisión, las ofertas públicas de referencia para los servicios de: a) interconexión, la que incluirá el proyecto de convenio marco de interconexión y lo dispuesto en el artículo 117 de esta Ley, b) usuario visitante, c) compartición de infraestructura pasiva, d) desagregación efectiva de la red pública de telecomunicaciones local, e) accesos, incluyendo enlaces, y f) servicios de reventa mayorista sobre cualquier servicio que preste de forma minorista;
 
-a) interconexión, la que incluirá el proyecto de convenio marco de interconexión y lo dispuesto en el artículo 117 de esta Ley, b) usuario visitante, c) compartición de infraestructura pasiva, d) desagregación efectiva de la red pública de telecomunicaciones local, e) accesos, incluyendo enlaces, y f) servicios de reventa mayorista sobre cualquier servicio que preste de forma minorista;
-
-II. Presentar para la autorización de la Comisión las tarifas que aplica:
-
-i) a los servicios que presta al público, ii) a los servicios intermedios que presta a otros concesionarios, y iii) a su operación de manera desagregada e individual a efecto de impedir subsidios cruzados entre servicios o esquemas que desplacen a otros agentes económicos. A tal efecto:
+II. Presentar para la autorización de la Comisión las tarifas que aplica: i) a los servicios que presta al público, ii) a los servicios intermedios que presta a otros concesionarios, y iii) a su operación de manera desagregada e individual a efecto de impedir subsidios cruzados entre servicios o esquemas que desplacen a otros agentes económicos. A tal efecto:
 
 a) Deberá someter junto con la solicitud de autorización de las tarifas al público, los paquetes comerciales, promociones y descuentos, y desagregar el precio de cada servicio. No se podrá comercializar o publicitar los servicios en medios de comunicación, sin la previa autorización de la Comisión. La Comisión deberá asegurarse que las tarifas al público puedan ser replicables por el resto de los concesionarios. Para tal efecto, la Comisión deberá elaborar y hacer público el dictamen de autorización de las tarifas. Dicho dictamen deberá analizar los costos que imputa el Agente Económico Preponderante al resto de los concesionarios y los que se aplica a sí mismo, a fin de evitar que la propuesta comercial tenga como objeto o efecto desplazar a sus competidores;
 
@@ -2856,6 +2937,7 @@ VI. La Comisión podrá autorizar a los agentes a que se refiere este artículo 
 
 ## Capítulo II — De las medidas de fomento a la competencia
 
+
 ### Artículo 269
 . Las medidas de fomento a la competencia en televisión, radio, telefonía y servicios de datos deberán aplicarse por la Comisión en todos los segmentos de forma que se garantice en su conjunto la competencia efectiva en la radiodifusión y telecomunicaciones.
 
@@ -2863,9 +2945,11 @@ VI. La Comisión podrá autorizar a los agentes a que se refiere este artículo 
 . Los Agentes Económicos Preponderantes en los sectores de telecomunicaciones o radiodifusión serán susceptibles de ser declarados con poder sustancial, por lo que la autoridad en materia de libre competencia y concurrencia podrá imponerles las obligaciones específicas que determine conforme a lo dispuesto en esta Ley.
 
 ## TÍTULO DÉCIMO — SEGUNDO
+
 Homologación, Desbloqueo y Recarga de Saldo
 
 ## Capítulo I — De la Homologación y de la evaluación de la conformidad
+
 
 ### Artículo 271
 . Los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables de conformidad con lo establecido en la Ley de Infraestructura de la Calidad.
@@ -2895,20 +2979,24 @@ La Comisión estará facultada para acreditar peritos en materia de telecomunica
 
 ## Capítulo II — Del Desbloqueo
 
+
 ### Artículo 273
 . Los concesionarios y, en su caso, autorizados deberán entregar por sí o a través de terceros, los equipos terminales móviles desbloqueados tanto en prepago como en pospago.
 La Comisión emitirá los lineamientos que establezcan los términos en que los concesionarios y, en su caso, autorizados, cumplirán con esta obligación.
 
 ## Capítulo III
+
 Recarga de Saldo
 
 ### Artículo 274
 . Los concesionarios y, en su caso, autorizados, deberán abstenerse de celebrar contratos de exclusividad con puntos de venta y de distribución de equipos terminales distintos a los propios, incluyendo aquellos vinculados a la compra de tiempo aire y recarga de saldo, que impidan u obstaculicen a otros concesionarios o autorizados a acceder a dichos puntos de venta.
 
 ## TÍTULO DÉCIMO — TERCERO
+
 Régimen de Verificación
 
 ## Capítulo Único — De la Verificación y Vigilancia
+
 
 ### Artículo 275
 . La Comisión verificará y supervisará, en el ámbito de su competencia, el cumplimiento de esta Ley, las disposiciones que deriven de ella, así como de las condiciones y obligaciones establecidas en las concesiones, autorizaciones, constancias de registro y demás disposiciones aplicables.
@@ -2939,9 +3027,11 @@ II. Multa adicional por cada día que no se permita a los verificadores de la Co
 III. El auxilio de la fuerza pública.
 
 ## TÍTULO DÉCIMO — CUARTO
+
 Régimen de Sanciones
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 281
 . Las infracciones a esta Ley y a las disposiciones administrativas, por parte de los concesionarios, los autorizados, los registratarios, los proveedores de infraestructura pasiva, las personas infractoras y las Plataformas Digitales se sancionarán por la Comisión, conforme al Capítulo II de este Título y se tramitarán en términos de la Ley Federal de Procedimiento Administrativo.
@@ -2949,6 +3039,7 @@ Las infracciones a los derechos de los usuarios y de los usuarios con discapacid
 La Secretaría de Gobernación sancionará el incumplimiento de lo establecido en esta Ley en materia de contenidos, tiempos de Estado, así como publicidad y propaganda establecida en el artículo 232 de esta Ley, así como, en su caso, aquellos previstos en otras disposiciones aplicables; cadenas nacionales, boletines, el Himno Nacional, concursos, así como la reserva de canales de televisión y audio restringidos conforme a lo dispuesto en el Capítulo III de este Título.
 
 ## Capítulo II
+
 Sanciones en materia de Telecomunicaciones, Radiodifusión y Derechos de las Audiencias
 
 ### Artículo 282
@@ -3106,6 +3197,7 @@ En las visitas de inspección donde se constate cualquiera de las situaciones pr
 . Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte o, cuando proceda, la revocación de la concesión respectiva.
 
 ## Capítulo III
+
 Sanciones en materia de Contenidos Audiovisuales y Publicidad
 
 ### Artículo 292
@@ -3139,6 +3231,7 @@ En el caso de los incisos a) y c) de la fracción II de este artículo no se con
 . Para la determinación y cuantificación de las multas a que se refiere este Capítulo se aplicará lo dispuesto en el presente Título.
 
 ## Capítulo IV
+
 Sanciones en materia de Transmisión de Mensajes Comerciales y Derechos de las Audiencias
 
 ### Artículo 295
@@ -3155,9 +3248,11 @@ En el supuesto de que haya cumplimiento espontáneo del concesionario, autorizad
 En caso de que se trate de la primera infracción, la Comisión amonestará al infractor por única ocasión.
 
 ## TÍTULO DÉCIMO — QUINTO
+
 Medios de Impugnación
 
 ## Capítulo Único — De la vía de impugnación
+
 
 ### Artículo 296
 . Las normas generales, actos u omisiones de la Comisión, incluyendo las Normas Oficiales Mexicanas en materia de telecomunicaciones y radiodifusión, podrán ser impugnadas únicamente mediante el juicio de amparo indirecto y no serán objeto de suspensión.
@@ -3173,57 +3268,57 @@ Medios de Impugnación
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
-**Segundo.** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, entrarán en vigor las modificaciones a los párrafos décimo quinto a vigésimo del artículo 28 constitucional reformado mediante el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
-**Tercero.** En tanto se integra el Pleno de la Comisión Reguladora de Telecomunicaciones, conforme al artículo
-**Cuarto.** Transitorio del presente Decreto, el Instituto Federal de Telecomunicaciones continuará en funciones conforme a las disposiciones de la Ley Federal de Telecomunicaciones y Radiodifusión.
-**Cuarto.** El nombramiento y ratificación de las Personas Comisionadas que integrarán el Pleno de la Comisión Reguladora de Telecomunicaciones deberá realizarse de conformidad con los artículos 14 al 18 del presente Decreto, y en los términos del presente artículo transitorio.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+**Segundo.-** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, entrarán en vigor las modificaciones a los párrafos décimo quinto a vigésimo del artículo 28 constitucional reformado mediante el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
+**Tercero.-** En tanto se integra el Pleno de la Comisión Reguladora de Telecomunicaciones, conforme al artículo
+**Cuarto.-** Transitorio del presente Decreto, el Instituto Federal de Telecomunicaciones continuará en funciones conforme a las disposiciones de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**Cuarto.-** El nombramiento y ratificación de las Personas Comisionadas que integrarán el Pleno de la Comisión Reguladora de Telecomunicaciones deberá realizarse de conformidad con los artículos 14 al 18 del presente Decreto, y en los términos del presente artículo transitorio.
 Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la Comisión Reguladora de Telecomunicaciones, las Personas Comisionadas concluirán su encargo en la misma fecha en que hayan entrado en funciones de los años 2028, 2029, 2030, 2031 y 2032, respectivamente.
 La persona titular del Ejecutivo Federal, al someter los nombramientos a la Cámara de Senadores, señalará los periodos respectivos.
 Una vez ratificadas las personas integrantes del Pleno de la Comisión Reguladora de Telecomunicaciones, la persona titular del Ejecutivo Federal designará a la Persona Comisionada Presidenta de la Comisión Reguladora de Telecomunicaciones, en un plazo no mayor a diez días naturales.
 El Pleno de la Comisión Reguladora de Telecomunicaciones se entenderá integrado una vez que se encuentren nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya designado a quien fungirá como Persona Comisionada Presidenta.
-**Quinto.** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Quinto.-** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, cualquier referencia al Instituto Federal de Telecomunicaciones en la normativa federal o local se entenderá hecha a la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda.
-**Sexto.** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
-**Séptimo.** A la entrada en vigor del presente Decreto, quedan sin efectos los Acuerdos y otras disposiciones por medio de las cuales se declaran susceptibles de explotarse comercialmente, canales de frecuencias del servicio público de radiodifusión, que hubieran sido emitidos con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
-**Octavo.** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se extingue el Instituto Federal de Telecomunicaciones, y concluirán sus funciones los Comisionados del citado Instituto.
-**Noveno.** Los derechos laborales de las personas servidoras públicas del Instituto Federal de Telecomunicaciones serán respetados, en términos de la legislación aplicable.
+**Sexto.-** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+**Séptimo.-** A la entrada en vigor del presente Decreto, quedan sin efectos los Acuerdos y otras disposiciones por medio de las cuales se declaran susceptibles de explotarse comercialmente, canales de frecuencias del servicio público de radiodifusión, que hubieran sido emitidos con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+**Octavo.-** Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se extingue el Instituto Federal de Telecomunicaciones, y concluirán sus funciones los Comisionados del citado Instituto.
+**Noveno.-** Los derechos laborales de las personas servidoras públicas del Instituto Federal de Telecomunicaciones serán respetados, en términos de la legislación aplicable.
 El Instituto Federal de Telecomunicaciones dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en el Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones para el pago de liquidaciones o finiquitos según corresponda. Las indemnizaciones se pagarán a las personas servidoras públicas que gocen de estabilidad laboral considerando la fecha en que se integraron al servicio profesional del Instituto, los que no gocen de estabilidad laboral serán finiquitados en términos de las disposiciones aplicables, todas las personas servidoras públicas causarán baja a momento de la extinción del Instituto Federal de Telecomunicaciones.
 El Instituto Federal de Telecomunicaciones, una vez cubiertas las obligaciones laborales que le correspondan, de conformidad con la legislación aplicable, transferirá los recursos correspondientes al valor de la estructura o plantilla de plazas a la Secretaría de Hacienda y Crédito Público, a más tardar el último día en funciones, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas y administrativas aplicables, para su asignación y ministración a la Comisión Reguladora de Telecomunicaciones o, en su caso, a la Comisión Nacional Antimonopolio.
 Las personas servidoras públicas del Instituto Federal de Telecomunicaciones, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda conforme a la normativa aplicable a la Administración Pública Federal, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
-**Décimo.** El cumplimiento de los compromisos contractuales previamente adquiridos por el Instituto Federal de Telecomunicaciones se hará con cargo a los recursos del Fideicomiso de Infraestructura y Equipamiento del citado Instituto.
-**Décimo Primero.** El Instituto Federal de Telecomunicaciones previo a su extinción, realizará las gestiones necesarias para la modificación de los instrumentos jurídicos correspondientes al Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones para su transferencia a la Secretaría de Hacienda y Crédito Público, en su carácter de fideicomitente único de la Administración Pública Federal centralizada.
+**Décimo.-** El cumplimiento de los compromisos contractuales previamente adquiridos por el Instituto Federal de Telecomunicaciones se hará con cargo a los recursos del Fideicomiso de Infraestructura y Equipamiento del citado Instituto.
+**Décimo Primero.-** El Instituto Federal de Telecomunicaciones previo a su extinción, realizará las gestiones necesarias para la modificación de los instrumentos jurídicos correspondientes al Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones para su transferencia a la Secretaría de Hacienda y Crédito Público, en su carácter de fideicomitente único de la Administración Pública Federal centralizada.
 Para tal efecto, el Instituto Federal de Telecomunicaciones se coordinará con la Secretaría de Hacienda y Crédito Público y la Agencia de Transformación Digital y Telecomunicaciones para la formalización de los instrumentos jurídicos respectivos, en los que se establecerá como Unidad Responsable a la Comisión Reguladora de Telecomunicaciones.
 La Secretaría de Hacienda y Crédito Público, en coordinación con la Comisión Reguladora de Telecomunicaciones deberá llevar a cabo todas las gestiones necesarias con la finalidad de que dentro de los quince días hábiles siguientes a partir de la entrada en vigor del presente Decreto, se modifiquen las reglas de operación y el contrato del Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones.
-**Décimo Segundo.** Los recursos materiales con que cuente el Instituto Federal de Telecomunicaciones serán transferidos a la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
-**Décimo Tercero.** Los bienes inmuebles con que cuente el Instituto Federal de Telecomunicaciones serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones para su ocupación conforme a las disposiciones jurídicas y administrativas aplicables, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
-**Décimo Cuarto.** El Instituto Federal de Telecomunicaciones, con motivo de su extinción, a más tardar, el último día en que se encuentre en funciones transferirá los recursos financieros con que cuente, a la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables para su asignación y ministración que corresponda a la Comisión Reguladora de Telecomunicaciones.
+**Décimo Segundo.-** Los recursos materiales con que cuente el Instituto Federal de Telecomunicaciones serán transferidos a la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+**Décimo Tercero.-** Los bienes inmuebles con que cuente el Instituto Federal de Telecomunicaciones serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones para su ocupación conforme a las disposiciones jurídicas y administrativas aplicables, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+**Décimo Cuarto.-** El Instituto Federal de Telecomunicaciones, con motivo de su extinción, a más tardar, el último día en que se encuentre en funciones transferirá los recursos financieros con que cuente, a la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables para su asignación y ministración que corresponda a la Comisión Reguladora de Telecomunicaciones.
 Asimismo, el Instituto Federal de Telecomunicaciones deberá entregar a la Agencia de Transformación Digital y Telecomunicaciones o a la Comisión Reguladora de Telecomunicaciones, según corresponda, la información y formatos necesarios para integrar los informes financieros correspondientes al ejercicio fiscal 2025, de conformidad con las disposiciones jurídicas aplicables, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
-**Décimo Quinto.** Los registros, padrones, repositorios digitales y sistemas, internos y externos con los que cuenta el Instituto Federal de Telecomunicaciones, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+**Décimo Quinto.-** Los registros, padrones, repositorios digitales y sistemas, internos y externos con los que cuenta el Instituto Federal de Telecomunicaciones, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
 Lo anterior, con excepción de aquellos que se encuentren administrados por el Órgano Interno de Control del Instituto, los cuales deberán ser transferidos a la Secretaría Anticorrupción y Buen Gobierno, atendiendo a la naturaleza de la información y de las funciones de la Secretaría.
-**Décimo Sexto.** Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto Federal de Telecomunicaciones para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
-**Décimo Séptimo.** El Órgano Interno de Control del Instituto Federal de Telecomunicaciones queda extinto en la misma fecha de extinción del Instituto, y los asuntos y procedimientos que a la fecha de su extinción estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, y serán tramitados y resueltos conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-**Décimo Octavo.** Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad a la entrada en vigor del presente Decreto, incluyendo aquellos relacionados con la determinación de Agentes Económicos Preponderantes en los sectores de telecomunicaciones y radiodifusión y su regulación asimétrica, continuarán surtiendo todos sus efectos legales.
+**Décimo Sexto.-** Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto Federal de Telecomunicaciones para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+**Décimo Séptimo.-** El Órgano Interno de Control del Instituto Federal de Telecomunicaciones queda extinto en la misma fecha de extinción del Instituto, y los asuntos y procedimientos que a la fecha de su extinción estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, y serán tramitados y resueltos conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+**Décimo Octavo.-** Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad a la entrada en vigor del presente Decreto, incluyendo aquellos relacionados con la determinación de Agentes Económicos Preponderantes en los sectores de telecomunicaciones y radiodifusión y su regulación asimétrica, continuarán surtiendo todos sus efectos legales.
 A partir de la entrada en vigor del presente Decreto, la Comisión Reguladora de Telecomunicaciones o la Comisión Nacional Antimonopolio, según corresponda, se sustituirán, en el ámbito de sus respectivas competencias, en todos los derechos, obligaciones y facultades del Instituto Federal de Telecomunicaciones respecto de cualquier procedimiento en curso del que sea parte, sea de naturaleza civil, penal, administrativa o de cualquier otro tipo.
 En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes celebrados por el Instituto Federal de Telecomunicaciones, se entenderán como vigentes y obligarán en sus términos a la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o terminarlos anticipadamente.
-**Décimo Noveno.** Los asuntos y procedimientos que se encuentren en trámite ante el Instituto Federal de Telecomunicaciones continuarán su trámite a cargo de la Comisión Reguladora de Telecomunicaciones o de la Comisión Nacional Antimonopolio, según corresponda, en términos de la legislación aplicable al momento de su inicio.
-**Vigésimo.** A partir de la integración del Pleno de la Comisión Reguladora de Telecomunicaciones se suspenden por un plazo de quince días hábiles todos y cada uno de los trámites y procedimientos derivados de las disposiciones del presente Decreto y demás normativa aplicable.
+**Décimo Noveno.-** Los asuntos y procedimientos que se encuentren en trámite ante el Instituto Federal de Telecomunicaciones continuarán su trámite a cargo de la Comisión Reguladora de Telecomunicaciones o de la Comisión Nacional Antimonopolio, según corresponda, en términos de la legislación aplicable al momento de su inicio.
+**Vigésimo.-** A partir de la integración del Pleno de la Comisión Reguladora de Telecomunicaciones se suspenden por un plazo de quince días hábiles todos y cada uno de los trámites y procedimientos derivados de las disposiciones del presente Decreto y demás normativa aplicable.
 La suspensión establecida en este artículo no aplicará al cumplimiento de las obligaciones a cargo de concesionarios, autorizados, permisionarios, agentes económicos de los sectores de telecomunicaciones y radiodifusión, ni de otros sujetos regulados. Tampoco aplicará a los plazos establecidos en el Capítulo 3 numeral 3.3 del Programa Anual de Uso y Aprovechamiento de Bandas de Frecuencias 2025, publicado en el Diario Oficial de la Federación el 06 de febrero de 2025.
 El trámite de Solicitud de Certificado de Homologación de equipos estará sujeto a una suspensión de cinco días hábiles.
 La Comisión Reguladora de Telecomunicaciones antes de que fenezca el plazo establecido en el párrafo primero del presente artículo transitorio, podrán emitir Acuerdos para la reanudación de plazos y términos de forma escalonada, los cuales deberán ser publicados en el Diario Oficial de la Federación.
-**Vigésimo Primero.** La Comisión Reguladora de Telecomunicaciones podrá emitir un programa de regularización para concesionarios del servicio público de radiodifusión que hubieren tramitado la prórroga de las concesiones y estas hubiesen sido resueltas conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
+**Vigésimo Primero.-** La Comisión Reguladora de Telecomunicaciones podrá emitir un programa de regularización para concesionarios del servicio público de radiodifusión que hubieren tramitado la prórroga de las concesiones y estas hubiesen sido resueltas conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
 Lo anterior sólo será procedente, siempre que el concesionario hubiere realizado el pago de la contraprestación previo a la entrada en vigor del presente Decreto, pague las actualizaciones correspondientes conforme al artículo 17-A del Código Fiscal de la Federación y acepten las nuevas condiciones que establezca la Comisión Reguladora de Telecomunicaciones.
-**Vigésimo Segundo.** Los permisos o cualquier otro título habilitante emitido con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión publicada en el Diario Oficial de la Federación el 14 de julio de 2014, que confieran el derecho para usar y aprovechar bandas de frecuencia del espectro radioeléctrico, y que se encuentren vigentes al momento de la entrada en vigor del presente Decreto, deberán solicitar la transición al régimen de concesión, autorización o constancia de registro correspondiente, a partir de la entrada en vigor del presente Decreto y hasta el año siguiente.
+**Vigésimo Segundo.-** Los permisos o cualquier otro título habilitante emitido con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión publicada en el Diario Oficial de la Federación el 14 de julio de 2014, que confieran el derecho para usar y aprovechar bandas de frecuencia del espectro radioeléctrico, y que se encuentren vigentes al momento de la entrada en vigor del presente Decreto, deberán solicitar la transición al régimen de concesión, autorización o constancia de registro correspondiente, a partir de la entrada en vigor del presente Decreto y hasta el año siguiente.
 A partir del año siguiente a la entrada en vigor del presente Decreto, sin que se haya presentado solicitud de transición por quien legítima y legalmente tenga derecho a solicitarlo, los títulos habilitantes concluirán su vigencia al finalizar dicho plazo y, en consecuencia, las frecuencias objeto de dichos permisos se revertirán en favor de la Nación de pleno derecho.
-**Vigésimo Tercero.** Los concesionarios de uso social comunitario, uso social indígena y uso social afromexicano cuyo título habilitante haya sido otorgado con anterioridad a la entrada en vigor del presente Decreto, quedarán sujetos exclusivamente al cumplimiento de las obligaciones previstas en el mismo, sin perjuicio de lo dispuesto en las demás disposiciones jurídicas aplicables.
-**Vigésimo Cuarto.** En el caso de los equipos terminales móviles que, previo a la entrada en vigor del presente Decreto, estén sujetos a la vigencia de un contrato celebrado con los concesionarios o autorizados, el desbloqueo deberá efectuarse una vez liquidado el costo.
+**Vigésimo Tercero.-** Los concesionarios de uso social comunitario, uso social indígena y uso social afromexicano cuyo título habilitante haya sido otorgado con anterioridad a la entrada en vigor del presente Decreto, quedarán sujetos exclusivamente al cumplimiento de las obligaciones previstas en el mismo, sin perjuicio de lo dispuesto en las demás disposiciones jurídicas aplicables.
+**Vigésimo Cuarto.-** En el caso de los equipos terminales móviles que, previo a la entrada en vigor del presente Decreto, estén sujetos a la vigencia de un contrato celebrado con los concesionarios o autorizados, el desbloqueo deberá efectuarse una vez liquidado el costo.
 El concesionario o autorizado, al realizar el desbloqueo del equipo terminal móvil, deberá proporcionar al usuario la clave de desbloqueo.
-**Vigésimo Quinto.** El Congreso de la Unión realizará las armonizaciones legislativas que correspondan, en un plazo de un año contado a partir de la publicación del presente Decreto.
-**Vigésimo Sexto.** La Comisión Reguladora de Telecomunicaciones deberá emitir los criterios para que los concesionarios de radiodifusión sonora que están obligados a transmitir de manera simultánea el mismo contenido en frecuencia modulada y en amplitud modulada para garantizar la continuidad del servicio de radiodifusión sonora, puedan transitar de dicha obligación con base en un nuevo análisis.
-**Vigésimo Séptimo.** La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir un plan de licitación de bandas de frecuencia del espectro radioeléctrico para la provisión del servicio de acceso inalámbrico móvil que permita un desarrollo eficiente del sector de telecomunicaciones, a través de la puesta a disposición de bandas de frecuencia para que los concesionarios cuenten con anchos de banda adecuados. instrumentos jurídicos establecidos en esta Ley, se continuarán aplicando los vigentes en lo que no contravengan al presente Decreto.
-**Vigésimo Noveno.** Los concesionarios que operan redes públicas de telecomunicaciones que celebren los convenios de interconexión a que se refiere el artículo 114 del presente Decreto, con vigencia a partir del 1 de enero de 2026, deberán aplicar las tarifas y condiciones técnicas mínimas vigentes durante 2025.
-**Trigésimo.** La Comisión Reguladora de Telecomunicaciones, en un plazo que no exceda de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la identificación de líneas del servicio móvil, los cuales deberán contemplar un calendario de implementación y las medidas que los Concesionarios y, en su caso, autorizados deberán llevar a cabo.
+**Vigésimo Quinto.-** El Congreso de la Unión realizará las armonizaciones legislativas que correspondan, en un plazo de un año contado a partir de la publicación del presente Decreto.
+**Vigésimo Sexto.-** La Comisión Reguladora de Telecomunicaciones deberá emitir los criterios para que los concesionarios de radiodifusión sonora que están obligados a transmitir de manera simultánea el mismo contenido en frecuencia modulada y en amplitud modulada para garantizar la continuidad del servicio de radiodifusión sonora, puedan transitar de dicha obligación con base en un nuevo análisis.
+**Vigésimo Séptimo.-** La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir un plan de licitación de bandas de frecuencia del espectro radioeléctrico para la provisión del servicio de acceso inalámbrico móvil que permita un desarrollo eficiente del sector de telecomunicaciones, a través de la puesta a disposición de bandas de frecuencia para que los concesionarios cuenten con anchos de banda adecuados. instrumentos jurídicos establecidos en esta Ley, se continuarán aplicando los vigentes en lo que no contravengan al presente Decreto.
+**Vigésimo Noveno.-** Los concesionarios que operan redes públicas de telecomunicaciones que celebren los convenios de interconexión a que se refiere el artículo 114 del presente Decreto, con vigencia a partir del 1 de enero de 2026, deberán aplicar las tarifas y condiciones técnicas mínimas vigentes durante 2025.
+**Trigésimo.-** La Comisión Reguladora de Telecomunicaciones, en un plazo que no exceda de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la identificación de líneas del servicio móvil, los cuales deberán contemplar un calendario de implementación y las medidas que los Concesionarios y, en su caso, autorizados deberán llevar a cabo.
 Transcurridos ciento veinte días hábiles posteriores a la conclusión de la implementación de la medida a la que hace referencia el párrafo anterior, toda línea que no se encuentre asociada a un usuario final identificado será suspendida, y solamente podrá ser utilizada para realizar llamadas a números de emergencia y atención ciudadana.
-**Trigésimo.** Primero. Para efectos del presente Decreto, por empresa pública del Estado cuyo objeto es contribuir en la provisión del servicio de Internet y telecomunicaciones, se entenderá a la Comisión Federal de Electricidad, en los términos establecidos en los artículos 46, fracción II; 55, fracción II; 78; 79 y 80 de la presente Ley.
-**Trigésimo.** Segundo. La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, habilitará un mecanismo para difundir información sobre próximos vencimientos de plazos para solicitar las prórrogas de concesiones de uso público y social para el servicio público de radiodifusión, a efecto de que cuenten con la información necesaria para el ejercicio de sus derechos.
+**Trigésimo.-** Primero. Para efectos del presente Decreto, por empresa pública del Estado cuyo objeto es contribuir en la provisión del servicio de Internet y telecomunicaciones, se entenderá a la Comisión Federal de Electricidad, en los términos establecidos en los artículos 46, fracción II; 55, fracción II; 78; 79 y 80 de la presente Ley.
+**Trigésimo.-** Segundo. La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, habilitará un mecanismo para difundir información sobre próximos vencimientos de plazos para solicitar las prórrogas de concesiones de uso público y social para el servicio público de radiodifusión, a efecto de que cuenten con la información necesaria para el ejercicio de sus derechos.
 Ciudad de México, a 1 de julio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

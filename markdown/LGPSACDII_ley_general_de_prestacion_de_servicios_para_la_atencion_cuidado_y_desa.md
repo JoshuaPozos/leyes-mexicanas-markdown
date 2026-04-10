@@ -16,6 +16,7 @@ LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO 
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público, interés social y observancia general en el territorio nacional y tiene por objeto establecer la concurrencia entre la Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, así como la participación de los sectores privado y social, en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de niñas y niños a dichos servicios en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas, que promuevan el ejercicio pleno de sus derechos.
 Artículo reformado DOF 23-06-2017
@@ -73,6 +74,7 @@ XIV. Servicios para atención, cuidado y desarrollo integral infantil: Medidas d
 XV. Consejo: Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
 ## Capítulo II
+
 De los Sujetos de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
 ### Artículo 9
@@ -124,7 +126,8 @@ VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectiv
 
 IX. Enseñanza del lenguaje y comunicación;
 
-X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños, y Fracción reformada DOF 26-01-2018
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños, y
+Fracción reformada DOF 26-01-2018
 
 XI. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
 Fracción adicionada DOF 26-01-2018
@@ -133,6 +136,7 @@ Fracción adicionada DOF 26-01-2018
 .- El ingreso de niñas y niños a los servicios para la atención, cuidado y desarrollo integral infantil se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso.
 
 ## Capítulo III
+
 De la Política Nacional en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
 ### Artículo 14
@@ -168,7 +172,8 @@ V. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto,
 VI. Fomentar la equidad de género;
 Fracción reformada DOF 26-01-2018
 
-VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención, y Fracción reformada DOF 26-01-2018
+VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención, y
+Fracción reformada DOF 26-01-2018
 
 VIII. Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 Fracción adicionada DOF 26-01-2018
@@ -187,6 +192,7 @@ IV. Participación de niñas y niños en todos los asuntos que les atañen, y
 V. Equidad de género.
 
 ## Capítulo IV — De la Distribución de Competencias
+
 
 ### Artículo 21
 .- El Ejecutivo Federal tendrá las siguientes atribuciones en materia de prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil:
@@ -281,6 +287,7 @@ XII. Hacer del conocimiento de la autoridad competente toda aquella información
 XIII. Las demás que les señale esta Ley y otras disposiciones jurídicas federales y estatales.
 
 ## Capítulo V
+
 Del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
 ### Artículo 24
@@ -379,6 +386,7 @@ IV. Deberá entregar un informe semestral de actividades al H. Congreso de la Un
 
 ## Capítulo VI — Del Registro Nacional y Registros Estatales de los Centros de Atención
 
+
 ### Artículo 34
 . El Registro Nacional se organizará conforme a lo dispuesto por el Reglamento y tendrá por objeto:
 
@@ -419,6 +427,7 @@ VI. Capacidad instalada y, en su caso, ocupada.
 
 ## Capítulo VII — De las Modalidades y Tipos
 
+
 ### Artículo 39
 . Los Centros de Atención pueden presentar alguna de las siguientes modalidades:
 
@@ -439,6 +448,7 @@ Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atenc
 La tipología anterior, se ajustará a las normas de cada institución y al Reglamento de esta Ley.
 
 ## Capítulo VIII — De las Medidas de Seguridad y Protección Civil
+
 
 ### Artículo 41
 . Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por el Sistema Nacional de Protección Civil o por las Direcciones o Secretarías Estatales de Protección Civil o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
@@ -501,6 +511,7 @@ Artículo adicionado DOF 25-06-2018
 
 ## Capítulo IX — De las Autorizaciones
 
+
 ### Artículo 50
 . La Federación, los Estados, Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, otorgarán las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones que señala esta Ley y los requisitos siguientes:
 Párrafo reformado DOF 23-06-2017
@@ -558,6 +569,7 @@ VIII. El procedimiento para la entrega de información a los padres, las persona
 
 ## Capítulo X — De la Capacitación y Certificación
 
+
 ### Artículo 54
 .- El personal que labore en los Centros de Atención que presten servicios, estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan las autoridades competentes.
 
@@ -577,6 +589,7 @@ Artículo reformado DOF 23-06-2017
 
 ## Capítulo XI — De la Participación de los Sectores Social y Privado
 
+
 ### Artículo 59
 . A través de las políticas públicas relacionadas con la prestación de servicios para la atención, cuidado y desarrollo integral infantil, se fomentará la participación de los sectores social y privado, en la consecución del objeto de esta Ley y de conformidad con la política nacional en la materia.
 
@@ -585,6 +598,7 @@ Artículo reformado DOF 23-06-2017
 Artículo reformado DOF 23-06-2017
 
 ## Capítulo XII — De la Inspección y Vigilancia
+
 
 ### Artículo 61
 . La Federación, los Estados, los Municipios, la Ciudad de México y las alcaldías de sus demarcaciones territoriales, en el ámbito de sus respectivas competencias y conforme lo determine el Reglamento, deberán efectuar, cando menos cada seis meses, visitas de verificación administrativa a los Centros de Atención de conformidad con la Ley Federal de Procedimiento Administrativo en el ámbito federal y con las legislaciones locales correspondientes en la esfera de competencia de las Entidades Federativas.
@@ -615,6 +629,7 @@ IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la 
 
 ## Capítulo XIII — De la Evaluación
 
+
 ### Artículo 65
 . La evaluación de la Política Nacional de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil estará a cargo del Consejo. Dicha evaluación permitirá conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades en la materia, así como medir el impacto de la prestación de los servicios en niñas y niños.
 
@@ -622,6 +637,7 @@ IV. Garantizar la detección y corrección oportuna de cualquier riesgo para la 
 . El Consejo llevará a cabo la evaluación a través de uno o varios organismos independientes que podrán ser instituciones de educación superior, de investigación científica u organizaciones no gubernamentales sin fines de lucro.
 
 ## Capítulo XIV — De las Medidas Precautorias
+
 
 ### Artículo 67
 . Las autoridades verificadoras competentes, podrán imponer medidas precautorias en los Centros de Atención cuando adviertan situaciones que pudieran poner en riesgo la integridad de los sujetos de atención de cuidado y desarrollo integral infantil. Estas medidas son:
@@ -636,6 +652,7 @@ III. Suspensión total o parcial de actividades en el Centro de Atención que se
 . Los plazos a que se refiere el artículo anterior, podrán ampliarse siempre y cuando ello se justifique a partir de la situación específica que originó la medida.
 
 ## Capítulo XV — De las Infracciones y Sanciones
+
 
 ### Artículo 69
 . Las autoridades competentes podrán imponer las siguientes sanciones administrativas:
@@ -714,26 +731,26 @@ Se reforman los artículos 25 y 26 de la Ley General de Prestación de Servicios
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
-**TERCERO.** Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+**TERCERO.-** Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el
 
 ## transitorio
 
 anterior.
-**CUARTO.** Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
-**QUINTO.** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**SEXTO.** La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
+**CUARTO.-** Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+**QUINTO.-** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**SEXTO.-** La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
 Para efectos del párrafo anterior, el Sistema Nacional DIF deberá reformar su Estatuto Orgánico, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
-**SÉPTIMO.** El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+**SÉPTIMO.-** El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
 El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Nacional de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de Derechos de Niñas, Niños y Adolescentes.
 El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa Nacional, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Nacional de Protección.
-**OCTAVO.** Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
-**NOVENO.** Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
-**DÉCIMO.** Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
-**DÉCIMO PRIMERO.** Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-**DÉCIMO SEGUNDO.** La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
-**DÉCIMO TERCERO.** Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+**OCTAVO.-** Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
+**NOVENO.-** Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+**DÉCIMO.-** Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+**DÉCIMO PRIMERO.-** Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**DÉCIMO SEGUNDO.-** La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+**DÉCIMO TERCERO.-** Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
 México, D.F., a 6 de noviembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Laura Barrera Fortoul, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo 42 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 Publicado en el Diario Oficial de la Federación el 7 de abril de 2016
@@ -754,8 +771,8 @@ Se reforman los artículos 1; 2; 4; 11, primer párrafo; 15; 21, fracción VI; 2
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Lorena Cuéllar Cisneros, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones a la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
@@ -766,7 +783,7 @@ Se adicionan los artículos 12, con una fracción XI y 19, con una fracción VII
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 DECRETO por el que se adiciona un artículo 49 Bis a la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
@@ -777,7 +794,7 @@ Se adiciona un artículo 49 Bis a la Ley General de Prestación de Servicios par
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo Cuadragésimo Primero.- Se reforma el artículo 19, fracción II, de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para quedar como sigue: ……….

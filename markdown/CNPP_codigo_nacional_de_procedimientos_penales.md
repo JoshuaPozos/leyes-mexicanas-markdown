@@ -13,7 +13,9 @@ LIBRO PRIMERO DISPOSICIONES GENERALES
 
 ## TÍTULO I — DISPOSICIONES PRELIMINARES
 
+
 ## CAPÍTULO ÚNICO — ÁMBITO DE APLICACIÓN Y OBJETO
+
 
 ### Artículo 1o
 . Ámbito de aplicación Mexicana, por los delitos que sean competencia de los órganos jurisdiccionales federales y locales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
@@ -59,14 +61,17 @@ Fracción recorrida DOF 25-04-2023
 XV. Tratados: Los Tratados Internacionales en los que el Estado mexicano sea parte;
 Fracción recorrida DOF 25-04-2023
 
-XVI. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia, y Fracción recorrida DOF 25-04-2023
+XVI. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia, y
+Fracción recorrida DOF 25-04-2023
 
 XVII. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelve la apelación, federal o de las Entidades federativas.
 Fracción recorrida DOF 25-04-2023
 
 ## TÍTULO II — PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
 
+
 ## CAPÍTULO I — PRINCIPIOS EN EL PROCEDIMIENTO
+
 
 ### Artículo 4o
 . Características y principios rectores El proceso penal será acusatorio y oral, en él se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución, Tratados y demás leyes.
@@ -107,6 +112,7 @@ Las autoridades velarán por que las personas en las condiciones o circunstancia
 
 ## CAPÍTULO II — DERECHOS EN EL PROCEDIMIENTO
 
+
 ### Artículo 15
 . Derecho a la intimidad y a la privacidad En todo procedimiento penal se respetará el derecho a la intimidad de cualquier persona que intervenga en él, asimismo se protegerá la información que se refiere a la vida privada y los datos personales, en los términos y con las excepciones que fijan la Constitución, este Código y la legislación aplicable.
 
@@ -128,7 +134,9 @@ La autoridad judicial sólo podrá autorizar como medidas cautelares, o providen
 
 ## TÍTULO III — COMPETENCIA
 
+
 ## CAPÍTULO I — GENERALIDADES
+
 
 ### Artículo 20
 . Reglas de competencia Para determinar la competencia territorial de los Órganos jurisdiccionales federales o locales, según corresponda, se observarán las siguientes reglas:
@@ -186,6 +194,7 @@ Párrafo reformado DOF 17-06-2016
 
 ## CAPÍTULO II — INCOMPETENCIA
 
+
 ### Artículo 25
 . Tipos o formas de incompetencia La incompetencia puede decretarse por declinatoria o por inhibitoria.
 La parte que opte por uno de estos medios no lo podrá abandonar y recurrir al otro, ni tampoco los podrá emplear simultánea ni sucesivamente, debiendo sujetarse al resultado del que se hubiere elegido.
@@ -220,6 +229,7 @@ El Juez de control incompetente por declinatoria o inhibitoria enviará de ofici
 Si la autoridad judicial a quien se remitan las actuaciones no admite la competencia, devolverá los registros al declinante; si éste insiste en rechazarla, elevará las diligencias practicadas ante el Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica respectiva, con el propósito de que se pronuncie sobre quién deba conocer. Ningún Órgano jurisdiccional puede promover competencia a favor de su superior en grado.
 
 ## CAPÍTULO III — ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
+
 
 ### Artículo 30
 . Causas de acumulación y conexidad Para los efectos de este Código, habrá acumulación de procesos cuando:
@@ -258,6 +268,7 @@ Decretada la separación de procesos, conocerá de cada asunto el Juez de contro
 La resolución del Juez de control que declare improcedente la separación de procesos, no admitirá recurso alguno.
 
 ## CAPÍTULO IV — EXCUSAS, RECUSACIONES E IMPEDIMENTOS
+
 
 ### Artículo 36
 . Excusa o recusación Los jueces y magistrados deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este Código, mismas que no podrán dispensarse por voluntad de las partes.
@@ -308,7 +319,9 @@ La excusa o la recusación será resuelta por la autoridad que resulte competent
 
 ## TÍTULO IV — ACTOS PROCEDIMENTALES
 
+
 ## CAPÍTULO I — FORMALIDADES
+
 
 ### Artículo 44
 . Oralidad de las actuaciones procesales Las audiencias se desarrollarán de forma oral, pudiendo auxiliarse las partes con documentos o con cualquier otro medio. En la práctica de las actuaciones procesales se utilizarán los medios técnicos disponibles que permitan darle mayor agilidad, exactitud y autenticidad a las mismas, sin perjuicio de conservar registro de lo acontecido.
@@ -343,9 +356,11 @@ El Órgano jurisdiccional autorizará la expedición de copias de los contenidos
 
 ### Artículo 51
 . Utilización de medios electrónicos Durante todo el proceso penal, se podrán utilizar los medios electrónicos en todas las actuaciones para facilitar su operación, incluyendo el informe policial; así como también podrán instrumentar, para la presentación de denuncias o querellas en línea que permitan su seguimiento.
-Párrafo adicionado DOF 17-06-2016 La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.
+Párrafo adicionado DOF 17-06-2016
+La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.
 
 ## CAPÍTULO II — AUDIENCIAS
+
 
 ### Artículo 52
 . Disposiciones comunes Los actos procedimentales que deban ser resueltos por el Órgano jurisdiccional se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este Código. Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.
@@ -436,6 +451,7 @@ El imputado o su Defensor podrán hacer uso de la palabra en último lugar, por 
 
 ## CAPÍTULO III — RESOLUCIONES JUDICIALES
 
+
 ### Artículo 67
 . Resoluciones judiciales La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y autos en todos los demás casos. Las resoluciones judiciales deberán mencionar a la autoridad que resuelve, el lugar y la fecha en que se dictaron y demás requisitos que este Código prevea para cada caso.
 Los autos y resoluciones del Órgano jurisdiccional serán emitidos oralmente y surtirán sus efectos a más tardar al día siguiente. Deberán constar por escrito, después de su emisión oral, los siguientes:
@@ -480,6 +496,7 @@ Cuando la sentencia conste en medios informáticos, electrónicos, magnéticos o
 
 ## CAPÍTULO IV — COMUNICACIÓN ENTRE AUTORIDADES
 
+
 ### Artículo 73
 . Regla general de la comunicación entre autoridades El Órgano jurisdiccional o el Ministerio Público, de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.
 
@@ -501,7 +518,8 @@ Las autoridades exhortadas o requeridas remitirán las diligencias o actos proce
 
 ### Artículo 78
 . Exhortos de tribunales extranjeros Las solicitudes que provengan de tribunales extranjeros, deberán ser tramitadas de conformidad con el Título XI del presente Código.
-Párrafo reformado DOF 17-06-2016 Toda solicitud que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción.
+Párrafo reformado DOF 17-06-2016
+Toda solicitud que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción.
 
 ### Artículo 79
 . Exhortos internacionales que requieran homologación Los exhortos internacionales que se reciban sólo requerirán homologación cuando implique ejecución coactiva sobre personas, bienes o derechos. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán sin formar incidente.
@@ -515,6 +533,7 @@ Podrá encomendarse la práctica de diligencias en países extranjeros a los fun
 . Demora o rechazo de requerimientos Cuando la cumplimentación de un requerimiento de cualquier naturaleza fuere demorada o rechazada injustificadamente, la autoridad requirente podrá dirigirse al superior jerárquico de la autoridad que deba cumplimentar dicho requerimiento a fin de que, de considerarlo procedente, ordene o gestione su tramitación inmediata.
 
 ## CAPÍTULO V — NOTIFICACIONES Y CITACIONES
+
 
 ### Artículo 82
 . Formas de notificación Las notificaciones se practicarán personalmente, por lista, estrado o boletín judicial según corresponda y por edictos:
@@ -597,6 +616,7 @@ La citación deberá contener, además de los requisitos señalados en el artíc
 
 ## CAPÍTULO VI — PLAZOS
 
+
 ### Artículo 94
 . Reglas generales Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este Código autorice.
 Los plazos sujetos al arbitrio judicial serán determinados conforme a la naturaleza del procedimiento y a la importancia de la actividad que se deba de desarrollar, teniendo en cuenta los derechos de las partes.
@@ -612,6 +632,7 @@ Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su a
 . Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional podrá ordenar la reposición una vez que haya escuchado a las partes.
 
 ## CAPÍTULO VII — NULIDAD DE ACTOS PROCEDIMENTALES
+
 
 ### Artículo 97
 . Principio general Cualquier acto realizado con violación de derechos humanos será nulo y no podrá ser saneado, ni convalidado y su nulidad deberá ser declarada de oficio por el Órgano jurisdiccional al momento de advertirla o a petición de parte en cualquier momento.
@@ -633,7 +654,8 @@ Párrafo reformado DOF 17-06-2016
 
 I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto;
 
-II. Ninguna de las partes hayan solicitado su saneamiento en los términos previstos en este Código, o Fracción reformada DOF 17-06-2016
+II. Ninguna de las partes hayan solicitado su saneamiento en los términos previstos en este Código, o
+Fracción reformada DOF 17-06-2016
 
 III. Dentro de las veinticuatro horas siguientes de haberse realizado el acto, la parte que no hubiere estado presente o participado en él no solicita su saneamiento. En caso de que por las especiales circunstancias del caso no hubiera sido posible advertir en forma oportuna el defecto en la realización del acto procesal, el interesado deberá solicitar en forma justificada el saneamiento del acto, dentro de las veinticuatro horas siguientes a que haya tenido conocimiento del mismo.
 Lo anterior, siempre y cuando no se afecten derechos fundamentales del imputado o la víctima u ofendido.
@@ -652,10 +674,12 @@ II. Que la reposición resulte esencial para garantizar el cumplimiento de los d
 
 ## CAPÍTULO VIII — GASTOS DE PRODUCCIÓN DE PRUEBA
 
+
 ### Artículo 103
 . Gastos de producción de prueba Tratándose de la prueba pericial, el Órgano jurisdiccional ordenará, a petición de parte, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.
 
 ## CAPÍTULO IX — MEDIOS DE APREMIO
+
 
 ### Artículo 104
 . Imposición de medios de apremio El Órgano jurisdiccional y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
@@ -686,7 +710,9 @@ El Órgano jurisdiccional y el Ministerio Público podrán dar vista a las autor
 
 ## TÍTULO V — SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 105
 . Sujetos de procedimiento penal Son sujetos del procedimiento penal los siguientes:
@@ -718,6 +744,7 @@ En los casos de personas sustraídas de la acción de la justicia, se admitirá 
 El Órgano jurisdiccional procurará que en todo momento se respete la regularidad del procedimiento, el ejercicio de las facultades o derechos en términos de ley y la buena fé.
 
 ## CAPÍTULO II — VÍCTIMA U OFENDIDO
+
 
 ### Artículo 108
 . Víctima u ofendido Para los efectos de este Código, se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.
@@ -801,6 +828,7 @@ En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a t
 
 ## CAPÍTULO III — IMPUTADO
 
+
 ### Artículo 112
 . Denominación Se denominará genéricamente imputado a quien sea señalado por el Ministerio Público como posible autor o partícipe de un hecho que la ley señale como delito.
 Además, se denominará acusado a la persona contra quien se ha formulado acusación y sentenciado a aquel sobre quien ha recaído una sentencia aunque no haya sido declarada firme.
@@ -855,6 +883,7 @@ Cuando el imputado tenga a su cuidado menores de edad, personas con discapacidad
 En caso que el imputado manifieste a la Policía su deseo de declarar sobre los hechos que se investigan, ésta deberá comunicar dicha situación al Ministerio Público para que se reciban sus manifestaciones con las formalidades previstas en este Código.
 
 ## CAPÍTULO IV — DEFENSOR
+
 
 ### Artículo 115
 . Designación de Defensor El Defensor podrá ser designado por el imputado desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor público que corresponda.
@@ -933,6 +962,7 @@ Artículo reformado DOF 17-06-2016
 
 ## CAPÍTULO V — MINISTERIO PÚBLICO
 
+
 ### Artículo 127
 . Competencia del Ministerio Público Compete al Ministerio Público conducir la investigación, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
 
@@ -998,15 +1028,19 @@ XXI. Solicitar a la autoridad judicial la imposición de las penas o medidas de 
 XXII. Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente;
 
 XXIII. Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución;
-Fracción reformada DOF 25-04-2023 XXIII Bis. Tratándose de delitos por razón de género, se deberá investigar con perspectiva de género, y Fracción adicionada DOF 25-04-2023
+Fracción reformada DOF 25-04-2023
+XXIII Bis. Tratándose de delitos por razón de género, se deberá investigar con perspectiva de género, y
+Fracción adicionada DOF 25-04-2023
 
 XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
 ## CAPÍTULO VI — POLICÍA
 
+
 ### Artículo 132
 . Obligaciones de las y los Policías Epígrafe reformado DOF 16-12-2024 El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.
-Párrafo reformado DOF 25-04-2023 Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:
+Párrafo reformado DOF 25-04-2023
+Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;
 
@@ -1040,10 +1074,12 @@ b) Informar a la víctima u ofendido sobre los derechos que en su favor se estab
 c) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 Inciso reformado DOF 25-04-2023
 
-d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y Inciso reformado DOF 25-04-2023
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y
+Inciso reformado DOF 25-04-2023
 
 e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género.
-Inciso adicionado DOF 25-04-2023 XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;
+Inciso adicionado DOF 25-04-2023
+XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;
 Fracción adicionada DOF 25-04-2023
 
 XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
@@ -1055,6 +1091,7 @@ Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, s
 XV. Las demás que le confieran este Código y otras disposiciones aplicables.
 
 ## CAPÍTULO VII — JUECES Y MAGISTRADOS
+
 
 ### Artículo 133
 . Competencia jurisdiccional Para los efectos de este Código, la competencia jurisdiccional comprende a los siguientes órganos:
@@ -1079,27 +1116,35 @@ IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que 
 V. Abstenerse de presentar en público al imputado o acusado como culpable si no existiera condena;
 
 VI. Mantener el orden en las salas de audiencias;
-Fracción reformada DOF 25-04-2023 VI Bis. Tratándose de delitos por razón de género, se deberá juzgar con perspectiva de género;
-Fracción adicionada DOF 25-04-2023 VI Ter. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos para juzgar con perspectiva de género, y Fracción adicionada DOF 25-04-2023
+Fracción reformada DOF 25-04-2023
+VI Bis. Tratándose de delitos por razón de género, se deberá juzgar con perspectiva de género;
+Fracción adicionada DOF 25-04-2023
+VI Ter. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos para juzgar con perspectiva de género, y
+Fracción adicionada DOF 25-04-2023
 
 VII. Los demás establecidos en la Ley Orgánica, en este Código y otras disposiciones aplicables.
 
 ### Artículo 135
 . La queja y su procedencia Procederá queja en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado por este Código. La queja podrá ser promovida por cualquier parte del procedimiento y se tramitará sin perjuicio de las otras consecuencias legales que tenga la omisión del juzgador.
 La queja será interpuesta ante el Órgano jurisdiccional omiso; éste tiene un plazo de veinticuatro horas para subsanar dicha omisión, o bien, realizar un informe breve y conciso sobre las razones por las cuales no se ha verificado el acto procesal o la formalidad exigidos por la norma omitida y remitir el recurso y dicho informe al Órgano jurisdiccional competente.
-Párrafo reformado DOF 17-06-2016 La autoridad jurisdiccional competente tramitará y resolverá en un plazo no mayor a tres días en los términos de las disposiciones aplicables.
-Párrafo reformado DOF 17-06-2016 En ningún caso, el Órgano jurisdiccional competente para resolver la queja podrá ordenar al Órgano Jurisdiccional omiso los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
+Párrafo reformado DOF 17-06-2016
+La autoridad jurisdiccional competente tramitará y resolverá en un plazo no mayor a tres días en los términos de las disposiciones aplicables.
+Párrafo reformado DOF 17-06-2016
+En ningún caso, el Órgano jurisdiccional competente para resolver la queja podrá ordenar al Órgano Jurisdiccional omiso los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
 Párrafo reformado DOF 17-06-2016
 
 ## CAPÍTULO VIII — AUXILIARES DE LAS PARTES
+
 
 ### Artículo 136
 . Consultores técnicos Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al Órgano jurisdiccional. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.
 
 ## TÍTULO VI — MEDIDAS DE PROTECCIÓN DURANTE LA INVESTIGACIÓN, FORMAS DE CONDUCCIÓN
+
 DEL IMPUTADO AL PROCESO Y MEDIDAS CAUTELARES
 
 ## CAPÍTULO I — MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
+
 
 ### Artículo 137
 . Medidas u Órdenes de Protección Epígrafe reformado DOF 16-12-2024 El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
@@ -1148,13 +1193,16 @@ Párrafo adicionado DOF 16-12-2024
 
 ## CAPÍTULO II — LIBERTAD DURANTE LA INVESTIGACIÓN
 
+
 ### Artículo 140
 . Libertad durante la investigación En los casos de detención por flagrancia, cuando se trate de delitos que no merezcan prisión preventiva oficiosa y el Ministerio Público determine que no solicitará prisión preventiva como medida cautelar, podrá disponer la libertad del imputado o imponerle una medida de protección en los términos de lo dispuesto por este Código.
 Cuando el Ministerio Público decrete la libertad del imputado, lo prevendrá a fin de que se abstenga de molestar o afectar a la víctima u ofendido y a los testigos del hecho, a no obstaculizar la investigación y comparecer cuantas veces sea citado para la práctica de diligencias de investigación, apercibiéndolo con imponerle medidas de apremio en caso de desobediencia injustificada.
 
 ## CAPÍTULO III — FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO
 
+
 ## SECCIÓN I
+
 Citatorio, órdenes de comparecencia y aprehensión
 
 ### Artículo 141
@@ -1177,9 +1225,12 @@ Las solicitudes se formularán por cualquier medio que garantice su autenticidad
 
 ### Artículo 143
 . Resolución sobre solicitud de orden de aprehensión o comparecencia El Juez de control resolverá la solicitud de orden de aprehensión o comparecencia en audiencia, o a través del sistema informático; en ambos casos con la debida secrecía, y se pronunciará sobre cada uno de los elementos planteados en la solicitud.
-Párrafo reformado DOF 17-06-2016 En el primer supuesto, la solicitud deberá ser resuelta en la misma audiencia, que se fijará dentro de las veinticuatro horas a partir de la solicitud, exclusivamente con la presencia del Ministerio Público.
-Párrafo adicionado DOF 17-06-2016 En el segundo supuesto, dentro de un plazo máximo de veinticuatro horas, siguientes al momento en que se haya recibido la solicitud.
-Párrafo adicionado DOF 17-06-2016 En caso de que la solicitud de orden de aprehensión o comparecencia no reúna alguno de los requisitos exigibles, el Juez de control prevendrá en la misma audiencia o por el sistema informático al Ministerio Público para que haga las precisiones o aclaraciones correspondientes, ante lo cual el Juez de control podrá dar una clasificación jurídica distinta a los hechos que se planteen o a la participación que tuvo el imputado en los mismos. No se concederá la orden de aprehensión cuando el Juez de control considere que los hechos que señale el Ministerio Público en su solicitud resulten no constitutivos de delito.
+Párrafo reformado DOF 17-06-2016
+En el primer supuesto, la solicitud deberá ser resuelta en la misma audiencia, que se fijará dentro de las veinticuatro horas a partir de la solicitud, exclusivamente con la presencia del Ministerio Público.
+Párrafo adicionado DOF 17-06-2016
+En el segundo supuesto, dentro de un plazo máximo de veinticuatro horas, siguientes al momento en que se haya recibido la solicitud.
+Párrafo adicionado DOF 17-06-2016
+En caso de que la solicitud de orden de aprehensión o comparecencia no reúna alguno de los requisitos exigibles, el Juez de control prevendrá en la misma audiencia o por el sistema informático al Ministerio Público para que haga las precisiones o aclaraciones correspondientes, ante lo cual el Juez de control podrá dar una clasificación jurídica distinta a los hechos que se planteen o a la participación que tuvo el imputado en los mismos. No se concederá la orden de aprehensión cuando el Juez de control considere que los hechos que señale el Ministerio Público en su solicitud resulten no constitutivos de delito.
 Si la resolución se registra por medios diversos al escrito, los puntos resolutivos de la orden de aprehensión deberán transcribirse y entregarse al Ministerio Público.
 
 ### Artículo 144
@@ -1200,6 +1251,7 @@ La cancelación no impide que continúe la investigación y que posteriormente v
 La cancelación de la orden de aprehensión podrá ser apelada por la víctima o el ofendido.
 
 ## SECCIÓN II
+
 Flagrancia y caso urgente
 
 ### Artículo 146
@@ -1243,7 +1295,8 @@ Para los efectos de este artículo, el término medio aritmético es el cociente
 
 ### Artículo 151
 . Asistencia consular En el caso de que el detenido sea extranjero, el Ministerio Público le hará saber sin demora y le garantizará su derecho a recibir asistencia consular, por lo que se le permitirá comunicarse a las Embajadas o Consulados del país respecto de los que sea nacional; y deberá notificar a las propias Embajadas o Consulados la detención de dicha persona, registrando constancia de ello, salvo que el imputado acompañado de su Defensor expresamente solicite que no se realice esta notificación.
-Párrafo reformado DOF 17-06-2016 El Ministerio Público y la Policía deberán informar a quien lo solicite, previa identificación, si un extranjero está detenido y, en su caso, la autoridad a cuya disposición se encuentre y el motivo.
+Párrafo reformado DOF 17-06-2016
+El Ministerio Público y la Policía deberán informar a quien lo solicite, previa identificación, si un extranjero está detenido y, en su caso, la autoridad a cuya disposición se encuentre y el motivo.
 
 ### Artículo 152
 . Derechos que asisten al detenido Las autoridades que ejecuten una detención por flagrancia o caso urgente deberán asegurarse de que la persona tenga pleno y claro conocimiento del ejercicio de los derechos citados a continuación, en cualquier etapa del período de custodia:
@@ -1264,7 +1317,9 @@ VII. El derecho a recibir atención clínica si padece una enfermedad física, s
 
 ## CAPÍTULO IV — MEDIDAS CAUTELARES
 
+
 ## SECCIÓN I — Disposiciones generales
+
 
 ### Artículo 153
 . Reglas generales de las medidas cautelares Las medidas cautelares serán impuestas mediante resolución judicial, por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento.
@@ -1367,8 +1422,10 @@ No gozarán de la prerrogativa prevista en los dos párrafos anteriores, quienes
 . Causas de procedencia El Ministerio Público sólo podrá solicitar al Juez de control la prisión preventiva o el resguardo domiciliario cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, siempre y cuando la causa diversa no sea acumulable o conexa en los términos del presente Código.
 En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.
 La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales.
-Párrafo reformado DOF 19-02-2021, 28-11-2025 Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo reformado DOF 19-02-2021, 28-11-2025 Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:
+Párrafo reformado DOF 19-02-2021, 28-11-2025
+Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+Párrafo reformado DOF 19-02-2021, 28-11-2025
+Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:
 Párrafo reformado DOF 08-11-2019
 
 I. Homicidio doloso previsto en los artículos 302 en relación al 307, 313, 315, 315 Bis, 320 y 323;
@@ -1406,19 +1463,24 @@ Fracción adicionada DOF 19-02-2021
 XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;
 Fracción adicionada DOF 19-02-2021
 
-XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y Fracción adicionada DOF 19-02-2021
+XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y
+Fracción adicionada DOF 19-02-2021
 
 XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.
-Fracción adicionada DOF 19-02-2021 [Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
+Fracción adicionada DOF 19-02-2021
+[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
 
 I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;
 
 II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y
 
 III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.] Párrafo con fracciones adicionado DOF 08-11-2019 Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025 El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.
-Párrafo reformado DOF 19-02-2021 Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.
-Párrafo adicionado DOF 19-02-2021 En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.
-Párrafo adicionado DOF 19-02-2021 Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto
+Párrafo reformado DOF 19-02-2021
+Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.
+Párrafo adicionado DOF 19-02-2021
+En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.
+Párrafo adicionado DOF 19-02-2021
+Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto
 
 ### Artículo 168
 . Peligro de sustracción del imputado Para decidir si está garantizada o no la comparecencia del imputado en el proceso, el Juez de control tomará en cuenta, especialmente, las siguientes circunstancias:
@@ -1474,10 +1536,14 @@ El depósito en efectivo será equivalente a la cantidad señalada como garantí
 ### Artículo 174
 . Incumplimiento del imputado de las medidas cautelares Cuando el supervisor de la medida cautelar detecte un incumplimiento de una medida cautelar distinta a la garantía económica o de prisión preventiva, deberá informar a las partes de forma inmediata a efecto de que en su caso puedan solicitar la revisión de la medida cautelar.
 El Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para revisión de la medida cautelar impuesta en el plazo más breve posible y en su caso, solicite la comparecencia del imputado o una orden de aprehensión.
-Párrafo reformado DOF 17-06-2016 En caso que el imputado notificado por cualquier medio no comparezca injustificadamente a la audiencia a la que fue citado, el Ministerio Público deberá solicitar la orden de aprehensión o comparecencia.
-Párrafo adicionado DOF 17-06-2016 La justificación de la inasistencia por parte del imputado deberá presentarse a más tardar al momento de la audiencia.
-Párrafo adicionado DOF 17-06-2016 En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida ésta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva la garantía a favor del Fondo de Ayuda, Asistencia y Reparación Integral o sus equivalentes en las entidades federativas, previstos en la Ley General de Víctimas.
-Párrafo reformado DOF 17-06-2016 Si el imputado es sorprendido infringiendo una medida cautelar de las establecidas en las fracciones V, VII, VIII, IX, XII y XIII del artículo 155 de este Código, el supervisor de la medida cautelar deberá dar aviso inmediatamente y por cualquier medio, al Juez de control quien con la misma inmediatez ordenará su arresto con fundamento en el inciso d), fracción II del artículo 104 de este Código, para que dentro de la duración de este sea llevado ante él en audiencia con las partes, con el fin de que se revise la medida cautelar; siempre y cuando se le haya apercibido que de incumplir con la medida cautelar se le impondría dicha medida de apremio.
+Párrafo reformado DOF 17-06-2016
+En caso que el imputado notificado por cualquier medio no comparezca injustificadamente a la audiencia a la que fue citado, el Ministerio Público deberá solicitar la orden de aprehensión o comparecencia.
+Párrafo adicionado DOF 17-06-2016
+La justificación de la inasistencia por parte del imputado deberá presentarse a más tardar al momento de la audiencia.
+Párrafo adicionado DOF 17-06-2016
+En el caso de que al imputado se le haya impuesto como medida cautelar una garantía económica y, exhibida ésta sea citado para comparecer ante el juez e incumpla la cita, se requerirá al garante para que presente al imputado en un plazo no mayor a ocho días, advertidos, el garante y el imputado, de que si no lo hicieren o no justificaren la incomparecencia, se hará efectiva la garantía a favor del Fondo de Ayuda, Asistencia y Reparación Integral o sus equivalentes en las entidades federativas, previstos en la Ley General de Víctimas.
+Párrafo reformado DOF 17-06-2016
+Si el imputado es sorprendido infringiendo una medida cautelar de las establecidas en las fracciones V, VII, VIII, IX, XII y XIII del artículo 155 de este Código, el supervisor de la medida cautelar deberá dar aviso inmediatamente y por cualquier medio, al Juez de control quien con la misma inmediatez ordenará su arresto con fundamento en el inciso d), fracción II del artículo 104 de este Código, para que dentro de la duración de este sea llevado ante él en audiencia con las partes, con el fin de que se revise la medida cautelar; siempre y cuando se le haya apercibido que de incumplir con la medida cautelar se le impondría dicha medida de apremio.
 Párrafo reformado DOF 17-06-2016
 
 ### Artículo 175
@@ -1491,7 +1557,9 @@ III. El imputado se someta a la ejecución de la pena o la garantía no deba eje
 
 ## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
 
+
 ## SECCIÓN I
+
 De la Autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso
 
 ### Artículo 176
@@ -1550,7 +1618,9 @@ LIBRO SEGUNDO DEL PROCEDIMIENTO
 
 ## TÍTULO I — SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 183
 . Principio general En los asuntos sujetos a procedimiento abreviado se aplicarán las disposiciones establecidas en este Título.
@@ -1570,6 +1640,7 @@ II. La suspensión condicional del proceso.
 
 ## CAPÍTULO II — ACUERDOS REPARATORIOS
 
+
 ### Artículo 186
 . Definición Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
 Artículo reformado DOF 29-12-2014
@@ -1583,7 +1654,9 @@ Fracción reformada DOF 29-12-2014
 II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.] Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”) Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]
+Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”) Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.
 Párrafo adicionado DOF 29-12-2014. Reformado DOF 17-06-2016
 
 ### Artículo 188
@@ -1595,14 +1668,17 @@ Artículo reformado DOF 29-12-2014
 . Oportunidad Desde su primera intervención, el Ministerio Público o en su caso, el Juez de control, podrán invitar a los interesados a que suscriban un acuerdo reparatorio en los casos en que proceda, de conformidad con lo dispuesto en el presente Código, debiendo explicarles a las partes los efectos del acuerdo.
 Las partes podrán acordar acuerdos reparatorios de cumplimiento inmediato o diferido. En caso de señalar que el cumplimiento debe ser diferido y no señalar plazo específico, se entenderá que el plazo será por un año. El plazo para el cumplimiento de las obligaciones suspenderá el trámite del proceso y la prescripción de la acción penal.
 Si el imputado incumple sin justa causa las obligaciones pactadas, la investigación o el proceso, según corresponda, continuará como si no se hubiera celebrado acuerdo alguno.
-Párrafo reformado DOF 29-12-2014 La información que se genere como producto de los acuerdos reparatorios no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
+Párrafo reformado DOF 29-12-2014
+La información que se genere como producto de los acuerdos reparatorios no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 El juez decretará la extinción de la acción una vez aprobado el cumplimiento pleno de las obligaciones pactadas en un acuerdo reparatorio, haciendo las veces de sentencia ejecutoriada.
 
 ### Artículo 190
 . Trámite Los acuerdos reparatorios deberán ser aprobados por el Juez de control a partir de la etapa de investigación complementaria y por el Ministerio Publico en la etapa de investigación inicial. En este último supuesto, las partes tendrán derecho a acudir ante el Juez de control, dentro de los cinco días siguientes a que se haya aprobado el acuerdo reparatorio, cuando estimen que el mecanismo alternativo de solución de controversias no se desarrolló conforme a las disposiciones previstas en la ley de la materia. Si el Juez de control determina como válidas las pretensiones de las partes, podrá declarar como no celebrado el acuerdo reparatorio y, en su caso, aprobar la modificación acordada entre las partes.
-Párrafo reformado DOF 29-12-2014 Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
+Párrafo reformado DOF 29-12-2014
+Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
 ## CAPÍTULO III — SUSPENSIÓN CONDICIONAL DEL PROCESO
+
 
 ### Artículo 191
 . Definición Por suspensión condicional del proceso deberá entenderse el planteamiento formulado por el Ministerio Público o por el imputado, el cual contendrá un plan detallado sobre el pago de la reparación del daño y el sometimiento del imputado a una o varias de las condiciones que refiere este Capítulo, que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal.
@@ -1613,11 +1689,16 @@ Párrafo reformado DOF 29-12-2014 Previo a la aprobación del acuerdo reparatori
 I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años;
 Fracción reformada DOF 17-06-2016
 
-II. Que no exista oposición fundada de la víctima y ofendido, y Fracción reformada DOF 17-06-2016
+II. Que no exista oposición fundada de la víctima y ofendido, y
+Fracción reformada DOF 17-06-2016
 
 III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso.
-Fracción adicionada DOF 17-06-2016 Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.
-Párrafo reformado DOF 17-06-2016 [La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.] Párrafo adicionado DOF 08-11-2019 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
+Fracción adicionada DOF 17-06-2016
+Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.
+Párrafo reformado DOF 17-06-2016
+[La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]
+Párrafo adicionado DOF 08-11-2019
+Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
 
 ### Artículo 193
 . Oportunidad Una vez dictado el auto de vinculación a proceso, la suspensión condicional del proceso podrá solicitarse en cualquier momento hasta antes de acordarse la apertura de juicio, y no impedirá el ejercicio de la acción civil ante los tribunales respectivos.
@@ -1683,6 +1764,7 @@ Cuando las condiciones establecidas por el Juez de control para la suspensión c
 
 ## CAPÍTULO IV — PROCEDIMIENTO ABREVIADO
 
+
 ### Artículo 201
 . Requisitos de procedencia y verificación del Juez Para autorizar el procedimiento abreviado, el Juez de control verificará en audiencia los siguientes requisitos:
 
@@ -1730,6 +1812,7 @@ El juez deberá fijar el monto de la reparación del daño, para lo cual deberá
 . Reglas generales La existencia de varios coimputados no impide la aplicación de estas reglas en forma individual.
 
 ## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN
+
 CONDICIONAL DEL PROCESO
 
 ### Artículo 208
@@ -1745,7 +1828,9 @@ El Ministerio Público que reciba el reporte de la autoridad de supervisión de 
 
 ## TÍTULO II — PROCEDIMIENTO ORDINARIO
 
+
 ## CAPÍTULO ÚNICO — ETAPAS DEL PROCEDIMIENTO
+
 
 ### Artículo 211
 . Etapas del procedimiento penal El procedimiento penal comprende las siguientes etapas:
@@ -1764,7 +1849,9 @@ El proceso dará inicio con la audiencia inicial, y terminará con la sentencia 
 
 ## TÍTULO III — ETAPA DE INVESTIGACIÓN
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES A LA INVESTIGACIÓN
+
 
 ### Artículo 212
 . Deber de investigación penal Cuando el Ministerio Público tenga conocimiento de la existencia de un hecho que la ley señale como delito, dirigirá la investigación penal, sin que pueda suspender, interrumpir o hacer cesar su curso, salvo en los casos autorizados en la misma.
@@ -1806,6 +1893,7 @@ Si el Juez de control considera procedente la solicitud, así lo resolverá y de
 
 ## CAPÍTULO II — INICIO DE LA INVESTIGACIÓN
 
+
 ### Artículo 221
 . Formas de inicio La investigación de los hechos que revistan características de un delito podrá iniciarse por denuncia, por querella o por su equivalente cuando la ley lo exija. El Ministerio Público y la Policía están obligados a proceder sin mayores requisitos a la investigación de los hechos de los que tengan noticia.
 Tratándose de delitos que deban perseguirse de oficio, bastará para el inicio de la investigación la comunicación que haga cualquier persona, en la que se haga del conocimiento de la autoridad investigadora los hechos que pudieran ser constitutivos de un delito.
@@ -1817,7 +1905,8 @@ El Ministerio Público podrá aplicar el criterio de oportunidad en los casos pr
 . Deber de denunciar Toda persona a quien le conste que se ha cometido un hecho probablemente constitutivo de un delito está obligada a denunciarlo ante el Ministerio Público y en caso de urgencia ante cualquier agente de la Policía.
 Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a los imputados, si hubieren sido detenidos en flagrancia. Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 Cuando el ejercicio de las funciones públicas a que se refiere el párrafo anterior, correspondan a la coadyuvancia con las autoridades responsables de la seguridad pública, además de cumplir con lo previsto en dicho párrafo, la intervención de los servidores públicos respectivos deberá limitarse a preservar el lugar de los hechos hasta el arribo de las autoridades competentes y, en su caso, adoptar las medidas a su alcance para que se brinde atención médica de urgencia a los heridos si los hubiere, así como poner a disposición de la autoridad a los detenidos por conducto o en coordinación con la policía.
-Párrafo adicionado DOF 17-06-2016 No estarán obligados a denunciar quienes al momento de la comisión del delito detenten el carácter de tutor, curador, pupilo, cónyuge, concubina o concubinario, conviviente del imputado, los parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado inclusive.
+Párrafo adicionado DOF 17-06-2016
+No estarán obligados a denunciar quienes al momento de la comisión del delito detenten el carácter de tutor, curador, pupilo, cónyuge, concubina o concubinario, conviviente del imputado, los parientes por consanguinidad o por afinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad o afinidad, hasta el segundo grado inclusive.
 
 ### Artículo 223
 . Forma y contenido de la denuncia La denuncia podrá formularse por cualquier medio y deberá contener, salvo los casos de denuncia anónima o reserva de identidad, la identificación del denunciante, su domicilio, la narración circunstanciada del hecho, la indicación de quién o quiénes lo habrían cometido y de las personas que lo hayan presenciado o que tengan noticia de él y todo cuanto le constare al denunciante.
@@ -1836,6 +1925,7 @@ La querella deberá contener, en lo conducente, los mismos requisitos que los pr
 . Querella de personas menores de edad o que no tienen capacidad para comprender el significado del hecho Tratándose de personas menores de dieciocho años, o de personas que no tengan la capacidad de comprender el significado del hecho, la querella podrá ser presentada por quienes ejerzan la patria potestad o la tutela o sus representantes legales, sin perjuicio de que puedan hacerlo por sí mismos, por sus hermanos o un tercero, cuando se trate de delitos cometidos en su contra por quienes ejerzan la patria potestad, la tutela o sus propios representantes.
 
 ## CAPÍTULO III — TÉCNICAS DE INVESTIGACIÓN
+
 
 ### Artículo 227
 . Cadena de custodia La cadena de custodia es el sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento o aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión.
@@ -1861,7 +1951,8 @@ Fracción reformada DOF 09-08-2019
 ### Artículo 231
 . Notificación del aseguramiento y abandono El Ministerio Público deberá notificar al interesado o a su representante legal el aseguramiento del objeto, instrumento o producto del delito, dentro de los sesenta días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia del registro de aseguramiento, para que manifieste lo que a su derecho convenga.
 Cuando se desconozca la identidad o domicilio del interesado, la notificación se hará por dos edictos que se publicarán en el Diario Oficial de la Federación o su equivalente, en el medio de difusión oficial en la Entidad federativa que corresponda y en un periódico de circulación nacional o estatal, según corresponda, con un intervalo de diez días hábiles entre cada publicación. En la notificación se apercibirá al interesado o a su representante legal para que se abstenga de ejercer actos de dominio sobre los bienes asegurados y se le apercibirá que de no manifestar lo que a su derecho convenga, en un término de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Gobierno Federal o de la Entidad federativa de que se trate, según corresponda.
-Párrafo reformado DOF 09-08-2019 Transcurrido dicho plazo sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados, el Ministerio Público solicitará al Juez de control que declare el abandono de los bienes y éste citará al interesado, a la víctima u ofendido y al Ministerio Público a una audiencia dentro de los diez días siguientes a la solicitud a que se refiere el párrafo anterior.
+Párrafo reformado DOF 09-08-2019
+Transcurrido dicho plazo sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados, el Ministerio Público solicitará al Juez de control que declare el abandono de los bienes y éste citará al interesado, a la víctima u ofendido y al Ministerio Público a una audiencia dentro de los diez días siguientes a la solicitud a que se refiere el párrafo anterior.
 La citación a la audiencia se realizará como sigue:
 
 I. Al Ministerio Público, conforme a las reglas generales establecidas en este Código;
@@ -1932,8 +2023,10 @@ Párrafo adicionado DOF 09-08-2019
 ### Artículo 243
 . Efectos del aseguramiento en actividades lícitas El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
 Tratándose de los delitos que refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, el Ministerio Público de la Federación, asegurará el establecimiento mercantil o empresa prestadora del servicio e inmediatamente notificará al Servicio de Administración y Enajenación de Bienes con la finalidad de que el establecimiento mercantil o empresa asegurada le sea transferida.
-Párrafo adicionado DOF 12-01-2016 Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos lícitos con el objeto de continuar las actividades, siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al Servicio de Administración y Enajenación de Bienes para su administración.
-Párrafo adicionado DOF 12-01-2016 En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
+Párrafo adicionado DOF 12-01-2016
+Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos lícitos con el objeto de continuar las actividades, siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al Servicio de Administración y Enajenación de Bienes para su administración.
+Párrafo adicionado DOF 12-01-2016
+En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
 Párrafo adicionado DOF 12-01-2016
 
 ### Artículo 244
@@ -1953,12 +2046,14 @@ Párrafo adicionado DOF 09-08-2019
 . Entrega de bienes Las autoridades deberán devolver a la persona que acredite o demuestre derechos sobre los bienes que no estén sometidos a decomiso, aseguramiento, restitución o embargo, inmediatamente después de realizar las diligencias conducentes. En todo caso, se dejará constancia mediante fotografías u otros medios que resulten idóneos de estos bienes.
 Esta devolución podrá ordenarse en depósito provisional y al poseedor se le podrá imponer la obligación de exhibirlos cuando se le requiera.
 Dentro de los treinta días siguientes a la notificación del acuerdo de devolución, la autoridad judicial o el Ministerio Público notificarán su resolución al interesado o al representante legal, para que dentro de los diez días siguientes a dicha notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal o de la Entidad federativa de que se trate, según corresponda y se procederá en los términos previstos en este Código.
-Párrafo reformado DOF 09-08-2019 Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su devolución ordenará su cancelación.
+Párrafo reformado DOF 09-08-2019
+Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su devolución ordenará su cancelación.
 
 ### Artículo 247
 . Devolución de bienes asegurados La devolución de los bienes asegurados incluirá la entrega de los frutos que, en su caso, hubieren generado.
 Previo a la instrucción de devolución, el Ministerio Público deberá revisar que los bienes no hayan causado abandono en los términos establecidos por este Código.
-Párrafo adicionado DOF 09-08-2019 La devolución de numerario comprenderá la entrega del principal y, en su caso, de sus rendimientos durante el tiempo en que haya sido administrado, a la tasa que cubra la Tesorería de la Federación o la instancia correspondiente en las Entidades federativas por los depósitos a la vista que reciba.
+Párrafo adicionado DOF 09-08-2019
+La devolución de numerario comprenderá la entrega del principal y, en su caso, de sus rendimientos durante el tiempo en que haya sido administrado, a la tasa que cubra la Tesorería de la Federación o la instancia correspondiente en las Entidades federativas por los depósitos a la vista que reciba.
 La autoridad que haya administrado empresas, negociaciones o establecimientos, al devolverlas rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
 Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos, a efecto de que verifique el inventario correspondiente.
 
@@ -1973,7 +2068,8 @@ Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstituci
 ### Artículo 250
 . Decomiso La autoridad judicial mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, con excepción de los que hayan causado abandono en los términos de este Código o respecto de aquellos sobre los cuales haya resuelto la declaratoria de extinción de dominio.
 Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su decomiso solicitará la inscripción de la sentencia.
-Párrafo adicionado DOF 09-08-2019 El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, y descontado el porcentaje por concepto de gastos indirectos de operación a que refiere la Ley de Ingresos de la Federación, del ejercicio fiscal que corresponda, a favor del Instituto de Administración de Bienes y Activos, serán entregados en partes iguales al Poder Judicial de la Federación, a la Fiscalía General de la República, al fondo previsto en la Ley General de Víctimas y al financiamiento de programas sociales conforme a los objetivos establecidos en el Plan Nacional de Desarrollo, u otras políticas públicas prioritarias, conforme lo determine el Gabinete Social de la Presidencia de la República a que se refiere la Ley Orgánica de la Administración Pública Federal a través de la instancia designada para tal efecto. Para el caso del reparto del producto de la extinción de dominio en el fuero común, serán entregados en las mismas proporciones a las instancias equivalentes existentes en cada Entidad federativa.
+Párrafo adicionado DOF 09-08-2019
+El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, y descontado el porcentaje por concepto de gastos indirectos de operación a que refiere la Ley de Ingresos de la Federación, del ejercicio fiscal que corresponda, a favor del Instituto de Administración de Bienes y Activos, serán entregados en partes iguales al Poder Judicial de la Federación, a la Fiscalía General de la República, al fondo previsto en la Ley General de Víctimas y al financiamiento de programas sociales conforme a los objetivos establecidos en el Plan Nacional de Desarrollo, u otras políticas públicas prioritarias, conforme lo determine el Gabinete Social de la Presidencia de la República a que se refiere la Ley Orgánica de la Administración Pública Federal a través de la instancia designada para tal efecto. Para el caso del reparto del producto de la extinción de dominio en el fuero común, serán entregados en las mismas proporciones a las instancias equivalentes existentes en cada Entidad federativa.
 Párrafo reformado DOF 09-08-2019
 
 ### Artículo 251
@@ -2000,10 +2096,12 @@ IX. La entrega vigilada y las operaciones encubiertas, en el marco de una invest
 X. La entrevista de testigos;
 Fracción reformada DOF 17-06-2016
 
-XI. Recompensas, en términos de los acuerdos que para tal efecto emite el Procurador, y Fracción adicionada DOF 17-06-2016
+XI. Recompensas, en términos de los acuerdos que para tal efecto emite el Procurador, y
+Fracción adicionada DOF 17-06-2016
 
 XII. Las demás en las que expresamente no se prevea control judicial.
-Fracción recorrida DOF 17-06-2016 En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
+Fracción recorrida DOF 17-06-2016
+En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
 Para los efectos de la fracción X de este artículo, cuando un testigo se niegue a ser entrevistado, será citado por el Ministerio Público o en su caso por el Juez de control en los términos que prevé el presente Código.
 
 ### Artículo 252
@@ -2023,6 +2121,7 @@ VI. Las demás que señalen las leyes aplicables.
 
 ## CAPÍTULO IV — FORMAS DE TERMINACIÓN DE LA INVESTIGACIÓN
 
+
 ### Artículo 253
 . Facultad de abstenerse de investigar El Ministerio Público podrá abstenerse de investigar, cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada.
 
@@ -2036,7 +2135,8 @@ Artículo reformado DOF 17-06-2016
 
 ### Artículo 256
 . Casos en que operan los criterios de oportunidad Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de cada Procuraduría, el Ministerio Público, podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido.
-Párrafo reformado DOF 17-06-2016 La aplicación de los criterios de oportunidad será procedente en cualquiera de los siguientes supuestos:
+Párrafo reformado DOF 17-06-2016
+La aplicación de los criterios de oportunidad será procedente en cualquiera de los siguientes supuestos:
 
 I. Se trate de un delito que no tenga pena privativa de libertad, tenga pena alternativa o tenga pena privativa de libertad cuya punibilidad máxima sea de cinco años de prisión, siempre que el delito no se haya cometido con violencia;
 
@@ -2054,15 +2154,18 @@ VI. Cuando, a razón de las causas o circunstancias que rodean la comisión de l
 Fracción reformada DOF 17-06-2016
 
 VII. Se deroga.
-Fracción derogada DOF 17-06-2016 No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público. Para el caso de delitos fiscales y financieros, previa autorización de la Secretaría de Hacienda y Crédito Público, a través de la Procuraduría Fiscal de la Federación, únicamente podrá ser aplicado el supuesto de la fracción V, en el caso de que el imputado aporte información fidedigna que coadyuve para la investigación y persecución del beneficiario final del mismo delito, tomando en consideración que será este último quien estará obligado a reparar el daño.
-Párrafo reformado DOF 08-11-2019 El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto equivalente.
+Fracción derogada DOF 17-06-2016
+No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público. Para el caso de delitos fiscales y financieros, previa autorización de la Secretaría de Hacienda y Crédito Público, a través de la Procuraduría Fiscal de la Federación, únicamente podrá ser aplicado el supuesto de la fracción V, en el caso de que el imputado aporte información fidedigna que coadyuve para la investigación y persecución del beneficiario final del mismo delito, tomando en consideración que será este último quien estará obligado a reparar el daño.
+Párrafo reformado DOF 08-11-2019
+El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto equivalente.
 La aplicación de los criterios de oportunidad podrán ordenarse en cualquier momento y hasta antes de que se dicte el auto de apertura a juicio.
 La aplicación de los criterios de oportunidad deberá ser autorizada por el Procurador o por el servidor público en quien se delegue esta facultad, en términos de la normatividad aplicable.
 
 ### Artículo 257
 . Efectos del criterio de oportunidad La aplicación de los criterios de oportunidad extinguirá la acción penal con respecto al autor o partícipe en cuyo beneficio se dispuso la aplicación de dicho criterio. Si la decisión del Ministerio Público se sustentara en alguno de los supuestos de procedibilidad establecidos en las fracciones I y II del artículo anterior, sus efectos se extenderán a todos los imputados que reúnan las mismas condiciones.
 En el caso de la fracción V del artículo anterior, se suspenderá el ejercicio de la acción penal, así como el plazo de la prescripción de la acción penal, hasta en tanto el imputado comparezca a rendir su testimonio en el procedimiento respecto del que aportó información, momento a partir del cual, el agente del Ministerio Público contará con quince días para resolver definitivamente sobre la procedencia de la extinción de la acción penal.
-Párrafo reformado DOF 17-06-2016 En el supuesto a que se refiere la fracción V del artículo anterior, se suspenderá el plazo de la prescripción de la acción penal.
+Párrafo reformado DOF 17-06-2016
+En el supuesto a que se refiere la fracción V del artículo anterior, se suspenderá el plazo de la prescripción de la acción penal.
 Párrafo reformado DOF 17-06-2016
 
 ### Artículo 258
@@ -2072,7 +2175,9 @@ Párrafo reformado DOF 26-01-2024
 
 ## TÍTULO IV — DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES COMUNES
+
 
 ### Artículo 259
 . Generalidades Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
@@ -2103,13 +2208,16 @@ Las partes harán valer la nulidad del medio de prueba en cualquier etapa del pr
 
 ## TÍTULO V — ACTOS DE INVESTIGACIÓN
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
+
 
 ### Artículo 266
 . Actos de molestia Todo acto de molestia deberá llevarse a cabo con respeto a la dignidad de la persona en cuestión.
 Antes de que el procedimiento se lleve a cabo, la autoridad deberá informarle sobre los derechos que le asisten y solicitar su cooperación. Se realizará un registro forzoso sólo si la persona no está dispuesta a cooperar o se resiste. Si la persona sujeta al procedimiento no habla español, la autoridad deberá tomar medidas razonables para brindar a la persona información sobre sus derechos y para solicitar su cooperación.
 
 ## CAPÍTULO II — ACTOS DE INVESTIGACIÓN
+
 
 ### Artículo 267
 . Inspección La inspección es un acto de investigación sobre el estado que guardan lugares, objetos, instrumentos o productos del delito.
@@ -2173,7 +2281,8 @@ No se viola el deber de confidencialidad cuando se cuente con el consentimiento 
 El reconocimiento procederá aún sin consentimiento del imputado, pero siempre en presencia de su Defensor. Quien sea citado para efectuar un reconocimiento deberá ser ubicado en un lugar desde el cual no sea visto por las personas susceptibles de ser reconocidas. Se adoptarán las previsiones necesarias para que el imputado no altere u oculte su apariencia.
 El reconocimiento deberá presentar al imputado en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.
 Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad.
-Párrafo reformado DOF 28-11-2025 Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor.
+Párrafo reformado DOF 28-11-2025
+Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor.
 
 ### Artículo 278
 . Pluralidad de reconocimientos Cuando varias personas deban reconocer a una sola, cada reconocimiento se practicará por separado sin que se comuniquen entre ellas. Si una persona debe reconocer a varias, el reconocimiento de todas podrá efectuarse en un solo acto, siempre que no perjudique la investigación o la defensa.
@@ -2242,10 +2351,13 @@ Los motivos que determinaron la inspección sin orden judicial constarán detall
 
 ### Artículo 291
 . Intervención de las comunicaciones privadas Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas, el Titular de la Procuraduría General de la República, o en quienes éste delegue esta facultad, así como los Procuradores de las entidades federativas, podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
-Párrafo reformado DOF 17-06-2016 La intervención de comunicaciones privadas, abarca todo sistema de comunicación, o programas que sean resultado de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, los cuales se pueden presentar en tiempo real.
-Párrafo reformado DOF 17-06-2016 La solicitud deberá ser resuelta por la autoridad judicial de manera inmediata, por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público, en un plazo que no exceda de las seis horas siguientes a que la haya recibido.
+Párrafo reformado DOF 17-06-2016
+La intervención de comunicaciones privadas, abarca todo sistema de comunicación, o programas que sean resultado de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, los cuales se pueden presentar en tiempo real.
+Párrafo reformado DOF 17-06-2016
+La solicitud deberá ser resuelta por la autoridad judicial de manera inmediata, por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público, en un plazo que no exceda de las seis horas siguientes a que la haya recibido.
 También se requerirá autorización judicial en los casos de extracción de información, la cual consiste en la obtención de comunicaciones privadas, datos de identificación de las comunicaciones; así como la información, documentos, archivos de texto, audio, imagen o video contenidos en cualquier dispositivo, accesorio, aparato electrónico, equipo informático, aparato de almacenamiento y todo aquello que pueda contener información, incluyendo la almacenada en las plataformas o centros de datos remotos vinculados con éstos.
-Párrafo adicionado DOF 17-06-2016 Si la resolución se registra por medios diversos al escrito, los puntos resolutivos de la autorización deberán transcribirse y entregarse al Ministerio Público.
+Párrafo adicionado DOF 17-06-2016
+Si la resolución se registra por medios diversos al escrito, los puntos resolutivos de la autorización deberán transcribirse y entregarse al Ministerio Público.
 Los servidores públicos autorizados para la ejecución de la medida serán responsables de que se realice en los términos de la resolución judicial.
 
 ### Artículo 292
@@ -2301,6 +2413,7 @@ Artículo reformado DOF 17-06-2016
 
 ## CAPÍTULO III — PRUEBA ANTICIPADA
 
+
 ### Artículo 304
 . Prueba anticipada Hasta antes de la celebración de la audiencia de juicio se podrá desahogar anticipadamente cualquier medio de prueba pertinente, siempre que se satisfagan los siguientes requisitos:
 
@@ -2326,16 +2439,19 @@ Toda prueba anticipada deberá conservarse de acuerdo con las medidas dispuestas
 
 ## TÍTULO VI — AUDIENCIA INICIAL
 
+
 ### Artículo 307
 . Audiencia inicial En la audiencia inicial se informarán al imputado sus derechos constitucionales y legales, si no se le hubiese informado de los mismos con anterioridad, se realizará el control de legalidad de la detención si correspondiere, se formulará la imputación, se dará la oportunidad de declarar al imputado, se resolverá sobre las solicitudes de vinculación a proceso y medidas cautelares y se definirá el plazo para el cierre de la investigación.
 En caso de que el Ministerio Público o la víctima u ofendido solicite la procedencia de una medida cautelar, dicha cuestión deberá ser resuelta antes de que se dicte la suspensión de la audiencia inicial.
-Párrafo reformado DOF 17-06-2016 A esta audiencia deberá concurrir el Ministerio Público, el imputado y su Defensor. La víctima u ofendido o su Asesor jurídico, podrán asistir si así lo desean, pero su presencia no será requisito de validez de la audiencia.
+Párrafo reformado DOF 17-06-2016
+A esta audiencia deberá concurrir el Ministerio Público, el imputado y su Defensor. La víctima u ofendido o su Asesor jurídico, podrán asistir si así lo desean, pero su presencia no será requisito de validez de la audiencia.
 
 ### Artículo 308
 . Control de legalidad de la detención Inmediatamente después de que el imputado detenido en flagrancia o caso urgente sea puesto a disposición del Juez de control, se citará a la audiencia inicial en la que se realizará el control de la detención antes de que se proceda a la formulación de la imputación. El Juez le preguntará al detenido si cuenta con Defensor y en caso negativo, ordenará que se le nombre un Defensor público y le hará saber que tiene derecho a ofrecer datos de prueba, así como acceso a los registros.
 El Ministerio Público deberá justificar las razones de la detención y el Juez de control procederá a calificarla, examinará el cumplimiento del plazo constitucional de retención y los requisitos de procedibilidad, ratificándola en caso de encontrarse ajustada a derecho o decretando la libertad en los términos previstos en este Código.
 Ratificada la detención en flagrancia, caso urgente, y cuando se hubiere ejecutado una orden de aprehensión, el imputado permanecerá detenido durante el desarrollo de la audiencia inicial, hasta en tanto no se resuelva si será o no sometido a una medida cautelar.
-Párrafo reformado DOF 17-06-2016 En caso de que al inicio de la audiencia el agente del Ministerio Público no esté presente, el Juez de control declarará en receso la audiencia hasta por una hora y ordenará a la administración del Poder Judicial para que se comunique con el superior jerárquico de aquél, con el propósito de que lo haga comparecer o lo sustituya. Concluido el receso sin obtener respuesta, se procederá a la inmediata liberación del detenido.
+Párrafo reformado DOF 17-06-2016
+En caso de que al inicio de la audiencia el agente del Ministerio Público no esté presente, el Juez de control declarará en receso la audiencia hasta por una hora y ordenará a la administración del Poder Judicial para que se comunique con el superior jerárquico de aquél, con el propósito de que lo haga comparecer o lo sustituya. Concluido el receso sin obtener respuesta, se procederá a la inmediata liberación del detenido.
 La omisión del Ministerio Público o de su superior jerárquico, al párrafo precedente los hará incurrir en las responsabilidades de conformidad con las disposiciones aplicables.
 Párrafo adicionado DOF 17-06-2016
 
@@ -2343,7 +2459,8 @@ Párrafo adicionado DOF 17-06-2016
 . Oportunidad para formular la imputación a personas detenidas La formulación de la imputación es la comunicación que el Ministerio Público efectúa al imputado, en presencia del Juez de control, de que desarrolla una investigación en su contra respecto de uno o más hechos que la ley señala como delito.
 En el caso de detenidos en flagrancia o caso urgente, después que el Juez de control califique de legal la detención, el Ministerio Público deberá formular la imputación, acto seguido solicitará la vinculación del imputado a proceso sin perjuicio del plazo constitucional que pueda invocar el imputado o su Defensor.
 En el caso de que el Ministerio Público o la víctima u ofendido o el Asesor jurídico solicite una medida cautelar y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia.
-Párrafo reformado DOF 17-06-2016 El imputado no podrá negarse a proporcionar su completa identidad, debiendo responder las preguntas que se le dirijan con respecto a ésta y se le exhortará para que se conduzca con verdad.
+Párrafo reformado DOF 17-06-2016
+El imputado no podrá negarse a proporcionar su completa identidad, debiendo responder las preguntas que se le dirijan con respecto a ésta y se le exhortará para que se conduzca con verdad.
 Se le preguntará al imputado si es su deseo proporcionar sus datos en voz alta o si prefiere que éstos sean anotados por separado y preservados en reserva.
 Si el imputado decidiera declarar en relación a los hechos que se le imputan, se le informarán sus derechos procesales relacionados con este acto y que lo que declare puede ser utilizado en su contra, se le cuestionará si ha sido asesorado por su Defensor y si su decisión es libre.
 Si el imputado decide libremente declarar, el Ministerio Público, el Asesor jurídico de la víctima u ofendido, el acusador privado en su caso y la defensa podrán dirigirle preguntas sobre lo que declaró, pero no estará obligado a responder las que puedan ser en su contra.
@@ -2366,7 +2483,8 @@ El Juez de control a petición del imputado o de su Defensor, podrá solicitar l
 El Juez de control cuestionará al imputado si desea que se resuelva sobre su vinculación a proceso en esa audiencia dentro del plazo de setenta y dos horas o si solicita la ampliación de dicho plazo. En caso de que el imputado no se acoja al plazo constitucional ni solicite la duplicidad del mismo, el Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los datos de prueba con los que considera que se establece un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión. El Juez de control otorgará la oportunidad a la defensa para que conteste la solicitud y si considera necesario permitirá la réplica y contrarréplica. Hecho lo anterior, resolverá la situación jurídica del imputado.
 Si el imputado manifestó su deseo de que se resuelva sobre su vinculación a proceso dentro del plazo de setenta y dos horas o solicita la ampliación de dicho plazo, el Juez deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro de dicho plazo o su prórroga.
 La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o que el imputado compareció a la audiencia de formulación de la imputación.
-Párrafo reformado DOF 17-06-2016 El Juez de control deberá informar a la autoridad responsable del establecimiento en el que se encuentre internado el imputado si al resolverse su situación jurídica además se le impuso como medida cautelar la prisión preventiva o si se solicita la duplicidad del plazo constitucional. Si transcurrido el plazo constitucional el Juez de control no informa a la autoridad responsable, ésta deberá llamar su atención sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, deberá poner al imputado en libertad.
+Párrafo reformado DOF 17-06-2016
+El Juez de control deberá informar a la autoridad responsable del establecimiento en el que se encuentre internado el imputado si al resolverse su situación jurídica además se le impuso como medida cautelar la prisión preventiva o si se solicita la duplicidad del plazo constitucional. Si transcurrido el plazo constitucional el Juez de control no informa a la autoridad responsable, ésta deberá llamar su atención sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, deberá poner al imputado en libertad.
 
 ### Artículo 314
 . Incorporación de datos y medios de prueba en el plazo constitucional o su ampliación El imputado o su Defensor podrán, durante el plazo constitucional o su ampliación, presentar los datos de prueba que consideren necesarios ante el Juez de control.
@@ -2375,7 +2493,8 @@ Artículo reformado DOF 17-06-2016
 
 ### Artículo 315
 . Continuación de la audiencia inicial La continuación de la audiencia inicial comenzará con la presentación de los datos de prueba aportados por las partes o, en su caso, con el desahogo de los medios de prueba que hubiese ofrecido y justificado el imputado o su defensor en términos del artículo 314 de este Código. Para tal efecto, se seguirán en lo conducente las reglas previstas para el desahogo de pruebas en la audiencia de debate de juicio oral. Desahogada la prueba, si la hubo, se le concederá la palabra en primer término al Ministerio Público, al asesor jurídico de la víctima y luego al imputado. Agotado el debate, el Juez resolverá sobre la vinculación o no del imputado a proceso.
-Párrafo reformado DOF 17-06-2016 En casos de extrema complejidad, el Juez de control podrá decretar un receso que no podrá exceder de dos horas, antes de resolver sobre la situación jurídica del imputado.
+Párrafo reformado DOF 17-06-2016
+En casos de extrema complejidad, el Juez de control podrá decretar un receso que no podrá exceder de dos horas, antes de resolver sobre la situación jurídica del imputado.
 
 ### Artículo 316
 . Requisitos para dictar el auto de vinculación a proceso El Juez de control, a petición del agente del Ministerio Público, dictará el auto de vinculación del imputado a proceso, siempre que:
@@ -2498,7 +2617,9 @@ Vencido el plazo o su ampliación, la investigación sujeta a reapertura se cons
 
 ## TÍTULO VII — ETAPA INTERMEDIA
 
+
 ## CAPÍTULO I — OBJETO
+
 
 ### Artículo 334
 . Objeto de la etapa intermedia La etapa intermedia tiene por objeto el ofrecimiento y admisión de los medios de prueba, así como la depuración de los hechos controvertidos que serán materia del juicio.
@@ -2574,15 +2695,19 @@ Fracción reformada DOF 17-06-2016
 II. Ofrecer los medios de prueba que pretenda se desahoguen en el juicio;
 Fracción adicionada DOF 17-06-2016
 
-III. Solicitar la acumulación o separación de acusaciones, y Fracción reformada y recorrida DOF 17-06-2016
+III. Solicitar la acumulación o separación de acusaciones, y
+Fracción reformada y recorrida DOF 17-06-2016
 
 IV. Manifestarse sobre los acuerdos probatorios.
-Fracción reformada y recorrida DOF 17-06-2016 El escrito del acusado o su Defensor se notificará al Ministerio Público y al coadyuvante dentro de las veinticuatro horas siguientes a su presentación.
-Párrafo reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
+Fracción reformada y recorrida DOF 17-06-2016
+El escrito del acusado o su Defensor se notificará al Ministerio Público y al coadyuvante dentro de las veinticuatro horas siguientes a su presentación.
+Párrafo reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 341
 . Citación a la audiencia El Juez de control, en el mismo auto en que tenga por presentada la acusación del Ministerio Público, señalará fecha para que se lleve a cabo la audiencia intermedia, la cual deberá tener lugar en un plazo que no podrá ser menor a treinta ni exceder de cuarenta días naturales a partir de presentada la acusación.
-Párrafo reformado DOF 17-06-2016 Previa celebración de la audiencia intermedia, el Juez de control podrá, por una sola ocasión y a solicitud de la defensa, diferir, hasta por diez días, la celebración de la audiencia intermedia. Para tal efecto, la defensa deberá exponer las razones por las cuales ha requerido dicho diferimiento.
+Párrafo reformado DOF 17-06-2016
+Previa celebración de la audiencia intermedia, el Juez de control podrá, por una sola ocasión y a solicitud de la defensa, diferir, hasta por diez días, la celebración de la audiencia intermedia. Para tal efecto, la defensa deberá exponer las razones por las cuales ha requerido dicho diferimiento.
 
 ### Artículo 342
 . Inmediación en la audiencia intermedia La audiencia intermedia será conducida por el Juez de control, quien la presidirá en su integridad y se desarrollará oralmente. Es indispensable la presencia permanente del Juez de control, el Ministerio Público, y el Defensor durante la audiencia.
@@ -2649,7 +2774,9 @@ El Juez de control hará llegar el mismo al Tribunal de enjuiciamiento competent
 
 ## TÍTULO VIII — ETAPA DE JUICIO
 
+
 ## CAPÍTULO I — DISPOSICIONES PREVIAS
+
 
 ### Artículo 348
 . Juicio El juicio es la etapa de decisión de las cuestiones esenciales del proceso. Se realizará sobre la base de la acusación en el que se deberá asegurar la efectiva vigencia de los principios de inmediación, publicidad, concentración, igualdad, contradicción y continuidad.
@@ -2662,6 +2789,7 @@ Artículo reformado DOF 17-06-2016
 . Prohibición de intervención Los jueces que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de enjuiciamiento.
 
 ## CAPÍTULO II — PRINCIPIOS
+
 
 ### Artículo 351
 . Suspensión La audiencia de juicio podrá suspenderse en forma excepcional por un plazo máximo de diez días naturales cuando:
@@ -2688,6 +2816,7 @@ El Tribunal de enjuiciamiento ordenará los aplazamientos que se requieran, indi
 
 ## CAPÍTULO III — DIRECCIÓN Y DISCIPLINA
 
+
 ### Artículo 354
 . Dirección del debate de juicio El juzgador que preside la audiencia de juicio ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión; impedirá intervenciones impertinentes o que no resulten admisibles, sin coartar por ello el ejercicio de la persecución penal o la libertad de defensa. Asimismo, resolverá las objeciones que se formulen durante el desahogo de la prueba.
 Si alguna de las partes en el debate se inconformara por la vía de revocación de una decisión del Presidente, lo resolverá el Tribunal.
@@ -2711,6 +2840,7 @@ Párrafo reformado DOF 17-06-2016
 
 ## CAPÍTULO IV — DISPOSICIONES GENERALES SOBRE LA PRUEBA
 
+
 ### Artículo 356
 . Libertad probatoria Todos los hechos y circunstancias aportados para la adecuada solución del caso sometido a juicio, podrán ser probados por cualquier medio pertinente producido e incorporado de conformidad con este Código.
 
@@ -2725,6 +2855,7 @@ Párrafo reformado DOF 17-06-2016
 Artículo reformado DOF 17-06-2016
 
 ## SECCIÓN I
+
 Prueba testimonial
 
 ### Artículo 360
@@ -2770,6 +2901,7 @@ Estos procedimientos especiales deberán llevarse a cabo sin afectar el derecho 
 De igual forma, el Ministerio Público o la autoridad que corresponda adoptarán las medidas que fueren procedentes para conferir la debida protección a víctimas, ofendidos, testigos, antes o después de prestadas sus declaraciones, y a sus familiares y en general a todos los sujetos que intervengan en el procedimiento, sin menoscabo de lo dispuesto en la legislación aplicable.
 
 ## SECCIÓN II
+
 Prueba pericial
 
 ### Artículo 368
@@ -2783,6 +2915,7 @@ No se exigirán estos requisitos para quien declare como testigo sobre hechos o 
 . Medidas de protección En caso necesario, los peritos y otros terceros que deban intervenir en el procedimiento para efectos probatorios, podrán pedir a la autoridad correspondiente que adopte medidas tendentes a que se les brinde la protección prevista para los testigos, en los términos de la legislación aplicable.
 
 ## SECCIÓN III — Disposiciones generales del interrogatorio y contrainterrogatorio
+
 
 ### Artículo 371
 . Declarantes en la audiencia de juicio Antes de declarar, los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurra en la audiencia, por lo que permanecerán en una sala distinta a aquella en donde se desarrolle, advertidos de lo anterior por el juzgador que preside la audiencia. Serán llamados en el orden establecido. Esta disposición no aplica al acusado ni a la víctima, salvo cuando ésta deba declarar en juicio como testigo.
@@ -2813,6 +2946,7 @@ Contra esta determinación no se admite recurso alguno.
 Con el mismo propósito se podrá leer durante la declaración de un perito parte del informe que él hubiere elaborado.
 
 ## SECCIÓN IV
+
 Declaración del acusado
 
 ### Artículo 377
@@ -2828,6 +2962,7 @@ En la declaración del acusado se seguirán, en lo conducente, las mismas reglas
 El juzgador que presida la audiencia de juicio impedirá cualquier divagación y si el acusado persistiera en ese comportamiento, podrá ordenar que sea alejado de la audiencia. El acusado podrá, durante el transcurso del debate, hablar libremente con su Defensor, sin que por ello la audiencia se suspenda; sin embargo, no lo podrá hacer durante su declaración o antes de responder a preguntas que le sean formuladas y tampoco podrá admitir sugerencia alguna.
 
 ## SECCIÓN V
+
 Prueba documental y material
 
 ### Artículo 380
@@ -2863,6 +2998,7 @@ Cualquiera de estas circunstancias deberá ser debidamente acreditada.
 . Incorporación de prueba material o documental previamente admitida De conformidad con el artículo anterior, sólo se podrán incorporar la prueba material y la documental previamente admitidas, salvo las excepciones previstas en este Código.
 
 ## SECCIÓN VI
+
 Otras pruebas
 
 ### Artículo 388
@@ -2877,6 +3013,7 @@ Si con ocasión de la rendición de un medio de prueba surgiere una controversia
 El medio de prueba debe ser ofrecido antes de que se cierre el debate, para lo que el Tribunal de enjuiciamiento deberá salvaguardar la oportunidad de la contraparte del oferente de los medios de prueba supervenientes o de refutación, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversos medios de prueba, encaminados a controvertirlos.
 
 ## CAPÍTULO V — DESARROLLO DE LA AUDIENCIA DE JUICIO
+
 
 ### Artículo 391
 . Apertura de la audiencia de juicio En el día y la hora fijados, el Tribunal de enjuiciamiento se constituirá en el lugar señalado para la audiencia. Quien la presida, verificará la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas que deban exhibirse en él, y la declarará abierta. Advertirá al acusado y al público sobre la importancia y el significado de lo que acontecerá en la audiencia e indicará al acusado que esté atento a ella.
@@ -2910,6 +3047,7 @@ El Tribunal de enjuiciamiento podrá disponer la división de un debate en ese m
 . Alegatos de clausura y cierre del debate Concluido el desahogo de las pruebas, el juzgador que preside la audiencia de juicio otorgará sucesivamente la palabra al Ministerio Público, al Asesor jurídico de la víctima u ofendido del delito y al Defensor, para que expongan sus alegatos de clausura. Acto seguido, se otorgará al Ministerio Público y al Defensor la posibilidad de replicar y duplicar. La réplica sólo podrá referirse a lo expresado por el Defensor en su alegato de clausura y la dúplica a lo expresado por el Ministerio Público o a la víctima u ofendido del delito en la réplica. Se otorgará la palabra por último al acusado y al final se declarará cerrado el debate.
 
 ## CAPÍTULO VI — DELIBERACIÓN, FALLO Y SENTENCIA
+
 
 ### Artículo 400
 . Deliberación Inmediatamente después de concluido el debate, el Tribunal de enjuiciamiento ordenará un receso para deliberar en forma privada, continua y aislada, hasta emitir el fallo correspondiente. La deliberación no podrá exceder de veinticuatro horas ni suspenderse, salvo en caso de enfermedad grave del Juez o miembro del Tribunal. En este caso, la suspensión de la deliberación no podrá ampliarse por más de diez días hábiles, luego de los cuales se deberá reemplazar al Juez o integrantes del Tribunal y realizar el juicio nuevamente.
@@ -3018,7 +3156,9 @@ Dicha disposición también será aplicable en los casos de las sentencias conde
 
 ## TÍTULO IX — PERSONAS INIMPUTABLES
 
+
 ## CAPÍTULO ÚNICO — PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
+
 
 ### Artículo 414
 . Procedimiento para la aplicación de ajustes razonables en la audiencia inicial Si en el curso de la audiencia inicial, aparecen indicios de que el imputado está en alguno de los supuestos de inimputabilidad previstos en la Parte General del Código Penal aplicable, cualquiera de las partes podrá solicitar al Juez de control que ordene la práctica de peritajes que determinen si efectivamente es inimputable y en caso de serlo, si la inimputabilidad es permanente o transitoria y, en su caso, si ésta fue provocada por el imputado. La audiencia continuará con las mismas reglas generales pero se proveerán los ajustes razonables que determine el Juez de control para garantizar el acceso a la justicia de la persona.
@@ -3044,7 +3184,9 @@ La medida de seguridad en ningún caso podrá tener mayor duración a la pena qu
 
 ## TÍTULO X — PROCEDIMIENTOS ESPECIALES
 
+
 ## CAPÍTULO I — PUEBLOS Y COMUNIDADES INDÍGENAS
+
 
 ### Artículo 420
 . Pueblos y comunidades indígenas Cuando se trate de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o bienes personales de alguno de sus miembros, y tanto el imputado como la víctima, o en su caso sus familiares, acepten el modo en el que la comunidad, conforme a sus propios sistemas normativos en la regulación y solución de sus conflictos internos proponga resolver el conflicto, se declarará la extinción de la acción penal, salvo en los casos en que la solución no considere la perspectiva de género, afecte la dignidad de las personas, el interés superior de los niños y las niñas o del derecho a una vida libre de violencia hacia la mujer.
@@ -3052,6 +3194,7 @@ En estos casos, cualquier miembro de la comunidad indígena podrá solicitar que
 Se excluyen de lo anterior, los delitos previstos para prisión preventiva oficiosa en este Código y en la legislación aplicable.
 
 ## CAPÍTULO II — PROCEDIMIENTO PARA PERSONAS JURÍDICAS
+
 
 ### Artículo 421
 . Ejercicio de la acción penal y responsabilidad penal autónoma Las personas jurídicas serán penalmente responsables, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que ellas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización. Lo anterior con independencia de la responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
@@ -3120,9 +3263,11 @@ Artículo reformado DOF 17-06-2016
 
 ### Artículo 425
 . Sentencias En la sentencia que se dicte el Órgano jurisdiccional resolverá lo pertinente a la persona física imputada, con independencia a la responsabilidad penal de la persona jurídica, imponiendo la sanción procedente.
-Párrafo reformado DOF 17-06-2016 En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este Código.
+Párrafo reformado DOF 17-06-2016
+En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este Código.
 
 ## CAPÍTULO III — ACCIÓN PENAL POR PARTICULAR
+
 
 ### Artículo 426
 . Acción penal por particulares El ejercicio de la acción penal corresponde al Ministerio Público, pero podrá ser ejercida por los particulares que tengan la calidad de víctima u ofendido en los casos y conforme a lo dispuesto en este Código.
@@ -3172,7 +3317,9 @@ De igual forma, salvo disposición legal en contrario, en la substanciación de 
 
 ## TÍTULO XI — ASISTENCIA JURÍDICA INTERNACIONAL EN MATERIA PENAL
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 433
 . Disposiciones generales Los Estados Unidos Mexicanos prestarán a cualquier Estado extranjero que lo requiera o autoridad ministerial o judicial, tanto en el ámbito federal como del fuero común, la más amplia ayuda relacionada con la investigación, el procesamiento y la sanción de delitos que correspondan a la jurisdicción de éste.
@@ -3281,6 +3428,7 @@ La obtención de información y pruebas suministradas en atención a una solicit
 
 ## CAPÍTULO II — FORMAS ESPECÍFICAS DE ASISTENCIA
 
+
 ### Artículo 445
 . Notificación de documentos procesales En aquellas asistencias que tengan como finalidad la notificación de documentos, se deberá especificar el nombre y domicilio de la persona o personas a quienes se deba notificar.
 Cuando la notificación tenga por objeto hacer del conocimiento alguna diligencia o actuación con una fecha determinada, la misma deberá enviarse con una anticipación razonable respecto de la fecha de la diligencia.
@@ -3330,18 +3478,22 @@ La Autoridad Central tiene la facultad de determinar, de acuerdo con la naturale
 
 ## CAPÍTULO III — DE LA ASISTENCIA INFORMAL
 
+
 ### Artículo 455
 . Asistencia informal Toda aquella información o documentación que puede ser obtenida de manera informal por la Autoridad Central, sin que medie una solicitud oficial basada en un convenio o Tratado internacional ni formalidad alguna, es una asistencia informal.
 Este tipo de información o documentación sólo servirá como indicio a la autoridad investigadora y en ningún caso podrá formalizarse, a menos que sea requerida mediante la figura de asistencia jurídica internacional, cubriendo todos los requisitos señalados en los convenios y Tratados de conformidad con los preceptos establecidos en el presente Código.
 
 ## TÍTULO XII — RECURSOS
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 456
 . Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código.
 Para efectos de su impugnación, se entenderán como resoluciones judiciales, las emitidas oralmente o por escrito.
-Párrafo adicionado DOF 17-06-2016 El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
+Párrafo adicionado DOF 17-06-2016
+El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
 En el procedimiento penal sólo se admitirán los recursos de revocación y apelación, según corresponda.
 
 ### Artículo 457
@@ -3382,7 +3534,9 @@ Si sólo uno de varios imputados por el mismo delito interpusiera algún recurso
 
 ## CAPÍTULO II — RECURSOS EN PARTICULAR
 
+
 ## SECCIÓN I
+
 Revocación
 
 ### Artículo 465
@@ -3398,6 +3552,7 @@ II. Si el recurso se hace valer contra resoluciones dictadas fuera de audiencia,
 La resolución que decida la revocación interpuesta oralmente en audiencia, deberá emitirse de inmediato; la resolución que decida la revocación interpuesta por escrito deberá emitirse dentro de los tres días siguientes a su interposición; en caso de que el Órgano jurisdiccional cite a audiencia por la complejidad del caso, resolverá en ésta.
 
 ## SECCIÓN II
+
 Apelación APARTADO I Reglas generales de la apelación
 
 ### Artículo 467
@@ -3444,7 +3599,8 @@ Fracción adicionada DOF 26-01-2024
 XVI. La que resuelva la solicitud de la orden de comparecencia;
 Fracción adicionada DOF 26-01-2024
 
-XVII. Las que se pronuncien sobre la restitución de bienes, objetos, instrumentos o productos del delito, o Fracción adicionada DOF 26-01-2024
+XVII. Las que se pronuncien sobre la restitución de bienes, objetos, instrumentos o productos del delito, o
+Fracción adicionada DOF 26-01-2024
 
 XVIII. La que se pronuncie sobre el no ejercicio de la acción penal.
 Fracción adicionada DOF 26-01-2024
@@ -3543,7 +3699,9 @@ Las partes podrán ofrecer medio de prueba esencial para resolver el fondo del r
 
 ## TÍTULO XIII — RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA
 
+
 ## CAPÍTULO ÚNICO — PROCEDENCIA
+
 
 ### Artículo 485
 . Causas de extinción de la acción penal La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
@@ -3646,14 +3804,14 @@ Se REFORMAN los artículos 183, 186, 187, fracción I y segundo párrafo; 188, 1
 
 ## TRANSITORIOS
 
-**PRIMERO.** La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
+**PRIMERO.-** La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
 Decreto entrarán en vigor en las regiones y gradualidad en las que se lleve a cabo la declaratoria a que refiere el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, serán aplicables para los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
-**SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**TERCERO.** A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
-**CUARTO.** La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**TERCERO.-** A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
+**CUARTO.-** La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
 Dentro de los sesenta días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, así como la Secretaría Técnica del Consejo de certificación en sede judicial deberán elaborar el proyecto de criterios mínimos de certificación de Facilitadores. Para la elaboración de los criterios referidos deberán tomar en consideración la opinión de los representantes de las zonas en que estén conformadas la Conferencia y el Consejo. El proyecto deberá ser sometido a consideración del Pleno de la Conferencia o el Consejo en la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.
-**QUINTO.** La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
-**SEXTO.** La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+**QUINTO.-** La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
+**SEXTO.-** La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
 México, D.F., a 2 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos; y se reforman, adicionan y derogan diversas Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fiscal de la Federación y del Código Nacional de Procedimientos Penales.
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2016
@@ -3666,7 +3824,6 @@ Se reforma el encabezado del artículo 235; y se adicionan un segundo párrafo a
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
 **Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
-
 I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
 
 II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
@@ -3681,8 +3838,8 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 
 ### Artículo Primero
 Se reforman los artículos 22, tercer párrafo; 78, primer párrafo; 100, primer y último párrafos y fracción II; 113, fracción VIII; 122; 135, segundo, tercero y cuarto párrafos; 143, primer párrafo, 151, primer párrafo; 154, último párrafo; 165, segundo párrafo; 174, segundo, tercero y cuarto párrafos; 176, primer párrafo y su epígrafe; 187, último párrafo; 192, fracciones I y II y último párrafo; 196, tercer párrafo; 218; 251, fracción X; 255, primer párrafo; 256, primer párrafo y fracciones IV, V y VI del
-**segundo.** párrafo; 257, segundo y tercer párrafos; 291, primer y segundo párrafos; 303, primero y segundo párrafos y su epígrafe; 307, segundo párrafo; 308, tercer párrafo; 309, tercer párrafo; 313, cuarto párrafo; 314, primer párrafo y su epígrafe; 315, primer párrafo; 320; 336 y su epígrafe; 337; 338, fracción III; 340, primer y tercer párrafos y fracciones I, II y III; 341, primer párrafo; 347, fracción I; 349; 355, último párrafo; 359; 421 y su epígrafe; 422 y su epígrafe; 423; 424; 425, primer párrafo; y el primer párrafo del ARTÍCULO TERCERO TRANSITORIO del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014; se adicionan un primer párrafo al artículo 51, recorriéndose en su orden el subsecuente; segundo y tercer párrafos al artículo 143, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 165; un tercer y cuarto párrafos al artículo 174, recorriéndose en su orden los subsecuentes; un primer párrafo al artículo 176, recorriéndose en su orden el subsecuente; se adiciona un último párrafo al artículo 187; una fracción III al artículo 192; un segundo y tercer párrafos, recorriéndose en su orden el subsecuente, así como un último párrafo al artículo 218; un tercer párrafo al artículo 222, recorriéndose en su orden el subsecuente; una fracción XI al artículo 251, recorriéndose en su orden las subsecuentes; un segundo párrafo al artículo 255; un cuarto párrafo, recorriéndose en su orden los subsecuentes, al artículo 291; un
-**segundo.** , tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 303, recorriéndose en su orden los subsecuentes; un quinto párrafo al artículo 308; un segundo párrafo al artículo 314; una fracción II al artículo 340, recorriéndose en su orden los subsecuentes; un primer párrafo, recorriéndose en su orden el actual primer párrafo para ser segundo párrafo, un tercero, cuarto, quinto y sexto párrafos al artículo 421; las fracciones I, II, III, IV y V al primer párrafo, los incisos a) a f) al segundo párrafo, las fracciones I, II, III, IV, V, VI al tercer párrafo y un cuarto párrafo al artículo 422; un tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 423; un segundo párrafo al artículo 456, recorriéndose en su orden los subsecuentes; un segundo párrafo al ARTÍCULO TERCERO TRANSITORIO; se derogan la fracción VII del segundo párrafo del artículo 256; el segundo párrafo del artículo 340; el actual tercer párrafo del artículo 373; el tercer párrafo del artículo 423 y el segundo párrafo al ARTÍCULO TERCERO TRANSITORIO del Código Nacional de Procedimientos Penales, para quedar como sigue: ………
+**segundo.-** párrafo; 257, segundo y tercer párrafos; 291, primer y segundo párrafos; 303, primero y segundo párrafos y su epígrafe; 307, segundo párrafo; 308, tercer párrafo; 309, tercer párrafo; 313, cuarto párrafo; 314, primer párrafo y su epígrafe; 315, primer párrafo; 320; 336 y su epígrafe; 337; 338, fracción III; 340, primer y tercer párrafos y fracciones I, II y III; 341, primer párrafo; 347, fracción I; 349; 355, último párrafo; 359; 421 y su epígrafe; 422 y su epígrafe; 423; 424; 425, primer párrafo; y el primer párrafo del ARTÍCULO TERCERO TRANSITORIO del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014; se adicionan un primer párrafo al artículo 51, recorriéndose en su orden el subsecuente; segundo y tercer párrafos al artículo 143, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 165; un tercer y cuarto párrafos al artículo 174, recorriéndose en su orden los subsecuentes; un primer párrafo al artículo 176, recorriéndose en su orden el subsecuente; se adiciona un último párrafo al artículo 187; una fracción III al artículo 192; un segundo y tercer párrafos, recorriéndose en su orden el subsecuente, así como un último párrafo al artículo 218; un tercer párrafo al artículo 222, recorriéndose en su orden el subsecuente; una fracción XI al artículo 251, recorriéndose en su orden las subsecuentes; un segundo párrafo al artículo 255; un cuarto párrafo, recorriéndose en su orden los subsecuentes, al artículo 291; un
+**segundo.-** , tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 303, recorriéndose en su orden los subsecuentes; un quinto párrafo al artículo 308; un segundo párrafo al artículo 314; una fracción II al artículo 340, recorriéndose en su orden los subsecuentes; un primer párrafo, recorriéndose en su orden el actual primer párrafo para ser segundo párrafo, un tercero, cuarto, quinto y sexto párrafos al artículo 421; las fracciones I, II, III, IV y V al primer párrafo, los incisos a) a f) al segundo párrafo, las fracciones I, II, III, IV, V, VI al tercer párrafo y un cuarto párrafo al artículo 422; un tercer, cuarto, quinto, sexto y séptimo párrafos al artículo 423; un segundo párrafo al artículo 456, recorriéndose en su orden los subsecuentes; un segundo párrafo al ARTÍCULO TERCERO TRANSITORIO; se derogan la fracción VII del segundo párrafo del artículo 256; el segundo párrafo del artículo 340; el actual tercer párrafo del artículo 373; el tercer párrafo del artículo 423 y el segundo párrafo al ARTÍCULO TERCERO TRANSITORIO del Código Nacional de Procedimientos Penales, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -3699,11 +3856,11 @@ SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Na
 Publicada en el Diario Oficial de la Federación el 25 de junio de 2018 ACCIÓN DE INCONSTITUCIONALIDAD 10/2014 Y SU ACUMULADA 11/2014 PROMOVENTES: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS E INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PONENTE: MINISTRO JAVIER LAYNEZ POTISEK SECRETARIOS:RON SNIPELISKI NISCHLI Y JOSÉ OMAR HERNÁNDEZ SALGADO COLABORÓ: ANA MARÍA CASTRO DOSAL Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veintidós de marzo de dos mil dieciocho, emite la siguiente SENTENCIA Mediante la que se resuelven las acciones de inconstitucionalidad 10/2014 promovida por la Comisión Nacional de los Derechos Humanos y su acumulada 11/2014 presentada por el Instituto Federal de Acceso a la Información y Protección de Datos, en contra de diversas disposiciones del Código Nacional de Procedimientos Penales. ………
 
 VIII. RESOLUTIVOS 375. En virtud de lo anterior, se resuelve:
-**PRIMERO.** Son procedentes y parcialmente fundadas las acciones de inconstitucionalidad 10/2014 y 11/2014, promovidas por la Comisión Nacional de los Derechos Humanos y el Instituto Federal de Acceso a la Información y Protección de Datos, respectivamente.
-**SEGUNDO.** Se desestima en la acción de inconstitucionalidad 10/2014, respecto del artículo 434, párrafo último, en la porción normativa “pero jamás para las ofrecidas por los imputados o sus defensas, aún cuando sean aceptadas o acordadas favorablemente por las autoridades judiciales”, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, en los términos precisados en el apartado VI, subapartado 9, de esta sentencia.
-**TERCERO.** Se reconoce la validez de los artículos 132, fracción VII, 147, párrafo tercero, 148, 153, párrafo primero, 155, fracción XIII, 251, fracciones III y V, 266, 268 y 434, párrafo último, –con la salvedad precisada en el punto resolutivo segundo–, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, conforme a las consideraciones plasmadas en el apartado VI, subapartados 1, 2, 6, 7 y 9 de esta sentencia.
-**CUARTO.** Se declara la invalidez de los artículos 242, 249, en la porción normativa “decretará o”, 303, párrafo primero, y 355, párrafo último, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce; las cuales surtirán sus efectos a partir de la publicación de esta sentencia en el Diario Oficial de la Federación; en términos del apartado VI, subapartados 3, 4, 5 y 8, y conforme a los efectos precisados en el diverso apartado VII de este fallo.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Son procedentes y parcialmente fundadas las acciones de inconstitucionalidad 10/2014 y 11/2014, promovidas por la Comisión Nacional de los Derechos Humanos y el Instituto Federal de Acceso a la Información y Protección de Datos, respectivamente.
+**SEGUNDO.-** Se desestima en la acción de inconstitucionalidad 10/2014, respecto del artículo 434, párrafo último, en la porción normativa “pero jamás para las ofrecidas por los imputados o sus defensas, aún cuando sean aceptadas o acordadas favorablemente por las autoridades judiciales”, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, en los términos precisados en el apartado VI, subapartado 9, de esta sentencia.
+**TERCERO.-** Se reconoce la validez de los artículos 132, fracción VII, 147, párrafo tercero, 148, 153, párrafo primero, 155, fracción XIII, 251, fracciones III y V, 266, 268 y 434, párrafo último, –con la salvedad precisada en el punto resolutivo segundo–, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce, conforme a las consideraciones plasmadas en el apartado VI, subapartados 1, 2, 6, 7 y 9 de esta sentencia.
+**CUARTO.-** Se declara la invalidez de los artículos 242, 249, en la porción normativa “decretará o”, 303, párrafo primero, y 355, párrafo último, del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el cinco de marzo de dos mil catorce; las cuales surtirán sus efectos a partir de la publicación de esta sentencia en el Diario Oficial de la Federación; en términos del apartado VI, subapartados 3, 4, 5 y 8, y conforme a los efectos precisados en el diverso apartado VII de este fallo.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……….
 Firman los señores Ministros Presidente y el Ponente con el Secretario General de Acuerdos que da fe.
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.Rúbrica.- El Ponente, Ministro Javier Laynez Potisek.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
@@ -3713,29 +3870,29 @@ Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
 
 ### Artículo Segundo
 Se reforman la fracción III, del artículo 230; los párrafos segundo y sexto, del artículo 231; el párrafo tercero, del artículo 246; el artículo 248 y su epígrafe; el actual párrafo segundo, del artículo 250; y se adicionan un párrafo segundo, al artículo 240; un párrafo segundo, al artículo 245; un párrafo segundo, recorriéndose en su orden los siguientes párrafos, del artículo 247; y un párrafo
-**segundo.** , recorriéndose el actual segundo párrafo para ser tercero, al artículo 250, del Código Nacional de Procedimientos Penales, para quedar como sigue: ……..
+**segundo.-** , recorriéndose el actual segundo párrafo para ser tercero, al artículo 250, del Código Nacional de Procedimientos Penales, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
-**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
-**Quinto.** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+**Cuarto.-** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+**Quinto.-** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
 El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
 Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo
 
 ## Transitorio
 
 del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
-**Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
-**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+**Sexto.-** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+**Séptimo.-** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
 Artículo reformado DOF 22-01-2020
-**Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-**Noveno.** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
-**Décimo.** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
-**Décimo Primero.** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
-**Décimo Segundo.** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+**Octavo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Noveno.-** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+**Décimo.-** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+**Décimo Primero.-** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+**Décimo Segundo.-** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
 Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
@@ -3745,8 +3902,8 @@ Se reforman el párrafo segundo del artículo 187; y el párrafo tercero del art
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
-**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+**Primero.-** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+**Segundo.-** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
 Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip.
 Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.
@@ -3757,8 +3914,8 @@ Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide l
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
 Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen.
 Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
@@ -3766,26 +3923,26 @@ Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
 
 ### Artículo Primero
 Se reforman el artículo 167, párrafo tercero, los párrafos cuarto y quinto, que se fusionan para quedar como párrafo cuarto, recorriéndose en su orden los subsecuentes, la fracción XI del párrafo sexto que pasa a ser quinto, así como el párrafo octavo que pasa a ser séptimo, y se adicionan las fracciones XII, XIII, XIV, XV, XVI y XVII al párrafo sexto que pasa a ser quinto, así como los párrafos
-**octavo.** y noveno, del Código Nacional de Procedimientos Penales, para quedar como sigue: .........
+**octavo.-** y noveno, del Código Nacional de Procedimientos Penales, para quedar como sigue: .........
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Tercero.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+**Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Quinto.-** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 25 de noviembre de 2022 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/450/2022 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veinticuatro de noviembre de dos mil veintidós, resolvió la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, en los términos siguientes: “PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
-**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
-**QUINTO.** Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+**SEGUNDO.-** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
+**TERCERO.-** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+**QUINTO.-** Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 24 de noviembre de 2022 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
@@ -3798,8 +3955,8 @@ Se reforman la fracción II del artículo 109; las fracciones V y XXIII del art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman los artículos 109 y 113 del Código Nacional de Procedimientos Penales.
@@ -3821,7 +3978,7 @@ Se reforman el segundo párrafo del artículo 258 y las fracciones IV, VII y XI 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de diciembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.
 Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 24 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
@@ -3844,13 +4001,13 @@ Publicada en el Diario Oficial de la Federación el 20 de agosto de 2025 Al marg
 SENTENCIA ……..
 
 VIII. DECISIÓN. 594. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.
-**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo
-**primero.** , fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
-**QUINTO.** Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
+**SEGUNDO.-** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.
+**TERCERO.-** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo
+**primero.-** , fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+**QUINTO.-** Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General de la República, a las Fiscalías Generales de las entidades federativas y a los Tribunales Superiores de Justicia de las entidades federativas del País y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: …….
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
@@ -3867,14 +4024,14 @@ Se reforma el quinto párrafo del artículo 138 del Código Nacional de Procedim
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025
@@ -3884,16 +4041,16 @@ Se reforman los artículos 167, párrafos tercero y cuarto, y 277, párrafo cuar
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Tercero.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.-** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
-**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+**Quinto.-** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
-**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
-**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Sexto.-** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+**Séptimo.-** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.-** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+**Noveno.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Décimo.-** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

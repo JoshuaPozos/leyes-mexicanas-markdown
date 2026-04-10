@@ -25,9 +25,11 @@ e) No ser objeto de ninguna inquisición judicial o administrativa por la manife
 
 f) Asociarse o reunirse pacíficamente con fines religiosos.
 ARTICULO 3o.- El Estado mexicano es laico. El mismo ejercerá su autoridad sobre toda manifestación religiosa, individual o colectiva, sólo en lo relativo a la observancia de la Constitución, Tratados Internacionales ratificados por México y demás legislación aplicable y la tutela de derechos de terceros.
-Párrafo reformado DOF 19-08-2010 El Estado no podrá establecer ningún tipo de preferencia o privilegio en favor de religión alguna.
+Párrafo reformado DOF 19-08-2010
+El Estado no podrá establecer ningún tipo de preferencia o privilegio en favor de religión alguna.
 Tampoco a favor o en contra de ninguna iglesia ni agrupación religiosa.
-Párrafo adicionado DOF 19-08-2010 Los documentos oficiales de identificación no contendrán mención sobre las creencias religiosas del individuo.
+Párrafo adicionado DOF 19-08-2010
+Los documentos oficiales de identificación no contendrán mención sobre las creencias religiosas del individuo.
 ARTICULO 4o.- Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las sanciones que con tal motivo establece la ley.
 ARTICULO 5o.- Los actos jurídicos que contravengan las disposiciones de esta ley serán nulos de pleno derecho.
@@ -50,13 +52,16 @@ Un extracto de la solicitud del registro al que se refiere este precepto deberá
 ARTICULO 8o.- Las asociaciones religiosas deberán:
 
 I. Sujetarse siempre a la Constitución y a las leyes que de ella emanan, y respetar las instituciones del país;
-Fracción reformada DOF 24-04-2006 II.- Abstenerse de perseguir fines de lucro o preponderantemente económicos;
+Fracción reformada DOF 24-04-2006
+II.- Abstenerse de perseguir fines de lucro o preponderantemente económicos;
 Fracción reformada DOF 24-04-2006, 19-08-2010
 
-III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país, y Fracción adicionada DOF 24-04-2006. Reformada DOF 19-08-2010
+III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país, y
+Fracción adicionada DOF 24-04-2006. Reformada DOF 19-08-2010
 
 IV. Propiciar y asegurar el respeto integral de los derechos humanos de las personas.
-Fracción adicionada DOF 19-08-2010 ARTICULO 9o.- Las asociaciones religiosas tendrán derecho en los términos de esta ley y su reglamento, a:
+Fracción adicionada DOF 19-08-2010
+ARTICULO 9o.- Las asociaciones religiosas tendrán derecho en los términos de esta ley y su reglamento, a:
 
 I. Identificarse mediante una denominación exclusiva;
 
@@ -78,8 +83,10 @@ Los representantes de las asociaciones religiosas deberán ser mexicanos y mayor
 ARTICULO 12.- Para los efectos de esta Ley, se consideran ministros de culto a todas aquellas personas mayores de edad a quienes las asociaciones religiosas a que pertenezcan confieran ese carácter. Las asociaciones religiosas deberán notificar a la Secretaría de Gobernación su decisión al respecto. En caso de que las asociaciones religiosas omitan esa notificación, o en tratándose de iglesias o agrupaciones religiosas, se tendrán como ministros de culto a quienes ejerzan en ellas como principal ocupación, funciones de dirección, representación u organización.
 ARTICULO 12 Bis.- Los ministros de culto, los asociados y los representantes de las asociaciones religiosas, incluyendo al personal que labore, apoye o auxilie, de manera remunerada o voluntaria, en las actividades religiosas de dichas asociaciones, deberán informar en forma inmediata a la autoridad correspondiente la probable comisión de delitos, cometidos en ejercicio de su culto o en sus instalaciones.
 Cuando se cometa un delito en contra de niñas, niños o adolescentes, las personas a que se refiere el párrafo anterior deberán informar esos mismos hechos en forma inmediata a los tutores o a quienes ejerzan la patria potestad de aquellos.
-Artículo adicionado DOF 19-08-2010 ARTICULO 13.- Los mexicanos podrán ejercer el ministerio de cualquier culto. Igualmente podrán hacerlo los extranjeros siempre que comprueben su situación migratoria regular en el país, en los términos de la Ley de Migración.
-Artículo reformado DOF 25-05-2011 ARTICULO 14.- Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto, tienen derecho al voto en los términos de la legislación electoral aplicable. No podrán ser votados para puestos de elección popular, ni podrán desempeñar cargos públicos superiores, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años en el primero de los casos, y tres en el segundo, antes del día de la elección de que se trate o de la aceptación del cargo respectivo. Por lo que toca a los demás cargos, bastarán seis meses.
+Artículo adicionado DOF 19-08-2010
+ARTICULO 13.- Los mexicanos podrán ejercer el ministerio de cualquier culto. Igualmente podrán hacerlo los extranjeros siempre que comprueben su situación migratoria regular en el país, en los términos de la Ley de Migración.
+Artículo reformado DOF 25-05-2011
+ARTICULO 14.- Los ciudadanos mexicanos que ejerzan el ministerio de cualquier culto, tienen derecho al voto en los términos de la legislación electoral aplicable. No podrán ser votados para puestos de elección popular, ni podrán desempeñar cargos públicos superiores, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años en el primero de los casos, y tres en el segundo, antes del día de la elección de que se trate o de la aceptación del cargo respectivo. Por lo que toca a los demás cargos, bastarán seis meses.
 Tampoco podrán los ministros de culto asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna.
 La separación de los ministros de culto deberá comunicarse por la asociación religiosa o por los ministros separados, a la Secretaría de Gobernación dentro de los treinta días siguientes al de su fecha.
 En caso de renuncia el ministro podrá acreditarla, demostrando que el documento en que conste fue recibido por un representante legal de la asociación religiosa respectiva.
@@ -104,7 +111,8 @@ ARTICULO 18.- Las autoridades y los funcionarios dotados de fe pública que inte
 Los funcionarios dotados de fe pública que intervengan en los actos jurídicos antes mencionados, deberán dar aviso al Registro Público de la Propiedad que corresponda, que el inmueble de que se trata habrá de ser destinado a los fines de la asociación, para que aquél realice la anotación correspondiente.
 ARTICULO 19.- A las personas físicas y morales así como a los bienes que esta ley regula, les serán aplicables las disposiciones fiscales en los términos de las leyes de la materia.
 ARTICULO 20.- Las asociaciones religiosas nombrarán y registrarán ante las Secretarías de Gobernación y de Cultura, a los representantes responsables de los templos y de los bienes que sean monumentos arqueológicos, artísticos o históricos propiedad de la nación. Las mismas estarán obligadas a preservar en su integridad dichos bienes y a cuidar de su salvaguarda y restauración, en los términos previstos por las leyes.
-Párrafo reformado DOF 17-12-2015 Los bienes propiedad de la nación que posean las asociaciones religiosas, así como el uso al que los destinen, estarán sujetos a esta ley, a la Ley General de Bienes Nacionales y en su caso, a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como a las demás leyes y reglamentación aplicables.
+Párrafo reformado DOF 17-12-2015
+Los bienes propiedad de la nación que posean las asociaciones religiosas, así como el uso al que los destinen, estarán sujetos a esta ley, a la Ley General de Bienes Nacionales y en su caso, a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como a las demás leyes y reglamentación aplicables.
 TITULO TERCERO DE LOS ACTOS RELIGIOSOS DE CULTO PUBLICO ARTICULO 21.- Los actos religiosos de culto público se celebrarán ordinariamente en los templos.
 Solamente podrán realizarse extraordinariamente fuera de ellos, en los términos de lo dispuesto en esta ley y en los demás ordenamientos aplicables.
 Las asociaciones religiosas únicamente podrán, de manera extraordinaria, transmitir o difundir actos de culto religioso a través de medios masivos de comunicación no impresos, previa autorización de la Secretaría de Gobernación. En ningún caso, los actos religiosos podrán difundirse en los tiempos de radio y televisión destinados al Estado.
@@ -160,11 +168,15 @@ IX. Convertir un acto religioso en reunión de carácter político;
 
 X. Oponerse a las Leyes del País o a sus instituciones en reuniones públicas;
 XI.- Realizar actos o permitir aquellos que atenten contra la integridad, salvaguarda y preservación de los bienes que componen el patrimonio cultural del país, y que están en uso de las iglesias, agrupaciones o asociaciones religiosas, así como omitir las acciones que sean necesarias para lograr que dichos bienes sean preservados en su integridad y valor;
-Fracción reformada DOF 19-08-2010 XII.- Omitir las acciones contempladas en el artículo 12 Bis de la presente ley;
-Fracción adicionada DOF 19-08-2010 XIII.- La comisión de delitos cometidos en ejercicio de su culto o en sus instalaciones, y Fracción adicionada DOF 19-08-2010
+Fracción reformada DOF 19-08-2010
+XII.- Omitir las acciones contempladas en el artículo 12 Bis de la presente ley;
+Fracción adicionada DOF 19-08-2010
+XIII.- La comisión de delitos cometidos en ejercicio de su culto o en sus instalaciones, y
+Fracción adicionada DOF 19-08-2010
 
 XIV. Las demás que se establecen en la presente ley y otros ordenamientos aplicables.
-Fracción recorrida DOF 19-08-2010 ARTICULO 30.- La aplicación de las sanciones previstas en esta ley, se sujetará al siguiente procedimiento:
+Fracción recorrida DOF 19-08-2010
+ARTICULO 30.- La aplicación de las sanciones previstas en esta ley, se sujetará al siguiente procedimiento:
 
 I. El órgano sancionador será una comisión integrada por funcionarios de la Secretaría de Gobernación conforme lo señale el Reglamento y tomará sus resoluciones por mayoría de votos;
 
@@ -179,10 +191,12 @@ II. La posible alteración de la tranquilidad social y el orden público que sus
 III.- Situación económica y grado de instrucción del infractor;
 Fracción reformada DOF 19-08-2010
 
-IV. La reincidencia, si la hubiere, y Fracción reformada DOF 19-08-2010
+IV. La reincidencia, si la hubiere, y
+Fracción reformada DOF 19-08-2010
 
 V. El daño causado.
-Fracción adicionada DOF 19-08-2010 ARTICULO 32.- A los infractores de la presente ley se les podrá imponer una o varias de las siguientes sanciones, dependiendo de la valoración que realice la autoridad de los aspectos contenidos en el artículo precedente:
+Fracción adicionada DOF 19-08-2010
+ARTICULO 32.- A los infractores de la presente ley se les podrá imponer una o varias de las siguientes sanciones, dependiendo de la valoración que realice la autoridad de los aspectos contenidos en el artículo precedente:
 
 I. Apercibimiento;
 
@@ -245,11 +259,11 @@ Se reforma el artículo 13 de la Ley de Asociaciones Religiosas y Culto Público
 ## TRANSITORIOS
 
 DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.-** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
@@ -259,19 +273,19 @@ Se REFORMA el artículo 20, párrafo primero de la Ley de Asociaciones Religiosa
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -282,12 +296,12 @@ Se reforma el artículo 36 de la Ley de Asociaciones Religiosas y Culto Público
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

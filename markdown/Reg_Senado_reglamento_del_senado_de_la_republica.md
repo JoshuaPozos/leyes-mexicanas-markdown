@@ -11,13 +11,15 @@ SE EXPIDE EL REGLAMENTO DEL SENADO DE LA REPUBLICA TITULO PRIMERO CAPITULO UNICO
 
 ### Artículo 1
 1. Este Reglamento tiene por objeto regular: el estatuto de los senadores y las senadoras; el funcionamiento del Senado de la República y sus órganos; los procedimientos legislativos y especiales; así como los servicios parlamentarios, administrativos y técnicos. 2. Lo no previsto en el presente Reglamento se ajusta a las disposiciones complementarias aprobadas por el Pleno del Senado, a propuesta de los órganos competentes. 3. Los documentos y comunicaciones internas del Pleno, los órganos de gobierno, Comisiones, Comités, unidades administrativas y técnicas serán preferentemente de manera digital, con firmas digitalizadas, y con los dispositivos electrónicos que mediante acuerdos determine la Mesa, para garantizar la certeza y autenticidad de los mismos. Únicamente se imprimirán aquellas comunicaciones, documentos o acuerdos que algún ordenamiento ajeno a este reglamento así lo exija, en cuyo caso se imprimirán en el mismo número necesario de ejemplares.
-Numeral adicionado DOF 11-11-2022 4. La Mesa podrá proponer al Pleno, acuerdos que establezcan medios y mecanismos electrónicos para remitir documentos, acuerdos, resoluciones o cualquier comunicación oficial relacionada con el ejercicio de sus funciones, mediante el uso de tecnologías de la información y plataformas digitales, que incluyan dispositivos que garanticen certeza y seguridad de los mismos, con validez jurídica para cualquier autoridad, entidad, órgano de los poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, de la Federación, de las entidades federativas, municipios y alcaldías de la Ciudad de México, así como con particulares.
+Numeral adicionado DOF 11-11-2022
+4. La Mesa podrá proponer al Pleno, acuerdos que establezcan medios y mecanismos electrónicos para remitir documentos, acuerdos, resoluciones o cualquier comunicación oficial relacionada con el ejercicio de sus funciones, mediante el uso de tecnologías de la información y plataformas digitales, que incluyan dispositivos que garanticen certeza y seguridad de los mismos, con validez jurídica para cualquier autoridad, entidad, órgano de los poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, de la Federación, de las entidades federativas, municipios y alcaldías de la Ciudad de México, así como con particulares.
 Numeral adicionado DOF 11-11-2022
 
 ### Artículo 2
 1. Para los efectos del presente Reglamento se entiende por:
 Comisiones unidas: es la modalidad de trabajo que se puede establecer para que dos o más comisiones participen en el análisis y dictamen de los asuntos que se presenten en el Senado de la República. Las comisiones que trabajen bajo esta modalidad podrán acordar, a través de sus respectivas Juntas Directivas, el método a aplicar para cumplir con el encargo que se les haga, sin que deba entenderse como una forma que obligue a coincidir de manera simultánea en un mismo lugar para realizar su trabajo, pudiendo concurrir de manera conjunta o en actos separados.
-Párrafo adicionado DOF 05-12-2023 Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+Párrafo adicionado DOF 05-12-2023
+Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 Gaceta: La Gaceta del Senado;
 Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el tercer párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
 Junta: La Junta de Coordinación Política;
@@ -106,10 +108,12 @@ VIII. Presentar en tiempo y forma las declaraciones e informes que establecen la
 IX. Abstenerse de revelar cualquier información reservada o confidencial a la que tengan acceso en el desempeño de sus funciones, conforme a lo dispuesto por las normas en materias de transparencia y acceso a la información pública así como de seguridad nacional. El o los senadores que incumplan con esta obligación serán responsables en términos de lo dispuesto por el artículo 21 de este Reglamento;
 Fracción reformada DOF 18-12-2014
 
-X. Informar a la ciudadanía al término de cada año de la legislatura, sobre las actividades realizadas durante el mismo. Además, el informe también podrá contener una relación del trabajo legislativo realizado para dar cumplimiento a los compromisos electorales, ya sean del legislador en lo individual o del Grupo Parlamentario, y Fracción adicionada DOF 18-12-2014. Reformada DOF 22-09-2023
+X. Informar a la ciudadanía al término de cada año de la legislatura, sobre las actividades realizadas durante el mismo. Además, el informe también podrá contener una relación del trabajo legislativo realizado para dar cumplimiento a los compromisos electorales, ya sean del legislador en lo individual o del Grupo Parlamentario, y
+Fracción adicionada DOF 18-12-2014. Reformada DOF 22-09-2023
 
 XI. Las demás que establecen la Constitución y las leyes.
-Fracción recorrida DOF 18-12-2014 CAPITULO TERCERO DE LAS LICENCIAS, SUPLENCIAS Y VACANTES SECCION PRIMERA DE LAS LICENCIAS
+Fracción recorrida DOF 18-12-2014
+CAPITULO TERCERO DE LAS LICENCIAS, SUPLENCIAS Y VACANTES SECCION PRIMERA DE LAS LICENCIAS
 
 ### Artículo 11
 1. La licencia es la anuencia que otorga el Senado, o en su caso la Comisión Permanente, a la decisión de los senadores de separarse temporalmente del ejercicio de su cargo.
@@ -145,7 +149,8 @@ III. Solicita y obtiene licencia;
 
 IV. Deja de asistir a diez sesiones consecutivas del Pleno sin licencia o causa justificada;
 
-V. Desempeña comisión o empleo de la Federación, de los Estados, de los Municipios, de la Ciudad de México, de las Alcaldías, o de cualquier otro ente público, por los cuales se disfruta remuneración, sin la licencia correspondiente; y Fracción reformada DOF 14-03-2017
+V. Desempeña comisión o empleo de la Federación, de los Estados, de los Municipios, de la Ciudad de México, de las Alcaldías, o de cualquier otro ente público, por los cuales se disfruta remuneración, sin la licencia correspondiente; y
+Fracción reformada DOF 14-03-2017
 
 VI. Opta por el ejercicio de otro cargo de elección popular en los términos del artículo 125 de la Constitución.
 SECCION TERCERA DE LAS VACANTES
@@ -174,8 +179,10 @@ CAPITULO CUARTO DE LOS IMPEDIMENTOS Y LAS INCOMPATIBILIDADES
 
 ### Artículo 19
 1. Conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas, las senadoras y los senadores se excusan de intervenir en asuntos en los que tienen interés directo.
-Numeral reformado DOF 25-10-2022 2. De igual forma, las senadoras y los senadores están obligados a cumplir con lo dispuesto en la Ley citada, en lo relativo a conflictos de interés.
-Numeral reformado DOF 25-10-2022 3. En caso procedente, los integrantes de la Mesa realizan las acciones que corresponden conforme a la legislación aplicable relativas a las conductas referidas en este artículo.
+Numeral reformado DOF 25-10-2022
+2. De igual forma, las senadoras y los senadores están obligados a cumplir con lo dispuesto en la Ley citada, en lo relativo a conflictos de interés.
+Numeral reformado DOF 25-10-2022
+3. En caso procedente, los integrantes de la Mesa realizan las acciones que corresponden conforme a la legislación aplicable relativas a las conductas referidas en este artículo.
 
 ### Artículo 20
 1. De acuerdo con lo establecido por el artículo 125 de la Constitución, el Senador que opta por otro cargo de elección popular lo hace del conocimiento del Presidente de la Mesa, mediante escrito con firma autógrafa, para que lo informe al Pleno y se convoque a su respectivo suplente.
@@ -313,7 +320,8 @@ III. Levantar las actas de las reuniones de la Mesa, con el auxilio del Secretar
 IV. Vigilar la publicación impresa y digital de la Gaceta y del Diario de los Debates;
 Fracción reformada DOF 11-11-2022
 
-V. Integrar y digitalizar los libros que contengan los registros cronológicos y textuales de las leyes y decretos que expida el Congreso General y de los decretos que emita la propia Cámara; y Fracción reformada DOF 11-11-2022
+V. Integrar y digitalizar los libros que contengan los registros cronológicos y textuales de las leyes y decretos que expida el Congreso General y de los decretos que emita la propia Cámara; y
+Fracción reformada DOF 11-11-2022
 
 VI. Las demás que les asigna este Reglamento.
 SECCION QUINTA DE LA REMOCION Y SUSTITUCION DE SUS INTEGRANTES
@@ -352,7 +360,8 @@ TITULO QUINTO DEL PLENO CAPITULO PRIMERO DEL SALON DE SESIONES
 
 ### Artículo 46
 1. El Senado tiene su sede en la Ciudad de México, misma que puede trasladarse a otro lugar conforme a lo dispuesto por los artículos 44 y 68 de la Constitución.
-Numeral reformado DOF 14-03-2017 2. El Recinto se constituye con los inmuebles en los que funciona el Senado e incluye al salón de sesiones, que es el lugar destinado al trabajo del Pleno. 3. El Senado puede cambiar temporalmente el lugar en donde sesiona el Pleno, cuando así se requiera por causa de fuerza mayor o caso fortuito. El Presidente de la Mesa convoca al Pleno a sesión en la que se decide dicho cambio con el voto de la mayoría de los senadores presentes. 4. La Mesa, previa consulta con la Junta de Coordinación Política, podrá acordar que una sesión del Pleno se realice en sitio diverso al del salón de sesiones, pero dentro del Recinto del Senado, cuando así resulte necesario.
+Numeral reformado DOF 14-03-2017
+2. El Recinto se constituye con los inmuebles en los que funciona el Senado e incluye al salón de sesiones, que es el lugar destinado al trabajo del Pleno. 3. El Senado puede cambiar temporalmente el lugar en donde sesiona el Pleno, cuando así se requiera por causa de fuerza mayor o caso fortuito. El Presidente de la Mesa convoca al Pleno a sesión en la que se decide dicho cambio con el voto de la mayoría de los senadores presentes. 4. La Mesa, previa consulta con la Junta de Coordinación Política, podrá acordar que una sesión del Pleno se realice en sitio diverso al del salón de sesiones, pero dentro del Recinto del Senado, cuando así resulte necesario.
 
 ### Artículo 47
 1. En el salón de sesiones hay un lugar reservado, al frente y a la vista de todos, para la Mesa Directiva y la tribuna de los oradores. 2. Sólo las personas autorizadas por la Mesa pueden tener acceso al salón de sesiones. La acreditaciones de acceso para el salón de sesiones o áreas anexas. 3. Cuando asisten a las sesiones del Senado invitados especiales, diputados federales o servidores públicos de los poderes Ejecutivo o Judicial, ocupan el lugar que les asigna la Mesa. 4. En el salón de sesiones hay un espacio destinado al público que concurre a presenciar el trabajo del Pleno.
@@ -384,7 +393,8 @@ I. Las acusaciones que se hagan contra los servidores públicos considerados en 
 
 II. Los asuntos que por su gravedad o trascendencia plantean al Pleno conjuntamente la Mesa y los grupos parlamentarios en materia de faltas a la disciplina parlamentaria por parte de los senadores;
 
-III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores, el Jefe de Gobierno de la Ciudad de México y las legislaturas de las entidades federativas, y Fracción reformada DOF 14-03-2017
+III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores, el Jefe de Gobierno de la Ciudad de México y las legislaturas de las entidades federativas, y
+Fracción reformada DOF 14-03-2017
 
 IV. Aquellos otros asuntos que a juicio de la Mesa deben tener el carácter de reservados conforme a las normas legales aplicables.
 
@@ -401,7 +411,8 @@ II. Tributar homenaje a personajes ilustres;
 III. Recibir a invitados distinguidos, nacionales o extranjeros;
 Fracción reformada DOF 05-03-2013
 
-IV. Imponer la Medalla de Honor Belisario Domínguez, o Fracción reformada DOF 05-03-2013
+IV. Imponer la Medalla de Honor Belisario Domínguez, o
+Fracción reformada DOF 05-03-2013
 
 V. Otorgar el Reconocimiento “Elvia Carrillo Puerto”.
 Fracción adicionada DOF 05-03-2013
@@ -413,7 +424,8 @@ VII. Otorgar el Premio al Mérito Literario "Rosario Castellanos".
 Fracción adicionada DOF 30-03-2021
 
 VIII. Imponer la Medalla de Honor Armada de México.
-Fracción adicionada DOF 22-09-2023 2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
+Fracción adicionada DOF 22-09-2023
+2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
 
 ### Artículo 56
 Bis La ciudadana acreedora al reconocimiento “Elvia Carrillo Puerto” será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes, de la Cámara de Senadores.
@@ -479,7 +491,8 @@ III. Los nombres de quienes previamente justificaron su inasistencia u obtuviero
 
 ### Artículo 65
 1. El titular de la Secretaría a cargo firma el registro referido en el artículo anterior. Dicho registro se incorpora al acta de la sesión, con la mención de que los senadores que no asistieron cuentan, en su caso, con el plazo establecido en el artículo 62 de este Reglamento para remitir su solicitud de justificación. 2. La Secretaría envía digitalmente al Presidente copia del registro para su remisión a los coordinadores de los grupos parlamentarios.
-Fracción reformada DOF 11-11-2022 3. El registro se anexa al Diario de los Debates y se publica en la Gaceta y en la página de Internet del Senado.
+Fracción reformada DOF 11-11-2022
+3. El registro se anexa al Diario de los Debates y se publica en la Gaceta y en la página de Internet del Senado.
 
 ### Artículo 66
 1. Transcurrido el plazo previsto para la remisión de la justificación de inasistencia, la Secretaría emite un reporte actualizado con los nombres de quienes realizaron el trámite y de los que no lo hicieron. 2. La Secretaría entrega el reporte a la Mesa, para que el Presidente ordene su publicación en la Gaceta y en la página de Internet del Senado.
@@ -560,7 +573,8 @@ XVI. Efemérides. 2. En el Orden del Día se distinguen los asuntos que deben se
 1. La solicitud para incluir un asunto en el Orden del Día se remite por escrito al Presidente, a través de los medios electrónicos y digitales acordados por la Mesa, con la indicación del grupo parlamentario, senador o senadores que lo promueven, observando los siguientes requisitos:
 Párrafo reformado DOF 11-11-2022
 
-I. Se presenta por escrito en versión digital, a más tardar a las 18:00 horas del día anterior a la sesión, y Fracción reformada DOF 06-04-2018, 11-11-2022
+I. Se presenta por escrito en versión digital, a más tardar a las 18:00 horas del día anterior a la sesión, y
+Fracción reformada DOF 06-04-2018, 11-11-2022
 
 II. Se acompaña con el correspondiente archivo electrónico y una versión impresa firmada por el autor o autores. 2. El Presidente, a más tardar a las 21:00 horas del día previo a la sesión, envía digitalmente por los medios electrónicos el Orden del Día a los demás integrantes de la Mesa y a los coordinadores de los grupos parlamentarios.
 Todos los documentos referidos en este artículo deberán contener firma digitalizada autorizada por la Mesa.
@@ -824,8 +838,10 @@ CAPITULO SEGUNDO DE SU INTEGRACION E INSTALACION
 
 ### Artículo 123
 1. Las comisiones ordinarias estarán conformadas por no menos de tres ni más de quince integrantes.
-Numeral reformado DOF 29-03-2019 2. Para efectos del número de comisiones ordinarias en las que participa cada senador, no se considera la pertenencia a comisiones especiales, bicamarales y comités. 3. La Junta, en la medida de lo posible, da preferencia en la selección de comisiones a los grupos parlamentarios cuyo número de integrantes les impide participar en todas las de carácter ordinario. 4. Los senadores que no integran grupo parlamentario son considerados, cuando sea factible, para formar parte en las comisiones ordinarias de su interés. Para ello lo solicitan oportunamente por escrito a la Junta. 5. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 del artículo 104 de la Ley y del numeral 3 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta y sea aprobado por el Pleno.
-Numeral adicionado DOF 29-03-2019 6. Ningún senador pertenecerá a más de cinco comisiones ordinarias, salvo Acuerdo de la Junta.
+Numeral reformado DOF 29-03-2019
+2. Para efectos del número de comisiones ordinarias en las que participa cada senador, no se considera la pertenencia a comisiones especiales, bicamarales y comités. 3. La Junta, en la medida de lo posible, da preferencia en la selección de comisiones a los grupos parlamentarios cuyo número de integrantes les impide participar en todas las de carácter ordinario. 4. Los senadores que no integran grupo parlamentario son considerados, cuando sea factible, para formar parte en las comisiones ordinarias de su interés. Para ello lo solicitan oportunamente por escrito a la Junta. 5. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 del artículo 104 de la Ley y del numeral 3 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta y sea aprobado por el Pleno.
+Numeral adicionado DOF 29-03-2019
+6. Ningún senador pertenecerá a más de cinco comisiones ordinarias, salvo Acuerdo de la Junta.
 Numeral adicionado DOF 29-03-2019
 
 ### Artículo 124
@@ -978,7 +994,8 @@ CAPITULO QUINTO DE SUS REUNIONES
 
 ### Artículo 139
 1. Las reuniones de las comisiones son ordinarias y extraordinarias. Para las primeras se emite convocatoria con una anticipación mínima de treinta y seis horas, con la publicación en la Gaceta y el envío directo a cada integrante.
-Numeral reformado DOF 23-05-2018, 06-12-2024 2. Durante los recesos del Senado, las reuniones ordinarias se convocan cuando menos con cinco días de anticipación. 3. Las reuniones extraordinarias se convocan con anticipación no menor a doce horas, previo acuerdo de la Junta Directiva, a través de comunicación directa a los integrantes de la comisión.
+Numeral reformado DOF 23-05-2018, 06-12-2024
+2. Durante los recesos del Senado, las reuniones ordinarias se convocan cuando menos con cinco días de anticipación. 3. Las reuniones extraordinarias se convocan con anticipación no menor a doce horas, previo acuerdo de la Junta Directiva, a través de comunicación directa a los integrantes de la comisión.
 De ser posible, la convocatoria respectiva se publica en la Gaceta.
 Numeral reformado DOF 06-12-2024
 
@@ -1016,7 +1033,8 @@ CAPITULO SEXTO DE LA ASISTENCIA Y EL QUORUM
 
 ### Artículo 147
 1. Para que una reunión de comisión sea válida se requiere la asistencia de la mayoría absoluta de sus integrantes. 2. En los casos de reuniones de comisiones unidas, el quórum se forma con la asistencia de la mayoría absoluta de los integrantes de cada una de ellas. La reunión puede celebrarse en un acto conjunto con la concurrencia de las comisiones en la fecha, hora y sitio al que se les convoque o bien a través de actos separados, según el número de comisiones a las que se haya turnado el asunto.
-Numeral reformado DOF 05-12-2023 3. Cuando no se forma quórum después de dos convocatorias sucesivas a reunión, sus presidentes lo hacen del conocimiento de la Junta para que coadyuve a la solución correspondiente.
+Numeral reformado DOF 05-12-2023
+3. Cuando no se forma quórum después de dos convocatorias sucesivas a reunión, sus presidentes lo hacen del conocimiento de la Junta para que coadyuve a la solución correspondiente.
 CAPITULO SEPTIMO DEL ORDEN DE LOS ASUNTOS, DE LAS DISCUSIONES Y LAS VOTACIONES
 
 ### Artículo 148
@@ -1053,14 +1071,19 @@ V. Concluida la discusión de un proyecto de dictamen o resolución, se procede 
 
 ### Artículo 150
 1. Las decisiones en las comisiones se adoptan con el voto de la mayoría absoluta de sus integrantes presentes. 2. Las votaciones sobre dictámenes o resoluciones requieren la mayoría absoluta de las y los integrantes presentes de la respectiva comisión.
-Numeral reformado DOF 05-12-2023 3. Los dictámenes y resoluciones que se producen bajo la modalidad de trabajo en comisiones unidas son aprobados por la mayoría absoluta de las y los integrantes presentes de cada una de las comisiones que participan.
-Numeral reformado DOF 05-12-2023 4. Las votaciones nominales se realizan a través del sistema electrónico.
+Numeral reformado DOF 05-12-2023
+3. Los dictámenes y resoluciones que se producen bajo la modalidad de trabajo en comisiones unidas son aprobados por la mayoría absoluta de las y los integrantes presentes de cada una de las comisiones que participan.
+Numeral reformado DOF 05-12-2023
+4. Las votaciones nominales se realizan a través del sistema electrónico.
 
 ### Artículo 151
 1. Cuando en una votación de comisión sobre un asunto se produce empate, se delibera y vota de nuevo en la misma reunión. 2. Si resulta empate por segunda vez, se trata el asunto en una reunión posterior, previo acuerdo de la comisión. 3. Si el empate persiste en la segunda reunión de la comisión, se informa de ello a la Mesa para justificar el retraso en la presentación del dictamen o para los efectos conducentes. 4. Las Presidencias de las Comisiones Unidas deberán, atendiendo a lo establecido en el numeral 3 del artículo 178, elaborar el proyecto de dictamen, considerando las opiniones, argumentos o estudios que presenten los integrantes de las mismas.
-Numeral adicionado DOF 23-05-2018 5. El dictamen de Comisiones Unidas deberá estar firmado por todos los senadores integrantes presentes. Los que lo hayan rechazado podrán adherir al dictamen sus votos particulares.
-Numeral adicionado DOF 23-05-2018 6. El dictamen que aprueben las Comisiones Unidas deberá ser uno sólo, aprobado por el voto mayoritario de los senadores presentes de cada una de las comisiones.
-Numeral adicionado DOF 23-05-2018 7. En caso de empate en Comisiones Unidas, se someterá el dictamen a una segunda ronda de votación; si después de esta persiste el empate, se enviará a la Mesa Directiva a efecto de que someta el dictamen al pleno.
+Numeral adicionado DOF 23-05-2018
+5. El dictamen de Comisiones Unidas deberá estar firmado por todos los senadores integrantes presentes. Los que lo hayan rechazado podrán adherir al dictamen sus votos particulares.
+Numeral adicionado DOF 23-05-2018
+6. El dictamen que aprueben las Comisiones Unidas deberá ser uno sólo, aprobado por el voto mayoritario de los senadores presentes de cada una de las comisiones.
+Numeral adicionado DOF 23-05-2018
+7. En caso de empate en Comisiones Unidas, se someterá el dictamen a una segunda ronda de votación; si después de esta persiste el empate, se enviará a la Mesa Directiva a efecto de que someta el dictamen al pleno.
 Numeral adicionado DOF 23-05-2018
 
 ### Artículo 152
@@ -1139,7 +1162,8 @@ II. Los proyectos que recibe el Senado en su condición de Cámara revisora por 
 III. Las iniciativas del Presidente de la República para obtener permiso a fin de ausentarse del territorio nacional por más de siete días; y
 
 IV. (Se deroga).
-Fracción derogada DOF 09-10-2017 2. Cuando se presenta al Senado alguna iniciativa que conforme al artículo 72 de la Constitución debe discutirse primero en la Cámara de Diputados, el Presidente la remite a la colegisladora y da cuenta de ello al Pleno y a su autor.
+Fracción derogada DOF 09-10-2017
+2. Cuando se presenta al Senado alguna iniciativa que conforme al artículo 72 de la Constitución debe discutirse primero en la Cámara de Diputados, el Presidente la remite a la colegisladora y da cuenta de ello al Pleno y a su autor.
 CAPITULO SEGUNDO DE LAS INICIATIVAS, PROYECTOS Y SOLICITUDES
 
 ### Artículo 164
@@ -1152,7 +1176,8 @@ CAPITULO SEGUNDO DE LAS INICIATIVAS, PROYECTOS Y SOLICITUDES
 1. Un proyecto de ley o decreto es la resolución que la Cámara de Diputados remite al Senado mediante una minuta que contiene el expediente formado con todos los elementos relativos al asunto de que se trata. 2. Tienen también el carácter de proyecto de ley o decreto las propuestas que presenta la Comisión de Reglamentos y Prácticas Parlamentarias, en términos del artículo 102 de la Ley.
 
 ### Artículo 167
-. (Se deroga) Artículo derogado DOF 09-10-2017
+. (Se deroga)
+Artículo derogado DOF 09-10-2017
 
 ### Artículo 168
 1. Cuando un proyecto de ley o decreto aprobado por el Senado es devuelto con observaciones por la Cámara de Diputados o por el titular del Poder Ejecutivo Federal, se siguen los trámites previstos en el artículo 72 de la Constitución y en este Reglamento.
@@ -1176,8 +1201,10 @@ VI. Lugar y fecha de formulación; y
 
 VII. Nombre y firma del o los autores y, en su caso, el grupo parlamentario del cual forman parte. 2. En el caso de textos normativos de nuevos ordenamientos, a que se refiere la fracción IV del numeral anterior, los senadores deberán desarrollar el articulado correspondiente en forma lógica y ordenada, distinguiendo los artículos en lo particular que tengan un fin general o federal de validez y aplicación; se procurará que el texto normativo se estructure en libros; los libros en títulos; los títulos en capítulos; los capítulos en secciones; las secciones en artículos; los artículos en fracciones y las fracciones en incisos. En el artículo primero de cada ordenamiento se establecerá su alcance y competencia constitucional. La división en libros sólo procede cuando se trata de textos muy extensos.
 Conforme a lo anterior, los senadores harán coincidir la denominación, con la naturaleza, objeto, fin, ámbitos de validez y aplicación del texto normativo del nuevo ordenamiento. Para ello se establece que llevarán la denominación de General, aquellos que inciden válidamente y que son de competencia concurrente en todos los órdenes gobierno y como Federal aquellos que serán aplicados a todas las personas en el territorio nacional por autoridades federales, en ambos casos de acuerdo a lo establecido en la Constitución.
-Numeral reformado DOF 19-12-2017 3. En el caso de solicitud de permiso del Presidente de la República para salir del territorio nacional por más de siete días, la iniciativa correspondiente debe contener objeto, duración e itinerario del viaje, además de los elementos aplicables referidos en el párrafo 1 de este artículo. 4. La iniciativa se presenta en forma escrita a través de los medios electrónicos y digitales aprobados por la Mesa, para su inclusión en el Orden del Día y correspondiente publicación en la Gaceta.
-Numeral reformado DOF 11-11-2022 5. Cuando se considera conveniente, pueden anexarse a la iniciativa los documentos digitales y archivos electrónicos que faciliten su comprensión y análisis.
+Numeral reformado DOF 19-12-2017
+3. En el caso de solicitud de permiso del Presidente de la República para salir del territorio nacional por más de siete días, la iniciativa correspondiente debe contener objeto, duración e itinerario del viaje, además de los elementos aplicables referidos en el párrafo 1 de este artículo. 4. La iniciativa se presenta en forma escrita a través de los medios electrónicos y digitales aprobados por la Mesa, para su inclusión en el Orden del Día y correspondiente publicación en la Gaceta.
+Numeral reformado DOF 11-11-2022
+5. Cuando se considera conveniente, pueden anexarse a la iniciativa los documentos digitales y archivos electrónicos que faciliten su comprensión y análisis.
 Numeral reformado DOF 11-11-2022
 
 ### Artículo 170
@@ -1191,7 +1218,8 @@ Numeral reformado DOF 11-11-2022
 
 ### Artículo 173
 1. Las iniciativas suscritas por el Presidente de la República, los diputados federales y las legislaturas de las entidades federativas, se publican en la Gaceta, se da cuenta al Pleno en la sesión inmediata a su recepción y se turnan a comisiones.
-Artículo reformado DOF 14-03-2017 CAPITULO TERCERO DEL TURNO A COMISIONES
+Artículo reformado DOF 14-03-2017
+CAPITULO TERCERO DEL TURNO A COMISIONES
 
 ### Artículo 174
 1. El turno es la resolución de trámite que dicta la Presidencia durante las sesiones, para enviar a la comisión o comisiones que correspondan los asuntos de los que se da cuenta al Pleno. 2. Los documentos y turnos que se envían en cumplimiento a lo dispuesto en el párrafo anterior se harán en forma escrita a través de los medios electrónicos y digitales aprobados por la Mesa.
@@ -1226,11 +1254,13 @@ CAPITULO CUARTO DE LOS DICTAMENES
 
 ### Artículo 182
 1. Los dictámenes legislativos son los documentos formulados en comisiones, por los cuales se propone al Pleno una decisión sobre las iniciativas o proyectos turnados por el Presidente que cumplen con lo dispuesto en el artículo 169 de este Reglamento.
-Numeral reformado DOF 19-12-2017 2. Al emitir dictamen las comisiones proponen aprobar, modificar o desechar, parcial o totalmente, iniciativas o proyectos.
+Numeral reformado DOF 19-12-2017
+2. Al emitir dictamen las comisiones proponen aprobar, modificar o desechar, parcial o totalmente, iniciativas o proyectos.
 
 ### Artículo 183
 1. Inmediatamente después de que se recibe una iniciativa o proyecto, los presidentes de las comisiones respectivas lo hacen del conocimiento de sus integrantes para recabar sus comentarios y propuestas, con la finalidad de proceder a dictaminar. 2. La Junta Directiva de la comisión coordinadora, en consulta con las de las otras comisiones dictaminadoras, acuerda la organización y el método de trabajo para el estudio de los asuntos y la elaboración de los proyectos de dictamen correspondientes. Asimismo, acuerdan si realizan reuniones conjuntas de las comisiones unidas o cada comisión se reúne por separado.
-Numeral reformado DOF 05-12-2023 3. Cuando es procedente se consideran otras iniciativas y proyectos relacionados que están pendientes de dictaminar, siempre que traten los mismos tema y materia. 4. Al dictaminar los proyectos enviados por la Cámara de Diputados no se acumulan iniciativas presentadas en el Senado como Cámara de origen.
+Numeral reformado DOF 05-12-2023
+3. Cuando es procedente se consideran otras iniciativas y proyectos relacionados que están pendientes de dictaminar, siempre que traten los mismos tema y materia. 4. Al dictaminar los proyectos enviados por la Cámara de Diputados no se acumulan iniciativas presentadas en el Senado como Cámara de origen.
 
 ### Artículo 184
 1. En el proceso de dictaminar, las comisiones pueden convocar a audiencias públicas o reuniones, con el fin de escuchar al autor o autores de la iniciativa, a especialistas en la materia, representantes de organizaciones y grupos interesados, así como a ciudadanos. 2. De igual modo, las comisiones pueden recibir de las dependencias y entidades de la Administración Pública Federal o de cualquier ente público, de los distintos órdenes de gobierno, los elementos de información que estimen convenientes para el desahogo de sus trabajos.
@@ -1247,7 +1277,8 @@ Numeral reformado DOF 06-12-2024
 
 ### Artículo 188
 1. Todo dictamen debe ser firmado por los integrantes de las comisiones unidas; las firmas en el dictamen sin otra indicación se consideran a favor del mismo. 2. Los senadores que voten en contra o en abstención, lo pueden hacer constar en esos términos junto a su firma en el dictamen.
-Numeral reformado DOF 06-12-2024 3. Si uno o más integrantes de las comisiones disienten de la mayoría a favor del dictamen, pueden presentar voto particular en los términos de este Reglamento.
+Numeral reformado DOF 06-12-2024
+3. Si uno o más integrantes de las comisiones disienten de la mayoría a favor del dictamen, pueden presentar voto particular en los términos de este Reglamento.
 
 ### Artículo 189
 1. Los senadores pueden cambiar a favor de un dictamen sus respectivos votos emitidos en contra o en abstención, hasta antes de que se publique en la Gaceta. No pueden cambiar los votos aprobatorios. 2. En su caso, la modificación del voto se concreta en el sentido de su firma en el dictamen y se realiza por conducto de la Junta Directiva de la comisión.
@@ -1363,7 +1394,8 @@ CAPITULO QUINTO DE LOS VOTOS PARTICULARES
 
 ### Artículo 207
 1. Los votos particulares constituyen la expresión de las minorías de una o más comisiones dictaminadoras, o de uno o varios de sus integrantes, en sentido diverso al dictamen suscrito por la mayoría, siempre que hayan manifestado en sentido negativo, por escrito, su voluntad al momento de recoger la votación para aprobar el proyecto de dictamen que fue sometido a su consideración.
-Numeral reformado DOF 06-12-2024 2. Un voto particular puede referirse a la totalidad del dictamen o sólo a una de sus partes. 3. Respecto de un mismo dictamen puede haber más de un voto particular.
+Numeral reformado DOF 06-12-2024
+2. Un voto particular puede referirse a la totalidad del dictamen o sólo a una de sus partes. 3. Respecto de un mismo dictamen puede haber más de un voto particular.
 
 ### Artículo 208
 1. Un voto particular contiene, cuando menos, los siguientes elementos:
@@ -1444,7 +1476,8 @@ b) La Mesa también consulta, en iguales plazos y para los mismos efectos referi
 c) Las iniciativas así seleccionadas continúan el procedimiento legislativo, según corresponda en cada caso; y
 
 d) Las iniciativas no seleccionadas por los grupos ni por las juntas directivas de comisiones son materia de un proyecto de acuerdo que la Mesa somete directamente al Pleno para concluir los trámites legislativos, descargar los turnos correspondientes y enviar los expedientes al Archivo Histórico y Memoria Legislativa para su resguardo.
-Artículo reformado DOF 20-12-2010 CAPITULO SEPTIMO DE LA REMISION A LA CAMARA DE DIPUTADOS Y DE SUS OBSERVACIONES
+Artículo reformado DOF 20-12-2010
+CAPITULO SEPTIMO DE LA REMISION A LA CAMARA DE DIPUTADOS Y DE SUS OBSERVACIONES
 
 ### Artículo 220
 1. Todo proyecto de ley o decreto aprobado por el Senado en su condición de Cámara de origen, se envía inmediatamente a la Cámara de Diputados para los efectos del artículo 72 constitucional. 2. Los proyectos que pasan del Senado a la Cámara de Diputados son firmados por el Presidente y un secretario. 3. Al proyecto se anexan los siguientes elementos de información:
@@ -1517,9 +1550,11 @@ VII. Fungir como jurado de sentencia en los procedimientos de juicio político;
 
 VIII. Realizar las designaciones y conocer de las renuncias y licencias que le competen en términos de la Constitución y las leyes;
 
-IX. Derogada Fracción derogada DOF 14-03-2017
+IX. Derogada
+Fracción derogada DOF 14-03-2017
 
-X. Autorizar los convenios amistosos que, sobre sus respectivos límites celebren las entidades federativas; y Fracción reformada DOF 23-05-2018
+X. Autorizar los convenios amistosos que, sobre sus respectivos límites celebren las entidades federativas; y
+Fracción reformada DOF 23-05-2018
 
 XI. Realizar las demás funciones y actividades que le atribuyan de manera exclusiva la Constitución y las leyes.
 
@@ -1535,7 +1570,8 @@ III. Otorgar e imponer la Medalla Belisario Domínguez, conforme al artículo 10
 IV. Conocer y analizar los informes que en términos de ley deben presentar los entes públicos obligados; y
 
 V. Desahogar las comparecencias que correspondan. 2. Conforme al artículo 88 de la Constitución, en lo que concierne al Senado se ejerce como procedimiento especial la facultad relativa a las solicitudes de permisos del Titular del Ejecutivo Federal para ausentarse del territorio nacional por más de siete días.
-Numeral reformado DOF 09-10-2017 CAPITULO SEGUNDO DE LAS FACULTADES EXCLUSIVAS DEL SENADO
+Numeral reformado DOF 09-10-2017
+CAPITULO SEGUNDO DE LAS FACULTADES EXCLUSIVAS DEL SENADO
 
 ### Artículo 232
 1. El Senado ejerce las facultades exclusivas que le confieren los artículos 76, 77 y demás relativos de la Constitución y las leyes, mediante decretos, resoluciones o acuerdos y previa solicitud, propuesta o comunicación que presentan los sujetos constitucional y legalmente facultados para ello. 2. El decreto, resolución o acuerdo que resulta del ejercicio de facultades exclusivas del Senado, lo firman el Presidente y un secretario.
@@ -1559,7 +1595,8 @@ SECCION SEGUNDA DE LOS TRATADOS INTERNACIONALES Y CONVENCIONES DIPLOMATICAS
 
 ### Artículo 238
 1. Los instrumentos internacionales referidos en el artículo anterior son turnados para su estudio y dictamen a las comisiones de relaciones exteriores que correspondan, en los términos de este Reglamento. 2. Dichos instrumentos también se turnan, en su caso, a otras comisiones cuyas materias se corresponden con el objeto de los mismos, a fin de que coadyuven en el dictamen. 3. En el análisis y evaluación de los tratados y las convenciones internacionales, las comisiones cuidan el cumplimiento de los principios normativos de la política exterior mexicana, así como el interés y la seguridad nacionales. 4. Tratándose de la aprobación de tratados internacionales por los que se reconozcan derechos humanos en los términos del artículo 1º constitucional, el Senado dará trámite inmediato y prioritario a su estudio y discusión.
-Numeral adicionado DOF 18-12-2014 SECCION TERCERA DE LA APROBACION O RATIFICACION DE NOMBRAMIENTOS Y DE REMOCIONES
+Numeral adicionado DOF 18-12-2014
+SECCION TERCERA DE LA APROBACION O RATIFICACION DE NOMBRAMIENTOS Y DE REMOCIONES
 
 ### Artículo 239
 1. Corresponde al Senado la aprobación o ratificación de nombramientos que hace el Presidente de la República para los siguientes cargos, conforme lo disponen los artículos relativos de la Constitución:
@@ -1658,26 +1695,37 @@ III. En los casos en que una comisión del Senado es la competente para presenta
 SECCION OCTAVA DE LA REMOCION Y DESIGNACION DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL
 
 ### Artículo 260
-. Derogado Artículo derogado DOF 14-03-2017
+. Derogado
+Artículo derogado DOF 14-03-2017
 
 ### Artículo 261
-. Derogado Artículo derogado DOF 14-03-2017
+. Derogado
+Artículo derogado DOF 14-03-2017
 
 ### Artículo 262
-. Derogado Artículo derogado DOF 14-03-2017
+. Derogado
+Artículo derogado DOF 14-03-2017
 
 ### Artículo 263
-. Derogado Artículo derogado DOF 14-03-2017
+. Derogado
+Artículo derogado DOF 14-03-2017
 
 ### Artículo 264
-. Derogado Artículo derogado DOF 14-03-2017 SECCION NOVENA DE LA AUTORIZACIÓN DE CONVENIOS AMISTOSOS SOBRE LÍMITES ENTRE ENTIDADES FEDERATIVAS Denominación de la Sección reformada DOF 23-05-2018
+. Derogado
+Artículo derogado DOF 14-03-2017
+SECCION NOVENA DE LA AUTORIZACIÓN DE CONVENIOS AMISTOSOS SOBRE LÍMITES ENTRE ENTIDADES FEDERATIVAS
+Denominación de la Sección reformada DOF 23-05-2018
 
 ### Artículo 265
 1. La intervención del Senado en materia de límites entre entidades federativas está a lo dispuesto en los artículos 46 y 76, fracción X, de la Constitución, la ley reglamentaria correspondiente y este Reglamento.
-Numeral reformado DOF 23-05-2018 2. Los convenios amistosos que presentan las entidades federativas para su aprobación por el Senado, son turnados por el Presidente de la Mesa a la comisión competente. 3. (Se deroga) Numeral derogado DOF 23-05-2018
+Numeral reformado DOF 23-05-2018
+2. Los convenios amistosos que presentan las entidades federativas para su aprobación por el Senado, son turnados por el Presidente de la Mesa a la comisión competente. 3. (Se deroga)
+Numeral derogado DOF 23-05-2018
 
 ## SECCIÓN DÉCIMA — DE LAS COMPARECENCIAS DE AUTORIDADES O SERVIDORES PÚBLICOS A
-SOLICITUD DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS Sección adicionada DOF 18-12-2014
+
+SOLICITUD DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
+Sección adicionada DOF 18-12-2014
 
 ### Artículo 265
 Bis. 1. Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el segundo párrafo del aparatado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
@@ -1693,7 +1741,8 @@ IV. En el caso de que existan cuestionamientos o interpelaciones al servidor pú
 V. A continuación los legisladores podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas.
 
 VI. Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido la Presidenta o el Presidente de la Comisión hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
-Artículo adicionado DOF 18-12-2014 CAPITULO TERCERO DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
+Artículo adicionado DOF 18-12-2014
+CAPITULO TERCERO DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
 
 ### Artículo 266
 1. En el ejercicio de las funciones de control de las cámaras del Congreso de la Unión, en el ámbito de su competencia el Senado recibe, analiza y se pronuncia respecto de los informes de los entes públicos a los cuales la Constitución y las leyes imponen la obligación de presentarlos. 2. El Senado también ejerce atribuciones de control mediante preguntas por escrito al Presidente de la República o comparecencias de los servidores públicos que prevén los artículos 69 y 93 de la Constitución, sea para informar o para responder preguntas e interpelaciones. 3. Las preguntas tienen por objeto obtener información sobre un tema específico, o bien ampliarla, para el análisis de un informe, la discusión de una ley o el estudio de un asunto. 4. La interpelación tiene como objeto obtener de un servidor público compareciente la explicación sobre políticas de interés general.
@@ -1739,12 +1788,15 @@ III. De Recomendación.- Cuando se realiza una sugerencia respetuosa, en el ámb
 
 IV. De Convocatoria.- Cuando se pida a la Comisión Permanente, convocar a periodos extraordinarios de sesiones, en términos de lo dispuesto por el artículo 67 de la Constitución Política de los Estados Unidos Mexicanos.
 Párrafo con fracciones adicionado DOF 22-12-2014 2. Las proposiciones con punto de acuerdo se remiten por escrito y firmadas por su o sus autores a las comisiones correspondientes según el tema y éstas emitirán su dictamen de trámite según la importancia y la pertinencia del punto de acuerdo. Salvo que se les dispense de dicho trámite en términos del artículo 108 de este Reglamento.
-Numeral reformado DOF 22-12-2014 3. El derecho a presentar proposiciones con punto de acuerdo conlleva el de retirarlas a solicitud de su o sus autores.
+Numeral reformado DOF 22-12-2014
+3. El derecho a presentar proposiciones con punto de acuerdo conlleva el de retirarlas a solicitud de su o sus autores.
 
 ### Artículo 277
 1. Los dictámenes sobre proposiciones con punto de acuerdo deben cumplir, en lo procedente, con los mismos requisitos que los de carácter legislativo; pueden incorporar otros elementos útiles para el cumplimiento de su objeto. 2. Pueden desahogarse varias proposiciones en un mismo dictamen, si se refieren a la misma materia o tema. 3. El punto de acuerdo a que se refiere el dictamen es leído una sola vez y enseguida se somete a debate y votación económica. 4. Los plazos y condiciones para emitir los dictámenes de los puntos de acuerdo estarán sujetos a las normas establecidas en el Capítulo Sexto del Título Séptimo de este ordenamiento.
-Numeral adicionado DOF 22-12-2014 5. Las proposiciones con punto de acuerdo que no sean dictaminadas dentro del periodo ordinario de sesiones en el que fueron presentadas, se tendrán por concluidas, cumpliéndose con los trámites de su proceso legislativo y se descargarán de los turnos correspondientes, y sus expedientes serán remitidos al Archivo Histórico y Memoria Legislativa para su resguardo.
-Numeral adicionado DOF 25-10-2022 CAPITULO QUINTO DE LAS COMUNICACIONES Y PETICIONES
+Numeral adicionado DOF 22-12-2014
+5. Las proposiciones con punto de acuerdo que no sean dictaminadas dentro del periodo ordinario de sesiones en el que fueron presentadas, se tendrán por concluidas, cumpliéndose con los trámites de su proceso legislativo y se descargarán de los turnos correspondientes, y sus expedientes serán remitidos al Archivo Histórico y Memoria Legislativa para su resguardo.
+Numeral adicionado DOF 25-10-2022
+CAPITULO QUINTO DE LAS COMUNICACIONES Y PETICIONES
 
 ### Artículo 278
 1. Toda comunicación o solicitud que cualquier persona dirige al Senado se atiende conforme a las disposiciones constitucionales y legales que regulan los derechos de petición y de acceso a la información pública. En todo caso, el escrito debe contener nombre, firma y domicilio del remitente, sin lo cual no es admitido. 2. Las comunicaciones y peticiones se formulan por escrito dirigido a la Mesa o, en su caso, al órgano directivo, comisión o Comité que resulte competente en el asunto de que se trata. 3. Cuando un órgano del Senado al que se dirija una comunicación o solicitud no sea el competente para atenderla, la remite a la Mesa para que le dé el trámite que corresponda. De lo anterior se informa al solicitante. 4. La comunicación dirigida al Senado que no amerita trámite se envía directamente al archivo.
@@ -1770,7 +1822,8 @@ V. La participación, previa invitación de las autoridades extranjeras competen
 
 ### Artículo 282
 1. Conforme a la Ley, corresponde a la Mesa Directiva y a su Presidente la conducción de la diplomacia parlamentaria. En apoyo a dicha actividad y a las relaciones internacionales del Senado, se cuenta con el Centro de Estudios Internacionales Gilberto Bosques.
-Numeral reformado DOF 14-03-2017 2. La Mesa coordina los apoyos técnicos y administrativos que requieren el Senado y sus diversos órganos para desarrollar las acciones en los ámbitos de la diplomacia parlamentaria y de las relaciones internacionales.
+Numeral reformado DOF 14-03-2017
+2. La Mesa coordina los apoyos técnicos y administrativos que requieren el Senado y sus diversos órganos para desarrollar las acciones en los ámbitos de la diplomacia parlamentaria y de las relaciones internacionales.
 
 ### Artículo 283
 1. Son atribuciones de la Mesa en materia de diplomacia parlamentaria y de relaciones internacionales:
@@ -1888,7 +1941,8 @@ CAPITULO SEGUNDO DE LA COMUNICACION SOCIAL, LA GACETA DEL SENADO Y EL DIARIO DE 
 
 ### Artículo 303
 1. El área de comunicación social es responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los órganos directivos, las comisiones y los comités del Senado, así como por los senadores, en los términos de este Reglamento y demás disposiciones aplicables. En cumplimiento de ésta, deberá hacerlo preferentemente mediante el uso de tecnologías de la información, medios digitales y plataformas electrónicas.
-Numeral reformado DOF 11-11-2022 2. Los órganos directivos del Senado, el área responsable de la comunicación social y las demás unidades administrativas competentes atienden en igualdad de condiciones a los representantes de los medios de información y les brindan las facilidades necesarias para el desempeño de sus tareas.
+Numeral reformado DOF 11-11-2022
+2. Los órganos directivos del Senado, el área responsable de la comunicación social y las demás unidades administrativas competentes atienden en igualdad de condiciones a los representantes de los medios de información y les brindan las facilidades necesarias para el desempeño de sus tareas.
 
 ### Artículo 304
 1. Para facilitar el desempeño de sus actividades, los representantes de los medios de información asisten a las sesiones debidamente acreditados ante el área responsable de la comunicación social y ocupan los lugares que les son asignados. 2. Durante las sesiones del Pleno, los senadores pueden atender las solicitudes de los representantes de los medios de información en las salas aledañas al salón de sesiones.
@@ -1939,9 +1993,12 @@ XIX. Los demás documentos oficiales que dispongan la Mesa y la Junta. 4. La Gac
 
 ### Artículo 307
 1. La Gaceta se publica y distribuye por medios electrónicos a los senadores y senadoras a partir de senadora lo solicite.
-Numeral reformado DOF 11-11-2022 2. Los días de sesión los senadores y senadoras disponen de la versión digital de la Gaceta en las pantallas de sus escaños en el salón de sesiones.
-Numeral reformado DOF 11-11-2022 3. La Gaceta está también a disposición electrónica y digital de los representantes acreditados de los medios de información.
-Numeral reformado DOF 11-11-2022 4. La publicación impresa de la Gaceta y la que aparece en medios electrónicos sólo tienen propósitos informativos y no producen efectos jurídicos.
+Numeral reformado DOF 11-11-2022
+2. Los días de sesión los senadores y senadoras disponen de la versión digital de la Gaceta en las pantallas de sus escaños en el salón de sesiones.
+Numeral reformado DOF 11-11-2022
+3. La Gaceta está también a disposición electrónica y digital de los representantes acreditados de los medios de información.
+Numeral reformado DOF 11-11-2022
+4. La publicación impresa de la Gaceta y la que aparece en medios electrónicos sólo tienen propósitos informativos y no producen efectos jurídicos.
 
 ### Artículo 308
 1. Para la publicación de documentos en la Gaceta se está a lo siguiente: debidamente firmados y en formato digital compatible con el sistema de dicha Secretaría;
@@ -1982,8 +2039,10 @@ XIII. Propuestas y resoluciones aprobadas;
 XIV. Dictámenes y votos particulares; y
 
 XV. Resultado de las votaciones.
-Numeral reformado DOF 23-05-2018 2. El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión en la página electrónica en Internet del Senado y de forma impresa en el mínimo necesario de ejemplares.
-Numeral reformado DOF 11-11-2022 CAPITULO TERCERO DEL RESGUARDO DEL RECINTO Y DEL ORDEN EN LAS SESIONES DEL SENADO
+Numeral reformado DOF 23-05-2018
+2. El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión en la página electrónica en Internet del Senado y de forma impresa en el mínimo necesario de ejemplares.
+Numeral reformado DOF 11-11-2022
+CAPITULO TERCERO DEL RESGUARDO DEL RECINTO Y DEL ORDEN EN LAS SESIONES DEL SENADO
 
 ### Artículo 310
 1. En los términos de la Constitución, la Ley y este Reglamento, el Presidente del Senado vela por la inviolabilidad del Recinto, para lo que hace uso de todos los recursos legales a su alcance. 2. Sólo el Presidente puede permitir o solicitar la presencia de la fuerza pública, la cual queda bajo su mando, a fin de garantizar el fuero de los senadores y la inviolabilidad del Recinto del Senado. 3. La presencia de la fuerza pública en el Senado con cualquier otro objetivo debe ser aprobada por el Pleno; de no estar reunido éste, la aprobación corresponde a la Mesa, la que informa al Pleno en su sesión inmediata siguiente.
@@ -2016,8 +2075,8 @@ Se adiciona un numeral 5 al artículo 300 y se modifica el numeral 3 del artícu
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias para garantizar el adecuado funcionamiento del Centro.
-**TERCERO.** La estructura, organización, facultades y funcionamiento del Centro de Estudios Internacionales Gilberto Bosques, serán establecidos en el Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias para garantizar el adecuado funcionamiento del Centro.
+**TERCERO.-** La estructura, organización, facultades y funcionamiento del Centro de Estudios Internacionales Gilberto Bosques, serán establecidos en el Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República.
 México, D.F., a 14 de diciembre de 2011.- El Vicepresidente, Sen. José González Morfín.- Rúbrica.El Secretario, Sen. Adrián Rivera Pérez.- Rúbrica.
 DECRETO por el que se crea el Reconocimiento “Elvia Carrillo Puerto” y se adiciona una fracción quinta al numeral 1 del artículo 56 y se adiciona un artículo 56 Bis al Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 5 de marzo de 2013 ARTICULO SEGUNDO.- SE REFORMA EL ARTÍCULO 56, NUMERAL 1, PARA ADICIONAR UNA FRACCIÓN V, Y SE ADICIONA EL ARTÍCULO 56 BIS, PARA QUEDAR COMO SIGUE: ……….
@@ -2025,7 +2084,7 @@ ARTÍCULO TRANSITORIO
 **ÚNICO.-** El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Rúbrica.Sen. María Elena Barrera Tapia, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona una Sección Décima, al Capítulo Segundo del Título
-**Octavo.** del Reglamento del Senado de la República, que estará conformada por el artículo 265 Bis.
+**Octavo.-** del Reglamento del Senado de la República, que estará conformada por el artículo 265 Bis.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
 
 ### ARTÍCULO ÚNICO
@@ -2039,19 +2098,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- México, D.F., a 10 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona una fracción X al artículo 10 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
-**ÚNICO.** Se adiciona una fracción X, recorriéndose en su orden la vigente, para pasar a ser la fracción XI, del artículo 10 del Reglamento del Senado de la República, para quedar como sigue: ……….
+**ÚNICO.-** Se adiciona una fracción X, recorriéndose en su orden la vigente, para pasar a ser la fracción XI, del artículo 10 del Reglamento del Senado de la República, para quedar como sigue: ……….
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- México, D.F., a 11 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO que adiciona un numeral 4 al artículo 238 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
-**ÚNICO.** Se adiciona el numeral 4 al artículo 238 del Reglamento del Senado de la República, para quedar como sigue: ………
+**ÚNICO.-** Se adiciona el numeral 4 al artículo 238 del Reglamento del Senado de la República, para quedar como sigue: ………
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- México, D.F., a 11 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO por el que se reforma el numeral 2 y se adiciona un segundo párrafo con las fracciones I, II, III y IV al numeral 1, del artículo 276; y se adiciona un numeral 4 al artículo 277 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2014
@@ -2064,7 +2123,7 @@ Se adiciona un numeral 4 al artículo 277 del Reglamento del Senado de La Repúb
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Rúbrica.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbrica.
 DECRETO por el que se reforman y derogan diversas disposiciones del Reglamento del Senado de la República.
@@ -2085,7 +2144,7 @@ Se reforma el párrafo 1, del artículo 282 del Reglamento del Senado de la Rep�
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 2 de marzo de 2017.- Sen. Pablo Escudero Morales, Presidente.- Rúbrica.Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO aprobado por la Cámara de Senadores del Congreso de la Unión, por el que se reforman y derogan disposiciones del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 9 de octubre de 2017
@@ -2106,12 +2165,12 @@ Se reforma el artículo 2 y se adiciona el numeral 4 al artículo 180 del Reglam
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 7 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO por el que se reforman los artículos 169, 182 y 190 del Reglamento del Senado en materia de denominación y naturaleza de las normas que emanan del Poder Legislativo.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2017
 **ÚNICO.-** Se reforman los artículos 169, 182 y 190 del Reglamento del Senado, para quedar como sigue: ……… ARTÍCULO TRANSITORIO
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 7 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO por el que se reforma el artículo 73 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 6 de abril de 2018
@@ -2154,7 +2213,7 @@ Juan G. Flores Ramírez, Secretario.- Rúbrica.
 DECRETO por el que se adicionan los numerales 4, 5, 6 y 7 al artículo 151 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018 SE ADICIONAN LOS NUMERALES 4, 5, 6 Y 7 AL ARTICULO 151 DEL REGLAMENTO DEL SENADO DE LA REPUBLICA.
 ARTICULO TRANSITORIO
-**ÚNICO.** : El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** : El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Sen.
 Juan G. Flores Ramírez, Secretario.- Rúbrica.
 DECRETO por el que se reforma el artículo 139 del Reglamento del Senado de la República.
@@ -2163,7 +2222,7 @@ Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
 ### ARTÍCULO ÚNICO
 Se REFORMA el artículo 139 del Reglamento del Senado de la República, para quedar como sigue: ……..
 ARTICULO TRANSITORIO
-**ÚNICO.** : El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** : El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Sen.
 Juan G. Flores Ramírez, Secretario.- Rúbrica.
 DECRETO por el que se reforma el artículo 128 del Reglamento del Senado de la República.
@@ -2197,7 +2256,7 @@ Se reforma el numeral 1, y se adicionan los numerales 5 y 6 al artículo 123 del
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 14 de marzo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Rúbrica.Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbrica.
 DECRETO por el que se crea el Reconocimiento "Dr. Jesús Kumate Rodríguez" y se adiciona una fracción sexta al numeral 1 del artículo 56 y un artículo 56 Ter, ambos del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 2020

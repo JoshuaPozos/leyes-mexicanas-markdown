@@ -15,6 +15,7 @@ Se expide la Ley Federal de Consulta Popular.
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es reglamentaria de la fracción VIII del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos, es de orden público e interés social; y de observancia en el orden federal.
 
@@ -33,13 +34,15 @@ Artículo reformado DOF 19-05-2021
 
 ### Artículo 5
 . Serán objeto de consulta popular los temas de trascendencia nacional o regional competencia de la Federación.
-Párrafo reformado DOF 19-05-2021 La trascendencia nacional de los temas que sean propuestos para consulta popular, será calificada por la mayoría de los legisladores presentes en cada Cámara, con excepción de la consulta propuesta por los ciudadanos, en cuyo caso lo resolverá la Suprema Corte de Justicia de la Nación.
+Párrafo reformado DOF 19-05-2021
+La trascendencia nacional de los temas que sean propuestos para consulta popular, será calificada por la mayoría de los legisladores presentes en cada Cámara, con excepción de la consulta propuesta por los ciudadanos, en cuyo caso lo resolverá la Suprema Corte de Justicia de la Nación.
 El resultado de la consulta popular, es vinculante para los poderes Ejecutivo y Legislativo federales así como para las autoridades competentes, cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores de la entidad o entidades federativas que correspondan.
 Párrafo reformado DOF 19-05-2021
 
 ### Artículo 6
 . Se entiende que existe trascendencia en el tema propuesto para una consulta popular cuando contenga elementos tales como:
-Párrafo reformado DOF 19-05-2021 A. Para la Nacional:
+Párrafo reformado DOF 19-05-2021
+A. Para la Nacional:
 Encabezado del Apartado adicionado DOF 19-05-2021
 
 I. Que repercutan en la mayor parte del territorio nacional, y
@@ -110,14 +113,17 @@ Fracción reformada y recorrida DOF 19-05-2021
 VI. Las obras de infraestructura en ejecución;
 Fracción adicionada DOF 19-05-2021
 
-VII. La seguridad nacional, y Fracción recorrida DOF 19-05-2021
+VII. La seguridad nacional, y
+Fracción recorrida DOF 19-05-2021
 
 VIII. La organización, funcionamiento y disciplina de la Fuerza Armada permanente.
 Fracción recorrida DOF 19-05-2021
 
 ## CAPÍTULO II — DE LA PETICIÓN DE CONSULTA POPULAR
 
+
 ## SECCIÓN PRIMERA — DE LOS SUJETOS
+
 
 ### Artículo 12
 . Podrán solicitar una consulta popular:
@@ -127,7 +133,8 @@ I. El Presidente de la República;
 II. El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso, o
 
 III. Las ciudadanas y los ciudadanos en un número equivalente, al menos, al dos por ciento de las personas inscritas en la lista nominal de electores, para el caso de temas de trascendencia nacional, y el mismo porcentaje de las personas inscritas en la lista nominal de electores correspondiente a la entidad o las entidades federativas que correspondan, en el supuesto de los temas relacionados con la trascendencia regional competencia de la Federación.
-Fracción reformada DOF 19-05-2021 Los ciudadanos podrán respaldar más de una consulta popular, pero no procederá el trámite de las consultas que sean respaldadas por los mismos ciudadanos cuando estos rebasen el veinte por ciento de las firmas de apoyo. En este caso sólo procederá la primera solicitud.
+Fracción reformada DOF 19-05-2021
+Los ciudadanos podrán respaldar más de una consulta popular, pero no procederá el trámite de las consultas que sean respaldadas por los mismos ciudadanos cuando estos rebasen el veinte por ciento de las firmas de apoyo. En este caso sólo procederá la primera solicitud.
 La inobservancia de la prohibición a que se refiere el párrafo anterior se resolverá conforme a las reglas previstas en el artículo 34, fracción IV de esta Ley.
 Cuando la petición provenga de cualquiera de los contemplados en las fracciones I y II del presente artículo estará sujeta a la aprobación de la mayoría de cada Cámara del Congreso de la Unión.
 Párrafo adicionado DOF 19-05-2021
@@ -138,11 +145,14 @@ Artículo reformado DOF 19-05-2021
 
 ## SECCIÓN SEGUNDA — DEL AVISO DE INTENCIÓN
 
+
 ### Artículo 14
 . Las ciudadanas y los ciudadanos que deseen presentar una petición de consulta popular para la jornada de consulta inmediata siguiente, deberán dar Aviso de Intención a la Presidencia de la Mesa Directiva de la Cámara que corresponda a través del formato que al efecto determine dicha Cámara, mismo que deberá mantenerse disponible al público en general en físico y en su página de internet.
-Párrafo reformado DOF 19-05-2021 El Presidente de la Mesa Directiva de la Cámara que corresponda emitirá en un plazo no mayor a diez días hábiles, una constancia que acredite la presentación del Aviso de intención, que se acompañará del formato para la obtención de firmas y con ello el inicio de los actos para recabar las firmas de apoyo. Las constancias de aviso serán publicadas en la Gaceta Parlamentaria.
+Párrafo reformado DOF 19-05-2021
+El Presidente de la Mesa Directiva de la Cámara que corresponda emitirá en un plazo no mayor a diez días hábiles, una constancia que acredite la presentación del Aviso de intención, que se acompañará del formato para la obtención de firmas y con ello el inicio de los actos para recabar las firmas de apoyo. Las constancias de aviso serán publicadas en la Gaceta Parlamentaria.
 Las constancias y formatos emitidos conforme a los párrafos anteriores únicamente podrán utilizarse en el proceso de petición de consulta popular para la cual sea presentado el Aviso de Intención.
-Párrafo reformado DOF 19-05-2021 Reforma DOF 19-05-2021: Derogó del artículo el entonces párrafo cuarto
+Párrafo reformado DOF 19-05-2021
+Reforma DOF 19-05-2021: Derogó del artículo el entonces párrafo cuarto
 
 ### Artículo 15
 . El formato para la obtención de firmas lo determinarán las Cámaras del Congreso de la Unión, previa consulta al Instituto, preservando que cumpla con los requisitos que señala esta Ley y que deberá contener por lo menos:
@@ -160,16 +170,20 @@ IV. El nombre, firma, la clave de elector o el número identificador al reverso 
 V. La fecha de expedición.
 Si las firmas se presentaran en un formato diverso al entregado por las Cámaras, la propuesta de Consulta Popular no será admitida a trámite.
 La Presidencia de la Mesa Directiva de la Cámara que corresponda dará cuenta de los Avisos de Intención que no hayan sido formalizados con la presentación de la solicitud de consulta popular dentro del plazo establecido por el artículo 13 de esta Ley o que no se hayan entregado en el formato correspondiente para la obtención de firmas, los cuales serán archivados como asuntos total y definitivamente concluidos.
-Párrafo reformado DOF 19-05-2021 Una vez definidos por las Cámaras del Congreso de la Unión, los formatos de Aviso de Intención y de obtención de firmas ciudadanas tendrán vigencia permanente. Cualquier modificación a los formatos deberá quedar hecha a más tardar el treinta y uno de marzo del año en el que se pretenda su aplicación en los procesos de petición de consulta popular.
-Párrafo adicionado DOF 19-05-2021 Con apego a la información referida en el párrafo primero de este artículo, las Cámaras del Congreso de la Unión, en consulta previa con el Instituto, podrán implementar el uso de instrumentos tecnológicos de entre los formatos definidos para la obtención de firmas ciudadanas, cuando éstos faciliten el acceso de la ciudadanía al ejercicio del derecho constitucional de petición de la consulta popular.
+Párrafo reformado DOF 19-05-2021
+Una vez definidos por las Cámaras del Congreso de la Unión, los formatos de Aviso de Intención y de obtención de firmas ciudadanas tendrán vigencia permanente. Cualquier modificación a los formatos deberá quedar hecha a más tardar el treinta y uno de marzo del año en el que se pretenda su aplicación en los procesos de petición de consulta popular.
+Párrafo adicionado DOF 19-05-2021
+Con apego a la información referida en el párrafo primero de este artículo, las Cámaras del Congreso de la Unión, en consulta previa con el Instituto, podrán implementar el uso de instrumentos tecnológicos de entre los formatos definidos para la obtención de firmas ciudadanas, cuando éstos faciliten el acceso de la ciudadanía al ejercicio del derecho constitucional de petición de la consulta popular.
 Párrafo adicionado DOF 19-05-2021
 
 ## SECCIÓN TERCERA — DE LA PRESENTACIÓN
 
+
 ### Artículo 16
 . El Presidente de la República sólo podrá presentar una petición para cada jornada de consulta popular.
 Tratándose de las peticiones de consulta popular formuladas por las legisladoras y los legisladores integrantes de las Cámaras del Congreso, serán objeto de la Convocatoria aquellas que sean admitidas por el voto de la mayoría de cada Cámara del Congreso de la Unión sin que puedan ser aprobadas más de una de entre las presentadas por cada cámara.
-Párrafo reformado DOF 19-05-2021 En el caso de las peticiones de ciudadanas y ciudadanos, la Convocatoria se expedirá respecto de aquellas que hubieran reunido el apoyo ciudadano a que se hace mención en la fracción III del artículo 12, previa declaración de constitucionalidad y aprobación de la trascendencia nacional o regional a cargo de la Suprema Corte.
+Párrafo reformado DOF 19-05-2021
+En el caso de las peticiones de ciudadanas y ciudadanos, la Convocatoria se expedirá respecto de aquellas que hubieran reunido el apoyo ciudadano a que se hace mención en la fracción III del artículo 12, previa declaración de constitucionalidad y aprobación de la trascendencia nacional o regional a cargo de la Suprema Corte.
 Párrafo reformado DOF 19-05-2021
 
 ### Artículo 17
@@ -188,12 +202,14 @@ Artículo reformado DOF 19-05-2021
 
 ## SECCIÓN CUARTA — DE LOS REQUISITOS
 
+
 ### Artículo 21
 . Toda petición de consulta popular deberá estar contenida en un escrito que cumplirá, por lo menos, con los siguientes elementos:
 
 I. Nombre completo y firma del solicitante o solicitantes;
 
-II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia nacional o regional competencia de la Federación, según sea el caso, y Fracción reformada DOF 19-05-2021
+II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia nacional o regional competencia de la Federación, según sea el caso, y
+Fracción reformada DOF 19-05-2021
 
 III. La pregunta que se proponga para la consulta deberá ser elaborada sin contenidos tendenciosos o juicios de valor y formulada de tal manera que produzca una respuesta categórica en sentido positivo o negativo; y deberá estar relacionada con el tema de la consulta.
 Sólo se podrá formular una pregunta en la petición de consulta popular.
@@ -217,6 +233,7 @@ II. Anexo que contenga los nombres completos de los ciudadanos y su firma, adem�
 En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
 
 ## SECCIÓN QUINTA — DEL PROCEDIMIENTO PARA LA CONVOCATORIA
+
 
 ### Artículo 26
 . Cuando la petición de consulta popular provenga del Presidente de la República, se seguirá el siguiente procedimiento:
@@ -242,7 +259,8 @@ Fracción reformada DOF 19-05-2021
 V. El dictamen que emitan las comisiones correspondientes en cada Cámara, en caso de proponer la aprobación de la petición de consulta, contendrá un proyecto de Decreto que contenga la Convocatoria, misma que expresará, como mínimo: la Convocatoria a la ciudadanía para que ejerza su derecho a votar en la consulta, la fecha constitucional de la jornada de consulta, la materia y pregunta aprobadas por la Suprema Corte y la notificación al Instituto para los efectos conducentes;
 Fracción adicionada DOF 19-05-2021
 
-VI. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso, dentro de un plazo de veinte días naturales para cada una, en forma sucesiva, contados a partir de la recepción del proyecto, en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido, y Fracción reformada y recorrida DOF 19-05-2021
+VI. El dictamen de la petición deberá ser aprobado por la mayoría de cada Cámara del Congreso, dentro de un plazo de veinte días naturales para cada una, en forma sucesiva, contados a partir de la recepción del proyecto, en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido, y
+Fracción reformada y recorrida DOF 19-05-2021
 
 VII. Aprobada la petición por ambas Cámaras del Congreso, este expedirá el Decreto de Convocatoria de la consulta popular, lo notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 Fracción reformada y recorrida DOF 19-05-2021
@@ -265,7 +283,8 @@ Fracción recorrida DOF 19-05-2021
 V. Recibida la solicitud del Congreso para verificar la constitucionalidad de la petición de consulta popular, la Suprema Corte estará a lo dispuesto en la fracción II del artículo 26 de esta Ley;
 Fracción recorrida DOF 19-05-2021
 
-VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, la Presidencia de la Mesa Directiva de la Cámara revisora publicará la resolución en la Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y Fracción reformada y recorrida DOF 19-05-2021
+VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta, la Presidencia de la Mesa Directiva de la Cámara revisora publicará la resolución en la Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y
+Fracción reformada y recorrida DOF 19-05-2021
 
 VII. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución no podrá ser objeto de modificaciones posteriores, el Congreso expedirá el Decreto de Convocatoria de la consulta popular, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 Fracción reformada y recorrida DOF 19-05-2021
@@ -294,7 +313,8 @@ Inciso reformado DOF 19-05-2021
 
 V. Si la resolución de la Suprema Corte es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso;
 
-VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta popular, la Presidencia de la Mesa Directiva de la Cámara que corresponda, publicará la resolución en su Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y Fracción reformada DOF 19-05-2021
+VI. En el supuesto de que la Suprema Corte declare la inconstitucionalidad de la materia de la consulta popular, la Presidencia de la Mesa Directiva de la Cámara que corresponda, publicará la resolución en su Gaceta, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido, y
+Fracción reformada DOF 19-05-2021
 
 VII. Declarada la constitucionalidad por la Suprema Corte, el Congreso por conducto de sus Mesas Directivas, emitirá la Convocatoria, la notificará al Instituto para los efectos conducentes y ordenará su publicación en el Diario Oficial de la Federación.
 
@@ -320,9 +340,12 @@ V. Lugar y fecha de la emisión de la Convocatoria.
 . La Convocatoria que expida el Congreso deberá publicarse en el Diario Oficial de la Federación.
 
 ## CAPÍTULO III — DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE
-CONSULTA POPULAR Denominación del Capítulo reformada DOF 19-05-2021
+
+CONSULTA POPULAR
+Denominación del Capítulo reformada DOF 19-05-2021
 
 ## SECCIÓN PRIMERA — DE LA VERIFICACIÓN DEL APOYO CIUDADANO
+
 
 ### Artículo 32
 . Al Instituto le corresponde verificar el porcentaje establecido en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución.
@@ -363,6 +386,7 @@ Fracción reformada DOF 19-05-2021
 
 ## SECCIÓN SEGUNDA — DE LA ORGANIZACIÓN DE LA CONSULTA POPULAR
 
+
 ### Artículo 35
 . El Instituto es responsable del ejercicio de la función estatal de la organización y desarrollo de las consultas populares y de llevar a cabo la promoción del voto, en términos de esta Ley y de la Ley General.
 Artículo reformado DOF 19-05-2021
@@ -391,6 +415,7 @@ II. Las demás que le encomiende la normatividad aplicable, o le instruya el Con
 
 ## SECCIÓN TERCERA — DE LA DIFUSIÓN DE LA CONSULTA
 
+
 ### Artículo 40
 . Durante la campaña de difusión, el Instituto promoverá la participación de los ciudadanos en la consulta popular a través de los tiempos en radio y televisión que corresponden a la autoridad electoral.
 La promoción deberá ser imparcial. De ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, a favor o en contra de la consulta popular.
@@ -405,6 +430,7 @@ Ninguna otra persona física o moral, sea a título propio o por cuenta de terce
 
 ## SECCIÓN CUARTA — DE LOS ACTOS PREVIOS A LA JORNADA DE CONSULTA POPULAR
 
+
 ### Artículo 43
 . Para la emisión del voto en los procesos de consulta popular el Instituto diseñará el formulario conforme al modelo y contenido que apruebe el Consejo General, debiendo contener los siguientes datos:
 Párrafo reformado DOF 19-05-2021
@@ -417,11 +443,14 @@ II. La pregunta contenida en la Convocatoria aprobada por el Congreso;
 III. Cuadros para el "SÍ", para el "NO" y para la "ABSTENCIÓN", colocados simétricamente y en tamaño apropiado para facilitar su identificación por el ciudadano al momento de emitir su voto;
 Fracción reformada DOF 19-05-2021
 
-IV. Entidad y distrito, y Fracción reformada DOF 19-05-2021
+IV. Entidad y distrito, y
+Fracción reformada DOF 19-05-2021
 
 V. Las medidas de seguridad que determine el Consejo General.
-Fracción reformada DOF 19-05-2021 Habrá un solo formulario, independientemente del número de convocatorias que hayan sido aprobadas por el Congreso.
-Párrafo reformado DOF 19-05-2021 Reforma DOF 19-05-2021: Derogó del artículo el entonces párrafo tercero
+Fracción reformada DOF 19-05-2021
+Habrá un solo formulario, independientemente del número de convocatorias que hayan sido aprobadas por el Congreso.
+Párrafo reformado DOF 19-05-2021
+Reforma DOF 19-05-2021: Derogó del artículo el entonces párrafo tercero
 
 ### Artículo 44
 . Las papeletas deberán obrar en los Consejos Distritales a más tardar quince días antes de la jornada de consulta popular. Para su control se tomarán las medidas siguientes:
@@ -440,16 +469,20 @@ IV. Al día siguiente al en que se realice el conteo de las boletas electorales,
 I. El material que deberá usarse en la jornada de consulta. De usarse formularios impresos, estos se entregarán en número igual al de los electores que figuren en la lista nominal de electores con fotografía para cada casilla de la sección;
 Fracción reformada DOF 19-05-2021
 
-II. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios, y Fracción reformada y recorrida DOF 19-05-2021
+II. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios, y
+Fracción reformada y recorrida DOF 19-05-2021
 
 III. En su caso, los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla.
-Fracción recorrida DOF 19-05-2021 Reforma DOF 19-05-2021: Suprimió del párrafo la entonces fracción II A las presidencias de las mesas directivas de las casillas especiales les será entregada la documentación y materiales a que se refieren las fracciones anteriores, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que las electoras y los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar. El número de ciudadanos y ciudadanas que ejerzan su derecho no será superior a 1,500 por cada casilla.
-Párrafo reformado DOF 19-05-2021 La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de las Juntas Distritales que decidan asistir.
+Fracción recorrida DOF 19-05-2021
+Reforma DOF 19-05-2021: Suprimió del párrafo la entonces fracción II A las presidencias de las mesas directivas de las casillas especiales les será entregada la documentación y materiales a que se refieren las fracciones anteriores, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que las electoras y los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar. El número de ciudadanos y ciudadanas que ejerzan su derecho no será superior a 1,500 por cada casilla.
+Párrafo reformado DOF 19-05-2021
+La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de las Juntas Distritales que decidan asistir.
 
 ### Artículo 46
 . El Instituto, podrá designar adicionalmente a uno o más ciudadanos para que se integren a las mesas directivas de casilla, con la finalidad de que funjan como escrutadores de la consulta popular.
 
 ## SECCIÓN QUINTA — DE LA JORNADA DE CONSULTA POPULAR
+
 
 ### Artículo 47
 . La jornada de consulta popular se sujetará al procedimiento dispuesto por el Título Tercero del Libro Quinto de la Ley General para la celebración de la jornada electoral, con las particularidades que prevé la presente sección.
@@ -494,20 +527,23 @@ a) Emitidos a favor del “SÍ”;
 
 b) Emitidos a favor del “NO”, y
 
-c) Emitidos en abstención, y Inciso adicionado DOF 19-05-2021
+c) Emitidos en abstención, y
+Inciso adicionado DOF 19-05-2021
 
 d) Nulos.
 Inciso recorrido DOF 19-05-2021
 
 VI. El secretario anotará en hojas dispuestas para el efecto los resultados de cada una de las operaciones señaladas en las fracciones anteriores, los que, una vez verificados por los demás integrantes de la mesa, transcribirá en el acta de escrutinio y cómputo de la consulta.
 Es nulo el voto cuando no sea posible conocer el exacto sentido del mismo, pero siempre será contabilizado dentro de la concurrencia total a la consulta popular.
-Párrafo adicionado DOF 19-05-2021 Bajo el sistema de voto electrónico, se colmarán los requisitos anteriores, pero adecuados a la naturaleza del registro, escrutinio y cómputo de los votos.
+Párrafo adicionado DOF 19-05-2021
+Bajo el sistema de voto electrónico, se colmarán los requisitos anteriores, pero adecuados a la naturaleza del registro, escrutinio y cómputo de los votos.
 Párrafo adicionado DOF 19-05-2021
 
 ### Artículo 54
 . Para determinar la nulidad o validez de los votos, se observarán las siguientes reglas:
 
-I. Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como "SÍ", "NO" o "ABSTENCIÓN", y Fracción reformada DOF 19-05-2021
+I. Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como "SÍ", "NO" o "ABSTENCIÓN", y
+Fracción reformada DOF 19-05-2021
 
 II. Se contará como un voto nulo aquel en que no sea posible conocer el exacto sentido del mismo o cuando la deposite en blanco.
 Fracción reformada DOF 19-05-2021
@@ -531,6 +567,7 @@ Artículo reformado DOF 19-05-2021
 Artículo reformado DOF 19-05-2021
 
 ## SECCIÓN SEXTA — DE LOS RESULTADOS
+
 
 ### Artículo 58
 . Los consejos distritales iniciarán cómputo ininterrumpido de los resultados a partir del término legal de la jornada de consulta y hasta la conclusión del mismo. El cómputo distrital consistirá en la suma de los resultados consignados en las actas de escrutinio y cómputo de las casillas instaladas.
@@ -568,23 +605,25 @@ Artículo reformado DOF 19-05-2021
 
 ## CAPÍTULO IV — DE LA VINCULATORIEDAD Y SEGUIMIENTO
 
+
 ### Artículo 64
 . Cuando el informe del Instituto indique que la participación total en la consulta popular corresponda, al menos al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales, así como para las autoridades competentes, y lo hará del conocimiento de la Suprema Corte, la cual notificará a las autoridades correspondientes para que dentro del ámbito de su competencia realicen lo conducente para su atención.
 Cuando el resultado de la consulta sea vinculatorio tendrá efectos durante los tres años siguientes, contados a partir de la declaratoria de validez.
 
 ## CAPÍTULO V — DE LOS MEDIOS DE IMPUGNACIÓN
 
+
 ### Artículo 65
 . El recurso de apelación previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral será procedente para impugnar el informe que rinda el Secretario Ejecutivo del Instituto sobre el resultado de la verificación del porcentaje señalado en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución, así como el informe del Consejo General respecto del resultado de la consulta popular.
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El periodo de recepción de la consulta popular a que se refiere la Ley, en el artículo 13, por única ocasión iniciará a partir del día siguiente a la entrada en vigor del presente Decreto.
-**Tercero.** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
-**Cuarto.** El Congreso de la Unión deberá realizar las adecuaciones a la legislación secundaria, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
-**Quinto.** Por única ocasión los requisitos relativos al aviso de intención y al formato para la obtención de firmas a los que se refiere esta Ley, no serán aplicables a las peticiones de consultas ciudadanas que hayan sido presentadas al Congreso de la Unión con anterioridad a la entrada en vigor de la presente Ley.
-**Sexto.** Las referencias que esta Ley hace al Instituto Federal Electoral, se entenderán realizadas al Instituto Nacional Electoral, una vez que éste último quede integrado.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El periodo de recepción de la consulta popular a que se refiere la Ley, en el artículo 13, por única ocasión iniciará a partir del día siguiente a la entrada en vigor del presente Decreto.
+**Tercero.-** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+**Cuarto.-** El Congreso de la Unión deberá realizar las adecuaciones a la legislación secundaria, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+**Quinto.-** Por única ocasión los requisitos relativos al aviso de intención y al formato para la obtención de firmas a los que se refiere esta Ley, no serán aplicables a las peticiones de consultas ciudadanas que hayan sido presentadas al Congreso de la Unión con anterioridad a la entrada en vigor de la presente Ley.
+**Sexto.-** Las referencias que esta Ley hace al Instituto Federal Electoral, se entenderán realizadas al Instituto Nacional Electoral, una vez que éste último quede integrado.
 México, D.F., a 6 de marzo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Consulta Popular.
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2021
@@ -593,10 +632,10 @@ Publicado en el Diario Oficial de la Federación el 19 de mayo de 2021
 Se reforman los artículos 3 y 4; el primer y tercer párrafo del artículo 5; los artículos 7 y 8; la fracción II, pasando a ser VI, recorriéndose en su orden las fracciones III, IV, V y VI, para quedar como II, III, IV y V respectivamente, y la actual fracción VI del artículo 9; las fracciones I y actual IV del artículo 11; la fracción III del artículo 12; el artículo 13; los párrafos primero y tercero del artículo 14; las fracciones I, III y el tercer párrafo del artículo 15; los párrafos segundo y tercero del artículo 16; el artículo 20; la fracción II del artículo 21; las fracciones I, el inciso a) de la II, las fracciones III, IV, las actuales V y VI del artículo 26; las fracciones I, y actuales II, V y VI del artículo 27; las fracciones I, II, IV y sus incisos
 
 a) y c) y VI del artículo 28; las fracciones II y III del artículo 30; la denominación del Capítulo III para quedar "DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE CONSULTA POPULAR"; el segundo párrafo del artículo 32; la fracción V del artículo 33; la fracción VI del artículo 34; el artículo 35; el primer párrafo y sus fracciones II, III, IV y V, y el segundo párrafo del artículo 43; las fracciones I y actuales III IV, que pasan a ser II y III, y el segundo párrafo del artículo 45; los artículos 47; 48; 52; el primer párrafo del artículo 53; las fracciones I y II del artículo 54; los artículos 56; 57; 58 y 63, se adicionan un apartado A con las fracciones I y II vigentes y un apartado B con las fracciones I y II en el artículo 6; una fracción III, recorriéndose en su orden las actuales fracciones III y IV, para quedar como fracciones IV y V, respectivamente, y una fracción VI, recorriéndose en su orden las actuales fracciones V y VI, para quedar como VII y VIII, respectivamente, en el artículo 11; un cuarto párrafo en el artículo 12; los párrafos cuarto y quinto en el artículo 15; una fracción V, recorriéndose en su orden las actuales fracciones V y VI, para quedar como fracciones VI y VII, respectivamente, en el artículo 26; una fracción II recorriéndose en su orden las actuales fracciones II, III, IV, V y VI, para quedar como fracciones III, IV, V, VI y VII, respectivamente, en el artículo 27; los párrafos segundo, tercero y
-**cuarto.** en el artículo 48; un inciso c), recorriéndose en su orden el actual inciso c) para quedar como inciso d), de la fracción V y los párrafos segundo y tercero en el artículo 53, y se derogan el cuarto párrafo del artículo 14; el tercer párrafo del artículo 43; la fracción II, recorriéndose en su orden las actuales III y IV, para quedar como II y III, respectivamente, del artículo 45, y el primer párrafo, quedando el segundo párrafo como párrafo único, en el artículo 52 de la Ley Federal de Consulta Popular, para quedar como sigue: ……..
+**cuarto.-** en el artículo 48; un inciso c), recorriéndose en su orden el actual inciso c) para quedar como inciso d), de la fracción V y los párrafos segundo y tercero en el artículo 53, y se derogan el cuarto párrafo del artículo 14; el tercer párrafo del artículo 43; la fracción II, recorriéndose en su orden las actuales III y IV, para quedar como II y III, respectivamente, del artículo 45, y el primer párrafo, quedando el segundo párrafo como párrafo único, en el artículo 52 de la Ley Federal de Consulta Popular, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los procesos de consulta popular que a la fecha de entrada en vigor del presente Decreto se encuentren en desarrollo se regirán por las disposiciones conforme a las cuales fueron convocados.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los procesos de consulta popular que a la fecha de entrada en vigor del presente Decreto se encuentren en desarrollo se regirán por las disposiciones conforme a las cuales fueron convocados.
 Ciudad de México, a 27 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Edgar Guzmán Valdez, Secretario.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

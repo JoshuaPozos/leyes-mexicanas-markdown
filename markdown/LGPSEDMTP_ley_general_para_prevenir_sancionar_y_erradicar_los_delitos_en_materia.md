@@ -16,7 +16,9 @@ LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO I
+
 Generalidades
 
 ### Artículo 1o
@@ -70,7 +72,8 @@ X. Presunción de minoría de edad: En los casos que no pueda determinarse o exi
 XI. Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas de los delitos previstos por esta Ley, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima.
 
 XII. Interseccionalidad: Herramienta analítica que reconoce que las desigualdades sistemáticas se configuran a partir de la superposición de diferentes factores sociales como el género, la etnia y la clase social. En consecuencia, tanto las desventajas como los privilegios que tiene una persona en un momento y lugar determinados no pueden entenderse de su identidad. Por el contrario, se debe prestar atención al conjunto de relaciones de poder que le afectan, incluidas aquellas fuerzas a nivel macro como el pasado colonial y la pobreza; y las fuerzas a nivel micro, entre ellas el estado de salud de una persona y la estructura de su familia o comunidad.
-PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Fracción adicionada DOF 07-06-2024
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Fracción adicionada DOF 07-06-2024
 
 XIII. Interculturalidad: Es una metodología que permite la interacción respetuosa entre diferentes culturas y grupos étnicos, mediante la cual se reconoce y valora la diversidad cultural, buscando la igualdad de derechos y oportunidades para todas las personas, independientemente de su origen cultural o étnico.
 Fracción adicionada DOF 07-06-2024
@@ -132,6 +135,7 @@ g) Una capacidad reducida para forma juicios por ser una persona menor de edad, 
 h) Cualquier otra característica que sea aprovechada por el sujeto activo del delito.
 
 ## CAPÍTULO II
+
 Competencias y facultades en la prevención, investigación, procesamiento, sanción y ejecución de penas de los delitos previstos en esta Ley
 
 ### Artículo 5o
@@ -147,7 +151,8 @@ IV. El Ministerio Público de la Federación solicite a la autoridad competente 
 V. Que sean cometidos por la delincuencia organizada, en los términos de la Ley Federal contra la Delincuencia Organizada.
 Para tal efecto la autoridad local deberá coadyuvar en todo momento con la autoridad federal en la integración de la investigación por delincuencia organizada.
 Las entidades federativas serán competentes para investigar, procesar y sancionar los delitos establecidos en esta ley cuando no se den los supuestos previstos anteriormente.
-Párrafo reformado DOF 19-01-2018 La ejecución de las penas por los delitos previstos en esta Ley se regirá conforme a los ordenamientos aplicables en la Federación y las entidades federativas, en lo que no se oponga a la presente Ley.
+Párrafo reformado DOF 19-01-2018
+La ejecución de las penas por los delitos previstos en esta Ley se regirá conforme a los ordenamientos aplicables en la Federación y las entidades federativas, en lo que no se oponga a la presente Ley.
 Párrafo reformado DOF 19-01-2018
 
 ### Artículo 6o
@@ -156,7 +161,9 @@ Artículo reformado DOF 19-01-2018
 
 ## TÍTULO SEGUNDO — DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS
 
+
 ## CAPÍTULO I
+
 De los principios para la investigación, procesamiento e imposición de las sanciones
 
 ### Artículo 7o
@@ -178,9 +185,11 @@ V. Las policías, el Ministerio Público y las autoridades jurisdiccionales adop
 . Las policías, Ministerio Público y autoridades jurisdiccionales harán una consideración especial en el desarrollo de sus actividades, cuando la víctima se encuentre en una situación de vulnerabilidad por haber sufrido algún daño físico o emocional que requieran tomar medidas especiales.
 
 ### Artículo 9o
-. En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de esta Ley, las autoridades federales y de las entidades federativas, aplicarán Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Artículo reformado DOF 19-01-2018
+. En todo lo no previsto en materia de investigación, procedimientos y sanciones de los delitos materia de esta Ley, las autoridades federales y de las entidades federativas, aplicarán Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la
+Artículo reformado DOF 19-01-2018
 
 ## CAPÍTULO II — DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS
+
 
 ### Artículo 10
 .- Toda acción u omisión dolosa de una o varias personas para captar, enganchar, transportar, transferir, retener, entregar, recibir o alojar a una o varias personas con fines de explotación se le impondrá de 5 a 15 años de prisión y de un mil a veinte mil días multa, sin perjuicio de las sanciones que correspondan para cada uno de los delitos cometidos, previstos y sancionados en esta Ley y en los códigos penales correspondientes.
@@ -199,7 +208,8 @@ V. El trabajo o servicios forzados, en los términos del artículo 22 de la pres
 VI. La mendicidad forzosa, en los términos del artículo 24 de la presente Ley;
 
 VII. La utilización de personas menores de dieciocho años o que no tenga la capacidad de comprender el significado del hecho, o no tenga la capacidad de resistir la conducta, en actividades delictivas, en los términos del artículo 25 de la presente Ley;
-PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Fracción reformada DOF 07-06-2024
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Fracción reformada DOF 07-06-2024
 
 VIII. La adopción ilegal de persona menor de dieciocho años, en los términos de los artículos 26 y 27 de la presente Ley;
 
@@ -247,7 +257,8 @@ Tratándose de personas menores de edad o personas que no tiene la capacidad de 
 ### Artículo 14
 . Será sancionado con pena de 10 a 15 años de prisión y de un mil a 30 mil días multa, al que someta a una persona o se beneficie de someter a una persona para que realice actos pornográficos, o produzca o se beneficie de la producción de material pornográfico, o engañe o participe en engañar a una persona para prestar servicios sexuales o realizar actos pornográficos.
 Para lo anterior, también se considerará el uso de las tecnologías de la información y comunicación, tales como herramientas, programas, plataformas y dispositivos que se utilizan para procesar, administrar, editar, difundir, o crear contenido con la información o material que devenga de una persona víctima.
-Párrafo adicionado DOF 07-06-2024 Si se utiliza con los fines de los párrafos anteriores a personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se impondrá una pena de 16 a 21 años de prisión y de un mil 500 a 45 mil días multa.
+Párrafo adicionado DOF 07-06-2024
+Si se utiliza con los fines de los párrafos anteriores a personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se impondrá una pena de 16 a 21 años de prisión y de un mil 500 a 45 mil días multa.
 Párrafo adicionado DOF 07-06-2024
 
 ### Artículo 15
@@ -296,7 +307,8 @@ II. Existencia de una manifiesta desproporción entre la cantidad de trabajo rea
 III. Salario por debajo de lo legalmente establecido.
 
 IV. Jornadas de trabajo por encima de lo estipulado por la Ley.
-Fracción adicionada DOF 07-06-2024 Tratándose de personas pertenecientes a pueblos y comunidades indígenas y afromexicanas las penas previstas serán de 4 a 12 años de prisión, y de 7 mil a 70 mil días multa.
+Fracción adicionada DOF 07-06-2024
+Tratándose de personas pertenecientes a pueblos y comunidades indígenas y afromexicanas las penas previstas serán de 4 a 12 años de prisión, y de 7 mil a 70 mil días multa.
 Párrafo adicionado DOF 07-06-2024
 
 ### Artículo 22
@@ -371,7 +383,8 @@ PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 ### Artículo 35
 . Se sancionará con pena de 2 a 40 años de prisión y de un mil a 25 mil días multa, además de las que resulten por la comisión de conductas previstas en otros ordenamientos legales aplicables, al que, a sabiendas de su situación de trata, adquiera, use, compre, solicite o alquile servicios de una persona para cualquiera de los fines previstos en los delitos materia de la presente Ley.
 La pena se incrementará cuando la víctima sea una persona menor de 18 años o que no tenga la capacidad de comprender el significado del hecho, o que no tenga la capacidad de resistirlo; mayores de sesenta años, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, mujeres embarazadas, o personas con discapacidad, de 12 a 50 años de prisión y de 12 mil a 50 mil días multa, además de las que resulten por la comisión de conductas previstas en otros ordenamientos legales aplicables.
-Párrafo adicionado DOF 07-06-2024 6 años de prisión y de un mil a 10 mil días multa, al que divulgue, sin motivo fundado, información reservada o confidencial relacionada con los delitos, procesos y personas objeto de esta Ley o relacionada con el Programa de Protección de Víctimas, Ofendidos y Testigos.
+Párrafo adicionado DOF 07-06-2024
+6 años de prisión y de un mil a 10 mil días multa, al que divulgue, sin motivo fundado, información reservada o confidencial relacionada con los delitos, procesos y personas objeto de esta Ley o relacionada con el Programa de Protección de Víctimas, Ofendidos y Testigos.
 Si el sujeto es o hubiese sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, o del poder judicial la pena será de seis a doce años de prisión y de 2 mil a 15 mil días multa.
 
 ### Artículo 37
@@ -381,6 +394,7 @@ Si el sujeto es o hubiese sido integrante de una institución de seguridad públ
 . Las víctimas extranjeras de delitos en materia de trata de personas, no serán sujetas a las sanciones previstas en la Ley de Migración u otros ordenamientos legales, por su situación migratoria PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS irregular o por la adquisición o posesión de documentos de identificación apócrifos. Tampoco serán mantenidas en centros de detención o prisión en ningún momento antes, durante o después de todos los procedimientos administrativos o judiciales que correspondan.
 
 ## CAPÍTULO II
+
 Reglas comunes para los delitos previstos en esta Ley
 
 ### Artículo 39
@@ -435,7 +449,8 @@ f) Haya sido condenado con anterioridad por el mismo delito, o cualquier otro de
 
 ### Artículo 44
 . Los bienes que sean instrumento, objeto o producto de los delitos previstos en esta Ley, y que sean decomisados como resultado del ejercicio de la extinción de dominio, formarán parte del patrimonio del Fondo, así como de aquellos Fondos de Protección y Asistencia a las Víctimas de las entidades federativas.
-Párrafo reformado DOF 19-01-2018 Al imponer las consecuencias jurídicas accesorias previstas en este artículo, el Juez, oficiosamente, tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona sancionada. Toda omisión de la autoridad judicial será sancionada en los términos de las leyes aplicables.
+Párrafo reformado DOF 19-01-2018
+Al imponer las consecuencias jurídicas accesorias previstas en este artículo, el Juez, oficiosamente, tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona sancionada. Toda omisión de la autoridad judicial será sancionada en los términos de las leyes aplicables.
 
 ### Artículo 45
 . Cuando un miembro o representante de una persona moral cometa algún delito de los previstos en esta Ley, con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido en su nombre, bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias correspondientes, con base a la Ley de Extinción de Dominio aplicable, además del decomiso de los fondos y bienes ilícitos producidos por los delitos previstos en esta Ley, sin excepción alguna.
@@ -463,6 +478,7 @@ VII. Cuente con fiador, y
 VIII. Se obligue a no molestar a la víctima y a los testigos que depusieron en su contra, así como a sus parientes o personas vinculadas a éstos.
 
 ## CAPÍTULO III — Del Resarcimiento y Reparación del Daño
+
 
 ### Artículo 48
 . Cuando una persona sea declarada penalmente responsable de la comisión de los delitos previstos en esta Ley, el Juez deberá condenarla al pago de la reparación del daño a favor de la víctima u ofendidos, en todos los casos.
@@ -507,15 +523,18 @@ Párrafo reformado DOF 14-11-2025
 Párrafo reformado DOF 07-06-2024
 
 I. Realizar todas las acciones y diligencias necesarias bajo los más altos estándares internacionales de debida diligencia para que la víctima sea restituida en el goce y ejercicio de sus derechos;
-PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Fracción reformada DOF 07-06-2024
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Fracción reformada DOF 07-06-2024
 
 II. Proporcionar los tratamientos médicos y psicológicos para la recuperación de la víctima, en los términos de la Constitución.
 
 ### Artículo 52
 . Cuando la reparación del daño no sea cubierta total o parcialmente por el sentenciado, la Federación y las entidades federativas, según corresponda, cubrirán dicha reparación con los recursos de sus respectivos fondos, en los términos establecidos por el artículo 81 de esta Ley.
-Párrafo reformado DOF 19-01-2018 Los derechos de la autoridad para exigir al sentenciado la reparación del daño, quedarán a salvo para hacerlos efectivos.
+Párrafo reformado DOF 19-01-2018
+Los derechos de la autoridad para exigir al sentenciado la reparación del daño, quedarán a salvo para hacerlos efectivos.
 
 ## CAPÍTULO IV — De las Técnicas de Investigación
+
 
 ### Artículo 53
 . Cuando el Ministerio Público tenga conocimiento por cualquier medio de la comisión de alguno de los delitos en materia de trata de personas asumirá la función de la dirección de investigación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -602,9 +621,11 @@ Párrafo reformado DOF 20-05-2021
 . Por informante se entenderá toda persona que de forma directa o indirecta tiene conocimiento de la comisión de delitos, y por su situación o actividad que realiza, provee dicha información a las instancias de gobierno para la investigación.
 
 ## TÍTULO TERCERO
+
 De la Protección y Asistencia a las Víctimas, Ofendidos y Testigos de los Delitos en Materia de Trata de Personas
 
 ## CAPÍTULO I
+
 Derechos de las Víctimas y Testigos Durante el Procedimiento Penal y Medidas de Protección a su Favor
 
 ### Artículo 59
@@ -645,7 +666,8 @@ IV. Generar modelos y Protocolos de Asistencia y Protección, según sus necesid
 Fracción reformada DOF 07-06-2024
 
 V. Proveer la debida protección, asistencia y atención integral a las víctimas en refugios y albergues durante su recuperación, rehabilitación y resocialización, garantizando en todo momento su seguridad, así como un trato digno respetuoso y adecuado a su contexto.
-Párrafo reformado DOF 07-06-2024 Estos programas dependerán de las instancias competentes para prestar atención a las víctimas, ya sean federal o de las entidades federativas, por sí mismas o en coordinación con instituciones especializadas públicas o privadas, en términos de la normativa aplicable, en los que podrán participar la sociedad civil coordinadamente con las áreas responsables.
+Párrafo reformado DOF 07-06-2024
+Estos programas dependerán de las instancias competentes para prestar atención a las víctimas, ya sean federal o de las entidades federativas, por sí mismas o en coordinación con instituciones especializadas públicas o privadas, en términos de la normativa aplicable, en los que podrán participar la sociedad civil coordinadamente con las áreas responsables.
 En el caso de los refugios estos deberán ser especializados en brindar atención integral a las víctimas de trata de personas, garantizando en todo momento su seguridad, así como un trato digno, respetuoso y adecuado a su contexto.
 Párrafo adicionado DOF 07-06-2024
 
@@ -722,6 +744,7 @@ III. Permitir que sus opiniones y preocupaciones sean presentadas y examinadas e
 IV. Evitar demoras innecesarias en la resolución de las causas y en la ejecución de los mandamientos o decretos que concedan reparación del daño.
 
 ## CAPÍTULO II
+
 Protección y Asistencia a las Víctimas
 
 ### Artículo 68
@@ -762,6 +785,7 @@ III. Resguardo de la identidad y otros datos personales.
 En los casos en que la víctima, ofendido o testigo declare en contra de grupos de la delincuencia organizada, el Ministerio Público y el Poder Judicial adoptarán un conjunto de medidas de carácter excepcional para resguardar su vida, libertad, integridad, seguridad e identidad.
 
 ## CAPÍTULO III
+
 De los Derechos de las Víctimas Extranjeras en México y de las Víctimas Mexicanas en el Extranjero
 
 ### Artículo 75
@@ -792,9 +816,11 @@ Tampoco se interpretará en perjuicio de cualquier acuerdo o arreglo bilateral o
 
 ## CAPÍTULO IV — De la Protección y Asistencia a las Víctimas y el Fondo
 
+
 ### Artículo 81
 . Los ejecutivos Federal, de las entidades federativas establecerán, en el ámbito de sus respectivas competencias, un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
-Párrafo reformado DOF 19-01-2018 Los Fondos se constituirán en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera:
+Párrafo reformado DOF 19-01-2018
+Los Fondos se constituirán en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera:
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
 I. Recursos previstos para dicho fin en los presupuestos de egresos de la Federación y de las entidades federativas;
@@ -813,8 +839,10 @@ VI. Recursos que se produzcan por la administración de valores o los depósitos
 VII. Las donaciones o aportaciones hechas a su favor por terceros.
 El Fondo Federal para la Atención de Víctimas de los delitos previstos en esta Ley será administrado por la instancia y en los términos que disponga el Reglamento, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
 Los recursos que integren el Fondo así como los que destine la Federación a los Fondos de Protección y Asistencia a las Víctimas de las entidades federativas, serán fiscalizados por la Auditoría Superior de la Federación.
-Párrafo reformado DOF 19-01-2018 Asimismo, las instancias encargadas de la revisión de la cuenta pública en los ámbitos de sus respetivas competencias, fiscalizarán los Fondos de Protección y Asistencia a las Víctimas de las entidades federativas, en los términos de la legislación local aplicable.
-Párrafo reformado DOF 19-01-2018 Los recursos del Fondo, así como los correspondientes a los fondos de las entidades federativas, provenientes de las fracciones II, III, IV, V y VII del presente artículo, podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de las legislaciones Federal y locales en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
+Párrafo reformado DOF 19-01-2018
+Asimismo, las instancias encargadas de la revisión de la cuenta pública en los ámbitos de sus respetivas competencias, fiscalizarán los Fondos de Protección y Asistencia a las Víctimas de las entidades federativas, en los términos de la legislación local aplicable.
+Párrafo reformado DOF 19-01-2018
+Los recursos del Fondo, así como los correspondientes a los fondos de las entidades federativas, provenientes de las fracciones II, III, IV, V y VII del presente artículo, podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de las legislaciones Federal y locales en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
 
 ### Artículo 82
 . El monto que determine el juez para la reparación del daño deberá resarcir a las víctimas y ofendidos por los daños ocasionados por cualquiera de las conductas típicas incluidas en la presente Ley.
@@ -840,6 +868,7 @@ A solicitud de la víctima, quien encabece dicha dependencia o instancia, deber�
 
 ## CAPÍTULO V — Del Programa de Protección a Víctimas y Testigos
 
+
 ### Artículo 83
 . La Procuraduría elaborará un programa para ofrecer cambio de identidad y reubicación a víctimas, ofendidos y testigos de los delitos objeto de la presente Ley, cuya integridad pueda estar amenazada.
 El Centro Federal de Protección a Personas será responsable de supervisar y coordinar la puesta en marcha de este Programa, y su titular responsable de decidir sobre la admisión, duración de la protección, medidas a aplicarse, políticas de confidencialidad, operación y procedimientos.
@@ -848,7 +877,9 @@ LIBRO SEGUNDO DE LA POLÍTICA DE ESTADO
 
 ## TÍTULO PRIMERO — DE LA COMISIÓN INTERSECRETARIAL Y EL PROGRAMA NACIONAL
 
+
 ## CAPÍTULO I — De la Comisión intersecretarial
+
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
 ### Artículo 84
@@ -896,8 +927,10 @@ XIII. Instituto Nacional de las Mujeres;
 XIV. Instituto Nacional de Migración, y
 
 XV. Se deroga.
-Fracción derogada DOF 20-05-2021 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Además, participará como integrante de la Comisión un representante de la Fiscalía General de la República, quien actuará con pleno respeto a la autonomía constitucional que le confiere a la institución el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo adicionado DOF 20-05-2021 Por cada miembro propietario habrá un suplente designado por el titular, quien en su caso deberá tener nivel inmediato inferior o equivalente.
+Fracción derogada DOF 20-05-2021
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Además, participará como integrante de la Comisión un representante de la Fiscalía General de la República, quien actuará con pleno respeto a la autonomía constitucional que le confiere a la institución el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
+Párrafo adicionado DOF 20-05-2021
+Por cada miembro propietario habrá un suplente designado por el titular, quien en su caso deberá tener nivel inmediato inferior o equivalente.
 En las reuniones el suplente contará con las mismas facultades que los propietarios.
 
 ### Artículo 86
@@ -1061,7 +1094,8 @@ c) Los testigos y personas que aporten información relativa al delito o que col
 d) A los miembros de la sociedad civil o de organizaciones no gubernamentales que se encuentran brindando apoyo a la víctima, sus familiares o testigos.
 
 VIII. Medidas para garantizar la protección y asistencia, incluyendo, por lo menos, protección física, adjudicación a cargo de la Fiscalía de un nuevo lugar de residencia, cambio de identidad, ayuda en la obtención de empleo, así como aquellas medidas humanitarias que propicien la unificación familiar, también a cargo de la Fiscalía.
-Fracción reformada DOF 20-05-2021 A fin de llevar a cabo las medidas de protección antes citadas, podrá hacerse uso de los recursos del Fondo, sujetándose a las disposiciones aplicables.
+Fracción reformada DOF 20-05-2021
+A fin de llevar a cabo las medidas de protección antes citadas, podrá hacerse uso de los recursos del Fondo, sujetándose a las disposiciones aplicables.
 
 ### Artículo 91
 . La Comisión fomentará acciones tendientes a fortalecer la solidaridad y prevención social del delito conforme a los siguientes criterios:
@@ -1078,6 +1112,7 @@ IV. Informar sobre las consecuencias y daños que sufren las víctimas de la tra
 V. Establecer medidas destinadas a proteger los derechos y la identidad de las víctimas por parte de los medios de comunicación, para que en caso de no respetar sus derechos, incurran en responsabilidad. Se exceptúa cuando la información sea en torno a los sujetos activos y las consecuencias de este delito, de forma comprometida para su prevención y no su promoción y fomento.
 
 ## CAPÍTULO II — Del Programa Nacional
+
 
 ### Artículo 92
 . La Comisión diseñará el proyecto del Programa Nacional, que definirá la Política del Estado Mexicano frente a los delitos previstos en esta Ley, que deberá contemplar, como mínimo, los siguientes rubros:
@@ -1111,7 +1146,8 @@ Este informe será remitido al C. Presidente Constitucional de los Estados Unido
 
 ### Artículo 94
 . Corresponderá a la Comisión Intersecretarial y a la Secretaría la evaluación de avances y resultados de los programas para la prevención de los delitos previstos en esta Ley, y de la protección y asistencia a las víctimas, sin perjuicio de la que las autoridades locales realicen en sus respectivas evaluaciones.
-Párrafo reformado DOF 20-05-2021 Dicha evaluación y la de las autoridades locales, serán sistemáticas y permanentes.
+Párrafo reformado DOF 20-05-2021
+Dicha evaluación y la de las autoridades locales, serán sistemáticas y permanentes.
 Sus resultados serán compartidos a las autoridades ministeriales y judiciales, para que, en el ámbito de su competencia, adopten las medidas procedentes.
 Párrafo reformado DOF 20-05-2021
 
@@ -1121,17 +1157,21 @@ Los convenios y acuerdos deberán ajustarse, en lo conducente, a las bases previ
 
 ## CAPÍTULO III — De la Evaluación del Programa Nacional
 
+
 ### Artículo 96
 . Sin menoscabo de lo señalado en los párrafos anteriores, las instituciones a que se refiere este artículo están obligadas a generar indicadores sobre su avance en la aplicación de métodos para prevenir y eliminar cualquier modalidad de los delitos previstos en esta Ley, con la finalidad de que sean sujetas a evaluación sobre la materia.
 Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
 
 ### Artículo 97
 . Las autoridades federales, de las entidades federativas y municipales responsables de prevenir, perseguir y sancionar el delito de trata de personas y demás delitos objeto de esta Ley, así como las responsables de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa Nacional, así como de PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS las entidades federativas y municipios, con el fin de formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
-Párrafo reformado DOF 19-01-2018 Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
+Párrafo reformado DOF 19-01-2018
+Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
 
 ## TÍTULO SEGUNDO — DE LA PREVENCIÓN DE LOS DELITOS PREVISTOS EN ESTA LEY
 
+
 ## CAPÍTULO I — De las Políticas y Programas de Prevención
+
 
 ### Artículo 98
 . Las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias y de las facultades y obligaciones establecidas en esta Ley, establecerán y ejecutarán políticas, programas, acciones y otras medidas, con la finalidad de contribuir a erradicar los delitos objeto de la presente Ley.
@@ -1153,9 +1193,11 @@ Párrafo reformado DOF 19-01-2018 Estas reuniones serán presididas por la Secre
 
 ### Artículo 104
 . La Secretaría de Seguridad Pública y autoridades de las entidades federativas y municipales, dentro del ámbito de sus competencias, supervisarán negocios que puedan ser propicios para la comisión del delito previsto en esta Ley, realizando inspecciones en agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines, servicio de Internet, baños públicos u otros.
-Párrafo reformado DOF 19-01-2018 Para autorizar la operación de los negocios que presten servicio de Internet, deberán contar con filtros parentales y defensa contra intromisiones no deseadas.
+Párrafo reformado DOF 19-01-2018
+Para autorizar la operación de los negocios que presten servicio de Internet, deberán contar con filtros parentales y defensa contra intromisiones no deseadas.
 Las Autoridades Municipales y de las Demarcaciones Territoriales de la Ciudad de México, de conformidad con sus atribuciones y facultades, deberán adoptar las medidas necesarias para la inspección de las agencias de colocación, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la trata de personas y demás delitos previstos en esta Ley.
-PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Párrafo reformado DOF 19-01-2018
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Párrafo reformado DOF 19-01-2018
 
 ### Artículo 105
 . Las autoridades de procuración de justicia y policiales de los distintos órdenes de gobierno, procederán a la búsqueda inmediata de cualquier mujer, niña, niño o adolescente o cualquier persona que le sea reportado como extraviado, sustraído o ausente, librando una alerta general a todas las instancias de procuración de justicia y policiales en todo el territorio nacional y fuera de éste, así como al Instituto Nacional de Migración y a la Secretaría de Relaciones Exteriores para impedir que la persona reportada pueda ser sacada del país.
@@ -1166,6 +1208,7 @@ Párrafo adicionado DOF 05-04-2023
 . Queda prohibida toda publicidad o inserciones pagadas en los medios de comunicación masiva de cualquier índole, que incluya en sus publicaciones anuncios de contacto sexual o que promueva la prostitución y la pornografía que pueda propiciar la trata de personas y demás delitos previstos en el presente ordenamiento.
 
 ## CAPÍTULO II
+
 Atención Preventiva a Zonas y Grupos de Alta Vulnerabilidad
 
 ### Artículo 107
@@ -1199,15 +1242,19 @@ Artículo reformado DOF 19-01-2018
 
 ## CAPÍTULO III — De la Evaluación de los Programas de Prevención
 
+
 ### Artículo 109
 . Las autoridades federales y de las entidades federativas, en los ámbitos de sus respectivas competencias, en términos de las disposiciones aplicables, estarán obligadas a generar indicadores sobre la aplicación y resultados de los programas para prevenir los delitos en materia de trata de personas, con la finalidad de que los avances puedan ser sujetos a evaluación.
-Párrafo reformado DOF 19-01-2018 Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
+Párrafo reformado DOF 19-01-2018
+Tales indicadores serán de dominio público y se difundirán por los medios disponibles.
 
 ### Artículo 110
 . Las autoridades federales, de las entidades federativas y municipales, responsables de prevenir, perseguir y sancionar el delito de trata de personas y de prestar asistencia y protección a las víctimas, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Programa, formular recomendaciones y convenir acciones para apoyar la lucha por la erradicación de este fenómeno social en todas sus manifestaciones y modalidades.
-Párrafo reformado DOF 19-01-2018 Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
+Párrafo reformado DOF 19-01-2018
+Estas reuniones serán presididas por la Secretaría y convocadas por la Comisión Intersecretarial.
 
 ## CAPÍTULO IV — De la Atención a Rezagos
+
 
 ### Artículo 111
 . El Estado apoyará la implementación de programas en las regiones que muestren mayores rezagos en materia de prevención de delito de Trata de Personas, previa celebración de convenios.
@@ -1216,9 +1263,12 @@ Párrafo reformado DOF 19-01-2018 Estas reuniones serán presididas por la Secre
 . Las autoridades de los distintos órdenes de gobierno, tomando en cuenta las necesidades particulares de cada región o localidad que en las evaluaciones de los programas muestren rezagos en la atención de estos delitos, llevarán a cabo actividades complementarias a las de prevención señaladas en el artículo 72 de esta Ley, para combatir los rezagos detectados en los ámbitos de sus respectivas competencias.
 
 ## TÍTULO TERCERO — PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
-FACULTADES Y COMPETENCIAS DE LAS AUTORIDADES DE LOS DISTINTOS ÓRDENES DE GOBIERNO Denominación del Título reformada DOF 19-01-2018
+
+FACULTADES Y COMPETENCIAS DE LAS AUTORIDADES DE LOS DISTINTOS ÓRDENES DE GOBIERNO
+Denominación del Título reformada DOF 19-01-2018
 
 ## CAPÍTULO I — Del Gobierno Federal
+
 
 ### Artículo 113
 . Además de las competencias para investigar, perseguir y sancionar los delitos objeto de esta Ley establecidas en Libro Primero y en el Programa, corresponden de manera exclusiva a las autoridades federales las siguientes atribuciones:
@@ -1269,11 +1319,13 @@ XIX. Proteger y asistir a las víctimas, ofendidos y testigos de los delitos que
 XX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ## CAPÍTULO II — De las Autoridades de las Entidades Federativas y Municipales
+
 Denominación del Capítulo reformada DOF 19-01-2018
 
 ### Artículo 114
 . Corresponden de manera exclusiva a las autoridades de las entidades federativas, en sus respectivos ámbitos de competencia, las atribuciones siguientes:
-Párrafo reformado DOF 19-01-2018 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Párrafo reformado DOF 19-01-2018
+PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
 I. En concordancia con el Programa Nacional, formular políticas e instrumentar programas estatales para prevenir, sancionar y erradicar los delitos previstos en esta Ley, así como para la protección, atención, rehabilitación y recuperación del proyecto de vida de las víctimas y posibles víctimas, ofendidos y testigos de los mismos;
 
@@ -1350,6 +1402,7 @@ Fracción reformada DOF 19-01-2018
 
 ## CAPÍTULO III — De la Reglamentación del Programa
 
+
 ### Artículo 117
 . La Fiscalía será competente para la elaboración de un programa confidencial, en los términos de la ley de la materia, sujeto a criterios estrictos de admisión, que puede ofrecer cambio de identidad y reubicación nacional e internacional, después de la evaluación de la amenaza sobre su vida y el grado de riesgo que le represente el crimen organizado.
 Artículo reformado DOF 20-05-2021
@@ -1412,13 +1465,16 @@ III. Incumplimiento de reglas, condiciones y obligaciones adquiridas lo que pued
 IV. Retiro voluntario del Programa.
 
 ## CAPÍTULO IV
+
 Del Financiamiento a la Prevención, Sanción y Erradicación de los Delitos Previstos en esta Ley y de la Asistencia y Protección a las Víctimas, Ofendidos y Testigos
 
 ### Artículo 123
 . El Gobierno Federal y los gobiernos de las entidades federativas, con sujeción a las disposiciones de sus respectivas leyes de ingresos y decretos de egresos que resulten aplicables, concurrirán en el financiamiento de la prevención, sanción y erradicación de los delitos previstos en esta Ley y de los servicios para la asistencia y protección a las víctimas y ofendidos.
-Párrafo reformado DOF 19-01-2018 Los recursos federales recibidos para ese fin por cada entidad federativa, no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades previstas en esta Ley en la propia entidad.
+Párrafo reformado DOF 19-01-2018
+Los recursos federales recibidos para ese fin por cada entidad federativa, no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades previstas en esta Ley en la propia entidad.
 Los gobiernos de las entidades federativas prestarán todas las facilidades y colaboración para que, en su caso, la Auditoría Superior de la Federación verifique la correcta aplicación de dichos recursos.
-Párrafo reformado DOF 19-01-2018 En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
+Párrafo reformado DOF 19-01-2018
+En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades administrativas, civiles y penales que procedan.
 
 ### Artículo 124
 . Los gobiernos de las entidades federativas, de conformidad con las disposiciones aplicables, proveerán lo conducente para que cada ayuntamiento y demarcación territorial reciba recursos para el cumplimiento de las responsabilidades que estén a su cargo.
@@ -1436,8 +1492,8 @@ Artículo reformado DOF 20-05-2021
 
 ## TRANSITORIOS
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley para Prevenir y Sancionar la Trata de Personas, publicada en el Diario Oficial de la Federación el día 27 de noviembre de 2007.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley para Prevenir y Sancionar la Trata de Personas, publicada en el Diario Oficial de la Federación el día 27 de noviembre de 2007.
 **Tercero.-** La implementación del presente decreto será con cargo a los respectivos presupuestos aprobados en las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
 **Cuarto.-** El Ejecutivo Federal contará con 90 días a partir de la publicación de esta Ley para emitir el Reglamento de la misma.
 **Quinto.-** El Ejecutivo Federal contará con 60 días para modificar o adaptar el Programa Nacional para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia de las Víctimas de estos Delitos, con las disposiciones de esta Ley.
@@ -1450,7 +1506,7 @@ PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 **Décimo Primero.-** Las disposiciones relativas a los delitos a que se refiere esta Ley previstas tanto en presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
 **Décimo Segundo.-** En los lugares en que se encuentre en vigor el Sistema Procesal Penal Acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado el día 18 de junio de 2008, se aplicará las reglas previstas para la investigación de los delitos objeto de la presente Ley.
 **Décimo Tercero.-** El Sistema Nacional de Seguridad Pública deberá publicar los lineamientos mínimos señalados en los artículos 56 y 57 en un plazo no mayor a 240 días naturales tras la publicación de este Decreto.
-**Décimo Cuarto.** Las procuradurías de las entidades federativas deberán crear y operar fiscalías especializadas para la investigación de las conductas previstas en esta Ley, que contarán con Ministerios Públicos y policías especializados, los recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función.
+**Décimo Cuarto.-** Las procuradurías de las entidades federativas deberán crear y operar fiscalías especializadas para la investigación de las conductas previstas en esta Ley, que contarán con Ministerios Públicos y policías especializados, los recursos humanos, financieros y materiales que requieran para su efectiva operación. Estas unidades se integrarán con servicios periciales y técnicos especializados para el ejercicio de su función.
 Las procuradurías de las entidades federativas y el Distrito Federal capacitarán a su personal en materia de planeación de investigación.
 Para ingresar y permanecer en las fiscalías especializadas en la investigación y persecución de los delitos previstos en esta Ley será necesario cumplir con los requisitos previstos en el artículo transitorio anterior.
 Las Fiscalías Especializadas de investigación, en el ámbito de sus competencias, tendrán las facultades que se señalan en el artículo transitorio anterior para la Coordinación General de la Procuraduría.
@@ -1482,7 +1538,7 @@ Se adiciona un segundo párrafo a la fracción II del artículo 62 de la Ley Gen
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 11 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
@@ -1504,41 +1560,41 @@ Se reforman la fracción VII, del artículo 4o; el párrafo segundo del artícul
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DECRETO por el que se adiciona un párrafo segundo al artículo 105 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 Publicado en el Diario Oficial de la Federación el 5 de abril de 2023
@@ -1567,12 +1623,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

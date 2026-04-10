@@ -15,6 +15,7 @@ Se expide la Ley de Seguridad Interior Ley declarada inválida por sentencia de 
 
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es de orden público, de interés general y de observancia obligatoria en todo el territorio nacional. Sus disposiciones son materia de seguridad nacional en términos de lo dispuesto por la fracción XXIX-M del artículo 73 y la fracción VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos en materia de seguridad interior. Tiene por objeto regular la función del Estado para preservar la Seguridad Interior, así como establecer las bases, procedimientos y modalidades de coordinación entre la Federación, las entidades federativas y los municipios, en la materia.
 
@@ -68,6 +69,7 @@ Asimismo, el Consejo de Seguridad Nacional emitirá lineamientos para la partici
 La materia de Seguridad Interior queda excluida de lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO SEGUNDO — DE LOS SUPUESTOS Y PROCEDIMIENTO PARA EMITIR LA DECLARATORIA DE
+
 PROTECCIÓN A LA SEGURIDAD INTERIOR
 
 ### Artículo 11
@@ -126,6 +128,7 @@ Las condiciones y vigencia de la Declaratoria de Protección a la Seguridad Inte
 Lo anterior, sin perjuicio de la comunicación que realice la Secretaría de Gobernación de forma posterior a los titulares del Poder Ejecutivo respectivo de las entidades federativas y la emisión, en el menor tiempo posible, de la Declaratoria de Protección a la Seguridad Interior.
 
 ## CAPÍTULO TERCERO — DE LA INTERVENCIÓN DE LAS AUTORIDADES FEDERALES
+
 
 ### Artículo 17
 . A partir de la expedición de la Declaratoria de Protección a la Seguridad Interior, las acciones que realicen las autoridades federales para su atención y cumplimiento, se considerarán como Acciones de Seguridad Interior.
@@ -191,6 +194,7 @@ Las acciones que se realicen para identificar, prevenir y atender riesgos a la S
 
 ## CAPÍTULO CUARTO — DE LA INTELIGENCIA PARA LA SEGURIDAD INTERIOR
 
+
 ### Artículo 29
 . Las Acciones de Seguridad Interior se apoyarán en los órganos, unidades y procesos de inteligencia previstos en las leyes respectivas.
 
@@ -204,6 +208,7 @@ En el caso de las autoridades de las entidades federativas y de los municipios, 
 
 ## CAPÍTULO QUINTO — DEL CONTROL DE LAS ACCIONES EN MATERIA DE SEGURIDAD INTERIOR
 
+
 ### Artículo 32
 . El titular de la autoridad coordinadora de las Acciones de Seguridad Interior, mantendrá informado al Presidente de la República de las acciones realizadas, por conducto del titular de la Secretaría de Gobernación.
 
@@ -211,6 +216,7 @@ En el caso de las autoridades de las entidades federativas y de los municipios, 
 . El titular de la Secretaría de Gobernación remitirá un informe a la Comisión Bicamaral a que se refiere la Ley de Seguridad Nacional, sin perjuicio del ejercicio de las facultades de control previstas en dicha ley.
 
 ## CAPÍTULO SEXTO — DE LAS RESPONSABILIDADES
+
 
 ### Artículo 34
 . El incumplimiento a las obligaciones previstas en esta Ley y en la Declaratoria respectiva, será sancionado en los términos del Sistema de Responsabilidades y del Sistema Nacional Anticorrupción contemplados en los artículos 109 y 113 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -238,11 +244,11 @@ Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Pres
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Marco Antonio Aguilar Yunes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de diciembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 RESOLUTIVOS DE SENTENCIA EN ACCIÓN DE INCONSTITUCIONALIDAD OFICIO SGA/MOKM/280/2018 del Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, que contiene la transcripción de los puntos resolutivos de la sentencia dictada en la Acción de Inconstitucionalidad 6/2018 y sus acumuladas 8/2018, 9/2018, 10/2018, 11/2018, 16/2018 y 21/2018, promovidas, respectivamente, por diversos diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión, diversos senadores integrantes de la LXIII Legislatura del Senado de la República, el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, el Partido Político Movimiento Ciudadano, la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Estado de Querétaro y la Comisión Estatal de Derechos Humanos del Estado de Jalisco.
 Notificado al Congreso de la Unión para surtir sus efectos jurídicos el 15 de noviembre de 2018 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/280/2018 LICENCIADA LETICIA GUZMÁN MIRANDA SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el quince de noviembre de 2018, resolvió la acción de Inconstitucionalidad 6/2018 y sus acumuladas 8/2018, 9/2018, 10/2018, 11/2018, 16/2018 y 21/2018, promovidas, respectivamente, por diversos diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión, diversos senadores integrantes de la LXIII Legislatura del Senado de la República, el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, el Partido Político Movimiento Ciudadano, la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Estado de Querétaro y la Comisión Estatal de Derechos Humanos del Estado de Jalisco, en los siguientes términos: “PRIMERO. Son procedentes y fundadas las acciones de inconstitucionalidad 6/2018 y sus acumuladas 8/2018 y 11/2018 promovidas, respectivamente, por diversos diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión, diversos senadores integrantes de la LXIII Legislatura del Senado de la República y la Comisión Nacional de los Derechos Humanos.
-**SEGUNDO.** Es parcialmente procedente y fundada la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
-**TERCERO.** Se sobresee la acción de inconstitucionalidad 10/2018, promovida por el Partido Político Movimiento Ciudadano, en los términos precisados en el considerando cuarto de este fallo.
-**CUARTO.** Se declara la invalidez del Decreto por el que se expide la Ley de Seguridad Interior, publicado en el Diario Oficial de la Federación el veintiuno de diciembre de dos mil diecisiete.
-**QUINTO.** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
-**SEXTO.** Publíquese esta sentencia en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que las referidas declaraciones de invalidez surtan sus efectos cuando se notifiquen estos puntos resolutivos al Congreso de la Unión, por lo que solicito gire instrucciones para que a la brevedad se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Es parcialmente procedente y fundada la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+**TERCERO.-** Se sobresee la acción de inconstitucionalidad 10/2018, promovida por el Partido Político Movimiento Ciudadano, en los términos precisados en el considerando cuarto de este fallo.
+**CUARTO.-** Se declara la invalidez del Decreto por el que se expide la Ley de Seguridad Interior, publicado en el Diario Oficial de la Federación el veintiuno de diciembre de dos mil diecisiete.
+**QUINTO.-** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
+**SEXTO.-** Publíquese esta sentencia en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que las referidas declaraciones de invalidez surtan sus efectos cuando se notifiquen estos puntos resolutivos al Congreso de la Unión, por lo que solicito gire instrucciones para que a la brevedad se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión, inclusive al titular del Poder Ejecutivo Federal.
 A t e n t a m e n t e Ciudad de México; 15 de noviembre de 2018 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 6/2018 y sus acumuladas 8/2018, 9/2018, 10/2018 y 11/2018, así como los Votos Concurrentes formulados por los Ministros Alfredo Gutiérrez Ortiz Mena y José Fernando Franco González Salas y Particular y Concurrente formulados por la Ministra Norma Lucía Piña Hernández.
@@ -252,26 +258,26 @@ MINISTRO PONENTE: JORGE MARIO PARDO REBOLLEDO.
 MINISTRO ENCARGADO DEL ENGROSE: EDUARDO MEDINA MORA I.
 SECRETARIO: ETIENNE LUQUET FARÍAS COLABORÓ: CAROLINA BARROSO RODRÍGUEZ Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día quince de noviembre de dos mil dieciocho.
 VISTOS para resolver los autos relativos a las acciones de inconstitucionalidad promovidas respectivamente por diversos diputados y senadores integrantes de la Sexagésima Tercera Legislatura del Congreso de la Unión, el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la Comisión Nacional de los Derechos Humanos, y el Partido Político Movimiento Ciudadano; y RESULTANDO:
-**PRIMERO.** A DÉCIMO SEGUNDO. ……..
+**PRIMERO.-** A DÉCIMO SEGUNDO. ……..
 CONSIDERANDO:
-**PRIMERO.** A NOVENO. ……… EFECTOS 162. De conformidad con los artículos 41, fracción IV, 44 y 73 de la Ley Reglamentaria de la Materia, la invalidez decretada surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión; asimismo, se ordena la publicación de la presente resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** A NOVENO. ……… EFECTOS 162. De conformidad con los artículos 41, fracción IV, 44 y 73 de la Ley Reglamentaria de la Materia, la invalidez decretada surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión; asimismo, se ordena la publicación de la presente resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 Por lo expuesto y fundado:
 SE RESUELVE
-**PRIMERO.** Son procedentes y fundadas las acciones de inconstitucionalidad 6/2018 y sus acumuladas 8/2018 y 11/2018 promovidas, respectivamente, por diversos diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión, diversos senadores integrantes de la LXIII Legislatura del Senado de la República y la Comisión Nacional de los Derechos Humanos.
-**SEGUNDO.** Es parcialmente procedente y fundada la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
-**TERCERO.** Se sobresee la acción de inconstitucionalidad 10/2018, promovida por el Partido Político Movimiento Ciudadano, en los términos precisados en el considerando cuarto de este fallo.
-**CUARTO.** Se declara la invalidez del Decreto por el que se expide la Ley de Seguridad Interior, publicado en el Diario Oficial de la Federación el veintiuno de diciembre de dos mil diecisiete.
-**QUINTO.** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
-**SEXTO.** Publíquese esta sentencia en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Son procedentes y fundadas las acciones de inconstitucionalidad 6/2018 y sus acumuladas 8/2018 y 11/2018 promovidas, respectivamente, por diversos diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión, diversos senadores integrantes de la LXIII Legislatura del Senado de la República y la Comisión Nacional de los Derechos Humanos.
+**SEGUNDO.-** Es parcialmente procedente y fundada la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+**TERCERO.-** Se sobresee la acción de inconstitucionalidad 10/2018, promovida por el Partido Político Movimiento Ciudadano, en los términos precisados en el considerando cuarto de este fallo.
+**CUARTO.-** Se declara la invalidez del Decreto por el que se expide la Ley de Seguridad Interior, publicado en el Diario Oficial de la Federación el veintiuno de diciembre de dos mil diecisiete.
+**QUINTO.-** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
+**SEXTO.-** Publíquese esta sentencia en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese por medio de oficio a las partes; en su oportunidad, archívese el asunto como totalmente concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo primero:
 Se aprobó por unanimidad de once votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas con reservas en cuanto a la causa de improcedencia primera, Zaldívar Lelo de Larrea, Pardo Rebolledo, Piña Hernández, Medina Mora I., Laynez Potisek, Pérez Dayán y Presidente Aguilar Morales, respecto de los considerandos primero, segundo, cuarto, quinto, sexto,
-**séptimo.** y octavo relativos, respectivamente, a la competencia, a la oportunidad, a las causas de improcedencia (primera, segunda y quinta), a los conceptos de invalidez, a los informes de las autoridades demandadas, al pedimento de la Procuraduría General de la República y a la precisión de la litis.
+**séptimo.-** y octavo relativos, respectivamente, a la competencia, a la oportunidad, a las causas de improcedencia (primera, segunda y quinta), a los conceptos de invalidez, a los informes de las autoridades demandadas, al pedimento de la Procuraduría General de la República y a la precisión de la litis.
 Se aprobó por unanimidad de once votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos con salvedades, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Piña Hernández, Medina Mora I., Laynez Potisek, Pérez Dayán y Presidente Aguilar Morales, respecto del considerando tercero, relativo a la legitimación, en cuanto a reconocer la de los diputados integrantes de la Sexagésima Tercera Legislatura de la Cámara de Diputados del Congreso de la Unión y la Comisión Nacional de los Derechos Humanos.
 Se aprobó por mayoría de diez votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos con salvedades, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Medina Mora I., Laynez Potisek, Pérez Dayán y Presidente Aguilar Morales, respecto del considerando tercero, relativo a la legitimación, en cuanto a reconocer la de los diversos senadores integrantes de la LXIII Legislatura del Senado de la República. La señora Ministra Piña Hernández votó en contra y anunció voto particular.
 Se aprobó por unanimidad de once votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Piña Hernández salvo la legitimación de los diversos senadores integrantes de la LXIII Legislatura del Senado de la República, Medina Mora I., Laynez Potisek, Pérez Dayán y Presidente Aguilar Morales, respecto del considerando
-**cuarto.** , relativo a las causas de improcedencia, en cuanto a la causa de improcedencia tercera.
+**cuarto.-** , relativo a las causas de improcedencia, en cuanto a la causa de improcedencia tercera.
 En relación con el punto resolutivo segundo:
 Se aprobó por mayoría de diez votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Piña Hernández, Medina Mora I., Laynez Potisek y Presidente Aguilar Morales, respecto del considerando cuarto, relativo a las causas de improcedencia, en cuanto a la causa de improcedencia cuarta, consistente, por una parte, en reconocer la legitimación en la acción de inconstitucionalidad 9/2018, promovida por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales para impugnar los artículos 9 y 31 de la Ley de Seguridad Interior y, por otra parte, en determinar que no tiene legitimación para impugnar el artículo 1 de la Ley de Seguridad Interior. El señor Ministro Pérez Dayán votó en contra.
 En relación con el punto resolutivo tercero:

@@ -15,6 +15,7 @@ Se expide la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 ## TÍTULO PRIMERO — De las Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público, interés social y observancia general en el territorio nacional, y tiene por objeto:
 
@@ -26,7 +27,8 @@ II. Garantizar el pleno ejercicio, respeto, protección y promoción de los dere
 III. Crear y regular la integración, organización y funcionamiento del Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de aplicar medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a la dignidad y autonomía progresiva mediante acciones orientadas a la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 Fracción reformada DOF 15-01-2026
 
-IV. Establecer los principios rectores y criterios que orientarán la política nacional en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México; y la actuación de los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, y Fracción reformada DOF 23-06-2017
+IV. Establecer los principios rectores y criterios que orientarán la política nacional en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México; y la actuación de los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, y
+Fracción reformada DOF 23-06-2017
 
 V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
 
@@ -39,18 +41,23 @@ Fracción reformada DOF 15-01-2026
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 Fracción reformada DOF 15-01-2026
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia, en los que se incorporen datos desagregados al menos por sexo, edad, discapacidad, condición económica y origen étnico, para evaluar el impacto diferenciado de sus acciones en estos grupos de atención prioritaria, y Fracción reformada DOF 15-01-2026
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia, en los que se incorporen datos desagregados al menos por sexo, edad, discapacidad, condición económica y origen étnico, para evaluar el impacto diferenciado de sus acciones en estos grupos de atención prioritaria, y
+Fracción reformada DOF 15-01-2026
 
 IV. Todas las autoridades competentes en la materia, deberán cursar y aprobar los programas de formación y capacitación con perspectiva de género y derechos humanos.
-Fracción adicionada DOF 15-01-2026 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de que México forma parte.
-Párrafo reformado DOF 03-06-2019 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+Fracción adicionada DOF 15-01-2026
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de que México forma parte.
+Párrafo reformado DOF 03-06-2019
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus competencias, deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
-Párrafo reformado DOF 23-06-2017 La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Legislatura de la Ciudad de México, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+Párrafo reformado DOF 23-06-2017
+La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Legislatura de la Ciudad de México, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 Párrafo reformado DOF 23-06-2017
 
 ### Artículo 3
 . La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes con perspectiva de género, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
-Párrafo reformado DOF 23-06-2017, 15-01-2026 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
+Párrafo reformado DOF 23-06-2017, 15-01-2026
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
 ### Artículo 4
 . Para los efectos de esta Ley, se entenderá por:
@@ -145,14 +152,16 @@ Fracción adicionada DOF 17-10-2019. Recorrida DOF 11-12-2023, 17-04-2024
 XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
 
-XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
+XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
 
 XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 Fracción recorrida DOF 17-10-2019, 11-12-2023, 17-04-2024
 
 ### Artículo 5
 . Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales y la mayoría de edad, son niños los menores de dieciocho años de edad.
-Párrafo reformado DOF 03-06-2019 Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+Párrafo reformado DOF 03-06-2019
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
 ### Artículo 6
 . Para efectos del artículo 2 de esta Ley, son principios rectores, los siguientes:
@@ -190,7 +199,8 @@ Fracción reformada DOF 03-06-2019, 17-04-2024
 XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
 Fracción adicionada DOF 03-06-2019. Reformada DOF 17-04-2024
 
-XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y Fracción adicionada DOF 17-04-2024
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
+Fracción adicionada DOF 17-04-2024
 
 XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 Fracción adicionada DOF 17-04-2024
@@ -208,7 +218,8 @@ Artículo reformado DOF 23-06-2017
 ### Artículo 10
 . En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 Las autoridades federales de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
-Párrafo reformado DOF 23-06-2017 Tratándose de medidas y órdenes de protección para casos de violencias en contra de adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su debida integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+Párrafo reformado DOF 23-06-2017
+Tratándose de medidas y órdenes de protección para casos de violencias en contra de adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su debida integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
 Párrafo adicionado DOF 15-01-2026
 
 ### Artículo 11
@@ -219,6 +230,7 @@ Párrafo adicionado DOF 15-01-2026
 Artículo reformado DOF 15-01-2026
 
 ## TÍTULO SEGUNDO — De los Derechos de Niñas, Niños y Adolescentes
+
 
 ### Artículo 13
 . Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
@@ -263,10 +275,12 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 XIX. Derechos de niñas, niños y adolescentes migrantes, y
 
 XX. Derecho de acceso a las Tecnologías de la Información y Comunicación.
-Fracción reformada DOF 20-06-2018 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias de conformidad con los deberes reforzados de protección del Estado con las niñas, niños y adolescentes, para garantizar sus derechos sin discriminación de ningún tipo o condición.
+Fracción reformada DOF 20-06-2018
+Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias de conformidad con los deberes reforzados de protección del Estado con las niñas, niños y adolescentes, para garantizar sus derechos sin discriminación de ningún tipo o condición.
 Párrafo reformado DOF 23-06-2017, 15-01-2026
 
 ## Capítulo Primero — Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+
 Denominación del Capítulo reformada DOF 04-06-2019
 
 ### Artículo 14
@@ -283,6 +297,7 @@ Artículo reformado DOF 04-06-2019
 
 ## Capítulo Segundo — Del Derecho de Prioridad
 
+
 ### Artículo 17
 . Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
 
@@ -297,6 +312,7 @@ III. Se les considere para el diseño y ejecución de las políticas públicas n
 
 ## Capítulo Tercero — Del Derecho a la Identidad
 
+
 ### Artículo 19
 . Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
 
@@ -308,7 +324,8 @@ III. Conocer su filiación y su origen, en la medida de lo posible y siempre que
 
 IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
-Párrafo reformado DOF 23-06-2017 Las Procuradurías de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+Párrafo reformado DOF 23-06-2017
+Las Procuradurías de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
 Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
 
@@ -320,6 +337,7 @@ En los casos en que niñas, niños o adolescentes cumplan con los requisitos par
 . Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
 
 ## Capítulo Cuarto — Del Derecho a Vivir en Familia
+
 
 ### Artículo 22
 . Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
@@ -334,7 +352,8 @@ Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus famili
 
 ### Artículo 24
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
-Párrafo reformado DOF 23-06-2017 Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
+Párrafo reformado DOF 23-06-2017
+Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
 Para efectos del párrafo anterior, el Sistema Nacional DIF y los Sistemas de las Entidades deberán otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Primero de esta Ley y demás disposiciones aplicables.
 
 ### Artículo 25
@@ -346,7 +365,8 @@ Párrafo reformado DOF 23-06-2017
 
 ### Artículo 26
 . El Sistema Nacional DIF o los Sistemas de las Entidades, en coordinación con las Procuradurías de Protección, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que se encuentren en desamparo familiar.
-Párrafo reformado DOF 03-06-2019 Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, el Sistema Nacional DIF o los Sistemas de las Entidades, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+Párrafo reformado DOF 03-06-2019
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, el Sistema Nacional DIF o los Sistemas de las Entidades, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
 Párrafo reformado DOF 03-06-2019
 
 I. Sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
@@ -360,13 +380,20 @@ IV. En el Sistema Nacional DIF, así como los Sistemas de las Entidades y Sistem
 
 V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
-Párrafo reformado DOF 03-06-2019 Los sistemas DIF y las Procuradurías de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
-Párrafo reformado DOF 03-06-2019 Las autoridades administrativas y jurisdiccionales a nivel nacional y estatal, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
-Párrafo reformado DOF 03-06-2019 Los certificados de idoneidad podrán ser expedidos, previa valoración técnica, por el Sistema Nacional DIF, los Sistemas de las Entidades o las Procuradurías de Protección, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
-Párrafo adicionado DOF 03-06-2019 El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
-Párrafo adicionado DOF 03-06-2019 Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
-Párrafo adicionado DOF 03-06-2019 El Sistema Nacional DIF y los Sistemas de las Entidades, en coordinación con las Procuradurías de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
-Párrafo adicionado DOF 03-06-2019 Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+Párrafo reformado DOF 03-06-2019
+Los sistemas DIF y las Procuradurías de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+Párrafo reformado DOF 03-06-2019
+Las autoridades administrativas y jurisdiccionales a nivel nacional y estatal, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+Párrafo reformado DOF 03-06-2019
+Los certificados de idoneidad podrán ser expedidos, previa valoración técnica, por el Sistema Nacional DIF, los Sistemas de las Entidades o las Procuradurías de Protección, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
+Párrafo adicionado DOF 03-06-2019
+El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
+Párrafo adicionado DOF 03-06-2019
+Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
+Párrafo adicionado DOF 03-06-2019
+El Sistema Nacional DIF y los Sistemas de las Entidades, en coordinación con las Procuradurías de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+Párrafo adicionado DOF 03-06-2019
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 Párrafo adicionado DOF 03-06-2019
 
 ### Artículo 27
@@ -415,7 +442,8 @@ IV. Disponer las acciones necesarias para verificar que la adopción no sea moti
 V. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
 Fracción reformada DOF 23-06-2017, 03-06-2019
 
-VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente, y Fracción adicionada DOF 03-06-2019
+VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente, y
+Fracción adicionada DOF 03-06-2019
 
 VII. Las entidades federativas, a través de su respectivo poder judicial, garantizarán que los procedimientos de adopción se lleven de conformidad con esta ley.
 Fracción adicionada DOF 03-06-2019
@@ -531,8 +559,10 @@ Artículo adicionado DOF 03-06-2019
 ### Artículo 31
 . Tratándose de adopción internacional, la legislación aplicable deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
 Con el fin de salvaguardar el interés superior de la niñez, previo a que la adopción internacional pueda tener lugar, las autoridades competentes deberán determinar si la niña, el niño o el adolescente son susceptibles de adopción.
-Párrafo adicionado DOF 03-06-2019 Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
-Párrafo adicionado DOF 03-06-2019 En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o de los Sistemas de las Entidades y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
+Párrafo adicionado DOF 03-06-2019
+Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
+Párrafo adicionado DOF 03-06-2019
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o de los Sistemas de las Entidades y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
 El Estado dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema Nacional DIF y los Sistemas de las entidades en el ámbito de su competencia.
 La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
@@ -570,6 +600,7 @@ Cualquier persona podrá presentar una queja ante el Sistema Nacional DIF y los 
 
 ## Capítulo Quinto — Del Derecho a la Igualdad Sustantiva
 
+
 ### Artículo 36
 . Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
@@ -594,13 +625,15 @@ VI. Desarrollar campañas permanentes de sensibilización de los derechos de ni�
 
 ## Capítulo Sexto — Del Derecho a No ser Discriminado
 
+
 ### Artículo 39
 . Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 Asimismo, las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad.
 
 ### Artículo 40
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
-Párrafo reformado DOF 23-06-2017 La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
+Párrafo reformado DOF 23-06-2017
+La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
 
 ### Artículo 41
@@ -612,6 +645,7 @@ Dichos reportes deberán desagregar la información, por lo menos, en razón de 
 Artículo reformado DOF 23-06-2017
 
 ## Capítulo Séptimo — Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+
 
 ### Artículo 43
 . Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
@@ -627,6 +661,7 @@ Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños
 Artículo reformado DOF 01-12-2023
 
 ## Capítulo Octavo
+
 Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ### Artículo 46
@@ -649,25 +684,29 @@ V. El trabajo antes de la edad mínima de quince años, prevista en el artículo
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 Fracción reformada DOF 11-01-2021, 23-03-2022
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y Fracción reformada DOF 11-01-2021
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
+Fracción reformada DOF 11-01-2021
 
 VIII. El castigo corporal y humillante.
 Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
 Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
-Fracción adicionada DOF 11-01-2021 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+Fracción adicionada DOF 11-01-2021
+Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 Las leyes generales, federales y de las entidades federativas deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
 ### Artículo 48
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
-Párrafo reformado DOF 23-06-2017 La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
+Párrafo reformado DOF 23-06-2017
+La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
 ### Artículo 49
 . En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Nacional de Protección Integral a que se refiere la presente Ley, deberá coordinarse con el Sistema Nacional de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
 
 ## Capítulo Noveno — Del Derecho a la Protección de la Salud y a la Seguridad Social
+
 
 ### Artículo 50
 . Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
@@ -722,6 +761,7 @@ Artículo reformado DOF 23-06-2017
 
 ## Capítulo Décimo — Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
+
 ### Artículo 53
 . Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás leyes aplicables.
 Cuando exista duda o percepción si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
@@ -730,15 +770,19 @@ Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir inclui
 
 ### Artículo 54
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando la perspectiva de género y los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
-Párrafo reformado DOF 23-06-2017, 04-12-2023 La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
+Párrafo reformado DOF 23-06-2017, 04-12-2023
+La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
-Párrafo reformado DOF 23-06-2017 Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
-Párrafo publicado sin modificación DOF 23-06-2017 No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+Párrafo reformado DOF 23-06-2017
+Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
+Párrafo publicado sin modificación DOF 23-06-2017
+No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
 No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
 
 ### Artículo 55
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
-Párrafo reformado DOF 23-06-2017 Las leyes federales y de las entidades federativas establecerán disposiciones tendentes a:
+Párrafo reformado DOF 23-06-2017
+Las leyes federales y de las entidades federativas establecerán disposiciones tendentes a:
 
 I. Reconocer y aceptar la existencia de la discapacidad, a efecto de prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad;
 
@@ -755,6 +799,7 @@ Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, en
 . Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
 ## Capítulo Décimo — Primero
+
 Del Derecho a la Educación
 
 ### Artículo 57
@@ -810,12 +855,14 @@ Fracción adicionada DOF 11-12-2023
 XXI. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 Fracción reformada DOF 26-01-2018. Recorrida DOF 11-12-2023
 
-XXII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y Fracción reformada DOF 26-01-2018. Recorrida DOF 11-12-2023
+XXII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
+Fracción reformada DOF 26-01-2018. Recorrida DOF 11-12-2023
 
 XXIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 Ante dicha notificación será aplicable el procedimiento establecido en el artículo 123 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
 En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
-Fracción adicionada DOF 26-01-2018. Recorrida DOF 11-12-2023 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+Fracción adicionada DOF 26-01-2018. Recorrida DOF 11-12-2023
+Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
 ### Artículo 58
 . La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
@@ -840,7 +887,8 @@ VIII. Promover la educación sexual integral conforme a su edad, el desarrollo e
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 Fracción reformada DOF 11-12-2023, 27-05-2024
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, e Fracción reformada DOF 27-05-2024
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, e
+Fracción reformada DOF 27-05-2024
 
 XI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
 Fracción adicionada DOF 27-05-2024
@@ -860,6 +908,7 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
 ## Capítulo Décimo — Segundo
+
 De los Derechos al Descanso y al Esparcimiento
 
 ### Artículo 60
@@ -871,34 +920,40 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 Artículo reformado DOF 23-06-2017
 
 ## Capítulo Décimo — Tercero
+
 De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ### Artículo 62
 . Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del Estado laico.
-Párrafo reformado DOF 23-06-2017 La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
+Párrafo reformado DOF 23-06-2017
+La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
 Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
 
 ### Artículo 63
 . Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán aprovechar su infraestructura y recursos; promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
-Párrafo reformado DOF 23-06-2017, 26-05-2023 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
+Párrafo reformado DOF 23-06-2017, 26-05-2023
+Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
 
 ### Artículo 63
 Bis. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán la recreación y participación de las niñas, niños y adolescentes en las actividades culturales de su interés. Así como a fomentar la participación en la vida cultural y en las artes, la creatividad y producción artística, de niñas, niños y adolescentes.
 Artículo adicionado DOF 26-05-2023
 
 ## Capítulo Décimo — Cuarto
+
 De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
 ### Artículo 64
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo reformado DOF 23-06-2017 La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
+Párrafo reformado DOF 23-06-2017
+La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
 En poblaciones predominantemente indígenas, las autoridades a que se refiere este artículo, tienen la obligación de difundir la información institucional y la promoción de los derechos en la lengua indígena local.
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
 
 ### Artículo 65
 . Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
-Párrafo reformado DOF 23-06-2017 El Sistema Nacional de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
+Párrafo reformado DOF 23-06-2017
+El Sistema Nacional de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
 ### Artículo 66
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
@@ -935,6 +990,7 @@ Asimismo, las Procuradurías de Protección estarán facultadas para promover ac
 Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
 ## Capítulo Décimo — Quinto
+
 Del Derecho a la Participación
 
 ### Artículo 71
@@ -951,6 +1007,7 @@ Artículo reformado DOF 23-06-2017
 . Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, en los tres órdenes de gobierno, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
 ## Capítulo Décimo — Sexto
+
 Del Derecho de Asociación y Reunión
 
 ### Artículo 75
@@ -958,6 +1015,7 @@ Del Derecho de Asociación y Reunión
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
 ## Capítulo Décimo — Séptimo
+
 Del Derecho a la Intimidad
 
 ### Artículo 76
@@ -992,6 +1050,7 @@ En los procedimientos civiles o administrativos que sean iniciados o promovidos 
 El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
 ## Capítulo Décimo — Octavo
+
 Del Derecho a la Seguridad Jurídica y al Debido Proceso
 
 ### Artículo 82
@@ -1029,7 +1088,8 @@ XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufri
 
 ### Artículo 84
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
-Párrafo reformado DOF 23-06-2017 Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+Párrafo reformado DOF 23-06-2017
+Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
 
 ### Artículo 85
 . En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección competente.
@@ -1061,6 +1121,7 @@ VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, ni
 La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
 ## Capítulo Décimo — Noveno
+
 Niñas, Niños y Adolescentes Migrantes
 
 ### Artículo 89
@@ -1120,7 +1181,8 @@ Asimismo, acordarán los estándares mínimos para que los espacios de alojamien
 
 ### Artículo 98
 . En caso de que los Sistemas DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, quien en colaboración con la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, adoptarán medidas de protección especial.
-Párrafo reformado DOF 17-10-2019 El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+Párrafo reformado DOF 17-10-2019
+El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
 
 ### Artículo 99
 . El Sistema Nacional DIF deberá diseñar y administrar las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, incluyendo, entre otros aspectos, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, entre otros, y compartirlo con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, atendiendo a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en materia de transparencia.
@@ -1136,7 +1198,9 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 . En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
 ## Capítulo V — igésimo
-Derecho de Acceso a las Tecnologías de la Información y Comunicación Capítulo adicionado DOF 20-06-2018
+
+Derecho de Acceso a las Tecnologías de la Información y Comunicación
+Capítulo adicionado DOF 20-06-2018
 
 ### Artículo 101
 Bis. Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
@@ -1156,7 +1220,9 @@ Artículo adicionado DOF 24-12-2024
 
 ## TÍTULO TERCERO — De las Obligaciones
 
+
 ## Capítulo Único
+
 De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ### Artículo 102
@@ -1220,13 +1286,16 @@ Fracción reformada DOF 11-01-2021
 ### Artículo 106
 . A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección competente.
 Las autoridades federales, de las entidades federativas, las municipales y de las demarcaciones de la Ciudad de México, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección competente para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
-Párrafo reformado DOF 23-06-2017 Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
+Párrafo reformado DOF 23-06-2017
+Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
 No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
 ## TÍTULO CUARTO — De la Protección de Niñas, Niños y Adolescentes
 
+
 ## Capítulo Único — De los Centros de Asistencia Social
+
 
 ### Artículo 107
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en términos de lo dispuesto por esta Ley, la Ley General de Salud y la Ley de Asistencia Social, establecerán en el ámbito de sus respectivas competencias, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
@@ -1344,16 +1413,20 @@ El Registro a que hace referencia este artículo deberá ser público y consulta
 Las Procuradurías de Protección de las entidades federativas serán coadyuvantes de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley de Asistencia Social.
 
 ## TÍTULO QUINTO
+
 De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
 ## Capítulo Primero — De las autoridades
 
+
 ### Artículo 114
 . Las autoridades federales, de las entidades federativas, municipales, de las demarcaciones territoriales de la Ciudad de México, y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional en materia de derechos de niñas, niños y adolescentes.
-Párrafo reformado DOF 23-06-2017 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez, la perspectiva de género y de derechos humanos, conforme a los estándares internacionales para su protección y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+Párrafo reformado DOF 23-06-2017
+Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez, la perspectiva de género y de derechos humanos, conforme a los estándares internacionales para su protección y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 Párrafo reformado DOF 15-01-2026
 
 ## Sección Primera — De la Distribución de Competencias
+
 
 ### Artículo 115
 . Todos los órdenes de gobierno coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás disposiciones legales aplicables.
@@ -1411,7 +1484,8 @@ XXIII. Garantizar la protección de los derechos de niñas, niños y adolescente
 XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley;
 Fracción reformada DOF 26-03-2024
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene, y Fracción reformada DOF 26-03-2024
+XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene, y
+Fracción reformada DOF 26-03-2024
 
 XXVI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 Fracción adicionada DOF 26-03-2024
@@ -1501,6 +1575,7 @@ XII. Las demás que establezcan los ordenamientos locales y aquéllas que derive
 
 ## Sección Segunda — Del Sistema Nacional DIF
 
+
 ### Artículo 120
 . Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde a la federación, a través del Sistema Nacional DIF:
 
@@ -1516,12 +1591,14 @@ IV. Promover la formación, capacitación y profesionalización del personal de 
 V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
 Fracción reformada DOF 23-06-2017, 08-05-2023
 
-VI. Tendrá a su cargo el Registro Nacional de Obligaciones Alimentarias en los términos que establece esta Ley, y Fracción adicionada DOF 08-05-2023
+VI. Tendrá a su cargo el Registro Nacional de Obligaciones Alimentarias en los términos que establece esta Ley, y
+Fracción adicionada DOF 08-05-2023
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 Fracción recorrida DOF 08-05-2023
 
 ## Capítulo Segundo — De las Procuradurías de Protección
+
 
 ### Artículo 121
 . Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, la federación, dentro de la estructura del Sistema Nacional DIF, contará con una Procuraduría de Protección.
@@ -1607,13 +1684,17 @@ III. Contar con título profesional de licenciatura en derecho debidamente regis
 IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
 
 V. No haber sido sentenciada o sentenciado por delito doloso o inhabilitada o inhabilitado como servidora o servidor público.
-Fracción reformada DOF 28-04-2022 El nombramiento de la persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de quien sea su Titular.
-Párrafo reformado DOF 28-04-2022 Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso de la Ciudad de México, en sus demarcaciones territoriales.
+Fracción reformada DOF 28-04-2022
+El nombramiento de la persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de quien sea su Titular.
+Párrafo reformado DOF 28-04-2022
+Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso de la Ciudad de México, en sus demarcaciones territoriales.
 Párrafo reformado DOF 23-06-2017
 
 ## Capítulo Tercero — Del Sistema Nacional de Protección Integral
 
+
 ## Sección Primera — De los Integrantes
+
 
 ### Artículo 125
 . Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes, se crea el Sistema Nacional de Protección Integral, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
@@ -1686,29 +1767,41 @@ Fracción reformada DOF 28-04-2022
 VII. La persona Titular de la Secretaría de Salud;
 Fracción reformada DOF 28-04-2022
 
-VIII. La persona Titular de la Secretaría del Trabajo y Previsión Social, y Fracción reformada DOF 28-04-2022
+VIII. La persona Titular de la Secretaría del Trabajo y Previsión Social, y
+Fracción reformada DOF 28-04-2022
 
 IX. La persona Titular del Sistema Nacional DIF.
-Fracción reformada DOF 28-04-2022 B. Entidades Federativas:
+Fracción reformada DOF 28-04-2022
+B. Entidades Federativas:
 
-I. Las Gobernadoras y los Gobernadores de los Estados, y Fracción reformada DOF 28-04-2022
+I. Las Gobernadoras y los Gobernadores de los Estados, y
+Fracción reformada DOF 28-04-2022
 
 II. La Jefa o el Jefe de Gobierno de la Ciudad de México.
-Fracción reformada DOF 23-06-2017, 28-04-2022 C. Organismos Públicos:
+Fracción reformada DOF 23-06-2017, 28-04-2022
+C. Organismos Públicos:
 
 I. La persona titular de la Fiscalía General de la República;
 Fracción reformada DOF 28-04-2022
 
-II. La persona titular de la presidencia de la Comisión Nacional de los Derechos Humanos, y Fracción reformada DOF 28-04-2022
+II. La persona titular de la presidencia de la Comisión Nacional de los Derechos Humanos, y
+Fracción reformada DOF 28-04-2022
 
 III. La Comisionada o el Comisionado Presidente del Instituto Federal de Telecomunicaciones.
-Fracción reformada DOF 28-04-2022 D. Personas representantes de la sociedad civil que serán nombradas por el Sistema, en los términos del reglamento de esta Ley.
-Apartado reformado DOF 28-04-2022 Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, la cual deberá realizarse conforme al principio de paridad, y que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
-Párrafo reformado DOF 28-04-2022 Serán invitadas permanentes a las sesiones del Sistema Nacional de Protección Integral, las Presidencias de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, una persona representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz, pero sin voto.
-Párrafo reformado DOF 28-04-2022 La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
-Párrafo reformado DOF 28-04-2022 Las personas integrantes del Sistema Nacional de Protección Integral nombrarán una persona suplente, que deberá tener el nivel de titular de subsecretaría o equivalente.
-Párrafo reformado DOF 28-04-2022 Quien presida el Sistema podrá invitar a las sesiones respectivas a personas representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
-Párrafo reformado DOF 23-06-2017, 28-04-2022 En las sesiones del Sistema Nacional de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
+Fracción reformada DOF 28-04-2022
+D. Personas representantes de la sociedad civil que serán nombradas por el Sistema, en los términos del reglamento de esta Ley.
+Apartado reformado DOF 28-04-2022
+Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, la cual deberá realizarse conforme al principio de paridad, y que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+Párrafo reformado DOF 28-04-2022
+Serán invitadas permanentes a las sesiones del Sistema Nacional de Protección Integral, las Presidencias de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, una persona representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz, pero sin voto.
+Párrafo reformado DOF 28-04-2022
+La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
+Párrafo reformado DOF 28-04-2022
+Las personas integrantes del Sistema Nacional de Protección Integral nombrarán una persona suplente, que deberá tener el nivel de titular de subsecretaría o equivalente.
+Párrafo reformado DOF 28-04-2022
+Quien presida el Sistema podrá invitar a las sesiones respectivas a personas representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
+Párrafo reformado DOF 23-06-2017, 28-04-2022
+En las sesiones del Sistema Nacional de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
 
 ### Artículo 128
 . El Sistema Nacional de Protección Integral se reunirá cuando menos dos veces al año.
@@ -1718,6 +1811,7 @@ Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembr
 . Para el mejor cumplimiento de sus funciones, el Sistema Nacional de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Diario Oficial de la Federación.
 
 ## Sección Segunda — De la Secretaría Ejecutiva
+
 
 ### Artículo 130
 . La coordinación operativa del Sistema Nacional de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de Gobernación, que ejercerá las funciones de Secretaría Ejecutiva.
@@ -1770,6 +1864,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 ## Sección Tercera — De la Evaluación y Diagnóstico
 
+
 ### Artículo 132
 . Corresponderá al CONEVAL la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, esta Ley, el Programa Nacional y las demás disposiciones aplicables.
 
@@ -1783,6 +1878,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 . Los resultados de las evaluaciones serán entregados a las Cámaras de Diputados y de Senadores del Congreso de la Unión.
 
 ## Sección Cuarta — Del Registro Nacional de Obligaciones Alimentarias
+
 Sección adicionada DOF 08-05-2023
 
 ### Artículo 135
@@ -1845,7 +1941,9 @@ Artículo adicionado DOF 08-05-2023
 
 ## Capítulo Cuarto — De los Sistemas de Protección en las Entidades Federativas
 
+
 ## Sección Primera — De los Sistemas Locales de Protección
+
 
 ### Artículo 136
 . En cada entidad federativa se creará e instalará un Sistema Local de Protección de los derechos de niñas, niños y adolescentes, conformado por las dependencias y entidades de las administraciones locales vinculadas con la protección de estos derechos, en los términos que determinen sus respectivos ordenamientos legales y serán presididos por la persona Titular del Poder Ejecutivo Estatal y de la Jefatura de Gobierno del Distrito de Federal. Se organizarán y funcionarán de manera similar al Sistema Nacional de Protección Integral, contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
@@ -1900,6 +1998,7 @@ Párrafo reformado DOF 23-06-2017
 
 ## Sección Segunda — De los Sistemas Municipales de Protección
 
+
 ### Artículo 138
 . Los Sistemas Municipales serán presididos por los Presidentes Municipales o Jefes Delegacionales, y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
 Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
@@ -1907,15 +2006,19 @@ Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán
 ### Artículo 139
 . Las leyes de las entidades federativas preverán que las bases generales de la administración pública municipal, dispongan la obligación para los ayuntamientos de contar con un programa de atención y con un área o servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
 Las mismas disposiciones de este artículo serán aplicables a las demarcaciones territoriales de la Ciudad de México, en la Constitución Política de la Ciudad de México.
-Párrafo reformado DOF 23-06-2017 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales o de las demarcaciones territoriales de la Ciudad de México, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección competente de forma inmediata.
-Párrafo reformado DOF 23-06-2017 Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes de las entidades federativas, las atribuciones previstas en el artículo 119 de esta Ley.
+Párrafo reformado DOF 23-06-2017
+La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales o de las demarcaciones territoriales de la Ciudad de México, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección competente de forma inmediata.
+Párrafo reformado DOF 23-06-2017
+Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes de las entidades federativas, las atribuciones previstas en el artículo 119 de esta Ley.
 
 ## Capítulo Quinto — De los Organismos de Protección de los Derechos Humanos
+
 
 ### Artículo 140
 . La Comisión Nacional de los Derechos Humanos y los organismos de protección de los derechos humanos de las entidades federativas, en el ámbito de sus competencias, deberán establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
 ## Capítulo Sexto — Del Programa Nacional y de los Programas Locales
+
 
 ### Artículo 141
 . Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Nacional, el cual deberá ser acorde con el Plan Nacional de Desarrollo y con la presente Ley.
@@ -1935,7 +2038,9 @@ Artículo reformado DOF 23-06-2017
 
 ## TÍTULO SEXTO — De las Infracciones Administrativas
 
+
 ## Capítulo Único — De las Infracciones y Sanciones Administrativas
+
 
 ### Artículo 146
 . Las leyes de las entidades federativas establecerán las infracciones y las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello.
@@ -1971,7 +2076,8 @@ IX. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden
 ### Artículo 149
 . A quienes incurran en las infracciones previstas en las fracciones I, II y VIII del artículo anterior, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 Las infracciones previstas en las fracciones III, IV, V, VI, VII y VII Bis del artículo anterior, serán sancionadas con multa de tres mil y hasta treinta mil días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta.
-Fracción reformada DOF 09-03-2018 En los casos de las infracciones previstas en las fracciones III, V, VI y VII del artículo anterior, se impondrá una multa adicional de mil quinientos y hasta siete mil días de salario mínimo general vigente en el Distrito Federal, por cada día que se difunda o se encuentren disponibles en medios electrónicos de los que tenga control el concesionario o medio impreso que se trate, la información, datos, imágenes o audios.
+Fracción reformada DOF 09-03-2018
+En los casos de las infracciones previstas en las fracciones III, V, VI y VII del artículo anterior, se impondrá una multa adicional de mil quinientos y hasta siete mil días de salario mínimo general vigente en el Distrito Federal, por cada día que se difunda o se encuentren disponibles en medios electrónicos de los que tenga control el concesionario o medio impreso que se trate, la información, datos, imágenes o audios.
 En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo.
 Se considerará reincidente al que:
 
@@ -2001,7 +2107,8 @@ I. La dependencia o entidad de la Administración Pública Federal que resulte c
 
 II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial de la Federación; las Cámaras de Diputados o de Senadores del Congreso de la Unión; órganos con autonomía constitucional, o del Tribunal Federal de Justicia Fiscal y Administrativa o de tribunales del trabajo o agrarios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales;
 
-III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones III, IV, V, VI, VII y VII Bis, del artículo 148 de esta Ley, y Fracción reformada DOF 09-03-2018
+III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones III, IV, V, VI, VII y VII Bis, del artículo 148 de esta Ley, y
+Fracción reformada DOF 09-03-2018
 
 IV. El Sistema Nacional DIF, en los casos de la fracción VIII del artículo 148 de esta Ley.
 
@@ -2019,38 +2126,38 @@ IV. El Sistema Nacional DIF, en los casos de la fracción VIII del artículo 148
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
-**TERCERO.** Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+**TERCERO.-** Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el
 
 ## transitorio
 
 anterior.
-**CUARTO.** Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
-**QUINTO.** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**SEXTO.** La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
+**CUARTO.-** Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+**QUINTO.-** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**SEXTO.-** La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
 Para efectos del párrafo anterior, el Sistema Nacional DIF deberá reformar su Estatuto Orgánico, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
-**SÉPTIMO.** El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+**SÉPTIMO.-** El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
 El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Nacional de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de Derechos de Niñas, Niños y Adolescentes.
 El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa Nacional, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Nacional de Protección.
-**OCTAVO.** Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
-**NOVENO.** Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
-**DÉCIMO.** Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
-**DÉCIMO PRIMERO.** Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-**DÉCIMO SEGUNDO.** La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
-**DÉCIMO TERCERO.** Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+**OCTAVO.-** Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
+**NOVENO.-** Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+**DÉCIMO.-** Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+**DÉCIMO PRIMERO.-** Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**DÉCIMO SEGUNDO.-** La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+**DÉCIMO TERCERO.-** Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
 México, D.F., a 6 de noviembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Laura Barrera Fortoul, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
 
 ### Artículo Primero
 Se reforman los artículos 1, fracción IV; 2, cuarto y quinto párrafos; 3, primer párrafo; 8; 10, segundo párrafo; 13, segundo párrafo; 14, segundo párrafo; 19, segundo párrafo; 22,
-**cuarto.** párrafo; 24, primer párrafo; 25, cuarto párrafo; 30, fracción V, 37, primer párrafo; 40, primer párrafo; 42; 44; 47, primer párrafo; 48, primer párrafo; 50, primer párrafo; 51; 52; 54, primer y tercer párrafos; 55, primer párrafo; 57, tercer párrafo; 59, segundo párrafo; 61; 62, primer párrafo; 63, segundo párrafo; 64, primer párrafo; 65, primer párrafo; 66; 72; 79; 83, primer párrafo; 84, primer párrafo; 86, primer párrafo; 102; 106, segundo párrafo; 107; 114, primer párrafo; 120, fracciones II y V; 124, tercer párrafo; 125, segundo párrafo, fracciones IX y X; 126; 127, apartado B, fracción II y el penúltimo párrafo; 137, segundo párrafo; 139, segundo y tercer párrafos, y 141 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ………
+**cuarto.-** párrafo; 24, primer párrafo; 25, cuarto párrafo; 30, fracción V, 37, primer párrafo; 40, primer párrafo; 42; 44; 47, primer párrafo; 48, primer párrafo; 50, primer párrafo; 51; 52; 54, primer y tercer párrafos; 55, primer párrafo; 57, tercer párrafo; 59, segundo párrafo; 61; 62, primer párrafo; 63, segundo párrafo; 64, primer párrafo; 65, primer párrafo; 66; 72; 79; 83, primer párrafo; 84, primer párrafo; 86, primer párrafo; 102; 106, segundo párrafo; 107; 114, primer párrafo; 120, fracciones II y V; 124, tercer párrafo; 125, segundo párrafo, fracciones IX y X; 126; 127, apartado B, fracción II y el penúltimo párrafo; 137, segundo párrafo; 139, segundo y tercer párrafos, y 141 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Lorena Cuéllar Cisneros, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se adiciona una fracción XXII al artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -2061,8 +2168,8 @@ Se adiciona una fracción XXII al artículo 57 de la Ley General de los Derechos
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los instrumentos normativos que derivan del presente Decreto, así como los que integran el Sistema Nacional de Protección Integral deberán adecuarse a la presente reforma.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los instrumentos normativos que derivan del presente Decreto, así como los que integran el Sistema Nacional de Protección Integral deberán adecuarse a la presente reforma.
 Ciudad de México, a 30 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -2073,15 +2180,15 @@ Se reforman los artículos 149, segundo párrafo, y 151, fracción III; y se adi
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
-**Tercero.** La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-**Cuarto.** Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+**Tercero.-** La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**Cuarto.-** Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip.
 Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 DECRETO por el que se reforma el artículo 13, fracción XX, se adiciona el Capítulo
-**Vigésimo.** al Título Segundo y los artículos 101 Bis, 101 Bis 1 y 101 Bis 2 a la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+**Vigésimo.-** al Título Segundo y los artículos 101 Bis, 101 Bis 1 y 101 Bis 2 a la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Publicado en el Diario Oficial de la Federación 20 de junio de 2018
 
 ### Artículo Único
@@ -2089,8 +2196,8 @@ Se reforma la fracción XX del artículo 13; se adiciona un Capítulo Vigésimo 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el transitorio siguiente.
-**Segundo.** Los plazos para el cumplimiento efectivo de las obligaciones referidas en el presente Decreto serán los establecidos en el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el transitorio siguiente.
+**Segundo.-** Los plazos para el cumplimiento efectivo de las obligaciones referidas en el presente Decreto serán los establecidos en el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
 Ciudad de México, a 24 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Publicado en el Diario Oficial de la Federación 3 de junio de 2019
@@ -2182,10 +2289,10 @@ Se reforma el primer párrafo y sus fracciones I y V y, el segundo párrafo del 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -2194,14 +2301,14 @@ Publicado en el Diario Oficial de la Federación 8 de mayo de 2023
 
 ### Artículo Único
 Se reforma el párrafo segundo de la fracción I del artículo 103; se adiciona una fracción VI al artículo 120, recorriéndose la subsecuente; y se adiciona una Sección Cuarta al Capítulo
-**Tercero.** , denominada "Del Registro Nacional de Obligaciones Alimentarias", que comprende los artículos 135 Bis a 135 Septies de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
+**Tercero.-** , denominada "Del Registro Nacional de Obligaciones Alimentarias", que comprende los artículos 135 Bis a 135 Septies de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, el Sistema Nacional DIF contará con un plazo de trescientos días hábiles para la implementación del Registro Nacional de Obligaciones Alimentarias.
-**Tercero.** Los Congresos Locales y los Tribunales Superiores de Justicia de las Entidades Federativas y de la Ciudad de México, contarán con un plazo no mayor a ciento veinte días hábiles a partir del inicio de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en armonía con los lineamientos que establezca el Sistema Nacional DIF, conforme a lo establecido por el presente Decreto.
-**Cuarto.** La autoridad encargada del Registro Nacional, en el término de noventa días naturales, emitirá la normativa a través de la cual se establezca el formato, tiempo, modo y lugar para que las autoridades locales obligadas en el presente decreto cumplan con las obligaciones establecidas a través del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, el Sistema Nacional DIF contará con un plazo de trescientos días hábiles para la implementación del Registro Nacional de Obligaciones Alimentarias.
+**Tercero.-** Los Congresos Locales y los Tribunales Superiores de Justicia de las Entidades Federativas y de la Ciudad de México, contarán con un plazo no mayor a ciento veinte días hábiles a partir del inicio de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en armonía con los lineamientos que establezca el Sistema Nacional DIF, conforme a lo establecido por el presente Decreto.
+**Cuarto.-** La autoridad encargada del Registro Nacional, en el término de noventa días naturales, emitirá la normativa a través de la cual se establezca el formato, tiempo, modo y lugar para que las autoridades locales obligadas en el presente decreto cumplan con las obligaciones establecidas a través del presente Decreto.
 Ciudad de México, a 22 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Sarai Núñez Cerón, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforma el artículo 63 y se adiciona un artículo 63 Bis a la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -2212,8 +2319,8 @@ Se reforma el segundo párrafo del artículo 63 y se adiciona un artículo 63 Bi
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 12 de abril de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se adicionan un segundo y tercer párrafos al artículo 45 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Publicado en el Diario Oficial de la Federación 1 de diciembre de 2023
@@ -2243,7 +2350,7 @@ Se reforman los artículos 58, fracciones I y IX; 103, fracción VI; 116, fracci
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de octubre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de crianza positiva.
 Publicado en el Diario Oficial de la Federación 26 de marzo de 2024
@@ -2306,11 +2413,11 @@ Se reforman los artículos 1, fracción III; 2, fracciones I y III; 3, primer p�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

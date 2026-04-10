@@ -15,6 +15,7 @@ Se expide la Ley de Fomento para la Lectura y el Libro en los siguientes términ
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en todo el territorio nacional.
 Lo establecido en esta Ley se aplicará sin perjuicio de lo ordenado en la Ley de Imprenta, la Ley respectivos reglamentos, así como cualquier otro ordenamiento en la materia, siempre y cuando no contravengan lo que en ésta se dispone.
@@ -28,13 +29,15 @@ Distribuidor: Persona física o moral legalmente constituida, dedicada a la dist
 Cadena productiva del libro: Conjunto de industrias que participan en los diversos procesos de producción del libro, y está conformada por la de la Celulosa y el Papel, la de las Artes Gráficas y la Editorial. En la de Artes Gráficas se incluye la participación de los que brindan servicios editoriales, los impresores y los encuadernadores que reciban sus ingresos en más de un ochenta por ciento de los trabajos relacionados con el libro y la revista.
 Cadena del libro: Conjunto de personas físicas o morales que inciden en la creación, producción, distribución, promoción, venta y lectura del libro.
 Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa o editada en cualquier soporte, lenguaje o código, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
-Párrafo reformado DOF 29-11-2023 Revista: Publicación de periodicidad no diaria, generalmente ilustrada, encuadernada, con escritos sobre varias materias o especializada. Para el objeto de esta Ley, las revistas gozarán de las mismas prerrogativas que se señalen para el libro.
+Párrafo reformado DOF 29-11-2023
+Revista: Publicación de periodicidad no diaria, generalmente ilustrada, encuadernada, con escritos sobre varias materias o especializada. Para el objeto de esta Ley, las revistas gozarán de las mismas prerrogativas que se señalen para el libro.
 Libro mexicano: Toda publicación unitaria no periódica que tenga ISBN que lo identifique como mexicano.
 Revista mexicana: Publicación de periodicidad no diaria que tenga ISSN que la identifique como mexicana.
 Autoridades educativas locales: Ejecutivo de cada una de las entidades federativas, así como a las dependencias o entidades que, en su caso, establezcan para el ejercicio de la función social educativa.
 Sistema Educativo Nacional: Constituido por los educandos y educadores, las autoridades educativas, los planes, programas, métodos y materiales educativos; las instituciones educativas del Estado y de sus organismos descentralizados; las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios, y las instituciones de educación superior a las que la ley otorga autonomía.
 Bibliotecas escolares y de aula: Acervos bibliográficos que la Secretaría de Educación Pública y la Secretaría de Cultura, con la concurrencia de las autoridades locales, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica.
-Párrafo reformado DOF 17-12-2015 Salas de lectura: Espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura.
+Párrafo reformado DOF 17-12-2015
+Salas de lectura: Espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura.
 Autor: Persona que realiza alguna obra destinada a ser difundida en forma de libro. Se considera como autor, sin perjuicio de los requisitos establecidos en la legislación vigente, al traductor respecto de su traducción, al compilador y a quien extracta o adapta obras originales, así como al ilustrador y al fotógrafo, respecto de sus correspondientes trabajos.
 Precio único de venta al público: Valor de comercialización establecido libremente por el editor o importador para cada uno de sus títulos.
 Vendedores de libros al menudeo: Aquellas personas, físicas o morales, que comercializan libros al público.
@@ -65,12 +68,18 @@ VIII. Estimular la capacitación y formación profesional de los diferentes acto
 
 ## CAPÍTULO II — DE LAS AUTORIDADES RESPONSABLES
 
+
 ### Artículo 5
 .- Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus respectivas competencias:
 A. La Secretaría de Cultura;
-Inciso reformado DOF 17-12-2015 B. La Secretaría de Educación Pública;
-Inciso reformado DOF 17-12-2015 C. El Consejo Nacional de Fomento para el Libro y la Lectura;
-Inciso reformado DOF 29-11-2023 D. Los Gobiernos de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, y Inciso reformado DOF 19-01-2018, 29-11-2023 E. La Procuraduría Federal del Consumidor.
+Inciso reformado DOF 17-12-2015
+B. La Secretaría de Educación Pública;
+Inciso reformado DOF 17-12-2015
+C. El Consejo Nacional de Fomento para el Libro y la Lectura;
+Inciso reformado DOF 29-11-2023
+D. Los Gobiernos de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, y
+Inciso reformado DOF 19-01-2018, 29-11-2023
+E. La Procuraduría Federal del Consumidor.
 Inciso adicionado DOF 29-11-2023
 
 ### Artículo 6
@@ -123,16 +132,19 @@ III. Estimular y facilitar la participación de la sociedad civil en el desarrol
 
 IV. Garantizar la existencia de materiales escritos que respondan a los distintos intereses de los usuarios de la red nacional de bibliotecas públicas y los programas dirigidos a fomentar la lectura en la población abierta, tales como salas de lectura;
 
-V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y Fracción reformada DOF 19-01-2018
+V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y
+Fracción reformada DOF 19-01-2018
 
 VI. Generar programas de desarrollo profesional de fomento a la lectura para la población abierta y para los bibliotecarios de la red nacional de bibliotecas públicas.
 
-VII. Llevar el registro del precio único de libros a partir de la información que le proporcionen los editores e importadores de libros, y Fracción adicionada DOF 29-11-2023
+VII. Llevar el registro del precio único de libros a partir de la información que le proporcionen los editores e importadores de libros, y
+Fracción adicionada DOF 29-11-2023
 
 VIII. Promover y facilitar el acceso a libros digitales.
 Fracción adicionada DOF 29-11-2023
 
 ## CAPÍTULO III — DEL CONSEJO NACIONAL DE FOMENTO PARA EL LIBRO Y LA LECTURA
+
 
 ### Artículo 12
 .- Se crea el Consejo Nacional de Fomento para el Libro y la Lectura como un órgano consultivo de la Secretaría de Cultura y espacio de concertación y asesoría entre todas las instancias públicas, sociales y privadas vinculadas al libro y la lectura.
@@ -148,7 +160,8 @@ I. Un presidente, que será el titular de la Secretaría de Cultura. En su ausen
 Fracción reformada DOF 17-12-2015
 
 II. Un secretario ejecutivo que designe el presidente del Consejo. En ausencia del secretario ejecutivo será suplido por quien éste designe;
-Fracción reformada DOF 17-12-2015 II Bis. Un represente de la Secretaría de Educación Pública que designe su titular;
+Fracción reformada DOF 17-12-2015
+II Bis. Un represente de la Secretaría de Educación Pública que designe su titular;
 Fracción adicionada DOF 17-12-2015
 
 III. El titular del Instituto Nacional de Lenguas Indígenas;
@@ -178,11 +191,14 @@ Fracción adicionada DOF 02-04-2015
 XIII. El Director General de la Comisión Nacional de Libros de Texto Gratuitos;
 Fracción adicionada DOF 02-04-2015
 
-XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cámara de Senadores, y Fracción adicionada DOF 02-04-2015
+XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cámara de Senadores, y
+Fracción adicionada DOF 02-04-2015
 
 XV. El Presidente de la Comisión Bicamaral del Sistemas de Bibliotecas del Congreso de la Unión.
-Fracción adicionada DOF 02-04-2015 Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
-Párrafo reformado DOF 19-01-2018 La pertenencia y participación en este Consejo, es a título honorario.
+Fracción adicionada DOF 02-04-2015
+Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
+Párrafo reformado DOF 19-01-2018
+La pertenencia y participación en este Consejo, es a título honorario.
 
 ### Artículo 15
 .- El Consejo Nacional de Fomento para el Libro y la Lectura tendrá las siguientes funciones:
@@ -228,6 +244,7 @@ XV. Expedir su manual de operación conforme al cual regulará su organización,
 .- El quórum mínimo será del cincuenta por ciento más uno de sus miembros, y para que sus decisiones sean válidas deberán ser aprobadas por la mayoría de los miembros presentes, salvo en lo establecido en el artículo inmediato anterior.
 
 ## CAPÍTULO IV — DE LA COORDINACIÓN INTERINSTITUCIONAL, INTERGUBERNAMENTAL Y CON LA
+
 SOCIEDAD CIVIL
 
 ### Artículo 19
@@ -245,6 +262,7 @@ II. Establecer compromisos con las instancias y organismos internacionales que, 
 III. Establecer programas que involucren a individuos, instituciones de asistencia privada, instituciones académicas, asociaciones civiles y fideicomisos, cooperativas y colectivos, cuya labor a favor del fomento a la lectura y el libro han sido fundamentales para el desarrollo cultural en el país.
 
 ## CAPÍTULO V — DE LA DISPONIBILIDAD Y ACCESO EQUITATIVO AL LIBRO
+
 
 ### Artículo 21
 .- En todo libro editado en México, deberán constar los siguientes datos: título de la obra, nombre del autor, editor, número de la edición, lugar y fecha de la impresión, nombre y domicilio del editor en su caso; ISBN y código de barras. El libro que no reúna estas características no gozará de los beneficios fiscales y de otro tipo que otorguen las disposiciones jurídicas en la materia.
@@ -310,7 +328,7 @@ Se adiciona las fracciones XI, XII, XIII, XIV y XV al artículo 14 de la Ley de 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 3 de marzo de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Tomás Torres Mercado, Vicepresidente en funciones de Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip.
 Francisca Elena Corrales Corrales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
@@ -321,19 +339,19 @@ Se REFORMAN los artículos 2, párrafo décimo cuarto; 5, apartados A y B; 6, p�
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.

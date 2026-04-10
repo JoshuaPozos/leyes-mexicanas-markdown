@@ -17,7 +17,8 @@ SERVICIOS DIVERSOS.- La Recepción, transportación y entrega de envíos, distin
 ORGANISMO.- El Organismo Descentralizado denominado Servicio Postal Mexicano.
 ARTICULO 3o.- Los actos relativos a la prestación del servicio público de correos y de los servicios diversos a que se refiere esta Ley son de competencia federal.
 ARTICULO 4o.- El Gobierno Federal, por conducto del Organismo, tendrá a su cargo la recepción, transportación y entrega de la correspondencia, así como de los servicios diversos de recepción, transportación y entrega de envíos distintos a la correspondencia a que se refiere el artículo 2o., por sí o a través de asociaciones públicas o privadas aprovechando el uso de las tecnologías de la información y comunicaciones. De igual forma, tendrá a su cargo la planeación, establecimiento, conservación, operación, organización y administración de los servicios diversos contenidos en esta Ley.
-Artículo reformado DOF 04-06-2015, 31-05-2018 ARTICULO 5o.- La Secretaría tendrá a su cargo la regulación, inspección y vigilancia del servicio público de correos y de los servicios diversos.
+Artículo reformado DOF 04-06-2015, 31-05-2018
+ARTICULO 5o.- La Secretaría tendrá a su cargo la regulación, inspección y vigilancia del servicio público de correos y de los servicios diversos.
 ARTICULO 6o.- El correo y los servicios diversos se rigen por esta Ley, por los tratados y convenios internacionales y por las demás leyes y reglamentos aplicables.
 ARTICULO 7o.- Las personas físicas o morales que proporcionen servicios diversos, estarán sujetas a esta Ley y a la de Vías Generales de Comunicación.
 CAPITULO II Inviolabilidad y Sigilo ARTICULO 8o.- La correspondencia estará libre de todo registro y no deberá ser violada.
@@ -49,13 +50,15 @@ No se admitirá la correspondencia y los envíos a que se refieren las fraccione
 ARTICULO 15.- Queda prohibida la circulación por correo de los siguientes envíos y correspondencia:
 I.- Los cerrados que en su envoltura y los abiertos que por su texto, forma, mecanismo o aplicación sean contrarios a la Ley, a la moral o a las buenas costumbres.
 II.- Los que contengan materias corrosivas, inflamables, explosivas o cualquier otra que puedan causar daños.
-Fracción reformada DOF 19-01-2023 III.- Los que contengan objetos de fácil descomposición o con mal olor.
+Fracción reformada DOF 19-01-2023
+III.- Los que contengan objetos de fácil descomposición o con mal olor.
 IV.- Los que presumiblemente puedan ser utilizados en la comisión de un delito.
 V.- Los que sean ofensivos o denigrantes para la Nación.
 VI.- Los que contengan billetes o anuncios de loterías extranjeras y, en general, de juegos prohibidos como texto principal. Si se trata de envíos o correspondencia internacional se estará a lo dispuesto por el Artículo 29.
 VII.- Los que contengan animales vivos.
 VIII.- Los que contengan sustancias ilegales, psicotrópicos o estupefacientes.
-Fracción adicionada DOF 19-01-2023 ARTICULO 16.- Cuando se advierta, en cualquier momento, que la correspondencia o envíos depositados sean de circulación prohibida, se pondrán a disposición de la autoridad competente.
+Fracción adicionada DOF 19-01-2023
+ARTICULO 16.- Cuando se advierta, en cualquier momento, que la correspondencia o envíos depositados sean de circulación prohibida, se pondrán a disposición de la autoridad competente.
 CAPITULO VI Transporte de la correspondencia y envíos ARTICULO 17.- Para el transporte de la correspondencia y de los envíos, se utilizará la vía más adecuada a fin de lograr seguridad y rapidez. Si se requiere el organismo podrá contratar el transporte con terceros.
 ARTICULO 18.- Las autoridades en el ámbito de su competencia están obligadas a:
 I.- Proteger y auxiliar a los empleados, agentes, conductores y contratistas que transporten correspondencia o envíos.
@@ -166,13 +169,18 @@ ARTICULO 65.- Para la introducción al país, así como para la fabricación, ve
 ARTICULO 66.- La venta de estampillas postales al público por parte de particulares, requerirá autorización del Organismo en los términos de las disposiciones reglamentarias.
 CAPITULO XXIII De los Agentes ARTICULO 67.- Para la prestación de los servicios a su cargo, el Organismo se podrá auxiliar de personas físicas o morales, que funcionen como agentes en el recibo, transporte y entrega de correspondencia y envíos.
 ARTICULO 68.- Los servicios que proporcionen los agentes se llevarán a cabo mediante la celebración de los contratos respectivos, bajo los términos y condiciones que establezca el reglamento.
-CAPITULO XXIV De las Franquicias Postales Capítulo adicionado DOF 26-03-2010 ARTICULO 69.- Sólo podrán establecerse franquicias postales mediante su inserción en la legislación federal y en aquellos casos considerados por el Congreso de la Unión como de interés público.
+CAPITULO XXIV De las Franquicias Postales
+Capítulo adicionado DOF 26-03-2010
+ARTICULO 69.- Sólo podrán establecerse franquicias postales mediante su inserción en la legislación federal y en aquellos casos considerados por el Congreso de la Unión como de interés público.
 Una vez establecidas de conformidad con lo dispuesto por el párrafo anterior, la instrumentación de las franquicias deberá ejercerse mediante convenio que se suscriba entre el Organismo y el beneficiario del servicio.
-Artículo adicionado DOF 26-03-2010 ARTICULO 70.- Las disposiciones que expida el Congreso de la Unión para efecto de lo establecido en el artículo anterior, deberán considerar la obligación de los beneficiarios de cubrir el costo de la franquicia postal, o, en su lugar, el mecanismo para financiarlo, a efecto de que en ningún caso sea asumido por el Organismo.
+Artículo adicionado DOF 26-03-2010
+ARTICULO 70.- Las disposiciones que expida el Congreso de la Unión para efecto de lo establecido en el artículo anterior, deberán considerar la obligación de los beneficiarios de cubrir el costo de la franquicia postal, o, en su lugar, el mecanismo para financiarlo, a efecto de que en ningún caso sea asumido por el Organismo.
 El servicio puede ser utilizado por el Poder Ejecutivo, Legislativo y Judicial, así como por las áreas técnicas, parlamentarias y administrativas; previa observación de que la documentación susceptible de enviarse mediante este beneficio es exclusiva de los trabajos oficiales realizados por la institución que lo solicita.
 El costo de la franquicia en cualquiera de sus clasificaciones, deberá ser cubierto, cuando menos, en forma trimestral, de conformidad con el convenio a que se refiere el párrafo segundo del artículo anterior.
-Artículo adicionado DOF 26-03-2010 ARTICULO 71.- Las franquicias postales sólo podrán referirse al servicio gratuito para los beneficiarios de envío ordinario dentro del territorio nacional.
-Artículo adicionado DOF 26-03-2010 ARTICULO 72.- El convenio a que se refiere el párrafo segundo del artículo 69 deberá contener, cuando menos:
+Artículo adicionado DOF 26-03-2010
+ARTICULO 71.- Las franquicias postales sólo podrán referirse al servicio gratuito para los beneficiarios de envío ordinario dentro del territorio nacional.
+Artículo adicionado DOF 26-03-2010
+ARTICULO 72.- El convenio a que se refiere el párrafo segundo del artículo 69 deberá contener, cuando menos:
 I.- La autoridad u órgano que podrá ejercer el servicio contenido en la franquicia;
 II.- Los servicios específicos de que podrán hacer uso los beneficiarios de la franquicia, observando lo establecido en el artículo 71;
 III.- El tipo de documentación que podrá remitirse mediante el ejercicio de la franquicia y las restricciones especiales, adicionales a las que determina esta Ley;
@@ -195,7 +203,7 @@ Se adiciona el Capítulo XXIV “De las Franquicias Postales”, con los artícu
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor a los 30 días siguientes al día de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor a los 30 días siguientes al día de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 16 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Georgina Trujillo Zentella, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de marzo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se adiciona un párrafo segundo al artículo 4o. de la Ley del Servicio Postal Mexicano.
@@ -206,7 +214,7 @@ Se adiciona un párrafo segundo al artículo 4o. de la Ley del Servicio Postal M
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 29 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Sergio Augusto Chan Lugo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo 4o. de la Ley del Servicio Postal Mexicano.
 Publicado en el Diario Oficial de la Federación el 31 de mayo de 2018
@@ -216,7 +224,7 @@ Se reforma el artículo 4o. de la Ley del Servicio Postal Mexicano, para quedar 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 24 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 DECRETO por el que se reforma la fracción II y se adiciona una fracción VIII al artículo 15 de la Ley del Servicio Postal Mexicano.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2023
@@ -226,6 +234,6 @@ Se reforma la fracción II y se adiciona una fracción VIII al artículo 15 de l
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 6 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

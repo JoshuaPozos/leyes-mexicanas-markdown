@@ -18,7 +18,9 @@ Se expide la Ley del Sector Hidrocarburos, para quedar como sigue:
 
 ## TÍTULO PRIMERO — Del Sector Hidrocarburos
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de los artículos 25, párrafo quinto; 27, párrafo séptimo y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, en materia de Hidrocarburos.
@@ -158,6 +160,7 @@ Las actividades de Reconocimiento y Exploración Superficial, así como las acti
 
 ## Capítulo II — De la Planeación y Control del Sector
 
+
 ### Artículo 7
 .- La regulación de las actividades referidas en el artículo 3 de esta Ley debe sujetarse y contribuir a los objetivos y acciones determinados en el Plan Nacional de Desarrollo, los programas que de él deriven y a la política pública que determine la persona Titular del Ejecutivo Federal, a través de la Secretaría de Energía.
 
@@ -177,9 +180,11 @@ La Secretaría de Energía puede determinar los proyectos de infraestructura est
 Los planes de inversiones de las Empresas Públicas del Estado deben elaborarse considerando los criterios vinculantes de planeación como elementos rectores de los mismos.
 
 ## TÍTULO SEGUNDO
+
 De la Exploración y Extracción de Hidrocarburos y del Reconocimiento y Exploración Superficial
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 10
 .- La Secretaría de Energía es la encargada de otorgar las Asignaciones a Petróleos Mexicanos, bajo las siguientes modalidades:
@@ -203,6 +208,7 @@ En caso de proceder con su desarrollo debe comunicar la modalidad de la Asignaci
 En el caso de que Petróleos Mexicanos decida no desarrollar el Área en posesión del Estado, la Secretaría de Energía puede decidir que su desarrollo lo realicen otras Personas Morales a través de un Contrato, en cuyo caso deberá sujetarse a las disposiciones aplicables.
 
 ## Capítulo II — De las Asignaciones para Desarrollo Propio
+
 
 ### Artículo 13
 .- La Secretaría de Energía puede otorgar o modificar las Asignaciones para Desarrollo Propio para realizar la Exploración y Extracción de Hidrocarburos exclusivamente a Petróleos Mexicanos quien debe fungir como Operador Petrolero.
@@ -285,6 +291,7 @@ VI. Aprobar los planes de Exploración y de desarrollo para la Extracción, así
 VII. Aprobar la sustitución de una Asignación para Desarrollo Propio por una Asignación para Desarrollo Mixto.
 
 ## Capítulo III — De las Asignaciones para Desarrollo Mixto
+
 
 ### Artículo 24
 .- La Secretaría de Energía puede otorgar a Petróleos Mexicanos Asignaciones para Desarrollo Mixto, en caso de que requiera complementar sus capacidades técnicas, operativas, financieras o de ejecución para la realización de las actividades de Exploración y Extracción; para lo cual, debe contar con una o más personas Participantes. En estas Asignaciones para Desarrollo Mixto cualquier parte puede fungir como Operador Petrolero.
@@ -418,6 +425,7 @@ En el supuesto previsto en el párrafo anterior, el Área de Asignación debe se
 .- Para la revocación de la Asignación para Desarrollo Mixto debe atenderse lo establecido en los artículos 19, 20 y 21 de la presente Ley.
 
 ## Capítulo IV — De los Contratos para la Exploración y Extracción
+
 
 ### Artículo 37
 .- La Secretaría de Energía, de manera excepcional, puede celebrar Contratos para la Exploración y Extracción de Hidrocarburos, para lo anterior, debe expedir previamente los lineamientos que regulen su procedimiento de licitación. De la misma forma deben observarse los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público en el ámbito de su competencia.
@@ -655,6 +663,7 @@ III. Participar en la administración y auditoría contables relativas a los té
 IV. Las demás que se prevén en los propios Contratos para la Exploración y Extracción y en las leyes aplicables.
 
 ## Capítulo V
+
 De la información obtenida de las actividades de Reconocimiento y Exploración Superficial, Exploración y Extracción de Hidrocarburos
 
 ### Artículo 60
@@ -701,6 +710,7 @@ Las Secretarías de Energía y de Hacienda y Crédito Público tienen acceso irr
 
 ## Capítulo VI — De las autorizaciones
 
+
 ### Artículo 64
 .- Las personas Asignatarias y Contratistas deben contar con autorización de la Secretaría de Energía, conforme a la regulación y los lineamientos que para tal efecto emita, para llevar a cabo la perforación de pozos en los casos siguientes:
 
@@ -741,6 +751,7 @@ III. Que las personas Autorizadas no realicen el pago de las contribuciones y ap
 IV. Las demás previstas en la autorización respectiva.
 
 ## Capítulo VII — De la regulación y obligaciones
+
 
 ### Artículo 69
 .- La persona Titular del Ejecutivo Federal, a propuesta de la Secretaría de Energía, puede establecer Zonas de Salvaguarda en las áreas de reserva en las que el Estado determine prohibir las actividades de Exploración y Extracción de Hidrocarburos. La incorporación de áreas específicas a las Zonas de Salvaguarda y su desincorporación de estas debe realizarse por decreto presidencial, fundado en los dictámenes técnicos respectivos.
@@ -870,7 +881,9 @@ Las infracciones a este Título y a sus disposiciones reglamentarias deben ser s
 
 ## TÍTULO TERCERO — De las demás Actividades de la Industria de Hidrocarburos
 
+
 ## Capítulo I — De los Permisos
+
 
 ### Artículo 76
 .- La realización de las actividades siguientes requiere de permiso:
@@ -1149,6 +1162,7 @@ De no ser procedente la revocación se debe ordenar levantar la suspensión del 
 
 ## Capítulo II — De los Sistemas Integrados
 
+
 ### Artículo 94
 .- Los sistemas de Transporte por ducto y de Almacenamiento de Gas Natural, Petrolíferos y Petroquímicos que se encuentren interconectados pueden conformar Sistemas Integrados, con objeto de ampliar la cobertura o aportar beneficios sistémicos en términos de mejoras en las condiciones de seguridad, continuidad, calidad y eficiencia en la prestación de los servicios.
 La Secretaría de Energía, con base en la política pública en materia energética que al respecto emita, puede requerir que se desarrollen los análisis necesarios para la conformación de Sistemas Integrados a fin de alcanzar los objetivos planteados en el párrafo anterior. Asimismo, la Secretaría de Energía es la encargada de emitir el plan quinquenal de expansión y optimización de la infraestructura de Transporte por ducto y Almacenamiento, tomando en consideración lo propuesto por los gestores de los sistemas integrados.
@@ -1193,6 +1207,7 @@ La Secretaría de Energía es la autoridad competente para determinar la integra
 
 ## Capítulo III — Del Centro Nacional de Control del Gas Natural
 
+
 ### Artículo 100
 .- El Centro Nacional de Control del Gas Natural es el gestor y administrador independiente del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural y tiene por objeto garantizar la continuidad y seguridad en la prestación de los servicios en ese sistema para contribuir con la continuidad del suministro de dicho energético en territorio nacional, así como realizar las demás actividades señaladas en la presente Ley y en el respectivo Decreto del Ejecutivo Federal.
 La gestión y administración a que se refiere la presente Ley debe entenderse como la potestad del Centro Nacional de Control del Gas Natural para instruir las acciones necesarias a las personas Permisionarias de Transporte por ducto y Almacenamiento vinculado a ducto para que tanto la operación diaria como la de mediano y largo plazo del sistema permisionado, se realice en estricto apego a las obligaciones de acceso abierto, sin que se afecte en modo alguno la titularidad de los contratos de reserva de capacidad.
@@ -1232,6 +1247,7 @@ Cada año, la Secretaría de Energía debe llevar a cabo una evaluación del pla
 
 ## Capítulo IV — Del Acceso Abierto
 
+
 ### Artículo 104
 .- Las personas Permisionarias que presten a terceros los servicios de Transporte y Distribución por medio de ductos, así como de Almacenamiento de Hidrocarburos, Petrolíferos y Petroquímicos, tienen la obligación de dar acceso abierto no indebidamente discriminatorio a sus instalaciones y servicios, sujeto a disponibilidad de capacidad en sus sistemas, en términos de las políticas públicas y de la regulación emitidas por la Secretaría de Energía o la Comisión Nacional de Energía, según sus competencias.
 La obligación prevista en el párrafo anterior no es aplicable a las Empresas Públicas del Estado o sus empresas filiales.
@@ -1266,6 +1282,7 @@ A fin de cuantificar la demanda señalada en el párrafo anterior, el desarrolla
 Cuando la extensión o ampliación de la capacidad de infraestructura de Transporte y Almacenamiento de Gas Natural sea financiada por las personas Permisionarias, la capacidad adicional generada debe hacerse pública mediante un boletín electrónico. En caso de existir interés de terceros, dicha capacidad debe ser asignada a las personas Usuarias a través de un Mecanismo de Asignación de Capacidad.
 
 ## Capítulo V
+
 De la Regulación y Obligaciones de las demás Actividades de la Industria de Hidrocarburos
 
 ### Artículo 110
@@ -1428,7 +1445,9 @@ El incumplimiento de las obligaciones previstas en las fracciones XXII, XXIII y 
 
 ## TÍTULO CUARTO — Disposiciones aplicables a la Industria de Hidrocarburos
 
+
 ## Capítulo I — De las Sanciones
+
 
 ### Artículo 120
 .- Las infracciones al Título Segundo de esta Ley y a sus disposiciones reglamentarias serán sancionadas tomando en cuenta la gravedad de la falta, de acuerdo con lo siguiente:
@@ -1565,6 +1584,7 @@ En caso de reincidencia, debe imponerse una multa por el doble de la anteriormen
 
 ## Capítulo II — De la Transparencia y el Combate a la Corrupción
 
+
 ### Artículo 124
 .- Corresponde a la Secretaría de Energía poner a disposición del público, de forma mensual, al menos la siguiente información:
 
@@ -1603,6 +1623,7 @@ La actuación de las personas servidoras públicas en el ejercicio de sus atribu
 
 ## Capítulo III — De la Jurisdicción, Utilidad Pública y Procedimientos
 
+
 ### Artículo 127
 .- La industria de Hidrocarburos es de exclusiva jurisdicción federal. En consecuencia, únicamente el Gobierno Federal puede dictar las disposiciones técnicas, reglamentarias y de regulación en la materia, incluyendo aquéllas relacionadas con la emisión de gases de efecto invernadero, el desarrollo sustentable, el equilibrio ecológico y la protección al medio ambiente en el desarrollo de esta industria.
 Con el fin de promover el desarrollo sustentable de las actividades que se realizan en los términos de esta Ley, en todo momento deben seguirse criterios que fomenten la protección, la restauración y la conservación de los ecosistemas, además de cumplir estrictamente con las leyes, reglamentos y demás normativa aplicable en materia de medio ambiente, recursos naturales, aguas, bosques, flora y fauna silvestre, terrestre y acuática, así como de pesca.
@@ -1624,6 +1645,7 @@ No obstante, las obras e infraestructura a que se refiere este artículo deben s
 .- Las Asignaciones, Contratos para la Exploración y Extracción, y permisos a que se refiere esta Ley, no limitan el derecho del Estado a otorgar concesiones, licencias o permisos para la exploración, extracción y aprovechamiento de otros recursos naturales, distintos de los Hidrocarburos, dentro de las áreas comprendidas en dichos títulos. En caso de ocurrir, la Secretaría de Energía debe establecer la prioridad y no generar una afectación a las actividades comprendidas en la Asignación, Contrato o Permiso.
 
 ## Capítulo IV — Del Uso y Ocupación Superficial
+
 
 ### Artículo 132
 .- La contraprestación, los términos y las condiciones para el uso, goce o afectación de los terrenos, bienes o derechos necesarios para realizar las actividades de Exploración y Extracción de Hidrocarburos, así como para el Transporte por medio de ducto, deben ser negociados y acordados entre los propietarios o titulares de dichos terrenos, bienes o derechos, incluyendo derechos reales, ejidales o comunales, y las personas Asignatarias, Contratistas o Permisionarias de Transporte por ducto. Tratándose de propiedad privada, además puede convenirse la adquisición.
@@ -1780,6 +1802,7 @@ La Secretaría de Energía o la Comisión Nacional de Energía, en el ámbito de
 
 ## Capítulo V — Del Impacto Social
 
+
 ### Artículo 149
 .- Los proyectos de infraestructura de los sectores público y privado en la industria de Hidrocarburos deben atender los principios de sostenibilidad y respeto de los derechos humanos de las comunidades y de los pueblos indígenas y afromexicanos de las regiones en los que se pretendan desarrollar.
 
@@ -1847,6 +1870,7 @@ La autorización que emita la Secretaría de Energía en materia de Manifestaci�
 
 ## Capítulo VI — De la Cobertura Social y el Desarrollo de la Industria Nacional
 
+
 ### Artículo 158
 .- La Secretaría de Energía es responsable de fomentar y vigilar un adecuado suministro de energéticos en el territorio nacional, para lo cual puede instruir, previa opinión favorable de la Secretaría de Hacienda y Crédito Público, a Petróleos Mexicanos y al Centro Nacional de Control del Gas Natural llevar a cabo aquellos proyectos que considere necesarios para la generación de beneficios sociales y como mecanismos de promoción de desarrollo económico, en términos de esta Ley y de la política pública en materia energética del país. En el caso de proyectos que requieran permiso de la Comisión Nacional de Energía, la Secretaría de Energía debe solicitar su opinión.
 Para lo anterior las Secretarías de Energía y de Hacienda y Crédito Público deben determinar los mecanismos de inversión que correspondan. Lo anterior, con independencia de la regulación tarifaria que, en su caso, establezca la Comisión Nacional de Energía para la prestación de servicios permisionados.
@@ -1903,6 +1927,7 @@ II. La contratación de servicios de origen nacional, incluyendo la capacitació
 
 ## Capítulo VII — De la Seguridad Industrial y la Protección al Medio Ambiente
 
+
 ### Artículo 164
 .- Corresponde a la Agencia emitir la regulación y la normatividad aplicable en materia de seguridad industrial y operativa, así como de protección al medio ambiente en la industria de Hidrocarburos, a fin de promover, aprovechar y desarrollar de manera sustentable las actividades de la industria de Hidrocarburos.
 La Agencia debe aportar los elementos técnicos para el diseño y la definición de la política pública en materia energética, de protección al medio ambiente y recursos naturales, así como para la formulación de los programas sectoriales en la materia, que se relacionen con su objeto.
@@ -1912,6 +1937,7 @@ La Agencia se rige por lo dispuesto en su propia ley.
 .- Las personas Asignatarias, Contratistas, Autorizadas y Permisionarias deben ejecutar las acciones de prevención y de reparación de daños al medio ambiente o al equilibrio ecológico que ocasionen con sus actividades y están obligados a sufragar los costos inherentes a dicha reparación, cuando sean declarados responsables por resolución de la autoridad competente, en términos de las disposiciones aplicables.
 
 ## Capítulo VIII — De la Aplicación General de esta Ley
+
 
 ### Artículo 166
 .- La aplicación y la interpretación para efectos administrativos de esta Ley corresponde, en el ámbito de sus atribuciones, a las Secretarías de Energía, de Hacienda y Crédito Público y de Economía, a la Comisión Nacional de Energía y a la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
@@ -1953,8 +1979,7 @@ Adicionalmente, Petróleos Mexicanos podrá solicitar a la Secretaría de Energ�
 **Vigésimo Primero.-** Los pozos no otorgados en Asignaciones o Contratos, previo a la entrada en vigor de la presente Ley, que a la fecha tengan producción de Hidrocarburos bajo el resguardo de Petróleos Mexicanos, pueden ser otorgados en Asignaciones para Desarrollo Propio o en Asignaciones para Desarrollo Mixto.
 **Vigésimo Segundo.-** La Evaluación de Impacto Social continuará vigente hasta en tanto no se emitan las disposiciones administrativas generales correspondientes a la Manifestación de Impacto Social del Sector Energético.
 **Vigésimo Tercero.-** En cumplimiento de lo previsto en el artículo 116, segundo párrafo de esta Ley, a partir del
-**primero.** de enero de 2026 y en tanto no se modifique la Norma Oficial Mexicana “NOM-016-CRE-2016 Especificaciones de calidad de los petrolíferos” o se emita una nueva norma oficial mexicana que la sustituya, se debe estar a lo siguiente:
-
+**primero.-** de enero de 2026 y en tanto no se modifique la Norma Oficial Mexicana “NOM-016-CRE-2016 Especificaciones de calidad de los petrolíferos” o se emita una nueva norma oficial mexicana que la sustituya, se debe estar a lo siguiente:
 I. La responsabilidad para la toma de muestras y la determinación de las especificaciones de calidad a que se refieren los numerales 5.1, 5.1.2, 5.1.3 excepto las personas Permisionarias de transporte por ducto, 5.1.4 excepto las personas Permisionarias de almacenamiento, y 5.1.5 recae en la Secretaría de Energía, en su calidad de autoridad normalizadora, quien ejerce dicha atribución a través de la Comisión Nacional de Energía. Para la toma de muestras y determinación de las especificaciones de calidad correspondientes, la Comisión Nacional de Energía puede auxiliarse de laboratorios de prueba acreditados y aprobados, en términos de lo dispuesto en la Ley de la Infraestructura de la Calidad;
 
 II. Para efectos de lo dispuesto en la fracción anterior, las personas Permisionarias de importación, transporte por medios distintos a ductos, almacenamiento, distribución y expendio al público de petrolíferos deben otorgar el acceso y facilidades para que se pueda realizar la toma de muestras respectiva, y
@@ -1968,6 +1993,6 @@ Para la determinación de dichos aprovechamientos, la Comisión Nacional de Ener
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

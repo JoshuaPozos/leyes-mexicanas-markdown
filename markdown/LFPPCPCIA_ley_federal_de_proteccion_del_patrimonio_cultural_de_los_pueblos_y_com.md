@@ -14,7 +14,9 @@ LEY FEDERAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y COMUNIDADES 
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 . La presente Ley es de orden público, interés social y de observancia general en el territorio nacional. Tiene por objeto reconocer y garantizar la protección, salvaguardia y el desarrollo del patrimonio cultural y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, en términos de los artículos 1o., 2o., 4o., párrafo décimo segundo, y 73, fracción XXV, de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia.
@@ -132,7 +134,9 @@ Artículo reformado DOF 14-11-2025
 
 ## TÍTULO SEGUNDO — DE LOS DERECHOS COLECTIVOS SOBRE EL PATRIMONIO CULTURAL
 
+
 ## Capítulo Primero — Del derecho de propiedad colectiva
+
 
 ### Artículo 13
 . El Estado reconoce a los pueblos y comunidades indígenas y afromexicanas el derecho colectivo a la propiedad sobre su patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos que, de manera continua o discontinua, han practicado y les fueron transmitidos por miembros de su propia comunidad de generaciones previas. También tienen derecho a la propiedad intelectual de dicho patrimonio cultural.
@@ -172,6 +176,7 @@ En caso de falta de acuerdo entre las comunidades, el elemento de que se trate n
 INDÍGENAS Y AFROMEXICANAS En ningún caso, los derechos individuales que se generen por la aplicación del presente artículo afectarán los derechos colectivos sobre el patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas.
 
 ## Capítulo Segundo — De las autorizaciones y el consentimiento expreso
+
 
 ### Artículo 24
 . Las autorizaciones de uso, aprovechamiento y comercialización sobre los elementos del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas se ejercerán con pleno respeto a sus derechos, dignidad e integridad culturales, y en todo momento deberá acreditarse el lugar de origen del elemento de que se trate. Salvo acuerdo en contrario, toda autorización será onerosa y temporal, e implicará una distribución justa y equitativa de beneficios.
@@ -223,9 +228,11 @@ INDÍGENAS Y AFROMEXICANAS
 . Los beneficios económicos o de cualquier otra naturaleza que deriven del uso, aprovechamiento o comercialización, serán convenidos con las autoridades o instancias de decisión y representación de los pueblos y comunidades indígenas y afromexicanas propietarias del patrimonio cultural, quienes deberán tener toda la información sobre los términos del acuerdo, los recursos y beneficios que se generen en el ejercicio del mismo.
 
 ## TÍTULO TERCERO — DEL SISTEMA DE PROTECCIÓN DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y
+
 COMUNIDADES INDÍGENAS Y AFROMEXICANAS
 
 ## Capítulo Primero — Disposiciones Generales
+
 
 ### Artículo 34
 . El Sistema de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación interinstitucional del gobierno federal, con la participación de los pueblos y comunidades indígenas y afromexicanas. Tiene como propósito dar cumplimiento al objeto y fines de la Ley con pleno respeto a la libre determinación y autonomía de dichos pueblos y comunidades, conforme lo establezcan las disposiciones aplicables en la materia para:
@@ -293,9 +300,11 @@ INDÍGENAS Y AFROMEXICANAS
 . En el ámbito de sus respectivas competencias, todas las dependencias de la Administración Pública Federal deberán contribuir al cumplimiento de los fines y el objeto de la Ley.
 
 ## Capítulo Segundo
+
 Las Instancias del Sistema de Protección
 
 ## Sección Primera — De la integración de la Comisión
+
 INDÍGENAS Y AFROMEXICANAS
 
 ### Artículo 45
@@ -323,10 +332,12 @@ VIII. La Fiscalía General de la República;
 IX. La Comisión Nacional de los Derechos Humanos;
 Fracción reformada DOF 29-11-2023
 
-X. La representación de los pueblos y comunidades de conformidad con lo que establezca el estatuto del Sistema de Protección, y Fracción reformada DOF 29-11-2023
+X. La representación de los pueblos y comunidades de conformidad con lo que establezca el estatuto del Sistema de Protección, y
+Fracción reformada DOF 29-11-2023
 
 XI. El Instituto Nacional del Derecho de Autor.
-Fracción adicionada DOF 29-11-2023 Los integrantes de la Comisión Intersecretarial de las entidades y dependencias públicas podrán designar a un suplente, quien deberá tener nivel de subsecretario o equivalente.
+Fracción adicionada DOF 29-11-2023
+Los integrantes de la Comisión Intersecretarial de las entidades y dependencias públicas podrán designar a un suplente, quien deberá tener nivel de subsecretario o equivalente.
 
 ### Artículo 47
 . La Comisión Intersecretarial tendrá una Secretaría Ejecutiva que lo presidirá y recaerá en la Secretaría de Cultura del gobierno federal.
@@ -370,6 +381,7 @@ XIV. Las demás que establezcan otras disposiciones relacionadas con sus respect
 . Todas las decisiones que se tomen en el marco de la Comisión Intersecretarial se llevarán a cabo con pleno respeto a la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, así como de sus sistemas normativos.
 
 ## Sección Segunda
+
 De la Secretaría Ejecutiva de la Comisión Intersecretarial del Sistema de Protección
 
 ### Artículo 51
@@ -406,9 +418,11 @@ XIII. Las demás que proponga el Pleno de la Comisión Intersecretarial del Sist
 . La Secretaría Ejecutiva de la Comisión Intersecretarial del Sistema de Protección podrá convocar a reuniones extraordinarias para la atención de asuntos específicos a solicitud de los pueblos y INDÍGENAS Y AFROMEXICANAS comunidades indígenas y afromexicanas o cuando la mitad más uno de las instituciones que la integran así lo soliciten.
 
 ## TÍTULO CUARTO — DEL REGISTRO NACIONAL DEL PATRIMONIO CULTURAL DE LOS PUEBLOS Y
+
 COMUNIDADES INDÍGENAS Y AFROMEXICANAS
 
 ## Capítulo Único — Del Registro
+
 
 ### Artículo 53
 . El Registro es un instrumento de la política pública que identifica, cataloga, registra y documenta las manifestaciones de los pueblos y comunidades indígenas y afromexicanas.
@@ -426,14 +440,17 @@ La falta de inscripción en el Registro de algún elemento del patrimonio cultur
 . Los documentos integrados al Registro tendrán valor de documental pública en los procedimientos penales o administrativos establecidos en esta Ley.
 
 ## TÍTULO QUINTO — DE LOS MECANISMOS DE SOLUCIÓN DE CONTROVERSIAS, INFRACCIONES,
+
 SANCIONES Y DELITOS
 
 ## Capítulo Primero — Disposiciones Generales
+
 
 ### Artículo 57
 . Los pueblos y comunidades indígenas y afromexicanas, con base en su libre determinación y autonomía, así como en sus sistemas normativos, podrán optar por la mediación, la queja o la denuncia, cuando identifiquen el uso no consentido de los elementos de su patrimonio cultural.
 
 ## Capítulo Segundo
+
 Procedimientos INDÍGENAS Y AFROMEXICANAS
 
 ### Artículo 58
@@ -587,11 +604,11 @@ Los delitos previstos en la presente Ley se perseguirán de oficio.
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda.
-**Tercero.** El Reglamento de la Ley será publicado por la autoridad correspondiente en un lapso de 180 días naturales.
-**Cuarto.** El Estatuto del Sistema de Protección del Patrimonio Cultural e Identidad de los Pueblos y Comunidades Indígenas y Afromexicanas será emitido por la persona titular de la Secretaría de Cultura en su calidad de persona titular de la Secretaría Ejecutiva de la Comisión Intersecretarial del Sistema de Protección una vez aprobado por las instituciones que conforman la Comisión, en un plazo que no excederá los 180 días naturales.
-**Quinto.** El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro del cuerpo normativo del presente Decreto se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda.
+**Tercero.-** El Reglamento de la Ley será publicado por la autoridad correspondiente en un lapso de 180 días naturales.
+**Cuarto.-** El Estatuto del Sistema de Protección del Patrimonio Cultural e Identidad de los Pueblos y Comunidades Indígenas y Afromexicanas será emitido por la persona titular de la Secretaría de Cultura en su calidad de persona titular de la Secretaría Ejecutiva de la Comisión Intersecretarial del Sistema de Protección una vez aprobado por las instituciones que conforman la Comisión, en un plazo que no excederá los 180 días naturales.
+**Quinto.-** El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro del cuerpo normativo del presente Decreto se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
 Ciudad de México, a 30 de noviembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 INDÍGENAS Y AFROMEXICANAS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona una fracción XI al artículo 46 de la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
@@ -611,12 +628,12 @@ Noveno.- Se reforma el artículo 11 de la Ley Federal de Protección del Patrimo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia INDÍGENAS Y AFROMEXICANAS Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

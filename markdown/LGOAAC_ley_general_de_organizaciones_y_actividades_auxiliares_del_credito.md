@@ -30,7 +30,8 @@ Fracción derogada DOF 18-07-2006
 III. (Se deroga).
 Fracción derogada DOF 04-06-2001
 
-IV. [Uniones de crédito;] Fracción derogada DOF 20-08-2008 (por contener referencia a “uniones de crédito”)
+IV. [Uniones de crédito;]
+Fracción derogada DOF 20-08-2008 (por contener referencia a “uniones de crédito”)
 
 V. Se deroga.
 Fracción derogada DOF 18-07-2006
@@ -50,11 +51,16 @@ Artículo reformado DOF 18-07-2006, 03-08-2011
 
 ### Artículo 5o
 .- Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para la constitución y operación de almacenes generales de depósito [o de la Comisión Nacional Bancaria y de Valores cuando se trate de uniones de crédito].
-Párrafo reformado DOF 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o de la Comisión Nacional Bancaria y de Valores cuando se trate de uniones de crédito”, por contener referencia a “uniones de crédito”) Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, según la apreciación sobre la conveniencia de su establecimiento y serán por su propia naturaleza, intransmisibles.
-Párrafo reformado DOF 10-01-2014 Para el otorgamiento de las autorizaciones que le corresponde otorgar a la Secretaría de Hacienda y Crédito Público conforme al presente artículo, ésta escuchará la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México.
-Párrafo adicionado DOF 15-07-1993. Reformado DOF 04-06-2001, 18-07-2006 Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
+Párrafo reformado DOF 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o de la Comisión Nacional
+Bancaria y de Valores cuando se trate de uniones de crédito”, por contener referencia a “uniones de crédito”) Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por dicha Secretaría, según la apreciación sobre la conveniencia de su establecimiento y serán por su propia naturaleza, intransmisibles.
+Párrafo reformado DOF 10-01-2014
+Para el otorgamiento de las autorizaciones que le corresponde otorgar a la Secretaría de Hacienda y Crédito Público conforme al presente artículo, ésta escuchará la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México.
+Párrafo adicionado DOF 15-07-1993. Reformado DOF 04-06-2001, 18-07-2006
+Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación, así como las modificaciones a las mismas.
 Solo las sociedades que gocen de autorización en los términos de esta Ley podrán operar como almacenes generales de depósito [o uniones de crédito].
-Párrafo reformado DOF 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o uniones de crédito”, por contener referencia a “uniones de crédito”) Artículo reformado DOF 03-01-1990
+Párrafo reformado DOF 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o uniones de crédito”, por
+contener referencia a “uniones de crédito”)
+Artículo reformado DOF 03-01-1990
 
 ### Artículo 5
 Bis 1.- Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de tres meses para que las autoridades administrativas resuelvan lo que corresponda.
@@ -80,15 +86,21 @@ Artículo adicionado DOF 01-06-2001
 
 ### Artículo 6o
 .- La solicitud de autorización para constituir y operar una organización auxiliar del crédito deberá acompañarse de la documentación e información que la Secretaría de Hacienda y Crédito Público establezca mediante disposiciones de carácter general así como del comprobante de haber constituido un depósito en Nacional Financiera en moneda nacional a favor de la Tesorería de la Federación, igual al diez por ciento del capital mínimo exigido para su constitución, según esta Ley.
-Párrafo reformado DOF 15-07-1993, 10-01-2014 En los casos de revocación a que se refiere la fracción I del artículo 78 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el primer párrafo. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
-Párrafo adicionado DOF 15-07-1993 Reforma DOF 04-06-2001: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 27-12-1991) Artículo reformado DOF 03-01-1990
+Párrafo reformado DOF 15-07-1993, 10-01-2014
+En los casos de revocación a que se refiere la fracción I del artículo 78 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el primer párrafo. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
+Párrafo adicionado DOF 15-07-1993
+Reforma DOF 04-06-2001: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 27-12-1991)
+Artículo reformado DOF 03-01-1990
 
 ### Artículo 7o
 .- Las palabras organización auxiliar del crédito, almacén general de depósito, sociedad financiera de objeto múltiple, casa de cambio, centro cambiario o transmisor de dinero, así como otras que expresen ideas semejantes en cualquier idioma, sólo podrán ser usadas en la denominación de las sociedades a las que les haya sido otorgada la autorización o bien, se encuentren registradas, según corresponda, en términos de lo dispuesto por los artículos 81, 81-B y 87-B de la presente Ley.
-Párrafo reformado DOF 10-01-2014 Se exceptúan de la aplicación del párrafo anterior a las asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, así como a las que agrupen a centros cambiarios o transmisores de dinero, siempre que no realicen operaciones sujetas a autorización, registro o regulación, en los términos previstos en esta Ley; y a las demás personas que sean autorizadas por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para estos efectos.
-Párrafo reformado DOF 10-01-2014 Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales no podrán incluir el término nacional en su denominación.
+Párrafo reformado DOF 10-01-2014
+Se exceptúan de la aplicación del párrafo anterior a las asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, así como a las que agrupen a centros cambiarios o transmisores de dinero, siempre que no realicen operaciones sujetas a autorización, registro o regulación, en los términos previstos en esta Ley; y a las demás personas que sean autorizadas por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para estos efectos.
+Párrafo reformado DOF 10-01-2014
+Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales no podrán incluir el término nacional en su denominación.
 Asimismo, las palabras cambio, compra o venta de divisas, transmisión de fondos, así como otras que expresen ideas semejantes en cualquier idioma, ya sea que se refieran a divisas en general o a un tipo específico de éstas, no podrán ser usadas en el nombre o denominación de personas físicas cuyo régimen fiscal sea de ingresos por actividades empresariales, personas morales o establecimientos distintos de las casas de cambio, centros cambiarios, transmisores de dinero o aquellas instituciones financieras que conforme a las leyes que las rigen se encuentren facultadas para realizar operaciones de cambio o compra y venta de divisas, así como transmisión de fondos.
-Artículo reformado DOF 03-01-1990, 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (por contener referencia a “uniones de crédito”). Reformado DOF 03-08-2011
+Artículo reformado DOF 03-01-1990, 27-12-1991, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (por contener referencia a “uniones de
+crédito”). Reformado DOF 03-08-2011
 
 ### Artículo 8o
 .- Las sociedades que se autoricen para operar como organizaciones auxiliares del crédito y casas de cambio, deberán constituirse en forma de sociedad anónima, organizadas con arreglo a la Ley General de Sociedades Mercantiles y a las siguientes disposiciones que son de aplicación especial:
@@ -134,7 +146,8 @@ X. El órgano de vigilancia estará integrado por lo menos con un comisario. Los
 XI. La escritura constitutiva y cualquier modificación de la misma deberán ser sometidas a la aprobación de la Secretaría de Hacienda y Crédito Público, a efecto de verificar si se cumple con los requisitos establecidos por la ley. Una vez aprobada, la escritura o sus reformas, deberán presentarse para su inscripción ante el Registro Público de Comercio. La sociedad deberá proporcionar a la Secretaría, los datos de su inscripción respectivos dentro de los quince días hábiles siguientes al otorgamiento del registro; y
 
 XII. La fusión de las organizaciones auxiliares del crédito o casas de cambio, tendrá efectos en el momento de inscribirse en el Registro Público de Comercio y deberá publicarse en el Diario Oficial de la Federación. Dentro de los noventa días naturales siguientes a partir de la fecha de la publicación, los acreedores podrán oponerse judicialmente para el solo efecto de obtener el pago de sus créditos sin que esta oposición suspenda la fusión.
-Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 23-12-1993, 17-11-1995, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (por contener referencia a “uniones de crédito”). Reformado DOF 10-01-2014
+Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 23-12-1993, 17-11-1995, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008
+(por contener referencia a “uniones de crédito”). Reformado DOF 10-01-2014
 
 ### Artículo 8o
 Bis.- Las organizaciones auxiliares del crédito y casas de cambio se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de acciones que se efectúen en contravención a lo dispuesto en el artículo 8o, fracción III de esta Ley, y deberán informar tal circunstancia a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
@@ -212,7 +225,8 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 10
 .- Las leyes mercantiles, los usos y prácticas mercantiles y la legislación civil federal, serán supletorios de la presente Ley, en el orden citado.
-Artículo reformado DOF 10-01-2014 TITULO SEGUNDO De las Organizaciones Auxiliares del Crédito CAPITULO I De los almacenes generales de depósito
+Artículo reformado DOF 10-01-2014
+TITULO SEGUNDO De las Organizaciones Auxiliares del Crédito CAPITULO I De los almacenes generales de depósito
 
 ### Artículo 11
 .- Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación, manejo, control, distribución o comercialización de bienes o mercancías bajo su custodia, incluyendo las que se encuentren en tránsito, amparados por certificados de depósito y el otorgamiento de financiamientos con garantía de los mismos. También podrán realizar procesos de incorporación de valor agregado, así como la transformación, reparación y ensamble de las mercancías depositadas a fin de aumentar su valor, sin variar esencialmente su naturaleza.
@@ -222,17 +236,27 @@ Artículo reformado DOF 03-01-1990, 15-07-1993, 30-04-1996, 10-01-2014
 
 ### Artículo 11
 Bis.- Los almacenes generales de depósito tendrán a su cargo la facultad exclusiva de expedir certificados de depósito lo cual deberá llevarse a cabo a través de un sistema criptográfico a que se refiere la Ley General de Títulos y Operaciones de Crédito.
-Párrafo reformado DOF 26-03-2024 Dichos títulos de crédito se regirán por las disposiciones de esta Ley y la Ley General de Títulos y Operaciones de Crédito.
-Párrafo adicionado DOF 26-03-2024 Los almacenes generales de depósito deberán garantizar a los tenedores legítimos acreedores prendarios, autoridades supervisoras y demás intervinientes en las operaciones con dichos títulos de crédito, el acceso al sistema criptográfico a través del cual se emitan para el ejercicio de los derechos y facultades que esta Ley y la Ley General de Títulos y Operaciones de Crédito conceden, respecto de los certificados que emitan, y en caso contrario podrán ser sujetos de responsabilidad civil, debiendo responder por los daños y perjuicios que se pudieran causar.
-Párrafo adicionado DOF 26-03-2024 Dichos sistemas criptográficos deberán contar con los estándares mínimos de seguridad que garanticen la confidencialidad, disponibilidad e integridad de la información y prevención de fraudes y ataques cibernéticos, cuyo cumplimiento será responsabilidad del almacén general de depósito emisor.
+Párrafo reformado DOF 26-03-2024
+Dichos títulos de crédito se regirán por las disposiciones de esta Ley y la Ley General de Títulos y Operaciones de Crédito.
+Párrafo adicionado DOF 26-03-2024
+Los almacenes generales de depósito deberán garantizar a los tenedores legítimos acreedores prendarios, autoridades supervisoras y demás intervinientes en las operaciones con dichos títulos de crédito, el acceso al sistema criptográfico a través del cual se emitan para el ejercicio de los derechos y facultades que esta Ley y la Ley General de Títulos y Operaciones de Crédito conceden, respecto de los certificados que emitan, y en caso contrario podrán ser sujetos de responsabilidad civil, debiendo responder por los daños y perjuicios que se pudieran causar.
+Párrafo adicionado DOF 26-03-2024
+Dichos sistemas criptográficos deberán contar con los estándares mínimos de seguridad que garanticen la confidencialidad, disponibilidad e integridad de la información y prevención de fraudes y ataques cibernéticos, cuyo cumplimiento será responsabilidad del almacén general de depósito emisor.
 Para estos efectos, la Comisión Nacional Bancaria y de Valores deberá mediante reglas de carácter general determinar los requerimientos y características que en estas materias deberá cumplir el sistema que utilice el almacén general de depósito para la emisión de sus certificados.
-Párrafo adicionado DOF 26-03-2024 Los almacenes generales de depósito están obligados a emitir los certificados de depósito por las mercancías o bienes que les fueren entregados en depósito, salvo en el caso previsto por el artículo 20 de esta Ley.
-Párrafo reformado DOF 26-03-2024 En sus operaciones, los almacenes generales de depósito deberán recabar y verificar la información y documentación relativa a la identificación de sus clientes y usuarios.
-Párrafo publicado sin cambios DOF 26-03-2024 Los almacenes generales de depósito serán responsables frente a sus depositantes y tenedores de certificados de depósito que hayan emitido por cualquier defecto que presenten las mercancías y bienes depositados bajo su custodia, de su existencia y de su calidad, en tanto no correspondan a los términos, montos, características y demás condiciones consignadas en el certificado de depósito. Lo anterior, con independencia de que las mercancías y bienes se encuentren depositados en bodegas propias, habilitadas o en tránsito. Salvo prueba en contrario, la deficiencia será imputable al almacén.
-Párrafo reformado DOF 26-03-2024 En caso de que se emitan certificados de depósito sobre mercancías en tránsito, el almacén general de depósito será responsable de su traslado hasta la bodega de destino, en la que seguirá siendo depositario de las mercancías hasta la sustitución de los certificados de depósito, incluyendo todas las bodegas de tránsito. Para estos efectos, las mercancías en tránsito deberán asegurarse a favor del almacén general de depósito, el cual podrá contratar directamente el seguro respectivo, designándose beneficiario de la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien, tratándose de mercancías previamente aseguradas, deberá obtener el endoso correspondiente de la póliza respectiva en su favor, en términos de la Ley del Contrato de Seguro.
-Párrafo reformado DOF 26-03-2024 El almacén general de depósito podrá, bajo su responsabilidad, aceptar o utilizar cualquiera otro mecanismo distinto al seguro referido en el párrafo anterior que permita cubrir los riesgos propios de la mercancía en tránsito, siempre que resulten eficaces para garantizar su responsabilidad ante el depositante o tenedor del certificado.
-Párrafo reformado DOF 26-03-2024 Los documentos de embarque deberán estar expedidos o endosados a favor de los almacenes generales de depósito.
-Reforma DOF 26-03-2024: Derogó del artículo los entonces párrafos tercero y sexto Artículo adicionado DOF 10-01-2014
+Párrafo adicionado DOF 26-03-2024
+Los almacenes generales de depósito están obligados a emitir los certificados de depósito por las mercancías o bienes que les fueren entregados en depósito, salvo en el caso previsto por el artículo 20 de esta Ley.
+Párrafo reformado DOF 26-03-2024
+En sus operaciones, los almacenes generales de depósito deberán recabar y verificar la información y documentación relativa a la identificación de sus clientes y usuarios.
+Párrafo publicado sin cambios DOF 26-03-2024
+Los almacenes generales de depósito serán responsables frente a sus depositantes y tenedores de certificados de depósito que hayan emitido por cualquier defecto que presenten las mercancías y bienes depositados bajo su custodia, de su existencia y de su calidad, en tanto no correspondan a los términos, montos, características y demás condiciones consignadas en el certificado de depósito. Lo anterior, con independencia de que las mercancías y bienes se encuentren depositados en bodegas propias, habilitadas o en tránsito. Salvo prueba en contrario, la deficiencia será imputable al almacén.
+Párrafo reformado DOF 26-03-2024
+En caso de que se emitan certificados de depósito sobre mercancías en tránsito, el almacén general de depósito será responsable de su traslado hasta la bodega de destino, en la que seguirá siendo depositario de las mercancías hasta la sustitución de los certificados de depósito, incluyendo todas las bodegas de tránsito. Para estos efectos, las mercancías en tránsito deberán asegurarse a favor del almacén general de depósito, el cual podrá contratar directamente el seguro respectivo, designándose beneficiario de la póliza que al efecto fuere expedida por la compañía aseguradora correspondiente, o bien, tratándose de mercancías previamente aseguradas, deberá obtener el endoso correspondiente de la póliza respectiva en su favor, en términos de la Ley del Contrato de Seguro.
+Párrafo reformado DOF 26-03-2024
+El almacén general de depósito podrá, bajo su responsabilidad, aceptar o utilizar cualquiera otro mecanismo distinto al seguro referido en el párrafo anterior que permita cubrir los riesgos propios de la mercancía en tránsito, siempre que resulten eficaces para garantizar su responsabilidad ante el depositante o tenedor del certificado.
+Párrafo reformado DOF 26-03-2024
+Los documentos de embarque deberán estar expedidos o endosados a favor de los almacenes generales de depósito.
+Reforma DOF 26-03-2024: Derogó del artículo los entonces párrafos tercero y sexto
+Artículo adicionado DOF 10-01-2014
 
 ### Artículo 11
 Bis 1.- Tratándose de certificados de depósito que amparen productos agropecuarios y pesqueros, los títulos deberán incluir la manifestación del depositante, respecto a lo siguiente:
@@ -334,7 +358,8 @@ Artículo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
 
 ### Artículo 14
 .- Los almacenes generales de depósito deberán cumplir con los requisitos, características y normas que con base en los programas oficiales de abasto y las disposiciones legales aplicables, se señalen respecto de las instalaciones, equipo y procedimientos utilizados para el acopio, acondicionamiento, industrialización, almacenamiento y transporte de productos alimenticios de consumo generalizado; debiendo requerir al depositante de las mercancías la presentación de los certificados fitosanitarios y zoosanitarios correspondientes, cuando éstos se requieran conforme a las diversas disposiciones de sanidad aplicables. Los almacenes generales de depósito deberán dar aviso oportuno a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, sobre la presencia de cualquier factor de riesgo zoosanitario o fitosanitario.
-Párrafo reformado DOF 10-01-2014 Los almacenes generales de depósito que hayan de recibir mercancías destinadas al régimen de depósito fiscal quedarán sujetos al control de las autoridades aduaneras de conformidad con la Ley de la materia.
+Párrafo reformado DOF 10-01-2014
+Los almacenes generales de depósito que hayan de recibir mercancías destinadas al régimen de depósito fiscal quedarán sujetos al control de las autoridades aduaneras de conformidad con la Ley de la materia.
 Párrafo reformado DOF 15-07-1993
 
 ### Artículo 15
@@ -342,13 +367,16 @@ Párrafo reformado DOF 15-07-1993
 
 I. En el establecimiento de bodegas, plantas de transformación y oficinas propias de la organización; en el acondicionamiento de bodegas ajenas cuyo uso adquiera el almacén general de depósito en los términos de esta Ley; en el equipo de transporte, maquinaria, útiles, herramienta y equipo necesario para su funcionamiento; en acciones de sociedades que se organicen exclusivamente para adquirir el dominio y administrar edificios o bodegas, y siempre que en algún edificio propiedad de esa sociedad tenga establecida o establezca su oficina principal o alguna sucursal o dependencia el almacén general de depósito accionista; y en acciones de las sociedades a que se refiere el artículo 68 de esta Ley. La inversión en acciones y los requisitos que deban satisfacer las sociedades a que se refiere esta fracción, se sujetarán a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional Bancaria y de Valores.
 Reformado DOF 03-01-1990, 10-01-2014 La Secretaría de Hacienda y Crédito Público establecerá mediante disposiciones de carácter general, el importe total de estas inversiones en relación a la suma del capital pagado y reservas de capital.
-Párrafo reformado DOF 15-07-1993, 30-04-1996 Los almacenes generales de depósito deberán contar con los locales propios para bodegas, desde el inicio de sus operaciones así como con la superficie y capacidad mínima obligatorias que se fijen para cada nivel, en las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público con opinión de la Comisión Nacional Bancaria y de Valores;
+Párrafo reformado DOF 15-07-1993, 30-04-1996
+Los almacenes generales de depósito deberán contar con los locales propios para bodegas, desde el inicio de sus operaciones así como con la superficie y capacidad mínima obligatorias que se fijen para cada nivel, en las reglas de carácter general que al efecto expida la Secretaría de Hacienda y Crédito Público con opinión de la Comisión Nacional Bancaria y de Valores;
 Párrafo adicionado DOF 15-07-1993. Reformado DOF 10-01-2014
 
-II. En el otorgamiento de financiamientos con garantía de bienes o mercancías entregados en depósito al almacén de que se trate, amparados con certificados de depósito o cuando se trate de operaciones de reporto actuando como reportador, en términos del artículo 11 Bis 2, fracción XI de esta Ley; en la entrega de anticipos con garantía de los bienes y mercancías entregados en depósito al almacén de que se trate, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes generales de depósito; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen, y Fracción reformada DOF 15-07-1993, 30-04-1996, 10-01-2014, 26-03-2024
+II. En el otorgamiento de financiamientos con garantía de bienes o mercancías entregados en depósito al almacén de que se trate, amparados con certificados de depósito o cuando se trate de operaciones de reporto actuando como reportador, en términos del artículo 11 Bis 2, fracción XI de esta Ley; en la entrega de anticipos con garantía de los bienes y mercancías entregados en depósito al almacén de que se trate, que se destinen al pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes generales de depósito; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen, y
+Fracción reformada DOF 15-07-1993, 30-04-1996, 10-01-2014, 26-03-2024
 
 III. En monedas de curso legal en el país o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días naturales, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días naturales, así como en valores o instrumentos aprobados para el efecto por la Comisión Nacional Bancaria y de Valores.
-Fracción reformada DOF 10-01-2014 La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general las reservas de capital computables para efectos de este artículo.
+Fracción reformada DOF 10-01-2014
+La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general las reservas de capital computables para efectos de este artículo.
 Párrafo adicionado DOF 15-07-1993
 
 ### Artículo 16
@@ -362,21 +390,26 @@ Artículo adicionado DOF 03-01-1990. Reformado DOF 10-01-2014
 
 ### Artículo 17
 .- Además de los locales que para bodegas, oficinas y demás servicios tengan los almacenes generales de depósito en propiedad, podrán tener en arrendamiento, en comodato o en habilitación locales ajenos en cualquier parte de la República, en los términos que establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general. Asimismo, podrán tener locales en el extranjero ya sean propios, en arrendamiento, en comodato, habilitación o bajo cualquier otra figura análoga permitida por la legislación del país anfitrión, de acuerdo con lo establecido en el artículo 65 de esta Ley.
-Párrafo reformado DOF 26-03-2024 Los almacenes generales de depósito deberán dar aviso a la Comisión Nacional Bancaria y de Valores, con cuando menos diez días hábiles de anticipación a la fecha de inicio de operación de los locales destinados para bodegas, oficinas y demás servicios, que tengan en propiedad.
+Párrafo reformado DOF 26-03-2024
+Los almacenes generales de depósito deberán dar aviso a la Comisión Nacional Bancaria y de Valores, con cuando menos diez días hábiles de anticipación a la fecha de inicio de operación de los locales destinados para bodegas, oficinas y demás servicios, que tengan en propiedad.
 Ningún almacén general de depósito podrá recibir en bodegas arrendadas y manejadas directamente por él, mercancías cuyo valor de certificación exceda del porcentaje del valor de los certificados que tenga en circulación, que mediante disposiciones de carácter general determine la Comisión Nacional Bancaria y de Valores.
 Los locales arrendados, recibidos en comodato o en habilitación deberán contar con acceso directo a la vía pública y estarán independientes del resto de las construcciones que se localicen en el mismo inmueble, debiendo tener, asimismo, buenas condiciones físicas de estabilidad y adaptabilidad que aseguren la conservación de las mercancías sujetas a depósito.
-Párrafo reformado DOF 26-03-2024 Cuando existan faltantes de mercancías depositadas en las bodegas habilitadas, los almacenes generales de depósito podrán solicitar en la vía ejecutiva el embargo de los bienes inmuebles afectados por el bodeguero habilitado o su garante para el cumplimiento de sus obligaciones con el almacén, tomando como base el documento en que se constituya dicha afectación en garantía y siempre que haya sido ratificado e inscrito en los términos del siguiente párrafo.
+Párrafo reformado DOF 26-03-2024
+Cuando existan faltantes de mercancías depositadas en las bodegas habilitadas, los almacenes generales de depósito podrán solicitar en la vía ejecutiva el embargo de los bienes inmuebles afectados por el bodeguero habilitado o su garante para el cumplimiento de sus obligaciones con el almacén, tomando como base el documento en que se constituya dicha afectación en garantía y siempre que haya sido ratificado e inscrito en los términos del siguiente párrafo.
 El documento en que se haga la afectación, deberá ser ratificado por el propietario del inmueble ante juez, notario o corredor público, y se inscribirá, a petición del almacén general de depósito, en el Registro Público de la Propiedad respectivo.
 Los bodegueros habilitados deberán dar acceso a las bodegas o locales habilitados a las personas designadas por el almacén general de depósito, para realizar visitas de inspección, quienes para estos efectos, tendrán facultades de certificación incluso para el caso de faltantes de bienes o mercancías amparados con certificados de depósito y las actas circunstanciadas de hechos que al efecto se levanten harán prueba plena en caso de controversia. La Comisión Nacional Bancaria y de Valores determinará en disposiciones de carácter general la frecuencia con que dichas visitas deberán realizarse, para lo cual considerará el valor de los inventarios en cada local habilitado, la situación financiera y antecedentes crediticios de cada cliente. Asimismo, en las citadas disposiciones se determinarán los requisitos que deberán cumplir las personas encargadas de realizar las referidas visitas de inspección, quienes levantarán acta circunstanciada al efecto. Dichas actas circunstanciadas deberán estar en todo momento a disposición de la Comisión Nacional Bancaria y de Valores.
 La oposición a la inspección del bodeguero habilitado o sus bodegueros auxiliares o sus funcionarios o empleados, presumirá, salvo prueba en contrario, faltantes de bienes o mercancías depositados.
 La Comisión Nacional Bancaria y de Valores adicionalmente establecerá mediante disposiciones de carácter general los procedimientos o mecanismos que deberán adoptar los almacenes generales de depósito para determinar la procedencia de habilitaciones, así como los lineamientos para realizar la supervisión. Asimismo, la Comisión Nacional Bancaria y de Valores establecerá mediante disposiciones de carácter general los lineamientos mínimos que deberán seguir los almacenes generales de depósito para el control de las existencias, calidad, condiciones de conservación y demás características de los bienes o mercancía que le sea entregada en depósito en almacenes o locales propios, arrendados, en comodato o habilitados, a fin de brindar mayor certeza y seguridad jurídica a sus depositantes.
-Párrafo reformado DOF 26-03-2024 Los almacenes generales de depósito podrán adquirir predios o bodegas así como construir o acondicionar locales de su propiedad, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
+Párrafo reformado DOF 26-03-2024
+Los almacenes generales de depósito podrán adquirir predios o bodegas así como construir o acondicionar locales de su propiedad, siempre que se encuentren en condiciones adecuadas de ubicación, estabilidad y adaptabilidad para el almacenamiento.
 Los almacenes generales de depósito podrán, asimismo, tomar en arrendamiento o en comodato las plantas que requieran para llevar a cabo la transformación de las mercancías depositadas, en los términos del artículo 11, primer párrafo, de esta Ley.
-Párrafo reformado DOF 26-03-2024 Artículo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
+Párrafo reformado DOF 26-03-2024
+Artículo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
 
 ### Artículo 18
 .- Los almacenes generales de depósito informarán a la Comisión Nacional Bancaria y de Valores, el nombre de las personas que hayan sido condenadas por sentencia que cause ejecutoria por haber incurrido en las conductas previstas en el artículo 100 de esta Ley. Dicho informe deberá proporcionarse dentro de los treinta días hábiles siguientes a la fecha en que haya causado ejecutoria la sentencia.
-Párrafo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014 Dicha Comisión, previa autorización de las partes interesadas y después de realizar las comprobaciones que juzgue necesarias, comunicará a los almacenes generales de depósito los nombres de tales personas, a fin de que en lo sucesivo se abstengan de proporcionarles el servicio de habilitación de bodegas, con independencia de las sanciones que conforme a ésta u otras disposiciones legales correspondan.
+Párrafo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
+Dicha Comisión, previa autorización de las partes interesadas y después de realizar las comprobaciones que juzgue necesarias, comunicará a los almacenes generales de depósito los nombres de tales personas, a fin de que en lo sucesivo se abstengan de proporcionarles el servicio de habilitación de bodegas, con independencia de las sanciones que conforme a ésta u otras disposiciones legales correspondan.
 Asimismo, se suspenderá en sus funciones al bodeguero habilitado y no podrá ser designado para tal efecto, el depositante o algún funcionario o empleado de éste, cuando haya incurrido en las infracciones a que alude el citado artículo 100 de esta Ley.
 
 ### Artículo 19
@@ -395,8 +428,10 @@ Artículo reformado DOF 10-01-2014, 26-03-2024
 
 ### Artículo 22
 .- Los almacenes generales de depósito efectuarán el remate de las mercancías y bienes depositados en almoneda pública y al mejor postor, en el caso del artículo anterior, cuando se lo pidiere el acreedor prendario, conforme a la ley.
-Párrafo reformado DOF 26-03-2024 Los almacenes generales de depósito podrán también proceder al remate de las mercancías o bienes depositados cuando, habiéndose vencido el plazo señalado para el depósito, transcurrieren ocho días naturales o los días convenidos para este propósito, sin que éstos hubieren sido retirados del almacén, desde la fecha de la notificación en la forma prescrita en el artículo anterior.
-Párrafo adicionado DOF 26-03-2024 Salvo que se pacte otro procedimiento, los almacenes generales de depósito efectuarán el remate en los términos siguientes:
+Párrafo reformado DOF 26-03-2024
+Los almacenes generales de depósito podrán también proceder al remate de las mercancías o bienes depositados cuando, habiéndose vencido el plazo señalado para el depósito, transcurrieren ocho días naturales o los días convenidos para este propósito, sin que éstos hubieren sido retirados del almacén, desde la fecha de la notificación en la forma prescrita en el artículo anterior.
+Párrafo adicionado DOF 26-03-2024
+Salvo que se pacte otro procedimiento, los almacenes generales de depósito efectuarán el remate en los términos siguientes:
 
 I. Se publicará el aviso de venta por medio de remate público en el RUCAM conforme al procedimiento establecido en las reglas a que hace referencia el artículo 22 Bis 7 de esta Ley, y en caso que lo solicite el acreedor prendario adicionalmente se publicará en un periódico de amplia circulación de la localidad en cuya circunscripción se encuentre depositada la mercancía;
 Fracción reformada DOF 26-03-2024
@@ -405,14 +440,19 @@ II. El aviso deberá publicarse cuando menos con ocho días naturales de anticip
 
 III. Los remates se harán en las oficinas o bodegas del almacén general de depósito en presencia del comisario, auditor externo de la sociedad o fedatario público. Las mercancías o bienes que vayan a rematarse, estarán a la vista del público desde el día en que se publique el aviso de remate;
 
-IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo garantizado con certificados de depósito, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal, y Fracción reformada DOF 26-03-2024
+IV. Será postura legal, a falta de estimación fijada al efecto en el certificado de depósito, la que cubra al contado el importe del adeudo que hubiere en favor de los almacenes y, en su caso, el del préstamo garantizado con certificados de depósito, teniendo los almacenes, si no hubiera postor, derecho a adjudicarse las mercancías o efectos por la postura legal, y
+Fracción reformada DOF 26-03-2024
 
 V. Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
 Cuando el producto de la venta de la mercancía o bienes depositados no baste para cubrir el adeudo a favor de los almacenes generales de depósito, por el saldo insoluto, éstos tendrán acción a través de la vía ejecutiva mercantil para reclamar al depositante original, el pago del adeudo existente.
-Párrafo reformado DOF 26-03-2024 El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén general de depósito de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
-Párrafo adicionado DOF 26-03-2024 El acreedor prendario deberá notificar a través del sistema criptográfico en que conste el certificado de depósito, al almacén general de depósito si acordó con el deudor prendario, un procedimiento de remate de mercancías distinto al previsto en este artículo.
-Párrafo reformado DOF 26-03-2024 En caso de que el almacén general de depósito tenga a su cargo el procedimiento de remate o una parte del mismo, éste deberá manifestarle al acreedor prendario su consentimiento, para proceder en los términos pactados, en caso contrario se aplicará el procedimiento descrito en los párrafos precedentes y sólo podrá seguirse un procedimiento distinto, si se prevé en el certificado de depósito.
-Párrafo adicionado DOF 26-03-2024 Artículo reformado DOF 03-01-1990, 15-07-1993, 30-04-1996, 10-01-2014
+Párrafo reformado DOF 26-03-2024
+El convenio de depósito correspondiente junto con el estado de cuenta certificado por el contador del almacén general de depósito de que se trate, será título ejecutivo sin necesidad de reconocimiento de firma ni de otro requisito.
+Párrafo adicionado DOF 26-03-2024
+El acreedor prendario deberá notificar a través del sistema criptográfico en que conste el certificado de depósito, al almacén general de depósito si acordó con el deudor prendario, un procedimiento de remate de mercancías distinto al previsto en este artículo.
+Párrafo reformado DOF 26-03-2024
+En caso de que el almacén general de depósito tenga a su cargo el procedimiento de remate o una parte del mismo, éste deberá manifestarle al acreedor prendario su consentimiento, para proceder en los términos pactados, en caso contrario se aplicará el procedimiento descrito en los párrafos precedentes y sólo podrá seguirse un procedimiento distinto, si se prevé en el certificado de depósito.
+Párrafo adicionado DOF 26-03-2024
+Artículo reformado DOF 03-01-1990, 15-07-1993, 30-04-1996, 10-01-2014
 
 ### Artículo 22
 Bis.- Los almacenes generales de depósito, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener un capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México, y tomando en cuenta los usos internacionales en la materia, determinará mediante disposiciones de carácter general cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo, así como señalará los conceptos que se consideren integrantes del capital contable de los almacenes generales de depósito.
@@ -468,12 +508,16 @@ Fracción reformada DOF 26-03-2024
 
 III. Sus bodegas propias, arrendadas o habilitadas, con sus respectivos datos de domicilio, ubicación, superficie, capacidad de almacenamiento y clase de mercancías que permite almacenar, y en el caso de las habilitadas, nombre del propietario y del bodeguero habilitado.
 
-IV. Los avisos de venta en remate público de bienes o mercancías depositadas en almacenes a los que hacen referencia esta Ley y la Ley General de Títulos y Operaciones de Crédito, y Fracción adicionada DOF 26-03-2024
+IV. Los avisos de venta en remate público de bienes o mercancías depositadas en almacenes a los que hacen referencia esta Ley y la Ley General de Títulos y Operaciones de Crédito, y
+Fracción adicionada DOF 26-03-2024
 
 V. Las demás anotaciones que señale ésta y demás leyes aplicables.
-Fracción adicionada DOF 26-03-2024 Los tenedores de certificados de depósito podrán exigir al almacén, en cualquier momento, que acredite la inscripción de los títulos y de las mercancías o bienes que amparan y los demás actos que está obligado a inscribir en el RUCAM y en caso de que no se hayan efectuado dichas inscripciones, que las lleve a cabo.
-Párrafo reformado DOF 26-03-2024 La omisión o defecto en la inscripción de títulos en el RUCAM por parte de los almacenes generales de depósito, no afectará la validez de éstos ni los derechos de los tenedores.
-Párrafo publicado sin cambios DOF 26-03-2024 Artículo adicionado DOF 10-01-2014
+Fracción adicionada DOF 26-03-2024
+Los tenedores de certificados de depósito podrán exigir al almacén, en cualquier momento, que acredite la inscripción de los títulos y de las mercancías o bienes que amparan y los demás actos que está obligado a inscribir en el RUCAM y en caso de que no se hayan efectuado dichas inscripciones, que las lleve a cabo.
+Párrafo reformado DOF 26-03-2024
+La omisión o defecto en la inscripción de títulos en el RUCAM por parte de los almacenes generales de depósito, no afectará la validez de éstos ni los derechos de los tenedores.
+Párrafo publicado sin cambios DOF 26-03-2024
+Artículo adicionado DOF 10-01-2014
 
 ### Artículo 22
 Bis 7.- El RUCAM estará a cargo de la Secretaría de Economía, será público, se llevará por medios digitales, mediante el programa informático establecido por la propia Secretaría en una base de datos nacional, y podrá permitir su interconexión con el o los sistemas criptográficos a través de los que se emitan certificados de depósito a efecto de dar cumplimiento a las obligaciones respecto de dicho Registro previstas en esta Ley. Su funcionamiento y operación se regirá por las Reglas de carácter general que para tal efecto emita la Secretaría de Economía.
@@ -577,7 +621,8 @@ Fracción reformada DOF 15-07-1993
 VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores del almacén general de depósito, los directores generales o gerentes generales, salvo que correspondan a prestaciones de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos del almacén; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo dispuesto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley; y
 
 VIII. Realizar las demás operaciones que no les estén expresamente autorizadas.
-CAPITULO II De las Arrendadoras Financieras (Derogado) Capítulo derogado DOF 18-07-2006
+CAPITULO II De las Arrendadoras Financieras (Derogado)
+Capítulo derogado DOF 18-07-2006
 
 ### Artículo 24
 .- Derogado.
@@ -649,7 +694,9 @@ Artículo adicionado DOF 30-04-1996. Derogado DOF 18-07-2006
 
 ### Artículo 38
 .- Se deroga.
-Artículo reformado DOF 03-01-1990, 15-07-1993. Derogado DOF 18-07-2006 CAPITULO II BIS De las Sociedades de Ahorro y Préstamo Capítulo adicionado DOF 27-12-1991
+Artículo reformado DOF 03-01-1990, 15-07-1993. Derogado DOF 18-07-2006
+CAPITULO II BIS De las Sociedades de Ahorro y Préstamo
+Capítulo adicionado DOF 27-12-1991
 
 ### Artículo 38-A
 .- (Se deroga).
@@ -680,7 +727,8 @@ Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
 Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
 
 ### Artículo 38-H
-.- (Se deroga) Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
+.- (Se deroga)
+Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
 
 ### Artículo 38-I
 .- (Se deroga).
@@ -716,7 +764,9 @@ Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
 
 ### Artículo 38-Q
 .- (Se deroga).
-Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001 CAPITULO III De las uniones de crédito (Se deroga) Capítulo derogado DOF 20-08-2008
+Artículo adicionado DOF 27-12-1991. Derogado DOF 04-06-2001
+CAPITULO III De las uniones de crédito (Se deroga)
+Capítulo derogado DOF 20-08-2008
 
 ### Artículo 39
 .- (Se deroga).
@@ -748,7 +798,9 @@ Artículo derogado DOF 03-01-1990
 
 ### Artículo 45
 .- (Se deroga).
-Artículo reformado DOF 03-01-1990, 15-07-1993. Derogado DOF 20-08-2008 CAPITULO III-BIS De las Empresas de Factoraje Financiero (Derogado) Capítulo adicionado DOF 03-01-1990. Derogado DOF 18-07-2006
+Artículo reformado DOF 03-01-1990, 15-07-1993. Derogado DOF 20-08-2008
+CAPITULO III-BIS De las Empresas de Factoraje Financiero (Derogado)
+Capítulo adicionado DOF 03-01-1990. Derogado DOF 18-07-2006
 
 ### Artículo 45-A
 .- Se deroga.
@@ -828,7 +880,9 @@ Artículo adicionado DOF 03-01-1990. Derogado DOF 15-07-1993
 
 ### Artículo 45-T
 .- Se deroga.
-Artículo adicionado DOF 03-01-1990. Reformado DOF 15-07-1993. Derogado DOF 18-07-2006 CAPITULO III BIS-I De las Filiales de Instituciones Financieras del Exterior Capítulo adicionado DOF 23-12-1993
+Artículo adicionado DOF 03-01-1990. Reformado DOF 15-07-1993. Derogado DOF 18-07-2006
+CAPITULO III BIS-I De las Filiales de Instituciones Financieras del Exterior
+Capítulo adicionado DOF 23-12-1993
 
 ### Artículo 45
 Bis-1.- Para efectos de esta Ley se entenderá por:
@@ -842,12 +896,14 @@ Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45
 Bis 2.- Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las organizaciones auxiliares del crédito o a las casas de cambio, según sea el caso, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, con opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
-Párrafo reformado DOF 10-01-2014 La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+Párrafo reformado DOF 10-01-2014
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
 Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45-Bis
 3.- Para constituirse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México tratándose de almacenes generales de depósito y casas de cambio [, o autorización de la Comisión Nacional Bancaria y de Valores cuando se trate de Uniones de Crédito]. Por su naturaleza estas autorizaciones serán intransmisibles.
-Párrafo reformado DOF 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o autorización de la Comisión Nacional Bancaria y de Valores cuando se trate de Uniones de Crédito”, por contener referencia a “uniones de crédito”) Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación.
+Párrafo reformado DOF 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (se deroga la frase “o autorización de la Comisión Nacional
+Bancaria y de Valores cuando se trate de Uniones de Crédito”, por contener referencia a “uniones de crédito”) Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación.
 Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45
@@ -868,13 +924,15 @@ Artículo adicionado DOF 23-12-1993
 Bis-7.- El capital social de las Filiales estará representado por dos series de acciones.
 Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie “F”. El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie “F” y “B”.
 La totalidad de las acciones Serie “F” deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie “B” que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto por la fracción III del artículo 8o. de esta Ley. En todo caso, en lo relativo a los gobiernos extranjeros resultará aplicable lo previsto en la referida fracción III.
-Párrafo reformado DOF 10-01-2014 Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
+Párrafo reformado DOF 10-01-2014
+Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
 Las Filiales no podrán emitir acciones de voto limitado.
 Artículo adicionado DOF 23-12-1993. Reformado DOF 17-11-1995
 
 ### Artículo 45
 Bis-8.- Las acciones Serie “F” de una Filial sólo podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 17-11-1995 Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en el Capítulo Unico del Título Primero de la presente Ley.
+Párrafo reformado DOF 17-11-1995
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en el Capítulo Unico del Título Primero de la presente Ley.
 Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III, y IV del artículo 45 Bis 9.
 Artículo adicionado DOF 23-12-1993
 
@@ -886,9 +944,13 @@ Fracción reformada DOF 17-11-1995
 
 II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
 
-III. Se deroga Fracción derogada DOF 10-01-2014
+III. Se deroga
+Fracción derogada DOF 10-01-2014
 
-IV. Se deroga Fracción derogada DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 17-11-1995) Artículo adicionado DOF 23-12-1993
+IV. Se deroga
+Fracción derogada DOF 10-01-2014
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 17-11-1995)
+Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45
 Bis-10.- Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente de las acciones representativas del capital social de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
@@ -896,7 +958,8 @@ Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45
 Bis 11.- El consejo de administración de las Filiales estará integrado por un mínimo de cinco y un máximo de quince consejeros propietarios, de los cuales los que integren cuando menos el veinticinco por ciento deberán ser independientes. La mayoría deberá residir en territorio nacional. Su nombramiento deberá hacerse en asamblea especial para cada serie de acciones. A las asambleas que se reúnan con ese fin, así como aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
-Párrafo reformado DOF 10-01-2014 Los propietarios de las acciones Serie “B”, en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+Párrafo reformado DOF 10-01-2014
+Los propietarios de las acciones Serie “B”, en su caso, tendrán derecho a nombrar cuando menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 El presidente del consejo deberá elegirse de entre los propietarios de la Serie “F”, y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 Artículo adicionado DOF 23-12-1993. Reformado DOF 17-11-1995
 
@@ -942,7 +1005,8 @@ I. Descripción del objeto de la visita.
 
 II. Disposiciones legales aplicables al objeto de la solicitud.
 La Comisión Nacional Bancaria y de Valores podrá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
-Artículo adicionado DOF 10-01-2014 CAPITULO IV Disposiciones Comunes
+Artículo adicionado DOF 10-01-2014
+CAPITULO IV Disposiciones Comunes
 
 ### Artículo 46
 .- La prenda sobre bienes y valores se constituirá en la forma prevista en la Ley General de Títulos y Operaciones de Crédito, bastando al efecto que se consigne en el documento de crédito respectivo con expresión de los datos necesarios para identificar los bienes dados en garantía.
@@ -980,9 +1044,12 @@ VIII. Las demás condiciones y formas de conversión; y
 
 IX. Los plazos, términos y condiciones del acta de emisión.
 Podrán tener anexos cupones para el pago de intereses y, en su caso, para las conversiones parciales. Los títulos podrán amparar una o más obligaciones. Los almacenes generales de depósito se reservarán la facultad de la conversión anticipada.
-Párrafo reformado DOF 18-07-2006 El emisor mantendrá las obligaciones en algunas de las instituciones para el depósito de valores tenencias.
-Párrafo reformado DOF 18-07-2006 En caso de liquidación del emisor, el pago de las obligaciones subordinadas se hará a prorrata después de cubrir todas las demás deudas de la organización, pero antes de repartir a los titulares de las acciones el haber social. En el acta de emisión relativa y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en este párrafo.
-Párrafo reformado DOF 18-07-2006 Estos títulos podrán emitirse en moneda nacional o extranjera.
+Párrafo reformado DOF 18-07-2006
+El emisor mantendrá las obligaciones en algunas de las instituciones para el depósito de valores tenencias.
+Párrafo reformado DOF 18-07-2006
+En caso de liquidación del emisor, el pago de las obligaciones subordinadas se hará a prorrata después de cubrir todas las demás deudas de la organización, pero antes de repartir a los titulares de las acciones el haber social. En el acta de emisión relativa y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en este párrafo.
+Párrafo reformado DOF 18-07-2006
+Estos títulos podrán emitirse en moneda nacional o extranjera.
 En el acta de emisión podrá designarse un representante común de los tenedores de las obligaciones, en cuyo caso, se deberán indicar sus derechos y obligaciones así como los términos y condiciones en que podrá procederse a su remoción y a la designación del nuevo representante. No será aplicable a estos representantes, lo previsto en la Ley General de Títulos y Operaciones de Crédito, para los representantes comunes de obligacionistas.
 Artículo adicionado DOF 15-07-1993
 
@@ -1017,12 +1084,15 @@ Artículo adicionado DOF 27-12-1991. Reformado DOF 10-01-2014
 ### Artículo 51-B
 .- El Gobierno Federal y las entidades de la Administración Pública Paraestatal no podrán responsabilizarse ni garantizar el resultado de las operaciones que realicen las organizaciones auxiliares del crédito y casas de cambio así como tampoco asumir responsabilidad alguna de las obligaciones contraídas con sus socios o con terceros.
 Las organizaciones auxiliares del crédito y casas de cambio, deberán mantener en un lugar visible de sus oficinas lo dispuesto en el párrafo anterior así como señalarse expresamente en su publicidad, en los términos que establezca la Comisión Nacional Bancaria y de Valores a través de disposiciones de carácter general.
-Artículo adicionado DOF 15-07-1993. Reformado DOF 29-12-2000, 10-01-2014 TITULO TERCERO De la Contabilidad, Inspección y Vigilancia CAPITULO I De la contabilidad
+Artículo adicionado DOF 15-07-1993. Reformado DOF 29-12-2000, 10-01-2014
+TITULO TERCERO De la Contabilidad, Inspección y Vigilancia CAPITULO I De la contabilidad
 
 ### Artículo 52
 .- Todo acto o contrato que signifique variación en el activo o en el pasivo de una organización auxiliar del crédito y de una casa de cambio, o implique obligación inmediata o contingente, deberá ser registrado en la contabilidad. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados se regirán por las disposiciones de carácter general que emita al efecto la Comisión Nacional Bancaria y de Valores.
-Párrafo reformado DOF 03-01-1990, 10-01-2014 Las organizaciones auxiliares del crédito y las casas de cambio podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
-Párrafo reformado DOF 03-01-1990, 10-01-2014 Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
+Párrafo reformado DOF 03-01-1990, 10-01-2014
+Las organizaciones auxiliares del crédito y las casas de cambio podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
+Párrafo reformado DOF 03-01-1990, 10-01-2014
+Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
 
 ### Artículo 53
 .- Las organizaciones auxiliares del crédito y las casas de cambio deberán practicar sus estados financieros al día último de cada mes. La Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general, queda facultada para establecer la forma y términos en que dichas entidades deberán presentar y publicar sus estados financieros mensuales y anuales; éstos deberán ser presentados junto con la información que remitirán al efecto, dentro de los treinta días naturales siguientes al cierre correspondiente. La formulación y publicación de tales estados financieros será bajo la estricta responsabilidad de los administradores y comisarios de la sociedad que hayan sancionado y dictaminado la autenticidad de los datos contenidos en dichos estados contables, quienes deberán cuidar que éstos revelen efectivamente la verdadera situación financiera de la sociedad y quedarán sujetos a las sanciones correspondientes en el caso de que las publicaciones no se ajusten a esa situación.
@@ -1037,7 +1107,8 @@ Artículo reformado DOF 03-01-1990, 27-12-1991, 04-06-2001, 10-01-2014
 
 ### Artículo 54
 .- La Comisión Nacional Bancaria y de Valores fijará las reglas máximas para la estimación de los activos de las organizaciones auxiliares del crédito y de las casas de cambio, en lo conducente, y las reglas mínimas para la estimación de sus obligaciones y responsabilidades.
-Párrafo reformado DOF 03-01-1990, 10-01-2014 Estas reglas se fundarán en los siguientes principios:
+Párrafo reformado DOF 03-01-1990, 10-01-2014
+Estas reglas se fundarán en los siguientes principios:
 
 I. Se estimarán por su valor nominal los créditos y documentos mercantiles pendientes de vencimiento o que hayan sido renovados;
 
@@ -1049,32 +1120,38 @@ Cuando no estén al corriente en el pago de sus intereses y amortización, se es
 IV. Los títulos representativos del capital de sociedades se valuarán de acuerdo con las reglas que dicte la Comisión Nacional Bancaria y de Valores;
 Fracción reformada DOF 03-01-1990, 10-01-2014
 
-V. Los inmuebles urbanos se estimarán por el promedio de avalúos que practiquen los peritos de instituciones de crédito y que apruebe la Comisión Nacional Bancaria y de Valores; y Fracción reformada DOF 03-01-1990, 10-01-2014
+V. Los inmuebles urbanos se estimarán por el promedio de avalúos que practiquen los peritos de instituciones de crédito y que apruebe la Comisión Nacional Bancaria y de Valores; y
+Fracción reformada DOF 03-01-1990, 10-01-2014
 
 VI. Los bienes que no reúnan las características señaladas en las fracciones anteriores, se estimarán por su valor de adquisición con las deducciones correspondientes al demérito por uso o explotación, en su caso.
 Cuando al aplicar las reglas de valoración fijadas por la Comisión Nacional Bancaria y de Valores resulte una estimación más elevada de los elementos de activo que el valor original de los títulos, efectos, bienes o inversiones, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia del cobro, venta, realización o liquidación de los títulos, efectos, bienes o inversiones respectivos a menos que la Comisión Nacional Bancaria y de Valores, vista la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, autorice el ajuste de tales fondos con abono a las cuentas de resultados.
-Párrafo reformado DOF 03-01-1990, 10-01-2014 Sin perjuicio de las normas establecidas en este artículo, la Comisión Nacional Bancaria y de Valores podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, mediante disposiciones de carácter general a las sociedades de que se trate, para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
+Párrafo reformado DOF 03-01-1990, 10-01-2014
+Sin perjuicio de las normas establecidas en este artículo, la Comisión Nacional Bancaria y de Valores podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, mediante disposiciones de carácter general a las sociedades de que se trate, para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este período a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
 Párrafo reformado DOF 03-01-1990, 10-01-2014
 
 ### Artículo 55
 .- Cuando de los estados de situación mensual que las organizaciones y casas de cambio están obligadas a presentar a la Comisión Nacional Bancaria y de Valores, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un cuatro por ciento de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
-Artículo reformado DOF 03-01-1990, 10-01-2014 CAPITULO II De la inspección y vigilancia
+Artículo reformado DOF 03-01-1990, 10-01-2014
+CAPITULO II De la inspección y vigilancia
 
 ### Artículo 56
 .- La inspección y vigilancia de las organizaciones auxiliares del crédito, casas de cambio y sociedades financieras de objeto múltiple reguladas queda confiada a la Comisión Nacional Bancaria y de Valores, la que tendrá, en lo que no se oponga a esta Ley, respecto de dichas organizaciones auxiliares del crédito, casas de cambio y sociedades financieras de objeto múltiple reguladas, todas las facultades que en materia de inspección y vigilancia le confiere la Ley de Instituciones de Crédito para instituciones de banca múltiple, quien la llevará a cabo sujetándose a lo previsto en su ley, en el Reglamento respectivo y en las demás disposiciones que resulten aplicables.
-Párrafo reformado DOF 10-01-2014 En lo que respecta a las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, la inspección y vigilancia de estas sociedades, se llevará a cabo por la mencionada Comisión, exclusivamente para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven.
+Párrafo reformado DOF 10-01-2014
+En lo que respecta a las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, la inspección y vigilancia de estas sociedades, se llevará a cabo por la mencionada Comisión, exclusivamente para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven.
 Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional Bancaria y de Valores, en la forma y términos que al efecto establezcan, los informes, documentos y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que, conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
 Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 03-08-2011
 
 ### Artículo 57
 .- Las organizaciones auxiliares del crédito y casas de cambio estarán obligadas a permitir las visitas de inspección que sean efectuadas por la Comisión Nacional Bancaria y de Valores en términos de las disposiciones previstas en esta Ley.
 Asimismo, las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero estarán obligados a permitir las visitas de inspección que la Comisión Nacional Bancaria y de Valores efectúe, exclusivamente para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven. La Comisión podrá contratar los servicios de auditores y otros profesionales que le auxilien en dicha función, quienes, en todo caso, deberán cumplir con los requisitos que establezca la citada Comisión mediante disposiciones de carácter general.
-Párrafo reformado DOF 10-01-2014 El principal funcionario de la organización auxiliar del crédito, casa de cambio, centro cambiario, transmisor de dinero o sociedad financiera de objeto múltiple no regulada de que se trate deberá atender al inspector de la Comisión Nacional Bancaria y de Valores que tenga a su cargo la inspección que corresponda en términos de los dos párrafos anteriores y, en ausencia de dicho funcionario, deberá atenderlo aquel que lo supla o el de la jerarquía inmediata inferior que se encuentre en el establecimiento respectivo.
+Párrafo reformado DOF 10-01-2014
+El principal funcionario de la organización auxiliar del crédito, casa de cambio, centro cambiario, transmisor de dinero o sociedad financiera de objeto múltiple no regulada de que se trate deberá atender al inspector de la Comisión Nacional Bancaria y de Valores que tenga a su cargo la inspección que corresponda en términos de los dos párrafos anteriores y, en ausencia de dicho funcionario, deberá atenderlo aquel que lo supla o el de la jerarquía inmediata inferior que se encuentre en el establecimiento respectivo.
 La Comisión Nacional Bancaria y de Valores no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a estos ninguna información sobre dichas inspecciones.
 La inspección a las organizaciones auxiliares del crédito y casas de cambio se efectuará a través de visitas, que tendrán por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pueda afectar la posición financiera y legal que conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de lo previsto en esta Ley, las disposiciones de carácter general que de ella deriven y a las sanas prácticas de la materia.
 La Comisión Nacional Bancaria y de Valores, en las visitas de inspección y en el ejercicio de facultades de vigilancia que realice a los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, podrá revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, y en general, todo lo que deba constar en los libros, registros, sistemas y documentos para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de este deriven.
 Para el ejercicio de las funciones de vigilancia, la Comisión Nacional Bancaria y de Valores podrá emitir disposiciones de carácter general para determinar la información que periódicamente deban remitir los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas.
-Párrafo reformado DOF 10-01-2014, 09-03-2018 Las visitas a que se refiere este artículo podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual de la Comisión Nacional Bancaria y de Valores. Las segundas se practicarán siempre que sea necesario a juicio del Presidente de la citada Comisión, para examinar y, en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
+Párrafo reformado DOF 10-01-2014, 09-03-2018
+Las visitas a que se refiere este artículo podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual de la Comisión Nacional Bancaria y de Valores. Las segundas se practicarán siempre que sea necesario a juicio del Presidente de la citada Comisión, para examinar y, en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
 Las organizaciones auxiliares del crédito y casas de cambio deberán justificar, en cualquier momento, la existencia de los activos en que se encuentren invertidos sus recursos, en la forma, términos y con los documentos que determine la Comisión Nacional Bancaria y de Valores.
 Artículo reformado DOF 03-01-1990, 15-07-1993, 03-08-2011
 
@@ -1084,7 +1161,8 @@ Artículo adicionado DOF 15-07-1993. Reformado DOF 10-01-2014
 
 ### Artículo 58
 .- Cuando se encuentre que las operaciones o el capital de las organizaciones auxiliares del crédito y casas de cambio no se ajustan a lo dispuesto por esta Ley o las disposiciones que de ella emanan, el Presidente de la Comisión Nacional Bancaria y de Valores dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de treinta días naturales para que la regularización se lleve a cabo, comunicando inmediatamente su decisión a la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 10-01-2014 Si transcurrido el plazo señalado, la organización o casa de cambio de que se trate no ha regularizado su situación, el Presidente de dicha Comisión podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas disponiendo, si se estima conveniente, la intervención de la organización o casa de cambio y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
+Párrafo reformado DOF 10-01-2014
+Si transcurrido el plazo señalado, la organización o casa de cambio de que se trate no ha regularizado su situación, el Presidente de dicha Comisión podrá ordenar que se suspenda la ejecución de las operaciones contrarias a lo dispuesto por esta Ley, o que se proceda a la liquidación de las mismas disponiendo, si se estima conveniente, la intervención de la organización o casa de cambio y que se proceda a tomar las medidas necesarias para efectuar los cobros y normalizar los documentos y operaciones que se hayan considerado irregulares.
 Artículo reformado DOF 03-01-1990, 15-07-1993
 
 ### Artículo 59
@@ -1094,7 +1172,8 @@ Artículo reformado DOF 03-01-1990, 15-07-1993
 
 ### Artículo 60
 .- El interventor-gerente tendrá todas las facultades que normalmente corresponden al consejo de administración de la sociedad y plenos poderes generales para actos de dominio, de administración, de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la ley, para otorgar o suscribir títulos de crédito, para presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo del Presidente de la Comisión Nacional Bancaria y de Valores y para otorgar los poderes generales o especiales que juzgue convenientes, y revocar los que estuvieran otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
-Párrafo reformado DOF 03-01-1990, 10-01-2014 El interventor-gerente no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración.
+Párrafo reformado DOF 03-01-1990, 10-01-2014
+El interventor-gerente no quedará supeditado en su actuación a la asamblea de accionistas ni al consejo de administración.
 El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo de la Comisión Nacional Bancaria y de Valores.
 Párrafo reformado DOF 03-01-1990, 10-01-2014
 
@@ -1130,7 +1209,8 @@ Sin perjuicio de lo anterior, si la Comisión presume que los centros cambiarios
 Asimismo, la citada Comisión, podrá ordenar a las instituciones de crédito, casas de bolsa y casas de cambio con las que operen las personas morales a que se refieren los párrafos anteriores, que suspendan o cancelen los contratos que tengan celebrados con dichas personas morales y se abstengan de realizar nuevas operaciones.
 Lo anterior será procedente, con independencia de la opinión de delito que, en su caso, emita la Comisión Nacional Bancaria y de Valores en términos del artículo 95 del presente ordenamiento legal.
 Los procedimientos de inspección, suspensión y clausura a que se refiere este artículo son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria y de Valores dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, estas se desahogarán en el término de diez días hábiles.
-Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 03-08-2011 TITULO CUARTO De las Facultades de las Autoridades CAPITULO I Disposiciones generales
+Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 03-08-2011
+TITULO CUARTO De las Facultades de las Autoridades CAPITULO I Disposiciones generales
 
 ### Artículo 65
 .- Las organizaciones auxiliares del crédito y casas de cambio deberán dar aviso a la Comisión Nacional Bancaria y de Valores, por lo menos con treinta días naturales de anticipación, sobre la apertura, cambio de ubicación y clausura de cualquier clase de oficinas en territorio nacional.
@@ -1165,11 +1245,13 @@ La Secretaría de Hacienda y Crédito Público otorgará o negará discrecionalm
 Artículo reformado DOF 03-01-1990, 10-01-2014
 
 ### Artículo 69-A
-.- Se deroga Artículo adicionado DOF 27-12-1991. Derogado DOF 10-01-2014
+.- Se deroga
+Artículo adicionado DOF 27-12-1991. Derogado DOF 10-01-2014
 
 ### Artículo 70
 .- Las organizaciones auxiliares del crédito y casas de cambio sólo podrán cerrar sus puertas y suspender sus operaciones en los días que señale la Comisión Nacional Bancaria y de Valores.
-Párrafo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014 Los días señalados en los términos anteriores, se considerarán inhábiles para los efectos de las operaciones y actividades de todo tipo a que se refiere esta Ley.
+Párrafo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
+Los días señalados en los términos anteriores, se considerarán inhábiles para los efectos de las operaciones y actividades de todo tipo a que se refiere esta Ley.
 
 ### Artículo 71
 .- La Comisión Nacional Bancaria y de Valores podrá ordenar la suspensión de la publicidad que realicen las organizaciones auxiliares del crédito y casas de cambio, cuando a su juicio ésta implique inexactitud, obscuridad o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
@@ -1177,8 +1259,10 @@ Artículo reformado DOF 03-01-1990, 27-12-1991, 10-01-2014
 
 ### Artículo 72
 .- Las organizaciones auxiliares del crédito, de conformidad con las reglas que, en su caso, expida el Banco de México, podrán realizar operaciones activas con personas físicas o morales con residencia o domicilio en el extranjero, o en virtud de las cuales contraigan o puedan contraer responsabilidades directas o contingentes en favor de dichas personas.
-Párrafo reformado DOF 15-07-1993 Las reglas que conforme a este artículo expida el Banco de México, deberán contar con la opinión favorable de la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 10-01-2014 En el caso de las organizaciones auxiliares nacionales del crédito, sin perjuicio de lo señalado en el primer párrafo de este artículo, deberán obtenerse de la señalada Secretaría la autorización que conforme a Ley General de Deuda Pública corresponda.
+Párrafo reformado DOF 15-07-1993
+Las reglas que conforme a este artículo expida el Banco de México, deberán contar con la opinión favorable de la Secretaría de Hacienda y Crédito Público.
+Párrafo reformado DOF 10-01-2014
+En el caso de las organizaciones auxiliares nacionales del crédito, sin perjuicio de lo señalado en el primer párrafo de este artículo, deberán obtenerse de la señalada Secretaría la autorización que conforme a Ley General de Deuda Pública corresponda.
 
 ### Artículo 73
 .- (Se deroga).
@@ -1198,7 +1282,8 @@ c) Inhabilitación, al impedimento temporal en el ejercicio de un empleo, cargo 
 Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 10-01-2014
 
 ### Artículo 75
-.- Se deroga Artículo reformado DOF 15-07-1993. Derogado DOF 10-01-2014
+.- Se deroga
+Artículo reformado DOF 15-07-1993. Derogado DOF 10-01-2014
 
 ### Artículo 76
 .- La documentación que utilicen las organizaciones auxiliares del crédito y las casas de cambio relacionada con la solicitud y contratación de sus operaciones, deberá sujetarse a las disposiciones de esta Ley, las de carácter general que emanen de ella y las demás que le sean aplicables. La Comisión Nacional Bancaria y de Valores podrá objetar en todo tiempo la utilización de la mencionada documentación, cuando a su juicio ésta implique inexactitud, obscuridad o por cualquier otra circunstancia que pueda inducir a error, respecto de sus operaciones y servicios.
@@ -1210,7 +1295,8 @@ Artículo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
 
 ### Artículo 77
 Bis.- (Se deroga).
-Artículo adicionado DOF 03-01-1990. Derogado DOF 15-07-1993 CAPITULO II De la revocación y liquidación
+Artículo adicionado DOF 03-01-1990. Derogado DOF 15-07-1993
+CAPITULO II De la revocación y liquidación
 
 ### Artículo 78
 .- La Secretaría de Hacienda y Crédito Público, después de haber escuchado la opinión de la Comisión Nacional Bancaria y de Valores y del Banco de México, y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización otorgada a una organización auxiliar del crédito, en los siguientes casos:
@@ -1240,13 +1326,19 @@ XI. En el caso previsto por el artículo 63 de esta Ley, y
 
 XII. Si no exhibe a la Comisión Nacional Bancaria y de Valores la constancia de las visitas realizadas a las bodegas habilitadas en términos de lo dispuesto por el artículo 17 de esta Ley.
 La Secretaría otorgará el derecho de audiencia a la sociedad interesada, a fin de que dentro del plazo de diez días hábiles, contados a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
-Párrafo adicionado DOF 24-01-2024 Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará al presunto infractor la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
-Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
-Párrafo reformado DOF 24-01-2024 La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Comisión o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+Párrafo adicionado DOF 24-01-2024
+Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará al presunto infractor la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
+Párrafo reformado DOF 24-01-2024
+La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Comisión o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
 Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesenta días hábiles, contados a partir de la inscripción de la cancelación en el Registro Público de Comercio ante la propia autoridad judicial.
-Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (por contener referencia a “uniones de crédito”). Reformado DOF 10-01-2014
+Artículo reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 04-06-2001, 18-07-2006. Reformado DOF 20-08-2008 (por contener referencia a
+“uniones de crédito”). Reformado DOF 10-01-2014
 
 ### Artículo 79
 .- La disolución y liquidación de las organizaciones auxiliares del crédito se regirá por lo dispuesto en los Capítulos X y XI de la Ley General de Sociedades Mercantiles y el concurso mercantil conforme al Capítulo III del Título Octavo de la Ley de Concursos Mercantiles, con las siguientes excepciones:
@@ -1276,7 +1368,8 @@ Artículo reformado DOF 03-01-1990, 15-07-1993, 10-01-2014
 
 ### Artículo 80
 .- (Se deroga).
-Artículo derogado DOF 15-07-1993 TITULO QUINTO De las Actividades Auxiliares del Crédito CAPITULO I De la compra venta habitual y profesional de divisas Numeración del Capítulo reformada (antes Capítulo Único) DOF 18-07-2006
+Artículo derogado DOF 15-07-1993
+TITULO QUINTO De las Actividades Auxiliares del Crédito CAPITULO I De la compra venta habitual y profesional de divisas Numeración del Capítulo reformada (antes Capítulo Único) DOF 18-07-2006
 
 ### Artículo 81
 .- Se requerirá autorización de la Secretaría de Hacienda y Crédito Público para realizar, en forma habitual y profesional, operaciones de compra, venta y cambio de divisas, incluyendo las que se lleven a cabo mediante transferencia o transmisión de fondos, con el público dentro del territorio nacional, salvo en los casos previstos en este artículo.
@@ -1305,11 +1398,16 @@ Artículo adicionado DOF 27-12-1991. Reformado DOF 05-01-2000, 01-06-2001, 03-08
 
 ### Artículo 81-A
 Bis.- Para efectos de lo previsto en la presente Ley y en las disposiciones que de ella emanen, se entenderá por transmisor de dinero exclusivamente a la sociedad anónima y sociedad de responsabilidad limitada organizada de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles que, entre otras actividades, y de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o extranjera, directamente en sus oficinas o por cable, facsímil, servicios de mensajería, medios electrónicos, transferencia electrónica de fondos o por cualquier vía, con el único objeto de que, de acuerdo con las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos, en una sola exhibición, en el lugar en el que sean recibidos, al beneficiario designado. Asimismo, podrán actuar como transmisores de dinero, las dependencias y entidades de la Administración Pública Federal que conforme a las disposiciones que las regulan, lleven a cabo las operaciones de transmisión de derechos o recursos en moneda nacional o extranjera.
-Párrafo reformado DOF 10-01-2014, 09-03-2018 Al efecto, únicamente las sociedades anónimas y las sociedades de responsabilidad limitada que cuenten con un registro vigente como transmisor de dinero ante la Comisión Nacional Bancaria y de Valores podrán realizar las operaciones señaladas en el párrafo anterior, las cuales se considerarán como transmisión de fondos.
-Párrafo reformado DOF 10-01-2014 Las operaciones a que se refiere este artículo no podrán ser realizadas por agentes relacionados ni por terceros contratados por estos, sin la intervención de los transmisores de dinero. Se entenderá por agente relacionado la persona física que, en términos de las disposiciones a que se refiere este artículo, por virtud de una relación contractual con un transmisor de dinero, recibe de este derechos o recursos en moneda nacional o divisas para entregarlos al beneficiario.
-Párrafo adicionado DOF 09-03-2018 Los transmisores de dinero serán responsables del cumplimiento a las obligaciones establecidas en el artículo 95 Bis de esta Ley, así como de aquellas que deriven de las disposiciones de carácter general a que se refiere dicho artículo, respecto de aquellas operaciones que se celebren a través de los agentes relacionados y respecto de los terceros que este contrate.
-Párrafo adicionado DOF 09-03-2018 En el caso de que los transmisores de dinero pretendan emitir fondos de pago electrónico o instrumentos de pago que almacenen fondos de pago electrónico, deberán constituirse como una institución de fondos de pago electrónico, en términos de las disposiciones establecidas en la Ley para Regular las Instituciones de Tecnología Financiera.
-Párrafo adicionado DOF 09-03-2018 Lo dispuesto en este artículo no resultará aplicable a las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo del presente artículo.
+Párrafo reformado DOF 10-01-2014, 09-03-2018
+Al efecto, únicamente las sociedades anónimas y las sociedades de responsabilidad limitada que cuenten con un registro vigente como transmisor de dinero ante la Comisión Nacional Bancaria y de Valores podrán realizar las operaciones señaladas en el párrafo anterior, las cuales se considerarán como transmisión de fondos.
+Párrafo reformado DOF 10-01-2014
+Las operaciones a que se refiere este artículo no podrán ser realizadas por agentes relacionados ni por terceros contratados por estos, sin la intervención de los transmisores de dinero. Se entenderá por agente relacionado la persona física que, en términos de las disposiciones a que se refiere este artículo, por virtud de una relación contractual con un transmisor de dinero, recibe de este derechos o recursos en moneda nacional o divisas para entregarlos al beneficiario.
+Párrafo adicionado DOF 09-03-2018
+Los transmisores de dinero serán responsables del cumplimiento a las obligaciones establecidas en el artículo 95 Bis de esta Ley, así como de aquellas que deriven de las disposiciones de carácter general a que se refiere dicho artículo, respecto de aquellas operaciones que se celebren a través de los agentes relacionados y respecto de los terceros que este contrate.
+Párrafo adicionado DOF 09-03-2018
+En el caso de que los transmisores de dinero pretendan emitir fondos de pago electrónico o instrumentos de pago que almacenen fondos de pago electrónico, deberán constituirse como una institución de fondos de pago electrónico, en términos de las disposiciones establecidas en la Ley para Regular las Instituciones de Tecnología Financiera.
+Párrafo adicionado DOF 09-03-2018
+Lo dispuesto en este artículo no resultará aplicable a las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo del presente artículo.
 En ningún caso, los transmisores de dinero podrán llevar a cabo las operaciones a que se refiere el artículo 81-A de la presente Ley.
 Artículo adicionado DOF 03-08-2011
 
@@ -1393,7 +1491,8 @@ II. En los estatutos sociales deberá indicarse que en la realización de su obj
 III. Las casas de cambio deberán contar con un capital mínimo suscrito y pagado sin derecho a retiro, equivalente en moneda nacional a 8,657,000 unidades de inversión, el cual deberá estar totalmente suscrito y pagado a más tardar el último día hábil del año de que se trate. Para estos efectos, se considerará el valor de las unidades de inversión correspondiente al 31 de diciembre del año inmediato anterior.
 Cuando el capital social exceda del mínimo a que se refiere el presente artículo, aquél deberá estar pagado cuando menos en un cincuenta por ciento, siempre que este porcentaje no sea inferior al mínimo establecido.
 Tratándose de sociedades de capital variable, el capital mínimo estará integrado por acciones sin derecho a retiro, representativas de la porción fija del capital social. El monto del capital con derecho a retiro, en ningún caso podrá ser superior al capital pagado sin derecho a retiro. Asimismo, el capital contable en ningún momento deberá ser inferior al capital mínimo a que se refiere el presente artículo.
-Artículo reformado DOF 26-12-1986. Fe de erratas DOF 19-03-1987. Reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 17-11-1995, 03-08-2011, 10-01-2014
+Artículo reformado DOF 26-12-1986. Fe de erratas DOF 19-03-1987. Reformado DOF 03-01-1990, 27-12-1991, 15-07-1993, 17-11-1995,
+03-08-2011, 10-01-2014
 
 ### Artículo 83
 .- Las solicitudes de autorización para operar casas de cambio deberán acompañarse de lo siguiente:
@@ -1405,7 +1504,8 @@ II. (Se deroga).
 Fracción reformada DOF 26-12-1986. Derogada DOF 15-07-1993
 
 III. Comprobante de depósito en moneda nacional constituido en Nacional Financiera a favor de la Tesorería de la Federación, igual al diez por ciento del capital mínimo exigido para su constitución, según esta Ley.
-Fracción reformada DOF 26-12-1986, 27-12-1991, 15-07-1993 En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original de depósito mencionado en el párrafo anterior. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
+Fracción reformada DOF 26-12-1986, 27-12-1991, 15-07-1993
+En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original de depósito mencionado en el párrafo anterior. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 Párrafo adicionado DOF 27-12-1991. Reformado DOF 15-07-1993
 
 ### Artículo 84
@@ -1423,7 +1523,8 @@ IV. (Se deroga).
 Fracción reformada DOF 26-12-1986, 03-01-1990, 27-12-1991. Derogada DOF 15-07-1993
 
 V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las disposiciones de carácter general que al efecto establezca el Banco de México, en las que éste podrá señalar los límites de las operaciones que las casas de cambio puedan realizar en función de su capital contable.
-A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y Fracción reformada DOF 26-12-1986, 27-12-1991
+A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
+Fracción reformada DOF 26-12-1986, 27-12-1991
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 Fracción adicionada DOF 26-12-1986. Reformada DOF 03-01-1990, 27-12-1991
@@ -1477,11 +1578,16 @@ VI. Si sus administradores han intervenido en operaciones que infrinjan las disp
 
 VII. En cualquier otro establecido por la Ley.
 La Secretaría otorgará el derecho de audiencia a la sociedad interesada, a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
-Párrafo adicionado DOF 24-01-2024 Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación.
-Párrafo adicionado DOF 24-01-2024 La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
-Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
-Párrafo reformado DOF 24-01-2024 La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Secretaría o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+Párrafo adicionado DOF 24-01-2024
+Transcurrido el plazo para el desahogo de las pruebas, la Secretaría notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación.
+Párrafo adicionado DOF 24-01-2024
+La Comisión Nacional Bancaria y de Valores y el Banco de México, deberán emitir la opinión requerida en términos del primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar las opiniones.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Secretaría de Hacienda y Crédito Público. La revocación incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de accionistas.
+Párrafo reformado DOF 24-01-2024
+La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador si en el plazo de sesenta días hábiles de publicada en el Diario Oficial de la Federación la revocación no hubiere sido designado. Cuando la Secretaría o el liquidador encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
 Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesenta días naturales, contados a partir de la inscripción de la cancelación en el Registro Público de Comercio ante la propia autoridad judicial.
 Artículo reformado DOF 26-12-1986, 03-01-1990, 27-12-1991, 15-07-1993, 10-01-2014
 
@@ -1528,7 +1634,9 @@ Tratándose de personas morales, las personas físicas designadas para desempeñ
 
 II. La Comisión podrá solicitar la declaración de concurso mercantil.
 Tratándose de procedimientos de liquidación o concurso mercantil de casas de cambio, en los que se desempeñe como liquidador o síndico el Servicio de Administración y Enajenación de Bienes, el Gobierno Federal podrá asignar recursos a dicho organismo descentralizado de la Administración Pública Federal, con el exclusivo propósito de realizar los gastos asociados a publicaciones y otros trámites relativos a tales procedimientos, cuando se advierta que éstos no podrán ser afrontados con cargo al patrimonio de la casa de cambio de que se trate por la falta de liquidez, o bien por insolvencia, en cuyo caso, se constituirá como acreedor de esta última.
-Artículo adicionado DOF 10-01-2014 CAPITULO II De la realización habitual y profesional de operaciones de crédito, arrendamiento financiero y factoraje financiero Capítulo adicionado DOF 18-07-2006
+Artículo adicionado DOF 10-01-2014
+CAPITULO II De la realización habitual y profesional de operaciones de crédito, arrendamiento financiero y factoraje financiero
+Capítulo adicionado DOF 18-07-2006
 
 ### Artículo 87-B
 .- El otorgamiento de crédito, así como la celebración de arrendamiento financiero o factoraje financiero podrán realizarse en forma habitual y profesional por cualquier persona sin necesidad de requerir autorización del Gobierno Federal para ello.
@@ -1765,7 +1873,9 @@ Lo previsto en artículo 65-A de esta Ley será igualmente aplicable a las socie
 El Banco de México, de oficio o a petición de cualquier interesado, podrá verificar el cumplimiento de las disposiciones de carácter general que expida y sean aplicables a las sociedades financieras de objeto múltiple reguladas que mantengan vínculos patrimoniales con una institución de crédito. Si con motivo de dicha verificación el Banco de México detectara algún incumplimiento, podrá sancionar a tales sociedades con multa de mil a diez mil días de salario mínimo general vigente en el Distrito Federal en la fecha de la infracción. Previo a la imposición de cualquier sanción, deberá respetarse el derecho de audiencia de la sociedad de que se trate.
 La supervisión del Banco de México respecto de las operaciones que las sociedades financieras de objeto múltiple reguladas realicen en términos de las disposiciones de carácter general que aquél expida, podrá llevarse a cabo a través de visitas de inspección en los plazos y en la forma que el propio Banco establezca, o bien, a través de requerimientos de información o documentación.
 Contra las resoluciones por las que el Banco de México imponga alguna multa, procederá el recurso de reconsideración previsto en los artículos 64 y 65 de la Ley del Banco de México, el cual será de agotamiento obligatorio y deberá interponerse dentro de los quince días hábiles bancarios siguientes a la fecha de notificación de tales resoluciones. Respecto de lo que se resuelva en ese medio de defensa, se estará a lo previsto en el último párrafo del artículo 65 de la Ley del Banco de México. La ejecución de las resoluciones de multas se hará conforme a los artículos 66 y 67 de la Ley del Banco de México.
-Las notificaciones, trámite y resolución del recurso de reconsideración se regirán por la Ley del Banco Párrafo adicionado DOF 24-01-2024 Las disposiciones previstas en las fracciones I a IV anteriores, serán aplicables sin perjuicio que se trate de sociedades de objeto múltiple reguladas que emitan deuda en el mercado de valores.
+Las notificaciones, trámite y resolución del recurso de reconsideración se regirán por la Ley del Banco
+Párrafo adicionado DOF 24-01-2024
+Las disposiciones previstas en las fracciones I a IV anteriores, serán aplicables sin perjuicio que se trate de sociedades de objeto múltiple reguladas que emitan deuda en el mercado de valores.
 Artículo adicionado DOF 18-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 87-E
@@ -1836,7 +1946,8 @@ Artículo adicionado DOF 18-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 87-L
 .- Sin perjuicio de lo dispuesto por este Capítulo, las facultades que la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado otorga a la Comisión Nacional Bancaria y de Valores, respecto de entidades financieras que otorguen crédito garantizado en los términos de dicho ordenamiento, se entenderán conferidas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, respecto de las sociedades financieras de objeto múltiple no reguladas.
-Reforma DOF 15-06-2007: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 18-07-2006
+Reforma DOF 15-06-2007: Derogó del artículo el entonces párrafo segundo
+Artículo adicionado DOF 18-07-2006
 
 ### Artículo 87-M
 .- En las operaciones de crédito, arrendamiento financiero y factoraje financiero, las sociedades financieras de objeto múltiple deberán:
@@ -1848,7 +1959,8 @@ II. De utilizarse una tasa fija, también se informará al cliente el monto de l
 III. Informar al cliente el monto total a pagar por la operación de que se trate, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
 
 IV. (Se deroga).
-Fracción derogada DOF 15-06-2007 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá emitir recomendaciones a las sociedades financieras de objeto múltiple para alcanzar el cumplimiento de lo dispuesto por este artículo.
+Fracción derogada DOF 15-06-2007
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá emitir recomendaciones a las sociedades financieras de objeto múltiple para alcanzar el cumplimiento de lo dispuesto por este artículo.
 Artículo adicionado DOF 18-07-2006
 
 ### Artículo 87-N
@@ -1907,7 +2019,8 @@ c) Manifestación bajo protesta de decir verdad respecto de que cuentan con un s
 d) Lo demás previsto en las citadas disposiciones de carácter general.
 Para la renovación de dicho dictamen la Comisión Nacional Bancaria y de Valores considerará el cumplimiento que dichas sociedades den a lo dispuesto por el artículo 95 Bis de la presente Ley, así como a las disposiciones de carácter general que de éste deriven.
 En caso de que la solicitud de la sociedad de que se trate no sea resuelta en los plazos establecidos en las citadas disposiciones, se entenderá que fue resuelta en sentido positivo.
-Artículo adicionado DOF 10-01-2014 TITULO SEXTO De las Infracciones y Delitos CAPITULO I De las infracciones administrativas
+Artículo adicionado DOF 10-01-2014
+TITULO SEXTO De las Infracciones y Delitos CAPITULO I De las infracciones administrativas
 
 ### Artículo 88
 .- Las multas que por incumplimiento o la violación a las normas de la presente Ley y a las disposiciones que emanen de ella, impongan administrativamente la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en sus respectivos ámbitos de competencia, se harán efectivas por la Secretaría de Hacienda y Crédito Público, una vez que hayan quedado firmes.
@@ -1952,8 +2065,10 @@ e) Que la conducta infractora a que se refiere el proceso administrativo pueda s
 
 f) Las demás circunstancias que la Comisión Nacional Bancaria y de Valores estime aplicables para tales efectos.
 Concluido el plazo a que se refiere la fracción I de este artículo, y en su caso el de su ampliación, la Comisión Nacional Bancaria y de Valores contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
-Párrafo adicionado DOF 24-01-2024 Artículo adicionado DOF 10-01-2014
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
+Párrafo adicionado DOF 24-01-2024
+Artículo adicionado DOF 10-01-2014
 
 ### Artículo 88
 Bis 1.- La Comisión Nacional Bancaria y de Valores considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor, acredite ante la propia Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
@@ -1973,7 +2088,8 @@ Bis 4.- En los procedimientos administrativos previstos en esta Ley se admitirá
 Una vez desahogado el derecho de audiencia a que se refiere el artículo 88 Bis, fracción I de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 92 de este ordenamiento legal, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 La Comisión Nacional Bancaria y de Valores podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho.
 La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Artículo adicionado DOF 10-01-2014
+Párrafo reformado DOF 14-11-2025
+Artículo adicionado DOF 10-01-2014
 
 ### Artículo 89
 .- Las multas a que se refiere el artículo 88 y que corresponde imponer a la Comisión Nacional Bancaria y de Valores, serán las siguientes:
@@ -2080,7 +2196,8 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 91
 .- Las personas que infringiendo lo dispuesto en la fracción IV del artículo 8o. de esta Ley, lleguen a ser propietarias de acciones de una organización auxiliar del crédito o casa de cambio, sin contar con la autorización requerida, se harán acreedoras a una multa que impondrá administrativamente la Comisión Nacional Bancaria y de Valores, por el importe equivalente al del diez hasta el veinte por ciento del valor de las acciones que excedan al porcentaje permitido sin requerir de autorización.
-Párrafo reformado DOF 15-07-1993, 10-01-2014 Las personas a las que se les imponga multa por infringir lo dispuesto en la fracción IV del artículo 8o. de esta Ley, tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nuevas sanciones por tres tantos del importe de la multa anterior. La Comisión Nacional Bancaria podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que anteceda, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular.
+Párrafo reformado DOF 15-07-1993, 10-01-2014
+Las personas a las que se les imponga multa por infringir lo dispuesto en la fracción IV del artículo 8o. de esta Ley, tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nuevas sanciones por tres tantos del importe de la multa anterior. La Comisión Nacional Bancaria podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que anteceda, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular.
 Artículo reformado DOF 03-01-1990
 
 ### Artículo 91
@@ -2150,6 +2267,7 @@ Bis.- Las sanciones previstas en esta Ley, se reducirán en un tercio cuando se 
 Artículo adicionado DOF 10-01-2014
 
 ## Capítulo I Bis — De los programas de autocorrección
+
 Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 94
@@ -2180,7 +2298,8 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 94
 Bis 4.- Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 94 Bis 1 a 94 Bis 3 de esta Ley, según resulte aplicable.
-Artículo adicionado DOF 10-01-2014 CAPITULO II De los delitos
+Artículo adicionado DOF 10-01-2014
+CAPITULO II De los delitos
 
 ### Artículo 95
 .- Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99, 99 Bis, 100, 101, 101 Bis y 101 Bis 2 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de las organizaciones auxiliares de crédito, sociedades financieras de objeto múltiple reguladas o casas de cambio ofendidas, o de quien tenga interés jurídico.
@@ -2289,7 +2408,8 @@ Inciso reformado DOF 18-07-2006
 III. Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, resultando quebranto o perjuicio patrimonial para la organización;
 Fracción reformada DOF 18-07-2006
 
-IV. Los acreditados que desvíen un crédito concedido por alguna organización auxiliar del crédito a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito, y Fracción reformada DOF 18-07-2006
+IV. Los acreditados que desvíen un crédito concedido por alguna organización auxiliar del crédito a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito, y
+Fracción reformada DOF 18-07-2006
 
 V. Las personas físicas o morales, así como los consejeros, funcionarios y empleados de éstas, que presenten estados financieros falsos o alterados con el propósito de obtener de un almacén general de depósito la habilitación de locales.
 Artículo reformado DOF 03-01-1990, 15-07-1993, 17-05-1999
@@ -2306,7 +2426,8 @@ Artículo adicionado DOF 17-05-1999
 .- Se impondrá pena de prisión de cinco a diez años a:
 Párrafo reformado DOF 10-01-2014
 
-I. Las personas que habiendo sido designadas como bodegueros habilitados en los términos de esta Ley, dispongan o permitan disponer indebidamente de las mercancías depositadas o proporcionen datos falsos al almacén respecto de los movimientos y existencias de las mismas; y Fracción reformada DOF 15-07-1993
+I. Las personas que habiendo sido designadas como bodegueros habilitados en los términos de esta Ley, dispongan o permitan disponer indebidamente de las mercancías depositadas o proporcionen datos falsos al almacén respecto de los movimientos y existencias de las mismas; y
+Fracción reformada DOF 15-07-1993
 
 II. Las personas que en representación o a nombre de los almacenes generales de depósito y sin causa justificada, se nieguen a entregar, sustraigan, dispongan o permitan disponer de las mercancías depositadas en los propios almacenes o locales habilitados por medios distintos a los establecidos conforme al contrato respectivo o a los usos y costumbres imperantes en el medio almacenador. Igual sanción será aplicable a las personas que ordenen realizar cualquiera de los actos anteriores.
 Fracción reformada DOF 10-01-2014
@@ -2333,7 +2454,8 @@ e) Inciten u ordenen no presentar la petición correspondiente, a quien esté fa
 Artículo adicionado DOF 17-05-1999
 
 ### Artículo 101
-Bis 1.- Los delitos previstos en esta Ley solo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de la organización auxiliar del crédito, casa de cambio o sociedad financiera de objeto múltiple regulada ofendidas, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, las organizaciones auxiliares del crédito, casas de cambio o sociedades financieras de objeto múltiple reguladas, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los Artículo adicionado DOF 17-05-1999. Reformado DOF 10-01-2014
+Bis 1.- Los delitos previstos en esta Ley solo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de la organización auxiliar del crédito, casa de cambio o sociedad financiera de objeto múltiple regulada ofendidas, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, las organizaciones auxiliares del crédito, casas de cambio o sociedades financieras de objeto múltiple reguladas, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los
+Artículo adicionado DOF 17-05-1999. Reformado DOF 10-01-2014
 
 ### Artículo 101
 bis 2.- Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de una organización auxiliar de crédito o casa de cambio, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional Bancaria y de Valores, para que haga u omita un determinado acto relacionado con sus funciones.
@@ -2341,6 +2463,7 @@ Igual sanción se impondrá al servidor público de la Comisión Nacional Bancar
 Artículo adicionado DOF 17-05-1999
 
 ## Capítulo III — De las Notificaciones
+
 Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 101
@@ -2433,13 +2556,17 @@ II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los 
 III. Se hubiere efectuado la última publicación a que se refiere el artículo 101 Bis 11, y
 
 IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
-Artículo adicionado DOF 10-01-2014 TITULO SEPTIMO De la Protección de los Intereses del Público Título adicionado DOF 03-01-1990
+Artículo adicionado DOF 10-01-2014
+TITULO SEPTIMO De la Protección de los Intereses del Público
+Título adicionado DOF 03-01-1990
 
 ### Artículo 102
-.- (Se deroga) Artículo adicionado DOF 03-01-1990. Reformado DOF 27-12-1991. Derogado DOF 18-01-1999
+.- (Se deroga)
+Artículo adicionado DOF 03-01-1990. Reformado DOF 27-12-1991. Derogado DOF 18-01-1999
 
 ### Artículo 103
-.- (Se deroga) Artículo adicionado DOF 03-01-1990. Reformado DOF 27-12-1991, 15-07-1993. Derogado DOF 18-01-1999
+.- (Se deroga)
+Artículo adicionado DOF 03-01-1990. Reformado DOF 27-12-1991, 15-07-1993. Derogado DOF 18-01-1999
 
 ## TRANSITORIOS
 
@@ -2498,7 +2625,7 @@ México, D.F., a 9 de noviembre de 1995.- Dip. Regina Reyes Retana Márquez, Pre
 Ernesto Navarro González, Presidente.- Dip. Alejandro Torres Aguilar, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de noviembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras; Ley de Instituciones de Crédito; Ley del Mercado de Valores; y Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Publicado en el Diario Oficial de la Federación el 30 de abril de 1996 ARTICULO CUARTO.- Se REFORMAN los artículos 11, primer y cuarto párrafos, fracciones I, IV, V y VII; 12; 15, segundo párrafo de la fracción I, y fracción II; 20 y 22, fracción V último párrafo, y se ADICIONAN el artículo 11, con un segundo y séptimo párrafos, recorriéndose en su orden los actuales
-**segundo.** a quinto, y pasando los actuales sexto y séptimo a ser octavo y noveno, respectivamente, así como las fracciones IX, X y XI, y un artículo 37-C, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
+**segundo.-** a quinto, y pasando los actuales sexto y séptimo a ser octavo y noveno, respectivamente, así como las fracciones IX, X y XI, y un artículo 37-C, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2528,7 +2655,6 @@ Publicada en el Diario Oficial de la Federación el 18 de enero de 1999
 **SÉPTIMO.-** El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto, Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que esta Ley entre en vigor.
 **OCTAVO.-** La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
 **NOVENO.-** La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:
-
 I. La Secretaría, el Banco de México y las Comisiones Nacionales, deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al Presidente de la Comisión;
 
 II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y,
@@ -2539,9 +2665,9 @@ México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.-
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Organizaciones y Actividades Auxiliares Penales.
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999 ARTICULO SEGUNDO.- Se reforman los artículos 95, párrafos primero y segundo; 97, párrafo
-**primero.** y fracciones I, II y III; 98, párrafo primero y fracciones I a la V; 99, y 101; se adicionan un párrafo
-**tercero.** , recorriéndose los demás en su orden, al artículo 95; la fracción IV al artículo 97; los párrafos
-**segundo.** , tercero, cuarto y quinto al artículo 98; y los artículos 99 Bis; 101 Bis; 101 Bis 1, y 101 Bis 2, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
+**primero.-** y fracciones I, II y III; 98, párrafo primero y fracciones I a la V; 99, y 101; se adicionan un párrafo
+**tercero.-** , recorriéndose los demás en su orden, al artículo 95; la fracción IV al artículo 97; los párrafos
+**segundo.-** , tercero, cuarto y quinto al artículo 98; y los artículos 99 Bis; 101 Bis; 101 Bis 1, y 101 Bis 2, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2586,7 +2712,7 @@ México, D.F., a 21 de diciembre de 2000.- Dip. Ricardo García Cervantes, Presi
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Publicado en el Diario Oficial de la Federación el 1º de junio de 2001 ARTICULO ÚNICO.- Se REFORMAN los artículos 81, primer párrafo, 81-A fracciones I a IV y
-**segundo.** párrafo, y 95, cuarto, quinto, sexto y séptimo párrafo, el cual pasa a ser octavo; se ADICIONAN los artículos 5 Bis 1, 5 Bis 2, 5 Bis 3 y 5 Bis 4, así como el artículo 95 con un séptimo párrafo; y, se DEROGA la fracción V del artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
+**segundo.-** párrafo, y 95, cuarto, quinto, sexto y séptimo párrafo, el cual pasa a ser octavo; se ADICIONAN los artículos 5 Bis 1, 5 Bis 2, 5 Bis 3 y 5 Bis 4, así como el artículo 95 con un séptimo párrafo; y, se DEROGA la fracción V del artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2622,12 +2748,11 @@ Respecto de aquéllas que se constituyan con posterioridad a los dos primeros a�
 Lo dispuesto en este artículo deberá incluirse en el contrato de fideicomiso de los Fondos de Protección. Las Entidades deberán informar a sus Socios, Clientes y al público en general la fecha a partir de la cual iniciará la vigencia del sistema del Fondo de Protección respectivo, conforme a lo señalado en el párrafo anterior.
 **OCTAVO.-** Para efectos de la fracción I del artículo 53 de la misma Ley, las Federaciones que soliciten su autorización dentro de un plazo de dos años contados a partir de la entrada en vigor de la Ley, deberán presentar los documentos en que, a juicio de la Comisión Nacional Bancaria y de Valores, se manifieste la intención de cuando menos diez sociedades que cumplan con los requisitos del artículo 10o., con excepción de las fracciones II y IX, para afiliarse a dicha Federación.
 **NOVENO.-** A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo
-**PRIMERO.** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
+**PRIMERO.-** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
 Concluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos.
 **DÉCIMO.-** Al momento de instalarse el primer consejo de administración de una Sociedad Cooperativa de Ahorro y Préstamo conforme a los términos previstos en la Ley de Ahorro y Crédito Popular, se determinarán por insaculación a los consejeros electos por la asamblea que fungirán en su encargo únicamente durante la primera mitad del periodo de duración determinado por la Entidad, a fin de proceder en periodos subsecuentes a la renovación por mitad del consejo de administración.
 Cuando el número de integrantes sea impar, se elegirá por insaculación durante la instalación del consejo de administración, al miembro excedente que formará parte de la primera mitad, a fin de proceder en periodos subsecuentes a la renovación parcial del mismo. En el caso del consejo de vigilancia, se procederá de la misma forma.
 **DÉCIMO PRIMERO.-** Para efectos de lo dispuesto en los artículos 65 y 101 de la Ley de Ahorro y Crédito Popular, se establecerá un periodo de transición a efecto de que los Organismos de Integración se ajusten al mismo, conforme a lo siguiente:
-
 I. Durante los dos primeros años a partir de que obtengan el dictamen favorable, su consejo de administración podrá estar conformado hasta en un setenta y cinco por ciento del total de sus miembros, por consejeros o funcionarios de la Entidad, Federación o Confederación, según sea el caso, y
 
 II. A partir del segundo año y hasta el final del tercer año, dicho porcentaje se reducirá hasta un cincuenta por ciento y a partir del cuarto año este porcentaje podrá ser hasta de un treinta por ciento.
@@ -2672,13 +2797,11 @@ Se REFORMAN el artículo 4o., los párrafos primero, tercero y quinto del artíc
 ## TRANSITORIOS
 
 **PRIMERO.-** Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
-
 I. El artículo Primero del presente Decreto;
 
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
-**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
-**artículo Segundo.** de este Decreto;
-
+**Quinto.-** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
+**artículo Segundo.-** de este Decreto;
 III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
 
 IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
@@ -2710,7 +2833,6 @@ La entrada en vigor de las reformas, adiciones y derogaciones a los artículos d
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
 **SEXTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
 **SÉPTIMO.-** Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
-
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
 
 II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
@@ -2871,14 +2993,13 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 
 ### ARTÍCULO VIGÉSIMO OCTAVO
 Se REFORMAN los artículos 5o párrafo segundo; 6o párrafo
-**primero.** ; 7o párrafos primero y segundo; 8o; 9o; 10; 11; 12; 13; 14 párrafo primero; 15 fracciones I en sus párrafos primero y último, II y III; 16; 16-A; 17; 18 párrafo primero; 20; 21; 22; 22-A pasando a ser el artículo 22 Bis; 45 Bis 2 párrafo primero; 45 Bis 7 párrafo segundo; 45 Bis 11 párrafo primero; 45 Bis 12; 45 Bis 13; 45 Bis 14; 48-B; 51; 51-A; 51-B; 52 párrafos primero y segundo; 53; 54 párrafo primero, las fracciones IV y V del párrafo segundo y los párrafos tercero y último; 55; 56 párrafo primero; 57 párrafos
-**segundo.** y sexto; 57-A; 58 párrafo primero; 60 párrafos primero y último; 62; 63; 65; 65-A; 65-B; 67; 68; 69; 70 párrafo primero; 71; 72 párrafo segundo; 74; 76; 77; 78; 79; 81-A Bis párrafos primero y segundo; 81-B; 81-D; 82; 87; 87-B; 87-C; 87-D; 87-I; 87-J; 87-K; 87-N; 88; 89; 90; 91 párrafo primero; 95; 95 Bis; 97; 100 párrafo primero y la fracción II; 101 Bis1; se ADICIONAN los artículos 8o Bis; 8o Bis 1; 8o Bis 2; 8o Bis 3; 11 Bis; 11 Bis 1; 11 Bis 2; 12 Bis; 12 Bis 1; 22 Bis 1 al 22 Bis 11; 45 Bis 15 al 45 Bis 17; 86 Bis actualmente derogado; 87-A Bis; 87-B Bis; 87-C Bis; 87-C Bis 1; 87-O; 87-P; 88 Bis al 88 Bis 4; 89 Bis al 89 Bis 3; 91 Bis; 92 actualmente derogado; 92 Bis; 92 Bis 1; 94 Bis; el Capítulo I Bis intitulado “De los programas de autocorrección” al Título Sexto con sus artículos 94 Bis 1 al 94 Bis 4; 95 Bis 1; 97 Bis; 97 Bis 1; 100 con la fracción III; el Capítulo III intitulado “De las Notificaciones” al Título Sexto con sus artículos 101 Bis 3 al 101 Bis 15; y se DEROGAN los artículos 45 Bis-9 en sus fracciones III y IV y el párrafo último; 69-A y 75; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ……….
+**primero.-** ; 7o párrafos primero y segundo; 8o; 9o; 10; 11; 12; 13; 14 párrafo primero; 15 fracciones I en sus párrafos primero y último, II y III; 16; 16-A; 17; 18 párrafo primero; 20; 21; 22; 22-A pasando a ser el artículo 22 Bis; 45 Bis 2 párrafo primero; 45 Bis 7 párrafo segundo; 45 Bis 11 párrafo primero; 45 Bis 12; 45 Bis 13; 45 Bis 14; 48-B; 51; 51-A; 51-B; 52 párrafos primero y segundo; 53; 54 párrafo primero, las fracciones IV y V del párrafo segundo y los párrafos tercero y último; 55; 56 párrafo primero; 57 párrafos
+**segundo.-** y sexto; 57-A; 58 párrafo primero; 60 párrafos primero y último; 62; 63; 65; 65-A; 65-B; 67; 68; 69; 70 párrafo primero; 71; 72 párrafo segundo; 74; 76; 77; 78; 79; 81-A Bis párrafos primero y segundo; 81-B; 81-D; 82; 87; 87-B; 87-C; 87-D; 87-I; 87-J; 87-K; 87-N; 88; 89; 90; 91 párrafo primero; 95; 95 Bis; 97; 100 párrafo primero y la fracción II; 101 Bis1; se ADICIONAN los artículos 8o Bis; 8o Bis 1; 8o Bis 2; 8o Bis 3; 11 Bis; 11 Bis 1; 11 Bis 2; 12 Bis; 12 Bis 1; 22 Bis 1 al 22 Bis 11; 45 Bis 15 al 45 Bis 17; 86 Bis actualmente derogado; 87-A Bis; 87-B Bis; 87-C Bis; 87-C Bis 1; 87-O; 87-P; 88 Bis al 88 Bis 4; 89 Bis al 89 Bis 3; 91 Bis; 92 actualmente derogado; 92 Bis; 92 Bis 1; 94 Bis; el Capítulo I Bis intitulado “De los programas de autocorrección” al Título Sexto con sus artículos 94 Bis 1 al 94 Bis 4; 95 Bis 1; 97 Bis; 97 Bis 1; 100 con la fracción III; el Capítulo III intitulado “De las Notificaciones” al Título Sexto con sus artículos 101 Bis 3 al 101 Bis 15; y se DEROGAN los artículos 45 Bis-9 en sus fracciones III y IV y el párrafo último; 69-A y 75; de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: ……….
 Disposiciones Transitorias
 
 ### ARTÍCULO TRIGÉSIMO
 En relación con las modificaciones a que se refieren los Artículos Vigésimo
-**Octavo.** y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
-
+**Octavo.-** y Vigésimo Noveno de este Decreto, se estará a lo siguiente:
 I. Quedarán sin efectos el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2012, publicado en el Diario Oficial de la Federación el 30 de marzo de 2012, y la Resolución por la que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2013, publicada en el Diario Oficial de la Federación el 29 de marzo de 2013, únicamente en lo que se oponga al presente Decreto.
 
 II. Para efectos de las “Disposiciones de carácter general mediante las que se determina el capital mínimo adicional, al capital mínimo suscrito y pagado sin derecho a retiro con que deberán contar los almacenes generales de depósito, para poder actuar como fiduciarias en los fideicomisos de garantía a que se refiere la Sección Segunda del Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito”, publicadas en el Diario Oficial de la Federación del 26 de enero de 2009, el capital que se establece en el artículo 12 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se adiciona, servirá como base para determinar el capital adicional con que deberán contar los almacenes generales de depósito que pretendan actuar como fiduciarias en dichos fideicomisos de garantía, a más tardar el último día hábil del año 2013. En consecuencia, cualquier referencia prevista en dichas disposiciones de carácter general respecto a capitales mínimos determinados por la Secretaría de Hacienda y Crédito Público para organizaciones auxiliares del crédito y casas de cambio con fundamento en la fracción I del artículo 8 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se reforma, deberá entenderse referida a los capitales mínimos previstos por el artículo 12 Bis del mismo ordenamiento que por este Decreto se adiciona.
@@ -2909,7 +3030,7 @@ XIV. Las disposiciones de carácter general a que se refieren los artículos 86 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnología Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
@@ -2941,9 +3062,9 @@ Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024
 
 ### Artículo Segundo
 Se reforman los artículos 11 Bis, párrafos primero, actuales segundo, quinto,
-**séptimo.** y octavo; 15, fracción II; 17, párrafos primero, cuarto, noveno y décimo primero; 20; 21; 22, párrafos primero, actuales segundo, fracciones I y IV, tercero y cuarto; 22 Bis 1; 22 Bis 6, párrafos
-**primero.** , fracciones I y II, segundo y tercero; 22 Bis 7; 22 Bis 8, párrafo primero, fracciones III, V, VI y VIII; y 22 Bis 9, párrafo primero, fracción II; y se adicionan los artículos 11 Bis, con los párrafos segundo,
-**tercero.** y cuarto, recorriéndose los subsecuentes; 22, con los párrafos segundo, recorriendo los subsecuentes, quinto y séptimo; 22 Bis 6, párrafo primero, con las fracciones IV y V; y 22 Bis 12; y se deroga el artículo 11 Bis, actuales párrafos tercero y sexto, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: …….
+**séptimo.-** y octavo; 15, fracción II; 17, párrafos primero, cuarto, noveno y décimo primero; 20; 21; 22, párrafos primero, actuales segundo, fracciones I y IV, tercero y cuarto; 22 Bis 1; 22 Bis 6, párrafos
+**primero.-** , fracciones I y II, segundo y tercero; 22 Bis 7; 22 Bis 8, párrafo primero, fracciones III, V, VI y VIII; y 22 Bis 9, párrafo primero, fracción II; y se adicionan los artículos 11 Bis, con los párrafos segundo,
+**tercero.-** y cuarto, recorriéndose los subsecuentes; 22, con los párrafos segundo, recorriendo los subsecuentes, quinto y séptimo; 22 Bis 6, párrafo primero, con las fracciones IV y V; y 22 Bis 12; y se deroga el artículo 11 Bis, actuales párrafos tercero y sexto, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, para quedar como sigue: …….
 
 ## Transitorios
 
@@ -2960,12 +3081,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

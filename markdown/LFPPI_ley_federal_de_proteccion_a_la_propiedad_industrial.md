@@ -15,7 +15,9 @@ Se expide la Ley Federal de Protección a la Propiedad Industrial, para quedar c
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo I — Disposiciones Preliminares
+
 
 ### Artículo 1
 .- Las disposiciones de esta Ley son de orden público y de observancia general en toda la República, sin perjuicio de lo establecido en los Tratados Internacionales de los que México sea parte.
@@ -25,7 +27,8 @@ Su aplicación administrativa corresponde al Ejecutivo Federal por conducto del 
 .- Esta Ley tiene por objeto:
 I.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, marcas y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen e indicaciones geográficas;
 Las autoridades competentes deberán garantizar la igualdad sustantiva entre mujeres y hombres, así como promover la participación efectiva de las mujeres en los procesos de creación, registro y ejercicio de derechos de propiedad industrial;
-Párrafo adicionado DOF 15-01-2026 II.- Regular los secretos industriales;
+Párrafo adicionado DOF 15-01-2026
+II.- Regular los secretos industriales;
 III.- Prevenir los actos que atenten contra la propiedad industrial o que constituyan competencia desleal relacionada con la misma y establecer las sanciones y penas respecto de ellos;
 IV.- Promover y fomentar la actividad inventiva de aplicación industrial, las mejoras técnicas, la creatividad para el diseño y la presentación de productos nuevos y útiles, y V.- Promover la difusión de los conocimientos tecnológicos en el país.
 
@@ -59,7 +62,8 @@ XIII.- Sustanciar y resolver los recursos administrativos que se interpongan con
 XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando los involucrados lo designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio;
 XV.- Publicar en la Gaceta los actos a los que se refiere esta Ley;
 XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde, asegurando que sea accesible y se promueva la participación de mujeres y otros grupos en situación de vulnerabilidad o exclusión, en el uso y aprovechamiento de dicha información;
-Fracción reformada DOF 15-01-2026 XVII.- Establecer las reglas para la gestión de trámites a través de medios de comunicación electrónica;
+Fracción reformada DOF 15-01-2026
+XVII.- Establecer las reglas para la gestión de trámites a través de medios de comunicación electrónica;
 XVIII.- Mantener el registro público de los derechos de propiedad industrial en los términos que establezca esta Ley y su Reglamento, sin perjuicio de lo que establezcan los Tratados Internacionales;
 XIX.- Difundir, asesorar y dar servicio al público, conforme a la competencia de las leyes cuya aplicación le corresponde;
 XX.- Promover la creación de invenciones de aplicación industrial, apoyar su desarrollo y explotación en la industria y el comercio, e impulsar la transferencia de tecnología mediante:
@@ -73,11 +77,14 @@ c) La realización de concursos, certámenes o exposiciones y el otorgamiento de
 d) La difusión entre las personas, grupos, asociaciones o instituciones de investigación, enseñanza superior o de asistencia técnica, del conocimiento y alcance de las disposiciones de esta Ley, que faciliten sus actividades en la generación de invenciones y en su desarrollo industrial y comercial subsecuente;
 Inciso reformado DOF 15-01-2026
 
-e) La celebración de convenios de cooperación, coordinación y concertación, con los gobiernos de las entidades federativas, así como con instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial, y Inciso reformado DOF 15-01-2026
+e) La celebración de convenios de cooperación, coordinación y concertación, con los gobiernos de las entidades federativas, así como con instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial, y
+Inciso reformado DOF 15-01-2026
 
 f) El impulso de estrategias para promover la participación de las mujeres en programas de transferencia de tecnología y desarrollo industrial;
-Inciso adicionado DOF 15-01-2026 XXI.- Participar en los programas de otorgamiento de estímulos y apoyos para la protección de la propiedad industrial, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad. Dichos programas deberán incorporar la perspectiva género y, atendiendo a su objeto, promover la participación de mujeres;
-Fracción reformada DOF 15-01-2026 XXII.- Formar y mantener actualizados los acervos sobre invenciones publicadas en el país;
+Inciso adicionado DOF 15-01-2026
+XXI.- Participar en los programas de otorgamiento de estímulos y apoyos para la protección de la propiedad industrial, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad. Dichos programas deberán incorporar la perspectiva género y, atendiendo a su objeto, promover la participación de mujeres;
+Fracción reformada DOF 15-01-2026
+XXII.- Formar y mantener actualizados los acervos sobre invenciones publicadas en el país;
 XXIII.- Tramitar y, en su caso, proporcionar la respuesta a las solicitudes de información tecnológica;
 XXIV.- Efectuar investigaciones sobre el estado de la técnica en los distintos sectores de la industria y la tecnología;
 XXV.- Coordinar su actuación con las diversas instituciones públicas y privadas, nacionales, extranjeras e internacionales, que tengan por objeto el fomento y protección de los derechos de propiedad industrial, la transferencia de tecnología, el estudio y promoción del desarrollo tecnológico, la innovación y la diferenciación de productos;
@@ -88,7 +95,8 @@ XXIX.- Participar, en coordinación con las unidades competentes de la Secretar�
 XXX.- Realizar estudios sobre la situación de la propiedad industrial en el ámbito internacional y participar en las reuniones o foros internacionales relacionados;
 XXXI.- Actuar como órgano de consulta conforme a la competencia de las leyes cuya aplicación le corresponde de las distintas dependencias y entidades de la Administración Pública Federal, así como asesorar a instituciones sociales y privadas;
 XXXII.- Participar en la formación de recursos humanos especializados en las diversas disciplinas de la propiedad industrial, a través de la formulación y ejecución de programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar, incorporando un enfoque de género que fomente la participación igualitaria de mujeres y hombres en dichas disciplinas;
-Fracción reformada DOF 15-01-2026 XXXIII.- Formular y ejecutar su programa institucional de operación, y XXXIV.- Prestar los demás servicios y realizar las actividades necesarias para el debido cumplimiento de las leyes cuya aplicación le corresponden.
+Fracción reformada DOF 15-01-2026
+XXXIII.- Formular y ejecutar su programa institucional de operación, y XXXIV.- Prestar los demás servicios y realizar las actividades necesarias para el debido cumplimiento de las leyes cuya aplicación le corresponden.
 
 ### Artículo 6
 .- Los órganos de administración del Instituto serán la Junta de Gobierno y la persona Titular de la Dirección General, quienes tendrán las facultades previstas en la Ley Federal de las Entidades Paraestatales y en su Decreto de creación, sin perjuicio de lo previsto en los artículos 5 y 9 de esta Ley.
@@ -116,6 +124,7 @@ Para la determinación de los montos de las tarifas se deberán considerar, entr
 I.- Los costos en los que incurre el Instituto para la prestación de los servicios, incluyendo sus gastos de operación y el Índice Nacional de Precios al Consumidor. Los montos de las tarifas deberán permitir la recuperación de los costos, por lo menos, y II.- Su competitividad frente a las que aplican otras oficinas de propiedad industrial a nivel internacional.
 
 ## Capítulo II
+
 Reglas Generales
 
 ### Artículo 12
@@ -179,6 +188,7 @@ El personal del Instituto que intervenga en los diversos trámites que procedan 
 
 ## Capítulo III — De la Representación y del Registro General de Poderes
 
+
 ### Artículo 26
 .- Cuando una solicitud o promoción sea presentada por varias personas, se deberá designar en el escrito quién de ellos será el representante común. De no hacerse esto, se entenderá que el representante común es la primera persona de las nombradas.
 
@@ -233,9 +243,11 @@ En este último caso, no se requerirá pronunciamiento por parte del Instituto.
 .- Los solicitantes que actúen por sí o a través de representante legal, podrán autorizar en sus solicitudes o promociones a otras personas físicas para oír y recibir notificaciones y documentos.
 
 ## TÍTULO SEGUNDO
+
 De las Invenciones, Modelos de Utilidad, Diseños Industriales y Esquemas de Trazado de Circuitos Integrados
 
 ## Capítulo I — Disposiciones Preliminares
+
 
 ### Artículo 36
 .- La persona física que realice una invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado o su causahabiente, tendrá el derecho exclusivo y temporal de explotación en su provecho, por sí o por otros con su consentimiento, de acuerdo con las disposiciones contenidas en esta Ley y su Reglamento.
@@ -279,6 +291,7 @@ El reclamo de cada prioridad y el estudio respectivo estará sujeto al pago de l
 .- La mención de que existe una solicitud en trámite o patente o registro otorgado, solo podrá realizarse en el caso de que la invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado se encuentre en cualquiera de dichos supuestos.
 
 ## Capítulo II — De las Patentes
+
 
 ### Artículo 45
 .- Para los efectos del presente Capítulo se entenderá por:
@@ -364,6 +377,7 @@ VIII.- Un tercero que utilice la invención patentada o haya realizado los prepa
 
 ## Capítulo III — De los Modelos de Utilidad
 
+
 ### Artículo 58
 .- Serán registrables los modelos de utilidad que sean nuevos y susceptibles de aplicación industrial.
 
@@ -386,6 +400,7 @@ VIII.- Un tercero que utilice la invención patentada o haya realizado los prepa
 .- La explotación del modelo de utilidad y las limitaciones del derecho que confiere su registro al titular se regirán, en lo conducente, por lo dispuesto en los artículos 54, 55 último párrafo, 56 y 57 de esta Ley.
 
 ## Capítulo IV — De los Diseños Industriales
+
 
 ### Artículo 65
 .- Serán registrables los diseños industriales que sean nuevos y susceptibles de aplicación industrial.
@@ -469,6 +484,7 @@ Los registros de diseños industriales y sus renovaciones deberán ser publicado
 
 ## Capítulo V — De los Esquemas de Trazado de Circuitos Integrados
 
+
 ### Artículo 83
 .- Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido explotado comercialmente en cualquier parte del mundo. También será registrable aun cuando éste haya sido explotado comercialmente, de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se haya presentado ante el Instituto, dentro de los dos años siguientes a la fecha en que fue explotado comercialmente, en forma ordinaria y por primera vez, por el solicitante.
 Solo será registrable el esquema de trazado que consista en una combinación de elementos o interconexiones que sean habituales o comunes, entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados, si la combinación en su conjunto se considera original en los términos de la fracción IV del artículo 84 de esta Ley y satisfaga las condiciones señaladas en el párrafo anterior, respecto de su comercialización.
@@ -523,6 +539,7 @@ El tercero de buena fe estará obligado al pago de una regalía razonable, simil
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
 
 ## Capítulo VI — De la Tramitación de Patentes
+
 
 ### Artículo 91
 .- Para obtener una patente deberá presentarse ante el Instituto una solicitud que cumpla con los requisitos previstos en esta Ley, en su Reglamento y demás disposiciones aplicables en la materia.
@@ -692,6 +709,7 @@ V.- La denominación o título de la invención, y VI.- Su vigencia, especifican
 
 ## Capítulo VII — De la Renuncia, Rectificación y Limitación de Derechos
 
+
 ### Artículo 121
 .- El titular de una patente o registro, mientras se encuentre vigente, podrá renunciar a este derecho, o solicitar su rectificación o limitación, mediante solicitud dirigida al Instituto y acompañando el comprobante de pago de la tarifa correspondiente, en los términos que establezca el Reglamento de esta Ley.
 Si la solicitud resulta procedente, el Instituto lo comunicará al solicitante y procederá a publicar en la Gaceta la renuncia o rectificación o limitación, respectiva.
@@ -718,6 +736,7 @@ I.- Se encuentre pendiente de resolución un procedimiento relativo a la validez
 Si con posterioridad a la presentación de una solicitud a la que se refiere el presente Capítulo, se inicia un procedimiento de declaración administrativa, éste se suspenderá hasta en tanto se emita resolución sobre la procedencia o improcedencia de la solicitud respectiva, o II.- Exista una demanda judicial reivindicando la titularidad de la patente o registro, o el reconocimiento de otros derechos sobre los mismos, excepto cuando se trate de una solicitud de rectificación del título de la patente o registro.
 
 ## Capítulo VIII — Del Certificado Complementario
+
 
 ### Artículo 126
 .- Cuando en la tramitación de una patente existan retrasos irrazonables, directamente atribuibles al Instituto que se traduzcan en un plazo de más de cinco años, entre la fecha de presentación de la solicitud en México y el otorgamiento de la patente, a petición del interesado se podrá otorgar un certificado complementario para ajustar la vigencia de la misma.
@@ -770,6 +789,7 @@ Tratándose de los plazos a los que se refieren los incisos a) y b) de la fracci
 La caducidad del certificado complementario no requerirá de declaración administrativa por parte del Instituto.
 
 ## Capítulo IX — De las Licencias y Transmisión de Derechos
+
 
 ### Artículo 137
 .- Los derechos que confiere una patente o registro, o aquéllos que deriven de una solicitud en trámite, podrán gravarse y transmitirse total o parcialmente en los términos y con las formalidades que establece la legislación común. Para que la transmisión de derechos o gravamen puedan producir efectos en perjuicio de terceros, deberá inscribirse en el Instituto.
@@ -837,6 +857,7 @@ La concesión de una licencia de utilidad pública distinta a la prevista en los
 Las licencias de utilidad pública no serán exclusivas ni transmisibles y podrán abarcar una o todas las prerrogativas a las que se refiere el artículo 55 de esta Ley.
 
 ## Capítulo X — De la Nulidad y Caducidad de Patentes y Registros
+
 
 ### Artículo 154
 .- Una patente solo podrá ser declarada nula en los siguientes casos:
@@ -907,7 +928,9 @@ El Instituto publicará cuando menos, semestralmente en la Gaceta, un listado de
 
 ## TÍTULO TERCERO — De los Secretos Industriales
 
+
 ## Capítulo Único
+
 
 ### Artículo 163
 .- Para efectos de este Título, se entenderá por:
@@ -942,7 +965,9 @@ Quedan incluidos en el supuesto anterior, además de las partes, sus representan
 
 ## TÍTULO CUARTO — De las Marcas, Avisos y Nombres Comerciales
 
+
 ## Capítulo I — De las Marcas
+
 
 ### Artículo 170
 .- Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto.
@@ -1034,6 +1059,7 @@ En caso de que las autoridades competentes determinen que dicho producto o servi
 
 ## Capítulo II — De las Marcas Colectivas y de Certificación
 
+
 ### Artículo 179
 .- Podrán solicitar el registro de una marca colectiva las asociaciones o sociedades de productores, fabricantes o comerciantes de productos, o prestadores de servicios, legalmente constituidas, para distinguir, en el mercado, los productos o servicios de sus miembros siempre que éstos posean calidad o características comunes entre ellos y diversas respecto de los productos o servicios de terceros.
 
@@ -1102,6 +1128,7 @@ III.- Permita el uso de la marca para fines distintos a la certificación, o IV.
 
 ## Capítulo III — De las Marcas Notoriamente Conocidas y Famosas
 
+
 ### Artículo 190
 .- Para efectos de esta Ley, se entenderá que una marca es notoriamente conocida en México cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.
 Se entenderá que una marca es famosa en México cuando sea conocida por la mayoría del público consumidor, o bien, cuando ésta tenga una difusión o reconocimiento en el comercio global.
@@ -1151,6 +1178,7 @@ Las declaraciones administrativas de nulidad se harán por el Instituto, a petic
 
 ## Capítulo IV — De los Avisos Comerciales
 
+
 ### Artículo 200
 .- El derecho exclusivo para usar un aviso comercial se obtendrá mediante su registro ante el Instituto.
 
@@ -1170,6 +1198,7 @@ Las declaraciones administrativas de nulidad se harán por el Instituto, a petic
 .- Los avisos comerciales se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
 ## Capítulo V — De los Nombres Comerciales
+
 
 ### Artículo 206
 .- El nombre comercial de una empresa o establecimiento industrial, comercial o de servicios y el derecho a su uso exclusivo estarán protegidos, sin necesidad de registro. La protección abarcará la zona geográfica de la clientela efectiva de la empresa o establecimiento al que se aplique el nombre comercial y se extenderá a toda la República si existe difusión masiva y constante a nivel nacional del mismo.
@@ -1196,6 +1225,7 @@ Las declaraciones administrativas de nulidad se harán por el Instituto, a petic
 .- El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
 ## Capítulo VI — Del Registro de Marcas
+
 
 ### Artículo 214
 .- Para obtener el registro de una marca deberá presentarse solicitud ante el Instituto con los siguientes datos:
@@ -1327,6 +1357,7 @@ Cuando la renovación sea presentada por el beneficiario de un gravamen inscrito
 
 ## Capítulo VII — De las Licencias y Transmisión de Derechos
 
+
 ### Artículo 239
 .- El titular de una marca registrada o en trámite podrá conceder, mediante convenio, licencia de uso a una o más personas, con relación a todos o algunos de los productos o servicios a los que se aplique dicha marca, en términos de legislación común.
 
@@ -1411,6 +1442,7 @@ El Instituto resolverá en definitiva lo que proceda, considerando que no se ind
 
 ## Capítulo VIII — De la Nulidad, Caducidad y Cancelación de Registros
 
+
 ### Artículo 258
 .- Se declarará la nulidad del registro de una marca cuando:
 I.- Se haya otorgado en contravención de las disposiciones de esta Ley o la que hubiese estado vigente en la época de su registro.
@@ -1447,7 +1479,9 @@ La caducidad a la que se refieren las fracciones I y III del artículo 260 de es
 
 ## TÍTULO QUINTO — De las Denominaciones de Origen e Indicaciones Geográficas
 
+
 ## Capítulo I — Disposiciones Comunes
+
 
 ### Artículo 264
 .- Se entiende por denominación de origen, el producto vinculado a una zona geográfica de la cual éste es originario, siempre y cuando su calidad, características o reputación se deban exclusiva o esencialmente al origen geográfico de las materias primas, los procesos de producción, así como los factores naturales y culturales que inciden en el mismo.
@@ -1491,6 +1525,7 @@ Para efectos de las fracciones IV y V del presente artículo, quedan incluidos l
 .- Además de las publicaciones previstas en este Título, se publicarán en la Gaceta las declaraciones y autorizaciones que otorgue el Instituto, así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominaciones de origen o indicaciones geográficas.
 
 ## Capítulo II — Del Trámite de la Declaración de Protección
+
 
 ### Artículo 273
 .- La declaración de protección de una denominación de origen o indicación geográfica, se hará de oficio o a petición de:
@@ -1640,6 +1675,7 @@ Si la solicitud se presenta a petición de parte interesada, ésta deberá conte
 
 ## Capítulo III — De la Autorización de Uso
 
+
 ### Artículo 298
 .- La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que:
 I.- Declare, bajo protesta de decir verdad, que se dedica directamente a la extracción, producción o elaboración, de los productos protegidos por la declaración;
@@ -1685,6 +1721,7 @@ El convenio deberá contener una cláusula en la que se establezca la obligació
 .- El usuario autorizado por el Instituto deberá inscribir ante el mismo, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el Reglamento de esta Ley.
 
 ## Capítulo IV
+
 De la Cesación de los Efectos de las Declaraciones y de las Autorizaciones de Uso
 
 ### Artículo 310
@@ -1709,6 +1746,7 @@ I.- Cuando deje de usarse durante los tres años inmediatos anteriores a la soli
 La caducidad a que se refiere la fracción II del artículo anterior, no requerirá de declaración administrativa por parte del Instituto.
 
 ## Capítulo V — Del Reconocimiento a las Denominaciones de Origen e Indicaciones Geográficas
+
 Protegidas en el Extranjero
 
 ### Artículo 315
@@ -1774,7 +1812,9 @@ La declaración de nulidad o cancelación de la inscripción se hará administra
 
 ## TÍTULO SEXTO — De los Procedimientos de Declaración Administrativa
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 328
 .- Las solicitudes de declaración administrativa de nulidad, caducidad, cancelación e infracción que establece esta Ley, se sustanciarán y resolverán con arreglo al procedimiento que señala este Capítulo y las formalidades que esta Ley prevé.
@@ -1919,6 +1959,7 @@ Lo anterior, con independencia de la indemnización por los daños y perjuicios 
 
 ## Capítulo II — De la Inspección
 
+
 ### Artículo 354
 .- Para comprobar el cumplimiento de lo dispuesto en esta Ley y demás disposiciones derivadas de ella, el Instituto realizará la inspección y vigilancia, conforme a los siguientes procedimientos:
 I.- Requerimiento de informes y datos, y II.- Visitas de inspección.
@@ -1983,6 +2024,7 @@ Lo anterior, sin perjuicio del acuerdo al que pudieran llegar las partes sobre e
 
 ## Capítulo III — De las Notificaciones
 
+
 ### Artículo 367
 .- En los procedimientos de declaración administrativa, las notificaciones, emplazamientos, requerimientos, solicitud de informes o documentos, resoluciones administrativas definitivas y demás actos emitidos por el Instituto, podrán realizarse:
 I.- Personalmente con quien deba entenderse la diligencia, en las oficinas del Instituto o en el domicilio señalado para tal efecto en el expediente;
@@ -2006,6 +2048,7 @@ En los procedimientos de declaración administrativa de infracción, en donde se
 .- En el caso de las notificaciones que no deban practicarse de manera personal, se dará prioridad a la notificación por Gaceta.
 
 ## Capítulo IV — De la Conciliación
+
 
 ### Artículo 372
 .- En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de los involucrados, conforme a las reglas establecidas en el presente Capítulo.
@@ -2060,7 +2103,9 @@ Además, de no asistir ambas partes, en el acta de la reunión respectiva se har
 
 ## TÍTULO SÉPTIMO — De las Infracciones, Sanciones Administrativas y Delitos
 
+
 ## Capítulo I — De las Infracciones y Sanciones Administrativas
+
 
 ### Artículo 386
 .- Son infracciones administrativas:
@@ -2179,6 +2224,7 @@ Artículo reformado DOF 14-11-2025
 
 ## Capítulo II — De los Delitos
 
+
 ### Artículo 402
 .- Son delitos:
 I.- Falsificar una marca con fines de especulación comercial.
@@ -2213,6 +2259,7 @@ Los delitos a los que se refiere el presente artículo se perseguirán de oficio
 .- Independientemente del ejercicio de la acción penal, el perjudicado por cualquiera de los delitos a que esta Ley se refiere podrá demandar del o de los autores de los mismos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley.
 
 ## Capítulo III — De los Procedimientos Jurisdiccionales
+
 
 ### Artículo 407
 .- Son competentes los Tribunales de la Federación para conocer de las controversias civiles, mercantiles o penales, así como de las medidas precautorias que se susciten con motivo de la aplicación de esta Ley, sin perjuicio de la facultad de los particulares de someterse al procedimiento de arbitraje, conforme a las disposiciones contenidas en el Código de Comercio.
@@ -2253,7 +2300,7 @@ Los registros de marcas o avisos comerciales y los efectos de publicación de lo
 **DÉCIMO QUINTO.-** Las multas impuestas antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
 **DÉCIMO SEXTO.-** La determinación y la cuantificación del monto de la indemnización por daños y perjuicios a la que se refiere la fracción I del artículo 396, se aplicará a las infracciones declaradas en las solicitudes de declaración administrativa de infracción presentadas a partir de la entrada en vigor del presente Decreto, sujeto a lo dispuesto por su artículo Décimo Séptimo Transitorio.
 **DÉCIMO SÉPTIMO.-** Las disposiciones relativas a los artículos 5 fracciones VI, VII, VIII, 393, 394, 396 fracción I, 397, 398 y 400 de esta Ley, entrarán en vigor una vez que se lleven a cabo las modificaciones correspondientes a la estructura orgánica del Instituto Mexicano de la Propiedad Industrial, y éste cuente con los recursos presupuestales, financieros, humanos y materiales necesarios, lo cual deberá realizarse a más tardar dentro de un año contado a partir de la entrada en vigor a la que se refiere el artículo
-**Primero.** Transitorio del presente Decreto.
+**Primero.-** Transitorio del presente Decreto.
 **DÉCIMO OCTAVO.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado al Instituto Mexicano de la Propiedad Industrial y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -2264,14 +2311,14 @@ Sexto.- Se reforman los artículos 3 y 400 de la Ley Federal de Protección a la
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
@@ -2281,11 +2328,11 @@ Se reforman las fracciones XVI, incisos d) y e) de la fracción XX, las fraccion
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

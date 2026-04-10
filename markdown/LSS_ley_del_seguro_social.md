@@ -79,16 +79,20 @@ Fracción adicionada DOF 29-04-2005. Reformada DOF 20-01-2023, 24-01-2024
 XX. Trabajador Independiente o por cuenta propia: persona física que no esté sujeta a una relación de subordinación laboral y que no recibe un salario sino genera ingresos por el libre ejercicio de su profesión, oficio o actividad, así como los ejidatarios, comuneros, colonos y pequeños propietarios, patrones con trabajadores asegurados a su servicio o aquellas personas que cubran el pago de las cuotas obrero patronales establecidas para la incorporación voluntaria al régimen obligatorio exceptuando a los sujetos de aseguramiento establecidos en la fracción V del artículo 13;
 Fracción adicionada DOF 01-12-2023
 
-XXI. Unión civil: es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de los estados, cualquiera que sea la denominación que adquiera, y Fracción adicionada DOF 20-01-2023. Recorrida DOF 01-12-2023
+XXI. Unión civil: es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de los estados, cualquiera que sea la denominación que adquiera, y
+Fracción adicionada DOF 20-01-2023. Recorrida DOF 01-12-2023
 
 XXII. Servicio de guardería: derecho de las madres y padres trabajadores asegurados, viudas y viudos o divorciados con la custodia de sus hijos, durante su jornada laboral.
 Fracción adicionada DOF 20-01-2023. Recorrida DOF 01-12-2023
 
-XXIII. Buzón IMSS: el sistema de comunicación electrónico implementado, administrado por el Instituto Mexicano del Seguro Social y establecido en su página de Internet, a través del cual podrá realizar la notificación de cualquier acto, requerimiento o resolución administrativa que emita en documentos digitales, e informar sobre aspectos de interés; mediante el cual, los particulares podrán presentar promociones, solicitudes, avisos o dar cumplimiento a sus obligaciones y requerimientos efectuados por el Instituto; ello, mediante documentos digitales, así como realizar consultas sobre su situación fiscal y administrativa ante el Instituto, y Fracción adicionada DOF 07-06-2024
+XXIII. Buzón IMSS: el sistema de comunicación electrónico implementado, administrado por el Instituto Mexicano del Seguro Social y establecido en su página de Internet, a través del cual podrá realizar la notificación de cualquier acto, requerimiento o resolución administrativa que emita en documentos digitales, e informar sobre aspectos de interés; mediante el cual, los particulares podrán presentar promociones, solicitudes, avisos o dar cumplimiento a sus obligaciones y requerimientos efectuados por el Instituto; ello, mediante documentos digitales, así como realizar consultas sobre su situación fiscal y administrativa ante el Instituto, y
+Fracción adicionada DOF 07-06-2024
 
 XXIV. Personas Particulares: las y los derechohabientes, patrones, sujetos obligados, contadores públicos, contadores públicos autorizados, responsables solidarios, terceros relacionados, sean personas físicas o morales y representantes legales que realicen actuaciones ante el Instituto mediante el Buzón IMSS.
-Fracción adicionada DOF 07-06-2024 Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
-Párrafo adicionado DOF 20-01-2023 Artículo adicionado DOF 20-12-2001
+Fracción adicionada DOF 07-06-2024
+Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
+Párrafo adicionado DOF 20-01-2023
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 6
 . El Seguro Social comprende:
@@ -137,7 +141,8 @@ Fracción reformada DOF 20-12-2001
 II. Los socios de sociedades cooperativas;
 Fracción reformada DOF 20-12-2001, 02-07-2019
 
-III. Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes, y Fracción reformada DOF 20-12-2001, 02-07-2019
+III. Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes, y
+Fracción reformada DOF 20-12-2001, 02-07-2019
 
 IV. Las personas trabajadoras del hogar.
 Fracción adicionada DOF 02-07-2019
@@ -203,8 +208,10 @@ VII. Cumplir con las obligaciones que les impone el capítulo sexto del Título 
 VIII. Cumplir con las demás disposiciones de esta Ley y sus reglamentos, y
 
 IX. Expedir y entregar, tratándose de personas trabajadoras temporales o eventuales de la ciudad o del campo, constancia de los días laborados de acuerdo con lo que establezcan los reglamentos respectivos.
-Fracción reformada DOF 20-12-2001, 24-01-2024 Las disposiciones contenidas en las fracciones I, II, III y VI no son aplicables en los casos de construcción, ampliación o reparación de inmuebles, cuando los trabajos se realicen en forma personal por el propietario, o bien, obras realizadas por cooperación comunitaria, debiéndose comprobar el hecho, en los términos del reglamento respectivo.
-Párrafo reformado DOF 20-12-2001 La información a que se refieren las fracciones I, II, III y IV, deberá proporcionarse al Instituto en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, conforme a las disposiciones de esta Ley y sus reglamentos.
+Fracción reformada DOF 20-12-2001, 24-01-2024
+Las disposiciones contenidas en las fracciones I, II, III y VI no son aplicables en los casos de construcción, ampliación o reparación de inmuebles, cuando los trabajos se realicen en forma personal por el propietario, o bien, obras realizadas por cooperación comunitaria, debiéndose comprobar el hecho, en los términos del reglamento respectivo.
+Párrafo reformado DOF 20-12-2001
+La información a que se refieren las fracciones I, II, III y IV, deberá proporcionarse al Instituto en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, conforme a las disposiciones de esta Ley y sus reglamentos.
 Párrafo reformado DOF 20-12-2001
 
 ### Artículo 15 A
@@ -242,7 +249,8 @@ Artículo reformado DOF 20-12-2001
 
 ### Artículo 18
 . Los trabajadores tienen el derecho de solicitar al Instituto su inscripción, comunicar las modificaciones de su salario y demás condiciones de trabajo y, en su caso, presentar la documentación que acredite dicha relación, demuestre el período laborado y los salarios percibidos. Lo anterior no libera a los patrones del cumplimiento de sus obligaciones ni les exime de las sanciones y responsabilidades en que hubieran incurrido.
-Párrafo reformado DOF 20-12-2001 Asimismo el trabajador por conducto del Instituto podrá realizar los trámites administrativos necesarios para ejercer los derechos derivados de las pensiones establecidas por esta Ley.
+Párrafo reformado DOF 20-12-2001
+Asimismo el trabajador por conducto del Instituto podrá realizar los trámites administrativos necesarios para ejercer los derechos derivados de las pensiones establecidas por esta Ley.
 
 ### Artículo 19
 . Para los efectos de esta Ley, las sociedades cooperativas pagarán la cuota correspondiente a los patrones, y cada uno de los socios a que se refiere la fracción II del artículo 12 de esta Ley cubrirán sus cuotas como trabajadores.
@@ -262,7 +270,8 @@ I. Se trate de juicios y procedimientos en que el Instituto fuere parte;
 
 II. Se hubieran celebrado convenios de colaboración con la Federación, entidades federativas o municipios o sus respectivas administraciones públicas, para el intercambio de información relacionada con el cumplimiento de sus objetivos, con las restricciones pactadas en los convenios en los cuales se incluirá invariablemente una cláusula de confidencialidad y no difusión de la información intercambiada;
 
-III. Lo soliciten la Secretaría de la Función Pública, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones, y Fracción reformada DOF 09-04-2012
+III. Lo soliciten la Secretaría de la Función Pública, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones, y
+Fracción reformada DOF 09-04-2012
 
 IV. En los casos previstos en ley.
 El Instituto podrá celebrar convenios de colaboración con los sectores social o privado para el intercambio de información estadística, relacionada con el cumplimiento de sus objetivos, con la restricción a que se refiere el primer párrafo de este artículo y aquellas pactadas en los propios convenios.
@@ -333,7 +342,8 @@ III. Si por la naturaleza o peculiaridades de las labores, el salario no se esti
 
 I. Cuando además de los elementos fijos del salario el trabajador percibiera regularmente otras retribuciones periódicas de cuantía previamente conocida, éstas se sumarán a dichos elementos fijos;
 
-II. Si por la naturaleza del trabajo, el salario se integra con elementos variables que no puedan ser previamente conocidos, se sumarán los ingresos totales percibidos durante los dos meses inmediatos anteriores y se dividirán entre el número de días de salario devengado en ese período. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda en dicho período, y Fracción reformada DOF 20-12-2001
+II. Si por la naturaleza del trabajo, el salario se integra con elementos variables que no puedan ser previamente conocidos, se sumarán los ingresos totales percibidos durante los dos meses inmediatos anteriores y se dividirán entre el número de días de salario devengado en ese período. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda en dicho período, y
+Fracción reformada DOF 20-12-2001
 
 III. En los casos en que el salario de un trabajador se integre con elementos fijos y variables, se considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos el promedio obtenido de los variables en términos de lo que se establece en la fracción anterior.
 
@@ -469,7 +479,8 @@ Artículo adicionado DOF 20-12-2001
 
 ### Artículo 40 F
 En ningún caso el Instituto podrá liberar a los patrones del pago de las cuotas obrero patronales. Tampoco podrá condonar, total o parcialmente, la actualización de las cuotas ni los recargos correspondientes.
-Artículo adicionado DOF 20-12-2001 CAPITULO III DEL SEGURO DE RIESGOS DE TRABAJO SECCION PRIMERA GENERALIDADES
+Artículo adicionado DOF 20-12-2001
+CAPITULO III DEL SEGURO DE RIESGOS DE TRABAJO SECCION PRIMERA GENERALIDADES
 
 ### Artículo 41
 . Riesgos de trabajo son los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo del trabajo.
@@ -483,7 +494,8 @@ También se considerará accidente de trabajo el que se produzca al trasladarse 
 
 ### Artículo 44
 . Cuando el trabajador asegurado no esté conforme con la calificación que del accidente o enfermedad haga el Instituto de manera definitiva, podrá interponer el recurso de inconformidad.
-Párrafo reformado DOF 18-06-2009 En el supuesto a que se refiere el párrafo anterior, entre tanto se tramita el recurso o el juicio respectivo, el Instituto otorgará al trabajador asegurado o a sus beneficiarios legales las prestaciones a que tuvieran derecho en los seguros de enfermedades y maternidad o invalidez y vida, siempre y cuando se satisfagan los requisitos señalados por esta Ley.
+Párrafo reformado DOF 18-06-2009
+En el supuesto a que se refiere el párrafo anterior, entre tanto se tramita el recurso o el juicio respectivo, el Instituto otorgará al trabajador asegurado o a sus beneficiarios legales las prestaciones a que tuvieran derecho en los seguros de enfermedades y maternidad o invalidez y vida, siempre y cuando se satisfagan los requisitos señalados por esta Ley.
 En cuanto a los demás seguros se estará a lo que se resuelva en la inconformidad o en los medios de defensa establecidos en el artículo 294 de esta Ley.
 
 ### Artículo 45
@@ -570,7 +582,8 @@ I. Si lo incapacita para trabajar recibirá mientras dure la inhabilitación, el
 El goce de este subsidio se otorgará al asegurado entre tanto no se declare que se encuentra capacitado para trabajar, o bien se declare la incapacidad permanente parcial o total, lo cual deberá realizarse dentro del término de cincuenta y dos semanas que dure la atención médica como consecuencia del accidente, sin perjuicio de que una vez determinada la incapacidad que corresponda, continúe su atención o rehabilitación conforme a lo dispuesto por el artículo 61 de la presente Ley;
 
 II. Al declararse la incapacidad permanente total del asegurado, éste recibirá una pensión mensual definitiva equivalente al setenta por ciento del salario en que estuviere cotizando en el momento de ocurrir el riesgo. En el caso de enfermedades de trabajo, se calculará con el promedio del salario base de cotización de las cincuenta y dos últimas semanas o las que tuviere si su aseguramiento fuese por un tiempo menor para determinar el monto de la pensión. Igualmente, el incapacitado deberá contratar un seguro de sobrevivencia para el caso de su fallecimiento, que otorgue a sus beneficiarios las pensiones y demás prestaciones económicas a que tengan derecho en los términos de esta Ley.
-Párrafo reformado DOF 20-12-2001 La pensión, el seguro de sobrevivencia y las prestaciones económicas a que se refiere el párrafo anterior se otorgarán por la institución de seguros que elija el trabajador. Para contratar los seguros de renta vitalicia y sobrevivencia el Instituto calculará el monto constitutivo necesario para su contratación. Al monto constitutivo se le restará el saldo acumulado en la cuenta individual del trabajador y la diferencia positiva será la suma asegurada, que deberá pagar el Instituto a la institución de seguros elegida por el trabajador para la contratación de los seguros de renta vitalicia y de sobrevivencia. El seguro de sobrevivencia cubrirá, en caso de fallecimiento del pensionado a consecuencia del riesgo de trabajo, la pensión y demás prestaciones económicas a que se refiere este capítulo, a sus beneficiarios; si al momento de producirse el riesgo de trabajo, el asegurado hubiere cotizado cuando menos ciento cincuenta semanas, el seguro de sobrevivencia también cubrirá el fallecimiento de éste por causas distintas a riesgos de trabajo o enfermedades profesionales.
+Párrafo reformado DOF 20-12-2001
+La pensión, el seguro de sobrevivencia y las prestaciones económicas a que se refiere el párrafo anterior se otorgarán por la institución de seguros que elija el trabajador. Para contratar los seguros de renta vitalicia y sobrevivencia el Instituto calculará el monto constitutivo necesario para su contratación. Al monto constitutivo se le restará el saldo acumulado en la cuenta individual del trabajador y la diferencia positiva será la suma asegurada, que deberá pagar el Instituto a la institución de seguros elegida por el trabajador para la contratación de los seguros de renta vitalicia y de sobrevivencia. El seguro de sobrevivencia cubrirá, en caso de fallecimiento del pensionado a consecuencia del riesgo de trabajo, la pensión y demás prestaciones económicas a que se refiere este capítulo, a sus beneficiarios; si al momento de producirse el riesgo de trabajo, el asegurado hubiere cotizado cuando menos ciento cincuenta semanas, el seguro de sobrevivencia también cubrirá el fallecimiento de éste por causas distintas a riesgos de trabajo o enfermedades profesionales.
 Cuando el trabajador tenga una cantidad acumulada en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta vitalicia que sea superior a la pensión a que tenga derecho, en los términos de este capítulo, así como para contratar el seguro de sobrevivencia podrá optar por:
 
 a) Retirar la suma excedente en una sola exhibición de su cuenta individual;
@@ -631,7 +644,8 @@ Deberá otorgarse o extenderse el goce de esta pensión, en los términos del re
 V. En el caso de las dos fracciones anteriores, si posteriormente falleciera el otro progenitor, la pensión de orfandad se aumentará del veinte al treinta por ciento, a partir de la fecha del fallecimiento del segundo progenitor y se extinguirá en los términos establecidos en las mismas fracciones, y
 
 VI. A cada uno de los huérfanos, cuando lo sean de padre y madre, menores de dieciséis años o hasta veinticinco años si se encuentran estudiando en los planteles del sistema educativo nacional, o en tanto se encuentren totalmente incapacitados debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, que les impida mantenerse por su propio trabajo se les otorgará una pensión equivalente al treinta por ciento de la que hubiera correspondido al asegurado tratándose de incapacidad permanente total.
-Fracción reformada DOF 27-05-2011 El derecho al goce de las pensiones a que se refiere el párrafo anterior, se extinguirá en los mismos términos expresados en las fracciones III y IV de este precepto.
+Fracción reformada DOF 27-05-2011
+El derecho al goce de las pensiones a que se refiere el párrafo anterior, se extinguirá en los mismos términos expresados en las fracciones III y IV de este precepto.
 Al término de las pensiones de orfandad establecidas en este artículo, se otorgará al huérfano un pago adicional de tres mensualidades de la pensión que disfrutaba.
 A las personas señaladas en las fracciones II y VI de este artículo, así como a los ascendientes pensionados en los términos del artículo 66, se les otorgará un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
@@ -641,9 +655,11 @@ Artículo reformado DOF 20-01-2023
 
 ### Artículo 66
 . El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento de la o el asegurado, no excederá de la que correspondería a éste sí hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones.
-Párrafo reformado DOF 20-01-2023 Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones.
+Párrafo reformado DOF 20-01-2023
+Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones.
 A falta de viuda o viudo, huérfanos, concubina o concubinario con derecho a pensión, o de quien haya suscrito una unión civil, a cada uno de los ascendientes que dependían económicamente del trabajador fallecido, se le pensionará con una cantidad igual al veinte por ciento de la pensión que hubiese correspondido al asegurado, en el caso de incapacidad permanente total.
-Párrafo reformado DOF 20-01-2023 Tratándose de la viuda o del viudo, o de la concubina o concubinario, o de quien haya suscrito una unión civil y que sobreviva, la pensión se pagará mientras éstos no contraigan matrimonio o suscriban una unión civil o vivan en concubinato. Al contraer matrimonio o al suscribir alguna unión civil, cualquiera de los beneficiarios mencionados recibirá una suma global equivalente a tres anualidades de la pensión otorgada. En esta última situación, la aseguradora respectiva deberá devolver al Instituto el fondo de reserva de las obligaciones futuras pendientes de cubrir, previo descuento de la suma global que se otorgue.
+Párrafo reformado DOF 20-01-2023
+Tratándose de la viuda o del viudo, o de la concubina o concubinario, o de quien haya suscrito una unión civil y que sobreviva, la pensión se pagará mientras éstos no contraigan matrimonio o suscriban una unión civil o vivan en concubinato. Al contraer matrimonio o al suscribir alguna unión civil, cualquiera de los beneficiarios mencionados recibirá una suma global equivalente a tres anualidades de la pensión otorgada. En esta última situación, la aseguradora respectiva deberá devolver al Instituto el fondo de reserva de las obligaciones futuras pendientes de cubrir, previo descuento de la suma global que se otorgue.
 Párrafo reformado DOF 20-12-2001, 20-01-2023
 
 ### Artículo 67
@@ -655,7 +671,8 @@ SECCION CUARTA DEL INCREMENTO PERIODICO DE LAS PENSIONES
 
 ### Artículo 69
 . Las pensiones de viudez, orfandad y ascendientes del asegurado o asegurada por riesgos de trabajo serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el artículo anterior.
-Artículo reformado DOF 20-01-2023 SECCION QUINTA DEL REGIMEN FINANCIERO
+Artículo reformado DOF 20-01-2023
+SECCION QUINTA DEL REGIMEN FINANCIERO
 
 ### Artículo 70
 . Las prestaciones del seguro de riesgos de trabajo, inclusive los capitales constitutivos de las rentas líquidas al fin de año y los gastos administrativos, serán cubiertos íntegramente por las cuotas que para este efecto aporten los patrones y demás sujetos obligados.
@@ -687,7 +704,8 @@ Párrafo adicionado DOF 20-12-2001
 ### Artículo 74
 . Las empresas tendrán la obligación de revisar anualmente su siniestralidad, conforme al período y dentro del plazo que señale el reglamento, para determinar si permanecen en la misma prima, se disminuye o aumenta.
 La prima conforme a la cual estén cubriendo sus cuotas las empresas podrá ser modificada, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento con respecto a la del año inmediato anterior, tomando en consideración los riesgos de trabajo terminados durante el lapso que fije el reglamento respectivo, con independencia de la fecha en que éstos hubieran ocurrido y la comprobación documental del establecimiento de programas o acciones preventivas de accidentes y enfermedades de trabajo. Estas modificaciones no podrán exceder los límites fijados para la prima mínima y máxima, que serán de cero punto cinco por ciento y quince por ciento de los salarios base de cotización respectivamente.
-Párrafo reformado DOF 20-12-2001 La siniestralidad se fijará conforme al reglamento de la materia.
+Párrafo reformado DOF 20-12-2001
+La siniestralidad se fijará conforme al reglamento de la materia.
 
 ### Artículo 75
 . La determinación de las clases comprenderá una lista de los diversos tipos de actividades y ramas industriales, catalogándolas en razón de la mayor o menor peligrosidad a que están expuestos los trabajadores, y asignando a cada uno de los grupos que formen dicha lista, una clase determinada. Este supuesto sólo se aplicará a las empresas que se inscriben por primera vez en el Instituto o cambien de actividad.
@@ -695,13 +713,15 @@ Reforma DOF 23-04-2021: Derogó del artículo el entonces párrafo segundo (ante
 
 ### Artículo 76
 . El Consejo Técnico del Instituto promoverá ante las instancias competentes y éstas ante el H. Congreso de la Unión, cada tres años, la revisión de la fórmula para el cálculo de la prima, para asegurar que se mantenga o restituya en su caso, el equilibrio financiero de este seguro, tomando en cuenta a todas las empresas del país. Para tal efecto se considerará la opinión que al respecto sustente el Comité Consultivo del Seguro de Riesgos de Trabajo, el cual estará integrado de manera tripartita.
-Párrafo reformado DOF 20-12-2001 Si la Asamblea General lo autorizare, el Consejo Técnico podrá promover la revisión a que alude este artículo en cualquier tiempo, tomando en cuenta la experiencia adquirida.
+Párrafo reformado DOF 20-12-2001
+Si la Asamblea General lo autorizare, el Consejo Técnico podrá promover la revisión a que alude este artículo en cualquier tiempo, tomando en cuenta la experiencia adquirida.
 
 ### Artículo 77
 . El patrón que estando obligado a asegurar a sus trabajadores contra riesgos de trabajo no lo hiciera, deberá enterar al Instituto, en caso de que ocurra el siniestro, los capitales constitutivos de las prestaciones en dinero y en especie, de conformidad con lo dispuesto en la presente Ley, sin perjuicio de que el Instituto otorgue desde luego las prestaciones a que haya lugar.
 La misma regla se observará cuando el patrón asegure a sus trabajadores en forma tal que se disminuyan las prestaciones a que los trabajadores asegurados o sus beneficiarios tuvieran derecho, limitándose los capitales constitutivos, en este caso, a la suma necesaria para completar las prestaciones correspondientes señaladas en la Ley.
 Esta regla se aplicará tratándose de recaídas por riesgos de trabajo, con el mismo patrón con el que ocurrió el riesgo o con otro distinto.
-Párrafo adicionado DOF 20-12-2001 Los avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, entregados al Instituto después de ocurrido el siniestro, en ningún caso liberarán al patrón de la obligación de pagar los capitales constitutivos, aun cuando los hubiese presentado dentro de los plazos que señalan los artículos 15 fracción I y 34 fracciones I a III de este ordenamiento legal.
+Párrafo adicionado DOF 20-12-2001
+Los avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, entregados al Instituto después de ocurrido el siniestro, en ningún caso liberarán al patrón de la obligación de pagar los capitales constitutivos, aun cuando los hubiese presentado dentro de los plazos que señalan los artículos 15 fracción I y 34 fracciones I a III de este ordenamiento legal.
 El Instituto determinará el monto de los capitales constitutivos y los hará efectivos, en la forma y términos previstos en esta Ley y sus reglamentos.
 
 ### Artículo 78
@@ -735,10 +755,14 @@ XI. Valor actual de la pensión, que es la cantidad calculada a la fecha del sin
 
 XII. El cinco por ciento del importe de los conceptos que lo integren, por gastos de administración.
 Para el fincamiento de los capitales constitutivos, el Instituto, al iniciar la atención del asegurado o, en su caso, del beneficiario, por conducto de sus servicios médicos, establecerá el diagnóstico y el tratamiento requerido especificando su duración, tipo y número de las prestaciones en especie a otorgar, así como las secuelas orgánicas o funcionales derivadas del siniestro y procederá a determinar el importe de dichas prestaciones con base en los costos unitarios por nivel de atención, aplicables para el cobro de servicios a pacientes no derechohabientes.
-Párrafo adicionado DOF 20-12-2001 Asimismo, por conducto de sus áreas de prestaciones económicas calculará el monto de las prestaciones económicas a otorgar, por concepto de subsidios, gastos de funeral, indemnización global y el valor actual de la pensión, que correspondan.
-Párrafo adicionado DOF 20-12-2001 De acuerdo a lo señalado en los párrafos anteriores, el Instituto al iniciar la atención del asegurado o, en su caso, del beneficiario, fincará y cobrará los capitales constitutivos, con independencia de que al concluir el tratamiento del asegurado o el beneficiario, en su caso, pueda fincar nuevos capitales constitutivos por las prestaciones otorgadas que no se hubiesen considerado en los créditos inicialmente emitidos.
-Párrafo adicionado DOF 20-12-2001 Las disposiciones de este artículo serán aplicables a los capitales constitutivos derivados de todos los seguros del régimen obligatorio.
-Párrafo adicionado DOF 20-12-2001 SECCION SEXTA DE LA PREVENCION DE RIESGOS DE TRABAJO
+Párrafo adicionado DOF 20-12-2001
+Asimismo, por conducto de sus áreas de prestaciones económicas calculará el monto de las prestaciones económicas a otorgar, por concepto de subsidios, gastos de funeral, indemnización global y el valor actual de la pensión, que correspondan.
+Párrafo adicionado DOF 20-12-2001
+De acuerdo a lo señalado en los párrafos anteriores, el Instituto al iniciar la atención del asegurado o, en su caso, del beneficiario, fincará y cobrará los capitales constitutivos, con independencia de que al concluir el tratamiento del asegurado o el beneficiario, en su caso, pueda fincar nuevos capitales constitutivos por las prestaciones otorgadas que no se hubiesen considerado en los créditos inicialmente emitidos.
+Párrafo adicionado DOF 20-12-2001
+Las disposiciones de este artículo serán aplicables a los capitales constitutivos derivados de todos los seguros del régimen obligatorio.
+Párrafo adicionado DOF 20-12-2001
+SECCION SEXTA DE LA PREVENCION DE RIESGOS DE TRABAJO
 
 ### Artículo 80
 . El Instituto está facultado para proporcionar servicios de carácter preventivo, individualmente o a través de procedimientos de alcance general, con el objeto de evitar la realización de riesgos de trabajo entre la población asegurada.
@@ -791,7 +815,8 @@ Fracción reformada DOF 07-06-2024
 
 VI. Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
 Del mismo derecho gozarán las y los menores sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior;
-Párrafo adicionado DOF 07-06-2024 Fracción reformada DOF 27-05-2011
+Párrafo adicionado DOF 07-06-2024
+Fracción reformada DOF 27-05-2011
 
 VII. Los hijos mayores de dieciséis años de los pensionados por invalidez, cesantía en edad avanzada y vejez, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente, en los mismos casos y condiciones establecidos en el artículo 136;
 Del mismo derecho gozarán las y los mayores de dieciséis años, sobre quienes el pensionado por invalidez, cesantía en edad avanzada y vejez, ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior;
@@ -821,7 +846,8 @@ Párrafo reformado DOF 20-12-2001
 ### Artículo 88
 . El patrón es responsable de los daños y perjuicios que se causaren al asegurado, a sus familiares derechohabientes o al Instituto, cuando por incumplimiento de la obligación de inscribirlo o de avisar los salarios efectivos o los cambios de éstos, no pudieran otorgarse las prestaciones en especie y en dinero del seguro de enfermedades y maternidad, o bien cuando el subsidio a que tuvieran derecho se viera disminuido en su cuantía.
 El Instituto, se subrogará en los derechos de los derechohabientes y concederá las prestaciones mencionadas en el párrafo anterior. En este caso, el patrón enterará al Instituto el importe de los capitales constitutivos. Dicho importe será deducible del monto de las cuotas obrero patronales omitidas hasta esa fecha que correspondan al seguro de enfermedades y maternidad, del trabajador de que se trate.
-Párrafo reformado DOF 20-12-2001 No procederá la determinación del capital constitutivo, cuando el Instituto otorgue a los derechohabientes las prestaciones en especie y en dinero a que tengan derecho, siempre y cuando los avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, hubiesen sido entregados al Instituto dentro de los plazos que señalan los artículos 15, fracción I y 34 de esta Ley.
+Párrafo reformado DOF 20-12-2001
+No procederá la determinación del capital constitutivo, cuando el Instituto otorgue a los derechohabientes las prestaciones en especie y en dinero a que tengan derecho, siempre y cuando los avisos de ingreso o alta de los trabajadores asegurados y los de modificaciones de su salario, hubiesen sido entregados al Instituto dentro de los plazos que señalan los artículos 15, fracción I y 34 de esta Ley.
 Párrafo adicionado DOF 20-12-2001
 
 ### Artículo 89
@@ -835,10 +861,12 @@ Fracción reformada DOF 20-12-2001
 III. Asimismo, podrá celebrar convenios con quienes tuvieren establecidos servicios médicos y hospitalarios, pudiendo convenirse, si se tratare de patrones con obligación al seguro, en la reversión de una parte de la cuota patronal y obrera en proporción a la naturaleza y cuantía de los servicios relativos. En dichos convenios se pactará, en su caso, el pago de subsidios mediante un sistema de reembolsos. Estos convenios no podrán celebrarse sin la previa anuencia de los trabajadores o de su organización representativa;
 Fracción reformada DOF 20-12-2001, 12-11-2015
 
-IV. Mediante convenios de cooperación y colaboración con instituciones y organismos de salud de los sectores públicos federal, estatal y municipal, en términos que permitan el óptimo aprovechamiento de la capacidad instalada de todas las instituciones y organismos. De igual forma, el Instituto podrá dar servicio en sus instalaciones a la población atendida por dichas instituciones y organismos, de acuerdo a su disponibilidad y sin perjuicio de su capacidad financiera, y Fracción adicionada DOF 20-12-2001. Reformada DOF 12-11-2015
+IV. Mediante convenios de cooperación y colaboración con instituciones y organismos de salud de los sectores públicos federal, estatal y municipal, en términos que permitan el óptimo aprovechamiento de la capacidad instalada de todas las instituciones y organismos. De igual forma, el Instituto podrá dar servicio en sus instalaciones a la población atendida por dichas instituciones y organismos, de acuerdo a su disponibilidad y sin perjuicio de su capacidad financiera, y
+Fracción adicionada DOF 20-12-2001. Reformada DOF 12-11-2015
 
 V. Para el Instituto, será obligatoria la atención de las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en términos de las disposiciones aplicables para tal efecto, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
-Fracción adicionada DOF 12-11-2015 En todo caso, las personas, empresas o entidades a que se refiere este artículo, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el mismo Instituto, en los términos de los reglamentos que con respecto a los servicios médicos se expidan.
+Fracción adicionada DOF 12-11-2015
+En todo caso, las personas, empresas o entidades a que se refiere este artículo, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el mismo Instituto, en los términos de los reglamentos que con respecto a los servicios médicos se expidan.
 
 ### Artículo 90
 . El Instituto elaborará los cuadros básicos de medicamentos que considere necesarios, sujetos a permanente actualización, a fin de que los productos en ellos comprendidos sean los de mayor eficacia terapéutica.
@@ -863,7 +891,8 @@ I. Asistencia obstétrica;
 II. Ayuda en especie por seis meses para lactancia y capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida;
 Fracción reformada DOF 02-04-2014
 
-III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para efectuar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y Fracción adicionada DOF 02-04-2014
+III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para efectuar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y
+Fracción adicionada DOF 02-04-2014
 
 IV. Una canastilla al nacer el hijo, cuyo importe será señalado por el Consejo Técnico.
 Fracción recorrida DOF 02-04-2014
@@ -953,7 +982,8 @@ Artículo reformado DOF 20-12-2001
 
 ### Artículo 109
 Bis. Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir la asistencia médica y de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria.
-Artículo adicionado DOF 22-06-2018 SECCION SEXTA DE LA MEDICINA PREVENTIVA
+Artículo adicionado DOF 22-06-2018
+SECCION SEXTA DE LA MEDICINA PREVENTIVA
 
 ### Artículo 110
 . Con el propósito de proteger la salud y prevenir las enfermedades y la discapacidad, los servicios de medicina preventiva del Instituto llevarán a cabo programas de difusión para la salud, prevención y rehabilitación de la discapacidad, estudios epidemiológicos, producción de inmunobiológicos, inmunizaciones, campañas sanitarias y otros programas especiales enfocados a resolver problemas médico-sociales.
@@ -962,7 +992,9 @@ Artículo adicionado DOF 22-06-2018 SECCION SEXTA DE LA MEDICINA PREVENTIVA
 . El Instituto se coordinará con la Secretaría de Salud y con otras dependencias y organismos públicos, con objeto de realizar las campañas y programas a que se refiere el artículo anterior.
 
 ## SECCIÓN SÉPTIMA — DEL REGISTRO DE LAS ACTIVIDADES PARA LA SALUD A LA POBLACIÓN
-DERECHOHABIENTE Sección adicionada DOF 20-12-2001
+
+DERECHOHABIENTE
+Sección adicionada DOF 20-12-2001
 
 ### Artículo 111 A
 El Instituto para realizar los registros, anotaciones y certificaciones relativas a la atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos, magnéticos, ópticos o magneto ópticos para integrar un expediente clínico electrónico único para cada derechohabiente, en las unidades médicas o en cualquier otra instalación que determine el Instituto.
@@ -972,7 +1004,9 @@ Al personal autorizado para el manejo de la información contenida en el expedie
 Los datos y registros que consten en el expediente clínico electrónico a que se refiere este artículo serán confidenciales y la revelación de los mismos a terceros ajenos al Instituto sin autorización expresa de las autoridades del Instituto y del derechohabiente o de quien tenga facultad legal para decidir por él, o sin causa legal que lo justifique, será sancionada en términos de la legislación penal federal como revelación de secretos, con independencia del pago de la indemnización que, en su caso, corresponda.
 De las consultas que se hagan a dichos expedientes deberá dejarse una constancia en el propio expediente de la persona, que lo consulte, la fecha de la consulta y la justificación de la misma.
 Las capturas de datos deberán efectuarse de manera que sea posible su desagregación al menos por sexo, género, edad, pertenencia étnica o afrodescendiente, discapacidad o cualquier categoría necesaria para generar una estadística que permita evaluar el impacto diferenciado en mujeres y hombres en los servicios que presta el Instituto y realizar las mejoras necesarias. Todo ello, considerando las leyes aplicables en materia de protección de datos personales en posesión de sujetos obligados.
-Párrafo adicionado DOF 15-01-2026 Artículo adicionado DOF 20-12-2001 CAPITULO V DEL SEGURO DE INVALIDEZ Y VIDA SECCION PRIMERA GENERALIDADES
+Párrafo adicionado DOF 15-01-2026
+Artículo adicionado DOF 20-12-2001
+CAPITULO V DEL SEGURO DE INVALIDEZ Y VIDA SECCION PRIMERA GENERALIDADES
 
 ### Artículo 112
 . Los riesgos protegidos en este capítulo son la invalidez y la muerte del asegurado o del pensionado por invalidez, en los términos y con las modalidades previstos en esta Ley.
@@ -997,7 +1031,8 @@ Esta disposición será aplicable a los seguros de riesgos de trabajo, invalidez
 ### Artículo 118
 . Los asegurados que obtengan una pensión definitiva por invalidez y vida o por riesgos de trabajo, así como aquellos que gocen de una pensión por retiro, cesantía en edad avanzada o vejez, podrán optar por que, con cargo a su pensión, se cubran los créditos que les hayan sido otorgados por las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 La Comisión Nacional de los Sistemas de Ahorro para el Retiro y la Comisión Nacional de Seguros y Fianzas, en el ámbito de sus respectivas competencias, podrán emitir reglas de carácter general que se requieran para la aplicación de lo dispuesto en este artículo. Dichas reglas deberán prever la forma y términos en que las Entidades Financieras señaladas en el primer párrafo de este artículo deberán comunicar al Consejo Técnico del Instituto y a las aseguradoras y administradoras de fondos para el retiro con las que celebren los convenios a que se refiere este precepto, las condiciones generales del crédito, incluyendo el Costo Anual Total aplicable a los préstamos mencionados, con objeto de que éstos, de forma clara, precisa y transparente los hagan del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
-Artículo reformado DOF 28-05-2012 SECCION SEGUNDA DEL RAMO DE INVALIDEZ
+Artículo reformado DOF 28-05-2012
+SECCION SEGUNDA DEL RAMO DE INVALIDEZ
 
 ### Artículo 119
 . Para los efectos de esta Ley existe invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo igual, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales.
@@ -1065,12 +1100,15 @@ II. Pensión de orfandad;
 
 III. Pensión a ascendientes;
 
-IV. Ayuda asistencial al pensionado o a la pensionada por viudez, en los casos en que lo requiera, de acuerdo con el dictamen médico que al efecto se formule, y Fracción reformada DOF 20-01-2023
+IV. Ayuda asistencial al pensionado o a la pensionada por viudez, en los casos en que lo requiera, de acuerdo con el dictamen médico que al efecto se formule, y
+Fracción reformada DOF 20-01-2023
 
 V. Asistencia médica, en los términos del capítulo IV de este Título.
 En caso de fallecimiento de un asegurado o de una asegurada, las pensiones a que se refieren las fracciones I, II y III de este artículo se otorgarán por la institución de seguros que elijan los beneficiarios para la contratación de su renta vitalicia. A tal efecto, se deberán integrar un monto constitutivo en la aseguradora elegida, el cual deberá ser suficiente para cubrir la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo. Para ello, el Instituto Mexicano del Seguro Social otorgará una suma asegurada que, adicionada a los recursos acumulados en la cuenta individual del trabajador fallecido, deberá ser suficiente para integrar el monto constitutivo con cargo al cual se pagará la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo, por la institución de seguros.
-Párrafo reformado DOF 20-01-2023 Cuando el trabajador o la trabajadora fallecidos, hayan tenido un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta que sea superior a la pensión a que tengan derecho sus beneficiarios, en los términos de este capítulo, estos podrán retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador o trabajadora fallecidos, o contratar una renta por una suma mayor.
-Párrafo reformado DOF 20-01-2023 La renta vitalicia se sujetará a lo dispuesto en el artículo 159 fracción IV de esta Ley.
+Párrafo reformado DOF 20-01-2023
+Cuando el trabajador o la trabajadora fallecidos, hayan tenido un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta que sea superior a la pensión a que tengan derecho sus beneficiarios, en los términos de este capítulo, estos podrán retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador o trabajadora fallecidos, o contratar una renta por una suma mayor.
+Párrafo reformado DOF 20-01-2023
+La renta vitalicia se sujetará a lo dispuesto en el artículo 159 fracción IV de esta Ley.
 En caso de fallecimiento de un pensionado por riesgos de trabajo, invalidez, retiro, cesantía en edad avanzada y vejez, las pensiones a que se refieren las fracciones I, II, y III de este artículo se otorgarán con cargo al seguro de sobrevivencia que haya contratado el pensionado fallecido.
 
 ### Artículo 128
@@ -1100,7 +1138,8 @@ II. Se deroga.
 Fracción derogada DOF 24-03-2023
 
 III. Se deroga.
-Fracción derogada DOF 24-03-2023 Las limitaciones que establece este Artículo no regirán cuando al morir el asegurado o pensionado la viuda compruebe haber tenido hijos con él.
+Fracción derogada DOF 24-03-2023
+Las limitaciones que establece este Artículo no regirán cuando al morir el asegurado o pensionado la viuda compruebe haber tenido hijos con él.
 
 ### Artículo 133
 . El derecho al goce de la pensión de viudez comenzará desde el día del fallecimiento del asegurado o pensionado por invalidez y cesará con la muerte del beneficiario, o cuando la viuda, viudo, concubina o concubinario contrajeran matrimonio o entraran en concubinato. El disfrute de esta pensión no se suspenderá porque aquéllos desempeñe un trabajo remunerado.
@@ -1125,7 +1164,8 @@ Artículo reformado DOF 20-12-2001, 20-01-2023
 
 ### Artículo 137
 Bis. Si un pensionado desaparece de su domicilio por más de un mes sin que se tengan noticias de su paradero, sus beneficiarios con derecho a la pensión, disfrutarán de la misma en los términos de la sección del ramo de vida del seguro de invalidez y vida con carácter provisional, y previa la solicitud respectiva, bastando para ello que se compruebe el parentesco y la desaparición del pensionado, exhibiendo la denuncia presentada ante el Ministerio Público correspondiente. Si posteriormente y en cualquier tiempo, el pensionado se presentase, tendrá derecho a disfrutar él mismo su pensión y a recibir las diferencias entre el importe original de la misma y aquél que hubiese sido entregado a sus beneficiarios, sin que en ningún caso pueda entenderse una obligación del Instituto respecto de aquellos importes que hubieran sido pagados a los beneficiarios. Cuando se compruebe el fallecimiento del pensionado, la transmisión será definitiva.
-Artículo adicionado DOF 07-11-2019 SECCION CUARTA DE LAS ASIGNACIONES FAMILIARES Y AYUDA ASISTENCIAL
+Artículo adicionado DOF 07-11-2019
+SECCION CUARTA DE LAS ASIGNACIONES FAMILIARES Y AYUDA ASISTENCIAL
 
 ### Artículo 138
 . Las asignaciones familiares consisten en una ayuda por concepto de carga familiar y se concederá a los beneficiarios del pensionado o pensionada por invalidez, de acuerdo con las reglas siguientes:
@@ -1139,7 +1179,8 @@ II. Para cada uno de los hijos menores de dieciséis años del pensionado, el di
 III. Si el pensionado o pensionada no tuviera cónyuge o no mantuviere relación de concubinato o no haya suscrito una unión civil, ni tuviera hijos menores de dieciséis años, se concederá una asignación del diez por ciento para cada uno de los padres de la o el pensionado si dependieran económicamente de él o de ella;
 Fracción reformada DOF 20-01-2023
 
-IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y Fracción reformada DOF 20-01-2023
+IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y
+Fracción reformada DOF 20-01-2023
 
 V. Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignación familiar, se le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión que deba disfrutar.
 Estas asignaciones familiares se entregarán de preferencia al propio pensionado, pero la correspondiente a los hijos podrá entregarse a la persona o institución que los tenga bajo su cargo directo, en el caso de no vivir con el pensionado.
@@ -1172,12 +1213,15 @@ II. Por ocurrir el fallecimiento del menor;
 III. Cuando el menor cumpla dieciséis años;
 
 IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo patrón.
-Artículo adicionado DOF 04-06-2019 SECCION QUINTA DE LA CUANTIA DE LAS PENSIONES DE INVALIDEZ Y VIDA
+Artículo adicionado DOF 04-06-2019
+SECCION QUINTA DE LA CUANTIA DE LAS PENSIONES DE INVALIDEZ Y VIDA
 
 ### Artículo 141
 . La cuantía de la pensión por invalidez será igual a una cuantía básica del treinta y cinco por ciento del promedio de los salarios correspondientes a las últimas quinientas semanas de cotización anteriores al otorgamiento de la misma, o las que tuviere siempre que sean suficientes para ejercer el derecho, en los términos del artículo 122 de esta Ley, actualizadas conforme al Índice Nacional de Precios al Consumidor, más las asignaciones familiares y ayudas asistenciales.
-Párrafo reformado DOF 20-12-2001 En el caso de que la cuantía de la pensión sea inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley, el Estado aportará la diferencia a fin de que el trabajador pueda adquirir una pensión vitalicia.
-Párrafo reformado DOF 16-12-2020 En ningún caso la pensión de invalidez, incluyendo las asignaciones familiares y ayudas asistenciales, podrá ser inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
+Párrafo reformado DOF 20-12-2001
+En el caso de que la cuantía de la pensión sea inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley, el Estado aportará la diferencia a fin de que el trabajador pueda adquirir una pensión vitalicia.
+Párrafo reformado DOF 16-12-2020
+En ningún caso la pensión de invalidez, incluyendo las asignaciones familiares y ayudas asistenciales, podrá ser inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
 Párrafo reformado DOF 16-12-2020
 
 ### Artículo 142
@@ -1207,7 +1251,8 @@ SECCION SEXTA DEL REGIMEN FINANCIERO
 ### Artículo 149
 . El patrón es responsable de los daños y perjuicios que se causaren al trabajador o a sus familiares derechohabientes, cuando por falta de cumplimiento de la obligación de inscribirlo o de avisar su salario real o los cambios que sufriera éste, no pudieran otorgarse las prestaciones consignadas en este capítulo o bien dichas prestaciones se vieran disminuidas en su cuantía.
 El Instituto se subrogará en sus derechos y le otorgará las prestaciones que le correspondan. En este caso, el patrón está obligado a enterar al Instituto los capitales constitutivos respectivos.
-Párrafo reformado DOF 20-12-2001 Las disposiciones del artículo 79 de esta Ley y demás relativas para la integración, determinación y cobro de los capitales constitutivos son aplicables al seguro de invalidez y vida.
+Párrafo reformado DOF 20-12-2001
+Las disposiciones del artículo 79 de esta Ley y demás relativas para la integración, determinación y cobro de los capitales constitutivos son aplicables al seguro de invalidez y vida.
 SECCION SEPTIMA DE LA CONSERVACION Y RECONOCIMIENTO DE DERECHOS
 
 ### Artículo 150
@@ -1237,8 +1282,10 @@ SECCION SEGUNDA DEL RAMO DE CESANTIA EN EDAD AVANZADA
 
 ### Artículo 154
 . Para los efectos de esta Ley existe cesantía en edad avanzada cuando el asegurado quede privado de trabajos remunerados a partir de los sesenta años de edad.
-Párrafo reformado DOF 20-12-2001 Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el Instituto un mínimo de mil cotizaciones semanales.
-Párrafo reformado DOF 16-12-2020 El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión.
+Párrafo reformado DOF 20-12-2001
+Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el Instituto un mínimo de mil cotizaciones semanales.
+Párrafo reformado DOF 16-12-2020
+El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión.
 En este caso, si el asegurado tiene cotizadas un mínimo de setecientas cincuenta semanas tendrá derecho a las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del capítulo IV de este Título.
 
 ### Artículo 155
@@ -1263,7 +1310,8 @@ I. Contratar con la institución de seguros de su elección una renta vitalicia,
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 Los supuestos referidos, se sujetarán a lo establecido en esta Ley y a las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
-Párrafo reformado DOF 16-12-2020 El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
+Párrafo reformado DOF 16-12-2020
+El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo con la tabla establecida en el artículo 170 de esta Ley.
 Párrafo reformado DOF 16-12-2020
 
 ### Artículo 158
@@ -1276,7 +1324,8 @@ Artículo reformado DOF 16-12-2020
 . Para efectos de esta Ley, se entenderá por:
 
 I. Cuenta individual, aquella que se abrirá para cada asegurado en las Administradoras de Fondos para el Retiro, para que se depositen en la misma las cuotas obrero-patronales y, en su caso, la estatal por concepto del seguro de retiro, cesantía en edad avanzada y vejez, así como los rendimientos. La cuenta individual se integrará por las subcuentas: de retiro, cesantía en edad avanzada y vejez; de vivienda y de aportaciones voluntarias.
-Párrafo reformado DOF 16-12-2020 Respecto de la subcuenta de vivienda las Administradoras de Fondos para el Retiro deberán hacer entrega de los recursos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores en los términos de su propia Ley.
+Párrafo reformado DOF 16-12-2020
+Respecto de la subcuenta de vivienda las Administradoras de Fondos para el Retiro deberán hacer entrega de los recursos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores en los términos de su propia Ley.
 
 II. Individualizar, el proceso mediante el cual se identifica la parte que se abona a las subcuentas correspondientes a cada trabajador de los pagos efectuados por el patrón y el estado, así como los rendimientos financieros que se generen.
 
@@ -1314,7 +1363,8 @@ IV. Ayuda asistencial.
 
 ### Artículo 162
 . Para tener derecho al goce de las prestaciones del seguro de vejez, se requiere que el asegurado haya cumplido sesenta y cinco años de edad y tenga reconocidas por el Instituto un mínimo de mil cotizaciones semanales.
-Párrafo reformado DOF 16-12-2020 En caso que el asegurado tenga sesenta y cinco años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión. Si el asegurado tiene cotizadas un mínimo de setecientas cincuenta semanas tendrá derecho a las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del capítulo IV de este Título.
+Párrafo reformado DOF 16-12-2020
+En caso que el asegurado tenga sesenta y cinco años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión. Si el asegurado tiene cotizadas un mínimo de setecientas cincuenta semanas tendrá derecho a las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del capítulo IV de este Título.
 
 ### Artículo 163
 . El otorgamiento de la pensión de vejez sólo se podrá efectuar previa solicitud del asegurado y se le cubrirá a partir de la fecha en que haya dejado de trabajar, siempre que cumpla con los requisitos señalados en el artículo 162 de esta Ley.
@@ -1328,20 +1378,25 @@ I. Contratar con una compañía de seguros pública, social o privada de su elec
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 Los supuestos referidos se sujetarán a lo establecido en esta Ley y de conformidad con las reglas de carácter general que expida la Comisión Nacional del Sistema de Ahorro para el Retiro.
 Aclaración al párrafo DOF 16-01-1996. Reformado DOF 16-12-2020 El asegurado que elija la opción prevista en la fracción II o ambas podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I, excepto cuando la renta mensual vitalicia a convenirse fuera inferior a la pensión garantizada que le corresponda conforme a las semanas de cotización, al salario base de cotización y a la edad de sesenta y cinco años, de la tabla establecida en el artículo 170 de esta Ley.
-Párrafo reformado DOF 16-12-2020 SECCION CUARTA DE LA AYUDA PARA GASTOS DE MATRIMONIO
+Párrafo reformado DOF 16-12-2020
+SECCION CUARTA DE LA AYUDA PARA GASTOS DE MATRIMONIO
 
 ### Artículo 165
 . La o el asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio o unión civil, y proveniente de la cuota social aportada por el gobierno federal en su cuenta individual, una cantidad equivalente a treinta días de salario mínimo general, conforme a los siguientes requisitos:
 Párrafo reformado DOF 26-05-2009, 16-12-2020, 20-01-2023
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
-II.- Que compruebe con documentos fehacientes la muerte de la persona que registró como cónyuge en el Instituto, o que, en su caso, exhiba el acta de divorcio, y Fracción reformada DOF 11-08-2006 III.- Que cualquiera de los cónyuges no haya sido registrado con anterioridad en el Instituto con esa calidad.
-Fracción reformada DOF 11-08-2006 Este derecho se ejercerá por una sola vez y el asegurado o asegurada no tendrá derecho por posteriores matrimonios o uniones civiles.
+II.- Que compruebe con documentos fehacientes la muerte de la persona que registró como cónyuge en el Instituto, o que, en su caso, exhiba el acta de divorcio, y
+Fracción reformada DOF 11-08-2006
+III.- Que cualquiera de los cónyuges no haya sido registrado con anterioridad en el Instituto con esa calidad.
+Fracción reformada DOF 11-08-2006
+Este derecho se ejercerá por una sola vez y el asegurado o asegurada no tendrá derecho por posteriores matrimonios o uniones civiles.
 Párrafo reformado DOF 20-01-2023
 
 ### Artículo 166
 . El asegurado o asegurada que deje de pertenecer al régimen obligatorio conservará sus derechos a la ayuda para gastos de matrimonio o de unión civil, si los firma dentro de noventa días hábiles contados a partir de la fecha de su baja.
-Párrafo reformado DOF 20-01-2023 El asegurado que suministre datos falsos en relación a su estado civil, pierde todo derecho a la ayuda para gastos de matrimonio.
+Párrafo reformado DOF 20-01-2023
+El asegurado que suministre datos falsos en relación a su estado civil, pierde todo derecho a la ayuda para gastos de matrimonio.
 SECCION QUINTA DEL REGIMEN FINANCIERO
 
 ### Artículo 167
@@ -1364,8 +1419,8 @@ III. Se deroga.
 Fracción derogada DOF 16-12-2020
 
 IV. El Gobierno Federal, por cada día de salario cotizado, aportará mensualmente una cantidad por concepto de la cuota social, para los trabajadores que ganen hasta cuatro veces la unidad de medida y actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
-
 Salario base de cotización del trabajador Cuota Social
+
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | --- | --- | --- | --- | --- | --- |
 | 1.01 SM | a | 1.50 | UMA" | $ | 10.00 |
@@ -1387,20 +1442,17 @@ SECCION SEXTA DE LA PENSION GARANTIZADA
 
 ### Artículo 170
 . Pensión garantizada es aquélla que el Estado asegura a quienes tengan sesenta año s de edad, hayan cotizado mil o más semanas y que se calculará conforme a la tabla prevista en e culo, considerando el promedio de su salario base de cotización durante su afiliación al Instituto. P os efectos, el salario señalado se actualizará conforme al Indice Nacional de Precios al Consumidc echa en que se pensione el trabajador.
-
-
 Semanas de Cotización
+
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 1,000 | 1,025 | 1,050 | 1,075 | 1,100 | 1,125 | 1,180 | 1,175 | 1,200 | 1,225 | 125 |
 
 Salario Base de Pensión garantizada mensual en pesos Cotización 15Madog | 60 2,622 ZT16 2,809 2,903 2,997 3,090 3,184 3,278 3371 3,465 3,559 UMA‘ E 2,560 2753 2,847 7941 3034 3128 3721 3,315 3409 3,502 3,596 62 2,537 2,71 2,5884 2,978 3077 3,765 3,259 1353 3446 3540 1,684 63 | 2,734 2,828 2,922 3,015 3,109 3,203 3,298 3,390 3,484 4,877 3,671 54 2,772 2,556 2,959 3,053 3,747 3,240 3,934 3,427 3,821 3,516 3,708 SS | 2809 2903 2,997 3,090 3,484 3,278 3,371 3,465 3,559 3,652 3,746 60 3,409 3,530 3,652 ara 3,896. 4,017 4,139 4,261 4,383 4,504 4,626 61 3,457 3,578 3,701 3,6823 3,944 4,066 4,188 4,310 4,431 4,553 4,675 62 3,606 3,628 3,750 3,874 3,993 4,115 4,237 4,558 4,480 4,602 4,724 20az99 UMA 63 | 3,555 3,677 3,798 3,920 4,042 4,464 4,285 4,407 4,529 4,651 4,772 Ed 3,604 3725 1,847 3,969 4,094 4212 4,334 4,456 4,577 4,699 4,821 ee 3,652 3,774 3,696 4,017 4439 4,264 4,383 4,504 4,626 4,748 4,870 60 | 4195 4,345 4,495 4.645 4,795 4,945 5,094 5,244 5,394 5,544 5,604 61 4,255 4405 4,555 4,705 4,855 5,005 5,154 5,304 5454 5604 5,754 62 | 4,315 4485 4,815 4,765 4,915 5084 5,214 5,364 5,514 5,684 5,514 aha xe “UMA 63 4,375 4,525 4,675 4,825 4,975 5,124 5274 5474 5,574 5,724 5,874 Ed 4435 4,585 4,735 4885 5,034 5,184 5,334 5,48 5,534 5,784 6,933 wine | 4.495 4,645 4,795 4,845 5,094 5,244 5,394 5,544 5,6% 5,844 5,993 60 4,581 5,160 5,338 5,516 5,594 5,872 6,050 6,228 6405 6,583 6,761 61 | 5,053 5,231 5409 5,587 5,765 5,943 6,121 6,299 6,477 6,655 6,832 62 | 5,124 5,302 5480 5,658 5,836 6,014 6,192 6,370 6,548 6,726 6904 4024.80 “UMA 63 5,1986 5,373 5,551 5,729 5,907 6,085 6,263 6441 6,619 6,797 6,975 64 5,267 5,445 65,623 5,601 5,876 6,156 6,334 6,512 6,690 6,868 7,046 me 5,138 5,516 5,594 5,877 6,050 6,2725 6,405 6,583 E,761 6,939 7,147 60 5,769 5,975 6,184 6,387 6,593 5,709 7,005 7,211 7,417 7,623 7,829 61 | 5,851 6,057 6,26% 6469 E675 6,581 7,087 7,293 7,408 7,705 7,1 52 5.833 6,140 6,346 6,552 6,758 6,964 7,170 7,376 7,582 7,768 7,9% soumAen | | adolante 63 | 6,016 6,222 6428 6,634 6,640 7,046 7,252 7,458 7,664 7,870 6,076 64 | 5,098 6304 6,510 6,716 6,822 71428 7,334 7,540 7,746 7,953 6159 eo | 6181 6,387 6,593 6,799 7,005 7,211 7,417 7,623 7,829 8,035 8,241 “Salario Minimo “Unidad de Medida y Actualización monto de la pensión se actualizará anualmente en el mes de febrero, conforme al Índice Na
-
 >cios al Consumidor, para garantizar su poder adquisitivo.
-
 el cómputo de las semanas de cotización y el promedio del salario base de cotizaci Jeraran los que los trabajadores tengan registrados en el Instituto de Seguridad y Servicios So Trabajadores del Estado, en los términos del convenio de portabilidad que éste tenga suscrit ituto.
-Artículo reformado DOF 16tículo 171. El asegurado, cuyos recursos acumulados en su cuenta individual resulten insufic contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pe tizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentaj
-
+Artículo reformado DOF 16-
+tículo 171. El asegurado, cuyos recursos acumulados en su cuenta individual resulten insufic contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pe tizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentaj
 capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:
 
 I. La pensión de viudez será igual al noventa por ciento de la que estuviese gozando el pensionado al fallecer;
@@ -1416,8 +1468,10 @@ Artículo reformado DOF 20-12-2001
 . El Gobierno Federal con recursos propios complementarios a los de la cuenta individual correspondiente, cubrirá la pensión garantizada, por conducto del Instituto.
 El trabajador asegurado deberá solicitarla al Instituto y acreditar tener derecho a ella. Por su parte la Administradora de Fondos para el Retiro está obligada a proporcionar la información que el propio Instituto le requiera para este efecto.
 Agotados los recursos de la cuenta individual, la Administradora de Fondos para el Retiro, notificará este hecho al Instituto con la finalidad de que éste continúe otorgando la pensión garantizada.
-Párrafo reformado DOF 16-12-2020 Una vez agotados los recursos, la pensión será cubierta con cargo al Gobierno Federal por conducto de la Tesorería de la Federación, a partir de la información que para tal efecto le proporcione el Instituto.
-Párrafo reformado DOF 16-12-2020 La Secretaría de Hacienda y Crédito Público podrá verificar la información que el Instituto proporcione para los efectos arriba señalados, con datos propios o de terceros e informar los resultados de la verificación al propio Instituto y, en su caso, solicitarle la modificación de los procedimientos necesarios para su conciliación.
+Párrafo reformado DOF 16-12-2020
+Una vez agotados los recursos, la pensión será cubierta con cargo al Gobierno Federal por conducto de la Tesorería de la Federación, a partir de la información que para tal efecto le proporcione el Instituto.
+Párrafo reformado DOF 16-12-2020
+La Secretaría de Hacienda y Crédito Público podrá verificar la información que el Instituto proporcione para los efectos arriba señalados, con datos propios o de terceros e informar los resultados de la verificación al propio Instituto y, en su caso, solicitarle la modificación de los procedimientos necesarios para su conciliación.
 Párrafo adicionado DOF 16-12-2020
 
 ### Artículo 172 A
@@ -1428,13 +1482,15 @@ I. La administradora de fondos para el retiro deberá entregar al Instituto los 
 
 II. El Gobierno Federal por conducto de la Tesorería de la Federación, deberá aportar los recursos faltantes para el pago del monto constitutivo de la mencionada renta vitalicia, a partir de la información que al efecto le proporcione el Instituto.
 La Secretaría de Hacienda y Crédito Público podrá verificar la información que el Instituto proporcione para los efectos del párrafo anterior, con datos propios o de terceros e informar los resultados de la verificación al propio Instituto y, en su caso, solicitarle la modificación de los procedimientos necesarios para su conciliación.
-Fracción reformada DOF 16-12-2020 Artículo adicionado DOF 20-12-2001
+Fracción reformada DOF 16-12-2020
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 173
 . El Instituto suspenderá el pago de la pensión garantizada cuando el pensionado reingrese a un trabajo sujeto al régimen obligatorio.
 El pensionado por cesantía en edad avanzada o vejez que disfrute de una pensión garantizada no podrá recibir otra de igual naturaleza.
 La pensión que corresponda a los beneficiarios del pensionado fallecido, se entregará a éstos aun cuando estuvieran gozando de otra pensión de cualquier naturaleza.
-Artículo reformado DOF 20-12-2001 SECCION SEPTIMA DE LA CUENTA INDIVIDUAL Y DE LAS SOCIEDADES DE INVERSION ESPECIALIZADAS DE FONDOS PARA EL RETIRO
+Artículo reformado DOF 20-12-2001
+SECCION SEPTIMA DE LA CUENTA INDIVIDUAL Y DE LAS SOCIEDADES DE INVERSION ESPECIALIZADAS DE FONDOS PARA EL RETIRO
 
 ### Artículo 174
 . Para los efectos de este seguro, es derecho de todo trabajador asegurado contar con una cuenta individual, la que se integrará en los términos señalados en el artículo 159 fracción I de esta Ley.
@@ -1533,7 +1589,8 @@ Artículo adicionado DOF 22-06-2018
 
 ### Artículo 194
 . Para efectos del retiro programado, se calculará cada año una anualidad que será igual al resultado de dividir el saldo de la cuenta individual del asegurado entre el capital necesario para financiar una unidad de renta vitalicia para el asegurado y sus beneficiarios y, por lo menos, igual al valor correspondiente a la pensión garantizada, que le corresponda conforme a la tabla establecida en el artículo 170 de esta Ley. La pensión mensual corresponderá a la doceava parte de dicha anualidad.
-Párrafo reformado DOF 16-12-2020 Las tablas utilizadas para calcular la unidad de renta vitalicia a que se refiere este artículo se elaborarán anualmente por la Comisión Nacional de Seguros y Fianzas.
+Párrafo reformado DOF 16-12-2020
+Las tablas utilizadas para calcular la unidad de renta vitalicia a que se refiere este artículo se elaborarán anualmente por la Comisión Nacional de Seguros y Fianzas.
 
 ### Artículo 195
 . La Comisión Nacional del Sistema de Ahorro para el Retiro, atendiendo a consideraciones técnicas y asegurando los intereses de los trabajadores, mediante la expedición de disposiciones administrativas podrá autorizar mecanismos, procedimientos, formas y términos relacionados con el seguro de retiro, cesantía en edad avanzada y vejez, conforme a lo establecido en esta Ley y la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
@@ -1560,7 +1617,8 @@ CAPITULO VII DEL SEGURO DE GUARDERIAS Y DE LAS PRESTACIONES SOCIALES SECCION PRI
 
 ### Artículo 201
 . El ramo de guarderías cubre los cuidados, durante la jornada de trabajo, de las hijas e hijos en la primera infancia, de las personas trabajadoras, mediante el otorgamiento de las prestaciones establecidas en este capítulo.
-Párrafo reformado DOF 21-10-2020 Este beneficio se podrá extender a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre y cuando estén vigentes en sus derechos ante el Instituto y no puedan proporcionar la atención y cuidados al menor.
+Párrafo reformado DOF 21-10-2020
+Este beneficio se podrá extender a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre y cuando estén vigentes en sus derechos ante el Instituto y no puedan proporcionar la atención y cuidados al menor.
 El servicio de guardería se proporcionará en el turno matutino y vespertino pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 Artículo reformado DOF 20-12-2001
 
@@ -1576,7 +1634,8 @@ Artículo reformado DOF 15-01-2026
 
 ### Artículo 205
 . Las personas trabajadoras aseguradas tendrán derecho a los servicios de guardería para sus hijas e hijos, durante las horas de su jornada de trabajo, en la forma y términos establecidos en esta Ley y en el reglamento relativo.
-Párrafo reformado DOF 21-10-2020 El servicio de guarderías se proporcionará en el turno matutino y vespertino, pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
+Párrafo reformado DOF 21-10-2020
+El servicio de guarderías se proporcionará en el turno matutino y vespertino, pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 Artículo reformado DOF 20-12-2001
 
 ### Artículo 206
@@ -1584,7 +1643,8 @@ Artículo reformado DOF 20-12-2001
 
 ### Artículo 207
 . Los asegurados a que se refiere esta Sección tendrán derecho al servicio a partir de que el trabajador sea dado de alta ante el Instituto y cuando sean dados de baja en el régimen obligatorio conservarán durante las cuatro semanas posteriores a dicha baja, el derecho a las prestaciones de este seguro.
-Artículo reformado DOF 20-12-2001 SECCION SEGUNDA DEL RAMO DE LAS PRESTACIONES SOCIALES
+Artículo reformado DOF 20-12-2001
+SECCION SEGUNDA DEL RAMO DE LAS PRESTACIONES SOCIALES
 
 ### Artículo 208
 . Las prestaciones sociales comprenden:
@@ -1596,7 +1656,8 @@ II. Prestaciones de solidaridad social.
 ### Artículo 209
 . Las prestaciones sociales institucionales tienen como finalidad fomentar la salud, prevenir enfermedades y accidentes y contribuir a la elevación general de los niveles de vida de la población.
 El Instituto proporcionará atención a sus derechohabientes mediante servicios y programas de prestaciones sociales que fortalezcan la medicina preventiva y el autocuidado de la salud y mejoren su economía e integridad familiar. Para ello, fortalecerá la coordinación y concertación con instituciones de la Administración Pública Federal, Estatal y Municipal o con entidades privadas y sociales, que hagan posible su acceso a preferencias, prerrogativas y servicios que contribuyan a su bienestar.
-Párrafo reformado DOF 20-12-2001 Asimismo, el Instituto establecerá y desarrollará los programas y servicios para los derechohabientes, en términos de la disponibilidad financiera de los recursos destinados a prestaciones sociales de este seguro.
+Párrafo reformado DOF 20-12-2001
+Asimismo, el Instituto establecerá y desarrollará los programas y servicios para los derechohabientes, en términos de la disponibilidad financiera de los recursos destinados a prestaciones sociales de este seguro.
 Párrafo reformado DOF 20-12-2001
 
 ### Artículo 210
@@ -1630,7 +1691,8 @@ IX. Establecimiento y administración de velatorios, así como otros servicios s
 ### Artículo 210 A
 El Instituto podrá ofrecer sus instalaciones deportivas, sociales, culturales, recreativas y vacacionales a la población en general, ya sea por sí o en cooperación con instituciones de los sectores público o social, estableciendo en todos los casos las cuotas de recuperación de costos correspondientes, a efecto de generar recursos para apoyar el financiamiento de su operación y mantenimiento y de colaborar con la sociedad en general en la promoción de ese tipo de actividades. El monto y destino de los recursos que se obtengan conforme a lo dispuesto en este párrafo se informará al Congreso de la Unión y al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 Los derechohabientes tendrán condiciones preferenciales en el pago de las cuotas de recuperación señaladas, en los términos que el Instituto establezca.
-Artículo adicionado DOF 20-12-2001 SECCION TERCERA DEL REGIMEN FINANCIERO
+Artículo adicionado DOF 20-12-2001
+SECCION TERCERA DEL REGIMEN FINANCIERO
 
 ### Artículo 211
 . El monto de la prima para este seguro será del uno por ciento sobre el salario base de cotización. Para prestaciones sociales solamente se podrá destinar hasta el veinte por ciento de dicho monto.
@@ -1675,7 +1737,8 @@ CAPITULO VIII DE LA CONTINUACION VOLUNTARIA EN EL REGIMEN OBLIGATORIO
 . El asegurado con un mínimo de cincuenta y dos cotizaciones semanales acreditadas en el régimen obligatorio, en los últimos cinco años, al ser dado de baja, tiene el derecho a continuar voluntariamente en el mismo, pudiendo continuar en los seguros conjuntos de invalidez y vida así como de retiro, cesantía en edad avanzada y vejez, debiendo quedar inscrito con el último salario o superior al que tenía en el momento de la baja. El asegurado cubrirá las cuotas que le correspondan por mensualidad adelantada y cotizará de la manera siguiente:
 Párrafo reformado DOF 20-12-2001
 
-a) Respecto del seguro de retiro, cesantía en edad avanzada y vejez, el asegurado cubrirá por cuanto hace al ramo primero, la totalidad de la cuota y por los otros dos ramos cubrirá el importe de las cuotas obrero patronales, debiendo el Estado aportar la parte de cuota social que conforme a esta Ley le corresponda, y Inciso reformado DOF 16-12-2020
+a) Respecto del seguro de retiro, cesantía en edad avanzada y vejez, el asegurado cubrirá por cuanto hace al ramo primero, la totalidad de la cuota y por los otros dos ramos cubrirá el importe de las cuotas obrero patronales, debiendo el Estado aportar la parte de cuota social que conforme a esta Ley le corresponda, y
+Inciso reformado DOF 16-12-2020
 
 b) En el seguro de invalidez y vida el asegurado cubrirá las cuotas obrero patronales y el Estado la parte que le corresponda de acuerdo a los porcentajes señalados en esta Ley.
 Adicionalmente, el asegurado deberá cubrir las cuotas que corresponderían al patrón y al trabajador, señaladas en el párrafo segundo del artículo 25 de esta Ley.
@@ -1690,7 +1753,8 @@ Artículo reformado DOF 20-12-2001
 
 I. Declaración expresa firmada por el asegurado;
 
-II. Dejar de pagar las cuotas durante dos meses, y Fracción reformada DOF 20-12-2001
+II. Dejar de pagar las cuotas durante dos meses, y
+Fracción reformada DOF 20-12-2001
 
 III. Ser dado de alta nuevamente en el régimen obligatorio, en los términos del artículo 12 de esta Ley.
 El asegurado podrá solicitar por escrito su reingreso al régimen obligatorio del seguro social a través de la continuación voluntaria, cuando hubiese causado baja por la falta de pago de las cuotas de dos meses consecutivos. La solicitud deberá formularse dentro de los doce meses siguientes a la fecha de su baja en la continuación voluntaria.
@@ -1716,7 +1780,8 @@ Inciso derogado DOF 16-11-2022
 c) Se deroga.
 Inciso derogado DOF 01-12-2023
 
-d) Para los sujetos a que se refiere la fracción V del artículo 13 de esta Ley, las prestaciones del seguro de riesgos de trabajo, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro, cesantía en edad avanzada y vejez, en los términos de los capítulos respectivos, y A solicitud de las entidades públicas, el esquema de aseguramiento podrá comprender únicamente las prestaciones en especie de los seguros conjuntos de riesgos de trabajo y enfermedades y maternidad, siempre y cuando dichas entidades tengan establecido un sistema de pensiones para sus trabajadores, y Párrafo adicionado DOF 20-12-2001
+d) Para los sujetos a que se refiere la fracción V del artículo 13 de esta Ley, las prestaciones del seguro de riesgos de trabajo, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro, cesantía en edad avanzada y vejez, en los términos de los capítulos respectivos, y A solicitud de las entidades públicas, el esquema de aseguramiento podrá comprender únicamente las prestaciones en especie de los seguros conjuntos de riesgos de trabajo y enfermedades y maternidad, siempre y cuando dichas entidades tengan establecido un sistema de pensiones para sus trabajadores, y
+Párrafo adicionado DOF 20-12-2001
 
 e) En caso de muerte del asegurado, se estará a lo dispuesto en el artículo 104 de esta Ley.
 
@@ -1743,17 +1808,20 @@ Párrafo adicionado DOF 01-12-2023
 Aclaración al párrafo DOF 16-01-1996
 
 I. Los ingresos reportados provenientes de la actividad que dio origen al aseguramiento, para los sujetos a que se refiere la fracción I del artículo 13 de esta Ley.
-Para efectos del cálculo de las cuotas obrero patronales se considerarán los límites establecidos en el artículo 28 de la presente Ley, y Fracción reformada DOF 20-12-2001, 01-12-2023
+Para efectos del cálculo de las cuotas obrero patronales se considerarán los límites establecidos en el artículo 28 de la presente Ley, y
+Fracción reformada DOF 20-12-2001, 01-12-2023
 
 II. Conforme al salario real integrado de acuerdo con el artículo 27 de este ordenamiento, para las personas a que se refiere la fracción V del artículo 13 de esta Ley.
-Fracción reformada DOF 16-11-2022 Las bases de las fracciones anteriores serán aplicables, para todos los seguros que comprenda el aseguramiento en cada caso, con la excepción del seguro de enfermedades y maternidad, respecto del cual se estará a lo dispuesto por el artículo 106 de esta Ley.
+Fracción reformada DOF 16-11-2022
+Las bases de las fracciones anteriores serán aplicables, para todos los seguros que comprenda el aseguramiento en cada caso, con la excepción del seguro de enfermedades y maternidad, respecto del cual se estará a lo dispuesto por el artículo 106 de esta Ley.
 El Consejo Técnico del Instituto ante las instancias competentes, proveerá lo necesario para que estas promuevan ante el Congreso de la Unión la revisión de estas bases de cotización, para propiciar que se mantenga o restituya, en su caso, el equilibrio financiero de estos seguros.
 
 ### Artículo 228
 . A las bases de cotización señaladas en el artículo anterior, se les aplicarán las primas de financiamiento que establece esta Ley y que corresponden a los seguros que, en cada caso, comprenda el esquema de protección, reduciendo la parte proporcional relativa a las prestaciones que se excluyen.
 La cuota así determinada se cubrirá de la manera siguiente:
 
-I. Para las y los sujetos a que se refiere la fracción V del artículo 13, de acuerdo con lo establecido tratándose de las personas del artículo 12 de esta Ley, y Fracción reformada DOF 16-11-2022
+I. Para las y los sujetos a que se refiere la fracción V del artículo 13, de acuerdo con lo establecido tratándose de las personas del artículo 12 de esta Ley, y
+Fracción reformada DOF 16-11-2022
 
 II. Para los sujetos a que se refiere la fracción I del artículo 13 de esta Ley, les corresponderá cubrir íntegramente la cuota obrero-patronal, contribuyendo el Estado conforme le corresponda a cada ramo de seguro, de acuerdo con lo dispuesto en esta Ley, incluyendo la cuota social.
 Fracción reformada DOF 20-12-2001, 01-12-2023
@@ -1782,7 +1850,8 @@ Artículo reformado DOF 20-12-2001
 
 ### Artículo 233
 . Las cuotas obrero patronales que se generen con motivo de la incorporación de los trabajadores de las dependencias y entidades al servicio de las administraciones públicas estatales o municipales, podrán pagarse con cargo a los subsidios, transferencias o a las participaciones en ingresos federales que a los estados y municipios les correspondan, en los términos de las disposiciones aplicables.
-Artículo reformado DOF 20-12-2001 CAPITULO X DE LA SEGURIDAD SOCIAL EN EL CAMPO
+Artículo reformado DOF 20-12-2001
+CAPITULO X DE LA SEGURIDAD SOCIAL EN EL CAMPO
 
 ### Artículo 234
 . La seguridad social se extiende al campo mexicano, en los términos y formas que se establecen en la presente Ley y los reglamentos respectivos.
@@ -1799,8 +1868,10 @@ Artículo reformado DOF 20-12-2001, 24-01-2024
 
 ### Artículo 237-A
 .- En aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de salud que tiene encomendados, éste podrá celebrar convenios con las personas empleadoras del campo, para que éstos otorguen a las personas trabajadoras del campo las prestaciones en especie correspondientes al Seguro de Enfermedades y Maternidad a que se refiere la Sección Segunda, Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios, pudiendo convenirse en la reversión de una parte de la cuota obrero patronal en proporción a la naturaleza y cuantía de los servicios otorgados, a través de un esquema programado de reembolsos, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
-Párrafo reformado DOF 24-01-2024 Asimismo, en aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de guardería que tiene encomendados, éste podrá celebrar convenios con las personas empleadoras del campo y organizaciones de personas trabajadoras temporales del campo para la subrogación de los servicios que contempla el Ramo de Guarderías a que se refiere la Sección Primera, Capítulo VII, del Título Segundo, de esta Ley, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
-Párrafo reformado DOF 24-01-2024 En todo caso, los patrones del campo y las organizaciones a que se refiere este artículo estarán obligados a proporcionar al Instituto los informes y estadísticas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el propio Instituto, en los términos de las reglas de carácter general que con respecto a los servicios médicos y de guarderías expida el Consejo Técnico.
+Párrafo reformado DOF 24-01-2024
+Asimismo, en aquellos lugares donde el Instituto no cuente con instalaciones, a juicio del propio Instituto, para prestar los servicios de guardería que tiene encomendados, éste podrá celebrar convenios con las personas empleadoras del campo y organizaciones de personas trabajadoras temporales del campo para la subrogación de los servicios que contempla el Ramo de Guarderías a que se refiere la Sección Primera, Capítulo VII, del Título Segundo, de esta Ley, en los términos que establezcan las reglas de carácter general que para tal efecto expida el Consejo Técnico.
+Párrafo reformado DOF 24-01-2024
+En todo caso, los patrones del campo y las organizaciones a que se refiere este artículo estarán obligados a proporcionar al Instituto los informes y estadísticas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el propio Instituto, en los términos de las reglas de carácter general que con respecto a los servicios médicos y de guarderías expida el Consejo Técnico.
 Artículo adicionado DOF 29-04-2005
 
 ### Artículo 237-B
@@ -1821,8 +1892,10 @@ Artículo adicionado DOF 29-04-2005
 ### Artículo 237-D
 .- El Instituto podrá verificar que los patrones del campo se encuentran al corriente en cuanto al cumplimiento de las obligaciones a su cargo derivadas de esta Ley, previamente al otorgamiento de los subsidios, apoyos o beneficios, derivados del Presupuesto de Egresos de la Federación, que dichos patrones del campo soliciten al Gobierno Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 Para tales efectos, sin perjuicio del ejercicio de las facultades de comprobación que le corresponden al Instituto en su carácter de organismo fiscal autónomo, la Secretaría de Agricultura y Desarrollo Rural, deberá proporcionar semestralmente al Instituto el padrón de personas empleadoras del campo que sean sujetas de las disposiciones contenidas en este Capítulo, correspondientes a los sectores agrícola, hortícola, ganadero, forestal, acuícola, apícolas u otras semejantes, identificando a aquellas sujetas a recibir subsidios, apoyos o beneficios derivados del Presupuesto de Egresos de la Federación.
-Párrafo reformado DOF 24-01-2024 A solicitud del Instituto, y de acuerdo con el convenio que éste firme con la Secretaría de Agricultura y Desarrollo Rural para este fin, esta última suspenderá la entrega de subsidios, apoyos, o beneficios que, con cargo a su presupuesto provengan del Presupuesto de Egresos de la Federación, a personas empleadoras del campo que no cumplan las disposiciones en materia de seguridad social establecidas en esta Ley.
-Párrafo reformado DOF 24-01-2024 Artículo adicionado DOF 29-04-2005
+Párrafo reformado DOF 24-01-2024
+A solicitud del Instituto, y de acuerdo con el convenio que éste firme con la Secretaría de Agricultura y Desarrollo Rural para este fin, esta última suspenderá la entrega de subsidios, apoyos, o beneficios que, con cargo a su presupuesto provengan del Presupuesto de Egresos de la Federación, a personas empleadoras del campo que no cumplan las disposiciones en materia de seguridad social establecidas en esta Ley.
+Párrafo reformado DOF 24-01-2024
+Artículo adicionado DOF 29-04-2005
 
 ### Artículo 237-E
 .- Las trabajadoras del campo temporales embarazadas durante el tiempo de efectiva prestación de servicios tienen derecho a las prestaciones correspondientes al Seguro de Enfermedades y Maternidad a que se refieren las Secciones Segunda y Tercera del Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios.
@@ -1833,7 +1906,8 @@ Artículo adicionado DOF 24-01-2024
 
 ### Artículo 239
 . El acceso a la seguridad social de los sujetos a que se refiere el presente capítulo, podrá ser apoyado por el tercer aportante establecido en el artículo 230 de esta Ley. En cualquier caso éstos podrán acceder al seguro de salud para la familia regulado por este ordenamiento.
-CAPITULO XI DE LAS PERSONAS TRABAJADORAS DEL HOGAR Capítulo adicionado DOF 16-11-2022
+CAPITULO XI DE LAS PERSONAS TRABAJADORAS DEL HOGAR
+Capítulo adicionado DOF 16-11-2022
 
 ### Artículo 239-A
 . Persona trabajadora del hogar es aquella que, de manera remunerada, realice actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar en el marco de una relación laboral que no aporte para la persona empleadora beneficio económico directo, en cualquiera de las siguientes modalidades:
@@ -1892,7 +1966,8 @@ Artículo adicionado DOF 16-11-2022
 
 ### Artículo 239-H
 . El Consejo Técnico podrá autorizar una periodicidad diferente para el aseguramiento y pago de las cuotas, así como expedir las reglas de carácter general que en su caso resulten aplicables para el aseguramiento de las y los sujetos a que se refiere el presente Capítulo de esta Ley.
-Artículo adicionado DOF 16-11-2022 TITULO TERCERO DEL REGIMEN VOLUNTARIO CAPITULO I DEL SEGURO DE SALUD PARA LA FAMILIA
+Artículo adicionado DOF 16-11-2022
+TITULO TERCERO DEL REGIMEN VOLUNTARIO CAPITULO I DEL SEGURO DE SALUD PARA LA FAMILIA
 
 ### Artículo 240
 . Todas las familias en México tienen derecho a un seguro de salud para sus miembros y para ese efecto, podrán celebrar con el Instituto Mexicano del Seguro Social convenio para el otorgamiento de las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del reglamento respectivo.
@@ -1935,6 +2010,7 @@ Las prestaciones económicas a que se refiere el presente artículo corresponder
 . Los seguros adicionales se organizarán en sección especial, con contabilidad y administración de fondos separada de la correspondiente a los seguros obligatorios.
 
 ## CAPÍTULO III — OTROS SEGUROS
+
 Capítulo adicionado DOF 20-12-2001
 
 ### Artículo 250 A
@@ -1944,9 +2020,11 @@ Artículo adicionado DOF 20-12-2001
 
 ### Artículo 250 B
 Para los efectos del artículo anterior, el Gobierno Federal deberá otorgar al Instituto los subsidios y transferencias que correspondan al importe de las primas relativas a tales seguros y otras coberturas.
-Artículo adicionado DOF 20-12-2001 TITULO CUARTO DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
+Artículo adicionado DOF 20-12-2001
+TITULO CUARTO DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
 ## CAPÍTULO I — DE LAS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
+
 Denominación del Capítulo reformada DOF 20-12-2001
 
 ### Artículo 251
@@ -2056,7 +2134,8 @@ Fracción adicionada DOF 20-12-2001
 XXXVI. Prestar servicios a quienes no sean sus derechohabientes, a título oneroso, a efecto de utilizar de manera eficiente su capacidad instalada y coadyuvar al financiamiento de su operación y mantenimiento, siempre que ello no represente menoscabo en la calidad y calidez del servicio que debe prestar a sus derechohabientes;
 Fracción adicionada DOF 20-12-2001. Reformada DOF 23-04-2024
 
-XXXVII. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente y beneficiaria, y Fracción adicionada DOF 23-04-2024
+XXXVII. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente y beneficiaria, y
+Fracción adicionada DOF 23-04-2024
 
 XXXVIII. Las demás que le otorguen esta Ley, sus reglamentos y cualesquiera otra disposición aplicable.
 Fracción adicionada DOF 20-12-2001. Recorrida DOF 23-04-2024
@@ -2095,10 +2174,12 @@ d) El valor del inmueble se determinará por el Instituto de Administración y A
 
 e) El Consejo Técnico del Instituto emitirá los lineamientos que fijen las bases para la incorporación al patrimonio institucional, de los bienes a que se refiere esta fracción.
 En ningún caso la dación en pago o el pago en especie dará derecho a la devolución de importe alguno en efectivo, a favor del ente público.
-En caso de que existiera saldo a favor del ente público, una vez que se hubiere liquidado el importe de los adeudos y descontados los gastos de adjudicación, éste podrá ser aplicado, considerando el porcentaje máximo de adjudicación, a los importes futuros, sin que pueda ser utilizado para cubrir las aportaciones o adeudos derivados de las cuotas correspondientes al seguro de retiro, cesantía en edad avanzada y vejez, y Fracción adicionada DOF 21-05-2024
+En caso de que existiera saldo a favor del ente público, una vez que se hubiere liquidado el importe de los adeudos y descontados los gastos de adjudicación, éste podrá ser aplicado, considerando el porcentaje máximo de adjudicación, a los importes futuros, sin que pueda ser utilizado para cubrir las aportaciones o adeudos derivados de las cuotas correspondientes al seguro de retiro, cesantía en edad avanzada y vejez, y
+Fracción adicionada DOF 21-05-2024
 
 VII. Cualesquiera otros ingresos que le señalen las leyes y reglamentos.
-Fracción reformada y recorrida DOF 21-05-2024 Todos los bienes inmuebles que formen parte del patrimonio del Instituto, estarán destinados al servicio público de carácter nacional del Seguro Social a que se refiere el artículo 4o. de esta Ley y tendrán el carácter de bienes del dominio público de la Federación.
+Fracción reformada y recorrida DOF 21-05-2024
+Todos los bienes inmuebles que formen parte del patrimonio del Instituto, estarán destinados al servicio público de carácter nacional del Seguro Social a que se refiere el artículo 4o. de esta Ley y tendrán el carácter de bienes del dominio público de la Federación.
 Artículo reformado DOF 20-12-2001
 
 ### Artículo 254
@@ -2151,12 +2232,15 @@ CAPITULO III DEL CONSEJO TECNICO
 ### Artículo 263
 . El Consejo Técnico es el órgano de gobierno, representante legal y el administrador del Instituto y estará integrado hasta por doce miembros, correspondiendo designar cuatro de ellos a los representantes patronales en la Asamblea General, cuatro a los representantes de los trabajadores y cuatro a los representantes del Estado, con sus respectivos suplentes y el Ejecutivo Federal cuando lo estime conveniente, podrá disminuir a la mitad la representación estatal.
 El Secretario de Hacienda y Crédito Público, el Secretario de Salud, el Secretario del Trabajo y Previsión Social y el Director General, serán Consejeros del Estado, sin perjuicio de lo establecido por el párrafo anterior. El Director General presidirá siempre el Consejo Técnico.
-Párrafo reformado DOF 20-12-2001 Cuando deba renovarse el Consejo Técnico, los sectores representativos del Estado, de los patrones y de los trabajadores propondrán miembros propietarios y suplentes para los cargos de Consejero. La designación será hecha por la Asamblea General en los términos que fije el reglamento respectivo.
+Párrafo reformado DOF 20-12-2001
+Cuando deba renovarse el Consejo Técnico, los sectores representativos del Estado, de los patrones y de los trabajadores propondrán miembros propietarios y suplentes para los cargos de Consejero. La designación será hecha por la Asamblea General en los términos que fije el reglamento respectivo.
 Los Consejeros así electos durarán en su cargo seis años, pudiendo ser reelectos.
 La designación será revocable, siempre que la pidan los miembros del sector que hubiese propuesto al Consejero de que se trate o por causas justificadas para ello. En todo caso, el acuerdo definitivo corresponde a la Asamblea General, la que resolverá lo conducente en los términos del reglamento, mediante procedimientos en que se oiga en defensa al Consejero cuya remoción se solicite.
 Los Consejeros representantes patronales y de los trabajadores, recibirán los emolumentos y prestaciones que al efecto determinen los consejeros representantes del estado, a propuesta del Director General, sin que ello les otorgue el carácter de trabajadores, asegurados, derechohabientes del Instituto ni algún otro derecho adicional.
-Párrafo adicionado DOF 20-12-2001 Los integrantes del Consejo Técnico deberán abstenerse de promover o participar directa o indirectamente, a título personal, en la atención de solicitudes, planteamientos o recursos que patrones o derechohabientes planteen ante el Instituto. El Consejo Técnico emitirá lineamientos sobre los cuales sus integrantes podrán ejercer funciones de representación y gestoría ante el Instituto, respecto de los sectores y organizaciones a que representen, a fin de evitar conflictos de interés.
-Párrafo adicionado DOF 20-12-2001 Lo dispuesto en los dos párrafos anteriores será también aplicable a los integrantes de la Comisión de Vigilancia a que se refiere el Capítulo IV del Título Cuarto de esta Ley, así como a cualquier órgano de carácter tripartita ya integrado o que se integre en el futuro en el Instituto.
+Párrafo adicionado DOF 20-12-2001
+Los integrantes del Consejo Técnico deberán abstenerse de promover o participar directa o indirectamente, a título personal, en la atención de solicitudes, planteamientos o recursos que patrones o derechohabientes planteen ante el Instituto. El Consejo Técnico emitirá lineamientos sobre los cuales sus integrantes podrán ejercer funciones de representación y gestoría ante el Instituto, respecto de los sectores y organizaciones a que representen, a fin de evitar conflictos de interés.
+Párrafo adicionado DOF 20-12-2001
+Lo dispuesto en los dos párrafos anteriores será también aplicable a los integrantes de la Comisión de Vigilancia a que se refiere el Capítulo IV del Título Cuarto de esta Ley, así como a cualquier órgano de carácter tripartita ya integrado o que se integre en el futuro en el Instituto.
 Párrafo adicionado DOF 20-12-2001
 
 ### Artículo 264
@@ -2201,7 +2285,8 @@ Fracción reformada DOF 20-12-2001
 XV. Establecer las condiciones de aseguramiento y cotización de aquellos grupos de trabajadores que por sus actividades profesionales, la naturaleza de su trabajo, sus especiales condiciones de tiempo y lugar o por la índole de sus procesos productivos, no se adecuen a los requisitos generales del régimen obligatorio de esta Ley, a fin de hacerlos equitativos, respetando los elementos de sujeto, objeto, base, cuota, primas de financiamiento y época de pago de las cuotas, conforme a lo establecido en la presente Ley;
 Fracción reformada DOF 20-12-2001
 
-XVI. Expedir bases para extender, hasta los veinticinco años de edad, los derechos a las prestaciones en especie del seguro de enfermedades y maternidad, que se otorgarán dentro del territorio nacional, a los hijos de trabajadores mexicanos asegurados que laboren en el extranjero y que se encuentren estudiando fuera del país en planteles educativos equiparables a los del sistema educativo nacional, y Fracción reformada DOF 20-12-2001
+XVI. Expedir bases para extender, hasta los veinticinco años de edad, los derechos a las prestaciones en especie del seguro de enfermedades y maternidad, que se otorgarán dentro del territorio nacional, a los hijos de trabajadores mexicanos asegurados que laboren en el extranjero y que se encuentren estudiando fuera del país en planteles educativos equiparables a los del sistema educativo nacional, y
+Fracción reformada DOF 20-12-2001
 
 XVII. Las demás que señalen esta Ley y sus reglamentos.
 Fracción reformada DOF 20-12-2001
@@ -2210,7 +2295,8 @@ XVIII. (Se deroga).
 Fracción derogada DOF 20-12-2001
 
 XIX. (Se deroga).
-Fracción derogada DOF 20-12-2001 CAPITULO IV DE LA COMISION DE VIGILANCIA
+Fracción derogada DOF 20-12-2001
+CAPITULO IV DE LA COMISION DE VIGILANCIA
 
 ### Artículo 265
 . La Asamblea General designará a la Comisión de Vigilancia que estará compuesta por seis miembros. Para formar esta Comisión cada uno de los sectores representativos que constituyen la Asamblea, propondrá dos miembros propietarios y dos suplentes, quienes durarán en sus cargos seis años, y podrán ser reelectos. La elección puede recaer en personas que no formen parte de dichos sectores. Al menos uno de los miembros designados por el Ejecutivo Federal deberá estar adscrito a la Secretaría de la Función Pública. El Ejecutivo Federal cuando lo estime conveniente podrá disminuir a la mitad la representación estatal. La designación será revocable, siempre que la pidan los miembros del sector que hubiese propuesto al representante de que se trate o porque medien causas justificadas para ello. En todo caso, el acuerdo definitivo corresponde a la Asamblea General, la que resolverá lo conducente mediante procedimiento en que oiga en defensa al miembro cuya remoción se solicite, en términos de lo señalado en el Reglamento Interior.
@@ -2229,10 +2315,12 @@ III. Sugerir a la Asamblea General, al Consejo Técnico, y a la Comisión Nacion
 IV. Presentar ante la Asamblea General un dictamen sobre el informe de actividades y los estados financieros presentados por el Consejo Técnico, para cuyo efecto éstos le serán dados a conocer con la debida oportunidad;
 Fracción reformada DOF 20-12-2001
 
-V. En casos graves y bajo su responsabilidad, citar a Asamblea General Extraordinaria, y Fracción reformada DOF 20-12-2001
+V. En casos graves y bajo su responsabilidad, citar a Asamblea General Extraordinaria, y
+Fracción reformada DOF 20-12-2001
 
 VI. Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
-Fracción adicionada DOF 20-12-2001 CAPITULO V DE LA DIRECCION GENERAL
+Fracción adicionada DOF 20-12-2001
+CAPITULO V DE LA DIRECCION GENERAL
 
 ### Artículo 267
 .- El Director General será nombrado por el Presidente de la República debiendo ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
@@ -2266,7 +2354,8 @@ IX. Realizar toda clase de actos jurídicos necesarios para cumplir con los fine
 X. Ejercer las funciones en materia de presupuesto, conforme a lo dispuesto en esta Ley;
 Fracción reformada DOF 20-12-2001
 
-XI. Presentar anualmente al Ejecutivo Federal y al Congreso de la Unión los informes a que se alude en la presente Ley, y Fracción adicionada DOF 20-12-2001
+XI. Presentar anualmente al Ejecutivo Federal y al Congreso de la Unión los informes a que se alude en la presente Ley, y
+Fracción adicionada DOF 20-12-2001
 
 XII. Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
 Fracción adicionada DOF 20-12-2001
@@ -2279,7 +2368,9 @@ Artículo adicionado DOF 20-12-2001
 . El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
 
 ## CAPÍTULO VI — DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL COMO ORGANISMO FISCAL
-AUTÓNOMO Denominación del Capítulo reformada DOF 20-12-2001
+
+AUTÓNOMO
+Denominación del Capítulo reformada DOF 20-12-2001
 
 ### Artículo 270
 . El Instituto, en su carácter de organismo fiscal autónomo, se sujetará al régimen establecido en esta Ley, ejerciendo las atribuciones que la misma le confiere de manera ejecutiva, con autonomía de gestión y técnica, en los ámbitos regulados en la presente Ley.
@@ -2291,9 +2382,12 @@ Artículo reformado DOF 20-12-2001
 
 ### Artículo 272
 . El Instituto, en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta Ley y, en lo no previsto expresamente en ella, aplicará la Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen.
-Párrafo reformado DOF 16-01-2009 Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afecte a la hacienda pública federal o el patrimonio del propio Instituto, por lo que resultará aplicable la Ley Federal de Presupuesto y Responsabilidad Hacendaria, sin perjuicio de lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en la Ley de Fiscalización Superior de la Federación.
-Párrafo reformado DOF 16-01-2009 Corresponderá a la Secretaría de la Función Pública, por sí o a través del órgano interno de control en el propio Instituto, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal y demás ordenamientos legales aplicables, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
-Párrafo reformado DOF 16-01-2009 El Instituto deberá formular su proyecto de presupuesto y ejercer el gasto correspondiente, con estricto respeto a los criterios de disciplina, productividad, ahorro, austeridad, eficacia, eficiencia, desregulación presupuestaria y transparencia, debiendo aplicarlos en forma tal que no afecte la atención a sus derechohabientes. El Instituto planeará su gasto de manera que contribuya a mantener su estabilidad y equilibrio financiero en un horizonte de mediano y largo plazo, conforme a las tendencias demográficas y epidemiológicas de su población beneficiaria.
+Párrafo reformado DOF 16-01-2009
+Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afecte a la hacienda pública federal o el patrimonio del propio Instituto, por lo que resultará aplicable la Ley Federal de Presupuesto y Responsabilidad Hacendaria, sin perjuicio de lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en la Ley de Fiscalización Superior de la Federación.
+Párrafo reformado DOF 16-01-2009
+Corresponderá a la Secretaría de la Función Pública, por sí o a través del órgano interno de control en el propio Instituto, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal y demás ordenamientos legales aplicables, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
+Párrafo reformado DOF 16-01-2009
+El Instituto deberá formular su proyecto de presupuesto y ejercer el gasto correspondiente, con estricto respeto a los criterios de disciplina, productividad, ahorro, austeridad, eficacia, eficiencia, desregulación presupuestaria y transparencia, debiendo aplicarlos en forma tal que no afecte la atención a sus derechohabientes. El Instituto planeará su gasto de manera que contribuya a mantener su estabilidad y equilibrio financiero en un horizonte de mediano y largo plazo, conforme a las tendencias demográficas y epidemiológicas de su población beneficiaria.
 Las cuotas, contribuciones y aportaciones que conforme a lo dispuesto en esta Ley deberá enterar el Gobierno Federal al Instituto, se manifestarán de manera expresa, señalando su destino específico, en un apartado individual del correspondiente decreto del Presupuesto de Egresos de la Federación que anualmente se apruebe, haciendo referencia al total del gasto que se prevea habrá de ejercer el propio Instituto señalando, en su caso, las reglas para su control y seguimiento.
 Artículo reformado DOF 20-12-2001
 
@@ -2365,7 +2459,8 @@ En el evento de que, en el resto del ejercicio se prevea que se va a requerir de
 Si los ajustes a la baja indicados no fueren suficientes, el Instituto podrá disponer de la Reserva de Operación para Contingencias y Financiamiento a que hace mención el artículo 280 de esta Ley, previa autorización del Consejo Técnico, debiendo informar de tales ajustes al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
 Si habiéndose hecho uso de la Reserva indicada en el párrafo anterior, el ajuste al presupuesto de egresos necesario para cumplir con las metas de reservas y fondos establecidos afecta sensiblemente los programas de operación del Instituto, éste podrá, previa autorización del Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, disminuir los montos de reservas o fondos a incrementar.
 La Secretaría de la Función Pública vigilará el estricto y oportuno cumplimiento de esta disposición.
-Párrafo reformado DOF 16-01-2009 Artículo adicionado DOF 20-12-2001
+Párrafo reformado DOF 16-01-2009
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 277 B
 El Instituto no está autorizado a contraer pasivos financieros para pagar las prestaciones correspondientes a los seguros que esta Ley establece.
@@ -2386,12 +2481,14 @@ Los sueldos a que se refiere el párrafo anterior se determinarán considerando 
 El Director General del Instituto no podrá recibir percepciones superiores a las de un Secretario del Despacho en la Administración Pública Federal Centralizada.
 El Consejo Técnico solamente podrá crear, sustituir o contratar plazas con sujeción a criterios de productividad, eficiencia y calidad de servicio, así como al aumento de la recaudación, siempre y cuando cuente con los recursos aprobados en su respectivo presupuesto para dicha creación, sustitución o contratación de plazas, y aquellos indispensables para cubrir el costo anual de sus repercusiones.
 Independientemente de lo anterior, para crear, sustituir o contratar plazas, se deberán depositar en el Fondo a que se refiere el artículo 286 K de esta Ley, los recursos necesarios para cubrir los costos futuros derivados del Régimen de Jubilaciones y Pensiones, a fin de que en todo momento, se encuentre plenamente financiado.
-Párrafo reformado DOF 11-08-2004 El Instituto tiene la obligación de publicar en el Diario Oficial de la Federación, a más tardar el 30 de junio del ejercicio fiscal correspondiente, el informe analítico de todas los puestos y plazas, incluyendo temporales, sustitutos, residentes y análogas; los sueldos, prestaciones y estímulos de todo tipo de sus servidores públicos, agrupados por nivel, grado y grupo de mando, y los cambios autorizados a su estructura organizacional por el Consejo Técnico, así como el número, características y remuneraciones totales de la contratación de servicios profesionales por honorarios.
+Párrafo reformado DOF 11-08-2004
+El Instituto tiene la obligación de publicar en el Diario Oficial de la Federación, a más tardar el 30 de junio del ejercicio fiscal correspondiente, el informe analítico de todas los puestos y plazas, incluyendo temporales, sustitutos, residentes y análogas; los sueldos, prestaciones y estímulos de todo tipo de sus servidores públicos, agrupados por nivel, grado y grupo de mando, y los cambios autorizados a su estructura organizacional por el Consejo Técnico, así como el número, características y remuneraciones totales de la contratación de servicios profesionales por honorarios.
 Artículo adicionado DOF 20-12-2001
 
 ### Artículo 277 E
 Sin perjuicio de lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, los ingresos y gastos de cada seguro se registrarán contablemente por separado. Los gastos indirectos comunes se sujetarán a las reglas de carácter general para la distribución de costos, al catálogo de cuentas y al manual de contabilización y del ejercicio del gasto que al efecto emita el Consejo Técnico a propuesta del Director General, quien deberá contar con la opinión previa de la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 16-01-2009 El catálogo de cuentas y el manual de contabilización y del ejercicio del gasto deberán tomar como base los equivalentes que al efecto se establezcan por las autoridades competentes para las entidades de la administración pública federal, adecuándolos a las características y necesidades del Instituto.
+Párrafo reformado DOF 16-01-2009
+El catálogo de cuentas y el manual de contabilización y del ejercicio del gasto deberán tomar como base los equivalentes que al efecto se establezcan por las autoridades competentes para las entidades de la administración pública federal, adecuándolos a las características y necesidades del Instituto.
 Los recursos de cada ramo de seguros a que se refiere esta Ley sólo podrán utilizarse para cubrir las prestaciones y pago de beneficios y constitución reservas que correspondan a cada uno de ellos.
 Artículo adicionado DOF 20-12-2001
 
@@ -2418,9 +2515,11 @@ Lo anterior, no deberá afectar las metas de constitución o incremento de reser
 Artículo adicionado DOF 20-12-2001
 
 ## CAPÍTULO VII — DE LA CONSTITUCIÓN DE RESERVAS
+
 Denominación del Capítulo reformada DOF 20-12-2001
 
 ## SECCIÓN PRIMERA — GENERALIDADES
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 278
@@ -2445,6 +2544,7 @@ IV. Reserva General Financiera y Actuarial.
 Artículo reformado DOF 20-12-2001
 
 ## SECCIÓN SEGUNDA — DE LAS RESERVAS DE LOS SEGUROS
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 281
@@ -2496,6 +2596,7 @@ El Instituto podrá disponer de las Reservas Financieras y Actuariales de cada s
 Artículo adicionado DOF 20-12-2001
 
 ## SECCIÓN TERCERA — DEL PROGRAMA ANUAL DE ADMINISTRACIÓN Y CONSTITUCIÓN DE RESERVAS
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 286 B
@@ -2512,6 +2613,7 @@ El Consejo Técnico, a propuesta razonada de la Dirección General, podrá modif
 Artículo adicionado DOF 20-12-2001
 
 ## SECCIÓN CUARTA — DE LA INVERSIÓN DE LAS RESERVAS Y DE SU USO PARA LA OPERACIÓN
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 286 C
@@ -2530,6 +2632,7 @@ Los intereses o rendimientos que genere cada reserva deberán aplicarse exclusiv
 Artículo adicionado DOF 20-12-2001
 
 ## CAPÍTULO VIII — DEL SISTEMA DE PROFESIONALIZACIÓN Y DESARROLLO
+
 Capítulo adicionado DOF 20-12-2001
 
 ### Artículo 286 F
@@ -2566,7 +2669,8 @@ II. Especialización y profesionalización para el desempeño de las funciones y
 
 III. Retribuciones y prestaciones vinculadas a la productividad, acordes al mercado de trabajo, que sean suficientes para asegurar al Instituto la contratación y permanencia de los mejores servidores públicos de mando y trabajadores;
 
-IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto, la igualdad sustantiva y respeto a los derechos humanos, vinculados a la mejora de los servicios que se presten, a fin de garantizar un trato digno e igualitario, así como la eficiencia en la prestación de los servicios, y Fracción reformada DOF 15-01-2026
+IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto, la igualdad sustantiva y respeto a los derechos humanos, vinculados a la mejora de los servicios que se presten, a fin de garantizar un trato digno e igualitario, así como la eficiencia en la prestación de los servicios, y
+Fracción reformada DOF 15-01-2026
 
 V. Integridad, responsabilidad y conducta adecuada de este personal.
 Artículo adicionado DOF 20-12-2001
@@ -2578,13 +2682,17 @@ El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para 
 Artículo adicionado DOF 20-12-2001. Reformado DOF 11-08-2004
 
 ## CAPÍTULO IX — DE LOS MEDIOS DE COMUNICACIÓN
+
 Capítulo adicionado DOF 20-12-2001
 
 ### Artículo 286 L
 Las personas particulares podrán presentar ante el Instituto, las promociones o solicitudes relacionadas con el ejercicio de las facultades de éste, establecidas en la Ley y sus Reglamentos a través del Buzón IMSS, para lo cual emplearán los medios de identificación correspondientes.
-Párrafo reformado DOF 07-06-2024 Las actuaciones realizadas a través del Buzón IMSS producirán los mismos efectos legales que los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorguen a éstos.
-Párrafo reformado DOF 07-06-2024 Asimismo, la clave de identificación personal correspondiente a los registros efectuados en el expediente clínico, que se señala en el artículo 111 A de esta Ley, producirá los mismos efectos legales a que se refiere el párrafo anterior. En estos casos, el Instituto al recibir una promoción o solicitud dará por acreditada la identidad o existencia del promovente y, en su caso, las facultades de su representante, siempre y cuando la documentación requerida para este fin corresponda con la que se hubiere presentado por el particular para obtener su certificado de firma electrónica, por lo que se abstendrá, en su caso, de solicitar dicha documentación como requisito en el procedimiento administrativo de que se trate.
-Reforma DOF 07-06-2024: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 20-12-2001
+Párrafo reformado DOF 07-06-2024
+Las actuaciones realizadas a través del Buzón IMSS producirán los mismos efectos legales que los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorguen a éstos.
+Párrafo reformado DOF 07-06-2024
+Asimismo, la clave de identificación personal correspondiente a los registros efectuados en el expediente clínico, que se señala en el artículo 111 A de esta Ley, producirá los mismos efectos legales a que se refiere el párrafo anterior. En estos casos, el Instituto al recibir una promoción o solicitud dará por acreditada la identidad o existencia del promovente y, en su caso, las facultades de su representante, siempre y cuando la documentación requerida para este fin corresponda con la que se hubiere presentado por el particular para obtener su certificado de firma electrónica, por lo que se abstendrá, en su caso, de solicitar dicha documentación como requisito en el procedimiento administrativo de que se trate.
+Reforma DOF 07-06-2024: Derogó del artículo el entonces párrafo segundo
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 286 M
 El Instituto realizará notificaciones, citatorios, emplazamientos; requerir o solicitar informes o documentación, o emitir resoluciones e informar sobre aspectos de interés a las personas particulares, a través del Buzón IMSS.
@@ -2596,9 +2704,11 @@ Artículo adicionado DOF 20-12-2001. Reformado DOF 07-06-2024
 
 ### Artículo 286 N
 Cuando los documentos se presenten a través de los medios de comunicación a que se refiere este Capítulo, se utilicen para efectos del pago de cuotas obrero patronales, u otros trámites relacionados con ello, se regirán por lo que respecto de ese tipo de documentos se establezca en el Código.
-Artículo adicionado DOF 20-12-2001 TITULO QUINTO DE LOS PROCEDIMIENTOS, DE LA CADUCIDAD Y PRESCRIPCION
+Artículo adicionado DOF 20-12-2001
+TITULO QUINTO DE LOS PROCEDIMIENTOS, DE LA CADUCIDAD Y PRESCRIPCION
 
 ## CAPÍTULO I — DE LOS CRÉDITOS FISCALES
+
 Denominación del Capítulo reformada DOF 20-12-2001
 
 ### Artículo 287
@@ -2622,9 +2732,12 @@ II. En los casos en que los socios o accionistas del patrón sustituido sean, ma
 En caso de sustitución de patrón, el sustituido será solidariamente responsable con el nuevo de las obligaciones derivadas de esta Ley, nacidas antes de la fecha en que se avise al Instituto por escrito la sustitución, hasta por el término de seis meses, concluido el cual todas las responsabilidades serán atribuibles al nuevo patrón.
 El Instituto deberá, al recibir el aviso de sustitución, comunicar al patrón sustituto las obligaciones que adquiere conforme al párrafo anterior. Igualmente deberá, dentro del plazo de seis meses, notificar al nuevo patrón el estado de adeudo del sustituido.
 Cuando los trabajadores de una empresa reciban los bienes de ésta en pago de prestaciones de carácter contractual por la resolución judicial, en términos de lo establecido por la Ley Federal del Trabajo, y directamente se encarguen de su operación, no se considerará como sustitución patronal para los efectos de esta Ley.
-Párrafo reformado DOF 01-05-2019 Artículo reformado DOF 20-12-2001 CAPITULO II DE LOS PROCEDIMIENTOS
+Párrafo reformado DOF 01-05-2019
+Artículo reformado DOF 20-12-2001
+CAPITULO II DE LOS PROCEDIMIENTOS
 
 ## SECCIÓN PRIMERA — PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 291
@@ -2653,11 +2766,13 @@ a) Desde la fecha en que se dicte el acuerdo de modificación, si el error se de
 b) Desde la fecha de la vigencia de la prestación, si se comprueba que el interesado proporcionó al Instituto informaciones o datos falsos. En este caso se reintegrarán al Instituto las cantidades que hubiese pagado en exceso con motivo del error.
 
 ## SECCIÓN SEGUNDA — DE LOS MEDIOS DE DEFENSA
+
 Sección adicionada DOF 20-12-2001
 
 ### Artículo 294
 . Cuando los patrones y demás sujetos obligados, así como los asegurados o sus beneficiarios consideren impugnable algún acto definitivo del Instituto, podrán recurrir en inconformidad, en la forma y términos que establezca el reglamento, o bien proceder en los términos del artículo siguiente.
-Párrafo reformado DOF 20-12-2001 Las resoluciones, acuerdos o liquidaciones del Instituto que no hubiesen sido impugnados en la forma y términos que señale el reglamento correspondiente, se entenderán consentidos.
+Párrafo reformado DOF 20-12-2001
+Las resoluciones, acuerdos o liquidaciones del Instituto que no hubiesen sido impugnados en la forma y términos que señale el reglamento correspondiente, se entenderán consentidos.
 
 ### Artículo 295
 . Las controversias entre los asegurados o sus beneficiarios y el Instituto sobre las prestaciones que esta Ley otorga, deberán tramitarse ante los Tribunales Federales en materia laboral, en tanto que las que se presenten entre el Instituto y los patrones y demás sujetos obligados, se tramitarán ante el Tribunal Federal de Justicia Administrativa.
@@ -2665,13 +2780,16 @@ Artículo reformado DOF 20-12-2001, 01-05-2019
 
 ### Artículo 296
 . Los derechohabientes podrán interponer ante el Instituto queja administrativa, la cual tendrá la finalidad de conocer las insatisfacciones de los usuarios por actos u omisiones del personal institucional vinculados con la prestación de los servicios médicos, siempre que los mismos no constituyan un acto definitivo impugnable a través del recurso de inconformidad.
-Párrafo reformado DOF 20-12-2001 El procedimiento administrativo de queja deberá agotarse previamente al conocimiento que deba tener otro órgano o autoridad de algún procedimiento administrativo, recurso o instancia jurisdiccional.
+Párrafo reformado DOF 20-12-2001
+El procedimiento administrativo de queja deberá agotarse previamente al conocimiento que deba tener otro órgano o autoridad de algún procedimiento administrativo, recurso o instancia jurisdiccional.
 La resolución de la queja se hará en los términos que establezca el instructivo respectivo.
-Párrafo reformado DOF 20-12-2001 CAPITULO III DE LA CADUCIDAD Y PRESCRIPCION
+Párrafo reformado DOF 20-12-2001
+CAPITULO III DE LA CADUCIDAD Y PRESCRIPCION
 
 ### Artículo 297
 . La facultad del Instituto de fijar en cantidad líquida los créditos a su favor se extingue en el término de cinco años no sujeto a interrupción, contado a partir de la fecha de la presentación por el patrón o por cualquier otro sujeto obligado en términos de esta Ley, del aviso o liquidación o de aquella en que el propio Instituto tenga conocimiento del hecho generador de la obligación.
-Párrafo reformado DOF 20-12-2001 El plazo de caducidad señalado en este artículo sólo se suspenderá cuando se interponga el recurso de inconformidad o juicio.
+Párrafo reformado DOF 20-12-2001
+El plazo de caducidad señalado en este artículo sólo se suspenderá cuando se interponga el recurso de inconformidad o juicio.
 
 ### Artículo 298
 . La obligación de enterar las cuotas y los capitales constitutivos, prescribirá a los cinco años de la fecha de su exigibilidad.
@@ -2699,25 +2817,37 @@ Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, pr
 ### Artículo 302
 . El derecho del trabajador o pensionado y, en su caso, de sus beneficiarios a recibir los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez es imprescriptible.
 Sin perjuicio de lo anterior, las administradoras de fondos para el retiro, las instituciones que realicen funciones similares de naturaleza pública, así como las administradoras prestadoras de servicio deberán transferir los recursos de las subcuentas señaladas en el párrafo anterior al momento en que los trabajadores cumplan setenta años, sin necesidad de resolución judicial, al Fondo de Pensiones para el Bienestar, debiendo notificar de cada traspaso al Instituto el mismo día en que se realice. El Instituto notificará al fiduciario del Fondo la subcuenta a la que deberán aplicarse dichos recursos, en términos de las reglas de operación del mismo y demás disposiciones aplicables. Lo anterior no será aplicable a los recursos de las cuentas individuales de aquellos trabajadores que cuenten con una relación laboral activa ante el Instituto.
-Párrafo reformado DOF 30-04-2024 El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos al Instituto.
-Párrafo adicionado DOF 30-04-2024 El Instituto se coordinará con el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Comisión Nacional del Sistema de Ahorro para el Retiro a efecto de emitir, dentro del año previo a que el trabajador cumpla setenta años, el aviso a que se refiere el artículo 37 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-Párrafo adicionado DOF 30-04-2024 Para garantizar la imprescriptibilidad establecida en el párrafo primero del presente artículo, el Fondo contará con una reserva constituida con cargo a los recursos a que se refiere este artículo y en los términos que establezca su contrato constitutivo, a fin de garantizar la suficiencia financiera para que el Instituto pueda llevar a cabo, en su caso, la devolución de los recursos de los trabajadores, pensionados o beneficiarios.
-Párrafo adicionado DOF 30-04-2024 La suficiencia financiera de la reserva será determinada cada dos años por el Instituto, debiendo comunicarlo al Comité Técnico conforme a sus reglas de operación.
-Párrafo adicionado DOF 30-04-2024 Los trabajadores y, en su caso, sus beneficiarios podrán acudir ante el Instituto para acceder al mecanismo de devolución de forma permanente para recibir la pensión a que tengan derecho conforme a esta Ley o, en su caso, la devolución de los recursos, así como los intereses que les correspondan en los términos de las disposiciones que resulten aplicables.
-Párrafo adicionado DOF 30-04-2024 El ahorro de los trabajadores que sea transferido al Fondo generará intereses conforme al rendimiento neto derivado de las inversiones efectivamente realizadas por dicho Fondo en apego al régimen de inversión que determine el Comité Técnico. El Instituto realizará la individualización correspondiente con base en el rendimiento que el propio Fondo le reporte.
-Párrafo adicionado DOF 30-04-2024 Sin perjuicio de lo previsto en el primer párrafo de este artículo, el Instituto podrá disponer, sin necesidad de resolución judicial, de los recursos relacionados con cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial, al año calendario en el que sea exigible, siempre que constituya una reserva suficiente para atender las solicitudes de devolución que ante el mismo presenten los trabajadores o sus beneficiarios.
-Párrafo adicionado DOF 30-04-2024 La Secretaría de Hacienda y Crédito Público aprobará la metodología para determinar el monto de la reserva que el Instituto constituirá para atender las solicitudes de devolución señaladas en el párrafo anterior y el procedimiento que deberá seguir para ello.
-Párrafo recorrido y publicado sin cambios DOF 30-04-2024 Artículo reformado DOF 16-12-2020
+Párrafo reformado DOF 30-04-2024
+El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos al Instituto.
+Párrafo adicionado DOF 30-04-2024
+El Instituto se coordinará con el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Comisión Nacional del Sistema de Ahorro para el Retiro a efecto de emitir, dentro del año previo a que el trabajador cumpla setenta años, el aviso a que se refiere el artículo 37 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+Párrafo adicionado DOF 30-04-2024
+Para garantizar la imprescriptibilidad establecida en el párrafo primero del presente artículo, el Fondo contará con una reserva constituida con cargo a los recursos a que se refiere este artículo y en los términos que establezca su contrato constitutivo, a fin de garantizar la suficiencia financiera para que el Instituto pueda llevar a cabo, en su caso, la devolución de los recursos de los trabajadores, pensionados o beneficiarios.
+Párrafo adicionado DOF 30-04-2024
+La suficiencia financiera de la reserva será determinada cada dos años por el Instituto, debiendo comunicarlo al Comité Técnico conforme a sus reglas de operación.
+Párrafo adicionado DOF 30-04-2024
+Los trabajadores y, en su caso, sus beneficiarios podrán acudir ante el Instituto para acceder al mecanismo de devolución de forma permanente para recibir la pensión a que tengan derecho conforme a esta Ley o, en su caso, la devolución de los recursos, así como los intereses que les correspondan en los términos de las disposiciones que resulten aplicables.
+Párrafo adicionado DOF 30-04-2024
+El ahorro de los trabajadores que sea transferido al Fondo generará intereses conforme al rendimiento neto derivado de las inversiones efectivamente realizadas por dicho Fondo en apego al régimen de inversión que determine el Comité Técnico. El Instituto realizará la individualización correspondiente con base en el rendimiento que el propio Fondo le reporte.
+Párrafo adicionado DOF 30-04-2024
+Sin perjuicio de lo previsto en el primer párrafo de este artículo, el Instituto podrá disponer, sin necesidad de resolución judicial, de los recursos relacionados con cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial, al año calendario en el que sea exigible, siempre que constituya una reserva suficiente para atender las solicitudes de devolución que ante el mismo presenten los trabajadores o sus beneficiarios.
+Párrafo adicionado DOF 30-04-2024
+La Secretaría de Hacienda y Crédito Público aprobará la metodología para determinar el monto de la reserva que el Instituto constituirá para atender las solicitudes de devolución señaladas en el párrafo anterior y el procedimiento que deberá seguir para ello.
+Párrafo recorrido y publicado sin cambios DOF 30-04-2024
+Artículo reformado DOF 16-12-2020
 
 ## TÍTULO SEXTO — DE LAS RESPONSABILIDADES, INFRACCIONES, SANCIONES Y DELITOS
+
 Denominación del Título reformada DOF 20-12-2001
 
 ## CAPÍTULO I — DE LAS RESPONSABILIDADES
+
 Denominación del Capítulo reformada DOF 20-12-2001
 
 ### Artículo 303
 . Los servidores públicos del Instituto están obligados a observar en el cumplimiento de sus obligaciones, los principios de igualdad y no discriminación, responsabilidad, ética profesional, excelencia, honradez, lealtad, imparcialidad, eficiencia, calidez, buen trato, respeto a los derechos humanos y calidad en la prestación de los servicios y en la atención a las y los derechohabientes y estarán sujetos a las responsabilidades civiles o penales en que pudieran incurrir como encargados de un servicio público.
-Párrafo reformado DOF 15-01-2026 Por lo que el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos, no discriminación e igualdad de género.
+Párrafo reformado DOF 15-01-2026
+Por lo que el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos, no discriminación e igualdad de género.
 Artículo reformado DOF 20-12-2001, 29-11-2023
 
 ### Artículo 303 A
@@ -2725,6 +2855,7 @@ El incumplimiento de las obligaciones administrativas, que en su caso correspond
 Artículo adicionado DOF 20-12-2001
 
 ## CAPÍTULO II — DE LAS INFRACCIONES Y SANCIONES
+
 Capítulo adicionado DOF 20-12-2001
 
 ### Artículo 304
@@ -2775,10 +2906,12 @@ XIX. Omitir o presentar extemporáneamente el dictamen por contador público aut
 XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto;
 Fracción reformada DOF 09-07-2009
 
-XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y Fracción reformada DOF 09-07-2009
+XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y
+Fracción reformada DOF 09-07-2009
 
 XXII. No presentar o presentar fuera del plazo legal establecido, la información señalada en el artículo 15 A de esta Ley.
-Fracción adicionada DOF 09-07-2009. Reformada DOF 23-04-2021 Artículo adicionado DOF 20-12-2001
+Fracción adicionada DOF 09-07-2009. Reformada DOF 23-04-2021
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 304 B
 Las infracciones señaladas en el artículo anterior, se sancionarán considerando la gravedad, condiciones particulares del infractor y en su caso la reincidencia, en la forma siguiente:
@@ -2793,7 +2926,8 @@ IV. Las previstas en las fracciones I, II, XII, XIV, XVII, XX y XXI, con multa e
 Fracción reformada DOF 09-07-2009, 23-04-2021
 
 V. La prevista en la fracción XXII, con multa equivalente al importe de 500 a 2000 veces el valor de la Unidad de Medida y Actualización.
-Fracción adicionada DOF 23-04-2021 Artículo adicionado DOF 20-12-2001
+Fracción adicionada DOF 23-04-2021
+Artículo adicionado DOF 20-12-2001
 
 ### Artículo 304 C
 No se impondrán multas cuando se cumplan en forma espontánea las obligaciones patronales fuera de los plazos señalados por la Ley o cuando se haya incurrido en infracción por caso fortuito o fuerza mayor. Se considerará que el cumplimiento no es espontáneo en el caso de que:
@@ -2813,6 +2947,7 @@ Sólo procederá la condonación de multas que hayan quedado firmes y siempre qu
 Artículo adicionado DOF 20-12-2001
 
 ## CAPÍTULO III — DE LOS DELITOS
+
 Capítulo adicionado DOF 20-12-2001
 
 ### Artículo 305
@@ -2905,15 +3040,16 @@ Artículo adicionado DOF 20-12-2001
 ## TRANSITORIOS
 
 **PRIMERO.-** Esta Ley entrará en vigor en toda la República el día primero de julio de mil novecientos noventa y siete.
-Párrafo reformado DOF 21-11-1996 A partir de la entrada en vigor de esta Ley, se derogan la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día doce de marzo de 1973, la Ley que incorpora al Régimen del Seguro Social obligatorio a los Productores de Caña de Azúcar y a sus trabajadores, publicada el siete de diciembre de 1963 en dicho órgano oficial, así como todas las disposiciones legales que se opongan a la presente Ley.
-**SEGUNDO.** En tanto se expidan las disposiciones reglamentarias correspondientes continuarán aplicándose los Reglamentos de la Ley del Seguro Social que se deroga, en lo que no se opongan al presente ordenamiento.
-**TERCERO.** Los asegurados inscritos con anterioridad a la fecha de entrada en vigor de esta Ley, así como sus beneficiarios, al momento de cumplirse, en términos de la Ley que se deroga, los supuestos legales o el siniestro respectivo para el disfrute de cualquiera de las pensiones, podrán optar por acogerse al beneficio de dicha Ley o al esquema de pensiones establecido en el presente ordenamiento.
-**CUARTO.** Para el caso de los trabajadores que hayan cotizado en términos de la Ley del Seguro Social que se deroga, y que llegaren a pensionarse durante la vigencia de la presente Ley, el Instituto Mexicano del Seguro Social, estará obligado, a solicitud de cada trabajador, a calcular estimativamente el importe de su pensión para cada uno de los regímenes, a efecto de que éste pueda decidir lo que a sus intereses convenga.
-**QUINTO.** Los derechos adquiridos por quienes se encuentran en período de conservación de los mismos, no serán afectados por la entrada en vigor de esta Ley y sus titulares accederán a las pensiones que les correspondan conforme a la Ley que se deroga. Tanto a ellos como a los demás asegurados inscritos, les será aplicable el tiempo de espera de ciento cincuenta semanas cotizadas, para efectos del seguro de invalidez y vida.
-**SEXTO.** El asegurado que a la entrada en vigor de esta Ley se encuentre laborando por semana o jornada reducidas y cotice con base en un salario inferior al mínimo, continuará cotizando en los mismos términos en que lo viene haciendo, mientras dure la relación laboral que origine ese pago. De terminarse esa relación e iniciarse otra similar, aun en el supuesto que el salario percibido fuere inferior al mínimo, cotizará en los términos de esta Ley.
+Párrafo reformado DOF 21-11-1996
+A partir de la entrada en vigor de esta Ley, se derogan la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día doce de marzo de 1973, la Ley que incorpora al Régimen del Seguro Social obligatorio a los Productores de Caña de Azúcar y a sus trabajadores, publicada el siete de diciembre de 1963 en dicho órgano oficial, así como todas las disposiciones legales que se opongan a la presente Ley.
+**SEGUNDO.-** En tanto se expidan las disposiciones reglamentarias correspondientes continuarán aplicándose los Reglamentos de la Ley del Seguro Social que se deroga, en lo que no se opongan al presente ordenamiento.
+**TERCERO.-** Los asegurados inscritos con anterioridad a la fecha de entrada en vigor de esta Ley, así como sus beneficiarios, al momento de cumplirse, en términos de la Ley que se deroga, los supuestos legales o el siniestro respectivo para el disfrute de cualquiera de las pensiones, podrán optar por acogerse al beneficio de dicha Ley o al esquema de pensiones establecido en el presente ordenamiento.
+**CUARTO.-** Para el caso de los trabajadores que hayan cotizado en términos de la Ley del Seguro Social que se deroga, y que llegaren a pensionarse durante la vigencia de la presente Ley, el Instituto Mexicano del Seguro Social, estará obligado, a solicitud de cada trabajador, a calcular estimativamente el importe de su pensión para cada uno de los regímenes, a efecto de que éste pueda decidir lo que a sus intereses convenga.
+**QUINTO.-** Los derechos adquiridos por quienes se encuentran en período de conservación de los mismos, no serán afectados por la entrada en vigor de esta Ley y sus titulares accederán a las pensiones que les correspondan conforme a la Ley que se deroga. Tanto a ellos como a los demás asegurados inscritos, les será aplicable el tiempo de espera de ciento cincuenta semanas cotizadas, para efectos del seguro de invalidez y vida.
+**SEXTO.-** El asegurado que a la entrada en vigor de esta Ley se encuentre laborando por semana o jornada reducidas y cotice con base en un salario inferior al mínimo, continuará cotizando en los mismos términos en que lo viene haciendo, mientras dure la relación laboral que origine ese pago. De terminarse esa relación e iniciarse otra similar, aun en el supuesto que el salario percibido fuere inferior al mínimo, cotizará en los términos de esta Ley.
 SEPTIMO. Los asegurados a que se refieren los artículos 12 fracción III y 13 de la Ley del Seguro Social, que se deroga, y los comprendidos en la Ley que Incorpora al Régimen del Seguro Social Obligatorio a los Productores de Caña de Azúcar y a sus Trabajadores, que también se deroga, conservarán sus derechos adquiridos, esquemas de aseguramiento y bases de cotización.
 Los asegurados a que se refiere el párrafo anterior, en un plazo no mayor de un año computado a partir de la fecha en que entre en vigor esta Ley, deberán ratificar su voluntad de permanecer en el régimen obligatorio o continuar incorporados voluntariamente a dicho régimen a través del convenio que para tal fin se formalice con el Instituto, de acuerdo a las bases y términos que establece esta Ley.
-**OCTAVO.** Los seguros facultativos establecidos con anterioridad a la entrada en vigor de esta Ley, continuarán vigentes en sus términos hasta la fecha de su vencimiento.
+**OCTAVO.-** Los seguros facultativos establecidos con anterioridad a la entrada en vigor de esta Ley, continuarán vigentes en sus términos hasta la fecha de su vencimiento.
 **NOVENO.-** Los patrones inscritos en el Instituto antes de la entrada en vigor de esta Ley continuarán sujetos hasta el primer bimestre de 1998 a las mismas cuotas que venían cubriendo en el seguro de riegos de trabajo.
 A partir del segundo bimestre de 1998, estos patrones deberán determinar su prima conforme a su siniestralidad registrada del periodo comprendido del 1 de enero al 31 de diciembre de 1997.
 Los patrones inscritos o que cambien de actividad bajo la vigencia de esta Ley determinarán su prima en términos del artículo 73 de esta Ley y la modificación anual de la prima conforme a la siniestralidad ocurrida durante el lapso que se establezca en el Reglamento respectivo.
@@ -2963,10 +3099,12 @@ VIGESIMO NOVENO. Los pensionados que para el disfrute de cualquiera de las pensi
 
 , sin perjuicio de lo dispuesto en la misma con respecto al otorgamiento de préstamos a cuenta de su pensión, podrán optar por solicitar préstamos con cualquiera de las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, que tengan celebrado, para los efectos de este artículo, un convenio con el Instituto, debiendo el pensionado otorgar su consentimiento expreso para que dicho Instituto le descuente de su pensión los importes relativos al pago del préstamo y los entregue a la Entidad Financiera que lo otorgó.
 El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior al promedio de las pensiones garantizadas, que corresponda a un salario mínimo y sesenta años de edad, de acuerdo a la tabla establecida en el artículo 170 de esta Ley y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
-Párrafo reformado DOF 16-12-2020 Las Entidades Financieras deberán comunicar al Instituto las condiciones generales del préstamo, incluyendo el Costo Anual Total aplicable a los mismos, con objeto de que éste los haga del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
+Párrafo reformado DOF 16-12-2020
+Las Entidades Financieras deberán comunicar al Instituto las condiciones generales del préstamo, incluyendo el Costo Anual Total aplicable a los mismos, con objeto de que éste los haga del conocimiento de los pensionados, para fines de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
 Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras, serán cubiertos por éstas al Instituto en los términos que se estipule en los convenios respectivos.
 El Consejo Técnico del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
-Artículo adicionado DOF 28-05-2012 México, D.F., a 12 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
+Artículo adicionado DOF 28-05-2012
+México, D.F., a 12 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA ACLARACION a la Ley del Seguro Social, publicada el 21 de diciembre de 1995.
 Publicada en el Diario Oficial de la Federación el 16 de enero de 1996 En la página 39, Primera Sección, primera columna, renglón 52, dice: ... de su cuenta individual; o Debe decir: ... de su cuenta individual;
@@ -3028,29 +3166,29 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2001
 ### ARTÍCULO ÚNICO
 : Se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, publicada en el Diario Oficial de la Federación del 21 de diciembre de 1995, en los términos siguientes:
 A. Se reforman los artículos: 5; 8; 9; 12, fracciones I, II, y III; 15, fracciones I, III, V, VI y IX, penúltimo y último párrafos; 16; 17; 18, primer párrafo; 19; 22; 27; 30, fracción II; 31, fracción I; 34; 39; 40; 50; 51, último párrafo; 58, fracción II; primer párrafo; 62; 66, último párrafo; 72; 74,
-**segundo.** párrafo; 76, primer párrafo; 79, fracción VIII; 82, segundo párrafo; 87, segundo párrafo; 88, segundo párrafo; 89, fracciones II y III; 109; 137; 141, primer párrafo; 149, segundo párrafo; 154, primer párrafo; 171; 173; 180; 183; 201; 205; 207; 209, segundo y tercer párrafos; 210, fracciones I, II, III, IV, V, VI y VII; 218, primer párrafo; 219; 220, fracción II; 222, fracción II, inciso a); 224, segundo párrafo; 227, fracción I; 228, fracción II; 229; 231, fracción I; 232; 233; 237; 242, primer párrafo; 251, fracciones I, IV, VI, VII, VIII, X, XI, XII, XV, XVI, XVIII, XIX, XXI y XXIII; 253; 256; 263, segundo párrafo; 264, fracciones IV, VI, VII, IX, XI, XII, XIV, XV, XVI y XVII; 265; 266, fracciones II, IV y V; 268, fracciones III, VII, VIII y X; 270; 271; 272; 273; 274; 275; 276; 277; 278; 279; 280; 281; 282; 283; 284; 285; 286; 287; 288; 289; 290; 291; 294, primer párrafo; 295; 296,
-**primero.** y último párrafos; 297, primer párrafo; 303; 304, y 305; las denominaciones de los capítulos I, VI y VII del Título Cuarto para quedar como sigue: Capítulo I "De las Atribuciones, Patrimonio y Órganos de Gobierno y Administración", que comprende los artículos 251 al 257;
+**segundo.-** párrafo; 76, primer párrafo; 79, fracción VIII; 82, segundo párrafo; 87, segundo párrafo; 88, segundo párrafo; 89, fracciones II y III; 109; 137; 141, primer párrafo; 149, segundo párrafo; 154, primer párrafo; 171; 173; 180; 183; 201; 205; 207; 209, segundo y tercer párrafos; 210, fracciones I, II, III, IV, V, VI y VII; 218, primer párrafo; 219; 220, fracción II; 222, fracción II, inciso a); 224, segundo párrafo; 227, fracción I; 228, fracción II; 229; 231, fracción I; 232; 233; 237; 242, primer párrafo; 251, fracciones I, IV, VI, VII, VIII, X, XI, XII, XV, XVI, XVIII, XIX, XXI y XXIII; 253; 256; 263, segundo párrafo; 264, fracciones IV, VI, VII, IX, XI, XII, XIV, XV, XVI y XVII; 265; 266, fracciones II, IV y V; 268, fracciones III, VII, VIII y X; 270; 271; 272; 273; 274; 275; 276; 277; 278; 279; 280; 281; 282; 283; 284; 285; 286; 287; 288; 289; 290; 291; 294, primer párrafo; 295; 296,
+**primero.-** y último párrafos; 297, primer párrafo; 303; 304, y 305; las denominaciones de los capítulos I, VI y VII del Título Cuarto para quedar como sigue: Capítulo I "De las Atribuciones, Patrimonio y Órganos de Gobierno y Administración", que comprende los artículos 251 al 257;
 
 ## Capítulo VI — "Del Instituto Mexicano del Seguro Social como Organismo Fiscal Autónomo", que
+
 comprende los artículos 270 al 277 G, y Capítulo VII "De la Constitución de Reservas", que comprende los artículos 278 al 286 E; la denominación del Capítulo I del Título Quinto para quedar como sigue: Capítulo I "De los Créditos Fiscales", que comprende los artículos 287 al 290; la denominación del Título Sexto para quedar como sigue: "De las Responsabilidades, Infracciones, Sanciones y Delitos", y el Capítulo Único del Título Sexto pasa a ser Capítulo I "De las Responsabilidades", que comprende los artículos 303 y 303 A.
 B. Se adicionan los artículos 5 A; 15 A; 15 B; 28 A; 39 A; 39 B; 39 C; 39 D; 40 A; 40 B; 40 C; 40 D; 40 E; 40 F; 73, con un último párrafo; 77, con un tercer párrafo, pasando los actuales tercero y
-**cuarto.** a ser el cuarto y quinto párrafos respectivamente; 79, con un segundo, tercero, cuarto y
-**quinto.** párrafos; 88, con un tercer párrafo; 89, con una fracción IV; 109 con los párrafos segundo y tercero pasando el actual segundo al cuarto; 111 A; 172 A; 210 A; 216 A; 218, con un último párrafo; 220, con un último párrafo; 222, fracción II, inciso d), con un segundo párrafo; 224, con un tercer párrafo; 250 A; 250 B; 251, con las fracciones XXIV a la XXXVII; 251 A; 263 con los párrafos sexto, séptimo y octavo; 266, fracción VI; 268, fracciones XI y XII; 268 A; 277 A; 277 B; 277 C; 277 D; 277 E; 277 F; 277 G; 286 A; 286 B; 286 C; 286 D; 286 E; 286 F; 286 G; 286 H; 286 I; 286 J; 286 K; 286 L; 286 M; 286 N; 303 A; 304 A; 304 B; 304 C; 304 D; 306 a 319; el Capítulo IV del Título Segundo, con una Sección Séptima "Del Registro de las Actividades para la Salud a la Población Derechohabiente"; el Título Tercero con un Capítulo III "Otros Seguros"; el Capítulo VII del Título Cuarto con una Sección Primera "Generalidades", que comprende los artículos 278 al 280, una Sección Segunda "De las Reservas de los Seguros", que comprende los artículos 281 al 286 A, una Sección Tercera "Del Programa Anual de Administración y Constitución de Reservas", que comprende el artículo 286 B y una Sección Cuarta "De la Inversión de las Reservas y de su Uso para la Operación", que comprende los artículos 286 C al 286 E; el Título
-**Cuarto.** con un Capítulo VIII "Del Sistema de Profesionalización y Desarrollo", que comprende los artículos 286 F al 286 K, y un Capítulo IX "De los Medios de Comunicación", que comprende los artículos 286 L al 286 N; el Capítulo II del Título Quinto con una Sección Primera "Procedimiento Administrativo de Ejecución", que comprende los artículos 291 al 293, y con una Sección Segunda "De los Medios de Defensa", que comprende los artículos 294 al 296; el Título Sexto con un Capítulo II "De las Infracciones y Sanciones", que comprende los artículos 304 a 304 D, y un Capítulo III "De los Delitos", que comprende los artículos 305 a 319.
+**cuarto.-** a ser el cuarto y quinto párrafos respectivamente; 79, con un segundo, tercero, cuarto y
+**quinto.-** párrafos; 88, con un tercer párrafo; 89, con una fracción IV; 109 con los párrafos segundo y tercero pasando el actual segundo al cuarto; 111 A; 172 A; 210 A; 216 A; 218, con un último párrafo; 220, con un último párrafo; 222, fracción II, inciso d), con un segundo párrafo; 224, con un tercer párrafo; 250 A; 250 B; 251, con las fracciones XXIV a la XXXVII; 251 A; 263 con los párrafos sexto, séptimo y octavo; 266, fracción VI; 268, fracciones XI y XII; 268 A; 277 A; 277 B; 277 C; 277 D; 277 E; 277 F; 277 G; 286 A; 286 B; 286 C; 286 D; 286 E; 286 F; 286 G; 286 H; 286 I; 286 J; 286 K; 286 L; 286 M; 286 N; 303 A; 304 A; 304 B; 304 C; 304 D; 306 a 319; el Capítulo IV del Título Segundo, con una Sección Séptima "Del Registro de las Actividades para la Salud a la Población Derechohabiente"; el Título Tercero con un Capítulo III "Otros Seguros"; el Capítulo VII del Título Cuarto con una Sección Primera "Generalidades", que comprende los artículos 278 al 280, una Sección Segunda "De las Reservas de los Seguros", que comprende los artículos 281 al 286 A, una Sección Tercera "Del Programa Anual de Administración y Constitución de Reservas", que comprende el artículo 286 B y una Sección Cuarta "De la Inversión de las Reservas y de su Uso para la Operación", que comprende los artículos 286 C al 286 E; el Título
+**Cuarto.-** con un Capítulo VIII "Del Sistema de Profesionalización y Desarrollo", que comprende los artículos 286 F al 286 K, y un Capítulo IX "De los Medios de Comunicación", que comprende los artículos 286 L al 286 N; el Capítulo II del Título Quinto con una Sección Primera "Procedimiento Administrativo de Ejecución", que comprende los artículos 291 al 293, y con una Sección Segunda "De los Medios de Defensa", que comprende los artículos 294 al 296; el Título Sexto con un Capítulo II "De las Infracciones y Sanciones", que comprende los artículos 304 a 304 D, y un Capítulo III "De los Delitos", que comprende los artículos 305 a 319.
 C. Se derogan: el párrafo segundo del artículo 241 y las fracciones XVIII y XIX del artículo 264.
 Para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes artículos transitorios.
-**Segundo.** En tanto se emitan, en su caso, nuevos reglamentos o adecuaciones a los existentes, conforme a lo previsto en este Decreto, continuarán vigentes los reglamentos emitidos a la fecha.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes artículos transitorios.
+**Segundo.-** En tanto se emitan, en su caso, nuevos reglamentos o adecuaciones a los existentes, conforme a lo previsto en este Decreto, continuarán vigentes los reglamentos emitidos a la fecha.
 De la misma manera las unidades administrativas creadas conforme a los textos que se reforman en este Decreto, se mantendrán en funciones con las mismas facultades y atribuciones que en ellos se les asignan, hasta que se emita y entre en vigor el Reglamento Interior del Instituto.
-**Tercero.** El Instituto expedirá a los derechohabientes, el documento de identificación a que se refiere el artículo 8 de este Decreto, dentro del plazo de tres años a partir de la entrada en vigor del mismo.
-**Cuarto.** El Instituto sustituirá el número de seguridad social por el de la Clave Única de Registro de Población, dentro del plazo de tres años a partir de la entrada en vigor de este Decreto.
-**Quinto.** Las disposiciones contenidas en el Capítulo III, del Título Sexto, entrarán en vigor dentro de los ciento ochenta días naturales, a partir de la entrada en vigor de este Decreto.
-**Sexto.** El Instituto instrumentará el registro de contadores públicos para dictaminar el cumplimiento de las disposiciones contenidas en la Ley, dentro del plazo de un año a partir de la entrada en vigor de este Decreto.
-**Séptimo.** A partir de la entrada en vigor de este Decreto, todos aquellos patrones y sujetos obligados que espontáneamente regularicen sus adeudos con el Instituto, generados hasta el 30 de septiembre de 2001, mediante el pago en una sola exhibición del total de los créditos a su cargo, gozarán del beneficio de la condonación de recargos y multas, sin que ello se considere como remisión de deuda para los
-
+**Tercero.-** El Instituto expedirá a los derechohabientes, el documento de identificación a que se refiere el artículo 8 de este Decreto, dentro del plazo de tres años a partir de la entrada en vigor del mismo.
+**Cuarto.-** El Instituto sustituirá el número de seguridad social por el de la Clave Única de Registro de Población, dentro del plazo de tres años a partir de la entrada en vigor de este Decreto.
+**Quinto.-** Las disposiciones contenidas en el Capítulo III, del Título Sexto, entrarán en vigor dentro de los ciento ochenta días naturales, a partir de la entrada en vigor de este Decreto.
+**Sexto.-** El Instituto instrumentará el registro de contadores públicos para dictaminar el cumplimiento de las disposiciones contenidas en la Ley, dentro del plazo de un año a partir de la entrada en vigor de este Decreto.
+**Séptimo.-** A partir de la entrada en vigor de este Decreto, todos aquellos patrones y sujetos obligados que espontáneamente regularicen sus adeudos con el Instituto, generados hasta el 30 de septiembre de 2001, mediante el pago en una sola exhibición del total de los créditos a su cargo, gozarán del beneficio de la condonación de recargos y multas, sin que ello se considere como remisión de deuda para los
 I. Los patrones deberán manifestar por escrito al Instituto, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, su intención de acogerse a los beneficios señalados en este artículo, ante la subdelegación que corresponda a su registro patronal;
 
 II. En un plazo que no excederá de noventa días naturales, contados a partir de la fecha en que el Instituto reciba la promoción a que se refiere la fracción anterior, los patrones deberán conciliar sus adeudos en la subdelegación respectiva, y
@@ -3058,18 +3196,17 @@ II. En un plazo que no excederá de noventa días naturales, contados a partir d
 III. Si el pago se realiza en junio de 2002, la condonación será del 100 por ciento, disminuyendo en 4.00 puntos porcentuales mensualmente de julio a diciembre de 2002; en 7.00 puntos porcentuales mensualmente de enero a junio de 2003, y en 5.667 puntos porcentuales mensualmente de julio a diciembre de 2003.
 Tratándose de las cuotas relativas al seguro de retiro, cesantía en edad avanzada y vejez, no se otorgará condonación alguna.
 El Consejo Técnico podrá dictar los lineamientos de carácter general que estime necesarios, para el mejor cumplimiento de esta disposición.
-**Octavo.** En tanto se emite el Reglamento Interior del Instituto Mexicano del Seguro Social previsto en este Decreto, continuará vigente el texto del Capítulo VI del Título Cuarto que se deroga y el Reglamento de Organización Interna del Instituto Mexicano del Seguro Social, publicado en el Diario Oficial de la Federación el 11 de noviembre de 1998, manteniendo los órganos regionales y delegacionales, así como los Directores Regionales, Delegados, Subdelegados y Jefes de Oficinas para Cobros las atribuciones que esas disposiciones les otorgan, sin perjuicio de la vigencia del contenido del nuevo Capítulo VI, del Título Cuarto denominado del Instituto Mexicano del Seguro Social como Organismo Fiscal Autónomo, que entrará en vigor en términos del artículo Primero Transitorio de este Decreto.
-**Noveno.** Las sociedades cooperativas de producción que se encuentren inscritas en los términos de la Ley del Seguro Social vigente hasta el 30 de junio de 1997, cubrirán las cuotas relativas a los socios de las mismas inscritos ante el Instituto antes del inicio de la vigencia de dicho ordenamiento, conforme a lo siguiente:
+**Octavo.-** En tanto se emite el Reglamento Interior del Instituto Mexicano del Seguro Social previsto en este Decreto, continuará vigente el texto del Capítulo VI del Título Cuarto que se deroga y el Reglamento de Organización Interna del Instituto Mexicano del Seguro Social, publicado en el Diario Oficial de la Federación el 11 de noviembre de 1998, manteniendo los órganos regionales y delegacionales, así como los Directores Regionales, Delegados, Subdelegados y Jefes de Oficinas para Cobros las atribuciones que esas disposiciones les otorgan, sin perjuicio de la vigencia del contenido del nuevo Capítulo VI, del Título Cuarto denominado del Instituto Mexicano del Seguro Social como Organismo Fiscal Autónomo, que entrará en vigor en términos del artículo Primero Transitorio de este Decreto.
+**Noveno.-** Las sociedades cooperativas de producción que se encuentren inscritas en los términos de la Ley del Seguro Social vigente hasta el 30 de junio de 1997, cubrirán las cuotas relativas a los socios de las mismas inscritos ante el Instituto antes del inicio de la vigencia de dicho ordenamiento, conforme a lo siguiente:
 En tratándose de los Seguros de Enfermedades y Maternidad, Invalidez y Vida, así como del ramo de Cesantía en Edad Avanzada y Vejez, las sociedades y asociados pagarán el 50 por ciento y el Gobierno Federal el 50 por ciento restante de las cuotas que corresponden a los patrones y al propio Gobierno Federal.
 En los Seguros de Riesgos de Trabajo, de Guarderías y Prestaciones Sociales, así como en el ramo de Retiro, las sociedades cubrirán la totalidad de las cuotas.
 Por lo que se refiere a trabajadores asalariados de las sociedades mencionadas, así como a socios de éstas inscritos a partir del inicio de vigencia de este Decreto, las cuotas correspondientes se cubrirán en los términos establecidos en la misma.
-**Décimo.** De conformidad con lo establecido en el artículo 57 de la Ley General de Sociedades Cooperativas, las sociedades cooperativas de consumo, deberán de regularizar ante el Instituto en un término de ciento ochenta días a partir de la entrada en vigor del presente Decreto, el registro de sus trabajadores y socios que aporten su trabajo personal.
-**Décimo Primero.** La cuantía de las pensiones otorgadas al amparo de la legislación vigente hasta el 30 de junio de 1997 será actualizada anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior. Esta disposición se aplicará a partir del 1o. de febrero de 2002.
-**Décimo Segundo.** Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, el Instituto Mexicano del Seguro Social efectuará transferencias de recursos financieros del Seguro de Riesgos de Trabajo hacia el Seguro de Enfermedades y Maternidad por cuatro mil quinientos noventa y cuatro millones de pesos, hacia el Seguro de Invalidez y Vida por dos mil millones de pesos y hacia el Seguro de Salud para la Familia por mil millones de pesos. Dentro del mismo plazo, se efectuarán transferencias de recursos financieros de todos los seguros hasta por el equivalente a cinco mil millones de pesos hacia la Reserva de Operación para Contingencias y Financiamiento. Estas transferencias afectarán los activos y el patrimonio en cada caso. Los términos y condiciones de las transferencias efectuadas conforme a este artículo serán informadas por la Dirección General al Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, en el mes siguiente a aquel en que se hubieren realizado.
+**Décimo.-** De conformidad con lo establecido en el artículo 57 de la Ley General de Sociedades Cooperativas, las sociedades cooperativas de consumo, deberán de regularizar ante el Instituto en un término de ciento ochenta días a partir de la entrada en vigor del presente Decreto, el registro de sus trabajadores y socios que aporten su trabajo personal.
+**Décimo Primero.-** La cuantía de las pensiones otorgadas al amparo de la legislación vigente hasta el 30 de junio de 1997 será actualizada anualmente en el mes de febrero, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario anterior. Esta disposición se aplicará a partir del 1o. de febrero de 2002.
+**Décimo Segundo.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, el Instituto Mexicano del Seguro Social efectuará transferencias de recursos financieros del Seguro de Riesgos de Trabajo hacia el Seguro de Enfermedades y Maternidad por cuatro mil quinientos noventa y cuatro millones de pesos, hacia el Seguro de Invalidez y Vida por dos mil millones de pesos y hacia el Seguro de Salud para la Familia por mil millones de pesos. Dentro del mismo plazo, se efectuarán transferencias de recursos financieros de todos los seguros hasta por el equivalente a cinco mil millones de pesos hacia la Reserva de Operación para Contingencias y Financiamiento. Estas transferencias afectarán los activos y el patrimonio en cada caso. Los términos y condiciones de las transferencias efectuadas conforme a este artículo serán informadas por la Dirección General al Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, en el mes siguiente a aquel en que se hubieren realizado.
 Por única ocasión, como transición hacia al régimen establecido en este Decreto el Instituto Mexicano del Seguro Social podrá utilizar las reservas de los seguros y la reserva del régimen de jubilados y pensionados hasta por siete mil millones de pesos para financiar las reservas operativas de los seguros hasta por un plazo de ciento veinte días, contado a partir de la entrada en vigor de este Decreto. En este caso, deberán reintegrarse los recursos a las reservas correspondientes, incluyendo los intereses financieros que se hubieran devengado.
-**Décimo Tercero.** Las Reservas Operativas y la Reserva de Operación para Contingencias y Financiamiento se constituirán dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico a propuesta del Director General, respetando la distribución de activos por seguro que se dé a la misma fecha y las disposiciones específicas de este Decreto.
-**Décimo Cuarto.** Las pensiones otorgadas con fundamento en el Título Segundo, Capítulo III, artículo 65, fracciones II y III, artículo 71, fracciones II, III, IV y V, artículo 73, párrafo tercero y, Capítulo V, Secciones segunda, tercera, cuarta y quinta de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 12 de marzo de 1973; y en el Título Segundo, Capítulo III, artículo 58, fracciones II y III, artículo 64, fracciones II, III, IV, V y VI, artículo 66, párrafo tercero, Capítulo V, Secciones segunda y tercera y Capítulo VI, Secciones segunda y tercera de la Ley del Seguro Social vigente, se determinarán de acuerdo con los factores y modalidades siguientes:
-
+**Décimo Tercero.-** Las Reservas Operativas y la Reserva de Operación para Contingencias y Financiamiento se constituirán dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico a propuesta del Director General, respetando la distribución de activos por seguro que se dé a la misma fecha y las disposiciones específicas de este Decreto.
+**Décimo Cuarto.-** Las pensiones otorgadas con fundamento en el Título Segundo, Capítulo III, artículo 65, fracciones II y III, artículo 71, fracciones II, III, IV y V, artículo 73, párrafo tercero y, Capítulo V, Secciones segunda, tercera, cuarta y quinta de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 12 de marzo de 1973; y en el Título Segundo, Capítulo III, artículo 58, fracciones II y III, artículo 64, fracciones II, III, IV, V y VI, artículo 66, párrafo tercero, Capítulo V, Secciones segunda y tercera y Capítulo VI, Secciones segunda y tercera de la Ley del Seguro Social vigente, se determinarán de acuerdo con los factores y modalidades siguientes:
 a) Para los pensionados cuyo monto de pensión sea menor a un salario mínimo general vigente en el Distrito Federal, ésta se incrementará hasta igualar dicho salario mínimo;
 
 b) Para los pensionados de 60 años o más, con pensión igual o mayor a un salario mínimo general vigente en el Distrito Federal, el monto de su pensión será el resultado de multiplicar la pensión que reciban al 31 de diciembre de 2003, o la pensión que se determine si se pensionan después de esa fecha, por el factor de 1.11;
@@ -3080,40 +3217,40 @@ d) Para los pensionados del seguro de riesgos de trabajo y edad de 60 años o m�
 
 e) Para las viudas cuya pensión sea igual o menor a 1.5 salarios mínimos vigentes en el Distrito Federal, el monto de su pensión será el que resulte de multiplicar la pensión que reciban al 31 de diciembre de 2003, o la que se determine al otorgarla si es después de esa fecha, por un factor de 1.11.
 Artículo reformado DOF 05-01-2004
-**Décimo Quinto.** Los trabajadores de confianza clasificados como "A" a que hace referencia el artículo 256 de la Ley, que a partir de la entrada en vigor de este Decreto sean contratados por el Instituto Mexicano del Seguro Social, sólo serán sujetos del régimen laboral establecido en el Estatuto a que se refiere el artículo 286 I de esta Ley.
+**Décimo Quinto.-** Los trabajadores de confianza clasificados como "A" a que hace referencia el artículo 256 de la Ley, que a partir de la entrada en vigor de este Decreto sean contratados por el Instituto Mexicano del Seguro Social, sólo serán sujetos del régimen laboral establecido en el Estatuto a que se refiere el artículo 286 I de esta Ley.
 Dichos trabajadores de confianza, que al inicio de vigencia de este Decreto se encuentren prestando sus servicios al Instituto Mexicano del Seguro Social, podrán optar por los beneficios que establezca el Estatuto señalado, o las prestaciones de que actualmente vienen gozando.
-**Décimo Sexto.** A más tardar el 30 de junio de 2002, el Instituto realizará una aportación inicial para la constitución del Fondo para el Cumplimiento de Obligaciones Laborables de Carácter Legal y Contractual, a que se refiere el artículo 286 K de esta Ley, para lo cual depositará en la cuenta especial ahí prevista, los recursos que en esa fecha disponga el Instituto que se encuentren en la reserva que corresponda al “Régimen de Jubilaciones y Pensiones”, establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores, debiendo entregar una propuesta al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, con el propósito de calendarizar las aportaciones graduales que integren el referido Fondo, observando puntualmente lo señalado en los artículos 276 y 286 K de la Ley.
-**Décimo Séptimo.** Las disposiciones relacionadas con las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial entrarán en vigor cuando se emitan los reglamentos que al efecto se prevén.
-**Décimo Octavo.** Las disposiciones a que se refiere el artículo 16 del presente Decreto, entrarán en vigor a partir del mes de enero del 2003, tomando en consideración el promedio del número de trabajadores que los patrones tengan en el año 2002.
-**Décimo Noveno.** Para efectos de lo dispuesto en el primer párrafo del artículo 72 de la Ley, las empresas deberán calcular sus primas del Seguro de Riesgos de Trabajo correspondientes a los ejercicios del 2002 y 2003, multiplicando la siniestralidad de la empresa por un factor de prima de acuerdo a la fórmula indicada en ese artículo y sumando al producto lo siguiente: para el ejercicio 2002 el 0.0031, para el ejercicio 2003 el 0.0038; y para el ejercicio 2004 el 0.0044.
+**Décimo Sexto.-** A más tardar el 30 de junio de 2002, el Instituto realizará una aportación inicial para la constitución del Fondo para el Cumplimiento de Obligaciones Laborables de Carácter Legal y Contractual, a que se refiere el artículo 286 K de esta Ley, para lo cual depositará en la cuenta especial ahí prevista, los recursos que en esa fecha disponga el Instituto que se encuentren en la reserva que corresponda al “Régimen de Jubilaciones y Pensiones”, establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores, debiendo entregar una propuesta al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, con el propósito de calendarizar las aportaciones graduales que integren el referido Fondo, observando puntualmente lo señalado en los artículos 276 y 286 K de la Ley.
+**Décimo Séptimo.-** Las disposiciones relacionadas con las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial entrarán en vigor cuando se emitan los reglamentos que al efecto se prevén.
+**Décimo Octavo.-** Las disposiciones a que se refiere el artículo 16 del presente Decreto, entrarán en vigor a partir del mes de enero del 2003, tomando en consideración el promedio del número de trabajadores que los patrones tengan en el año 2002.
+**Décimo Noveno.-** Para efectos de lo dispuesto en el primer párrafo del artículo 72 de la Ley, las empresas deberán calcular sus primas del Seguro de Riesgos de Trabajo correspondientes a los ejercicios del 2002 y 2003, multiplicando la siniestralidad de la empresa por un factor de prima de acuerdo a la fórmula indicada en ese artículo y sumando al producto lo siguiente: para el ejercicio 2002 el 0.0031, para el ejercicio 2003 el 0.0038; y para el ejercicio 2004 el 0.0044.
 De la misma forma dichas empresas aplicarán para los citados ejercicios, el factor de prima denominado F en la fórmula señalada en los siguientes términos. Para el ejercicio 2002, F =2.7 y para el ejercicio 2003, F =2.5 y a partir del ejercicio 2004, F =2.3 como se indica en ese artículo.
 La Secretaría del Trabajo y Previsión Social deberá realizar todos los trámites de registro y autorización que exige la Ley Federal de Procedimiento Administrativo respecto de la acreditación de los sistemas de administración y seguridad en el trabajo a que se refiere el penúltimo párrafo del artículo 72 de esta Ley, en un plazo no mayor de 60 días hábiles contado a partir del inicio de vigencia del presente Decreto.
-**Vigésimo.** De los recursos que integran el fondo a que se refiere el artículo 15 de la Ley que en virtud de este Decreto se reforma, el 20% se destinará a los fines previstos en dicho artículo y el 80% se transferirá a la Reserva General Financiera y Actuarial a que se refiere el artículo 280, fracción IV de este Decreto.
+**Vigésimo.-** De los recursos que integran el fondo a que se refiere el artículo 15 de la Ley que en virtud de este Decreto se reforma, el 20% se destinará a los fines previstos en dicho artículo y el 80% se transferirá a la Reserva General Financiera y Actuarial a que se refiere el artículo 280, fracción IV de este Decreto.
 A partir de 2002, el importe total de las cuotas obrero patronales que se cubran al Instituto Mexicano del Seguro Social, de conformidad con lo que establece el segundo párrafo de la fracción VI, del artículo 15 del presente Decreto, se destinará íntegramente a la Reserva señalada en el párrafo anterior.
-**Vigésimo Primero.** Dentro de un plazo de tres meses contados a partir de la entrada en vigor del presente Decreto, se deberán ajustar y formalizar conforme a lo previsto en los artículos que se reforman y adicionan, las pensiones mínimas garantizadas y las correspondientes a los beneficiarios del trabajador que esté cubriendo el Instituto.
-**Vigésimo Segundo.** Lo dispuesto en el artículo 111 A que se adecúa a la Ley, entrará en vigor una vez que se emita un nuevo Reglamento de Atención Médica o con ese fin se modifique el vigente que deberá considerar lo establecido en la Norma Oficial Mexicana del Expediente Clínico NOM. 168-SSA1998 publicada en el Diario Oficial de la Federación el 30 de septiembre de 1999 o la, que en su caso, resulte aplicable al tema regulado en dicho artículo.
-**Vigésimo Tercero.** El incremento anual a que se refiere el artículo 242 de la presente reforma, comenzará a aplicarse a partir del 1o. de febrero del 2003.
-**Vigésimo Cuarto.** A los jubilados antes de 1982 de Ferrocarriles Nacionales de México deberá reconocerles su carácter de pensionados. Para este propósito el Gobierno Federal otorgará a cada jubilado una pensión garantizada mensual, equivalente a un salario mínimo general en el Distrito Federal, así como un pago anual por concepto de aguinaldo equivalente a un mes de pensión en los términos señalados. La cuantía de esos montos se actualizará anualmente en el mes de febrero del año que corresponda, conforme al incremento del salario mínimo general aplicable en el Distrito Federal, correspondiente al año por el que se realice la actualización. Respecto de aquellos ferrocarrileros jubilados antes de 1982 por las empresas ferroviarias Ferrocarril Chihuahua al Pacífico, Ferrocarril Sonora Baja California y Ferrocarriles Unidos del Sureste, cuyas actuales y legítimas esposas o concubinas les sobrevivan, a éstas les serán pagadas en forma vitalicia los pagos correspondientes al jubilado.
+**Vigésimo Primero.-** Dentro de un plazo de tres meses contados a partir de la entrada en vigor del presente Decreto, se deberán ajustar y formalizar conforme a lo previsto en los artículos que se reforman y adicionan, las pensiones mínimas garantizadas y las correspondientes a los beneficiarios del trabajador que esté cubriendo el Instituto.
+**Vigésimo Segundo.-** Lo dispuesto en el artículo 111 A que se adecúa a la Ley, entrará en vigor una vez que se emita un nuevo Reglamento de Atención Médica o con ese fin se modifique el vigente que deberá considerar lo establecido en la Norma Oficial Mexicana del Expediente Clínico NOM. 168-SSA1998 publicada en el Diario Oficial de la Federación el 30 de septiembre de 1999 o la, que en su caso, resulte aplicable al tema regulado en dicho artículo.
+**Vigésimo Tercero.-** El incremento anual a que se refiere el artículo 242 de la presente reforma, comenzará a aplicarse a partir del 1o. de febrero del 2003.
+**Vigésimo Cuarto.-** A los jubilados antes de 1982 de Ferrocarriles Nacionales de México deberá reconocerles su carácter de pensionados. Para este propósito el Gobierno Federal otorgará a cada jubilado una pensión garantizada mensual, equivalente a un salario mínimo general en el Distrito Federal, así como un pago anual por concepto de aguinaldo equivalente a un mes de pensión en los términos señalados. La cuantía de esos montos se actualizará anualmente en el mes de febrero del año que corresponda, conforme al incremento del salario mínimo general aplicable en el Distrito Federal, correspondiente al año por el que se realice la actualización. Respecto de aquellos ferrocarrileros jubilados antes de 1982 por las empresas ferroviarias Ferrocarril Chihuahua al Pacífico, Ferrocarril Sonora Baja California y Ferrocarriles Unidos del Sureste, cuyas actuales y legítimas esposas o concubinas les sobrevivan, a éstas les serán pagadas en forma vitalicia los pagos correspondientes al jubilado.
 El pago de las pensiones no podrá ser retenido sino por decisión judicial, y por lo tanto deberán estar a disposición de los beneficiarios a más tardar el quinto día hábil del mes que corresponda. En el caso de la anualidad por concepto de aguinaldo, ésta deberá ser pagada a más tardar el diez de diciembre de cada año.
 Artículo reformado DOF 05-01-2004
-**Vigésimo Quinto.** El Ejecutivo Federal deberá presentar al Congreso de la Unión, un estudio sobre la suficiencia financiera de los seguros y coberturas que conforme a la Ley del Seguro Social administra el IMSS y las propuestas que, en su caso, sean necesarias para que la medicina social brinde servicios eficientes y oportunos y se fortalezca el régimen de pensiones, a fin de que brinde mayor protección a los trabajadores con el menor costo social, a más tardar el 15 de octubre del 2002.
+**Vigésimo Quinto.-** El Ejecutivo Federal deberá presentar al Congreso de la Unión, un estudio sobre la suficiencia financiera de los seguros y coberturas que conforme a la Ley del Seguro Social administra el IMSS y las propuestas que, en su caso, sean necesarias para que la medicina social brinde servicios eficientes y oportunos y se fortalezca el régimen de pensiones, a fin de que brinde mayor protección a los trabajadores con el menor costo social, a más tardar el 15 de octubre del 2002.
 México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos décimo cuarto y vigésimo
-**cuarto.** transitorios del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social, publicado el 20 de diciembre de 2001.
+**cuarto.-** transitorios del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social, publicado el 20 de diciembre de 2001.
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2004
-**PRIMERO.** Se reforma el artículo Décimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue: ..........
+**PRIMERO.-** Se reforma el artículo Décimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue: ..........
 ARTÍCULOS TRANSITORIOS ARTÍCULO DÉCIMO CUARTO TRANSITORIO
-**Primero.** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El pago correspondiente al incremento a las pensiones a que se refiere el presente Decreto se efectuará a más tardar el 1o. de abril de 2004. Los recursos destinados a dar cumplimiento a lo dispuesto por este artículo deberán atenderse con cargo al presupuesto aprobado para el Instituto Mexicano del Seguro Social y Gobierno Federal, respectivamente.
-**Tercero.** Los incrementos previstos en este Decreto surtirán sus efectos a partir del 1o. de marzo de 2003 para quienes ya estaban pensionados a esa fecha por los ramos de seguro de invalidez y vida, riesgos de trabajo, vejez, cesantía en edad avanzada y muerte; y para aquellos que se hayan pensionado después de la fecha señalada, la parte proporcional que les corresponda.
+**Primero.-** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El pago correspondiente al incremento a las pensiones a que se refiere el presente Decreto se efectuará a más tardar el 1o. de abril de 2004. Los recursos destinados a dar cumplimiento a lo dispuesto por este artículo deberán atenderse con cargo al presupuesto aprobado para el Instituto Mexicano del Seguro Social y Gobierno Federal, respectivamente.
+**Tercero.-** Los incrementos previstos en este Decreto surtirán sus efectos a partir del 1o. de marzo de 2003 para quienes ya estaban pensionados a esa fecha por los ramos de seguro de invalidez y vida, riesgos de trabajo, vejez, cesantía en edad avanzada y muerte; y para aquellos que se hayan pensionado después de la fecha señalada, la parte proporcional que les corresponda.
 Los incrementos a los que se refiere el párrafo anterior, no se aplicarán en aquellas pensiones que fueron contempladas en la reforma a la Ley del Seguro Social publicada el 20 de diciembre de 2001.
-**Cuarto.** A los beneficiados por los incrementos a que se refieren los incisos b), c) y e), no se les aplicarán adicionalmente los incrementos que señalan los incisos a) y d).
-**SEGUNDO.** Se reforma el artículo Vigésimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue: ..........
+**Cuarto.-** A los beneficiados por los incrementos a que se refieren los incisos b), c) y e), no se les aplicarán adicionalmente los incrementos que señalan los incisos a) y d).
+**SEGUNDO.-** Se reforma el artículo Vigésimo Cuarto Transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley del Seguro Social publicado en el Diario Oficial de la Federación el 20 de diciembre del año 2001, para quedar como sigue: ..........
 ARTÍCULOS TRANSITORIOS ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2004.
-**Segundo.** Los pagos correspondientes a esta reforma se efectuarán a más tardar el 1o. de abril de 2004. Los recursos para dar cumplimiento a lo dispuesto por este Decreto, deberán atenderse con cargo al presupuesto aprobado para dicho efecto por la Cámara de Diputados.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 2004.
+**Segundo.-** Los pagos correspondientes a esta reforma se efectuarán a más tardar el 1o. de abril de 2004. Los recursos para dar cumplimiento a lo dispuesto por este Decreto, deberán atenderse con cargo al presupuesto aprobado para dicho efecto por la Cámara de Diputados.
 México, D.F., a 20 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 277 D y 286 K de la Ley del Seguro Social.
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2004
@@ -3135,9 +3272,9 @@ Se adicionan una fracción XIX al artículo 5-A, y los artículos 237-A, 237-B, 
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las reglas de carácter general a que se refieren los artículos 237-A y 237-C se expedirán dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico del Instituto Mexicano del Seguro Social, a propuesta del Director General del Instituto.
-**Tercero.** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación proporcionará al Instituto el padrón de patrones del campo a que se refiere el artículo 237-D de la Ley.
+**Primero.-** El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las reglas de carácter general a que se refieren los artículos 237-A y 237-C se expedirán dentro de los 60 días naturales siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico del Instituto Mexicano del Seguro Social, a propuesta del Director General del Instituto.
+**Tercero.-** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación proporcionará al Instituto el padrón de patrones del campo a que se refiere el artículo 237-D de la Ley.
 México, D.F., a 12 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma el artículo 299 de la Ley del Seguro Social.
@@ -3153,7 +3290,7 @@ Se reforma el Artículo 299 de la Ley del Seguro Social, para quedar como sigue:
 México, D.F., a 25 de octubre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Yolanda E. González Hernández, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforma el artículo 165 de la Ley del Seguro Social.
 Publicado en el Diario Oficial de la Federación el 11 de agosto de 2006
-**Único.** Se reforman las fracciones II y III del artículo 165, de la Ley del Seguro Social, para quedar como sigue: ..........
+**Único.-** Se reforman las fracciones II y III del artículo 165, de la Ley del Seguro Social, para quedar como sigue: ..........
 
 ## Transitorio
 
@@ -3204,7 +3341,7 @@ Publicado en el Diario Oficial de la Federación el 9 de julio de 2009
 
 ### Artículo Único
 Se REFORMAN la fracción VIII del artículo 5-A, las fracciones XX y XXI, del artículo 304 A y, la fracción IV del artículo 304-B; se ADICIONAN los párrafos tercero, cuarto, quinto, sexto,
-**séptimo.** y octavo, con lo que el actual tercero pasa a ser noveno, del artículo 15-A; el párrafo segundo del artículo 75, y la fracción XXII del artículo 304-A, de la Ley del Seguro Social, para quedar como sigue: ……….
+**séptimo.-** y octavo, con lo que el actual tercero pasa a ser noveno, del artículo 15-A; el párrafo segundo del artículo 75, y la fracción XXII del artículo 304-A, de la Ley del Seguro Social, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -3238,8 +3375,8 @@ Se reforman los artículos 22, fracción III; y 265 de la Ley del Seguro Social,
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley del Seguro Social y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2012
@@ -3269,8 +3406,8 @@ Se reforma la fracción II y se adiciona una fracción III, recorriéndose la ac
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
 México, D.F., a 20 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley General de Salud, de la Ley del Seguro Social y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2015
@@ -3280,8 +3417,8 @@ Se adiciona una fracción V al artículo 89 de la Ley del Seguro Social, para qu
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
 México, D.F., a 15 de octubre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
@@ -3292,9 +3429,9 @@ Se adicionan los artículos 109 Bis y 193 Bis de la Ley del Seguro Social, para 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+**TERCERO.-** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva.
 Publicado en el Diario Oficial de la Federación el 1 de mayo de 2019
@@ -3304,39 +3441,39 @@ Se REFORMA el artículo 49; párrafo cuarto del artículo 193; párrafo cuarto d
 
 ## TRANSITORIOS
 
-**Primero.** Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Plazo para expedir Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.
-**Tercero.** Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente Decreto, atendiendo a las posibilidades presupuestales.
+**Primero.-** Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Plazo para expedir Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.
+**Tercero.-** Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente Decreto, atendiendo a las posibilidades presupuestales.
 Al día siguiente en que se suspenda el servicio de registro de las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y en su caso los Poderes Ejecutivos de las Entidades Federativas, iniciará operaciones el Centro Federal de Conciliación y Registro Laboral.
 Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas de Conciliación y Arbitraje, al igual que la Secretaría del Trabajo y Previsión Social continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de la entrada en vigor del presente Decreto.
-**Cuarto.** Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro Federal de Conciliación y Registro Laboral una relación completa de todos los expedientes y registros en su poder, con soporte electrónico de cada registro o expediente, con una anticipación mínima de seis meses al inicio de sus funciones.
+**Cuarto.-** Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro Federal de Conciliación y Registro Laboral una relación completa de todos los expedientes y registros en su poder, con soporte electrónico de cada registro o expediente, con una anticipación mínima de seis meses al inicio de sus funciones.
 Para efecto de lo anterior, dichas autoridades establecerán y difundirán las fechas en que suspenderán sus funciones registrales e iniciarán las del Centro Federal referido, garantizando que no se afecten los derechos de los interesados.
 El traslado físico de los expedientes de todas las dependencias tanto federales como locales deberá concluir en un plazo no mayor a un año posterior al inicio de las funciones registrales de dicho Centro Federal; dicho Centro establecerá los mecanismos de coordinación conducentes con las autoridades referidas y emitirá los lineamientos necesarios para garantizar que la transferencia de expedientes y registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y confiabilidad al procedimiento de entrega-recepción.
-**Quinto.** Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales.
+**Quinto.-** Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales.
 Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas iniciarán actividades a más tardar el 3 de octubre de 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los Centros de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente Decreto.
 Artículo reformado DOF 18-05-2022
-**Sexto.** Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
-**Séptimo.** Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría de Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje federales y locales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+**Sexto.-** Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las disposiciones previstas en el presente Decreto.
+**Séptimo.-** Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría de Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje federales y locales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
 El Centro Federal de Conciliación y Registro Laboral y los Centros de Conciliación Locales no admitirán a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos que se estén sustanciando ante las Juntas de Conciliación y Arbitraje, incluyendo los de ejecución, por lo que se archivarán dichas solicitudes.
-**Octavo.** Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje federales y locales, así como la Secretaría del Trabajo y Previsión Social, según corresponda, continuarán conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Tribunales federales y locales y los Centros de Conciliación, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto.
+**Octavo.-** Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje federales y locales, así como la Secretaría del Trabajo y Previsión Social, según corresponda, continuarán conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Tribunales federales y locales y los Centros de Conciliación, conforme a los plazos previstos en las disposiciones transitorias del presente Decreto.
 Hasta en tanto entren en funciones los Centros de Conciliación, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
 Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes del presente Decreto. Para tales efectos se les dotará de los recursos presupuestales necesarios.
-**Noveno.** Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite conforme a las disposiciones de la Ley Federal del Trabajo vigentes con anterioridad a la entrada en vigor del presente Decreto y otro se sustancie conforme a las disposiciones de este Decreto, no procederá la acumulación de juicios.
-**Décimo.** Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de Conciliación y Tribunales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con el presente Decreto, según corresponda.
-**Décimo Primero.** Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el mandato del artículo 123, apartado A, fracción XVIII, segundo párrafo y XX Bis de la Constitución y los compromisos internacionales asumidos por el Estado mexicano, los contratos colectivos de trabajo existentes deberán revisarse al menos una vez durante los cuatro años posteriores a la entrada en vigor de este Decreto.
+**Noveno.-** Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite conforme a las disposiciones de la Ley Federal del Trabajo vigentes con anterioridad a la entrada en vigor del presente Decreto y otro se sustancie conforme a las disposiciones de este Decreto, no procederá la acumulación de juicios.
+**Décimo.-** Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de Conciliación y Tribunales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con el presente Decreto, según corresponda.
+**Décimo Primero.-** Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el mandato del artículo 123, apartado A, fracción XVIII, segundo párrafo y XX Bis de la Constitución y los compromisos internacionales asumidos por el Estado mexicano, los contratos colectivos de trabajo existentes deberán revisarse al menos una vez durante los cuatro años posteriores a la entrada en vigor de este Decreto.
 Las referidas revisiones contractuales deberán depositarse ante el Centro Federal de Conciliación y Registro Laboral. Dicho Centro verificará que se haya hecho del conocimiento de los trabajadores el contenido del contrato colectivo de trabajo y que se les entregó un ejemplar impreso del mismo por parte del patrón; asimismo, que éste contrato cuenta con el respaldo de la mayoría de los trabajadores mediante voto personal, libre y secreto.
 La consulta a los trabajadores se realizará conforme al procedimiento establecido en el artículo 390 Ter de esta Ley.
 Si al término del plazo fijado en el primer párrafo de este artículo el contrato colectivo de trabajo sujeto a consulta no cuenta con el apoyo mayoritario de los trabajadores o se omite realizar la consulta mencionada, éste se tendrá por terminado, conservándose en beneficio de los trabajadores las prestaciones y condiciones de trabajo contempladas en el contrato colectivo sujeto a revisión, que sean superiores a las establecidas en esta Ley, las que serán de aplicación obligatoria para el patrón.
 Hasta en tanto no entre en funciones el Centro Federal de Conciliación y Registro Laboral, la Secretaría del Trabajo y Previsión Social establecerá el protocolo para efectuar la verificación de la consulta a que se refiere el presente artículo transitorio y dispondrá las medidas necesarias para su instrumentación, dentro de un plazo de tres meses siguientes a la entrada en vigor del presente Decreto.
 La Junta Federal de Conciliación y Arbitraje tendrá la participación que dicho protocolo le establezca.
-**Décimo Segundo.** Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las Legislaturas de las entidades federativas deberán destinar los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
-**Décimo Tercero.** Implementación y Capacitación. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las Autoridades Conciliadoras y los Tribunales del Poder Judicial Federal y de las entidades federativas, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
-**Décimo Cuarto.** Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral convocará a la primera sesión de dicho órgano dentro de los noventa días naturales siguientes a la fecha de designación de su titular.
-**Décimo Quinto.** Concursos de Selección de Personal. Las convocatorias a concurso para la selección de personal del Centro Federal de Conciliación y Registro Laboral, de los Centros de Conciliación Locales y de los Tribunales del Poder Judicial Federal y de las entidades federativas serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
-**Décimo Sexto.** Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite.
+**Décimo Segundo.-** Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las Legislaturas de las entidades federativas deberán destinar los recursos necesarios para la implementación de la reforma del sistema de justicia laboral.
+**Décimo Tercero.-** Implementación y Capacitación. En la implementación de las disposiciones a que se refiere el presente Decreto y en lo sucesivo, las Autoridades Conciliadoras y los Tribunales del Poder Judicial Federal y de las entidades federativas, deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+**Décimo Cuarto.-** Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral convocará a la primera sesión de dicho órgano dentro de los noventa días naturales siguientes a la fecha de designación de su titular.
+**Décimo Quinto.-** Concursos de Selección de Personal. Las convocatorias a concurso para la selección de personal del Centro Federal de Conciliación y Registro Laboral, de los Centros de Conciliación Locales y de los Tribunales del Poder Judicial Federal y de las entidades federativas serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+**Décimo Sexto.-** Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite.
 Dentro de los ciento veinte días naturales siguientes a la aprobación del presente Decreto la Junta Federal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje presentarán al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, un plan de trabajo con su respectivo programa para la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
 Los planes y programas de trabajo deberán contener indicadores de resultados y desempeño por periodos semestrales. Corresponderá al Órgano Interno de Control de cada Junta de Conciliación y Arbitraje la medición de resultados e impacto a que se refiere el párrafo anterior.
-**Décimo Séptimo.** Coordinación interinstitucional para la implementación de la reforma. Se crea el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral como instancia nacional de consulta, planeación y coordinación que tendrá por objeto establecer la política y la coordinación nacionales necesarias para implementar a nivel federal y local el Sistema de Justicia Laboral en los términos previstos en el presente Decreto, con pleno respeto a las atribuciones de los Poderes Federales y Locales.
+**Décimo Séptimo.-** Coordinación interinstitucional para la implementación de la reforma. Se crea el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral como instancia nacional de consulta, planeación y coordinación que tendrá por objeto establecer la política y la coordinación nacionales necesarias para implementar a nivel federal y local el Sistema de Justicia Laboral en los términos previstos en el presente Decreto, con pleno respeto a las atribuciones de los Poderes Federales y Locales.
 Dicho Consejo deberá sesionar de manera ordinaria por lo menos tres veces al año y de manera extraordinaria las ocasiones que sean necesarias para el cumplimiento de sus fines. Las sesiones serán presididas por la persona Titular de la Secretaría del Trabajo y Previsión Social y, en su ausencia temporal por la persona que ésta designe. Los cargos que desempeñen los integrantes del Consejo serán de carácter honorífico, por lo que no recibirán remuneración alguna por su participación en el mismo.
 El Consejo se integrará por:
 
@@ -3379,22 +3516,22 @@ X. Interpretar las disposiciones del presente artículo y su alcance jurídico, 
 XI. Las demás que se requieran para el cumplimiento de su objeto.
 El Consejo contará con una Secretaría Técnica, sectorizado a la Secretaría del Trabajo y Previsión Social, la cual deberá operar y ejecutar los acuerdos y determinaciones que tome el Consejo, así como coadyuvar y brindar el apoyo que requieran las autoridades e instancias correspondientes para la implementación del Sistema de Justicia Laboral. Dicha Secretaría Técnica estará a cargo de un servidor público con nivel de Titular de Unidad, nombrado y, en su caso, removido por la persona titular de la Secretaría de Trabajo y Previsión Social.
 Dentro de los cuarenta y cinco días posteriores a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social emitirá los lineamientos de operación y la convocatoria para la primera sesión de este Consejo.
-**Décimo Octavo.** Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de Conciliación y Arbitraje.
-**Décimo Noveno.** Disposiciones para la conclusión de conflictos de seguridad social. Los institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se refiere el presente Decreto.
-**Vigésimo.** Protección de derechos de los Trabajadores. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
-**Vigésimo Primero.** Implementación de Tecnologías de la Información. Los Tribunales, así como los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
-**Vigésimo Segundo.** Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390 Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos en los artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
-**Vigésimo Tercero.** Adecuación de los estatutos sindicales. Las disposiciones previstas en el artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley.
-**Vigésimo Cuarto.** Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las respectiva Legislatura Local haga la declaratoria correspondiente.
+**Décimo Octavo.-** Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de Conciliación y Arbitraje.
+**Décimo Noveno.-** Disposiciones para la conclusión de conflictos de seguridad social. Los institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se refiere el presente Decreto.
+**Vigésimo.-** Protección de derechos de los Trabajadores. Los derechos laborales de las y los trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
+**Vigésimo Primero.-** Implementación de Tecnologías de la Información. Los Tribunales, así como los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo, deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
+**Vigésimo Segundo.-** Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390 Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos en los artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
+**Vigésimo Tercero.-** Adecuación de los estatutos sindicales. Las disposiciones previstas en el artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y demás aplicables de la citada Ley.
+**Vigésimo Cuarto.-** Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en funciones una vez que las respectiva Legislatura Local haga la declaratoria correspondiente.
 Lo anterior deberá publicarse en los medios de difusión oficial correspondientes.
-**Vigésimo Quinto.** Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.
-**Vigésimo Sexto.** Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes.
+**Vigésimo Quinto.-** Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.
+**Vigésimo Sexto.-** Plataforma en materia de seguridad social para consulta del Tribunal. La plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas de seguridad social correspondientes.
 Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán concentrarse en dicha plataforma para consulta inmediata del Tribunal que lo requiera. Las instituciones de seguridad social y los Poderes Judiciales federales y locales suscribirán los acuerdos de colaboración necesarios para la adecuada operación de la plataforma, así como para la protección de los datos personales que concentre.
 La información contenida en la plataforma deberá estar actualizada y debidamente registrada por cada institución de seguridad social.
 La plataforma deberá entrar en operación en un plazo no mayor a dos años posteriores a la entrada en vigor del presente Decreto, por lo que las instituciones de seguridad social deberán tomar las medidas apropiadas para su instrumentación en el plazo requerido.
-**Vigésimo Séptimo.** Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
+**Vigésimo Séptimo.-** Representantes de los trabajadores y de los patrones ante las Juntas de Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación, el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
-**Vigésimo Octavo.** Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+**Vigésimo Octavo.-** Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
 Ciudad de México, a 29 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2019
@@ -3428,7 +3565,7 @@ Se adiciona un artículo 137 Bis a la Ley del Seguro Social, para quedar como si
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 02 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip.
 Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip.
 Lizbeth Mata Lozano, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -3440,8 +3577,8 @@ Se reforman los artículos 201, primer párrafo y 205, primer párrafo de la Ley
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Instituto ejercerá las atribuciones y obligaciones derivadas del presente Decreto de manera que, con sujeción a las disponibilidades presupuestales, se realice una incorporación gradual de los derechohabientes a los servicios que se establecen en el mismo, elaborando previamente un programa piloto para medir los impactos de éste en los servicios y operación del Instituto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Instituto ejercerá las atribuciones y obligaciones derivadas del presente Decreto de manera que, con sujeción a las disponibilidades presupuestales, se realice una incorporación gradual de los derechohabientes a los servicios que se establecen en el mismo, elaborando previamente un programa piloto para medir los impactos de éste en los servicios y operación del Instituto.
 Ciudad de México, a 29 de septiembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de octubre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -3450,20 +3587,20 @@ Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 
 ### Artículo Primero
 Se reforman los artículos 139, párrafo segundo; 141, párrafos segundo y tercero; 154, párrafo segundo; 157, párrafos primero, segundo y tercero; 158; 159, fracciones I, párrafo primero,
-
 Ia SEYJUIUO, 1J/, PalidiVs PIHINICIV, STCYUINIYO y SICCIV, 1J0, 193, HACUIVIICS |, ValldalU Y ; 162, párrafo primero; 164, párrafos primero, segundo y tercero; 165, párrafo primer ies Il y IV, párrafo primero; 170; 172, párrafos tercero y cuarto; 172 A, fracción II; 190; 192, 193; 194, párrafo primero; 218, inciso a); 302, y el párrafo segundo del artículo Vigésimo | rio; se adiciona un párrafo tercero al artículo 159, y un párrafo quinto al artículo 172, y se ión III del artículo 168, de la Ley del Seguro Social, para quedar como sigue:
 
 ## Transitorios
 
 nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si
+
 | Salario base | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 
 cotización 1.0 SM* 3.150% 3.150% 3.150% 13.150% 3.150% 3.150% 13.150% 3.150%
-|
-1.01SMa 1.50 UMA** 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 4.202% _ 1.51.4 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% 7.360% L7962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% 18183% 1 5lg9072% 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 UMA _____ 4.016% 4.882% 5.747% _ 6.613% 7.479%% 86.3455% _19211% 10.077% 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 
+
+1.01SMa 1.50 UMA** 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 4.202% _ 1.51.4 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% 7.360% L7962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% 18183% 1 5lg9072% 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 UMA _____ 4.016% 4.882% 5.747% _ 6.613% 7.479%% 86.3455% _19211% 10.077% 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 Del 1 de enero de 2021 al 31 de diciembre de 2022:
 
 I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
@@ -3471,7 +3608,7 @@ I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzad
 II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
 
 III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
-**Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
+**Tercero.-** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
 
 | Salario base | de Trabajador | cotización del | Cuota social |
@@ -3481,14 +3618,11 @@ Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualm
 | 6.01 | a 7.09 | UMA | 51.00 |
 
 *Unidad de Medida y Actualización
-
 > Valores mencionados del importe de la cuota social, se actualizarán trimestralmen
-
 midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como fF ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos.
-
 La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
-
 vecretaria de Servicios Farlamentarios e
+
 | Año | Col 2 | Col 3 | Col 4 | Col 5 | Semanas | de | Cotización | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  | 4,000 0 |
@@ -3497,20 +3631,22 @@ vecretaria de Servicios Farlamentarios e
 |  | 775 | 800 | 875 | 850 | 875 | 900 | 925 | 950 | 976 | 1400 |  |
 
 "A 10500 2023 800 825 850 875 900 925 950 975 1,000 1,025 mix 1,0750 2024 825 850 675 900 926 950 975 4,000 1,025 1,090 mis 1,1000 2025 850 875 900 925 $50 976 1,000 1,025 1,050 1,075 mis 1,1250 2026 875 900 926 950 975 1,000 1,025 1,080 1,075 1,100 mis 2027 1,1500 90 925 950 95 4,000 4,028 4,050 4075 1,100 19,125 Ae 1,1750 2028 925 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 do 1,2000 2029 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 más 1,2250 2030 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 1,200 mis Salerio Base E Pensión mensual en de Colización garantizada pesos 60 2,622 2.718 2,808 2,003 2,097 3,090 3,184 3,276 3,374 3,46% 3,559 61 |2660 2753 2847 2941 3,034 3,128 3,221 3315 3409 3502 3,596
-| 52 |2897 2701 2004 2.978 3972 3165 3250 3353 3445 390 364
-isatos UMA" 83 2828 2,922 3,015 3108 3,203 3,296 3390 3484 357 3671 64 2,772 2,556 2,959 3,053 3,147 3,240 3,334 3,477 3,571 3,615 3,706 = 2800 2903 2,007 3,090 3,184 3,278 3371 3485 3,589 3657 3,746 60 3,409 3,530 3,657 3,774 3,896 a017 4,139 4,281 4,383 4,504 4,526 61 3,457 3,579 3,701 3,873 2,944 4,0865 4,188 4,310 4,431 4,653 4,675 62 | 3506 3628 3750 3871 3,993 4115 4237 4358 4480 4807 472 adas UMA 63 | 3555 3677 3,798 3,020 4,0472 4,164 4285 4407 4529 465 4,772 64 3,725 3,847 3,060 4,001 4,212 4,934 4456 4577 4699 482 SSO [3662 3774 3,006 4017 4,138 4281 4383 4504 4828 4748 4,70 s0 | 4195 4345 44095 4,845 4,705 4945 5094 5244 5394 5844 5,804 61 4255 4405 4555 4,705 4855 5005 518 5304 6454 5604 5,784 208138 82 |4315 4465 4615 4,765 4915 5084 5214 5364 5514 Seed 5,814 UMA 63 | 4378 4525 4675 4,625 4975 5124 5274 5424 5574 5724 5,874 64 | 4,425 4585 4,735 4685 50% 6184 5334 6486 5,834 5784 5,993 850 | 4495 4645 4.795 4945 5094 5244 5394 5,544 5,684 5844 5,093 más 60 [4,982 5.160 5338 5816 6484 5872 6,050 6,228 6405 6583 6781 61 5,053 5.231 5,409 5,587 5765 5,843 6,121 6,290 6,477 5,655 6,532 62 5302 5480 5858 5,896 6014 6,182 6370 6,549 6726 6,904 UMA 63 |5195 5373 5551 5720 6907 6085 6,263 6441 6819 6,787 6,975 84 5445 5,623 5801 5978 6186 63% 6512 6590 6,868 7,046 des 5,338 5,5168 5,684 5,872 8,050 8,228 6,405 6,583 6,761 5,036 7,117 5,760 5975 6181 6387 6503 6700 7,005 7211 7.417 7,623 7,820 5851 6057 6263 6469 6675 6881 7,087 7,293 7,499 7705 79M 50 5.933 6140 6346 6552 6,758 6964 7,170 7,376 7,502 7.708 7,994 pones 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 6,076 6,088 6304 5510 6716 6922 7.128 7,338 7,50 7,746 7,953 6150 6,181 6387 6503 6700 7,005 7211 7,417 7,623 7,820 8,035 8,241 *Salario Minimo “Unidad de Medida y Actualización
 
-**Quinto.** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
+| 52 | 2897 2701 2004 2.978 3972 3165 3250 3353 3445 390 364 |
+| --- | --- |
+
+isatos UMA" 83 2828 2,922 3,015 3108 3,203 3,296 3390 3484 357 3671 64 2,772 2,556 2,959 3,053 3,147 3,240 3,334 3,477 3,571 3,615 3,706 = 2800 2903 2,007 3,090 3,184 3,278 3371 3485 3,589 3657 3,746 60 3,409 3,530 3,657 3,774 3,896 a017 4,139 4,281 4,383 4,504 4,526 61 3,457 3,579 3,701 3,873 2,944 4,0865 4,188 4,310 4,431 4,653 4,675 62 | 3506 3628 3750 3871 3,993 4115 4237 4358 4480 4807 472 adas UMA 63 | 3555 3677 3,798 3,020 4,0472 4,164 4285 4407 4529 465 4,772 64 3,725 3,847 3,060 4,001 4,212 4,934 4456 4577 4699 482 SSO [3662 3774 3,006 4017 4,138 4281 4383 4504 4828 4748 4,70 s0 | 4195 4345 44095 4,845 4,705 4945 5094 5244 5394 5844 5,804 61 4255 4405 4555 4,705 4855 5005 518 5304 6454 5604 5,784 208138 82 |4315 4465 4615 4,765 4915 5084 5214 5364 5514 Seed 5,814 UMA 63 | 4378 4525 4675 4,625 4975 5124 5274 5424 5574 5724 5,874 64 | 4,425 4585 4,735 4685 50% 6184 5334 6486 5,834 5784 5,993 850 | 4495 4645 4.795 4945 5094 5244 5394 5,544 5,684 5844 5,093 más 60 [4,982 5.160 5338 5816 6484 5872 6,050 6,228 6405 6583 6781 61 5,053 5.231 5,409 5,587 5765 5,843 6,121 6,290 6,477 5,655 6,532 62 5302 5480 5858 5,896 6014 6,182 6370 6,549 6726 6,904 UMA 63 |5195 5373 5551 5720 6907 6085 6,263 6441 6819 6,787 6,975 84 5445 5,623 5801 5978 6186 63% 6512 6590 6,868 7,046 des 5,338 5,5168 5,684 5,872 8,050 8,228 6,405 6,583 6,761 5,036 7,117 5,760 5975 6181 6387 6503 6700 7,005 7211 7.417 7,623 7,820 5851 6057 6263 6469 6675 6881 7,087 7,293 7,499 7705 79M 50 5.933 6140 6346 6552 6,758 6964 7,170 7,376 7,502 7.708 7,994 pones 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 6,076 6,088 6304 5510 6716 6922 7.128 7,338 7,50 7,746 7,953 6150 6,181 6387 6503 6700 7,005 7211 7,417 7,623 7,820 8,035 8,241 *Salario Minimo “Unidad de Medida y Actualización
+**Quinto.-** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
 Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
-**Sexto.** La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
-**Séptimo.** La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
-**Octavo.** El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
-**Noveno.** Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
+**Sexto.-** La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
+**Séptimo.-** La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
+**Octavo.-** El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
+**Noveno.-** Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
 La designación de beneficiarios que se realice por los trabajadores a partir de la entrada en vigor del presente Decreto, en términos de lo dispuesto por el artículo 193 de la Ley del Seguro Social, surtirá efectos a partir de la fecha en que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten los ajustes correspondientes de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 La designación de beneficiarios sustitutos efectuada en términos del artículo 193 de la Ley del Seguro Social, con anterioridad a la entrada en vigor del presente Decreto, mantendrá su vigencia para el caso en que no haya beneficiarios del trabajador titular de la cuenta individual en términos de la legislación común.
 Los procedimientos de designación de beneficiarios que, a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante las juntas o tribunales de conciliación y arbitraje, en términos del artículo 501 de la Ley Federal del Trabajo, continuarán substanciándose de conformidad con lo dispuesto por dicha ley.
-**Décimo.** Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
-**Décimo Primero.** Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
+**Décimo.-** Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
+**Décimo Primero.-** Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
 Ciudad de México, a 9 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral.
@@ -3521,19 +3657,21 @@ Se reforman los artículos 15 A; 304 A, fracción XXII, y 304 B, fracción IV; s
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
 Artículo reformado DOF 31-07-2021
-**Segundo.** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
-**Tercero.** A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, a más tardar el 1 de septiembre de 2021.
+**Segundo.-** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+**Tercero.-** A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, a más tardar el 1 de septiembre de 2021.
 Artículo reformado DOF 31-07-2021
-**Cuarto.** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+**Cuarto.-** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
 Artículo reformado DOF 31-07-2021
-**Quinto.** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-Párrafo reformado DOF 31-07-2021 Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
-**Sexto.** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+**Quinto.-** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+Párrafo reformado DOF 31-07-2021
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+**Sexto.-** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
 Artículo reformado DOF 31-07-2021
-**Séptimo.** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
-Párrafo reformado DOF 31-07-2021 En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo: 1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda. 2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+**Séptimo.-** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+Párrafo reformado DOF 31-07-2021
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo: 1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda. 2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
 
 a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
 
@@ -3544,18 +3682,18 @@ c) La prima así obtenida se aplicará al registro patronal de la empresa que ab
 d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
 Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
 Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-**Octavo.** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+**Octavo.-** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
-**Noveno.** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
-**Décimo.** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
+**Noveno.-** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+**Décimo.-** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
 Ciudad de México, a 20 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto,
-**Quinto.** , Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
+**Quinto.-** , Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
 Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 ### Artículo Único
 Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y
-**Séptimo.** del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
+**Séptimo.-** del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -3582,10 +3720,10 @@ Se reforman la fracción IV del artículo 5 A; la fracción II del artículo 227
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las reformas y adiciones a la Ley del Seguro Social publicadas en el Diario Oficial de la Federación el 2 de julio de 2019, iniciarán su vigencia al día siguiente de la publicación del presente Decreto.
-**Tercero.** El Instituto Mexicano del Seguro Social deberá realizar las modificaciones para la debida operación del contenido de la presente reforma, para lo cual contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**Cuarto.** Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las reformas y adiciones a la Ley del Seguro Social publicadas en el Diario Oficial de la Federación el 2 de julio de 2019, iniciarán su vigencia al día siguiente de la publicación del presente Decreto.
+**Tercero.-** El Instituto Mexicano del Seguro Social deberá realizar las modificaciones para la debida operación del contenido de la presente reforma, para lo cual contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Cuarto.-** Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
 Ciudad de México, a 27 de octubre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Dip.
 Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Seguro Social, y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -3593,13 +3731,13 @@ Publicado en el Diario Oficial de la Federación el 20 de enero de 2023
 
 ### Artículo Primero
 Se reforman los artículos 5 A, fracción XII; 64, párrafo tercero, fracción II; 65; 66, párrafos primero, tercero y cuarto; 69; 84, fracciones I, II, III y IV; 127, párrafo primero, fracción IV y párrafos segundo y tercero, 130; 137; 138, párrafo primero, fracciones I, III y IV; 165, párrafos primero y
-**segundo.** ; 166, párrafo primero; y se adicionan los artículos 5 A, con las fracciones XX y XXI; y 140, con un párrafo segundo, de la Ley del Seguro Social, para quedar como sigue: ………
+**segundo.-** ; 166, párrafo primero; y se adicionan los artículos 5 A, con las fracciones XX y XXI; y 140, con un párrafo segundo, de la Ley del Seguro Social, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
-**Tercero.** Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+**Tercero.-** Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
 Ciudad de México, a 6 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Jessica María Guadalupe Ortega De la Cruz, Secretaria.Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se adicionan los artículos 101 y 102 Bis a la Ley del Seguro Social.
@@ -3656,7 +3794,7 @@ Se reforma el primer párrafo y se adiciona un segundo párrafo al artículo 303
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
 Ciudad de México, a 17 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 29 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social.
@@ -3691,17 +3829,17 @@ Se adiciona una fracción XXXVII, recorriéndose la actual para pasar a ser frac
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 06 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ricardo Velázquez Meza, Secretario.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, y del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, publicado en el Diario Oficial de la Federación el 29 de mayo de 2023, para la creación del Fondo de Pensiones para el Bienestar.
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2024
-**PRIMERO.** Se reforman los párrafos segundo y actual tercero del artículo 302; y se adicionan un tercer, cuarto, quinto sexto, séptimo, octavo y noveno párrafos, de la Ley del Seguro Social, para quedar como sigue: ……..
+**PRIMERO.-** Se reforman los párrafos segundo y actual tercero del artículo 302; y se adicionan un tercer, cuarto, quinto sexto, séptimo, octavo y noveno párrafos, de la Ley del Seguro Social, para quedar como sigue: ……..
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
-**SEGUNDO.** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
+**SEGUNDO.-** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
 El Decreto que el Ejecutivo Federal emita deberá prever, entre otros, lo siguiente:
 
 a) El Fondo de Pensiones para el Bienestar tendrá entre sus fines recibir, administrar, invertir y entregar los recursos que le sean aportados conforme a las disposiciones aplicables, pudiendo establecerse aportaciones adicionales a su patrimonio.
@@ -3711,26 +3849,26 @@ b) Los recursos del patrimonio del Fondo de Pensiones para el Bienestar deberán
 c) El Fondo de Pensiones para el Bienestar brindará a los institutos de seguridad social los recursos necesarios para procurar que los trabajadores que alcancen los sesenta y cinco años de edad y cuya pensión sea igual o menor a dieciséis mil setecientos setenta y siete pesos con sesenta y ocho centavos, que equivale al salario mensual promedio registrado en 2023 en el Instituto Mexicano del Seguro Social actualizado por la inflación estimada para el año 2024, reciban un complemento a las obligaciones del Gobierno Federal en relación con la pensión que se obtenga conforme a las disposiciones aplicables para que sea igual a su último salario hasta por el monto descrito en este párrafo. Dicho monto deberá actualizarse el primero de enero de cada año, de acuerdo con la inflación estimada para el año correspondiente. Lo anterior, siempre y cuando hayan iniciado la cotización en términos de la Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete, así como para aquellos trabajadores que se encuentren bajo el régimen de cuentas individuales que cotizan en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El complemento a que se refiere este inciso es intransferible y será exigible por los trabajadores que obtengan su dictamen o concesión de pensión, según corresponda, a partir de que transcurran 60 días de la constitución del Fondo de Pensiones para el Bienestar. Dicho complemento estará sujeto a la suficiencia del Fondo, así como a las reglas que determine la Secretaría de Hacienda y Crédito Público.
 
 d) El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos a los institutos de seguridad social.
-**TERCERO.** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
-**CUARTO.** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
-**QUINTO.** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
+**TERCERO.-** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
+**CUARTO.-** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
+**QUINTO.-** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Segundo.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
-**SEXTO.** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
-**SÉPTIMO.** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
+**Vigésimo Segundo.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
+**SEXTO.-** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
+**SÉPTIMO.-** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Cuarto.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
-**OCTAVO.** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+**Vigésimo Cuarto.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
+**OCTAVO.-** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
 Los intereses correspondientes al ejercicio fiscal 2024 que deberán pagarse a las subcuentas de vivienda se calcularán, aprobarán y abonarán conforme a las disposiciones vigentes con anterioridad a la aprobación del presente Decreto.
-**NOVENO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
+**NOVENO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
 Para lo anterior, una vez que alguno de los Institutos transfiera al Fondo de Pensiones para el Bienestar los recursos de la subcuenta bajo su administración, incluyendo la de los trabajadores a que se refiere este Decreto que hubieran llegado a cumplir setenta o setenta y cinco años, según corresponda, lo deberá comunicar al resto de participantes del Sistema de Ahorro para el Retiro para que, en su caso, transfieran la otra subcuenta, a efecto de consolidar el ahorro de los titulares de las cuentas individuales en el referido fideicomiso.
-**DÉCIMO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
+**DÉCIMO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
 Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a efecto de que éstos realicen los pagos correspondientes en términos de la normativa aplicable, por lo que el Fondo no responderá ni se subrogará en las obligaciones a cargo de dichos institutos, ni respecto del destino que los mismos den a los recursos.
-**DÉCIMO PRIMERO.** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
+**DÉCIMO PRIMERO.-** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
 Ciudad de México, a 25 de abril de 2024.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 253 de la Ley del Seguro Social.
@@ -3748,12 +3886,12 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 ### Artículo Primero
 Se reforman y adicionan las fracciones V, VI, con un segundo párrafo y VII, con un
-**segundo.** párrafo, del artículo 84 de la Ley del Seguro Social, para quedar como sigue: ………
+**segundo.-** párrafo, del artículo 84 de la Ley del Seguro Social, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, en materia de herramientas digitales para trámites.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
@@ -3777,11 +3915,11 @@ Se reforman los artículos 2; 3; 202; 286 J, fracción IV y 303, primer párrafo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

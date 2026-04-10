@@ -32,35 +32,49 @@ CAPITULO II Premios y Preseas
 
 ### Artículo 6
 .- Se establecen los siguientes Premios, que se denominarán y tendrán el carácter de nacionales:
-Párrafo reformado DOF 15-06-2004 I.- Condecoración Miguel Hidalgo;
+Párrafo reformado DOF 15-06-2004
+I.- Condecoración Miguel Hidalgo;
 II.- Orden Mexicana del Aguila Azteca;
 II Bis.- De Ciencias, "José Mario Molina Pasquel y Henríquez";
 Fracción adicionada DOF 17-12-2015. Reformada DOF 10-05-2022
 
 III. De Artes y Literatura;
-Fracción reformada DOF 17-12-2015 III-Bis.- De Demografía.
-Fracción adicionada DOF 18-11-1986 IV.- de Demografía;
-Fracción reformada DOF 07-03-2003 Nota: El decreto publicado en el Diario Oficial de la Federación el 7 de marzo de 2003 reformó la fracción IV del artículo 6 para quedar como “IV.- de Demografía;”.
+Fracción reformada DOF 17-12-2015
+III-Bis.- De Demografía.
+Fracción adicionada DOF 18-11-1986
+IV.- de Demografía;
+Fracción reformada DOF 07-03-2003
+Nota: El decreto publicado en el Diario Oficial de la Federación el 7 de marzo de 2003 reformó la fracción IV del artículo 6 para quedar como “IV.- de Demografía;”.
 No obstante, aún cuando la instrucción del Artículo Único del Decreto citado establece que “se reforma y adiciona el artículo 6o.”, ni la propia instrucción, ni el artículo 6 reformado y publicado en tal Decreto, precisan si la fracción III-Bis, que también se refiere al premio “De Demografía”, debe quedar derogada.
 V.- de Deportes;
-Fracción derogada DOF 23-05-2002. Adicionada DOF 07-03-2003 V Bis. De Mérito Deportivo;
-Fracción adicionada DOF 14-12-2011 VI.- de Mérito Cívico;
+Fracción derogada DOF 23-05-2002. Adicionada DOF 07-03-2003
+V Bis. De Mérito Deportivo;
+Fracción adicionada DOF 14-12-2011
+VI.- de Mérito Cívico;
 VII.- de Trabajo;
 VIII.- de la Juventud;
 IX.- de Servicios a la Comunidad;
 X.- de Antigüedad en el Servicio Público.
 XI.- De Administración Pública.
-Fracción adicionada DOF 15-01-1980 XI Bis.- Al Mérito Forestal.
-Fracción adicionada DOF 25-02-2003 XII.- de Protección Civil.
-Fracción adicionada DOF 07-03-2003 XIII.- De Trabajo y Cultura Indígena.
-Fracción adicionada DOF 15-06-2004 XIV.- De Derechos Humanos.
-Fracción adicionada DOF 15-06-2004 XV.- Al Mérito Ecológico;
-Fracción adicionada DOF 15-06-2004. Reformada DOF 10-05-2022 XVI.- De Seguridad Pública.
+Fracción adicionada DOF 15-01-1980
+XI Bis.- Al Mérito Forestal.
+Fracción adicionada DOF 25-02-2003
+XII.- de Protección Civil.
+Fracción adicionada DOF 07-03-2003
+XIII.- De Trabajo y Cultura Indígena.
+Fracción adicionada DOF 15-06-2004
+XIV.- De Derechos Humanos.
+Fracción adicionada DOF 15-06-2004
+XV.- Al Mérito Ecológico;
+Fracción adicionada DOF 15-06-2004. Reformada DOF 10-05-2022
+XVI.- De Seguridad Pública.
 Fracción adicionada DOF 15-06-2004
 
 XVII. Premio Nacional de la Cerámica.
-Fracción adicionada DOF 30-06-2006 XVIII.- De Cultura Contributiva.
-Fracción adicionada DOF 27-01-2015 La misma persona puede recibir dos o más premios distintos, pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
+Fracción adicionada DOF 30-06-2006
+XVIII.- De Cultura Contributiva.
+Fracción adicionada DOF 27-01-2015
+La misma persona puede recibir dos o más premios distintos, pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
 Párrafo reformado DOF 11-10-2004, 30-06-2006, 14-12-2011
 
 ### Artículo 7
@@ -245,7 +259,8 @@ Fracción reformada DOF 01-06-2011
 V. Placa, a subsecretarios o viceministros de Estado, a encargados de negocios ad hoc, cónsules generales, generales brigadieres, contralmirantes, vicealmirantes, así como aquellos cuya categoría equivalga a las citadas;
 Fracción reformada DOF 01-06-2011
 
-VI. Venera, a ministros residentes, encargados de negocios titulares, coroneles y tenientes coroneles, capitanes de navío, fragata o corbeta, así como a aquellos cuya categoría equivalga a las citadas, y Fracción reformada DOF 01-06-2011
+VI. Venera, a ministros residentes, encargados de negocios titulares, coroneles y tenientes coroneles, capitanes de navío, fragata o corbeta, así como a aquellos cuya categoría equivalga a las citadas, y
+Fracción reformada DOF 01-06-2011
 
 VII. Insignia, a consejeros, primeros, segundos y terceros secretarios de Embajada, capitanes, tenientes de navío, a aquellos cuya categoría equivalga a los citados y a los demás casos que el Consejo estime pertinente.
 Fracción reformada DOF 01-06-2011
@@ -259,7 +274,9 @@ Artículo reformado DOF 01-06-2011
 Artículo reformado DOF 01-06-2011
 
 ## CAPÍTULO VII
-Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" Denominación del Capítulo reformada DOF 17-12-2015, 10-05-2022
+
+Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez"
+Denominación del Capítulo reformada DOF 17-12-2015, 10-05-2022
 
 ### Artículo 44
 .- Habrá Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" en cada uno de los siguientes campos:
@@ -297,7 +314,9 @@ El premio se entregará el 7 de octubre de cada año.
 Párrafo adicionado DOF 10-05-2022
 
 ## CAPÍTULO VII BIS
-Premio Nacional de Artes y Literatura Capítulo adicionado DOF 17-12-2015
+
+Premio Nacional de Artes y Literatura
+Capítulo adicionado DOF 17-12-2015
 
 ### Artículo 51-A
 . Habrá Premio Nacional de Artes y Literatura en cada uno de los siguientes campos:
@@ -341,7 +360,9 @@ Artículo adicionado DOF 17-12-2015
 Artículo adicionado DOF 17-12-2015
 
 ## CAPÍTULO VIII
-Premio Nacional de Demografía Capítulo adicionado DOF 18-11-1986. Reformado DOF 07-03-2003 (renumerado, antes Capítulo VII-Bis)
+
+Premio Nacional de Demografía
+Capítulo adicionado DOF 18-11-1986. Reformado DOF 07-03-2003 (renumerado, antes Capítulo VII-Bis)
 
 ### Artículo 52
 .- El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los problemas demográficos de México.
@@ -360,7 +381,9 @@ Artículo adicionado DOF 18-11-1986. Reformado DOF 07-03-2003 (renumerado, antes
 Artículo adicionado DOF 18-11-1986. Reformado DOF 07-03-2003 (renumerado, antes Artículo 51-D)
 
 ## CAPÍTULO IX
-Premio Nacional de Deportes Capítulo reformado DOF 07-03-2003 (renumerado, antes Capítulo VIII)
+
+Premio Nacional de Deportes
+Capítulo reformado DOF 07-03-2003 (renumerado, antes Capítulo VIII)
 
 ### Artículo 56
 . El Premio Nacional de Deportes se concederá a quienes por su actuación y desempeño hayan resaltado o sobresalido en el año que se califica dentro del ámbito deportivo, en cualquiera de las siguientes modalidades:
@@ -377,13 +400,17 @@ Fracción reformada DOF 06-01-2020
 e) Al juez-arbitro;
 Fracción reformada DOF 06-01-2020
 
-f) Por trayectoria destacada en el deporte mexicano, y Fracción adicionada DOF 06-01-2020
+f) Por trayectoria destacada en el deporte mexicano, y
+Fracción adicionada DOF 06-01-2020
 
 g) Por el fomento, la protección o el impulso de la práctica de los deportes.
-Fracción adicionada DOF 06-01-2020 Las modalidades previstas en los incisos a), c), d), e) y f) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para las modalidades previstas en los incisos b) y g) no se acompañará numerario alguno.
-Párrafo reformado DOF 06-01-2020 El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será impedimento para ser premiado de manera individual, pero cuando se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
+Fracción adicionada DOF 06-01-2020
+Las modalidades previstas en los incisos a), c), d), e) y f) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para las modalidades previstas en los incisos b) y g) no se acompañará numerario alguno.
+Párrafo reformado DOF 06-01-2020
+El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será impedimento para ser premiado de manera individual, pero cuando se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
 El Premio Nacional de Deportes a que se refiere el inciso g), se otorgará a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
-Párrafo adicionado DOF 06-01-2020 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 52), 11-10-2004, 14-12-2011
+Párrafo adicionado DOF 06-01-2020
+Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 52), 11-10-2004, 14-12-2011
 
 ### Artículo 57
 . Se deroga.
@@ -410,27 +437,36 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 57), 11-10-2004,
 ### Artículo 62
 .- Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas y reconocidas por la Comisión Nacional de Cultura Física y Deporte o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
 Las candidaturas se propondrán al Consejo de Premiación dentro del periodo comprendido del 1 de septiembre y a más tardar el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días siguientes y a continuación los pondrá a consideración del Jurado, el cuál entregará su dictamen debidamente fundado, motivado y por escrito al Consejo, a más tardar el 10 de noviembre.
-Párrafo reformado DOF 06-01-2020 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 58), 14-12-2011, 26-12-2013
+Párrafo reformado DOF 06-01-2020
+Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 58), 14-12-2011, 26-12-2013
 
 ### Artículo 63
 . El Jurado se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
-Párrafo reformado DOF 26-12-2013, 06-01-2020 Los miembros del jurado deberán conducirse con imparcialidad, legalidad y equidad, y su actuación en los asuntos que conozcan en el ejercicio de sus funciones estará sujeta a la secrecía, a la ética y a la confidencialidad. Su incumplimiento será motivo de expulsión a consideración del consejo quien, en su caso, ordenará la reposición de las actuaciones afectadas por la falta de los miembros.
+Párrafo reformado DOF 26-12-2013, 06-01-2020
+Los miembros del jurado deberán conducirse con imparcialidad, legalidad y equidad, y su actuación en los asuntos que conozcan en el ejercicio de sus funciones estará sujeta a la secrecía, a la ética y a la confidencialidad. Su incumplimiento será motivo de expulsión a consideración del consejo quien, en su caso, ordenará la reposición de las actuaciones afectadas por la falta de los miembros.
 Además de las disposiciones previstas en esta ley, el jurado podrá proponer la entrega de premios adicionales en una misma modalidad y categoría.
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 59), 11-10-2004, 14-12-2011
 
 ### Artículo 63
 Bis.- Los premios se entregarán el 20 de noviembre de cada año, en el marco de los festejos conmemorativos del aniversario de la Revolución Mexicana.
-Artículo adicionado DOF 14-12-2011. Reformado DOF 26-12-2013, 06-01-2020 Nota: Los Capítulos IX Bis “Premio Nacional de Mérito Deportivo” y IX Ter “Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo”, fueron derogados por Decreto DOF 06-01-2020 y los artículos que los integraban, 57 a 58 y 59 a 63 Bis respectivamente, pasaron a formar parte del Capítulo IX “Premio Nacional de Deportes”.
+Artículo adicionado DOF 14-12-2011. Reformado DOF 26-12-2013, 06-01-2020
+Nota: Los Capítulos IX Bis “Premio Nacional de Mérito Deportivo” y IX Ter “Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo”, fueron derogados por Decreto DOF 06-01-2020 y los artículos que los integraban, 57 a 58 y 59 a 63 Bis respectivamente, pasaron a formar parte del Capítulo IX “Premio Nacional de Deportes”.
 
 ## CAPÍTULO IX BIS
-Premio Nacional de Mérito Deportivo (Se deroga) Capítulo adicionado DOF 14-12-2011. Derogado y reubicado DOF 06-01-2020
+
+Premio Nacional de Mérito Deportivo (Se deroga)
+Capítulo adicionado DOF 14-12-2011. Derogado y reubicado DOF 06-01-2020
 
 ## CAPÍTULO IX TER
-Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo (Se deroga) Capítulo adicionado DOF 14-12-2011. Derogado y reubicado DOF 06-01-2020 Nota: Los artículos 60 al 68 del Capítulo IX “Premio Nacional de Periodismo y de Información”, formaban parte de la versión original de esta Ley, publicada el 31 de diciembre de 1975, y fueron derogados por Decreto publicado en el Diario Oficial de la Federación el 23 de mayo de 2002.
+
+Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo (Se deroga)
+Capítulo adicionado DOF 14-12-2011. Derogado y reubicado DOF 06-01-2020
+Nota: Los artículos 60 al 68 del Capítulo IX “Premio Nacional de Periodismo y de Información”, formaban parte de la versión original de esta Ley, publicada el 31 de diciembre de 1975, y fueron derogados por Decreto publicado en el Diario Oficial de la Federación el 23 de mayo de 2002.
 CAPITULO IX Premio Nacional de Periodismo y de Información Artículos 60 al 68.- Se derogan.
 Artículos derogados DOF 23-05-2002
 
 ## CAPÍTULO X
+
 Premio Nacional de Mérito Cívico
 
 ### Artículo 64
@@ -450,6 +486,7 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 71)
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 72)
 
 ## CAPÍTULO XI
+
 Premio Nacional de Trabajo
 
 ### Artículo 68
@@ -469,6 +506,7 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 75)
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 76)
 
 ## Capítulo XII
+
 Premio Nacional de la Juventud
 
 ### Artículo 72
@@ -481,7 +519,8 @@ I.- Logro académico;
 II.- Expresiones artísticas y artes populares;
 III.- Compromiso social;
 IV.- Fortalecimiento y promoción a la cultura y las lenguas indígenas nacionales;
-Fracción reformada DOF 29-03-2022 V.- Protección al ambiente;
+Fracción reformada DOF 29-03-2022
+V.- Protección al ambiente;
 VI.- Ingenio emprendedor;
 VII.- Derechos humanos;
 VIII.- Discapacidad e integración;
@@ -490,7 +529,8 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 77), 15-06-2004,
 
 ### Artículo 73
 .- Este premio se tramitará en la Secretaría de Desarrollo Social, por conducto del Consejo de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las Secretarías de Gobernación, del Trabajo y Previsión Social, y de Educación Pública, el Director del Instituto Mexicano de la Juventud, más un representante de cada una de las Cámaras del Congreso de la Unión.
-Párrafo reformado DOF 02-04-2015 En todo caso formará parte del jurado un representante del Instituto Mexicano de la Juventud.
+Párrafo reformado DOF 02-04-2015
+En todo caso formará parte del jurado un representante del Instituto Mexicano de la Juventud.
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 78), 15-06-2004
 
 ### Artículo 74
@@ -506,6 +546,7 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 80), 15-06-2004
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 81)
 
 ## CAPÍTULO XIII
+
 Premio Nacional de Servicio a la Comunidad
 
 ### Artículo 77
@@ -529,6 +570,7 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 85)
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 86)
 
 ## CAPÍTULO XIV
+
 Premio Nacional de Antigüedad en el Servicio Público
 
 ### Artículo 82
@@ -555,7 +597,9 @@ Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 90)
 Artículo reformado DOF 07-03-2003 (renumerado, antes Artículo 91)
 
 ## CAPÍTULO XV
-Premio Nacional de Administración Pública Capítulo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes Capítulo XIV Bis)
+
+Premio Nacional de Administración Pública
+Capítulo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes Capítulo XIV Bis)
 
 ### Artículo 87
 .- El Premio Nacional de Administración Pública se concederá a los seleccionados de entre los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones laborales se rigen por el apartado B del artículo 123 Constitucional, de conformidad con lo dispuesto por el artículo 98 de la presente Ley.
@@ -578,7 +622,9 @@ Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes
 
 ### Artículo 91
 .- La Coordinación General de Estudios Administrativos de la Presidencia de la República tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los servidores públicos que hayan obtenido el Premio Nacional de Administración Pública.
-Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-E) CAPITULO XV Bis Premio Nacional al Mérito Forestal Capítulo adicionado DOF 25-02-2003
+Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-E)
+CAPITULO XV Bis Premio Nacional al Mérito Forestal
+Capítulo adicionado DOF 25-02-2003
 
 ### Artículo 91-A
 .- El Premio Nacional al Mérito Forestal será entregado a las personas físicas y morales de los sectores privado y social que realicen o hayan realizado acciones en el país a favor de la conservación, protección, restauración y uso sustentable de los recursos forestales, que representen beneficios a la sociedad.
@@ -598,7 +644,9 @@ Artículo adicionado DOF 25-02-2003
 Artículo adicionado DOF 25-02-2003
 
 ## CAPÍTULO XVI
-Estímulos y Recompensas Capítulo reformado DOF 07-03-2003 (renumerado, antes Capítulo XV)
+
+Estímulos y Recompensas
+Capítulo reformado DOF 07-03-2003 (renumerado, antes Capítulo XV)
 
 ### Artículo 92
 .- Los estímulos y recompensas se otorgarán a los servidores públicos seleccionados de entre aquéllos que prestan sus servicios en las dependencias y entidades cuyas relaciones laborales se rigen por el apartado "B" del artículo 123 Constitucional.
@@ -661,7 +709,9 @@ Artículo reformado DOF 15-01-1980
 Artículo reformado DOF 15-01-1980
 
 ## CAPÍTULO XVII
-Premio Nacional de Protección Civil Capítulo adicionado DOF 07-03-2003
+
+Premio Nacional de Protección Civil
+Capítulo adicionado DOF 07-03-2003
 
 ### Artículo 101
 .- El Premio Nacional de Protección Civil será conferido y entregado a aquellas personas o grupos que representen un ejemplo para la comunidad por su esfuerzo en acciones o medidas de autoprotección y autopreparación para enfrentar los fenómenos naturales o de origen humano que pongan a la población en situación de riesgo o de peligro, así como cuando se signifiquen por su labor ejemplar en la ayuda a la población ante la eventualidad de un desastre.
@@ -687,7 +737,9 @@ Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003
 Artículo adicionado DOF 07-03-2003
 
 ## Capítulo XVIII
-Premio Nacional de Trabajo y Cultura Indígena Capítulo adicionado DOF 07-03-2003 (se recorre, antes Capítulo XVI). Denominación reformada DOF 15-06-2004
+
+Premio Nacional de Trabajo y Cultura Indígena
+Capítulo adicionado DOF 07-03-2003 (se recorre, antes Capítulo XVI). Denominación reformada DOF 15-06-2004
 
 ### Artículo 106
 .- El Premio Nacional de Trabajo y Cultura Indígena y Afromexicana es el reconocimiento que el Estado Mexicano confiere a las personas y comunidades pertenecientes a los pueblos y comunidades indígenas y afromexicanas que se han destacado por su empeño y dedicación al trabajo en favor de su pueblo. Con el otorgamiento de este galardón, también se reconoce la labor sobresaliente y continua que hace posible la conservación, rescate y promoción de las manifestaciones culturales propias de los pueblos y comunidades indígenas y afromexicanas.
@@ -707,7 +759,9 @@ Artículo adicionado DOF 07-03-2003. Reformado DOF 15-06-2004
 Artículo adicionado DOF 07-03-2003. Reformado DOF 15-06-2004, 17-12-2015
 
 ## Capítulo XIX
-Premio Nacional de Derechos Humanos Capítulo adicionado DOF 15-06-2004
+
+Premio Nacional de Derechos Humanos
+Capítulo adicionado DOF 15-06-2004
 
 ### Artículo 109
 .- El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad mexicana confiere, a través del organismo constitucional autónomo de derechos humanos, a las personas que se han destacado en la promoción efectiva y defensa de los derechos fundamentales.
@@ -726,7 +780,9 @@ Artículo adicionado DOF 15-06-2004
 Artículo adicionado DOF 15-06-2004
 
 ## Capítulo XX
-Premio al Mérito Ecológico Capítulo adicionado DOF 15-06-2004. Denominación reformada DOF 10-05-2022
+
+Premio al Mérito Ecológico
+Capítulo adicionado DOF 15-06-2004. Denominación reformada DOF 10-05-2022
 
 ### Artículo 113
 .- El Premio al Mérito Ecológico, es el reconocimiento nacional que el gobierno federal otorga a las personas, instituciones, organizaciones públicas y privadas y comunidades, que han realizado acciones, proyectos y/o programas ambientales trascendentes que contribuyen a la sustentabilidad en nuestro país. El Premio al Mérito Ecológico consistirá en un diploma, medalla y podrá adicionarse un numerario.
@@ -757,7 +813,9 @@ El Premio al Mérito Ecológico será entregado de forma anual y preferentemente
 Artículo adicionado DOF 15-06-2004. Reformado DOF 10-05-2022
 
 ## Capítulo XXI
-Premio Nacional de Seguridad Pública Capítulo adicionado DOF 15-06-2004
+
+Premio Nacional de Seguridad Pública
+Capítulo adicionado DOF 15-06-2004
 
 ### Artículo 116
 .- El Premio Nacional de Seguridad Pública es el galardón con el que el Gobierno de la República reconoce el trabajo destacado, la entrega en el servicio, la constancia y el desarrollo de las personas que realizan su mejor esfuerzo para desempeñar su actuación de acuerdo con los principios constitucionales en materia de seguridad pública y que son los de legalidad, eficiencia, profesionalismo y honradez.
@@ -781,7 +839,9 @@ Artículo adicionado DOF 15-06-2004
 Artículo adicionado DOF 15-06-2004. Reformado DOF 20-05-2021
 
 ## CAPÍTULO XXII
-Premio Nacional de la Cerámica Capítulo adicionado DOF 15-06-2004 (se recorre). Denominación reformada DOF 30-06-2006
+
+Premio Nacional de la Cerámica
+Capítulo adicionado DOF 15-06-2004 (se recorre). Denominación reformada DOF 30-06-2006
 
 ### Artículo 120
 .- El Premio Nacional de la Cerámica es el reconocimiento otorgado a los artesanos que se han destacado por su empeño, trabajo y obras en favor de la promoción efectiva de la cerámica nacional.
@@ -803,7 +863,9 @@ Artículo adicionado DOF 15-06-2004. Reformado DOF 30-06-2006
 
 ### Artículo 123
 .- Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se integrará por el Presidente de la República, el Secretario de Cultura, el titular del Fondo Nacional para el Fomento de las Artesanías, el Gobernador del Estado de Jalisco y el Presidente municipal de Tlaquepaque, localidad que será sede oficial del concurso.
-Artículo adicionado DOF 15-06-2004. Reformado DOF 30-06-2006, 17-12-2015 CAPITULO XXIII Premio Nacional de Cultura Contributiva Capítulo adicionado DOF 27-01-2015
+Artículo adicionado DOF 15-06-2004. Reformado DOF 30-06-2006, 17-12-2015
+CAPITULO XXIII Premio Nacional de Cultura Contributiva
+Capítulo adicionado DOF 27-01-2015
 
 ### Artículo 124
 .- El Premio Nacional de Cultura Contributiva se entregará a las personas físicas o morales que realicen actividades sobresalientes que propicien en la ciudadanía la divulgación, el fomento y desarrollo de la Cultura Contributiva como la vía para incentivar el cumplimiento voluntario del pago de contribuciones y mejorar el desarrollo social de la Nación, así como a aquellos ciudadanos que realicen investigaciones o estudios en materia jurídica y/o tecnologías de la información de aplicación práctica para fortalecer el Sistema de Administración Tributaria o en materia de Cultura Contributiva.
@@ -826,6 +888,7 @@ Artículo adicionado DOF 27-01-2015
 Artículo adicionado DOF 27-01-2015
 
 ## CAPÍTULO XXIV — Disposiciones Generales
+
 Capítulo adicionado DOF 30-06-2006. Recorrido (antes Capítulo XXIII) DOF 27-01-2015
 
 ### Artículo 128
@@ -896,7 +959,7 @@ DECRETO por el que se expide la Ley General de Desarrollo Forestal Sustentable y
 Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003 ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 **PRIMERO.-**
 **SEGUNDO.-** La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-**TERCERO.** A DECIMO PRIMERO.- ..........
+**TERCERO.-** A DECIMO PRIMERO.- ..........
 ARTICULO CUARTO. Se adiciona una fracción XI Bis al artículo 6 y un Capítulo XV Bis, para incluir los artículos 91-A al 91-D de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue: ..........
 ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
@@ -933,7 +996,7 @@ Se reforman los artículos 6, último párrafo, 56, 57, 58, 60, 61 y 63 de la Le
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 13 de septiembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen.
 Yolanda E. González Hernández, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de octubre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -986,11 +1049,12 @@ Se reforman los artículos 6, último párrafo; 56, 57, 58, 59, 60, 61, 62 y 63,
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Si a la fecha en que la presente reforma inicie su vigencia se han iniciado los trámites para la entrega del Premio Nacional de Deportes instituido por la ley vigente, correspondiente al año que se curse, las disposiciones de esta reforma se aplicarán a partir del año siguiente.
-**Tercero.** Durante el primer año de vigencia de la presente reforma, la conformación del jurado previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex galardonados del Premio Nacional de Deportes.
-**Cuarto.** Se deroga.
-Artículo derogado DOF 26-12-2013 México, D. F., a 10 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Si a la fecha en que la presente reforma inicie su vigencia se han iniciado los trámites para la entrega del Premio Nacional de Deportes instituido por la ley vigente, correspondiente al año que se curse, las disposiciones de esta reforma se aplicarán a partir del año siguiente.
+**Tercero.-** Durante el primer año de vigencia de la presente reforma, la conformación del jurado previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex galardonados del Premio Nacional de Deportes.
+**Cuarto.-** Se deroga.
+Artículo derogado DOF 26-12-2013
+México, D. F., a 10 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman los artículos 44 y 45 de la Ley de Premios, Estímulos y Recompensas Civiles.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2012
 
@@ -999,7 +1063,7 @@ Se reforman los artículos 44, fracción V, y 45 de la Ley de Premios, Estímulo
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de noviembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
@@ -1009,8 +1073,8 @@ Se reforman los artículos 53 y 78 de la Ley de Premios, Estímulos y Recompensa
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman los artículos 59, 62, 63 y 63 Bis de la Ley de Premios, Estímulos y Recompensas Civiles, y se deroga el artículo cuarto transitorio del “Decreto por el que se reforma y adiciona la Ley de Premios, Estímulos y Recompensas Civiles”, publicado el 14 de diciembre de 2011.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
@@ -1023,8 +1087,8 @@ Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y ad
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los Premios Nacionales de Deportes y de Mérito Deportivo correspondientes al año 2013, se entregarán el día del mes de diciembre que determine el Ejecutivo Federal.
+**PRIMERO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los Premios Nacionales de Deportes y de Mérito Deportivo correspondientes al año 2013, se entregarán el día del mes de diciembre que determine el Ejecutivo Federal.
 México, D.F., a 28 de noviembre de 2013.- Dip. José González Morfín, Vicepresidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones a la Ley de Premios, Estímulos y Recompensas Civiles, para crear el Premio Nacional de Cultura Contributiva.
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2015
@@ -1054,19 +1118,19 @@ Se REFORMAN los artículos 6, fracción III; 35; 44; 45; 48; 108 y 123, así com
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Premios, Estímulos y Recompensas Civiles.
@@ -1088,39 +1152,39 @@ Tercero.- Se reforma el artículo 119 de la Ley de Premios, Estímulos y Recompe
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma la fracción IV del artículo 72 de la Ley de Premios, Estímulos y Recompensas Civiles.
 Publicado en el Diario Oficial de la Federación el 29 de marzo de 2022

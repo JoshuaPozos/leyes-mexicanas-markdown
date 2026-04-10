@@ -9,17 +9,20 @@ LEY DE PUERTOS LEY DE PUERTOS Nueva Ley publicada en el Diario Oficial de la Fed
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO: "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY DE PUERTOS CAPITULO I DISPOSICIONES GENERALES ARTICULO 1o.- La presente ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular los puertos, terminales, marinas e instalaciones portuarias, su construcción, uso, aprovechamiento, explotación, operación, protección y formas de administración, así como la prestación de los servicios portuarios.
-Párrafo reformado DOF 26-12-2013 Los puertos, terminales e instalaciones portuarias de carácter militar, destinados por el Ejecutivo Federal a la Secretaría de Marina para uso de la Armada de México, se regirán por las disposiciones aplicables en la materia.
+Párrafo reformado DOF 26-12-2013
+Los puertos, terminales e instalaciones portuarias de carácter militar, destinados por el Ejecutivo Federal a la Secretaría de Marina para uso de la Armada de México, se regirán por las disposiciones aplicables en la materia.
 ARTICULO 2o.- Para los efectos de esta ley, se entenderá por:
 
 I. Secretaría: La Secretaría de Marina;
-Fracción reformada DOF 07-12-2020 I Bis. Se deroga.
+Fracción reformada DOF 07-12-2020
+I Bis. Se deroga.
 Fracción adicionada DOF 19-12-2016. Derogada DOF 07-12-2020
 
 II. Puerto: El lugar de la costa o ribera habilitado como tal por el Ejecutivo Federal para la recepción, abrigo y atención de embarcaciones, compuesto por el recinto portuario y, en su caso, por la zona de desarrollo, así como por accesos y áreas de uso común para la navegación interna y afectas a su funcionamiento; con servicios, terminales e instalaciones, públicos y particulares, para la transferencia de bienes y transbordo de personas entre los modos de transporte que enlaza.
 
 III. Recinto portuario: La zona federal delimitada y determinada por la Secretaría y por la Secretaría de Bienestar en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.
-LEY DE PUERTOS Fracción reformada DOF 07-12-2020
+LEY DE PUERTOS
+Fracción reformada DOF 07-12-2020
 
 IV. Terminal: La unidad establecida en un puerto o fuera de él, formada por obras, instalaciones y superficies, incluida su zona de agua, que permite la realización integra de la operación portuaria a la que se destina.
 
@@ -38,7 +41,8 @@ X. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria.
 Fracción adicionada DOF 26-12-2013
 
 XI. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones, abordo de las mismas.
-Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020 ARTICULO 3o.- Todo lo relacionado con la administración, operación y servicios portuarios, así como con las demás actividades conexas a estos, estará sujeto a la competencia de los poderes federales.
+Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020
+ARTICULO 3o.- Todo lo relacionado con la administración, operación y servicios portuarios, así como con las demás actividades conexas a estos, estará sujeto a la competencia de los poderes federales.
 Corresponderá a los tribunales federales conocer de las controversias que se susciten con motivo de la aplicación de esta ley y de la administración y operación portuaria, sin perjuicio de que, en los términos de las disposiciones legales aplicables, las partes se sometan al procedimiento arbitral.
 ARTICULO 4o.- A falta de disposición expresa en esta ley o en los tratados internacionales, se aplicaran:
 
@@ -51,8 +55,10 @@ CAPITULO II Puertos, terminales, marinas e instalaciones portuarias LEY DE PUERT
 Los puertos y terminales de uso público cuyas obras se construyan en virtud de concesión serán habilitados una vez cumplidos los requisitos establecidos en los títulos correspondientes.
 ARTICULO 6o.- La Secretaría autorizará para navegación de altura a las terminales de uso particular y a las marinas que no formen parte de algún puerto, cuando cuenten con las instalaciones necesarias.
 ARTICULO 7o. La Secretaría de Bienestar y la Secretaría, a propuesta de esta última, delimitarán y determinarán, mediante acuerdo conjunto, aquellos bienes del dominio público de la federación que constituirán los recintos portuarios de los puertos, terminales y marinas. Dicho acuerdo deberá publicarse en el Diario Oficial de la Federación, dentro de los treinta días siguientes a la propuesta de la Secretaría debidamente requisitada en los términos del reglamento aplicable.
-Artículo reformado DOF 07-12-2020 ARTICULO 8o. La Secretaría, conjuntamente con la Secretaría de Bienestar, se coordinará con los gobiernos de las entidades federativas y de los municipios, a efecto de delimitar la zona de desarrollo portuario y que la zonificación que establezcan las autoridades competentes al respecto sea acorde con la actividad portuaria.
-Artículo reformado DOF 07-12-2020 ARTICULO 9o.- Los puertos y terminales se clasifican:
+Artículo reformado DOF 07-12-2020
+ARTICULO 8o. La Secretaría, conjuntamente con la Secretaría de Bienestar, se coordinará con los gobiernos de las entidades federativas y de los municipios, a efecto de delimitar la zona de desarrollo portuario y que la zonificación que establezcan las autoridades competentes al respecto sea acorde con la actividad portuaria.
+Artículo reformado DOF 07-12-2020
+ARTICULO 9o.- Los puertos y terminales se clasifican:
 
 I. Por su navegación en:
 
@@ -71,19 +77,25 @@ c) Pesqueros, cuando se dediquen, preponderantemente, al manejo de embarcaciones
 d) Turísticos, cuando se dediquen, preponderantemente, a la actividad de cruceros turísticos y marinas.
 ARTICULO 10.- Las terminales, marinas e instalaciones portuarias se clasifican por su uso en:
 
-I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de ponerlas a disposición de cualquier solicitante, y Fracción reformada DOF 11-06-2012 LEY DE PUERTOS
+I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de ponerlas a disposición de cualquier solicitante, y
+Fracción reformada DOF 11-06-2012
+LEY DE PUERTOS
 
 II. Particulares, cuando el titular las destine para sus propios fines, y a los de terceros mediante contrato, siempre y cuando los servicios y la carga de que se trate sean de naturaleza similar a los autorizados originalmente para la terminal.
-Fracción reformada DOF 11-06-2012 ARTICULO 11.- Los reglamentos de esta ley establecerán las condiciones de construcción, operación y explotación de obras que integren puertos, así como de terminales, marinas e instalaciones portuarias, sin perjuicio de las específicas que se determinen en los programas maestros de desarrollo portuario, en las concesiones, permisos o contratos respectivos, en las normas oficiales mexicanas y en las reglas de operación del puerto.
+Fracción reformada DOF 11-06-2012
+ARTICULO 11.- Los reglamentos de esta ley establecerán las condiciones de construcción, operación y explotación de obras que integren puertos, así como de terminales, marinas e instalaciones portuarias, sin perjuicio de las específicas que se determinen en los programas maestros de desarrollo portuario, en las concesiones, permisos o contratos respectivos, en las normas oficiales mexicanas y en las reglas de operación del puerto.
 ARTICULO 12.- Los puertos mexicanos, en tiempo de paz, estarán abiertos a la navegación y tráfico de las embarcaciones de todos los países, pero podrá negarse la entrada cuando no exista reciprocidad con el país de la matrícula de la embarcación o cuando lo exija el interés público.
 ARTICULO 13. La Secretaría, por caso fortuito o fuerza mayor, o bien cuando existan razones de seguridad nacional o interés público, podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
-Artículo reformado DOF 19-12-2016, 07-12-2020 ARTICULO 14.- En los puertos, terminales y marinas, tendrán carácter de bienes de dominio público de la Federación:
+Artículo reformado DOF 19-12-2016, 07-12-2020
+ARTICULO 14.- En los puertos, terminales y marinas, tendrán carácter de bienes de dominio público de la Federación:
 
 I. Los terrenos y aguas que formen parte de los recintos portuarios, y
 
 II. Las obras e instalaciones adquiridas o construidas por el gobierno federal cuando se encuentren dentro de los recintos portuarios.
 ARTICULO 15.- Son de utilidad pública la construcción y explotación de puertos y terminales de uso público. El Ejecutivo Federal podrá expropiar los terrenos y obras que se requieran para tales fines.
-CAPITULO III La Secretaría Denominación del Capítulo reformada DOF 19-12-2016, 07-12-2020 ARTICULO 16.- La autoridad en materia de puertos radica en el Ejecutivo Federal, quien la ejercerá por conducto de la Secretaría, a la que, sin perjuicio de las atribuciones de otras dependencias de la Administración Pública Federal, corresponderá:
+CAPITULO III La Secretaría
+Denominación del Capítulo reformada DOF 19-12-2016, 07-12-2020
+ARTICULO 16.- La autoridad en materia de puertos radica en el Ejecutivo Federal, quien la ejercerá por conducto de la Secretaría, a la que, sin perjuicio de las atribuciones de otras dependencias de la Administración Pública Federal, corresponderá:
 
 I. Formular y conducir las políticas y programas para el desarrollo del sistema portuario nacional;
 
@@ -91,7 +103,8 @@ II. Fomentar la participación de los sectores social y privado, así como de lo
 Fracción reformada DOF 11-06-2012
 
 II. Bis. Fomentar que los distintos tipos de servicios de transporte que convergen en los puertos nacionales se interconecten de manera eficiente;
-Fracción adicionada DOF 11-06-2012 LEY DE PUERTOS
+Fracción adicionada DOF 11-06-2012
+LEY DE PUERTOS
 
 II. Ter. Fomentar que los servicios mediante los cuales se atiendan embarcaciones, personas y bienes en navegación entre puertos o puntos nacionales, sean prestados de manera eficiente;
 Fracción adicionada DOF 11-06-2012
@@ -123,11 +136,14 @@ XIII. Interpretar la presente ley en el ámbito administrativo, y
 
 XIV. Ejercer las demás atribuciones que expresamente le fijen las leyes y reglamentos.
 ARTICULO 17.- En cada puerto habilitado existirá una capitanía de puerto, a la que le corresponderá las funciones que le otorga la Ley de Navegación y Comercio Marítimos.
-Artículo reformado DOF 11-06-2012, 19-12-2016 LEY DE PUERTOS ARTICULO 18.- La Armada de México, así como las corporaciones federales, estatales y municipales de policía, auxiliarán en la conservación del orden y seguridad del recinto portuario, a solicitud de la capitanía del mismo.
+Artículo reformado DOF 11-06-2012, 19-12-2016
+LEY DE PUERTOS ARTICULO 18.- La Armada de México, así como las corporaciones federales, estatales y municipales de policía, auxiliarán en la conservación del orden y seguridad del recinto portuario, a solicitud de la capitanía del mismo.
 ARTICULO 19.- Las capitanías de puerto, así como las autoridades aduanales, sanitarias, migratorias o cualquier otra que ejerza sus funciones dentro de los puertos, se coordinarán en los términos que establezca el reglamento que para tal efecto se expida.
 ARTICULO 19 Bis. La Secretaría es la autoridad en materia de protección marítima y portuaria y fungirá como la autoridad designada para efectos del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, así como para otorgar certificados de competencia en materia de protección marítima y portuaria, vigilar su cumplimiento y revocarlos o suspenderlos, en su caso.
-Artículo adicionado DOF 26-12-2013. Reformado DOF 19-12-2016, 07-12-2020 ARTICULO 19 Ter. El Cumar tendrá las funciones y organización establecidas en el reglamento que al efecto se expida.
-Artículo adicionado DOF 26-12-2013. Reformado DOF 07-12-2020 CAPITULO IV Concesiones y permisos ARTICULO 20.- Para la explotación, uso y aprovechamiento de bienes del dominio público en los puertos, terminales y marinas, así como para la construcción de obras en los mismos y para la prestación de servicios portuarios, sólo se requerirá de concesión, permiso o autorización que otorgue la Secretaría conforme a lo siguiente:
+Artículo adicionado DOF 26-12-2013. Reformado DOF 19-12-2016, 07-12-2020
+ARTICULO 19 Ter. El Cumar tendrá las funciones y organización establecidas en el reglamento que al efecto se expida.
+Artículo adicionado DOF 26-12-2013. Reformado DOF 07-12-2020
+CAPITULO IV Concesiones y permisos ARTICULO 20.- Para la explotación, uso y aprovechamiento de bienes del dominio público en los puertos, terminales y marinas, así como para la construcción de obras en los mismos y para la prestación de servicios portuarios, sólo se requerirá de concesión, permiso o autorización que otorgue la Secretaría conforme a lo siguiente:
 Párrafo reformado DOF 11-06-2012
 
 I. Concesiones para la administración portuaria integral;
@@ -139,16 +155,22 @@ a) Concesiones sobre bienes de dominio público que, además, incluirán la cons
 b) Permisos para prestar servicios portuarios.
 
 III. Autorizaciones para obras marítimas o dragado.
-Fracción adicionada DOF 11-06-2012 Para construir y usar embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua, fuera de puertos, terminales y marinas, se requerirá de permiso de la Secretaría, sin perjuicio de que los interesados obtengan, en su caso, la concesión de la zona federal marítimo terrestre que otorgue la Secretaría de Medio Ambiente y Recursos Naturales.
-Párrafo reformado DOF 11-06-2012 Los interesados en ocupar áreas, construir y operar terminales, marinas e instalaciones portuarias o prestar servicios portuarios, dentro de las áreas concesionadas a una administración portuaria integral, celebrarán contratos de cesión parcial de derechos o de prestación de servicios, según el caso, en los términos previstos en esta ley y demás disposiciones aplicables.
-Párrafo reformado DOF 11-06-2012 Los concesionarios o cesionarios de terminales de cruceros y marinas, podrán a su vez celebrar con terceros, previa autorización de la Secretaría, contratos de uso, respecto de locales o espacios LEY DE PUERTOS destinados a actividades relacionadas con el objeto de su concesión o contrato. En ningún caso, dichos contratos excederán los términos y condiciones de la concesión o contrato principal.
-Párrafo adicionado DOF 11-06-2012 La Secretaría mediante reglas de carácter general podrá establecer que los procedimientos para la obtención de concesiones, permisos y autorizaciones del presente artículo se realicen a través de medios de comunicación electrónica.
-Párrafo adicionado DOF 11-06-2012 ARTICULO 21.- Las concesiones a que se refiere la fracción I del artículo anterior sólo se otorgarán a sociedades mercantiles mexicanas.
+Fracción adicionada DOF 11-06-2012
+Para construir y usar embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua, fuera de puertos, terminales y marinas, se requerirá de permiso de la Secretaría, sin perjuicio de que los interesados obtengan, en su caso, la concesión de la zona federal marítimo terrestre que otorgue la Secretaría de Medio Ambiente y Recursos Naturales.
+Párrafo reformado DOF 11-06-2012
+Los interesados en ocupar áreas, construir y operar terminales, marinas e instalaciones portuarias o prestar servicios portuarios, dentro de las áreas concesionadas a una administración portuaria integral, celebrarán contratos de cesión parcial de derechos o de prestación de servicios, según el caso, en los términos previstos en esta ley y demás disposiciones aplicables.
+Párrafo reformado DOF 11-06-2012
+Los concesionarios o cesionarios de terminales de cruceros y marinas, podrán a su vez celebrar con terceros, previa autorización de la Secretaría, contratos de uso, respecto de locales o espacios LEY DE PUERTOS destinados a actividades relacionadas con el objeto de su concesión o contrato. En ningún caso, dichos contratos excederán los términos y condiciones de la concesión o contrato principal.
+Párrafo adicionado DOF 11-06-2012
+La Secretaría mediante reglas de carácter general podrá establecer que los procedimientos para la obtención de concesiones, permisos y autorizaciones del presente artículo se realicen a través de medios de comunicación electrónica.
+Párrafo adicionado DOF 11-06-2012
+ARTICULO 21.- Las concesiones a que se refiere la fracción I del artículo anterior sólo se otorgarán a sociedades mercantiles mexicanas.
 Las demás concesiones, así como los permisos, se otorgarán a ciudadanos y a personas morales mexicanos.
 La participación de la inversión extranjera en las actividades portuarias se regulará por lo dispuesto en la ley de la materia.
 ARTICULO 22.- Todas las concesiones a que se refiere esta ley, así como los permisos establecidos en el párrafo segundo del artículo 20 de este ordenamiento, incluirán la prestación de los servicios portuarios correspondientes, por lo que no se requerirá de permiso específico para tal efecto.
 ARTICULO 23.- La Secretaría podrá otorgar las concesiones hasta por un plazo de cincuenta años, tomando en cuenta las características de los proyectos y los montos de inversión. Las concesiones podrán ser prorrogadas hasta por un plazo igual al señalado originalmente. Para tales efectos, el concesionario deberá presentar la solicitud correspondiente a más tardar un año antes de la conclusión de la concesión. La Secretaría fijará los requisitos que deberán cumplirse.
-Párrafo reformado DOF 19-12-2016 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 120 días naturales contados a partir de la fecha de presentación de la misma.
+Párrafo reformado DOF 19-12-2016
+La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 120 días naturales contados a partir de la fecha de presentación de la misma.
 ARTICULO 23 BIS.- Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
 
 I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
@@ -159,7 +181,8 @@ LEY DE PUERTOS
 II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
 
 III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
-Artículo adicionado DOF 08-06-2016 ARTICULO 24.- Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
+Artículo adicionado DOF 08-06-2016
+ARTICULO 24.- Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
 
 I. La Secretaría, por sí o a petición de parte que acredite su interés, expedirá la convocatoria pública correspondiente para que, en un plazo razonable, se presenten proposiciones en sobres cerrados, que serán abiertos en día prefijado y en presencia de todos los participantes.
 En el caso de que medie petición de parte la Secretaría, en un plazo no mayor de 60 días naturales contados a partir de la solicitud, deberá expedir la convocatoria correspondiente o señalar al interesado las razones de la improcedencia de la misma;
@@ -181,7 +204,8 @@ VIII. Una vez dictada la resolución, la Secretaría, en su caso, adjudicará la
 
 IX. No se adjudicará la concesión cuando la o las proposiciones presentadas no cumplan con las bases del concurso. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
 LEY DE PUERTOS La solicitud de expedición de convocatoria pública para la adjudicación de concesiones y contratos de cesión parcial de derechos de terminales de contenedores y carga general, podrán negarse, cuando se afecten las políticas y programas de desarrollo del puerto de que se trate o del sistema portuario nacional.
-Párrafo adicionado DOF 11-06-2012 Las concesiones sobre bienes del dominio público de la Federación para construir, operar y explotar marinas artificiales o terminales de uso particular, se podrán adjudicar directamente por la Secretaría a los propietarios de los terrenos que colinden con la zona federal marítimo terrestre de que se trate, conforme al procedimiento que señale el reglamento respectivo.
+Párrafo adicionado DOF 11-06-2012
+Las concesiones sobre bienes del dominio público de la Federación para construir, operar y explotar marinas artificiales o terminales de uso particular, se podrán adjudicar directamente por la Secretaría a los propietarios de los terrenos que colinden con la zona federal marítimo terrestre de que se trate, conforme al procedimiento que señale el reglamento respectivo.
 ARTICULO 25.- En el caso de que se solicite la ampliación de las superficies concesionadas de un puerto para extender las actividades portuarias a los bienes del dominio público colindantes, se estará a lo dispuesto en el artículo 7o. de la presente ley.
 El titular de la Secretaría podrá adjudicar directamente las concesiones correspondientes sólo si la ampliación no es mayor del 20% de la superficie originalmente concesionada y si, con base en criterios comparativos de costos, se aprecian evidentes ventajas de que el uso, aprovechamiento y explotación de las áreas en cuestión se lleven a cabo por el solicitante.
 ARTICULO 26.- El título de concesión, según sea el caso, deberá contener, entre otros:
@@ -222,9 +246,11 @@ XII. Las causas de revocación.
 En los títulos de concesión para la administración portuaria integral se establecerán las bases generales a que habrá de sujetarse su organización y funcionamiento y se incluirá, como parte de los mismos, el programa maestro de desarrollo portuario correspondiente.
 ARTICULO 27.- La Secretaria podrá establecer en los títulos de concesión para la administración portuaria integral, que la operación de terminales, marinas e instalaciones y la prestación de servicios se realicen a través de terceros.
 ARTICULO 28.- Los permisos y autorizaciones a que se refiere el artículo 20 se otorgarán en los términos que establezcan los reglamentos de la presente ley, pero en todo caso la resolución de otorgamiento, deberá emitirse fundada y motivada, en un plazo que no exceda de noventa días naturales, contados a partir de aquél en que se hubiere presentado la solicitud debidamente requisitada, salvo que por la complejidad de la resolución sea necesario un plazo mayor, que no podrá exceder de 180 días naturales.
-Párrafo reformado DOF 11-06-2012 Transcurrido este último plazo sin que hubiere recaído resolución sobre la solicitud de que se trate, se entenderá por denegado el permiso correspondiente.
+Párrafo reformado DOF 11-06-2012
+Transcurrido este último plazo sin que hubiere recaído resolución sobre la solicitud de que se trate, se entenderá por denegado el permiso correspondiente.
 Los permisos a que se refiere el artículo 20, fracción II, inciso b, así como las autorizaciones, concesiones, contratos de cesión parcial de derechos y aquellos contratos que celebren las Administraciones Portuarias Integrales, para la prestación de servicios en el puerto, deberán contar con seguro de responsabilidad civil y daños a terceros y no podrán conferir derechos de exclusividad, por lo que se podrá otorgar otro u otros a favor de terceras personas para que exploten, en igualdad de circunstancias, número y características técnicas de los equipos, servicios idénticos o similares.
-Párrafo reformado DOF 11-06-2012 ARTICULO 29.- Los títulos de concesión, permisos y autorizaciones a que se refiere esta ley se ajustarán a las disposiciones en materia de competencia económica.
+Párrafo reformado DOF 11-06-2012
+ARTICULO 29.- Los títulos de concesión, permisos y autorizaciones a que se refiere esta ley se ajustarán a las disposiciones en materia de competencia económica.
 LEY DE PUERTOS ARTICULO 30.- La Secretaría podrá autorizar la cesión total de las obligaciones y derechos derivados de las concesiones, siempre que la concesión hubiere estado vigente por un lapso no menor de cinco años; que el cedente haya cumplido con todas sus obligaciones; y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
 Las cesiones parciales de derechos derivados de las concesiones para la administración portuaria integral se podrán realizar en cualquier tiempo, en los términos establecidos en esta ley y en el título de concesión respectivo.
 ARTICULO 31.- En ningún caso se podrán ceder, hipotecar o en manera alguna gravar o transferir la concesión o permiso, los derechos en ellos conferidos, los bienes afectos a los mismos o sus dependencias y accesorios, a ningún gobierno o estado extranjero, ni admitir a éstos como socios de la empresa titular de dichas concesiones o permisos.
@@ -312,22 +338,33 @@ IX. Operar los servicios de vigilancia, así como el control de los accesos y tr
 X. Percibir, en los términos que fijen los reglamentos correspondientes y el título de concesión, ingresos por el uso de la infraestructura portuaria, por la celebración de contratos, por los servicios que presten directamente, así como por las demás actividades comerciales que realicen;
 Fracción reformada DOF 26-12-2013
 
-XI. Proporcionar la información estadística portuaria, y Fracción reformada DOF 26-12-2013
+XI. Proporcionar la información estadística portuaria, y
+Fracción reformada DOF 26-12-2013
 
 XII. Proporcionar al CUMAR la información que les sea requerida relacionada con la Protección Marítima y Portuaria, así como tomar en cuenta sus recomendaciones para mantener los niveles establecidos en el artículo 19 Ter de la presente Ley.
-Fracción adicionada DOF 26-12-2013 ARTICULO 41.- El administrador portuario se sujetará a un programa maestro de desarrollo portuario, el cual será parte integrante del título de concesión y deberá contener:
+Fracción adicionada DOF 26-12-2013
+ARTICULO 41.- El administrador portuario se sujetará a un programa maestro de desarrollo portuario, el cual será parte integrante del título de concesión y deberá contener:
 
 I. Los usos, destinos y modos de operación previstos para las diferentes zonas del puerto o grupos de ellos, así como la justificación de los mismos, y
 
 II. Las medidas y previsiones necesarias para garantizar una eficiente explotación de los espacios portuarios, su desarrollo futuro, las instalaciones para recibir las embarcaciones en navegación de altura y cabotaje, los espacios necesarios para los bienes, y los servicios portuarios necesarios para la atención de las embarcaciones y la prestación de los servicios de cabotaje.
-Párrafo reformado DOF 11-06-2012 El programa maestro de desarrollo portuario y las modificaciones substanciales a éste que se determinen en el Reglamento de esta Ley, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo de la infraestructura portuaria nacional, con una visión de veinte años, revisable cada cinco años.
-Párrafo reformado DOF 11-06-2012, 19-12-2016 La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de sesenta días hábiles. En dicho plazo la Secretaría deberá solicitar las opiniones de la Secretaría de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental y de la Secretaría de Desarrollo Agrario, Territorial y Urbano en cuanto a los aspectos de desarrollo urbano.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 Estas opiniones deberán emitirse en un lapso no mayor de quince días hábiles a partir de que la Secretaría las solicite. Si transcurrido dicho plazo no se ha emitido la opinión respectiva, se entenderá como favorable.
-Párrafo reformado DOF 19-12-2016 En el caso de modificaciones menores al programa maestro de desarrollo portuario, éstas sólo deberán registrarse ante la Secretaría.
-LEY DE PUERTOS Párrafo adicionado DOF 19-12-2016 La Secretaría, con vista en el interés público, podrá modificar los usos, destinos y modos de operación previstos en el programa maestro de desarrollo portuario respecto de las diferentes zonas del puerto o grupo de ellos o terminales aún no utilizadas.
-Párrafo adicionado DOF 19-12-2016 Si dichas modificaciones causaren algún daño o perjuicio comprobable al concesionario, éste será indemnizado debidamente.
-Párrafo adicionado DOF 19-12-2016 ARTICULO 42.- Para los puertos y terminales que cuenten con una administración portuaria integral, el gobierno de la entidad federativa correspondiente podrá constituir una comisión consultiva, formada con representantes de los gobiernos estatal y municipales, así como de las cámaras de comercio e industria de la región, de los usuarios, de los cesionarios y prestadores de servicios portuarios, del administrador portuario y de los sindicatos, así como de quienes, a propuesta del presidente, la comisión determine. La comisión será presidida por el representante de la entidad federativa que corresponda.
-Artículo reformado DOF 11-06-2012 ARTICULO 43.- La comisión consultiva coadyuvará en la promoción del puerto y podrá emitir recomendaciones en relación con aquellos aspectos que afecten la actividad urbana y el equilibrio ecológico de la zona, para lo cual el administrador portuario deberá informar a la comisión sobre el programa maestro de desarrollo portuario y sus modificaciones, así como de los principales proyectos de inversión para la expansión y modernización del puerto.
+Párrafo reformado DOF 11-06-2012
+El programa maestro de desarrollo portuario y las modificaciones substanciales a éste que se determinen en el Reglamento de esta Ley, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo de la infraestructura portuaria nacional, con una visión de veinte años, revisable cada cinco años.
+Párrafo reformado DOF 11-06-2012, 19-12-2016
+La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de sesenta días hábiles. En dicho plazo la Secretaría deberá solicitar las opiniones de la Secretaría de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental y de la Secretaría de Desarrollo Agrario, Territorial y Urbano en cuanto a los aspectos de desarrollo urbano.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+Estas opiniones deberán emitirse en un lapso no mayor de quince días hábiles a partir de que la Secretaría las solicite. Si transcurrido dicho plazo no se ha emitido la opinión respectiva, se entenderá como favorable.
+Párrafo reformado DOF 19-12-2016
+En el caso de modificaciones menores al programa maestro de desarrollo portuario, éstas sólo deberán registrarse ante la Secretaría.
+LEY DE PUERTOS
+Párrafo adicionado DOF 19-12-2016
+La Secretaría, con vista en el interés público, podrá modificar los usos, destinos y modos de operación previstos en el programa maestro de desarrollo portuario respecto de las diferentes zonas del puerto o grupo de ellos o terminales aún no utilizadas.
+Párrafo adicionado DOF 19-12-2016
+Si dichas modificaciones causaren algún daño o perjuicio comprobable al concesionario, éste será indemnizado debidamente.
+Párrafo adicionado DOF 19-12-2016
+ARTICULO 42.- Para los puertos y terminales que cuenten con una administración portuaria integral, el gobierno de la entidad federativa correspondiente podrá constituir una comisión consultiva, formada con representantes de los gobiernos estatal y municipales, así como de las cámaras de comercio e industria de la región, de los usuarios, de los cesionarios y prestadores de servicios portuarios, del administrador portuario y de los sindicatos, así como de quienes, a propuesta del presidente, la comisión determine. La comisión será presidida por el representante de la entidad federativa que corresponda.
+Artículo reformado DOF 11-06-2012
+ARTICULO 43.- La comisión consultiva coadyuvará en la promoción del puerto y podrá emitir recomendaciones en relación con aquellos aspectos que afecten la actividad urbana y el equilibrio ecológico de la zona, para lo cual el administrador portuario deberá informar a la comisión sobre el programa maestro de desarrollo portuario y sus modificaciones, así como de los principales proyectos de inversión para la expansión y modernización del puerto.
 La comisión sesionará por lo menos una vez cada tres meses y sus resoluciones se tomarán por mayoría de votos.
 Cuando el administrador portuario decida no seguir dichas recomendaciones, lo notificará dentro de un plazo de 30 días al presidente de la comisión, quien podrá informar de ello a las autoridades competentes para que resuelvan lo que corresponda.
 CAPITULO VI Operación portuaria ARTICULO 44.- La utilización de los bienes y la prestación de los servicios portuarios constituyen la operación portuaria.
@@ -361,11 +398,13 @@ IV. Fijar el plazo de los contratos por un tiempo no mayor a la vigencia de la c
 V. Registrarse ante la Secretaría en un plazo máximo de cinco días.
 LEY DE PUERTOS La Secretaría podrá señalar a un administrador portuario, en un plazo no mayor de sesenta días a partir del depósito del contrato para su registro, que dicho contrato no reúne los requisitos establecidos en el presente artículo. En este caso, dicho contrato no surtirá efectos.
 Cuando en los contratos de cesión se hubiere previsto prórroga, ésta se otorgará siempre que el titular del contrato respectivo se encuentre al corriente en el cumplimiento de sus obligaciones. Para el otorgamiento de la prórroga, el titular del contrato deberá presentar al administrador portuario un programa de inversión y de mantenimiento tanto en materia de infraestructura como de equipamiento.
-Párrafo adicionado DOF 11-06-2012 ARTICULO 52.- En el caso de que el incumplimiento de los contratos de cesión parcial a que se refiere esta ley constituya una causa de revocación de las previstas en el artículo 33, la Secretaría, oyendo previamente al afectado, revocará el registro de dichos contratos, con lo cual éstos dejarán de surtir efectos.
+Párrafo adicionado DOF 11-06-2012
+ARTICULO 52.- En el caso de que el incumplimiento de los contratos de cesión parcial a que se refiere esta ley constituya una causa de revocación de las previstas en el artículo 33, la Secretaría, oyendo previamente al afectado, revocará el registro de dichos contratos, con lo cual éstos dejarán de surtir efectos.
 ARTICULO 53.- En los casos en que el administrador portuario esté obligado a contratar con terceros, deberá efectuar la adjudicación por concurso, en los términos que se establezcan en los reglamentos respectivos y en el título de concesión; y seleccionará a aquel que ofrezca las mejores condiciones para el desarrollo del puerto, así como la mejor calidad y precios para el usuario.
 En los casos previstos en el artículo 46 no se requerirá de concurso para la adjudicación de los contratos respectivos.
 ARTICULO 54.- Cuando los interesados en operar una terminal o instalación, o en prestar servicios en el área a cargo de un administrador portuario, le soliciten la adjudicación directa del contrato respectivo o la apertura del concurso correspondiente, éste deberá dar respuesta a la solicitud en un plazo no mayor de 60 días hábiles. En caso de inconformidad, los interesados podrán recurrir a la Secretaría para que resuelva lo conducente.
-Artículo reformado DOF 11-06-2012 ARTICULO 55.- El administrador portuario responderá ante la Secretaría por las obligaciones establecidas en el título de concesión respectivo, independientemente de los contratos de cesión parcial de derechos y de prestación de servicios que celebre.
+Artículo reformado DOF 11-06-2012
+ARTICULO 55.- El administrador portuario responderá ante la Secretaría por las obligaciones establecidas en el título de concesión respectivo, independientemente de los contratos de cesión parcial de derechos y de prestación de servicios que celebre.
 ARTICULO 56.- Los operadores de terminales, marinas e instalaciones y prestadores de servicios portuarios, por el hecho de firmar un contrato con un administrador portuario, serán responsables solidarios con éste y ante el Gobierno Federal, del cumplimiento de las obligaciones derivadas de mismo y de las consignadas en el título de concesión que se relacionen con aquéllas.
 ARTICULO 57.- En cada puerto que cuente con administración portuaria integral, se constituirá un comité de operación que estará integrado por el administrador portuario, el capitán de puerto y las demás autoridades correspondientes, así como por representantes de los usuarios, de los prestadores de servicios y de los demás operadores del puerto. Será presidido por el administrador portuario y sesionará por lo menos una vez al mes.
 Su funcionamiento y operación se ajustarán a un reglamento interno que se incluirá en las reglas de operación del puerto.
@@ -374,7 +413,8 @@ ARTICULO 58.- El comité de operación emitirá recomendaciones relacionadas con
 I. El funcionamiento, operación y horario del puerto;
 
 II. (Se deroga);
-LEY DE PUERTOS Fracción derogada DOF 11-06-2012
+LEY DE PUERTOS
+Fracción derogada DOF 11-06-2012
 
 III. (Se deroga);
 Fracción derogada DOF 11-06-2012
@@ -389,14 +429,17 @@ VII. Las quejas de los usuarios, y
 
 VIII. La coordinación que debe darse en el puerto para su eficiente funcionamiento.
 ARTICULO 58 BIS.- La planeación del puerto se apoyará en un Comité de Planeación, que se integrará por el Administrador Portuario quien lo presidirá, por dos representantes designados por la Secretaría; un representante de los cesionarios y otro de los prestadores de servicios portuarios.
-Párrafo reformado DOF 19-12-2016 El Comité de Planeación conocerá, entre otros asuntos, del programa maestro de desarrollo portuario y sus modificaciones; de la asignación de áreas, terminales y contratos de servicios portuarios que realice el administrador portuario; así como de cualquier asunto que afecte la operatividad de largo plazo del puerto.
+Párrafo reformado DOF 19-12-2016
+El Comité de Planeación conocerá, entre otros asuntos, del programa maestro de desarrollo portuario y sus modificaciones; de la asignación de áreas, terminales y contratos de servicios portuarios que realice el administrador portuario; así como de cualquier asunto que afecte la operatividad de largo plazo del puerto.
 El Comité de Planeación se reunirá por lo menos tres veces al año o en cualquier tiempo, a solicitud de cualquiera de sus integrantes y sus acuerdos se tomarán por mayoría de votos de los presentes.
-Artículo adicionado DOF 11-06-2012 ARTICULO 59.- Todos los actos de los concesionarios, permisionarios, operadores de terminales, marinas e instalaciones portuarias y prestadores de servicios, se sujetarán a las disposiciones aplicables en materia de competencia económica, incluidos los casos en que se fijen precios y tarifas máximos de acuerdo con lo previsto en esta ley.
+Artículo adicionado DOF 11-06-2012
+ARTICULO 59.- Todos los actos de los concesionarios, permisionarios, operadores de terminales, marinas e instalaciones portuarias y prestadores de servicios, se sujetarán a las disposiciones aplicables en materia de competencia económica, incluidos los casos en que se fijen precios y tarifas máximos de acuerdo con lo previsto en esta ley.
 CAPITULO VII Precios y tarifas ARTICULO 60.- La Secretaría podrá establecer en los títulos de concesión y en los permisos las bases de regulación tarifaria y de precios para el uso de determinados bienes en puertos, terminales, marinas y para la prestación de los servicios cuando no existan opciones portuarias o de otros modos de transporte que propicien un ambiente de competencia razonable. Dicha regulación se mantendrá sólo mientras subsistan las condiciones que la motivaron.
 Los administradores portuarios, de conformidad con lo que la Secretaría establezca en sus títulos de concesión, podrán determinar las bases tarifarias y de precios a que se sujetarán los operadores de terminales, marinas e instalaciones portuarias y los prestadores de servicios con quienes tengan celebrados contratos.
 ARTICULO 61.- En la regulación se podrán establecer tarifas y precios máximos por el uso de bienes o la prestación de servicios específicos o conjuntos de éstos, así como mecanismos de ajuste y periodos de vigencia. Esta deberá permitir la prestación de los servicios y la explotación de los bienes en condiciones satisfactorias de calidad, competitividad y permanencia.
 LEY DE PUERTOS ARTICULO 62.- Cuando los sujetos a regulación de precios o tarifaria consideren que no se cumplen las condiciones señaladas en el artículo anterior, podrán solicitar a la Comisión Federal de Competencia Económica un dictamen sobre el particular. Si dicha Comisión dictamina que las condiciones de competencia hacen improcedente la regulación en todo o en parte se deberá suprimir o modificar en el sentido correspondiente, dentro de los treinta días siguientes a la expedición de la resolución.
-Artículo reformado DOF 19-12-2016 CAPITULO VIII Verificación ARTICULO 63.- Los concesionarios y permisionarios presentarán a la Secretaría los informes con los datos técnicos, financieros y estadísticos relativos al cumplimiento de sus obligaciones, en los términos establecidos en el título de concesión o en el permiso.
+Artículo reformado DOF 19-12-2016
+CAPITULO VIII Verificación ARTICULO 63.- Los concesionarios y permisionarios presentarán a la Secretaría los informes con los datos técnicos, financieros y estadísticos relativos al cumplimiento de sus obligaciones, en los términos establecidos en el título de concesión o en el permiso.
 ARTICULO 64.- La Secretaría verificará, en cualquier tiempo, en los puertos, terminales, marinas e instalaciones portuarias, el debido cumplimiento de las obligaciones que señalan esta ley, sus reglamentos, las concesiones o permisos y las normas oficiales mexicanas correspondientes.
 La Secretaría realizará la verificación, por sí o a través de terceros, en los términos que dispone esta ley y, en lo no previsto, de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización.
 CAPITULO IX Infracciones y sanciones ARTICULO 65.- La Secretaría sancionará las infracciones a esta Ley con las multas siguientes:
@@ -428,7 +471,8 @@ XII. No cumplir con lo establecido en los artículos 51 o 54 de esta Ley, el equ
 
 XIII. Las demás infracciones a esta Ley o a sus reglamentos, el equivalente a la cantidad de cien a setenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción.
 En caso de reincidencia se aplicará una multa por el doble de la cantidad que resulte conforme a este artículo.
-Artículo reformado DOF 19-12-2016 ARTICULO 66.- Al imponer las sanciones a que se refiere el artículo anterior, la Secretaría deberá considerar:
+Artículo reformado DOF 19-12-2016
+ARTICULO 66.- Al imponer las sanciones a que se refiere el artículo anterior, la Secretaría deberá considerar:
 
 I. La gravedad de la Infracción;
 
@@ -442,24 +486,23 @@ LEY DE PUERTOS Transcurrido dicho plazo, la Secretaría dictará la resolución 
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970.
-**TERCERO.** Se derogan:
-
+**PRIMERO.-** La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970.
+**TERCERO.-** Se derogan:
 I. Los artículos del 172 al 183, 190, 210, 298 y 299 de la Ley de Vías Generales de Comunicación;
 
 II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y
 
 III. Todas las disposiciones que se opongan a lo previsto en esta ley.
 Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
-**CUARTO.** Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley continuarán vigentes hasta la conclusión de su vigencia.
+**CUARTO.-** Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley continuarán vigentes hasta la conclusión de su vigencia.
 Los titulares de las concesiones en un puerto que se encomiende a una administración portuaria integral podrán optar, dentro de la vigencia original de su título, por sujetarse al régimen de contratos previsto por el presente ordenamiento, pero en todo caso quedarán sujetos a las reglas de operación autorizadas por la Secretaría y a los niveles de calidad establecidos para la administración del puerto.
-**QUINTO.** Los titulares de permisos o autorizaciones vigentes a la fecha de entrada en vigor de la presente ley, que estén cumpliendo con todas las obligaciones derivadas de los mismos, podrán continuar desempeñando sus actividades en los puertos, terminales o marinas sujetos a administración portuaria integral, para lo cual deberán satisfacer los requisitos establecidos en esta ley en cuanto a forma de operación en un plazo no mayor de 90 días contados a partir de la fecha en que dicha administración portuaria inicie sus operaciones. De no hacerlo, tales permisos o autorizaciones quedarán sin efecto.
-**SEXTO.** Las personas físicas o morales que al entrar en vigor esta ley tengan solicitudes en trámite y hayan cubierto los requisitos para la obtención de concesión, permiso o autorización podrán optar, para su otorgamiento, por sujetarse a lo dispuesto en ésta, o bien a lo previsto en las leyes de Navegación y Comercio Marítimos y de Vías Generales de Comunicación.
+**QUINTO.-** Los titulares de permisos o autorizaciones vigentes a la fecha de entrada en vigor de la presente ley, que estén cumpliendo con todas las obligaciones derivadas de los mismos, podrán continuar desempeñando sus actividades en los puertos, terminales o marinas sujetos a administración portuaria integral, para lo cual deberán satisfacer los requisitos establecidos en esta ley en cuanto a forma de operación en un plazo no mayor de 90 días contados a partir de la fecha en que dicha administración portuaria inicie sus operaciones. De no hacerlo, tales permisos o autorizaciones quedarán sin efecto.
+**SEXTO.-** Las personas físicas o morales que al entrar en vigor esta ley tengan solicitudes en trámite y hayan cubierto los requisitos para la obtención de concesión, permiso o autorización podrán optar, para su otorgamiento, por sujetarse a lo dispuesto en ésta, o bien a lo previsto en las leyes de Navegación y Comercio Marítimos y de Vías Generales de Comunicación.
 SEPTIMO. A fin de reorganizar el sistema portuario nacional en los términos establecidos en esta ley, el Gobierno Federal podrá constituir sociedades mercantiles de participación estatal mayoritaria, a las que se adjudiquen directamente las concesiones para la administración portuaria integral.
 Asimismo, promoverá la constitución de sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas, para que administren los puertos, terminales e instalaciones de LEY DE PUERTOS uso público cuya influencia sea preponderantemente estatal. En este caso, también se podrán otorgar de manera directa las concesiones para la administración portuaria integral.
 El capital de las Sociedades Mercantiles a que se refiere este artículo deberá ser suscrito inicialmente, en su totalidad, por el gobierno federal, por los gobiernos estatales y municipales o por las entidades públicas de éstos.
-**OCTAVO.** En tanto se expiden los reglamentos a que se refiere el presente ordenamiento, se continuarán aplicando los reglamentos, normas y demás disposiciones administrativas expedidos con fundamento en las disposiciones que se derogan, en lo que no se opongan a lo dispuesto en esta ley.
+**OCTAVO.-** En tanto se expiden los reglamentos a que se refiere el presente ordenamiento, se continuarán aplicando los reglamentos, normas y demás disposiciones administrativas expedidos con fundamento en las disposiciones que se derogan, en lo que no se opongan a lo dispuesto en esta ley.
 México, D. F, a lo. de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 LEY DE PUERTOS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Puertos.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2012
@@ -469,13 +512,13 @@ Se reforman la fracción V del artículo 2o.; la fracción I del artículo 10; l
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
-**Tercero.** El Ejecutivo Federal y la Secretaría expedirán las modificaciones del Reglamento de la Ley de Puertos y de las disposiciones administrativas necesarias, respectivamente, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de un año, contado a partir de la entrada en vigor del presente Decreto.
-**Cuarto.** El Ejecutivo Federal, a efecto de dar cumplimiento a lo previsto en el tercer párrafo del artículo 25 de la presente ley, publicará en el Diario Oficial de la Federación las disposiciones reglamentarias, administrativas y técnicas que resulten necesarias para cumplir los fines señalados en dicha disposición.
-**Quinto.** Las concesiones, permisos y contratos de cesión parcial de derechos y obligaciones de terminales otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, continuarán con el uso para el cual fueron otorgadas hasta la conclusión de su vigencia o de prórroga en su caso.
-**Sexto.** El Ejecutivo Federal y la Secretaría, en un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, incluirán en el Reglamento de la Ley de Puertos y en los ordenamientos administrativos, respectivamente, las disposiciones que resulten necesarias para el funcionamiento y organización del Comité de Planeación previsto en el artículo 58 Bis de la presente ley.
-**Séptimo.** La Secretaría, cuando a su juicio existan condiciones y sea conveniente para el sistema portuario nacional, podrá autorizar por una sola vez la ampliación del área de las terminales e instalaciones portuarias de uso público, que hayan sido materia de contratos de cesión parcial de derechos, registrados ante la Secretaría y vigentes a la fecha de entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+**Tercero.-** El Ejecutivo Federal y la Secretaría expedirán las modificaciones del Reglamento de la Ley de Puertos y de las disposiciones administrativas necesarias, respectivamente, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de un año, contado a partir de la entrada en vigor del presente Decreto.
+**Cuarto.-** El Ejecutivo Federal, a efecto de dar cumplimiento a lo previsto en el tercer párrafo del artículo 25 de la presente ley, publicará en el Diario Oficial de la Federación las disposiciones reglamentarias, administrativas y técnicas que resulten necesarias para cumplir los fines señalados en dicha disposición.
+**Quinto.-** Las concesiones, permisos y contratos de cesión parcial de derechos y obligaciones de terminales otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, continuarán con el uso para el cual fueron otorgadas hasta la conclusión de su vigencia o de prórroga en su caso.
+**Sexto.-** El Ejecutivo Federal y la Secretaría, en un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, incluirán en el Reglamento de la Ley de Puertos y en los ordenamientos administrativos, respectivamente, las disposiciones que resulten necesarias para el funcionamiento y organización del Comité de Planeación previsto en el artículo 58 Bis de la presente ley.
+**Séptimo.-** La Secretaría, cuando a su juicio existan condiciones y sea conveniente para el sistema portuario nacional, podrá autorizar por una sola vez la ampliación del área de las terminales e instalaciones portuarias de uso público, que hayan sido materia de contratos de cesión parcial de derechos, registrados ante la Secretaría y vigentes a la fecha de entrada en vigor del presente Decreto.
 Las superficies podrán crecer hasta en una posición adicional de atraque con una longitud máxima de 350 metros y sus respectivas superficies terrestres. Dichas ampliaciones se otorgarán siempre y cuando existan por lo menos dos terminales o instalaciones portuarias del mismo giro de distintos operadores en un puerto.
 LEY DE PUERTOS El Ejecutivo Federal publicará en el Diario Oficial de la Federación las reglas de carácter general para tales fines.
 México, D.F., a 25 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Mariano Quihuis Fragoso, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
@@ -488,8 +531,8 @@ Se reforman el párrafo primero del artículo 1o.; la fracción IV del artículo
 ## TRANSITORIOS
 
 **PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
-**TERCERO.** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+**SEGUNDO.-** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+**TERCERO.-** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 LEY DE PUERTOS DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 2014
@@ -499,8 +542,8 @@ Se adiciona un segundo párrafo a la fracción I del artículo 44, de la Ley de 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 LEY DE PUERTOS DECRETO por el que se reforman y adicionan diversas disposiciones de las Leyes de Caminos, Puentes y Autotransporte Federal, de Puertos, de Aeropuertos, y Reglamentaria del Servicio Ferroviario.
 Publicado en el Diario Oficial de la Federación el 8 de junio de 2016
@@ -559,16 +602,16 @@ Se reforman los artículos 2o., fracciones I, III y XI, 7, 8, 13, la denominaci�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
-**Cuarto.** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+**Cuarto.-** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
 La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
 Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
 LEY DE PUERTOS Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
-**Quinto.** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
-**Sexto.** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
-**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+**Quinto.-** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+**Sexto.-** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+**Séptimo.-** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
 Ciudad de México, a 28 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

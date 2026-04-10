@@ -15,7 +15,9 @@ Se expide la Ley General de Educación Superior.
 
 ## Título Primero — Del derecho a la educación superior
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de educación superior. Es de observancia general para toda la República y sus disposiciones son de orden público e interés social.
@@ -98,6 +100,7 @@ XIV. Servicio social, a la actividad eminentemente formativa y temporal que ser�
 XV. Sistema de evaluación y acreditación de la educación superior, al conjunto orgánico y articulado de autoridades, de instituciones y organizaciones educativas y de instancias para la evaluación y acreditación, así como de mecanismos e instrumentos de evaluación del tipo de educación superior.
 
 ## Capítulo II — De los criterios, fines y políticas
+
 
 ### Artículo 7
 . La educación superior fomentará el desarrollo humano integral del estudiante en la construcción de saberes basado en lo siguiente:
@@ -257,7 +260,9 @@ XXIX. La generación y aplicación de métodos innovadores que faciliten la obte
 
 ## Título Segundo — Del tipo de educación superior
 
+
 ## Capítulo Único — De los niveles, modalidades y opciones
+
 
 ### Artículo 11
 . Los estudios correspondientes a los niveles del tipo de educación superior atenderán a lo siguiente:
@@ -337,7 +342,9 @@ Las instituciones públicas de educación superior con autonomía constitucional
 
 ## Título Tercero — De la educación superior en el Sistema Educativo Nacional
 
+
 ## Capítulo I — Del Sistema Nacional y los Sistemas Locales de Educación Superior
+
 
 ### Artículo 20
 . La educación superior forma parte del Sistema Educativo Nacional para el cumplimiento de los principios, fines y criterios previstos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
@@ -406,6 +413,7 @@ VIII. Estrechar la vinculación de las instituciones de educación superior con 
 IX. Los demás que se determinen en las leyes correspondientes.
 
 ## Capítulo II
+
 Del fortalecimiento a la ciencia, tecnología e innovación en las instituciones de educación superior
 
 ### Artículo 24
@@ -440,11 +448,13 @@ Con la finalidad de extender hacia todos los sectores de la sociedad los benefic
 
 ## Capítulo III — De los subsistemas de educación superior
 
+
 ### Artículo 28
 . El Sistema Nacional de Educación Superior se integra por los subsistemas universitario, tecnológico y de escuelas normales y formación docente, en sus diferentes modalidades, a fin de garantizar una oferta educativa con capacidad de atender las necesidades nacionales, regionales, estatales y locales, además de las prioridades específicas de formación de profesionistas, investigadoras e investigadores para el desarrollo sostenible del país.
 Las acciones que se realicen para el cumplimiento de los objetivos de los subsistemas a los que se refiere este Capítulo contribuirán al fortalecimiento del Sistema Educativo Nacional y al logro de los principios, fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos. Además, estarán orientadas al desarrollo humano integral del estudiante conforme a lo dispuesto en la presente Ley.
 
 ## Sección Primera — Del Subsistema Universitario
+
 
 ### Artículo 29
 . La educación superior universitaria tiene por objeto la formación integral de las personas para el desarrollo armónico de todas sus facultades, la construcción de saberes, la generación, aplicación, intercambio y transmisión del conocimiento, así como la difusión de la cultura y la extensión académica en los ámbitos nacional, regional y local, que faciliten la incorporación de las personas egresadas a los sectores social, productivo y laboral.
@@ -484,6 +494,7 @@ VII. Centros Públicos de Investigación, que son aquellas entidades paraestatal
 
 ## Sección Segunda — Del Subsistema Tecnológico
 
+
 ### Artículo 30
 . La educación superior tecnológica tiene por objeto la formación integral de las personas con énfasis en la enseñanza, la aplicación y la vinculación de las ciencias, las ingenierías y la tecnología con los sectores productivos de bienes y servicios, así como la investigación científica y tecnológica.
 El subsistema tecnológico se encuentra integrado por las instituciones de educación superior que realizan los objetivos que se prevén en el párrafo anterior con el énfasis mencionado y se clasifican de la siguiente forma en razón de su naturaleza jurídica:
@@ -515,6 +526,7 @@ e) Aquellas a través de las cuales una dependencia de alguno de los poderes de 
 III. Instituciones particulares de educación superior creadas por particulares con reconocimiento de validez oficial de estudios.
 
 ## Sección Tercera — Del Subsistema de Escuelas Normales e Instituciones de Formación Docente
+
 
 ### Artículo 31
 . La educación normal y de formación docente tiene por objeto:
@@ -556,7 +568,9 @@ El Consejo Nacional de Autoridades de Educación Normal podrá convocar a un con
 
 ## Título Cuarto — De las acciones, concurrencia y competencias del Estado
 
+
 ## Capítulo I — De las acciones para el ejercicio del derecho a la educación superior
+
 
 ### Artículo 36
 . Las autoridades educativas federal, de las entidades federativas y de los municipios concurrirán y se coordinarán, en el ámbito de sus competencias, para garantizar la prestación del servicio de educación superior en todo el territorio nacional en los términos de esta Ley.
@@ -673,6 +687,7 @@ IV. Aplicar la Agenda Digital Educativa emitida en términos de la Ley General d
 
 ## Capítulo II — De la distribución de competencias
 
+
 ### Artículo 47
 . Corresponden de manera exclusiva a la autoridad educativa federal las atribuciones siguientes:
 
@@ -782,7 +797,9 @@ Los municipios y las alcaldías de la Ciudad de México coadyuvarán en la promo
 
 ## Título Quinto — De la coordinación, la planeación y la evaluación
 
+
 ## Capítulo I
+
 De las instancias de coordinación, planeación, vinculación, consulta y participación social
 
 ### Artículo 51
@@ -899,6 +916,7 @@ VI. Se establecerá un espacio de deliberación de las comisiones estatales para
 
 ## Capítulo II — De la mejora continua, la evaluación y la información de la educación superior
 
+
 ### Artículo 56
 . Para orientar el desarrollo de la educación superior, la Secretaría elaborará de conformidad con la Ley de Planeación y el Plan Nacional de Desarrollo, así como con el Programa Sectorial de Educación, un Programa Nacional de Educación Superior, que incluya objetivos, políticas, estrategias, líneas de acción y metas globales para cada uno de los subsistemas educativos, además de reconocer el diferente nivel de desarrollo de las instituciones que integran cada subsistema. Este documento será presentado en la programación estratégica del Sistema Educativo Nacional para el cumplimiento de sus fines y propósitos, será actualizado cada cinco años e incluirá una visión prospectiva y de largo plazo.
 En su elaboración se observará lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley, la Ley General de Educación y demás disposiciones aplicables; además recibirá las propuestas que se formulen en el seno del Consejo Nacional para la Coordinación de la Educación Superior, las Comisiones Estatales para la Planeación de la Educación Superior y las instancias de vinculación, consulta y participación social.
@@ -947,7 +965,9 @@ Los resultados de procesos de evaluación y acreditación deberán estar disponi
 
 ## Título Sexto — Del financiamiento de la educación superior
 
+
 ## Capítulo Único — De la concurrencia en el financiamiento
+
 
 ### Artículo 62
 . La Federación y las entidades federativas concurrirán en el cumplimiento progresivo, de conformidad con la disponibilidad presupuestaria, del mandato de obligatoriedad de la educación superior y al principio de gratuidad en la educación en términos de lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
@@ -1009,7 +1029,9 @@ X. Las instituciones públicas de educación superior, con apoyo de la Secretar�
 
 ## Título Séptimo — De los particulares que impartan educación superior
 
+
 ## Capítulo I — De los aspectos generales para impartir el servicio educativo
+
 
 ### Artículo 68
 . El Estado reconoce la contribución que realizan las instituciones particulares de educación superior que cuentan con autorización o reconocimiento de validez oficial de estudios para el logro de los principios, fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos, por tanto, gozarán de todas las garantías para impartir este tipo de educación, asimismo estarán obligados a cumplir las disposiciones legales aplicables.
@@ -1028,6 +1050,7 @@ Las becas se otorgarán, con base en el criterio de equidad, a estudiantes que n
 Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Para dar cumplimiento al monto establecido en el párrafo primero de este artículo, los porcentajes de las becas parciales se sumarán hasta completar el equivalente a una beca de la exención del pago total de las cuotas de inscripción o de colegiaturas que haya establecido el particular. El otorgamiento o renovación de la beca no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario.
 
 ## Capítulo II — Del reconocimiento de validez oficial de estudios
+
 
 ### Artículo 71
 . En el reconocimiento de validez oficial de estudios se atenderán las siguientes disposiciones:
@@ -1123,6 +1146,7 @@ VI. La Secretaría, en cualquier momento y conforme a la legislación aplicable,
 
 ## Capítulo III — De las obligaciones de los particulares
 
+
 ### Artículo 73
 . La autoridad o la institución pública de educación superior que otorgue la autorización o el reconocimiento de validez oficial será directamente responsable de llevar a cabo las acciones de vigilancia de los servicios educativos respecto a los cuales se concedió dicha autorización o reconocimiento.
 Las facultades de vigilancia respecto de los estudios a los que se haya otorgado autorización o reconocimiento de validez oficial de estudios se ejercerán de conformidad con lo dispuesto en el Capítulo II del Título Décimo Primero de la Ley General de Educación. En el caso de las instituciones públicas de educación superior facultadas para ello, se sujetarán a las disposiciones que emitan en esa materia.
@@ -1178,6 +1202,7 @@ En la aplicación de las sanciones establecidas en las fracciones II y III de es
 
 ## Capítulo IV — Del recurso de revisión
 
+
 ### Artículo 77
 . En contra de las resoluciones emitidas por las autoridades educativas en materia de autorización o reconocimiento de validez oficial de estudios, los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudir a la autoridad jurisdiccional que corresponda.
 También podrá interponerse el recurso de revisión cuando la autoridad no dé respuesta en el plazo establecido para el otorgamiento del reconocimiento de validez oficial de estudios en términos de esta Ley.
@@ -1185,10 +1210,9 @@ La tramitación y la resolución del recurso de revisión, se llevará a cabo en
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley para la Coordinación de la Educación Superior, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1978 y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
-**Tercero.** Con objeto de dar cumplimiento a las disposiciones establecidas en el presente Decreto, se estará a lo siguiente:
-
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley para la Coordinación de la Educación Superior, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1978 y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+**Tercero.-** Con objeto de dar cumplimiento a las disposiciones establecidas en el presente Decreto, se estará a lo siguiente:
 I. Los mecanismos o recursos para dar cumplimiento progresivo a la obligatoriedad del Estado de ofrecer oportunidades de acceso a toda persona que cuente con el certificado de bachillerato o equivalente, se implementarán a partir del ciclo 2022-2023, en función de la disponibilidad presupuestaria, sin menoscabo de las acciones que se realicen con la entrada en vigor del presente Decreto;
 
 II. La gratuidad de la educación superior se implementará de manera progresiva en función de la suficiencia presupuestal, a partir del ciclo 2022-2023; sin detrimento de las acciones que se realicen con la entrada en vigor del presente Decreto;
@@ -1198,24 +1222,24 @@ III. La Secretaría propondrá, en el marco del Consejo Nacional para la Coordin
 IV. Los recursos para dar cumplimiento a lo establecido en los artículos 62 y 63 de esta Ley, diferentes de los asignados para el fondo federal especial a que se refiere el artículo 64 de la misma Ley, se deberán prever en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022 y subsecuentes, así como anualmente en los correspondientes presupuestos de egresos de las entidades federativas, los cuales deberán incrementarse cuando se presente una variación positiva de la estimación de los ingresos previstos en las respectivas iniciativas de leyes de ingresos de las entidades federativas y de la federación, y
 
 V. El Fondo al que se refiere el artículo 64 de este Decreto deberá contenerse en el Proyecto y el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, sin menoscabo de las previsiones de gasto que se realicen con la entrada en vigor de este Decreto, hasta en tanto se aseguren a largo plazo los recursos económicos necesarios para garantizar la obligatoriedad de la educación superior, así como la plurianualidad de su infraestructura, el Proyecto y el Presupuesto de Egresos de la Federación de cada ejercicio fiscal deberá preverlo, de conformidad con la disponibilidad presupuestaria. Una vez establecido, la autoridad correspondiente, emitirá sus disposiciones normativas atendiendo lo establecido en la presente Ley, la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás normatividad aplicable.
-**Cuarto.** La Secretaría deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a doscientos veinte días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+**Cuarto.-** La Secretaría deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a doscientos veinte días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
 Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
-**Quinto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el Decreto. Dicho proceso se llevará a cabo en un marco en el que se considere la participación de las instituciones de educación superior, organizaciones de la sociedad civil y especialistas en política educativa.
-**Sexto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el H.
+**Quinto.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el Decreto. Dicho proceso se llevará a cabo en un marco en el que se considere la participación de las instituciones de educación superior, organizaciones de la sociedad civil y especialistas en política educativa.
+**Sexto.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el H.
 Congreso de la Unión, en el ámbito de su competencia, promoverá las reformas a las leyes respectivas que, en su caso, sean necesarias para el cumplimiento de lo dispuesto en el Título Sexto de este Decreto.
-**Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
-**Octavo.** La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
-**Noveno.** El Registro Nacional de Opciones para Educación Superior al que se refiere el artículo 38 de este Decreto deberá estar operando a más tardar en ciento ochenta días siguientes a la entrada en vigor del mismo.
-**Décimo.** Las acciones a las que se refiere el artículo 43 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días siguientes a su entrada en vigor.
-**Décimo Primero.** La Secretaría, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor de este Decreto, dará cumplimiento a lo dispuesto en el artículo 34 del mismo respecto a la instalación del Consejo Nacional de Autoridades de Educación Normal. En la sesión de instalación presentará los lineamientos para su operación y funcionamiento.
-**Décimo Segundo.** El Programa Nacional de Educación Superior se emitirá por el Ejecutivo Federal, a propuesta de la Secretaría, a más tardar en el año 2022, en términos de la Ley de Planeación y demás disposiciones aplicables.
-**Décimo Tercero.** Para el establecimiento del sistema de evaluación y acreditación de la educación superior, el Consejo Nacional para la Coordinación de la Educación Superior y la Comisión Nacional para la Mejora Continua de la Educación, en un plazo no mayor a ciento veinte días de la instalación del Consejo Nacional, realizarán una convocatoria amplia a las instituciones de educación superior, a las instancias de evaluación y acreditación de la educación superior, personal académico, especialistas y los sectores interesados para contribuir a su diseño. Se integrará un comité técnico para procesar las aportaciones que se realicen en el marco de la referida convocatoria. Dicho sistema deberá presentarse a más tardar en el año 2021.
-**Décimo Cuarto.** La Secretaría, propondrá al Consejo Nacional para la Coordinación de la Educación Superior en la sesión de instalación los lineamientos para su operación y funcionamiento que refiere el artículo 52 de este Decreto. El Consejo deberá convocarse por la Secretaría para su instalación a más tardar en los ciento veinte días siguientes a la publicación del presente Decreto.
+**Séptimo.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera gradual con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+**Octavo.-** La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+**Noveno.-** El Registro Nacional de Opciones para Educación Superior al que se refiere el artículo 38 de este Decreto deberá estar operando a más tardar en ciento ochenta días siguientes a la entrada en vigor del mismo.
+**Décimo.-** Las acciones a las que se refiere el artículo 43 del presente Decreto, referentes a la importancia para que las instituciones de educación superior se constituyan como espacios libres de violencia de género y de discriminación hacia las mujeres deberán realizarse y reforzarse de manera progresiva y de acuerdo con la disponibilidad presupuestal de cada institución a partir de los ciento veinte días siguientes a su entrada en vigor.
+**Décimo Primero.-** La Secretaría, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor de este Decreto, dará cumplimiento a lo dispuesto en el artículo 34 del mismo respecto a la instalación del Consejo Nacional de Autoridades de Educación Normal. En la sesión de instalación presentará los lineamientos para su operación y funcionamiento.
+**Décimo Segundo.-** El Programa Nacional de Educación Superior se emitirá por el Ejecutivo Federal, a propuesta de la Secretaría, a más tardar en el año 2022, en términos de la Ley de Planeación y demás disposiciones aplicables.
+**Décimo Tercero.-** Para el establecimiento del sistema de evaluación y acreditación de la educación superior, el Consejo Nacional para la Coordinación de la Educación Superior y la Comisión Nacional para la Mejora Continua de la Educación, en un plazo no mayor a ciento veinte días de la instalación del Consejo Nacional, realizarán una convocatoria amplia a las instituciones de educación superior, a las instancias de evaluación y acreditación de la educación superior, personal académico, especialistas y los sectores interesados para contribuir a su diseño. Se integrará un comité técnico para procesar las aportaciones que se realicen en el marco de la referida convocatoria. Dicho sistema deberá presentarse a más tardar en el año 2021.
+**Décimo Cuarto.-** La Secretaría, propondrá al Consejo Nacional para la Coordinación de la Educación Superior en la sesión de instalación los lineamientos para su operación y funcionamiento que refiere el artículo 52 de este Decreto. El Consejo deberá convocarse por la Secretaría para su instalación a más tardar en los ciento veinte días siguientes a la publicación del presente Decreto.
 Las personas representantes del personal académico y de estudiantes serán elegidas por el Consejo Nacional para la Coordinación de la Educación Superior, a partir de las propuestas que formulen las asociaciones de académicos y los consejos estudiantiles de cada subsistema, respectivamente. En tanto se realiza dicha elección, el Consejo sesionará con las demás personas que lo integran.
-**Décimo Quinto.** La Secretaría convocará a la instalación del espacio de deliberación de las comisiones estatales para la planeación de la educación superior o instancias equivalentes, a más tardar en el año 2021. En la reunión de instalación se determinarán sus lineamientos de operación.
-**Décimo Sexto.** En los lineamientos que emita la Secretaría respecto a las disposiciones que se apliquen a las instituciones particulares de educación superior, se considerarán aquellas que apliquen a las instituciones de sostenimiento social y comunitarias de educación superior que son aquellas establecidas por agrupaciones sociales de naturaleza comunitaria, con el propósito de proporcionar opciones de educación superior principalmente en zonas de alta marginación; así como las de sostenimiento social.
-**Décimo Séptimo.** Los trámites relacionados con el artículo 71 y que hayan sido iniciados con anterioridad, se concluirán conforme a las disposiciones anteriores a la entrada en vigor de la presente Ley.
-**Décimo Octavo.** Los particulares beneficiados con los decretos presidenciales o acuerdos secretariales mantendrán el régimen jurídico que tienen reconocido, quedando a salvo los derechos que hubiesen adquirido y se regirán en lo conducente por las disposiciones de este Decreto.
+**Décimo Quinto.-** La Secretaría convocará a la instalación del espacio de deliberación de las comisiones estatales para la planeación de la educación superior o instancias equivalentes, a más tardar en el año 2021. En la reunión de instalación se determinarán sus lineamientos de operación.
+**Décimo Sexto.-** En los lineamientos que emita la Secretaría respecto a las disposiciones que se apliquen a las instituciones particulares de educación superior, se considerarán aquellas que apliquen a las instituciones de sostenimiento social y comunitarias de educación superior que son aquellas establecidas por agrupaciones sociales de naturaleza comunitaria, con el propósito de proporcionar opciones de educación superior principalmente en zonas de alta marginación; así como las de sostenimiento social.
+**Décimo Séptimo.-** Los trámites relacionados con el artículo 71 y que hayan sido iniciados con anterioridad, se concluirán conforme a las disposiciones anteriores a la entrada en vigor de la presente Ley.
+**Décimo Octavo.-** Los particulares beneficiados con los decretos presidenciales o acuerdos secretariales mantendrán el régimen jurídico que tienen reconocido, quedando a salvo los derechos que hubiesen adquirido y se regirán en lo conducente por las disposiciones de este Decreto.
 Los particulares que impartan educación superior con reconocimiento de validez oficial de estudios que decidan solicitar la obtención del reconocimiento al que se refiere el artículo 72 de este Decreto, estarán a lo siguiente:
 
 I. La Secretaría, en un plazo no mayor de ciento veinte días contados a partir de la emisión de los lineamientos respectivos para la educación impartida por particulares, emitirá una convocatoria para solicitar un reconocimiento a la gestión institucional y excelencia educativa con el cumplimiento de los requisitos que se determinen conforme a las disposiciones legales aplicables, y
@@ -1223,10 +1247,10 @@ I. La Secretaría, en un plazo no mayor de ciento veinte días contados a partir
 II. Recibidas las solicitudes, la Secretaría, en un plazo no mayor de noventa días resolverá sobre el otorgamiento del reconocimiento a la gestión institucional y excelencia educativa.
 Los particulares podrán solicitar el reconocimiento al que se refiere el artículo 72 de este Decreto cuando así lo decidan y conforme a lo establecido en esta Ley y demás disposiciones aplicables, con independencia de la convocatoria que se emita en los términos de esta disposición transitoria.
 En la primera solicitud del particular para que se le otorgue el reconocimiento a la gestión institucional y excelencia educativa, la Secretaría observará que no hayan sido sancionados por las autoridades educativas correspondientes en los últimos cinco años anteriores a la fecha de solicitud del reconocimiento. En la prórroga que se haga del mismo, se estará a lo dispuesto en el artículo 72 fracción I inciso e) de este Decreto.
-**Décimo Noveno.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las autoridades respectivas iniciarán la revisión y adecuación de las disposiciones que rigen a las Universidades Interculturales, las Universidades Tecnológicas y Politécnicas, así como al Tecnológico Nacional de México y la Universidad Abierta y a Distancia de México, a efecto de que éstas cuenten con un marco organizativo acorde a su naturaleza académica y características institucionales para armonizarlas a los fines de la presente Ley.
-**Vigésimo.** Las instituciones públicas de educación superior podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo.
+**Décimo Noveno.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las autoridades respectivas iniciarán la revisión y adecuación de las disposiciones que rigen a las Universidades Interculturales, las Universidades Tecnológicas y Politécnicas, así como al Tecnológico Nacional de México y la Universidad Abierta y a Distancia de México, a efecto de que éstas cuenten con un marco organizativo acorde a su naturaleza académica y características institucionales para armonizarlas a los fines de la presente Ley.
+**Vigésimo.-** Las instituciones públicas de educación superior podrán establecer mecanismos para recibir donativos, los cuales les permitan disponer de recursos para cuestiones específicas que fortalezcan su equipamiento y desempeño educativo.
 Las autoridades educativas de la institución correspondiente deberán aplicar la normatividad de transparencia y rendición de cuentas sobre los recursos obtenidos en donación, de conformidad con las disposiciones aplicables.
-**Vigésimo Primero.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Pedagógica Nacional, por conducto de su Consejo Académico, convocará a un espacio de deliberación y consulta con el propósito de analizar la viabilidad de modificar su naturaleza jurídica.
+**Vigésimo Primero.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Pedagógica Nacional, por conducto de su Consejo Académico, convocará a un espacio de deliberación y consulta con el propósito de analizar la viabilidad de modificar su naturaleza jurídica.
 Los acuerdos adoptados en dicho espacio se harán llegar al H. Congreso de la Unión para que, en su caso, analice la posibilidad de realizar las modificaciones respectivas a los ordenamientos jurídicos correspondientes.
 Ciudad de México, a 9 de marzo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip.

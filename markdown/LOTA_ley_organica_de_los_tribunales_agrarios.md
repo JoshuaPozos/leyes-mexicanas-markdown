@@ -45,8 +45,10 @@ I.- Fijar el número y límite territorial de los distritos en que se divida el 
 II.- Establecer el número y sede de los tribunales unitarios que existirán en cada uno de los distritos.
 Las determinaciones de esta naturaleza se publicarán en el Diario Oficial de la Federación. Además, cuando se estime conveniente, podrá autorizar a los tribunales para que administren justicia en los lugares y conforme al programa que previamente se establezca;
 III.- Resolver sobre las renuncias de los magistrados y concederles licencias hasta por un mes con goce de sueldo, siempre que exista causa justificada y no se perjudique el funcionamiento del tribunal, y hasta por tres meses sin goce de sueldo. En casos excepcionales, el Tribunal Superior podrá otorgar licencias sin goce de sueldo por plazos mayores;
-Fracción reformada DOF 09-07-1993 IV.- Determinar cuando el supernumerario del Tribunal Superior deba suplir la ausencia de algún magistrado y, por lo que toca a los tribunales unitarios, cuál de los supernumerarios suplirá al magistrado ausente; en los casos en que la ausencia no exceda de 15 días, el Tribunal Superior podrá autorizar para que lo supla el secretario de acuerdos adscrito al tribunal unitario de que se trate;
-Fracción reformada DOF 09-07-1993 V.- Elegir al Presidente del Tribunal Superior de entre los magistrados que lo forman, y determinar las responsabilidades en que incurra en el desempeño de su cargo;
+Fracción reformada DOF 09-07-1993
+IV.- Determinar cuando el supernumerario del Tribunal Superior deba suplir la ausencia de algún magistrado y, por lo que toca a los tribunales unitarios, cuál de los supernumerarios suplirá al magistrado ausente; en los casos en que la ausencia no exceda de 15 días, el Tribunal Superior podrá autorizar para que lo supla el secretario de acuerdos adscrito al tribunal unitario de que se trate;
+Fracción reformada DOF 09-07-1993
+V.- Elegir al Presidente del Tribunal Superior de entre los magistrados que lo forman, y determinar las responsabilidades en que incurra en el desempeño de su cargo;
 VI.- Fijar y cambiar la adscripción de los magistrados de los tribunales unitarios;
 VII.- Nombrar los secretarios, actuarios y peritos de los tribunales agrarios, cesarlos, suspenderlos en sus funciones, aceptar sus renuncias, cambiarlos de adscripción y resolver todas las cuestiones que se relacionen con dichos nombramientos; así como concederles licencias en los términos de las disposiciones legales aplicables, previa opinión, en su caso, del magistrado a que se encuentren adscritos;
 VIII.- Aprobar el anteproyecto de presupuesto anual de egresos;
@@ -56,14 +58,17 @@ X.- Aprobar el Reglamento Interior de los tribunales agrarios, así como los dem
 ### Artículo 9o
 .- El Tribunal Superior Agrario será competente para conocer:
 I.- Del recurso de revisión en contra de sentencias dictadas por los tribunales unitarios, en juicios que se refieran a conflictos de límites de tierras suscitados entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios, sociedades o asociaciones;
-Fracción reformada DOF 09-07-1993 II.- Del recurso de revisión de sentencias de los tribunales unitarios relativas a restitución de tierras de núcleos de población ejidal o comunal;
-Fracción reformada DOF 09-07-1993 III.- Del recurso de revisión de sentencias dictadas en juicios de nulidad contra resoluciones emitidas por autoridades agrarias;
+Fracción reformada DOF 09-07-1993
+II.- Del recurso de revisión de sentencias de los tribunales unitarios relativas a restitución de tierras de núcleos de población ejidal o comunal;
+Fracción reformada DOF 09-07-1993
+III.- Del recurso de revisión de sentencias dictadas en juicios de nulidad contra resoluciones emitidas por autoridades agrarias;
 IV.- De conflictos de competencia entre los tribunales unitarios;
 V.- Del establecimiento de jurisprudencia, para lo cual se requerirá de cinco sentencias en un mismo sentido no interrumpidas por otra en contrario, aprobadas por lo menos por cuatro magistrados.
 Para interrumpir la jurisprudencia se requerirá el voto favorable de cuatro magistrados y expresar las razones en que se apoye la interrupción.
 Asimismo, el Tribunal Superior resolverá qué tesis debe observarse, cuando diversos tribunales unitarios sustenten tesis contradictorias en sus sentencias, la que también constituirá jurisprudencia, sin que la resolución que se dicte afecte las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción.
 La jurisprudencia que establezca el Tribunal Superior Agrario será obligatoria para los tribunales unitarios a partir de su publicación en el Boletín Judicial Agrario;
-Fracción reformada DOF 09-07-1993 VI.- De los impedimentos y excusas de los magistrados, tanto del Tribunal Superior como de los tribunales unitarios;
+Fracción reformada DOF 09-07-1993
+VI.- De los impedimentos y excusas de los magistrados, tanto del Tribunal Superior como de los tribunales unitarios;
 VII.- Conocer de las excitativas de justicia cuando los magistrados del propio Tribunal Superior no formulen sus proyectos o los magistrados de los tribunales unitarios no respondan dentro de los plazos establecidos; y VIII.- De los demás asuntos que las leyes expresamente le confieran.
 Corresponderá al magistrado ponente instruir el procedimiento y formular el proyecto de resolución definitiva para someterla a la aprobación del Tribunal Superior.
 Párrafo reformado DOF 09-07-1993
@@ -90,7 +95,8 @@ CAPITULO TERCERO De los Magistrados
 ### Artículo 12
 .- Para ser magistrado se deben reunir los siguientes requisitos:
 I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos, así como tener por lo menos treinta años el día de su designación;
-Fracción reformada DOF 23-01-1998 II.- Ser licenciado en derecho con título debidamente registrado, expedido cuando menos cinco años antes de la fecha de la designación;
+Fracción reformada DOF 23-01-1998
+II.- Ser licenciado en derecho con título debidamente registrado, expedido cuando menos cinco años antes de la fecha de la designación;
 III.- Comprobar una práctica profesional mínima de cinco años; y IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
 
 ### Artículo 13
@@ -117,8 +123,10 @@ CAPITULO QUINTO De los Tribunales Unitarios
 .- Los tribunales unitarios conocerán, por razón del territorio, de las controversias que se les planteen con relación a tierras ubicadas dentro de su jurisdicción, conforme a la competencia que les confiere este artículo.
 Los tribunales unitarios serán competentes para conocer:
 I.- De las controversias por límites de terrenos entre dos o más núcleos de población ejidal o comunal, y de éstos con pequeños propietarios, sociedades o asociaciones;
-Fracción reformada DOF 09-07-1993 II.- De la restitución de tierras, bosques y aguas a los núcleos de población o a sus integrantes, contra actos de autoridades administrativas o jurisdiccionales, fuera de juicio, o contra actos de particulares;
-Fracción reformada DOF 09-07-1993 III.- Del reconocimiento del régimen comunal;
+Fracción reformada DOF 09-07-1993
+II.- De la restitución de tierras, bosques y aguas a los núcleos de población o a sus integrantes, contra actos de autoridades administrativas o jurisdiccionales, fuera de juicio, o contra actos de particulares;
+Fracción reformada DOF 09-07-1993
+III.- Del reconocimiento del régimen comunal;
 IV.- De juicios de nulidad contra resoluciones dictadas por las autoridades agrarias que alteren, modifiquen o extingan un derecho o determinen la existencia de una obligación;
 V.- De los conflictos relacionados con la tenencia de las tierras ejidales y comunales;
 VI.- De controversias en materia agraria entre ejidatarios, comuneros, posesionarios o avecindados entre sí; así como las que se susciten entre éstos y los órganos del núcleo de población;
@@ -126,9 +134,14 @@ VII.- De controversias relativas a la sucesión de derechos ejidales y comunales
 VIII.- De las nulidades previstas en las fracciones VIII y IX del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia agraria, así como las resultantes de actos o contratos que contravengan las leyes agrarias;
 IX.- De las omisiones en que incurra la Procuraduría Agraria y que deparen perjuicio a ejidatarios, comuneros, sucesores de ejidatarios o comuneros, ejidos, comunidades, pequeños propietarios, avecindados o jornaleros agrícolas, a fin de proveer lo necesario para que sean eficaz e inmediatamente subsanadas;
 X.- De los negocios de jurisdicción voluntaria en materia agraria; y XI.- De las controversias relativas a los contratos de asociación o aprovechamiento de tierras ejidales, a que se refiere el artículo 45 de la Ley Agraria;
-Fracción reformada DOF 09-07-1993 XII.- De la reversión a que se refiere el artículo 97 de la Ley Agraria;
-Fracción adicionada DOF 09-07-1993 XIII.- De la ejecución de los convenios a que se refiere la fracción VI del artículo 185 de la Ley Agraria, así como de la ejecución de laudos arbitrales en materia agraria, previa determinación de que se encuentran apegados a las disposiciones legales aplicables; y Fracción adicionada DOF 09-07-1993 XIV.- De los demás asuntos que determinen las leyes.
-Fracción adicionada DOF 09-07-1993 CAPITULO SEXTO Del Secretario General de Acuerdos y demás Servidores Públicos
+Fracción reformada DOF 09-07-1993
+XII.- De la reversión a que se refiere el artículo 97 de la Ley Agraria;
+Fracción adicionada DOF 09-07-1993
+XIII.- De la ejecución de los convenios a que se refiere la fracción VI del artículo 185 de la Ley Agraria, así como de la ejecución de laudos arbitrales en materia agraria, previa determinación de que se encuentran apegados a las disposiciones legales aplicables; y
+Fracción adicionada DOF 09-07-1993
+XIV.- De los demás asuntos que determinen las leyes.
+Fracción adicionada DOF 09-07-1993
+CAPITULO SEXTO Del Secretario General de Acuerdos y demás Servidores Públicos
 
 ### Artículo 19
 .- El Secretario General de Acuerdos del Tribunal Superior Agrario deberá reunir los requisitos a que se refiere el artículo 12 de esta ley.
@@ -169,7 +182,8 @@ II.- Devolver las actuaciones, previas las anotaciones correspondientes; y III.-
 ### Artículo 26
 .- Las relaciones laborales de los servidores públicos de base de los tribunales agrarios, se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional.
 Son trabajadores de confianza: el Secretario General de Acuerdos y los de estudio y cuenta del Tribunal Superior Agrario; los secretarios de acuerdos y de estudio y cuenta de los tribunales unitarios; los actuarios, peritos, jefes de las unidades de apoyo a la función jurisdiccional y demás servidores públicos que desempeñen las funciones a que se refiere la fracción II del artículo 5o. de la ley citada en el párrafo anterior. Los secretarios de acuerdos, de estudio y cuenta, actuarios y peritos de los tribunales unitarios, y demás categorías de servidores públicos que determine el Tribunal Superior Agrario, serán designados mediante concurso.
-Párrafo reformado DOF 09-07-1993 CAPITULO SEPTIMO De los Impedimentos y Excusas
+Párrafo reformado DOF 09-07-1993
+CAPITULO SEPTIMO De los Impedimentos y Excusas
 
 ### Artículo 27
 .- Los magistrados y secretarios de acuerdos de los tribunales agrarios estarán impedidos para conocer los asuntos en los cuales se presente alguna de las causas previstas en el artículo 82 de la Ley Orgánica del Poder Judicial de la Federación.

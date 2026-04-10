@@ -201,6 +201,7 @@ El titular de una unidad o establecimiento otorgará los estímulos a sus subalt
 CAPITULO V Medidas Preventivas y Correctivos Disciplinarios
 
 ## Sección Primera
+
 Generalidades
 
 ### Artículo 41
@@ -357,6 +358,7 @@ El personal facultado para graduar arrestos podrá suspenderlos, hasta en tanto 
 .- El personal que se encuentre en situación de disposición en espera de órdenes por resolución de organismo disciplinario competente, quedará sujeto a que se le nombren comisiones del servicio de acuerdo a su jerarquía, y a cumplir con la rutina de la unidad en que se encuentre encuadrado, no debiéndosele nombrar entretanto, cargo alguno, ni ser propuesto para ascenso.
 
 ## Sección Segunda
+
 Criterios para la Imposición y Graduación de Correctivos
 
 ### Artículo 67
@@ -376,6 +378,7 @@ Criterios para la Imposición y Graduación de Correctivos
 
 ## Sección Tercera — De las Circunstancias Atenuantes
 
+
 ### Artículo 72
 .- Son circunstancias atenuantes para la graduación de arrestos las siguientes:
 
@@ -394,6 +397,7 @@ VI. Tomar por sí mismo la iniciativa de implementar las acciones para reparar l
 VII. Cualquier otra circunstancia que a juicio del superior disminuya la gravedad de la falta o haga presumir la no intencionalidad del infractor.
 
 ## Sección Cuarta — De las Circunstancias Agravantes
+
 
 ### Artículo 73
 .- Son circunstancias agravantes para la graduación de arrestos:

@@ -26,7 +26,8 @@ Artículo reformado DOF 26-07-2007
 
 ### Artículo 4o
 .- Los programas, proyectos y demás acciones que, en cumplimiento a lo dispuesto en esta Ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-Artículo reformado DOF 26-07-2007 CAPITULO II CONCEPTOS
+Artículo reformado DOF 26-07-2007
+CAPITULO II CONCEPTOS
 
 ### Artículo 5o
 .- Para los efectos de la Ley se entiende por:
@@ -95,7 +96,8 @@ Zona Bajo Control Fitosanitario: Área agroecológica determinada en la que se a
 Zona Bajo Protección: Área agroecológica en la que no está presente una plaga, sin embargo, no se han completado todos los requisitos para su reconocimiento como zona libre;
 Zona de Baja Prevalencia: Área geográfica determinada que presenta infestaciones de especies de plagas no detectables que, con base en el análisis de riesgo correspondiente, no causan impacto económico;
 Zona libre: Área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una plaga específica de vegetales, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la Secretaría.
-Artículo reformado DOF 26-07-2007 CAPITULO III DE LA AUTORIDAD COMPETENTE
+Artículo reformado DOF 26-07-2007
+CAPITULO III DE LA AUTORIDAD COMPETENTE
 
 ### Artículo 6o
 .- La aplicación de esta ley corresponde al Ejecutivo Federal por conducto de la Secretaría.
@@ -205,7 +207,8 @@ Fracción adicionada DOF 26-07-2007
 XXXIX. Implantar sistemas de gestión de calidad institucional y en los órganos de coadyuvancia;
 Fracción adicionada DOF 26-07-2007
 
-XL. Validar, generar y divulgar tecnología fitosanitaria en materia de sanidad vegetal y capacitar al personal oficial y privado; y Fracción adicionada DOF 26-07-2007
+XL. Validar, generar y divulgar tecnología fitosanitaria en materia de sanidad vegetal y capacitar al personal oficial y privado; y
+Fracción adicionada DOF 26-07-2007
 
 XLI. Las demás que señalen esta Ley, demás Leyes Federales y Tratados Internacionales en los que sean parte los Estados Unidos Mexicanos.
 Fracción reformada DOF 26-07-2007 (se recorre)
@@ -272,7 +275,8 @@ Artículo reformado DOF 26-07-2007
 
 ### Artículo 15
 .- La Secretaría estará facultada para solicitar y recibir el apoyo de las demás autoridades, incluyendo el auxilio de la fuerza pública, con el objeto de cumplir con las atribuciones que le confiere esta Ley.
-Artículo reformado DOF 26-07-2007 CAPITULO IV DEL CONSEJO NACIONAL CONSULTIVO FITOSANITARIO
+Artículo reformado DOF 26-07-2007
+CAPITULO IV DEL CONSEJO NACIONAL CONSULTIVO FITOSANITARIO
 
 ### Artículo 16
 .- El Consejo Nacional Consultivo Fitosanitario será el órgano nacional de consulta en materia de sanidad vegetal, que apoyará a la Secretaría en la formulación, desarrollo y evaluación de las medidas fitosanitarias, en términos del reglamento de esta Ley.
@@ -295,7 +299,8 @@ TITULO SEGUNDO DE LA PROTECCION FITOSANITARIA CAPITULO I DE LAS MEDIDAS FITOSANI
 
 ### Artículo 19
 .- Las medidas fitosanitarias tienen por objeto prevenir, confinar, excluir, combatir o erradicar las plagas que afectan a los vegetales, sus productos o subproductos, cuando puedan representar un riesgo fitosanitario.
-Párrafo reformado DOF 26-07-2007 Las medidas fitosanitarias se determinarán en normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad vegetal, publicadas en el Diario Oficial de la Federación y que tendrán como finalidades entre otras, establecer:
+Párrafo reformado DOF 26-07-2007
+Las medidas fitosanitarias se determinarán en normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad vegetal, publicadas en el Diario Oficial de la Federación y que tendrán como finalidades entre otras, establecer:
 Párrafo reformado DOF 26-07-2007
 
 I. Los requisitos fitosanitarios y las especificaciones, criterios y procedimientos para: a). Formular diagnósticos e identificación de plagas de los vegetales; b). Diseñar y desarrollar programas para manejo integrado de plagas, muestreo y pronóstico en materia de sanidad vegetal;
@@ -310,10 +315,12 @@ e) Controlar la movilización, importación y exportación de vegetales, sus pro
 Inciso reformado DOF 26-07-2007
 
 f) Instalar y operar laboratorios fitosanitarios, invernaderos, agroindustrias, despepitadoras, viveros, instalaciones para la producción de material propagativo, huertos, empacadoras, almacenes, plantaciones y patios de concentración que puedan constituir un riesgo fitosanitario, así como empresas de tratamientos y puntos de verificación interna;
-Inciso reformado DOF 26-07-2007 g). Transportar y empacar vegetales, sus productos o subproductos que impliquen un riesgo fitosanitario; h). Manejar material de propagación y semillas;
+Inciso reformado DOF 26-07-2007
+g). Transportar y empacar vegetales, sus productos o subproductos que impliquen un riesgo fitosanitario; h). Manejar material de propagación y semillas;
 
 i) Siembras o cultivos de vegetales; plantaciones y labores culturales específicas, así como trabajos de campo posteriores a las cosechas;
-Inciso reformado DOF 26-07-2007 j). Aprobar organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas;
+Inciso reformado DOF 26-07-2007
+j). Aprobar organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas;
 
 k) Certificar, verificar e inspeccionar las normas oficiales aplicables a las actividades o servicios fitosanitarios que desarrollen o presten los particulares;
 Inciso reformado DOF 26-07-2007
@@ -321,7 +328,8 @@ Inciso reformado DOF 26-07-2007
 l) Retener, disponer o destruir vegetales, sus productos o subproductos, viveros, cultivos, siembras, cosechas, plantaciones, empaques, embalajes y semillas, cuando sean portadores o puedan diseminar plagas que los afecten;
 Inciso reformado DOF 26-07-2007
 
-m) El aviso de inicio de funcionamiento que deben presentar las personas físicas o morales, que desarrollen o presten actividades o servicios fitosanitarios que conforme a las normas oficiales mexicanas deban sujetarse a certificación y verificación; y Inciso adicionado DOF 26-07-2007
+m) El aviso de inicio de funcionamiento que deben presentar las personas físicas o morales, que desarrollen o presten actividades o servicios fitosanitarios que conforme a las normas oficiales mexicanas deban sujetarse a certificación y verificación; y
+Inciso adicionado DOF 26-07-2007
 
 n) La movilización de vegetales, sus productos o subproductos que no requieren del certificado fitosanitario.
 Inciso adicionado DOF 26-07-2007
@@ -338,11 +346,13 @@ Fracción reformada DOF 26-07-2007
 VI. Los requisitos que deberán cumplir las personas físicas o morales responsables de elaborar estudios de efectividad biológica de insumos;
 Fracción reformada DOF 26-07-2007
 
-VII. Las condiciones fitosanitarias que deberán observarse en las instalaciones en donde se desarrollen o presten actividades o servicios fitosanitarios orientados a prevenir, controlar y erradicar plagas que afecten a los vegetales, sus productos y subproductos; y Fracción reformada DOF 26-07-2007
+VII. Las condiciones fitosanitarias que deberán observarse en las instalaciones en donde se desarrollen o presten actividades o servicios fitosanitarios orientados a prevenir, controlar y erradicar plagas que afecten a los vegetales, sus productos y subproductos; y
+Fracción reformada DOF 26-07-2007
 
 VIII. Las demás que se regulan en esta Ley así como aquellas que, conforme a la técnica y adelantos científicos, sean apropiadas para cada caso.
 Los requisitos y especificaciones señaladas en el reglamento de esta Ley y demás disposiciones legales aplicables en materia de sanidad vegetal y de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, que originen la prestación de trámites y servicios por parte de la Secretaría, se regularán en los términos de la Ley Federal del Procedimiento Administrativo.
-Párrafo adicionado DOF 26-07-2007 La Secretaría podrá solicitar y recibir el apoyo de las autoridades federales, estatales y locales, para asegurar el cumplimiento de las disposiciones señaladas en este artículo.
+Párrafo adicionado DOF 26-07-2007
+La Secretaría podrá solicitar y recibir el apoyo de las autoridades federales, estatales y locales, para asegurar el cumplimiento de las disposiciones señaladas en este artículo.
 Párrafo adicionado DOF 26-07-2007
 
 ### Artículo 20
@@ -357,7 +367,8 @@ II. Estar basadas en una evaluación de costo-beneficio, que incluya un análisi
 III. Tomar en cuenta las normas, directrices o recomendaciones internacionales pertinentes; y
 
 IV. Cancelarse cuando ya no exista base científica que las sustente.
-Fracción reformada DOF 26-07-2007 Reforma DOF 26-07-2007: Derogó del artículo el entonces último párrafo
+Fracción reformada DOF 26-07-2007
+Reforma DOF 26-07-2007: Derogó del artículo el entonces último párrafo
 
 ### Artículo 21
 .- La Secretaría elaborará, actualizará y difundirá el Directorio fitosanitario, con objeto de regular el desarrollo y prestación de actividades y servicios a cargo de los particulares, en los términos señalados en esta Ley.
@@ -365,18 +376,22 @@ Dicho directorio consistirá en un catálogo de datos que incluirá la informaci
 Artículo reformado DOF 26-07-2007
 
 ## CAPÍTULO II — DE LA MOVILIZACIÓN, IMPORTACIÓN Y EXPORTACIÓN EN MATERIA DE SANIDAD
-VEGETAL Denominación del Capítulo reformada DOF 26-07-2007
+
+VEGETAL
+Denominación del Capítulo reformada DOF 26-07-2007
 
 ### Artículo 22
 .- La movilización por el interior del territorio nacional de las mercancías a que se refiere el artículo siguiente, quedará sujeta a la expedición del certificado fitosanitario cuando provengan y se movilicen:
 
 I. De zonas bajo control fitosanitario hacia zonas libres o de baja prevalecencia;
 
-II. Entre dos o más zonas bajo control fitosanitario, transitando por zonas libres, bajo protección o de baja prevalencia; y de zonas de baja prevalencia o bajo protección, hacia zonas libres; y Fracción reformada DOF 26-07-2007
+II. Entre dos o más zonas bajo control fitosanitario, transitando por zonas libres, bajo protección o de baja prevalencia; y de zonas de baja prevalencia o bajo protección, hacia zonas libres; y
+Fracción reformada DOF 26-07-2007
 
 III. Entre dos o más zonas libres o de baja prevalencia, transitando por zonas bajo control fitosanitario.
 Los productos regulados que se movilicen en zonas bajo el mismo estatus fitosanitario, deberán cumplir con los elementos de rastreabilidad que permitan determinar el origen y la condición fitosanitaria del producto. El reglamento de esta Ley determinará los supuestos aplicables para este caso.
-Párrafo adicionado DOF 26-07-2007 La movilización de recursos y materias primas que provengan de vegetales, sus productos o subproductos, afectados por plagas, se sujetará a las disposiciones previstas en esta Ley.
+Párrafo adicionado DOF 26-07-2007
+La movilización de recursos y materias primas que provengan de vegetales, sus productos o subproductos, afectados por plagas, se sujetará a las disposiciones previstas en esta Ley.
 Párrafo reformado DOF 26-07-2007
 
 ### Artículo 23
@@ -442,7 +457,8 @@ De no elegir alguna de las opciones citadas en las fracciones anteriores, transc
 En cualquiera de los casos, los gastos originados por el manejo fitosanitario de las mercancías, serán cubiertos por el importador o su representante.
 La autorización de las instalaciones para realizar cuarentenas postentrada, se realizará de acuerdo al procedimiento establecido por la Secretaría.
 Las cuarentenas postentradas estarán sujetas a la autorización de la Secretaría y en las instalaciones que la misma determine.
-Artículo reformado DOF 26-07-2007 CAPITULO III DE LAS CAMPAÑAS Y CUARENTENAS
+Artículo reformado DOF 26-07-2007
+CAPITULO III DE LAS CAMPAÑAS Y CUARENTENAS
 
 ### Artículo 31
 .- La Secretaría expedirá las normas oficiales que establezcan las campañas y cuarentenas fitosanitarias que sean necesarias.
@@ -498,7 +514,8 @@ Fracción reformada DOF 26-07-2007
 
 ### Artículo 35
 .- La Secretaría mediante normas oficiales mexicanas y disposiciones legales aplicables en materia de sanidad vegetal determinará los requisitos y medidas fitosanitarias para movilizar a zonas libres, bajo protección y/o baja prevalencia, vegetales, sus productos o subproductos cuarentenados, así como los vehículos de transporte, maquinaria, materiales o equipo que hayan estado en contacto con ellos.
-Párrafo reformado DOF 26-07-2007 Cuando se compruebe que la movilización de las mercancías enunciadas en el párrafo anterior implica un riesgo fitosanitario, la Secretaría revocará los certificados que se hayan expedido y aplicará las medidas fitosanitarias necesarias.
+Párrafo reformado DOF 26-07-2007
+Cuando se compruebe que la movilización de las mercancías enunciadas en el párrafo anterior implica un riesgo fitosanitario, la Secretaría revocará los certificados que se hayan expedido y aplicará las medidas fitosanitarias necesarias.
 
 ### Artículo 36
 .- La Secretaría expedirá las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de sanidad vegetal que establezcan las características y especificaciones que deben reunir las estaciones cuarentenarias y las instalaciones de cuarentena postentrada, así como las regiones donde se justifique su establecimiento.
@@ -512,7 +529,8 @@ Artículo reformado DOF 26-07-2007
 bis.- Las personas físicas o morales que desarrollen o presten actividades o servicios fitosanitarios, que conforme a las normas oficiales correspondientes o demás disposiciones legales aplicables, deban sujetarse a certificación y verificación fitosanitarias, presentarán a la Secretaría, directamente o a través de los organismos de certificación o unidades de verificación aprobados, el aviso de inicio de funcionamiento, en el que se harán constar los datos del interesado y que cumple con las especificaciones, criterios y procedimientos previstos en las normas oficiales que le sean aplicables.
 Una vez que se verifique y certifique la veracidad de la información proporcionada, así como el cumplimiento de las disposiciones establecidas en la normatividad respectiva, con base en el aviso indicado en el párrafo anterior, la Secretaría la inscribirá en el Directorio Fitosanitario.
 La actualización y difusión de la información que se inscriba en el Directorio Fitosanitario, se harán en los términos del reglamento de esta Ley.
-Artículo adicionado DOF 26-07-2007 CAPITULO IV DEL CONTROL DE INSUMOS, ACTIVIDADES Y SERVICIOS
+Artículo adicionado DOF 26-07-2007
+CAPITULO IV DEL CONTROL DE INSUMOS, ACTIVIDADES Y SERVICIOS
 
 ### Artículo 38
 .- La Secretaría establecerá a través de normas oficiales mexicanas y demás disposiciones legales aplicables:
@@ -568,7 +586,8 @@ Artículo derogado DOF 26-07-2007
 
 ### Artículo 45
 .- Se deroga.
-Artículo derogado DOF 26-07-2007 CAPITULO V DEL DISPOSITIVO NACIONAL DE EMERGENCIA DE SANIDAD VEGETAL
+Artículo derogado DOF 26-07-2007
+CAPITULO V DEL DISPOSITIVO NACIONAL DE EMERGENCIA DE SANIDAD VEGETAL
 
 ### Artículo 46
 .- Cuando se detecte la presencia de plagas que pongan en situación de emergencia fitosanitaria a una o varias especies vegetales, en todo o en parte del territorio nacional, la Secretaría instrumentará el Dispositivo Nacional de Emergencia de Sanidad Vegetal, que consistirá en la aplicación urgente y coordinada de las medidas fitosanitarias necesarias.
@@ -579,9 +598,12 @@ Artículo reformado DOF 26-07-2007
 .- La Secretaría podrá acordar y convenir con los gobiernos de los estados, organismos auxiliares y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias fitosanitarias que surjan por la presencia de plagas exóticas o existentes en el territorio nacional, que pongan en peligro el patrimonio agrícola o forestal del país.
 
 ## TÍTULO SEGUNDO — BIS
-DE LOS SISTEMAS DE REDUCCIÓN DE RIESGOS DE CONTAMINACIÓN EN LA PRODUCCIÓN PRIMARIA DE VEGETALES Título adicionado DOF 26-07-2007
+
+DE LOS SISTEMAS DE REDUCCIÓN DE RIESGOS DE CONTAMINACIÓN EN LA PRODUCCIÓN PRIMARIA DE VEGETALES
+Título adicionado DOF 26-07-2007
 
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 Capítulo adicionado DOF 26-07-2007
 
 ### Artículo 47-A
@@ -637,7 +659,8 @@ Artículo adicionado DOF 26-07-2007
 
 ### Artículo 47-K
 .- La Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales promoverán, dentro de sus respectivos ámbitos de competencia y de conformidad con las disposiciones aplicables, la reducción de riesgos de contaminación durante la producción primaria de vegetales, mediante la recolección de envases vacíos que contuvieron plaguicidas, con la finalidad de fortalecer las BPA´s, proteger los recursos naturales, prevenir riesgos de daño en la salud animal, humana y al medio ambiente.
-Artículo adicionado DOF 26-12-2017 TITULO TERCERO DE LA APROBACIÓN, CERTIFICACIÓN Y VERIFICACIÓN E INSPECCION CAPITULO I DE LA APROBACION
+Artículo adicionado DOF 26-12-2017
+TITULO TERCERO DE LA APROBACIÓN, CERTIFICACIÓN Y VERIFICACIÓN E INSPECCION CAPITULO I DE LA APROBACION
 
 ### Artículo 48
 .- Corresponde a la Secretaría, otorgar aprobación, previa acreditación y sobre materias específicas, a personas físicas y morales para operar como:
@@ -652,8 +675,10 @@ III. Unidades de verificación; y
 
 IV. Laboratorios de pruebas.
 La Secretaría podrá autorizar a profesionales fitosanitarios como coadyuvantes en la aplicación de medidas sanitarias y a terceros especialistas como coadyuvantes en la evaluación de conformidad con los términos de esta Ley y su reglamento.
-Párrafo reformado DOF 26-07-2007 En ningún caso las personas aprobadas podrán certificar o verificar el cumplimiento de normas oficiales mexicanas así mismas o cuando tengan un interés directo.
-Párrafo reformado DOF 26-07-2007 Reforma DOF 26-07-2007: Derogó del artículo el entonces párrafo tercero
+Párrafo reformado DOF 26-07-2007
+En ningún caso las personas aprobadas podrán certificar o verificar el cumplimiento de normas oficiales mexicanas así mismas o cuando tengan un interés directo.
+Párrafo reformado DOF 26-07-2007
+Reforma DOF 26-07-2007: Derogó del artículo el entonces párrafo tercero
 
 ### Artículo 49
 .- Para otorgar la aprobación a que se refiere el artículo anterior, la Secretaría podrá formar y pedir opinión a los comités de evaluación en materia de sanidad vegetal y de sistemas de reducción de riesgos de contaminación en vegetales durante la producción primaria, mismos que estarán integrados por técnicos calificados y con experiencia en los campos de las ramas específicas.
@@ -684,7 +709,8 @@ Artículo reformado DOF 26-07-2007
 
 ### Artículo 50-bis
 .- Para realizar actividades de auditorias de cumplimiento de BPA´s en unidades de producción primaria de vegetales, la Secretaría emitirá, a través de disposiciones legales aplicables, los criterios bajo los cuales se reconocerá a terceros especialistas que realizarán dichas actividades.
-Artículo adicionado DOF 26-07-2007 CAPITULO II DE LA CERTIFICACION
+Artículo adicionado DOF 26-07-2007
+CAPITULO II DE LA CERTIFICACION
 
 ### Artículo 51
 .- La Secretaría está facultada para certificar que los vegetales, sus productos o subproductos, así como los procesos, métodos, instalaciones, servicios o actividades relacionadas con la sanidad vegetal y con los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, cumplen con las disposiciones, especificaciones, criterios y procedimientos previstos en esta Ley, su reglamento, normas oficiales mexicanas y demás disposiciones legales aplicables.
@@ -696,7 +722,8 @@ La Secretaría reconocerá o aprobará, mediante acuerdos que deberán publicars
 
 ### Artículo 53
 .- La certificación que hagan las personas físicas o morales acreditadas por una Entidad de Acreditación y aprobadas por la Secretaría, serán solamente en aquellas materias para las que fueron específicamente acreditadas y aprobadas, en los términos de las disposiciones legales aplicables.
-Artículo reformado DOF 26-07-2007 CAPITULO III DE LA VERIFICACION E INSPECCION
+Artículo reformado DOF 26-07-2007
+CAPITULO III DE LA VERIFICACION E INSPECCION
 
 ### Artículo 54
 .- La Secretaría podrá verificar e inspeccionar en cualquier tiempo y lugar el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal y de reducción de riesgos de contaminación en la producción primaria de vegetales mediante:
@@ -720,19 +747,23 @@ Artículo reformado DOF 26-07-2007
 
 ### Artículo 57
 .- Cuando el dictamen de una verificación determine la existencia de riesgos fitosanitarios, físicos, químicos o microbiológicos; durante la producción primaria de vegetales sus productos o subproductos, o se detecten probables infracciones a las disposiciones de esta Ley, el responsable del dictamen lo presentará a la Secretaría quien realizará la inspección respectiva.
-Párrafo reformado DOF 26-07-2007 Si del resultado de la inspección se determina la comisión de alguna infracción a las disposiciones legales aplicables en materia de sanidad vegetal o a los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, o la condición fitosanitaria de éstos, la Secretaría ordenará la imposición de las sanciones administrativas así como la aplicación de las medidas fitosanitarias o de reducción de riesgos necesarias.
-Párrafo reformado DOF 26-07-2007 Cuando el dictamen de verificación o el acta de inspección determine la probable comisión de un delito, deberá formularse la denuncia correspondiente ante la autoridad competente.
+Párrafo reformado DOF 26-07-2007
+Si del resultado de la inspección se determina la comisión de alguna infracción a las disposiciones legales aplicables en materia de sanidad vegetal o a los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, o la condición fitosanitaria de éstos, la Secretaría ordenará la imposición de las sanciones administrativas así como la aplicación de las medidas fitosanitarias o de reducción de riesgos necesarias.
+Párrafo reformado DOF 26-07-2007
+Cuando el dictamen de verificación o el acta de inspección determine la probable comisión de un delito, deberá formularse la denuncia correspondiente ante la autoridad competente.
 
 ### Artículo 58
 .- La Secretaría contará con puntos de inspección internacional en materia de sanidad vegetal necesarios, para asegurar el nivel de protección apropiado en la materia antes mencionada.
-Párrafo reformado DOF 26-07-2007 Para efectos del párrafo anterior, son puntos de inspección fitosanitaria internacional los siguientes:
+Párrafo reformado DOF 26-07-2007
+Para efectos del párrafo anterior, son puntos de inspección fitosanitaria internacional los siguientes:
 
 I. Los instalados en puertos y terminales marítimas, aéreas, ferroviarias y terrestres;
 
 II. Aquellos que se ubiquen en territorio extranjero, de acuerdo con los tratados internacionales y acuerdos interinstitucionales que se suscriban; y
 
 III. Otros que por excepción fije la Secretaría en base al análisis de riesgo fitosanitario, así como de la condición fitosanitaria de vegetales, sus productos o subproductos.
-Fracción reformada DOF 26-07-2007 El establecimiento y operación de los puntos de inspección señalados en este artículo se sujetará a los términos que determine el Reglamento de esta Ley.
+Fracción reformada DOF 26-07-2007
+El establecimiento y operación de los puntos de inspección señalados en este artículo se sujetará a los términos que determine el Reglamento de esta Ley.
 Párrafo reformado DOF 26-07-2007
 
 ### Artículo 59
@@ -748,7 +779,10 @@ De comprobarse la presencia de una plaga o algún contaminante que afecte la san
 Artículo reformado DOF 26-07-2007
 
 ## TÍTULO CUARTO — DE LOS INCENTIVOS, DENUNCIA CIUDADANA, SANCIONES, RECURSO DE REVISIÓN Y
-DELITOS Denominación del Título reformada DOF 26-07-2007 CAPITULO I DE LOS INCENTIVOS
+
+DELITOS
+Denominación del Título reformada DOF 26-07-2007
+CAPITULO I DE LOS INCENTIVOS
 
 ### Artículo 61
 .- Se instituye el Premio Nacional de Sanidad Vegetal, con el objeto de reconocer y premiar anualmente el esfuerzo de quienes se destaquen en la prevención, control y erradicación de las enfermedades y plagas de los vegetales.
@@ -765,7 +799,8 @@ Artículo reformado DOF 26-07-2007
 .- La denuncia podrá presentarse por cualquier ciudadano, bastando, para darle curso, que se señalen los datos necesarios que permitan localizar la fuente o el nombre y domicilio del denunciante.
 Una vez recibida la denuncia, la Secretaría la hará saber a la persona o personas a quienes se imputen los hechos denunciados y efectuará, en su caso, las diligencias necesarias para la comprobación de los hechos así como para la evaluación correspondiente.
 La autoridad que recibió la denuncia, a más tardar dentro de los treinta días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los sesenta días hábiles siguientes, el resultado de la inspección de los hechos y medidas fitosanitarias o de reducción de riesgos de contaminación o de condición fitosanitaria adoptadas.
-Párrafo reformado DOF 26-07-2007 CAPITULO III DE LAS SANCIONES
+Párrafo reformado DOF 26-07-2007
+CAPITULO III DE LAS SANCIONES
 
 ### Artículo 65
 .- Las infracciones a lo dispuesto en esta ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
@@ -823,11 +858,14 @@ Fracción adicionada DOF 26-07-2007
 XX. La Secretaría suspenderá de manera precautoria las autorizaciones, permisos o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará a la instancia competente la suspensión de la acreditación correspondiente;
 Fracción adicionada DOF 26-07-2007
 
-XXI. Ostentar que un producto agrícola o actividad a que se refiere el Título Segundo Bis de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta o cuando el resultado de la evaluación de la conformidad exprese incumplimiento o insuficiencias de las condiciones para la certificación correspondiente del vegetal; en cuyo caso se impondrá una multa de 200 a 20,000 salarios; y Fracción adicionada DOF 26-07-2007
+XXI. Ostentar que un producto agrícola o actividad a que se refiere el Título Segundo Bis de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta o cuando el resultado de la evaluación de la conformidad exprese incumplimiento o insuficiencias de las condiciones para la certificación correspondiente del vegetal; en cuyo caso se impondrá una multa de 200 a 20,000 salarios; y
+Fracción adicionada DOF 26-07-2007
 
 XXII. Las demás infracciones a lo establecido en la presente Ley; en cuyo caso se impondrá multa de 50 a 15,000 salarios.
-Fracción reformada DOF 26-07-2007 (se recorre) La Secretaría suspenderá de manera precautoria las autorizaciones, permisos, certificaciones o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará la suspensión precautoria de la acreditación autorizada a dichas personas.
-Párrafo adicionado DOF 26-07-2007 Para los efectos del presente artículo, por salario se entiende, el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción.
+Fracción reformada DOF 26-07-2007 (se recorre)
+La Secretaría suspenderá de manera precautoria las autorizaciones, permisos, certificaciones o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará la suspensión precautoria de la acreditación autorizada a dichas personas.
+Párrafo adicionado DOF 26-07-2007
+Para los efectos del presente artículo, por salario se entiende, el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción.
 
 ### Artículo 67
 .- La Secretaría clausurará hasta por quince días, los viveros, huertos, empacadoras, recintos, almacenes, aserraderos, plantaciones, patios de concentración y cualquier otro establecimiento donde se desarrollen o presten actividades o servicios fitosanitarios, cuando se infrinja lo previsto en los artículos 19, fracciones I, incisos f) al i), II a V y VII, 38, 39 y 60 párrafo segundo de esta Ley.
@@ -865,6 +903,7 @@ La interposición del recurso suspenderá la ejecución de la resolución impugn
 El reglamento de la presente ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
 
 ## CAPÍTULO V — DE LOS DELITOS
+
 Capítulo adicionado DOF 26-07-2007
 
 ### Artículo 73
@@ -889,7 +928,8 @@ Artículo adicionado DOF 26-07-2007
 
 ### Artículo 77
 . Al que ostente que un vegetal, sus productos o subproductos o actividad relacionada con sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuenta con la certificación de la autoridad competente, sin comprobarlo, se le impondrá una pena de dos a siete años de prisión y multa de hasta mil quinientos días multa.
-Artículo adicionado DOF 26-07-2007. Declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 18-11-2008. Reformado DOF 16-11-2011
+Artículo adicionado DOF 26-07-2007. Declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad
+DOF 18-11-2008. Reformado DOF 16-11-2011
 
 ## TRANSITORIOS
 
@@ -907,9 +947,10 @@ Publicado en el Diario Oficial de la Federación el 26 de julio de 2007
 
 ### Artículo Único
 Se Reforman los artículos 1o.; 2o.; 3o.; 4o.; 5o.; 7o., fracciones II, III, VIII, XII, XIV, XVIII, XXI, XXII, XXIII, XXVI, XXVII, XXVIII y XXXI; 8o.; 9o.; 13; 14; 15; 19, primero y segundo párrafos, fracciones I, incisos c), d), e), f), i) y l), V, VI y VII; 20, primer párrafo, fracciones I y IV; 21; la denominación del Capítulo II “De la Movilización, Importación y Exportación en materia de Sanidad Vegetal”; 22, fracción II y actual segundo párrafo; 23; 24; 25; 26; 27; 28; 29; 30; 32; 33, fracción V; 34, primer párrafo y fracción III; 35, primer párrafo; 36; 38; 39; 40; 41; 42; 46; 48, primero y último párrafos; 49; 50; 51; 53; 54; 55; 57, primero y segundo párrafos; 58, primero y último párrafos y la fracción III; 59; 60; la denominación del Título Cuarto “De los Incentivos, Denuncia Ciudadana, Sanciones, Recurso de Revisión y Delitos”; 63; 64, tercer párrafo; 66, fracciones I, IV, VI y VIII; 67; 68, primer párrafo; 71,
-**segundo.** párrafo. Se Adicionan los artículos un segundo párrafo al artículo 2o.; 7o., con las fracciones XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX y XL, pasando la actual XXXII a ser XLI; 7o.-A; 19, fracción I, con los incisos m) y n) y dos últimos párrafos; 22, con un segundo párrafo; 27-A; 29A; 37 bis; 39 bis; 41 bis; 41 ter; 42 bis; el Título Segundo Bis "De los Sistemas de Reducción de Riesgos y de Contaminación en la Producción Primaria de Vegetales", con los artículos 47-A, 47-B, 47-C, 47-D, 47-E, 47-F, 47-G, 47-H, 47-I y 47-J; 48, con un segundo párrafo; 50 bis; 66, con las fracciones XVII, XVIII, XIX, XX y XXI, pasando la actual XVII a ser XXII y un penúltimo párrafo; 68, con la fracción III; un
+**segundo.-** párrafo. Se Adicionan los artículos un segundo párrafo al artículo 2o.; 7o., con las fracciones XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX y XL, pasando la actual XXXII a ser XLI; 7o.-A; 19, fracción I, con los incisos m) y n) y dos últimos párrafos; 22, con un segundo párrafo; 27-A; 29A; 37 bis; 39 bis; 41 bis; 41 ter; 42 bis; el Título Segundo Bis "De los Sistemas de Reducción de Riesgos y de Contaminación en la Producción Primaria de Vegetales", con los artículos 47-A, 47-B, 47-C, 47-D, 47-E, 47-F, 47-G, 47-H, 47-I y 47-J; 48, con un segundo párrafo; 50 bis; 66, con las fracciones XVII, XVIII, XIX, XX y XXI, pasando la actual XVII a ser XXII y un penúltimo párrafo; 68, con la fracción III; un
 
 ## Capítulo V — "De los Delitos” al Título Cuarto, que comprende los artículos 73, 74, 75, 76 y 77. Se Derogan
+
 las fracciones XVI y XXIV del artículo 7o.; el último párrafo del artículo 20; 43; 44; 45; la fracción I y los actuales segundo y tercer párrafos del artículo 48; las fracciones VII y IX del artículo 66; todos de la Ley Federal de Sanidad Vegetal, para quedar como sigue: ..........
 
 ## TRANSITORIOS
@@ -933,9 +974,9 @@ FABIANA ESTRADA TENA.
 MARAT PAREDES MONTIEL.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al veinte de octubre de dos mil ocho.
 VISTOS; y, RESULTANDO:
-**PRIMERO.** A OCTAVO.- ……….
+**PRIMERO.-** A OCTAVO.- ……….
 CONSIDERANDO:
-**PRIMERO.** A QUINTO.- ……….
+**PRIMERO.-** A QUINTO.- ……….
 **SEXTO.-** Efectos. De conformidad con el artículo 105, penúltimo párrafo de la Constitución Federal, la invalidez decretada respecto del artículo 77 de la Ley Federal de Sanidad Vegetal, en la porción normativa anteriormente señalada, por tratarse de una norma en materia penal, surtirá efectos retroactivos al veintiséis de julio de dos mil siete, fecha en que la misma fue publicada en el Diario Oficial de la Federación.
 Por lo expuesto y fundado, se resuelve:
 **PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad.
@@ -979,9 +1020,9 @@ Se reforma el primer párrafo del artículo 17 de la Ley Federal de Sanidad Vege
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

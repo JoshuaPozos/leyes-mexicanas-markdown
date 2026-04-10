@@ -29,7 +29,8 @@ Fe de erratas al artículo DOF 13-09-1935
 
 ### Artículo 6º
 .- Se considerarán aceptadas las ofertas de prórroga, modificación o restablecimiento de un contrato suspendido, hechas en carta certificada con acuse de recibo, si la empresa aseguradora no contesta dentro del plazo de quince días, contados desde el siguiente al de la recepción de la oferta, pero sujetas a la condición suspensiva de la aprobación de la Secretaría de Hacienda y Crédito Público.
-Párrafo reformado DOF 09-04-2012 La disposición contenida en este artículo no es aplicable a las ofertas de aumentar la suma asegurada y en ningún caso al seguro de personas.
+Párrafo reformado DOF 09-04-2012
+La disposición contenida en este artículo no es aplicable a las ofertas de aumentar la suma asegurada y en ningún caso al seguro de personas.
 Artículo reformado DOF 15-04-1946
 
 ### Artículo 7
@@ -85,7 +86,9 @@ III.- La naturaleza de los riesgos garantizados;
 IV.- El momento a partir del cual se garantiza el riesgo y la duración de esta garantía;
 V.- El monto de la garantía;
 VI.- La cuota o prima del seguro;
-VII.- En su caso, la mención específica de que se trata de un seguro obligatorio a los que hace referencia el artículo 150 Bis de esta Ley, y Fracción adicionada DOF 04-04-2013 VIII.- Las demás cláusulas que deban figurar en la póliza, de acuerdo con las disposiciones legales, así como las convenidas lícitamente por los contratantes.
+VII.- En su caso, la mención específica de que se trata de un seguro obligatorio a los que hace referencia el artículo 150 Bis de esta Ley, y
+Fracción adicionada DOF 04-04-2013
+VIII.- Las demás cláusulas que deban figurar en la póliza, de acuerdo con las disposiciones legales, así como las convenidas lícitamente por los contratantes.
 Fracción reformada y recorrida DOF 04-04-2013
 
 ### Artículo 20
@@ -167,7 +170,8 @@ Fe de erratas al artículo DOF 13-09-1935. Reformado DOF 05-01-1966, 04-04-2013
 
 ### Artículo 40
 .- Si no hubiese sido pagada la prima o la fracción correspondiente, en los casos de pago en parcialidades, dentro del término convenido, los efectos del contrato cesarán automáticamente a las doce horas del último día de ese plazo. En caso de que no se haya convenido el término, se aplicará un plazo de treinta días naturales siguientes a la fecha de su vencimiento.
-Párrafo reformado DOF 04-04-2013 Salvo pacto en contrario, el término previsto en el párrafo anterior no será aplicable a los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley.
+Párrafo reformado DOF 04-04-2013
+Salvo pacto en contrario, el término previsto en el párrafo anterior no será aplicable a los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley.
 Artículo reformado DOF 05-01-1966, 02-01-2002
 
 ### Artículo 41
@@ -333,7 +337,8 @@ Fe de erratas al párrafo DOF 13-09-1935 Tratándose de terceros beneficiarios s
 
 ### Artículo 84
 .- Además de las causas ordinarias de interrupción de la prescripción, ésta se interrumpirá por el nombramiento de peritos con motivo de la realización del siniestro, y tratándose de la acción en pago de la prima, por el requerimiento de pago.
-Artículo reformado DOF 04-04-2013 TITULO II Contrato de seguro contra los daños CAPITULO I Disposiciones generales
+Artículo reformado DOF 04-04-2013
+TITULO II Contrato de seguro contra los daños CAPITULO I Disposiciones generales
 
 ### Artículo 85
 .- Todo interés económico que una persona tenga en que no se produzca un siniestro, podrá ser objeto de contrato de seguro contra los daños.
@@ -432,7 +437,8 @@ Sin embargo, el pago hecho a otra persona será válido cuando se haga sin oposi
 ### Artículo 111
 .- La empresa aseguradora que pague la indemnización se subrogará hasta la cantidad pagada, en todos los derechos y acciones contra terceros que por causa del daño sufrido correspondan al asegurado.
 En el seguro de caución, la aseguradora se subrogará, hasta el límite de la indemnización pagada, en los derechos y acciones que por razón del siniestro tenga el asegurado frente al contratante del seguro y, en su caso, ante otros responsables del mismo.
-Párrafo adicionado DOF 04-04-2013 La empresa podrá liberarse en todo o en parte de sus obligaciones, si la subrogación es impedida por hechos u omisiones que provengan del asegurado.
+Párrafo adicionado DOF 04-04-2013
+La empresa podrá liberarse en todo o en parte de sus obligaciones, si la subrogación es impedida por hechos u omisiones que provengan del asegurado.
 Si el daño fue indemnizado sólo en parte, el asegurado y la empresa aseguradora concurrirán a hacer valer sus derechos en la proporción correspondiente.
 El derecho a la subrogación no procederá en el caso de que el asegurado tenga relación conyugal o de parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con la persona que le haya causado el daño, o bien si es civilmente responsable de la misma.
 Párrafo adicionado DOF 02-01-2002
@@ -552,8 +558,10 @@ Fe de erratas al artículo DOF 13-09-1935 CAPITULO V Seguro contra la responsabi
 ### Artículo 145
 .- En el seguro contra la responsabilidad, la empresa se obliga hasta el límite de la suma asegurada a pagar la indemnización que el asegurado deba a un tercero a consecuencia de un hecho que cause un daño previsto en el contrato de seguro.
 Tratándose de los seguros obligatorios a que hace referencia el artículo 150 Bis de esta Ley, la empresa estará obligada a cubrir los riesgos asegurados hasta los montos indemnizatorios o las sumas aseguradas por persona o por bien, así como, en su caso, los acumulados por evento, que se establezcan en las disposiciones legales respectivas o en las administrativas de carácter general que se deriven de las mismas, vigentes al celebrarse el contrato.
-Párrafo reformado DOF 24-04-2006 Para los riesgos respecto de los cuales las disposiciones a que se refiere el párrafo anterior no determinen el monto indemnizatorio o la suma asegurada obligatorios, se estará a lo dispuesto en el artículo 86 de la presente Ley para determinar el límite de la suma asegurada.
-Párrafo adicionado DOF 24-04-2006 Artículo reformado DOF 02-01-2002
+Párrafo reformado DOF 24-04-2006
+Para los riesgos respecto de los cuales las disposiciones a que se refiere el párrafo anterior no determinen el monto indemnizatorio o la suma asegurada obligatorios, se estará a lo dispuesto en el artículo 86 de la presente Ley para determinar el límite de la suma asegurada.
+Párrafo adicionado DOF 24-04-2006
+Artículo reformado DOF 02-01-2002
 
 ### Artículo 145
 Bis.- En el seguro contra la responsabilidad, podrá pactarse que la empresa aseguradora se responsabilice de las indemnizaciones que el asegurado deba a un tercero en cualquiera de las siguientes formas: a).- Por hechos ocurridos durante la vigencia de la póliza respectiva o en el año anterior, siempre que la reclamación se formule por primera vez y por escrito al asegurado o a la empresa durante la vigencia de dicha póliza, o bien b).- Por hechos ocurridos durante la vigencia de la póliza, siempre que la reclamación se formule por primera vez y por escrito al asegurado o a la empresa en el curso de dicha vigencia o dentro del año siguiente a su terminación.
@@ -583,7 +591,9 @@ Artículo reformado DOF 15-04-1946
 ### Artículo 150
 Bis.- Los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, no podrán cesar en sus efectos, rescindirse, ni darse por terminados con anterioridad a la fecha de terminación de su vigencia.
 Cuando la empresa pague por cuenta del asegurado la indemnización que éste deba a un tercero a causa de un daño previsto en el contrato y compruebe que el contratante incurrió en omisiones o inexactas declaraciones de los hechos a que se refieren los artículos 8o., 9o., 10 y 70 de la presente Ley, o en agravación esencial del riesgo en los términos de los artículos 52 y 53 de la misma, estará facultada para exigir directamente al contratante el reembolso de lo pagado.
-Artículo adicionado DOF 02-01-2002 CAPITULO VI SEGURO DE CAUCION Capítulo adicionado DOF 04-04-2013
+Artículo adicionado DOF 02-01-2002
+CAPITULO VI SEGURO DE CAUCION
+Capítulo adicionado DOF 04-04-2013
 
 ### Artículo 151
 .- Por el contrato de seguro de caución la empresa de seguros se obliga a indemnizar al asegurado a título de resarcimiento o penalidad de los daños patrimoniales sufridos, dentro de los límites previstos en dicho contrato, al producirse las circunstancias acordadas en el mismo en relación con el incumplimiento por el contratante del seguro de sus obligaciones legales o contractuales, excluyendo las obligaciones relacionadas con contratos de naturaleza financiera.
@@ -660,7 +670,8 @@ Artículo adicionado DOF 04-04-2013
 
 ### Artículo 161
 .- Una vez que el contratante del seguro haya reembolsado a la aseguradora el monto de la indemnización, por su propia cuenta podrá reclamar al asegurado la restitución de las cantidades que considere indebidamente pagadas.
-Artículo adicionado DOF 04-04-2013 TITULO III Disposiciones especiales del contrato de seguro sobre las personas
+Artículo adicionado DOF 04-04-2013
+TITULO III Disposiciones especiales del contrato de seguro sobre las personas
 
 ### Artículo 162
 .- El contrato de seguro sobre las personas comprende todos los riesgos que puedan afectar a la persona del asegurado en su existencia, integridad personal, salud o vigor vital.
@@ -669,8 +680,10 @@ Artículo recorrido (antes artículo 151) DOF 04-04-2013
 ### Artículo 163
 .- El seguro de personas puede cubrir un interés económico de cualquier especie, que resulte de los riesgos de que trata este Título, o bien dar derecho a prestaciones independientes en absoluto de toda pérdida patrimonial derivada del siniestro.
 En el seguro sobre las personas, la empresa aseguradora no podrá subrogarse en los derechos del asegurado o del beneficiario contra los terceros en razón del siniestro, salvo cuando se trate de contratos de seguro que cubran gastos médicos o la salud.
-Párrafo adicionado DOF 15-04-1946. Reformado DOF 02-01-2002 El derecho a la subrogación no procederá en caso de que el asegurado o el beneficiario, tengan relación conyugal o parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con la persona que les haya causado el daño, o bien si son civilmente responsables de la misma.
-Párrafo adicionado DOF 02-01-2002 Artículo recorrido (antes artículo 152) DOF 04-04-2013
+Párrafo adicionado DOF 15-04-1946. Reformado DOF 02-01-2002
+El derecho a la subrogación no procederá en caso de que el asegurado o el beneficiario, tengan relación conyugal o parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con la persona que les haya causado el daño, o bien si son civilmente responsables de la misma.
+Párrafo adicionado DOF 02-01-2002
+Artículo recorrido (antes artículo 152) DOF 04-04-2013
 
 ### Artículo 164
 .- La póliza del seguro sobre las personas, además de los requisitos del artículo 20 de la presente ley, deberá contener los siguientes:
@@ -691,11 +704,13 @@ Artículo reformado DOF 15-04-1946. Recorrido (antes artículo 155) DOF 04-04-20
 ### Artículo 167
 .- El seguro para el caso de muerte de un tercero será nulo si el tercero no diere su consentimiento, que deberá constar por escrito antes de la celebración del contrato, con indicación de la suma asegurada.
 Fe de erratas al párrafo DOF 02-08-1946 El consentimiento del tercero asegurado deberá también constar por escrito para toda designación del beneficiario, así como para la trasmisión del beneficio del contrato, para la cesión de derechos o para la constitución de prenda, salvo cuando estas tres últimas operaciones se celebren con la empresa aseguradora.
-Fe de erratas al artículo DOF 13-09-1935. Reformado DOF 15-04-1946 Artículo recorrido (antes artículo 156) DOF 04-04-2013
+Fe de erratas al artículo DOF 13-09-1935. Reformado DOF 15-04-1946
+Artículo recorrido (antes artículo 156) DOF 04-04-2013
 
 ### Artículo 168
 .- El contrato de seguro para el caso de muerte, sobre la persona de un menor de edad que no haya cumplido los doce años, o sobre la de una sujeta a interdicción, es nulo. La empresa aseguradora estará obligada a restituir las primas, pero tendrá derecho a los gastos si procedió de buena fe.
-Párrafo reformado DOF 15-04-1946 En los seguros de supervivencia sobre las personas a que se refiere este artículo, podrá pactarse la devolución de las primas para el caso de muerte.
+Párrafo reformado DOF 15-04-1946
+En los seguros de supervivencia sobre las personas a que se refiere este artículo, podrá pactarse la devolución de las primas para el caso de muerte.
 Artículo recorrido (antes artículo 157) DOF 04-04-2013
 
 ### Artículo 169
@@ -718,16 +733,19 @@ I. Cuando a consecuencia de la indicación inexacta de la edad, se pagare una pr
 
 II. Si la empresa aseguradora hubiere satisfecho ya el importe del seguro al descubrirse la inexactitud de la indicación sobre la edad del asegurado, tendrá derecho a repetir lo que hubiera pagado de más conforme al cálculo de la fracción anterior, incluyendo los intereses respectivos;
 
-III. Si a consecuencia de la inexacta indicación de la edad, se estuviere pagando una prima más elevada que la correspondiente a la edad real, la empresa estará obligada a reembolsar la diferencia entre la reserva existente y la que habría sido necesaria para la edad real del asegurado en el momento de la celebración del contrato. Las primas ulteriores deberán reducirse de acuerdo con esta edad, y Fracción reformada DOF 04-04-2013
+III. Si a consecuencia de la inexacta indicación de la edad, se estuviere pagando una prima más elevada que la correspondiente a la edad real, la empresa estará obligada a reembolsar la diferencia entre la reserva existente y la que habría sido necesaria para la edad real del asegurado en el momento de la celebración del contrato. Las primas ulteriores deberán reducirse de acuerdo con esta edad, y
+Fracción reformada DOF 04-04-2013
 
 IV. Si con posterioridad a la muerte del asegurado se descubriera que fue incorrecta la edad manifestada en la solicitud, y ésta se encuentra dentro de los límites de admisión autorizados, la empresa aseguradora estará obligada a pagar la suma asegurada que las primas cubiertas hubieren podido pagar de acuerdo con la edad real.
-Fracción adicionada DOF 15-04-1946 Para los cálculos que exige el presente artículo se aplicarán las tarifas que hayan estado en vigor al tiempo de la celebración del contrato.
+Fracción adicionada DOF 15-04-1946
+Para los cálculos que exige el presente artículo se aplicarán las tarifas que hayan estado en vigor al tiempo de la celebración del contrato.
 Artículo recorrido (antes artículo 161) DOF 04-04-2013
 
 ### Artículo 173
 .- Si en el momento de celebrar el contrato de seguro, o con posterioridad, el asegurado presenta a la empresa pruebas fehacientes de su edad, la institución anotará la póliza o le extenderá otro comprobante y no podrá exigir nuevas pruebas cuando haya de pagar el siniestro por muerte del asegurado.
 Cuando por la pérdida de las actas de Registro Civil, el asegurado o los beneficiarios en su caso, no puedan comprobar su edad con dichas constancias ni con otros documentos fehacientes, podrán rendir información testimonial ante juez competente, con citación de la empresa aseguradora, para comprobar ese hecho. El mismo procedimiento deberán seguir los beneficiarios de la póliza si no les es dable comprobar su parentesco por los medios normales que establece la legislación civil correspondiente.
-Párrafo adicionado DOF 04-04-2013 Artículo reformado DOF 15-04-1946. Recorrido (antes artículo 162) DOF 04-04-2013
+Párrafo adicionado DOF 04-04-2013
+Artículo reformado DOF 15-04-1946. Recorrido (antes artículo 162) DOF 04-04-2013
 
 ### Artículo 174
 .- El asegurado tendrá derecho a designar un tercero como beneficiario sin necesidad del consentimiento de la empresa aseguradora. La cláusula beneficiaria podrá comprender la totalidad o parte de los derechos derivados del seguro.
@@ -736,8 +754,10 @@ Artículo recorrido (antes artículo 163) DOF 04-04-2013
 ### Artículo 175
 .- El asegurado, aun en el caso de que haya designado en la póliza a un tercero como beneficiario del seguro, podrá disponer libremente del derecho derivado de éste, por acto entre vivos o por causa de muerte.
 En todo caso, la aseguradora quedará liberada de sus obligaciones si paga con base en la designación de beneficiarios más reciente, realizada conforme a lo previsto en el contrato de seguro respectivo.
-Párrafo adicionado DOF 04-04-2013 Si sólo se hubiere designado un beneficiario y éste muriere antes o al mismo tiempo que el asegurado y no existiere designación de nuevo beneficiario, el importe del seguro se pagará a la sucesión del asegurado, salvo pacto en contrario o que hubiere renuncia del derecho de revocar la designación hecha en los términos del artículo siguiente.
-Párrafo adicionado DOF 15-04-1946 Artículo recorrido (antes artículo 164) DOF 04-04-2013
+Párrafo adicionado DOF 04-04-2013
+Si sólo se hubiere designado un beneficiario y éste muriere antes o al mismo tiempo que el asegurado y no existiere designación de nuevo beneficiario, el importe del seguro se pagará a la sucesión del asegurado, salvo pacto en contrario o que hubiere renuncia del derecho de revocar la designación hecha en los términos del artículo siguiente.
+Párrafo adicionado DOF 15-04-1946
+Artículo recorrido (antes artículo 164) DOF 04-04-2013
 
 ### Artículo 176
 .- El derecho de revocar la designación del beneficiario cesará solamente cuando el asegurado haga renuncia de él y, además, la comunique al beneficiario y a la empresa aseguradora. La renuncia se hará constar forzosamente en la póliza y esta constancia será el único medio de prueba admisible.
@@ -784,7 +804,8 @@ Artículo recorrido (antes artículo 174) DOF 04-04-2013
 ### Artículo 186
 .- Cuando herederos diversos a los que alude el artículo anterior, fueren designados como beneficiarios, tendrán derecho al seguro según su derecho de sucesión.
 Esta disposición y la del artículo anterior se aplicarán siempre que el asegurado no haya establecido la forma de distribución del seguro.
-Párrafo adicionado DOF 15-04-1946 Artículo recorrido (antes artículo 175) DOF 04-04-2013
+Párrafo adicionado DOF 15-04-1946
+Artículo recorrido (antes artículo 175) DOF 04-04-2013
 
 ### Artículo 187
 .- Si el asegurado omitiere expresar el grado de parentesco o designare como beneficiarios de su póliza a personas que no deben suceder como herederos y faltare indicación precisa de la porción que corresponda a cada una, el seguro se distribuirá entre todas ellas por partes iguales.
@@ -853,7 +874,8 @@ Artículo reformado DOF 15-04-1946. Recorrido (antes artículo 191) DOF 04-04-20
 
 ### Artículo 203
 .- En los casos a que se refieren los dos artículos anteriores, el asegurado tendrá la obligación de pagar las primas correspondientes al primer año; y se podrá pactar la suspensión de los efectos del seguro o la rescisión de pleno derecho para el caso en que no se haga oportunamente el pago de las primas.
-Artículo recorrido (antes artículo 192) DOF 04-04-2013 TITULO V (sic DOF 31-08-1935) Disposiciones finales
+Artículo recorrido (antes artículo 192) DOF 04-04-2013
+TITULO V (sic DOF 31-08-1935) Disposiciones finales
 
 ### Artículo 204
 .- Todas las disposiciones de la presente ley tendrán el carácter de imperativas, a no ser que admitan expresamente el pacto en contrario.
@@ -869,7 +891,8 @@ Artículo reformado y recorrido (antes artículo 195) DOF 04-04-2013
 
 ### Artículo 207
 .- Se deroga el título VII, Libro II del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente ley.
-Artículo recorrido (antes artículo 196) DOF 04-04-2013 En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Rafael Sánchez Tapia.- Rúbrica.- Al C. Secretario de Gobernación.- Presente." Lo que comunico a usted para su publicación y demás fines.
+Artículo recorrido (antes artículo 196) DOF 04-04-2013
+En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Rafael Sánchez Tapia.- Rúbrica.- Al C. Secretario de Gobernación.- Presente." Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, D. F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano Barba González.Rúbrica.
 Al C….
@@ -906,7 +929,7 @@ Publicado en el Diario Oficial de la Federación el 2 de enero de 2002
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 40 párrafo primero, 48, 145 primer párrafo y 152
-**segundo.** párrafo y se ADICIONAN los artículos 40 con un segundo párrafo, 111 con un cuarto párrafo, 145 con un segundo párrafo, 145 Bis, 150 Bis y 152 con un tercer párrafo, de la Ley sobre el Contrato de Seguro para quedar como sigue: .........
+**segundo.-** párrafo y se ADICIONAN los artículos 40 con un segundo párrafo, 111 con un cuarto párrafo, 145 con un segundo párrafo, 145 Bis, 150 Bis y 152 con un tercer párrafo, de la Ley sobre el Contrato de Seguro para quedar como sigue: .........
 
 ## TRANSITORIO
 
@@ -948,8 +971,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro.
 Publicado en el Diario Oficial de la Federación el 4 de abril de 2013

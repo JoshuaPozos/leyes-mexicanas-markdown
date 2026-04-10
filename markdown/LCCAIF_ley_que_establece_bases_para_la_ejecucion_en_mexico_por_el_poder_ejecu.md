@@ -11,15 +11,22 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO:
 El Congreso de los Estados Unidos Mexicanos, decreta:
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO ARTICULO 1o.- Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 ARTICULO 2o.- Se Autoriza al Gobierno Federal efectuar una aportación a la Asociación Internacional de Fomento hasta por el equivalente a 17,000,000 (diecisiete millones) de dólares de los Estados Unidos de América, correspondiente a la vigésima reposición de recursos. Esta cantidad se debe adicionar a las aportaciones anteriores efectuadas por nuestro país.
-Artículo reformado DOF 08-01-1981, 28-12-1981, 04-11-1983. Fe de erratas al artículo DOF 21-05-1984. Reformado DOF 24-12-1984, 13-01-1986, 19-01-1988, 26-07-1990, 16-07-1993, 07-05-1997, 30-12-2008, 22-01-2009, 29-12-2014, 06-06-2025 ARTICULO 3o.- La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo a la Asociación Internacional de Fomento y ejercer al respecto toda clase de facultades.
-Artículo reformado DOF 13-01-1986 ARTICULO 4o.- El Banco de México, S. A. será el depositario en México de las disponibilidades de la Asociación Internacional de Fomento, de conformidad con el Artículo VI Sección 9 del Convenio Constitutivo del citado Organismo.
+Artículo reformado DOF 08-01-1981, 28-12-1981, 04-11-1983. Fe de erratas al artículo DOF 21-05-1984. Reformado DOF 24-12-1984,
+13-01-1986, 19-01-1988, 26-07-1990, 16-07-1993, 07-05-1997, 30-12-2008, 22-01-2009, 29-12-2014, 06-06-2025 ARTICULO 3o.- La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo a la Asociación Internacional de Fomento y ejercer al respecto toda clase de facultades.
+Artículo reformado DOF 13-01-1986
+ARTICULO 4o.- El Banco de México, S. A. será el depositario en México de las disponibilidades de la Asociación Internacional de Fomento, de conformidad con el Artículo VI Sección 9 del Convenio Constitutivo del citado Organismo.
 ARTICULO 5o.- (Se deroga).
-Artículo derogado DOF 07-05-1997 ARTICULO 6o.- Los Gobernadores Propietario y Suplente que representen a México ante la Asociación Internacional de Fomento, serán los mismos que funjan con tal carácter en el Banco Internacional de Reconstrucción y Fomento.
-Artículo reformado DOF 13-01-1986 CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO ARTICULO 7o.- El Gobernador Suplente tendrá las facultades del Propietario, en caso de ausencia de éste, salvo las restricciones que establezca la Secretaría de Hacienda y Crédito Público.
-Artículo reformado DOF 13-01-1986 ARTICULO 8o.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 9o.- El Estado Mexicano reconoce la personalidad jurídica de la Asociación Internacional de Fomento. Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte la Asociación Internacional de Fomento, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha Institución.
+Artículo derogado DOF 07-05-1997
+ARTICULO 6o.- Los Gobernadores Propietario y Suplente que representen a México ante la Asociación Internacional de Fomento, serán los mismos que funjan con tal carácter en el Banco Internacional de Reconstrucción y Fomento.
+Artículo reformado DOF 13-01-1986
+CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO ARTICULO 7o.- El Gobernador Suplente tendrá las facultades del Propietario, en caso de ausencia de éste, salvo las restricciones que establezca la Secretaría de Hacienda y Crédito Público.
+Artículo reformado DOF 13-01-1986
+ARTICULO 8o.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 9o.- El Estado Mexicano reconoce la personalidad jurídica de la Asociación Internacional de Fomento. Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte la Asociación Internacional de Fomento, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha Institución.
 En ningún caso los Tribunales dictarán providencias precautorias sobre los bienes de la Asociación Internacional de Fomento y sólo podrán dictar mandamiento de embargo o ejecución, cuando exista sentencia ejecutoriada en su contra.
-Párrafo reformado DOF 13-01-1986 ARTICULO 10.- Los funcionarios y empleados de la Asociación Internacional de Fomento, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el Texto del Convenio aprobado por los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento el 26 de enero de 1960.
+Párrafo reformado DOF 13-01-1986
+ARTICULO 10.- Los funcionarios y empleados de la Asociación Internacional de Fomento, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el Texto del Convenio aprobado por los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento el 26 de enero de 1960.
 ARTICULO 11.- El Gobierno Federal requiere exclusivamente de la aprobación de la Cámara de Senadores del Congreso de la Unión, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 Artículo reformado DOF 06-06-2025
 
@@ -56,7 +63,7 @@ Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refie
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de noviembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen.
 Gustavo Madero Muñoz, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO DECRETO por el que se reforma el artículo 2 de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.

@@ -11,6 +11,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## TÍTULO I — DISPOSICIONES PRELIMINARES
 
+
 ### Artículo 1o
 . La presente Ley es de orden público y de interés social, reglamentaria del párrafo tercero del artículo 27 y de la fracción XXIX, inciso G del artículo 73 constitucionales. Su objeto es establecer la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, relativa a la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat en el territorio de la República Mexicana y en las zonas en donde la Nación ejerce su jurisdicción.
 El aprovechamiento sustentable de los recursos forestales maderables y no maderables y de las especies cuyo medio de vida total sea el agua, será regulado por las leyes forestal y de pesca, respectivamente, salvo que se trate de especies o poblaciones en riesgo.
@@ -83,7 +84,8 @@ XXIII. Hábitat: El sitio específico en un medio ambiente físico, ocupado por 
 Fracción recorrida DOF 06-04-2010, 05-11-2013
 
 XXIV. Licencia de caza: El documento mediante el cual la autoridad competente acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia, para realizar la caza deportiva en el territorio nacional.
-Fracción recorrida DOF 06-04-2010, 05-11-2013 Fracción reformada y recorrida DOF 06-04-2010. Recorrida DOF 05-11-2013
+Fracción recorrida DOF 06-04-2010, 05-11-2013
+Fracción reformada y recorrida DOF 06-04-2010. Recorrida DOF 05-11-2013
 
 XXVI. Maltrato: Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin.
 Fracción adicionada DOF 05-11-2013
@@ -165,6 +167,7 @@ Los derechos sobre los recursos genéticos estarán sujetos a los tratados inter
 
 ## TÍTULO II — POLÍTICA NACIONAL EN MATERIA DE VIDA SILVESTRE Y SU HÁBITAT
 
+
 ### Artículo 5o
 . El objetivo de la política nacional en materia de vida silvestre y su hábitat, es su conservación mediante la protección y la exigencia de niveles óptimos de aprovechamiento sustentable, de modo que simultáneamente se logre mantener y promover la restauración de su diversidad e integridad, así como incrementar el bienestar de los habitantes del país.
 En la formulación y la conducción de la política nacional en materia de vida silvestre se observarán, por parte de las autoridades competentes, los principios establecidos en el artículo 15 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Además dichas autoridades deberán prever:
@@ -193,6 +196,7 @@ IX. Los criterios para que las sanciones no sólo cumplan una función represiva
 Artículo reformado DOF 19-01-2018
 
 ## TÍTULO III — DE LAS AUTORIDADES
+
 
 ### Artículo 7o
 . La concurrencia de las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y del Gobierno Federal, en materia de vida silvestre, se establece para:
@@ -318,7 +322,8 @@ IX. Otorgar, suspender, modificar y revocar las autorizaciones, certificaciones,
 X. Promover el desarrollo de proyectos, estudios y actividades encaminados a la educación, capacitación e investigación sobre la vida silvestre, para el desarrollo del conocimiento técnico y científico y el fomento de la utilización del conocimiento tradicional.
 Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
 En contra de los actos que emitan los gobiernos de las entidades federativas, o en su caso de los Municipios y las demarcaciones territoriales de la Ciudad de México, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
-Párrafo reformado DOF 19-01-2018 Artículo reformado DOF 10-01-2002
+Párrafo reformado DOF 19-01-2018
+Artículo reformado DOF 10-01-2002
 
 ### Artículo 12
 . La celebración de los convenios o acuerdos de coordinación a que se refiere el artículo anterior, se sujetará a las bases previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
@@ -334,6 +339,7 @@ Las dependencias y entidades de la Administración Pública Federal que ejerzan 
 
 ## TÍTULO IV — CONCERTACIÓN Y PARTICIPACIÓN SOCIAL
 
+
 ### Artículo 15
 . La Secretaría promoverá la participación de todas las personas y sectores involucrados en la formulación y aplicación de las medidas para la conservación y aprovechamiento sustentable de la vida silvestre que estén dentro del ámbito de su competencia.
 
@@ -341,16 +347,19 @@ Las dependencias y entidades de la Administración Pública Federal que ejerzan 
 . La Secretaría contará con un Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre, cuyas funciones consistirán en emitir opiniones o recomendaciones en relación con la identificación de las especies en riesgo y la determinación de especies y poblaciones prioritarias para la conservación, el desarrollo de proyectos de recuperación, la declaración de existencia de hábitats críticos, así como con el otorgamiento de los reconocimientos y premios a los que se refiere el artículo 45 de la presente Ley.
 La Secretaría podrá constituir otros órganos técnicos consultivos relacionados con la vida silvestre y su hábitat, con el objeto de que la apoyen tanto en la formulación como en la aplicación de las medidas que sean necesarias para su conservación y aprovechamiento sustentable.
 Los órganos técnicos consultivos a los que se refiere este artículo estarán integrados por representantes de la Secretaría; de otras dependencias y entidades de la Administración Pública Federal, así como de representantes de los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México involucradas en cada caso; de instituciones académicas y centros de investigación; de agrupaciones de productores y empresarios; de organizaciones no gubernamentales y de otros organismos de carácter social y privado, así como por personas físicas de conocimiento probado en la materia, de conformidad con lo establecido en el reglamento.
-Párrafo reformado DOF 19-01-2018 La organización y funcionamiento de los órganos técnicos consultivos se sujetará a los acuerdos que para ese efecto expida la Secretaría, en los que se procurará una representación equilibrada y proporcional de todos los sectores y se prestará una especial atención a la participación de las comunidades rurales y productores involucrados.
+Párrafo reformado DOF 19-01-2018
+La organización y funcionamiento de los órganos técnicos consultivos se sujetará a los acuerdos que para ese efecto expida la Secretaría, en los que se procurará una representación equilibrada y proporcional de todos los sectores y se prestará una especial atención a la participación de las comunidades rurales y productores involucrados.
 La Secretaría deberá considerar, en el ejercicio de sus facultades sobre la materia, las opiniones y recomendaciones que, en su caso, hayan sido formuladas por los órganos técnicos consultivos.
 
 ### Artículo 17
 . Para la consecución de los objetivos de la política nacional sobre vida silvestre, la Secretaría podrá celebrar convenios de concertación con las personas físicas y morales interesadas en su conservación y aprovechamiento sustentable.
 
 ## TÍTULO V — DISPOSICIONES COMUNES PARA LA CONSERVACIÓN Y EL APROVECHAMIENTO
+
 SUSTENTABLE DE LA VIDA SILVESTRE
 
 ## CAPÍTULO I — DISPOSICIONES PRELIMINARES
+
 
 ### Artículo 18
 . Los propietarios y legítimos poseedores de predios en donde se distribuye la vida silvestre, tendrán el derecho a realizar su aprovechamiento sustentable y la obligación de contribuir a conservar el hábitat conforme a lo establecido en la presente Ley; asimismo podrán transferir esta prerrogativa a terceros, conservando el derecho a participar de los beneficios que se deriven de dicho aprovechamiento.
@@ -374,6 +383,7 @@ e) La utilización de mecanismos de compensación y otros instrumentos internaci
 
 ## CAPÍTULO II — CAPACITACIÓN, FORMACIÓN, INVESTIGACIÓN Y DIVULGACIÓN
 
+
 ### Artículo 21
 . La Secretaría promoverá, en coordinación con la de Educación Pública y las demás autoridades competentes, que las instituciones de educación básica, media, superior y de investigación, así como las organizaciones no gubernamentales, desarrollen programas de educación ambiental, capacitación, formación profesional e investigación científica y tecnológica para apoyar las actividades de conservación y aprovechamiento sustentable de la vida silvestre y su hábitat. En su caso, la Secretaría participará en dichos programas en los términos que se convengan.
 Asimismo, la Secretaría promoverá, en coordinación con la Secretaría de Educación Pública y las demás autoridades competentes, que las instituciones de educación media y superior y de investigación, así como las organizaciones no gubernamentales, desarrollen proyectos de aprovechamiento sustentable que contribuyan a la conservación de la vida silvestre y sus hábitats por parte de comunidades rurales.
@@ -389,10 +399,12 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 ## CAPÍTULO III — CONOCIMIENTOS, INNOVACIONES Y PRÁCTICAS DE LAS COMUNIDADES RURALES
 
+
 ### Artículo 24
 . En las actividades de conservación y aprovechamiento sustentable de la vida silvestre se respetará, conservará y mantendrá los conocimientos, innovaciones y prácticas de las comunidades rurales que entrañen estilos tradicionales de vida pertinentes para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat y se promoverá su aplicación más amplia con la aprobación y la participación de quienes posean esos conocimientos, innovaciones y prácticas. Asimismo, se fomentará que los beneficios derivados de la utilización de esos conocimientos, innovaciones y prácticas se compartan equitativamente.
 
 ## CAPÍTULO IV — SANIDAD DE LA VIDA SILVESTRE
+
 
 ### Artículo 25
 . El control sanitario de los ejemplares de especies de la vida silvestre se hará con arreglo disposiciones que de ellas se deriven. En los casos en que sea necesario, la Secretaría establecerá las medidas complementarias para la conservación y recuperación de la vida silvestre.
@@ -401,6 +413,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 . La Secretaría determinará, a través de las normas oficiales mexicanas correspondientes, las medidas que deberán aplicarse para evitar que los ejemplares de las especies silvestres en confinamiento, sean sometidos a condiciones adversas a su salud y su vida durante la aplicación de medidas sanitarias.
 
 ## CAPÍTULO V — EJEMPLARES Y POBLACIONES EXÓTICOS
+
 
 ### Artículo 27
 . El manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento que garanticen la seguridad de la sociedad civil y trato digno y respetuoso hacia los ejemplares, de acuerdo con un plan de manejo que deberá ser previamente aprobado por la Secretaría y el que deberá contener lo dispuesto por el artículo 78 Bis, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre y su hábitat.
@@ -422,6 +435,7 @@ Artículo adicionado DOF 06-04-2010
 . El establecimiento de confinamientos sólo se podrá realizar de conformidad con lo establecido en las disposiciones aplicables, con la finalidad de prevenir y minimizar los efectos negativos sobre los procesos biológicos y ecológicos, así como la sustitución o desplazamiento de poblaciones de especies nativas que se distribuyan de manera natural en el sitio.
 
 ## CAPÍTULO VI — TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
+
 
 ### Artículo 29
 . Las entidades federativas, los Municipios, las demarcaciones territoriales de la Ciudad de México y la Federación, adoptarán las medidas de trato digno y respetuoso para evitar o disminuir la tensión, sufrimiento, traumatismo y dolor que se pudiera ocasionar a los ejemplares de fauna silvestre durante su aprovechamiento, traslado, exhibición, cuarentena, entrenamiento, comercialización y sacrificio.
@@ -453,6 +467,7 @@ Artículo reformado DOF 19-01-2018
 
 ## CAPÍTULO VII — CENTROS PARA LA CONSERVACIÓN E INVESTIGACIÓN
 
+
 ### Artículo 38
 .- La Secretaría establecerá y operará de conformidad con lo establecido en el reglamento, Centros para la Conservación e Investigación de la Vida silvestre, en los que se llevarán a cabo actividades de:
 
@@ -460,11 +475,14 @@ I. Recepción, rehabilitación, protección, recuperación, reintroducción, can
 Fracción reformada DOF 20-05-2021
 
 II. Difusión, capacitación, monitoreo, evaluación, muestreo, manejo, seguimiento permanente y cualquiera otras que contribuyan al desarrollo del conocimiento de la vida silvestre y su hábitat, así como la integración de éstos a los procesos de desarrollo sostenible. La Secretaría podrá celebrar convenios y acuerdos de coordinación y concertación para estos efectos;
-Párrafo reformado DOF 26-06-2006 En dichos centros se llevará un registro de las personas físicas y morales con capacidad de mantener ejemplares de fauna silvestre en condiciones adecuadas. En el caso de que existan ejemplares que no puedan rehabilitarse para su liberación, éstos podrán destinarse a las personas físicas y morales que cuenten con el registro correspondiente, de conformidad con lo establecido en el capítulo sexto de este título.
+Párrafo reformado DOF 26-06-2006
+En dichos centros se llevará un registro de las personas físicas y morales con capacidad de mantener ejemplares de fauna silvestre en condiciones adecuadas. En el caso de que existan ejemplares que no puedan rehabilitarse para su liberación, éstos podrán destinarse a las personas físicas y morales que cuenten con el registro correspondiente, de conformidad con lo establecido en el capítulo sexto de este título.
 
 ## CAPÍTULO VIII — SISTEMA DE UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
 
+
 ## SECCIÓN I — DE LAS UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE VIDA SILVESTRE
+
 Sección adicionada DOF 06-06-2012
 
 ### Artículo 39
@@ -555,6 +573,7 @@ La Secretaría brindará asesoría y, en coordinación con las demás autoridade
 Asimismo, la Secretaría promoverá que dentro de las áreas naturales protegidas, que cuenten con programa de manejo, el Sistema Nacional de Unidades de Manejo para la Conservación de la Vida Silvestre, involucre a los habitantes locales en la ejecución del programa mencionado anteriormente dentro de sus predios, dando prioridad al aprovechamiento no extractivo, cuando se trate de especies o poblaciones amenazadas o en peligro de extinción.
 
 ## SECCIÓN II — DE LAS UNIDADES DE MANEJO PARA LA CONSERVACIÓN DE FAUNA SILVESTRE
+
 Sección adicionada DOF 06-06-2012
 
 ### Artículo 47
@@ -618,14 +637,17 @@ V. Durante la visita de supervisión establecida en el artículo 43 de la Ley, s
 VI. El Informe anual de actividades no sea presentado durante dos años consecutivos;
 Fracción reformada DOF 16-07-2025
 
-VII. Se omita la presentación del informe de contingencias o emergencias que ponga en riesgo a la vida silvestre, su hábitat natural o la salud de la población humana, en los términos señalados por la Ley y su Reglamento, y Fracción reformada DOF 16-07-2025
+VII. Se omita la presentación del informe de contingencias o emergencias que ponga en riesgo a la vida silvestre, su hábitat natural o la salud de la población humana, en los términos señalados por la Ley y su Reglamento, y
+Fracción reformada DOF 16-07-2025
 
 VIII. El incumplimiento de lo establecido en el artículo 60 Bis de esta Ley.
-Fracción adicionada DOF 16-07-2025 La revocación de la autorización de aprovechamiento no implica la eliminación del registro en el Sistema.
+Fracción adicionada DOF 16-07-2025
+La revocación de la autorización de aprovechamiento no implica la eliminación del registro en el Sistema.
 El procedimiento de revocación se sujetará al procedimiento previsto por la Ley Federal de Procedimiento Administrativo.
 Artículo adicionado DOF 06-06-2012
 
 ## CAPÍTULO IX — SUBSISTEMA NACIONAL DE INFORMACIÓN
+
 
 ### Artículo 48
 . Dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales a que se refiere el artículo 159 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente habrá un Subsistema Nacional de Información sobre la Vida Silvestre, que se coordinará con el Sistema Nacional de Información sobre Biodiversidad y que estará a disposición de los interesados en los términos prescritos por esa misma Ley.
@@ -657,6 +679,7 @@ XI. El directorio de prestadores de servicios y organizaciones vinculados a esta
 La Secretaría no pondrá a disposición del público información susceptible de generar derechos de propiedad intelectual.
 
 ## CAPÍTULO X — LEGAL PROCEDENCIA
+
 
 ### Artículo 50
 . Para otorgar registros y autorizaciones relacionados con ejemplares, partes y derivados de especies silvestres fuera de su hábitat natural, las autoridades deberán verificar su legal procedencia.
@@ -710,7 +733,9 @@ Artículo adicionado DOF 26-01-2006. Reformado DOF 30-11-2010
 
 ## TÍTULO VI — CONSERVACIÓN DE LA VIDA SILVESTRE
 
+
 ## CAPÍTULO I — ESPECIES Y POBLACIONES EN RIESGO Y PRIORITARIAS PARA LA CONSERVACIÓN
+
 
 ### Artículo 56
 . La Secretaría identificará a través de listas, las especies o poblaciones en riesgo, de conformidad con lo establecido en la norma oficial mexicana correspondiente, señalando el nombre científico y, en su caso, el nombre común más utilizado de las especies; la información relativa a las poblaciones, tendencias y factores de riesgo; la justificación técnica-científica de la propuesta; y la metodología empleada para obtener la información, para lo cual se tomará en consideración, en su caso, la información presentada por el Consejo.
@@ -755,7 +780,8 @@ Artículo adicionado DOF 10-01-2002. Reformado DOF 26-01-2006, 16-11-2011, 26-01
 ### Artículo 60
 Bis 1.- Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
 Queda prohibido, el aprovechamiento extractivo con fines de subsistencia o comercial, de las especies de tiburón blanco (Carcharodon carcharias) tiburón ballena (Rhincodon typus), tiburón peregrino (Cetorhinus maximus), pez sierra peine (Squalus pristis) y pez sierra de estero (Pristis pectinata). Sólo se podrá autorizar su captura para actividades de restauración, repoblamiento o de reintroducción de dichas especies en su hábitat natural.
-Párrafo adicionado DOF 13-05-2016 Artículo adicionado DOF 26-06-2006
+Párrafo adicionado DOF 13-05-2016
+Artículo adicionado DOF 26-06-2006
 
 ### Artículo 60
 Bis 2.- Ningún ejemplar de ave correspondiente a la familia Psittacidae o psitácido, cuya distribución natural sea dentro del territorio nacional, podrá ser sujeto de aprovechamiento extractivo con fines de subsistencia o comerciales.
@@ -784,9 +810,11 @@ Las listas a que se refiere este artículo serán actualizadas por lo menos cada
 
 ### Artículo 62
 . La Secretaría deberá implementar programas para la conservación, recuperación, reproducción y reintroducción en su hábitat, de especies y poblaciones prioritarias para la conservación, con la participación en su caso de las personas que manejen dichas especies o poblaciones y demás involucrados.
-Párrafo reformado DOF 19-03-2014 La información relativa a los proyectos de conservación y recuperación de especies y poblaciones prioritarias para la conservación, estará a disposición del público.
+Párrafo reformado DOF 19-03-2014
+La información relativa a los proyectos de conservación y recuperación de especies y poblaciones prioritarias para la conservación, estará a disposición del público.
 
 ## CAPÍTULO II — HÁBITAT CRÍTICO PARA LA CONSERVACIÓN DE LA VIDA SILVESTRE
+
 
 ### Artículo 63
 . La conservación del hábitat natural de la vida silvestre es de interés público.
@@ -809,6 +837,7 @@ En todo momento el Ejecutivo Federal podrá imponer limitaciones de los derechos
 Artículo reformado DOF 02-09-2010
 
 ## CAPÍTULO III — ÁREAS DE REFUGIO PARA PROTEGER ESPECIES ACUÁTICAS
+
 
 ### Artículo 65
 . La Secretaría podrá establecer, mediante acuerdo Secretarial, áreas de refugio para proteger especies nativas de vida silvestre que se desarrollan en el medio acuático, en aguas de jurisdicción federal, zona federal marítimo terrestre y terrenos inundables, con el objeto de conservar y contribuir, a través de medidas de manejo y conservación, al desarrollo de dichas especies, así como para conservar y proteger sus hábitats, para lo cual elaborará los programas de protección correspondientes.
@@ -838,10 +867,12 @@ En los casos a que se refiere el párrafo anterior, corresponderá al director d
 
 ## CAPÍTULO IV — RESTAURACIÓN
 
+
 ### Artículo 70
 . Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Secretaría formulará y ejecutará a la brevedad posible, programas de prevención, de atención de emergencias y de restauración para la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre, tomando en cuenta lo dispuesto en los artículos 78, 78 BIS y 78 BIS 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y de conformidad con lo establecido en el reglamento y las demás disposiciones aplicables.
 
 ## CAPÍTULO V — VEDAS
+
 
 ### Artículo 71
 . La Secretaría podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre, incluyendo las vedas y su modificación o levantamiento, de acuerdo con lo previsto en el artículo 81 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
@@ -850,12 +881,14 @@ Las vedas podrán establecerse, modificarse o levantarse a solicitud de las pers
 
 ## CAPÍTULO VI — EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
 
+
 ### Artículo 72
 . La Secretaría podrá dictar y autorizar, conforme a las disposiciones aplicables, medidas de control que se adopten dentro de unidades de manejo de vida silvestre para lo cual los interesados deberán proporcionar la información correspondiente, conforme a lo que establezca el reglamento respectivo.
 Los medios y técnicas deberán ser los adecuados para no afectar a otros ejemplares, a las poblaciones, especies y sus hábitats.
 Se evaluará primero la posibilidad de aplicar medidas de control como captura o colecta para el desarrollo de proyectos de recuperación, actividades de repoblación y reintroducción o de investigación y educación ambiental.
 
 ## CAPÍTULO VII — MOVILIDAD Y DISPERSIÓN DE POBLACIONES DE ESPECIES SILVESTRES NATIVAS
+
 
 ### Artículo 73
 . Queda prohibido el uso de cercos u otros métodos, de conformidad con lo establecido en el reglamento, para retener o atraer ejemplares de la fauna silvestre nativa que de otro modo se desarrollarían en varios predios. La Secretaría aprobará el establecimiento de cercos no permeables y otros métodos como medida de manejo para ejemplares y poblaciones de especies nativas, cuando así se requiera para proyectos de recuperación y actividades de reproducción, repoblación, reintroducción, traslocación o preliberación.
@@ -868,10 +901,12 @@ Se evaluará primero la posibilidad de aplicar medidas de control como captura o
 
 ## CAPÍTULO VIII — CONSERVACIÓN DE LAS ESPECIES MIGRATORIAS
 
+
 ### Artículo 76
 . La conservación de las especies migratorias se llevará a cabo mediante la protección y mantenimiento de sus hábitats, el muestreo y seguimiento de sus poblaciones, así como el fortalecimiento y desarrollo de la cooperación internacional; de acuerdo con las disposiciones de esta Ley, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de las que de ellas se deriven, sin perjuicio de lo establecido en los tratados y otros acuerdos internacionales en los que México sea Parte Contratante.
 
 ## CAPÍTULO IX — CONSERVACIÓN DE LA VIDA SILVESTRE FUERA DE SU HÁBITAT NATURAL
+
 
 ### Artículo 77
 . La conservación de la vida silvestre fuera de su hábitat natural se llevará a cabo de acuerdo con las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de esta Ley y de las que de ella se deriven, así como con arreglo a los planes de manejo aprobados y de otras disposiciones aplicables.
@@ -880,8 +915,10 @@ La Secretaría dará prioridad a la reproducción de vida silvestre fuera de su 
 ### Artículo 78
 . Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento, y para el caso de ejemplares vivos, contar con un plan de manejo autorizado por la Secretaría.
 Los predios e instalaciones que manejen vida silvestre en forma confinada, como zoológicos, espectáculos públicos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la Secretaría, y además deberán registrarse y actualizar sus datos anualmente ante la autoridad correspondiente, en el padrón que para tal efecto se lleve, de conformidad con lo establecido en el reglamento.
-Párrafo reformado DOF 09-01-2015 Queda prohibido el uso de ejemplares de vida silvestre en circos.
-Párrafo adicionado DOF 09-01-2015 Artículo reformado DOF 26-12-2013
+Párrafo reformado DOF 09-01-2015
+Queda prohibido el uso de ejemplares de vida silvestre en circos.
+Párrafo adicionado DOF 09-01-2015
+Artículo reformado DOF 26-12-2013
 
 ### Artículo 78
 Bis. Los planes de manejo a los que se refiere el artículo anterior deberán contener como mínimo los siguientes elementos:
@@ -921,6 +958,7 @@ Artículo adicionado DOF 26-12-2013
 
 ## CAPÍTULO X — LIBERACIÓN DE EJEMPLARES AL HÁBITAT NATURAL
 
+
 ### Artículo 79
 . La liberación de ejemplares a su hábitat natural, se realizará de conformidad con lo establecido en el reglamento. La Secretaría procurará que la liberación se lleve a cabo a la brevedad posible, a menos que se requiera rehabilitación.
 Si no fuera conveniente la liberación de ejemplares a su hábitat natural, la Secretaría determinará un destino que contribuya a la conservación, investigación, educación, capacitación, difusión, reproducción, manejo o cuidado de la vida silvestre en lugares adecuados para ese fin.
@@ -939,7 +977,9 @@ c) En su caso, un control sanitario de los ejemplares a liberar.
 
 ## TÍTULO VII — APROVECHAMIENTO SUSTENTABLE DE LA VIDA SILVESTRE
 
+
 ## CAPÍTULO I — APROVECHAMIENTO EXTRACTIVO
+
 
 ### Artículo 82
 . Solamente se podrá realizar aprovechamiento extractivo de la vida silvestre, en las condiciones de sustentabilidad prescritas en los siguientes artículos.
@@ -1012,6 +1052,7 @@ La autorización de aprovechamiento generará para su titular la obligación de 
 
 ## CAPÍTULO II — APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
 
+
 ### Artículo 92
 . Las personas de la localidad que realizan aprovechamiento de ejemplares, partes y derivados de vida silvestre para su consumo directo, o para su venta en cantidades que sean proporcionales a la satisfacción de las necesidades básicas de éstas y de sus dependientes económicos, recibirán el apoyo, asesoría técnica y capacitación por parte de las autoridades competentes para el cumplimiento de las disposiciones de la presente Ley y de su reglamento, así como para la consecución de sus fines.
 Las autoridades competentes promoverán la constitución de asociaciones para estos efectos.
@@ -1021,6 +1062,7 @@ Las autoridades competentes promoverán la constitución de asociaciones para es
 La Secretaría podrá establecer limitaciones o negar el aprovechamiento, en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
 
 ## CAPÍTULO III — APROVECHAMIENTO MEDIANTE LA CAZA DEPORTIVA
+
 
 ### Artículo 94
 . La caza deportiva se regulará por las disposiciones aplicables a los demás aprovechamientos extractivos.
@@ -1046,6 +1088,7 @@ Los prestadores de servicios de aprovechamiento deberán contar con una licencia
 
 ## CAPÍTULO IV — COLECTA CIENTÍFICA Y CON PROPÓSITOS DE ENSEÑANZA
 
+
 ### Artículo 97
 . La colecta de ejemplares, partes y derivados de vida silvestre con fines de investigación científica y con propósitos de enseñanza requiere de autorización de la Secretaría y se llevará a cabo con el consentimiento previo, expreso e informado del propietario o poseedor legítimo del predio en donde ésta se realice. Esta autorización no amparará el aprovechamiento para fines comerciales ni de utilización en biotecnología, que se regirá por las disposiciones especiales que resulten aplicables. La autorización será otorgada sólo cuando no se afecte con ella la viabilidad de las poblaciones, especies, hábitats y ecosistemas.
 Las autorizaciones para realizar colecta científica se otorgarán, de conformidad con lo establecido en el reglamento, por línea de investigación o por proyecto. Las autorizaciones por línea de investigación se otorgarán para el desarrollo de estas actividades por parte de investigadores y colectores científicos vinculados a las instituciones de investigación y colecciones científicas nacionales, así como a aquellos con trayectoria en la aportación de información para el conocimiento de la biodiversidad nacional, y para su equipo de trabajo. Las autorizaciones por proyecto se otorgarán a las personas que no tengan estas características o a las personas que vayan a realizar colecta científica sobre especies o poblaciones en riesgo, o sobre hábitat crítico.
@@ -1054,6 +1097,7 @@ Las autorizaciones para realizar colecta científica se otorgarán, de conformid
 . Las personas autorizadas para realizar una colecta científica deberán, en los términos que establezca el reglamento, presentar informes de actividades y destinar al menos un duplicado del material biológico colectado a instituciones o colecciones científicas mexicanas, salvo que la Secretaría determine lo contrario por existir representaciones suficientes y en buen estado de dicho material en las mencionadas instituciones o colecciones.
 
 ## CAPÍTULO V — APROVECHAMIENTO NO EXTRACTIVO
+
 
 ### Artículo 99
 . El aprovechamiento no extractivo de vida silvestre requiere una autorización previa de la Secretaría, que se otorgará de conformidad con las disposiciones establecidas en el presente capítulo, para garantizar el bienestar de los ejemplares de especies silvestres, la continuidad de sus poblaciones y la conservación de sus hábitats.
@@ -1080,6 +1124,7 @@ TITULO VIII MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 104
 . La Secretaría realizará los actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sustentable de la vida silvestre, con arreglo a lo previsto en esta Ley, en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las disposiciones que de ellas se deriven, asimismo deberá llevar un padrón de los infractores a las mismas. Las personas que se encuentren incluidas en dicho padrón, respecto a las faltas a las que se refiere el artículo 127, fracción II de la presente ley, en los términos que establezca el reglamento, no se les otorgarán autorizaciones de aprovechamiento, ni serán sujetos de transmisión de derechos de aprovechamiento.
 
@@ -1088,13 +1133,16 @@ TITULO VIII MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
 ## CAPÍTULO II — DAÑOS
 
+
 ### Artículo 106
 . Sin perjuicio de las demás disposiciones aplicables, toda persona física o moral que ocasione directa o indirectamente un daño a la vida silvestre o a su hábitat, está obligada a repararlo o compensarlo de conformidad a lo dispuesto por la Ley Federal de Responsabilidad Ambiental.
-Párrafo reformado DOF 07-06-2013 Los propietarios y legítimos poseedores de los predios, así como los terceros que realicen el aprovechamiento, serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
+Párrafo reformado DOF 07-06-2013
+Los propietarios y legítimos poseedores de los predios, así como los terceros que realicen el aprovechamiento, serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
 
 ### Artículo 107
 . Cualquier persona podrá denunciar a la Procuraduría Federal de Protección al Ambiente los daños ocasionados a la vida silvestre o a su hábitat de los que tenga conocimiento.
-Párrafo reformado DOF 07-06-2013 La Procuraduría Federal de Protección al Ambiente evaluará cuidadosamente la información presentada en la denuncia y, en caso de ser procedente, ejercerá de manera exclusiva la acción de responsabilidad por daño a la vida silvestre y su hábitat, la cual será objetiva y solidaria.
+Párrafo reformado DOF 07-06-2013
+La Procuraduría Federal de Protección al Ambiente evaluará cuidadosamente la información presentada en la denuncia y, en caso de ser procedente, ejercerá de manera exclusiva la acción de responsabilidad por daño a la vida silvestre y su hábitat, la cual será objetiva y solidaria.
 En el caso de que el demandado sea algún órgano de la administración pública federal o una empresa de participación estatal mayoritaria, la acción de responsabilidad por daño a la vida silvestre y su hábitat, podrá ser ejercida por cualquier persona directamente ante el tribunal competente.
 Reforma DOF 07-06-2013: Derogó del artículo el entonces último párrafo
 
@@ -1107,6 +1155,7 @@ Artículo derogado DOF 07-06-2013
 Artículo derogado DOF 07-06-2013
 
 ## CAPÍTULO III — VISITAS DE INSPECCIÓN
+
 
 ### Artículo 110
 . Las personas que realicen actividades de captura, transformación, tratamiento, preparación, comercialización, exhibición, traslado, importación, exportación y las demás relacionadas con la conservación y aprovechamiento de la vida silvestre, deberán otorgar al personal debidamente acreditado de la Secretaría, las facilidades indispensables para el desarrollo de los actos de inspección antes señalados. Asimismo, deberán aportar la documentación que ésta les requiera para verificar el cumplimiento de las disposiciones de esta Ley y las que de ella se deriven.
@@ -1144,6 +1193,7 @@ III. El infractor demuestre que ha cumplido con las obligaciones materia de la i
 . En los casos en que no se pudiera identificar a los presuntos infractores de esta Ley y de las disposiciones que de ella deriven, la Secretaría pondrá término al procedimiento mediante la adopción de las medidas que correspondan para la conservación de la vida silvestre y de su hábitat y, en su caso, ordenará el destino que debe darse a los ejemplares, partes o derivados de la vida silvestre que hayan sido abandonados.
 
 ## CAPÍTULO IV — MEDIDAS DE SEGURIDAD
+
 
 ### Artículo 117
 . Cuando exista riesgo inminente de daño o deterioro grave a la vida silvestre o a su hábitat, la Secretaría, fundada y motivadamente, ordenará la aplicación de una o más de las siguientes medidas de seguridad:
@@ -1188,7 +1238,8 @@ VII. Existan faltas respecto al trato digno y respetuoso, conforme a lo estipula
 
 ### Artículo 120
 .- La Secretaría, cuando realice aseguramientos precautorios de conformidad con esta Ley, canalizará los ejemplares asegurados al Centro para la Conservación e Investigación de la Vida Silvestre o consultará a éstos la canalización hacia Unidades de Manejo para la Conservación de la Vida Silvestre, instituciones o personas que reúnan las mejores condiciones de seguridad y cuidado para la estancia, y en su caso, la reproducción de los ejemplares o bienes asegurados.
-Párrafo reformado DOF 26-06-2006 Las personas sujetas a inspección que sean designadas como depositarias de los bienes asegurados precautoriamente, deberán presentar ante la Secretaría una garantía suficiente que respalde la seguridad y cuidado de los ejemplares y bienes de que se trate, dentro de los cinco días siguientes a que se ordene el aseguramiento precautorio. En caso de que la Secretaría no reciba la garantía correspondiente, designará a otro depositario y los gastos que por ello se generen serán a cargo del inspeccionado.
+Párrafo reformado DOF 26-06-2006
+Las personas sujetas a inspección que sean designadas como depositarias de los bienes asegurados precautoriamente, deberán presentar ante la Secretaría una garantía suficiente que respalde la seguridad y cuidado de los ejemplares y bienes de que se trate, dentro de los cinco días siguientes a que se ordene el aseguramiento precautorio. En caso de que la Secretaría no reciba la garantía correspondiente, designará a otro depositario y los gastos que por ello se generen serán a cargo del inspeccionado.
 En caso de que el depositario incumpla con sus obligaciones legales, la Secretaría procederá a hacer efectivas las garantías exhibidas, independientemente de cualquier otra responsabilidad civil, penal o administrativa que proceda y sin perjuicio de las sanciones que en su caso, se haya hecho acreedor el inspeccionado, por las infracciones que conforme a esta Ley y las disposiciones jurídicas que de ella emanen, hubiere cometido.
 
 ### Artículo 121
@@ -1196,6 +1247,7 @@ En caso de que el depositario incumpla con sus obligaciones legales, la Secretar
 En caso de que en la resolución que concluya el procedimiento de inspección respectivo no se ordene el decomiso de los bienes perecederos asegurados precautoriamente y éstos hubiesen sido vendidos, la Secretaría deberá entregar al interesado el precio de venta de los bienes de que se trate al momento del aseguramiento, más los rendimientos que se hubiesen generado a la fecha de vencimiento de los títulos a que se refiere el párrafo anterior.
 
 ## CAPÍTULO V — INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
 
 ### Artículo 122
 . Son infracciones a lo establecido en esta Ley:
@@ -1253,7 +1305,8 @@ XXIV. Realizar actos que contravengan las disposiciones de conservación de vida
 Fracción adicionada DOF 09-01-2015
 
 XXV. Realizar actividades que contravengan lo establecido en el artículo 60 Bis.
-Fracción adicionada DOF 16-07-2025 Se considerarán infractores no sólo las personas que hayan participando en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
+Fracción adicionada DOF 16-07-2025
+Se considerarán infractores no sólo las personas que hayan participando en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
 
 ### Artículo 123
 . Las violaciones a los preceptos de esta Ley, su reglamento, las normas oficiales mexicanas y demás disposiciones legales que de ella se deriven, serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
@@ -1296,11 +1349,14 @@ III. No se señale domicilio en el lugar en el que se encuentra la autoridad enc
 I. Con el equivalente de 20 a 5000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley;
 Fracción reformada DOF 10-01-2002, 19-12-2016
 
-II. Con el equivalente de 50 a 50000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley, y Fracción reformada DOF 10-01-2002, 09-01-2015, 13-05-2016, 19-12-2016
+II. Con el equivalente de 50 a 50000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley, y
+Fracción reformada DOF 10-01-2002, 09-01-2015, 13-05-2016, 19-12-2016
 
 III. Con el equivalente de 200 a 75000 veces la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en las fracciones III y XXV del artículo 122 de la presente Ley.
-Fracción adicionada DOF 19-12-2016. Reformada DOF 16-07-2025 La imposición de las multas se realizará con base en la Unidad de Medida y Actualización al momento de cometerse la infracción.
-Párrafo reformado DOF 19-12-2016 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
+Fracción adicionada DOF 19-12-2016. Reformada DOF 16-07-2025
+La imposición de las multas se realizará con base en la Unidad de Medida y Actualización al momento de cometerse la infracción.
+Párrafo reformado DOF 19-12-2016
+En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el párrafo final del artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esa disposición.
 
 ### Artículo 128
@@ -1342,7 +1398,7 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2002
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 1o., segundo párrafo, 11, 12 y 127, fracciones I y II, y se adiciona el artículo 60 Bis de la Ley General de Vida Silvestre, para quedar como sigue: ..........
 ARTÍCULO TRANSITORIO
-**ÚNICO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de enero de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -1382,8 +1438,8 @@ Se adiciona un segundo párrafo al artículo 99 de la Ley General de Vida Silves
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Con la entrada en vigor del presente Decreto se derogan todas las disposiciones legales que contravengan al mismo.
+**Primero.-** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Con la entrada en vigor del presente Decreto se derogan todas las disposiciones legales que contravengan al mismo.
 México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de enero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se adiciona un artículo 60 Bis 2 a la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 14 de octubre de 2008
@@ -1449,7 +1505,7 @@ Se reforma el artículo 55 bis de la Ley General de Vida Silvestre, para quedar 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 28 de septiembre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip.
 Balfre Vargas Cortez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
@@ -1472,9 +1528,9 @@ Se adiciona un párrafo tercero y se recorre el subsecuente al artículo 60 Bis 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre y el Protocolo de atención para varamiento de mamíferos marinos.
-**TERCERO.** Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre y el Protocolo de atención para varamiento de mamíferos marinos.
+**TERCERO.-** Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 México, D. F., a 18 de octubre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforma el artículo 85 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2012
@@ -1484,8 +1540,8 @@ Se reforma el artículo 85 de la Ley General de Vida Silvestre, para quedar como
 
 ## Transitorios
 
-**Primero.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo no mayor a 120 días naturales, realizará las México, D.F., a 24 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
+**Primero.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo no mayor a 120 días naturales, realizará las México, D.F., a 24 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 6 de junio de 2012
 
@@ -1494,11 +1550,10 @@ Se adiciona una Sección I, “De las Unidades de Manejo para la Conservación d
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación.
-**SEGUNDO.** El Ejecutivo Federal realizará las modificaciones correspondientes al Reglamento de esta Ley, dentro de los 180 días posteriores a la publicación del presente Decreto.
-**TERCERO.** Se derogan todas las disposiciones que contravengan el presente Decreto.
-**CUARTO.** En tanto la Secretaría expide los términos de referencia a que se refiere el artículo 47 Bis del presente Decreto, los estudios de población contendrán, enunciativa y no limitativamente:
-
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación.
+**SEGUNDO.-** El Ejecutivo Federal realizará las modificaciones correspondientes al Reglamento de esta Ley, dentro de los 180 días posteriores a la publicación del presente Decreto.
+**TERCERO.-** Se derogan todas las disposiciones que contravengan el presente Decreto.
+**CUARTO.-** En tanto la Secretaría expide los términos de referencia a que se refiere el artículo 47 Bis del presente Decreto, los estudios de población contendrán, enunciativa y no limitativamente:
 I. Especie de interés;
 
 II. Tipo de manejo que se le pretende dar;
@@ -1512,7 +1567,7 @@ b) Resultados del muestreo más reciente realizado sobre la abundancia relativa 
 c) El sistema, metodología o técnica de identificación, monitoreo y cuantificación empleado para determinar el número de individuos, especificando la época del año en la cual se llevó a cabo la cuantificación y el período de tiempo durante el cual se realizó.
 
 IV. El control de movimientos de inventario de ejemplares (ingresos, liberaciones, canalizaciones, nacimientos y defunciones) en el que se deberá indicar la cantidad, género y especie, así como señalar el sistema de marca utilizado y los datos de identificación individual, en el caso de especies de manejo intensivo.
-**QUINTO.** El contenido y alcances de la capacitación de responsables técnicos será determinada por la Secretaría en colaboración de la Comisión Nacional de Áreas Naturales Protegidas, el Instituto Nacional de Ecología y la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
+**QUINTO.-** El contenido y alcances de la capacitación de responsables técnicos será determinada por la Secretaría en colaboración de la Comisión Nacional de Áreas Naturales Protegidas, el Instituto Nacional de Ecología y la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
 México, D.F., a 25 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Mariano Quihuis Fragoso, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
@@ -1534,8 +1589,8 @@ Se adicionan las fracciones X, XXVI y XLVII, recorriéndose las subsecuentes, al
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría deberá expedir las normas oficiales mexicanas correspondientes en un plazo de dieciocho meses siguientes contados a partir de la entrada en vigor de la presente Ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría deberá expedir las normas oficiales mexicanas correspondientes en un plazo de dieciocho meses siguientes contados a partir de la entrada en vigor de la presente Ley.
 México, D.F., a 3 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de noviembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman los artículos 27 y 78 y se adiciona un artículo 78 Bis a la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
@@ -1545,9 +1600,9 @@ Se reforman los artículos 27 y 78; y se adiciona un artículo 78 Bis a la Ley G
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal contará con un plazo de dieciocho meses para armonizar el Reglamento respectivo.
-**Tercero.** La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del artículo 78 Bis, en un plazo de dieciocho meses.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal contará con un plazo de dieciocho meses para armonizar el Reglamento respectivo.
+**Tercero.-** La Secretaría emitirá guías técnicas que establezcan los requerimientos mínimos necesarios para el manejo de cada especie en confinamiento de acuerdo a lo establecido en el último párrafo del artículo 78 Bis, en un plazo de dieciocho meses.
 México, D. F., a 21 de noviembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el primer párrafo del artículo 62 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 19 de marzo de 2014
@@ -1567,11 +1622,11 @@ Se reforma el segundo párrafo y se adiciona un último párrafo al artículo 78
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los circos presentarán a la Secretaría de Medio Ambiente y Recursos Naturales de forma inmediata una base de datos que incluya el número y características de los ejemplares de vida silvestre que posean. Estas bases de datos se pondrán a disposición de los zoológicos del país para que éstos estén en posibilidades de seleccionar a los ejemplares que sean susceptibles de ser integrados a sus colecciones.
+**Primero.-** El presente Decreto entrará en vigor a los ciento ochenta días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los circos presentarán a la Secretaría de Medio Ambiente y Recursos Naturales de forma inmediata una base de datos que incluya el número y características de los ejemplares de vida silvestre que posean. Estas bases de datos se pondrán a disposición de los zoológicos del país para que éstos estén en posibilidades de seleccionar a los ejemplares que sean susceptibles de ser integrados a sus colecciones.
 Los ejemplares de vida silvestre incluidos en las bases de datos a que hace referencia el párrafo anterior que no sean seleccionados por los zoológicos, podrán ser entregados por sus poseedores a los Centros para la Conservación e Investigación de la Vida Silvestre pertenecientes a la Secretaría de Medio Ambiente y Recursos Naturales con el objeto de que no impliquen gasto por concepto de manutención de animales que ya no podrán ser utilizados en sus centros de trabajo.
-**Tercero.** Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
-**Cuarto.** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+**Tercero.-** Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
+**Cuarto.-** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 México, D.F., a 11 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona un párrafo al artículo 60 Bis de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 26 de enero de 2015
@@ -1581,7 +1636,7 @@ Se adiciona un párrafo cuarto y se recorre el subsecuente al artículo 60 Bis d
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 9 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Laura Barrera Fortoul, Secretaria.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona un segundo párrafo al artículo 60 Bis 1 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016
@@ -1611,7 +1666,7 @@ Se reforman las fracciones I y II, el segundo párrafo y se adiciona una fracci�
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de noviembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip.
 Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip.
 Isaura Ivanova Pool Pech, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
@@ -1620,7 +1675,7 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Cuarto
 Se reforman los artículos 6o.; 7o., primer párrafo y fracción III; 8o.; 9o., párrafo cuarto; 10, primer párrafo y fracciones VI, VIII, IX y X; 11, primer párrafo, fracción VIII y el párrafo
-**tercero.** ; 13; 16, párrafo tercero; 29 y 89, párrafo quinto de la Ley General de Vida Silvestre, para quedar como sigue: ……….
+**tercero.-** ; 13; 16, párrafo tercero; 29 y 89, párrafo quinto de la Ley General de Vida Silvestre, para quedar como sigue: ……….
 
 ## Transitorio
 
@@ -1635,45 +1690,45 @@ Se reforma la fracción I del artículo 38 de la Ley General de Vida Silvestre, 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 47 Bis 4; 60 Bis; 122 y 127 de la Ley General de Vida Silvestre.
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Único
 Se reforman el párrafo primero y la fracción III del artículo 47 Bis 4; el artículo 60 Bis; la fracción XVII del artículo 122; la fracción III del artículo 127, y se adicionan la fracción VIII al párrafo
-**primero.** del artículo 47 Bis 4 y, la fracción XXV al artículo 122, de la Ley General de Vida Silvestre, para quedar como sigue: …….
+**primero.-** del artículo 47 Bis 4 y, la fracción XXV al artículo 122, de la Ley General de Vida Silvestre, para quedar como sigue: …….
 
 ## Transitorios
 
@@ -1703,7 +1758,7 @@ i) Tratándose de ejemplares nacidos bajo cuidado profesional, fecha de nacimien
 j) Para el caso de ejemplares de especies pertenecientes al grupo de los cetáceos deben incluir fotografías de aletas pectorales, dorsal y caudal, así como de cualquier otra marca de identificación visible.
 **Tercero.-** El control de la reproducción de mamíferos marinos debe llevarse a cabo aplicando la mejor metodología para cada especie, ejemplar e instalación, asegurando el trato digno y respetuoso. Al acontecer un nacimiento por caso fortuito, los propietarios o poseedores de los ejemplares reproductores financiarán la manutención y cuidados, los cuales no pueden ser objeto de lucro directo o indirecto, y deben notificar a la Secretaría para que determine si las medidas para evitar la reproducción fueron aplicadas y, en su caso, establecer el manejo de la madre y la cría, incluida su reubicación y custodia de acuerdo con lo dispuesto en el artículo 60 Bis.
 **Cuarto.-** Los propietarios y poseedores de cetáceos bajo cuidado profesional cuentan con un plazo máximo de dieciocho meses posteriores a la presentación del inventario a que se refiere el Transitorio
-**Segundo.** de este Decreto para reubicar a los ejemplares en corrales marinos o en alguno de los supuestos establecidos en el artículo 60 Bis de esta Ley, de conformidad con los protocolos de traslado que emita la Secretaría de Medio Ambiente y Recursos Naturales.
+**Segundo.-** de este Decreto para reubicar a los ejemplares en corrales marinos o en alguno de los supuestos establecidos en el artículo 60 Bis de esta Ley, de conformidad con los protocolos de traslado que emita la Secretaría de Medio Ambiente y Recursos Naturales.
 **Quinto.-** Para el caso de las especies pertenecientes al grupo de los cetáceos reportados en el inventario a que hace referencia el Transitorio Segundo del presente Decreto, únicamente se permiten actividades en las que el contacto físico entre humanos y ejemplares esté limitado a las conductas de nado libre, interacciones supervisadas por un entrenador, técnico, manejador o asistente, sin tocar los ojos, espiráculo y genitales. Queda prohibida la monta de ejemplares, nadar sujetos de las aletas, empujar con los pies a los participantes o cualquier otra actividad que comprometa su integridad, asegurando en todo momento el trato digno y respetuoso.
 **Sexto.-** Los propietarios y poseedores de mamíferos marinos que cuenten con autorización previa a la entrada en vigor del presente Decreto y consideren que alguno de sus ejemplares puede ser candidato para su liberación, deberán notificarlo a la Secretaría, conforme a lo establecido en la presente Ley, a fin de que, en su caso, se realice la evaluación y se aplique la metodología correspondiente.
 Silvestre dentro de los 180 días naturales siguientes de la entrada en vigor del presente Decreto.

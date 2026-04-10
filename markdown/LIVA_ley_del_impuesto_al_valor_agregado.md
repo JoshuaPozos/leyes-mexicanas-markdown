@@ -11,14 +11,18 @@ CAPITULO I Disposiciones generales
 
 ### Artículo 1o
 .- Están obligadas al pago del impuesto al valor agregado establecido en esta Ley, las personas físicas y las morales que, en territorio nacional, realicen los actos o actividades siguientes:
-Párrafo reformado DOF 30-12-1980 I.- Enajenen bienes.
+Párrafo reformado DOF 30-12-1980
+I.- Enajenen bienes.
 II.- Presten servicios independientes.
 III.- Otorguen el uso o goce temporal de bienes.
 IV.- Importen bienes o servicios.
 El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 16%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
-Párrafo reformado DOF 31-12-1982, 21-11-1991, 27-03-1995, 07-12-2009 El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley, inclusive cuando se retenga en los términos de los artículos 1o.-A, 3o., tercer párrafo o 18-J, fracción II, inciso a) de la misma.
-Párrafo reformado DOF 31-12-1998, 09-12-2019 El contribuyente pagará en las oficinas autorizadas la diferencia entre el impuesto a su cargo y el que le hubieran trasladado o el que él hubiese pagado en la importación de bienes o servicios, siempre que sean acreditables en los términos de esta Ley. En su caso, el contribuyente disminuirá del impuesto a su cargo, el impuesto que se le hubiere retenido.
-Párrafo reformado DOF 31-12-1998 El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
+Párrafo reformado DOF 31-12-1982, 21-11-1991, 27-03-1995, 07-12-2009
+El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley, inclusive cuando se retenga en los términos de los artículos 1o.-A, 3o., tercer párrafo o 18-J, fracción II, inciso a) de la misma.
+Párrafo reformado DOF 31-12-1998, 09-12-2019
+El contribuyente pagará en las oficinas autorizadas la diferencia entre el impuesto a su cargo y el que le hubieran trasladado o el que él hubiese pagado en la importación de bienes o servicios, siempre que sean acreditables en los términos de esta Ley. En su caso, el contribuyente disminuirá del impuesto a su cargo, el impuesto que se le hubiere retenido.
+Párrafo reformado DOF 31-12-1998
+El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
 ### Artículo 1o
 .-A.- Están obligados a efectuar la retención del impuesto que se les traslade, los contribuyentes que se ubiquen en alguno de los siguientes supuestos:
@@ -45,7 +49,8 @@ Fracción adicionada DOF 30-12-2002. Reformada DOF 01-12-2004, 07-06-2005. Derog
 Derogada DOF 23-04-2021 No efectuarán la retención a que se refiere este artículo las personas físicas o morales que estén obligadas al pago del impuesto exclusivamente por la importación de bienes.
 Quienes efectúen la retención a que se refiere este artículo sustituirán al enajenante, prestador de servicio u otorgante del uso o goce temporal de bienes en la obligación de pago y entero del impuesto.
 El retenedor efectuará la retención del impuesto en el momento en el que pague el precio o la contraprestación y sobre el monto de lo efectivamente pagado y lo enterará mediante declaración en las oficinas autorizadas, conjuntamente con el pago del impuesto correspondiente al mes en el cual se efectúe la retención o, en su defecto, a más tardar el día 17 del mes siguiente a aquél en el que hubiese efectuado la retención, sin que contra el entero de la retención pueda realizarse acreditamiento, compensación o disminución alguna.
-Párrafo reformado DOF 30-12-2002, 11-12-2013 El Ejecutivo Federal, en el reglamento de esta ley, podrá autorizar una retención menor al total del impuesto causado, tomando en consideración las características del sector o de la cadena productiva de que se trate, el control del cumplimiento de obligaciones fiscales, así como la necesidad demostrada de recuperar con mayor oportunidad el impuesto acreditable.
+Párrafo reformado DOF 30-12-2002, 11-12-2013
+El Ejecutivo Federal, en el reglamento de esta ley, podrá autorizar una retención menor al total del impuesto causado, tomando en consideración las características del sector o de la cadena productiva de que se trate, el control del cumplimiento de obligaciones fiscales, así como la necesidad demostrada de recuperar con mayor oportunidad el impuesto acreditable.
 Artículo adicionado DOF 31-12-1998
 
 ### Artículo 1o
@@ -75,10 +80,12 @@ IV. Cuando los adquirentes cobren los documentos pendientes de cobro, ya sea en 
 Fracción reformada DOF 07-12-2009, 11-12-2013
 
 V. Cuando hayan transcurrido seis meses a partir de la fecha de exigibilidad del pago de los documentos pendientes de cobro, sin que las cantidades reflejadas en dichos documentos se hayan cobrado por los adquirentes o un tercero directamente al deudor original y no sean exigibles al cedente de los documentos pendientes de cobro, este último considerará causado el impuesto al valor agregado a su cargo, en el primer día del mes siguiente posterior al periodo a que se refiere este párrafo, el cual se calculará dividiendo el monto pagado por el adquirente en la adquisición del documento, sin descontar de dicho valor el monto correspondiente al cargo financiero cobrado por el adquirente, entre 1.16. El resultado obtenido se restará del monto pagado por el adquirente en la adquisición de los citados documentos, sin descontar de dicho valor el monto correspondiente al cargo financiero, y la diferencia será el impuesto al valor agregado a cargo del contribuyente que cedió los documentos pendientes de cobro.
-Párrafo reformado DOF 07-12-2009, 11-12-2013 Cuando el adquirente haya efectuado algún cobro parcial a cuenta de la contraprestación total consignada en los documentos pendientes de cobro, el cedente de los documentos mencionados podrá disminuir del impuesto al valor agregado determinado a su cargo conforme al párrafo anterior, el impuesto al valor agregado que haya sido previamente determinado por dicho cobro parcial, conforme a lo señalado en la fracción IV anterior.
+Párrafo reformado DOF 07-12-2009, 11-12-2013
+Cuando el adquirente haya efectuado algún cobro parcial a cuenta de la contraprestación total consignada en los documentos pendientes de cobro, el cedente de los documentos mencionados podrá disminuir del impuesto al valor agregado determinado a su cargo conforme al párrafo anterior, el impuesto al valor agregado que haya sido previamente determinado por dicho cobro parcial, conforme a lo señalado en la fracción IV anterior.
 
 VI. Tratándose de recuperaciones posteriores al sexto mes de la fecha de exigibilidad del pago de los documentos pendientes de cobro a que se refiere la fracción V anterior, de cantidades cuyo monto adicionado de las que se hubieran cobrado con anterioridad correspondientes al mismo documento sea mayor a la suma de las cantidades recibidas por el cedente como pago por la enajenación de los documentos pendientes de cobro, sin descontar el cargo financiero, e incluyendo los anticipos que, en su caso, haya recibido, el adquirente deberá reportar dichas recuperaciones en el estado de cuenta del mes en el que las cobre. El contribuyente calculará el impuesto al valor agregado a su cargo por el total de la cantidad cobrada por el adquirente, dividiendo el valor del cobro efectuado entre 1.16. El resultado obtenido se restará del monto total cobrado y la diferencia será el impuesto al valor agregado a cargo del cedente.
-Párrafo reformado DOF 07-12-2009, 11-12-2013 El impuesto a cargo del contribuyente determinado de conformidad con el párrafo anterior, se disminuirá con el impuesto a cargo que previamente se haya determinado de conformidad con lo establecido en la fracción V de este artículo.
+Párrafo reformado DOF 07-12-2009, 11-12-2013
+El impuesto a cargo del contribuyente determinado de conformidad con el párrafo anterior, se disminuirá con el impuesto a cargo que previamente se haya determinado de conformidad con lo establecido en la fracción V de este artículo.
 Cuando los adquirentes omitan proporcionar al cedente los estados de cuenta correspondientes a los cobros a que se refiere esta fracción, serán responsables sustitutos respecto del pago del impuesto correspondiente a la recuperación adicional, cuando dicha omisión sea descubierta por las autoridades fiscales.
 
 VII. Cuando los adquirentes enajenen a un tercero los documentos pendientes de cobro, serán responsables de obtener por parte del tercero la información relativa a las cantidades que se cobren por los documentos que hubieran sido enajenados, así como las fechas en las que se efectúen los referidos cobros, con el objeto de incluir dicha información en los estados de cuenta a que se hace referencia en la fracción III que antecede.
@@ -96,31 +103,51 @@ Artículo derogado DOF 21-11-1991. Adicionado DOF 27-03-1995. Reformado DOF 30-1
 I.- La enajenación de:
 
 a) Animales y vegetales que no estén industrializados, salvo el hule, perros, gatos y pequeñas especies, utilizadas como mascotas en el hogar.
-Párrafo reformado DOF 11-12-2013 Para estos efectos, se considera que la madera en trozo o descortezada no está industrializada.
-Párrafo adicionado DOF 30-12-2002 Inciso reformado DOF 21-11-1991
+Párrafo reformado DOF 11-12-2013
+Para estos efectos, se considera que la madera en trozo o descortezada no está industrializada.
+Párrafo adicionado DOF 30-12-2002
+Inciso reformado DOF 21-11-1991
 
 b) Medicinas de patente y productos destinados a la alimentación humana y animal, a excepción de:
-Párrafo reformado DOF 12-11-2021 1. Bebidas distintas de la leche, inclusive cuando las mismas tengan la naturaleza de alimentos. Quedan comprendidos en este numeral los jugos, los néctares y los concentrados de frutas o de verduras, cualquiera que sea su presentación, densidad o el peso del contenido de estas materias. 2. Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos. 3. Caviar, salmón ahumado y angulas. 4. Saborizantes, microencapsulados y aditivos alimenticios.
-Numeral adicionado DOF 31-12-1999 5. Chicles o gomas de mascar.
-Numeral adicionado DOF 11-12-2013 6. Alimentos procesados para perros, gatos y pequeñas especies, utilizadas como mascotas en el hogar.
-Numeral adicionado DOF 11-12-2013 Inciso reformado DOF 31-12-1982, 15-12-1995 c).- Hielo y agua no gaseosa ni compuesta, excepto cuando en este último caso, su presentación sea en envases menores de diez litros.
-Inciso reformado DOF 21-11-1991 d).- Ixtle, palma y lechuguilla. e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga, así como llantas para dichos tractores; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agricola; sembradoras; ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
-Párrafo reformado DOF 28-12-1994 A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se les aplicara la tasa señalada en este artículo, sólo que se enajenen completos. f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería. g).- Invernaderos hiropónicos y equipos integrados a ellos para producir temperatura y humedad controladas o para proteger los cultivos de elementos naturales, así como equipos de irrigación.
-Inciso adicionado DOF 28-12-1994 h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, cuyo contenido mínimo de dicho material sea del 80%, siempre que su enajenación no se efectúe en ventas al menudeo con el público en general.
-Inciso adicionado DOF 28-12-1994 i).- Libros, periódicos y revistas, que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
+Párrafo reformado DOF 12-11-2021
+1. Bebidas distintas de la leche, inclusive cuando las mismas tengan la naturaleza de alimentos. Quedan comprendidos en este numeral los jugos, los néctares y los concentrados de frutas o de verduras, cualquiera que sea su presentación, densidad o el peso del contenido de estas materias. 2. Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos. 3. Caviar, salmón ahumado y angulas. 4. Saborizantes, microencapsulados y aditivos alimenticios.
+Numeral adicionado DOF 31-12-1999
+5. Chicles o gomas de mascar.
+Numeral adicionado DOF 11-12-2013
+6. Alimentos procesados para perros, gatos y pequeñas especies, utilizadas como mascotas en el hogar.
+Numeral adicionado DOF 11-12-2013
+Inciso reformado DOF 31-12-1982, 15-12-1995
+c).- Hielo y agua no gaseosa ni compuesta, excepto cuando en este último caso, su presentación sea en envases menores de diez litros.
+Inciso reformado DOF 21-11-1991
+d).- Ixtle, palma y lechuguilla. e).- Tractores para accionar implementos agrícolas, a excepción de los de oruga, así como llantas para dichos tractores; motocultores para superficies reducidas; arados; rastras para desterronar la tierra arada; cultivadoras para esparcir y desyerbar; cosechadoras; aspersoras y espolvoreadoras para rociar o esparcir fertilizantes, plaguicidas, herbicidas y fungicidas; equipo mecánico, eléctrico o hidráulico para riego agricola; sembradoras; ensiladoras, cortadoras y empacadoras de forraje; desgranadoras; abonadoras y fertilizadoras de terrenos de cultivo; aviones fumigadores; motosierras manuales de cadena, así como embarcaciones para pesca comercial, siempre que se reúnan los requisitos y condiciones que señale el Reglamento.
+Párrafo reformado DOF 28-12-1994
+A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se les aplicara la tasa señalada en este artículo, sólo que se enajenen completos. f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería. g).- Invernaderos hiropónicos y equipos integrados a ellos para producir temperatura y humedad controladas o para proteger los cultivos de elementos naturales, así como equipos de irrigación.
+Inciso adicionado DOF 28-12-1994
+h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, cuyo contenido mínimo de dicho material sea del 80%, siempre que su enajenación no se efectúe en ventas al menudeo con el público en general.
+Inciso adicionado DOF 28-12-1994
+i).- Libros, periódicos y revistas, que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
 Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
 Inciso adicionado DOF 30-12-2002. Reformado DOF 31-12-2003
 
 j) Toallas sanitarias, tampones y copas, para la gestión menstrual.
-Inciso adicionado DOF 12-11-2021 Se aplicará la tasa del 16% a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos, cuando sean para llevar o para entrega a domicilio.
-Párrafo reformado DOF 31-12-1982, 26-12-1990, 21-11-1991, 30-12-2002, 01-10-2007, 07-12-2009, 11-12-2013 II.- La prestación de servicios independientes: a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de agua para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; erradicación de plagas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
-Inciso reformado DOF 28-12-1994 b).- Los de molienda o trituración de maíz o de trigo. c).- Los de pasteurización de leche. d).- Los prestados en invernaderos hidropónicos.
-Inciso adicionado DOF 28-12-1994 e).- Los de despepite de algodón en rama.
-Inciso adicionado DOF 28-12-1994 f).- Los de sacrificio de ganado y aves de corral.
-Inciso adicionado DOF 28-12-1994 g).- Los de reaseguro.
-Inciso adicionado DOF 28-12-1994 h).- Los de suministro de agua para uso doméstico.
-Inciso adicionado DOF 30-12-2002 III.- El uso o goce temporal de la maquinaria y equipo a que se refieren los incisos e) y g) de la fracción I de este artículo.
-Fracción reformada DOF 28-12-1994 IV.- La exportación de bienes o servicios, en los términos del artículo 29 de esta Ley.
+Inciso adicionado DOF 12-11-2021
+Se aplicará la tasa del 16% a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos, cuando sean para llevar o para entrega a domicilio.
+Párrafo reformado DOF 31-12-1982, 26-12-1990, 21-11-1991, 30-12-2002, 01-10-2007, 07-12-2009, 11-12-2013
+II.- La prestación de servicios independientes: a).- Los prestados directamente a los agricultores y ganaderos, siempre que sean destinados para actividades agropecuarias, por concepto de perforaciones de pozos, alumbramiento y formación de retenes de agua; suministro de energía eléctrica para usos agrícolas aplicados al bombeo de agua para riego; desmontes y caminos en el interior de las fincas agropecuarias; preparación de terrenos; riego y fumigación agrícolas; erradicación de plagas; cosecha y recolección; vacunación, desinfección e inseminación de ganado, así como los de captura y extracción de especies marinas y de agua dulce.
+Inciso reformado DOF 28-12-1994
+b).- Los de molienda o trituración de maíz o de trigo. c).- Los de pasteurización de leche. d).- Los prestados en invernaderos hidropónicos.
+Inciso adicionado DOF 28-12-1994
+e).- Los de despepite de algodón en rama.
+Inciso adicionado DOF 28-12-1994
+f).- Los de sacrificio de ganado y aves de corral.
+Inciso adicionado DOF 28-12-1994
+g).- Los de reaseguro.
+Inciso adicionado DOF 28-12-1994
+h).- Los de suministro de agua para uso doméstico.
+Inciso adicionado DOF 30-12-2002
+III.- El uso o goce temporal de la maquinaria y equipo a que se refieren los incisos e) y g) de la fracción I de este artículo.
+Fracción reformada DOF 28-12-1994
+IV.- La exportación de bienes o servicios, en los términos del artículo 29 de esta Ley.
 Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
 Artículo adicionado DOF 30-12-1980
 
@@ -130,7 +157,8 @@ Artículo adicionado DOF 31-12-1982. Reformado DOF 26-12-1990, 21-11-1991, 20-07
 
 ### Artículo 2o
 .-C. (Se deroga).
-Artículo adicionado DOF 31-12-1982. Reformado DOF 21-11-1991, 29-12-1997. Cantidades actualizadas DOF 12-02-2002, 05-07-2002, 20-01-2003. Reformado DOF 31-12-2003, 01-12-2004, 23-12-2005. Derogado DOF 11-12-2013
+Artículo adicionado DOF 31-12-1982. Reformado DOF 21-11-1991, 29-12-1997. Cantidades actualizadas DOF 12-02-2002, 05-07-2002,
+20-01-2003. Reformado DOF 31-12-2003, 01-12-2004, 23-12-2005. Derogado DOF 11-12-2013
 
 ### Artículo 2o
 .-D.- (Se deroga).
@@ -140,16 +168,19 @@ Artículo adicionado DOF 26-12-1990. Derogado DOF 21-11-1991
 .- La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos o aprovechamientos, y sólo podrán acreditar el impuesto al valor agregado que les haya sido trasladado en las erogaciones o el pagado en la importación, que se identifique exclusivamente con las actividades por las que estén obligados al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%.
 Para el acreditamiento de referencia se deberán cumplir con los requisitos previstos en esta Ley.
-Párrafo reformado DOF 31-12-1982, 28-12-1989, 21-11-1991, 28-12-1994, 27-03-1995, 30-12-2002, 01-12-2004, 07-06-2005 La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente en el país en el supuesto previsto en la fracción III del mismo artículo. También se efectuará la retención en los términos del artículo 1o.-A de esta Ley, en los casos en los que la Federación y sus organismos descentralizados reciban servicios de autotransporte terrestre de bienes prestados por personas morales.
+Párrafo reformado DOF 31-12-1982, 28-12-1989, 21-11-1991, 28-12-1994, 27-03-1995, 30-12-2002, 01-12-2004, 07-06-2005
+La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente en el país en el supuesto previsto en la fracción III del mismo artículo. También se efectuará la retención en los términos del artículo 1o.-A de esta Ley, en los casos en los que la Federación y sus organismos descentralizados reciban servicios de autotransporte terrestre de bienes prestados por personas morales.
 Los Estados, el Distrito Federal y los Municipios, así como sus organismos descentralizados no efectuarán la retención a que se refiere este párrafo.
-Párrafo adicionado DOF 31-12-1998. Reformado DOF 31-12-1999, 30-12-2002 Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
+Párrafo adicionado DOF 31-12-1998. Reformado DOF 31-12-1999, 30-12-2002
+Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
 Párrafo adicionado DOF 30-12-1980
 
 ### Artículo 4o
 .- El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley la tasa que corresponda según sea el caso.
 Para los efectos del párrafo anterior, se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate.
 El impuesto que se traslade por los servicios a que se refiere el artículo 15-D, primer y segundo párrafos del Código Fiscal de la Federación, no será acreditable en los términos de la presente Ley.
-Párrafo adicionado DOF 23-04-2021 El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
+Párrafo adicionado DOF 23-04-2021
+El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
 Artículo reformado DOF 31-12-1979, 30-12-1980, 31-12-1982, 31-12-1999, 31-12-2000, 30-12-2002, 01-12-2004, 07-06-2005
 
 ### Artículo 4o
@@ -160,7 +191,8 @@ Derogado DOF 07-06-2005. Adicionado DOF 12-11-2021
 
 ### Artículo 4o
 .-B. (Se deroga).
-Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-2000. Derogado DOF 30-12-2002. Adicionado DOF 01-12-2004. Derogado DOF 07-06-2005
+Artículo adicionado DOF 29-12-1997. Reformado DOF 31-12-2000. Derogado DOF 30-12-2002. Adicionado DOF 01-12-2004. Derogado
+DOF 07-06-2005
 
 ### Artículo 4o
 .-C. (Se deroga).
@@ -171,11 +203,14 @@ Artículo adicionado DOF 01-12-2004. Derogado DOF 07-06-2005
 
 I. Que el impuesto al valor agregado corresponda a bienes, servicios o al uso o goce temporal de bienes, estrictamente indispensables para la realización de actividades distintas de la importación, por las que se deba pagar el impuesto establecido en esta Ley o a las que se les aplique la tasa de 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto.
 Tratándose de erogaciones parcialmente deducibles para los fines del impuesto sobre la renta, únicamente se considerará para los efectos del acreditamiento a que se refiere esta Ley, el monto equivalente al impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto al valor agregado que haya pagado con motivo de la importación, en la proporción en la que dichas erogaciones sean deducibles para los fines del impuesto sobre la renta.
-Párrafo reformado DOF 11-12-2013 Reforma DOF 30-11-2016: Derogó de la fracción el entonces párrafo segundo
+Párrafo reformado DOF 11-12-2013
+Reforma DOF 30-11-2016: Derogó de la fracción el entonces párrafo segundo
 
 II. Que el impuesto al valor agregado haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de importación de mercancías, el pedimento deberá estar a nombre del contribuyente y constar en éste el pago del impuesto al valor agregado correspondiente;
-Párrafo reformado DOF 12-11-2021 Adicionalmente a lo señalado en el párrafo anterior, cuando se trate de servicios especializados o de la ejecución de obras especializadas a que se refiere el artículo 15-D, tercer párrafo del Código Fiscal de la Federación, cuando se efectúe el pago de la contraprestación por el servicio recibido, el contratante deberá verificar que el contratista cuente con el registro a que se refiere el artículo 15 de la Ley Federal del Trabajo, asimismo, deberá obtener del contratista copia de la declaración del impuesto al valor agregado y del acuse de recibo del pago correspondiente al periodo en que el contratante efectuó el pago de la contraprestación y del impuesto al valor agregado que le fue trasladado. A su vez, el contratista estará obligado a proporcionar al contratante copia de la documentación mencionada, la cual deberá entregarse a más tardar el último día del mes siguiente a aquél en el que el contratante haya efectuado el pago de la contraprestación por el servicio recibido y el impuesto al valor agregado que se le haya trasladado. El contratante, en caso de que no recabe la documentación a que se refiere esta fracción en el plazo señalado, deberá presentar declaración complementaria en la cual disminuya los montos que hubiera acreditado por dicho concepto.
-Párrafo adicionado DOF 23-04-2021 Fracción reformada DOF 11-12-2013, 30-11-2016, 09-12-2019
+Párrafo reformado DOF 12-11-2021
+Adicionalmente a lo señalado en el párrafo anterior, cuando se trate de servicios especializados o de la ejecución de obras especializadas a que se refiere el artículo 15-D, tercer párrafo del Código Fiscal de la Federación, cuando se efectúe el pago de la contraprestación por el servicio recibido, el contratante deberá verificar que el contratista cuente con el registro a que se refiere el artículo 15 de la Ley Federal del Trabajo, asimismo, deberá obtener del contratista copia de la declaración del impuesto al valor agregado y del acuse de recibo del pago correspondiente al periodo en que el contratante efectuó el pago de la contraprestación y del impuesto al valor agregado que le fue trasladado. A su vez, el contratista estará obligado a proporcionar al contratante copia de la documentación mencionada, la cual deberá entregarse a más tardar el último día del mes siguiente a aquél en el que el contratante haya efectuado el pago de la contraprestación por el servicio recibido y el impuesto al valor agregado que se le haya trasladado. El contratante, en caso de que no recabe la documentación a que se refiere esta fracción en el plazo señalado, deberá presentar declaración complementaria en la cual disminuya los montos que hubiera acreditado por dicho concepto.
+Párrafo adicionado DOF 23-04-2021
+Fracción reformada DOF 11-12-2013, 30-11-2016, 09-12-2019
 
 III. Que el impuesto al valor agregado trasladado al contribuyente haya sido efectivamente pagado en el mes de que se trate;
 
@@ -189,10 +224,15 @@ a) Cuando el impuesto al valor agregado trasladado o pagado en la importación, 
 b) Cuando el impuesto al valor agregado trasladado o pagado en la importación corresponda a erogaciones por la adquisición de bienes distintos a las inversiones a que se refiere el inciso d) de esta fracción, por la adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar las actividades por las que no se deba pagar el impuesto al valor agregado, incluyendo aquéllas a que se refiere el artículo 4o.-A de esta Ley, dicho impuesto no será acreditable;
 Inciso reformado DOF 12-11-2021
 
-c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto al valor agregado, para realizar actividades a las que conforme esta Ley les sea aplicable la tasa de 0%, para realizar las actividades por las que no se deba pagar el impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o a las que se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, y Inciso reformado DOF 12-11-2021 impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, o a las que se les aplique la tasa de 0%, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para tales efectos se procederá en la forma siguiente:
-Párrafo reformado DOF 12-11-2021 1. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente esté obligado al pago del impuesto al valor agregado o a las que les sea aplicable la tasa de 0%, el impuesto al valor agregado que haya sido trasladado al contribuyente o el pagado en su importación, será acreditable en su totalidad en el mes de que se trate. 2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación no será acreditable.
-Numeral reformado DOF 12-11-2021 3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, así como para actividades por las que no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado trasladado al contribuyente o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, que el contribuyente realice en el mes de que se trate debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 5o.-A de esta Ley.
-Párrafo reformado DOF 12-11-2021 Los contribuyentes que efectúen el acreditamiento en los términos previstos en el párrafo anterior, deberán aplicarlo a todas las inversiones que adquieran o importen en un período de cuando menos sesenta meses contados a partir del mes en el que se haya realizado el acreditamiento de que se trate.
+c) Cuando el contribuyente utilice indistintamente bienes diferentes a las inversiones a que se refiere el inciso d) de esta fracción, servicios o el uso o goce temporal de bienes, para realizar las actividades por las que se deba pagar el impuesto al valor agregado, para realizar actividades a las que conforme esta Ley les sea aplicable la tasa de 0%, para realizar las actividades por las que no se deba pagar el impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el acreditamiento procederá únicamente en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o a las que se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente realice en el mes de que se trate, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, y
+Inciso reformado DOF 12-11-2021
+impuesto al valor agregado que le haya sido trasladado al contribuyente en su adquisición o el pagado en su importación será acreditable considerando el destino habitual que dichas inversiones tengan para realizar las actividades por las que se deba o no pagar el impuesto establecido en esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, o a las que se les aplique la tasa de 0%, debiendo efectuar el ajuste que proceda cuando se altere el destino mencionado. Para tales efectos se procederá en la forma siguiente:
+Párrafo reformado DOF 12-11-2021
+1. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente esté obligado al pago del impuesto al valor agregado o a las que les sea aplicable la tasa de 0%, el impuesto al valor agregado que haya sido trasladado al contribuyente o el pagado en su importación, será acreditable en su totalidad en el mes de que se trate. 2. Cuando se trate de inversiones que se destinen en forma exclusiva para realizar actividades por las que el contribuyente no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado que haya sido efectivamente trasladado al contribuyente o pagado en la importación no será acreditable.
+Numeral reformado DOF 12-11-2021
+3. Cuando el contribuyente utilice las inversiones indistintamente para realizar tanto actividades por las que se deba pagar el impuesto al valor agregado o les sea aplicable la tasa de 0%, así como para actividades por las que no esté obligado al pago del impuesto que establece esta Ley, incluyendo aquéllas a que se refiere el artículo 4o.-A de la misma, el impuesto al valor agregado trasladado al contribuyente o el pagado en la importación, será acreditable en la proporción en la que el valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, represente en el valor total de las actividades mencionadas, incluyendo los actos o actividades a que se refiere el artículo 4o.-A de esta Ley, que el contribuyente realice en el mes de que se trate debiendo, en su caso, aplicar el ajuste a que se refiere el artículo 5o.-A de esta Ley.
+Párrafo reformado DOF 12-11-2021
+Los contribuyentes que efectúen el acreditamiento en los términos previstos en el párrafo anterior, deberán aplicarlo a todas las inversiones que adquieran o importen en un período de cuando menos sesenta meses contados a partir del mes en el que se haya realizado el acreditamiento de que se trate.
 A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o.-B de esta Ley, no les será aplicable el procedimiento establecido en el primer párrafo de este numeral. 4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, se deberá aplicar el ajuste previsto en el artículo 5o.-A de esta Ley.
 
 VI. Tratándose de gastos e inversiones en periodos preoperativos el impuesto al valor agregado trasladado y el pagado en la importación que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, será acreditable en la proporción y en los términos establecidos en esta Ley, conforme a las opciones que a continuación se mencionan:
@@ -202,7 +242,8 @@ a) Realizar el acreditamiento en la declaración correspondiente al primer mes e
 b) Solicitar la devolución del impuesto que corresponda en el mes siguiente a aquél en el que se realicen los gastos e inversiones, conforme a la estimativa que se haga de la proporción en que se destinarán dichos gastos e inversiones a la realización de actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, respecto del total de actividades a realizar. En caso de que se ejerza esta opción, se deberá presentar a la autoridad fiscal, conjuntamente con la primera solicitud de devolución, lo siguiente: 1. La estimación y descripción de los gastos e inversiones que se realizarán en el periodo preoperativo, así como una descripción de las actividades que realizará el contribuyente. Para estos efectos, se deberán presentar, entre otros documentos, los títulos de propiedad, contratos, convenios, autorizaciones, licencias, permisos, avisos, registros, planos y licitaciones que, en su caso, sean necesarios para acreditar que se llevarán a cabo las actividades. 2. La estimación de la proporción que representará el valor de las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%, respecto del total de actividades a realizar. 3. Los mecanismos de financiamiento para realizar los gastos e inversiones. 4. La fecha estimada para realizar las actividades objeto de esta Ley, así como, en su caso, el prospecto o proyecto de inversión cuya ejecución dará lugar a la realización de las actividades por las que se vaya a estar obligado al pago del impuesto que establece esta Ley o a las que se vaya a aplicar la tasa de 0%.
 La información a que se refiere este inciso deberá presentarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 Cuando se ejerza cualquiera de las opciones a que se refieren los incisos a) o b) de esta fracción, el contribuyente deberá calcular en el decimosegundo mes, contado a partir del mes inmediato posterior a aquél en el que el contribuyente inició actividades, la proporción en la que el valor de las actividades por las que se pagó el impuesto al valor agregado o a las que se aplicó la tasa de 0%, represente en el valor total de las actividades mencionadas que el contribuyente haya realizado en los doce meses anteriores a dicho mes y compararla contra la proporción aplicada para acreditar el impuesto que le fue trasladado o el pagado en la importación en los gastos e inversiones realizados en el periodo preoperativo, conforme a los incisos a) o b) de esta fracción, según se trate. Para identificar el mes en el que se deberá efectuar el ajuste a que se refiere el presente párrafo, los contribuyentes deberán informar a la autoridad el mes en el que inicien sus actividades, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
-Párrafo reformado DOF 12-11-2021 Cuando de la comparación a que se refiere el párrafo anterior, la proporción aplicada para acreditar el impuesto correspondiente a los gastos o inversiones realizados en el periodo preoperativo se modifique en más del 3%, se deberá ajustar dicho acreditamiento en la forma siguiente: 1. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento efectuado en exceso, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el mes en el que se haga el reintegro. En este caso, el monto del acreditamiento en exceso será la cantidad que resulte de disminuir del monto del impuesto efectivamente acreditado en el mes de que se trate, la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en los gastos e inversiones en el citado mes. 2. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento realizado, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el doceavo mes, contado a partir del mes en el que se iniciaron las actividades.
+Párrafo reformado DOF 12-11-2021
+Cuando de la comparación a que se refiere el párrafo anterior, la proporción aplicada para acreditar el impuesto correspondiente a los gastos o inversiones realizados en el periodo preoperativo se modifique en más del 3%, se deberá ajustar dicho acreditamiento en la forma siguiente: 1. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento efectuado en exceso, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el mes en el que se haga el reintegro. En este caso, el monto del acreditamiento en exceso será la cantidad que resulte de disminuir del monto del impuesto efectivamente acreditado en el mes de que se trate, la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en los gastos e inversiones en el citado mes. 2. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento realizado, actualizado desde el mes en el que se realizó el acreditamiento o se obtuvo la devolución y hasta el doceavo mes, contado a partir del mes en el que se iniciaron las actividades.
 En este caso, el monto del acreditamiento a incrementar será la cantidad que resulte de disminuir de la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en los gastos e inversiones en el mes de que se trate, el monto del impuesto efectivamente acreditado en dicho mes.
 El reintegro o el incremento del acreditamiento, que corresponda de conformidad con los numerales 1 y 2, del párrafo anterior, según se trate, deberá realizarse en el mes en el que se calcule la proporción a que se refiere el párrafo segundo de esta fracción, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 Para los efectos de esta Ley, se entenderá como periodo preoperativo aquél en el que se realizan gastos e inversiones en forma previa al inicio de las actividades de enajenación de bienes, prestación de servicios independientes u otorgamiento del uso o goce temporal de bienes, a que se refiere el artículo 1o. de la presente Ley. Tratándose de industrias extractivas comprende la exploración para la localización y cuantificación de nuevos yacimientos susceptibles de explotarse.
@@ -210,7 +251,10 @@ Para los efectos de esta fracción, el periodo preoperativo tendrá una duració
 En el caso de que no se inicien las actividades gravadas por esta Ley una vez transcurrido el periodo preoperativo a que se refiere el párrafo anterior, se deberá reintegrar el monto de las devoluciones que se hayan obtenido, actualizado desde el mes en el que se obtuvo la devolución y hasta el mes en el que se efectúe dicho reintegro. Además, se causarán recargos en los términos del artículo 21 del Código Fiscal de la Federación sobre las cantidades actualizadas. Lo dispuesto en este párrafo se aplicará sin perjuicio del derecho del contribuyente a realizar el acreditamiento del impuesto trasladado o el pagado en la importación en el periodo preoperativo, cuando inicie las actividades por las que deba pagar el impuesto que establece esta Ley o a las que se aplique la tasa del 0%, conforme a lo establecido en el inciso a) de esta fracción.
 Tratándose de la industria extractiva no se aplicará lo dispuesto en el párrafo anterior cuando por causas ajenas a la empresa la extracción de los recursos asociados a los yacimientos no sea factible o cuando por circunstancias económicas no imputables a la empresa resulte incosteable la extracción de los recursos mencionados. Cuando la empresa deje de realizar las actividades previas a la extracción comercial regular de los recursos asociados a los yacimientos por causas diversas a las mencionadas, deberá reintegrar, en el mes inmediato posterior a aquél en que dejó de realizar las actividades mencionadas, el impuesto al valor agregado que le haya sido devuelto. El reintegro del impuesto deberá actualizarse desde el mes en que se obtuvo la devolución y hasta el mes en que realice el reintegro.
 Las actualizaciones a que se refiere esta fracción, deberán calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
-Fracción adicionada DOF 30-11-2016 Reforma DOF 11-12-2013: Derogó del artículo el entonces último párrafo (antes reformado por DOF 07-12-2009) Artículo reformado DOF 30-04-1986, 28-12-1989, 26-12-1990, 21-11-1991, 20-07-1992, 28-12-1994, 31-12-1998, 31-12-1999, 31-12-2000, 30-12-2002, 07-06-2005
+Fracción adicionada DOF 30-11-2016
+Reforma DOF 11-12-2013: Derogó del artículo el entonces último párrafo (antes reformado por DOF 07-12-2009)
+Artículo reformado DOF 30-04-1986, 28-12-1989, 26-12-1990, 21-11-1991, 20-07-1992, 28-12-1994, 31-12-1998, 31-12-1999, 31-12-2000,
+30-12-2002, 07-06-2005
 
 ### Artículo 5o
 .-A. Cuando el contribuyente haya efectuado el acreditamiento en los términos del artículo 5o., fracción V, inciso d), numeral 3 de esta Ley, y en los meses posteriores a aquél en el que se efectuó el acreditamiento de que se trate, se modifique en más de un 3% la proporción mencionada en dicha disposición, se deberá ajustar el acreditamiento en la forma siguiente:
@@ -251,9 +295,12 @@ Durante el año de calendario en el que los contribuyentes inicien las actividad
 I. Cuando disminuya la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente deberá reintegrar el acreditamiento efectuado en exceso, actualizado desde el mes en el que se realizó el acreditamiento y hasta el mes en el que se haga el reintegro. En este caso, el monto del acreditamiento en exceso será la cantidad que resulte de disminuir del monto del impuesto efectivamente acreditado en el mes de que se trate, la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en las inversiones realizadas en el citado mes.
 
 II. Cuando aumente la proporción del valor de las actividades por las que deba pagarse el impuesto al valor agregado o se aplique la tasa de 0%, respecto del valor de las actividades totales, el contribuyente podrá incrementar el acreditamiento realizado, actualizado desde el mes en el que se realizó el acreditamiento y hasta el doceavo mes, contado a partir del mes en el que se iniciaron las actividades. En este caso, el monto del acreditamiento a incrementar será la cantidad que resulte de disminuir de la cantidad que resulte de aplicar la proporción correspondiente al periodo de doce meses al monto del impuesto que le haya sido trasladado al contribuyente o el pagado en la importación en las inversiones en el mes de que se trate, el monto del impuesto efectivamente acreditado en dicho mes.
-Párrafo reformado DOF 30-11-2016 La actualización a que se refieren las fracciones I y II del párrafo anterior, deberá calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
-Párrafo adicionado DOF 30-11-2016 El reintegro o el incremento del acreditamiento, que corresponda de conformidad con las fracciones I y II del párrafo segundo de este artículo, según se trate, deberá realizarse en el mes en el que deba efectuarse el ajuste del acreditamiento a que se refiere dicho párrafo, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
-Párrafo adicionado DOF 30-11-2016 Los contribuyentes que ejerzan la opción prevista en este artículo deberán aplicarla respecto de todas las erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto al valor agregado o a las que se les aplique la tasa de 0%, en un período de sesenta meses, contados a partir del mes en el que se haya realizado el acreditamiento en los términos del presente artículo.
+Párrafo reformado DOF 30-11-2016
+La actualización a que se refieren las fracciones I y II del párrafo anterior, deberá calcularse aplicando el factor de actualización que se obtenga de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+Párrafo adicionado DOF 30-11-2016
+El reintegro o el incremento del acreditamiento, que corresponda de conformidad con las fracciones I y II del párrafo segundo de este artículo, según se trate, deberá realizarse en el mes en el que deba efectuarse el ajuste del acreditamiento a que se refiere dicho párrafo, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+Párrafo adicionado DOF 30-11-2016
+Los contribuyentes que ejerzan la opción prevista en este artículo deberán aplicarla respecto de todas las erogaciones por la adquisición de bienes, adquisición de servicios o por el uso o goce temporal de bienes, que se utilicen indistintamente para realizar las actividades por las que se deba o no pagar el impuesto al valor agregado o a las que se les aplique la tasa de 0%, en un período de sesenta meses, contados a partir del mes en el que se haya realizado el acreditamiento en los términos del presente artículo.
 A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto en el artículo 5o., fracción V, inciso d), numeral 3 de esta Ley, no les será aplicable el procedimiento establecido en este artículo.
 Artículo adicionado DOF 07-06-2005
 
@@ -280,12 +327,15 @@ VIII. Las enajenaciones de bienes adquiridos por dación en pago o adjudicación
 IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
 
 X. La enajenación de los certificados de participación inmobiliarios no amortizables a que se refiere el segundo párrafo de la fracción VII del artículo 9o. de esta Ley.
-Fracción adicionada DOF 23-12-2005 Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casas de cambio, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero y las sociedades para el depósito de valores, no deberán excluir los conceptos señalados en las fracciones IV, V, VI y IX que anteceden.
-Párrafo reformado DOF 11-12-2013 Artículo adicionado DOF 07-06-2005
+Fracción adicionada DOF 23-12-2005
+Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casas de cambio, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero y las sociedades para el depósito de valores, no deberán excluir los conceptos señalados en las fracciones IV, V, VI y IX que anteceden.
+Párrafo reformado DOF 11-12-2013
+Artículo adicionado DOF 07-06-2005
 
 ### Artículo 5o
 .-D. El impuesto se calculará por cada mes de calendario, salvo los casos señalados en los artículos 5o.-F y 33 de esta Ley.
-Párrafo reformado DOF 11-12-2013, 12-11-2021 Los contribuyentes efectuarán el pago del impuesto mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
+Párrafo reformado DOF 11-12-2013, 12-11-2021
+Los contribuyentes efectuarán el pago del impuesto mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 El pago mensual será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho mes.
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28 de este ordenamiento. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 Artículo adicionado DOF 07-06-2005
@@ -302,22 +352,33 @@ Artículo adicionado DOF 11-12-2013
 
 ### Artículo 6o
 .- Cuando en la declaración de pago resulte saldo a favor, el contribuyente únicamente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución. Cuando se solicite la devolución deberá ser sobre el total del saldo a favor.
-Párrafo reformado DOF 31-12-1986, 31-12-1988, 28-12-1989, 26-12-1990, 31-12-1999, 30-12-2002, 01-12-2004, 09-12-2019 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
-Párrafo reformado DOF 01-12-2004, 09-12-2019 Tratándose de los contribuyentes que proporcionen los servicios a que se refiere el inciso h) de la fracción II del artículo 2o.-A de esta Ley, cuando en su declaración mensual resulte saldo a favor, dicho saldo se pagará al contribuyente, el cual deberá destinarlo para invertirse en infraestructura hidráulica o al pago de los derechos establecidos en los artículos 222 y 276 de la Ley Federal de Derechos. El contribuyente, mediante aviso, demostrará ante el Servicio de Administración Tributaria la inversión realizada, o en su caso, el pago de los derechos realizado.
-Párrafo adicionado DOF 30-12-2002 Reforma DOF 30-12-2002: Derogó del artículo el entonces párrafo segundo Artículo reformado DOF 31-12-1979, 30-12-1980
+Párrafo reformado DOF 31-12-1986, 31-12-1988, 28-12-1989, 26-12-1990, 31-12-1999, 30-12-2002, 01-12-2004, 09-12-2019
+Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
+Párrafo reformado DOF 01-12-2004, 09-12-2019
+Tratándose de los contribuyentes que proporcionen los servicios a que se refiere el inciso h) de la fracción II del artículo 2o.-A de esta Ley, cuando en su declaración mensual resulte saldo a favor, dicho saldo se pagará al contribuyente, el cual deberá destinarlo para invertirse en infraestructura hidráulica o al pago de los derechos establecidos en los artículos 222 y 276 de la Ley Federal de Derechos. El contribuyente, mediante aviso, demostrará ante el Servicio de Administración Tributaria la inversión realizada, o en su caso, el pago de los derechos realizado.
+Párrafo adicionado DOF 30-12-2002
+Reforma DOF 30-12-2002: Derogó del artículo el entonces párrafo segundo
+Artículo reformado DOF 31-12-1979, 30-12-1980
 
 ### Artículo 7o
 .- El contribuyente que reciba la devolución de bienes enajenados, otorgue descuentos o bonificaciones o devuelva los anticipos o los depósitos recibidos, con motivo de la realización de actividades gravadas por esta Ley, deducirá en la siguiente o siguientes declaraciones de pago del mes de calendario que corresponda, el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se restituyó.
-Párrafo reformado DOF 30-12-2002 La restitución del impuesto correspondiente deberá hacerse constar en un documento que contenga en forma expresa y por separado la contraprestación y el impuesto al valor agregado trasladado que se hubiesen restituido, así como los datos de identificación del comprobante fiscal de la operación original.
-Párrafo adicionado DOF 11-12-2013 El contribuyente que devuelva los bienes que le hubieran sido enajenados, reciba descuentos o bonificaciones, así como los anticipos o depósitos que hubiera entregado, disminuirá el impuesto restituido del monto del impuesto acreditable en el mes en que se dé cualquiera de los supuestos mencionados; cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se restituya, el contribuyente pagará la diferencia entre dichos montos al presentar la declaración de pago que corresponda al mes en que reciba el descuento o la bonificación, efectúe la devolución de bienes o reciba los anticipos o depósitos que hubiera entregado.
-Párrafo reformado DOF 31-12-1999, 30-12-2002, 01-12-2004 Lo dispuesto en este artículo no será aplicable cuando por los actos que sean objeto de la devolución, descuento o bonificación, se hubiere efectuado la retención y entero en los términos de los artículos 1o.A, 3o., tercer párrafo o 18-J, fracción II, inciso a) de esta Ley. En este supuesto los contribuyentes deberán presentar declaración complementaria para cancelar los efectos de la operación respectiva, sin que las declaraciones complementarias presentadas exclusivamente por este concepto se computen dentro del límite establecido en el artículo 32 del Código Fiscal de la Federación.
-Párrafo adicionado DOF 31-12-1998. Reformado DOF 11-12-2013, 09-12-2019 Artículo reformado DOF 31-12-1979, 30-12-1980, 26-12-1990 CAPITULO II De la enajenación
+Párrafo reformado DOF 30-12-2002
+La restitución del impuesto correspondiente deberá hacerse constar en un documento que contenga en forma expresa y por separado la contraprestación y el impuesto al valor agregado trasladado que se hubiesen restituido, así como los datos de identificación del comprobante fiscal de la operación original.
+Párrafo adicionado DOF 11-12-2013
+El contribuyente que devuelva los bienes que le hubieran sido enajenados, reciba descuentos o bonificaciones, así como los anticipos o depósitos que hubiera entregado, disminuirá el impuesto restituido del monto del impuesto acreditable en el mes en que se dé cualquiera de los supuestos mencionados; cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se restituya, el contribuyente pagará la diferencia entre dichos montos al presentar la declaración de pago que corresponda al mes en que reciba el descuento o la bonificación, efectúe la devolución de bienes o reciba los anticipos o depósitos que hubiera entregado.
+Párrafo reformado DOF 31-12-1999, 30-12-2002, 01-12-2004
+Lo dispuesto en este artículo no será aplicable cuando por los actos que sean objeto de la devolución, descuento o bonificación, se hubiere efectuado la retención y entero en los términos de los artículos 1o.A, 3o., tercer párrafo o 18-J, fracción II, inciso a) de esta Ley. En este supuesto los contribuyentes deberán presentar declaración complementaria para cancelar los efectos de la operación respectiva, sin que las declaraciones complementarias presentadas exclusivamente por este concepto se computen dentro del límite establecido en el artículo 32 del Código Fiscal de la Federación.
+Párrafo adicionado DOF 31-12-1998. Reformado DOF 11-12-2013, 09-12-2019
+Artículo reformado DOF 31-12-1979, 30-12-1980, 26-12-1990
+CAPITULO II De la enajenación
 
 ### Artículo 8o
 .- Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de bienes en los inventarios de las empresas. En este último caso la presunción admite prueba en contrario.
 No se considerará enajenación, la transmisión de propiedad que se realice por causa de muerte, así como la donación, salvo que ésta la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
-Párrafo reformado DOF 26-12-1990, 21-11-1991 Cuando la transferencia de propiedad no llegue a efectuarse, se tendrá derecho a la devolución del impuesto al valor agregado correspondiente, siempre que se reúnan los requisitos establecidos en los párrafos primero y segundo del artículo 7o. de esta Ley. Cuando se hubiera retenido el impuesto en los términos de los artículos 1o.-A, 3o., tercer párrafo y 18-J, fracción II, inciso a) de esta Ley, no se tendrá derecho a la devolución del impuesto y se estará a lo dispuesto en el cuarto párrafo del citado artículo 7o. de esta Ley.
-Párrafo reformado DOF 31-12-1998, 09-12-2019 Artículo reformado DOF 31-12-1981
+Párrafo reformado DOF 26-12-1990, 21-11-1991
+Cuando la transferencia de propiedad no llegue a efectuarse, se tendrá derecho a la devolución del impuesto al valor agregado correspondiente, siempre que se reúnan los requisitos establecidos en los párrafos primero y segundo del artículo 7o. de esta Ley. Cuando se hubiera retenido el impuesto en los términos de los artículos 1o.-A, 3o., tercer párrafo y 18-J, fracción II, inciso a) de esta Ley, no se tendrá derecho a la devolución del impuesto y se estará a lo dispuesto en el cuarto párrafo del citado artículo 7o. de esta Ley.
+Párrafo reformado DOF 31-12-1998, 09-12-2019
+Artículo reformado DOF 31-12-1981
 
 ### Artículo 9o
 .- No se pagará el impuesto en la enajenación de los siguientes bienes:
@@ -330,24 +391,30 @@ VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata
 VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto y de certificados de participación inmobiliaria no amortizables u otros títulos que otorguen a su titular derechos sobre inmuebles distintos a casa habitación o suelo.
 En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
 Tampoco se pagará el impuesto en la enajenación de los certificados de participación inmobiliarios no amortizables, cuando se encuentren inscritos en el Registro Nacional de Valores e Intermediarios y su enajenación se realice en bolsa de valores concesionada en los internacionales que México tenga en vigor.
-Párrafo adicionado DOF 23-12-2005 Fracción reformada DOF 31-12-1998 VIII.- Lingotes de oro con un contenido mínimo de 99% de dicho material, siempre que su enajenación se efectúe en ventas al menudeo con el público en general.
+Párrafo adicionado DOF 23-12-2005
+Fracción reformada DOF 31-12-1998
+VIII.- Lingotes de oro con un contenido mínimo de 99% de dicho material, siempre que su enajenación se efectúe en ventas al menudeo con el público en general.
 Fracción reformada DOF 31-12-1982, 21-11-1991, 28-12-1994
 
 IX. La de bienes efectuada entre residentes en el extranjero, siempre que los bienes se hayan exportado o introducido al territorio nacional al amparo de un programa autorizado conforme al Decreto para el fomento de la industria manufacturera, maquiladora y de servicios de exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006 o de un régimen similar en los términos de la legislación aduanera o se trate de las empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte o de autopartes para su introducción a depósito fiscal, y los bienes se mantengan en el régimen de importación temporal, en un régimen similar de conformidad con la Ley Aduanera o en depósito fiscal.
 Fracción adicionada DOF 30-12-2002. Reformada DOF 11-12-2013
 
 X. La de bienes que realicen las personas morales autorizadas para recibir donativos deducibles para los efectos del impuesto sobre la renta.
-Fracción adicionada DOF 09-12-2019 Reforma DOF 11-12-2013: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 30-12-2002) Artículo reformado DOF 30-12-1980
+Fracción adicionada DOF 09-12-2019
+Reforma DOF 11-12-2013: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 30-12-2002)
+Artículo reformado DOF 30-12-1980
 
 ### Artículo 10
 .- Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío, en el país se realiza la entrega material del bien por el enajenante. La enajenación de bienes sujetos a matrícula o registros mexicanos, se considerará realizada en territorio nacional aún cuando al llevarse a cabo se encuentren materialmente fuera de dicho territorio y siempre que el enajenante sea residente en México o establecimiento en el país de residentes en el extranjero.
-Párrafo reformado DOF 26-12-1990 Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
+Párrafo reformado DOF 26-12-1990
+Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
 
 ### Artículo 11
 .- Se considera que se efectúa la enajenación de los bienes en el momento en el que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas.
 Tratándose de la enajenación de títulos que incorporen derechos reales a la entrega y disposición de bienes, se considerará que los bienes que amparan dichos títulos se enajenan en el momento en que se pague el precio por la transferencia del título; en el caso de no haber transferencia, cuando se entreguen materialmente los bienes que estos títulos amparen a una persona distinta de quien constituyó dichos títulos. Tratándose de certificados de participación inmobiliaria se considera que la enajenación de los bienes que ampare el certificado se realiza cuando éste se transfiera.
 En el caso de faltante de bienes en los inventarios de las empresas, se considera que se efectúa la enajenación en el momento en que el contribuyente o las autoridades fiscales conozcan dicho faltante, lo que ocurra primero; tratándose de donaciones por las que se deba pagar el impuesto, en el momento en que se haga la entrega del bien donado o se extienda el comprobante que transfiera la propiedad, lo que ocurra primero.
-Párrafo adicionado DOF 11-12-2013 Artículo reformado DOF 30-12-2002
+Párrafo adicionado DOF 11-12-2013
+Artículo reformado DOF 30-12-2002
 
 ### Artículo 12
 .- Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio o la contraprestación pactados, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
@@ -355,14 +422,16 @@ Artículo reformado DOF 31-12-1979, 30-12-2002
 
 ### Artículo 13
 .- (Se deroga).
-Artículo reformado DOF 31-12-1979. Derogado 30-12-1980. Adicionado 13-12-1996. Derogado DOF 31-12-1998 CAPITULO III De la prestación de servicios
+Artículo reformado DOF 31-12-1979. Derogado 30-12-1980. Adicionado 13-12-1996. Derogado DOF 31-12-1998
+CAPITULO III De la prestación de servicios
 
 ### Artículo 14
 .- Para los efectos de esta Ley se considera prestación de servicios independientes:
 I.- La prestación de obligaciones de hacer que realice una persona a favor de otra, cualquiera que sea el acto que le dé origen y el nombre o clasificación que a dicho acto le den otras leyes.
 II.- El transporte de personas o bienes.
 III.- El seguro, el afianzamiento y el reafianzamiento.
-Fracción reformada DOF 28-12-1994 IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
+Fracción reformada DOF 28-12-1994
+IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
 V.- La asistencia técnica y la transferencia de tecnología.
 VI.- Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada por esta Ley como enajenación o uso o goce temporal de bienes.
 No se considera prestación de servicios independientes la que se realiza de manera subordinada mediante el pago de una remuneración, ni los servicios por los que se perciban ingresos que la Ley del Impuesto sobre la Renta asimile a dicha remuneración.
@@ -372,28 +441,38 @@ Párrafo adicionado DOF 30-12-1983
 ### Artículo 15
 .- No se pagará el impuesto por la prestación de los siguientes servicios:
 I.- Las comisiones y otras contraprestaciones que cubra el acreditado a su acreedor con motivo del otorgamiento de créditos hipotecarios para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación, salvo aquéllas que se originen con posterioridad a la autorización del citado crédito o que se deban pagar a terceros por el acreditado.
-Fracción derogada DOF 31-12-1982. Adicionada DOF 28-12-1994 II.- Las comisiones que cobren las administradoras de fondos para el retiro o, en su caso, las instituciones de crédito, a los trabajadores por la administración de sus recursos provenientes de los sistemas de ahorro para el retiro y por los servicios relacionados con dicha administración, a que se refieren la Ley de los Sistemas de Ahorro para el Retiro y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como las demás disposiciones derivadas de éstas.
-Fracción derogada DOF 31-12-1982. Adicionada DOF 15-05-1997 III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
-Fracción reformada DOF 30-12-1980 IV.- Los de enseñanza que preste la Federación, el Distrito Federal, los Estados, los Municipios y sus organismos descentralizados, y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley General de Educación, así como los servicios educativos de nivel preescolar.
+Fracción derogada DOF 31-12-1982. Adicionada DOF 28-12-1994
+II.- Las comisiones que cobren las administradoras de fondos para el retiro o, en su caso, las instituciones de crédito, a los trabajadores por la administración de sus recursos provenientes de los sistemas de ahorro para el retiro y por los servicios relacionados con dicha administración, a que se refieren la Ley de los Sistemas de Ahorro para el Retiro y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como las demás disposiciones derivadas de éstas.
+Fracción derogada DOF 31-12-1982. Adicionada DOF 15-05-1997
+III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
+Fracción reformada DOF 30-12-1980
+IV.- Los de enseñanza que preste la Federación, el Distrito Federal, los Estados, los Municipios y sus organismos descentralizados, y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley General de Educación, así como los servicios educativos de nivel preescolar.
 Fracción reformada DOF 28-12-1994
 
 V. El transporte público terrestre de personas que se preste exclusivamente en áreas urbanas, suburbanas o en zonas metropolitanas. No se considera transporte público aquél que se contrata mediante plataformas de servicios digitales de intermediación entre terceros que sean oferentes de servicios de transporte y los demandantes de los mismos, cuando los vehículos con los que se proporcione el servicio sean de uso particular.
-Fracción reformada DOF 30-12-1980, 26-12-1990, 11-12-2013, 09-12-2019 VI.- El transporte marítimo internacional de bienes prestado por personas residentes en el extranjero sin establecimiento permanente en el país. En ningún caso será aplicable lo dispuesto en esta fracción tratándose de los servicios de cabotaje en territorio nacional.
+Fracción reformada DOF 30-12-1980, 26-12-1990, 11-12-2013, 09-12-2019
+VI.- El transporte marítimo internacional de bienes prestado por personas residentes en el extranjero sin establecimiento permanente en el país. En ningún caso será aplicable lo dispuesto en esta fracción tratándose de los servicios de cabotaje en territorio nacional.
 Fracción reformada DOF 30-12-1980, 28-12-1994
 
 VII. Los prestados por las personas morales autorizadas para recibir donativos deducibles para los efectos del impuesto sobre la renta.
-Fracción derogada DOF 30-12-1980. Adicionada DOF 09-12-2019 VIII.- (Se deroga).
-Fracción derogada DOF 30-12-1980 IX.- El aseguramiento contra riesgos agropecuarios, los seguros de crédito a la vivienda que cubran el riesgo de incumplimiento de los deudores de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles, destinados a casa habitación, los seguros de garantía financiera que cubran el pago por incumplimiento de los emisores de valores, títulos de crédito o documentos que sean objeto de oferta pública o de intermediación en mercados de valores, siempre que los recursos provenientes de la colocación de dichos valores, títulos de crédito o documentos, se utilicen para el financiamiento de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación y los seguros de vida ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes que correspondan a los seguros citados.
-Fracción reformada DOF 28-12-1994, 22-06-2006 X.- Por los que deriven intereses que:
+Fracción derogada DOF 30-12-1980. Adicionada DOF 09-12-2019
+VIII.- (Se deroga).
+Fracción derogada DOF 30-12-1980
+IX.- El aseguramiento contra riesgos agropecuarios, los seguros de crédito a la vivienda que cubran el riesgo de incumplimiento de los deudores de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles, destinados a casa habitación, los seguros de garantía financiera que cubran el pago por incumplimiento de los emisores de valores, títulos de crédito o documentos que sean objeto de oferta pública o de intermediación en mercados de valores, siempre que los recursos provenientes de la colocación de dichos valores, títulos de crédito o documentos, se utilicen para el financiamiento de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación y los seguros de vida ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes que correspondan a los seguros citados.
+Fracción reformada DOF 28-12-1994, 22-06-2006
+X.- Por los que deriven intereses que:
 Párrafo reformado DOF 21-11-1991
 
 a) Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
 
 b) Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado, las sociedades de ahorro y préstamo y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro; los que reciban y paguen las sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero, por el otorgamiento de crédito, de factoraje financiero o descuento en documentos pendientes de cobro; los que reciban los almacenes generales de depósito por créditos otorgados que hayan sido garantizados con bonos de prenda; los que reciban o paguen las sociedades cooperativas de ahorro y préstamo a que hace referencia la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, así como las sociedades financieras populares, las sociedades financieras comunitarias y los organismos de integración financiera rural, a que hace referencia la Ley de Ahorro y Crédito Popular, a sus socios o clientes, según se trate, y que cumplan con los requisitos para operar como tales de conformidad con los citados ordenamientos; los que reciban o paguen en operaciones de financiamiento, los organismos descentralizados de la Administración Pública Federal y los fideicomisos de fomento económico del Gobierno Federal, que estén sujetos a la supervisión de la Comisión Nacional Bancaria y de Valores; así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
-Párrafo reformado DOF 28-12-1994, 29-12-1997, 18-07-2006, 11-12-2013 No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles.
+Párrafo reformado DOF 28-12-1994, 29-12-1997, 18-07-2006, 11-12-2013
+No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles.
 Tratándose de créditos otorgados a personas físicas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades o se trate de créditos refaccionarios, de habilitación o avío, siempre que dichas personas se encuentren inscritas en el Registro Federal de Contribuyentes.
-Párrafo adicionado DOF 21-11-1991. Reformado 28-12-1994, 07-12-2009, 11-12-2013 Tampoco será aplicable la exención prevista en el primer párrafo de este inciso tratándose de créditos otorgados a través de tarjetas de crédito.
-Párrafo adicionado DOF 21-11-1991 Inciso reformado DOF 26-12-1990
+Párrafo adicionado DOF 21-11-1991. Reformado 28-12-1994, 07-12-2009, 11-12-2013
+Tampoco será aplicable la exención prevista en el primer párrafo de este inciso tratándose de créditos otorgados a través de tarjetas de crédito.
+Párrafo adicionado DOF 21-11-1991
+Inciso reformado DOF 26-12-1990
 
 c) Reciban las instituciones de fianzas, las de seguros y las sociedades mutualistas de seguros, en operaciones de financiamiento, excepto tratándose de créditos otorgados a personas físicas que no gozarían de la exención prevista en el inciso anterior.
 Inciso reformado DOF 21-11-1991
@@ -412,16 +491,24 @@ h) Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Na
 Inciso adicionado DOF 31-12-1988. Reformado DOF 28-12-1989, 30-12-2002
 
 i) Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público o de operaciones de préstamo de títulos, valores y otros bienes fungibles a que se refiere la fracción III del artículo 14-A del Código Fiscal de la Federación.
-Inciso adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993 Fracción reformada DOF 30-12-1980 XI.- Por los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
-Fracción reformada DOF 30-12-1980. Derogada 26-12-1990. Adicionada 29-12-1993 XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de: a).- Partidos, asociaciones, coaliciones y frentes políticos legalmente reconocidos. b).- Sindicatos obreros y organismos que los agrupen. c).- Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas, pesqueras o silvícolas, así como organismos que las reúnan.
-Inciso reformado DOF 26-12-1990, 15-12-1995 d).- Asociaciones patronales y colegios de profesionales. e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquéllas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 25% del total de las instalaciones.
-Inciso reformado DOF 31-12-1982 XIII.- Los de espectáculos públicos por el boleto de entrada, salvo los de teatro y circo, cuando el convenio con el Estado o Acuerdo con el Departamento del Distrito Federal, donde se presente el espectáculo no se ajuste a lo previsto en la fracción VI del artículo 41 de esta Ley. La exención prevista en esta fracción no será aplicable a las funciones de cine, por el boleto de entrada.
-Párrafo reformado DOF 31-12-1998 No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+Inciso adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993
+Fracción reformada DOF 30-12-1980
+XI.- Por los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
+Fracción reformada DOF 30-12-1980. Derogada 26-12-1990. Adicionada 29-12-1993
+XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de: a).- Partidos, asociaciones, coaliciones y frentes políticos legalmente reconocidos. b).- Sindicatos obreros y organismos que los agrupen. c).- Cámaras de comercio e industria, agrupaciones agrícolas, ganaderas, pesqueras o silvícolas, así como organismos que las reúnan.
+Inciso reformado DOF 26-12-1990, 15-12-1995
+d).- Asociaciones patronales y colegios de profesionales. e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquéllas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 25% del total de las instalaciones.
+Inciso reformado DOF 31-12-1982
+XIII.- Los de espectáculos públicos por el boleto de entrada, salvo los de teatro y circo, cuando el convenio con el Estado o Acuerdo con el Departamento del Distrito Federal, donde se presente el espectáculo no se ajuste a lo previsto en la fracción VI del artículo 41 de esta Ley. La exención prevista en esta fracción no será aplicable a las funciones de cine, por el boleto de entrada.
+Párrafo reformado DOF 31-12-1998
+No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 Fracción reformada DOF 21-11-1991
 
 XIV. Los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre que sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles o instituciones de asistencia o beneficencia privada autorizadas por las leyes de la materia.
-Fracción reformada DOF 31-12-1982, 08-12-2020 XV.- Los servicios profesionales de medicina, hospitalarios, de radiología, de laboratorios y estudios clínicos, que presten los organismos descentralizados de la Administración Pública Federal o del Distrito Federal, o de los gobiernos estatales o municipales.
-Fracción derogada DOF 31-12-1982. Adicionada DOF 15-12-1995 XVI.- Por los que obtengan contraprestaciones los autores en los casos siguientes:
+Fracción reformada DOF 31-12-1982, 08-12-2020
+XV.- Los servicios profesionales de medicina, hospitalarios, de radiología, de laboratorios y estudios clínicos, que presten los organismos descentralizados de la Administración Pública Federal o del Distrito Federal, o de los gobiernos estatales o municipales.
+Fracción derogada DOF 31-12-1982. Adicionada DOF 15-12-1995
+XVI.- Por los que obtengan contraprestaciones los autores en los casos siguientes:
 
 a) Por autorizar a terceros la publicación de obras escritas de su creación en periódicos y revistas, siempre que los periódicos y revistas se destinen para su enajenación al público por la persona que efectúa los pagos por estos conceptos.
 
@@ -434,14 +521,17 @@ Fracción reformada DOF 28-12-1989, 26-12-1990, 03-12-1993, 30-12-2002
 .- Para los efectos de esta Ley, se entiende que se presta el servicio en territorio nacional cuando en el mismo se lleva a cabo, total o parcialmente, por un residente en el país.
 En el caso de transporte internacional, se considera que el servicio se presta en territorio nacional independientemente de la residencia del porteador, cuando en el mismo se inicie el viaje, incluso si éste es de ida y vuelta.
 Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas ubicadas en la franja fronteriza de 20 kilómetros paralela a las líneas divisorias internacionales del norte y sur del país, gozará del mismo tratamiento.
-Párrafo reformado DOF 30-12-1996 Tratándose de los servicios digitales a que se refiere el artículo 18-B de esta Ley, prestados por residentes en el extranjero sin establecimiento en México, se considera que el servicio se presta en territorio nacional cuando el receptor del servicio se encuentre en dicho territorio y se estará a lo dispuesto en el Capítulo III BIS del presente ordenamiento.
-Párrafo adicionado DOF 09-12-2019 En el caso de intereses y demás contraprestaciones que paguen residentes en México a los residentes en el extranjero que otorguen crédito a través de tarjetas, se entiende que se presta el servicio en territorio nacional cuando en el mismo se utilice la tarjeta.
+Párrafo reformado DOF 30-12-1996
+Tratándose de los servicios digitales a que se refiere el artículo 18-B de esta Ley, prestados por residentes en el extranjero sin establecimiento en México, se considera que el servicio se presta en territorio nacional cuando el receptor del servicio se encuentre en dicho territorio y se estará a lo dispuesto en el Capítulo III BIS del presente ordenamiento.
+Párrafo adicionado DOF 09-12-2019
+En el caso de intereses y demás contraprestaciones que paguen residentes en México a los residentes en el extranjero que otorguen crédito a través de tarjetas, se entiende que se presta el servicio en territorio nacional cuando en el mismo se utilice la tarjeta.
 Párrafo adicionado DOF 26-12-1990
 
 ### Artículo 17
 .- En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en el que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas, salvo tratándose de los intereses a que se refiere el artículo 18-A de esta Ley, en cuyo caso se deberá pagar el impuesto conforme éstos se devenguen.
 Tratándose de la prestación de servicios en forma gratuita por los que se deba pagar el impuesto, éste se causará en el momento en que se proporcione el servicio.
-Párrafo adicionado DOF 11-12-2013. Reformado DOF 09-12-2019 Artículo reformado DOF 31-12-1979, 31-12-1981, 31-12-1998, 30-12-2002
+Párrafo adicionado DOF 11-12-2013. Reformado DOF 09-12-2019
+Artículo reformado DOF 31-12-1979, 31-12-1981, 31-12-1998, 30-12-2002
 
 ### Artículo 18
 .- Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por otros impuestos, derechos, viáticos, gastos de toda clase, reembolsos intereses normales o moratorios, penas convencionales y cualquier otro concepto.
@@ -451,7 +541,8 @@ Artículo reformado DOF 31-12-1979, 30-12-1980
 
 ### Artículo 18-A
 . Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; y de operaciones de arrendamiento financiero.
-Párrafo reformado DOF 29-12-1997, 30-12-2002, 11-12-2013 En el caso de las operaciones a que se refiere este artículo, las comisiones que se cobren al deudor, acreditado, cuentacorrentista o arrendatario, por la disposición de dinero en efectivo o por cualquier otro concepto y las penas convencionales, excepto los intereses moratorios, no se considerarán como parte de los intereses devengados.
+Párrafo reformado DOF 29-12-1997, 30-12-2002, 11-12-2013
+En el caso de las operaciones a que se refiere este artículo, las comisiones que se cobren al deudor, acreditado, cuentacorrentista o arrendatario, por la disposición de dinero en efectivo o por cualquier otro concepto y las penas convencionales, excepto los intereses moratorios, no se considerarán como parte de los intereses devengados.
 El valor real de los intereses devengados, se determinará conforme a lo siguiente:
 
 I. Cuando la operación de que se trate esté denominada en moneda nacional o extranjera, el valor real de los intereses se calculará aplicando a la base sobre la cual se calcularon los intereses devengados, la tasa real de interés, de conformidad con lo siguiente:
@@ -459,19 +550,26 @@ I. Cuando la operación de que se trate esté denominada en moneda nacional o ex
 a) La tasa real de interés se calculará restando, a la tasa de interés que corresponda al periodo de que se trate, la inflación del mismo periodo. La inflación se calculará dividiendo el valor de la unidad de inversión determinado por el Banco de México para el último día del periodo, entre el valor de la unidad de inversión para el día inmediato anterior al primer día del periodo, y restando del cociente la unidad.
 
 b) Cuando la operación de crédito se encuentre pactada en moneda extranjera, la ganancia cambiaria devengada en el periodo de que se trate, expresada como proporción del saldo promedio del principal en el mismo periodo, se sumará a la tasa de interés correspondiente al mismo periodo. Para expresar la ganancia cambiaria devengada en el periodo de que se trate como proporción del saldo promedio del principal en el mismo periodo, se dividirá aquélla en moneda nacional, entre dicho saldo promedio convertido a moneda nacional al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación para el último día del periodo de causación de los intereses. En el caso de que el Banco de México no publique dicho tipo de cambio, se aplicará el último tipo de cambio publicado por dicha institución antes de esa fecha. El saldo promedio del principal será la suma de los saldos diarios del principal en el periodo, dividida entre el número de días comprendidos en el mismo periodo de causación.
-Párrafo reformado DOF 29-12-1997 Cuando en el periodo de causación de los intereses, el resultado de sumar la tasa de interés que corresponda al periodo y la ganancia cambiaria devengada en el mismo periodo expresada en los términos del párrafo anterior, sea igual o menor a la inflación del periodo, no se causará el impuesto durante el mencionado periodo.
+Párrafo reformado DOF 29-12-1997
+Cuando en el periodo de causación de los intereses, el resultado de sumar la tasa de interés que corresponda al periodo y la ganancia cambiaria devengada en el mismo periodo expresada en los términos del párrafo anterior, sea igual o menor a la inflación del periodo, no se causará el impuesto durante el mencionado periodo.
 En el caso de que la tasa de interés que corresponda al periodo esté expresada en por ciento, se deberá dividir entre cien antes de efectuar las sumas y resta, mencionadas en los párrafos anteriores.
 
 II. Cuando las operaciones de que se trate se encuentren denominadas en unidades de inversión, el valor real de los intereses, serán los intereses devengados en el periodo, sin considerar el ajuste que corresponda al principal por el hecho de estar denominados en las citadas unidades.
 Tratándose de las operaciones a que se refiere este artículo, en las que los periodos de causación de los intereses sean mensuales o menores a un mes, y en dichos periodos no se encuentre fijado por el Banco de México el valor de la unidad de inversión para el último día del periodo de causación de los intereses, los contribuyentes considerarán el valor de la unidad de inversión determinado por el Banco de México para los días correspondientes al periodo inmediato anterior e igual en duración al de causación de los intereses.
 Cuando no se reciba el pago de los intereses devengados mensualmente durante un periodo de tres meses consecutivos, el contribuyente podrá, a partir del cuarto mes, diferir el impuesto de los intereses que se devenguen a partir de dicho mes, hasta el mes en que efectivamente reciba el pago de los mismos. A partir del mes en el que se reciba el pago total de los intereses devengados no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se devenguen, se causará en el mes en que éstos se devenguen. Tratándose de arrendamiento financiero sólo será aplicable lo dispuesto en este párrafo en el caso de operaciones efectuadas con el público en general.
-Párrafo adicionado DOF 29-12-1997 Tratándose de operaciones de crédito o de arrendamiento financiero, pactadas en moneda extranjera celebradas con el público en general, podrá optarse por considerar como valor para los efectos del cálculo del impuesto, en lugar del valor real de los intereses devengados a que se refiere este artículo, el valor de los intereses devengados. Cuando se ejerza esta opción por un crédito en lo individual, no podrá cambiarse la misma durante la vigencia de dicho crédito.
-Párrafo adicionado DOF 29-12-1997 Reforma DOF 30-12-2002: Derogó del artículo el entonces párrafo quinto (antes reformado por DOF 29-12-1997) Artículo adicionado DOF 15-12-1995
+Párrafo adicionado DOF 29-12-1997
+Tratándose de operaciones de crédito o de arrendamiento financiero, pactadas en moneda extranjera celebradas con el público en general, podrá optarse por considerar como valor para los efectos del cálculo del impuesto, en lugar del valor real de los intereses devengados a que se refiere este artículo, el valor de los intereses devengados. Cuando se ejerza esta opción por un crédito en lo individual, no podrá cambiarse la misma durante la vigencia de dicho crédito.
+Párrafo adicionado DOF 29-12-1997
+Reforma DOF 30-12-2002: Derogó del artículo el entonces párrafo quinto (antes reformado por DOF 29-12-1997)
+Artículo adicionado DOF 15-12-1995
 
 ## CAPÍTULO III BIS
-De la prestación de servicios digitales por residentes en el extranjero sin establecimiento en México Capítulo adicionado DOF 09-12-2019
+
+De la prestación de servicios digitales por residentes en el extranjero sin establecimiento en México
+Capítulo adicionado DOF 09-12-2019
 
 ## Sección I — Disposiciones generales
+
 Sección adicionada DOF 09-12-2019
 
 ### Artículo 18-B
@@ -519,7 +617,8 @@ VI. Designar ante el Servicio de Administración Tributaria cuando se lleve a ca
 VII. Tramitar su firma electrónica avanzada, conforme a lo dispuesto por el artículo 19-A del Código Fiscal de la Federación.
 Las obligaciones establecidas en las fracciones I, III, IV, V, VI y VII de este artículo, deberán cumplirse de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 No estarán obligados a cumplir las obligaciones previstas en este artículo, los residentes en el extranjero sin establecimiento en México que presten los servicios digitales previstos en el artículo 18-B, fracciones I, III y IV, a través de las personas a que se refiere la fracción II de dicho artículo, siempre que estas últimas les efectúen la retención del impuesto al valor agregado en los términos del artículo 18-J, fracción II, inciso a), segundo párrafo, de esta Ley.
-Párrafo adicionado DOF 08-12-2020 Artículo adicionado DOF 09-12-2019
+Párrafo adicionado DOF 08-12-2020
+Artículo adicionado DOF 09-12-2019
 
 ### Artículo 18-E
 .- El cumplimiento de las obligaciones a que se refiere el artículo 18-D de esta Ley, no dará lugar a que se considere que el residente en el extranjero constituye un establecimiento permanente en México.
@@ -540,7 +639,8 @@ Artículo adicionado DOF 09-12-2019
 ### Artículo 18-H
 BIS. El incumplimiento de las obligaciones a que se refieren las fracciones I, VI y VII del artículo 18-D de esta Ley por los residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales previstos en el artículo 18-B del presente ordenamiento a receptores ubicados en territorio nacional, dará lugar a que se bloquee temporalmente el acceso al servicio digital del prestador de los servicios digitales que incumplió con las obligaciones mencionadas, bloqueo que se realizará por conducto de los concesionarios de una red pública de telecomunicaciones en México, hasta el momento en que dicho residente cumpla con las obligaciones omitidas.
 La sanción a que se refiere el párrafo anterior también se aplicará cuando el residente en el extranjero omita realizar el pago del impuesto o el entero de las retenciones que, en su caso, deba realizar, así como la presentación de las declaraciones de pago e informativas a que se refieren los artículos 18-D, fracciones III y IV y 18-J, fracciones II, inciso b) y III de esta Ley durante tres meses consecutivos.
-Párrafo reformado DOF 12-11-2021 Adicionalmente, cuando se presenten los supuestos a que se refiere el párrafo anterior, se cancelará la inscripción en el Registro Federal de Contribuyentes a que se refiere el artículo 18-D, fracción I, de esta Ley y se dará de baja de la lista referida en dicha disposición, tanto en la página de Internet del Servicio de Administración Tributaria como en el Diario Oficial de la Federación.
+Párrafo reformado DOF 12-11-2021
+Adicionalmente, cuando se presenten los supuestos a que se refiere el párrafo anterior, se cancelará la inscripción en el Registro Federal de Contribuyentes a que se refiere el artículo 18-D, fracción I, de esta Ley y se dará de baja de la lista referida en dicha disposición, tanto en la página de Internet del Servicio de Administración Tributaria como en el Diario Oficial de la Federación.
 Las sanciones a que se refiere el presente artículo son independientes de las correspondientes a la omisión en el pago del impuesto, en el entero de las retenciones y en la presentación de las declaraciones de pago e informativas, conforme a lo establecido en el artículo 18-G de esta Ley.
 Artículo adicionado DOF 08-12-2020
 
@@ -570,6 +670,7 @@ Artículo adicionado DOF 08-12-2020
 Artículo adicionado DOF 09-12-2019
 
 ## Sección II — De los servicios digitales de intermediación entre terceros
+
 Sección adicionada DOF 09-12-2019
 
 ### Artículo 18-J
@@ -610,7 +711,8 @@ g) Tratándose de servicios de hospedaje, la dirección del inmueble.
 Dicha información deberá presentarse mensualmente a más tardar el día 10 del mes siguiente de que se trate, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 Para los efectos de lo dispuesto en los incisos a), b), c), d), e) y g) de esta fracción, las personas enajenantes de bienes, prestadores de servicios u otorgantes del uso o goce temporal de bienes, deberán proporcionar a los residentes en el extranjero sin establecimiento en México que les presten los servicios digitales de intermediación, la información a que se refieren los citados incisos.
 No se tendrá obligación de proporcionar la información a que se refiere esta fracción, tratándose de residentes en el extranjero sin establecimiento en México que presten los servicios digitales previstos en el artículo 18-B, fracciones I, III y IV de esta Ley, a las que se les efectúe la retención en los términos de la fracción II, inciso a), segundo párrafo, de este artículo.
-Párrafo adicionado DOF 08-12-2020 Artículo adicionado DOF 09-12-2019
+Párrafo adicionado DOF 08-12-2020
+Artículo adicionado DOF 09-12-2019
 
 ### Artículo 18-K
 .- Las personas físicas y morales que realicen actividades sujetas al pago del impuesto al valor agregado por conducto de las personas a que se refiere el artículo 18-J de esta Ley, deberán estar a lo dispuesto por esta Ley y, adicionalmente, deberán ofertar el precio de sus bienes y servicios manifestando en forma expresa y por separado el monto del impuesto al valor agregado que corresponda.
@@ -638,23 +740,27 @@ V. Presentarán un aviso de opción ante el Servicio de Administración Tributar
 
 VI. Quedarán relevados de presentar declaraciones informativas.
 Una vez ejercida la opción a que se refiere este artículo, ésta no podrá variarse durante el período de cinco años contados a partir de la fecha en que el contribuyente haya presentado el aviso a que se refiere la fracción IV del párrafo anterior. Cuando el contribuyente deje de estar en los supuestos a que se refiere el artículo 18-L de esta Ley, cesará el ejercicio de la opción prevista en el presente artículo y no podrá volver a ejercerla.
-Artículo adicionado DOF 09-12-2019 CAPITULO IV Del uso o goce temporal de bienes
+Artículo adicionado DOF 09-12-2019
+CAPITULO IV Del uso o goce temporal de bienes
 
 ### Artículo 19
 .- Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el arrendamiento, el usufructo y cualquier otro acto, independientemente de la forma jurídica que al efecto se utilice, por el que una persona permita a otra usar o gozar temporalmente bienes tangibles, a cambio de una contraprestación.
 Se dará el tratamiento que está Ley establece para el uso o goce temporal de bienes, a la prestación del servicio de tiempo compartido.
-Párrafo adicionado DOF 15-12-1995 Se considera prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé, al acto jurídico correspondiente, consistente en poner a disposición de una persona o grupo de personas, directamente o a través de un tercero, el uso, goce o demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por periodos previamente convenidos mediante el pago de una cantidad o la adquisición de acciones o partes sociales de una persona moral, sin que en este último caso se trasmitan los activos de la persona moral de que se trate.
+Párrafo adicionado DOF 15-12-1995
+Se considera prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé, al acto jurídico correspondiente, consistente en poner a disposición de una persona o grupo de personas, directamente o a través de un tercero, el uso, goce o demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por periodos previamente convenidos mediante el pago de una cantidad o la adquisición de acciones o partes sociales de una persona moral, sin que en este último caso se trasmitan los activos de la persona moral de que se trate.
 Párrafo adicionado DOF 29-12-1997
 
 ### Artículo 20
 .- No se pagará el impuesto por el uso o goce temporal de los siguientes bienes:
 
 I. Los otorgados por las personas morales autorizadas para recibir donativos deducibles para los efectos del impuesto sobre la renta.
-Fracción derogada DOF 31-12-1981. Adicionada DOF 09-12-2019 II.- Inmuebles destinados o utilizados exclusivamente para casa- habitación. Si un inmueble tuviere varios destinos o usos, no se pagará el impuesto por la parte destinada o utilizada para casahabitación. Lo dispuesto en esta fracción no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje.
+Fracción derogada DOF 31-12-1981. Adicionada DOF 09-12-2019
+II.- Inmuebles destinados o utilizados exclusivamente para casa- habitación. Si un inmueble tuviere varios destinos o usos, no se pagará el impuesto por la parte destinada o utilizada para casahabitación. Lo dispuesto en esta fracción no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje.
 III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
 
 IV. Derogada.
-Fracción derogada DOF 30-12-1980. Adicionada DOF 21-11-1991. Derogada DOF 30-11-2016 V.- Libros, periódicos y revistas.
+Fracción derogada DOF 30-12-1980. Adicionada DOF 21-11-1991. Derogada DOF 30-11-2016
+V.- Libros, periódicos y revistas.
 
 ### Artículo 21
 . Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se realiza su uso o goce, con independencia del lugar de su entrega material o de la celebración del acto jurídico que le dé origen.
@@ -666,18 +772,23 @@ Artículo reformado DOF 31-12-1998, 30-12-2002
 
 ### Artículo 23
 .- Para calcular el impuesto en el caso de uso o goce temporal de bienes, se considerará el valor de la contraprestación pactada a favor de quien los otorga, así como las cantidades que además se carguen o cobren a quien se otorgue el uso o goce por otros impuestos, derechos, gastos de mantenimiento, construcciones, reembolsos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
-Artículo reformado DOF 31-12-1979 CAPITULO V De la importación de bienes y servicios
+Artículo reformado DOF 31-12-1979
+CAPITULO V De la importación de bienes y servicios
 
 ### Artículo 24
 .- Para los efectos de esta Ley, se considera importación de bienes o de servicios:
 I.- La introducción al país de bienes.
 También se considera introducción al país de bienes, cuando éstos se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
-Párrafo adicionado DOF 11-12-2013 No será aplicable lo dispuesto en el párrafo anterior a las mercancías nacionales o a las importadas en definitiva, siempre que no hayan sido consideradas como exportadas en forma previa para ser destinadas a los regímenes aduaneros mencionados.
-Párrafo adicionado DOF 11-12-2013 Fracción reformada DOF 30-12-1980 II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
+Párrafo adicionado DOF 11-12-2013
+No será aplicable lo dispuesto en el párrafo anterior a las mercancías nacionales o a las importadas en definitiva, siempre que no hayan sido consideradas como exportadas en forma previa para ser destinadas a los regímenes aduaneros mencionados.
+Párrafo adicionado DOF 11-12-2013
+Fracción reformada DOF 30-12-1980
+II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
 III.- El uso o goce temporal, en territorio nacional, de bienes intangibles proporcionados por personas no residentes en el país.
 
 IV. El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero. Lo dispuesto en esta fracción no será aplicable cuando se trate de bienes por los que se haya pagado efectivamente el impuesto al valor agregado por su introducción al país. No se entiende efectivamente pagado el impuesto cuando éste se realice mediante la aplicación de un crédito fiscal.
-Fracción reformada DOF 30-11-2016 V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
+Fracción reformada DOF 30-11-2016
+V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
 Cuando un bien exportado temporalmente retorne al país habiéndosele agregado valor en el extranjero por reparación, aditamentos o por cualquier otro concepto que implique un valor adicional se considerará importación de bienes o servicios y deberá pagarse el impuesto por dicho valor en los términos del artículo 27 de esta Ley.
 Párrafo adicionado DOF 31-12-1981
 
@@ -685,13 +796,21 @@ Párrafo adicionado DOF 31-12-1981
 .- No se pagará el impuesto al valor agregado en las importaciones siguientes:
 I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
 No será aplicable la exención a que se refiere esta fracción tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
-Párrafo adicionado DOF 30-12-2002. Reformado DOF 11-12-2013 Fracción reformada DOF 28-12-1989, 26-12-1990 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
-Fracción reformada DOF 30-12-1983 III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional no den lugar al pago del impuesto al valor agregado o cuando sean de los señalados en el artículo 2o. A de esta Ley.
-Fracción reformada DOF 30-12-1980, 31-12-1987, 21-11-1991, 29-12-1993, 27-03-1995 IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
-Fracción adicionada DOF 30-12-1980 V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que se destinen a exhibición pública en forma permanente.
-Fracción adicionada DOF 31-12-1987 VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en territorio nacional, que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que la importación sea realizada por su autor.
-Fracción adicionada DOF 28-12-1989 VII.- Oro, con un contenido mínimo de dicho material del 80%.
-Fracción adicionada DOF 28-12-1994 VIII.- La de vehículos, que se realice de conformidad con el artículo 62, fracción I de la Ley Aduanera, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+Párrafo adicionado DOF 30-12-2002. Reformado DOF 11-12-2013
+Fracción reformada DOF 28-12-1989, 26-12-1990
+II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
+Fracción reformada DOF 30-12-1983
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional no den lugar al pago del impuesto al valor agregado o cuando sean de los señalados en el artículo 2o. A de esta Ley.
+Fracción reformada DOF 30-12-1980, 31-12-1987, 21-11-1991, 29-12-1993, 27-03-1995
+IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
+Fracción adicionada DOF 30-12-1980
+V.- Las de obras de arte que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que se destinen a exhibición pública en forma permanente.
+Fracción adicionada DOF 31-12-1987
+VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en territorio nacional, que por su calidad y valor cultural sean reconocidas como tales por las instituciones oficiales competentes, siempre que la importación sea realizada por su autor.
+Fracción adicionada DOF 28-12-1989
+VII.- Oro, con un contenido mínimo de dicho material del 80%.
+Fracción adicionada DOF 28-12-1994
+VIII.- La de vehículos, que se realice de conformidad con el artículo 62, fracción I de la Ley Aduanera, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 Fracción adicionada DOF 29-12-1997
 
 IX. Las importaciones definitivas de los bienes por los que se haya pagado el impuesto al valor agregado al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, o de mercancías que incluyan los bienes por los que se pagó el impuesto, siempre que la importación definitiva la realicen quienes hayan destinado los bienes a los regímenes mencionados. No será aplicable lo dispuesto en esta fracción, cuando el impuesto se haya pagado aplicando el crédito fiscal previsto en el artículo 28-A de esta Ley.
@@ -700,7 +819,8 @@ Fracción adicionada DOF 11-12-2013
 ### Artículo 26
 .- Se considera que se efectúa la importación de bienes o servicios:
 I.- En el momento en que el importador presente el pedimento para su trámite en los términos de la legislación aduanera.
-Fracción reformada DOF 28-12-1989 II.- En caso de importación temporal al convertirse en definitiva.
+Fracción reformada DOF 28-12-1989
+II.- En caso de importación temporal al convertirse en definitiva.
 III.- Tratándose de los casos previstos en las fracciones II a IV del artículo 24 de esta Ley, en el momento en el que se pague efectivamente la contraprestación.
 Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que se pague cada contraprestación.
 Fracción reformada DOF 30-12-2002
@@ -710,17 +830,23 @@ Fracción reformada DOF 30-11-2016, 09-12-2019
 
 ### Artículo 27
 . Para calcular el impuesto al valor agregado tratándose de importación de bienes tangibles, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último gravamen y del monto de las demás contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación.
-Párrafo reformado DOF 11-12-2013 Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto al valor agregado se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva.
-Párrafo adicionado DOF 11-12-2013 El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III, IV y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
-Párrafo reformado DOF 21-11-1991, 30-11-2016 Tratándose de bienes exportados temporalmente y retornados al país con incremento de valor, éste será el que se utilice para los fines del impuesto general de importación, con las adiciones a que se refiere el primer párrafo de este artículo.
+Párrafo reformado DOF 11-12-2013
+Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto al valor agregado se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva.
+Párrafo adicionado DOF 11-12-2013
+El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III, IV y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+Párrafo reformado DOF 21-11-1991, 30-11-2016
+Tratándose de bienes exportados temporalmente y retornados al país con incremento de valor, éste será el que se utilice para los fines del impuesto general de importación, con las adiciones a que se refiere el primer párrafo de este artículo.
 Párrafo adicionado DOF 31-12-1981
 
 ### Artículo 28
 .- Tratándose de importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento.
-Párrafo reformado DOF 31-12-1987 En el caso de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, el pago se hará a más tardar en el momento en que se presente el pedimento respectivo para su trámite.
-Párrafo adicionado DOF 11-12-2013 Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
+Párrafo reformado DOF 31-12-1987
+En el caso de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, el pago se hará a más tardar en el momento en que se presente el pedimento respectivo para su trámite.
+Párrafo adicionado DOF 11-12-2013
+Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
 El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos que establece esta Ley.
-Párrafo reformado DOF 07-06-2005 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
+Párrafo reformado DOF 07-06-2005
+No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
 Artículo reformado DOF 31-12-1979, 30-12-1980
 
 ### Artículo 28-A
@@ -729,21 +855,30 @@ La certificación a que se refiere el párrafo anterior tendrá una vigencia de 
 El impuesto cubierto con el crédito fiscal previsto en este artículo, no será acreditable en forma alguna.
 El crédito fiscal a que se refiere este artículo no se considerará como ingreso acumulable para los efectos del impuesto sobre la renta.
 Las personas a que se refiere este artículo que no ejerzan la opción de certificarse, podrán no pagar el impuesto al valor agregado por la introducción de los bienes a los regímenes aduaneros antes mencionados, siempre que garanticen el interés fiscal mediante fianza otorgada por institución autorizada, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
-Artículo adicionado DOF 28-12-1989. Derogado DOF 26-12-1990. Adicionado DOF 11-12-2013 CAPITULO VI De la exportación de bienes o servicios
+Artículo adicionado DOF 28-12-1989. Derogado DOF 26-12-1990. Adicionado DOF 11-12-2013
+CAPITULO VI De la exportación de bienes o servicios
 
 ### Artículo 29
 .- Las empresas residentes en el país calcularán el impuesto aplicando la tasa del 0% al valor de la enajenación de bienes o prestación de servicios, cuando unos u otros se exporten.
-Párrafo reformado DOF 31-12-1981 Para los efectos de esta Ley, se considera exportación de bienes o servicios:
+Párrafo reformado DOF 31-12-1981
+Para los efectos de esta Ley, se considera exportación de bienes o servicios:
 I.- La que tenga el carácter de definitiva en los términos de la Ley Aduanera.
-Fracción reformada DOF 31-12-1998, 31-12-2000, 30-12-2002 II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
+Fracción reformada DOF 31-12-1998, 31-12-2000, 30-12-2002
+II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
 III.- El uso o goce temporal, en el extranjero de bienes intangibles proporcionados por personas residentes en el país.
 IV.- El aprovechamiento en el extranjero de servicios prestados por residentes en el país, por concepto de: a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
-Inciso reformado DOF 30-12-1980 b).- Operaciones de maquila y submaquila para exportación en los términos de la legislación aduanera y del Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación. Para los efectos anteriores, se entenderá que los servicios se aprovechan en el extranjero cuando los bienes objeto de la maquila o submaquila sean exportados por la empresa maquiladora.
-Inciso reformado DOF 30-12-1983, 30-12-2002 c).- Publicidad.
-Inciso adicionado DOF 30-12-1980 d).- Comisiones y mediaciones.
-Inciso adicionado DOF 30-12-1980 e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
-Inciso adicionado DOF 30-12-1980 f).- Operaciones de financiamiento.
-Inciso adicionado DOF 30-12-1980 g).- Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
+Inciso reformado DOF 30-12-1980
+b).- Operaciones de maquila y submaquila para exportación en los términos de la legislación aduanera y del Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación. Para los efectos anteriores, se entenderá que los servicios se aprovechan en el extranjero cuando los bienes objeto de la maquila o submaquila sean exportados por la empresa maquiladora.
+Inciso reformado DOF 30-12-1983, 30-12-2002
+c).- Publicidad.
+Inciso adicionado DOF 30-12-1980
+d).- Comisiones y mediaciones.
+Inciso adicionado DOF 30-12-1980
+e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
+Inciso adicionado DOF 30-12-1980
+f).- Operaciones de financiamiento.
+Inciso adicionado DOF 30-12-1980
+g).- Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
 Inciso adicionado DOF 30-12-2002
 
 h) Servicio de atención en centros telefónicos de llamadas originadas en el extranjero, que sea contratado y pagado por un residente en el extranjero sin establecimiento permanente en México.
@@ -754,7 +889,9 @@ Lo previsto en este inciso será aplicable siempre que las empresas cumplan con 
 Para efectos de esta Ley se considera como dirección IP al identificador numérico único formado por valores binarios asignado a un dispositivo electrónico. Dicho identificador es imprescindible para que los dispositivos electrónicos se puedan conectar, anunciar y comunicar a través del protocolo de Internet. El identificador permite ubicar la localización geográfica del dispositivo. 3. Consignen en el comprobante fiscal el registro o número fiscal del residente en el extranjero que contrató y pagó el servicio, sin perjuicio de los demás requisitos que deban cumplir de conformidad con las disposiciones fiscales. 4. Que el pago se realice a través de medios electrónicos y provenga de cuentas de instituciones financieras ubicadas en el extranjero, mismo que deberá realizarse a una cuenta del prestador del servicio en instituciones de crédito en México.
 Las obligaciones mencionadas en los numerales anteriores deberán cumplirse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 Los servicios de tecnologías de la información previstos en este inciso no se considerarán exportados en los supuestos siguientes: 1. Cuando para proporcionar dichos servicios se utilicen redes privadas virtuales. Para los efectos de esta Ley se considera como red privada virtual la tecnología de red que permite una extensión de una red local sobre una red pública, creando una conexión privada segura a través de una red pública y admitiendo la conexión de usuarios externos desde otro lugar geográfico de donde se encuentre el servidor o los aplicativos de la organización. 2. Cuando los servicios se proporcionen, recaigan o se apliquen en bienes ubicados en el territorio nacional.
-Inciso adicionado DOF 30-11-2016 Fracción reformada DOF 31-12-1979 V.- La transportación internacional de bienes prestada por residentes en el país y los servicios portuarios de carga, descarga, alijo, almacenaje, custodia, estiba y acarreo dentro de los puertos e instalaciones portuarias, siempre que se presten en maniobras para la exportación de mercancías.
+Inciso adicionado DOF 30-11-2016
+Fracción reformada DOF 31-12-1979
+V.- La transportación internacional de bienes prestada por residentes en el país y los servicios portuarios de carga, descarga, alijo, almacenaje, custodia, estiba y acarreo dentro de los puertos e instalaciones portuarias, siempre que se presten en maniobras para la exportación de mercancías.
 Fracción adicionada DOF 31-12-1979. Reformada DOF 29-12-1993
 
 VI. La transportación aérea de personas y de bienes, prestada por residentes en el país, por la parte del servicio que en los términos del tercer párrafo del artículo 16 de esta Ley no se considera prestada en territorio nacional.
@@ -764,13 +901,16 @@ VII. (Se deroga).
 Fracción adicionada DOF 15-12-1995. Reformada DOF 30-12-2002. Derogada DOF 11-12-2013
 
 VIII. (Se deroga).
-Fracción adicionada DOF 31-12-1998. Reformada 31-12-2000. Derogada DOF 30-12-2002 Lo previsto en el primer párrafo de este artículo se aplicará a los residentes en el país que presten servicios personales independientes que sean aprovechados en su totalidad en el extranjero por residentes en el extranjero sin establecimiento en el país.
+Fracción adicionada DOF 31-12-1998. Reformada 31-12-2000. Derogada DOF 30-12-2002
+Lo previsto en el primer párrafo de este artículo se aplicará a los residentes en el país que presten servicios personales independientes que sean aprovechados en su totalidad en el extranjero por residentes en el extranjero sin establecimiento en el país.
 Párrafo adicionado DOF 29-12-1993. Reformado DOF 30-12-2002
 
 ### Artículo 30
 .- Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, el exportador de bienes o servicios calculará el impuesto aplicando la tasa del 0% al valor de la enajenación o prestación de servicios. También procederá el acreditamiento cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
-Párrafo reformado DOF 31-12-1981 Asimismo procederá el acreditamiento cuando las empresas residentes en el país retornen al extranjero los bienes que hayan destinado a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, siempre que dicho impuesto no haya sido acreditado en los términos de esta Ley.
-Párrafo reformado DOF 31-12-1979. Derogado DOF 30-12-1980. Adicionado DOF 11-12-2013 La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que se cobre la contraprestación y en proporción a la misma.
+Párrafo reformado DOF 31-12-1981
+Asimismo procederá el acreditamiento cuando las empresas residentes en el país retornen al extranjero los bienes que hayan destinado a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, siempre que dicho impuesto no haya sido acreditado en los términos de esta Ley.
+Párrafo reformado DOF 31-12-1979. Derogado DOF 30-12-1980. Adicionado DOF 11-12-2013
+La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que se cobre la contraprestación y en proporción a la misma.
 Párrafo reformado DOF 31-12-1979, 30-12-2002
 
 ### Artículo 31
@@ -783,14 +923,16 @@ II. Que las mercancías adquiridas salgan efectivamente del país, lo que se ver
 III. Que el valor de las compras realizadas por establecimiento, asentado en el comprobante fiscal que presente el turista al momento de salir del territorio nacional, ampare un monto mínimo en moneda nacional de 1,200 pesos.
 El Servicio de Administración Tributaria establecerá las reglas de operación para efectuar las devoluciones a que se refiere el presente artículo y podrá otorgar concesión a los particulares para administrar dichas devoluciones, siempre que los servicios para efectuar la devolución no generen un costo para el órgano mencionado.
 En todo caso, la devolución que se haga a los extranjeros con calidad de turistas deberá disminuirse con el costo de administración que corresponda a las devoluciones efectuadas.
-Artículo reformado DOF 31-12-1979. Derogado DOF 31-12-1981. Adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 15-12-1995, 30-12-1996, Derogado DOF 31-12-1998. Adicionado DOF 08-12-2005 CAPITULO VII De las obligaciones de los contribuyentes
+Artículo reformado DOF 31-12-1979. Derogado DOF 31-12-1981. Adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 15-12-1995,
+30-12-1996, Derogado DOF 31-12-1998. Adicionado DOF 08-12-2005 CAPITULO VII De las obligaciones de los contribuyentes
 
 ### Artículo 32
 .- Los obligados al pago de este impuesto y las personas que realicen los actos o actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
 Párrafo reformado DOF 30-12-1980, 27-03-1995, 15-12-1995
 
 I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación y su Reglamento.
-Fracción reformada DOF 30-12-1980, 31-12-1981, 11-12-2013 II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
+Fracción reformada DOF 30-12-1980, 31-12-1981, 11-12-2013
+II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
 
 III. Expedir y entregar comprobantes fiscales.
 Fracción reformada DOF 30-12-1980, 30-12-1983, 31-12-1984, 27-03-1995, 15-12-1995, 31-12-1998, 30-12-2002, 07-12-2009, 11-12-2013
@@ -800,9 +942,11 @@ Los contribuyentes que tengan varios establecimientos deberán conservar, en cad
 Fracción reformada DOF 31-12-1979, 30-12-1980, 31-12-1985, 31-12-1987, 28-12-1989, 26-12-1990, 30-12-2002
 
 V. Expedir comprobantes fiscales por las retenciones del impuesto que se efectúen en los casos previstos en el artículo 1o.-A, y proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información sobre las personas a las que les hubieren retenido el impuesto establecido en esta Ley, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
-Párrafo reformado DOF 30-12-2002, 28-06-2006, 11-12-2013 La Federación y sus organismos descentralizados, en su caso, también estarán obligados a cumplir con lo establecido en esta fracción.
+Párrafo reformado DOF 30-12-2002, 28-06-2006, 11-12-2013
+La Federación y sus organismos descentralizados, en su caso, también estarán obligados a cumplir con lo establecido en esta fracción.
 Las personas morales obligadas a efectuar la retención del impuesto en los términos del artículo 1o.-A, fracción II, inciso a) de esta Ley, podrán optar por no proporcionar el comprobante fiscal a que se refiere el primer párrafo de esta fracción, siempre que la persona física que preste los servicios profesionales o haya otorgado el uso o goce temporal de bienes, les expida un comprobante fiscal que cumpla con los requisitos a que se refieren los artículos 29 y 29-A del Código Fiscal de la Federación y en el comprobante se señale expresamente el monto del impuesto retenido. En este caso, las personas físicas que expidan el comprobante fiscal podrán considerarlo como constancia de retención del impuesto y efectuar el acreditamiento del mismo en los términos de las disposiciones fiscales. Lo previsto en este párrafo en ningún caso libera a las personas morales de efectuar, en tiempo y forma, la retención y entero del impuesto y la presentación de las declaraciones informativas correspondientes, en los términos de las disposiciones fiscales respecto de las personas a las que les hubieran efectuado dichas retenciones.
-Párrafo adicionado DOF 09-12-2019 Fracción adicionada DOF 31-12-1998
+Párrafo adicionado DOF 09-12-2019
+Fracción adicionada DOF 31-12-1998
 
 VI. Las personas que efectúen de manera regular las retenciones a que se refieren los artículos 1o.-A y 3o., tercer párrafo de esta Ley, presentarán aviso de ello ante las autoridades fiscales dentro de los 30 días siguientes a la primera retención efectuada.
 Fracción adicionada DOF 31-12-1998
@@ -811,22 +955,30 @@ VII. Proporcionar la información que del impuesto al valor agregado se les soli
 Fracción adicionada DOF 30-12-2002
 
 VIII. Proporcionar mensualmente a las autoridades fiscales, a través de los medios y formatos electrónicos que señale el Servicio de Administración Tributaria, la información correspondiente sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, desglosando el valor de los actos o actividades por tasa a la cual trasladó o le fue trasladado el impuesto al valor agregado, incluyendo actividades por las que el contribuyente no está obligado al pago, dicha información se presentará, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
-Fracción adicionada DOF 28-06-2006. Reformada DOF 30-11-2016, 09-12-2019 (Se deroga el párrafo que dice: Los contribuyentes dedicados a .......... ).
-Párrafo adicionado DOF 30-12-1980. Derogado DOF 31-12-1981 Nota: El párrafo anterior que a la letra establecía: “Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución”, fue expresamente derogado por Decreto DOF 31-12-1981. Sin embargo, en el Decreto de fecha 31-12-1987, se hace referencia a la frase inicial de dicho párrafo: “Los contribuyentes dedicados a:”, como si el mismo no hubiera sido previamente derogado.
+Fracción adicionada DOF 28-06-2006. Reformada DOF 30-11-2016, 09-12-2019
+(Se deroga el párrafo que dice: Los contribuyentes dedicados a .......... ).
+Párrafo adicionado DOF 30-12-1980. Derogado DOF 31-12-1981
+Nota: El párrafo anterior que a la letra establecía: “Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución”, fue expresamente derogado por Decreto DOF 31-12-1981. Sin embargo, en el Decreto de fecha 31-12-1987, se hace referencia a la frase inicial de dicho párrafo: “Los contribuyentes dedicados a:”, como si el mismo no hubiera sido previamente derogado.
 Los contribuyentes que tengan en copropiedad una negociación y los integrantes de una sociedad conyugal, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios o de los consortes, según se trate, cumpla con las obligaciones establecidas en esta Ley.
-Párrafo adicionado DOF 30-12-1980. Reformado DOF 31-12-1998 En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones de pago del mes de calendario que corresponda, por cuenta de los herederos o legatarios.
-Párrafo adicionado DOF 30-12-1980. Reformado DOF 26-12-1990, 30-12-2002 Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
-Párrafo adicionado DOF 31-12-1982. Reformado DOF 30-12-1983 Reforma DOF 31-12-2000: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 29-12-1997)
+Párrafo adicionado DOF 30-12-1980. Reformado DOF 31-12-1998
+En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones de pago del mes de calendario que corresponda, por cuenta de los herederos o legatarios.
+Párrafo adicionado DOF 30-12-1980. Reformado DOF 26-12-1990, 30-12-2002
+Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
+Párrafo adicionado DOF 31-12-1982. Reformado DOF 30-12-1983
+Reforma DOF 31-12-2000: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 29-12-1997)
 
 ### Artículo 33
 .- Cuando se enajene un bien o se preste un servicio en forma accidental, por los que se deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones a que se refieren las fracciones II, III y V del artículo 24 de esta Ley, que se realicen en forma ocasional, el pago se hará en los términos antes mencionados. En las importaciones ocasionales de bienes tangibles el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración mensual ni llevará contabilidad; pero deberá expedir los comprobantes fiscales a que se refiere la fracción III del artículo 32 de esta Ley y conservarlos durante el plazo a que se refiere el artículo 30, tercer párrafo del Código Fiscal de la Federación.
-Párrafo reformado DOF 09-12-2019 Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina autorizada que corresponda a su domicilio; asimismo, expedirán un comprobante fiscal en el que conste el monto de la operación y el impuesto retenido. Lo dispuesto en este párrafo no es aplicable en el caso a que se refiere el artículo 1o.-A, fracción I de esta Ley.
+Párrafo reformado DOF 09-12-2019
+Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina autorizada que corresponda a su domicilio; asimismo, expedirán un comprobante fiscal en el que conste el monto de la operación y el impuesto retenido. Lo dispuesto en este párrafo no es aplicable en el caso a que se refiere el artículo 1o.-A, fracción I de esta Ley.
 Tratándose de juicios de arrendamiento inmobiliario en los que se condene al arrendatario al pago de las rentas vencidas, la autoridad judicial requerirá al acreedor que compruebe haber emitido los comprobantes fiscales correspondientes. En caso de que el acreedor no acredite haber emitido dichos comprobantes, la autoridad judicial deberá informar al Servicio de Administración Tributaria la omisión mencionada en un plazo máximo de 5 días contados a partir del vencimiento del plazo que la autoridad judicial haya otorgado al acreedor para cumplir el requerimiento. La información mencionada deberá enviarse al órgano desconcentrado mencionado de conformidad con las reglas de carácter general que al efecto emita dicho órgano.
-Párrafo adicionado DOF 09-12-2019 Artículo reformado DOF 31-12-1979, 30-12-1980, 30-12-1983, 26-12-1990, 30-12-1996, 31-12-1998, 30-12-2002, 11-12-2013
+Párrafo adicionado DOF 09-12-2019
+Artículo reformado DOF 31-12-1979, 30-12-1980, 30-12-1983, 26-12-1990, 30-12-1996, 31-12-1998, 30-12-2002, 11-12-2013
 
 ### Artículo 34
 .- Cuando la contraprestación que cobre el contribuyente por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, no sea en efectivo ni en cheques, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta tratándose de actividades por las que se deba pagar el impuesto establecido en esta Ley, cuando no exista contraprestación.
-Párrafo reformado DOF 30-12-2002 En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste
+Párrafo reformado DOF 30-12-2002
+En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste
 
 ### Artículo 35
 .- (Se deroga).
@@ -846,7 +998,8 @@ Artículo reformado DOF 31-12-1981, 30-12-1983, 31-12-1985. Derogado DOF 29-12-1
 
 ### Artículo 37
 .- (Se deroga).
-Artículo reformado DOF 31-12-1981, 28-12-1989. Derogado DOF 29-12-1997 CAPITULO VIII De las facultades de las autoridades
+Artículo reformado DOF 31-12-1981, 28-12-1989. Derogado DOF 29-12-1997
+CAPITULO VIII De las facultades de las autoridades
 
 ### Artículo 38
 .- (Se deroga).
@@ -858,7 +1011,8 @@ Artículo reformado DOF 30-12-1980, 31-12-1981,
 
 ### Artículo 40
 .- (Se deroga).
-Artículo derogado DOF 31-12-1981 CAPITULO IX De las participaciones a las entidades federativas
+Artículo derogado DOF 31-12-1981
+CAPITULO IX De las participaciones a las entidades federativas
 
 ### Artículo 41
 .- La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre: l.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto, excepto la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
@@ -867,15 +1021,21 @@ Los impuestos locales o municipales que establezcan las entidades federativas en
 Fracción reformada DOF 31-12-1979, 15-12-1995, 30-12-1996
 
 II. La enajenación de bienes o prestación de servicios cuando una u otras se exporten o sean de los señalados en el artículo 2o.-A de esta Ley.
-Fracción reformada DOF 31-12-1979, 30-12-1980, 21-11-1991, 27-03-1995, 15-12-1995, 11-12-2013 III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas, excepto por la tenencia o uso de automóviles, ómnibuses, camiones y tractores no agrícolas tipo quinta rueda, aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
-Fracción reformada DOF 30-12-1980, 15-12-1995 IV.- Intereses, los títulos de crédito, las operaciones financieras derivadas y los productos o rendimientos derivados de su propiedad o enajenación.
-Fracción reformada DOF 30-12-1980, 29-12-1993 V.- El uso o goce temporal de casa habitación.
+Fracción reformada DOF 31-12-1979, 30-12-1980, 21-11-1991, 27-03-1995, 15-12-1995, 11-12-2013
+III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas, excepto por la tenencia o uso de automóviles, ómnibuses, camiones y tractores no agrícolas tipo quinta rueda, aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
+Fracción reformada DOF 30-12-1980, 15-12-1995
+IV.- Intereses, los títulos de crédito, las operaciones financieras derivadas y los productos o rendimientos derivados de su propiedad o enajenación.
+Fracción reformada DOF 30-12-1980, 29-12-1993
+V.- El uso o goce temporal de casa habitación.
 Fracción adicionada DOF 30-12-1980
 
 VI. Espectáculos públicos consistentes en obras de teatro y funciones de circo, que en su conjunto superen un gravamen a nivel local del 8% calculado sobre el ingreso total que derive de dichas actividades.
-Párrafo reformado DOF 31-12-1998 Queda comprendido dentro de esta limitante cualquier gravamen adicional que se les establezca con motivo de las citadas actividades.
-Fracción adicionada DOF 21-11-1991 VII.- La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
-Fracción adicionada DOF 30-12-1996 Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
+Párrafo reformado DOF 31-12-1998
+Queda comprendido dentro de esta limitante cualquier gravamen adicional que se les establezca con motivo de las citadas actividades.
+Fracción adicionada DOF 21-11-1991
+VII.- La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+Fracción adicionada DOF 30-12-1996
+Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
 El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
 Reforma DOF 30-12-1996: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 15-12-1995)
 
@@ -883,13 +1043,20 @@ Reforma DOF 30-12-1996: Derogó del artículo el entonces último párrafo (ante
 .- Se exceptúan de lo dispuesto en el artículo anterior los impuesto que los Estados o el Distrito Federal tengan establecidos o establezcan sobre enajenación de construcciones por las que deba pagarse el impuesto al valor agregado.
 En ningún caso lo dispuesto en el artículo anterior, se entenderá limitativo de la facultad de los Estados y del Distrito Federal para gravar con impuestos locales o municipales la propiedad o posesión del suelo o construcciones, o la trasmisión de propiedad de los mismos o sobre plusvalía o mejoría específica, siempre que no se discrimine en contra de los contribuyentes del impuesto al valor agregado.
 Lo dispuesto en los dos párrafos anteriores no se aplicará respecto de la enajenación de los certificados de participación inmobiliarios no amortizables a que se refiere el segundo párrafo de la fracción VII del artículo 9o. de esta Ley.
-Párrafo adicionado DOF 23-12-2005 Tratándose de energía eléctrica las entidades federativas no podrá decretar impuesto, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
-Párrafo adicionado DOF 31-12-1979 I.- Producción, introducción, transmisión, distribución, venta o consumo de energía eléctrica.
-Fracción adicionada DOF 31-12-1979 II.- Actos de organización de empresas generadoras o importadoras de energía eléctrica.
-Fracción adicionada DOF 31-12-1979 III.- Capitales invertidos en los fines que expresa la fracción I.
-Fracción adicionada DOF 31-12-1979 IV.- Expedición o emisión por empresas generadoras e importadoras de energía eléctrica, de títulos, acciones u obligaciones y operaciones relativas a los mismos.
-Fracción adicionada DOF 31-12-1979 V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
-Fracción adicionada DOF 31-12-1979 Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras así como los derechos por servicios de alumbrado público que cobren los municipios, aun cuando para su determinación se utilice como base el consumo de energía eléctrica.
+Párrafo adicionado DOF 23-12-2005
+Tratándose de energía eléctrica las entidades federativas no podrá decretar impuesto, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
+Párrafo adicionado DOF 31-12-1979
+I.- Producción, introducción, transmisión, distribución, venta o consumo de energía eléctrica.
+Fracción adicionada DOF 31-12-1979
+II.- Actos de organización de empresas generadoras o importadoras de energía eléctrica.
+Fracción adicionada DOF 31-12-1979
+III.- Capitales invertidos en los fines que expresa la fracción I.
+Fracción adicionada DOF 31-12-1979
+IV.- Expedición o emisión por empresas generadoras e importadoras de energía eléctrica, de títulos, acciones u obligaciones y operaciones relativas a los mismos.
+Fracción adicionada DOF 31-12-1979
+V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
+Fracción adicionada DOF 31-12-1979
+Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras así como los derechos por servicios de alumbrado público que cobren los municipios, aun cuando para su determinación se utilice como base el consumo de energía eléctrica.
 Párrafo adicionado DOF 31-12-1979. Reformado DOF 28-12-1989
 
 ### Artículo 43
@@ -897,7 +1064,8 @@ Párrafo adicionado DOF 31-12-1979. Reformado DOF 28-12-1989
 
 I. Tratándose de personas físicas que obtengan ingresos por la prestación de servicios profesionales, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%.
 Para los efectos de esta fracción se entenderá por ingresos por la prestación de servicios profesionales, las remuneraciones que deriven de servicios personales independientes que no estén asimiladas a los ingresos por la prestación de servicios personales subordinados, conforme dentro del impuesto cedular sobre sueldos o salarios, los ingresos personales independientes que estén asimilados a los ingresos por la prestación de un servicio personal subordinado.
-Párrafo reformado DOF 11-12-2013 Las Entidades Federativas que establezcan el impuesto a que se refiere esta fracción, únicamente podrán considerar como afecto a dicho impuesto, la utilidad gravable de los contribuyentes que sea atribuida a las bases fijas en las que proporcionen los servicios que se encuentren en la Entidad Federativa de que se trate. Cuando se presten los servicios fuera de la base fija, se considerará que la actividad se realiza en el local que sirva de base a la persona que proporcione dichos servicios.
+Párrafo reformado DOF 11-12-2013
+Las Entidades Federativas que establezcan el impuesto a que se refiere esta fracción, únicamente podrán considerar como afecto a dicho impuesto, la utilidad gravable de los contribuyentes que sea atribuida a las bases fijas en las que proporcionen los servicios que se encuentren en la Entidad Federativa de que se trate. Cuando se presten los servicios fuera de la base fija, se considerará que la actividad se realiza en el local que sirva de base a la persona que proporcione dichos servicios.
 Cuando un contribuyente tenga bases fijas en dos o más Entidades Federativas, para determinar el impuesto que a cada una de ellas le corresponda, se deberá considerar la utilidad gravable obtenida por todas las bases fijas que tenga, y el resultado se dividirá entre éstas en la proporción que representen los ingresos obtenidos por cada base fija, respecto de la totalidad de los ingresos.
 
 II. En el caso de personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%.
@@ -910,8 +1078,11 @@ Las Entidades Federativas que establezcan el impuesto a que se refiere esta frac
 Cuando un contribuyente tenga establecimientos, sucursales o agencias, en dos o más Entidades Federativas, para determinar el impuesto que a cada una de ellas le corresponda, se deberá considerar la suma de la utilidad gravable obtenida por todos los establecimientos, sucursales o agencias que tenga, y el resultado se dividirá entre éstos en la proporción que representen los ingresos obtenidos por cada establecimiento, sucursal o agencia, respecto de la totalidad de los ingresos.
 Reforma DOF 11-12-2013: Derogó de la fracción el entonces párrafo cuarto Las Entidades Federativas podrán establecer distintas tasas dentro de los límites que establece el presente artículo por cada uno de los impuestos cedulares a que se refiere este artículo.
 La base de los impuestos cedulares a que se refiere el presente artículo, deberá considerar los carácter federal, para los ingresos similares a los contemplados en los impuestos cedulares citados, sin incluir el impuesto cedular local.
-Cuando el ingreso a que se refiere la fracción III de este artículo derive de la aportación de inmuebles que los fideicomitentes, personas físicas, realicen a los fideicomisos a los que se refiere el artículo 187 de Párrafo adicionado DOF 23-12-2005. Reformado DOF 11-12-2013 Las Entidades Federativas que establezcan el impuesto cedular a que se refiere la fracción III de este artículo, no podrán gravar la enajenación de los certificados de participación inmobiliarios no amortizables, cuando se encuentren inscritos en el Registro Nacional de Valores e Intermediarios y su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a tratados internacionales que México tenga en vigor.
-Párrafo adicionado DOF 23-12-2005 Asimismo, las Entidades Federativas podrán convenir con la Federación, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos locales que en su caso se establezcan en su Entidad Federativa se paguen en las mismas declaraciones del impuesto sobre la renta federal.
+Cuando el ingreso a que se refiere la fracción III de este artículo derive de la aportación de inmuebles que los fideicomitentes, personas físicas, realicen a los fideicomisos a los que se refiere el artículo 187 de
+Párrafo adicionado DOF 23-12-2005. Reformado DOF 11-12-2013
+Las Entidades Federativas que establezcan el impuesto cedular a que se refiere la fracción III de este artículo, no podrán gravar la enajenación de los certificados de participación inmobiliarios no amortizables, cuando se encuentren inscritos en el Registro Nacional de Valores e Intermediarios y su enajenación se realice en bolsa de valores concesionada en los términos de la Ley del Mercado de Valores o en mercados reconocidos de acuerdo a tratados internacionales que México tenga en vigor.
+Párrafo adicionado DOF 23-12-2005
+Asimismo, las Entidades Federativas podrán convenir con la Federación, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos locales que en su caso se establezcan en su Entidad Federativa se paguen en las mismas declaraciones del impuesto sobre la renta federal.
 Artículo adicionado DOF 30-12-2002. Reformado DOF 01-12-2004
 
 ## TRANSITORIOS
@@ -935,7 +1106,7 @@ México, D. F., a 22 de diciembre de l978.- Antonio Riva Palacio López, D.P.- A
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos setenta y ocho.- José López Portillo.- Rúbrica.-El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.-El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA LEY que reforma, adiciona y deroga diversas disposiciones fiscales.
 Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1979 VALOR AGREGADO ARTICULO DECIMO SEGUNDO.- Se REFORMAN los artículos 2o., 4o., primer párrafo, 29 fracción IV 30, segundo y tercer párrafo, 31, segundo párrafo, 32, fracción IV, primer párrafo y 41, fracciones I y II una fracción XVIII, 29, con las fracciones V y VI, 33, segundo párrafo, y 42, con los párrafos tercero y
-**cuarto.** de la propia Ley, para quedar como sigue: ..........
+**cuarto.-** de la propia Ley, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -966,7 +1137,7 @@ México, D. F., a 28 de diciembre de 1980.- José Murat, D. P.- Graciliano Alpuc
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 LEY que reforma, adiciona y deroga diversas disposiciones en Materia Fiscal.
 Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1981 VALOR AGREGADO ARTICULO DECIMO CUARTO.- Se REFORMAN los artículos 2o. último párrafo, 4o. fracción I
-**segundo.** párrafo, 5o. primero y segundo párrafos 8., 12 tercer párrafo, 32 fracción I, 35, 36 y 39 de la Ley del Impuesto al Valor Agregado; se ADICIONAN los artículos 4o. fracción I con dos párrafos finales, 24 con un párrafo final, y 27 con un párrafo final y 37 con tres párrafos finales de la citada ley, y se DEROGAN los artículos 20 fracción I, 31, 32 en su párrafo inmediato posterior a su fracción IV, 38 y 40, de y a la propia Ley, que para quedar como sigue: ..........
+**segundo.-** párrafo, 5o. primero y segundo párrafos 8., 12 tercer párrafo, 32 fracción I, 35, 36 y 39 de la Ley del Impuesto al Valor Agregado; se ADICIONAN los artículos 4o. fracción I con dos párrafos finales, 24 con un párrafo final, y 27 con un párrafo final y 37 con tres párrafos finales de la citada ley, y se DEROGAN los artículos 20 fracción I, 31, 32 en su párrafo inmediato posterior a su fracción IV, 38 y 40, de y a la propia Ley, que para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1106,8 +1277,8 @@ Alfonso Martínez Domínguez, Presidente.- Dip. Hilda Anderson Nevárez de Rojas
 Hugo Domenzáin Guzmán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos ochenta y nueve.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales y que reforma otras leyes federales.
 Publicada en el Diario Oficial de la Federación el 26 de diciembre de 1990 CAPITULO VI IMPUESTO AL VALOR AGREGADO ARTICULO DECIMO CUARTO.- Se REFORMAN los Artículos 2o-A, fracción I, último párrafo; - 2o-B, fracción I, inciso b) y último párrafo; 5o., segundo párrafo y el actual tercer párrafo que pasa a ser el
-**cuarto.** párrafo por la adición que más adelante se establece;- 6o primero y segundo párrafos, 7o., 80.,
-**segundo.** párrafo; 10, primer párrafo; 12 tercer párrafo; 15, fracciones V, X, incisos b) e i), X, inciso c) y XVI; 25, fracción I, 32, fracción IV, párrafos primero, segundo y quinto; y 33, primer párrafo de la Ley del Impuesto al Valor se ADICIONAN los artículos 2o-D; 4o., con una fracción III; 4o.- A, 5o., con un tercer párrafo, pasando los actuales tercero y cuarto a ser cuarto y quinto párrafos; y 16, con un último párrafo a Agregado, para quedar como sigue: ..........
+**cuarto.-** párrafo por la adición que más adelante se establece;- 6o primero y segundo párrafos, 7o., 80.,
+**segundo.-** párrafo; 10, primer párrafo; 12 tercer párrafo; 15, fracciones V, X, incisos b) e i), X, inciso c) y XVI; 25, fracción I, 32, fracción IV, párrafos primero, segundo y quinto; y 33, primer párrafo de la Ley del Impuesto al Valor se ADICIONAN los artículos 2o-D; 4o., con una fracción III; 4o.- A, 5o., con un tercer párrafo, pasando los actuales tercero y cuarto a ser cuarto y quinto párrafos; y 16, con un último párrafo a Agregado, para quedar como sigue: ..........
 DISPOSICIONES DE VIGENCIA ANUAL ARTICULO DECIMO QUINTO.- Durante el año de 1991 estarán vigentes las siguientes disposiciones:
 I.- Se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinado a la alimentación y medicinas de patente, con excepción de los mencionados en los incisos a) y b) de la fracción I del artículo 2o.- B y de los contenidos en el artículo 2o.- C de la Ley de la materia.
 II.- Se aplicará la tasa del 15% al hule, aun cuando no esté industrializado. Tratándose de las del 6%.
@@ -1115,7 +1286,7 @@ II.- Se aplicará la tasa del 15% al hule, aun cuando no esté industrializado. 
 ## TRANSITORIOS
 
 **PRIMERO.-** La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
-**SEGUNDO.** A CUARTO.- ..........
+**SEGUNDO.-** A CUARTO.- ..........
 Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
 **SEXTO.-** SEPTIMO.- Se abroga el Decreto por el que se Establecen las Cuotas de los Productos por la Extracción de Oro o Plata, publicado en el Diario Oficial de la Federación el 25 de enero de 1980.
 **OCTAVO.-** Se abroga el Decreto que Establece Estímulos Fiscales y Facilidades Administrativas para la Operación o Modernización de Centros Comerciales en la Franja Fronteriza Norte y en las Zonas Libres del País, publicado en el Diario Oficial de la Federación el 4 de noviembre de 1983.
@@ -1217,8 +1388,8 @@ III. Los intereses moratorios devengados con anterioridad al 1o. de enero de 199
 
 IV. Durante el ejercicio de 1996 el impuesto al valor agregado sobre el servicio o suministro de agua para uso doméstico, se causará a la tasa del cero porciento.
 T r a n s i t o r i o s
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 1996.
-**Segundo.** De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 1996.
+**Segundo.-** De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
 México, D.F., a 7 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 LEY que establece y modifica diversas Leyes Fiscales.
@@ -1262,7 +1433,7 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998
 
 ### Artículo Séptimo
 Se REFORMAN los artículos 1o., tercer y cuarto párrafos; 4o., fracción I, primer y
-**cuarto.** párrafos; 5o., segundo y cuarto párrafos; 8o., tercer párrafo; 9o., fracción VII; 15, fracción XIII, primer párrafo; 17, primer párrafo; 22; 29, fracciones I y VI; 32, tercer párrafo; 33, segundo párrafo y 41, fracción VI, primer párrafo; se ADICIONAN los artículos 1o.-A; 3o., con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; 4o., fracción I con un quinto y sexto párrafos y con una fracción IV; 7o., con un tercer párrafo; 29, con una fracción VIII y 32, fracción III, con un cuarto párrafo y con las quedar como sigue: ..........
+**cuarto.-** párrafos; 5o., segundo y cuarto párrafos; 8o., tercer párrafo; 9o., fracción VII; 15, fracción XIII, primer párrafo; 17, primer párrafo; 22; 29, fracciones I y VI; 32, tercer párrafo; 33, segundo párrafo y 41, fracción VI, primer párrafo; se ADICIONAN los artículos 1o.-A; 3o., con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto párrafo; 4o., fracción I con un quinto y sexto párrafos y con una fracción IV; 7o., con un tercer párrafo; 29, con una fracción VIII y 32, fracción III, con un cuarto párrafo y con las quedar como sigue: ..........
 
 ### Artículo Octavo
 En relación con las modificaciones al Artículo Séptimo de este Decreto, se estará a lo siguiente:
@@ -1276,8 +1447,8 @@ III. Durante el ejercicio de 1999 el impuesto al valor agregado sobre el servici
 
 ## Transitorios
 
-**PRIMERO.** El presente Decreto entrará en vigor el 1o. de enero de 1999.
-**SEGUNDO.** El Artículo Cuarto de este Decreto entrará en vigor el 1o. de enero del año 2000.
+**PRIMERO.-** El presente Decreto entrará en vigor el 1o. de enero de 1999.
+**SEGUNDO.-** El Artículo Cuarto de este Decreto entrará en vigor el 1o. de enero del año 2000.
 México, D.F., a 30 de diciembre de 1998.- Dip. Juan Marcos Gutiérrez González, Presidente.- Sen.
 Mario Vargas Aguiar, Presidente.- Dip. José Ernesto Manrique Villarreal, Secretario.- Sen. Fernando Palomino Topete, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
@@ -1286,7 +1457,7 @@ Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1999
 
 ### Artículo Sexto
 Se REFORMAN los artículos 3o., tercer párrafo; 4o.; 5o., cuarto párrafo y actual
-**quinto.** párrafo; 6o., primer párrafo y 7o., segundo párrafo; y se ADICIONAN los artículos 1o.-A, fracción II, con los incisos c) y d); 2o.-A, fracción I, inciso b), con el numeral 4; 4o.-A, con un tercer párrafo; 5o., con un quinto y sexto párrafos, pasando los actuales quinto y sexto a ser séptimo y octavo párrafos, ..........
+**quinto.-** párrafo; 6o., primer párrafo y 7o., segundo párrafo; y se ADICIONAN los artículos 1o.-A, fracción II, con los incisos c) y d); 2o.-A, fracción I, inciso b), con el numeral 4; 4o.-A, con un tercer párrafo; 5o., con un quinto y sexto párrafos, pasando los actuales quinto y sexto a ser séptimo y octavo párrafos, ..........
 
 ### Artículo Séptimo
 En relación con las modificaciones a que se refiere el Artículo Sexto de esta Ley, se estará a lo siguiente:
@@ -1305,7 +1476,7 @@ III. Durante el ejercicio fiscal de 2000 el Impuesto al Valor Agregado sobre el 
 
 ## TRANSITORIO
 
-**Único.** La presente Ley entrará en vigor el 1o. de enero de 2000.
+**Único.-** La presente Ley entrará en vigor el 1o. de enero de 2000.
 México, D.F., a 15 de diciembre de 1999.- Dip. Francisco José Paoli Bolio, Presidente.- Sen.
 Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Francisco J. Loyo Ramos, Secretario.Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
@@ -1314,7 +1485,7 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000
 
 ### Artículo Quinto
 Se REFORMAN los artículos 4o., séptimo párrafo en sus incisos a) y b), y octavo párrafo; 4o.-B; 5o., segundo, tercero y actual séptimo párrafos; 29, fracciones I y VIII, primer párrafo; se ADICIONA el artículo 5o., con un sexto párrafo, pasando los actuales sexto a octavo párrafos a ser
-**séptimo.** a noveno párrafos, respectivamente; y se DEROGA el artículo 32, último párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ..........
+**séptimo.-** a noveno párrafos, respectivamente; y se DEROGA el artículo 32, último párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ..........
 
 ### Artículo Sexto
 En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente: entrará en vigor a partir del 1o. de marzo de 2001.
@@ -1323,8 +1494,8 @@ II. Durante el ejercicio fiscal de 2001 el Impuesto al Valor Agregado sobre el s
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2001.
-**Segundo.** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 2001.
+**Segundo.-** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
 México, D.F., a 28 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip.
 Manuel Medellín Milán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -1343,7 +1514,7 @@ Publicada en el Diario Oficial de la Federación el 5 de julio de 2002
 
 ## Transitorios
 
-**Primero.** La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Primero.-** La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 Atentamente Sufragio Efectivo. No Reelección.
 México, D.F., a 21 de junio de 2002.- El Presidente del Servicio de Administración Tributaria, Rubén Aguirre Pangburn.- Rúbrica.
 Anexo 5 de la Resolución Miscelánea Fiscal para 2002 C. Cantidades actualizadas establecidas en Ley del IVA vigentes a partir del 1o. de enero de 2002 “Artículo 2-C. Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,521,100.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación. ........................................................................................................................................................ ” Atentamente Sufragio Efectivo. No Reelección.
@@ -1353,28 +1524,28 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002
 
 ### Artículo Único
 Se REFORMAN los artículos 1o.-A, fracción III y penúltimo párrafo; 2o.-A, fracción I, último párrafo; 3o., segundo y tercer párrafos; 4o., fracciones I, párrafos primero y segundo, II, III, párrafos primero, segundo y tercero en su encabezado e inciso b) y IV, así como los párrafos cuarto,
-**sexto.** y séptimo, incisos b) y c) del artículo; 5o., primero, segundo y cuarto párrafos; 6o., primer párrafo; 7o., primero y segundo párrafos; 11; 12; 15, fracciones X, inciso h) y XVI; 17; 18-A, primer párrafo; 22; 26, fracción III; 29, fracciones I, IV, inciso b), y VII, así como el último párrafo del artículo; 30, segundo párrafo; 32, fracciones III, actuales segundo y cuarto párrafos, IV y V, primer párrafo, así como el penúltimo párrafo del artículo; 33, primer párrafo y 34, primer párrafo; se ADICIONAN los artículos 1o.-A, con una fracción IV; 1o.-B; 1o.-C; 2o.-A, fracción I, con un segundo párrafo al inciso a) y con un inciso i), y fracción II, con un inciso h); 4o., fracción III, con los párrafos tercero y cuarto, pasando los actuales
-**tercero.** y cuarto párrafos a ser quinto y sexto párrafos de la fracción, respectivamente; 6o., con un último párrafo; 9o., con una fracción IX y con un último párrafo; 25, fracción I, con un segundo párrafo; 29, con un inciso g) a la fracción IV y con una fracción VII; 32, con las fracciones III, párrafos segundo, tercero,
-**cuarto.** , sexto, noveno y décimo, pasando los actuales segundo, tercero y cuarto párrafos a ser quinto,
-**séptimo.** y octavo párrafos de la fracción, respectivamente, y VII; y 43; y se DEROGAN los artículos 4o.-A; 4o.-B; 5o., tercero, quinto, sexto, séptimo y octavo párrafos; 6o., segundo párrafo; 18-A, quinto párrafo y ..........
+**sexto.-** y séptimo, incisos b) y c) del artículo; 5o., primero, segundo y cuarto párrafos; 6o., primer párrafo; 7o., primero y segundo párrafos; 11; 12; 15, fracciones X, inciso h) y XVI; 17; 18-A, primer párrafo; 22; 26, fracción III; 29, fracciones I, IV, inciso b), y VII, así como el último párrafo del artículo; 30, segundo párrafo; 32, fracciones III, actuales segundo y cuarto párrafos, IV y V, primer párrafo, así como el penúltimo párrafo del artículo; 33, primer párrafo y 34, primer párrafo; se ADICIONAN los artículos 1o.-A, con una fracción IV; 1o.-B; 1o.-C; 2o.-A, fracción I, con un segundo párrafo al inciso a) y con un inciso i), y fracción II, con un inciso h); 4o., fracción III, con los párrafos tercero y cuarto, pasando los actuales
+**tercero.-** y cuarto párrafos a ser quinto y sexto párrafos de la fracción, respectivamente; 6o., con un último párrafo; 9o., con una fracción IX y con un último párrafo; 25, fracción I, con un segundo párrafo; 29, con un inciso g) a la fracción IV y con una fracción VII; 32, con las fracciones III, párrafos segundo, tercero,
+**cuarto.-** , sexto, noveno y décimo, pasando los actuales segundo, tercero y cuarto párrafos a ser quinto,
+**séptimo.-** y octavo párrafos de la fracción, respectivamente, y VII; y 43; y se DEROGAN los artículos 4o.-A; 4o.-B; 5o., tercero, quinto, sexto, séptimo y octavo párrafos; 6o., segundo párrafo; 18-A, quinto párrafo y ..........
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a partir del 1 de enero de 2003.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, se deroga el artículo Séptimo
+**Primero.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2003.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se deroga el artículo Séptimo
 
 ## Transitorio
 
 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2002 publicada en el Diario Oficial de la Federación el 1 de enero de 2002.
-**Tercero.** Los contribuyentes obligados a presentar la declaración del ejercicio fiscal de 2002 por las actividades realizadas durante el mismo, deberán calcular el impuesto del ejercicio y presentar la declaración correspondiente en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2002.
+**Tercero.-** Los contribuyentes obligados a presentar la declaración del ejercicio fiscal de 2002 por las actividades realizadas durante el mismo, deberán calcular el impuesto del ejercicio y presentar la declaración correspondiente en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2002.
 Cuando en la declaración correspondiente al ejercicio fiscal de 2002 resulte saldo a favor, los contribuyentes podrán acreditarlo contra el impuesto a su cargo que les corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
-**Cuarto.** Los contribuyentes deberán efectuar el último pago provisional correspondiente al ejercicio Agregado vigente hasta el 31 de diciembre de dicho año.
+**Cuarto.-** Los contribuyentes deberán efectuar el último pago provisional correspondiente al ejercicio Agregado vigente hasta el 31 de diciembre de dicho año.
 Los contribuyentes no podrán acreditar los saldos a favor que determinen en las declaraciones de los pagos provisionales del impuesto al valor agregado correspondientes al ejercicio fiscal de 2002, contra el propio impuesto que resulte a su cargo en las declaraciones de pago mensual, determinado conforme a
-**Quinto.** Los contribuyentes que reciban el precio o las contraprestaciones correspondientes a actos o actividades por los que se haya causado el impuesto al valor agregado conforme a los artículos 11, 17 y 22 vigentes hasta el 31 de diciembre de 2001, no darán lugar a la causación del impuesto de conformidad con las disposiciones vigentes a partir del 1 de enero del 2003.
+**Quinto.-** Los contribuyentes que reciban el precio o las contraprestaciones correspondientes a actos o actividades por los que se haya causado el impuesto al valor agregado conforme a los artículos 11, 17 y 22 vigentes hasta el 31 de diciembre de 2001, no darán lugar a la causación del impuesto de conformidad con las disposiciones vigentes a partir del 1 de enero del 2003.
 Los contribuyentes que hayan trasladado el total del impuesto al valor agregado correspondiente a las actividades mencionadas en el párrafo anterior, no deberán efectuar traslado alguno en los comprobantes que expidan por las contraprestaciones que reciban con posterioridad al 1 de enero de 2003.
-**Sexto.** Tratándose de enajenación de bienes por la que de conformidad con lo dispuesto en el artículo diferido el pago del impuesto al valor agregado sobre la parte de las contraprestaciones que se cobren con posterioridad, por las mismas se pagará el impuesto en la fecha en que sean efectivamente percibidas.
+**Sexto.-** Tratándose de enajenación de bienes por la que de conformidad con lo dispuesto en el artículo diferido el pago del impuesto al valor agregado sobre la parte de las contraprestaciones que se cobren con posterioridad, por las mismas se pagará el impuesto en la fecha en que sean efectivamente percibidas.
 Los intereses que hubieran sido exigibles antes del 1 de enero de 2002, que correspondan a enajenaciones a plazo o a contratos de arrendamiento financiero en que se hubiere diferido el pago del impuesto en los términos del artículo 12 vigente hasta el 31 de diciembre de 2001, el impuesto se pagará en la fecha en que los intereses sean efectivamente cobrados. Los intereses que sean exigibles a partir del 1 de enero de 2003 estarán afectos al pago del impuesto en el momento en que efectivamente se cobren. hasta el 31 de diciembre de 2001, establecía que tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, el impuesto se causaba hasta el momento en que se pagaran las contraprestaciones correspondientes al avance de obra y cuando se hicieran los anticipos, para los efectos de las disposiciones vigentes a partir del 1 de enero del 2003, cuando se hubieren prestado dichos servicios con anterioridad al 1 de enero de 2002, el impuesto se pagará cuando efectivamente se cobren las contraprestaciones correspondientes a dichos servicios. Se podrá disminuir del monto de la contraprestación, los anticipos que, en su caso, hubieren recibido los contribuyentes, siempre que por el anticipo se hubiere pagado el impuesto al valor agregado. en vigor a partir del 1 de enero de 2004. Hasta en tanto entre en vigor dicha disposición queda sin efectos lo dispuesto en la fracción VII del artículo 29 actualmente en vigor.
-**Noveno.** Los contribuyentes que hayan realizado operaciones de factoraje financiero durante el ejercicio fiscal de 2002, podrán optar por aplicar durante el ejercicio mencionado el tratamiento previsto carácter general que al efecto emita el Servicio de Administración Tributaria.
+**Noveno.-** Los contribuyentes que hayan realizado operaciones de factoraje financiero durante el ejercicio fiscal de 2002, podrán optar por aplicar durante el ejercicio mencionado el tratamiento previsto carácter general que al efecto emita el Servicio de Administración Tributaria.
 México, D.F., a 12 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -1383,7 +1554,7 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002 Agre
 
 ## Transitorio
 
-**Único.** La presente Ley entrará en vigor a partir del 1 de enero de 2003.
+**Único.-** La presente Ley entrará en vigor a partir del 1 de enero de 2003.
 México, D.F., a 14 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -1398,14 +1569,14 @@ Se reforma el artículo 2o.-A, fracción I, inciso i) y el artículo 2o.-C de la
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
+**PRIMERO.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
 Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
 México, D.F., a 28 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 1º de diciembre de 2004
 
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 1o.-A, fracción IV, segundo párrafo; 2o.-C, párrafo
-**tercero.** ; 3o., segundo párrafo; 4o.; 6o., párrafos primero y segundo; 7o., segundo párrafo, y 43; y se como sigue: ..........
+**tercero.-** ; 3o., segundo párrafo; 4o.; 6o., párrafos primero y segundo; 7o., segundo párrafo, y 43; y se como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1425,7 +1596,7 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2005
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 1o.-A, fracción IV, segundo y tercer párrafos; 3o.,
-**segundo.** párrafo; 4o.; 5o. y 28, tercer párrafo; se ADICIONAN los artículos 5o.-A; 5o.-B; 5o.-C y 5o.-D, y como sigue: ..........
+**segundo.-** párrafo; 4o.; 5o. y 28, tercer párrafo; se ADICIONAN los artículos 5o.-A; 5o.-B; 5o.-C y 5o.-D, y como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1439,7 +1610,7 @@ Publicado en el Diario Oficial de la Federación el 28 de junio de 2005 Agregado
 
 ## Transitorio
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2005 como sigue: ..........
@@ -1462,7 +1633,7 @@ Los contribuyentes podrán solicitar que las autoridades fiscales les practiquen
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el 1o. de enero de 2006.
+**ÚNICO.-** El presente Decreto entrará en vigor el 1o. de enero de 2006.
 México, D.F., a 17 de noviembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica Publicado en el Diario Oficial de la Federación el 22 de junio de 2006 Agregado, para quedar como sigue: ..........
@@ -1473,7 +1644,7 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Org�
 **SEGUNDO.-** El cargo de los primeros consejeros externos que se designen en términos de lo establecido en la fracción II del artículo 14 de esta Ley, durará hasta el 31 de diciembre de 2006. Los períodos de los consejeros externos cuyas designaciones se realicen a la conclusión del término antes señalado, vencerán los días 31 de diciembre de 2009, 2010, 2011 y 2012, y el Secretario de Hacienda y Crédito Público, al hacer la designación que le corresponda, indicará cuál de los citados períodos corresponde a cada consejero.
 **TERCERO.-** A más tardar a los 90 días siguientes a que el Secretario de Hacienda y Crédito Público designe a los consejeros externos en términos de lo dispuesto por el artículo transitorio anterior, se deberá modificar la integración de los Comités de Auditoría y de Recursos Humanos y Desarrollo Institucional a que se refieren los artículos 23 y 31 de esta Ley.
 **CUARTO.-** La garantía del Gobierno Federal respecto de las obligaciones de la Sociedad a que se refieren los párrafos tercero y cuarto del artículo segundo transitorio de la Ley Orgánica de Sociedad Hipotecaria Federal, en los términos reformados y adicionados conforme al "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio de 2002, será aplicable a aquellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.
-**QUINTO.** Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
+**QUINTO.-** Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforman, adicionan, derogan y establecen diversas Producción y Servicios.
 Publicado en el Diario Oficial de la Federación el 28 de junio de 2006
@@ -1497,13 +1668,11 @@ Se REFORMA el inciso b) de la fracción X del artículo 15 de la Ley del Impuest
 ## TRANSITORIOS
 
 **PRIMERO.-** Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
-
 I. El artículo Primero del presente Decreto;
 
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
-**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
-**artículo Segundo.** de este Decreto;
-
+**Quinto.-** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el
+**artículo Segundo.-** de este Decreto;
 III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
 
 IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
@@ -1535,7 +1704,6 @@ La entrada en vigor de las reformas, adiciones y derogaciones a los artículos d
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
 **SEXTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
 **SÉPTIMO.-** Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
-
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
 
 II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
@@ -1572,7 +1740,7 @@ Se REFORMA el artículo 2-A fracción I último párrafo, de la Ley del Impuesto
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al de la publicación del presente Decreto en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al de la publicación del presente Decreto en el Diario Oficial de la Federación.
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes del Impuesto sobre la Renta, del Impuesto a los Depósitos en Efectivo y del Impuesto al Valor Agregado, del Código Fiscal de la Federación y del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión; y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta, publicado el 1 de abril de 1995.
 Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2009
@@ -1602,7 +1770,7 @@ Publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013
 
 ### ARTÍCULO PRIMERO
 Se reforman los artículos 1o.-A, cuarto párrafo; 1o.-C, fracciones IV, V, primer párrafo y VI, primer párrafo; 2o.-A, fracción I, inciso a), primer párrafo, y último párrafo; 5o., fracciones I, primer párrafo, II y IV; 5o.-C, fracción II y último párrafo; 5o.-D, primer párrafo; 7o., último párrafo; 9o., fracción IX; 15, fracciones V y X, inciso b), primer y segundo párrafos; 18-A, primer párrafo; 25, fracción I,
-**segundo.** párrafo; 27, primer párrafo; 29, fracción VI; 32, fracciones I, III y V, primer párrafo; 33; 41, fracción II, y 43, fracción I, segundo párrafo y antepenúltimo párrafo; se adicionan los artículos 2o.-A, fracción I, inciso b), con los numerales 5 y 6; 5o.-E; 5o.-F; 7o., con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos, respectivamente; 11, con un último párrafo; 17, con un último párrafo; 24, fracción I, con un segundo y tercer párrafos; 25, con una fracción IX; 27, con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos, respectivamente; 28, con un segundo párrafo, pasando los actuales segundo, tercer y cuarto párrafos a ser tercer, cuarto y quinto párrafos, respectivamente; 28-A, y 30, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo, y se derogan los artículos 1o.-A, fracción IV; 2o.; 2o.-C; 5o., último párrafo; 9o., último párrafo; 29, fracción VII, y 43, fracción IV, cuarto párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ………
+**segundo.-** párrafo; 27, primer párrafo; 29, fracción VI; 32, fracciones I, III y V, primer párrafo; 33; 41, fracción II, y 43, fracción I, segundo párrafo y antepenúltimo párrafo; se adicionan los artículos 2o.-A, fracción I, inciso b), con los numerales 5 y 6; 5o.-E; 5o.-F; 7o., con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos, respectivamente; 11, con un último párrafo; 17, con un último párrafo; 24, fracción I, con un segundo y tercer párrafos; 25, con una fracción IX; 27, con un segundo párrafo, pasando los actuales segundo y tercer párrafos a ser tercer y cuarto párrafos, respectivamente; 28, con un segundo párrafo, pasando los actuales segundo, tercer y cuarto párrafos a ser tercer, cuarto y quinto párrafos, respectivamente; 28-A, y 30, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo, y se derogan los artículos 1o.-A, fracción IV; 2o.; 2o.-C; 5o., último párrafo; 9o., último párrafo; 29, fracción VII, y 43, fracción IV, cuarto párrafo, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ………
 
 ### ARTÍCULO SEGUNDO
 En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
@@ -1623,19 +1791,19 @@ II. Tratándose de insumos destinados hasta antes de la entrada en vigor de los 
 Para los efectos del párrafo anterior, se considerará que, en las mercancías que se importen en definitiva, fueron incorporados en primer lugar los insumos que tengan mayor antigüedad de haber sido destinados a los regímenes mencionados, siempre que se trate de insumos genéricos que no estén identificados individualmente. Para ello, el inventario de los insumos mencionados deberá controlarse utilizando el método de primeras entradas primeras salidas.
 
 III. Lo dispuesto en los artículos 24, fracción I, segundo y tercer párrafos; 25, fracciones I,
-**segundo.** párrafo y IX; 27, segundo párrafo; 28, segundo párrafo; 28-A, y 30, segundo párrafo, publicado en el Diario Oficial de la Federación las reglas sobre certificación a que se refiere el citado artículo 28-A. ……….
+**segundo.-** párrafo y IX; 27, segundo párrafo; 28, segundo párrafo; 28-A, y 30, segundo párrafo, publicado en el Diario Oficial de la Federación las reglas sobre certificación a que se refiere el citado artículo 28-A. ……….
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor el 1 de enero de 2014.
-**Segundo.** A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
+**Primero.-** El presente Decreto entrará en vigor el 1 de enero de 2014.
+**Segundo.-** A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.
 México, D.F., a 31 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de la Federación y de la Ley Federal del Impuesto sobre Automóviles Nuevos.
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2016
 
 ### Artículo Tercero
 Se reforman los artículos 5o., fracción II; 5o.-B, segundo párrafo; 24, fracción IV; 26, fracción IV; 27, tercer párrafo, y 32, fracción VIII; se adicionan los artículos 5o., con una fracción VI; 5o.-B, con un tercer y un cuarto párrafos, pasando los actuales tercer y cuarto párrafos a ser quinto y
-**sexto.** párrafos, respectivamente, y 29, fracción IV, con un inciso i), y se derogan los artículos 5o., sigue: ………..
+**sexto.-** párrafos, respectivamente, y 29, fracción IV, con un inciso i), y se derogan los artículos 5o., sigue: ………..
 
 ### Artículo Cuarto
 En relación con las modificaciones a las que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
@@ -1645,14 +1813,14 @@ II. Para los efectos de lo dispuesto en el artículo 5o.-B, párrafos segundo, t
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2017.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2017.
 Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Impuesto Especial sobre Producción y Servicios y del Código Fiscal de la Federación.
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2019
 
 ### Artículo Tercero
 Se reforman los artículos 1o., tercer párrafo; 5o., fracciones II y IV; 6o., primer y
-**segundo.** párrafos; 7o., último párrafo; 8o., último párrafo; 15, fracción V; 17, segundo párrafo; 26, fracción IV; 29, fracción VI; 32, fracción VIII, y 33, primer párrafo, y se adicionan los artículos 1o.-A, con una fracción IV; 1o.-A BIS; 9o., con una fracción X; 15, con una fracción VII; 16, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto párrafo; un Capítulo III BIS denominado “De la prestación de servicios digitales por residentes en el extranjero sin establecimiento en México”, con una Sección I “Disposiciones generales” que comprende los artículos 18-B, 18-C, 18-D, 18-E, 18-F, 18-G, 18-H y 18-I, y una Sección II “De los servicios digitales de intermediación entre terceros” que comprende los artículos 18-J, 18-K, 18-L y 18-M; 20, con una fracción I; 32, fracción V, con un tercer párrafo y 33, con un tercer ………
+**segundo.-** párrafos; 7o., último párrafo; 8o., último párrafo; 15, fracción V; 17, segundo párrafo; 26, fracción IV; 29, fracción VI; 32, fracción VIII, y 33, primer párrafo, y se adicionan los artículos 1o.-A, con una fracción IV; 1o.-A BIS; 9o., con una fracción X; 15, con una fracción VII; 16, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto párrafo; un Capítulo III BIS denominado “De la prestación de servicios digitales por residentes en el extranjero sin establecimiento en México”, con una Sección I “Disposiciones generales” que comprende los artículos 18-B, 18-C, 18-D, 18-E, 18-F, 18-G, 18-H y 18-I, y una Sección II “De los servicios digitales de intermediación entre terceros” que comprende los artículos 18-J, 18-K, 18-L y 18-M; 20, con una fracción I; 32, fracción V, con un tercer párrafo y 33, con un tercer ………
 
 ### Artículo Cuarto
 En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
@@ -1666,7 +1834,7 @@ V. Para los efectos de lo dispuesto en el artículo 18-J, fracción II, inciso c
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2020.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2020.
 Ciudad de México, a 30 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip.
 Laura Angélica Rojas Hernández, Presidenta.- Sen. Citlalli Hernández Mora, Secretaria.- Dip. Lizbeth Mata Lozano, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Fiscal de la Federación.
@@ -1677,7 +1845,7 @@ Se reforma el artículo 15, fracción XIV; se adicionan los artículos 18-D, con
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2021.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2021.
 Ciudad de México, a 5 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1689,19 +1857,21 @@ Se adicionan a los artículos 4o., con un tercer párrafo, pasando el actual ter
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos Cuarto, Quinto y Sexto del presente Decreto, que entrarán en vigor el 1 de septiembre de 2021 y lo previsto en los artículos Séptimo y Octavo del presente Decreto entrarán en vigor en el ejercicio fiscal 2022.
 Artículo reformado DOF 31-07-2021
-**Segundo.** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
-**Tercero.** A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, a más tardar el 1 de septiembre de 2021.
+**Segundo.-** Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.
+**Tercero.-** A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obtener el registro ante la Secretaría del Trabajo y Previsión Social que prevé el artículo 15 de la Ley Federal del Trabajo, a más tardar el 1 de septiembre de 2021.
 Artículo reformado DOF 31-07-2021
-**Cuarto.** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
+**Cuarto.-** Para fines de lo dispuesto en el párrafo tercero del artículo 41 de la Ley Federal del Trabajo, tratándose de empresas que operan bajo un régimen de subcontratación, no será requisito la transmisión de los bienes objeto de la empresa o establecimiento hasta el 1 de septiembre de 2021, siempre que la persona contratista transfiera a la persona beneficiaria a los trabajadores en dicho plazo. En todo caso se deberán reconocer los derechos laborales, incluida su antigüedad, que se hubieran generado por el efecto de la relación de trabajo.
 Artículo reformado DOF 31-07-2021
-**Quinto.** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-Párrafo reformado DOF 31-07-2021 Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
-**Sexto.** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
+**Quinto.-** Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros patronales por clase, de las señaladas en el artículo 73 de la Ley del Seguro Social, para realizar la inscripción de sus trabajadores a nivel nacional, tendrán hasta el 1 de septiembre de 2021 para dar de baja dichos registros patronales y de ser procedente, solicitar al mencionado Instituto se le otorgue un registro patronal en términos de lo dispuesto por el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
+Párrafo reformado DOF 31-07-2021
+Una vez concluido dicho plazo, aquellos registros patronales por clase que no hayan sido dados de baja, serán dados de baja por el Instituto Mexicano del Seguro Social.
+**Sexto.-** Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refieren las fracciones I y II del artículo 15 A de la Ley del Seguro Social, y tendrán hasta el 1 de septiembre de 2021 para proporcionarla. La información a que se refiere la fracción III del citado artículo deberá ser presentada, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
 Artículo reformado DOF 31-07-2021
-**Séptimo.** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
-Párrafo reformado DOF 31-07-2021 En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo: 1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda. 2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
+**Séptimo.-** Para efectos de la Ley del Seguro Social, desde la entrada en vigor de la presente reforma y hasta el 1 de septiembre de 2021, se considerará como sustitución patronal la migración de trabajadores de las empresas que operaban bajo el régimen de subcontratación laboral, siempre y cuando la empresa destino de los trabajadores reconozca sus derechos laborales, incluyendo la antigüedad de los mismos y los riesgos de trabajo terminados, ante las instancias legales correspondientes.
+Párrafo reformado DOF 31-07-2021
+En estos supuestos aplicarán las siguientes reglas, para efectos de la determinación de la clase, fracción y prima del Seguro de Riesgos de Trabajo: 1.- La empresa que absorba a los trabajadores deberá auto clasificarse conforme a los criterios que se establecen en los artículos 71, 73 y 75 de la Ley del Seguro Social, y de acuerdo a los artículos 18, 20 y al Catálogo de Actividades previsto en el artículo 196, todos del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización, debiendo conservar la prima con la que venía cotizando la empresa que tenía los trabajadores registrados en el IMSS, siempre y cuando dicha empresa haya estado correctamente clasificada conforme a los riesgos inherentes a la actividad de la negociación de que se trataba y a las disposiciones normativas aplicables, en caso contrario deberá cotizar con la prima media de la clase que le corresponda. 2.- Tratándose de una empresa que absorba a los trabajadores de otra u otras empresas, con la misma o distintas clases, y que en virtud de ello deban ajustar su clasificación a las nuevas actividades que llevará a cabo; la clase y fracción se determinará atendiendo a los riesgos inherentes a la actividad de la negociación de que se trate y la prima se obtendrá de aplicar el procedimiento siguiente:
 
 a) Por cada registro patronal, tanto de la empresa que absorbe como de la otra u otras empresas a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo. El salario base de cotización a considerar, será el del mes previo al que se comunique la sustitución al Instituto.
 
@@ -1712,18 +1882,18 @@ c) La prima así obtenida se aplicará al registro patronal de la empresa que ab
 d) Para efectos de la determinación de la prima del ejercicio siguiente, la empresa que absorbe a los trabajadores deberá considerar los riesgos de trabajo terminados que les hubiesen ocurrido a dichos trabajadores en el ejercicio correspondiente.
 Lo anterior, siempre y cuando las empresas que se pretendan sustituir hayan estado correctamente clasificadas conforme a los riesgos inherentes a la actividad de la o las negociaciones de que se trataban y a las disposiciones normativas aplicables, en caso contrario deberán cotizar a la prima media de la clase que les corresponda.
 Las empresas que cuenten a la fecha de la entrada en vigor de las presentes disposiciones con un Convenio de Subrogación de Servicios Médicos con Reversión de Cuotas vigente, y que en términos de estas disposiciones lleven a cabo una sustitución patronal, no serán objeto de modificación de las condiciones pactadas en el mismo. Vencido el plazo de 90 días naturales aplicarán las reglas previstas tanto en la Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización.
-**Octavo.** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+**Octavo.-** Dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información a que se refiere el inciso f) del artículo 29 Bis, una vez que la Secretaría del Trabajo y Previsión Social ponga a disposición de dichas personas, el mecanismo para la obtención del documento de referencia.
-**Noveno.** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
-**Décimo.** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
+**Noveno.-** Las conductas delictivas que hayan sido cometidas con anterioridad a la entrada en vigor del presente Decreto serán sancionadas de conformidad con la legislación vigente al momento de la comisión de los hechos.
+**Décimo.-** Las dependencias y entidades de la Administración Pública Federal involucradas en la implementación del presente Decreto, realizarán las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del mismo, se realicen con cargo al presupuesto aprobado a cada una de ellas en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales que tengan por objeto solventar las mismas y no se incrementará el presupuesto regularizable de éstas para el presente ejercicio fiscal ni posteriores.
 Ciudad de México, a 20 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman los Artículos Transitorios Primero, Tercero, Cuarto,
-**Quinto.** , Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
+**Quinto.-** , Sexto y Séptimo del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Valor Agregado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral", publicado el 23 de abril de 2021.
 Publicado en el Diario Oficial de la Federación el 31 de julio de 2021
 
 ### Artículo Único
 Se reforman los Artículos Transitorios Primero, Tercero, Cuarto, Quinto, Sexto y
-**Séptimo.** del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
+**Séptimo.-** del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Subcontratación Laboral”, publicado en el Diario Oficial de la Federación el 23 de abril de 2021, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -1735,11 +1905,11 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021
 
 ### Artículo Tercero
 Se reforman los artículos 2o.-A, fracción I, inciso b), primer párrafo; 5o., fracciones II, primer párrafo, V, incisos b), c) y d), en su primer párrafo y sus numerales 2 y 3, primer párrafo, y VI,
-**segundo.** párrafo; 5o.-D, primer párrafo; 18-D, fracción III; 18-H BIS, segundo párrafo, y 21; se adicionan los artículos 2o.-A, fracción I, con un inciso j), y 4o.-A, y se deroga el artículo 5o.-E, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ………
+**segundo.-** párrafo; 5o.-D, primer párrafo; 18-D, fracción III; 18-H BIS, segundo párrafo, y 21; se adicionan los artículos 2o.-A, fracción I, con un inciso j), y 4o.-A, y se deroga el artículo 5o.-E, de la Ley del Impuesto al Valor Agregado, para quedar como sigue: ………
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

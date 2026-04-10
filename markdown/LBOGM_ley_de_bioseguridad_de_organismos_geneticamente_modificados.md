@@ -15,7 +15,9 @@ SE EXPIDE LA  .
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## CAPÍTULO I
+
 Objeto y Finalidades ARTÍCULO 1.- La presente Ley es de orden público y de interés social, y tiene por objeto regular las actividades de utilización confinada, liberación experimental, liberación en programa piloto, liberación comercial, comercialización, importación y exportación de organismos genéticamente modificados, con el fin de prevenir, evitar o reducir los posibles riesgos que estas actividades pudieran ocasionar a la salud humana o al medio ambiente y a la diversidad biológica o a la sanidad animal, vegetal y acuícola.
 ARTÍCULO 2.- Para cumplir su objeto, este ordenamiento tiene como finalidades:
 
@@ -150,6 +152,7 @@ A) La evaluación del impacto ambiental y del estudio de riesgo regulados en la 
 ARTÍCULO 8.- A falta de disposición expresa en el presente ordenamiento, se estará a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO II
+
 Principios en Materia de Bioseguridad ARTÍCULO 9.- Para la formulación y conducción de la política de bioseguridad y la expedición de la reglamentación y de las normas oficiales mexicanas que deriven de esta Ley, se observarán los siguientes principios:
 
 I. La Nación Mexicana es poseedora de una biodiversidad de las más amplias en el mundo, y en su territorio se encuentran áreas que son centro de origen y de diversidad genética de especies y variedades que deben ser protegidas, utilizadas, potenciadas y aprovechadas sustentablemente, por ser un valioso reservorio de riqueza en moléculas y genes para el desarrollo sustentable del país;
@@ -191,6 +194,7 @@ XVIII. El Estado Mexicano garantizará el acceso público a la información en m
 XIX. La experimentación con OGMs o con cualquier otro organismo para fines de fabricación y/o utilización de armas biológicas queda prohibida en el territorio nacional.
 
 ## CAPÍTULO III — De las Competencias en Materia de Bioseguridad
+
 ARTÍCULO 10.- Son autoridades competentes en materia de bioseguridad:
 
 I. La SEMARNAT;
@@ -300,6 +304,7 @@ V. Impedir la entrada al territorio nacional de OGMs y productos que los conteng
 La SHCP ejercerá las facultades anteriores, sin perjuicio de las que le confiera la legislación aduanera, aplicables a la importación de todas las mercancías.
 
 ## CAPÍTULO IV — De la Coordinación y Participación
+
 ARTÍCULO 19.- La CIBIOGEM es una Comisión Intersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, la cual tendrá las funciones que establezcan las disposiciones reglamentarias que deriven de esta Ley, conforme a las siguientes bases:
 
 I. La CIBIOGEM estará integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Salud; Educación Pública; Hacienda y Crédito Público, y Economía, así como por el Director General del CONACyT;
@@ -316,15 +321,18 @@ VI. La CIBIOGEM también contará con un Comité Técnico integrado por los coor
 ARTÍCULO 20.- Se crea el Consejo Consultivo Científico de la CIBIOGEM que fungirá como órgano de consulta obligatoria de la propia CIBIOGEM en aspectos técnicos y científicos en biotecnología moderna y bioseguridad de OGMs. Se integrará por un conjunto de personas expertas en diferentes disciplinas, provenientes de centros, instituciones de investigación, academias o sociedades científicas de reconocido prestigio, que ejercerán su función a título personal, con independencia de la institución, asociación o empresa de la que formen parte o en la que presten sus servicios. Dichas personas expertas manifestarán expresamente en carta compromiso, al momento de ser designadas como integrantes del Consejo Consultivo Científico, no tener ningún conflicto de interés.
 La selección de las personas integrantes del Consejo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACyT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología, garantizando el principio de paridad de género.
 Entre las funciones del Consejo Consultivo se preverá la formulación de protocolos de investigación, análisis y metodologías y dictámenes técnicos, que podrán ser remunerados. Las funciones específicas del Consejo Consultivo y los mecanismos para que la renovación de sus integrantes sea progresiva y escalonada, se establecerán en las disposiciones reglamentarias que deriven de esta Ley. Los dictámenes técnicos que emita el Consejo Consultivo Científico deberán ser considerados por la CIBIOGEM en las decisiones que adopte.
-Artículo reformado DOF 11-05-2022 ARTÍCULO 21.- Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará garantizando el principio de paridad de género, por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs.
+Artículo reformado DOF 11-05-2022
+ARTÍCULO 21.- Se crea el Consejo Consultivo Mixto de la CIBIOGEM que fungirá como órgano auxiliar de consulta y opinión de la propia CIBIOGEM. Se integrará garantizando el principio de paridad de género, por representantes de asociaciones, cámaras o empresas de los sectores privado, social y productivo. Su función fundamental será conocer y opinar sobre aspectos sociales, económicos, y otros aspectos relativos a las políticas regulatorias y de fomento, así como sobre las prioridades en la normalización y el mejoramiento de trámites y procedimientos en materia de bioseguridad de los OGMs.
 Las funciones específicas del Consejo Consultivo Mixto y los mecanismos para la incorporación de sus integrantes serán establecidas por la CIBIOGEM.
-Artículo reformado DOF 11-05-2022 ARTÍCULO 22.- La CIBIOGEM emitirá sus reglas de operación en las que se establecerán los mecanismos de participación para que integrantes y representantes de los sectores académico, científico, tecnológico, social y productivo, de reconocido prestigio y experiencia en los temas relacionados directamente con las actividades que son materia de esta Ley, puedan participar mediante opiniones, estudios y consultas en el conocimiento y evolución de las políticas de bioseguridad y de fomento de la investigación en bioseguridad y biotecnología, así como también para recibir opiniones, estudios y consultas en dichas materias.
+Artículo reformado DOF 11-05-2022
+ARTÍCULO 22.- La CIBIOGEM emitirá sus reglas de operación en las que se establecerán los mecanismos de participación para que integrantes y representantes de los sectores académico, científico, tecnológico, social y productivo, de reconocido prestigio y experiencia en los temas relacionados directamente con las actividades que son materia de esta Ley, puedan participar mediante opiniones, estudios y consultas en el conocimiento y evolución de las políticas de bioseguridad y de fomento de la investigación en bioseguridad y biotecnología, así como también para recibir opiniones, estudios y consultas en dichas materias.
 ARTÍCULO 23.- El CONACyT contará en su presupuesto con los recursos necesarios para el desarrollo de las actividades de la CIBIOGEM, de la Secretaría Ejecutiva y del Consejo Consultivo Científico, conforme al presupuesto que se autorice en los términos de las disposiciones aplicables.
 Dichos recursos serán administrados y ejercidos por el Secretario Ejecutivo de la CIBIOGEM.
 Los programas, proyectos, apoyos, así como las demás acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter federal, se sujetarán a la disponibilidad de recursos que se determinen para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, y deberán observar las disposiciones aplicables en materia presupuestaria.
 ARTÍCULO 24.- Las Secretarías podrán establecer comités técnicos científicos que les proporcionen apoyo en la resolución de expedientes de solicitudes de permisos y autorizaciones, así como en materia de avisos. Las disposiciones reglamentarias de esta Ley determinarán las bases de organización y funcionamiento de dichos comités.
 
 ## CAPÍTULO V — De la Coordinación con las Entidades Federativas
+
 ARTÍCULO 25.- La Federación, por conducto de las Secretarías en el ámbito de su competencia y en los términos de las disposiciones aplicables, con el conocimiento de la CIBIOGEM, podrá celebrar convenios o acuerdos de coordinación con los gobiernos de las entidades federativas, con el objeto de:
 
 I. Establecer la colaboración concurrente en el monitoreo de los riesgos que pudieran ocasionar las actividades de liberación de OGMs al ambiente, sea experimental o en programa piloto, que se determinen en dichos convenios o acuerdos, y
@@ -353,6 +361,7 @@ Los convenios a que se refiere este artículo deberán publicarse en el Diario O
 ARTÍCULO 27.- Los gobiernos de las entidades federativas tendrán acceso permanente a la información que se inscriba en el Registro Nacional de Bioseguridad de los Organismos Genéticamente Modificados. Asimismo, la CIBIOGEM, por conducto de su Secretaría Ejecutiva, notificará las solicitudes de permisos de liberación comercial al ambiente de OGMs, a los gobiernos de las entidades federativas en las que se pretenda llevar a cabo dicha actividad, a efecto de que tengan conocimiento de esa situación y puedan emitir sus opiniones en los términos de esta Ley. La notificación deberá realizarse dentro de los veinte días siguientes a aquel en que la CIBIOGEM haya recibido la solicitud de permiso correspondiente para su inscripción en el Registro.
 
 ## CAPÍTULO VI
+
 Del Fomento a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología ARTÍCULO 28.- El Ejecutivo Federal fomentará, apoyará y fortalecerá la investigación científica y tecnológica en materia de bioseguridad y de biotecnología a través de las políticas y los instrumentos establecidos en esta Ley y en la Ley de Ciencia y Tecnología. En materia de biotecnología, estos apoyos se orientarán a impulsar proyectos de investigación y desarrollo e innovación, formación de recursos humanos especializados y fortalecimiento de grupos e infraestructura de las universidades, instituciones de educación superior y centros públicos de investigación, que se lleven a cabo para resolver necesidades productivas específicas del país y que beneficien directamente a los productores nacionales.
 En materia de bioseguridad se fomentará la investigación para obtener conocimientos suficientes que permitan evaluar los posibles riesgos de los OGMs en el medio ambiente, la diversidad biológica, la salud humana y la sanidad animal, vegetal y acuícola; para generar las consideraciones socioeconómicas de los efectos de dichos organismos para la conservación y el aprovechamiento de la diversidad biológica, y para valorar y comprobar la información proporcionada por los promoventes. Asimismo, se impulsará la creación de capacidades humanas, institucionales y de infraestructura para la evaluación y monitoreo de riesgos.
 ARTÍCULO 29.- Para lograr el fomento a la investigación científica y tecnológica en materia de bioseguridad y de biotecnología se establecerá un programa para el desarrollo de la bioseguridad y la biotecnología que será considerado como un programa cuya formulación estará a cargo del CONACyT con base en las propuestas que presenten las Secretarías y las demás dependencias y entidades de la Administración Pública Federal que apoyen o realicen investigación científica y desarrollo tecnológico. En dicho proceso se tomarán en cuenta las opiniones y propuestas de las comunidades científica, académica, tecnológica y sector productivo, convocadas por el Foro Consultivo Científico y Tecnológico, y de la CIBIOGEM.
@@ -384,7 +393,9 @@ Artículo reformado DOF 06-11-2020
 
 ## TÍTULO SEGUNDO — De los Permisos
 
+
 ## CAPÍTULO I — Disposiciones Comunes
+
 ARTÍCULO 32.- Requerirá de permiso la realización de las siguientes actividades:
 
 I. La liberación experimental al ambiente, incluyendo la importación para esa actividad, de uno o más OGMs;
@@ -417,9 +428,11 @@ ARTÍCULO 40.- No se permitirá la importación de OGMs o de productos que los c
 ARTÍCULO 41.- Se prohíbe realizar actividades con OGMs o con cualquier otro organismo cuya finalidad sea la fabricación y/o utilización de armas biológicas.
 
 ## CAPÍTULO II
+
 Requisitos para la Obtención de Permisos
 
 ## SECCIÓN I
+
 Permiso para liberación experimental al ambiente ARTÍCULO 42.- La solicitud del permiso para realizar la liberación experimental al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. Caracterización del OGM, en la que se deberá considerar lo que establezcan para cada caso las normas oficiales mexicanas que deriven de esta Ley;
@@ -452,6 +465,7 @@ ARTÍCULO 48.- La Secretaría correspondiente podrá limitar la vigencia del per
 ARTÍCULO 49.- Las liberaciones experimentales al ambiente de OGMs se realizarán al amparo y conforme a los términos y condiciones que establezca el permiso. En caso de que dicho permiso comprenda la realización de diversas liberaciones del mismo OGM en la misma área geográfica establecida en el permiso, en el mismo se podrá establecer el requisito de aviso de cada liberación.
 
 ## SECCIÓN II
+
 Permiso para liberación al ambiente en programa piloto ARTÍCULO 50.- La solicitud del permiso para realizar la liberación al ambiente de OGMs en programa piloto, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. El permiso para la liberación experimental del OGM de que se trate;
@@ -474,6 +488,7 @@ ARTÍCULO 53.- El titular del permiso de liberación al ambiente en programa pil
 ARTÍCULO 54.- El titular del permiso estará obligado a informar inmediatamente a la Secretaría correspondiente, cualquier situación que en la realización de la liberación permitida, pudiera incrementar o disminuir los posibles riesgos para el medio ambiente, la diversidad biológica y/o la salud humana.
 
 ## SECCIÓN III
+
 Permiso para liberación comercial al ambiente ARTÍCULO 55.- La solicitud del permiso para realizar la liberación comercial al ambiente de OGMs, incluyendo su importación para esa actividad, deberá acompañarse de la siguiente información:
 
 I. Los permisos para la liberación experimental y en programa piloto del OGM de que se trate;
@@ -496,6 +511,7 @@ ARTÍCULO 58.- Las actividades e importaciones subsecuentes al permiso de libera
 ARTÍCULO 59.- El permiso de liberación comercial al ambiente de un OGM conlleva la autorización de comercialización del organismo de que se trate y de los productos que lo contengan, en los términos de esta Ley.
 
 ## CAPÍTULO III
+
 Estudio y Evaluación del Riesgo ARTÍCULO 60.- La evaluación del riesgo es el proceso por el cual se analizan caso por caso, con base en estudios fundamentados científica y técnicamente que deberán elaborar los interesados, los posibles riesgos o efectos que la liberación experimental al ambiente de OGMs pueden causar al medio ambiente y a la diversidad biológica, así como a la sanidad animal, vegetal y acuícola.
 Los posibles riesgos a la salud humana serán materia de estudio de riesgos para la obtención de la autorización del OGM de que se trate, en los términos de esta Ley.
 ARTÍCULO 61.- Para llevar a cabo el estudio y la evaluación del riesgo, se deberán observar los siguientes lineamientos:
@@ -528,9 +544,11 @@ ARTÍCULO 64.- El interesado podrá presentar de manera adicional al estudio de 
 ARTÍCULO 65.- Las características y requisitos de los estudios de evaluación de los posibles riesgos, se establecerán en las normas oficiales mexicanas que deriven de esta Ley.
 
 ## CAPÍTULO IV — De los Dictámenes
+
 ARTÍCULO 66.- Los dictámenes que deberá emitir la SEMARNAT únicamente se requerirán tratándose de actividades de liberación experimental, de liberación en programa piloto y de liberación comercial de OGMs que sean de competencia de la SAGARPA. Dichos dictámenes deberán ser emitidos en un plazo de sesenta días contados a partir de que la SEMARNAT reciba el expediente administrativo remitido por la SAGARPA. Dicho plazo comprende tanto la expedición del dictamen correspondiente, como su remisión a la SAGARPA. La SAGARPA expedirá el permiso de liberación de OGMs al ambiente que corresponda, siempre que el dictamen que emita la SEMARNAT sea favorable.
 
 ## CAPÍTULO V — De la Reconsideración de las Resoluciones Negativas
+
 ARTÍCULO 67.- Los interesados a los que la Secretaría correspondiente les haya negado el permiso solicitado, podrán pedir a dicha Secretaría la reconsideración de la resolución respectiva, cuando se considere que:
 
 I. Se ha producido un cambio en las circunstancias que puede influir en el resultado del estudio de los posibles riesgos en el cual se basó la resolución, o
@@ -540,6 +558,7 @@ La Secretaría competente podrá emitir una resolución dentro de los dos meses 
 ARTÍCULO 68.- La reconsideración a que se refiere el artículo anterior no constituye ningún recurso o medio de defensa, y podrá ser promovida por los interesados con independencia de que hagan valer el medio de impugnación establecido en esta Ley en contra de la resolución que les afecte.
 
 ## CAPÍTULO VI — De la Revisión de los Permisos
+
 ARTÍCULO 69.- La Secretaría correspondiente, en cualquier momento y sobre la base de nueva información científica o técnica acerca de los posibles riesgos que puedan provocar los OGMs a la salud pública o al medio ambiente y a la diversidad biológica, podrán revisar los permisos otorgados y, en su caso, suspender sus efectos o revocar dichos permisos, conforme a los procedimientos que establezcan las disposiciones reglamentarias que deriven de esta Ley, cuando considere como causas que:
 
 I. Se presente un cambio en las circunstancias de las actividades que puede influir en el resultado del estudio de la evaluación de los posibles riesgos en el cual se basó el permiso, o
@@ -547,6 +566,7 @@ I. Se presente un cambio en las circunstancias de las actividades que puede infl
 II. Se cuente con información científica o técnica adicional que pudiese modificar cualesquiera condiciones, limitaciones o requisitos del permiso.
 
 ## CAPÍTULO VII
+
 Confidencialidad ARTÍCULO 70.- Los interesados podrán identificar claramente en su solicitud de permiso, aquella información que deba considerarse como confidencial conforme al régimen de propiedad industrial o de derechos de autor. La Secretaría correspondiente se sujetará a lo establecido en las leyes de la materia y se abstendrá de mandar registrar y de facilitar a terceros la información y los datos que estén protegidos por dichas leyes.
 ARTÍCULO 71.- No tendrán el carácter de confidencial:
 
@@ -562,11 +582,14 @@ V. Los estudios sobre los posibles riesgos a la salud humana o al medio ambiente
 El acceso a la información a la que se refieren las fracciones anteriores se regirá, además, por las disposiciones aplicables en materia de acceso a la información pública gubernamental.
 
 ## CAPÍTULO VIII
+
 Exportación de OGMs que se destinen a su liberación al ambiente en otros países ARTÍCULO 72.- Los interesados en exportar OGMs que se destinen a su liberación al ambiente en otros países, notificarán por sí, conforme se determine en las disposiciones reglamentarias que deriven de esta Ley, su intención de exportar dichos organismos, a las autoridades competentes del país respectivo. Dicha notificación sólo se realizará en los casos en que los tratados y acuerdos internacionales en los que los Estados Unidos Mexicanos sean parte, establezcan ese requisito para efectuar la exportación al país de que se trate. La información que el interesado adjunte a la notificación a que se refiere este artículo, deberá ser exacta, fidedigna y ajustada a lo que establezcan dichos tratados y acuerdos internacionales.
 
 ## TÍTULO TERCERO — De la Utilización Confinada y Avisos
 
+
 ## CAPÍTULO I
+
 Utilización Confinada ARTÍCULO 73.- La utilización confinada de OGMs puede ser con fines de enseñanza, de investigación científica y tecnológica, industriales o comerciales.
 ARTÍCULO 74.- Quienes realicen actividades de utilización confinada sujetas al requisito de presentación de aviso en los términos de esta Ley, deberán cumplir con lo siguiente:
 
@@ -583,6 +606,7 @@ ARTÍCULO 75.- El almacenamiento o depósito de OGMs o de productos que los cont
 ARTÍCULO 76.- El transporte de OGMs o de productos que los contengan, así como el tránsito de dichos organismos y productos por el territorio nacional, cuando tengan como destino otro país, se regirán por las normas oficiales mexicanas que expidan de manera conjunta las Secretarías competentes, con la participación de la Secretaría de Comunicaciones y Transportes.
 
 ## CAPÍTULO II — De los Avisos
+
 ARTÍCULO 77.- El aviso es la comunicación que deben presentar en formatos oficiales los sujetos señalados en esta Ley, a la SEMARNAT o a la SAGARPA, según corresponda conforme a este ordenamiento, respecto de la utilización confinada de OGMs en los casos que se establecen en este capítulo.
 ARTÍCULO 78.- Los avisos se deberán presentar a la SEMARNAT o a la SAGARPA, conforme a las atribuciones que esta Ley les confiere, en los formatos oficiales que se expidan para tal efecto. El contenido de los formatos lo determinarán dichas Secretarías, con la previa aprobación de la Comisión Federal de Mejora Regulatoria. En dichos formatos se determinará la información y documentación que deba presentar el interesado. Los formatos se deberán publicar en el Diario Oficial de la Federación.
 ARTÍCULO 79.- Requieren de presentación de aviso:
@@ -621,9 +645,11 @@ Dicha resolución podrá ser impugnada a través del recurso de revisión establ
 ARTÍCULO 85.- Las personas cuya actividad de utilización confinada esté sujeta al requisito de presentación de aviso estarán obligadas a observar y cumplir las demás disposiciones del presente ordenamiento y de las normas oficiales mexicanas que deriven del mismo, en lo que le sea aplicable.
 
 ## TÍTULO CUARTO
+
 Zonas Restringidas
 
 ## CAPÍTULO I
+
 Centros de Origen y de Diversidad Genética ARTÍCULO 86.- Las especies de las que los Estados Unidos Mexicanos sea centro de origen y de diversidad genética así como las áreas geográficas en las que se localicen, serán determinadas conjuntamente mediante acuerdos por la SEMARNAT y la SAGARPA, con base en la información con la que cuenten en sus archivos o en sus bases de datos, incluyendo la que proporcione, entre otros, el Instituto Nacional de Estadística, Geografía e Informática, el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias, el Instituto Nacional de Ecología, la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad y la Comisión Nacional Forestal, así como los acuerdos y tratados internacionales relativos a estas materias. La SEMARNAT y la SAGARPA establecerán en los acuerdos que expidan, las medidas necesarias para la protección de dichas especies y áreas geográficas.
 ARTÍCULO 87.- Para la determinación de los centros de origen y de diversidad genética se tomarán en cuenta los siguientes criterios:
 
@@ -633,11 +659,13 @@ II. En el caso de cultivos, las regiones geográficas en donde el organismo de q
 ARTÍCULO 88.- En los centros de origen y de diversidad genética de especies animales y vegetales sólo se permitirá la realización de liberaciones de OGMs cuando se trate de OGMs distintos a las especies nativas, siempre que su liberación no cause una afectación negativa a la salud humana o a la diversidad biológica.
 
 ## CAPÍTULO II — De las Actividades con OGMs en Áreas Naturales Protegidas
+
 ARTÍCULO 89.- En las áreas naturales protegidas creadas de conformidad con lo dispuesto en la materia, sólo se permitirán actividades con OGMs para fines de biorremediación, en los casos en que aparezcan plagas o contaminantes que pudieran poner en peligro la existencia de especies animales, vegetales o acuícolas, y los OGMs hayan sido creados para evitar o combatir dicha situación, siempre que se cuente con los elementos científicos y técnicos necesarios que soporten el beneficio ambiental que se pretende obtener, y dichas actividades sean permitidas por la SEMARNAT en los términos de esta Ley.
 Para los efectos de lo dispuesto en el párrafo anterior, queda prohibido realizar actividades con OGMs en las zonas núcleo de las áreas naturales protegidas.
 En caso de que algún centro de origen o centro de diversidad genética se ubique dentro de alguna área natural protegida, las declaratorias de creación y los programas de manejo de dichas áreas se modificarán en los términos de la legislación de la materia, conforme se realicen las determinaciones a que se refiere el Artículo 86 de la presente Ley.
 
 ## CAPÍTULO III
+
 Zonas Libres de OGMs ARTÍCULO 90.- Se podrán establecer zonas libres de OGMs para la protección de productos agrícolas orgánicos y otros de interés de la comunidad solicitante, conforme a los siguientes lineamientos generales:
 
 I. Las zonas libres se establecerán cuando se trate de OGMs de la misma especie a las que se produzcan mediante procesos de producción de productos agrícolas orgánicos, y se demuestre científica y técnicamente que no es viable su coexistencia o que no cumplirían con los requisitos normativos para su certificación;
@@ -653,7 +681,9 @@ IV. La SAGARPA establecerá en los acuerdos las medidas de seguridad que se podr
 
 ## TÍTULO QUINTO — De la Protección de la Salud Humana en relación con los OGMs
 
+
 ## CAPÍTULO I — De las Autorizaciones de OGMs
+
 ARTÍCULO 91.- Los OGMs objeto de autorización son los siguientes:
 
 I. Los que se destinen a su uso o consumo humano, incluyendo granos;
@@ -685,10 +715,12 @@ ARTÍCULO 97.- Los OGMs autorizados por la SSA podrán ser libremente comerciali
 ARTÍCULO 98.- Serán aplicables al procedimiento administrativo de autorización, las disposiciones relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de los Permisos y Confidencialidad.
 
 ## CAPÍTULO II — Disposiciones Adicionales
+
 ARTÍCULO 99.- El envasado de OGMs y de productos que los contengan, para uso o consumo humano, se regirá por las normas oficiales mexicanas que expida la SSA, conjuntamente con la Secretaría de Economía, de conformidad con la Ley General de Salud y sus disposiciones reglamentarias, y con la Ley Federal sobre Metrología y Normalización.
 ARTÍCULO 100.- El desarrollo, producción, comercialización y en general proceso de OGMs con efectos terapéuticos, adicionalmente a lo establecido en esta Ley, estará sujeto a lo dispuesto por la Ley General de Salud y demás ordenamientos aplicables a medicamentos y fármacos.
 
 ## TÍTULO SEXTO
+
 Etiquetado e Identificación de OGMs ARTÍCULO 101.- Los OGMs o productos que contengan organismos genéticamente modificados, autorizados por la SSA por su inocuidad en los términos de esta Ley y que sean para consumo humano directo, deberán garantizar la referencia explícita de organismos genéticamente modificados y señalar en la etiqueta la información de su composición alimenticia o sus propiedades nutrimentales, en aquellos casos en que estas características sean significativamente diferentes respecto de los productos convencionales, y además cumplir con los requisitos generales adicionales de etiquetado conforme a las normas oficiales mexicanas que expida la SSA, de acuerdo con lo dispuesto en la Ley General de Salud y sus disposiciones reglamentarias, con la participación de la Secretaría de Economía.
 La información que contengan las etiquetas, conforme a lo establecido en este artículo, deberá ser veraz, objetiva, clara, entendible, útil para el consumidor y sustentada en información científica y técnica.
 El etiquetado de OGMs que sean semillas o material vegetativo destinados a siembra, cultivo y producción agrícola, quedará sujeto a las normas oficiales mexicanas que expida la SAGARPA con la participación de la Secretaría de Economía. Respecto de este tipo de OGMs, será obligatorio consignar en la etiqueta que se trata de organismos genéticamente modificados, las características de la combinación genética adquirida y sus implicaciones relativas a condiciones especiales y requerimientos de cultivo, así como los cambios en las características reproductivas y productivas.
@@ -696,6 +728,7 @@ La evaluación de la conformidad de dichas normas oficiales mexicanas la realiza
 ARTÍCULO 102.- Los requisitos de información que deberá contener la documentación que acompañe a los OGMs que se importen conforme a esta Ley, se establecerán en normas oficiales mexicanas que deriven del presente ordenamiento, considerando en su expedición la finalidad a la que se destinen dichos organismos y lo que se establezca en tratados internacionales de los que los Estados Unidos Mexicanos sean parte. Las normas oficiales mexicanas a que se refiere este artículo, serán expedidas conjuntamente por la SAGARPA, la SSA y la Secretaría de Economía. En caso de que la importación de OGMs se realice con la finalidad de su liberación al ambiente, las normas oficiales mexicanas a que se refiere este artículo serán expedidas por las Secretarías señaladas conjuntamente con la SEMARNAT.
 
 ## TÍTULO SÉPTIMO — De las Listas de OGMs
+
 ARTÍCULO 103.- Las listas de OGMs que conforme a esta Ley se expidan y publiquen serán las siguientes:
 
 I. Las de OGMs que cuenten con permiso para su liberación comercial o para su importación para esa actividad;
@@ -738,7 +771,9 @@ IX. Los posibles efectos o riesgos que las distintas actividades con dichos orga
 
 ## TÍTULO OCTAVO — De la Información sobre Bioseguridad
 
+
 ## CAPÍTULO I — Del Sistema Nacional de Información sobre Bioseguridad
+
 ARTÍCULO 108.- La CIBIOGEM, a través de su Secretaría Ejecutiva, desarrollará el Sistema Nacional de Información sobre Bioseguridad que tendrá por objeto organizar, actualizar y difundir la información sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros aspectos, la información correspondiente al Registro.
 La CIBIOGEM reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia de bioseguridad, incluyendo la inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras, los que serán remitidos y organizados por el Sistema Nacional de Información sobre Bioseguridad. Además, elaborará y publicará anualmente un informe detallado de la situación general existente en el país en materia de biotecnología y bioseguridad materia de esta Ley.
 La CIBIOGEM, además, realizará los estudios y las consideraciones socioeconómicas resultantes de los efectos de los OGMs que se liberen al ambiente en el territorio nacional, y establecerá los mecanismos para realizar la consulta y participación de los pueblos y comunidades indígenas asentadas en las zonas donde se pretenda la liberación de OGMs, considerando el valor de la diversidad biológica.
@@ -758,21 +793,26 @@ VI. Los informes sobre el cumplimiento de las obligaciones establecidas en el Pr
 Las Secretarías competentes podrán proporcionar de manera directa al Centro de Intercambio de Información sobre Seguridad de la Biotecnología, la información a que se refieren las fracciones anteriores, informando simultáneamente a la Secretaría Ejecutiva de la CIBIOGEM.
 
 ## CAPÍTULO II — Del Registro Nacional de Bioseguridad de los OGMs
+
 ARTÍCULO 109.- El Registro, que estará a cargo de la Secretaría Ejecutiva de la CIBIOGEM, tendrá carácter público y tiene por objeto la inscripción de la información relativa a las actividades con OGMs, así como de los propios organismos. Su funcionamiento y lo que puede ser objeto de inscripción se determinarán en las disposiciones reglamentarias que deriven de esta Ley. La SEMARNAT, la SAGARPA y la SSA contribuirán a la organización y funcionamiento del Registro.
 
 ## TÍTULO NOVENO — De las Normas Oficiales Mexicanas en Materia de Bioseguridad
+
 ARTÍCULO 110.- Para garantizar la bioseguridad de las actividades con OGMs, las Secretarías, de manera conjunta o con la participación de otras dependencias de la Administración Pública Federal, expedirán normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios, especificaciones técnicas y procedimientos conforme a las disposiciones de esta Ley.
 ARTÍCULO 111.- En la formulación de normas oficiales mexicanas en materia de bioseguridad deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada actividad o proceso productivo con OGMs.
 ARTÍCULO 112.- La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así como los actos de inspección y vigilancia corresponderán exclusivamente a las Secretarías competentes en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por dichas Secretarías de conformidad con las disposiciones reglamentarias que deriven del presente ordenamiento y con la Ley Federal sobre Metrología y Normalización.
 
 ## TÍTULO DÉCIMO
+
 Inspección y Vigilancia y Medidas de Seguridad o de Urgente Aplicación
 
 ## CAPÍTULO I
+
 Inspección y Vigilancia ARTÍCULO 113.- Para verificar y comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, las Secretarías competentes podrán realizar por conducto de personal debidamente autorizado, los actos de inspección y vigilancia que consideren necesarios, por conducto de las Unidades Administrativas facultadas legalmente para ello, conforme a esta Ley.
 ARTÍCULO 114.- Por lo que hace a los requisitos y formalidades que deben observarse en la realización de visitas de inspección y vigilancia, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Decimoprimero del Título Tercero de la Ley Federal de Procedimiento Administrativo. En materia de restauración o compensación de daños al medio ambiente o a la diversidad biológica, podrá ser aplicable lo dispuesto en el segundo párrafo del Artículo 168 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ## CAPÍTULO II
+
 Medidas de Seguridad o de Urgente Aplicación ARTÍCULO 115.- Las Secretarías, en el ámbito de su competencia conforme a esta Ley, ordenarán alguna o algunas de las medidas que se establecen en este artículo, en caso de que en la realización de actividades con OGMs se presente lo siguiente:
 
 I. Surjan riesgos no previstos originalmente, que pudieran causar daños o efectos adversos y significativos a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
@@ -811,9 +851,11 @@ Sin perjuicio de lo anterior, las Secretarías, en el ámbito de sus competencia
 ARTÍCULO 118.- Son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo Único del Título Quinto de la Ley Federal de Procedimiento Administrativo, excepto para lo dispuesto en el artículo anterior.
 
 ## TÍTULO D — ECIMOPRIMERO
+
 Infracciones, Sanciones y Responsabilidades
 
 ## CAPÍTULO I — De las Infracciones
+
 ARTÍCULO 119.- Incurre en infracciones administrativas a las disposiciones de esta Ley, la persona que, con pleno conocimiento de que se trata de OGMs:
 
 I. Realice actividades con OGMs sin contar con los permisos y las autorizaciones respectivas;
@@ -873,6 +915,7 @@ XXVII. Libere intencionalmente OGMs al ambiente sin contar con los permisos de l
 XXVIII. Libere al ambiente OGMs que hayan sido importados o producidos en el territorio nacional, en los términos de esta Ley, para consumo directo humano o animal, para procesamiento de alimentos para consumo humano, o para otros usos distintos a su liberación al ambiente.
 
 ## CAPÍTULO II — De las Sanciones
+
 ARTÍCULO 120.- Las infracciones a los preceptos de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por las Secretarías competentes, con una o más de las siguientes sanciones:
 
 I. Multa de quinientos a quince mil días de salario mínimo general vigente en el Distrito Federal a quien cometa las infracciones previstas en las fracciones IV, V, VIII, XIV, XVI, XVII, y XXI del artículo 119 de esta Ley;
@@ -903,6 +946,7 @@ Las sanciones administrativas establecidas en el Artículo anterior se aplicará
 ARTÍCULO 122.- Son aplicables supletoriamente a este Capítulo en cuanto a responsabilidades administrativas, las disposiciones del Capítulo Único del Título Cuarto de la Ley Federal de Procedimiento Administrativo, con excepción del artículo 70-A de dicho ordenamiento.
 
 ## TÍTULO D — ECIMOSEGUNDO
+
 Recurso de Revisión ARTÍCULO 123.- Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y las normas que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 El recurso de revisión se interpondrá directamente ante la Secretaría que emitió la resolución impugnada, quien en su caso, otorgará su admisión, y el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico en la misma Secretaría para su resolución definitiva.
 ARTÍCULO 124.- Por lo que se refiere a los demás trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
@@ -959,20 +1003,20 @@ Se reforma el artículo 31 de la Ley de Bioseguridad de Organismos Genéticament
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-**Cuarto.** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+**Cuarto.-** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
 A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-**Quinto.** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+**Quinto.-** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-**Sexto.** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
-**Séptimo.** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+**Sexto.-** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+**Séptimo.-** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
 Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
 El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
 Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
@@ -984,20 +1028,20 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
 A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de EnergíaHidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
-**Octavo.** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+**Octavo.-** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
-**Noveno.** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-**Décimo.** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-**Décimo Primero.** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
-**Décimo Segundo.** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-**Décimo Tercero.** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
-**Décimo Cuarto.** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+**Noveno.-** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+**Décimo.-** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+**Décimo Primero.-** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+**Décimo Segundo.-** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+**Décimo Tercero.-** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+**Décimo Cuarto.-** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
-**Décimo Quinto.** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+**Décimo Quinto.-** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
 Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
 A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
@@ -1005,18 +1049,18 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
-**Décimo Sexto.** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
+**Décimo Sexto.-** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
 
 ## transitorio
 
-**Cuarto.** del presente Decreto.
+**Cuarto.-** del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-**Décimo Séptimo.** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
-**Décimo Octavo.** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
-**Décimo Noveno.** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+**Décimo Séptimo.-** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+**Décimo Octavo.-** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+**Décimo Noveno.-** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-**Vigésimo.** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+**Vigésimo.-** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1028,9 +1072,9 @@ Se reforman los artículos 20 y 21 de la Ley de Bioseguridad de Organismos Gené
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

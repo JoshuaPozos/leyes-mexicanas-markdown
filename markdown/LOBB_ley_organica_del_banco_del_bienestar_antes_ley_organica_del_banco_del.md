@@ -11,6 +11,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 Denominación de la Ley reformada DOF 19-07-2019
 
 ## CAPÍTULO I
+
 Denominación, definiciones, objeto y domicilio
 
 ### Artículo 1
@@ -26,15 +27,18 @@ Fracción reformada DOF 19-07-2019
 
 II. Secretaría: A la Secretaría de Hacienda y Crédito Público;
 
-III. Institución: Al Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y Fracción reformada DOF 19-07-2019
+III. Institución: Al Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
+Fracción reformada DOF 19-07-2019
 
 IV. Sector: Al conformado por las personas físicas y morales que, de acuerdo con los criterios definidos por el Consejo Directivo, tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 Fracción reformada DOF 23-02-2005, 10-01-2014
 
 ### Artículo 3
 .- El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, realizará funciones de banca social, para lo cual tendrá por objeto promover y facilitar el ahorro, el acceso al financiamiento en condiciones equitativas, la inclusión financiera, el uso y fomento de la innovación tecnológica a fin de procurar mejores condiciones a los integrantes del Sector, la perspectiva de género y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, canalizar apoyos financieros y técnicos necesarios para fomentar el uso de productos y servicios financieros que atiendan las necesidades del Sector y que promuevan la adopción de modelos de negocio y tecnologías financieras innovadoras que impacten en el sano desarrollo del Sector y, en general, que la actividad de la Institución contribuya al desarrollo económico a nivel nacional y regional, proporcionar asistencia técnica y capacitación a los integrantes del Sector, así como dispersar los recursos destinados a subsidios y programas sujetos a reglas de operación de las dependencias y entidades.
-Párrafo reformado DOF 10-01-2014, 19-07-2019 El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial.
-Párrafo adicionado DOF 10-01-2014. Reformado DOF 19-07-2019 La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
+Párrafo reformado DOF 10-01-2014, 19-07-2019
+El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial.
+Párrafo adicionado DOF 10-01-2014. Reformado DOF 19-07-2019
+La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 
 ### Artículo 4
 .- El domicilio de la Institución será la Ciudad de México. Podrá establecer, clausurar o reubicar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría. Tratándose del establecimiento de sucursales, agencias y oficinas en el extranjero, deberá contar con autorización de la misma.
@@ -45,9 +49,11 @@ Artículo reformado DOF 23-02-2005, 19-07-2019
 
 ### Artículo 6
 .- Las operaciones, servicios e inversiones de la Institución, se regirán por lo dispuesto en la presente Ley, la Ley de Instituciones de Crédito, la Ley del Banco de México y por las demás disposiciones legales aplicables.
-Párrafo reformado DOF 23-02-2005 La Secretaría interpretará a efectos administrativos la presente Ley.
+Párrafo reformado DOF 23-02-2005
+La Secretaría interpretará a efectos administrativos la presente Ley.
 
 ## CAPÍTULO II
+
 Objetivos y operaciones
 
 ### Artículo 7
@@ -94,10 +100,12 @@ Fracción adicionada DOF 19-07-2019
 XIV. Diseñar y ofertar productos de crédito, inversión y ahorro para el Sector, así como prestar los servicios financieros y desarrollar los modelos novedosos previstos en la Ley para Regular las Instituciones de Tecnología Financiera;
 Fracción adicionada DOF 19-07-2019
 
-XV. Suscribir convenios de coordinación en apego a la normatividad aplicable, para incluir servicios financieros de los programas y productos diseñados por la Institución, y Fracción adicionada DOF 19-07-2019
+XV. Suscribir convenios de coordinación en apego a la normatividad aplicable, para incluir servicios financieros de los programas y productos diseñados por la Institución, y
+Fracción adicionada DOF 19-07-2019
 
 XVI. Difundir a través de sus programas de publicidad y propaganda, los productos financieros diseñados por la Institución.
-Fracción adicionada DOF 19-07-2019 La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
+Fracción adicionada DOF 19-07-2019
+La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
 
 ### Artículo 8
 .- Para el cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos 3 y 7 anteriores, la Institución podrá:
@@ -129,7 +137,8 @@ X. Invertir en el capital social de sociedades o personas morales, que le preste
 Fracción adicionada DOF 23-02-2005
 
 XI. Actuar como cámara de compensación y liquidador de las operaciones que realicen las Entidades de Ahorro y Crédito Popular y como representante de dichas Entidades en cualquier otra cámara de compensación, o entidad que lleve a cabo las funciones de compensación y/o liquidación referidas, sujetándose en la realización de ambas operaciones a las disposiciones que, en su caso, emita el Banco de México;
-Fracción adicionada DOF 23-02-2005 XI Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
+Fracción adicionada DOF 23-02-2005
+XI Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 Fracción adicionada DOF 10-01-2014
 
 XII. Participar en el capital social de sociedades de inversión, así como de sociedades operadoras de éstas, y en el de sociedades distribuidoras de acciones, además de prestar el servicio de distribución de acciones a sociedades de inversión propias o de terceros;
@@ -138,18 +147,22 @@ Fracción adicionada DOF 23-02-2005. Reformada DOF 19-07-2019
 XIII. Fomentar el crédito de consumo, considerando condiciones financieras óptimas que permitan tener alcance y apoyo para el Sector, con el fin de cumplir con la inclusión financiera y bajo las consideraciones que en su caso estime el Consejo Directivo;
 Fracción recorrida DOF 23-02-2005. Reformada DOF 19-07-2019
 
-XIV. Actuar como fiduciaria en fideicomisos emisores de certificados bursátiles en los términos de Fracción adicionada DOF 19-07-2019
+XIV. Actuar como fiduciaria en fideicomisos emisores de certificados bursátiles en los términos de
+Fracción adicionada DOF 19-07-2019
 
-XV. Recibir mandatos para administrar recursos de terceros, y Fracción adicionada DOF 19-07-2019
+XV. Recibir mandatos para administrar recursos de terceros, y
+Fracción adicionada DOF 19-07-2019
 
 XVI. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 Fracción adicionada DOF 19-07-2019
 
 ### Artículo 8
 Bis.- La Institución podrá ser depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas, o judiciales de la Federación y por o ante las autoridades administrativas de la Ciudad de México, así como de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas de la Ciudad de México.
-Párrafo reformado DOF 19-07-2019 Las autoridades mencionadas estarán obligadas a entregar a la institución dichos bienes en su indicado carácter de depositaria.
+Párrafo reformado DOF 19-07-2019
+Las autoridades mencionadas estarán obligadas a entregar a la institución dichos bienes en su indicado carácter de depositaria.
 También podrán realizar en la institución, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales y, en su caso, la Ciudad de México o por órdenes o contratos de autoridades de la Federación y, en su caso, la Ciudad de México.
-Párrafo reformado DOF 19-07-2019 Artículo adicionado DOF 24-06-2002
+Párrafo reformado DOF 19-07-2019
+Artículo adicionado DOF 24-06-2002
 
 ### Artículo 9
 .- La Secretaría, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Institución para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
@@ -166,6 +179,7 @@ II. De las operaciones concertadas por la Institución con instituciones del ext
 .- En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del artículo 106 de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos.
 
 ## CAPÍTULO III
+
 Capital Social
 
 ### Artículo 12
@@ -183,6 +197,7 @@ La serie "B" podrá ser suscrita por el Gobierno Federal y por personas físicas
 .- La Secretaría establecerá la forma, proporciones y demás condiciones aplicables a la suscripción, tenencia y circulación de los certificados de la serie "B".
 
 ## CAPÍTULO IV
+
 Administración
 
 ### Artículo 16
@@ -197,19 +212,22 @@ Párrafo reformado DOF 19-07-2019
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo y el Subsecretario de Hacienda y Crédito Público.
 
 b) Un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central, los titulares de las Secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Párrafo reformado DOF 10-01-2014 Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios.
+Párrafo reformado DOF 10-01-2014
+Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios.
 En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
 Párrafo reformado DOF 23-02-2005, 10-01-2014
 
 II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
 
 III. Dos consejeros independientes designados de común acuerdo por los consejeros propietarios de las series “A” y “B”. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
-Párrafo reformado DOF 24-06-2002 Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo.
+Párrafo reformado DOF 24-06-2002
+Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo.
 El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
 ### Artículo 18
 .- El Consejo Directivo se reunirá por lo menos trimestralmente, sin perjuicio de que lo haga en forma extraordinaria en cualquier tiempo, siempre que sea convocado por su presidente, o por cuando menos tres de los consejeros propietarios.
-Párrafo reformado DOF 10-01-2014 Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie "A", incluido el presidente del Consejo Directivo.
+Párrafo reformado DOF 10-01-2014
+Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie "A", incluido el presidente del Consejo Directivo.
 Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los consejeros presentes, teniendo el presidente voto de calidad en caso de empate.
 El Consejo Directivo podrá invitar a sus sesiones, cuando así lo considere conveniente, a representantes de otras instituciones públicas y organizaciones del sector social o privado y en general a cualquier persona, que de conformidad con la opinión del Consejo Directivo desarrolle actividades relevantes para el cumplimiento de los objetivos de la Institución, quienes concurrirán con voz pero sin voto.
 Los consejeros tendrán la obligación de comunicar al presidente del consejo sobre cualquier situación de la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Institución, mientras tal información no se haya hecho del conocimiento público, así como de las deliberaciones que se adopten en el Consejo Directivo.
@@ -328,10 +346,12 @@ Fracción adicionada DOF 23-02-2005
 XXV. Aprobar los programas anuales de publicidad y propaganda de la Institución, sin que se requiera autorización de la Secretaría de Gobernación;
 Fracción adicionada DOF 23-02-2005
 
-XXVI. Opinar sobre las Condiciones Generales de Trabajo de la Institución, y Fracción adicionada DOF 23-02-2005
+XXVI. Opinar sobre las Condiciones Generales de Trabajo de la Institución, y
+Fracción adicionada DOF 23-02-2005
 
 XXVII. Conocer y en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste.
-Fracción adicionada DOF 23-02-2005 En los supuestos establecidos en las fracciones XII, XVI, XXIII y XXIV se requerirá de la autorización expresa de la Secretaría.
+Fracción adicionada DOF 23-02-2005
+En los supuestos establecidos en las fracciones XII, XVI, XXIII y XXIV se requerirá de la autorización expresa de la Secretaría.
 Párrafo adicionado DOF 23-02-2005
 
 ### Artículo 23
@@ -442,7 +462,8 @@ Fracción adicionada DOF 23-02-2005
 XXX. Representar a la Institución ante las agrupaciones, asociaciones y organismos nacionales e internacionales de fomento al Sector, o de cualquier otra índole relacionados con el objeto y objetivos de la Institución;
 Fracción adicionada DOF 23-02-2005
 
-XXXI. Las que le confiera el Reglamento Orgánico, y Fracción adicionada DOF 23-02-2005
+XXXI. Las que le confiera el Reglamento Orgánico, y
+Fracción adicionada DOF 23-02-2005
 
 XXXII. Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 Fracción adicionada DOF 23-02-2005
@@ -455,6 +476,7 @@ Artículo adicionado DOF 19-07-2019
 .- Los Consejeros, el Director General y los Delegados Fiduciarios de la Institución, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
 
 ## CAPÍTULO V
+
 Vigilancia
 
 ### Artículo 27
@@ -462,6 +484,7 @@ Vigilancia
 Artículo reformado DOF 23-02-2005, 10-01-2014
 
 ## CAPÍTULO VI — Disposiciones generales
+
 
 ### Artículo 28
 .- Conforme a las reglas generales de operación que autorice la Secretaría, los planes de ahorro; así como los demás instrumentos de captación que determine el Consejo Directivo, participarán en sorteos con derecho a premio durante todo el tiempo de su vigencia y hasta que sean pagados al depositante.
@@ -481,8 +504,10 @@ Artículo reformado DOF 23-02-2005
 
 ### Artículo 32
 .- La institución formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría.
-Párrafo reformado DOF 24-06-2002 A la Secretaría compete coordinar, evaluar y vigilar la actuación de la institución, así como autorizar las modalidades en la asignación de recursos, en los términos del artículo 31 de la Ley de Instituciones de Crédito.
-Párrafo reformado DOF 24-06-2002 La Institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables, procurará el mejor aprovechamiento y la canalización más adecuada de sus recursos.
+Párrafo reformado DOF 24-06-2002
+A la Secretaría compete coordinar, evaluar y vigilar la actuación de la institución, así como autorizar las modalidades en la asignación de recursos, en los términos del artículo 31 de la Ley de Instituciones de Crédito.
+Párrafo reformado DOF 24-06-2002
+La Institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables, procurará el mejor aprovechamiento y la canalización más adecuada de sus recursos.
 
 ### Artículo 33
 .- Las operaciones realizadas por la Institución en la prestación del servicio de banca y crédito en las que se constituyan garantías reales, podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo 66 de la Ley de Instituciones de Crédito.
@@ -492,7 +517,8 @@ Párrafo reformado DOF 24-06-2002 La Institución, en el marco de la autonomía 
 Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
 
 ### Artículo 35
-.- Se deroga Artículo derogado DOF 10-01-2014
+.- Se deroga
+Artículo derogado DOF 10-01-2014
 
 ### Artículo 36
 .- La Institución otorgará sus financiamientos únicamente a los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular que asuman parcial o totalmente el riesgo de recuperación de estos apoyos, en cumplimiento de su objeto conforme a lo señalado en el artículo 7 de esta Ley.
@@ -534,6 +560,7 @@ Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que 
 Artículo adicionado DOF 10-01-2014
 
 ## CAPÍTULO VII — Del Régimen Laboral
+
 
 ### Artículo 38
 .- Las relaciones laborales entre la Institución y sus trabajadores se regirán por el artículo 123 apartado "B" fracción XIII bis de la Constitución Política de los Estados Unidos Mexicanos; por la Ley Reglamentaria de dicho precepto; y por las condiciones generales de trabajo que al efecto se determinen.
@@ -652,11 +679,9 @@ Se REFORMAN los artículos 2, fracción IV; 3, primer párrafo; 7, primer párra
 
 ### ARTÍCULO VIGÉSIMO PRIMERO
 En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo
-**Séptimo.** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
-
+**Séptimo.-** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
 I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo
-**segundo.** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
-
+**segundo.-** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
 II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
 
 III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
@@ -669,7 +694,7 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros.
 Publicado en el Diario Oficial de la Federación el 19 de julio de 2019

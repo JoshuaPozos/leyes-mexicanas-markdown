@@ -11,14 +11,18 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ### Artículo Único
 Se expide la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional.
-Denominación de la Ley reformada DOF 16-07-2025 Denominación de la Ley reformada DOF 16-07-2025
+Denominación de la Ley reformada DOF 16-07-2025
+Denominación de la Ley reformada DOF 16-07-2025
 
 ## CAPÍTULO I — DE LAS DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos, aplicable en igualdad de oportunidades y de trato entre mujeres y hombres.
-Párrafo reformado DOF 22-05-2018 La educación de la Guardia Nacional estará orientada al conocimiento y aplicación en materia de seguridad pública, con enfoque de derechos humanos e interseccionalidad y con perspectivas de género e intercultural; en igualdad de oportunidades y de trato entre mujeres y hombres.
-Párrafo adicionado DOF 16-07-2025 La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
+Párrafo reformado DOF 22-05-2018
+La educación de la Guardia Nacional estará orientada al conocimiento y aplicación en materia de seguridad pública, con enfoque de derechos humanos e interseccionalidad y con perspectivas de género e intercultural; en igualdad de oportunidades y de trato entre mujeres y hombres.
+Párrafo adicionado DOF 16-07-2025
+La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 Párrafo reformado DOF 16-07-2025
 
 ### Artículo 2
@@ -61,12 +65,14 @@ VI. Fortalecer el conocimiento enfocado a la preservación de la salud y la prot
 
 I. Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
 Además de lo anterior, la formación policial al personal de Guardia Nacional;
-Párrafo adicionado DOF 16-07-2025 Fracción reformada DOF 17-01-2022
+Párrafo adicionado DOF 16-07-2025
+Fracción reformada DOF 17-01-2022
 
 II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;
 Fracción reformada DOF 16-07-2025
 
-III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y Fracción reformada DOF 16-07-2025
+III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y
+Fracción reformada DOF 16-07-2025
 
 IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
@@ -82,6 +88,7 @@ Artículo reformado DOF 16-07-2025
 .- La Dirección y Rectoría dispondrá de los recursos presupuestales que le sean asignados por conducto de la Secretaría.
 
 ## CAPÍTULO II — DEL SISTEMA EDUCATIVO MILITAR
+
 
 ### Artículo 10
 .- El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la Dirección y Rectoría.
@@ -108,7 +115,8 @@ VI. Impulsar, organizar y normar las actividades de investigación sobre el arte
 Además de lo anterior, las actividades de investigación y aspectos técnicos y científicos relacionados con la Guardia Nacional;
 Párrafo adicionado DOF 16-07-2025
 
-VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y Fracción reformada DOF 17-01-2022, 16-07-2025
+VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y
+Fracción reformada DOF 17-01-2022, 16-07-2025
 
 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
 
@@ -138,7 +146,8 @@ II. Escuelas;
 III. Centros de Estudios;
 Fracción reformada DOF 22-11-2021
 
-IV. Unidades-Escuela, y Fracción reformada DOF 22-11-2021
+IV. Unidades-Escuela, y
+Fracción reformada DOF 22-11-2021
 
 V. Institutos.
 Fracción adicionada DOF 22-11-2021
@@ -163,7 +172,9 @@ VI. De Especialización.
 
 ## CAPÍTULO III — DEL PROCESO EDUCATIVO
 
+
 ## SECCIÓN PRIMERA — DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
+
 
 ### Artículo 17
 .- El proceso educativo será realizado en los términos de esta Ley, por los Institutos, Colegios, Escuelas Militares, Centros de Estudios, Unidades-Escuela y Dependencias de la Secretaría que tengan asignada la responsabilidad de impartir cursos considerados en el Plan General de Educación Militar.
@@ -183,6 +194,7 @@ Artículo adicionado DOF 16-07-2025
 
 ## SECCIÓN SEGUNDA — DE LA PLANEACIÓN INSTITUCIONAL
 
+
 ### Artículo 20
 .- La Planeación Institucional será realizada por las Autoridades Educativas Militares de conformidad con los procedimientos que especifique el reglamento respectivo de esta Ley.
 
@@ -194,6 +206,7 @@ Artículo adicionado DOF 16-07-2025
 
 ## SECCIÓN TERCERA — DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL
 
+
 ### Artículo 23
 .- La Dirección y Rectoría expedirá las normas técnico-didácticas aplicables en el proceso educativo, de conformidad al tipo y nivel y modalidades educativas, capacitando al personal responsable de las Instituciones del Sistema Educativo Militar en su aplicación.
 
@@ -201,6 +214,7 @@ Artículo adicionado DOF 16-07-2025
 .- La Secretaría proveerá los recursos necesarios para garantizar que las Instituciones del Sistema Educativo Militar cumplan la función Educativa.
 
 ## SECCIÓN CUARTA — DE LA EVALUACIÓN INSTITUCIONAL
+
 
 ### Artículo 25
 .- La Dirección y Rectoría expedirá las normas técnico-didácticas para regular los procedimientos de evaluación institucional.
@@ -213,7 +227,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## CAPÍTULO IV — DE LA ADMISIÓN
 
+
 ## SECCIÓN PRIMERA — DE LOS ASPIRANTES NACIONALES
+
 
 ### Artículo 28
 .- El proceso de admisión a las Instituciones de Educación Militar se señalará en el reglamento respectivo de esta Ley, en el que se deberá promover la igualdad de oportunidades entre mujeres y hombres.
@@ -229,6 +245,7 @@ Artículo reformado DOF 22-05-2018
 .- La Secretaría determinará los cursos que, de acuerdo a la naturaleza de los mismos, no requieran para el ingreso un proceso de selección.
 
 ## SECCIÓN SEGUNDA — DE LOS EXTRANJEROS
+
 
 ### Artículo 32
 .- La Secretaría ofrecerá los cursos a los Ministerios de Defensa de otros países para que el personal extranjero realice estudios en las Instituciones de Educación Militar.
@@ -254,6 +271,7 @@ Artículo reformado DOF 16-07-2025
 
 ## SECCIÓN TERCERA — DE LOS MILITARES MEXICANOS EN EL EXTRANJERO
 
+
 ### Artículo 39
 .- La Secretaría podrá convocar al personal militar para realizar cursos en el extranjero en calidad de becarios, efectuando el proceso de selección respectivo.
 
@@ -264,6 +282,7 @@ Artículo reformado DOF 16-07-2025
 .- El personal militar con calidad de becario en el extranjero será controlado por la Agregaduría Militar de México en el país anfitrión y, para el caso de que no se cuente con este tipo de representación, la Secretaría se encargará directamente de su control.
 
 ## CAPÍTULO V — DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS
+
 
 ### Artículo 42
 .- La Dirección y Rectoría dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.
@@ -285,6 +304,7 @@ Artículo reformado DOF 16-07-2025
 Artículo reformado DOF 16-07-2025
 
 ## CAPÍTULO VI — DE LAS INFRACCIONES Y SANCIONES
+
 
 ### Artículo 48
 .- Para los efectos de esta Ley, se consideran como infracciones del personal directivo, académico, administrativo y docente del Sistema Educativo Militar, las siguientes:
@@ -326,7 +346,7 @@ Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Mili
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 5 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021

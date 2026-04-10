@@ -14,9 +14,11 @@ Se expide la Ley General de Cultura Física y Deporte.
 
 ## Título Primero — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público e interés social y de observancia general en toda la República, reglamenta el derecho a la cultura física y el deporte reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Comisión Nacional de Cultura Física y Deporte, las Autoridades de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, así como los sectores social y privado, en los términos que se prevén.
-Artículo reformado DOF 19-01-2018 distribución de competencias, la coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en materia de cultura física y deporte, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-J de la Constitución Política de los Estados Unidos Mexicanos, así como la participación de los sectores social y privado en esta materia, con las siguientes finalidades generales:
+Artículo reformado DOF 19-01-2018
+distribución de competencias, la coordinación y colaboración entre la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México en materia de cultura física y deporte, bajo el principio de concurrencia previsto en el artículo 73, fracción XXIX-J de la Constitución Política de los Estados Unidos Mexicanos, así como la participación de los sectores social y privado en esta materia, con las siguientes finalidades generales:
 Párrafo reformado DOF 19-01-2018
 
 I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
@@ -75,7 +77,8 @@ Fracción reformada DOF 25-01-2017
 XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte;
 Fracción reformada DOF 25-01-2017, 18-10-2023
 
-XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, y Fracción adicionada DOF 25-01-2017. Reformada DOF 18-10-2023
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, y
+Fracción adicionada DOF 25-01-2017. Reformada DOF 18-10-2023
 
 XIV. La igualdad sustantiva entre mujeres y hombres y la no discriminación por razón de género.
 Fracción adicionada DOF 18-10-2023
@@ -138,7 +141,8 @@ Fracción reformada DOF 09-05-2014. Recorrida DOF 20-12-2022
 XII. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 Fracción adicionada DOF 09-05-2014. Recorrida DOF 20-12-2022
 
-XIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y Fracción adicionada DOF 09-05-2014. Recorrida DOF 20-12-2022
+XIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y
+Fracción adicionada DOF 09-05-2014. Recorrida DOF 20-12-2022
 
 XIV. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 Fracción adicionada DOF 09-05-2014. Recorrida DOF 20-12-2022
@@ -169,6 +173,7 @@ IV. El plan de inversiones con los presupuestos de los principales programas y p
 Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
 ## Título Segundo — Del Sistema Nacional de Cultura Física y Deporte
+
 
 ### Artículo 10
 . Para la eficaz y eficiente promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones existirá un Sistema Nacional de Cultura Física y Deporte que tendrá como objeto asesorar en la elaboración del Programa Nacional de Cultura Física y Deporte, coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el país.
@@ -208,7 +213,8 @@ III. Proponer planes y programas que contribuyan a fomentar, promover y estimula
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, y
 
-V. Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo en la educación básica y educación media superior, y Fracción adicionada DOF 20-12-2022
+V. Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo en la educación básica y educación media superior, y
+Fracción adicionada DOF 20-12-2022
 
 VI. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 Fracción recorrida DOF 20-12-2022
@@ -218,7 +224,9 @@ Fracción recorrida DOF 20-12-2022
 
 ## Capítulo I — Del Sector Público
 
+
 ## Sección Primera — De la Comisión Nacional de Cultura Física y Deporte
+
 
 ### Artículo 15
 . La actuación de la Administración Pública Federal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo público descentralizado de la Administración Pública Federal, que será el conductor de la política nacional en estas materias y que se denominará, Comisión Nacional de Cultura Física y Deporte, quien contará con personalidad jurídica, patrimonio propio y domicilio en la Ciudad de México.
@@ -265,7 +273,8 @@ h) Secretaría de Salud;
 i) Secretaría de Desarrollo Social, y
 
 j) Se deroga.
-Inciso derogado DOF 20-05-2021 La Junta Directiva será presidida por el titular de la SEP.
+Inciso derogado DOF 20-05-2021
+La Junta Directiva será presidida por el titular de la SEP.
 El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario propietario o suplente, designado por la Secretaría de la Función Pública, quienes participarán con voz pero sin voto.
 De la misma manera, podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la activación física, la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
 
@@ -601,13 +610,17 @@ XXX. Las demás que esta Ley u otras disposiciones legales o reglamentarias dete
 . Las relaciones de trabajo entre la CONADE y sus trabajadores se regirán por el Apartado A, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como por la Ley Federal del Trabajo.
 
 ## Sección Segunda — De los Órganos de las entidades federativas, municipales y las demarcaciones
-territoriales de la Ciudad de México de Cultura Física y Deporte Denominación de la Sección reformada DOF 19-01-2018
+
+territoriales de la Ciudad de México de Cultura Física y Deporte
+Denominación de la Sección reformada DOF 19-01-2018
 
 ### Artículo 32
 . Cada Entidad Federativa, municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México podrán contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con la CONADE promueva, estimule y fomente el desarrollo de la cultura física y el deporte, estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
-Párrafo reformado DOF 19-01-2018 Los Sistemas Estatales de Cultura Física y Deporte se integrarán por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local y tendrán como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de sus competencias.
+Párrafo reformado DOF 19-01-2018
+Los Sistemas Estatales de Cultura Física y Deporte se integrarán por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local y tendrán como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de sus competencias.
 El Sistema de Cultura Física y Deporte de la Ciudad de México, se integrará por las Autoridades, Unidades Administrativas, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones de carácter local, y tendrá como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales en el ámbito de su competencia.
-Párrafo reformado DOF 19-01-2018 Los Sistemas Municipales de Cultura Física y Deporte, se integrarán por las Autoridades Municipales, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
+Párrafo reformado DOF 19-01-2018
+Los Sistemas Municipales de Cultura Física y Deporte, se integrarán por las Autoridades Municipales, Organismos e Instituciones públicas y privadas, Sociedades y Asociaciones que en el ámbito de su competencia tengan como objeto, generar las acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
 ### Artículo 33
 . Las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, promoverán, y fomentarán el desarrollo de la activación física, la cultura física y del deporte con los habitantes de su territorio, conforme al ámbito de su competencia y jurisdicción.
@@ -666,7 +679,8 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 37
 . Los Sistemas las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México otorgarán los registros a las Asociaciones y Sociedades que los integren, verificando que cumplan con los requisitos establecidos por el SINADE y en coordinación con el Registro Nacional de Cultura Física y Deporte.
-Párrafo reformado DOF 19-01-2018 El registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema.
+Párrafo reformado DOF 19-01-2018
+El registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema.
 
 ### Artículo 38
 . Los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley, su Reglamento y las demás disposiciones que de ella deriven, cumpliendo en todo momento con cada una de las obligaciones que como integrantes del SINADE les corresponde.
@@ -678,6 +692,7 @@ Los Órganos Estatales, de la Ciudad de México y Municipales de Cultura Física
 Artículo reformado DOF 19-01-2018
 
 ## Sección Tercera — De la Concurrencia, Coordinación, Colaboración y Concertación
+
 
 ### Artículo 40
 . La Administración Pública Federal a través de la CONADE, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México y, en su caso, concertará acciones con el sector social y privado que puedan afectar directa y manifiestamente los intereses generales de la cultura física y el deporte en el ámbito nacional.
@@ -704,7 +719,8 @@ Fracción reformada DOF 09-05-2014
 VII. Establecer procedimientos de promoción en materia de cultura física y deporte;
 Fracción reformada DOF 09-05-2014, 30-03-2022
 
-VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes, y Fracción adicionada DOF 09-05-2014. Reformada DOF 30-03-2022
+VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes, y
+Fracción adicionada DOF 09-05-2014. Reformada DOF 30-03-2022
 
 IX. Promover, formular y ejecutar políticas para garantizar la participación en igualdad de condiciones entre mujeres y hombres que fomenten actividades físicas y deportivas.
 Fracción adicionada DOF 30-03-2022
@@ -716,7 +732,8 @@ Párrafo reformado DOF 19-01-2018
 I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
 
 II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio o la Ciudad de México en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos.
-Párrafo reformado DOF 19-01-2018 La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+Párrafo reformado DOF 19-01-2018
+La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
 
 III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o autoridades de la Ciudad de México en términos de lo que dispongan las leyes aplicables;
 Fracción reformada DOF 19-01-2018
@@ -741,7 +758,8 @@ IX. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la
 X. Las autoridades de los tres órdenes de gobierno, capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
 
 XI. Las leyes de Seguridad Pública de las Entidades Federativas, deberán establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre una entidad y sus municipios o la Ciudad de México en los órganos políticos administrativos en cada una de las demarcaciones territoriales, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal, municipal o en el caso de la Ciudad de México de sus demarcaciones territoriales atendiendo a lo previsto en este artículo.
-Fracción reformada DOF 19-01-2018 Artículo adicionado DOF 09-05-2014
+Fracción reformada DOF 19-01-2018
+Artículo adicionado DOF 09-05-2014
 
 ### Artículo 42
 . La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los distintos órdenes de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
@@ -749,7 +767,9 @@ Artículo reformado DOF 19-01-2018
 
 ## Capítulo II — De los Sectores Social y Privado
 
+
 ## Sección Primera — De las Asociaciones y Sociedades Deportivas
+
 
 ### Artículo 43
 . Serán registradas por la CONADE como Asociaciones Deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, difundan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
@@ -790,10 +810,12 @@ Párrafo reformado DOF 19-01-2018
 
 ## Sección Segunda — De las Asociaciones Deportivas Nacionales
 
+
 ### Artículo 50
 . La presente Ley reconoce a las Federaciones Deportivas Mexicanas el carácter de Asociaciones Deportivas Nacionales, por lo que todo lo previsto en esta Ley para las Asociaciones Deportivas, les será aplicable.
 Las Asociaciones Deportivas Nacionales regularán su estructura interna y funcionamiento, de conformidad con sus Estatutos Sociales, la presente Ley y su Reglamento, observando en todo momento los principios de democracia, representatividad, equidad, igualdad sustantiva, legalidad, transparencia y rendición de cuentas.
-Párrafo reformado DOF 25-03-2022 Es obligación para las Asociaciones Deportivas Nacionales, la igualdad de trato y oportunidades y, la paridad entre hombres y mujeres en el acceso a sus órganos de gobierno y representación.
+Párrafo reformado DOF 25-03-2022
+Es obligación para las Asociaciones Deportivas Nacionales, la igualdad de trato y oportunidades y, la paridad entre hombres y mujeres en el acceso a sus órganos de gobierno y representación.
 Párrafo adicionado DOF 25-03-2022
 
 ### Artículo 51
@@ -869,7 +891,8 @@ Quedarán exentos del cumplimiento de lo dispuesto por la fracción V de este ar
 ### Artículo 59
 . Los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales serán vigilados por la CONADE a través del COVED.
 El COVED estará adscrito orgánicamente a la CONADE y velará de forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades y de trato, y la paridad entre hombres y mujeres para tener acceso a los órganos de gobierno y representación, dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
-Párrafo reformado DOF 25-03-2022 En caso de que exista alguna controversia en cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, el COVED deberá resolver sobre el particular, de acuerdo con el procedimiento establecido en el Reglamento de esta Ley y los demás ordenamientos aplicables, garantizando el derecho de audiencia de los interesados.
+Párrafo reformado DOF 25-03-2022
+En caso de que exista alguna controversia en cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Nacionales, el COVED deberá resolver sobre el particular, de acuerdo con el procedimiento establecido en el Reglamento de esta Ley y los demás ordenamientos aplicables, garantizando el derecho de audiencia de los interesados.
 Las resoluciones definitivas dictadas por el COVED en relación con la solución de las controversias a que se refiere el párrafo anterior podrán ser impugnadas mediante el recurso de apelación ante la CAAD.
 El COVED, terminado el proceso electoral respectivo, expedirá la constancia que corresponda.
 
@@ -880,6 +903,7 @@ El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su e
 El funcionamiento, integración y operación del COVED estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ## Sección Tercera — De Otras Asociaciones y Sociedades
+
 
 ### Artículo 61
 . Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por la CONADE como Asociaciones Recreativo-Deportivas, cuando no persigan fines preponderantemente económicos o como Sociedades Recreativo-Deportivas cuando su actividad se realice con fines preponderantemente económicos o de lucro.
@@ -902,6 +926,7 @@ De igual forma, deberán rendir a la CONADE un informe anual sobre las actividad
 La CONADE presentará a las Cámaras de Diputados y de Senadores del Congreso de la Unión un informe semestral de los resultados alcanzados en la materia.
 
 ## Sección Cuarta — Del Comité Olímpico Mexicano
+
 
 ### Artículo 67
 . El COM es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, compuesto entre otros, por las Asociaciones Deportivas Nacionales debidamente afiliadas a las federaciones deportivas internacionales, que cuenten con el reconocimiento del Comité Olímpico Internacional, de conformidad con el contenido de la Carta Olímpica, cuya actividad es de utilidad pública; en virtud de que su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte y el movimiento olímpico, así como la difusión de los ideales olímpicos en nuestro país y representar al Comité Olímpico Internacional en México.
@@ -933,9 +958,11 @@ V. Colaborar y apoyar a la CONADE en todo lo relacionado al desarrollo del depor
 
 ## Sección Quinta — Del Comité Paralímpico Mexicano
 
+
 ### Artículo 73
 . El Comité Paralímpico Mexicano es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, constituida por las Asociaciones Deportivas Nacionales que rigen y organizan el deporte adaptado y sus modalidades deportivas para las personas con discapacidad, debidamente afiliadas a las Federaciones Deportivas Internacionales que cuenten con el reconocimiento del Comité Paralímpico Internacional.
-Párrafo reformado DOF 20-12-2022 Su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte y el movimiento paralímpicos, así como la difusión de los ideales paralímpicos en nuestro país y representar al Comité Paralímpico Internacional en México y su actividad es considerada de utilidad pública.
+Párrafo reformado DOF 20-12-2022
+Su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte y el movimiento paralímpicos, así como la difusión de los ideales paralímpicos en nuestro país y representar al Comité Paralímpico Internacional en México y su actividad es considerada de utilidad pública.
 
 ### Artículo 74
 . El COPAME se rige de acuerdo con su estatuto y reglamento y por los principios y normas del Comité Paralímpico Internacional, de conformidad con la legislación nacional e instrumentos internacionales aplicables.
@@ -950,6 +977,7 @@ Párrafo reformado DOF 20-12-2022 Su objeto consiste fundamentalmente en fomenta
 . El COPAME participará, en coordinación y respeto mutuo de sus respectivos derechos y jurisdicciones con la CONADE en la integración de las delegaciones deportivas que representen al país en las competencias que se celebren en el ámbito internacional al que se refiere el artículo 75.
 
 ## Título Tercero — De la Comisión de Apelación y Arbitraje del Deporte
+
 
 ### Artículo 78
 . La CAAD es un órgano desconcentrado de la SEP cuyo objeto es resolver el recurso de apelación que se interponga en los casos y términos previstos en esta Ley y su Reglamento, así como fungir como Panel de Arbitraje, o coadyuvar en las mediaciones y conciliaciones, respecto de las controversias de naturaleza jurídica deportiva que se susciten o puedan suscitarse entre deportistas, entrenadores, directivos, autoridades, entidades u organismos deportivos, con la organización y competencia que esta Ley establece; dotado de plena jurisdicción y autonomía para dictar sus acuerdos, laudos y resoluciones e independiente de las autoridades administrativas.
@@ -974,7 +1002,8 @@ Para efectos de esta fracción se entiende por mediación la función de estable
 VII. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar y ejecutar o que no acaten y ejecuten en sus términos, los acuerdos, decisiones, laudos y resoluciones emitidos por la propia CAAD;
 Fracción reformada DOF 20-12-2022
 
-VIII. Garantizar a los deportistas con discapacidad la defensa de sus derechos en los procesos de apelación en los que intervengan, en términos de la fracción III de este artículo, y Fracción adicionada DOF 20-12-2022
+VIII. Garantizar a los deportistas con discapacidad la defensa de sus derechos en los procesos de apelación en los que intervengan, en términos de la fracción III de este artículo, y
+Fracción adicionada DOF 20-12-2022
 
 IX. Las demás que establezca la presente Ley y otras disposiciones reglamentarias.
 Fracción recorrida DOF 20-12-2022
@@ -982,8 +1011,10 @@ Fracción recorrida DOF 20-12-2022
 ### Artículo 80
 . La CAAD se integrará por un Pleno, por las unidades administrativas y Oficinas Regionales, necesarias para el cabal desempeño de sus funciones.
 El Pleno se integrará por una Presidencia y cuatro personas integrantes Titulares. El Ejecutivo Federal designará a quien presida y a las personas integrantes Titulares, observando el principio de paridad de género.
-Párrafo reformado DOF 11-05-2022 Los nombramientos antes citados, deberán recaer en personas con profesión de Licenciatura en Derecho o Abogacía, amplio conocimiento del ámbito deportivo, y reconocido prestigio y calidad moral.
-Párrafo reformado DOF 11-05-2022 La Presidencia y las personas integrantes Titulares de la CAAD, durarán tres años en su encargo, pudiendo ser reelectas para un periodo más.
+Párrafo reformado DOF 11-05-2022
+Los nombramientos antes citados, deberán recaer en personas con profesión de Licenciatura en Derecho o Abogacía, amplio conocimiento del ámbito deportivo, y reconocido prestigio y calidad moral.
+Párrafo reformado DOF 11-05-2022
+La Presidencia y las personas integrantes Titulares de la CAAD, durarán tres años en su encargo, pudiendo ser reelectas para un periodo más.
 Párrafo reformado DOF 11-05-2022
 
 ### Artículo 81
@@ -1020,6 +1051,7 @@ Fracción reformada DOF 14-11-2025
 
 ## Título Cuarto — Del Deporte Profesional
 
+
 ### Artículo 84
 . Se entiende por deporte profesional aquél en el que el deportista se sujeta a una relación de trabajo, obteniendo una remuneración económica por su práctica.
 
@@ -1033,6 +1065,7 @@ Fracción reformada DOF 14-11-2025
 . La CONADE coordinará y promoverá la constitución de comisiones nacionales de Deporte Profesional, quienes se integrarán al SINADE de acuerdo a lo establecido en el Reglamento de esta Ley.
 
 ## Título Quinto — De la Cultura Física y el Deporte
+
 
 ### Artículo 88
 . La cultura física deberá ser promovida, fomentada y estimulada en todos los niveles y grados de educación y enseñanza del país como factor fundamental del desarrollo armónico e integral del ser humano.
@@ -1057,11 +1090,13 @@ Párrafo reformado DOF 19-01-2018
 
 ### Artículo 89
 . La CONADE en coordinación con la SEP, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
-Párrafo reformado DOF 19-01-2018 Los titulares de las dependencias de la Administración Pública Federal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
+Párrafo reformado DOF 19-01-2018
+Los titulares de las dependencias de la Administración Pública Federal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
 Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con la CONADE.
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
 
 ## Capítulo I — De la Infraestructura
+
 
 ### Artículo 90
 . Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la activación física, la cultura física y el deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio nacional.
@@ -1084,7 +1119,8 @@ Reforma DOF 06-11-2020: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 95
 . En los términos de los convenios de coordinación y colaboración respectivos, los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México inscribirán sus instalaciones destinadas a la activación física, la cultura física y deporte al RENADE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación nacional.
-Párrafo reformado DOF 19-01-2018 La CONADE podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, ordenamientos técnicos de las disciplinas deportivas correspondientes y demás disposiciones aplicables, cumpliendo el procedimiento que para ese propósito prevea el Reglamento de esta Ley.
+Párrafo reformado DOF 19-01-2018
+La CONADE podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, ordenamientos técnicos de las disciplinas deportivas correspondientes y demás disposiciones aplicables, cumpliendo el procedimiento que para ese propósito prevea el Reglamento de esta Ley.
 
 ### Artículo 96
 . Las instalaciones destinadas a la activación física, la cultura física, el deporte y en las que se celebren eventos o espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia y discriminación y cualquier otra conducta antisocial.
@@ -1099,9 +1135,11 @@ Asimismo, deberán respetarse los programas y calendarios previamente establecid
 ### Artículo 98
 Bis. Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
 Las autoridades municipales, o las correspondientes de la Ciudad de México, serán competentes para verificar el cumplimiento de la presente disposición.
-Párrafo reformado DOF 19-01-2018 Artículo adicionado DOF 09-05-2014
+Párrafo reformado DOF 19-01-2018
+Artículo adicionado DOF 09-05-2014
 
 ## Capítulo II — De la Enseñanza, Investigación y Difusión
+
 
 ### Artículo 99
 . La CONADE promoverá, coordinará e impulsará en coordinación con la SEP la enseñanza, investigación, difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de activación física, cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
@@ -1118,6 +1156,7 @@ Artículo reformado DOF 19-01-2018, 20-12-2022
 
 ## Capítulo III — De las Ciencias Aplicadas
 
+
 ### Artículo 103
 . La CONADE promoverá en coordinación con la SEP, el desarrollo e investigación en las áreas de Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y el deporte.
 
@@ -1126,7 +1165,8 @@ Artículo reformado DOF 19-01-2018, 20-12-2022
 
 ### Artículo 105
 . Los deportistas integrantes del SINADE tendrán derecho a recibir atención médica. Para tal efecto, las Autoridades Federales, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
-Párrafo reformado DOF 19-01-2018 Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del RENADE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones nacionales, deberán contar con un seguro de vida y gastos médicos que proporcionará la CONADE, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
+Párrafo reformado DOF 19-01-2018
+Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del RENADE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones nacionales, deberán contar con un seguro de vida y gastos médicos que proporcionará la CONADE, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
 
 ### Artículo 106
 . Las instituciones y organizaciones de los sectores social y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
@@ -1141,6 +1181,7 @@ Párrafo reformado DOF 19-01-2018 Los deportistas y los entrenadores que integre
 . Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
 ## Capítulo IV — Del Estímulo a la Cultura Física y al Deporte
+
 
 ### Artículo 110
 . Corresponde a la CONADE y a los organismos de los sectores públicos otorgar y promover en el ámbito de sus respectivas competencias, ayudas, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte ajustándose a lo dispuesto en la presente Ley, su Reglamento y en su caso, en la convocatoria correspondiente.
@@ -1216,6 +1257,7 @@ Artículo reformado DOF 06-11-2020
 
 ## Capítulo V — Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
 
+
 ### Artículo 118
 . Se declara de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud y métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
 
@@ -1284,9 +1326,11 @@ Artículo reformado DOF 01-06-2016
 
 ## Capítulo VI — De la Prevención de la Violencia en el Deporte
 
+
 ### Artículo 137
 . Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México.
-Párrafo reformado DOF 19-01-2018 La CONADE, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
+Párrafo reformado DOF 19-01-2018
+La CONADE, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
 
 ### Artículo 138
 . Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
@@ -1308,11 +1352,13 @@ VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta d
 ### Artículo 139
 . Se crea la Comisión Especial Contra la Violencia en el Deporte que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
 La Comisión Especial será un órgano colegiado integrado por representantes de CONADE, de los Órganos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México de Cultura Física y Deporte, de las Asociaciones Deportivas Nacionales, del COM, del COPAME, del CONDE, de las Ligas Profesionales y, en su caso, de las Comisiones Nacionales del Deporte Profesional.
-Párrafo reformado DOF 19-01-2018 La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
+Párrafo reformado DOF 19-01-2018
+La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
 En la Comisión Especial podrán participar dependencias o entidades de la Administración Pública Federal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas en la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
 La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo de la CONADE.
 Para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial, en cada entidad federativa funcionará una Comisión Local, encabezada por el titular del órgano estatal o de la Ciudad de México en materia de cultura física y deporte. Su funcionamiento, integración y organización se establecerán en el Reglamento de la presente Ley.
-Párrafo adicionado DOF 09-05-2014. Reformado DOF 19-01-2018 Será obligación de las Comisiones Nacional y Estatales, la elaboración de un Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos.
+Párrafo adicionado DOF 09-05-2014. Reformado DOF 19-01-2018
+Será obligación de las Comisiones Nacional y Estatales, la elaboración de un Programa Anual de Trabajo para la Prevención de la Violencia en Eventos Deportivos.
 Párrafo adicionado DOF 09-05-2014
 
 ### Artículo 140
@@ -1344,7 +1390,8 @@ Fracción adicionada DOF 09-05-2014
 X. Conformar y publicar la estadística nacional sobre la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
 Fracción adicionada DOF 09-05-2014
 
-XI. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y Fracción adicionada DOF 09-05-2014
+XI. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+Fracción adicionada DOF 09-05-2014
 
 XII. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
 Fracción recorrida DOF 09-05-2014
@@ -1365,7 +1412,8 @@ V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimula
 ### Artículo 142
 . Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
 
-I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y Fracción reformada DOF 09-05-2014
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
+Fracción reformada DOF 09-05-2014
 
 II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
 Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
@@ -1379,6 +1427,7 @@ Párrafo reformado DOF 19-01-2018
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
 ## Capítulo VII — De las Infracciones, Sanciones y Delitos
+
 Denominación del Capítulo reformada DOF 09-05-2014
 
 ### Artículo 145
@@ -1440,7 +1489,8 @@ II. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento q
 III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos;
 Fracción reformada DOF 09-05-2014
 
-IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos, y Fracción reformada DOF 09-05-2014
+IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos, y
+Fracción reformada DOF 09-05-2014
 
 V. El incumplimiento de las obligaciones establecidas en los artículos 41, 41 Bis y 98 Bis de la presente Ley.
 Fracción adicionada DOF 09-05-2014
@@ -1480,7 +1530,8 @@ IV. A técnicos, árbitros y jueces:
 
 a) Amonestación privada o pública, y
 
-b) Suspensión temporal o definitiva de su inscripción al SINADE, y Fracción reformada DOF 09-05-2014
+b) Suspensión temporal o definitiva de su inscripción al SINADE, y
+Fracción reformada DOF 09-05-2014
 
 V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
 
@@ -1527,25 +1578,25 @@ Artículo adicionado DOF 09-05-2014
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley General de Cultura Física y Deporte, publicada en el Diario Oficial de la Federación el veinticuatro de febrero de dos mil tres, y se derogan todas las disposiciones jurídicas que contravengan la presente Ley.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley General de Cultura Física y Deporte, publicada en el Diario Oficial de la Federación el veinticuatro de febrero de dos mil tres, y se derogan todas las disposiciones jurídicas que contravengan la presente Ley.
 En cuanto a las disposiciones legales y reglamentarias que se refieren a la CODEME, se ajustarán a las previsiones señaladas en la presente Ley.
-**Tercero.** El Reglamento y demás disposiciones reglamentarias a que se refiere esta Ley deberán expedirse dentro de los seis meses siguientes a la entrada en vigor de la Ley.
-**Cuarto.** En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
-**Quinto.** En todo lo previsto en la presente Ley para la Secretaría de la Función Pública, se estará a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el dos de enero de dos mil trece.
-**Sexto.** La CONADE desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales con los que cuenta actualmente.
-**Séptimo.** Las modificaciones necesarias al Estatuto Orgánico de la CONADE se harán dentro de los tres meses siguientes a la entrada en vigor de la Ley y deberá inscribirse en el Registro Público de organismos descentralizados.
-**Octavo.** La CAAD se ajustará a los recursos humanos, financieros y materiales con los que cuenta actualmente. Respecto del periodo de duración del Presidente y Miembros Titulares que actualmente integran la CAAD, éste se contabilizará a partir de la fecha en la que fueron designados.
-**Noveno.** Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley General de Cultura Física y Deporte, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
-**Décimo.** Para los efectos de la integración y actualización del Registro Nacional de Cultura Física y Deporte de conformidad con el artículo 30, fracción XIII de la Ley, las Asociaciones Deportivas Nacionales reconocidas en los términos de la presente Ley, deberán acreditar en un plazo no mayor de ciento ochenta días naturales, que cumplen con lo dispuesto en el artículo 54 de esta Ley.
-**Décimo Primero.** Para los efectos de lo establecido en la presente Ley las autoridades competentes ajustarán su legislación dentro del primer año siguiente a la entrada en vigor del presente Decreto.
+**Tercero.-** El Reglamento y demás disposiciones reglamentarias a que se refiere esta Ley deberán expedirse dentro de los seis meses siguientes a la entrada en vigor de la Ley.
+**Cuarto.-** En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+**Quinto.-** En todo lo previsto en la presente Ley para la Secretaría de la Función Pública, se estará a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el dos de enero de dos mil trece.
+**Sexto.-** La CONADE desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales con los que cuenta actualmente.
+**Séptimo.-** Las modificaciones necesarias al Estatuto Orgánico de la CONADE se harán dentro de los tres meses siguientes a la entrada en vigor de la Ley y deberá inscribirse en el Registro Público de organismos descentralizados.
+**Octavo.-** La CAAD se ajustará a los recursos humanos, financieros y materiales con los que cuenta actualmente. Respecto del periodo de duración del Presidente y Miembros Titulares que actualmente integran la CAAD, éste se contabilizará a partir de la fecha en la que fueron designados.
+**Noveno.-** Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley General de Cultura Física y Deporte, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+**Décimo.-** Para los efectos de la integración y actualización del Registro Nacional de Cultura Física y Deporte de conformidad con el artículo 30, fracción XIII de la Ley, las Asociaciones Deportivas Nacionales reconocidas en los términos de la presente Ley, deberán acreditar en un plazo no mayor de ciento ochenta días naturales, que cumplen con lo dispuesto en el artículo 54 de esta Ley.
+**Décimo Primero.-** Para los efectos de lo establecido en la presente Ley las autoridades competentes ajustarán su legislación dentro del primer año siguiente a la entrada en vigor del presente Decreto.
 México, D.F., a 23 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Cultura Física y Deporte.
 Publicado en el Diario Oficial de la Federación el 9 de mayo de 2014
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 2, fracción VII; 142, fracción I; 152, fracción I; se modifica la denominación del Capítulo VII “De las Infracciones, Sanciones y Delitos”; y se ADICIONAN los artículos 5, con las fracciones XI, XII y XIII; 41, con una fracción VIII; 41 Bis; 98 Bis; 139 con los párrafos
-**sexto.** y séptimo; 140, con las fracciones IX, X y XI, recorriéndose la actual IX para quedar como XII; 151, con una fracción V; 152, con una fracción V; 154 y 155 a la Ley General de Cultura Física y Deporte, para quedar como sigue: ………
+**sexto.-** y séptimo; 140, con las fracciones IX, X y XI, recorriéndose la actual IX para quedar como XII; 151, con una fracción V; 152, con una fracción V; 154 y 155 a la Ley General de Cultura Física y Deporte, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
@@ -1574,7 +1625,7 @@ Se reforman las fracciones XXIII del artículo 30; I y II del artículo 140 y se
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
@@ -1582,7 +1633,7 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Noveno
 Se modifica el nombre de la Sección Segunda, Capítulo I, Título Segundo y se reforman los artículos 1; 2, párrafo primero y fracción II; 6; 7; 11, fracción II; 15; 16, fracción II; 30, fracciones III y VIII; 32, párrafos primero y tercero; 33; 34, párrafo primero y fracciones II y V; 35, primer párrafo y fracciones I, II, III, IV, y V; 36; 37, párrafo primero; 38; 39; 40; 41, párrafo primero y fracción I; 41 Bis, párrafo primero y fracciones II en su primer párrafo, III, IV, V, VIII y XI; 42; 48, párrafo segundo; 51, fracciones III, IV y V; 88, párrafos segundo y tercero; 89, párrafo primero; 93; 95, párrafo primero; 98 Bis, párrafo segundo; 101; 105, párrafo primero; 111, fracción V; 119, párrafo tercero; 123; 137, párrafo
-**primero.** ; 139, párrafos segundo y sexto; 140, fracción IV; y 142, párrafo segundo de la Ley General de Cultura Física y Deporte, para quedar como sigue: ………..
+**primero.-** ; 139, párrafos segundo y sexto; 140, fracción IV; y 142, párrafo segundo de la Ley General de Cultura Física y Deporte, para quedar como sigue: ………..
 
 ## Transitorios
 
@@ -1610,20 +1661,20 @@ Se reforma el artículo 116, primer y tercer párrafos, y se derogan los artícu
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-**Cuarto.** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+**Cuarto.-** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
 A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-**Quinto.** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+**Quinto.-** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-**Sexto.** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
-**Séptimo.** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+**Sexto.-** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+**Séptimo.-** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
 Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
 El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
 Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
@@ -1635,20 +1686,20 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
 A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de EnergíaHidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
-**Octavo.** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+**Octavo.-** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
-**Noveno.** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-**Décimo.** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-**Décimo Primero.** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
-**Décimo Segundo.** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-**Décimo Tercero.** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
-**Décimo Cuarto.** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+**Noveno.-** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+**Décimo.-** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+**Décimo Primero.-** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+**Décimo Segundo.-** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+**Décimo Tercero.-** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+**Décimo Cuarto.-** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
-**Décimo Quinto.** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+**Décimo Quinto.-** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
 Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
 A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
@@ -1656,18 +1707,18 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
-**Décimo Sexto.** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
+**Décimo Sexto.-** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
 
 ## transitorio
 
-**Cuarto.** del presente Decreto.
+**Cuarto.-** del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-**Décimo Séptimo.** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
-**Décimo Octavo.** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
-**Décimo Noveno.** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+**Décimo Séptimo.-** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+**Décimo Octavo.-** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+**Décimo Noveno.-** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-**Vigésimo.** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+**Vigésimo.-** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1679,7 +1730,7 @@ Se reforma la fracción IX del artículo 30 de la Ley General de Cultura Física
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 6 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
@@ -1689,39 +1740,39 @@ Se deroga el inciso j) del artículo 18, de la Ley General de Cultura Física y 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman los artículos 50 y 59 de la Ley General de Cultura Física y Deporte.
 Publicado en el Diario Oficial de la Federación el 25 de marzo de 2022
@@ -1753,9 +1804,9 @@ Se reforma el artículo 80, párrafos segundo, tercero y cuarto de la Ley Genera
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -1797,12 +1848,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

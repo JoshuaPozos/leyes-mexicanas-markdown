@@ -70,9 +70,11 @@ El reconocimiento de los derechos de autor y de los derechos conexos no requiere
 
 ### Artículo 9o
 .- Todos los plazos establecidos para determinar la protección que otorga la presente Ley se computarán a partir del 1o. de enero del año siguiente al respectivo en que se hubiera realizado el hecho utilizado para iniciar el cómputo, salvo que este propio ordenamiento establezca una disposición en contrario. de Procedimiento Administrativo, el Código Nacional de Procedimientos Civiles y Familiares y el Código de Comercio.
-Artículo reformado DOF 01-07-2020, 14-11-2025 TITULO II Del Derecho de Autor
+Artículo reformado DOF 01-07-2020, 14-11-2025
+TITULO II Del Derecho de Autor
 
 ## Capítulo I
+
 Reglas Generales
 
 ### Artículo 11
@@ -164,6 +166,7 @@ Artículo reformado DOF 01-07-2020
 
 ## Capítulo II — De los Derechos Morales
 
+
 ### Artículo 18
 .- El autor es el único, primigenio y perpetuo titular de los derechos morales sobre las obras de su creación.
 
@@ -197,6 +200,7 @@ Los herederos sólo podrán ejercer las facultades establecidas en las fraccione
 
 ## Capítulo III — De los Derechos Patrimoniales
 
+
 ### Artículo 24
 .- En virtud del derecho patrimonial, corresponde al autor el derecho de explotar de manera exclusiva sus obras, o de autorizar a otros su explotación, en cualquier forma, dentro de los límites que establece la presente Ley y sin menoscabo de la titularidad de los derechos morales a que se refiere el artículo 21 de la misma.
 
@@ -225,7 +229,8 @@ a) La representación, recitación y ejecución pública en el caso de las obras
 b) La exhibición pública por cualquier medio o procedimiento, en el caso de obras literarias y artísticas;
 Inciso reformado DOF 01-07-2020
 
-c) El acceso público por medio de la telecomunicación, incluida la banda ancha e Internet, y Inciso reformado DOF 01-07-2020
+c) El acceso público por medio de la telecomunicación, incluida la banda ancha e Internet, y
+Inciso reformado DOF 01-07-2020
 
 d) La puesta a disposición del público de sus obras, de tal forma que los miembros del público puedan acceder a estas obras desde el lugar y en el momento que cada uno de ellos elija.
 Inciso adicionado DOF 01-07-2020
@@ -260,14 +265,17 @@ Párrafo adicionado DOF 14-07-2014
 .- Los derechos patrimoniales estarán vigentes durante:
 
 I. La vida del autor y, a partir de su muerte, cien años más.
-Cuando la obra le pertenezca a varios coautores los cien años se contarán a partir de la muerte del último, y Fracción reformada DOF 23-07-2003
+Cuando la obra le pertenezca a varios coautores los cien años se contarán a partir de la muerte del último, y
+Fracción reformada DOF 23-07-2003
 
 II. Cien años después de divulgadas.
-Fracción reformada DOF 23-07-2003 Si el titular del derecho patrimonial distinto del autor muere sin herederos la facultad de explotar o autorizar la explotación de la obra corresponderá al autor y, a falta de éste, corresponderá al Estado por conducto del Instituto, quien respetará los derechos adquiridos por terceros con anterioridad.
+Fracción reformada DOF 23-07-2003
+Si el titular del derecho patrimonial distinto del autor muere sin herederos la facultad de explotar o autorizar la explotación de la obra corresponderá al autor y, a falta de éste, corresponderá al Estado por conducto del Instituto, quien respetará los derechos adquiridos por terceros con anterioridad.
 Pasados los términos previstos en las fracciones de este artículo, la obra pasará al dominio público.
 TITULO III De la Transmisión de los Derechos Patrimoniales
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 30
 .- El titular de los derechos patrimoniales puede, libremente, conforme a lo establecido por esta Ley, transferir sus derechos patrimoniales u otorgar licencias de uso exclusivas o no exclusivas.
@@ -308,6 +316,7 @@ Los actos, convenios y contratos por los cuales se transmitan derechos patrimoni
 .- Los derechos patrimoniales no son embargables ni pignorables aunque pueden ser objeto de embargo o prenda los frutos y productos que se deriven de su ejercicio.
 
 ## Capítulo II — Del Contrato de Edición de Obra Literaria
+
 
 ### Artículo 42
 .- Hay contrato de edición de obra literaria cuando el autor o el titular de los derechos patrimoniales, en su caso, se obliga a entregar una obra a un editor y éste, a su vez, se obliga a reproducirla, distribuirla y venderla cubriendo al titular del derecho patrimonial las prestaciones convenidas.
@@ -388,6 +397,7 @@ El término para poner a la venta los ejemplares no podrá exceder de dos años,
 
 ## Capítulo III — Del Contrato de Edición de Obra Musical
 
+
 ### Artículo 58
 .- El contrato de edición de obra musical es aquél por el que el autor o el titular del derecho patrimonial, en su caso, cede al editor el derecho de reproducción y lo faculta para realizar la fijación y reproducción fonomecánica de la obra, su sincronización audiovisual, comunicación pública, traducción, arreglo o adaptación y cualquier otra forma de explotación que se encuentre prevista en el contrato; y el editor se obliga por su parte, a divulgar la obra por todos los medios a su alcance, recibiendo como contraprestación una participación en los beneficios económicos que se obtengan por la explotación de la obra, según los términos pactados.
 Sin embargo, para poder realizar la sincronización audiovisual, la adaptación con fines publicitarios, la traducción, arreglo o adaptación el editor deberá contar, en cada caso específico, con la autorización expresa del autor o de sus causahabientes.
@@ -405,6 +415,7 @@ III. Que la obra materia del contrato no haya producido beneficios económicos a
 .- Son aplicables al contrato de edición musical las disposiciones del contrato de edición de obra literaria en todo aquello que no se oponga a lo dispuesto en el presente capítulo.
 
 ## Capítulo IV — Del Contrato de Representación Escénica
+
 
 ### Artículo 61
 .- Por medio del contrato de representación escénica el autor o el titular del derecho patrimonial, en su caso, concede a una persona física o moral, llamada empresario, el derecho de representar o ejecutar públicamente una obra literaria, musical, literario musical, dramática, dramático musical, de danza, pantomímica o coreográfica, por una contraprestación pecuniaria; y el empresario se obliga a llevar a efecto esa representación en las condiciones convenidas y con arreglo a lo dispuesto en esta Ley.
@@ -430,6 +441,7 @@ III. Satisfacer al titular de los derechos patrimoniales la remuneración conven
 
 ## Capítulo V — Del Contrato de Radiodifusión
 
+
 ### Artículo 66
 .- Por el contrato de radiodifusión el autor o el titular de los derechos patrimoniales, en su caso, autoriza a un organismo de radiodifusión a transmitir una obra.
 Las disposiciones aplicables a las transmisiones de estos organismos resultarán aplicables, en lo conducente, a las efectuadas por cable, fibra óptica, ondas radioeléctricas, satélite o cualquier otro medio análogo, que hagan posible la comunicación remota al público de obras protegidas.
@@ -438,6 +450,7 @@ Las disposiciones aplicables a las transmisiones de estos organismos resultarán
 .- Son aplicables al contrato de radiodifusión las disposiciones del contrato de edición de obra literaria en todo aquello que no se oponga a lo dispuesto por el presente capítulo.
 
 ## Capítulo VI — Del Contrato de Producción Audiovisual
+
 
 ### Artículo 68
 .- Por el contrato de producción audiovisual, los autores o los titulares de los derechos patrimoniales, en su caso, ceden en exclusiva al productor los derechos patrimoniales de reproducción, distribución, comunicación pública y subtitulado de la obra audiovisual, salvo pacto en contrario. Se exceptúan de lo anterior las obras musicales.
@@ -456,6 +469,7 @@ Las disposiciones aplicables a las transmisiones de estos organismos resultarán
 
 ## Capítulo VII — De los Contratos Publicitarios
 
+
 ### Artículo 73
 .- Son contratos publicitarios los que tengan por finalidad la explotación de obras literarias o artísticas con fines de promoción o identificación en anuncios publicitarios o de propaganda a través de cualquier medio de comunicación.
 
@@ -469,6 +483,7 @@ TITULO IV De la Protección al Derecho de Autor
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 77
 .- La persona cuyo nombre o seudónimo, conocido o registrado, aparezca como autor de una obra, será considerada como tal, salvo prueba en contrario y, en consecuencia, se admitirán por los tribunales competentes las acciones que entable por transgresión a sus derechos.
 Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, las acciones para proteger el derecho corresponderán a la persona que las haga del conocimiento público con el consentimiento del autor, quien tendrá las responsabilidades de un gestor, hasta en cuanto el titular de los derechos no comparezca en el juicio respectivo, a no ser que existiera convenio previo en contrario.
@@ -477,7 +492,8 @@ Párrafo adicionado DOF 15-01-2026
 
 ### Artículo 78
 .- Las obras derivadas, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones, colecciones y transformaciones de obras literarias o artísticas, serán protegidas en lo que tengan de originales, pero sólo podrán ser explotadas cuando hayan sido autorizadas por el titular del derecho patrimonial sobre la obra primigenia, previo consentimiento del titular del derecho moral, en los casos previstos en la Fracción III del Artículo 21 de la Ley.
-Párrafo reformado DOF 23-07-2003 Cuando las obras derivadas sean del dominio público, serán protegidas en lo que tengan de originales, pero tal protección no comprenderá el derecho al uso exclusivo de la obra primigenia, ni dará derecho a impedir que se hagan otras versiones de la misma.
+Párrafo reformado DOF 23-07-2003
+Cuando las obras derivadas sean del dominio público, serán protegidas en lo que tengan de originales, pero tal protección no comprenderá el derecho al uso exclusivo de la obra primigenia, ni dará derecho a impedir que se hagan otras versiones de la misma.
 
 ### Artículo 79
 .- El traductor o el titular de los derechos patrimoniales de la traducción de una obra que acredite haber obtenido la autorización del titular de los derechos patrimoniales para traducirla gozará, con respecto de la traducción de que se trate, de la protección que la presente Ley le otorga. Por lo tanto, dicha traducción no podrá ser reproducida, modificada, publicada o alterada, sin consentimiento del traductor.
@@ -511,6 +527,7 @@ Artículo adicionado DOF 23-07-2003
 El empleador podrá divulgar la obra sin autorización del empleado, pero no al contrario. A falta de contrato individual de trabajo por escrito, los derechos patrimoniales corresponderán al empleado.
 
 ## Capítulo II — De las Obras Fotográficas, Plásticas y Gráficas
+
 
 ### Artículo 85
 .- Salvo pacto en contrario, se considerará que el autor que haya enajenado su obra pictórica, escultórica y de artes plásticas en general, no ha concedido al adquirente el derecho de reproducirla, pero sí el de exhibirla y el de plasmarla en catálogos. En todo caso, el autor podrá oponerse al ejercicio de estos derechos, cuando la exhibición se realice en condiciones que perjudiquen su honor o reputación profesional.
@@ -556,6 +573,7 @@ Artículo adicionado DOF 23-07-2003
 
 ## Capítulo III — De la Obra Cinematográfica y Audiovisual
 
+
 ### Artículo 94
 .- Se entiende por obras audiovisuales las expresadas mediante una serie de imágenes asociadas, con o sin sonorización incorporada, que se hacen perceptibles, mediante dispositivos técnicos, produciendo la sensación de movimiento.
 
@@ -592,6 +610,7 @@ Sin perjuicio de los derechos de los autores, el productor puede llevar a cabo t
 
 ## Capítulo IV — De los Programas de Computación y las Bases de Datos
 
+
 ### Artículo 101
 .- Se entiende por programa de computación la expresión original en cualquier forma, lenguaje o código, de un conjunto de instrucciones que, con una secuencia, estructura y organización determinada, tiene como propósito que una computadora o dispositivo realice una tarea o función específica.
 
@@ -623,7 +642,8 @@ II. La traducción, la adaptación, el arreglo o cualquier otra modificación de
 III. Cualquier forma de distribución del programa o de una copia del mismo, incluido el alquiler;
 Fracción reformada DOF 01-07-2020
 
-IV. La decompilación, los procesos para revertir la ingeniería de un programa de computación y el desensamblaje, y Fracción reformada DOF 01-07-2020
+IV. La decompilación, los procesos para revertir la ingeniería de un programa de computación y el desensamblaje, y
+Fracción reformada DOF 01-07-2020
 
 V. La comunicación pública del programa, incluida la puesta a disposición pública del mismo.
 Fracción adicionada DOF 01-07-2020
@@ -664,7 +684,9 @@ V. La reproducción, distribución o comunicación pública de los resultados de
 .- La transmisión de obras protegidas por esta Ley mediante cable, ondas radioeléctricas, satélite u otras similares, deberán adecuarse, en lo conducente, a la legislación mexicana y respetar en todo caso y en todo tiempo las disposiciones sobre la materia.
 
 ## Capítulo V
-De las Medidas Tecnológicas de Protección, la Información sobre la Gestión de Derechos y los Proveedores de Servicios de Internet Capítulo adicionado DOF 01-07-2020
+
+De las Medidas Tecnológicas de Protección, la Información sobre la Gestión de Derechos y los Proveedores de Servicios de Internet
+Capítulo adicionado DOF 01-07-2020
 
 ### Artículo 114
 Bis.- En la protección del derecho de autor y derechos conexos respectivos, se podrán implementar las medidas tecnológicas de protección efectivas y la información sobre la gestión de derechos. Para estos efectos:
@@ -772,14 +794,17 @@ IV. Los Proveedores de Servicios de Internet no estarán obligados a supervisar 
 En atención a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión, los Proveedores de Servicios de Internet podrán realizar un monitoreo proactivo para la identificación de contenidos que atenten contra la dignidad humana, tengan por objeto anular o menoscabar derechos y libertades, así como aquellos que estimulen o hagan apología de la violencia o de algún delito.
 
 V. La imposibilidad de un Proveedor de Servicios de Internet para cumplir los requisitos previstos en este artículo por sí mismo no le genera responsabilidad por daños y perjuicios por violaciones a derecho de autor y derechos conexos protegidos por esta Ley.
-Artículo adicionado DOF 01-07-2020 TITULO V De los Derechos Conexos
+Artículo adicionado DOF 01-07-2020
+TITULO V De los Derechos Conexos
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 115
 .- La protección prevista en este título dejará intacta y no afectará en modo alguno la protección de los derechos de autor sobre las obras literarias y artísticas. Por lo tanto, ninguna de las disposiciones del presente título podrá interpretarse en menoscabo de esa protección.
 
 ## Capítulo II — De los Artistas Intérpretes o Ejecutantes
+
 
 ### Artículo 116
 .- Los términos artista intérprete o ejecutante designan al actor, narrador, declamador, cantante, músico, bailarín, o a cualquiera otra persona que interprete o ejecute una obra literaria o artística o una expresión del folclor o que realice una actividad similar a las anteriores, aunque no haya un texto previo que norme su desarrollo. Los llamados extras y las participaciones eventuales no quedan incluidos en esta definición.
@@ -807,10 +832,12 @@ Fracción reformada DOF 01-07-2020
 IV. La distribución pública de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, mediante venta u otra forma de transferencia de la propiedad de los soportes materiales que las contengan;
 Fracción adicionada DOF 01-07-2020
 
-V. La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, ya sea de forma alámbrica o inalámbrica, de tal forma que los miembros del público puedan acceder a ellas desde el lugar y en el momento que cada uno de ellos elija; salvo que se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de los sonidos o representaciones de sonidos fijados en un fonograma que estén incorporados a una obra audiovisual, y Fracción adicionada DOF 01-07-2020
+V. La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, ya sea de forma alámbrica o inalámbrica, de tal forma que los miembros del público puedan acceder a ellas desde el lugar y en el momento que cada uno de ellos elija; salvo que se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de los sonidos o representaciones de sonidos fijados en un fonograma que estén incorporados a una obra audiovisual, y
+Fracción adicionada DOF 01-07-2020
 
 VI. El arrendamiento comercial de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, aún después de la venta o cualquier otro tipo de transferencia de la propiedad de los soportes materiales que las contengan.
-Fracción adicionada DOF 01-07-2020 Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente.
+Fracción adicionada DOF 01-07-2020
+Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente.
 Párrafo reformado DOF 23-07-2003
 
 ### Artículo 119
@@ -834,6 +861,7 @@ II. La primera interpretación o ejecución de obras no grabadas en fonogramas,o
 III. La transmisión por primera vez a través de la radio, televisión o cualquier medio.
 
 ## Capítulo III — De los Editores de Libros
+
 
 ### Artículo 123
 .- El libro es toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos.
@@ -862,6 +890,7 @@ III. La primera distribución pública del original y de cada ejemplar de sus li
 
 ## Capítulo IV — De los Productores de Fonogramas
 
+
 ### Artículo 129
 .- Fonograma es toda fijación, exclusivamente sonora, de los sonidos de una interpretación, ejecución o de otros sonidos, o de representaciones digitales de los mismos.
 
@@ -885,7 +914,8 @@ Fracción reformada DOF 01-07-2020
 V. El arrendamiento comercial del original o de una copia del fonograma, aún después de la venta del mismo, siempre y cuando no se lo hubieren reservado los autores o los titulares de los derechos patrimoniales;
 Fracción reformada DOF 01-07-2020
 
-VI. La puesta a disposición del público del fonograma, de tal forma que los miembros del público puedan tener acceso a ellos desde el lugar y en el momento que cada uno de ellos elija, y Fracción adicionada DOF 01-07-2020
+VI. La puesta a disposición del público del fonograma, de tal forma que los miembros del público puedan tener acceso a ellos desde el lugar y en el momento que cada uno de ellos elija, y
+Fracción adicionada DOF 01-07-2020
 
 VII. La comunicación pública de sus fonogramas.
 Fracción adicionada DOF 01-07-2020
@@ -896,7 +926,8 @@ Artículo adicionado DOF 23-07-2003
 
 ### Artículo 132
 .- Los fonogramas deberán ostentar el símbolo (P) y, en su caso, el Número Internacional Normalizado que le corresponda; acompañado de la indicación del año en que se haya realizado la primera publicación.
-Párrafo reformado DOF 01-07-2020 La omisión de estos requisitos no implica la pérdida de los derechos que correspondan al productor de fonogramas pero lo sujeta a las sanciones establecidas por la Ley.
+Párrafo reformado DOF 01-07-2020
+La omisión de estos requisitos no implica la pérdida de los derechos que correspondan al productor de fonogramas pero lo sujeta a las sanciones establecidas por la Ley.
 Se presumirá, salvo prueba en contrario, que es Productor de Fonogramas, la persona física o moral cuyo nombre aparezca indicado en los ejemplares legítimos del fonograma, precedido de la letra "P", encerrada en un círculo y seguido del año de la primera publicación.
 Los productores de fonogramas deberán notificar a las sociedades de gestión colectiva los datos de etiqueta de sus producciones y de las matrices que se exporten, indicando los países en cada caso.
 Artículo reformado DOF 23-07-2003
@@ -910,6 +941,7 @@ Artículo reformado DOF 23-07-2003
 Artículo reformado DOF 23-07-2003
 
 ## Capítulo V — De los Productores de Videogramas
+
 Artículos 135.- Se considera videograma a la fijación de imágenes asociadas, con o sin sonido incorporado, que den sensación de movimiento, o de una representación digital de tales imágenes de una obra audiovisual o de la representación o ejecución de otra obra o de una expresión del folclor, así como de otras imágenes de la misma clase, con o sin sonido.
 
 ### Artículo 136
@@ -922,6 +954,7 @@ Artículos 135.- Se considera videograma a la fijación de imágenes asociadas, 
 .- La duración de los derechos regulados en este capítulo es de cincuenta años a partir de la primera fijación de las imágenes en el videograma.
 
 ## Capítulo VI — De los Organismos de Radiodifusión
+
 
 ### Artículo 139
 .- Para efectos de la presente Ley, se considera organismo de radiodifusión, la entidad concesionada o permisionada capaz de emitir señales sonoras, visuales o ambas, susceptibles de percepción, por parte de una pluralidad de sujetos receptores.
@@ -981,15 +1014,18 @@ Artículo reformado DOF 01-07-2020
 
 ### Artículo 146
 .- Los derechos de los organismos de radiodifusión a los que se refiere este Capítulo tendrán una vigencia de cincuenta años a partir de la primera emisión o transmisión original del programa.
-Artículo reformado DOF 23-07-2003 TITULO VI De las Limitaciones del Derecho de Autor y de los Derechos Conexos
+Artículo reformado DOF 23-07-2003
+TITULO VI De las Limitaciones del Derecho de Autor y de los Derechos Conexos
 
 ## Capítulo I — De la Limitación por Causa de Utilidad Pública
+
 
 ### Artículo 147
 .- Se considera de utilidad pública la publicación o traducción de obras literarias o artísticas necesarias para el adelanto de la ciencia, la cultura y la educación nacionales. Cuando no sea posible obtener el consentimiento del titular de los derechos patrimoniales correspondientes, y mediante el pago de una remuneración compensatoria, el Ejecutivo Federal, por conducto de la Secretaría de Cultura, de oficio o a petición de parte, podrá autorizar la publicación o traducción mencionada. Lo anterior será sin perjuicio de los tratados internacionales sobre derechos de autor y derechos conexos suscritos y aprobados por México.
 Artículo reformado DOF 17-12-2015
 
 ## Capítulo II — De la Limitación a los Derechos Patrimoniales
+
 
 ### Artículo 148
 .- Las obras literarias y artísticas ya divulgadas podrán utilizarse, siempre que no se afecte la explotación normal de la obra, sin autorización del titular del derecho patrimonial y sin remuneración, citando invariablemente la fuente y sin alterar la obra, sólo en los siguientes casos:
@@ -1008,7 +1044,8 @@ V. Reproducción de una sola copia, por parte de un archivo o biblioteca, por ra
 VI. Reproducción para constancia en un procedimiento judicial o administrativo;
 Fracción reformada DOF 17-03-2015
 
-VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos; y Fracción reformada DOF 17-03-2015
+VII. Reproducción, comunicación y distribución por medio de dibujos, pinturas, fotografías y procedimientos audiovisuales de las obras que sean visibles desde lugares públicos; y
+Fracción reformada DOF 17-03-2015
 
 VIII. Publicación y representación de obra artística y literaria sin fines de lucro para personas con discapacidad.
 Las entidades autorizadas o reconocidas podrán valerse de lo dispuesto en esta fracción, bajo los términos de los tratados internacionales suscritos y aprobados por los Estados Unidos Mexicanos, para el intercambio transfronterizo de ejemplares en formatos accesibles, incluida su importación.
@@ -1053,6 +1090,7 @@ IV. Se trate de los casos previstos en los artículos 147, 148 y 149 de la prese
 
 ## Capítulo III — Del Dominio Público
 
+
 ### Artículo 152
 .- Las obras del dominio público pueden ser libremente utilizadas por cualquier persona, con la sola restricción de respetar los derechos morales de los respectivos autores.
 
@@ -1062,10 +1100,12 @@ TITULO VII De los Derechos de Autor sobre los Símbolos Patrios y de las expresi
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 154
 .- Las obras a que se refiere este Título están protegidas independientemente de que no se pueda determinar la autoría individual de ellas o que el plazo de protección otorgado a sus autores se haya agotado.
 
 ## Capítulo II — De los Símbolos Patrios
+
 
 ### Artículo 155
 .- El Estado Mexicano es el titular de los derechos morales sobre los símbolos patrios.
@@ -1074,6 +1114,7 @@ TITULO VII De los Derechos de Autor sobre los Símbolos Patrios y de las expresi
 .- El uso de los símbolos patrios deberá apegarse a lo establecido por la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
 
 ## Capítulo III — De las Culturas Populares y de las Expresiones Culturales Tradicionales
+
 Denominación del Capítulo reformada DOF 24-01-2020
 
 ### Artículo 157
@@ -1099,6 +1140,7 @@ Artículo reformado DOF 24-01-2020
 TITULO VIII De los Registros de Derechos
 
 ## Capítulo I — Del Registro Público del Derecho de Autor
+
 
 ### Artículo 162
 .- El Registro Público del Derecho de Autor tiene por objeto garantizar la seguridad jurídica de los autores, de los titulares de los derechos conexos y de los titulares de los derechos patrimoniales respectivos y sus causahabientes, así como dar una adecuada publicidad a las obras, actos y documentos a través de su inscripción.
@@ -1184,6 +1226,7 @@ El representante del registro abrirá el sobre, con asistencia de testigos, cuan
 .- Cuando el encargado del registro detecte que la oficina a su cargo ha efectuado una inscripción por error, iniciará de oficio un procedimiento de cancelación o corrección de la inscripción correspondiente, respetando la garantía de audiencia de los posibles afectados.
 
 ## Capítulo II — De las Reservas de Derechos al Uso Exclusivo
+
 
 ### Artículo 173
 .- La reserva de derechos es la facultad de usar y explotar en forma exclusiva títulos, nombres, denominaciones, características físicas y psicológicas distintivas, o características de operación originales aplicados, de acuerdo con su naturaleza, a alguno de los siguientes géneros:
@@ -1474,7 +1517,8 @@ III. Llevar el Registro Público del Derecho de Autor;
 IV. Mantener actualizado su acervo histórico, incorporando información desagregada por género para identificar la participación de las mujeres en la creación de obras;
 Fracción reformada DOF 01-07-2020, 15-01-2026
 
-V. Promover la cooperación internacional y el intercambio con instituciones encargadas del registro y protección del derecho de autor y derechos conexos, y Fracción reformada DOF 01-07-2020
+V. Promover la cooperación internacional y el intercambio con instituciones encargadas del registro y protección del derecho de autor y derechos conexos, y
+Fracción reformada DOF 01-07-2020
 
 VI. Cooperar con las entidades autorizadas o reconocidas para facilitar el intercambio transfronterizo de ejemplares accesibles de obras protegidas en favor de las personas con discapacidad, en términos de los tratados internacionales suscritos y aprobados por los Estados Unidos Mexicanos.
 Fracción adicionada DOF 01-07-2020
@@ -1504,13 +1548,17 @@ Si hay oposición, el Instituto hará un segundo análisis y propondrá la tarif
 TITULO XI De los Procedimientos
 
 ## Capítulo I — Del Procedimiento ante Autoridades Jurisdiccionales
+
 Denominación del Capítulo reformada DOF 01-07-2020
 
 ### Artículo 213
 .- Los Tribunales Federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales de los Estados y de la Ciudad de México.
-Párrafo reformado DOF 01-07-2020 Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletorio el Código Nacional de Procedimientos Civiles y Familiares ante Tribunales Federales y la legislación común ante los Tribunales del orden común.
-Párrafo reformado DOF 14-11-2025 Para el ejercicio de las acciones derivadas de la presente Ley y su Reglamento no será necesario agotar ningún procedimiento ni acción previa como condición para el ejercicio de dichas acciones.
-Párrafo adicionado DOF 10-06-2013 Artículo reformado DOF 23-07-2003
+Párrafo reformado DOF 01-07-2020
+Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletorio el Código Nacional de Procedimientos Civiles y Familiares ante Tribunales Federales y la legislación común ante los Tribunales del orden común.
+Párrafo reformado DOF 14-11-2025
+Para el ejercicio de las acciones derivadas de la presente Ley y su Reglamento no será necesario agotar ningún procedimiento ni acción previa como condición para el ejercicio de dichas acciones.
+Párrafo adicionado DOF 10-06-2013
+Artículo reformado DOF 23-07-2003
 
 ### Artículo 213
 Bis. Los titulares de los derechos reconocidos por esta Ley, sus representantes o las sociedades de gestión colectiva que los representen podrán solicitar a los Tribunales Federales y/o Tribunales de los Estados y/o de la Ciudad de México, el otorgamiento y ejecución de las siguientes medidas precautorias para prevenir, impedir o evitar la violación a sus derechos patrimoniales a los que se refiere el artículo 27 de esta Ley:
@@ -1531,7 +1579,9 @@ Artículo adicionado DOF 01-06-2018
 Artículo reformado DOF 01-07-2020
 
 ### Artículo 215
-.- Corresponde conocer a los Tribunales de la Federación de los delitos relacionados con Párrafo reformado DOF 01-07-2020 Los titulares del derecho de autor de obras musicales, sus representantes o las sociedades de gestión colectiva a las que hayan confiado la administración de sus derechos, podrán solicitar a la autoridad judicial competente, el otorgamiento de las medidas precautorias previstas en esta Ley.
+.- Corresponde conocer a los Tribunales de la Federación de los delitos relacionados con
+Párrafo reformado DOF 01-07-2020
+Los titulares del derecho de autor de obras musicales, sus representantes o las sociedades de gestión colectiva a las que hayan confiado la administración de sus derechos, podrán solicitar a la autoridad judicial competente, el otorgamiento de las medidas precautorias previstas en esta Ley.
 Párrafo adicionado DOF 01-06-2018
 
 ### Artículo 216
@@ -1545,6 +1595,7 @@ Para los efectos de este Artículo se entiende por daño moral el que ocasione l
 Artículo adicionado DOF 23-07-2003
 
 ## Capítulo II — Del Procedimiento de Avenencia
+
 
 ### Artículo 217
 .- Las personas que consideren que son afectados en alguno de los derechos protegidos por esta Ley, podrán optar entre hacer valer las acciones judiciales que les correspondan o sujetarse al procedimiento de avenencia.
@@ -1571,6 +1622,7 @@ Dicho procedimiento se llevará a cabo asegurando condiciones equitativas entre 
 Párrafo adicionado DOF 15-01-2026
 
 ## Capítulo III — Del Arbitraje
+
 
 ### Artículo 219
 .- En el caso de que surja alguna controversia sobre los derechos protegidos por esta Ley, las partes podrán someterse a un procedimiento de arbitraje, el cual estará regulado conforme a lo establecido en este Capítulo, sus disposiciones reglamentarias y, de manera supletoria, las del Código de Comercio.
@@ -1638,6 +1690,7 @@ TITULO XII De los Procedimientos Administrativos
 
 ## Capítulo I — De las Infracciones en Materia de Derechos de Autor
 
+
 ### Artículo 229
 .- Son infracciones en materia de derecho de autor:
 
@@ -1681,6 +1734,7 @@ Artículo reformado DOF 01-07-2020
 
 ## Capítulo II — De las Infracciones en Materia de Comercio
 
+
 ### Artículo 231
 .- Constituyen infracciones en materia de comercio las siguientes conductas cuando sean realizadas con fines de lucro directo o indirecto:
 
@@ -1710,7 +1764,8 @@ X. Las demás infracciones a las disposiciones de la Ley que impliquen conducta 
 . Las infracciones en materia de comercio previstas en la presente Ley serán sancionadas por el Instituto Mexicano de la Propiedad Industrial con multa:
 Párrafo reformado DOF 27-01-2012
 
-I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior, Fracción reformada DOF 27-01-2012
+I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior,
+Fracción reformada DOF 27-01-2012
 
 II. De mil hasta cinco mil días de salario mínimo en los casos previstos en las fracciones II y VI del artículo anterior, y
 
@@ -1773,6 +1828,7 @@ Artículo reformado DOF 01-07-2020
 
 ## Capítulo III — De la Impugnación Administrativa
 
+
 ### Artículo 237
 .- Los afectados por los actos y resoluciones emitidos por el Instituto que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en los términos de la Ley Federal del Procedimiento Administrativo.
 
@@ -1819,7 +1875,7 @@ Se reforma la fracción I del artículo 232 de la Ley Federal del Derecho de Aut
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 18 de enero de 2012.Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman los artículos 210, fracción I; 218, fracción III; 235; y se adiciona un último párrafo al artículo 213 de la Ley Federal del Derecho de Autor.
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2013
@@ -1829,8 +1885,8 @@ Se reforman los artículos 210, fracción I; 218, fracción III; 235; y se adici
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las controversias que se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial y/o ante el Instituto Nacional del Derecho de Autor al momento de la entrada en vigor de este Decreto, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
+**PRIMERO.-** El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las controversias que se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial y/o ante el Instituto Nacional del Derecho de Autor al momento de la entrada en vigor de este Decreto, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
 México, D.F., a 29 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Tanya Rellstab Carreto, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión.
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
@@ -1840,31 +1896,30 @@ Se adicionan un segundo párrafo al artículo 27; y un segundo párrafo al artí
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
 Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**TERCERO.** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**CUARTO.** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**QUINTO.** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**TERCERO.-** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**CUARTO.-** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**QUINTO.-** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar videojuegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-**SEXTO.** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
+**SEXTO.-** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
 
 ## Transitorio
 
 del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
-**SÉPTIMO.** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
+**SÉPTIMO.-** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
 Párrafo adicionado DOF 15-06-2018
-**OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**OCTAVO.-** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
-**NOVENO.** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
+**NOVENO.-** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 Por Índice Hirschman-Herfindahl “IHH” se entiende la suma de los cuadrados de las participaciones de cada agente económico (IHH=i qi2), en el sector que corresponda, medida para el caso del sector de las telecomunicaciones con base en el indicador de número de suscriptores y usuarios de servicios de telecomunicaciones, y para el sector de la radiodifusión con base en audiencia. Este índice puede tomar valores entre cero y diez mil.
 Para calcular el Índice de Dominancia “ID”, se determinará primero la contribución porcentual hi de cada agente económico al índice IHH definido en el párrafo anterior (hi = 100xqi2/IHH). Después se calculará el valor de ID aplicando la fórmula del Hirschman-Herfindahl, pero utilizando ahora las contribuciones hi en vez de las participaciones qi (es decir, ID=i hi2). Este índice también varía entre cero y diez mil.
 Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
-**DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
-
+**DÉCIMO.-** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
 
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
@@ -1874,9 +1929,8 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
-
+**artículo Octavo.-** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**DÉCIMO PRIMERO.-** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
 
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
@@ -1887,7 +1941,7 @@ Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto
 IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
+**DÉCIMO SEGUNDO.-** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
 
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
@@ -1896,7 +1950,7 @@ II. En caso que el Instituto Federal de Telecomunicaciones considere que la info
 
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
-**Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
+**Octavo.-** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
 
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
@@ -1914,64 +1968,65 @@ VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracc
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
 
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
-**DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**DÉCIMO TERCERO.-** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
-**DÉCIMO CUARTO.** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
-**DÉCIMO QUINTO.** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SEXTO.** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SÉPTIMO.** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
+**DÉCIMO CUARTO.-** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
+**DÉCIMO QUINTO.-** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SEXTO.-** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SÉPTIMO.-** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
 Para transitar al régimen de concesión correspondiente, los permisionarios deberán presentar solicitud al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en un plazo de noventa días hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
 En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-**DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
-**DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
+**DÉCIMO OCTAVO.-** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+**DÉCIMO NOVENO.-** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.-** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
-Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
-Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
-**VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+Párrafo adicionado DOF 18-12-2015
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+Párrafo reformado DOF 18-12-2015
+Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
+**VIGÉSIMO.-** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
+**artículo Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
-**VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
-**VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
-**VIGÉSIMO TERCERO.** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
-**VIGÉSIMO CUARTO.** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
-**VIGÉSIMO QUINTO.** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
+**VIGÉSIMO PRIMERO.-** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+**VIGÉSIMO SEGUNDO.-** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+**VIGÉSIMO TERCERO.-** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
+**VIGÉSIMO CUARTO.-** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
+**VIGÉSIMO QUINTO.-** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
 Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen con motivo de dicha consolidación.
 Asimismo, el Instituto Federal de Telecomunicaciones, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá definir los puntos de interconexión a la red pública de telecomunicaciones del agente económico preponderante o con poder sustancial.
 Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan a lo previsto en el presente transitorio.
 Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales como números 900.
-**VIGÉSIMO SEXTO.** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO SEXTO.-** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.
-**VIGÉSIMO SÉPTIMO.** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO OCTAVO.** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO NOVENO.** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
-**TRIGÉSIMO.** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
+**VIGÉSIMO SÉPTIMO.-** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO OCTAVO.-** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO NOVENO.-** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+**TRIGÉSIMO.-** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
 En tanto se emite el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
 Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.
-**TRIGÉSIMO.** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
-**TRIGÉSIMO.** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
+**TRIGÉSIMO.-** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+**TRIGÉSIMO.-** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
-**TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
-**TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
-
+**TRIGÉSIMO.-** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+**TRIGÉSIMO.-** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
 I. Sus planes de crecimiento;
 
 II. Sus gastos de operación, y
 
 III. Su equilibrio financiero.
-**TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
-**TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
-**TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
-**TRIGÉSIMO.** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+**TRIGÉSIMO.-** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
+**TRIGÉSIMO.-** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
+**TRIGÉSIMO.-** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+**TRIGÉSIMO.-** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
 Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
 Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
-**TRIGÉSIMO.** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
+**TRIGÉSIMO.-** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
 CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley Federal de Telecomunicaciones y Radiodifusión, a partir de su entrada en vigor.
 CUADRAGÉSIMO PRIMERO. Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos 67 fracción II y 76 fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
 CUADRAGÉSIMO SEGUNDO. A la concesión para instalar, operar y explotar una red pública de telecomunicaciones que, en los términos del artículo Décimo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o, 7o, 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, debe ser cedida por la Comisión Federal de Electricidad a Telecomunicaciones de México, no le resultará aplicable lo establecido en los artículos 140 y 144 de la Ley Federal de Telecomunicaciones y Radiodifusión, exclusivamente respecto a aquellos contratos vigentes a la fecha de publicación del presente Decreto que hayan sido celebrados entre la Comisión Federal de Electricidad y aquellas personas físicas o morales que, conforme a la misma Ley, han de ser considerados como usuarios finales.
@@ -1980,7 +2035,7 @@ En caso de que exista impedimento técnico, legal o económico para que Telecomu
 CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir de la entrada en vigor del presente Decreto, las señales de los concesionarios de uso comercial que transmitan televisión radiodifundida y que cubran más del cincuenta por ciento del territorio nacional deberán contar con lenguaje de señas mexicana o subtitulaje oculto en idioma nacional, en la programación que transmitan de las 06:00 a las 24:00 horas, excluyendo la publicidad y otros casos que establezca el Instituto Federal de Telecomunicaciones, atendiendo a las mejores prácticas internacionales. Los entes públicos federales que sean concesionarios de uso público de televisión radiodifundida estarán sujetos a la misma obligación.
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
-**Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+**Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona la fracción VIII al artículo 148 de la Ley Federal del Derecho de Autor.
 Publicado en el Diario Oficial de la Federación el 17 de marzo de 2015
@@ -2000,19 +2055,19 @@ Se REFORMAN los artículos 147, 208 y 211 de la Ley Federal del Derecho de Autor
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
@@ -2023,9 +2078,9 @@ Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el a
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
-**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+**Tercero.-** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
 México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma la fracción III del artículo 231 de la Ley Federal del Derecho de Autor.
 Publicado en el Diario Oficial de la Federación el 13 de enero de 2016
@@ -2035,7 +2090,7 @@ Se reforma la fracción III del artículo 231 de la Ley Federal del Derecho de A
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 14 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan un Artículo 213 Bis y un segundo párrafo al Artículo 215 de la Ley Federal del Derecho de Autor.
@@ -2067,8 +2122,8 @@ Se reforman la denominación del Capítulo III denominado "De las Culturas Popul
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría de Cultura elaborará catálogos de las obras a las que se refiere el artículo 157 de la presente Ley; en el caso de las expresiones de las comunidades o pueblos indígenas, el acompañamiento técnico lo realizará el Instituto Nacional de los Pueblos Indígenas.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría de Cultura elaborará catálogos de las obras a las que se refiere el artículo 157 de la presente Ley; en el caso de las expresiones de las comunidades o pueblos indígenas, el acompañamiento técnico lo realizará el Instituto Nacional de los Pueblos Indígenas.
 Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal del Derecho de Autor.
 Publicado en el Diario Oficial de la Federación el 1 de julio de 2020
@@ -2078,23 +2133,23 @@ Se reforman el artículo 10; la fracción III del artículo 16; el artículo 17;
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto, llevará a cabo las adecuaciones reglamentarias necesarias para la observancia de lo dispuesto en el mismo.
-**Tercero.** Las acciones que, en cumplimiento a lo dispuesto en el presente Decreto, corresponda realizar a las entidades y dependencias del Poder Ejecutivo Federal, respecto de recursos humanos, financieros y materiales, se sujetarán a los presupuestos aprobados y subsecuentes, así como a las disposiciones y normas en materia de presupuesto y responsabilidad hacendaria.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto, llevará a cabo las adecuaciones reglamentarias necesarias para la observancia de lo dispuesto en el mismo.
+**Tercero.-** Las acciones que, en cumplimiento a lo dispuesto en el presente Decreto, corresponda realizar a las entidades y dependencias del Poder Ejecutivo Federal, respecto de recursos humanos, financieros y materiales, se sujetarán a los presupuestos aprobados y subsecuentes, así como a las disposiciones y normas en materia de presupuesto y responsabilidad hacendaria.
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Lizbeth Mata Lozano, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Cuadragésimo Segundo.- Se reforman los artículos 10 y 213, segundo párrafo, de la Ley Federal del Derecho de Autor, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
@@ -2104,11 +2159,11 @@ Se reforma el artículo 209, fracción IV; y se adiciona un tercer párrafo al a
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

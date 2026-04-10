@@ -15,6 +15,7 @@ Se expide la Ley Nacional sobre el Uso de la Fuerza
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en todo el territorio nacional; tienen como fin regular el uso de la fuerza que ejercen las instituciones de seguridad pública del Estado, así como de la Fuerza Armada permanente cuando actúe en tareas de seguridad pública.
 Cuando las autoridades a que se refiere el párrafo anterior realicen tareas de protección civil, y se requiera el uso de la fuerza, lo harán en los términos que dispone la presente Ley.
@@ -67,6 +68,7 @@ XIV. Uso de la Fuerza: la inhibición por medios mecánicos o biomecánicos, de 
 Fracción reformada DOF 24-01-2024
 
 ## Capítulo II
+
 Principios del Uso de la Fuerza
 
 ### Artículo 4
@@ -84,7 +86,8 @@ Fracción reformada DOF 24-01-2024
 V. Rendición de cuentas y vigilancia: para que existan controles que permitan la evaluación de las acciones de uso de la fuerza y sea valorada su eficacia en términos del desempeño de las responsabilidades y funciones previstas por esta Ley;
 Fracción reformada DOF 24-01-2024
 
-VI. Racionalidad: decisión en la que se valora el objetivo que se persigue, las circunstancias de la agresión, las características personales y las capacidades tanto del sujeto a controlar como del integrante de las fuerzas de seguridad; lo que implica que, dada la existencia del acto o intención hostil, es necesario la aplicación del uso de la fuerza, y Fracción adicionada DOF 24-01-2024
+VI. Racionalidad: decisión en la que se valora el objetivo que se persigue, las circunstancias de la agresión, las características personales y las capacidades tanto del sujeto a controlar como del integrante de las fuerzas de seguridad; lo que implica que, dada la existencia del acto o intención hostil, es necesario la aplicación del uso de la fuerza, y
+Fracción adicionada DOF 24-01-2024
 
 VII. Oportunidad: cuando se requiera hacer uso de la fuerza, se debe evitar todo tipo de actuación innecesaria cuando exista evidente peligro o riesgo de la vida de las personas ajenas a los hechos. Esto significa que debe procurarse en el momento y en el lugar en que se reduzcan al máximo los daños y afectaciones tanto a la vida como a la integridad de las personas involucradas y sus bienes y en general, la afectación de los derechos de las personas.
 Fracción adicionada DOF 24-01-2024
@@ -105,7 +108,8 @@ IV. Inmovilización: utilizar la fuerza física con intensidad, pudiendo emplear
 
 V. Incapacitación: utilizar la fuerza física con máxima intensidad, permitiendo el empleo de armas menos letales, así como sustancias químicas irritantes que perturben las funciones sensoriales, con la finalidad de neutralizar la resistencia y la violencia, teniendo alta probabilidad de causar lesiones que no pongan en riesgo la vida del agresor;
 
-VI. Lesión grave: utilizar la fuerza, permitiendo el uso de armas menos letales o de fuego con la finalidad de neutralizar a los agresores y proteger la integridad de la autoridad o de personas ajenas, con alta probabilidad de dañar gravemente al agresor, y Fracción declarada parcialmente inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 29-10-2021 y publicada DOF 08-04-2022 Fracción reformada DOF 24-01-2024
+VI. Lesión grave: utilizar la fuerza, permitiendo el uso de armas menos letales o de fuego con la finalidad de neutralizar a los agresores y proteger la integridad de la autoridad o de personas ajenas, con alta probabilidad de dañar gravemente al agresor, y Fracción declarada parcialmente inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 29-10-2021 y publicada DOF 08-04-2022
+Fracción reformada DOF 24-01-2024
 
 VII. Muerte: utilizar la fuerza letal como una acción excepcional, permitiendo el uso de armas menos letales o de fuego con la finalidad de repeler y neutralizar la agresión, no teniendo otra opción para proteger la vida de las personas ajenas o la propia, a sabiendas que existe un alto riesgo de causar la muerte del agresor.
 
@@ -128,6 +132,7 @@ VI. Las acciones tendientes a perturbar objetos o sistemas que puedan tener efec
 . Los protocolos y procedimientos del uso de la fuerza deberán atender a la perspectiva de género, la protección de niñas, niños y adolescentes, así como la atención de situaciones de riesgo en el interior o en las inmediaciones de guarderías, escuelas, hospitales, templos, centros de reclusión y otros lugares en el que se congreguen personas ajenas a los agresores.
 
 ## Capítulo III
+
 Procedimientos del Uso de la Fuerza
 
 ### Artículo 9
@@ -184,6 +189,7 @@ III. Inminente: si la agresión está próxima a ocurrir y, de no realizarse una
 . El uso de la fuerza letal será el último recurso en cualquier operativo. En su caso, los agentes deberán comprobar que la agresión era real, actual o inminente, sin derecho, que ponía o podría poner en peligro la vida o integridad física de personas ajenas o de uno de ellos y que el uso de la fuerza en los niveles referidos en las fracciones I a la IV del artículo 11, eran insuficientes para repeler, contrarrestar o neutralizar los actos de resistencia.
 
 ## Capítulo IV
+
 Instrumentos del Uso de la Fuerza
 
 ### Artículo 14
@@ -218,6 +224,7 @@ El manual correspondiente determinará el contenido de las prácticas que los ag
 El entrenamiento para el uso de las armas permitidas comprenderá técnicas de solución pacífica de conflictos, como la negociación y la mediación, así como de control de multitudes y otros medios lícitos que limiten al máximo el uso de la fuerza en los niveles de uso de armas menos letales y uso de arma de fuego.
 
 ## Capítulo V
+
 Agentes
 
 ### Artículo 17
@@ -235,6 +242,7 @@ Es obligación de la institución de seguridad a la que pertenezcan, proporciona
 . Las familias de los agentes contarán con atención médica, psicológica y social en aquellos casos en los que el agente pierda la vida, le sea imputado el uso excesivo de la fuerza o adquiera alguna discapacidad por el ejercicio de sus funciones, dando especial atención a sus familiares.
 
 ## Capítulo VI
+
 Detenciones
 
 ### Artículo 21
@@ -272,6 +280,7 @@ En cualquier caso, será aplicable lo dispuesto por el último párrafo del art�
 . De cada detención se llevará a cabo el registro e informe correspondiente, en términos de lo establecido por la ley en la materia.
 
 ## Capítulo VII
+
 Actuación de las Policías en Manifestaciones y Reuniones Públicas
 
 ### Artículo 27
@@ -283,6 +292,7 @@ La intervención de las fuerzas de seguridad pública deberá hacerse por person
 . Cuando las manifestaciones o reuniones públicas se tornen violentas, las policías deberán actuar de acuerdo a los distintos niveles de fuerza establecidos en esta Ley.
 
 ## Capítulo VIII
+
 Planeación de Operativos que requieran el Uso de la Fuerza
 
 ### Artículo 29
@@ -318,6 +328,7 @@ XI. Es legal grabar o filmar el desarrollo del operativo, desde el inicio hasta 
 El agente que funja como negociador deberá permanecer en comunicación directa y en coordinación con el mando operativo, quien a su vez tendrá contacto directo con el mando superior.
 
 ## Capítulo IX
+
 Informes del Uso de la Fuerza
 
 ### Artículo 32
@@ -371,6 +382,7 @@ IV. En su caso, recomendaciones que con motivo de estos eventos hayan emitido lo
 . Los datos personales de los agentes que hayan utilizado fuerza letal deberán ser tratados en términos de la legislación en la materia.
 
 ## Capítulo X
+
 Capacitación y Profesionalización
 
 ### Artículo 40
@@ -415,6 +427,7 @@ XVII. Las demás que resulten necesarias.
 Dentro de los programas de capacitación se deberán establecer cursos de evaluación sobre el uso de la fuerza.
 
 ## Capítulo XI
+
 Régimen de Responsabilidades
 
 ### Artículo 42
@@ -428,19 +441,19 @@ Régimen de Responsabilidades
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan las disposiciones sobre uso de la fuerza en materia de seguridad pública, que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Para cumplir con la obligación contenida en el artículo 38, las instituciones de seguridad pública, procurarán, en medida de las disponibilidades presupuestarias, adquirir la tecnología correspondiente.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones sobre uso de la fuerza en materia de seguridad pública, que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Para cumplir con la obligación contenida en el artículo 38, las instituciones de seguridad pública, procurarán, en medida de las disponibilidades presupuestarias, adquirir la tecnología correspondiente.
 Ciudad de México, a 23 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 64/2019, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 29 de octubre de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/376/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintiséis de octubre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 64/2019, promovida por la Comisión Nacional de los Derechos humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se declaran infundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes al adiestramiento del uso de la fuerza mediante el empleo de armas incapacitantes no letales y letales, la distinción y regulación de dichas armas y la sistematización y archivo de los informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones que, como previsiones mínimas, contiene la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, en términos del apartado III, temas 1.3 y 1.4, de esta decisión.
-**TERCERO.** Se reconoce la validez de los artículos 27, párrafo primero, 28 y 36, en su porción normativa ‘desde la planeación’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, de conformidad con el apartado III, temas 2.2 y 2.3, de esta determinación.
-**CUARTO.** Se declara la invalidez del artículo 6, fracción VI, en su porción normativa ‘epiletal’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por las razones del apartado III, tema 2.1, de esta ejecutoria, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, como se indica en el apartado IV de esta resolución.
-**QUINTO.** Se declaran fundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes a la finalidad del uso de la fuerza, así como la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, debe contener la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por los argumentos expuestos en el apartado III, temas 1.1 y 1.2, de esta sentencia.
-**SEXTO.** Se condena al Congreso de la Unión para que, en el siguiente período ordinario de sesiones que inicia en febrero de dos mil veintidós, legisle para establecer en la Ley Nacional sobre el Uso de la Fuerza la finalidad del uso de la fuerza y la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, dicha ley debe contener, con fundamento en el artículo transitorio cuarto, fracción III, numerales 1 y 3, del decreto de reforma constitucional publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil diecinueve, en los términos precisados en el apartado IV de este fallo.
-**SÉPTIMO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se declaran infundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes al adiestramiento del uso de la fuerza mediante el empleo de armas incapacitantes no letales y letales, la distinción y regulación de dichas armas y la sistematización y archivo de los informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones que, como previsiones mínimas, contiene la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, en términos del apartado III, temas 1.3 y 1.4, de esta decisión.
+**TERCERO.-** Se reconoce la validez de los artículos 27, párrafo primero, 28 y 36, en su porción normativa ‘desde la planeación’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, de conformidad con el apartado III, temas 2.2 y 2.3, de esta determinación.
+**CUARTO.-** Se declara la invalidez del artículo 6, fracción VI, en su porción normativa ‘epiletal’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por las razones del apartado III, tema 2.1, de esta ejecutoria, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, como se indica en el apartado IV de esta resolución.
+**QUINTO.-** Se declaran fundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes a la finalidad del uso de la fuerza, así como la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, debe contener la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por los argumentos expuestos en el apartado III, temas 1.1 y 1.2, de esta sentencia.
+**SEXTO.-** Se condena al Congreso de la Unión para que, en el siguiente período ordinario de sesiones que inicia en febrero de dos mil veintidós, legisle para establecer en la Ley Nacional sobre el Uso de la Fuerza la finalidad del uso de la fuerza y la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, dicha ley debe contener, con fundamento en el artículo transitorio cuarto, fracción III, numerales 1 y 3, del decreto de reforma constitucional publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil diecinueve, en los términos precisados en el apartado IV de este fallo.
+**SÉPTIMO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 26 de octubre de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el viernes 29 de octubre de 2021 a las 12:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -449,17 +462,17 @@ Publicada en el Diario Oficial de la Federación el 8 de abril de 2022 Al margen
 SECRETARIO: RICARDO MONTERROSAS CASTORENA.
 Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al día veintiséis de octubre de dos mil veintiuno, emite la siguiente:
 SENTENCIA Mediante la que se resuelve la acción de inconstitucionalidad 64/2019 promovida por la Comisión Nacional de los Derechos Humanos, en la que solicita la invalidez de la Ley Nacional sobre el Uso de la Fuerza en su integridad, con motivo de diversas omisiones legislativas relativas en competencia de ejercicio obligatorio, así como la invalidez, en particular, de los artículos 6, fracción VI, en la porción normativa “fuerza epiletal”, 27, primer párrafo, 28 y 36, en la porción normativa “desde la planeación”, de la Ley Nacional Sobre Uso de la Fuerza, expedida por Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve. ……… 227. En términos de lo expuesto, este Tribunal Pleno de la Suprema Corte de Justicia de la Nación, Resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se declaran infundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes al adiestramiento del uso de la fuerza mediante el empleo de armas incapacitantes no letales y letales, la distinción y regulación de dichas armas y la sistematización y archivo de los informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones que, como previsiones mínimas, contiene la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, en términos del apartado III, temas 1.3 y 1.4, de esta decisión.
-**TERCERO.** Se reconoce la validez de los artículos 27, párrafo primero, 28 y 36, en su porción normativa ‘desde la planeación’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, de conformidad con el apartado III, temas 2.2 y 2.3, de esta determinación.
-**CUARTO.** Se declara la invalidez del artículo 6, fracción VI, en su porción normativa ‘epiletal’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por las razones del apartado III, tema 2.1, de esta ejecutoria, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, como se indica en el apartado IV de esta resolución.
-**QUINTO.** Se declaran fundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes a la finalidad del uso de la fuerza, así como la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, debe contener la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por los argumentos expuestos en el apartado III, temas 1.1 y 1.2, de esta sentencia.
-**SEXTO.** Se condena al Congreso de la Unión para que, en el siguiente período ordinario de sesiones que inicia en febrero de dos mil veintidós, legisle para establecer en la Ley Nacional sobre el Uso de la Fuerza la finalidad del uso de la fuerza y la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, dicha ley debe contener, con fundamento en el artículo
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se declaran infundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes al adiestramiento del uso de la fuerza mediante el empleo de armas incapacitantes no letales y letales, la distinción y regulación de dichas armas y la sistematización y archivo de los informes de los servidores públicos que hagan uso de armas de fuego en el desempeño de sus funciones que, como previsiones mínimas, contiene la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, en términos del apartado III, temas 1.3 y 1.4, de esta decisión.
+**TERCERO.-** Se reconoce la validez de los artículos 27, párrafo primero, 28 y 36, en su porción normativa ‘desde la planeación’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, de conformidad con el apartado III, temas 2.2 y 2.3, de esta determinación.
+**CUARTO.-** Se declara la invalidez del artículo 6, fracción VI, en su porción normativa ‘epiletal’, de la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por las razones del apartado III, tema 2.1, de esta ejecutoria, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, como se indica en el apartado IV de esta resolución.
+**QUINTO.-** Se declaran fundadas las omisiones legislativas relativas en competencia de ejercicio obligatorio, atinentes a la finalidad del uso de la fuerza, así como la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, debe contener la Ley Nacional sobre el Uso de la Fuerza, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, por los argumentos expuestos en el apartado III, temas 1.1 y 1.2, de esta sentencia.
+**SEXTO.-** Se condena al Congreso de la Unión para que, en el siguiente período ordinario de sesiones que inicia en febrero de dos mil veintidós, legisle para establecer en la Ley Nacional sobre el Uso de la Fuerza la finalidad del uso de la fuerza y la sujeción del uso de la fuerza a los principios de racionalidad y oportunidad que, como previsiones mínimas, dicha ley debe contener, con fundamento en el artículo
 
 ## transitorio
 
-**cuarto.** , fracción III, numerales 1 y 3, del decreto de reforma constitucional publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil diecinueve, en los términos precisados en el apartado IV de este fallo.
-**SÉPTIMO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**cuarto.-** , fracción III, numerales 1 y 3, del decreto de reforma constitucional publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil diecinueve, en los términos precisados en el apartado IV de este fallo.
+**SÉPTIMO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……… El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados.
 Firman el señor Ministro Presidente y la señora Ministra Ponente con el Secretario General de Acuerdos quien da fe.

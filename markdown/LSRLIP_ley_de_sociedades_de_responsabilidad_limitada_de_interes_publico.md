@@ -7,9 +7,11 @@
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 31 de agosto de 1934 TEXTO VIGENTE Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 El C. Presidente Constitucional Substituto de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: "ABELARDO L. RODRIGUEZ, Presidente Constitucional Substituto de los Estados Unidos Mexicanos, a sus habitantes, sabed:" Que en uso de las facultades extraordinarias que me confiere el Decreto expedido por el Congreso de la Unión con fecha 28 de diciembre de 1933, para expedir un nuevo Código de Comercio y leyes especiales en materia de comercio y de derecho procesal mercantil, he tenido a bien expedir la siguiente LEY DE SOCIEDADES DE RESPONSABILIDAD LIMITADA DE INTERES PUBLICO ARTICULO 1º. La Sociedad de Responsabilidad Limitada de Interés Público sólo se constituirá cuando se trate de actividades de interés público y particular conjuntamente, a juicio de la Secretaría de Economía.
-Artículo reformado DOF 09-04-2012 ARTICULO 2°.- La sociedad se constituirá mediante autorización del Ejecutivo Federal.
+Artículo reformado DOF 09-04-2012
+ARTICULO 2°.- La sociedad se constituirá mediante autorización del Ejecutivo Federal.
 ARTICULO 3º. La solicitud se presentará ante la Secretaría de Economía, la que otorgará o negará la autorización dentro del término de treinta días, contados a partir de la fecha en que reciba el ocurso acompañado del proyecto de escritura.
-Artículo reformado DOF 09-04-2012 ARTICULO 4°.- Otorgada la autorización a que se refiere el artículo anterior y extendida la escritura correspondiente, sin otro trámite, se inscribirá ésta en el Registro Público de Comercio.
+Artículo reformado DOF 09-04-2012
+ARTICULO 4°.- Otorgada la autorización a que se refiere el artículo anterior y extendida la escritura correspondiente, sin otro trámite, se inscribirá ésta en el Registro Público de Comercio.
 ARTICULO 5°.- Salvo lo previsto por la presente Ley, la sociedad se regirá por las disposiciones generales de la Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada.
 ARTICULO 6°.- La sociedad se constituirá como de capital variable.
 ARTICULO 7°.- La sociedad podrá tener más de veinticinco socios.
@@ -18,7 +20,8 @@ ARTICULO 9°.- El veinte por ciento de las utilidades netas obtenidas anualmente
 ARTICULO 10.- La sociedad estará administrada por un Consejo de Administración compuesto de tres socios por lo menos; y se constituirá un Consejo de Vigilancia integrado por dos socios como mínimo.
 ARTICULO 11.- El contrato social determinará los derechos que corresponden a la minoría en la designación de administradores y de miembros del Consejo de Vigilancia; pero en todo caso la minoría que represente un veinticinco por ciento del capital social, nombrará, cuanto menos, un Consejero y un miembro del Consejo de Vigilancia. Sólo podrán revocarse otros nombramientos cuando se revoquen igualmente los nombramientos de todos los demás administradores o miembros del Consejo de Vigilancia.
 ARTICULO 12.- La Secretaría de Economía intervendrá en el funcionamiento de la sociedad, teniendo las atribuciones siguientes:
-Párrafo reformado DOF 09-04-2012 I.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales.
+Párrafo reformado DOF 09-04-2012
+I.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales.
 II.- Convocar para la celebración de asambleas cuando no se hayan reunido en las épocas señaladas en el contrato social, y a falta de estipulación en éste, cuando haya transcurrido más de un año sin que se haya celebrado una de dichas asambleas.
 III.- Promover ante la autoridad judicial la disolución y liquidación de la sociedad, cuando existan motivos legales para ello.
 IV.- Denunciar ante el Ministerio Público las irregularidades que tengan carácter delictuoso, cometidas por los administradores de la sociedad.
@@ -34,6 +37,6 @@ Se reforman los artículos 1o.; 3o. y 12, primer párrafo, de la Ley de Sociedad
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

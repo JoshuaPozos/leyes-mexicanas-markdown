@@ -14,6 +14,7 @@ D I A
 Se expide la Ley Federal de Producción, Certificación y Comercio de Semillas. R I O O . F I C I A
 
 ## CAPÍTULO I — L
+
 DISPOSICIONES GENERALES
 
 ### Artículo 1
@@ -120,7 +121,8 @@ IX. Promover la producción de semillas, dando prioridad a la de los cultivos co
 X. Promover y aceptar donativos, aportaciones, asignaciones y demás recursos para el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
 
 XI. Promover y apoyar la conformación y consolidación de organizaciones, asociaciones y empresas nacionales productoras y distribuidoras de semillas;
-Fracción reformada DOF 11-05-2018 dV e 2 i e r 0n
+Fracción reformada DOF 11-05-2018 dV
+e 2 i e r 0n
 
 XII. Promover y coordinar el establecimiento y operación del Sistema Nacional de Semillas y 0e 7s administrar el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas; 1 5 d e
 
@@ -180,6 +182,7 @@ I A L Los servicios a que se refieren las fracciones I, II, VI, IX y XIX de este
 .- Las personas que lleven a cabo actividades con organismos genéticamente modificados deberán acatar las disposiciones de esta Ley que les sean aplicables además de cumplir con lo que dispone la Ley en la materia.
 
 ## CAPÍTULO II — (
+
 P r DEL SISTEMA NACIONAL DE SEMILLAS Y DEL FONDO DE APOYOS E INCENTIVOS i m e r a S
 
 ### Artículo 7
@@ -250,6 +253,7 @@ IV. Las aportaciones provenientes de los aranceles que se impongan a las semilla
 V. Los demás recursos que obtenga por cualquier otro concepto.
 
 ## CAPÍTULO III — DE LA POLÍTICA EN MATERIA DE SEMILLAS
+
 dV ei
 
 ### Artículo 14
@@ -284,6 +288,7 @@ VIII. Promover la producción y utilización de nuevas y mejores semillas. m e r
 
 ## CAPÍTULO IV — DEL FOMENTO A LA INVESTIGACIÓN Y DESARROLLO TECNOLÓGICO
 
+
 ### Artículo 18
 .- La Secretaría de acuerdo con lo dispuesto en el artículo 34 de la Ley de Desarrollo Rural Sustentable, en el marco del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable fomentará la investigación, desarrollo de infraestructura y transferencia de tecnología en semillas y variedades vegetales, a través de la celebración de convenios con el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias y con otras instituciones de investigación y/o enseñanza agropecuarias.
 Las prioridades para la investigación que se establezcan en el Programa Nacional de Semillas, se apoyarán, entre otros, con recursos provenientes del Fondo de Apoyos e Incentivos y de los convenios de cooperación internacionales que nuestro país haya celebrado o celebre en el futuro.
@@ -299,6 +304,7 @@ I A R I
 F I C I A
 
 ## CAPÍTULO V
+
 L DE LOS CATÁLOGOS
 
 ### Artículo 21
@@ -334,6 +340,7 @@ VI. Las demás que establezca esta Ley, su Reglamento y las disposiciones que de
 D I A
 
 ## CAPÍTULO VI — R
+
 I O DEL PROCEDIMIENTO DE CALIFICACIÓN DE SEMILLAS O F I C
 
 ### Artículo 25
@@ -375,6 +382,7 @@ III. Las demás que establezcan las Normas Oficiales Mexicanas y las disposicion
 Los organismos de certificación que califiquen semillas, serán solidariamente responsables con los productores de las mismas cuando las certificaciones no se hayan efectuado conforme a las Normas Mexicanas y a las Reglas a que se refiere esta Ley.
 
 ## CAPÍTULO VII
+
 ( P DEL COMERCIO DE SEMILLAS r i m e r
 
 ### Artículo 33
@@ -414,6 +422,7 @@ II. Cumplir los requisitos fitosanitarios que fije la Secretaría, constando est
 
 ## CAPÍTULO VIII — DE LOS COMITÉS CONSULTIVOS REGIONALES O ESTATALES DE SEMILLAS
 
+
 ### Artículo 37
 .- Los Consejos Estatales para el Desarrollo Rural Sustentable, previstos en la Ley de Desarrollo Rural Sustentable, promoverán la instalación de Comités Consultivos Regionales o Estatales de Semillas que se integrarán por representantes de las dependencias relacionadas, agricultores, instituciones técnicas, científicas o de enseñanza, así como de productores de semillas. Estos Comités tendrán las siguientes funciones: dV ei 2e r 0n 0e
 
@@ -428,6 +437,7 @@ Los Comités Consultivos previstos en este artículo, coadyuvarán al propósito
 O F I C En el Reglamento de esta Ley se establecerán los mecanismos para la constitución, integración y I A operación de estos Comités. L
 
 ## CAPÍTULO IX — DE LAS INFRACCIONES Y SANCIONES
+
 
 ### Artículo 38
 .- Incurre en infracción administrativa a las disposiciones de esta Ley, la persona que:
@@ -489,6 +499,7 @@ VI. El beneficio directamente obtenido por el infractor.
 .- Las sanciones administrativas previstas en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal en que se hubiere incurrido, así como las administrativas que se deriven de dV ei otros ordenamientos. 2e r 0n 0e 7s 1
 
 ## CAPÍTULO X
+
 5 d DEL RECURSO DE REVISIÓN e j u n i
 
 ### Artículo 42
@@ -500,7 +511,6 @@ VI. El beneficio directamente obtenido por el infractor.
 D I A R
 **SEGUNDO.-** El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce I O meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la O F contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas, publicado I C en el Diario Oficial de la Federación el 26 de mayo de 1993. I A L
 **TERCERO.-** Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que se opongan a la presente Ley. En consecuencia deberá procederse a la liquidación del Organismo Público Descentralizado denominado Productora Nacional de Semillas, conforme a lo siguiente:
-
 a) La Secretaría establecerá las bases para que el proceso de liquidación se lleve a cabo de manera oportuna, eficaz, transparente y con apego a las disposiciones jurídicas aplicables. El proceso de liquidación será vigilado por la propia Secretaría y por la Secretaría de la Función Pública; ( P r i m
 
 b) El Servicio de Administración y Enajenación de Bienes será el liquidador de la Productora Nacional e r a de Semillas;
@@ -520,5 +530,5 @@ Se reforman la fracción XI del artículo 4 y el cuarto párrafo del artículo 1
 ## TRANSITORIO
 
 o
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 21 de marzo de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los D Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la I A R Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de mayo de dos mil dieciocho.I O Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.O Rúbrica. F I C I A L ( P r i m e r a S e c c i ó n ) 1 8

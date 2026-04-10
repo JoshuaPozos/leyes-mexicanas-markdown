@@ -15,6 +15,7 @@ Se expide la Ley General de Protección Civil.
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público e interés social y tiene por objeto establecer las bases de coordinación entre los distintos órdenes de gobierno en materia de protección civil. Los sectores privado y social participarán en la consecución de los objetivos de esta Ley, en los términos y condiciones que la misma establece.
 Artículo reformado DOF 19-01-2018
@@ -182,7 +183,8 @@ Fracción recorrida DOF 03-06-2014
 LIX. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad;
 Fracción recorrida DOF 03-06-2014. Reformada DOF 06-11-2020
 
-LX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y Fracción recorrida DOF 03-06-2014
+LX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+Fracción recorrida DOF 03-06-2014
 
 LXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 Fracción recorrida DOF 03-06-2014
@@ -209,7 +211,8 @@ V. Incorporación de la gestión integral del riesgo, como aspecto fundamental e
 VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los tres órdenes de gobierno;
 Fracción reformada DOF 07-04-2017
 
-VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías, y Fracción reformada DOF 07-04-2017
+VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías, y
+Fracción reformada DOF 07-04-2017
 
 VIII. La atención prioritaria para la población vulnerable.
 Fracción adicionada DOF 07-04-2017
@@ -238,6 +241,7 @@ VIII. Honradez y de respeto a los derechos humanos.
 
 ## Capítulo II — De la Protección Civil
 
+
 ### Artículo 7
 . Corresponde al Ejecutivo Federal en materia de protección civil:
 
@@ -265,7 +269,8 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 9
 . La organización y la prestación de la política pública de protección civil corresponden al Estado quien deberá realizarlas en los términos de esta Ley y de su Reglamento, por conducto de la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en sus respectivos ámbitos de competencia.
-Párrafo reformado DOF 19-01-2018 La Secretaría deberá promover la interacción de la protección civil con los procesos de información, a fin de impulsar acciones a favor del aprendizaje y práctica de conductas seguras, mediante el aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.
+Párrafo reformado DOF 19-01-2018
+La Secretaría deberá promover la interacción de la protección civil con los procesos de información, a fin de impulsar acciones a favor del aprendizaje y práctica de conductas seguras, mediante el aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.
 
 ### Artículo 10
 . La Gestión Integral de Riesgos considera, entre otras, las siguientes fases anticipadas a la ocurrencia de un agente perturbador:
@@ -297,6 +302,7 @@ Los convenios de concertación contendrán las acciones de la gestión integral 
 
 ## Capítulo III — Del Sistema Nacional de Protección Civil
 
+
 ### Artículo 14
 . El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen corresponsablemente las dependencias y entidades del sector público entre sí, con las organizaciones de los diversos grupos voluntarios, sociales, privados y con los Poderes Legislativo, Ejecutivo y Judicial, de los organismos constitucionales autónomos, de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, a fin de efectuar acciones coordinadas, en materia de protección civil.
 Artículo reformado DOF 19-01-2018
@@ -306,7 +312,8 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 16
 . El Sistema Nacional se encuentra integrado por todas las dependencias y entidades de la administración pública federal, por los sistemas de protección civil de las entidades federativas, sus municipios y las demarcaciones territoriales de la Ciudad de México; por los grupos voluntarios, vecinales y organizaciones de la sociedad civil, los cuerpos de bomberos, así como por los representantes de los sectores privado y, social, los medios de comunicación y los centros de investigación, educación y desarrollo tecnológico.
-Párrafo reformado DOF 19-01-2018 Los integrantes del Sistema Nacional deberán compartir con la autoridad competente que solicite y justifique su utilidad, la información de carácter técnico, ya sea impresa, electrónica o en tiempo real relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.
+Párrafo reformado DOF 19-01-2018
+Los integrantes del Sistema Nacional deberán compartir con la autoridad competente que solicite y justifique su utilidad, la información de carácter técnico, ya sea impresa, electrónica o en tiempo real relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.
 
 ### Artículo 17
 . Los gobernadores de los estados, el jefe de gobierno de la Ciudad de México, los presidentes municipales y los alcaldes de las demarcaciones territoriales de la Ciudad de México, tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los sistemas de protección civil, conforme a lo que establezca la presente Ley y la legislación local correspondiente.
@@ -318,7 +325,8 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 18
 . Es responsabilidad de los gobiernos de las entidades federativas, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes e infraestructura de sus entidades federativas.
-Párrafo reformado DOF 19-01-2018 Para el cumplimiento de esta obligación, las entidades federativas podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los Instrumentos Financieros de Gestión de Riesgos Federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
+Párrafo reformado DOF 19-01-2018
+Para el cumplimiento de esta obligación, las entidades federativas podrán solicitar que los instrumentos de administración y transferencia de riesgos que contraten sean complementados con los Instrumentos Financieros de Gestión de Riesgos Federales conforme a lo establecido en los lineamientos que para tal efecto se emitan.
 Para acceder a los apoyos referidos en el párrafo anterior, los gobiernos de las entidades federativas deberán acreditar que en el proceso de contratación del instrumento seleccionado se cumplieron con los principios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado.
 Párrafo reformado DOF 19-01-2018
 
@@ -369,8 +377,10 @@ XX. Promover entre las instancias competentes de los distintos órdenes de gobie
 XXI. Promover la instrumentación de un Subsistema de Información de Riesgos, Peligros y Vulnerabilidades que permita mantener informada oportunamente a la población;
 
 XXII. Supervisar, a través del CENAPRED, que se realice y se mantenga actualizado el atlas nacional de riesgos, así como los correspondientes a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
-Párrafo reformado DOF 19-01-2018 El Atlas se integra con la información a nivel nacional, de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México. Consta de bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres. Por la naturaleza dinámica del riesgo, deberá mantenerse como un instrumento de actualización permanente.
-Párrafo reformado DOF 19-01-2018 Los atlas de riesgo constituyen el marco de referencia para la elaboración de políticas y programas en todas las etapas de la Gestión Integral del Riesgo;
+Párrafo reformado DOF 19-01-2018
+El Atlas se integra con la información a nivel nacional, de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México. Consta de bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres. Por la naturaleza dinámica del riesgo, deberá mantenerse como un instrumento de actualización permanente.
+Párrafo reformado DOF 19-01-2018
+Los atlas de riesgo constituyen el marco de referencia para la elaboración de políticas y programas en todas las etapas de la Gestión Integral del Riesgo;
 
 XXIII. Coordinar el apoyo y asesoría a las dependencias y entidades de la administración pública federal, a los demás Poderes de la Unión y a los órganos constitucionales autónomos en la prevención de desastres y, con base en la suscripción de convenios, a los gobiernos de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, así como a las instituciones de carácter social y privado;
 Fracción reformada DOF 19-01-2018
@@ -390,7 +400,8 @@ Fracción reformada DOF 19-01-2018
 XXIX. Proponer, en coordinación con la Secretaría de Hacienda y Crédito Público, los modelos de contratación de seguros e instrumentos financieros de gestión de riesgos, que garanticen a la Federación las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
 Fracción reformada DOF 22-12-2017
 
-XXX. Coadyuvar con los gobiernos de las entidades federativas, así como con los de municipios y delegaciones, según corresponda, en la elaboración y actualización de protocolos de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores, en sus programas de protección civil, y Fracción adicionada DOF 22-12-2017
+XXX. Coadyuvar con los gobiernos de las entidades federativas, así como con los de municipios y delegaciones, según corresponda, en la elaboración y actualización de protocolos de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores, en sus programas de protección civil, y
+Fracción adicionada DOF 22-12-2017
 
 XXXI. Las demás que señalen los ordenamientos aplicables o que le atribuyan el Presidente o el Consejo Nacional dentro de la esfera de sus facultades.
 Fracción recorrida DOF 22-12-2017
@@ -398,7 +409,8 @@ Fracción recorrida DOF 22-12-2017
 ### Artículo 20
 . Para el mejor cumplimiento de sus funciones, la Coordinación Nacional podrá integrar Comités Interinstitucionales para los diferentes agentes perturbadores, quienes apoyarán a las autoridades en el diagnóstico y toma de decisión en la gestión del riesgo, a fin de reducir al máximo los posibles daños que pudiesen generar. Dichos Comités Interinstitucionales, serán técnicamente apoyados por los Comités Científicos Asesores u otras instancias técnicas conforme el Manual de Organización del Sistema Nacional.
 En el caso de los Fenómenos Astronómicos, la Coordinación Nacional de Protección Civil, el Centro Nacional de Prevención de Desastres y la Agencia Espacial Mexicana, trabajarán conjuntamente y en el marco de sus atribuciones, a fin de crear y promover las políticas públicas en materia de prevención o atención de desastres ocasionados por objetos que provengan del espacio exterior.
-Párrafo adicionado DOF 03-06-2014 Asimismo, el Sistema Nacional de Protección Civil coadyuvará a realizar las acciones necesarias de protección civil, de forma coordinada y eficaz, entre el Gobierno Federal, las entidades federativas y los municipios o demarcaciones territoriales de la Ciudad de México, los sectores privado y social, así como la población en general, ante el peligro o riesgo específico derivado de un agente perturbador espacial.
+Párrafo adicionado DOF 03-06-2014
+Asimismo, el Sistema Nacional de Protección Civil coadyuvará a realizar las acciones necesarias de protección civil, de forma coordinada y eficaz, entre el Gobierno Federal, las entidades federativas y los municipios o demarcaciones territoriales de la Ciudad de México, los sectores privado y social, así como la población en general, ante el peligro o riesgo específico derivado de un agente perturbador espacial.
 Párrafo adicionado DOF 03-06-2014. Reformado DOF 19-01-2018
 
 ### Artículo 21
@@ -406,8 +418,10 @@ Párrafo adicionado DOF 03-06-2014. Reformado DOF 19-01-2018
 Con la finalidad de iniciar las actividades de auxilio en caso de emergencia, la primera autoridad que tome conocimiento de ésta, deberá proceder a la inmediata prestación de ayuda e informar tan pronto como sea posible a las instancias especializadas de protección civil.
 El Reglamento de esta Ley y las demás disposiciones administrativas en la materia establecerán los casos en los que se requiera de una intervención especializada para la atención de una emergencia o desastre.
 La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada instalación pública o privada, así como a la autoridad municipal o de la demarcación territorial correspondiente que conozca de la situación de emergencia. Además, corresponderá en primera instancia a la unidad municipal o delegacional de protección civil el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad.
-Párrafo reformado DOF 19-01-2018 En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio o demarcación territorial, acudirá a la instancia de la entidad federativa correspondiente, en los términos de la legislación aplicable. Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, las que actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
-Párrafo reformado DOF 19-01-2018 En las acciones de gestión de riesgos se dará prioridad a los grupos sociales vulnerables y de escasos recursos económicos.
+Párrafo reformado DOF 19-01-2018
+En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio o demarcación territorial, acudirá a la instancia de la entidad federativa correspondiente, en los términos de la legislación aplicable. Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, las que actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
+Párrafo reformado DOF 19-01-2018
+En las acciones de gestión de riesgos se dará prioridad a los grupos sociales vulnerables y de escasos recursos económicos.
 
 ### Artículo 22
 . Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, se llevarán a cabo mediante la suscripción de convenios de coordinación, en los términos de la normatividad aplicable, o con base en los acuerdos y resoluciones que se tomen en el Consejo Nacional y en las demás instancias de coordinación, con pleno respeto de la autonomía de las entidades federativas y de los municipios.
@@ -425,6 +439,7 @@ La Secretaría por conducto de la Coordinación Nacional, determinará las accio
 . Las autoridades correspondientes en su ámbito de competencia llevarán a cabo proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de medición de los distintos fenómenos perturbadores naturales y antropogénicos, encaminados a prevenir riesgos que pongan en peligro la vida y que puedan provocar daños a la población.
 
 ## Capítulo IV — Del Consejo Nacional de Protección Civil
+
 
 ### Artículo 26
 . El Consejo Nacional es un órgano gubernamental consultivo en materia de protección civil. Sus atribuciones son las siguientes:
@@ -461,7 +476,8 @@ XIV. Las demás que se establezcan en otras disposiciones normativas y las que s
 
 ### Artículo 27
 . El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Seguridad y Protección Ciudadana, quien a su vez será suplido por el Coordinador Nacional de Protección Civil.
-Párrafo reformado DOF 19-01-2018, 21-12-2023 El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del Consejo Consultivo, en los términos que se establezca en el Reglamento.
+Párrafo reformado DOF 19-01-2018, 21-12-2023
+El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del Consejo Consultivo, en los términos que se establezca en el Reglamento.
 Los integrantes del Consejo Consultivo podrán ser convocados a las sesiones del Consejo Nacional, por invitación que formule el Secretario Ejecutivo.
 
 ### Artículo 28
@@ -494,7 +510,8 @@ X. Colaborar con las instituciones que integran el Sistema Nacional, para fortal
 XI. Coadyuvar con la Auditoría Superior de la Federación y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de ayuda federal, así como del cumplimiento de esta Ley;
 Fracción reformada DOF 06-11-2020
 
-XII. Supervisar, en coordinación con las demás instancias competentes, el correcto ejercicio de los recursos públicos federales por parte de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, y Fracción reformada DOF 19-01-2018, 06-11-2020
+XII. Supervisar, en coordinación con las demás instancias competentes, el correcto ejercicio de los recursos públicos federales por parte de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, y
+Fracción reformada DOF 19-01-2018, 06-11-2020
 
 XIII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Nacional o su Presidente.
 
@@ -521,13 +538,16 @@ Artículo reformado DOF 21-12-2023
 
 ## Capítulo V — Del Comité Nacional de Emergencias
 
+
 ### Artículo 32
 . El Comité Nacional es el mecanismo de coordinación de las acciones en situaciones de emergencia y desastre ocasionadas por la presencia de agentes perturbadores que pongan en riesgo a la población, bienes y entorno, sin menoscabo de lo establecido en el artículo 21 de esta Ley y de conformidad con el Manual de Organización y Operación del Sistema Nacional y en los términos que se establezcan en el Reglamento.
 
 ### Artículo 33
 . El Comité Nacional estará constituido por los titulares o por un representante de las dependencias y entidades de la administración pública federal, con rango no inferior al de director general o equivalente, que de acuerdo a su especialidad asume la responsabilidad de asesorar, apoyar y aportar, dentro de sus funciones, programas, planes de emergencia y sus recursos humanos y materiales, al Sistema Nacional, así como por el representante que al efecto designe el o los gobernadores de los estados afectados o por el jefe del gobierno de la Ciudad de México, en su caso.
-Párrafo reformado DOF 19-01-2018 El Comité Nacional estará presidido por el Secretario de Seguridad y Protección Ciudadana, o en su ausencia por el titular de la Coordinación Nacional, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del país.
-Párrafo reformado DOF 21-12-2023 El Secretariado Técnico del Comité Nacional recaerá en el Titular de la Coordinación Nacional o el servidor público que éste designe para el efecto, debiendo tener un nivel jerárquico de Director General o su equivalente.
+Párrafo reformado DOF 19-01-2018
+El Comité Nacional estará presidido por el Secretario de Seguridad y Protección Ciudadana, o en su ausencia por el titular de la Coordinación Nacional, quienes podrán convocar para sesionar en forma extraordinaria cuando se presenten situaciones extremas de emergencia o desastre, o cuando la probabilidad de afectación por un agente perturbador sea muy alta, poniendo en inminente riesgo a grandes núcleos de población e infraestructura del país.
+Párrafo reformado DOF 21-12-2023
+El Secretariado Técnico del Comité Nacional recaerá en el Titular de la Coordinación Nacional o el servidor público que éste designe para el efecto, debiendo tener un nivel jerárquico de Director General o su equivalente.
 Los esquemas de coordinación de este comité serán precisados en el Reglamento.
 
 ### Artículo 34
@@ -545,6 +565,7 @@ V. Emitir boletines y comunicados conjuntos hacia los medios de comunicación y 
 
 ## Capítulo VI — De los Programas de Protección Civil
 
+
 ### Artículo 35
 . El Programa Nacional, en el marco del Plan Nacional de Desarrollo, es el conjunto de objetivos, políticas, estrategias, líneas de acción y metas para cumplir con el objetivo del Sistema Nacional, según lo dispuesto por la Ley de Planeación.
 
@@ -561,7 +582,8 @@ Artículo reformado DOF 19-01-2018
 ### Artículo 39
 . El Programa Interno de Protección Civil se lleva a cabo en cada uno de los inmuebles para mitigar los riesgos previamente identificados y estar en condiciones de atender la eventualidad de alguna emergencia o desastre.
 Las instituciones o los particulares, de acuerdo a su presupuesto autorizado o posibilidad económica, podrán incorporar las innovaciones tecnológicas, digitales o virtuales, en la elaboración y difusión del Programa Interno de Protección Civil, así como para su vinculación con los Atlas de Riesgos.
-Párrafo adicionado DOF 23-06-2017 Para la implementación del Programa Interno de Protección Civil cada instancia a la que se refiere el artículo siguiente, deberá crear una estructura organizacional específica denominada Unidad Interna de Protección Civil que elabore, actualice, opere y vigile este instrumento en forma centralizada y en cada uno de sus inmuebles.
+Párrafo adicionado DOF 23-06-2017
+Para la implementación del Programa Interno de Protección Civil cada instancia a la que se refiere el artículo siguiente, deberá crear una estructura organizacional específica denominada Unidad Interna de Protección Civil que elabore, actualice, opere y vigile este instrumento en forma centralizada y en cada uno de sus inmuebles.
 Para el caso de las unidades hospitalarias, en la elaboración del programa interno se deberán tomar en consideración los lineamientos establecidos en el Programa Hospital Seguro.
 
 ### Artículo 40
@@ -571,9 +593,11 @@ El contenido y las especificaciones de este tipo de programas, se precisarán en
 
 ## Capítulo VII — De la Cultura de Protección Civil
 
+
 ### Artículo 41
 . Las autoridades federales, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
-Párrafo reformado DOF 19-01-2018 Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables.
+Párrafo reformado DOF 19-01-2018
+Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables.
 La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello y a contar con las vías adecuadas de opinión y participación en la gestión del riesgo.
 
 ### Artículo 42
@@ -602,6 +626,7 @@ VI. Promover la celebración de convenios con los sectores público, social, pri
 
 ## Capítulo VIII — De la Profesionalización de la Protección Civil
 
+
 ### Artículo 46
 . La profesionalización de los integrantes del Sistema Nacional será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de servidores públicos de los distintos órdenes de gobierno, de conformidad a lo que se establezca en la Ley de la materia.
 Artículo reformado DOF 19-01-2018
@@ -615,6 +640,7 @@ En caso de que no exista dicha normatividad, se promoverá ante las instancias c
 Artículo reformado DOF 19-01-2018
 
 ## Capítulo IX
+
 De la Escuela Nacional de Protección Civil, Capacitación, Acreditación y Certificación
 
 ### Artículo 49
@@ -628,9 +654,11 @@ Párrafo adicionado DOF 23-06-2017
 
 ## Capítulo X — De los Grupos Voluntarios
 
+
 ### Artículo 51
 . Para desarrollar actividades especializadas en materia de protección civil, tales como tareas de rescate y auxilio, combate a incendios, administración de albergues y centros de acopio, servicios médicos de urgencia, entre otros, los Grupos Voluntarios de carácter regional y nacional deberán tramitar su registro ante la Secretaría; los de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, según lo establezca la legislación local respectiva.
-Párrafo reformado DOF 19-01-2018 Las disposiciones reglamentarias y los ordenamientos locales establecerán en forma específica los trámites y procedimientos para obtener los registros correspondientes, así como las medidas a adoptar para que estos grupos participen garantizando la seguridad de sus miembros.
+Párrafo reformado DOF 19-01-2018
+Las disposiciones reglamentarias y los ordenamientos locales establecerán en forma específica los trámites y procedimientos para obtener los registros correspondientes, así como las medidas a adoptar para que estos grupos participen garantizando la seguridad de sus miembros.
 
 ### Artículo 52
 . Son derechos y obligaciones de los Grupos Voluntarios:
@@ -647,6 +675,7 @@ Aquellos que no deseen integrarse a un grupo voluntario, podrán registrarse ind
 
 ## Capítulo XI — De la Red Nacional de Brigadistas Comunitarios
 
+
 ### Artículo 54
 . La Red Nacional de Brigadistas Comunitarios es una estructura organizada y formada por voluntarios con el fin de capacitarse y trabajar coordinadamente con las autoridades de protección civil para enfrentar en su entorno riesgos causados por los diversos agentes perturbadores.
 
@@ -658,6 +687,7 @@ Aquellos que no deseen integrarse a un grupo voluntario, podrán registrarse ind
 Artículo reformado DOF 19-01-2018
 
 ## Capítulo XII — De los Instrumentos Financieros de Gestión de Riesgos
+
 
 ### Artículo 57
 . Le corresponde a la Secretaría, a través de la Coordinación Nacional, asesorar a las entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de Gestión de Riesgos.
@@ -678,7 +708,8 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 60
 . La declaratoria de desastre natural es el acto mediante el cual la Secretaría reconoce la presencia de un agente natural perturbador severo en determinados municipios o demarcaciones territoriales de una o más entidades federativas, cuyos daños rebasan la capacidad financiera y operativa local para su atención, para efectos de poder acceder a recursos del instrumento financiero de atención de desastres naturales.
-Párrafo reformado DOF 19-01-2018 Para el caso de las declaratorias de desastre natural, éstas también podrán ser solicitadas por los titulares de las instancias públicas federales, a fin de que éstas puedan atender los daños sufridos en la infraestructura, bienes y patrimonio federal a su cargo.
+Párrafo reformado DOF 19-01-2018
+Para el caso de las declaratorias de desastre natural, éstas también podrán ser solicitadas por los titulares de las instancias públicas federales, a fin de que éstas puedan atender los daños sufridos en la infraestructura, bienes y patrimonio federal a su cargo.
 
 ### Artículo 61
 . Las declaratorias deberán ser publicadas en el Diario Oficial de la Federación, sin perjuicio de que se difundan a través de otros medios de información.
@@ -689,10 +720,12 @@ La declaratoria de emergencia podrá publicarse en dicho órgano de difusión co
 
 ### Artículo 63
 . Las disposiciones administrativas, regularán los procedimientos, fórmulas de financiamiento y cofinanciamiento y demás requisitos para el acceso y ejercicio de los recursos de los instrumentos financieros de gestión de riesgos, constituidos para tal efecto. En cuanto a la formulación y ejecución de las disposiciones administrativas, se atenderá a los principios establecidos en el artículo 5.
-Párrafo reformado DOF 03-06-2014 La retención injustificada de dichos recursos por parte de los servidores públicos federales involucrados en el procedimiento de acceso será sancionada de conformidad con la Ley Federal de Responsabilidad Administrativa de los Servidores Públicos.
+Párrafo reformado DOF 03-06-2014
+La retención injustificada de dichos recursos por parte de los servidores públicos federales involucrados en el procedimiento de acceso será sancionada de conformidad con la Ley Federal de Responsabilidad Administrativa de los Servidores Públicos.
 Cuando se autoricen los recursos con cargo a los instrumentos financieros de gestión de riesgo, la secretaría informará trimestralmente su uso y destino a la Secretaría de Hacienda y Crédito Público, para que esta los incluya en los informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública.
 La aplicación, erogación, regulación, justificación, comprobación, rendición de cuentas y transparencia de los recursos autorizados en los instrumentos financieros de gestión de riesgos se sujetarán a las reglas y demás disposiciones aplicables que garantizarán los principios de honradez, eficacia y eficiencia en la utilización de los recursos.
-Párrafo reformado DOF 03-06-2014 Las Dependencias y entidades federales facilitarán que la Función Pública directamente o, en su caso, a través de los órganos internos de control en las Dependencias y entidades Federales puedan realizar, en cualquier momento, de acuerdo a su ámbito de competencia, la inspección, fiscalización y vigilancia de dichos recursos, incluyendo la revisión programática-presupuestal y la inspección física de las obras y acciones apoyadas con recursos federales, así como recibir, turnar y dar seguimiento a las quejas y denuncias que se presenten sobre su manejo.
+Párrafo reformado DOF 03-06-2014
+Las Dependencias y entidades federales facilitarán que la Función Pública directamente o, en su caso, a través de los órganos internos de control en las Dependencias y entidades Federales puedan realizar, en cualquier momento, de acuerdo a su ámbito de competencia, la inspección, fiscalización y vigilancia de dichos recursos, incluyendo la revisión programática-presupuestal y la inspección física de las obras y acciones apoyadas con recursos federales, así como recibir, turnar y dar seguimiento a las quejas y denuncias que se presenten sobre su manejo.
 Lo anterior, sin menoscabo de las acciones que en el ámbito de su competencia le correspondan a la Auditoría Superior de la Federación.
 
 ### Artículo 64
@@ -703,10 +736,12 @@ La autorización de la declaratoria de emergencia no deberá tardar más de 5 d�
 ### Artículo 65
 . Los fenómenos antropogénicos, son en esencia provocados por la actividad humana y no por un fenómeno natural. Generan un marco de responsabilidad civil, por lo que no son competencia de los Instrumentos Financieros de Gestión de Riesgos previstos en esta Ley.
 Dichos fenómenos encuentran responsabilidad en su atención, regulación y supervisión en el marco de las competencias establecidas por las Leyes locales a las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, y en el ámbito federal, a través de las instancias públicas federales, según correspondan.
-Párrafo reformado DOF 19-01-2018 La Coordinación Nacional y las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, promoverán con las diversas instancias del Sistema Nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
+Párrafo reformado DOF 19-01-2018
+La Coordinación Nacional y las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, promoverán con las diversas instancias del Sistema Nacional, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 Párrafo reformado DOF 19-01-2018
 
 ## Capítulo XIII — Del Fondo de Protección Civil
+
 
 ### Artículo 66
 . Cada entidad federativa creará y administrará un Fondo de Protección Civil, cuya finalidad será la de promover la capacitación, equipamiento y sistematización de las Unidades de Protección Civil de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
@@ -714,11 +749,15 @@ Artículo reformado DOF 19-01-2018
 
 ### Artículo 67
 . Los Fondos Estatales de Protección Civil se integrarán a través de los recursos aportados por la respectiva entidad federativa y, en su caso, municipios y demarcaciones territoriales de la Ciudad de México.
-Párrafo reformado DOF 19-01-2018 El Gobierno Federal otorgará subsidios a dichos Fondos de Protección Civil conforme a los recursos que, en su caso, sean aprobados para dicho fin en el Presupuesto de Egresos de la Federación, sin rebasar las aportaciones que hubiesen realizado en el ejercicio fiscal correspondiente las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México.
-Párrafo reformado DOF 19-01-2018 Los Fondos de las entidades federativas de Protección Civil operarán según se establezca en la normatividad administrativa correspondiente y en el caso de los recursos federales, en términos de los convenios de coordinación que se celebren, precisando para ello los requisitos para el acceso, ejercicio y comprobación de los recursos, así como las obligaciones en el manejo y mantenimiento de los equipos adquiridos.
-Párrafo reformado DOF 19-01-2018 La capacitación será acorde a los lineamientos dictados por la Escuela Nacional de Protección Civil y los recursos destinados a la sistematización de las unidades de protección civil deberán procurar la optimización del manejo e intercambio de información y su homologación a nivel nacional.
+Párrafo reformado DOF 19-01-2018
+El Gobierno Federal otorgará subsidios a dichos Fondos de Protección Civil conforme a los recursos que, en su caso, sean aprobados para dicho fin en el Presupuesto de Egresos de la Federación, sin rebasar las aportaciones que hubiesen realizado en el ejercicio fiscal correspondiente las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México.
+Párrafo reformado DOF 19-01-2018
+Los Fondos de las entidades federativas de Protección Civil operarán según se establezca en la normatividad administrativa correspondiente y en el caso de los recursos federales, en términos de los convenios de coordinación que se celebren, precisando para ello los requisitos para el acceso, ejercicio y comprobación de los recursos, así como las obligaciones en el manejo y mantenimiento de los equipos adquiridos.
+Párrafo reformado DOF 19-01-2018
+La capacitación será acorde a los lineamientos dictados por la Escuela Nacional de Protección Civil y los recursos destinados a la sistematización de las unidades de protección civil deberán procurar la optimización del manejo e intercambio de información y su homologación a nivel nacional.
 
 ## Capítulo XIV — De las Donaciones para Auxiliar a la Población
+
 
 ### Artículo 68
 . Las autoridades correspondientes establecerán las bases y lineamientos, con apego a lo establecido en la presente Ley y su Reglamento, para emitir las convocatorias, recepción, administración, control y distribución de los donativos que se aporten con fines altruistas para atención de emergencias o desastres.
@@ -739,6 +778,7 @@ Artículo reformado DOF 19-01-2018
 . Las autoridades correspondientes deberán verificar que en todo momento las donaciones se apliquen estrictamente para beneficiar a la población afectada por la emergencia y/o desastre con nivel económico y social bajo, y en su caso, a favor de programas de apoyo específicos a microempresarios y pequeños productores.
 
 ## Capítulo XV — De las Medidas de Seguridad
+
 
 ### Artículo 73
 . En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias y entidades de la administración pública federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando en forma inmediata a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán en los casos que se considere necesario y conforme a la normatividad aplicable, el centro de operaciones, como centro de comando y de coordinación de las acciones en el sitio.
@@ -777,6 +817,7 @@ Asimismo, las Unidades a que se refiere este artículo y la Secretaría podrán 
 
 ## Capítulo XVI — De los particulares
 
+
 ### Artículo 78
 . Los particulares que por su uso y destino concentren o reciban una afluencia masiva de personas, están obligadas a contar con una unidad interna de protección civil y elaborar un programa interno, en los términos que establezca esta Ley y su reglamento, sin perjuicio de lo señalado en los respectivos ordenamientos locales.
 
@@ -791,13 +832,15 @@ Asimismo, las Unidades a que se refiere este artículo y la Secretaría podrán 
 
 ## Capítulo XVII — De la Detección de Zonas de Riesgo
 
+
 ### Artículo 82
 . El Gobierno Federal, con la participación de las entidades federativas deberán buscar concentrar la información climatológica, geológica, meteorológica y astronómica de que se disponga a nivel nacional.
 Artículo reformado DOF 03-06-2014, 19-01-2018
 
 ### Artículo 83
 . El Gobierno Federal, con la participación de las entidades federativas promoverá la creación de las bases que permitan la identificación y registro en los Atlas Nacional, de las entidades federativas y Municipales de Riesgos de las zonas en el país con riesgo para la población, el patrimonio público y privado, que posibilite a las autoridades competentes regular la edificación de asentamientos.
-Párrafo reformado DOF 19-01-2018 Las entidades de la federación promoverán en el ámbito de su competencia, que el Atlas Nacional de Riesgos sea de fácil acceso a la población, procurando que su elaboración siga las directrices del CENAPRED.
+Párrafo reformado DOF 19-01-2018
+Las entidades de la federación promoverán en el ámbito de su competencia, que el Atlas Nacional de Riesgos sea de fácil acceso a la población, procurando que su elaboración siga las directrices del CENAPRED.
 Párrafo adicionado DOF 23-06-2017
 
 ### Artículo 84
@@ -814,7 +857,8 @@ Fracción reformada DOF 20-05-2021
 
 III. Los Gobiernos de los Estados;
 
-IV. El Gobierno de la Ciudad de México, y Fracción reformada DOF 19-01-2018
+IV. El Gobierno de la Ciudad de México, y
+Fracción reformada DOF 19-01-2018
 
 V. Los Municipios y Órganos Político Administrativos.
 
@@ -838,6 +882,7 @@ Artículo reformado DOF 19-01-2018
 
 ## Capítulo XVIII — De la Atención a la Población Rural Afectada por Contingencias Climatológicas
 
+
 ### Artículo 91
 . Es responsabilidad del Gobierno Federal y de las entidades federativas atender los efectos negativos provocados por fenómenos climatológicos extremos en el sector rural, en este sentido, se deberá contar con los mecanismos que permitan atender de manera ágil y oportuna mediante apoyos directos y contratación de seguros catastróficos a los productores agrícolas, pecuarios, acuícolas y pesqueros, de bajos ingresos, afectados por contingencias climatológicas extremas, de conformidad con lo establecido en el artículo 126 de la Ley de Desarrollo Rural Sustentable.
 
@@ -853,20 +898,20 @@ Artículo reformado DOF 19-01-2018
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
-**Tercero.** La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003, 15 de junio de 2004 y 24 de abril de 2006.
-**Cuarto.** Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
-**Quinto.** Las demás disposiciones que en materia de protección civil que se contengan en otros ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.
-**Sexto.** Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
-**Séptimo.** Los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes Municipales, y los Jefes Delegacionales del Distrito Federal, contarán con un plazo de hasta 180 días a partir de la publicación de esta Ley para dar cumplimiento a lo establecido en el artículo 18 de esta Ley.
-**Octavo.** Las autoridades locales realizarán las gestiones conducentes con el propósito de que se realicen las adecuaciones correspondientes en las Leyes y demás disposiciones locales en la materia en un plazo no mayor a 365 días a partir de la publicación de esta Ley, ajustándose en todo momento a los principios y directrices de esta Ley.
-**Noveno.** Se deroga.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
+**Tercero.-** La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003, 15 de junio de 2004 y 24 de abril de 2006.
+**Cuarto.-** Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
+**Quinto.-** Las demás disposiciones que en materia de protección civil que se contengan en otros ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.
+**Sexto.-** Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
+**Séptimo.-** Los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes Municipales, y los Jefes Delegacionales del Distrito Federal, contarán con un plazo de hasta 180 días a partir de la publicación de esta Ley para dar cumplimiento a lo establecido en el artículo 18 de esta Ley.
+**Octavo.-** Las autoridades locales realizarán las gestiones conducentes con el propósito de que se realicen las adecuaciones correspondientes en las Leyes y demás disposiciones locales en la materia en un plazo no mayor a 365 días a partir de la publicación de esta Ley, ajustándose en todo momento a los principios y directrices de esta Ley.
+**Noveno.-** Se deroga.
 Artículo derogado DOF 06-11-2020
-**Décimo.** En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal elaborará los lineamientos para que los Estados y el Distrito Federal puedan acceder a los recursos para cumplir con las obligaciones determinadas en el artículo 18 de esta Ley.
-**Décimo Primero.** Con relación al artículo 17 de esta Ley, las Entidades Federativas y el Distrito Federal, procurarán adecuar tal denominación y la estructura a más tardar en 180 días después de la entrada en vigor de la presente normativa.
-**Décimo Segundo.** Con relación al artículo 31 y en lo referente a los recursos necesarios como los inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la realización de sus objetivos, la Secretaría de Gobernación dotará de éstos para que la Coordinación realice sus objetivos y se establezca.
-**Décimo Tercero.** Respecto de la fracción VI del artículo 4, en dicha certificación de competencias deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza estén integrados al Sistema Nacional de Protección Civil.
+**Décimo.-** En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal elaborará los lineamientos para que los Estados y el Distrito Federal puedan acceder a los recursos para cumplir con las obligaciones determinadas en el artículo 18 de esta Ley.
+**Décimo Primero.-** Con relación al artículo 17 de esta Ley, las Entidades Federativas y el Distrito Federal, procurarán adecuar tal denominación y la estructura a más tardar en 180 días después de la entrada en vigor de la presente normativa.
+**Décimo Segundo.-** Con relación al artículo 31 y en lo referente a los recursos necesarios como los inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la realización de sus objetivos, la Secretaría de Gobernación dotará de éstos para que la Coordinación realice sus objetivos y se establezca.
+**Décimo Tercero.-** Respecto de la fracción VI del artículo 4, en dicha certificación de competencias deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza estén integrados al Sistema Nacional de Protección Civil.
 México, D.F., a 19 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Gloria Romero León, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los párrafos primero y cuarto del artículo 63 de la Ley General de Protección Civil.
 Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
@@ -882,11 +927,11 @@ Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 
 ### Artículo Único
 Se reforma el artículo 2, fracción XVI, y el artículo 82; se adiciona la fracción XXI, recorriendo el orden de las fracciones subsecuentes al artículo 2 y se adicionan los párrafos segundo y
-**tercero.** al artículo 20 de la Ley General de Protección Civil, para quedar como sigue: ………
+**tercero.-** al artículo 20 de la Ley General de Protección Civil, para quedar como sigue: ………
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma la fracción II y se adiciona una fracción VIII al artículo 4 de la Ley General de Protección Civil.
 Publicado en el Diario Oficial de la Federación el 7 de abril de 2017
@@ -904,8 +949,8 @@ Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
 
 ### Artículo Único
 Se reforma el artículo 2, fracción XXXII y se adicionan los artículos 39, con un
-**segundo.** párrafo, recorriéndose los subsecuentes en su orden; 49, con un tercer párrafo y 83, con un
-**segundo.** párrafo a la Ley General de Protección Civil, para quedar como sigue: ……….
+**segundo.-** párrafo, recorriéndose los subsecuentes en su orden; 49, con un tercer párrafo y 83, con un
+**segundo.-** párrafo a la Ley General de Protección Civil, para quedar como sigue: ……….
 
 ## Transitorio
 
@@ -927,8 +972,8 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 
 ### Artículo Décimo Octavo
 Se reforman los artículos 1; 2, fracción XV; 3; 4, fracción III; 8; 9, párrafo
-**primero.** ; 14; 16, párrafo primero; 17; 18, párrafos primero y tercero; 19, fracciones XIV, XXII en sus párrafos primero y segundo, XXIII, XXV y XXVIII; 20, párrafo tercero; 21, párrafos cuarto y quinto; 22; 26, fracciones VI y VIII; 27, párrafo primero; 29, fracción XII; 33, párrafo primero; 37; 41, párrafo primero; 46; 48; 51, párrafo primero; 56; 57; 59; 60, párrafo primero; 65, párrafos segundo y tercero; 66; 67, párrafos
-**primero.** , segundo y tercero; 68, párrafo segundo; 70; 73; 74, párrafo tercero; 75, párrafo primero; 82; 83; 84; 85, fracción IV; 86; 88; 89 y 93 de la Ley General de Protección Civil, para quedar como sigue: ………
+**primero.-** ; 14; 16, párrafo primero; 17; 18, párrafos primero y tercero; 19, fracciones XIV, XXII en sus párrafos primero y segundo, XXIII, XXV y XXVIII; 20, párrafo tercero; 21, párrafos cuarto y quinto; 22; 26, fracciones VI y VIII; 27, párrafo primero; 29, fracción XII; 33, párrafo primero; 37; 41, párrafo primero; 46; 48; 51, párrafo primero; 56; 57; 59; 60, párrafo primero; 65, párrafos segundo y tercero; 66; 67, párrafos
+**primero.-** , segundo y tercero; 68, párrafo segundo; 70; 73; 74, párrafo tercero; 75, párrafo primero; 82; 83; 84; 85, fracción IV; 86; 88; 89 y 93 de la Ley General de Protección Civil, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -946,20 +991,20 @@ Se reforman los artículos 2, fracción LIX, y 29, fracciones XI y XII de la Ley
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-**Cuarto.** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+**Cuarto.-** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
 A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-**Quinto.** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+**Quinto.-** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-**Sexto.** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
-**Séptimo.** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+**Sexto.-** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+**Séptimo.-** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
 Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
 El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
 Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
@@ -971,20 +1016,20 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
 A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de EnergíaHidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
-**Octavo.** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+**Octavo.-** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
-**Noveno.** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-**Décimo.** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-**Décimo Primero.** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
-**Décimo Segundo.** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-**Décimo Tercero.** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
-**Décimo Cuarto.** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+**Noveno.-** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+**Décimo.-** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+**Décimo Primero.-** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+**Décimo Segundo.-** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+**Décimo Tercero.-** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+**Décimo Cuarto.-** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
-**Décimo Quinto.** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+**Décimo Quinto.-** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
 Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
 A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
@@ -992,18 +1037,18 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
-**Décimo Sexto.** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
+**Décimo Sexto.-** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
 
 ## transitorio
 
-**Cuarto.** del presente Decreto.
+**Cuarto.-** del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-**Décimo Séptimo.** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
-**Décimo Octavo.** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
-**Décimo Noveno.** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+**Décimo Séptimo.-** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+**Décimo Octavo.-** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+**Décimo Noveno.-** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-**Vigésimo.** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+**Vigésimo.-** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1015,46 +1060,46 @@ Se reforma la fracción II del artículo 85 de la Ley General de Protección Civ
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman los artículos 2; 27; 28; 31 y 33 de la Ley General de Protección Civil.
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2023
 
 ### Artículo Único
 Se reforman los artículos 2, fracciones XIII y LI; 27, primer párrafo; 28; 31 y 33,
-**segundo.** párrafo, de la Ley General de Protección Civil, para quedar como sigue: ……..
+**segundo.-** párrafo, de la Ley General de Protección Civil, para quedar como sigue: ……..
 
 ## Transitorio
 

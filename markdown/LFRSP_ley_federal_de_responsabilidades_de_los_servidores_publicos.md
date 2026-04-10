@@ -8,32 +8,46 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1982 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MIGUEL DE LA MADRID HURTADO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO "El Congreso de los Estados Unidos Mexicanos, decreta:
-LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS TITULO PRIMERO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Disposiciones Generales (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 1o.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 2o.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 3o.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997, 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 4o.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 TITULO SEGUNDO Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia CAPITULO I Sujetos, causas de juicio político y sanciones ARTÍCULO 5o.- En los términos del primer párrafo del artículo 110 de la Constitución General de la República, son sujetos de juicio político los servidores públicos que en él se mencionan.
+LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS TITULO PRIMERO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Disposiciones Generales (Se deroga)
+Capítulo derogado DOF 18-07-2016
+ARTÍCULO 1o.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 2o.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 3o.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997, 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 4o.- (Se deroga)
+Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
+TITULO SEGUNDO Procedimientos ante el Congreso de la Unión en materia de juicio político y declaración de procedencia CAPITULO I Sujetos, causas de juicio político y sanciones ARTÍCULO 5o.- En los términos del primer párrafo del artículo 110 de la Constitución General de la República, son sujetos de juicio político los servidores públicos que en él se mencionan.
 Los gobernadores de los Estados, los Diputados a las Legislaturas Locales y los Magistrados de los Tribunales Superiores de Justicia Locales podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a las Leyes Federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales.
 ARTÍCULO 6o.- Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refiere el artículo anterior, redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 ARTÍCULO 7o.- Redundan en perjuicio de los intereses públicos fundamentales y de su buen despacho:
 I.- El ataque a las instituciones democráticas;
 II.- El ataque a la forma de gobierno republicano, representativo, federal;
 III.- Las violaciones a los derechos humanos;
-Fracción reformada DOF 24-03-2016 IV.- El ataque a la libertad de sufragio;
+Fracción reformada DOF 24-03-2016
+IV.- El ataque a la libertad de sufragio;
 V.- La usurpación de atribuciones;
 VI.- Cualquier infracción a la Constitución o a las leyes federales cuando cause perjuicios graves a la Federación, a uno o varios Estados de la misma o de la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones;
 VII.- Las omisiones de carácter grave, en los términos de la fracción anterior; y VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Federal o de la Ciudad de México y a las leyes que determinan el manejo de los recursos económicos federales y de la Ciudad de México.
-Fracción reformada DOF 20-12-2023 No procede el juicio político por la mera expresión de ideas.
+Fracción reformada DOF 20-12-2023
+No procede el juicio político por la mera expresión de ideas.
 El Congreso de la Unión valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquellos tengan carácter delictuoso se formulará la declaración de procedencia a la que alude la presente ley y se estará a lo dispuesto por la legislación penal.
 Fe de erratas al párrafo DOF 10-03-1983 ARTÍCULO 8o.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público desde un año hasta veinte años.
 CAPITULO II Procedimiento en el Juicio Político ARTÍCULO 9o.- Cualquier ciudadano, bajo su más estricta responsabilidad podrá formular por escrito, denuncia contra un servidor público ante la Cámara de Diputados por las conductas a las que se refiere el artículo 7 de esta propia Ley y por las conductas que determina el párrafo segundo del artículo 5 de esta misma Ley, por lo que toca a los Gobernadores de los Estados, Diputados a las Legislaturas Locales y Magistrados de los Tribunales de Justicia Locales. En el caso de ciudadanos, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas del país, serán asistidos por traductores para elaborar la denuncia, si así lo solicitan. Dicha denuncia podrá presentarse por escrito en la lengua indígena.
-Párrafo reformado DOF 13-06-2003, 01-04-2024 La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que el denunciante no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Subcomisión de Examen Previo, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes.
+Párrafo reformado DOF 13-06-2003, 01-04-2024
+La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que el denunciante no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Subcomisión de Examen Previo, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes.
 Las denuncias anónimas no producirán ningún efecto.
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro de un año después de la conclusión de sus funciones.
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año, a partir de iniciado el procedimiento.
-Artículo reformado DOF 21-07-1992 ARTÍCULO 10.- Corresponde a la Cámara de Diputados sustanciar el procedimiento relativo al juicio político, actuando como órgano instructor y de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
+Artículo reformado DOF 21-07-1992
+ARTÍCULO 10.- Corresponde a la Cámara de Diputados sustanciar el procedimiento relativo al juicio político, actuando como órgano instructor y de acusación, y a la Cámara de Senadores fungir como Jurado de Sentencia.
 La Cámara de Diputados sustanciará el procedimiento de juicio político por conducto de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia, quienes al momento de su instalación designarán a cinco miembros de cada una de ellas para que en unión de sus Presidentes y un Secretario por cada Comisión, integren la Subcomisión de Examen Previo de denuncias de juicios políticos que tendrá competencia exclusiva para los propósitos contenidos en el Capítulo II de esta Ley.
-Artículo reformado DOF 21-07-1992 ARTÍCULO 11.- Al proponer la Gran Comisión de cada una de las Cámaras del Congreso de la Unión, la constitución de Comisiones para el despacho de los asuntos, propondrá la integración de una Comisión para sustanciar los procedimientos consignados en la presente Ley y en los términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+Artículo reformado DOF 21-07-1992
+ARTÍCULO 11.- Al proponer la Gran Comisión de cada una de las Cámaras del Congreso de la Unión, la constitución de Comisiones para el despacho de los asuntos, propondrá la integración de una Comisión para sustanciar los procedimientos consignados en la presente Ley y en los términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Aprobada la propuesta a que hace referencia el párrafo anterior, por cada Cámara se designarán de cada una de las Comisiones, cuatro integrantes para que formen la Sección instructora en la Cámara de Diputados y la de Enjuiciamiento en la de Senadores.
 Las vacantes que ocurran en la Sección correspondiente de cada Cámara, serán cubiertas por designación que haga la Gran Comisión, de entre los miembros de las Comisiones respectivas.
 ARTÍCULO 12.- La determinación del juicio político se sujetará al siguiente procedimiento: ratificarse ante ella dentro de los tres días naturales siguientes a su presentación;
-Inciso reformado DOF 13-06-2003 Comisiones que corresponda, para la tramitación correspondiente. Si se trata de una denuncia presentada en lengua indígena, ordenará su traducción inmediata al español y lo turnará conforme al procedimiento establecido;
+Inciso reformado DOF 13-06-2003
+Comisiones que corresponda, para la tramitación correspondiente. Si se trata de una denuncia presentada en lengua indígena, ordenará su traducción inmediata al español y lo turnará conforme al procedimiento establecido;
 Inciso reformado DOF 13-06-2003
 
 c) La Subcomisión de Examen Previo procederá, en un plazo no mayor a treinta días hábiles, a determinar si el denunciado se encuentra entre los servidores públicos a que se refiere el artículo 2o., de esta Ley, así como si la denuncia contiene elementos de prueba que justifiquen que la conducta atribuida corresponde a las enumeradas en el artículo 7o. de la propia Ley, y si los propios elementos de prueba permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado y por tanto, amerita la incoación del procedimiento. En caso contrario la Subcomisión desechará de plano la denuncia presentada.
@@ -42,7 +56,8 @@ En caso de la presentación de pruebas supervivientes, la Subcomisión de Examen
 d) La resolución que dicte la Subcomisión de Examen Previo, desechando una denuncia, podrá revisarse por el pleno de las Comisiones Unidas a petición de cualquiera de los Presidentes de las Comisiones o a solicitud, de cuando menos, el diez por ciento de los diputados integrantes de ambas Comisiones, y Fe de erratas al inciso DOF 22-07-1992
 
 e) La resolución que dicte la Subcomisión de Examen Previo declarando procedente la denuncia, será remitida al pleno de las Comisiones Unidas de Gobernación y Puntos Constitucionales y de Justicia para efecto de formular la resolución correspondiente y ordenar se turne a la Sección Instructora de la Cámara.
-Artículo reformado DOF 21-07-1992 ARTÍCULO 13.- La Sección Instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+Artículo reformado DOF 21-07-1992
+ARTÍCULO 13.- La Sección Instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella; estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección informará al denunciado sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
 ARTÍCULO 14.- La Sección Instructora abrirá un período de prueba de 30 días naturales dentro del cual recibirá las pruebas que ofrezcan el denunciante y el servidor público, así como las que la propia Sección estime necesarias.
 Si al concluir el plazo señalado no hubiese sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Sección Instructora podrá ampliarlo en la medida que resulte estrictamente necesaria.
@@ -52,14 +67,17 @@ ARTÍCULO 16.- Transcurrido el plazo para la presentación de alegatos, se hayan
 Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
 ARTÍCULO 17.- Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Sección Instructora terminarán proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
 Fe de erratas al párrafo DOF 10-03-1983 Si de las constancias se desprende la responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
-Párrafo reformado DOF 21-07-1992 I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
+Párrafo reformado DOF 21-07-1992
+I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
 
 II. Que se encuentra acreditada la responsabilidad del encausado;
-Fracción reformada DOF 21-07-1992 III.- La sanción que deba imponerse de acuerdo con el artículo 8o. de esta Ley, y IV.- Que en caso de ser aprobadas las conclusiones, se envíe la declaración correspondiente a la Cámara de Senadores, en concepto de acusación, para los efectos legales respectivos.
+Fracción reformada DOF 21-07-1992
+III.- La sanción que deba imponerse de acuerdo con el artículo 8o. de esta Ley, y IV.- Que en caso de ser aprobadas las conclusiones, se envíe la declaración correspondiente a la Cámara de Senadores, en concepto de acusación, para los efectos legales respectivos.
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
 Fe de erratas al párrafo DOF 22-07-1992 ARTÍCULO 18.- Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la
 
 ## Sección I — nstructora las entregará a los secretarios de la Cámara de Diputados para que den cuenta al
+
 Presidente de la misma, quien anunciará que dicha Cámara debe reunirse y resolver sobre la imputación, dentro de los tres días naturales siguientes, lo que harán saber los secretarios al denunciante y al servidor público denunciado, para que aquél se presente por sí y éste lo haga personalmente, asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
 ARTÍCULO 19.- La Sección Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas a los secretarios de la Cámara, conforme a los artículos anteriores, dentro del plazo de sesenta días naturales, contado desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
 Fe de erratas al párrafo DOF 10-03-1983 Los plazos a que se refiere este artículo se entienden comprendidos dentro del período ordinario de sesiones de la Cámara o bien dentro del siguiente ordinario o extraordinario que se convoque.
@@ -90,7 +108,8 @@ ARTÍCULO 33.- Cuando alguna de las Secciones o de las Cámaras deba realizar un
 La Sección respectiva practicará las diligencias que no requieran la presencia del denunciado, encomendando al Juez de Distrito que corresponda las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia de las Cámaras, por medio de despacho firmado por el Presidente y el Secretario de la Sección al que se acompañará testimonio de las constancias conducentes.
 El Juez de Distrito practicará las diligencias que le encomiende la Sección respectiva, con estricta sujeción a las determinaciones que aquélla le comunique.
 Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias a que se refiere este artículo, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo, libres de cualquier costo. Aquellas que involucren a un ciudadano, pueblos y comunidades indígenas y afromexicanas, podrán remitirse, a elección de éstos, en español o traducirse a lengua indígena que cuente con expresión escrita.
-Párrafo reformado DOF 13-06-2003, 01-04-2024 ARTÍCULO 34.- Los miembros de las Secciones y, en general, los Diputados y Senadores que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial de la Federación.
+Párrafo reformado DOF 13-06-2003, 01-04-2024
+ARTÍCULO 34.- Los miembros de las Secciones y, en general, los Diputados y Senadores que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados por alguna de las causas de impedimento que señala la Ley Orgánica del Poder Judicial de la Federación.
 Unicamente con expresión de causa podrá el inculpado recusar a miembros de las Secciones Instructoras que conozcan de la imputación presentada en su contra, o a Diputados y Senadores que deban participar en actos del procedimiento.
 El propio servidor público sólo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor hasta la fecha en que se cite a las Cámaras para que actúen colegiadamente, en sus casos respectivos.
 ARTÍCULO 35.- Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes en un incidente que se sustanciará ante la Sección a cuyos miembros no se hubiese señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas secciones, se llamará a los suplentes. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes. Las Cámaras calificarán en los demás casos de excusa o recusación.
@@ -109,17 +128,112 @@ ARTÍCULO 43.- Las Secciones y las Cámaras podrán disponer las medidas de aper
 ARTÍCULO 44.- Las declaraciones o resoluciones aprobadas por las Cámaras con arreglo a esta Ley, se comunicarán a la Cámara a la que pertenezca el acusado, salvo que fuere la misma que hubiese dictado la declaración o resolución; a la Suprema Corte de Justicia de la Nación si se tratase de alguno de los integrantes del Poder Judicial Federal a que alude esta Ley; y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en el Diario Oficial de la Federación.
 En el caso de que la declaratoria de las Cámaras se refiera a gobernadores, diputados locales y Magistrados de los Tribunales Superiores de Justicia Locales, se hará la notificación a la Legislatura Local respectiva.
 ARTÍCULO 45.- En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
-TITULO TERCERO Responsabilidades Administrativas (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO I Sujetos y obligaciones del servidor público (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 46.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 47.- (Se deroga) Artículo reformado DOF 11-01-1991, 21-07-1992, 09-04-2012, 24-12-2013, 24-03-2016. Derogado DOF 18-07-2016 ARTÍCULO 48.- (Se deroga) Artículo reformado DOF 24-12-1996, 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016 CAPITULO II Sanciones administrativas y procedimientos para aplicarlas (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 49.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 50.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 51.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016 ARTÍCULO 52.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 53.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 54.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 55.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 56.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 57.- (Se deroga) Artículo reformado DOF 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 58.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 59.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 60.- (Se deroga) Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016 ARTÍCULO 61.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 62.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 63.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 64.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 65.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 66.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 67.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 68.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 69.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 70.- (Se deroga) Artículo reformado DOF 21-07-1992, 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 71.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 72.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 73.- (Se deroga) Artículo reformado DOF 21-07-1992,31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 74.- (Se deroga) Artículo reformado DOF 31-12-2000. Derogado DOF 18-07-2016 ARTÍCULO 75.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 76.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 77.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 77 Bis.- (Se deroga) Artículo adicionado DOF 10-01-1994. Reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016 ARTÍCULO 78.- (Se deroga) Artículo reformado DOF 21-07-1992, 10-01-1994. Derogado DOF 18-07-2016 TITULO CUARTO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Registro patrimonial de los servidores públicos (Se deroga) Capítulo derogado DOF 18-07-2016 ARTÍCULO 79.- (Se deroga) Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016 ARTÍCULO 80.- (Se deroga) Artículo reformado DOF 21-07-1992, 04-12-1997, 31-12-2000, 09-04-2012. Derogado DOF 18-07-2016 ARTÍCULO 81.- (Se deroga) Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 82.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 83.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 84.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 85.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 86.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 87.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 88.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 89.- (Se deroga) Artículo derogado DOF 18-07-2016 ARTÍCULO 90.- (Se deroga) Artículo reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
+TITULO TERCERO Responsabilidades Administrativas (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO I Sujetos y obligaciones del servidor público (Se deroga)
+Capítulo derogado DOF 18-07-2016
+ARTÍCULO 46.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 47.- (Se deroga)
+Artículo reformado DOF 11-01-1991, 21-07-1992, 09-04-2012, 24-12-2013, 24-03-2016. Derogado DOF 18-07-2016
+ARTÍCULO 48.- (Se deroga)
+Artículo reformado DOF 24-12-1996, 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
+CAPITULO II Sanciones administrativas y procedimientos para aplicarlas (Se deroga)
+Capítulo derogado DOF 18-07-2016
+ARTÍCULO 49.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 50.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 51.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016
+ARTÍCULO 52.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 53.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 54.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 55.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 56.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016
+ARTÍCULO 57.- (Se deroga)
+Artículo reformado DOF 24-12-1996. Derogado DOF 18-07-2016
+ARTÍCULO 58.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 59.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 60.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 24-12-1996. Derogado DOF 18-07-2016
+ARTÍCULO 61.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 62.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 63.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 64.- (Se deroga)
+Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
+ARTÍCULO 65.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 66.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 67.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 68.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 69.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 70.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 31-12-2000. Derogado DOF 18-07-2016
+ARTÍCULO 71.- (Se deroga)
+Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
+ARTÍCULO 72.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 73.- (Se deroga)
+Artículo reformado DOF 21-07-1992,31-12-2000. Derogado DOF 18-07-2016
+ARTÍCULO 74.- (Se deroga)
+Artículo reformado DOF 31-12-2000. Derogado DOF 18-07-2016
+ARTÍCULO 75.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 76.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 77.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Reformado DOF 21-07-1992. Derogado DOF 18-07-2016 ARTÍCULO 77 Bis.- (Se deroga)
+Artículo adicionado DOF 10-01-1994. Reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
+ARTÍCULO 78.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 10-01-1994. Derogado DOF 18-07-2016
+TITULO CUARTO (Se deroga) Disposición de vigencia DOF 13-03-2002. Título derogado DOF 18-07-2016 CAPITULO UNICO Registro patrimonial de los servidores públicos (Se deroga)
+Capítulo derogado DOF 18-07-2016
+ARTÍCULO 79.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 26-05-1995, 12-12-1995, 04-12-1997. Derogado DOF 18-07-2016
+ARTÍCULO 80.- (Se deroga)
+Artículo reformado DOF 21-07-1992, 04-12-1997, 31-12-2000, 09-04-2012. Derogado DOF 18-07-2016
+ARTÍCULO 81.- (Se deroga)
+Artículo reformado DOF 21-07-1992. Derogado DOF 18-07-2016
+ARTÍCULO 82.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 83.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 84.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 85.- (Se deroga) Fe de erratas al artículo DOF 10-03-1983. Derogado DOF 18-07-2016 ARTÍCULO 86.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 87.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 88.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 89.- (Se deroga)
+Artículo derogado DOF 18-07-2016
+ARTÍCULO 90.- (Se deroga)
+Artículo reformado DOF 04-12-1997, 09-04-2012. Derogado DOF 18-07-2016
 
 ## TÍTULO QUINTO — DE LAS DISPOSICIONES APLICABLES A LOS SERVIDORES PÚBLICOS DEL ÓRGANO
-EJECUTIVO DE LA CIUDAD DE MÉXICO Título adicionado DOF 04-12-1997. Denominación reformada DOF 20-12-2023
+
+EJECUTIVO DE LA CIUDAD DE MÉXICO
+Título adicionado DOF 04-12-1997. Denominación reformada DOF 20-12-2023
 
 ## CAPÍTULO ÚNICO
-Capítulo adicionado DOF 04-12-1997 ARTÍCULO 91.- Al frente de la Secretaría de la Contraloría General de la Ciudad de México habrá una persona titular, quien será nombrada y removida en términos de la Constitución Política de la Ciudad de México.
+
+Capítulo adicionado DOF 04-12-1997
+ARTÍCULO 91.- Al frente de la Secretaría de la Contraloría General de la Ciudad de México habrá una persona titular, quien será nombrada y removida en términos de la Constitución Política de la Ciudad de México.
 Las facultades y obligaciones que esta Ley otorga a la Secretaría y a la persona titular se entenderán conferidas en la Ciudad de México a la Secretaría de la Contraloría General de la Ciudad de México y a la persona titular.
-Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023 ARTÍCULO 92.- Las personas titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública de la Ciudad de México, serán designadas y removidas conforme a lo establecido en la legislación de la Ciudad de México aplicable.
+Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
+ARTÍCULO 92.- Las personas titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública de la Ciudad de México, serán designadas y removidas conforme a lo establecido en la legislación de la Ciudad de México aplicable.
 Los órganos de control interno tendrán las mismas facultades que esta Ley les confiere a las contralorías internas de las dependencias y entidades de la Administración Pública Federal las que serán ejercidas en las dependencias, entidades y órganos desconcentrados de la Administración Pública de la Ciudad de México.
-Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023 ARTÍCULO 93.- La persona servidora pública afectada por los actos o resoluciones de la Secretaría de la Contraloría General de la Ciudad de México o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta Ley.
+Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
+ARTÍCULO 93.- La persona servidora pública afectada por los actos o resoluciones de la Secretaría de la Contraloría General de la Ciudad de México o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de Justicia Administrativa de la Ciudad de México, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta Ley.
 Artículo adicionado DOF 04-12-1997. Reformado DOF 20-12-2023
 
 ## TRANSITORIOS
@@ -195,15 +309,15 @@ Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretar
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 Ley Orgánica del Poder Judicial de la Federación.
 Publicada en el Diario Oficial de la Federación el 26 de mayo de 1995 ARTICULOS TRANSITORIOS
-**PRIMERO.** La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los amparos indirectos promovidos en contra de actos de tribunales unitarios de circuito que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
-**TERCERO.** Se abroga la Ley Orgánica del Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 5 de enero de 1988, y sus reformas.
-**CUARTO.** Se abroga el Decreto que Establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación del 19 de febrero de 1951 y su reforma de 1963.
-**QUINTO.** Los acuerdos administrativos dictados por la Suprema Corte de Justicia funcionando en Pleno y por la Comisión de Gobierno y Administración de la Suprema Corte de Justicia con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se opongan a la presente ley hasta que el Consejo de la Judicatura Federal o la Suprema Corte de Justicia funcionando en Pleno dicte las normas administrativas que correspondan.
-**SEXTO.** Se faculta a la Suprema Corte de Justicia funcionando en Pleno y al Pleno del Consejo de la Judicatura Federal para dictar, en sus respectivos ámbitos de atribuciones, todas las medidas que sean necesarias para la efectividad e inmediato cumplimiento de la presente Ley.
+**PRIMERO.-** La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los amparos indirectos promovidos en contra de actos de tribunales unitarios de circuito que a la fecha de entrada en vigor de esta ley se encuentren radicados en los juzgados de distrito, deberán seguir siendo tramitados y resueltos por estos.
+**TERCERO.-** Se abroga la Ley Orgánica del Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 5 de enero de 1988, y sus reformas.
+**CUARTO.-** Se abroga el Decreto que Establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación del 19 de febrero de 1951 y su reforma de 1963.
+**QUINTO.-** Los acuerdos administrativos dictados por la Suprema Corte de Justicia funcionando en Pleno y por la Comisión de Gobierno y Administración de la Suprema Corte de Justicia con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán en vigor en lo que no se opongan a la presente ley hasta que el Consejo de la Judicatura Federal o la Suprema Corte de Justicia funcionando en Pleno dicte las normas administrativas que correspondan.
+**SEXTO.-** Se faculta a la Suprema Corte de Justicia funcionando en Pleno y al Pleno del Consejo de la Judicatura Federal para dictar, en sus respectivos ámbitos de atribuciones, todas las medidas que sean necesarias para la efectividad e inmediato cumplimiento de la presente Ley.
 SEPTIMO. El presupuesto del Poder Judicial de la Federación para el ejercicio de 1995 será administrado y ejercido por el Presidente de la Suprema Corte de Justicia y por el Consejo de la Judicatura Federal, en sus rubros y montos requeridos respectivamente. Para este efecto, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, el presidente de la Suprema Corte de Justicia someterá al Pleno del Consejo de la Judicatura Federal la división de dicho presupuesto, tomando en cuenta las necesidades para la administración de ambos, durante el resto del presente ejercicio fiscal.
-**OCTAVO.** Se derogan los artículos 3o., 51 y 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente en lo que se refiere a la Suprema Corte de Justicia.
-**NOVENO.** A partir de la entrada en vigor de esta ley, los días hábiles a que se refiere el primer párrafo del artículo 23 de la Ley de Amparo serán los que señala el artículo 160 de esta ley.
+**OCTAVO.-** Se derogan los artículos 3o., 51 y 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente en lo que se refiere a la Suprema Corte de Justicia.
+**NOVENO.-** A partir de la entrada en vigor de esta ley, los días hábiles a que se refiere el primer párrafo del artículo 23 de la Ley de Amparo serán los que señala el artículo 160 de esta ley.
 DECIMO. Las atribuciones, presupuesto y personal con que actualmente cuenta el Instituto de Especialización Judicial, pasarán a formar parte del Instituto de la Judicatura.
 DECIMO PRIMERO. Para la suplencia en los casos de ausencia del Presidente de la Suprema Corte de Justicia a que se refiere el artículo 13 de esta ley, se considerará el orden de nombramientos aprobados por la Cámara de Senadores.
 DECIMO SEGUNDO. Los miembros del Comité Académico del Instituto de la Judicatura serán designados dentro de los treinta días siguientes a la publicación de la presente ley. La mitad de los miembros que integre el primer Comité Académico será designada para un período de dos años y la restante para un período de cuatro años.
@@ -215,13 +329,13 @@ México, D.F., a 19 de mayo de 1995.- Sen. Germán Sierra Sánchez, Presidente.-
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de mayo de mil novecientos noventa y cinco.- El Presidente Constitucional de los Estados Unidos Mexicanos.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos.
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 1995 ARTICULO SEGUNDO.- Se reforma la fracción VI del artículo 3o., el primer párrafo del artículo 51 y el
-**segundo.** párrafo del artículo 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue: .........
+**segundo.-** párrafo del artículo 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue: .........
 
 ## TRANSITORIOS
 
 **PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo
-**Primero.** del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo
+**Primero.-** del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo
 
 ## transitorio
 
@@ -250,8 +364,8 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
 
 ### ARTÍCULO SEGUNDO
 Se reforman los artículos 3o. fracciones I Bis, II y IV, 48, 51, 77 Bis, 79
-**segundo.** párrafo, 80 fracciones I Bis, IV, VII y VIII y 90, y se adiciona un Título Quinto con un Capítulo
-**Único.** con los artículos 91 a 93 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue: ..........
+**segundo.-** párrafo, 80 fracciones I Bis, IV, VII y VIII y 90, y se adiciona un Título Quinto con un Capítulo
+**Único.-** con los artículos 91 a 93 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -278,8 +392,8 @@ III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2001.
-**Segundo.** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 2001.
+**Segundo.-** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
 México, D.F., a 28 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip.
 Manuel Medellín Milán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -349,8 +463,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se adiciona la fracción XXI bis al artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
@@ -360,7 +474,7 @@ Se adiciona la fracción XXI bis al artículo 47 de la Ley Federal de Responsabi
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 7 de noviembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos.
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2016
@@ -377,22 +491,22 @@ Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-**Segundo.** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
-**Tercero.** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+**Segundo.-** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+**Tercero.-** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
 El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
 Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos previstas en las leyes federales y locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
 Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
 Con la entrada en vigor de la Ley General de Responsabilidades Administrativas quedarán abrogadas Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
-**Cuarto.** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Cuarto.-** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
 La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes: a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador. b. Un integrante que durará en su encargo dos años. c. Un integrante que durará en su encargo tres años. d. Un integrante que durará en su encargo cuatro años. e. Un integrante que durará en su encargo cinco años.
 Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
 La sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
-**Quinto.** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Quinto.-** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
 El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
 Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
@@ -400,7 +514,7 @@ Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a l
 Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
-**primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+**primero.-** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.

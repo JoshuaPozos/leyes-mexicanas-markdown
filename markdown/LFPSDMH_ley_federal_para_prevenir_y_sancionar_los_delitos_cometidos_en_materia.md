@@ -16,6 +16,7 @@ LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROC
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- La presente Ley es de orden público y de aplicación en todo el territorio nacional en Materia de Fuero Federal; tiene por objeto establecer los delitos en particular y sanciones que serán aplicables en materia de hidrocarburos, petrolíferos o petroquímicos y demás activos, así como establecer las medidas necesarias para prevenir la comisión de los mismos o suspender sus efectos.
 Artículo reformado DOF 01-06-2018
@@ -66,6 +67,7 @@ El Ministerio Público de la Federación levantará acta circunstanciada con pre
 .- El Ministerio Público de la Federación y el Poder Judicial de la Federación, en el ámbito de sus respectivas competencias, conocerán sobre los delitos señalados en la presente Ley.
 
 ## TÍTULO SEGUNDO — DE LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, PETROLÍFEROS O
+
 PETROQUÍMICOS Y DEMÁS ACTIVOS
 
 ### Artículo 8
@@ -96,7 +98,8 @@ c) Cuando la cantidad sea mayor a 1,000 litros pero menor a 2,000 litros, se imp
 Inciso reformado DOF 18-05-2018
 
 d) Cuando la cantidad sea igual o mayor a 2,000 litros, con pena de 12 a 17 años de prisión y multa de 12,000 a 17,000 veces el valor de la Unidad de Medida y Actualización vigente.
-Inciso reformado DOF 18-05-2018 Para los efectos de los supuestos señalados en la fracción III incisos a), b) y c) del presente artículo deberá mediar querella del órgano regulador o parte agraviada.
+Inciso reformado DOF 18-05-2018
+Para los efectos de los supuestos señalados en la fracción III incisos a), b) y c) del presente artículo deberá mediar querella del órgano regulador o parte agraviada.
 En caso de no poder cuantificarse el volumen de los hidrocarburos, petrolíferos o petroquímicos, objeto de las conductas descritas en las fracciones I, II y III, se impondrá de 12 a 17 años de prisión y multa de 12,000 a 17,000 veces el valor de la Unidad de Medida y Actualización vigente, siempre que se acredite que por las condiciones en que se encuentra contenido dicho volumen, se presuma que se trata de cantidades mayores a los 2,000 litros.
 Párrafo reformado DOF 18-05-2018
 
@@ -122,15 +125,18 @@ II. De 5 a 8 años de prisión y multa de 200 hasta 320 veces el valor de la Uni
 Fracción reformada DOF 18-05-2018
 
 III. De 8 a 17 años de prisión y multa de 320 hasta 800 veces el valor de la Unidad de Medida y Actualización vigente, cuando exceda de quinientas veces el mismo.
-Fracción reformada DOF 18-05-2018 Si se ejecutare con violencia, se aplicarán las reglas de la acumulación.
+Fracción reformada DOF 18-05-2018
+Si se ejecutare con violencia, se aplicarán las reglas de la acumulación.
 
 ### Artículo 13
 .- Se sancionará de 3 a 7 años de prisión y multa de 6,000 a 9,000 veces el valor de la Unidad de Medida y Actualización vigente, a cualquier servidor público que en el ejercicio de sus funciones o con motivo de ellas, tenga conocimiento de la probable comisión de algún delito materia de esta Ley y no lo denuncie ante la autoridad competente.
-Párrafo reformado DOF 18-05-2018 Lo anterior, independientemente de las sanciones aplicables conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Párrafo reformado DOF 18-05-2018
+Lo anterior, independientemente de las sanciones aplicables conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ### Artículo 14
 .- Se sancionará de 8 a 12 años de prisión y multa de 8,000 a 12,000 veces el valor de la Unidad de Medida y Actualización vigente, al que comercialice o transporte hidrocarburos, petrolíferos o petroquímicos, cuando no contengan los marcadores o las demás especificaciones que para estos productos establezca la autoridad competente, determinados en la documentación que así lo prevea.
-Párrafo reformado DOF 18-05-2018 La misma pena se impondrá a quien sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley, sustraiga, altere, modifique o destruya los marcadores a que se refiere el párrafo anterior.
+Párrafo reformado DOF 18-05-2018
+La misma pena se impondrá a quien sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley, sustraiga, altere, modifique o destruya los marcadores a que se refiere el párrafo anterior.
 
 ### Artículo 15
 .- Se impondrá de 6 a 8 años de prisión y multa de 6,000 a 8,000 veces el valor de la Unidad de Medida y Actualización vigente, al arrendatario, propietario o poseedor o a quien se ostente como tal, de algún predio donde exista una derivación clandestina o toma clandestina y tenga conocimiento de esta situación y no lo denuncie a las autoridades correspondientes.
@@ -172,11 +178,13 @@ Artículo reformado DOF 18-05-2018
 
 ## TÍTULO TERCERO — REGLAS GENERALES DE LA RESPONSABILIDAD
 
+
 ### Artículo 21
 .- Si el sujeto activo es o fue trabajador o prestador de servicios de asignatarios, contratistas, permisionarios o distribuidores o servidor público de la industria petrolera o de las instituciones policiales; las sanciones se aumentarán hasta una mitad más de acuerdo con la pena prevista en la presente Ley por el delito cometido, independientemente de las sanciones correspondientes conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, cuando dicho ordenamiento resulte aplicable.
 Si el responsable es franquiciatario, asignatario, contratista, permisionario o distribuidor, además de las penas señaladas en la presente Ley, se le impondrá como sanción la revocación del permiso respectivo y, en su caso, la disolución y la liquidación de la sociedad.
 
 ## TÍTULO CUARTO — DE LA PREVENCIÓN
+
 
 ### Artículo 22
 .- Para efectos de esta Ley, se consideran instalaciones estratégicas a los espacios inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
@@ -214,7 +222,6 @@ ARTÍCULOS SEGUNDO A SÉPTIMO. ……….
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
 **Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
-
 I. [En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 18-05-2021
 
 II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
@@ -229,11 +236,11 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 2018
 
 ### Artículo Único
 Se reforman los artículos 8, primer párrafo; 9, segundo párrafo, incisos a), b), c) y d) y
-**cuarto.** párrafo; 11; 12, fracciones I, II y III; 13, primer párrafo; 14, primer párrafo; 15; 16, primer párrafo; 17, primer párrafo; 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, para quedar como sigue: ……..
+**cuarto.-** párrafo; 11; 12, fracciones I, II y III; 13, primer párrafo; 14, primer párrafo; 15; 16, primer párrafo; 17, primer párrafo; 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, para quedar como sigue: ……..
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 5 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Verónica Bermúdez Torres, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2018
@@ -243,11 +250,11 @@ Se reforma el artículo 1, y se adiciona el artículo 22 Bis de la Ley Federal p
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
-**Segundo.** Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
-**Tercero.** (Se deroga).
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+**Segundo.-** Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+**Tercero.-** (Se deroga).
 Artículo derogado DOF 12-11-2021
-**Cuarto.** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera. de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
+**Cuarto.-** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera. de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
 Ciudad de México, a 17 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Mariana Arámbula Meléndez, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
 Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
@@ -257,12 +264,12 @@ Se adiciona un párrafo tercero al artículo 4 de la Ley Federal para Prevenir y
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Tercero.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+**Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Quinto.-** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 13/2016 y su acumulada 14/2016.
@@ -271,11 +278,11 @@ Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de
 VISTOS, para resolver los expedientes relativos a las acciones de inconstitucionalidad identificadas al rubro; y, RESULTANDO: ……..
 CONSIDERANDO: ……..
 Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad 13/2016 y su acumulada 14/2016.
-**SEGUNDO.** Se desestima la acción de inconstitucionalidad 14/2016, promovida por la Comisión Nacional de los Derechos Humanos, respecto del artículo 4, párrafo segundo, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis.
-**TERCERO.** Se reconoce la validez de los artículos 10, 23 y transitorio tercero, fracción II, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis, de conformidad con lo establecido en el considerando quinto de esta decisión.
-**CUARTO.** Se declara la invalidez del artículo transitorio tercero, fracciones I y III, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis, en atención a lo dispuesto en el considerando quinto de esta determinación, la cual surtirá sus efectos retroactivos al trece de enero de dos mil dieciséis, a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión, en los términos precisados en el considerando sexto de esta ejecutoria.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad 13/2016 y su acumulada 14/2016.
+**SEGUNDO.-** Se desestima la acción de inconstitucionalidad 14/2016, promovida por la Comisión Nacional de los Derechos Humanos, respecto del artículo 4, párrafo segundo, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis.
+**TERCERO.-** Se reconoce la validez de los artículos 10, 23 y transitorio tercero, fracción II, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis, de conformidad con lo establecido en el considerando quinto de esta decisión.
+**CUARTO.-** Se declara la invalidez del artículo transitorio tercero, fracciones I y III, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, expedida mediante Decreto publicado en el Diario Oficial de la Federación el doce de enero de dos mil dieciséis, en atención a lo dispuesto en el considerando quinto de esta determinación, la cual surtirá sus efectos retroactivos al trece de enero de dos mil dieciséis, a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión, en los términos precisados en el considerando sexto de esta ejecutoria.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese. Haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido. ……… Firman el señor Ministro Presidente y la señora Ministra Ponente con el Secretario General de Acuerdos que autoriza y da fe.
 El Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- La Ponente, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- El Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y cuatro fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 13/2016 y su acumulada 14/2016, promovidas, respectivamente, por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Nacional de los Derechos Humanos, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veinticinco de febrero de dos mil veinte y se expide para que obre en el expediente impreso respectivo.- Ciudad de México, a veintiséis de agosto de dos mil veinte.- Rúbrica.
@@ -285,7 +292,7 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021 Art�
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

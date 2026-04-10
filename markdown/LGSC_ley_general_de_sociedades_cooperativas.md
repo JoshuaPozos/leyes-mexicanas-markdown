@@ -10,6 +10,7 @@ CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexic
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E T O "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
 
 ## Título I
+
 Capítulo Unico Disposiciones Generales
 
 ### Artículo 1
@@ -64,7 +65,9 @@ Párrafo adicionado DOF 04-06-2001
 
 ## Título II
 
+
 ## Capítulo I — De la constitución y registro
+
 
 ### Artículo 11
 .- En la constitución de las sociedades cooperativas se observará lo siguiente:
@@ -78,7 +81,8 @@ Fracción reformada DOF 16-04-2025
 V. Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley;
 Fracción reformada DOF 13-08-2009, 16-04-2025
 
-VI. No podrá rechazarse la integración de socios por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio, y Fracción adicionada DOF 16-04-2025
+VI. No podrá rechazarse la integración de socios por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio, y
+Fracción adicionada DOF 16-04-2025
 
 VII. No podrán formar parte ni depender de partidos políticos o de asociaciones religiosas.
 Fracción adicionada DOF 16-04-2025
@@ -156,9 +160,12 @@ Artículo adicionado DOF 16-04-2025
 
 ## Capítulo II — De las distintas clases y categorías de sociedades cooperativas
 
+
 ### Artículo 21
 .- Forman parte del Sistema Cooperativo las siguientes clases de sociedades cooperativas:
-I.- De consumidores de bienes y/o servicios, y II.- De productores de bienes y/o servicios, y Fracción reformada DOF 04-06-2001 III.- De ahorro y préstamo.
+I.- De consumidores de bienes y/o servicios, y II.- De productores de bienes y/o servicios, y
+Fracción reformada DOF 04-06-2001
+III.- De ahorro y préstamo.
 Fracción adicionada DOF 04-06-2001
 
 ### Artículo 22
@@ -231,15 +238,18 @@ Artículo adicionado DOF 13-08-2009
 
 ## Capítulo III — Del funcionamiento y la administración
 
+
 ### Artículo 34
 .- La dirección, administración y vigilancia interna de las Sociedades Cooperativas, en general, estará a cargo de los órganos siguientes:
-Párrafo reformado DOF 13-08-2009 I.- La Asamblea General;
+Párrafo reformado DOF 13-08-2009
+I.- La Asamblea General;
 II.- El Consejo de Administración;
 
 III. El Consejo de Vigilancia;
 Fracción reformada DOF 13-08-2009
 
-IV. Las comisiones y comités que esta Ley establece y las demás que designe la Asamblea General, y Fracción reformada DOF 13-08-2009
+IV. Las comisiones y comités que esta Ley establece y las demás que designe la Asamblea General, y
+Fracción reformada DOF 13-08-2009
 
 V. Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, además de los citados órganos, en las fracciones I a IV anteriores, deberán contar, cuando menos con:
 
@@ -301,7 +311,8 @@ Artículo adicionado DOF 13-08-2009
 ### Artículo 42
 .- El nombramiento de los miembros del Consejo de Administración lo hará la Asamblea General conforme al sistema establecido en esta Ley y en sus bases constitutivas. Sus faltas temporales serán suplidas en el orden progresivo de sus designaciones, pudiendo durar en sus cargos, si la Asamblea General lo aprueba hasta cinco años y ser reelectos cuando por lo menos las dos terceras partes de la Asamblea General lo apruebe.
 Tratándose de las Sociedades Cooperativas de Ahorro y Préstamo, los consejeros podrán fungir por un periodo de hasta cinco años, según se establezca en sus bases constitutivas, con posibilidad de una sola reelección, cuando lo apruebe por lo menos las dos terceras partes de la Asamblea General.
-Párrafo adicionado DOF 13-08-2009 Para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Administración, en las bases constitutivas de la Cooperativa se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
+Párrafo adicionado DOF 13-08-2009
+Para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Administración, en las bases constitutivas de la Cooperativa se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
 Párrafo adicionado DOF 13-08-2009
 
 ### Artículo 43
@@ -466,6 +477,7 @@ Artículo adicionado DOF 13-08-2009
 
 ## Capítulo IV — Del Régimen Económico
 
+
 ### Artículo 49
 .- El capital de las sociedades cooperativas se integrará con las aportaciones de los socios y con los rendimientos que la Asamblea General acuerde se destinen para incrementarlo, además de considerar lo establecido en el artículo 63 de esta Ley.
 
@@ -525,6 +537,7 @@ Artículo reformado DOF 04-06-2001
 
 ## Capítulo V — De los socios
 
+
 ### Artículo 64
 .- Esta Ley y las bases constitutivas de cada sociedad cooperativa, determinarán deberes, derechos, aportaciones, causas de exclusión de socios y demás requisitos. En todo caso, deberán observarse las siguientes disposiciones:
 I.- La obligación de consumir o de utilizar los servicios que las sociedades cooperativas de consumidores brindan a sus socios;
@@ -548,6 +561,7 @@ Igualmente se establecerá que, en el caso de que varios de los Socios soliciten
 Artículo adicionado DOF 13-08-2009
 
 ## Capítulo VI — De la disolución y liquidación
+
 
 ### Artículo 66
 .- Las sociedades cooperativas se disolverán por cualquiera de las siguientes causas:
@@ -581,15 +595,21 @@ Para la fusión de varias sociedades cooperativas se deberá seguir el mismo tr�
 
 ## Título III
 
+
 ## Capítulo I — De los organismos cooperativos
 
+
 ## Sección I
-De los Organismos Cooperativos de las Sociedades Cooperativas de Producción y de Consumo Sección adicionada DOF 13-08-2009 (queda integrada con los existentes artículos 74 a 78)
+
+De los Organismos Cooperativos de las Sociedades Cooperativas de Producción y de Consumo
+Sección adicionada DOF 13-08-2009 (queda integrada con los existentes artículos 74 a 78)
 
 ### Artículo 74
 .- Las Sociedades Cooperativas de producción y de consumo se podrán agrupar libremente en Federaciones, uniones o en cualquier otra figura asociativa con reconocimiento legal.
-Párrafo reformado DOF 13-08-2009 Las disposiciones establecidas por esta Ley para las Sociedades Cooperativas, serán aplicables a los organismos cooperativos, salvo lo señalado en los artículos: 2; 11 fracción V; 25; 27; 28; 36 fracciones IX y X; 37 párrafo segundo; 38 fracción I; 43 párrafo segundo; 45 párrafo cuarto; 50 párrafo tercero; 53; 54; 55, 56; 57; 58; 59; 64 fracción II, 65 y 66 fracción II.
-Párrafo reformado DOF 13-08-2009 Las federaciones podrán agrupar a sociedades cooperativas de la misma rama de la actividad económica. Las uniones podrán agrupar a sociedades de distintas ramas de la actividad económica.
+Párrafo reformado DOF 13-08-2009
+Las disposiciones establecidas por esta Ley para las Sociedades Cooperativas, serán aplicables a los organismos cooperativos, salvo lo señalado en los artículos: 2; 11 fracción V; 25; 27; 28; 36 fracciones IX y X; 37 párrafo segundo; 38 fracción I; 43 párrafo segundo; 45 párrafo cuarto; 50 párrafo tercero; 53; 54; 55, 56; 57; 58; 59; 64 fracción II, 65 y 66 fracción II.
+Párrafo reformado DOF 13-08-2009
+Las federaciones podrán agrupar a sociedades cooperativas de la misma rama de la actividad económica. Las uniones podrán agrupar a sociedades de distintas ramas de la actividad económica.
 
 ### Artículo 75
 .- Las confederaciones nacionales se podrán constituir con varias uniones o federaciones de por lo menos diez entidades federativas.
@@ -612,7 +632,9 @@ VI.- Apoyar la celebración de cursos de educación cooperativa en todos los niv
 VII.- Procurar la solidaridad entre sus miembros, y VIII.- Contratar trabajadores y/o integrar personal comisionado de los organismos integrantes, en los términos en que se acuerde.
 
 ## Sección II
-De los Organismos Cooperativos de las Sociedades Cooperativas de Ahorro y Préstamo Sección adicionada DOF 13-08-2009
+
+De los Organismos Cooperativos de las Sociedades Cooperativas de Ahorro y Préstamo
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 78
 Bis.- Las Sociedades Cooperativas de Ahorro y Préstamo se agruparán en los organismos cooperativos de integración y representación siguientes:
@@ -737,6 +759,7 @@ Bis 13.- Para el sostenimiento y operación de las Federaciones y la Confederaci
 Artículo adicionado DOF 13-08-2009
 
 ## Capítulo II
+
 De los organismos e instituciones de asistencia técnica al Movimiento Cooperativo Nacional
 
 ### Artículo 79
@@ -757,6 +780,7 @@ III.- Formulación y evaluación de proyectos de inversión para la constitució
 
 ## Capítulo III — De la integración
 
+
 ### Artículo 83
 .- Todos los organismos mencionados en el Capítulo I del presente Título, podrán realizar las operaciones que sean necesarias y convenientes para dar cumplimiento cabal a su ciclo económico y deberán establecer planes económico-sociales entre los de su rama o con otras ramas de cooperativas, con el fin de realizar plenamente su objeto social o lograr mayor expansión en sus actividades.
 
@@ -775,7 +799,8 @@ IV.- Estructurar cadenas de producción y comercialización;
 V.- Crear unidades de producción y de comercialización, y VI.- Realizar en común cualquier acto de comercio, desarrollo tecnológico o cualquier actividad que propicie una mayor capacidad productiva y competitiva de los propios organismos cooperativos.
 
 ### Artículo 87
-.- (Se deroga) Artículo derogado DOF 04-06-2001
+.- (Se deroga)
+Artículo derogado DOF 04-06-2001
 
 ### Artículo 88
 .- Las sociedades cooperativas, uniones, federaciones y confederaciones, podrán efectuar operaciones libremente ya sea en forma individual o en conjunto. El Consejo Superior del Cooperativismo y en su caso las autoridades respectivas, darán toda la orientación y apoyo necesario para esta clase de operaciones.
@@ -785,6 +810,7 @@ V.- Crear unidades de producción y de comercialización, y VI.- Realizar en com
 Artículo reformado DOF 27-11-2007, 19-01-2018
 
 ## Título IV
+
 Capítulo Unico Del apoyo a las sociedades cooperativas
 
 ### Artículo 90
@@ -842,12 +868,11 @@ Respecto de aquéllas que se constituyan con posterioridad a los dos primeros a�
 Lo dispuesto en este artículo deberá incluirse en el contrato de fideicomiso de los Fondos de Protección. Las Entidades deberán informar a sus Socios, Clientes y al público en general la fecha a partir de la cual iniciará la vigencia del sistema del Fondo de Protección respectivo, conforme a lo señalado en el párrafo anterior.
 **OCTAVO.-** Para efectos de la fracción I del artículo 53 de la misma Ley, las Federaciones que soliciten su autorización dentro de un plazo de dos años contados a partir de la entrada en vigor de la Ley, deberán presentar los documentos en que, a juicio de la Comisión Nacional Bancaria y de Valores, se manifieste la intención de cuando menos diez sociedades que cumplan con los requisitos del artículo 10o., con excepción de las fracciones II y IX, para afiliarse a dicha Federación.
 **NOVENO.-** A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo
-**PRIMERO.** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
+**PRIMERO.-** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
 Concluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos.
 **DÉCIMO.-** Al momento de instalarse el primer consejo de administración de una Sociedad Cooperativa de Ahorro y Préstamo conforme a los términos previstos en la Ley de Ahorro y Crédito Popular, se determinarán por insaculación a los consejeros electos por la asamblea que fungirán en su encargo únicamente durante la primera mitad del periodo de duración determinado por la Entidad, a fin de proceder en periodos subsecuentes a la renovación por mitad del consejo de administración.
 Cuando el número de integrantes sea impar, se elegirá por insaculación durante la instalación del consejo de administración, al miembro excedente que formará parte de la primera mitad, a fin de proceder en periodos subsecuentes a la renovación parcial del mismo. En el caso del consejo de vigilancia, se procederá de la misma forma.
 **DÉCIMO PRIMERO.-** Para efectos de lo dispuesto en los artículos 65 y 101 de la Ley de Ahorro y Crédito Popular, se establecerá un periodo de transición a efecto de que los Organismos de Integración se ajusten al mismo, conforme a lo siguiente:
-
 I. Durante los dos primeros años a partir de que obtengan el dictamen favorable, su consejo de administración podrá estar conformado hasta en un setenta y cinco por ciento del total de sus miembros, por consejeros o funcionarios de la Entidad, Federación o Confederación, según sea el caso, y
 
 II. A partir del segundo año y hasta el final del tercer año, dicho porcentaje se reducirá hasta un cincuenta por ciento y a partir del cuarto año este porcentaje podrá ser hasta de un treinta por ciento.
@@ -876,7 +901,7 @@ Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ### ARTÍCULO TERCERO
 Se REFORMAN el Artículo 1o; fracción V del Artículo 11, primer párrafo del Artículo 33; fracción IV del Artículo 34; segundo y tercer párrafos del Artículo 74; y se ADICIONAN un
-**segundo.** párrafo al Artículo 33; Artículos 33 Bis; 33 Bis 1; 33 Bis 2; 33 Bis 3; fracción IV al Artículo 34; un tercer párrafo al Artículo 36; el Artículo 40 Bis; segundo y tercer párrafos al Artículo 42; un cuarto párrafo al Artículo 43; el Artículo 43 Bis; 43 Bis 1; 45 Bis; 46 Bis; 46 Bis 1; 46 Bis 2; 46 Bis 3; 55 Bis; 65 Bis;
+**segundo.-** párrafo al Artículo 33; Artículos 33 Bis; 33 Bis 1; 33 Bis 2; 33 Bis 3; fracción IV al Artículo 34; un tercer párrafo al Artículo 36; el Artículo 40 Bis; segundo y tercer párrafos al Artículo 42; un cuarto párrafo al Artículo 43; el Artículo 43 Bis; 43 Bis 1; 45 Bis; 46 Bis; 46 Bis 1; 46 Bis 2; 46 Bis 3; 55 Bis; 65 Bis;
 Artículos 78 Bis a 78 Bis 13; así como las Secciones I y II al Capítulo I del Título III, que comprenderán los Artículos 74 a 78 y 78 Bis a 78 Bis 13, respectivamente; todos ellos de la Ley General de Sociedades Cooperativas, para quedar como sigue: ……….
 
 ## TRANSITORIO
@@ -889,7 +914,7 @@ DEL ARTÍCULO TERCERO
 DEL DECRETO
 **PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
 **SEGUNDO.-** Las derogaciones efectuadas por el Artículo TERCERO del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo
-**SEXTO.** del presente Decreto al Artículo Séptimo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular” publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+**SEXTO.-** del presente Decreto al Artículo Séptimo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular” publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
 **TERCERO.-** En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
 **CUARTO.-** Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
 **QUINTO.-** El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
@@ -932,13 +957,11 @@ Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la 
 **Décimo Primero.-** El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 **Décimo Segundo.-** Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
 **Décimo Tercero.-** Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
-
 I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
 
 II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
 **Décimo Cuarto.-** El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
 **Décimo Quinto.-** Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
-
 I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
 
 II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;

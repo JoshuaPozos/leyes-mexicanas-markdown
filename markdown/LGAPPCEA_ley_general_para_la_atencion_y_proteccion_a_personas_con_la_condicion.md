@@ -16,6 +16,7 @@ LEY GENERAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESP
 
 ## CAPÍTULO I — Disposiciones Generales
 
+
 ### Artículo 1
 . Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en toda la República.
 
@@ -115,7 +116,9 @@ VII. La Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO II — De los Derechos y de las Obligaciones
 
+
 ## Sección Primera — De los Derechos
+
 
 ### Artículo 10
 . Se reconocen como derechos fundamentales de las personas con la condición del espectro autista y/o de sus familias, en los términos de las disposiciones aplicables, los siguientes:
@@ -167,6 +170,7 @@ XXII. Los demás que garanticen su integridad, su dignidad, su bienestar y su pl
 
 ## Sección Segunda — De las Obligaciones
 
+
 ### Artículo 11
 . Son sujetos obligados a garantizar el ejercicio de los derechos descritos en el artículo anterior, los siguientes:
 
@@ -181,6 +185,7 @@ IV. Los profesionales de la medicina, educación y demás profesionistas que res
 V. Todos aquéllos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
 
 ## CAPÍTULO III — De la Comisión Intersecretarial
+
 
 ### Artículo 12
 . Se constituye la Comisión como una instancia de carácter permanente del Ejecutivo Federal, que tendrá por objeto garantizar que la ejecución de los programas en materia de atención a las personas con la condición del espectro autista, se realice de manera coordinada.
@@ -242,9 +247,11 @@ VI. Expedir de manera directa o a través de las instituciones que integran el S
 VII. Coadyuvar a la actualización del Sistema de Información a cargo de la Secretaría, mismo que deberá permitir contar con un padrón de las personas con la condición del espectro autista que reciben atención por parte del Sistema Nacional de Salud en todo el territorio nacional, así como de la infraestructura utilizada para ello.
 
 ## CAPÍTULO IV
+
 Prohibiciones y Sanciones
 
 ## Sección Primera
+
 Prohibiciones
 
 ### Artículo 17
@@ -273,6 +280,7 @@ X. Negar la asesoría jurídica necesaria para el ejercicio de sus derechos, y
 XI. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la presente Ley y los demás ordenamientos aplicables.
 
 ## Sección Segunda
+
 Sanciones
 
 ### Artículo 18
@@ -280,12 +288,12 @@ Sanciones
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente decreto.
-**Tercero.** El H. Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, armonizarán y expedirán las normas legales para el cumplimiento de esta Ley, y la derogación de aquéllas que le sean incompatibles, en un plazo máximo de 12 meses, contados a partir de la fecha de entrada en vigor de esta Ley.
-**Cuarto.** El Consejo de Salubridad General someterá a consideración del titular del Ejecutivo Federal las políticas, programas y proyectos de investigación científica y de formación de recursos humanos, profesionales y técnicos especialistas en la condición del espectro autista en un plazo que no rebase los 12 meses a partir de la entrada en vigor del presente Decreto.
-**Quinto.** Las distintas secretarías, instituciones y organismos, integrantes de la Comisión Intersecretarial en el ámbito de sus respectivas competencias, y conforme a su disponibilidad de recursos, deberán contar con el apoyo de la Secretaría que permitan una eficiente operación a partir de la identificación y la atención de las personas con la condición del espectro autista.
-**Sexto.** Las acciones que las dependencias y entidades de la Administración Pública Federal deban realizar para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada para tal fin en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente decreto.
+**Tercero.-** El H. Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, armonizarán y expedirán las normas legales para el cumplimiento de esta Ley, y la derogación de aquéllas que le sean incompatibles, en un plazo máximo de 12 meses, contados a partir de la fecha de entrada en vigor de esta Ley.
+**Cuarto.-** El Consejo de Salubridad General someterá a consideración del titular del Ejecutivo Federal las políticas, programas y proyectos de investigación científica y de formación de recursos humanos, profesionales y técnicos especialistas en la condición del espectro autista en un plazo que no rebase los 12 meses a partir de la entrada en vigor del presente Decreto.
+**Quinto.-** Las distintas secretarías, instituciones y organismos, integrantes de la Comisión Intersecretarial en el ámbito de sus respectivas competencias, y conforme a su disponibilidad de recursos, deberán contar con el apoyo de la Secretaría que permitan una eficiente operación a partir de la identificación y la atención de las personas con la condición del espectro autista.
+**Sexto.-** Las acciones que las dependencias y entidades de la Administración Pública Federal deban realizar para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada para tal fin en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente.
 México, D.F., a 26 de marzo de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Francisca Elena Corrales Corrales, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de abril de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 PUNTOS RESOLUTIVOS DE SENTENCIA DE LA SCJN SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 33/2015, promovida por la Comisión Nacional de los Derechos Humanos, así como los Votos Particulares y Concurrente formulados por los Ministros Luis María Aguilar Morales, Arturo Zaldívar Lelo de Larrea, José Fernando Franco González Salas y Jorge Mario Pardo Rebolledo, respectivamente; y Voto Particular y Concurrente formulado por el Ministro José Ramón Cossío Díaz.
 Publicada en el Diario Oficial de la Federación el 27 de mayo de 2015 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 33/2015 PROMOVENTE: COMISIÓN NACIONAL DE DERECHOS HUMANOS.
@@ -295,17 +303,17 @@ SECRETARIA:
 GEORGINA LASO DE LA VEGA ROMERO.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día dieciocho de febrero de dos mil dieciséis.
 VISTOS, para resolver el expediente relativo a la acción de inconstitucionalidad identificada al rubro; y
-**PRIMERO.** A QUINTO. .........
+**PRIMERO.-** A QUINTO. .........
 CONSIDERANDO:
-**PRIMERO.** A SEXTO. ……….
-**SÉPTIMO.** Efectos. De conformidad con lo dispuesto en el artículo 45, en relación con el 73, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, esta Suprema Corte de Justicia de la Nación está facultada para determinar la fecha en la que producirán sus efectos las sentencias que dicte en este medio de control constitucional.
+**PRIMERO.-** A SEXTO. ……….
+**SÉPTIMO.-** Efectos. De conformidad con lo dispuesto en el artículo 45, en relación con el 73, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, esta Suprema Corte de Justicia de la Nación está facultada para determinar la fecha en la que producirán sus efectos las sentencias que dicte en este medio de control constitucional.
 En consecuencia, se establece que la declaratoria de invalidez de los artículos 3, fracción III, 10, fracción VI, 16, fracción VI, y 17, fracción VIII, de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista, surtirá sus efectos cuando se notifiquen los puntos resolutivos de la presente ejecutoria, respectivamente, al Congreso de la Unión y al Presidente de los Estados Unidos Mexicanos, y en los términos siguientes: (I) La fracción III del artículo 3 se invalida en su totalidad; (II) El precepto 10, fracción VI, únicamente en la porción normativa que señala "al igual que de los certificados de habilitación de su condición"; (III) El artículo 16, fracción VI, sólo en la porción normativa que señala "los certificados de habilitación"; (IV) La fracción VIII del artículo 17 se invalida en su totalidad.
 Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 3, fracción IX, 6, fracción VII, 10, fracción XIX, y 16, fracción IV, de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, publicada en el Diario Oficial de la Federación el treinta de abril de dos mil quince.
-**TERCERO.** Se declara la invalidez de los artículos 3, fracción III, 10, fracción VI –únicamente en la porción normativa que señala: “al igual que de los certificados de habilitación de su condición”-, 16, fracción VI –sólo en la porción normativa que señala: “los certificados de habilitación”-, y 17, fracción VIII, de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, publicada en el Diario Oficial de la Federación el treinta de abril de dos mil quince.
-**CUARTO.** Las declaraciones de invalidez decretadas en este fallo surtirán sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión y al Presidente de los Estados Unidos Mexicanos.
-**QUINTO.** Publíquese esta sentencia en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez de los artículos 3, fracción IX, 6, fracción VII, 10, fracción XIX, y 16, fracción IV, de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, publicada en el Diario Oficial de la Federación el treinta de abril de dos mil quince.
+**TERCERO.-** Se declara la invalidez de los artículos 3, fracción III, 10, fracción VI –únicamente en la porción normativa que señala: “al igual que de los certificados de habilitación de su condición”-, 16, fracción VI –sólo en la porción normativa que señala: “los certificados de habilitación”-, y 17, fracción VIII, de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, publicada en el Diario Oficial de la Federación el treinta de abril de dos mil quince.
+**CUARTO.-** Las declaraciones de invalidez decretadas en este fallo surtirán sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión y al Presidente de los Estados Unidos Mexicanos.
+**QUINTO.-** Publíquese esta sentencia en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo primero:

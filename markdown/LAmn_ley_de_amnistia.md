@@ -84,12 +84,12 @@ Artículo adicionado DOF 14-06-2024
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el siguiente párrafo.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el siguiente párrafo.
 Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá expedir el acuerdo que crea la Comisión a que se refiere el artículo 3, párrafo tercero de esta Ley. Dentro del mismo plazo, el Consejo de la Judicatura Federal determinará los jueces federales competentes que conocerán en materia de amnistía.
-**Segundo.** El Ejecutivo Federal, a través de la Secretaría de Gobernación, promoverá ante los gobiernos y las legislaturas de las entidades federativas la expedición de leyes de amnistía por la comisión de delitos previstos en sus respectivas legislaciones que se asemejen a los que se amnistían en esta Ley.
-**Tercero.** Las erogaciones que se presenten con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
-**Cuarto.** La Comisión por conducto de la Secretaría de Gobernación, enviará al Congreso de la Unión un informe anual sobre las solicitudes de amnistía pendientes y resueltas, así como de los supuestos por los cuales se han concedido.
-**Quinto.** Dentro de los 180 días posteriores a la entrada en vigor de esta Ley, el Congreso de la Unión llevará a cabo un ejercicio de revisión de los delitos a que hace referencia esta Ley con la finalidad de valorar la vigencia de sus elementos configurativos.
+**Segundo.-** El Ejecutivo Federal, a través de la Secretaría de Gobernación, promoverá ante los gobiernos y las legislaturas de las entidades federativas la expedición de leyes de amnistía por la comisión de delitos previstos en sus respectivas legislaciones que se asemejen a los que se amnistían en esta Ley.
+**Tercero.-** Las erogaciones que se presenten con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
+**Cuarto.-** La Comisión por conducto de la Secretaría de Gobernación, enviará al Congreso de la Unión un informe anual sobre las solicitudes de amnistía pendientes y resueltas, así como de los supuestos por los cuales se han concedido.
+**Quinto.-** Dentro de los 180 días posteriores a la entrada en vigor de esta Ley, el Congreso de la Unión llevará a cabo un ejercicio de revisión de los delitos a que hace referencia esta Ley con la finalidad de valorar la vigencia de sus elementos configurativos.
 Ciudad de México, a 20 de abril de 2020.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen.
 Mónica Fernández Balboa, Presidenta.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 LEY DE AMNISTÍA ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona un artículo 9 a la Ley de Amnistía, en materia de otorgamiento de amnistía de manera directa.
@@ -100,6 +100,6 @@ Se adiciona un artículo 9 a la Ley de Amnistía, para quedar como sigue: ……
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal podrá emitir los acuerdos que considere necesarios para la aplicación de lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal podrá emitir los acuerdos que considere necesarios para la aplicación de lo dispuesto en el presente Decreto.
 Ciudad de México, a 24 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Vania Roxana Ávila García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.

@@ -16,12 +16,15 @@ LIBRO PRIMERO De los medios de impugnación
 
 ## TÍTULO PRIMERO — De las disposiciones generales
 
+
 ## CAPÍTULO I — Del ámbito de aplicación y de los criterios de interpretación
+
 
 ### Artículo 1
 . 1. La presente Ley es de orden público, de observancia general en toda la República y reglamentaria de los artículos 17, 41, 60 y 99 de la Constitución Política de los Estados Unidos Mexicanos. 2. A falta de disposición expresa, esta Ley es de aplicación supletoria en materia de impartición de justicia electoral en las entidades federativas.
 
 ## CAPÍTULO II — De los medios de impugnación
+
 
 ### Artículo 2
 . 1. Los juicios y recursos en materia electoral se deben sustanciar y resolver de acuerdo con las formas y procedimientos que establezca esta Ley. Se ajustarán a lo que dispone la Constitución Política de los Estados Unidos Mexicanos y la normativa electoral aplicable. En caso de duda, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. 2. Queda prohibido imponer, por analogía, y aún por mayoría de razón, sanción alguna que no esté decretada por una ley que sea exactamente aplicable a la conducta infractora de que se trate. 3. El orden jurídico electoral debe aplicarse conforme a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y favorecer en todo tiempo a la ciudadanía con la protección más amplia a sus derechos político-electorales. 4. En la resolución de conflictos internos de los partidos políticos, se debe tomar en cuenta el carácter de entidad de interés público, su libertad de decisión interna y el respeto irrestricto a su autodeterminación y autorganización. 5. El Tribunal Electoral del Poder Judicial de la Federación únicamente podrá ordenar la reposición del procedimiento, pero no nombrar directa o indirectamente a las personas que integrarán las dirigencias de los partidos políticos o la elección o designación de precandidaturas o candidaturas. 6. En todo asunto que sea competencia del Tribunal Electoral del Poder Judicial de la Federación o del Instituto Nacional Electoral debe tenerse en cuenta las definiciones previstas en la Ley General de Instituciones y Procedimientos Electorales. 7. En las resoluciones y sentencias que se emitan en los términos de esta Ley, debe utilizarse un lenguaje accesible y con perspectiva de género. En casos de grupos vulnerables o de atención prioritaria, además, debe formularse un formato propio para las personas que así lo requieran por sus condiciones específicas.
@@ -46,7 +49,9 @@ d) El juicio para dirimir los conflictos o diferencias laborales entre el Instit
 
 ## TÍTULO SEGUNDO — De las reglas comunes aplicables a los medios de impugnación
 
+
 ## CAPÍTULO I — De las prevenciones generales
+
 
 ### Artículo 6
 . 1. Las disposiciones del presente Título rigen para el trámite, sustanciación y resolución de todos los medios de impugnación, con excepción de las reglas particulares señaladas expresamente en el presente ordenamiento. 2. En ningún caso la interposición de los medios de impugnación previstos en esta Ley producirá efectos suspensivos sobre la resolución o el acto impugnado. 3. El Tribunal Electoral del Poder Judicial de la Federación, conforme al principio de definitividad y las disposiciones del presente ordenamiento, es competente para conocer de las violaciones a los derechos de votar y ser votado, hasta la fecha fijada constitucional o legalmente para la instalación de los órganos o la toma de posesión de las personas funcionarias electas. Debe resolver los asuntos de su competencia con plena jurisdicción en términos de esta Ley. 4. Las Salas del Tribunal Electoral del Poder Judicial de la Federación, sin perjuicio de lo dispuesto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, pueden resolver la inaplicación de leyes en materia electoral contrarias a dicha Constitución. Los efectos de las resoluciones se limitarán al caso concreto sobre el que verse el juicio, y no tendrán efectos generales. En tales casos la Sala Superior informará sobre la inaplicación a la Suprema Corte de Justicia de la Nación. 5. El Tribunal Electoral del Poder Judicial de la Federación implementará un sistema informático de justicia en línea a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar, instruir y notificar los medios de impugnación previstos en esta Ley, los cuales se podrán interponer y tramitar en todas sus etapas mediante dicho sistema, conforme a lo siguiente:
@@ -64,6 +69,7 @@ e) Las partes podrán adjuntar archivos electrónicos autenticados con su firma 
 
 ## CAPÍTULO II — De los plazos y de los términos
 
+
 ### Artículo 7
 . 1. Durante los procesos electorales todos los días y horas son hábiles. Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. 2. Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral federal o local, según corresponda, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
@@ -71,6 +77,7 @@ e) Las partes podrán adjuntar archivos electrónicos autenticados con su firma 
 . 1. Los medios de impugnación previstos en esta Ley deben presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento de la resolución o acto impugnado o que se hubiese notificado de conformidad con la ley aplicable.
 
 ## CAPÍTULO III — De los requisitos del medio de impugnación
+
 
 ### Artículo 9
 . 1. Los medios de impugnación deben presentarse por escrito ante la autoridad u órgano partidista señalado como responsable de la resolución o acto impugnado y debe cumplir con los requisitos siguientes:
@@ -124,6 +131,7 @@ b) En los asuntos de competencia de los órganos del Instituto Nacional Electora
 
 ## CAPÍTULO IV — De las partes
 
+
 ### Artículo 12
 . 1. Son partes en el procedimiento de los medios de impugnación las siguientes:
 
@@ -145,6 +153,7 @@ e) Los escritos deben estar firmados autógrafamente. 3. En el caso de coalicion
 
 ## CAPÍTULO V — De la legitimación y de la personería
 
+
 ### Artículo 13
 . 1. La presentación de los medios de impugnación corresponde a:
 
@@ -163,6 +172,7 @@ III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de 
 IV. Las personas candidatas independientes, a través de sus representantes legítimos, entendiéndose por estos a los que se encuentren acreditados ante el Instituto Nacional Electoral.
 
 ## CAPÍTULO VI — De las pruebas
+
 
 ### Artículo 14
 . 1. Son objeto de prueba los hechos controvertibles. No son objeto de prueba el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. 2. El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
@@ -201,6 +211,7 @@ d) Señalar el nombre del perito que se proponga y exhibir su acreditación téc
 Se entiende por prueba superveniente los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios y aquellos existentes desde entonces, pero que la persona promovente, la compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
 ## CAPÍTULO VII — Del trámite
+
 
 ### Artículo 17
 . 1. La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato, debe:
@@ -246,6 +257,7 @@ c) La firma del funcionario que lo rinde.
 
 ## CAPÍTULO VIII — De la sustanciación
 
+
 ### Artículo 19
 . 1. Recibida la documentación a que se refiere el artículo anterior, la Sala competente del Tribunal Electoral del Poder Judicial de la Federación realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
 
@@ -272,10 +284,12 @@ b) En el caso del recurso de revisión administrativa, el órgano competente del
 
 ## CAPÍTULO IX — De la acumulación
 
+
 ### Artículo 21
 . 1. Para la resolución pronta y expedita de los medios de impugnación previstos en esta Ley, los órganos competentes del Instituto Nacional Electoral o las Salas del Tribunal Electoral del Poder Judicial de la Federación pueden determinar su acumulación. 2. La acumulación puede decretarse al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
 
 ## CAPÍTULO X — De las resoluciones y de las sentencias
+
 
 ### Artículo 22
 . 1. Las resoluciones o sentencias que pronuncien, respectivamente, el Instituto Nacional Electoral o el Tribunal Electoral del Poder Judicial de la Federación, además de cumplir con lo dispuesto por el artículo 2, párrafo 7, de esta Ley, deben hacerlas constar por escrito, las cuales deben contener:
@@ -310,6 +324,7 @@ d) En las sesiones públicas solo podrán participar y hacer uso de la palabra l
 . 1. Las sentencias que dicten las Salas del Tribunal Electoral del Poder Judicial de la Federación serán definitivas e inatacables, a excepción de aquéllas que sean susceptibles de impugnarse conforme a lo dispuesto en esta Ley. 2. Las sentencias o resoluciones de fondo que recaigan a los medios de impugnación tendrán como efecto confirmar, modificar o revocar la resolución o acto impugnado. Cuando se trate de actos o resoluciones de los partidos políticos, los efectos serán solo para confirmar o revocar el acto o resolución impugnada.
 
 ## CAPÍTULO XI — De las notificaciones
+
 
 ### Artículo 26
 . 1. Las notificaciones a que se refiere el presente ordenamiento surten sus efectos el mismo día en que se practiquen. 2. Durante los procesos electorales, el Instituto Nacional Electoral y el Tribunal Electoral del Poder Judicial de la Federación podrán notificar sus actos, resoluciones o sentencias en cualquier día y hora. 3. Las notificaciones se podrán hacer personalmente, por estrados, por oficio o por correo certificado, según se requiera para la eficacia del acto, resolución o sentencia a notificar. Salvo disposición expresa de esta Ley, también podrán hacerse por medio electrónico. 4. Los acuerdos y resoluciones del Instituto Nacional Electoral y las Salas del Tribunal Electoral del Poder Judicial de la Federación serán notificadas de la siguiente manera:
@@ -351,6 +366,7 @@ c) Si el domicilio se encontrara en lugar distinto de los previstos en los incis
 . 1. El partido político cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales. 2. Los actos o resoluciones que, en términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Diario Oficial de la Federación o los diarios o periódicos de circulación nacional o local, o en lugares públicos o mediante la fijación de cédulas en los estrados de los órganos del Instituto Nacional Electoral y de las Salas del Tribunal Electoral del Poder Judicial de la Federación, no requieren de notificación personal, por lo que surten sus efectos al día siguiente de su publicación o fijación en los estrados.
 
 ## CAPÍTULO XII
+
 Del cumplimiento y ejecución de las resoluciones de las Salas del Tribunal Electoral del Poder Judicial de la Federación, de las medidas de apremio y de las correcciones disciplinarias
 
 ### Artículo 31
@@ -372,7 +388,9 @@ LIBRO SEGUNDO De los medios de impugnación en materia electoral federal
 
 ## TÍTULO PRIMERO — Del recurso de revisión administrativa
 
+
 ## CAPÍTULO I — De la procedencia
+
 
 ### Artículo 33
 . 1. El recurso de revisión administrativa procede para impugnar:
@@ -383,11 +401,13 @@ b) Los actos o resoluciones de los órganos del Instituto Nacional Electoral que
 
 ## CAPÍTULO II — De la competencia
 
+
 ### Artículo 34
 . 1. Corresponde al Consejo General del Instituto Nacional Electoral resolver el recurso de revisión administrativa. 2. Los recursos de revisión administrativa que se interpongan en contra de actos o resoluciones el titular de la Secretaría Ejecutiva serán resueltos por el Consejo General del Instituto Nacional Electoral.
 En estos casos, la persona titular de la Dirección Ejecutiva Jurídica y de lo Contencioso Electoral debe sustanciar el expediente y presentar el proyecto de resolución a dicho Consejo para que este resuelva en definitiva.
 
 ## CAPÍTULO III — De la sustanciación y de la resolución
+
 
 ### Artículo 35
 . 1. Una vez cumplidas las reglas de trámite a que se refiere el Capítulo VIII del Título Segundo del Libro Primero del presente ordenamiento, y recibido un recurso de revisión administrativa, la persona titular de la Dirección Ejecutiva Jurídica y de lo Contencioso Electoral le dará trámite en los siguientes términos:
@@ -412,7 +432,9 @@ g) Todos los recursos de revisión administrativa interpuestos dentro de los cin
 
 ## TÍTULO SEGUNDO — Del Juicio Electoral
 
+
 ## CAPÍTULO I — De la procedencia
+
 
 ### Artículo 36
 . 1. El juicio electoral tiene como objeto garantizar la legalidad de los actos y resoluciones definitivas, del Instituto Nacional Electoral y sus órganos, emitidas dentro y fuera de los procesos electorales y de los de participación ciudadana, así como la protección de los derechos político-electorales de la ciudadanía. 2. Son impugnables mediante el juicio electoral:
@@ -482,6 +504,7 @@ g) Se ejerza en su contra violencia política en los términos establecidos en l
 
 ## CAPÍTULO II — De la competencia
 
+
 ### Artículo 39
 . 1. La Sala Superior es competente para resolver el juicio electoral cuando se impugnen:
 
@@ -496,6 +519,7 @@ d) Actos o resoluciones relacionadas con las elecciones del titular de la Presid
 e) Resultados del cómputo y constancia de mayoría de la elección del titular de la Presidencia de los Estados Unidos Mexicanos que se resolverán en única instancia. 2. La Sala Superior puede asumir la competencia para resolver cualquier asunto, a petición de parte o de oficio, cuando exista riesgo de irreparabilidad de los actos impugnados. 3. Las Salas Regionales son competentes para conocer de la impugnación de los actos o resoluciones de los órganos locales o auxiliares del Instituto Nacional Electoral que queden dentro de su circunscripción territorial.
 
 ## CAPÍTULO III — De la legitimación y de la personería
+
 
 ### Artículo 40
 . 1. Pueden interponer el juicio electoral:
@@ -520,13 +544,16 @@ f) Los partidos políticos que se encuentren en período de prevención o en liq
 
 ## CAPÍTULO IV — De las sentencias
 
+
 ### Artículo 41
 . 1. En los juicios electorales relacionados con resultados electorales, las Salas del Tribunal Electoral del Poder Judicial de la Federación pueden declarar o revocar la nulidad de la votación emitida en una o varias casillas o de una elección. 2. El juicio electoral debe ser resuelto por la Sala competente del Tribunal Electoral del Poder Judicial de la Federación dentro de los doce días siguientes a aquel en que se admita el medio de impugnación. 3. En casos urgentes, la resolución debe dictarse con la oportunidad necesaria para hacer posible, en su caso, la reparación de la violación alegada. 4. Los juicios electorales derivados de los resultados de las elecciones de diputaciones y senadurías deben quedar resueltos el tres de agosto, y los derivados de la elección del titular de la Presidencia de los Estados Unidos Mexicanos, a más tardar el treinta y uno de agosto, ambos días del año de la elección.
 LIBRO TERCERO Del juicio de revisión constitucional electoral
 
 ## TÍTULO ÚNICO — De las reglas particulares
 
+
 ## CAPÍTULO I — De la procedencia
+
 
 ### Artículo 42
 . 1. El juicio de revisión constitucional electoral procede para impugnar:
@@ -539,10 +566,12 @@ c) Trate de determinaciones emitidas por los partidos políticos cuyo conocimien
 
 ## CAPÍTULO II — De la competencia
 
+
 ### Artículo 43
 . 1. La Sala Superior es competente para resolver el juicio de revisión constitucional electoral que se promuevan en contra de las resoluciones de las Salas Regionales. 2. Las Salas Regionales son competentes para resolver el juicio de revisión constitucional electoral que ejerza jurisdicción en el ámbito territorial en que se haya cometido la violación reclamada, en única instancia, cuando se trate de actos o resoluciones relativos a las elecciones de autoridades municipales, diputaciones locales y personas titulares de los órganos político-administrativos en las demarcaciones territoriales de Ciudad de México.
 
 ## CAPÍTULO III — De la legitimación y de la personería
+
 
 ### Artículo 44
 . 1. El juicio de revisión constitucional electoral solo puede ser promovido por quien tenga interés jurídico a través de sus representantes legítimos o por sí mismo y en forma individual, en los términos previstos por esta Ley. 2. La interposición del juicio de revisión constitucional electoral corresponde exclusivamente a los partidos políticos por conducto de:
@@ -558,7 +587,9 @@ LIBRO CUARTO Del juicio para dirimir los conflictos o diferencias laborales entr
 
 ## TÍTULO ÚNICO — De las reglas especiales
 
+
 ## CAPÍTULO I — De la competencia
+
 
 ### Artículo 45
 . 1. Son competentes para resolver el juicio para dirimir los conflictos o diferencias laborales de sus personas servidoras públicas del Instituto Nacional Electoral:
@@ -581,6 +612,7 @@ e) Principios generales de derecho, y
 f) Equidad.
 
 ## CAPÍTULO II — Del trámite, de la sustanciación y de la resolución
+
 
 ### Artículo 47
 . 1. La persona servidora pública del Instituto Nacional Electoral que hubiese sido sancionada o destituida de su cargo o que considere haber sido afectada en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante la Sala competente del Tribunal Electoral del Poder Judicial de la Federación, dentro de los quince días hábiles siguientes al que se le notifique la determinación del Instituto Nacional Electoral. 2. Es requisito de procedibilidad del juicio, que la persona servidora pública involucrada haya agotado, en tiempo y forma, las instancias previas que establezca la Ley General de Instituciones y Procedimientos Electorales y el Estatuto del Servicio Profesional Electoral, instrumentos que, de conformidad con el segundo párrafo del apartado A, de la Base V, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, norman las relaciones laborales del Instituto Nacional Electoral con sus personas servidoras públicas.
@@ -641,7 +673,9 @@ LIBRO QUINTO Del recuento de votos y de las nulidades
 
 ## TÍTULO ÚNICO — De las disposiciones aplicables
 
+
 ## CAPÍTULO I — De la procedencia
+
 
 ### Artículo 60
 . 1. El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones federales o locales de que conozcan las Salas del Tribunal Electoral del Poder Judicial de la Federación solamente procederá cuando:
@@ -651,6 +685,7 @@ a) Sin causa justificada, el nuevo escrutinio y cómputo no haya sido desahogado
 b) Las leyes electorales locales no prevean hipótesis para el nuevo escrutinio y cómputo por los órganos competentes o previéndolas se haya negado sin causa justificada el recuento. 2. Las Salas deben establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por las propias Salas sin necesidad de recontar los votos. 3. No procederá el recuento de votos en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
 
 ## CAPÍTULO II — De las nulidades
+
 
 ### Artículo 61
 . 1. Las nulidades establecidas en este Libro pueden afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputaciones de mayoría relativa; o la elección en una entidad federativa para la fórmula de senadurías por el principio de mayoría relativa o la asignación de primera minoría; o la elección para titular de la Presidencia de los Estados Unidos Mexicanos. 2. Para la impugnación de la elección de diputaciones o senadurías por el principio de representación proporcional, se estará a lo dispuesto por esta Ley. 3. Los efectos de las nulidades decretadas por el Tribunal Electoral del Poder Judicial de la Federación respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral uninominal o en una entidad federativa, o bien, en la elección del titular de la Presidencia de los Estados Unidos Mexicanos, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio electoral, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
@@ -665,6 +700,7 @@ b) Las leyes electorales locales no prevean hipótesis para el nuevo escrutinio 
 . 1. Los partidos políticos o personas candidatas no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
 ## CAPÍTULO III — De la nulidad de la votación recibida en casilla
+
 
 ### Artículo 65
 . 1. La votación recibida en una casilla será nula cuando se acredite cualesquiera de las siguientes causales:
@@ -692,6 +728,7 @@ j) Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 k) Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas únicas por elección en su apartado de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
 ## CAPÍTULO IV — De la nulidad de las elecciones federales
+
 
 ### Artículo 66
 . 1. Son causales de nulidad de una elección de diputación por mayoría relativa en un distrito electoral uninominal, cualesquiera de las siguientes:
@@ -725,54 +762,55 @@ c) Cuando la persona candidata ganadora de la elección resulte inelegible.
 
 ## CAPÍTULO V — De la nulidad de las elecciones federales y locales
 
+
 ### Artículo 70
 . 1. Las elecciones federales o locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos. 2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. 3. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada. 4. Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados. 5. Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral. 6. Para efectos de lo dispuesto en la Base VI, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de la ciudadanía y no de un ejercicio periodístico. 7. A fin de salvaguardar las libertades de expresión, información y de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral, publicada el 22 de noviembre de 1996 en el Diario Oficial de la Federación.
-**Tercero.** Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral, publicada el 22 de noviembre de 1996 en el Diario Oficial de la Federación.
+**Tercero.-** Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 Las disposiciones generales emitidas por el Instituto Nacional Electoral con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y el presente Decreto, hasta en tanto el Consejo General del Instituto Nacional Electoral emita aquéllas que deban sustituirlas.
-**Cuarto.** El presente Decreto no será aplicable en los procesos electorales del Estado de México y de Coahuila en 2023.
-**Quinto.** Los módulos de atención ciudadana del Registro Federal de Electores con que cuente el Instituto Nacional Electoral seguirán operando de forma normal. No deberá alterarse su cantidad con motivo de la restructuración administrativa.
-**Sexto.** Los procedimientos, medios de impugnación y actos jurídicos en general que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-**Séptimo.** Entre enero y abril de 2023, el Consejo General del Instituto Nacional Electoral identificará la normativa que se deberá adecuar conforme al presente Decreto, para garantizar que, antes del inicio del proceso electoral 2023-2024, haya emitido la necesaria para proveer el cumplimiento de lo dispuesto en las reformas contenidas.
-**Octavo.** Los acuerdos mediante los cuales el Instituto Nacional Electoral haya ejercido la facultad de atracción a la entrada en vigor del presente Decreto, conservarán su vigencia y objeto en sus términos y, en lo aplicable, se ejecutarán en la organización de los procesos electorales federal y locales de 20232024.
-**Noveno.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes.
-**Décimo.** A más tardar en abril de 2023, el Consejo General identificará las medidas, adecuaciones administrativas y el costo que implicará la reestructuración orgánica del Instituto para el cumplimiento de las disposiciones establecidas en el presente Decreto, y planificará su ejecución para que, a más tardar el 1 de agosto de 2023, se haya concluido. Los remanentes presupuestales que se generen con motivo de la presente disposición, deben ser reintegrados a la Tesorería de la Federación.
-**Décimo Primero.** El Instituto garantizará que la reestructuración orgánica que derive del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
+**Cuarto.-** El presente Decreto no será aplicable en los procesos electorales del Estado de México y de Coahuila en 2023.
+**Quinto.-** Los módulos de atención ciudadana del Registro Federal de Electores con que cuente el Instituto Nacional Electoral seguirán operando de forma normal. No deberá alterarse su cantidad con motivo de la restructuración administrativa.
+**Sexto.-** Los procedimientos, medios de impugnación y actos jurídicos en general que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+**Séptimo.-** Entre enero y abril de 2023, el Consejo General del Instituto Nacional Electoral identificará la normativa que se deberá adecuar conforme al presente Decreto, para garantizar que, antes del inicio del proceso electoral 2023-2024, haya emitido la necesaria para proveer el cumplimiento de lo dispuesto en las reformas contenidas.
+**Octavo.-** Los acuerdos mediante los cuales el Instituto Nacional Electoral haya ejercido la facultad de atracción a la entrada en vigor del presente Decreto, conservarán su vigencia y objeto en sus términos y, en lo aplicable, se ejecutarán en la organización de los procesos electorales federal y locales de 20232024.
+**Noveno.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes.
+**Décimo.-** A más tardar en abril de 2023, el Consejo General identificará las medidas, adecuaciones administrativas y el costo que implicará la reestructuración orgánica del Instituto para el cumplimiento de las disposiciones establecidas en el presente Decreto, y planificará su ejecución para que, a más tardar el 1 de agosto de 2023, se haya concluido. Los remanentes presupuestales que se generen con motivo de la presente disposición, deben ser reintegrados a la Tesorería de la Federación.
+**Décimo Primero.-** El Instituto garantizará que la reestructuración orgánica que derive del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
 Para cubrir el pago de posibles indemnizaciones, se destinarán los recursos que integran los fideicomisos de pasivo laboral y de infraestructura inmobiliaria del Instituto Nacional Electoral. Una vez ejecutada la totalidad de los pagos correspondientes, se extinguirán y liquidarán dichos fideicomisos; sus remanentes se entregarán a la Tesorería Federación.
-**Décimo Segundo.** Entre enero y mayo de 2023, el Consejo General tomará opinión de los órganos desconcentrados con relación al perfil y competencias idóneas de los vocales operativos, con el fin de que, a más tardar el 1o. de junio siguiente, se tenga concluido el diseño del proceso de evaluación de los actuales vocales de las Juntas Distritales para determinar de entre ellos, quiénes ocuparán el cargo de vocal operativo en las oficinas auxiliares que se instalarán con motivo de la entrada en vigor del presente Decreto.
+**Décimo Segundo.-** Entre enero y mayo de 2023, el Consejo General tomará opinión de los órganos desconcentrados con relación al perfil y competencias idóneas de los vocales operativos, con el fin de que, a más tardar el 1o. de junio siguiente, se tenga concluido el diseño del proceso de evaluación de los actuales vocales de las Juntas Distritales para determinar de entre ellos, quiénes ocuparán el cargo de vocal operativo en las oficinas auxiliares que se instalarán con motivo de la entrada en vigor del presente Decreto.
 El mismo mecanismo se seguirá respecto de las actuales Juntas Locales para diseñar el proceso de evaluación y determinar la integración de los órganos locales.
 A más tardar el 15 de agosto de 2023, deberán quedar instalados los órganos locales y las oficinas auxiliares de conformidad con el presente Decreto, para operar en los siguientes procesos electorales.
-**Décimo Tercero.** La Secretaría Ejecutiva revisará con las unidades administrativas, órganos delegacionales y subdelegacionales del Instituto las estructuras orgánicas no incluidas en la reestructuración prevista en el presente Decreto, con el fin de compactarlas al mínimo indispensable para su operación.
-**Décimo Cuarto.** A más tardar el 1o. de mayo de 2023, el Consejo General emitirá los lineamientos para la revisión, redimensionamiento y compactación de la estructura orgánica de las unidades administrativas del Instituto ordenada en el presente Decreto, así como de la Coordinación Nacional de Comunicación Social, la Coordinación de Asuntos Internacionales, la Dirección del Secretariado y la Unidad Técnica de Servicios de Informática.
+**Décimo Tercero.-** La Secretaría Ejecutiva revisará con las unidades administrativas, órganos delegacionales y subdelegacionales del Instituto las estructuras orgánicas no incluidas en la reestructuración prevista en el presente Decreto, con el fin de compactarlas al mínimo indispensable para su operación.
+**Décimo Cuarto.-** A más tardar el 1o. de mayo de 2023, el Consejo General emitirá los lineamientos para la revisión, redimensionamiento y compactación de la estructura orgánica de las unidades administrativas del Instituto ordenada en el presente Decreto, así como de la Coordinación Nacional de Comunicación Social, la Coordinación de Asuntos Internacionales, la Dirección del Secretariado y la Unidad Técnica de Servicios de Informática.
 Los lineamientos deberán establecer la metodología y políticas para cumplir tal fin, así como criterios técnicos para garantizar la debida alineación de las estructuras orgánicas y ocupacionales con las atribuciones conferidas en los ordenamientos jurídicos aplicables; evitar la duplicidad de funciones con otras unidades administrativas; establecer y justificar la descripción y perfiles de puestos; ejecutar una efectiva valuación de puestos; propiciar el equilibrio en los tramos de control, y evitar saltos jerárquicos en la línea de mando.
 Las propuestas que se realicen para cada una de las unidades administrativas serán validadas técnicamente por el Órgano Interno de Control.
-**Décimo Quinto.** La Dirección Ejecutiva de Administración auxiliará a la Comisión de Administración para definir y realizar, a más tardar el 1o. de agosto de 2023, los cambios en las asignaciones presupuestales, adscripción de personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes utilizados por las unidades administrativas sujetas a la reestructuración señalada en el presente Decreto.
-**Décimo Sexto.** En la sesión ordinaria del mes de mayo de 2023, el Consejo General del Instituto emitirá los nombramientos de titulares de Direcciones Ejecutivas conforme a la reestructuración ordenada en el presente Decreto.
-**Décimo Séptimo.** Dada la modificación de las facultades de Secretaría Ejecutiva con la entrada en vigor del presente Decreto, la persona titular de dicho cargo cesará en sus funciones a partir de su publicación.
+**Décimo Quinto.-** La Dirección Ejecutiva de Administración auxiliará a la Comisión de Administración para definir y realizar, a más tardar el 1o. de agosto de 2023, los cambios en las asignaciones presupuestales, adscripción de personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes utilizados por las unidades administrativas sujetas a la reestructuración señalada en el presente Decreto.
+**Décimo Sexto.-** En la sesión ordinaria del mes de mayo de 2023, el Consejo General del Instituto emitirá los nombramientos de titulares de Direcciones Ejecutivas conforme a la reestructuración ordenada en el presente Decreto.
+**Décimo Séptimo.-** Dada la modificación de las facultades de Secretaría Ejecutiva con la entrada en vigor del presente Decreto, la persona titular de dicho cargo cesará en sus funciones a partir de su publicación.
 De inmediato, el Consejo General nombrará de entre los directores ejecutivos, a un encargado de despacho. En la sesión ordinaria del mes de mayo de 2023, designará a la persona titular de la Secretaría Ejecutiva para el periodo 2023-2029 que cumpla los requisitos correspondientes.
-**Décimo Octavo.** El Instituto expedirá un nuevo Estatuto del Servicio Profesional Electoral Nacional a más tardar el 30 de julio de 2023, con el fin de unificar sus dos sistemas: del Instituto y de los organismos públicos locales.
-**Décimo Noveno.** Los Congresos de los Estados realizarán las adecuaciones necesarias a su legislación secundaria conforme al presente Decreto antes de noventa días del inicio del proceso electoral de 2023-2024.
-**Vigésimo.** Los Organismos Públicos Locales realizarán las adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo 99, párrafos 3 y 4 de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.
-**Vigésimo Primero.** Se ratifica a los actuales Consejeros Electorales del Consejo Generales y al titular del Órgano Interno de Control del Instituto Nacional Electoral para seguir en funciones hasta en tanto concluyan su encargo para el periodo en que fueron designados por la Cámara de Diputados.
-**Vigésimo Segundo.** El Congreso de la Unión creará una comisión de estudio para la implementación del voto electrónico, con la participación del Instituto Nacional Electoral y el Consejo Nacional de Ciencia y Tecnología para diseñar de manera gradual, cierta, segura y austera, un sistema de votación que utilice las tecnologías de la información y telecomunicaciones para facilitar la emisión del voto, con certeza absoluta y seguridad comprobada, en resguardo del ejercicio del voto libre y secreto. En un lapso máximo de cinco años deberá presentar al Congreso sus resultados. Mientras tanto, el Instituto Nacional Electoral y los Organismos Públicos Locales se abstendrán de destinar recursos para el diseño e implementación de sistemas de votación que ajenos a los resultados de la Comisión señalada en el presente transitorio.
-**Vigésimo Tercero.** A más tardar en la sesión ordinaria de mayo de 2023, el Consejo General del Instituto Nacional Electoral emitirá un reglamento único que regule el funcionamiento de su estructura orgánica, así como la organización y el funcionamiento de las comisiones del Consejo General y los órganos del Instituto.
-**Vigésimo Cuarto.** Los “libros de registro” a que se refieren la Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos podrán convertirse en sistemas informáticos que permitan garantizar la generación de bases de datos oficiales sobre los asuntos mandatados por dichos ordenamientos.
-**Vigésimo Quinto.** El Instituto Nacional Electoral, a partir de la entrada en vigor del presente Decreto, realizará un nuevo cálculo y revisión integral de los tabuladores salariales de su personal y de los organismos públicos locales, para ser aplicados dentro de los 180 días siguientes a la fecha referida, con el fin de adecuar las remuneraciones a los topes establecidos en el artículo 127 constitucional. En ningún caso, se considerará que el personal de Instituto Nacional Electoral y organismos públicos locales realizan un trabajo especializado o técnico calificado que justifique una excepción al límite establecido en la fracción II del párrafo segundo de la disposición constitucional señalada.
-**Vigésimo Sexto.** El Consejo General del Instituto Nacional Electoral, a propuesta de la Dirección Ejecutiva de Administración, deberá emitir lineamientos que regulen las funciones de su personal de la rama administrativa, conforme a las disposiciones contenidas en el presente Decreto.
-**Vigésimo Séptimo.** La Comisión de Administración y el Pleno de la Sala Superior emitirán los acuerdos necesarios para garantizar que la entrada en vigor del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
-**Vigésimo Octavo.** Las normas establecidas en los artículos 11 bis, párrafo 1, de la Ley General de instituciones y Procedimientos Electorales y 44, párrafo 2, de la Ley General de Partidos Políticos serán vigentes, en tanto no se homogenicen las fechas de elección de las personas titulares de los poderes ejecutivos de las entidades federativas para garantizar que la elección paritaria de dichos ejecutivos en una sola circunscripción.
-**Vigésimo Noveno.** Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
-**Trigésimo.** Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
+**Décimo Octavo.-** El Instituto expedirá un nuevo Estatuto del Servicio Profesional Electoral Nacional a más tardar el 30 de julio de 2023, con el fin de unificar sus dos sistemas: del Instituto y de los organismos públicos locales.
+**Décimo Noveno.-** Los Congresos de los Estados realizarán las adecuaciones necesarias a su legislación secundaria conforme al presente Decreto antes de noventa días del inicio del proceso electoral de 2023-2024.
+**Vigésimo.-** Los Organismos Públicos Locales realizarán las adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo 99, párrafos 3 y 4 de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.
+**Vigésimo Primero.-** Se ratifica a los actuales Consejeros Electorales del Consejo Generales y al titular del Órgano Interno de Control del Instituto Nacional Electoral para seguir en funciones hasta en tanto concluyan su encargo para el periodo en que fueron designados por la Cámara de Diputados.
+**Vigésimo Segundo.-** El Congreso de la Unión creará una comisión de estudio para la implementación del voto electrónico, con la participación del Instituto Nacional Electoral y el Consejo Nacional de Ciencia y Tecnología para diseñar de manera gradual, cierta, segura y austera, un sistema de votación que utilice las tecnologías de la información y telecomunicaciones para facilitar la emisión del voto, con certeza absoluta y seguridad comprobada, en resguardo del ejercicio del voto libre y secreto. En un lapso máximo de cinco años deberá presentar al Congreso sus resultados. Mientras tanto, el Instituto Nacional Electoral y los Organismos Públicos Locales se abstendrán de destinar recursos para el diseño e implementación de sistemas de votación que ajenos a los resultados de la Comisión señalada en el presente transitorio.
+**Vigésimo Tercero.-** A más tardar en la sesión ordinaria de mayo de 2023, el Consejo General del Instituto Nacional Electoral emitirá un reglamento único que regule el funcionamiento de su estructura orgánica, así como la organización y el funcionamiento de las comisiones del Consejo General y los órganos del Instituto.
+**Vigésimo Cuarto.-** Los “libros de registro” a que se refieren la Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos podrán convertirse en sistemas informáticos que permitan garantizar la generación de bases de datos oficiales sobre los asuntos mandatados por dichos ordenamientos.
+**Vigésimo Quinto.-** El Instituto Nacional Electoral, a partir de la entrada en vigor del presente Decreto, realizará un nuevo cálculo y revisión integral de los tabuladores salariales de su personal y de los organismos públicos locales, para ser aplicados dentro de los 180 días siguientes a la fecha referida, con el fin de adecuar las remuneraciones a los topes establecidos en el artículo 127 constitucional. En ningún caso, se considerará que el personal de Instituto Nacional Electoral y organismos públicos locales realizan un trabajo especializado o técnico calificado que justifique una excepción al límite establecido en la fracción II del párrafo segundo de la disposición constitucional señalada.
+**Vigésimo Sexto.-** El Consejo General del Instituto Nacional Electoral, a propuesta de la Dirección Ejecutiva de Administración, deberá emitir lineamientos que regulen las funciones de su personal de la rama administrativa, conforme a las disposiciones contenidas en el presente Decreto.
+**Vigésimo Séptimo.-** La Comisión de Administración y el Pleno de la Sala Superior emitirán los acuerdos necesarios para garantizar que la entrada en vigor del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
+**Vigésimo Octavo.-** Las normas establecidas en los artículos 11 bis, párrafo 1, de la Ley General de instituciones y Procedimientos Electorales y 44, párrafo 2, de la Ley General de Partidos Políticos serán vigentes, en tanto no se homogenicen las fechas de elección de las personas titulares de los poderes ejecutivos de las entidades federativas para garantizar que la elección paritaria de dichos ejecutivos en una sola circunscripción.
+**Vigésimo Noveno.-** Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
+**Trigésimo.-** Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
 Ciudad de México, a 22 de febrero de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de marzo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.] RESOLUTIVOS DE SENTENCIA EN ACCIÓN DE INCONSTITUCIONALIDAD PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 71/2023 y sus acumuladas 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 y 93/2023, promovidas por los Partidos Políticos Movimiento Ciudadano, de la Revolución Democrática y Acción Nacional, diversos diputados y senadores del Congreso de la Unión, el Partido Político Revolucionario Institucional y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 Notificados al Congreso de la Unión para efectos legales el 23 de junio de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/252/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintidós de junio de dos mil veintitrés, resolvió la acción de inconstitucionalidad 71/2023 y sus acumuladas 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 y 93/2023, promovidas por los Partidos Políticos Movimiento Ciudadano, de la Revolución Democrática y Acción Nacional, diversos diputados y senadores del Congreso de la Unión, el Partido Político Revolucionario Institucional y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
-**SEGUNDO.** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación y se expide la Ley General de los Medios de Impugnación en Materia Electoral, publicado en el Diario Oficial de la Federación el dos de marzo de dos mil veintitrés, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados VI y VII de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal, al Instituto Nacional Electoral, al Tribunal Electoral del Poder Judicial de la Federación y a la Fiscalía General de la República.
+**SEGUNDO.-** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación y se expide la Ley General de los Medios de Impugnación en Materia Electoral, publicado en el Diario Oficial de la Federación el dos de marzo de dos mil veintitrés, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados VI y VII de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal, al Instituto Nacional Electoral, al Tribunal Electoral del Poder Judicial de la Federación y a la Fiscalía General de la República.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 22 de junio de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el viernes 23 de junio de 2023 a las 13:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -784,9 +822,9 @@ VII. EFECTOS. 200. En términos de los artículos 41, fracción IV, y 73 de la L
 Aunque en el presente caso esta Suprema Corte estimó innecesario pronunciarse sobre el tema porque ya había determinado declarar la invalidez del decreto impugnado, los accionantes expusieron múltiples conceptos de invalidez en ese sentido sobre todo en relación con las reformas a la regulación de acciones afirmativas. 206. Fecha a partir de la cual surtirá efectos la declaratoria general de invalidez. De conformidad con el artículo 45 de la Ley Reglamentaria, esta declaratoria de inconstitucionalidad surtirá sus efectos a partir de la notificación de los puntos resolutivos de la presente sentencia al Congreso de la Unión. 207. Notificaciones. Por último, esta resolución deberá ser notificada, además de a las partes, al Instituto Nacional Electoral, al Tribunal Electoral del Poder Judicial de la Federación y a la Fiscalía General de la República. 208. Estas consideraciones son obligatorias al haberse aprobado por mayoría de ocho votos.
 
 VIII. DECISIÓN. 209. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
-**SEGUNDO.** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación, y se expide la Ley General de los Medios de Impugnación en Materia Electoral, publicado en el Diario Oficial de la Federación el dos de marzo de dos mil veintitrés, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados VI y VII de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+**SEGUNDO.-** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación, y se expide la Ley General de los Medios de Impugnación en Materia Electoral, publicado en el Diario Oficial de la Federación el dos de marzo de dos mil veintitrés, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados VI y VII de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo primero:

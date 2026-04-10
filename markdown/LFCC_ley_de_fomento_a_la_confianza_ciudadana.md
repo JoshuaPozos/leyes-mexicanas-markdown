@@ -15,6 +15,7 @@ Se expide la Ley de Fomento a la Confianza Ciudadana
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general, se aplicará sin menoscabo de los compromisos adoptados en los organismos, acuerdos, convenios y tratados internacionales en los que los Estados Unidos Mexicanos sea parte y, tiene como objeto establecer las bases para la instrumentación de acciones y programas que las dependencias de la Administración Pública Federal deberán implementar, de acuerdo con sus atribuciones, para fomentar la confianza ciudadana, otorgando beneficios y facilidades administrativas relacionadas con la actividad económica que desempeñan las personas físicas y morales.
 Lo dispuesto en esta Ley no será aplicable tratándose de las materias fiscal, aduanera, del trabajo, de seguridad social, de comercio exterior y respecto a las operaciones con recursos de procedencia ilícita en términos de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita y a las auditorías y visitas, instruidas por la Secretaría de Hacienda y Crédito Público, a que se refiere el artículo 63, en relación con el artículo 37, Apartado B, fracción VII de la Ley de Ingresos sobre Hidrocarburos.
@@ -39,6 +40,7 @@ V. Reglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y
 VI. Secretaría: Secretaría de Economía.
 
 ## CAPÍTULO II — DE LA INTEGRACIÓN, OPERACIÓN Y OBJETO DEL PADRÓN ÚNICO DE FOMENTO A LA
+
 CONFIANZA CIUDADANA
 
 ### Artículo 4
@@ -76,6 +78,7 @@ Las personas podrán solicitar la lista de beneficios administrativos, de manera
 . La consulta al Padrón se podrá realizar de manera pública a través del portal de Internet que la Secretaría, por conducto de la Comisión, desarrolle para tal efecto. Ésta protegerá los datos personales, de acuerdo con la legislación vigente en la materia.
 
 ## CAPÍTULO III — DE LA COORDINACIÓN INSTITUCIONAL PARA EL FOMENTO DE LA CONFIANZA
+
 CIUDADANA
 
 ### Artículo 10
@@ -116,10 +119,12 @@ XII. Las demás que le confieran la presente Ley y cualquier disposición juríd
 
 ## CAPÍTULO IV — DE LOS RECONOCIMIENTOS
 
+
 ### Artículo 14
 . Aquellas personas seleccionadas de conformidad con la fracción IX del artículo 11 de esta Ley, que hayan sido sujetas a verificación y cuyo resultado corrobore el cumplimiento de sus obligaciones regulatorias y fiscales correspondientes, recibirán del Estado, por conducto del titular del Poder Ejecutivo Federal, un reconocimiento que así lo establezca.
 
 ## CAPÍTULO V — DE LAS SANCIONES
+
 
 ### Artículo 15
 . La persona que proporcione al Padrón información que no sea fidedigna, será sancionada. Las sanciones previstas en este Capítulo se aplicarán, sin perjuicio de cualquier otra que corresponda, en términos de las disposiciones jurídicas aplicables. Asimismo, serán sancionadas, en términos de la presente Ley, las personas beneficiarias que sean denunciadas por incurrir en malas prácticas comerciales o por funcionamiento irregular y que resulten responsables ante las autoridades competentes, mediante resolución firme.
@@ -135,7 +140,7 @@ Adicionalmente, las personas beneficiarias que pierdan su inscripción en el Pad
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a las dependencias y entidades de la Administración Pública Federal, para el ejercicio fiscal de que se trate.
-**Tercero.** Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a las dependencias y entidades de la Administración Pública Federal, para el ejercicio fiscal de que se trate.
+**Tercero.-** Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
 Ciudad de México, a 3 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

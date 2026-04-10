@@ -13,7 +13,8 @@ LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVI
 ### Artículo 1o
 .- Se crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura que será manejado en fideicomiso por el Banco de México, S. A., de conformidad con las normas que se establecen en la presente ley, con las reglas de operación correspondientes y con el contrato de fideicomiso que celebre la Secretaría de Hacienda y Crédito Público con el Fiduciario.
 Fe de erratas al párrafo DOF 04-03-1955. Reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco de México) La canalización y el uso de los recursos del Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, para el desarrollo del sector agropecuario y forestal, se harán a través de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito y de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público. Al efecto, las tasas de interés, primas de garantías y demás requisitos que se aplicarán a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los demás intermediarios financieros no bancarios que operen con el Fondo, deberán ser aprobados por el Comité Técnico, considerando el riesgo financiero y calidad crediticia que representen los intermediarios financieros y sus acreditados finales.
-Párrafo adicionado DOF 12-05-2005 Los productores que se beneficien con los recursos del Fondo, recibirán financiamiento en condiciones adecuadas para el desarrollo del sector.
+Párrafo adicionado DOF 12-05-2005
+Los productores que se beneficien con los recursos del Fondo, recibirán financiamiento en condiciones adecuadas para el desarrollo del sector.
 Párrafo adicionado DOF 12-05-2005
 
 ### Artículo 2o
@@ -28,8 +29,12 @@ VI.- Con el producto de las primas que provengan del servicio de garantía que e
 ### Artículo 3o
 .- Dentro de las limitaciones establecidas en la presente ley y las que se establezcan en las reglas de operación respectivas y en el contrato de fideicomiso, el Fiduciario podrá realizar las siguientes operaciones:
 I.- Garantizar a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, en la recuperación de los préstamos que se otorguen a los productores agropecuarios y forestales;
-Fracción reformada DOF 12-05-2005 II.- Descontar en casos necesarios a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, títulos de crédito provenientes de préstamos otorgados a los productores agropecuarios y forestales;
-Fracción reformada DOF 12-05-2005 III.- Abrir créditos y otorgar préstamos a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, con objeto de que éstas a su vez abran créditos a los productores agropecuarios y forestales, y Fracción reformada DOF 12-05-2005 IV.- Realizar las demás que se fijen en las reglas de operación, siempre que sean por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los intermediarios financieros no bancarios que operen con el Fondo.
+Fracción reformada DOF 12-05-2005
+II.- Descontar en casos necesarios a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, títulos de crédito provenientes de préstamos otorgados a los productores agropecuarios y forestales;
+Fracción reformada DOF 12-05-2005
+III.- Abrir créditos y otorgar préstamos a las instituciones de banca múltiple, a las uniones de crédito, a los almacenes generales de depósito y a los intermediarios financieros no bancarios que operen con el Fondo, con objeto de que éstas a su vez abran créditos a los productores agropecuarios y forestales, y
+Fracción reformada DOF 12-05-2005
+IV.- Realizar las demás que se fijen en las reglas de operación, siempre que sean por conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los intermediarios financieros no bancarios que operen con el Fondo.
 Fracción reformada DOF 12-05-2005
 
 ### Artículo 4o
@@ -56,7 +61,8 @@ Párrafo reformado DOF 12-05-2005
 
 ### Artículo 8o
 .- Se crea un Comité Técnico integrado por nueve miembros nombrados respectivamente por la Secretaría de Hacienda y Crédito Público, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, el Banco de México, S.A., el Banco Nacional de Comercio Exterior, la Asociación de Banqueros de México, el Consorcio del Seguro Agrícola y un representante de los ejidatarios, otro de los pequeños agricultores y uno de los ganaderos que serán designados por el Ejecutivo. El Comité tendrá las siguientes facultades:
-Párrafo reformado DOF 09-04-2012 I.- Aprobar las operaciones que se realicen con cargo al Fondo, en los términos de esta ley, de las reglas de operación y del contrato de fideicomiso respectivos.
+Párrafo reformado DOF 09-04-2012
+I.- Aprobar las operaciones que se realicen con cargo al Fondo, en los términos de esta ley, de las reglas de operación y del contrato de fideicomiso respectivos.
 II.- Aprobar el presupuesto anual de gastos que presente el fiduciario.
 III.- Fijar las primas que deban cobrarse por el otorgamiento de garantías, así como los intereses para las demás operaciones a que se refiere el artículo 3o.
 IV.- Las que se le atribuyan en esta ley, en las reglas de operación y en el contrato de fideicomiso respectivo.
@@ -119,10 +125,10 @@ Publicada en el Diario Oficial de la Federación el 23 de diciembre de 1993
 
 **PRIMERO.-** Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
 La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
-**SEGUNDO.** A DECIMO SEPTIMO.- ..........
+**SEGUNDO.-** A DECIMO SEPTIMO.- ..........
 DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y
-**décimo segundo.** transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+**décimo segundo.-** transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
 Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
 México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
@@ -144,6 +150,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

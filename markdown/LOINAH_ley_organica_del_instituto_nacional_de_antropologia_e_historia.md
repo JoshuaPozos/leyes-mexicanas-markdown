@@ -9,7 +9,8 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 3 de febrero de 19
 LAZARO CARDENAS, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme la siguiente L E Y : "El Congreso de los Estados Unidos Mexicanos, decreta:
 LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA ARTICULO 1o.- El Instituto Nacional de Antropología e Historia tiene personalidad jurídica propia y depende de la Secretaría de Cultura.
-Artículo reformado DOF 17-12-2015 ARTICULO 2o. Son objetivos generales del Instituto Nacional de Antropología e Historia la investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de las materias y actividades que son de la competencia del Instituto.
+Artículo reformado DOF 17-12-2015
+ARTICULO 2o. Son objetivos generales del Instituto Nacional de Antropología e Historia la investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de las materias y actividades que son de la competencia del Instituto.
 Para cumplir con sus objetivos, el Instituto Nacional de Antropología e Historia tendrá las siguientes funciones:
 
 I. En los términos del artículo 3o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, aplicar las leyes, reglamentos, decretos y acuerdos en las materias de su competencia.
@@ -55,7 +56,8 @@ XIX. Autorizar, controlar, vigilar y evaluar, en los términos de la legislació
 
 XX. Realizar de acuerdo con la Secretaría de Relaciones Exteriores, los trámites necesarios para obtener la devolución de los bienes arqueológicos o históricos que estén en el extranjero.
 XXI.- Las demás que las leyes de la República le confieran.
-Artículo reformado DOF 13-01-1986 ARTICULO 3o. El Instituto, capaz de adquirir y administrar bienes, formará su patrimonio con los que se enumeran:
+Artículo reformado DOF 13-01-1986
+ARTICULO 3o. El Instituto, capaz de adquirir y administrar bienes, formará su patrimonio con los que se enumeran:
 
 I. Los Inmuebles que para sus funciones o servicios le hayan aportado o le aporten los Gobiernos Federal, Estatales y Municipales.
 
@@ -72,8 +74,10 @@ VI. Los ingresos provenientes de la venta de textos, publicaciones, grabaciones,
 VII. Los fondos, productos, regalías, cuotas por concesiones, autorizaciones e inscripciones.
 
 VIII. Los demás ingresos que obtenga por cualquier título legal incluidos los servicios al público.
-Artículo reformado DOF 13-01-1986 ARTICULO 4o. Los bienes que el Instituto adquiera de instituciones y personas particulares, o de gobiernos extranjeros, estarán exentos de toda clase de contribuciones, impuestos o derechos.
-Artículo reformado DOF 13-01-1986 ARTICULO 5o. Para cumplir con sus objetivos, el Instituto se organiza:
+Artículo reformado DOF 13-01-1986
+ARTICULO 4o. Los bienes que el Instituto adquiera de instituciones y personas particulares, o de gobiernos extranjeros, estarán exentos de toda clase de contribuciones, impuestos o derechos.
+Artículo reformado DOF 13-01-1986
+ARTICULO 5o. Para cumplir con sus objetivos, el Instituto se organiza:
 
 I. De acuerdo con sus funciones, en las áreas de:
 
@@ -88,9 +92,11 @@ d) Docencia y Formación de recursos humanos en los campos de competencia del In
 II. De acuerdo con su estructura territorial, en Centros o Delegaciones Regionales; y
 
 III. De acuerdo con su estructura administrativa, en las unidades que el reglamento de esta Ley establezca para el mejor desempeño de sus funciones.
-Artículo reformado DOF 13-01-1986 ARTICULO 6o.- El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Cultura.
+Artículo reformado DOF 13-01-1986
+ARTICULO 6o.- El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Cultura.
 Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento, estar en pleno goce y ejercicio de sus derechos civiles y políticos, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
-Artículo reformado DOF 13-01-1986, 23-01-1998, 17-12-2015 ARTICULO 7o. Son facultades y obligaciones del Director General:
+Artículo reformado DOF 13-01-1986, 23-01-1998, 17-12-2015
+ARTICULO 7o. Son facultades y obligaciones del Director General:
 
 I. Representar legalmente al Instituto.
 
@@ -118,19 +124,33 @@ Fracción reformada DOF 17-12-2015
 XI. Celebrar convenios con personas físicas o jurídicas y con organismos públicos o privados, nacionales, internacionales o extranjeros.
 
 XII. Las demás que le confieran otras leyes, los reglamentos y el Secretario de Cultura.
-Fracción reformada DOF 17-12-2015 Artículo reformado DOF 13-01-1986 ARTICULO 8o. El Instituto contará con un Consejo General Consultivo que será presidido por el Director General y que estará integrado a partir de la representación de los Consejos de Area. Su conformación y funcionamiento serán regulados por el reglamento de esta ley.
-Artículo reformado DOF 13-01-1986 ARTICULO 9o. Las condiciones de trabajo vigentes de personal del Instituto se conservan en sus términos y seguirán regulándose por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
-Artículo reformado DOF 13-01-1986 ARTICULO 10.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 11.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 12.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 13.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 14.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 15.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 16.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 17.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 18.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 19.- (Se deroga).
-Artículo derogado DOF 13-01-1986 ARTICULO 20.- (Se deroga).
+Fracción reformada DOF 17-12-2015
+Artículo reformado DOF 13-01-1986
+ARTICULO 8o. El Instituto contará con un Consejo General Consultivo que será presidido por el Director General y que estará integrado a partir de la representación de los Consejos de Area. Su conformación y funcionamiento serán regulados por el reglamento de esta ley.
+Artículo reformado DOF 13-01-1986
+ARTICULO 9o. Las condiciones de trabajo vigentes de personal del Instituto se conservan en sus términos y seguirán regulándose por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 constitucional.
+Artículo reformado DOF 13-01-1986
+ARTICULO 10.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 11.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 12.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 13.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 14.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 15.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 16.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 17.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 18.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 19.- (Se deroga).
+Artículo derogado DOF 13-01-1986
+ARTICULO 20.- (Se deroga).
 Artículo derogado DOF 13-01-1986
 
 ## TRANSITORIO
@@ -161,18 +181,18 @@ Se REFORMAN los artículos 1o.; 2o., segundo párrafo, fracciones V, XI y XVII; 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

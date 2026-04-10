@@ -16,6 +16,7 @@ LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDA
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- La presente Ley es de orden público y tiene por objeto reglamentar lo dispuesto en los artículos 25 y 26, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, para la promoción permanente de la competitividad, el incremento continuo de la productividad, y la implementación de una política nacional de fomento económico que impulse el desarrollo industrial que incluya vertientes sectoriales y regionales.
 
@@ -90,6 +91,7 @@ XV. Secretaría: la Secretaría de Hacienda y Crédito Público.
 
 ## CAPÍTULO II — DE LA POLÍTICA NACIONAL DE FOMENTO ECONÓMICO
 
+
 ### Artículo 5
 .- Corresponde al Estado la rectoría del desarrollo nacional, y la elaboración y conducción de la política nacional de fomento económico de conformidad con lo dispuesto por el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y acorde con los objetivos de la presente Ley.
 La política nacional de fomento económico contará con un Programa Especial para la Productividad y la Competitividad, el cual se elaborará en términos de lo previsto en la presente Ley, la Ley de Planeación, el Plan Nacional de Desarrollo y demás disposiciones aplicables.
@@ -151,6 +153,7 @@ VI. Indicadores de desempeño, con sus respectivas metas a lograr en el periodo 
 
 ## CAPÍTULO III — DEL COMITÉ NACIONAL DE PRODUCTIVIDAD
 
+
 ### Artículo 9
 .- El Comité Nacional de Productividad funcionará como órgano consultivo y auxiliar del Ejecutivo Federal y de la planta productiva, para la concertación de acuerdos, formulación y seguimiento de la política nacional de fomento económico y del Programa Especial para la Productividad y la Competitividad.
 
@@ -195,7 +198,9 @@ XIV. Promover una relación estrecha y constante entre las instituciones de educ
 XV. Aprobar sus lineamientos de operación, así como sus programas de trabajo;
 
 XVI. Promover la certificación de competencias de las personas trabajadoras;
-Fracción reformada DOF 17-04-2024 XVI Bis. Impulsar la participación laboral de las mujeres y personas jóvenes, en términos del Programa Especial para la Productividad y la Competitividad, y Fracción adicionada DOF 17-04-2024
+Fracción reformada DOF 17-04-2024
+XVI Bis. Impulsar la participación laboral de las mujeres y personas jóvenes, en términos del Programa Especial para la Productividad y la Competitividad, y
+Fracción adicionada DOF 17-04-2024
 
 XVII. Las demás que le confieran las disposiciones jurídicas aplicables.
 
@@ -215,8 +220,10 @@ IV. La persona titular de la Secretaría de Educación Pública;
 Fracción reformada DOF 17-04-2024
 
 V. La persona titular de la Secretaría del Trabajo y Previsión Social;
-Fracción reformada DOF 17-04-2024 V Bis. La persona titular del Instituto Mexicano de la Juventud;
-Fracción adicionada DOF 17-04-2024 V Ter. La persona titular del Instituto Nacional de las Mujeres;
+Fracción reformada DOF 17-04-2024
+V Bis. La persona titular del Instituto Mexicano de la Juventud;
+Fracción adicionada DOF 17-04-2024
+V Ter. La persona titular del Instituto Nacional de las Mujeres;
 Fracción adicionada DOF 17-04-2024
 
 VI. La persona titular de la Dirección General del Consejo Nacional de Humanidades, Ciencias y Tecnologías;
@@ -228,8 +235,10 @@ VIII. Representantes de organizaciones sindicales de trabajadores, y
 
 IX. Representantes de instituciones académicas y de capacitación para el trabajo.
 La persona Titular del Ejecutivo Federal fijará las bases para determinar la forma de designación de las personas integrantes del Comité a que se refieren las fracciones VII a IX, sujetándose a los principios de representatividad, paridad de género e inclusión en su integración.
-Párrafo reformado DOF 17-04-2024 ECONOMÍA NACIONAL Las personas integrantes titulares podrán designar a sus respectivos suplentes. En el caso de las fracciones I a VI, el suplente deberá contar con nivel jerárquico inmediato inferior al de la persona titular.
-Párrafo reformado DOF 17-04-2024 La participación de las personas integrantes en el Comité será honorífica.
+Párrafo reformado DOF 17-04-2024
+ECONOMÍA NACIONAL Las personas integrantes titulares podrán designar a sus respectivos suplentes. En el caso de las fracciones I a VI, el suplente deberá contar con nivel jerárquico inmediato inferior al de la persona titular.
+Párrafo reformado DOF 17-04-2024
+La participación de las personas integrantes en el Comité será honorífica.
 Párrafo reformado DOF 17-04-2024
 
 ### Artículo 13
@@ -238,6 +247,7 @@ El Comité sesionará válidamente con la asistencia de la mayoría de sus integ
 En lo no previsto en la presente Ley, la organización y funcionamiento del Comité se regularán conforme lo establezca el Titular del Ejecutivo Federal.
 
 ## CAPÍTULO IV — DE LA CONCERTACIÓN, COORDINACIÓN Y RECOMENDACIONES DEL COMITÉ
+
 NACIONAL DE PRODUCTIVIDAD
 
 ### Artículo 14
@@ -248,7 +258,8 @@ I. Las dependencias y entidades, de conformidad con sus atribuciones y funciones
 
 II. Los órganos autónomos, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley;
 
-III. Los gobiernos de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, así como las Comisiones Estatales de Productividad, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley, y Fracción reformada DOF 17-05-2017
+III. Los gobiernos de las entidades federativas, los municipios y demarcaciones territoriales de la Ciudad de México, así como las Comisiones Estatales de Productividad, según lo dispuesto en los convenios de coordinación que se suscriban para tal efecto, de conformidad con el artículo 11, fracción VII, de esta Ley, y
+Fracción reformada DOF 17-05-2017
 
 IV. Los integrantes de los sectores social y privado.
 
@@ -280,6 +291,7 @@ Las recomendaciones a que se refiere el artículo 15 de esta Ley incluirán las 
 El incumplimiento de las acciones previstas en las matrices de compromisos se sancionará, según corresponda, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o con el retiro a los sectores privado o social de los instrumentos específicos de ejecución a que se refiere la fracción V del artículo 8 de esta Ley.
 
 ## CAPÍTULO V — DEL SEGUIMIENTO Y EVALUACIÓN
+
 
 ### Artículo 18
 .- El Ejecutivo Federal, a través de la Secretaría, dará seguimiento y evaluará el avance anual de los indicadores en materia de: productividad total de los factores; productividad laboral; informalidad; incremento del valor agregado nacional en las exportaciones; así como aquellos que determine el Comité.

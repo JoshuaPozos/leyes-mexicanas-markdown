@@ -12,26 +12,32 @@ El Congreso de los Estados Unidos Mexicanos, decreta:
 
 ## CAPÍTULO I — De la Moneda y de su Régimen Legal
 
+
 ### Artículo 1º
 .- La unidad del sistema monetario de los Estados Unidos Mexicanos es el “peso”, con la equivalencia que por Ley se señalará posteriormente.
 Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 31-08-1936. Fe de erratas DOF 14-10-1936
 
 ### Artículo 2º
 .- Las únicas monedas circulantes serán: a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos; b). Las monedas metálicas de cincuenta, veinte, diez, cinco, dos y un pesos, y de cincuenta, veinte, diez, y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
-Párrafo reformado DOF 08-12-1992, 09-09-1993 Cuando los decretos relativos prevean aleaciones opcionales para la composición de las monedas metálicas, la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, determinará su composición metálica señalando alguna de las aleaciones establecidas en el decreto respectivo o sustituyendo la así señalada por otra de ellas.
+Párrafo reformado DOF 08-12-1992, 09-09-1993
+Cuando los decretos relativos prevean aleaciones opcionales para la composición de las monedas metálicas, la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, determinará su composición metálica señalando alguna de las aleaciones establecidas en el decreto respectivo o sustituyendo la así señalada por otra de ellas.
 La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación las resoluciones en las que se determine la aleación que se utilizará en la composición metálica de las monedas de que se trata.
-Inciso reformado DOF 31-12-1976, 07-01-1980, 22-12-1983, 08-01-1986, 09-11-1987, 23-07-1990, 22-06-1992 c). Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en platino, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos.
-Inciso reformado DOF 24-12-1984, 08-01-1986 Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 31-12-1942, 10-08-1943, 21-03-1944, 27-09-1945, 19-09-1947, 31-12-1947, 30-12-1949, 24-11-1950, 30-12-1950, 15-09-1955, 31-12-1956. Fe de erratas DOF 21-10-1957. Reformado DOF 30-12-1963, 30-12-1969. Reformado (y se suprimen los incisos
+Inciso reformado DOF 31-12-1976, 07-01-1980, 22-12-1983, 08-01-1986, 09-11-1987, 23-07-1990, 22-06-1992
+c). Las monedas metálicas conmemorativas de acontecimientos de importancia nacional, en platino, en oro, en plata o en metales industriales, con los diámetros, leyes o composiciones metálicas, pesos, cuños y demás características que señalen los decretos relativos.
+Inciso reformado DOF 24-12-1984, 08-01-1986
+Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 31-12-1942, 10-08-1943, 21-03-1944, 27-09-1945, 19-09-1947, 31-12-1947, 30-12-1949, 24-11-1950, 30-12-1950, 15-09-1955, 31-12-1956. Fe de erratas DOF 21-10-1957. Reformado DOF 30-12-1963, 30-12-1969. Reformado (y se suprimen los incisos
 
 d) y e) del mismo) DOF 31-12-1973
 
 ### Artículo 2º
 bis.- También formarán parte del sistema las monedas metálicas acuñadas en platino, en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
-Párrafo reformado DOF 08-01-1986 Estas monedas:
+Párrafo reformado DOF 08-01-1986
+Estas monedas:
 I.- Gozarán de curso legal por el equivalente en pesos de su cotización diaria;
 II.- No tendrán valor nominal;
 III.- Expresarán su contenido de metal fino; y IV.- Tendrán poder liberatorio referido exclusivamente al pago de las obligaciones mencionadas en el segundo párrafo del artículo 7o. Dicho poder liberatorio será ilimitado en cuanto al número de piezas a entregar en un mismo pago.
-Fracción reformada DOF 28-12-1981. Fe de erratas DOF 23-03-1982 El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas.
+Fracción reformada DOF 28-12-1981. Fe de erratas DOF 23-03-1982
+El Banco de México determinará diariamente la cotización de estas monedas, con base en el precio internacional del metal fino contenido en ellas.
 El Banco de México, directamente o a través de sus corresponsales, estará obligado a recibir ilimitadamente estas monedas, a su valor de cotización, entregando a cambio de ellas billetes y monedas metálicas de los mencionados en el artículo 2o. de esta ley.
 Artículo adicionado DOF 07-01-1980
 
@@ -48,7 +54,8 @@ Artículo derogado DOF 27-04-1935. Adicionado DOF 31-08-1936. Fe de erratas DOF 
 ### Artículo 5º
 .- Las monedas metálicas a que se refieren los incisos b) y siguientes del artículo 2o. de esta ley, tendrán poder liberatorio limitado al valor de cien piezas de cada denominación en un mismo pago.
 Las citadas monedas deberán ser acuñadas de manera tal que sean identificables por las personas invidentes.
-Párrafo adicionado DOF 11-05-2004 Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936, 31-12-1942. Fe de erratas DOF 07-01-1943.
+Párrafo adicionado DOF 11-05-2004
+Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935, 06-05-1936, 31-08-1936, 31-12-1942. Fe de erratas DOF 07-01-1943.
 Reformado DOF 19-09-1947, 31-12-1947, 30-12-1949, 30-12-1950, 15-09-1955, 31-12-1956, 30-12-1969
 
 ### Artículo 6º
@@ -62,9 +69,12 @@ Artículo reformado DOF 27-04-1935, 31-08-1936. Fe de erratas DOF 14-10-1936. Re
 ### Artículo 8º
 .- La moneda extranjera no tendrá curso legal en la República, salvo en los casos en que la Ley expresamente determine otra cosa. Las obligaciones de pago en moneda extranjera contraídas dentro o fuera de la República para ser cumplidas en ésta, se solventarán entregando el equivalente en moneda nacional, al tipo de cambio que rija en el lugar y fecha en que se haga el pago.
 Este tipo de cambio se determinará conforme a las disposiciones que para esos efectos expida el Banco de México en los términos de su Ley Orgánica.
-Párrafo adicionado DOF 08-01-1986 Los pagos en moneda extranjera originados en situaciones o transferencias de fondos desde el exterior, que se lleven a cabo a través del Banco de México o de Instituciones de Crédito, deberán ser cumplidos entregando la moneda, objeto de dicha trasferencia o situación. Ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de Control de Cambios en vigor.
-Párrafo adicionado DOF 08-01-1986 Las obligaciones a que se refiere el primer párrafo de este artículo, originadas en depósitos bancarios irregulares constituidos en moneda extranjera, se solventarán conforme a lo previsto en dicho párrafo, a menos que el deudor se haya obligado en forma expresa a efectuar el pago precisamente en moneda extranjera, en cuyo caso deberá entregar esta moneda. Esta última forma de pago sólo podrá establecerse en los casos en que las autoridades bancarias competentes lo autoricen, mediante reglas de carácter general que deberán publicarse en el Diario Oficial de la Federación; ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de control de cambios en vigor.
-Párrafo adicionado DOF 07-05-1986 Artículo reformado DOF 06-03-1935
+Párrafo adicionado DOF 08-01-1986
+Los pagos en moneda extranjera originados en situaciones o transferencias de fondos desde el exterior, que se lleven a cabo a través del Banco de México o de Instituciones de Crédito, deberán ser cumplidos entregando la moneda, objeto de dicha trasferencia o situación. Ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de Control de Cambios en vigor.
+Párrafo adicionado DOF 08-01-1986
+Las obligaciones a que se refiere el primer párrafo de este artículo, originadas en depósitos bancarios irregulares constituidos en moneda extranjera, se solventarán conforme a lo previsto en dicho párrafo, a menos que el deudor se haya obligado en forma expresa a efectuar el pago precisamente en moneda extranjera, en cuyo caso deberá entregar esta moneda. Esta última forma de pago sólo podrá establecerse en los casos en que las autoridades bancarias competentes lo autoricen, mediante reglas de carácter general que deberán publicarse en el Diario Oficial de la Federación; ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de control de cambios en vigor.
+Párrafo adicionado DOF 07-05-1986
+Artículo reformado DOF 06-03-1935
 
 ### Artículo 9º
 .- Las prevenciones de los dos artículos anteriores no son renunciables y toda estipulación en contrario será nula.
@@ -72,10 +82,12 @@ Párrafo adicionado DOF 07-05-1986 Artículo reformado DOF 06-03-1935
 ### Artículo 10
 .- Las piezas perforadas o recortadas, las que tengan marcas o contraseñas y las que presenten vestigios de usos no monetarios, carecerán de curso legal y no serán admitidas en oficinas públicas.
 Se prohíbe alterar o transformar las monedas metálicas en circulación, mediante su fundición o cualquier otro procedimiento, que tengan por objeto aprovechar su contenido metálico. Los infractores serán sancionados administrativamente por la Secretaría de Hacienda y Crédito Público con multa hasta de un tanto del valor del metal contenido en las piezas alteradas o transformadas. El importe de la multa correspondiente se fijará oyendo al Banco de México y tomando en cuenta el valor y el número de las piezas utilizadas, el destino que se haya dado o pretendido dar a las monedas o a sus componentes, la utilidad percibida por el infractor, las circunstancias peculiares de éste y el daño producido a la circulación monetaria.
-Párrafo adicionado DOF 07-01-1980 La prevención del párrafo anterior en cuanto al aprovechamiento del contenido metálico de las piezas, no es aplicable al Banco de México.
+Párrafo adicionado DOF 07-01-1980
+La prevención del párrafo anterior en cuanto al aprovechamiento del contenido metálico de las piezas, no es aplicable al Banco de México.
 Párrafo adicionado DOF 07-01-1980
 
 ## CAPÍTULO II — De la Emisión de Moneda
+
 
 ### Artículo 11
 .- La emisión de billetes del Banco de México se ajustará a lo dispuesto en esta ley y en la Constitutiva de dicha institución.
@@ -87,9 +99,11 @@ Artículo reformado DOF 10-03-1932
 
 ### Artículo 13
 .- El Banco de México sólo podrá ordenar la fabricación de moneda metálica a quienes previamente la Secretaría de Hacienda y Crédito Público haya autorizado para este efecto.
-Reforma DOF 23-12-1993: Derogó del artículo los entonces párrafos primero y segundo Artículo reformado DOF 10-03-1932. Fe de erratas DOF 14-04-1932. Reformado DOF 22-03-1933, 07-01-1980
+Reforma DOF 23-12-1993: Derogó del artículo los entonces párrafos primero y segundo
+Artículo reformado DOF 10-03-1932. Fe de erratas DOF 14-04-1932. Reformado DOF 22-03-1933, 07-01-1980
 
 ## CAPÍTULO III — De la Reserva Monetaria
+
 
 ### Artículo 14
 .- La Reserva Monetaria estará formada por los siguientes recursos: a). Los que la integran al ser expedida esta ley. b). La plata contenida en las antiguas monedas de un peso y de cincuenta, veinte y diez centavos, retiradas de la circulación en ejecución de esta ley. c). La parte de las utilidades del Banco de México que la ley respectiva señala. d). La diferencia que resulte entre el costo y el valor monetario de las monedas fraccionarias que se acuñen. e). El producto de los préstamos que se contraten para el aumento de la Reserva. f). La suma que anualmente asigne el Presupuesto de Egresos de la Federación para ese objeto.
@@ -105,6 +119,7 @@ Artículo reformado DOF 22-03-1933, 27-04-1935
 Artículo reformado DOF 22-03-1933, 27-04-1935
 
 ## CAPÍTULO IV — De la Seguridad en la Circulación Monetaria
+
 Capítulo adicionado DOF 07-01-1980
 
 ### Artículo 17
@@ -135,6 +150,7 @@ Artículo adicionado DOF 07-01-1980
 Artículo adicionado DOF 07-01-1980
 
 ## CAPÍTULO V — De la Desmonetización
+
 Capítulo adicionado DOF 07-01-1980
 
 ### Artículo 22
@@ -144,7 +160,8 @@ Artículo adicionado DOF 07-01-1980
 
 ### Artículo 23
 .- El Banco de México, dentro del plazo a que se refiere el artículo anterior, directamente o a través de sus corresponsales, canjeará ilimitadamente y a valor nominal los billetes que se retiren de la circulación conforme a ese artículo.
-Artículo adicionado DOF 07-01-1980 DISPOSICIONES TRANSITORIAS ARTICULO 1°.- Desde la fecha en que entre en vigor la presente ley, se suspenderá indefinidamente la acuñación de monedas nacionales de oro, quedando privadas de todo poder liberatorio legal, las monedas de oro de dos, dos cincuenta, cinco, diez, veinte y cincuenta pesos, de los cuños establecidos por las Leyes de 25 de marzo de 1905, de 27 de junio de 1917, de 31 de octubre de 1918 y de 14 de septiembre de 1921.
+Artículo adicionado DOF 07-01-1980
+DISPOSICIONES TRANSITORIAS ARTICULO 1°.- Desde la fecha en que entre en vigor la presente ley, se suspenderá indefinidamente la acuñación de monedas nacionales de oro, quedando privadas de todo poder liberatorio legal, las monedas de oro de dos, dos cincuenta, cinco, diez, veinte y cincuenta pesos, de los cuños establecidos por las Leyes de 25 de marzo de 1905, de 27 de junio de 1917, de 31 de octubre de 1918 y de 14 de septiembre de 1921.
 Fe de erratas al artículo DOF 29-07-1931 ARTICULO 2°.- Se declaran libres la exportación y la importación de oro acuñado o en pasta, quedando derogados, en consecuencia, los artículos 26 y 53 de la Ley de 19 de diciembre de 1929.
 ARTICULO 3°.- Todas las obligaciones contraídas hasta la fecha de esta ley en moneda nacional de cualquier especie, se solventarán entregando monedas de los cuños que esta ley conserva, dentro de los límites respectivos de su poder liberatorio.
 No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de oro quienes las hayan recibido en cobros por cuenta de tercero, o en depósito confidencial, o en virtud de cualquier otro contrato que no trasmita el dominio. Los bancos e instituciones bancarias deberán pagar en monedas de oro el 30% de los depósitos que el público hubiere constituído en ellos en esa especie, a la vista o a plazo no mayor de treinta días vista.
@@ -154,13 +171,19 @@ Las monedas de plata de dos pesos, creadas por Ley de 22 de septiembre de 1921, 
 Fe de erratas al párrafo DOF 29-07-1931 Las demás monedas de plata y fraccionarias retiradas de la circulación, serán canjeadas por monedas de plata o fraccionarias, respectivamente, de los cuños que esta ley conserva, en los plazos y condiciones establecidos en los decretos correspondientes.
 ARTICULO 6°.- (Se deroga).
 Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932 ARTICULO 7°.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 8°.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 9°.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 10.- (Se deroga).
+Artículo derogado DOF 10-03-1932
+ARTICULO 8°.- (Se deroga).
+Artículo derogado DOF 10-03-1932
+ARTICULO 9°.- (Se deroga).
+Artículo derogado DOF 10-03-1932
+ARTICULO 10.- (Se deroga).
 Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932 ARTICULO 11.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 12.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 13.- (Se deroga).
-Artículo derogado DOF 10-03-1932 ARTICULO 14.- Se deroga la Ley de 24 de diciembre de 1930, debiendo aplicarse a la formación de la Reserva Monetaria, el saldo que exista a favor de la Comisión de Cambios como resultado de las operaciones practicadas por dicha Comisión. Se modifican, en cuanto se opongan a la presente ley y en los términos de la misma, las disposiciones relativas de la Ley General de Instituciones de Crédito y Establecimientos Bancarios, y de la Ley de 13 de abril de 1918.
+Artículo derogado DOF 10-03-1932
+ARTICULO 12.- (Se deroga).
+Artículo derogado DOF 10-03-1932
+ARTICULO 13.- (Se deroga).
+Artículo derogado DOF 10-03-1932
+ARTICULO 14.- Se deroga la Ley de 24 de diciembre de 1930, debiendo aplicarse a la formación de la Reserva Monetaria, el saldo que exista a favor de la Comisión de Cambios como resultado de las operaciones practicadas por dicha Comisión. Se modifican, en cuanto se opongan a la presente ley y en los términos de la misma, las disposiciones relativas de la Ley General de Instituciones de Crédito y Establecimientos Bancarios, y de la Ley de 13 de abril de 1918.
 Fe de erratas al artículo DOF 29-07-1931 ARTICULO 15.- Queda facultada la Secretaría de Hacienda y Crédito Público, para proveer en la esfera administrativa, a la ejecución de las disposiciones de esta ley.
 Salón de Sesiones del Congreso de la Unión.- México, D. F., a 25 de julio de 1931.- Gonzalo Bautista, D. P.- Antonio Gutiérrez, S. P.- José M. Dávila, D. S.- Miguel Ramos, S. S.- Manuel Mijares V., D. S.- José D. Aguayo, S. S.- Rúbricas.” Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dada en el Palacio del Poder Ejecutivo Federal, en México, a los veinticinco días del mes de julio de mil novecientos treinta y uno.- P. Ortíz Rubio.- Rúbrica.-El Secretario de Estado y del Despacho de Hacienda y Crédito Público, L. Montes de Oca.- Rúbrica.-Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente.” Lo comunico a usted para su publicación y demás fines.
@@ -456,7 +479,7 @@ El Banco de México, deberá publicar en el Diario Oficial de la Federación un 
 Fe de erratas al artículo DOF 26-06-1992
 **CUARTO.-** Se desmonetizan las piezas actuales con denominaciones en centavos de peso. Sin perjuicio de lo anterior, el Banco de México, en los términos de su Ley Orgánica, las continuará recibiendo para su canje por piezas en circulación, hasta el 1º de enero de 1995.
 **QUINTO.-** En tanto el Banco de México no retire de la circulación las monedas a que se refiere el
-**tercero.** transitorio, las monedas de uno, dos, cinco y diez pesos a que se refiere el artículo tercero, deberán contener en el reverso, en lugar del símbolo "$" el símbolo "N$", y la moneda de diez pesos deberá contener además, en lugar de la expresión "pesos" la expresión “nuevos pesos”.
+**tercero.-** transitorio, las monedas de uno, dos, cinco y diez pesos a que se refiere el artículo tercero, deberán contener en el reverso, en lugar del símbolo "$" el símbolo "N$", y la moneda de diez pesos deberá contener además, en lugar de la expresión "pesos" la expresión “nuevos pesos”.
 México, D. F., 18 de junio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Gómez, Presidente.- Dip. Jaime Rodríguez Calderón, Secretario.- Sen. Alger León Moreno, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiún días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 FE de erratas del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado el lunes 22 de junio de 1992 Publicada en el Diario Oficial de la Federación el 26 de junio de 1992 DECRETO que reforma el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos.
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992 ARTICULO PRIMERO.- Se reforma el primer párrafo del inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes: ……….
@@ -532,7 +555,7 @@ DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley Genera
 DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.
 DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y
-**décimo segundo.** transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+**décimo segundo.-** transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
 Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
 México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
@@ -553,10 +576,10 @@ Se REFORMA el ARTÍCULO TERCERO del “Decreto que reforma y adiciona diversas d
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
-**TERCERO.** Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la circulación por el Banco de México.
-**CUARTO.** El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el plazo necesario para realizar su canje.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+**TERCERO.-** Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la circulación por el Banco de México.
+**CUARTO.-** El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el plazo necesario para realizar su canje.
 México, D. F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip.
 Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se modifica el Artículo Tercero del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos", publicado el 22 de junio de 1992, en el Diario Oficial de la Federación, únicamente por lo que hace a la moneda de diez pesos.
@@ -580,11 +603,11 @@ Se reforma el Artículo Segundo del “Decreto que reforma el inciso b) del art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La moneda a que se refiere el presente Decreto podrá empezar a acuñarse a los 30 días naturales siguientes a la publicación de este Decreto.
-**Tercero.** Las monedas de veinte pesos emitidas de conformidad con el artículo 2°, inciso b), de la Ley Monetaria de los Estados Unidos Mexicanos, cuyas características se modifican con el presente Decreto, así como las que se emitan después de la entrada en vigor del mismo, continuarán con el poder liberatorio que señala el artículo 5° de la Ley en comento, hasta que sean retiradas de la circulación por el Banco de México.
-**Cuarto.** El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que indique que las piezas referidas en el artículo anterior ya han sido retiradas de circulación, fijando el plazo necesario para realizar su canje.
-**Quinto.** Corresponderá a la Casa de Moneda de México realizar los ajustes técnicos que se requieran, los que deberán ser acordes con las características esenciales de la moneda descrita en el presente Decreto.
-**Sexto.** Corresponderá al Banco de México la titularidad de todos los derechos patrimoniales de autor y cualquier otro derecho de propiedad industrial o intelectual derivado del diseño y la acuñación de la moneda a que se refiere el presente Decreto.
-**Séptimo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La moneda a que se refiere el presente Decreto podrá empezar a acuñarse a los 30 días naturales siguientes a la publicación de este Decreto.
+**Tercero.-** Las monedas de veinte pesos emitidas de conformidad con el artículo 2°, inciso b), de la Ley Monetaria de los Estados Unidos Mexicanos, cuyas características se modifican con el presente Decreto, así como las que se emitan después de la entrada en vigor del mismo, continuarán con el poder liberatorio que señala el artículo 5° de la Ley en comento, hasta que sean retiradas de la circulación por el Banco de México.
+**Cuarto.-** El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que indique que las piezas referidas en el artículo anterior ya han sido retiradas de circulación, fijando el plazo necesario para realizar su canje.
+**Quinto.-** Corresponderá a la Casa de Moneda de México realizar los ajustes técnicos que se requieran, los que deberán ser acordes con las características esenciales de la moneda descrita en el presente Decreto.
+**Sexto.-** Corresponderá al Banco de México la titularidad de todos los derechos patrimoniales de autor y cualquier otro derecho de propiedad industrial o intelectual derivado del diseño y la acuñación de la moneda a que se refiere el presente Decreto.
+**Séptimo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

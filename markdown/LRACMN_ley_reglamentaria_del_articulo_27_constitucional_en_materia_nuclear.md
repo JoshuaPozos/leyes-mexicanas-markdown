@@ -48,15 +48,18 @@ b) El uranio 233;
 c) El uranio enriquecido en los isótopos 235 o 233;
 
 d) Cualquier material que contenga uno o varios de los elementos mencionados, y Los demás materiales fisionables que determine la Secretaría de Energía;
-Párrafo reformado DOF 09-04-2012 VII.- Material radiactivo: cualquier material que contiene uno o varios núclidos que emiten espontáneamente partículas o radiación electromagnética, o que se fisionan espontáneamente;
+Párrafo reformado DOF 09-04-2012
+VII.- Material radiactivo: cualquier material que contiene uno o varios núclidos que emiten espontáneamente partículas o radiación electromagnética, o que se fisionan espontáneamente;
 VIII.- Fuente de radiación: cualquier dispositivo o sustancia que emita radiación ionizante en forma cuantificable;
 IX.- Mineral radioactivo: el que contenga uranio, torio o combinaciones de ambos en una concentración igual o superior a 300 partes por millón, y los demás minerales susceptibles de ser utilizados para la fabricación de combustibles nucleares que determine expresamente la Secretaría de Energía.
-Párrafo reformado DOF 09-04-2012 Asimismo, será considerado mineral radiactivo el que contenga menos de 300 partes, cuando así lo determine la Secretaría mencionada; y X.- Uso no energético de material radiactivo: la utilización de material radiactivo y equipo que lo contenga, y generadores de radiación ionizante, con propósitos industriales, médicos, agrícolas o de investigación.
+Párrafo reformado DOF 09-04-2012
+Asimismo, será considerado mineral radiactivo el que contenga menos de 300 partes, cuando así lo determine la Secretaría mencionada; y X.- Uso no energético de material radiactivo: la utilización de material radiactivo y equipo que lo contenga, y generadores de radiación ionizante, con propósitos industriales, médicos, agrícolas o de investigación.
 Las determinaciones a que hace mención este Artículo, se recogerán en declaratorias que expedirá la referida Secretaría, las cuales se publicarán en el Diario Oficial de la Federación.
 
 ### Artículo 4o
 .- La Secretaría de Energía aplicará la presente Ley en el ámbito de su competencia.
-Artículo reformado DOF 09-04-2012 CAPITULO II La Exploración, Explotación y Beneficio de Minerales Radiactivos
+Artículo reformado DOF 09-04-2012
+CAPITULO II La Exploración, Explotación y Beneficio de Minerales Radiactivos
 
 ### Artículo 5o
 .- Los minerales radiactivos, en los términos del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, son propiedad de la Nación; y su exploración, explotación y beneficio no podrá ser materia de concesión o contrato.
@@ -69,10 +72,13 @@ Artículo reformado DOF 09-04-2012
 
 ### Artículo 7o
 .- Los titulares de concesiones y asignaciones mineras que descubran minerales radiactivos en los lotes respectivos, deberán dar aviso por escrito a la Secretaría de Energía, dentro de los diez días siguientes al descubrimiento para que esta dependencia:
-Párrafo reformado DOF 09-04-2012 I.- Designe, de inmediato, un interventor para que resguarde la propiedad de la Nación sobre los minerales radiactivos;
+Párrafo reformado DOF 09-04-2012
+I.- Designe, de inmediato, un interventor para que resguarde la propiedad de la Nación sobre los minerales radiactivos;
 II.- Lleve a cabo los trabajos necesarios para determinar si la explotación de los minerales radiactivos descubiertos es técnica y económicamente aprovechable, escuchando la opinión del Consejo de Recursos Minerales y de la Comisión de Fomento Minero;
 III.- Si la determinación a que se refiere la fracción anterior es positiva, se procederá a modificar la concesión o asignación para que a los organismos públicos competentes se les otorgue la asignación de los minerales radiactivos explotables. En este caso, el concesionario o asignatario podrá continuar fuera del ámbito afectado, con la explotación de los demás minerales.
-Si por la alta concentración de mineral radioactivo la Secretaría de Energía determina que procede la cancelación de la concesión o asignación, ésta se hará en los términos de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Minera, y Párrafo reformado DOF 09-04-2012 IV.- Si la determinación es negativa por no ser técnica y económicamente aprovechable la explotación del mineral radiactivo descubierto, propiedad de la Nación, el concesionario o asignatario quedará como depositario de los jales que lo contengan.
+Si por la alta concentración de mineral radioactivo la Secretaría de Energía determina que procede la cancelación de la concesión o asignación, ésta se hará en los términos de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Minera, y
+Párrafo reformado DOF 09-04-2012
+IV.- Si la determinación es negativa por no ser técnica y económicamente aprovechable la explotación del mineral radiactivo descubierto, propiedad de la Nación, el concesionario o asignatario quedará como depositario de los jales que lo contengan.
 
 ### Artículo 8o
 .- Los titulares de las concesiones o asignaciones de exploración, explotación y beneficio que, en contravención a la disposición anterior, hubieren explotado o beneficiado el mineral radiactivo descubierto se harán acreedores a la cancelación de las concesiones o asignaciones y a una multa hasta por cinco mil veces el salario mínimo diario vigente en el Distrito Federal. Quienes hubieren omitido dar el aviso a que se refiere el artículo anterior, se harán acreedores a una multa hasta por cinco mil veces el salario mínimo diario vigente en el Distrito Federal.
@@ -83,7 +89,8 @@ Artículo reformado DOF 09-04-2012
 
 ### Artículo 10
 .- La Secretaría de Energía podrá otorgar asignaciones únicamente al organismo público federal descentralizado denominado Comisión de Fomento Minero para la explotación de minerales radioactivos, de conformidad con las políticas que para el logro de los objetivos o prioridades de la planeación nacional y sectorial del desarrollo se establezcan. Igualmente, se podrá otorgar, sólo al Organismo mencionado autorizaciones para la instalación y funcionamiento de plantas de beneficio que aprovechen las sustancias minerales a que alude este precepto.
-Párrafo reformado DOF 09-04-2012 La Comisión de Fomento Minero llevará a cabo las actividades mencionadas en forma directa y exclusiva.
+Párrafo reformado DOF 09-04-2012
+La Comisión de Fomento Minero llevará a cabo las actividades mencionadas en forma directa y exclusiva.
 CAPITULO III La Industria Nuclear
 
 ### Artículo 11
@@ -123,15 +130,18 @@ La utilización de reactores nucleares con fines no energéticos, sólo se lleva
 ### Artículo 16
 .- La producción, el uso y la aplicación de radioisótopos, así como la fabricación de los componentes del sistema nuclear de suministro de vapor, con excepción del combustible nuclear, son actividades prioritarias para el desarrollo económico nacional en los términos del párrafo quinto del Artículo 25 Constitucional.
 Las actividades mencionadas podrán llevarse a cabo por el sector público, por sí o con sectores social y privado, previa autorización de la Secretaría de Energía. Tratándose de la producción de radioisótopos, mediante la utilización de reactores nucleares, sólo se llevará a cabo por el sector público, las universidades, los institutos y los centros de investigación autorizados conforme a esta Ley.
-Párrafo reformado DOF 09-04-2012 Las autorizaciones para la producción de radioisótopos, a partir del uso de combustible nuclear, se expedirán por el titular de la Secretaría de Energía conforme a lo previsto en las disposiciones reglamentarias, y se publicarán en el Diario Oficial de la Federación.
-Párrafo reformado DOF 09-04-2012 Las autorizaciones anteriores se expedirán previa opinión del Instituto Nacional de Investigaciones Nucleares y de las autoridades competentes, según se haga la utilización de los radioisótopos en las áreas de salud, industria o agricultura.
+Párrafo reformado DOF 09-04-2012
+Las autorizaciones para la producción de radioisótopos, a partir del uso de combustible nuclear, se expedirán por el titular de la Secretaría de Energía conforme a lo previsto en las disposiciones reglamentarias, y se publicarán en el Diario Oficial de la Federación.
+Párrafo reformado DOF 09-04-2012
+Las autorizaciones anteriores se expedirán previa opinión del Instituto Nacional de Investigaciones Nucleares y de las autoridades competentes, según se haga la utilización de los radioisótopos en las áreas de salud, industria o agricultura.
 
 ### Artículo 17
 .- El combustible nuclear es propiedad de la Nación; el Ejecutivo Federal sólo podrá autorizar su uso en los términos de esta Ley y siempre bajo la vigilancia de la Comisión Nacional de Seguridad Nuclear y Salvaguardías.
 
 ### Artículo 18
 .- El Ejecutivo Federal, por conducto de la Secretaría de Energía:
-Párrafo reformado DOF 09-04-2012 I.- Fijará los lineamientos relativos al aprovechamiento y desarrollo de la energía y tecnología nucleares, de acuerdo con la política nacional de energía;
+Párrafo reformado DOF 09-04-2012
+I.- Fijará los lineamientos relativos al aprovechamiento y desarrollo de la energía y tecnología nucleares, de acuerdo con la política nacional de energía;
 II.- Impulsará, vigilará y, en su caso, aprobará los programas de trabajo del Consejo de Recursos Minerales y de la Comisión de Fomento Minero, relacionados con los minerales radiactivos, a fin de que sean congruentes con los programas y proyectos de investigación, aplicación en la generación de energía, y desarrollo de la industria nuclear;
 III.- Regulará la seguridad nuclear, radiológica y física, y las salvaguardias, así como vigilará su cumplimiento;
 IV.- Realizará las diversas etapas del ciclo de combustible nuclear, y su reprocesamiento, excepto el quemado, y concertará y supervisará, en su caso, aquellas que no sea posible efectuar en el país;
@@ -169,7 +179,8 @@ Los requisitos a que se hace mención se determinarán atendiendo al riesgo rela
 
 ### Artículo 26
 . El emplazamiento, diseño, construcción, operación, modificación, cese de operaciones, cierre definitivo y desmantelamiento de las instalaciones nucleares y radioactivas, requiere de la autorización de la Secretaría de Energía.
-Párrafo reformado DOF 09-04-2012 Las autorizaciones para la construcción y operación de las instalaciones de referencia tendrán una vigencia determinada y su renovación, modificación, suspensión y cancelación estará regulada por las disposiciones que se contengan en los reglamentos respectivos.
+Párrafo reformado DOF 09-04-2012
+Las autorizaciones para la construcción y operación de las instalaciones de referencia tendrán una vigencia determinada y su renovación, modificación, suspensión y cancelación estará regulada por las disposiciones que se contengan en los reglamentos respectivos.
 
 ### Artículo 27
 .- Las personas físicas o morales autorizadas, en los términos de esta Ley y sus reglamentos, para operar instalaciones nucleares y radiactivas deberán contar con el personal de seguridad radiológica requerido, quien tendrá a su cargo la asesoría, el adiestramiento, la evaluación de procedimientos de trabajo, la elaboración de manuales de seguridad, su vigilancia y aplicación, en lo relacionado con la protección radiológica dentro del centro de trabajo. El titular de la autorización será el responsable directo de la seguridad radiológica.
@@ -200,7 +211,8 @@ Artículo reformado DOF 09-04-2012
 .- En los casos de peligro o riesgo inminente para el personal de una instalación nuclear o radiactiva, o para la sociedad en general, la Comisión Nacional de Seguridad Nuclear y Salvaguardias ordenará y ejecutará según el caso, la retención, aseguramiento o depósito de las fuentes de radiación ionizante o equipo que las contenga, así como de cualquier bien contaminado, en los términos del reglamento respectivo.
 También podrá ordenar y ejecutar, como medida preventiva, la clausura temporal, parcial o total, de las instalaciones nucleares y radiactivas, así como de los bienes inmuebles contaminados, fijando los plazos para corregir las deficiencias o anomalías. En el caso de que no se subsanen las deficiencias o anomalías dentro del plazo que se conceda, la Comisión referida con apoyo en el dictamen técnico correspondiente procederá a la clausura definitiva.
 El titular de la Secretaría de Energía igualmente podrá ordenar a la Comisión Nacional de Seguridad Nuclear y Salvaguardias la ocupación temporal de instalaciones nucleares o radioactivas, la que deberá observar en todo tiempo las disposiciones que el Ejecutivo Federal expida al respecto.
-Párrafo reformado DOF 09-04-2012 Las medidas anteriores que se adopten no excluyen la responsabilidad civil, penal o laboral que, en su caso, resulten a cargo del titular de la autorización por los daños a las personas o a sus bienes.
+Párrafo reformado DOF 09-04-2012
+Las medidas anteriores que se adopten no excluyen la responsabilidad civil, penal o laboral que, en su caso, resulten a cargo del titular de la autorización por los daños a las personas o a sus bienes.
 
 ### Artículo 35
 .- La suspensión o cancelación de las autorizaciones otorgadas implicará la adopción de las medidas de seguridad a que se refiere el Artículo anterior en lo que respecta a las fuentes o equipo.
@@ -222,7 +234,8 @@ Se entiende por reincidencia para los efectos de esta Ley sus reglamentos, cada 
 
 ### Artículo 40
 .- Las resoluciones que se dicten con fundamento en esta Ley o en las demás disposiciones derivadas de la misma, podrán ser recurridas dentro del término de 15 días hábiles siguientes a la fecha de su notificación. El recurso será dirigido y presentado por escrito al titular de la Secretaría de Energía en el cual deberán ofrecerse las pruebas que se relacionen con el acto administrativo impugnado. Desahogadas las pruebas y agotadas las diligencias ordenadas, dentro de los siguientes 30 días hábiles, se dictará la resolución que corresponda.
-Párrafo reformado DOF 09-04-2012 La interposición del recurso sólo suspenderá la ejecución de la resolución recurrida, cuando ésta implique pago por multas y el afectado lo garantice conforme al Código Fiscal de la Federación.
+Párrafo reformado DOF 09-04-2012
+La interposición del recurso sólo suspenderá la ejecución de la resolución recurrida, cuando ésta implique pago por multas y el afectado lo garantice conforme al Código Fiscal de la Federación.
 CAPITULO V El Instituto Nacional de Investigaciones Nucleares
 
 ### Artículo 41
@@ -241,8 +254,11 @@ IV.- Realizar actividades de investigación y desarrollo relativas a las aplicac
 V.- Impulsar las actividades específicas que sobre investigación y desarrollo en ciencia y tecnología nucleares, realicen los institutos de investigación y las instituciones de educación superior del país, en congruencia con los programas de divulgación y proyectos del propio Instituto;
 VI.- Realizar programas de capacitación y actualización sobre usos y aplicación de técnicas nucleares que el desarrollo del país requiera; así como convenir con las instituciones nacionales de educación superior la impartición de cursos especializados en ciencias y tecnología nucleares;
 VII.- Proponer y convenir con instituciones afines del país y del extranjero o con organismos internacionales, proyectos de investigación conjunta e intercambio de información, previa autorización de la Secretaría de Energía;
-Fracción reformada DOF 09-04-2012 VIII.- Mantener un centro de documentación, cuyos objetivos sean captar, analizar y difundir la información y desarrollo en la materia nuclear;
-IX.- Emitir opinión en los convenios que sobre investigación y desarrollo tecnológico en la materia celebre la Secretaría de Energía y en general, asesorar al gobierno federal, en todas las consultas referidas a su objeto, y Fracción reformada DOF 09-04-2012 X.- Realizar las demás actividades conexas con las anteriores; las que se determinen en las leyes o en disposiciones aplicables, sus reglamentos internos y las que resuelva, conforme a su objeto, su Consejo Directivo.
+Fracción reformada DOF 09-04-2012
+VIII.- Mantener un centro de documentación, cuyos objetivos sean captar, analizar y difundir la información y desarrollo en la materia nuclear;
+IX.- Emitir opinión en los convenios que sobre investigación y desarrollo tecnológico en la materia celebre la Secretaría de Energía y en general, asesorar al gobierno federal, en todas las consultas referidas a su objeto, y
+Fracción reformada DOF 09-04-2012
+X.- Realizar las demás actividades conexas con las anteriores; las que se determinen en las leyes o en disposiciones aplicables, sus reglamentos internos y las que resuelva, conforme a su objeto, su Consejo Directivo.
 
 ### Artículo 44
 .- El Instituto contará con los Organos siguientes:
@@ -251,7 +267,8 @@ II.- Dirección General, y III.- Comité de Vigilancia.
 
 ### Artículo 45
 .- El Consejo Directivo será presidido por el Subsecretario que designe el Secretario de Energía y se integrará con los Directores Generales de la Comisión Federal de Electricidad, del Consejo Nacional de Ciencia y Tecnología y del Instituto Politécnico Nacional, y los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana, así como por dos personas nombradas por el Secretario mencionado. Por cada consejero se designará un suplente.
-Párrafo reformado DOF 09-04-2012 El Consejo Directivo deberá reunirse ordinariamente, por lo menos, una vez cada tres meses; las reuniones extraordinarias se realizarán en cuantas ocasiones sea necesario.
+Párrafo reformado DOF 09-04-2012
+El Consejo Directivo deberá reunirse ordinariamente, por lo menos, una vez cada tres meses; las reuniones extraordinarias se realizarán en cuantas ocasiones sea necesario.
 
 ### Artículo 46
 .- El Consejo Directivo es el Organo supremo y tendrá las siguientes funciones:
@@ -267,7 +284,8 @@ IX.- Autorizar todo acto de adquisición y disposición de los bienes inmuebles 
 
 ### Artículo 47
 .- El Director General del Organismo será designado por el Secretario de Energía y tendrá las siguientes funciones:
-Párrafo reformado DOF 09-04-2012 I.- Representar legalmente a la entidad ante toda clase de autoridades, organismos públicos y privados y demás personas en general, sin ninguna limitación, con la suma de facultades generales y las especiales que requieran cláusulas expresa conforme la Ley, inclusive para sustituir o delegar dicha representación así como otorgar poderes generales o especiales para realizar actos de administración en materia laboral, delegar sus facultades de representación legal para que en nombre del organismo se comparezca a las audiencias de conciliación, de demanda y excepciones y demás diligencias en procedimientos y juicios laborales;
+Párrafo reformado DOF 09-04-2012
+I.- Representar legalmente a la entidad ante toda clase de autoridades, organismos públicos y privados y demás personas en general, sin ninguna limitación, con la suma de facultades generales y las especiales que requieran cláusulas expresa conforme la Ley, inclusive para sustituir o delegar dicha representación así como otorgar poderes generales o especiales para realizar actos de administración en materia laboral, delegar sus facultades de representación legal para que en nombre del organismo se comparezca a las audiencias de conciliación, de demanda y excepciones y demás diligencias en procedimientos y juicios laborales;
 II.- Ejecutar y promover el cumplimiento de los acuerdos y resoluciones del Consejo Directivo;
 III.- Proponer al Consejo las medidas adecuadas para el mejor funcionamiento del Instituto;
 IV.- Formular y presentar al Consejo los proyectos de reglamento interior y de los presupuestos de ingresos y egresos;
@@ -286,11 +304,13 @@ CAPITULO VI La Comisión Nacional de Seguridad Nuclear y Salvaguardias
 
 ### Artículo 50
 .- La Comisión Nacional de Seguridad Nuclear y Salvaguardias es un órgano desconcentrado dependiente de la Secretaría de Energía con las siguientes atribuciones:
-Párrafo reformado DOF 09-04-2012 I.- Vigilar la aplicación de las normas de seguridad nuclear radiológica, física y las salvaguardias para que el funcionamiento de las instalaciones nucleares y radiactivas se lleven a cabo con la máxima seguridad para los habitantes del país;
+Párrafo reformado DOF 09-04-2012
+I.- Vigilar la aplicación de las normas de seguridad nuclear radiológica, física y las salvaguardias para que el funcionamiento de las instalaciones nucleares y radiactivas se lleven a cabo con la máxima seguridad para los habitantes del país;
 II.- Vigilar que en el territorio de los Estados Unidos Mexicanos se cumpla con las disposiciones legales y los tratados internacionales de los que México sea signatario, en materia de seguridad nuclear, radiológica, física y de salvaguardias;
 III.- Revisar, evaluar y autorizar las bases para el emplazamiento, diseño, construcción, operación, modificación, cese de operaciones, cierre definitivo y desmantelamiento de instalaciones nucleares y radiactivas; así como todo lo relativo a la fabricación, uso manejo, almacenamiento, reprocesamiento y transporte de materiales y combustibles nucleares, materiales radiactivos y equipos que los contengan; procesamiento, acondicionamiento, vertimiento y almacenamiento de desechos radiactivos, y cualquier disposición que de ellos se haga;
 IV.- Emitir opinión, previamente a la autorización que otorgue el Secretario de Energía sobre el emplazamiento, diseño, construcción, operación, modificación, cese de operaciones, cierre definitivo y desmantelamiento de instalaciones nucleares.
-Fracción reformada DOF 09-04-2012 V.- Expedir, revalidar, reponer, modificar, suspender y revocar, los permisos y licencias requeridos para las instalaciones radiactivas de acuerdo a las disposiciones legales, así como recoger y retirar en su caso los utensilios, equipos, materiales existentes y, en general, cualquier bien mueble contaminado, en dichas instalaciones;
+Fracción reformada DOF 09-04-2012
+V.- Expedir, revalidar, reponer, modificar, suspender y revocar, los permisos y licencias requeridos para las instalaciones radiactivas de acuerdo a las disposiciones legales, así como recoger y retirar en su caso los utensilios, equipos, materiales existentes y, en general, cualquier bien mueble contaminado, en dichas instalaciones;
 VI.- Recomendar y asesorar respecto de las medidas de seguridad nuclear, radiológica, física, de salvaguardias y administrativas que procedan en condiciones anómalas o de emergencia, tratándose de instalaciones nucleares y radiactivas; así como determinar y ejecutar en estos casos, cuando técnicamente sea recomendable la retención, aseguramiento o depósito de fuentes de radiación ionizante o equipos que las contengan, o la clausura parcial o total, temporal o definitiva, del lugar en que se encuentren o aquellos otros que hayan sido afectados, sin perjuicio de las medidas que adopten otras autoridades competentes;
 VII.- Previamente al inicio de operaciones, revisar, evaluar y autorizar los planes que para el manejo de condiciones anómalas o de emergencia deben establecerse en las instalaciones nucleares y radiactivas;
 VIII.- Establecer y manejar el sistema nacional de registro y control de materiales y combustibles nucleares;
@@ -300,7 +320,8 @@ XI.- Proponer las normas, y fijar los criterios de interpretación, relativos a 
 XII.- Ordenar y practicar auditorías, inspecciones, verificaciones y reconocimientos para comprobar el cumplimiento y observancia de las disposiciones legales en materia de seguridad nuclear, radiológica, física y de salvaguardias; así como imponer las medidas de apremio y las sanciones administrativas que procedan de acuerdo a las disposiciones de esta Ley y sus reglamentos;
 XIII.- Requerir y verificar la información y documentación que estime pertinente para el ejercicio de las atribuciones que esta Ley le confiere, en los términos de las disposiciones aplicables;
 XIV.- Intervenir en la celebración de los convenios o acuerdos de cooperación que se realicen por la Secretaría de Energía con otras entidades nacionales en materia de seguridad nuclear, radiológica y física, y de salvaguardias;
-Fracción reformada DOF 09-04-2012 XV.- Establecer los requisitos que deberán satisfacer los programas de capacitación técnica sobre aspectos relacionados con la seguridad nuclear, radiológica y física, y las salvaguardias, y asesorar en los mismos;
+Fracción reformada DOF 09-04-2012
+XV.- Establecer los requisitos que deberán satisfacer los programas de capacitación técnica sobre aspectos relacionados con la seguridad nuclear, radiológica y física, y las salvaguardias, y asesorar en los mismos;
 XVI.- Auxiliar a las autoridades encargadas de la prevención, procuración y administración de justicia, en los casos en que los materiales y combustibles nucleares o materiales radiactivos, sean objeto de delito, sufran pérdidas o extravío o se vean envueltos en incidentes, así como a las autoridades aduaneras en los términos de la Ley respectiva;
 XVII.- Pedir el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones, en los términos de Ley, y XVIII.- Las demás que se le confieran en esta Ley y en las disposiciones legales en vigor.
 El Ejecutivo Federal, por conducto del titular de la Secretaría de Energía podrá ejercer también las atribuciones contenidas en las fracciones anteriores.
@@ -313,7 +334,8 @@ Artículo reformado DOF 23-01-1998
 ### Artículo 52
 .- El Consejo Consultivo tiene por objeto asesorar a la Comisión Nacional de Seguridad Nuclear y Salvaguardias y para ese fin le proporcionará la cooperación técnica que le solicite y realizará los estudios que requiera el desahogo de las consultas que le someta su Presidente.
 El Consejo Consultivo será presidido por el Titular de la Secretaría de Energía o por el servidor público que para ese efecto designe, y se integrará con un representante de las Secretarías de Gobernación, Relaciones Exteriores, Defensa Nacional, Marina, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Comunicaciones y Transportes, Medio Ambiente y Recursos Naturales, Salud, y Trabajo y Previsión Social.
-Párrafo reformado DOF 09-04-2012 También podrán formar parte del Consejo Consultivo, previo acuerdo del Titular de la Secretaría de Energía representantes de otras dependencias y entidades de la administración pública federal, de las entidades federativas y de los municipios, así como profesionistas de reconocida capacidad y experiencia en materia nuclear.
+Párrafo reformado DOF 09-04-2012
+También podrán formar parte del Consejo Consultivo, previo acuerdo del Titular de la Secretaría de Energía representantes de otras dependencias y entidades de la administración pública federal, de las entidades federativas y de los municipios, así como profesionistas de reconocida capacidad y experiencia en materia nuclear.
 Párrafo reformado DOF 09-04-2012
 
 ## TRANSITORIOS
@@ -336,7 +358,7 @@ Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
 Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6,
-**segundo.** párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
+**segundo.-** párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -347,6 +369,6 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

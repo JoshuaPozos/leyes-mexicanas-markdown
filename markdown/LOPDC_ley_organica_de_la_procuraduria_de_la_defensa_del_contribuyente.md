@@ -16,6 +16,7 @@ Ley Orgánica de la Procuraduría de la Defensa del Contribuyente
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 .- La presente Ley es de orden público, de aplicación en todo el territorio nacional y tiene por objeto regular la organización y el funcionamiento de la Procuraduría de la Defensa del Contribuyente, a fin de garantizar el derecho de los contribuyentes a recibir justicia en materia fiscal en el orden federal, mediante la asesoría, representación y defensa, recepción de quejas y emisión de recomendaciones en los términos que este mismo ordenamiento establece.
 
@@ -38,6 +39,7 @@ El incumplimiento de las obligaciones establecidas en esta Ley dará lugar a las
 Se entiende por autoridades fiscales federales incluso a las coordinadas respecto de los ingresos fiscales de carácter federal, así como a los organismos federales fiscales autónomos, como el Instituto Mexicano del Seguro Social y el Instituto Nacional del Fondo Nacional de la Vivienda de los Trabajadores.
 
 ## Capítulo II — De las Atribuciones
+
 
 ### Artículo 5
 .- Corresponderá a la Procuraduría de la Defensa del Contribuyente:
@@ -62,6 +64,7 @@ Las respuestas que emita la Procuraduría de la Defensa del Contribuyente a los 
 La formulación de quejas y reclamaciones, así como las resoluciones y recomendaciones que emita el Procurador de la Defensa del Contribuyente, no constituyen instancia y no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o caducidad, ni afectarán los trámites o procedimientos que lleven a cabo las autoridades fiscales. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la queja o reclamación.
 
 ## Capítulo III
+
 Estructura y Organización de la Procuraduría
 
 ### Artículo 6
@@ -163,6 +166,7 @@ VI.- Aprobar el nombramiento de los delegados estatales o regionales de la Procu
 El Órgano Interno de Control, su Titular y los titulares de las áreas de auditoria, quejas y responsabilidades, desarrollarán sus funciones conforme a las atribuciones que les confiere la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y otros ordenamientos jurídicos aplicables de conformidad con el Reglamento Interior de la Secretaría de la Función Publica.
 
 ## Capítulo IV
+
 Presentación, Tramitación y Resolución de Quejas o Reclamaciones
 
 ### Artículo 15
@@ -202,6 +206,7 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 ## Capítulo V — De los Acuerdos y Recomendaciones
 
+
 ### Artículo 22
 .- El Procurador de la Defensa del Contribuyente podrá dictar:
 I.- Acuerdos de trámite, para que las autoridades fiscales federales aporten información o documentación, salvo aquella que la Ley considere reservada o confidencial;
@@ -229,6 +234,7 @@ En contra de las recomendaciones, acuerdos o resoluciones definitivas de la Proc
 .- Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
 
 ## Capítulo VI — De las Sanciones
+
 
 ### Artículo 28
 .- Los servidores públicos de las autoridades fiscales federales serán sancionados:
@@ -259,14 +265,14 @@ MINISTRO PONENTE: SERGIO SALVADOR AGUIRRE ANGUIANO.
 SECRETARIO: EDUARDO DELGADO DURAN.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día veintiséis de febrero de dos mil ocho.
 VISTOS; Y RESULTANDO:
-**PRIMERO.** a OCTAVO. ……….
+**PRIMERO.-** a OCTAVO. ……….
 CONSIDERANDO:
-**PRIMERO.** a CUARTO. ……….
-**QUINTO.** ……….
+**PRIMERO.-** a CUARTO. ……….
+**QUINTO.-** ……….
 El artículo 5o., fracción VII, de la Ley impugnada, en la parte que interesa, dice textualmente: "Artículo 5. Corresponderá a la Procuraduría de la Defensa del Contribuyente: (…)
 
 VII. Informar anualmente al Congreso de la Unión sobre el ejercicio de su función y comparecer siempre que sea convocado para ese efecto, ante el Pleno o las Comisiones camerales correspondientes; (…)” …….
-**SEXTO.** …….
+**SEXTO.-** …….
 El precepto legal impugnado de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente establece, en su parte conducente, lo que sigue: "Artículo. 12. El Organo de Gobierno de la Procuraduría es un cuerpo colegiado que se integra de la siguiente manera:
 
 I. (…)
@@ -281,9 +287,9 @@ Todos los miembros del Organo de Gobierno tienen derecho de voz y voto.
 Las sesiones del Organo de Gobierno serán convocadas por el Procurador, o mediante solicitud que formulen a éste cuando menos tres de sus miembros. Las demás reglas para el debido funcionamiento del Organo de Gobierno se establecerán en el Estatuto Orgánico." ……….
 SEPTIMO. De conformidad con los artículos 73 y 41, fracción IV, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, la invalidez decretada respecto de los artículos 5o., fracción VII, y 12, fracción II, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente surtirá efectos a partir de la legal notificación de esta sentencia al Congreso de la Unión.
 Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se declara la invalidez de los artículos 5o., fracción VII, y 12, fracción II, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de septiembre de dos mil seis, en el Diario Oficial de la Federación.
-**TERCERO.** Se desestima la acción de inconstitucionalidad respecto del artículo 9o., párrafos primero y segundo, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de septiembre de dos mil seis en el Diario Oficial de la Federación.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se declara la invalidez de los artículos 5o., fracción VII, y 12, fracción II, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de septiembre de dos mil seis, en el Diario Oficial de la Federación.
+**TERCERO.-** Se desestima la acción de inconstitucionalidad respecto del artículo 9o., párrafos primero y segundo, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de septiembre de dos mil seis en el Diario Oficial de la Federación.
 Notifíquese por medio de oficio a las partes interesadas y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, por mayoría de diez votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga María del Carmen Sánchez Cordero de García Villegas y Presidente Guillermo I. Ortiz Mayagoitia, se aprobó la propuesta de declarar la invalidez del artículo 5, fracción VII, de la Ley Orgánica de la Orgánica de la Procuraduría del Contribuyente, y el Señor Ministro Juan N. Silva Meza votó en contra y se reservó su derecho para formular voto particular.
 Por mayoría de siete votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, José Fernando Franco González Salas, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández y Presidente Guillermo I. Ortiz Mayagoitia, se aprobó la propuesta de declarar la invalidez del artículo 9, párrafos primero y segundo de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, y los señores Ministros Margarita Beatriz Luna Ramos, Genaro David Góngora Pimentel, Olga María del Carmen Sánchez Cordero de García Villegas y Juan N. Silva Meza, votaron en contra y se reservaron su derecho a formular votos particulares o, en su caso, voto de minoría, y los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, José Fernando Franco González Salas y Sergio A. Valls Hernández, se reservaron su derecho para formular, en su caso y oportunidad, votos concurrentes o un voto concurrente conjunto.
@@ -311,9 +317,9 @@ Se reforman los artículos 8, primer párrafo y fracción III; 9; 10 y 12 de la 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

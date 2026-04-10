@@ -15,7 +15,9 @@ Se expide la Ley de la Guardia Nacional, para quedar como sigue:
 
 ## TÍTULO PRIMERO — Disposiciones Preliminares
 
+
 ## Capítulo I
+
 Generalidades de la Ley
 
 ### Artículo 1
@@ -46,6 +48,7 @@ IX. Secretario: Persona titular de la Secretaría de la Defensa Nacional y Alto 
 . A falta de disposición expresa se aplicarán en forma supletoria, en lo que resulten aplicables, la Ley General del Sistema Nacional de Seguridad Pública y el Código Nacional de Procedimientos Penales, así como toda aquella normativa aplicable en la materia.
 
 ## Capítulo II
+
 Fines y Principios de la Guardia Nacional
 
 ### Artículo 4
@@ -91,6 +94,7 @@ IX. Auxiliar al Ejército, Fuerza Aérea y Armada en el ejercicio de sus misione
 . La Guardia Nacional regirá su actuación por los principios de patriotismo, legalidad, objetividad, eficiencia, profesionalismo, honradez, honestidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
 
 ## Capítulo III
+
 Atribuciones y Obligaciones de la Guardia Nacional
 
 ### Artículo 9
@@ -217,9 +221,11 @@ II. Equipo especializado, y
 III. Recursos para gastos de investigación.
 
 ## TÍTULO SEGUNDO
+
 Integración de la Guardia Nacional
 
 ## Capítulo I
+
 Generalidades
 
 ### Artículo 11
@@ -255,6 +261,7 @@ VI. Unidades Circunstanciales.
 
 ## Capítulo II — De la Secretaría
 
+
 ### Artículo 14
 . La persona titular de la Secretaría, de conformidad con las instrucciones que reciba de la persona titular del Ejecutivo Federal, es el responsable de organizar, equipar, educar, adiestrar, capacitar, administrar y desarrollar a la Guardia Nacional, correspondiéndole las facultades siguientes:
 
@@ -279,6 +286,7 @@ IX. Autorizar adecuaciones a la estructura orgánica de la Guardia Nacional, y
 X. Las demás establecidas en esta Ley y disposiciones aplicables.
 
 ## Capítulo III — Del Comandante y las Coordinaciones
+
 
 ### Artículo 15
 . La persona titular de la Comandancia debe ostentar la jerarquía de General de División de Guardia Nacional y será nombrada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría.
@@ -407,6 +415,7 @@ Los organismos constituidos por tropas de la Guardia Nacional, estructurados int
 
 ## Capítulo IV — De la Composición y Actuación de la Guardia Nacional
 
+
 ### Artículo 22
 . La Guardia Nacional tendrá la estructura orgánica que determine su reglamento y contará al menos con:
 
@@ -434,7 +443,9 @@ El Comandante expedirá los manuales de operación de la Jefatura General de Coo
 
 ## TÍTULO TERCERO — Del Personal integrante de la Guardia Nacional
 
+
 ## Capítulo I
+
 Ingreso
 
 ### Artículo 26
@@ -452,6 +463,7 @@ III. El personal de la Guardia Nacional deberá cursar y aprobar los programas d
 IV. Las sanciones que se apliquen al personal de la Guardia Nacional por infracciones al régimen de responsabilidades administrativas, se determinarán mediante el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 ## Capítulo II — De los Grados y el Escalafón
+
 
 ### Artículo 28
 . La escala jerárquica de la Guardia Nacional tiene por objeto el ejercicio del mando.
@@ -568,6 +580,7 @@ Sargento Primero de Guardia Nacional Sargento Primero Segundo Maestre Sargento S
 . De acuerdo con su situación en la Guardia Nacional, los militares con formación policial se consideran en: activo, reserva y retiro.
 
 ## Capítulo III
+
 Situación de los integrantes de la Guardia Nacional
 
 ### Artículo 42
@@ -661,9 +674,11 @@ III. Memorial de Servicios, y
 IV. Extracto de Antecedentes.
 
 ## TÍTULO CUARTO
+
 Armamento
 
 ## Capítulo I — De la Disposición
+
 
 ### Artículo 50
 . Para el cumplimiento de sus fines la Guardia Nacional dispondrá de:
@@ -680,6 +695,7 @@ El personal de la Guardia Nacional hará uso diferenciado de la fuerza y de las 
 
 ## Capítulo II — De la Posesión
 
+
 ### Artículo 52
 . La posesión de las armas de fuego se regirá por lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
 
@@ -687,6 +703,7 @@ El personal de la Guardia Nacional hará uso diferenciado de la fuerza y de las 
 . La capacidad de armamento y municiones con que se encuentre dotada la Guardia Nacional se especificará en las planillas orgánicas respectivas.
 
 ## Capítulo III — De la Portación y Uso
+
 
 ### Artículo 54
 . Únicamente el personal de la Guardia Nacional que haya acreditado su capacitación sobre el empleo de las armas de fuego y municiones podrá portar las mismas.
@@ -700,6 +717,7 @@ Queda prohibido el empleo de armamento oficial en actividades ajenas al servicio
 El integrante de la Guardia Nacional deberá entregar el armamento de cargo al término de sus actividades oficiales, en las instalaciones de la unidad a la que pertenezca.
 
 ## Capítulo IV — Del Control y Vigilancia
+
 
 ### Artículo 57
 . Las personas titulares de los organismos de los distintos niveles de mando de la Guardia Nacional supervisarán el control y resguardo del armamento que tengan a su cargo.
@@ -720,9 +738,11 @@ Solo se podrá acceder a las armas y municiones a través de las autorizaciones 
 Queda prohibida la portación de armas de cargo fuera de las actividades del servicio.
 
 ## TÍTULO QUINTO
+
 Régimen Disciplinario
 
 ## Capítulo I — De las Obligaciones
+
 
 ### Artículo 62
 . El personal integrante de la Guardia Nacional, por lo que hace a los delitos en que incurra durante su función policial, estará sujeto al fuero federal; asimismo, a la jurisdicción militar respecto de los delitos especificados en el Libro Segundo del Código de Justicia Militar.
@@ -890,13 +910,16 @@ Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo
 
 ## Capítulo II — De los Delitos Contra la Disciplina
 
+
 ### Artículo 77
 . Para el caso de las faltas que constituyan delitos, se estará a lo previsto en la legislación penal militar y del fuero federal o común, según corresponda.
 Por lo que respecta a las responsabilidades administrativas, se estará a lo establecido en la Ley General de Responsabilidades Administrativas.
 
 ## TÍTULO SEXTO — De la Coordinación y la Colaboración
 
+
 ## Capítulo I — De la Coordinación y Colaboración con las
+
 Entidades Federativas y Municipios
 
 ### Artículo 78
@@ -931,6 +954,7 @@ Excepcionalmente, los convenios de colaboración que se suscriban entre la Secre
 
 ## Capítulo II — Disposiciones Complementarias
 
+
 ### Artículo 83
 . En los casos en que resulte necesario, la Guardia Nacional podrá auxiliarse de cualquier institución de seguridad pública o personas que presten servicios de seguridad privada en términos de la ley.
 
@@ -941,9 +965,11 @@ Excepcionalmente, los convenios de colaboración que se suscriban entre la Secre
 . Cuando durante el desarrollo de la investigación la Guardia Nacional estime necesaria la realización de diligencias que requieran una tramitación especial o la autorización de la autoridad jurisdiccional, lo comunicará sin demora al Ministerio Público que la esté conduciendo, quien resolverá lo conducente.
 
 ## TÍTULO SÉPTIMO
+
 Controles
 
 ## Capítulo I — Del Control Parlamentario
+
 
 ### Artículo 86
 . Al inicio del segundo periodo ordinario de sesiones de cada año legislativo, el Ejecutivo Federal presentará por escrito ante el Senado de la República, un informe de las actividades desarrolladas por la Guardia Nacional durante el año inmediato anterior.
@@ -984,6 +1010,7 @@ XIII. La estrategia desplegada para el cumplimiento de los fines de la Guardia N
 . El Senado de la República analizará y, en su caso, aprobará el informe dentro del mismo periodo ordinario de sesiones en el que haya sido presentado.
 
 ## Capítulo II — Del Control Judicial
+
 
 ### Artículo 90
 . De conformidad con los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, con la Ley Federal Contra la Delincuencia Organizada, con la Ley de Seguridad Nacional, con el Código Nacional de Procedimientos Penales y con la presente Ley, la Guardia Nacional podrá solicitar ante la autoridad jurisdiccional la intervención de comunicaciones. La autorización judicial correspondiente podrá otorgarse a solicitud de la persona titular de la Comandancia o de la Jefatura General de Coordinación Policial, cuando se constatare la existencia de indicios suficientes que acrediten que se está organizando la comisión de los delitos que se señalan en el artículo 93 de esta Ley.

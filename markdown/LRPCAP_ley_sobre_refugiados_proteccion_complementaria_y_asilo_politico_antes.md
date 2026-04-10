@@ -16,7 +16,9 @@ Denominación de la Ley reformada DOF 30-10-2014
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1
 . Las disposiciones de esta Ley son de orden público y de observancia general en la República.
@@ -58,7 +60,8 @@ XV. Perspectiva Intercultural. La consideración y análisis de la Intercultural
 Fracción adicionada DOF 18-02-2022
 
 XVI. Interseccionalidad. Los procesos a través de los cuales las identidades sociales múltiples convergen y en definitiva conforman las experiencias individuales y sociales, que permite establecer relaciones entre múltiples posiciones y categorías en la construcción de la identidad, escapando de la atención a una única categoría identitaria.
-Fracción adicionada DOF 18-02-2022 Artículo reformado DOF 30-10-2014
+Fracción adicionada DOF 18-02-2022
+Artículo reformado DOF 30-10-2014
 
 ### Artículo 3
 . La presente Ley tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilos y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos y propiciar la interculturalidad.
@@ -69,7 +72,9 @@ Artículo reformado DOF 30-10-2014, 18-02-2022
 
 ## TÍTULO SEGUNDO — DE LA CONDICIÓN DE REFUGIADO
 
+
 ## CAPÍTULO I — DE LOS PRINCIPIOS
+
 
 ### Artículo 5
 . En aplicación de esta Ley se observarán, entre otros, los siguientes principios y criterios:
@@ -109,6 +114,7 @@ Cuando para el ejercicio de sus facultades alguna autoridad requiera informació
 
 ## CAPÍTULO II — DE LA CONDICIÓN DE REFUGIADO
 
+
 ### Artículo 11
 . Todo extranjero que se encuentre en territorio nacional tiene derecho a solicitar, por sí, por su representante legal o por interpósita persona, el reconocimiento de la condición de refugiado. Si el extranjero solicitase dicho reconocimiento a través de su representante legal o por interpósita persona, deberá de ratificar su solicitud ante la Secretaría dentro del término de tres días hábiles. Si el extranjero la ratifica se continuará el procedimiento de reconocimiento, en caso contrario, se tendrá por no presentada la solicitud. El procedimiento de reconocimiento de la condición de refugiado sólo podrá continuarse por el solicitante o por su representante legal de conformidad con lo establecido en esta Ley y su reglamento.
 
@@ -129,9 +135,12 @@ III. Que debido a circunstancias que hayan surgido en su país de origen o como 
 . Los refugiados reconocidos bajo los supuestos de la fracción III del artículo 13 de esta Ley, que previo a su reconocimiento hayan generado derechos de residencia, podrán optar por mantener su situación migratoria o acogerse a lo dispuesto por esta Ley y su reglamento.
 
 ## TÍTULO TERCERO — DE LAS ATRIBUCIONES EN MATERIA DE REFUGIADOS, PROTECCIÓN
-COMPLEMENTARIA Y ASILO POLÍTICO Denominación del Título reformada DOF 30-10-2014
+
+COMPLEMENTARIA Y ASILO POLÍTICO
+Denominación del Título reformada DOF 30-10-2014
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 14
 Bis. En materia de Asilo Político, compete a la Secretaría de Relaciones Exteriores:
@@ -216,9 +225,11 @@ I. Promover la participación de organismos nacionales e internacionales, que se
 II. Suscribir convenios de colaboración necesarios para el cumplimiento de sus atribuciones, sin perjuicio de las atribuciones que correspondan a otras autoridades en la materia.
 
 ## TÍTULO CUARTO — DEL RECONOCIMIENTO DE LA CONDICIÓN DE REFUGIADO Y DEL OTORGAMIENTO DE
+
 PROTECCIÓN COMPLEMENTARIA
 
 ## CAPÍTULO I — DEL RECONOCIMIENTO DE LA CONDICIÓN DE REFUGIADO
+
 
 ### Artículo 18
 . El extranjero que solicite ser reconocido como refugiado deberá presentar por escrito su solicitud ante la Secretaría dentro del término de 30 días hábiles contados a partir del día hábil siguiente al que haya ingresado al país o, en su caso, a aquél en que le haya sido materialmente posible presentarla en los términos que defina el reglamento.
@@ -237,7 +248,8 @@ Párrafo reformado DOF 11-11-2020
 
 ### Artículo 21
 . Cuando un extranjero que se encuentre en alguno de los lugares destinados al tránsito internacional de personas, o sujeto a un procedimiento administrativo migratorio, sin importar la etapa de dicho procedimiento, o bien, carezca de documentación que acredite su situación migratoria regular en el territorio nacional, solicite el reconocimiento de la condición de refugiado, la Secretaría deberá dictar las medidas que resulten estrictamente necesarias en cada caso, de conformidad con el reglamento.
-Párrafo reformado DOF 30-10-2014 La presentación de la solicitud de un extranjero no dejará sin efectos las medidas que se hayan dictado con anterioridad a la solicitud.
+Párrafo reformado DOF 30-10-2014
+La presentación de la solicitud de un extranjero no dejará sin efectos las medidas que se hayan dictado con anterioridad a la solicitud.
 Cualquier autoridad que tenga conocimiento de la pretensión de un extranjero de solicitar el reconocimiento de la condición de refugiado, deberá dar aviso por escrito y de manera inmediata a la Secretaría. El incumplimiento de lo anterior será sancionado conforme a las disposiciones aplicables en materia de responsabilidades de los servidores públicos.
 Una vez presentada formalmente la solicitud, ninguna autoridad podrá proporcionar información o notificar a las autoridades diplomáticas o consulares del país de origen del solicitante, a menos que se cuente con evidencia del consentimiento expreso de éste.
 Durante el procedimiento el solicitante podrá promover por sí o a través de su representante legal. Si el solicitante se encuentra en alguna estación migratoria, se deberán tomar las medidas para garantizar la comunicación con su representante legal o, en su caso, con la persona de su confianza de conformidad con las disposiciones aplicables. En todo momento las entrevistas se deberán desahogar de manera personal con el solicitante, pudiendo estar acompañado por su representante legal.
@@ -248,7 +260,8 @@ Durante el procedimiento el solicitante podrá promover por sí o a través de s
 ### Artículo 23
 . El solicitante deberá aportar sus datos de identificación completos y verídicos, los motivos en los cuales basa su solicitud, así como todos los elementos de los que disponga para sustentarla. Desde la presentación de la solicitud hasta antes de que la Secretaría emita resolución, el solicitante podrá aportar todas las pruebas que a su derecho convengan.
 La Secretaría, tomando en consideración el contexto social y cultural de donde provenga el solicitante, así como su edad, género y otras circunstancias particulares, realizará de manera personal las entrevistas que resulten necesarias, a fin de allegarse de elementos para el análisis de su solicitud. En el caso de niñas, niños y adolescentes migrantes no acompañados, se estará a lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-Párrafo reformado DOF 11-11-2020 En la substanciación del procedimiento, especialmente durante el desarrollo de las entrevistas, en caso de ser necesario se contará con el apoyo de un traductor o intérprete y de los especialistas que se requieran para facilitar la comunicación con el solicitante, mismos que en todo momento deberán de preservar la confidencialidad de la información.
+Párrafo reformado DOF 11-11-2020
+En la substanciación del procedimiento, especialmente durante el desarrollo de las entrevistas, en caso de ser necesario se contará con el apoyo de un traductor o intérprete y de los especialistas que se requieran para facilitar la comunicación con el solicitante, mismos que en todo momento deberán de preservar la confidencialidad de la información.
 
 ### Artículo 24
 . La Secretaría analizará y evaluará todas las solicitudes de reconocimiento de la condición de refugiado y deberá emitir, en cada caso, resolución escrita, fundada y motivada, dentro de los 45 días hábiles contados a partir del día siguiente a la presentación de la solicitud.
@@ -287,6 +300,7 @@ En el supuesto de la fracción II se deberá atender la naturaleza del delito y 
 
 ## CAPÍTULO II — DE LA PROTECCIÓN COMPLEMENTARIA
 
+
 ### Artículo 28
 . La Secretaría podrá otorgar protección complementaria al extranjero que, no encontrándose dentro de los supuestos del artículo 13 de esta Ley, requiera protección para no ser devuelto al territorio de otro país en donde su vida peligre o en donde existan razones fundadas para creer que estaría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
 Para el otorgamiento de dicha protección la Secretaría deberá considerar la opinión de la Secretaría de Relaciones Exteriores, misma que se solicitará conforme a lo previsto en el artículo 24 de esta Ley.
@@ -311,7 +325,9 @@ II. Cuando desaparezcan las circunstancias que motivaron el otorgamiento de la p
 
 ## TÍTULO QUINTO — DE LOS PROCEDIMIENTOS DE CESACIÓN, REVOCACIÓN Y CANCELACIÓN
 
+
 ## CAPÍTULO I — DE LA CESACIÓN, DE LA REVOCACIÓN Y DE LA CANCELACIÓN
+
 
 ### Artículo 33
 . La Secretaría cesará el reconocimiento de la condición de refugiado al que:
@@ -343,6 +359,7 @@ Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO II — DISPOSICIONES COMUNES
 
+
 ### Artículo 36
 . Corresponde a la Secretaría cesar, cancelar o revocar el reconocimiento de la condición de refugiado. Para lo anterior, la Secretaría deberá emitir resolución fundada y motivada con respecto a la cesación, cancelación o revocación del reconocimiento de la condición de refugiado, dentro de los 45 días hábiles contados a partir del día en que se inicie el procedimiento respectivo y la cual deberá ser notificada al extranjero.
 El plazo para emitir la resolución podrá ampliarse hasta por un período igual a juicio de la Secretaría y únicamente cuando existan razones justificadas que lo motiven, las que serán:
@@ -364,7 +381,8 @@ Los procedimientos de cesación, revocación o cancelación del reconocimiento d
 . Durante la substanciación de un procedimiento de cesación, revocación o cancelación, la Secretaría deberá informar a los extranjeros que gozan de la condición derivada de refugiado mencionados en el artículo 12, que podrán presentar por escrito una nueva solicitud de reconocimiento de la condición de refugiado independiente del solicitante principal. En este supuesto, la condición derivada se mantendrá hasta que se llegue a una determinación final de la solicitud.
 En relación con el cónyuge, concubinario, concubina, hijos y aquellos dependientes del extranjero cuyo reconocimiento de la condición de refugiado fuere cesado, revocado o cancelado, tendrán el derecho de solicitar el reconocimiento de la condición de refugiado. En caso de no presentar la solicitud correspondiente, la cesación, revocación o cancelación será efectiva, transcurrido el plazo de 30 días hábiles a partir de la determinación correspondiente al refugiado principal.
 No obstante, podrán solicitar a la autoridad migratoria les sea otorgada una condición de estancia en el país.
-Párrafo reformado DOF 30-10-2014 Articulo 39. En contra de la resolución procederá el recurso de revisión, mismo que deberá ser presentado dentro de los 15 días hábiles siguientes contados a partir de la notificación respectiva. De igual forma el extranjero podrá interponer los medios de defensa que estime pertinentes de conformidad con las disposiciones aplicables.
+Párrafo reformado DOF 30-10-2014
+Articulo 39. En contra de la resolución procederá el recurso de revisión, mismo que deberá ser presentado dentro de los 15 días hábiles siguientes contados a partir de la notificación respectiva. De igual forma el extranjero podrá interponer los medios de defensa que estime pertinentes de conformidad con las disposiciones aplicables.
 
 ### Artículo 40
 . El refugiado que se encuentre sujeto a un procedimiento de cesación, revocación o cancelación del reconocimiento de la condición de refugiado, tendrá entre otros, derecho a:
@@ -388,7 +406,9 @@ Párrafo reformado DOF 11-11-2020
 
 ## TÍTULO SEXTO — DE LOS REFUGIADOS
 
+
 ## CAPÍTULO I — DE LOS DERECHOS Y OBLIGACIONES
+
 
 ### Artículo 44
 . En virtud de las condiciones que presentan los refugiados al salir de su país de origen respecto de los demás extranjeros, deberán recibir las mayores facilidades posibles para el acceso a los derechos y garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos y los instrumentos de derechos humanos debidamente firmados y ratificados por el Estado Mexicano, de conformidad con las disposiciones aplicables, entre ellos:
@@ -413,6 +433,7 @@ Fracción reformada DOF 30-10-2014
 
 ## CAPÍTULO II — DE LOS REFUGIADOS RECONOCIDOS EN OTRO PAÍS
 
+
 ### Artículo 46
 . La Secretaría podrá autorizar a un extranjero reconocido como refugiado en otro país, que no gozaba de protección efectiva, su internación como refugiado al territorio nacional, de conformidad con lo establecido en el reglamento de esta Ley.
 
@@ -422,6 +443,7 @@ Si la protección otorgada por un tercer país fuese efectiva y las causas por l
 La Secretaría deberá emitir una resolución fundada y motivada sobre este hecho, la cual deberá ser notificada por escrito al extranjero. El refugiado podrá interponer recurso de revisión dentro de los 15 días hábiles siguientes contados a partir de la notificación de acuerdo con el reglamento; de igual forma podrá interponer los medios de defensa que estime pertinentes de conformidad con las disposiciones aplicables. La salida del refugiado sólo procederá en caso de no existir riesgos a su vida, libertad y seguridad.
 
 ## CAPÍTULO III — DE LA ESTANCIA EN TERRITORIO NACIONAL
+
 
 ### Artículo 48
 . A los refugiados y aquellos extranjeros que se les otorgue protección complementaria se les concederá la residencia permanente en los Estados Unidos Mexicanos.
@@ -464,9 +486,11 @@ Artículo reformado DOF 18-02-2022
 . Para efectos de la reunificación familiar, la Secretaría podrá autorizar, por derivación de la condición de refugiado, la internación a territorio nacional del cónyuge, concubinario, concubina, hijos, parientes consanguíneos hasta el cuarto grado, parientes consanguíneos del cónyuge, concubinario, concubina, hasta el segundo grado que dependan económicamente del refugiado, así como la capacidad económica para su manutención.
 
 ## TÍTULO SÉPTIMO — DEL ASILO POLÍTICO
+
 Título adicionado DOF 30-10-2014
 
 ## CAPÍTULO I — PRINCIPIOS
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 59
@@ -479,6 +503,7 @@ Cuando alguna autoridad requiera información respecto a los solicitantes de asi
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO II — DEL OTORGAMIENTO DE ASILO POLÍTICO
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 61
@@ -490,6 +515,7 @@ Artículo adicionado DOF 30-10-2014
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO III — DEL PROCEDIMIENTO DE OTORGAMIENTO DE ASILO POLÍTICO
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 63
@@ -529,6 +555,7 @@ Artículo adicionado DOF 30-10-2014
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO IV — DEL RETIRO Y RENUNCIA DEL ASILO POLÍTICO
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 71
@@ -550,6 +577,7 @@ En los casos de renuncia a que se refiere el presente artículo, la Secretaría 
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO V — DE LA ESTANCIA EN TERRITORIO NACIONAL
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 73
@@ -561,6 +589,7 @@ Artículo adicionado DOF 30-10-2014
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO VI — DE LA ASISTENCIA INSTITUCIONAL
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 75
@@ -568,6 +597,7 @@ Capítulo adicionado DOF 30-10-2014
 Artículo adicionado DOF 30-10-2014
 
 ## CAPÍTULO VII — DE LOS TRÁMITES PREVISTOS EN LA LEY
+
 Capítulo adicionado DOF 30-10-2014
 
 ### Artículo 76
@@ -576,19 +606,19 @@ Artículo adicionado DOF 30-10-2014
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo previsto en la Ley General de Población y su reglamento, y que se encuentren pendientes de resolución podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.
-**TERCERO.** Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
+**PRIMERO.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo previsto en la Ley General de Población y su reglamento, y que se encuentren pendientes de resolución podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.
+**TERCERO.-** Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
 Artículo reformado DOF 30-10-2014
-**CUARTO.** Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud, Relaciones Exteriores y la Procuraduría General de la República realizarán las acciones necesarias para que la implementación del presente Decreto se realice, en su caso, con los recursos aprobados a las mismas, para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán sus presupuestos regularizables.
-**QUINTO.** El Ejecutivo a través de la Secretaría de Gobernación, contará con un plazo de 180 días naturales para la publicación del reglamento de la presente Ley, en el Diario Oficial de la Federación.
+**CUARTO.-** Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud, Relaciones Exteriores y la Procuraduría General de la República realizarán las acciones necesarias para que la implementación del presente Decreto se realice, en su caso, con los recursos aprobados a las mismas, para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán sus presupuestos regularizables.
+**QUINTO.-** El Ejecutivo a través de la Secretaría de Gobernación, contará con un plazo de 180 días naturales para la publicación del reglamento de la presente Ley, en el Diario Oficial de la Federación.
 
 ### Artículo Segundo
 ………
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 9 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones, así como la denominación de la Ley sobre Refugiados y Protección Complementaria; y se reforman y adicionan diversos artículos de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 30 de octubre de 2014
@@ -598,10 +628,10 @@ Se reforman la denominación de la Ley sobre Refugiados y Protección Complement
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
-**Tercero.** La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
-**Cuarto.** Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
+**Tercero.-** La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+**Cuarto.-** Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
 México, D.F., a 25 de septiembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversos artículos de la Ley de Migración y de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, en materia de Infancia Migrante.
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2020
@@ -611,9 +641,9 @@ Se adiciona un tercer párrafo al artículo 6; se reforman el artículo 9; el se
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
-**Tercero.** El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
+**Primero.-** El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
+**Tercero.-** El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
 Ciudad de México, a 29 de septiembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

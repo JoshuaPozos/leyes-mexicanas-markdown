@@ -15,6 +15,7 @@ Se expide la Ley Federal de Revocación de Mandato
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es reglamentaria de la fracción IX del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos, en materia de revocación de mandato del titular de la Presidencia de la República.
 
@@ -52,7 +53,9 @@ VIII. Tribunal Electoral: La Sala Superior del Tribunal Electoral del Poder Judi
 
 ## CAPÍTULO II — DE LA PETICIÓN DEL PROCESO DE REVOCACIÓN DE MANDATO
 
+
 ## SECCIÓN PRIMERA — DE LOS SUJETOS
+
 
 ### Artículo 7
 . El inicio del proceso de revocación de mandato solamente procederá a petición de las personas ciudadanas en un número equivalente, al menos, al tres por ciento de las inscritas en la lista nominal de electores, siempre y cuando la solicitud corresponda a por lo menos diecisiete entidades federativas y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada una de ellas.
@@ -78,6 +81,7 @@ La presentación de varias solicitudes para iniciar el proceso de revocación de
 
 ## SECCIÓN SEGUNDA — DE LA FASE PREVIA
 
+
 ### Artículo 11
 . Las ciudadanas y ciudadanos interesados en presentar la solicitud deberán informar al Instituto durante el primer mes posterior a la conclusión del tercer año del periodo constitucional de la persona titular de la Presidencia de la República. A ese efecto, podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha señalada anteriormente. El Instituto emitirá, a partir de esta fecha, los formatos impresos y medios electrónicos para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
 De forma inmediata, y sin mayor trámite, el Instituto les proporcionará el formato autorizado para la recopilación de firmas y les dará a conocer de forma detallada el número mínimo de firmas de apoyo requeridas y cada una de las variantes que deberán reunir para la procedencia de su solicitud, de conformidad con los supuestos previstos en el artículo 7 de esta Ley.
@@ -101,6 +105,7 @@ El Instituto vigilará y, en su caso, iniciará el procedimiento sancionador que
 El Instituto vigilará y, en su caso, iniciará el procedimiento sancionador que corresponda, de conformidad con lo previsto en la Ley General, por la inobservancia a este precepto.
 
 ## SECCIÓN TERCERA — DEL INICIO DEL PROCESO DE REVOCACIÓN DE MANDATO
+
 
 ### Artículo 15
 . El proceso de revocación de mandato inicia con la solicitud que presentan las ciudadanas y los ciudadanos que se ubiquen en los supuestos previstos en los artículos 7 y 8 de esta Ley.
@@ -127,6 +132,7 @@ Si durante el plazo señalado en el párrafo anterior, las personas peticionaria
 
 ## SECCIÓN CUARTA — DE LA CONVOCATORIA
 
+
 ### Artículo 19
 . La Convocatoria para el proceso de revocación de mandato deberá contener, al menos, lo siguiente:
 
@@ -148,9 +154,11 @@ VII. El lugar y fecha de la emisión de la Convocatoria.
 . La Convocatoria que expida el Instituto deberá publicarse en su portal oficial de Internet, en sus oficinas centrales y desconcentradas, y en el Diario Oficial de la Federación.
 
 ## CAPÍTULO III — DE LAS ATRIBUCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE
+
 REVOCACIÓN DE MANDATO
 
 ## SECCIÓN PRIMERA — DE LA VERIFICACIÓN DEL APOYO CIUDADANO
+
 
 ### Artículo 21
 . Al Instituto le corresponde verificar el porcentaje establecido en el artículo 7 de esta Ley.
@@ -192,6 +200,7 @@ Para la preparación de dicho mecanismo de participación ciudadana el Instituto
 
 ## SECCIÓN SEGUNDA — DE LA ORGANIZACIÓN DE LA REVOCACIÓN DE MANDATO
 
+
 ### Artículo 27
 . El Instituto es responsable de la organización, desarrollo y cómputo de la votación de los procesos de revocación de mandato y de llevar a cabo la promoción del voto, en términos de esta Ley y de la Ley General, garantizando la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad y perspectiva de género en el ejercicio de la función de la participación ciudadana.
 
@@ -219,6 +228,7 @@ II. Las demás que le encomiende la normatividad aplicable o le instruya el Cons
 
 ## SECCIÓN TERCERA — DE LA DIFUSIÓN DEL PROCESO DE REVOCACIÓN DE MANDATO
 
+
 ### Artículo 32
 . El Instituto deberá iniciar la difusión de la consulta al día siguiente de la publicación de la Convocatoria en el Diario Oficial de la Federación, la cual concluirá hasta tres días previos a la fecha de la jornada.
 Durante la campaña de difusión, el Instituto promoverá la participación de las y los ciudadanos en la revocación de mandato a través de los tiempos en radio y televisión que corresponden a la autoridad electoral.
@@ -241,6 +251,7 @@ Queda prohibido el uso de recursos públicos para la recolección de firmas, as�
 Las ciudadanas y los ciudadanos podrán dar a conocer su posicionamiento sobre la revocación de mandato por todos los medios a su alcance, de forma individual o colectiva, salvo las restricciones establecidas en el párrafo cuarto del artículo 33 de la presente Ley.
 
 ## SECCIÓN CUARTA — DE LOS ACTOS PREVIOS A LA JORNADA DE REVOCACIÓN DE MANDATO
+
 
 ### Artículo 36
 . Para la emisión del voto en los procesos de revocación de mandato, el Instituto diseñará la papeleta conforme al modelo y contenido que apruebe el Consejo General, debiendo contener los siguientes datos:
@@ -291,6 +302,7 @@ La entrega y recepción del material a que se refieren los párrafos anteriores 
 . El Instituto podrá designar adicionalmente a uno o más ciudadanas o ciudadanos para que se integren a las mesas directivas de casilla, con la finalidad de que funjan como escrutadores de la revocación de mandato.
 
 ## SECCIÓN QUINTA — DE LA JORNADA DE REVOCACIÓN DE MANDATO
+
 
 ### Artículo 40
 . La jornada de revocación de mandato se sujetará al procedimiento dispuesto para la celebración de la jornada electoral contenido en el Título Tercero del Libro Quinto de la Ley General, con las particularidades que prevé la presente sección.
@@ -364,6 +376,7 @@ La mesa directiva, bajo su responsabilidad, hará llegar el expediente de la rev
 
 ## SECCIÓN SEXTA — DE LOS RESULTADOS
 
+
 ### Artículo 52
 . Los Consejos Distritales iniciarán el cómputo ininterrumpido de los resultados a partir del término legal de la jornada de revocación de mandato y hasta la conclusión del mismo. El cómputo distrital consistirá en la suma de los resultados consignados en las actas de escrutinio y cómputo de las casillas instaladas.
 
@@ -383,6 +396,7 @@ IV. Informe de la presidencia del Consejo Distrital sobre el desarrollo del proc
 Si se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la votación en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente, ni obrare en poder de la presidenta o presidente del Consejo, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente.
 
 ## CAPÍTULO IV — DE LAS ATRIBUCIONES DEL TRIBUNAL ELECTORAL EN MATERIA DE REVOCACIÓN DE
+
 MANDATO
 
 ### Artículo 55
@@ -404,16 +418,19 @@ IV. Las demás que disponga la presente Ley y demás disposiciones jurídicas ap
 
 ## CAPÍTULO V — DE LA VINCULATORIEDAD Y SEGUIMIENTO
 
+
 ### Artículo 58
 . La revocación de mandato sólo procederá por mayoría absoluta. Cuando la declaratoria de validez que emita el Tribunal Electoral indique que la participación total de la ciudadanía en el proceso de revocación de mandato fue, al menos, del cuarenta por ciento de las personas inscritas en la lista nominal de electores, el resultado será vinculatorio para la persona titular de la Presidencia de la República.
 El Tribunal Electoral notificará de inmediato los resultados del proceso de revocación de mandato al titular de la Presidencia de la República, al Congreso de la Unión, a la Suprema Corte de Justicia de la Nación y al Instituto, para los efectos constitucionales correspondientes.
 
 ## CAPÍTULO VI — DE LOS MEDIOS DE IMPUGNACIÓN
 
+
 ### Artículo 59
 . [Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones emitidos en el proceso de revocación de mandato, será aplicable el sistema de medios de impugnación, en términos de lo dispuesto por los artículos 41, fracción VI, y 99, fracción III, de la Constitución.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 04-02-2022 y publicada DOF 26-09-2022
 
 ## CAPÍTULO VII — DE LA SEPARACIÓN DEL CARGO
+
 
 ### Artículo 60
 . Si los resultados de la jornada de votación de la ciudadanía indican que procede la revocación de mandato, la persona titular de la Presidencia de la República se entenderá separada definitivamente del cargo, cuando el Tribunal Electoral emita la declaratoria de revocación.
@@ -421,26 +438,27 @@ Hecho lo anterior, se procederá de forma inmediata según lo previsto en el úl
 
 ## CAPÍTULO VIII — RÉGIMEN DE SANCIONES
 
+
 ### Artículo 61
 . [Corresponde al Instituto vigilar y, en su caso, sancionar las infracciones a la presente Ley en los términos de la Ley General. Las decisiones podrán ser impugnadas ante la Sala Superior del Tribunal Electoral.
 Corresponde a las autoridades competentes conocer y sancionar cualquier otra conducta que infrinja la presente Ley, en términos de las disposiciones aplicables.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 04-02-2022 y publicada DOF 26-09-2022
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan al mismo.
-**Tercero.** El Instituto deberá tener a disposición de las ciudadanas y los ciudadanos, a más tardar el 1 de octubre de 2021, el formato impreso y los medios electrónicos de solicitud de la Convocatoria al proceso de revocación de mandato para el periodo constitucional 2018-2024.
-**Cuarto.** El Instituto deberá garantizar la realización de la consulta establecida en el Transitorio Cuarto del Decreto de reforma constitucional publicado en el Diario Oficial de la Federación el 20 de diciembre de 2019, por lo que hará los ajustes presupuestales que fueren necesarios.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto serán cubiertas con los presupuestos asignados y subsecuentes.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan al mismo.
+**Tercero.-** El Instituto deberá tener a disposición de las ciudadanas y los ciudadanos, a más tardar el 1 de octubre de 2021, el formato impreso y los medios electrónicos de solicitud de la Convocatoria al proceso de revocación de mandato para el periodo constitucional 2018-2024.
+**Cuarto.-** El Instituto deberá garantizar la realización de la consulta establecida en el Transitorio Cuarto del Decreto de reforma constitucional publicado en el Diario Oficial de la Federación el 20 de diciembre de 2019, por lo que hará los ajustes presupuestales que fueren necesarios.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto serán cubiertas con los presupuestos asignados y subsecuentes.
 Ciudad de México, a 7 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. María Celeste Sánchez Sugía, Secretaria.- Dip.
 Brenda Espinoza Lopez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de septiembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 RESOLUTIVOS DE SENTENCIA DE LA SCJN PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 151/2021, promovida por diputados integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 4 de febrero de 2022 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/42/2022 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el tres de febrero de dos mil veintidós, resolvió la acción de inconstitucionalidad 151/2021, promovida por diputados integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se desestima en la presente acción inconstitucionalidad respecto de los artículos 19, fracción V, en su porción normativa ‘o siga en la Presidencia de la República hasta que termine su periodo’, y 36, fracción IV, incisos a) y b), de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno.
-**TERCERO.** Se reconoce la validez de los artículos 5, en su porción normativa ‘a partir de la pérdida de la confianza’, 11, párrafo tercero, fracción II, en su porción normativa ‘por pérdida de la confianza’, 13, párrafo primero, en su porción normativa ‘En el ejercicio de su derecho político a participar directamente en la evaluación de la gestión del Ejecutivo Federal, las ciudadanas y los ciudadanos podrán llevar a cabo actos tendentes a recabar el apoyo ciudadano para la obtención de las firmas necesarias’, 14, párrafo primero, 19, fracción V, en su porción normativa ‘por pérdida de la confianza’, 36, fracción IV, inciso a), en su porción normativa ‘por pérdida de la confianza’, 41, párrafo último, y 42, así como transitorios cuarto y quinto de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en términos de los apartados VII, VIII, IX, X y XIII de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 32, párrafo último, 59 y 61 de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en atención a lo dispuesto en los apartados X, XI y XII de esta determinación, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se desestima en la presente acción inconstitucionalidad respecto de los artículos 19, fracción V, en su porción normativa ‘o siga en la Presidencia de la República hasta que termine su periodo’, y 36, fracción IV, incisos a) y b), de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno.
+**TERCERO.-** Se reconoce la validez de los artículos 5, en su porción normativa ‘a partir de la pérdida de la confianza’, 11, párrafo tercero, fracción II, en su porción normativa ‘por pérdida de la confianza’, 13, párrafo primero, en su porción normativa ‘En el ejercicio de su derecho político a participar directamente en la evaluación de la gestión del Ejecutivo Federal, las ciudadanas y los ciudadanos podrán llevar a cabo actos tendentes a recabar el apoyo ciudadano para la obtención de las firmas necesarias’, 14, párrafo primero, 19, fracción V, en su porción normativa ‘por pérdida de la confianza’, 36, fracción IV, inciso a), en su porción normativa ‘por pérdida de la confianza’, 41, párrafo último, y 42, así como transitorios cuarto y quinto de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en términos de los apartados VII, VIII, IX, X y XIII de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 32, párrafo último, 59 y 61 de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en atención a lo dispuesto en los apartados X, XI y XII de esta determinación, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 3 de febrero de 2022 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el viernes 4 de febrero de 2022 a las 11:00 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -470,15 +488,15 @@ de la reforma constitucional, que ya ha iniciado, la invalidez del artículo 61 
 aplicable y su correspondiente aplicación, en su caso, al proceso de revocación de mandato del Presidente de la República electo para el periodo constitucional 2018-2024 y a subsecuentes ejercicios; sin que, en ningún caso, pueda aplicar el referido régimen de sanciones de manera retroactiva en perjuicio de persona alguna. -Lineamiento 4. Sin perjuicio de lo anterior, en tanto se lleve a cabo el cumplimiento a esta sentencia, las autoridades y tribunales están en aptitud de aplicar las sanciones y procedimientos previstos en la Ley General de Instituciones y Procedimientos Electorales, que resulten exactamente aplicables al caso concreto, con pleno respeto a los principios que rigen este tipo de procedimientos administrativos sancionadores. ……… 274. Plazo para legislar: En el caso de las omisiones legislativas que han sido estimadas fundadas, el Congreso deberá legislar lo conducente a más tardar el quince de diciembre de dos mil veintidós, fecha máxima de conclusión del primer periodo ordinario de sesiones correspondiente al presente año. 275. Fecha a partir de la cual surtirán efectos las declaratorias generales de invalidez: Con excepción de lo previamente dispuesto de manera expresa para la invalidez diferida de los artículos 59 y 61 de la Ley Federal de Revocación de Mandato, las restantes declaratorias de invalidez surtirán efectos a partir de la fecha de notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión. Esto, de conformidad a lo dispuesto por el artículo 45, párrafo primero, de la ley reglamentaria. ……..
 
 XV. DECISIÓN 277. Por lo antes expuesto, el Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 19, fracción V, en su porción normativa ‘o siga en la Presidencia de la República hasta que termine su periodo’, y 36, fracción IV, incisos a) y b), de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno.
-**TERCERO.** Se reconoce la validez de los artículos 5, en su porción normativa ‘a partir de la pérdida de la confianza’, 11, párrafo tercero, fracción II, en su porción normativa ‘por pérdida de la confianza’, 13, párrafo primero, en su porción normativa ‘En el ejercicio de su derecho político a participar directamente en la evaluación de la gestión del Ejecutivo Federal, las ciudadanas y los ciudadanos podrán llevar a cabo actos tendentes a recabar el apoyo ciudadano para la obtención de las firmas necesarias’, 14, párrafo primero, 19, fracción V, en su porción normativa ‘por pérdida de la confianza’, 36, fracción IV, inciso a), en su porción normativa ‘por pérdida de la confianza’, 41, párrafo último, y 42, así como
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 19, fracción V, en su porción normativa ‘o siga en la Presidencia de la República hasta que termine su periodo’, y 36, fracción IV, incisos a) y b), de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno.
+**TERCERO.-** Se reconoce la validez de los artículos 5, en su porción normativa ‘a partir de la pérdida de la confianza’, 11, párrafo tercero, fracción II, en su porción normativa ‘por pérdida de la confianza’, 13, párrafo primero, en su porción normativa ‘En el ejercicio de su derecho político a participar directamente en la evaluación de la gestión del Ejecutivo Federal, las ciudadanas y los ciudadanos podrán llevar a cabo actos tendentes a recabar el apoyo ciudadano para la obtención de las firmas necesarias’, 14, párrafo primero, 19, fracción V, en su porción normativa ‘por pérdida de la confianza’, 36, fracción IV, inciso a), en su porción normativa ‘por pérdida de la confianza’, 41, párrafo último, y 42, así como
 
 ## transitorios
 
-**cuarto.** y quinto de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en términos de los apartados VII, VIII, IX, X y XIII de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 32, párrafo último, 59 y 61 de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en atención a lo dispuesto en los apartados X, XI y XII de esta determinación, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**cuarto.-** y quinto de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en términos de los apartados VII, VIII, IX, X y XIII de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 32, párrafo último, 59 y 61 de la Ley Federal de Revocación de Mandato, publicada en el Diario Oficial de la Federación el catorce de septiembre de dos mil veintiuno, en atención a lo dispuesto en los apartados X, XI y XII de esta determinación, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, salvo la de los referidos artículos 59 y 61, respecto de los cuales deberá estarse a lo precisado en el apartado XIV de esta sentencia.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……… Firman los señores Ministros Presidente y el Ponente con la Secretaria General de Acuerdos en funciones, quien da fe.
 Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro Jorge Mario Pardo Rebolledo.- Firmado electrónicamente.- Secretaria General de Acuerdos en Funciones, Licenciada Mónica Fernanda Estevané Núñez.- Firmado electrónicamente.

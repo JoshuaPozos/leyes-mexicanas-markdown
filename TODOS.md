@@ -2,23 +2,11 @@
 
 ---
 
-## Estado actual (completado)
+## Modelo canónico JSON/AST ✅
 
-El pipeline de conversión PDF → Markdown está completo y estable:
-- 315/315 leyes federales vigentes convertidas
-- Scraping de diputados.gob.mx + descarga de PDFs
-- Limpieza de headers, paginación, running headers
-- Detección de jerarquía: Título > Capítulo > Sección > Artículo
-- OCR de tablas-imagen con Tesseract + reconstrucción espacial
-- 12 fixes aplicados (falsos positivos, tablas, transitorios, etc.)
+**Meta:** Pipeline PDF → AST (JSON) → Markdown, con el JSON como fuente de verdad.
 
----
-
-## 1 — Modelo canónico JSON/AST
-
-**Meta:** Que el pipeline emita un AST estructurado (JSON) como fuente canónica, y que el Markdown se genere desde ese AST. Hoy el Markdown es el centro; debe convertirse en un formato de salida más.
-
-### 1.1 Schema del AST ✅
+### Schema del AST ✅
 
 - [x] Diseñar JSON Schema para el AST (`schema/law_ast.schema.json`)
 - [x] Crear ejemplo concreto con fragmento de la CPEUM (`schema/example_cpeum_fragment.json`)
@@ -27,39 +15,52 @@ El pipeline de conversión PDF → Markdown está completo y estable:
 **Nodos de contenido:** `paragraph`, `fraccion`, `inciso`, `numeral`, `apartado`, `table`, `reform_note`
 **IDs estables:** paths jerárquicos tipo `titulo-1.capitulo-2.art-15`
 
-### 1.2 Refactorizar `pdf_to_md.py` para emitir AST
+### `build_ast()` + `render_markdown()` ✅
 
-- [ ] Separar `build_markdown()` en dos funciones:
-  - `build_ast(lines) → dict` — construye el árbol canónico (misma lógica de detección)
-  - `render_markdown(ast) → list[str]` — recorre el AST y emite Markdown
-- [ ] Enriquecer el AST con metadatos del catálogo (`source`, `abbreviation`, `catalog_number`, etc.)
-- [ ] Generar IDs estables para cada nodo: `{parent_id}.{type}-{ordinal}`
-- [ ] Parsear notas de reforma inline como nodos `reform_note` separados del texto
-  - Detectar patrón `(Párrafo|Fracción|Artículo|Inciso) (reformado|adicionado|derogado) DOF DD-MM-YYYY`
-  - Extraer `action` y `dof_date` como campos estructurados
-- [ ] Detectar y estructurar fracciones (`I.`, `II.`) e incisos (`a)`, `b)`) como nodos propios en vez de párrafos planos
-- [ ] Detectar apartados (`A.`, `B.`) como contenedores de fracciones (relevante en CPEUM y leyes laborales)
-- [ ] Estructurar tablas como nodos `table` con `headers[]`, `rows[][]`, `source_method` y `source_page`
+- [x] `build_ast(lines) → dict` — construye el árbol canónico desde líneas extraídas del PDF
+- [x] `render_markdown(ast) → list[str]` — renderiza el AST a Markdown (reemplaza `build_markdown`)
+- [x] Pipeline: `extract_lines() → build_ast() → JSON + render_markdown() → MD`
+- [x] Enriquecer el AST con metadatos del catálogo (`source`, `abbreviation`, `catalog_number`, etc.)
+- [x] Generar IDs estables para cada nodo: `{parent_id}.{type}-{ordinal}`
+- [x] Parsear notas de reforma inline como nodos `reform_note` separados del texto
+- [x] Detectar y estructurar fracciones (`I.`, `II.`) e incisos (`a)`, `b)`) como nodos propios
+- [x] Estructurar tablas como nodos `table` con `headers[]`, `rows[][]`, `source_method`
 
-### 1.3 Doble output: JSON + Markdown
+### Doble output: JSON + Markdown ✅
 
-- [ ] `pdf_to_md.py` genera ambos: `{slug}.json` en `canonical/` + `{slug}.md` en `markdown/`
-- [ ] Crear directorio `canonical/` en la raíz (315 JSON, uno por ley)
-- [ ] `batch_convert.py` ejecuta ambos outputs
-- [ ] Flag `--format json|md|both` (default: `both`)
-- [ ] Validar cada JSON contra el schema con flag `--validate`
+- [x] `pdf_to_md.py` genera ambos: `{slug}.json` en `canonical/` + `{slug}.md` en `markdown/`
+- [x] Crear directorio `canonical/` con 315 JSON, uno por ley
+- [x] `batch_convert.py` ejecuta ambos outputs
+- [x] Flag `--format json|md|both` (default: `both`)
+- [x] Flag `--validate` valida cada JSON contra el schema
 
-### 1.4 Actualizar gen_indice.py
+### Actualizar gen_indice.py ✅
 
-- [ ] Incluir conteo de artículos/nodos por ley (extraído del JSON)
-- [ ] Agregar columna de link al JSON canónico en el índice
-- [ ] Regenerar INDICE.md
+- [x] Incluir conteo de artículos por ley (extraído del JSON)
+- [x] Agregar columna de link al JSON canónico en el índice
+- [x] Regenerar INDICE.md
+- [x] Corregir bug de escritura duplicada
 
-### 1.5 Documentación
+### Documentación ✅
 
-- [ ] Actualizar README.md con la nueva estructura (`canonical/`, schema, doble output)
-- [ ] Documentar el schema en README o en `schema/README.md`
-- [ ] Actualizar sección "Cómo funciona" con el nuevo pipeline: PDF → AST → JSON + MD
+- [x] Actualizar README.md con la nueva arquitectura (`canonical/`, schema, doble output, AST)
+- [x] Documentar el schema en README
+- [x] Actualizar sección "Cómo funciona" con el pipeline: PDF → AST → JSON + MD
+- [x] Actualizar CHANGELOG.md
+- [x] Actualizar TODOS.md
+
+### Dataset stats
+
+| Métrica | Cantidad |
+|---------|----------|
+| Leyes | 315 |
+| Artículos | 37,939 |
+| Fracciones | 58,310 |
+| Incisos | 12,370 |
+| Notas de reforma | 35,176 |
+| Tablas OCR | 42 |
+| JSON (canonical/) | 93 MB |
+| Markdown (markdown/) | 52 MB |
 
 ---
 
@@ -69,14 +70,14 @@ El pipeline de conversión PDF → Markdown está completo y estable:
 - Este es el repo público, open-source. Los JSON son accesibles sin infra.
 - Se versionan con git: cualquiera puede clonar y tener las 315 leyes estructuradas.
 
-### ¿Por qué generar el AST al mismo tiempo que el MD?
-- La lógica de detección (artículos, secciones, transitorios, fracciones, etc.) ya existe en `build_markdown()`.
-- Parsear el Markdown de vuelta al AST sería frágil y redundante.
-- El refactor es: extraer esa lógica a `build_ast()`, y que `render_markdown()` solo recorra el árbol.
+### ¿Por qué el JSON es la fuente de verdad?
+- `build_ast()` construye el árbol canónico directamente desde las líneas del PDF.
+- `render_markdown(ast)` recorre el AST y produce Markdown. Si cambia el formato, solo cambia el render.
+- El Markdown era la fuente antes; ahora es una vista del JSON.
 
 ### IDs estables
 - Formato: `titulo-primero.capitulo-i.art-1`
-- Son paths jerárquicos, no hashes. Legibles y predecibles.
+- Paths jerárquicos, legibles y predecibles.
 - Permiten referencia directa: "dame el artículo 96 de la LISR" → `titulo-iv.capitulo-i.art-96`
 
 ### Notas de reforma como nodos separados

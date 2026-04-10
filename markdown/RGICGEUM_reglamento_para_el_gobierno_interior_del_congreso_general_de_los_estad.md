@@ -69,7 +69,8 @@ Artículo reformado DOF 16-10-1937, 01-11-1937
 ### Artículo 14
 .- La Cámara de Diputados, si aún no han sido resueltos los casos de los Diputados de partido, podrá abrir sus sesiones y desarrollar sus trabajos con asistencia de más de la mitad de los Diputados de mayoría. Clasificados que sean aquéllos, el quórum se formará con la mitad más uno de todos los Diputados en ejercicio.
 La Cámara de Senadores no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes de sus miembros.
-Artículo reformado DOF 31-12-1963 De la Presidencia y Vicepresidencia
+Artículo reformado DOF 31-12-1963
+De la Presidencia y Vicepresidencia
 
 ### Artículo 15
 .- El último día útil de cada mes, durante los períodos de sesiones elegirá cada Cámara un Presidente y dos Vicepresidentes. El Presidente y los Vicepresidentes de cada Cámara tomarán posesión de sus respectivos cargos en la sesión siguiente a aquella en que hubieren sido designados y durarán en ellos hasta que se haga nueva elección o termine el período. Dichos individuos no podrán ser reelectos para los mismos oficios en las sesiones de un año.
@@ -247,7 +248,8 @@ Artículo reformado DOF 20-01-1975
 
 ### Artículo 54
 .- Cuando alguno de los funcionarios del Ejecutivo a que se refiere el artículo anterior sea llamado al mismo tiempo por ambas Cámaras, el Presidente de la República podrá acordar que concurra primero a la que sea más necesario o conveniente, y después a la otra.
-Artículo reformado DOF 20-01-1975 De la iniciativa de las leyes
+Artículo reformado DOF 20-01-1975
+De la iniciativa de las leyes
 
 ### Artículo 55
 .- El derecho de iniciar leyes compete:
@@ -330,7 +332,8 @@ I.- Cada Diputación nombrará de entre sus miembros, en escrutinio y a mayoría
 II.- Cuando una Diputación conste solamente de dos Diputados o cuando siendo más, sólo dos de los que deban componerla concurran a la sesión en que haya de nombrarse la Gran Comisión y no se haya presentado el designado por la mayoría, pertenecerá a la Gran Comisión aquel de los dos que designe la suerte;
 III.- Si un solo Diputado constituye una Diputación, o uno solo de los que deban formarla está presente al organizarse la Gran Comisión, él será quien represente en ella a su Estado, Territorio o el Distrito Federal, respectivamente;
 IV.- En el Senado, la elección de los veintinueve miembros de la Gran Comisión se hará por sorteo de entre los dos Senadores de cada Estado y del Distrito Federal, que estuvieren presentes. Si al efectuarse esta elección no estuviere presente más de un Senador por un Estado, aquél formará parte de la Gran Comisión y si no estuviere ninguno, el que primero sea recibido será miembro de ella.
-Fracción reformada DOF 27-01-1940 V.- Si ninguno de los diputados o senadores que deban representar en la Gran Comisión a un Estado o Territorio o al Distrito Federal estuviere presente al nombrarse aquélla, el primero que sea recibido por su respectiva Cámara entrará desde luego a formar parte de dicha Gran Comisión, mientras la Diputación hace la elección por mayoría.
+Fracción reformada DOF 27-01-1940
+V.- Si ninguno de los diputados o senadores que deban representar en la Gran Comisión a un Estado o Territorio o al Distrito Federal estuviere presente al nombrarse aquélla, el primero que sea recibido por su respectiva Cámara entrará desde luego a formar parte de dicha Gran Comisión, mientras la Diputación hace la elección por mayoría.
 Artículo reformado DOF 16-10-1937, 01-11-1937
 
 ### Artículo 73
@@ -379,7 +382,8 @@ Aclaración al párrafo DOF 22-10-1966 Durante los recesos del Congreso, la Comi
 Artículo reformado DOF 21-10-1966
 
 ### Artículo 86
-.- Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas Artículo derogado DOF 16-10-1937. Adicionado DOF 01-11-1937
+.- Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas
+Artículo derogado DOF 16-10-1937. Adicionado DOF 01-11-1937
 
 ### Artículo 87
 .- Toda Comisión deberá presentar dictamen en los negocios de su competencia, dentro de los cinco días siguientes al de la fecha en que los haya recibido. Todo dictamen deberá contener una parte expositiva de las razones en que se funde y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
@@ -409,7 +413,8 @@ Pero si alguna Comisión, faltando a este requisito, retuviere en su poder un ex
 Una vez que estén firmados los dictámenes por la mayoría de los miembros de las Comisiones encargadas de un asunto, se imprimirán junto con los votos particulares si los hubiere, y se remitirán a los Diputados o Senadores según corresponda, para su conocimiento y estudio.
 Al abrirse el período de sesiones, se tendrá por hecha la primera lectura de todo dictamen que se remita a los Legisladores antes del 15 de agosto de cada año.
 Los dictámenes que las Comisiones produzcan, sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente Legislatura, con el carácter de proyectos.
-Artículo reformado DOF 21-10-1966 De las discusiones
+Artículo reformado DOF 21-10-1966
+De las discusiones
 
 ### Artículo 95
 .- Llegada la hora de la discusión, se leerá la iniciativa, proposición u oficio que la hubiere provocado, y después, el dictamen de la Comisión a cuyo examen se remitió, y el voto particular, si lo hubiere.
@@ -906,19 +911,18 @@ ARTÍCULO UNICO.- El presente decreto entrará en vigor al día siguiente su (si
 México, D. F., 12 de noviembre de 1981.- Rubén Darío Somuano López, D. P.- Angel Ventura Valle, S. P.- Antonio Cueto Citalán, D. S.- Rafael Minor Franco, S. S.- Rúbricas", En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de noviembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 REGLAMENTO del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2010 ARTICULOS TRANSITORIOS
-**PRIMERO.** El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en vigor el primero de septiembre de 2010. A partir de esa fecha dejarán de ser aplicables en cuanto se refiere al Senado de la República, las disposiciones relativas del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, conforme al artículo Segundo Transitorio del Decreto de fecha 14 de diciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-**SEGUNDO.** La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de difusión para con los senadores, e inducción y capacitación entre el personal de apoyo, para el debido conocimiento y aplicación del Reglamento del Senado de la República.
-**TERCERO.** Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración
-**CUARTO.** Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
+**PRIMERO.-** El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en vigor el primero de septiembre de 2010. A partir de esa fecha dejarán de ser aplicables en cuanto se refiere al Senado de la República, las disposiciones relativas del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, conforme al artículo Segundo Transitorio del Decreto de fecha 14 de diciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+**SEGUNDO.-** La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de difusión para con los senadores, e inducción y capacitación entre el personal de apoyo, para el debido conocimiento y aplicación del Reglamento del Senado de la República.
+**TERCERO.-** Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración
+**CUARTO.-** Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Rúbrica.- Sen. Ricardo García Cervantes, Vicepresidente.- Rúbrica.- Sen. Arturo Núñez Jiménez, Vicepresidente.- Rúbrica.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbrica.Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.Rúbrica.
 DECRETO por el que se expide el Reglamento de la Cámara de Diputados.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2010 Artículo Unico.- Se expide el Reglamento de la Cámara de Diputados. ……….
 
 ## TRANSITORIOS
 
-**Primero.** El presente Reglamento entrará en vigor a partir del primero de enero de 2011.
-**Segundo.** Se abrogan los acuerdos siguientes:
-
+**Primero.-** El presente Reglamento entrará en vigor a partir del primero de enero de 2011.
+**Segundo.-** Se abrogan los acuerdos siguientes:
 a) El Acuerdo de la Mesa Directiva de la Cámara de Diputados por el que se norman los trámites del cambio o ampliación de turnos de iniciativas o proposiciones con punto de acuerdo presentadas en las sesiones plenarias publicado en la Gaceta Parlamentaria número 1781, del miércoles 22 de junio de 2005;
 
 b) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, relativo al Orden del día de las sesiones, las discusiones de los Dictámenes y la operación del Sistema Electrónico de votación publicado en la Gaceta Parlamentaria número 2100 del miércoles 27 de septiembre de 2006;
@@ -934,15 +938,15 @@ f) El Acuerdo de la Mesa Directiva por el que se determina continuar observando 
 g) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, mediante el que se determina que las directivas de las comisiones deberán informar a ese órgano parlamentario sobre la asistencia de servidores públicos federales, aprobado el 28 de febrero de 2007, y
 
 h) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos por el que se establecen las Normas relativas al funcionamiento de las comisiones y comités de la Cámara de Diputados, publicado en la Gaceta Parlamentaria número 2907-IV, del martes 8 de diciembre de 2009.
-**Tercero.** Quedan sin efecto para la Cámara de Diputados, las disposiciones contenidas en el en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
-**Cuarto.** La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
-**Quinto.** La Mesa Directiva se encargará de establecer un programa de instrumentación del Servicio de Carrera de la Cámara, dentro de los seis meses posteriores a la entrada en vigor del presente Reglamento, dejando a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio Parlamentario de Carrera.
-**Sexto.** Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del presente reglamento, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las nuevas reglas que señala este ordenamiento mediante escrito libre. La Mesa Directiva deberá acordar lo conducente y turnar el asunto nuevamente a Comisión para que le corra término a partir de que la reciba oficialmente.
-**Séptimo.** Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, acordarán los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento.
-**Octavo.** La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
-**Noveno.** Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
-**Décimo.** La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendrá seis meses a partir de la entrada en vigor del presente reglamento, para establecer los Criterios para Inscripciones de Honor en el Recinto de la Cámara de Diputados, a que se refiere el artículo 262 de este Reglamento.
-**Décimo Primero.** El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
-**Décimo Segundo.** Para atender las reservas presentadas, así como las observaciones y propuestas de modificación que presenten los grupos parlamentarios a la Mesa Directiva de la Cámara de Diputados hasta el lunes 20 de diciembre de 2010, se acuerda la conformación de un Grupo de Trabajo coordinado por la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, el cual se encargará, durante los meses de enero y febrero de 2011, de hacer el análisis de dichos documentos, de consensar y presentar ante el Pleno las reformas pertinentes a más tardar a la conclusión del segundo periodo ordinario de sesiones del segundo año de ejercicio de la LXI Legislatura, a efecto de que a partir del 1o. de septiembre de 2011 el presente cuerpo normativo sea aplicado en plenitud.
-**Décimo Tercero.** Los artículos 89, 95, 105, 139, numeral 1, fracción III, 142, 175, 184, numeral 1 y 239 del presente Reglamento, relativos a la preclusión de la facultad de dictaminación de las comisiones ordinarias por vencimiento de plazo, entrarán en vigor a partir del 1o. de enero de 2011.
+**Tercero.-** Quedan sin efecto para la Cámara de Diputados, las disposiciones contenidas en el en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
+**Cuarto.-** La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
+**Quinto.-** La Mesa Directiva se encargará de establecer un programa de instrumentación del Servicio de Carrera de la Cámara, dentro de los seis meses posteriores a la entrada en vigor del presente Reglamento, dejando a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio Parlamentario de Carrera.
+**Sexto.-** Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del presente reglamento, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las nuevas reglas que señala este ordenamiento mediante escrito libre. La Mesa Directiva deberá acordar lo conducente y turnar el asunto nuevamente a Comisión para que le corra término a partir de que la reciba oficialmente.
+**Séptimo.-** Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, acordarán los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento.
+**Octavo.-** La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
+**Noveno.-** Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
+**Décimo.-** La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendrá seis meses a partir de la entrada en vigor del presente reglamento, para establecer los Criterios para Inscripciones de Honor en el Recinto de la Cámara de Diputados, a que se refiere el artículo 262 de este Reglamento.
+**Décimo Primero.-** El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
+**Décimo Segundo.-** Para atender las reservas presentadas, así como las observaciones y propuestas de modificación que presenten los grupos parlamentarios a la Mesa Directiva de la Cámara de Diputados hasta el lunes 20 de diciembre de 2010, se acuerda la conformación de un Grupo de Trabajo coordinado por la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, el cual se encargará, durante los meses de enero y febrero de 2011, de hacer el análisis de dichos documentos, de consensar y presentar ante el Pleno las reformas pertinentes a más tardar a la conclusión del segundo periodo ordinario de sesiones del segundo año de ejercicio de la LXI Legislatura, a efecto de que a partir del 1o. de septiembre de 2011 el presente cuerpo normativo sea aplicado en plenitud.
+**Décimo Tercero.-** Los artículos 89, 95, 105, 139, numeral 1, fracción III, 142, 175, 184, numeral 1 y 239 del presente Reglamento, relativos a la preclusión de la facultad de dictaminación de las comisiones ordinarias por vencimiento de plazo, entrarán en vigor a partir del 1o. de enero de 2011.
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.

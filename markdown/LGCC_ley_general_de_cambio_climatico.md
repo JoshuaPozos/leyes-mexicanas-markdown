@@ -15,7 +15,9 @@ Se expide la Ley General de Cambio Climático, para quedar como sigue:
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1o
 . La presente ley es de orden público, interés general y observancia en todo el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción y establece disposiciones para enfrentar los efectos adversos del cambio climático. Es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de protección al ambiente, desarrollo sustentable, preservación y restauración del equilibrio ecológico.
@@ -38,7 +40,8 @@ V. Fomentar la educación, investigación, desarrollo y transferencia de tecnolo
 VI. Establecer las bases para la concertación con la sociedad;
 Fracción reformada DOF 13-07-2018
 
-VII. Promover la transición hacia una economía competitiva, sustentable, de bajas emisiones de carbono y resiliente a los fenómenos hidrometeorológicos extremos asociados al cambio climático, y Fracción reformada DOF 13-07-2018
+VII. Promover la transición hacia una economía competitiva, sustentable, de bajas emisiones de carbono y resiliente a los fenómenos hidrometeorológicos extremos asociados al cambio climático, y
+Fracción reformada DOF 13-07-2018
 
 VIII. Establecer las bases para que México contribuya al cumplimiento del Acuerdo de París, que tiene entre sus objetivos mantener el aumento de la temperatura media mundial por debajo de 2 °C, con respecto a los niveles preindustriales, y proseguir con los esfuerzos para limitar ese aumento de la temperatura a 1.5 °C, con respecto a los niveles preindustriales, reconociendo que ello reduciría considerablemente los riesgos y los efectos del cambio climático.
 Fracción adicionada DOF 13-07-2018
@@ -53,7 +56,8 @@ II. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respues
 Fracción recorrida DOF 13-07-2018
 
 III. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
-Fracción reformada DOF 16-10-2014. Recorrida DOF 13-07-2018 III Bis. Atlas Nacional de Vulnerabilidad al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación.
+Fracción reformada DOF 16-10-2014. Recorrida DOF 13-07-2018
+III Bis. Atlas Nacional de Vulnerabilidad al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación.
 Fracción adicionada DOF 15-11-2023
 
 IV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
@@ -178,6 +182,7 @@ Fracción recorrida DOF 13-07-2018
 TITULO SEGUNDO DISTRIBUCIÓN DE COMPETENCIAS
 
 ## CAPÍTULO ÚNICO — DE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
+
 
 ### Artículo 5o
 . La federación, las entidades federativas y los municipios ejercerán sus atribuciones para la mitigación y adaptación al cambio climático, de conformidad con la distribución de competencias prevista en esta ley y en los demás ordenamientos legales aplicables.
@@ -405,7 +410,9 @@ Artículo reformado DOF 19-01-2018
 
 ## TÍTULO TERCERO — INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 13
 . Se crea el Instituto Nacional de Ecología y Cambio Climático como un organismo público descentralizado de la administración pública federal, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado en la Secretaría de Medio Ambiente y Recursos Naturales, de conformidad con las disposiciones de la Ley Federal de las Entidades Paraestatales.
@@ -461,7 +468,8 @@ Fracción reformada DOF 06-11-2020
 
 ### Artículo 17
 . La Junta de Gobierno será la máxima autoridad del organismo, estará presidida por el titular de la Secretaría de Medio Ambiente y Recursos Naturales e integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Gobernación; de Desarrollo Social; de Hacienda y Crédito Público; de Energía; de Salud; de Desarrollo Agrario, Territorial y Urbano, y del Consejo Nacional de Ciencia y Tecnología.
-Párrafo reformado DOF 29-12-2014 Cada integrante de este órgano colegiado deberá nombrar un suplente con nivel jerárquico de subsecretario.
+Párrafo reformado DOF 29-12-2014
+Cada integrante de este órgano colegiado deberá nombrar un suplente con nivel jerárquico de subsecretario.
 Los miembros de la Junta de Gobierno gozarán de voz y voto en las sesiones de la misma. Sus decisiones serán tomadas por mayoría de votos.
 La Junta de Gobierno tendrá las atribuciones establecidas en la Ley Federal de las Entidades Paraestatales y aquellas que se señalen en su Estatuto Orgánico.
 
@@ -574,12 +582,14 @@ XXVII. Participar en la difusión de la información científica ambiental entre
 XXVIII. Funcionar como laboratorios de referencia en materia de análisis y calibración de equipos de medición de contaminantes atmosféricos, residuos peligrosos, así como en la detección e identificación de organismos genéticamente modificados;
 Fracción reformada DOF 15-11-2023
 
-XXIX. Elaborar, actualizar, publicar y difundir el Atlas Nacional de Vulnerabilidad al Cambio Climático, y Fracción adicionada DOF 15-11-2023
+XXIX. Elaborar, actualizar, publicar y difundir el Atlas Nacional de Vulnerabilidad al Cambio Climático, y
+Fracción adicionada DOF 15-11-2023
 
 XXX. Ejercer las atribuciones que expresamente le confieran otras leyes como organismo público descentralizado y las que se determinen en su Estatuto Orgánico.
 Fracción recorrida DOF 15-11-2023
 
 ## CAPÍTULO II — DE LA COORDINACIÓN DE EVALUACIÓN
+
 
 ### Artículo 23
 . La Coordinación de Evaluación se integrará por el titular del INECC y seis consejeros sociales, representantes de la comunidad científica, académica, técnica e industrial, con amplia experiencia en materia de medio ambiente, particularmente en temas relacionados con el cambio climático.
@@ -597,7 +607,9 @@ Las dependencias de la administración pública federal centralizada y paraestat
 
 ## TÍTULO CUARTO — POLÍTICA NACIONAL DE CAMBIO CLIMÁTICO
 
+
 ## CAPÍTULO I — PRINCIPIOS
+
 
 ### Artículo 26
 . En la formulación de la política nacional de cambio climático se observarán los principios de:
@@ -625,13 +637,16 @@ X. Transparencia, acceso a la información y a la justicia, considerando que los
 XI. Conservación de los ecosistemas y su biodiversidad, dando prioridad a los humedales, manglares, arrecifes, dunas, zonas y lagunas costeras, que brindan servicios ambientales, fundamental para reducir la vulnerabilidad;
 Fracción reformada DOF 13-07-2018
 
-XII. Compromiso con la economía y el desarrollo económico nacional, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados internacionales, y Fracción reformada DOF 13-07-2018
+XII. Compromiso con la economía y el desarrollo económico nacional, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados internacionales, y
+Fracción reformada DOF 13-07-2018
 
 XIII. Progresividad, las metas para el cumplimiento de esta Ley deberán presentar una progresión y gradualidad a lo largo del tiempo, teniendo en cuenta el principio de responsabilidades comunes pero diferenciadas y sus capacidades respectivas, a la luz de las diferentes circunstancias nacionales, y en el contexto del desarrollo sostenible y de los esfuerzos por erradicar la pobreza; asimismo, se deberá considerar la necesidad de recibir apoyos de los países desarrollados para lograr la aplicación efectiva de las medidas que se requieran para su cumplimiento; sin que represente un retroceso respecto a metas anteriores, considerando, la mejor información científica disponible y los avances tecnológicos, todo ello en el contexto del desarrollo sostenible.
-Fracción adicionada DOF 13-07-2018 Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos y comunidades indígenas y afromexicanas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
+Fracción adicionada DOF 13-07-2018
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos y comunidades indígenas y afromexicanas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
 Párrafo adicionado DOF 13-07-2018. Reformado DOF 01-04-2024
 
 ## CAPÍTULO II — ADAPTACIÓN
+
 
 ### Artículo 27
 . La política nacional de adaptación frente al cambio climático se sustentará en instrumentos de diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación, tendrá como objetivos:
@@ -650,7 +665,8 @@ VI. Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, g
 
 ### Artículo 28
 . La federación deberá de elaborar una Política Nacional de Adaptación en el marco del Sistema Nacional de Cambio Climático.
-Párrafo reformado DOF 13-07-2018 La federación, las entidades federativas y los municipios, en el ámbito de sus competencias, deberán ejecutar acciones para la adaptación en la elaboración de las políticas, la Estrategia Nacional, el Programa Especial de Cambio Climático, la Política Nacional de Adaptación y los programas en los siguientes ámbitos:
+Párrafo reformado DOF 13-07-2018
+La federación, las entidades federativas y los municipios, en el ámbito de sus competencias, deberán ejecutar acciones para la adaptación en la elaboración de las políticas, la Estrategia Nacional, el Programa Especial de Cambio Climático, la Política Nacional de Adaptación y los programas en los siguientes ámbitos:
 Párrafo adicionado DOF 13-07-2018
 
 I. Gestión integral del riesgo;
@@ -771,10 +787,12 @@ XXIII. Realizar diagnósticos de vulnerabilidad en el sector energético y desar
 
 ## CAPÍTULO III — MITIGACIÓN
 
+
 ### Artículo 31
 . La política nacional de mitigación de Cambio Climático deberá incluir, a través de los instrumentos de planeación, política y los instrumentos económicos previstos en la presente ley, un diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación de las emisiones nacionales.
 Esta política deberá establecer planes, programas, acciones, instrumentos económicos, de política y regulatorios para el logro gradual de metas de reducción de emisiones específicas, por sectores y tomando como referencia los escenarios de línea base y líneas de base por sector que se establezcan en los instrumentos previstos por la presente Ley, considerando las contribuciones determinadas a nivel nacional para el cumplimiento de los objetivos del Acuerdo de París, el acceso a recursos financieros, la transferencia de tecnología y el desarrollo de capacidades, así como cualquier otro tratado internacional suscrito por el Estado mexicano en materia de cambio climático.
-Párrafo reformado DOF 13-07-2018 La política debe cuidar que la línea base a comprometer por México no limite el crecimiento económico del país, y en la elaboración de dicha línea deben participar los sectores productivos, en coordinación con los organismos nacionales que intervengan en la política económica.
+Párrafo reformado DOF 13-07-2018
+La política debe cuidar que la línea base a comprometer por México no limite el crecimiento económico del país, y en la elaboración de dicha línea deben participar los sectores productivos, en coordinación con los organismos nacionales que intervengan en la política económica.
 Párrafo adicionado DOF 13-07-2018
 
 ### Artículo 32
@@ -930,11 +948,14 @@ d) Desarrollar políticas e instrumentos para promover la mitigación de emision
 
 ### Artículo 37
 . Para los efectos de esta Ley serán reconocidos los programas y demás instrumentos de mitigación que se han desarrollado a partir del Protocolo de Kioto, la Convención, el Acuerdo de París y cualquier otro que se encuentre debidamente certificado por alguna organización con reconocimiento internacional.
-Párrafo reformado DOF 13-07-2018 Las disposiciones reglamentarias de la presente Ley establecerán los requisitos que deberán cumplirse para el reconocimiento y registro de los programas e instrumentos referidos en el presente artículo.
+Párrafo reformado DOF 13-07-2018
+Las disposiciones reglamentarias de la presente Ley establecerán los requisitos que deberán cumplirse para el reconocimiento y registro de los programas e instrumentos referidos en el presente artículo.
 
 ## TÍTULO QUINTO — SISTEMA NACIONAL DE CAMBIO CLIMÁTICO
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 38
 . La federación, las entidades federativas y los municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Nacional de Cambio Climático, el cual tiene por objeto:
@@ -967,10 +988,12 @@ IV. Promover la concurrencia, vinculación y congruencia de los programas, accio
 
 ## CAPÍTULO II — COMISIÓN INTERSECRETARIAL DE CAMBIO CLIMÁTICO
 
+
 ### Artículo 45
 . La Comisión tendrá carácter permanente y será presidida por el titular del Ejecutivo federal, quién podrá delegar esa función al titular de la Secretaría de Gobernación o al titular de la Secretaría de Medio Ambiente y Recursos Naturales.
 Se integrará por los titulares de las Secretarías de Medio Ambiente y Recursos Naturales; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Relaciones Exteriores, y de Desarrollo Agrario, Territorial y Urbano.
-Párrafo reformado DOF 29-12-2014 Cada secretaría participante deberá designar a una de sus unidades administrativas, por lo menos a nivel de dirección general, como la encargada de coordinar y dar seguimiento permanente a los trabajos de la comisión.
+Párrafo reformado DOF 29-12-2014
+Cada secretaría participante deberá designar a una de sus unidades administrativas, por lo menos a nivel de dirección general, como la encargada de coordinar y dar seguimiento permanente a los trabajos de la comisión.
 
 ### Artículo 46
 . La Comisión convocará a otras dependencias y entidades gubernamentales entre ellos al Consejo Nacional de Ciencia y Tecnología, así como invitar a representantes del Consejo, de los Poderes Legislativo y Judicial, de órganos autónomos, de las Entidades Federativas y en su caso, los Municipios, así como a representantes de los sectores público, social y privado a participar en sus trabajos cuando se aborden temas relacionados con el ámbito de su competencia.
@@ -1016,7 +1039,8 @@ XVI. Solicitar recomendaciones al consejo sobre las políticas, estrategias, acc
 XVII. Emitir su reglamento interno;
 Fracción reformada DOF 13-07-2018
 
-XVIII. Revisar e informar, con el apoyo de la Secretaría y la opinión del Consejo, sobre el avance de la Estrategia Nacional y las contribuciones determinadas a nivel nacional, y Fracción reformada DOF 13-07-2018
+XVIII. Revisar e informar, con el apoyo de la Secretaría y la opinión del Consejo, sobre el avance de la Estrategia Nacional y las contribuciones determinadas a nivel nacional, y
+Fracción reformada DOF 13-07-2018
 
 XIX. Las demás que le confiera la presente Ley, sus Reglamentos y otras disposiciones jurídicas que de ella deriven.
 Fracción adicionada DOF 13-07-2018
@@ -1068,11 +1092,13 @@ I. Emitir las convocatorias para las sesiones de la comisión previo acuerdo con
 
 II. Llevar el registro y control de las actas, acuerdos y toda la documentación relativa al funcionamiento de la Comisión;
 
-III. Dar seguimiento a los acuerdos de la comisión, del consejo y de las acciones implementadas para enfrentar el cambio climático, así como promover su cumplimiento, además de informar periódicamente al presidente sobre los avances, y Fracción reformada DOF 06-11-2020
+III. Dar seguimiento a los acuerdos de la comisión, del consejo y de las acciones implementadas para enfrentar el cambio climático, así como promover su cumplimiento, además de informar periódicamente al presidente sobre los avances, y
+Fracción reformada DOF 06-11-2020
 
 IV. Las demás que señale el Reglamento que para el efecto se expida.
 
 ## CAPÍTULO III — CONSEJO DE CAMBIO CLIMÁTICO
+
 
 ### Artículo 51
 . El consejo, es el órgano permanente de consulta de la comisión, se integrará por mínimo quince personas provenientes de los sectores social, privado y académico, con reconocidos méritos y experiencia en cambio climático, que se designarán por la Presidencia de la comisión, a propuesta de las personas que la integren y conforme a lo que al efecto se establezca en su Reglamento Interno, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos y el principio de paridad de género.
@@ -1116,6 +1142,7 @@ VII. Las demás que se establezcan en el Reglamento Interno o las que le otorgue
 
 ## CAPÍTULO IV — INSTRUMENTOS DE PLANEACIÓN
 
+
 ### Artículo 58
 . Son instrumentos de planeación de la política nacional de Cambio Climático los siguientes:
 
@@ -1126,7 +1153,8 @@ II. El Programa, y
 III. La Política Nacional de Adaptación;
 Fracción adicionada DOF 13-07-2018
 
-IV. Las contribuciones determinadas a nivel nacional, y Fracción adicionada DOF 13-07-2018
+IV. Las contribuciones determinadas a nivel nacional, y
+Fracción adicionada DOF 13-07-2018
 
 V. Los programas de las Entidades Federativas.
 Fracción recorrida DOF 13-07-2018
@@ -1139,6 +1167,7 @@ I. La proyección de los periodos constitucionales que correspondan a las admini
 II. La proyección en mediano y largo plazos que tendrán previsiones a diez, veinte y cuarenta años, conforme se determine en la Estrategia Nacional.
 
 ## SECCIÓN I
+
 Estrategia Nacional
 
 ### Artículo 60
@@ -1193,6 +1222,7 @@ XI. Requerimientos nacionales de investigación, transferencia de tecnología, e
 XII. Los demás elementos que determine la Comisión.
 
 ## SECCIÓN II
+
 Programas
 
 ### Artículo 65
@@ -1255,9 +1285,11 @@ V. Los demás que determinen sus disposiciones legales en la materia.
 
 ## CAPÍTULO V — INVENTARIO
 
+
 ### Artículo 74
 . El inventario deberá ser elaborado por el INECC, de acuerdo con los lineamientos y metodologías establecidos por el Acuerdo de París, la Convención, la Conferencia de las Partes y el Grupo Intergubernamental de Cambio Climático.
-Párrafo reformado DOF 13-07-2018 El INECC elaborará los contenidos del Inventario de acuerdo con los siguientes plazos:
+Párrafo reformado DOF 13-07-2018
+El INECC elaborará los contenidos del Inventario de acuerdo con los siguientes plazos:
 
 I. La estimación de las emisiones de la quema de combustibles fósiles se realizará anualmente;
 
@@ -1269,6 +1301,7 @@ III. La estimación del total de las emisiones por las fuentes y las absorciones
 . Las autoridades competentes de las Entidades Federativas y los Municipios proporcionarán al INECC los datos, documentos y registros relativos a información relacionada con las categorías de fuentes emisoras previstas por la fracción XIII del artículo 7o. de la presente Ley, que se originen en el ámbito de sus respectivas jurisdicciones, conforme a los formatos, las metodologías y los procedimientos que se determinen en las disposiciones jurídicas que al efecto se expidan.
 
 ## CAPÍTULO VI — SISTEMA DE INFORMACIÓN SOBRE EL CAMBIO CLIMÁTICO
+
 
 ### Artículo 76
 . Se integrará un Sistema de Información sobre el Cambio Climático a cargo del Instituto Nacional de Estadística y Geografía, con apego a lo dispuesto por la Ley del Sistema Nacional de Información, Estadística y Geografía.
@@ -1299,7 +1332,9 @@ VIII. La protección, adaptación y manejo de la biodiversidad.
 . Los datos se integrarán en un sistema de información geográfica que almacene, edite, analice, comparta y muestre los indicadores clave geográficamente referenciados utilizando medios electrónicos.
 
 ## CAPÍTULO VII — DE LOS RECURSOS PARA APOYAR LA IMPLEMENTACIÓN DE ACCIONES PARA
-ENFRENTAR EL CAMBIO CLIMÁTICO Denominación del Capítulo reformada DOF 06-11-2020
+
+ENFRENTAR EL CAMBIO CLIMÁTICO
+Denominación del Capítulo reformada DOF 06-11-2020
 
 ### Artículo 80
 . Se deroga.
@@ -1317,7 +1352,8 @@ III. Las donaciones de personas físicas o morales, nacionales o internacionales
 
 IV. Las aportaciones que efectúen gobiernos de otros países y organismos internacionales;
 
-V. El valor de las reducciones certificadas de emisiones de proyectos implementados en los Estados Unidos Mexicanos que de forma voluntaria se adquieran en el mercado, y Fracción reformada DOF 06-11-2020
+V. El valor de las reducciones certificadas de emisiones de proyectos implementados en los Estados Unidos Mexicanos que de forma voluntaria se adquieran en el mercado, y
+Fracción reformada DOF 06-11-2020
 
 VI. Los demás recursos que obtenga, previstos en otras disposiciones legales.
 
@@ -1361,9 +1397,11 @@ Artículo reformado DOF 13-05-2015, 06-11-2020
 
 ## CAPÍTULO VIII — REGISTRO
 
+
 ### Artículo 87
 . La Secretaría, deberá integrar y hacer público de forma agregada el Registro de emisiones generadas por las fuentes fijas y móviles de emisiones que se identifiquen como sujetas a reporte.
-Párrafo reformado DOF 13-07-2018 Las disposiciones reglamentarias de la presente Ley identificarán las fuentes que deberán reportar en el Registro por sector, subsector y actividad, asimismo establecerán los siguientes elementos para la integración del Registro:
+Párrafo reformado DOF 13-07-2018
+Las disposiciones reglamentarias de la presente Ley identificarán las fuentes que deberán reportar en el Registro por sector, subsector y actividad, asimismo establecerán los siguientes elementos para la integración del Registro:
 
 I. Los gases o compuestos de efecto invernadero que deberán reportarse para la integración del Registro;
 
@@ -1389,6 +1427,7 @@ Las disposiciones reglamentarias de la presente Ley establecerán los requisitos
 
 ## CAPÍTULO IX — INSTRUMENTOS ECONÓMICOS
 
+
 ### Artículo 91
 . La Federación y las entidades federativas, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política nacional en materia de cambio climático.
 Artículo reformado DOF 19-01-2018
@@ -1397,7 +1436,8 @@ Artículo reformado DOF 19-01-2018
 . Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos relacionados con la mitigación y adaptación del cambio climático, incentivándolas a realizar acciones que favorezcan el cumplimiento de los objetivos de la política nacional en la materia.
 Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política nacional sobre el cambio climático. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos privados, cuando sus objetivos estén dirigidos a la mitigación y adaptación del cambio climático; al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica o para el desarrollo y tecnología de bajas emisiones en carbono.
-Párrafo reformado DOF 06-11-2020 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones, o bien, que incentiven la realización de acciones de reducción de emisiones proporcionando alternativas que mejoren la relación costo – eficiencia de las mismas.
+Párrafo reformado DOF 06-11-2020
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones, o bien, que incentiven la realización de acciones de reducción de emisiones proporcionando alternativas que mejoren la relación costo – eficiencia de las mismas.
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público.
 
 ### Artículo 93
@@ -1420,6 +1460,7 @@ Artículo reformado DOF 13-07-2018
 
 ## CAPÍTULO X — NORMAS OFICIALES MEXICANAS
 
+
 ### Artículo 96
 . La Secretaría, por sí misma, y en su caso, con la participación de otras dependencias de la administración pública federal expedirá normas oficiales mexicanas que tengan por objeto establecer lineamientos, criterios, especificaciones técnicas y procedimientos para garantizar las medidas de adaptación y mitigación al cambio climático.
 
@@ -1428,11 +1469,14 @@ Artículo reformado DOF 13-07-2018
 
 ## TÍTULO SEXTO — EVALUACIÓN DE LA POLÍTICA NACIONAL DE CAMBIO CLIMÁTICO
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 98
 . La política nacional de Cambio Climático estará sujeta a evaluación periódica y sistemática a través de la Coordinación de Evaluación, tomando en consideración los Informes de Evaluación del IPCC, así como las evaluaciones periódicas establecidas dentro del Acuerdo de París, para proponer en su caso, su modificación, adición, o reorientación total o parcialmente.
-Párrafo reformado DOF 13-07-2018 Con base en los resultados de las evaluaciones, la Coordinación de Evaluación podrá emitir sugerencias y recomendaciones al Ejecutivo Federal, a los gobiernos de las Entidades Federativas y a los Municipios y deberá hacerlas del conocimiento público.
+Párrafo reformado DOF 13-07-2018
+Con base en los resultados de las evaluaciones, la Coordinación de Evaluación podrá emitir sugerencias y recomendaciones al Ejecutivo Federal, a los gobiernos de las Entidades Federativas y a los Municipios y deberá hacerlas del conocimiento público.
 
 ### Artículo 99
 . Con base en los resultados de la evaluación, la Coordinación de Evaluación emitirá recomendaciones a los integrantes del Sistema Nacional de Cambio Climático. Los resultados de las evaluaciones y recomendaciones serán públicos.
@@ -1503,7 +1547,9 @@ XV. Los demás que determine la Comisión.
 
 ## TÍTULO SÉPTIMO — TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 106
 . Toda persona tendrá derecho a que las autoridades en materia de cambio climático, así como la Comisión, el Consejo y el Sistema de Información sobre el Cambio Climático pongan a su disposición la información que les soliciten en los términos previstos por las leyes.
@@ -1518,7 +1564,9 @@ Artículo reformado DOF 06-11-2020
 
 ## TÍTULO OCTAVO — DE LA PARTICIPACIÓN SOCIAL
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 109
 . Los tres órdenes de gobierno deberán promover la participación corresponsable de la sociedad en la planeación, ejecución y vigilancia de la Política Nacional de Cambio Climático.
@@ -1536,7 +1584,9 @@ IV. Concertar acciones e inversiones con los sectores social y privado con la fi
 
 ## TÍTULO NOVENO — INSPECCIÓN Y VIGILANCIA, MEDIDAS DE SEGURIDAD Y SANCIONES
 
+
 ## CAPÍTULO I — INSPECCIÓN Y VIGILANCIA
+
 
 ### Artículo 111
 . La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, realizará actos de inspección y vigilancia a las personas físicas o morales sujetas a reporte de emisiones, para verificar la información proporcionada a la Secretaría, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
@@ -1546,10 +1596,12 @@ IV. Concertar acciones e inversiones con los sectores social y privado con la fi
 
 ## CAPÍTULO II — MEDIDAS DE SEGURIDAD
 
+
 ### Artículo 113
 . Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente; asimismo, cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Secretaría podrá ordenar las medidas de seguridad previstas en la Ley General del Equilibrio Ecológico y Protección al Ambiente.
 
 ## CAPÍTULO III — SANCIONES
+
 
 ### Artículo 114
 . En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, la Procuraduría Federal de Protección al Ambiente podrá imponer una multa de quinientos a tres mil días de salario mínimo general vigente en el Distrito Federal, sin menoscabo del cumplimiento inmediato de dicha obligación.
@@ -1569,8 +1621,10 @@ La presente Ley entrará en vigor noventa días hábiles después de su publicac
 ### Artículo Segundo
 El país asume el objetivo indicativo o meta aspiracional de reducir al año 2020 un treinta por ciento de emisiones con respecto a la línea de base; así como un cincuenta por ciento de reducción de emisiones al 2050 en relación con las emitidas en el año 2000. Las metas mencionadas podrán alcanzarse si se establece un régimen internacional que disponga de mecanismos de apoyo financiero y tecnológico por parte de países desarrollados hacia países en desarrollo entre los que se incluye los Estados Unidos Mexicanos. Estas metas se revisarán cuando se publique la siguiente Estrategia Nacional.
 Asimismo, el país se compromete a reducir de manera no condicionada un veintidós por ciento sus emisiones de gases de efecto invernadero y un cincuenta y uno por ciento sus emisiones de carbono negro al año 2030 con respecto a la línea base. Este compromiso, asumido como Contribución determinada a nivel nacional, implica alcanzar un máximo de las emisiones nacionales al año 2026; y desacoplar las emisiones de gases de efecto invernadero del crecimiento económico, la intensidad de emisiones por unidad de producto interno bruto se reducirá en alrededor de cuarenta por ciento entre 2013 y 2030.
-Párrafo adicionado DOF 13-07-2018 La reducción del veintidós por ciento de las emisiones de gases de efecto invernadero se conseguirá a través del compromiso de los diferentes sectores participantes, de acuerdo con las metas siguientes: transporte -18 por ciento; generación eléctrica -31 por ciento; residencial y comercial -18 por ciento; petróleo y gas -14 por ciento; industria -5 por ciento; agricultura y ganadería -8 por ciento y residuos -28 por ciento.
-Párrafo adicionado DOF 13-07-2018 Las metas de reducción de emisiones de gases de efecto invernadero y de carbono negro al 2030 se podrán incrementar hasta un treinta y seis por ciento y setenta por ciento respectivamente, de manera condicionada sujeta a la adopción de un acuerdo global que incluya temas tales como un precio al carbono internacional, ajustes a aranceles por contenido de carbono, cooperación técnica, acceso a recursos financieros de bajo costo y a transferencia de tecnología, todo ello a una escala equivalente con el reto del cambio climático global.
+Párrafo adicionado DOF 13-07-2018
+La reducción del veintidós por ciento de las emisiones de gases de efecto invernadero se conseguirá a través del compromiso de los diferentes sectores participantes, de acuerdo con las metas siguientes: transporte -18 por ciento; generación eléctrica -31 por ciento; residencial y comercial -18 por ciento; petróleo y gas -14 por ciento; industria -5 por ciento; agricultura y ganadería -8 por ciento y residuos -28 por ciento.
+Párrafo adicionado DOF 13-07-2018
+Las metas de reducción de emisiones de gases de efecto invernadero y de carbono negro al 2030 se podrán incrementar hasta un treinta y seis por ciento y setenta por ciento respectivamente, de manera condicionada sujeta a la adopción de un acuerdo global que incluya temas tales como un precio al carbono internacional, ajustes a aranceles por contenido de carbono, cooperación técnica, acceso a recursos financieros de bajo costo y a transferencia de tecnología, todo ello a una escala equivalente con el reto del cambio climático global.
 Párrafo adicionado DOF 13-07-2018
 
 ### Artículo Tercero
@@ -1637,7 +1691,7 @@ Se reforma la fracción XI del artículo 7o. de la Ley General de Cambio Climát
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de marzo de 2014.- Dip. José Gonzalez Morfin, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Angelina Carreño Mijares, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma la fracción II del artículo 3o. de la Ley General de Cambio Climático.
 Publicado en el Diario Oficial de la Federación el 16 de octubre de 2014
@@ -1647,7 +1701,7 @@ Se reforma la fracción II del artículo 3o. de la Ley General de Cambio Climát
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 18 de septiembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de Cambio Climático.
 Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2014
@@ -1657,7 +1711,7 @@ Se reforman los artículos 17, párrafo primero; 45, párrafo segundo y 84 de la
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 2 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona un último párrafo al artículo 9o. de la Ley General de Cambio Climático.
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
@@ -1687,7 +1741,7 @@ Se reforma el inciso a) de la fracción VI del artículo 7o. de la Ley General d
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de marzo de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Francisca Elena Corrales Corrales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de Cambio Climático.
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
@@ -1716,7 +1770,7 @@ Publicado en el Diario Oficial de la Federación el 13 de julio de 2018
 
 ### Artículo Único
 Se reforman los artículos 2o., fracciones II y VII; 7o., fracciones III y IV; 15, fracción V; 28, primer párrafo; 31, segundo párrafo; 37, primer párrafo; 47, fracciones IV y VI; 57, fracción IV; 63, primer párrafo; 64, primer párrafo y fracción X; 74, primer párrafo; 87, primer párrafo; 94, primer párrafo; 95; y 98, primer párrafo; se adicionan al artículo 2o. una fracción VIII; al artículo 3o. las fracciones I, IX, X, XII, XIV, XXIX, XXXI y XXXIX, recorriéndose las subsecuentes en su orden; al artículo 26 una fracción XIII y un último párrafo; al artículo 28 un segundo párrafo; al artículo 31 un tercer párrafo; al artículo 47 una fracción XIX; al artículo 58 las fracciones III y IV, recorriéndose la actual III para quedar como V; al artículo 63, los párrafos segundo, tercero, cuarto y quinto; al artículo 94 un segundo párrafo; un segundo,
-**tercero.** y cuarto párrafos al artículo Segundo Transitorio del Decreto por el que se expide la Ley General de Cambio Climático, publicado en el Diario Oficial de la Federación el 6 de junio de 2012; de la Ley General de Cambio Climático, para quedar como sigue: ………
+**tercero.-** y cuarto párrafos al artículo Segundo Transitorio del Decreto por el que se expide la Ley General de Cambio Climático, publicado en el Diario Oficial de la Federación el 6 de junio de 2012; de la Ley General de Cambio Climático, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -1734,21 +1788,21 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ### ARTÍCULO DÉCIMO SÉPTIMO
 Se reforman los artículos 8o., fracción VI; 16, fracciones VI, inciso b) y VII; 32, párrafo segundo; 50, fracción III; 81, primer párrafo y fracción V; 82, primer párrafo; 83, 86, 92, tercer párrafo; 107, y 108, así como la denominación del Capítulo VII del Título Quinto; se adiciona un
-**segundo.** párrafo al artículo 82 y, se derogan los artículos 3o., fracción XXI; 7o., fracción VIII; 8o., fracción XVII; 80; 84, y 85 de la Ley General de Cambio Climático, para quedar como sigue: ……..
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-**Cuarto.** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+**segundo.-** párrafo al artículo 82 y, se derogan los artículos 3o., fracción XXI; 7o., fracción VIII; 8o., fracción XVII; 80; 84, y 85 de la Ley General de Cambio Climático, para quedar como sigue: ……..
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+**Cuarto.-** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
 A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-**Quinto.** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+**Quinto.-** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-**Sexto.** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
-**Séptimo.** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+**Sexto.-** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+**Séptimo.-** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
 Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
 El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
 Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
@@ -1760,20 +1814,20 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
 A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de EnergíaHidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
-**Octavo.** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+**Octavo.-** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
-**Noveno.** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-**Décimo.** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-**Décimo Primero.** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
-**Décimo Segundo.** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-**Décimo Tercero.** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
-**Décimo Cuarto.** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+**Noveno.-** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+**Décimo.-** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+**Décimo Primero.-** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+**Décimo Segundo.-** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+**Décimo Tercero.-** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+**Décimo Cuarto.-** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
-**Décimo Quinto.** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+**Décimo Quinto.-** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
 Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
 A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
@@ -1781,18 +1835,18 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
-**Décimo Sexto.** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
+**Décimo Sexto.-** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
 
 ## transitorio
 
-**Cuarto.** del presente Decreto.
+**Cuarto.-** del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-**Décimo Séptimo.** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
-**Décimo Octavo.** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
-**Décimo Noveno.** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+**Décimo Séptimo.-** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+**Décimo Octavo.-** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+**Décimo Noveno.-** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-**Vigésimo.** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+**Vigésimo.-** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1804,9 +1858,9 @@ Se reforma el artículo 51 de la Ley General de Cambio Climático, para quedar c
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

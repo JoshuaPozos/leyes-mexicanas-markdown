@@ -15,7 +15,9 @@ Se expide la Ley Federal de Austeridad Republicana
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 . Esta Ley es de orden público e interés social. Tiene por objeto regular y normar las medidas de austeridad que deberá observar el ejercicio del gasto público federal y coadyuvar a que los recursos económicos de que se dispongan se administren con eficacia, eficiencia, economía, transparencia y honradez, conforme lo establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son aplicables a todas las dependencias, entidades, organismos y demás entes que integran la Administración Pública Federal.
@@ -60,7 +62,9 @@ La Secretaría y la Secretaría de Hacienda y Crédito Público estarán faculta
 
 ## TÍTULO SEGUNDO — DE LA AUSTERIDAD REPUBLICANA DE ESTADO
 
+
 ## Capítulo Único
+
 
 ### Artículo 6
 . Para dar cumplimiento a los fines de esta Ley, los entes públicos sujetarán su gasto corriente y de capital a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Ingresos de la Federación, en el Presupuesto de Egresos de la Federación, y en la Ley Federal de Transparencia y Acceso a la Información Pública, conforme a los objetivos señalados en la presente Ley y de acuerdo con las demás disposiciones aplicables en la materia.
@@ -177,7 +181,9 @@ Las autoridades competentes en materia de fiscalización incluirán en su planea
 
 ## TÍTULO TERCERO — DEL COMPORTAMIENTO AUSTERO Y PROBO DE LOS SERVIDORES PÚBLICOS
 
+
 ## Capítulo Único
+
 
 ### Artículo 20
 . Los servidores públicos se sujetarán a la remuneración adecuada y proporcional que conforme a sus responsabilidades se determine en los presupuestos de egresos, considerando lo establecido en los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables. Por ende, queda prohibida la obtención de algún privilegio económico adicional a lo establecido en la ley.
@@ -214,9 +220,11 @@ Lo anterior, de conformidad con lo establecido en el marco normativo aplicable.
 . La Secretaría de Hacienda y Crédito Público y la Secretaría emitirán los lineamientos aplicables en materia de austeridad republicana, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de la Administración Pública Federal.
 
 ## TÍTULO CUARTO — DE LA EVALUACIÓN DE LA POLÍTICA DE AUSTERIDAD REPUBLICANA Y DEL
+
 FINCAMIENTO DE RESPONSABILIDADES
 
 ## Capítulo Primero — De la Evaluación
+
 
 ### Artículo 27
 . Se formará un Comité de Evaluación, el cual será responsable de promover y evaluar las políticas y medidas de austeridad republicana de los entes públicos.
@@ -235,6 +243,7 @@ Los resultados de dicha evaluación serán presentados ante el Ejecutivo Federal
 
 ## Capítulo Segundo — De las Responsabilidades
 
+
 ### Artículo 28
 . El órgano encargado del control interno estará facultado en todo momento para vigilar y fiscalizar la gestión gubernamental de los entes públicos, verificando que las medidas de austeridad republicana se apliquen de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
 
@@ -252,28 +261,28 @@ Los resultados de dicha evaluación serán presentados ante el Ejecutivo Federal
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
-**Tercero.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
-**Cuarto.** Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
-**Quinto.** Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
+**Tercero.-** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
+**Cuarto.-** Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
+**Quinto.-** Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
 Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
 La eliminación de las plazas de Dirección General Adjunta creadas a partir del ejercicio fiscal 2001, y que no cumplan con lo dispuesto en la fracción III del artículo 12 de la Ley Federal de Austeridad Republicana estará sujeta a lo previsto en el artículo transitorio segundo.
-**Sexto.** Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
+**Sexto.-** Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
 Asimismo, queda prohibida la asignación a extitulares del Ejecutivo Federal, de cualquier tipo de servidores públicos, personal civil o de las fuerzas armadas, cuyos costos sean cubiertos con recursos del Estado, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio federal. Por lo que a partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
-**Séptimo.** Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
+**Séptimo.-** Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
 La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda y Crédito Público y de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
-**Octavo.** En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
-**Noveno.** La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
-**Décimo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Octavo.-** En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
+**Noveno.-** La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
+**Décimo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
 Ciudad de México, a 8 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 139/2019, promovida por Senadoras y Senadores de la República.
 Notificados al Congreso de la Unión para efectos legales el 6 de abril de 2022 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/107/2022 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el cinco de abril de dos mil veintidós, resolvió la acción de inconstitucionalidad 139/2019, promovida por Senadoras y Senadores de la República, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7, párrafo segundo, 16, párrafos primero, en su porción normativa ‘de manera enunciativa y no limitativa’, y segundo, en su porción normativa ‘pudiendo ampliar los supuestos regulados en este artículo’, 26 y 27 de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la de los artículos transitorios séptimo y octavo del referido decreto.
-**TERCERO.** Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la del 61, párrafo
-**segundo.** , en su porción normativa ‘o al destino que por Decreto determine el Titular’, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, reformado mediante el referido decreto, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo de la Federación.
+**SEGUNDO.-** Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7, párrafo segundo, 16, párrafos primero, en su porción normativa ‘de manera enunciativa y no limitativa’, y segundo, en su porción normativa ‘pudiendo ampliar los supuestos regulados en este artículo’, 26 y 27 de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la de los artículos transitorios séptimo y octavo del referido decreto.
+**TERCERO.-** Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la del 61, párrafo
+**segundo.-** , en su porción normativa ‘o al destino que por Decreto determine el Titular’, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, reformado mediante el referido decreto, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo de la Federación.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 5 de abril de 2022 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 6 de abril de 2022 a las 11:11 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -281,16 +290,16 @@ SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Na
 Publicada en el Diario Oficial de la Federación el 2 de septiembre de 2022 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 139/2019 PROMOVENTE: SENADORAS Y SENADORES DE LA REPÚBLICA PONENTE: MINISTRA NORMA LUCÍA PIÑA HERNÁNDEZ SECRETARIO DE ESTUDIO Y CUENTA: ALEJANDRO GONZÁLEZ PIÑA Vo.Bo.
 Ministra Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al día cinco de abril de dos mil veintidós, emite la siguiente:
 SENTENCIA Mediante la que se resuelve la acción de inconstitucionalidad 139/2019 promovida por una minoría del Senado de la República en contra del decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, emitido por el Congreso General de los Estados Unidos Mexicanos, mediante el cual se expidió la Ley Federal de Austeridad Republicana (LFAR en adelante) y se reformaron y adicionaron diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria (LFPRH en lo subsiguiente). ……… RESUELVE:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7, párrafo
-**segundo.** , 16, párrafos primero, en su porción normativa “de manera enunciativa y no limitativa”, y
-**segundo.** , en su porción normativa “pudiendo ampliar los supuestos regulados en este artículo”, 26 y 27 de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la de los artículos
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez de los artículos 1, párrafo segundo, 4, fracciones I y II, 7, párrafo
+**segundo.-** , 16, párrafos primero, en su porción normativa “de manera enunciativa y no limitativa”, y
+**segundo.-** , en su porción normativa “pudiendo ampliar los supuestos regulados en este artículo”, 26 y 27 de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la de los artículos
 
 ## transitorios
 
-**séptimo.** y octavo del referido decreto.
-**TERCERO.** Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la del 61, párrafo segundo, en su porción normativa “o al destino que por Decreto determine el Titular”, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, reformado mediante el referido decreto, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**séptimo.-** y octavo del referido decreto.
+**TERCERO.-** Se declara la invalidez del artículo 24, párrafo segundo, de la Ley Federal de Austeridad Republicana, expedida mediante el decreto publicado en el Diario Oficial de la Federación el diecinueve de noviembre de dos mil diecinueve, así como la del 61, párrafo segundo, en su porción normativa “o al destino que por Decreto determine el Titular”, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, reformado mediante el referido decreto, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
@@ -298,7 +307,7 @@ Firman el señor Ministro Presidente y la señora Ministra Ponente con el Secret
 Ministro Presidente, Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ministra Ponente, Norma Lucía Piña Hernández.- Firmado electrónicamente.- Secretario General de Acuerdos, Rafael Coello Cetina.- Firmado electrónicamente.
 LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de ciento treinta y uno fojas útiles, las que se cuenta esta certificación, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 139/2019, promovida por Senadoras y Senadores de la República, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión de cinco de abril de dos mil veintidós.
 Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a
-**primero.** de agosto de dos mil veintidós.- Rúbrica.
+**primero.-** de agosto de dos mil veintidós.- Rúbrica.
 DECRETO por el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.
 Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
 
@@ -324,13 +333,11 @@ Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la 
 **Décimo Primero.-** El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 **Décimo Segundo.-** Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
 **Décimo Tercero.-** Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
-
 I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
 
 II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
 **Décimo Cuarto.-** El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
 **Décimo Quinto.-** Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
-
 I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
 
 II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;

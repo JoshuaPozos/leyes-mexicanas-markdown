@@ -15,7 +15,9 @@ Se expide la siguiente
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 1o
 .- La presente Ley es de orden público, de interés social y observancia general en todo el territorio nacional y tiene por objeto lo siguiente:
@@ -115,9 +117,12 @@ Los actos jurídicos que se celebren en contravención a lo establecido por esta
 Artículo reformado DOF 13-08-2009
 
 ## TÍTULO SEGUNDO — DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS SOCIEDADES FINANCIERAS
-POPULARES, SOCIEDADES FINANCIERAS COMUNITARIAS Y ORGANISMOS DE INTEGRACIÓN FINANCIERA RURAL Denominación del Título reformada DOF 13-08-2009
+
+POPULARES, SOCIEDADES FINANCIERAS COMUNITARIAS Y ORGANISMOS DE INTEGRACIÓN FINANCIERA RURAL
+Denominación del Título reformada DOF 13-08-2009
 
 ## Capítulo I — Disposiciones Comunes
+
 
 ### Artículo 9
 .- Se requerirá dictamen favorable de una Federación y autorización que compete otorgar discrecionalmente a la Comisión, para la organización y funcionamiento de las Sociedades Financieras Populares. Por su propia naturaleza las autorizaciones serán intransmisibles.
@@ -191,10 +196,12 @@ Artículo reformado DOF 13-08-2009, 10-01-2014
 Artículo reformado DOF 13-08-2009
 
 ### Artículo 14
-.- Se deroga Artículo reformado DOF 13-08-2009. Derogado DOF 10-01-2014
+.- Se deroga
+Artículo reformado DOF 13-08-2009. Derogado DOF 10-01-2014
 
 ### Artículo 15
-.- Se deroga Artículo reformado DOF 13-08-2009. Derogado DOF 10-01-2014
+.- Se deroga
+Artículo reformado DOF 13-08-2009. Derogado DOF 10-01-2014
 
 ### Artículo 16
 .- Se deroga.
@@ -207,7 +214,8 @@ Artículo derogado DOF 13-08-2009
 ### Artículo 18
 .- La administración de las Sociedades Financieras Populares estará encomendada a un Consejo de Administración y a un director o gerente general, en sus respectivas esferas de competencias.
 El Consejo de Administración de las Sociedades Financieras Populares estará integrado por no menos de cinco personas ni más de quince de los cuales por lo menos el veinticinco por ciento deben ser independientes. Por cada consejero propietario se podrá designar un suplente.
-Párrafo reformado DOF 10-01-2014 Asimismo, el Consejo de Administración deberá contar con un comité de auditoría, el cual tendrá carácter consultivo. La Comisión establecerá mediante disposiciones de carácter general, las funciones mínimas que deberá realizar el comité de auditoría, así como las normas relativas a su integración, periodicidad de sus sesiones y la oportunidad y suficiencia de la información que deba considerar.
+Párrafo reformado DOF 10-01-2014
+Asimismo, el Consejo de Administración deberá contar con un comité de auditoría, el cual tendrá carácter consultivo. La Comisión establecerá mediante disposiciones de carácter general, las funciones mínimas que deberá realizar el comité de auditoría, así como las normas relativas a su integración, periodicidad de sus sesiones y la oportunidad y suficiencia de la información que deba considerar.
 Para garantizar la continuidad en los procesos de toma de decisiones del Consejo de Administración, en los estatutos de las Sociedades Financieras Populares se deberá establecer un sistema de renovación cíclica y parcial de sus consejeros.
 Artículo reformado DOF 13-08-2009
 
@@ -550,7 +558,8 @@ La Comisión podrá autorizar a las Sociedades Financieras Populares la realizac
 Las Sociedades Financieras Populares únicamente podrán recibir depósitos de los Gobiernos Federal, Estatales o Municipales, ya sea a través de sus sectores central o paraestatal, cuando se ubiquen en los Niveles de Operaciones III y IV, y obtengan autorización de la Comisión.
 Las Sociedades Financieras Populares tendrán prohibido recibir en garantía de los préstamos que otorguen a sus Clientes, títulos representativos de su propio capital social.
 En ningún caso las Sociedades Financieras Populares podrán autorizar a sus Clientes la expedición de cheques a su cargo, en los términos que dispone el Título Primero, Capítulo IV de la Ley General de Títulos y Operaciones de Crédito. Asimismo, a las Sociedades Financieras Populares les estará prohibido realizar aquellas operaciones que no les estén expresamente autorizadas.
-Artículo reformado DOF 27-01-2003, 23-02-2005, 27-05-2005, 18-07-2006, 31-08-2007, 13-08-2009 Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo
+Artículo reformado DOF 27-01-2003, 23-02-2005, 27-05-2005, 18-07-2006, 31-08-2007, 13-08-2009
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 36
 Bis.- Los Clientes de las Sociedades Financieras Populares que mantengan cuentas de depósito o de inversión a las que se refiere el inciso a) de la fracción I del Artículo 36 de esta Ley, podrán autorizar a terceros para que hagan disposiciones de efectivo con cargo a dichas cuentas. Para ello, las Sociedades Financieras Populares deberán contar con la autorización del titular o titulares de la cuenta.
@@ -568,7 +577,8 @@ Artículo adicionado DOF 27-01-2003. Reformado DOF 13-08-2009
 
 ### Artículo 36
 Bis 1.- Las obligaciones subordinadas y sus cupones serán títulos de crédito a cargo de la Sociedad Financiera Popular emisora y producirán acción ejecutiva respecto a la misma, previo requerimiento de pago ante fedatario público. Las obligaciones subordinadas podrán ser no susceptibles de convertirse en acciones, de conversión voluntaria en acciones y de conversión obligatoria en acciones, según se trate. Asimismo, las obligaciones subordinadas según su orden de prelación, podrán ser preferentes o no preferentes.
-Párrafo reformado DOF 13-08-2009 Estos títulos podrán emitirse en moneda nacional, mediante declaración unilateral de voluntad de la emisora, que se hará constar ante la Comisión, previa autorización que otorgue ésta. Al efecto, las solicitudes de autorización deberán presentarse por escrito a la citada Comisión, acompañando el respectivo proyecto de acta de emisión e indicando las condiciones bajo las cuales se pretendan colocar dichos títulos. En todo caso, las obligaciones subordinadas deberán contener:
+Párrafo reformado DOF 13-08-2009
+Estos títulos podrán emitirse en moneda nacional, mediante declaración unilateral de voluntad de la emisora, que se hará constar ante la Comisión, previa autorización que otorgue ésta. Al efecto, las solicitudes de autorización deberán presentarse por escrito a la citada Comisión, acompañando el respectivo proyecto de acta de emisión e indicando las condiciones bajo las cuales se pretendan colocar dichos títulos. En todo caso, las obligaciones subordinadas deberán contener:
 
 I. La mención de ser obligaciones subordinadas y títulos al portador;
 
@@ -588,10 +598,14 @@ VIII. El lugar de pago único, y
 
 IX. Los plazos o términos y condiciones del acta de emisión.
 Las obligaciones subordinadas podrán tener anexos cupones para el pago de intereses y, en su caso, recibos para las amortizaciones parciales. Los títulos podrán amparar una o más obligaciones. Las Sociedades Financieras Populares emisoras tendrán la facultad de amortizar anticipadamente las obligaciones, siempre y cuando en el acta de emisión, en cualquier propaganda o publicidad dirigida al público y en los títulos que se expidan, se describan claramente los términos, fechas y condiciones de pago anticipado.
-Párrafo reformado DOF 13-08-2009 Cualquier modificación a los términos, fechas y condiciones de pago deberán realizarse con el acuerdo favorable de las tres cuartas partes, tanto del Consejo de Administración de la Sociedad Financiera Popular de que se trate, como de los tenedores de los títulos correspondientes. La convocatoria de la asamblea correspondiente deberá contener todos los asuntos a tratar en la asamblea, incluyendo cualquier modificación al acta de emisión y publicarse en el Diario Oficial de la Federación y en algún periódico de amplia circulación nacional por lo menos con quince días de anticipación a la fecha en que la asamblea deba reunirse.
-Párrafo reformado DOF 13-08-2009 Las Sociedades Financieras Populares, además de los requisitos a que se refiere el presente Artículo, requerirán la autorización de la Comisión para pagar anticipadamente las obligaciones subordinadas que emitan. Asimismo, la Sociedad Financiera Popular emisora podrá diferir el pago de intereses y de principal, cancelar el pago de intereses o convertir anticipadamente las obligaciones subordinadas.
-Párrafo reformado DOF 13-08-2009 En caso de liquidación o concurso mercantil de la emisora, el pago de las obligaciones subordinadas preferentes se hará a prorrata, sin distinción de fechas de emisión, después de cubrir todas las demás deudas de la Sociedad Financiera Popular, pero antes de repartir a los titulares de las acciones, en su caso, el haber social. Las obligaciones subordinadas no preferentes se pagarán en los mismos términos señalados en este párrafo, pero después de haber pagado las obligaciones subordinadas preferentes.
-Párrafo reformado DOF 13-08-2009 En el acta de emisión relativa, en el prospecto informativo, en cualquier otra clase de publicidad y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en los párrafos anteriores.
+Párrafo reformado DOF 13-08-2009
+Cualquier modificación a los términos, fechas y condiciones de pago deberán realizarse con el acuerdo favorable de las tres cuartas partes, tanto del Consejo de Administración de la Sociedad Financiera Popular de que se trate, como de los tenedores de los títulos correspondientes. La convocatoria de la asamblea correspondiente deberá contener todos los asuntos a tratar en la asamblea, incluyendo cualquier modificación al acta de emisión y publicarse en el Diario Oficial de la Federación y en algún periódico de amplia circulación nacional por lo menos con quince días de anticipación a la fecha en que la asamblea deba reunirse.
+Párrafo reformado DOF 13-08-2009
+Las Sociedades Financieras Populares, además de los requisitos a que se refiere el presente Artículo, requerirán la autorización de la Comisión para pagar anticipadamente las obligaciones subordinadas que emitan. Asimismo, la Sociedad Financiera Popular emisora podrá diferir el pago de intereses y de principal, cancelar el pago de intereses o convertir anticipadamente las obligaciones subordinadas.
+Párrafo reformado DOF 13-08-2009
+En caso de liquidación o concurso mercantil de la emisora, el pago de las obligaciones subordinadas preferentes se hará a prorrata, sin distinción de fechas de emisión, después de cubrir todas las demás deudas de la Sociedad Financiera Popular, pero antes de repartir a los titulares de las acciones, en su caso, el haber social. Las obligaciones subordinadas no preferentes se pagarán en los mismos términos señalados en este párrafo, pero después de haber pagado las obligaciones subordinadas preferentes.
+Párrafo reformado DOF 13-08-2009
+En el acta de emisión relativa, en el prospecto informativo, en cualquier otra clase de publicidad y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en los párrafos anteriores.
 En el acta de emisión podrá designarse un representante común de los tenedores de las obligaciones, en cuyo caso, se deberán indicar sus derechos y obligaciones, así como los términos y condiciones en que podrá procederse a su remoción y a la designación de nuevo representante. No será aplicable a estos representantes, lo previsto en la Ley General de Títulos y Operaciones de Crédito, para los representantes comunes de obligacionistas.
 La emisora mantendrá las obligaciones subordinadas en custodia en alguna de las instituciones para el constancia de sus tenencias.
 La inversión de los pasivos captados a través de la colocación de obligaciones subordinadas, se hará de conformidad con las disposiciones que la Comisión, en su caso, dicte al efecto.
@@ -696,15 +710,22 @@ XIII. En caso de que no realice 3 pagos correspondientes a las cuotas de supervi
 
 XIV. En cualquier otro establecido por la Ley.
 La Comisión otorgará el derecho de audiencia a la Sociedad Financiera Popular interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
-Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del ámbito geográfico en que operaba, y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Financiera Popular de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión.
-Párrafo reformado DOF 24-01-2024 La revocación incapacitará a la Sociedad Financiera Popular de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de socios. En todo caso, el cargo de liquidador deberá recaer en alguna de las personas a que se refiere la fracción IV del Artículo 96 de esta Ley.
-Párrafo reformado DOF 24-01-2024 La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Financiera Popular, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del ámbito geográfico en que operaba, y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Financiera Popular de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión.
+Párrafo reformado DOF 24-01-2024
+La revocación incapacitará a la Sociedad Financiera Popular de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de socios. En todo caso, el cargo de liquidador deberá recaer en alguna de las personas a que se refiere la fracción IV del Artículo 96 de esta Ley.
+Párrafo reformado DOF 24-01-2024
+La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Financiera Popular, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
 Artículo reformado DOF 23-02-2005, 13-08-2009
 
 ## Capítulo II — De las Sociedades Cooperativas de Ahorro y Préstamo
-(Derogado) Capítulo derogado DOF 13-08-2009
+
+(Derogado)
+Capítulo derogado DOF 13-08-2009
 
 ### Artículo 38
 .- Se deroga.
@@ -719,6 +740,7 @@ Artículo derogado DOF 13-08-2009
 Artículo derogado DOF 13-08-2009
 
 ## Capítulo III — De las Sociedades Financieras Populares
+
 
 ### Artículo 41
 .- Las Sociedades Financieras Populares serán sociedades anónimas, tendrán duración indefinida y establecerán su domicilio en territorio nacional, pudiendo prestar servicios tanto a sus Socios como a sus Clientes, en los términos que esta Ley establece. Sólo podrán utilizar esta denominación las sociedades autorizadas para operar en los términos de esta Ley.
@@ -786,9 +808,12 @@ El intercambio de información a que se refiere el párrafo anterior no implicar
 Artículo adicionado DOF 10-01-2014
 
 ## Capítulo IV — De las Sociedades Financieras Comunitarias y de los Organismos de Integración
-Financiera Rural Capítulo adicionado DOF 13-08-2009
+
+Financiera Rural
+Capítulo adicionado DOF 13-08-2009
 
 ## Sección Primera — Disposiciones Generales
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 46
@@ -800,7 +825,8 @@ Artículo reformado DOF 27-01-2003, 28-06-2005, 13-08-2009 (y reubicado)
 ### Artículo 46
 Bis.- Las Sociedades Financieras Comunitarias con niveles de operación I a IV, y los Organismos de Integración Financiera Rural para su organización y funcionamiento, se ajustarán a las disposiciones especiales que se señalan en este capítulo. Adicionalmente, les resultarán aplicables en lo que no se oponga a lo anterior, los artículos 9, 10 Bis, 12, 13, 14, 15, 18, 19, 24, 31, 32 Bis, 33, 33 Bis, 33 Bis 1, 34, 36 Bis, 36 Bis 1, 36 Bis 2, 37, el Título Tercero, el Título Tercero Bis, el Capítulo II del Título Cuarto, así como los Títulos Quinto y Sexto de la presente Ley. La Comisión expedirá las reglas de carácter general que establezcan los criterios para determinar el nivel de operaciones que será asignado a las Sociedades Financieras Comunitarias, considerando, entre otros, el monto de activos con que cuenten. Asimismo, en las citadas reglas se señalarán las operaciones activas, pasivas y de servicios que las sociedades podrán realizar, de entre las contempladas en el artículo 36 de esta Ley, de acuerdo al nivel de operaciones con que cuenten, así como las características de dichas operaciones y los requisitos para celebrarlas.
 A las Sociedades Financieras Comunitarias con Niveles de Operación I a IV también le serán aplicables las disposiciones de los artículos 36 Bis 3, 36 Bis 4 y 36 Bis 5 de la presente Ley.
-Párrafo adicionado DOF 10-01-2014 Los Organismos de Integración Financiera Rural podrán realizar las operaciones a que se refiere el artículo 46 Bis 20 de la presente ley.
+Párrafo adicionado DOF 10-01-2014
+Los Organismos de Integración Financiera Rural podrán realizar las operaciones a que se refiere el artículo 46 Bis 20 de la presente ley.
 La Comisión establecerá mediante disposiciones de carácter general los requisitos mínimos que deberán acompañar la solicitud de autorización de las Sociedades Financieras Comunitarias con Niveles de Operación I a IV y de los Organismos de Integración Financiera Rural, a que se refiere el artículo 10 de la presente Ley, así como de los requisitos mínimos que deberán cumplir los miembros del Consejo de Administración y director general, señalados en los artículos 20, 21 y 23 de la presente Ley.
 Asimismo, la Comisión emitirá los lineamientos mínimos de regulación prudencial a los que deberán sujetarse las Sociedades Financieras Comunitarias y los Organismos de Integración Financiera Rural en las materias y términos señalados en el artículo 116 y 118 de esta Ley.
 En todo caso, la Comisión al expedir las reglas a que se refiere este artículo deberá considerar las características particulares del sector rural.
@@ -826,8 +852,10 @@ VI. Las personas morales en las que cualesquiera de las personas señaladas en l
 VII. Las personas morales en las que los funcionarios, auditores externos y comisarios de las Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales.
 Se entenderá por funcionario al director o gerente general y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquéllos.
 No requerirán de la aprobación del consejo de administración, las operaciones con personas a que se refiere este artículo cuyo importe en su conjunto no exceda del equivalente en moneda nacional a 100 mil UDIs, o el uno por ciento del capital neto de la Sociedad Financiera Comunitaria y del Organismo de Integración Financiera Rural, el que sea menor, sin embargo, deberán hacerse de su conocimiento y poner a su disposición toda la información relativa a las mismas.
-Párrafo reformado DOF 10-01-2014 La suma total de los montos dispuestos y las líneas de crédito irrevocables contratadas de las operaciones con personas relacionadas, no podrá exceder del 10 por ciento del capital neto de la Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural.
-Párrafo reformado DOF 10-01-2014 Los consejeros y funcionarios deberán excusarse de participar en las discusiones y abstenerse de votar en los casos en que tengan un interés directo o un conflicto de interés.
+Párrafo reformado DOF 10-01-2014
+La suma total de los montos dispuestos y las líneas de crédito irrevocables contratadas de las operaciones con personas relacionadas, no podrá exceder del 10 por ciento del capital neto de la Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural.
+Párrafo reformado DOF 10-01-2014
+Los consejeros y funcionarios deberán excusarse de participar en las discusiones y abstenerse de votar en los casos en que tengan un interés directo o un conflicto de interés.
 En ningún caso, las operaciones con personas relacionadas deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con los Socios y Clientes, según sea el caso.
 No se considerarán operaciones con personas relacionadas, los créditos de carácter laboral que la Sociedad Financiera Comunitaria u Organismo de Integración Financiera Rural otorgue a sus trabajadores. Asimismo, no se considerarán como operaciones con personas relacionadas, los préstamos o créditos que los Organismos de Integración Financiera Rural otorguen a las Sociedades Financieras Comunitarias que agrupen, así como a las organizaciones económicas de productores cuyos socios, miembros o integrantes tengan cuando menos 50 personas.
 Artículo adicionado DOF 13-08-2009
@@ -838,7 +866,10 @@ Al efecto, la Secretaría en el ámbito de su competencia, promoverá la partici
 Artículo adicionado DOF 13-08-2009
 
 ## Sección Segunda — De las Sociedades Financieras Comunitarias
-Sección adicionada DOF 13-08-2009 Apartado A De las disposiciones comunes de las Sociedades Financieras Comunitarias Apartado adicionado DOF 13-08-2009
+
+Sección adicionada DOF 13-08-2009
+Apartado A De las disposiciones comunes de las Sociedades Financieras Comunitarias
+Apartado adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 3.- Las Sociedades Financieras Comunitarias deberán registrarse ante una Federación en términos de lo dispuesto por el Artículo 46 Bis 4, inscribiendo al efecto los datos a que se refiere el Artículo 46 Bis 5 de esta Ley.
@@ -894,7 +925,9 @@ Artículo adicionado DOF 13-08-2009
 Bis 8.- Las Sociedades Financieras Comunitarias deberán contar con un fondo de reserva comunitario que se constituirá con las aportaciones que de forma anual determine su asamblea, el cual no podrá ser inferior al diez por ciento de las referidas utilidades, hasta alcanzar el veinticinco por ciento de su capital contable.
 La reserva comunitaria se destinará a fortalecer la solvencia de las Sociedades Financieras Comunitarias en términos de lo que al efecto apruebe el Consejo de Administración.
 La reserva comunitaria únicamente podrá ser objeto de capitalización cuando ésta tenga por objeto cubrir pérdidas y se efectúe hasta por el monto que dichas pérdidas representen.
-Artículo adicionado DOF 13-08-2009 Apartado B De las Sociedades Financieras Comunitarias con Nivel de Operación Básico Apartado adicionado DOF 13-08-2009
+Artículo adicionado DOF 13-08-2009
+Apartado B De las Sociedades Financieras Comunitarias con Nivel de Operación Básico
+Apartado adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 9.- Las Sociedades Financieras Comunitarias cuyo monto total de activos no rebase el límite equivalente en moneda nacional a 2’500,000 de UDIS, contarán con un nivel de operaciones básico y no requerirán de la autorización de la Comisión para desarrollar las operaciones propias de su objeto.
@@ -952,11 +985,17 @@ II. Si la Sociedad Financiera Comunitaria se niega reiteradamente a proporcionar
 
 III. Si la Sociedad Financiera Comunitaria excediera el límite de activos a que se refiere el Artículo 46 Bis 9 de la presente Ley y no obtuviera la autorización de la Comisión en términos del Artículo 46 Bis 11 de esta Ley.
 La Comisión deberá hacer del conocimiento de la Sociedad de que se trate y de manera previa a que ordene su disolución y liquidación, la actualización de cualquiera de los supuestos señalados en las fracciones anteriores, a fin de que dicha Sociedad en un plazo improrrogable de sesenta días hábiles siguientes a la notificación del escrito correspondiente, manifieste lo que a su derecho convenga y, ofrezca pruebas.
-Párrafo reformado DOF 24-01-2024 Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que corresponda, y siempre que subsistan los incumplimientos detectados, la Comisión deberá emitir la orden de disolución y liquidación debidamente fundada y motivada.
-Párrafo adicionado DOF 24-01-2024 La orden que emita la Comisión incapacitará a la Sociedad Financiera Comunitaria de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. Dicha orden de disolución y liquidación deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Financiera Comunitaria de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 96 de la presente Ley.
-Párrafo reformado DOF 24-01-2024 La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de 60 días hábiles siguientes a la inscripción de la orden a que se refiere el primer párrafo del presente Artículo, no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Financiera Comunitaria, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos 180 días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de 60 días hábiles, ante la propia autoridad judicial.
-Artículo adicionado DOF 13-08-2009 Apartado C De las Sociedades Financieras Comunitarias con Niveles de Operación I a IV Apartado adicionado DOF 13-08-2009
+Párrafo reformado DOF 24-01-2024
+Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que corresponda, y siempre que subsistan los incumplimientos detectados, la Comisión deberá emitir la orden de disolución y liquidación debidamente fundada y motivada.
+Párrafo adicionado DOF 24-01-2024
+La orden que emita la Comisión incapacitará a la Sociedad Financiera Comunitaria de que se trate para realizar sus operaciones a partir de la fecha en que se notifique la misma y la pondrá en estado de disolución y liquidación, sin necesidad del acuerdo de la asamblea de Socios. Dicha orden de disolución y liquidación deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Financiera Comunitaria de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión. En todo caso, el cargo de liquidador deberá recaer en algunas de las personas a que se refiere la fracción IV del Artículo 96 de la presente Ley.
+Párrafo reformado DOF 24-01-2024
+La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de 60 días hábiles siguientes a la inscripción de la orden a que se refiere el primer párrafo del presente Artículo, no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Financiera Comunitaria, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos 180 días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de 60 días hábiles, ante la propia autoridad judicial.
+Artículo adicionado DOF 13-08-2009
+Apartado C De las Sociedades Financieras Comunitarias con Niveles de Operación I a IV
+Apartado adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 15.- Las Sociedades Financieras Comunitarias que tengan registrado un monto total de activos, igual o superior, al equivalente en moneda nacional a dos millones de UDIS, requerirán de la autorización que para realizar, o continuar realizando, sus operaciones, compete otorgar a la Comisión, previo dictamen favorable de una Federación, de conformidad con lo dispuesto por el Artículo 9 de la presente Ley.
@@ -968,6 +1007,7 @@ Bis 16.- En todo caso, a las Sociedades Financieras Comunitarias con Niveles de 
 Artículo adicionado DOF 13-08-2009
 
 ## Sección Tercera — De los Organismos de Integración Financiera Rural
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 46
@@ -1024,9 +1064,11 @@ Bis 23.- A los Organismos de Integración Financiera Rural no les resultará apl
 Artículo adicionado DOF 13-08-2009
 
 ## TÍTULO TERCERO — DE LAS FEDERACIONES, MEDIDAS CORRECTIVAS Y DEL FONDO DE PROTECCIÓN
+
 Denominación del Título reformada DOF 13-08-2009
 
 ## Capítulo I — Disposiciones generales de las Federaciones
+
 Denominación del Capítulo reformada DOF 13-08-2009
 
 ### Artículo 47
@@ -1174,17 +1216,23 @@ VIII. Si la Federación no acredita a la Comisión, que sus Sociedades Financier
 
 IX. Si se disuelve, liquida o quiebra.
 La Comisión otorgará el derecho de audiencia a la Federación interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la Federación la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 Las declaraciones de revocación se publicarán en el Diario Oficial de la Federación y deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Federación de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión. La revocación incapacitará a la Federación para realizar sus operaciones a partir de la fecha en que se notifique la misma, y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de socios.
-Párrafo reformado DOF 24-01-2024 Artículo reformado DOF 27-01-2003, 13-08-2009
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la Federación la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+Las declaraciones de revocación se publicarán en el Diario Oficial de la Federación y deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Federación de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la Comisión. La revocación incapacitará a la Federación para realizar sus operaciones a partir de la fecha en que se notifique la misma, y la pondrá en estado de disolución y liquidación sin necesidad del acuerdo de la asamblea de socios.
+Párrafo reformado DOF 24-01-2024
+Artículo reformado DOF 27-01-2003, 13-08-2009
 
 ### Artículo 61
 .- Las Sociedades Financieras Populares afiliadas y no afiliadas supervisadas auxiliarmente por una Federación cuya autorización hubiere sido revocada por la Comisión, deberán solicitar su afiliación a una Federación distinta o sujetarse al régimen de Sociedad Financiera Popular no afiliada en un término no mayor a diez días hábiles a partir de la fecha en que surta sus efectos la revocación antes citada.
 Artículo reformado DOF 27-01-2003, 13-08-2009
 
 ## Capítulo II — De la organización y objeto de las Federaciones
-Capítulo reformado DOF 13-08-2009 (Se modifica su denominación; queda integrado con los artículos 62 a 72; y se eliminan las referencias a sus Secciones Primera “De su organización y objeto”, Segunda “De su funcionamiento y de las medidas correctivas”, Tercera “De la afiliación”, Cuarta “De las Entidades no afiliadas” y Quinta “De la Escisión, Fusión, Venta, Disolución y Liquidación”)
+
+Capítulo reformado DOF 13-08-2009
+(Se modifica su denominación; queda integrado con los artículos 62 a 72; y se eliminan las referencias a sus Secciones Primera “De su organización y objeto”, Segunda “De su funcionamiento y de las medidas correctivas”, Tercera “De la afiliación”, Cuarta “De las Entidades no afiliadas” y Quinta “De la Escisión, Fusión, Venta, Disolución y Liquidación”)
 
 ### Artículo 62
 .- Sin perjuicio de lo dispuesto en el Artículo 47 de esta Ley, la supervisión auxiliar de las Sociedades Financieras Populares a cargo de las Federaciones tendrá por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y en general, todo lo que pudiendo afectar la posición financiera y legal de las Sociedades Financieras Populares, conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia, en los términos que indique la Comisión en disposiciones de carácter general.
@@ -1194,7 +1242,8 @@ Artículo reformado DOF 31-08-2007, 13-08-2009
 
 ### Artículo 63
 .- Las Federaciones deberán contar con una Asamblea General de afiliados que será el órgano supremo de la Federación y estará integrado por los representantes de las Sociedades Financieras Populares afiliadas. Además contarán con un Consejo de Administración, un gerente general, un comité de auditoría o un contralor normativo, un Comité de Supervisión y un auditor legal.
-Párrafo reformado DOF 31-08-2007, 13-08-2009 La Comisión, de acuerdo a los criterios que determine en reglas de carácter general, podrá exceptuar a las Federaciones de alguno de los órganos o personas antes indicados.
+Párrafo reformado DOF 31-08-2007, 13-08-2009
+La Comisión, de acuerdo a los criterios que determine en reglas de carácter general, podrá exceptuar a las Federaciones de alguno de los órganos o personas antes indicados.
 Estos órganos, el gerente general y el contralor normativo, así como el auditor legal, tendrán las atribuciones que se señalen en esta Ley, en los estatutos sociales, en las reglas que emita la Comisión y demás disposiciones aplicables.
 A las asambleas deberá acudir con voz pero sin voto un representante de la Confederación a la que se encuentre afiliada.
 
@@ -1214,7 +1263,8 @@ Artículo reformado DOF 13-08-2009
 
 ### Artículo 65
 Bis.- Las Federaciones a través de su asamblea general de afiliados, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
-Párrafo reformado DOF 31-08-2007 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Federación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
+Párrafo reformado DOF 31-08-2007
+Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Federación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
 Artículo adicionado DOF 27-01-2003
 
 ### Artículo 66
@@ -1287,8 +1337,10 @@ Artículo reformado DOF 13-08-2009
 
 ### Artículo 70
 .- La vigilancia interna de la Federación estará a cargo de un consejo de vigilancia, o su equivalente, o del contralor normativo, cuyas responsabilidades y obligaciones deberán determinarse en los estatutos de la Federación correspondiente.
-Párrafo reformado DOF 31-08-2007 El consejo de vigilancia o el contralor normativo serán elegidos por la asamblea general, y serán los responsables de vigilar que los funcionarios y empleados de la Federación, cumplan con la normatividad aplicable.
-Párrafo reformado DOF 31-08-2007 El consejo de vigilancia o el contralor normativo realizarán las siguientes funciones:
+Párrafo reformado DOF 31-08-2007
+El consejo de vigilancia o el contralor normativo serán elegidos por la asamblea general, y serán los responsables de vigilar que los funcionarios y empleados de la Federación, cumplan con la normatividad aplicable.
+Párrafo reformado DOF 31-08-2007
+El consejo de vigilancia o el contralor normativo realizarán las siguientes funciones:
 Párrafo reformado DOF 31-08-2007
 
 I. Verificar que las Federaciones cumplan con la regulación aplicable;
@@ -1317,6 +1369,7 @@ I. Proporcionar a la Federación que ejerza sobre ellas la supervisión auxiliar
 II. Cumplir con las medidas correctivas a que se refiere este Capítulo, permitir la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley, de las disposiciones que de ella emanen y de los contratos citados.
 
 ## Capítulo III — De las medidas correctivas
+
 Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 73 a 80)
 
 ### Artículo 73
@@ -1393,9 +1446,11 @@ El monto de los depósitos que no hubieran sido pagados conforme a lo anterior, 
 Artículo reformado DOF 13-08-2009
 
 ## Capítulo IV — De los contratos de afiliación y de supervisión auxiliar
+
 Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 81 a 89)
 
 ## Sección Primera — De las Sociedades Financieras Populares afiliadas
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 81
@@ -1432,6 +1487,7 @@ Artículo reformado DOF 13-08-2009
 Artículo reformado DOF 31-08-2007, 13-08-2009
 
 ## Sección Segunda — De las Sociedades Financieras Populares no afiliadas
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 87
@@ -1454,6 +1510,7 @@ Artículo reformado DOF 31-08-2007, 13-08-2009
 Artículo reformado DOF 13-08-2009
 
 ## Capítulo V — De la Escisión, Fusión, Venta, Disolución y Liquidación
+
 Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 90 a 97)
 
 ### Artículo 90
@@ -1547,9 +1604,11 @@ Cuando se declare el concurso mercantil de una Sociedad Financiera Popular, el p
 Artículo reformado DOF 13-08-2009
 
 ## Capítulo VI — Del Fondo de Protección
+
 Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 98 a 112)
 
 ## Sección Primera — De la constitución
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 98
@@ -1582,10 +1641,12 @@ Artículo reformado DOF 13-08-2009
 
 ### Artículo 101
 Bis.- Las Confederaciones a través de su asamblea general, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
-Párrafo reformado DOF 31-08-2007 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Confederación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
+Párrafo reformado DOF 31-08-2007
+Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Confederación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
 Artículo adicionado DOF 27-01-2003
 
 ## Sección Segunda — Del Comité Técnico
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 102
@@ -1665,7 +1726,9 @@ VI. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto
 Artículo reformado DOF 13-08-2009
 
 ## Sección Tercera
-Otras disposiciones Sección adicionada DOF 13-08-2009
+
+Otras disposiciones
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 104
 Bis.- El reglamento interior del Fondo de Protección deberá contener, entre otras, las normas aplicables a:
@@ -1694,6 +1757,7 @@ Bis 2.- El Fondo de Protección y sus respectivos comités, estarán sujetos a l
 Artículo adicionado DOF 13-08-2009
 
 ## Sección Cuarta — Del objeto del Fondo de Protección
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 105
@@ -1731,6 +1795,7 @@ Artículo reformado DOF 13-08-2009
 Artículo reformado DOF 23-02-2005. Derogado DOF 13-08-2009
 
 ## Sección Quinta — Del Comité de Protección al Ahorro
+
 Sección adicionada DOF 13-08-2009
 
 ### Artículo 108
@@ -1806,7 +1871,9 @@ La forma y términos en que se cubrirán las cantidades que correspondan, se est
 Artículo reformado DOF 13-08-2009
 
 ## TÍTULO TERCERO — BIS
-DE LOS ORGANISMOS AUTORREGULATORIOS Título adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 113 a 115 y 115 Bis)
+
+DE LOS ORGANISMOS AUTORREGULATORIOS
+Título adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 113 a 115 y 115 Bis)
 
 ### Artículo 113
 .- Los organismos autorregulatorios de las Sociedades Financieras Populares tendrán por objeto implementar estándares de conducta y operación entre sus agremiados, a fin de contribuir al sano desarrollo de las Sociedades Financieras Populares. Dichos organismos podrán ser de diverso tipo acorde con las actividades que realicen.
@@ -1857,7 +1924,9 @@ Artículo adicionado DOF 13-08-2009
 
 ## TÍTULO CUARTO — DE LA REGULACIÓN PRUDENCIAL Y DE LA CONTABILIDAD
 
+
 ## Capítulo I — De la Regulación Prudencial
+
 
 ### Artículo 116
 .- La Comisión emitirá lineamientos mínimos de regulación prudencial a los que deberán sujetarse las Sociedades Financieras Populares en las materias siguientes:
@@ -1889,6 +1958,7 @@ Asimismo, cuando para el mejor cumplimiento de las atribuciones que le confiere 
 Artículo reformado DOF 13-08-2009
 
 ## Capítulo II — De la Contabilidad y auditoría externa
+
 Denominación del Capítulo reformada DOF 13-08-2009
 
 ### Artículo 117
@@ -1964,7 +2034,9 @@ Artículo adicionado DOF 13-08-2009
 
 ## TÍTULO QUINTO — DE LAS FACULTADES DE LAS AUTORIDADES
 
+
 ## Capítulo Único
+
 
 ### Artículo 120
 .- La supervisión de las Sociedades Financieras Populares, Federaciones y del Fondo de Protección estará a cargo de la Comisión, quien la llevará a cabo sujetándose a lo previsto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores y en el reglamento de supervisión expedido al amparo de esta última Ley.
@@ -2008,7 +2080,8 @@ Artículo adicionado DOF 13-08-2009
 
 ### Artículo 122
 .- La Comisión previo acuerdo de su Junta de Gobierno, podrá ordenar que se proceda a la remoción de los miembros del Consejo de Administración y del comité de auditoría, comisarios, directores, gerentes generales, auditores externos, así como miembros del Comité de Crédito, de las Sociedades Financieras Populares; miembros del Comité de Supervisión, contralor normativo o gerente de las Federaciones; miembros de los Comités Técnico y de Protección al Ahorro, o quienes ejerzan sus funciones en los términos de esta Ley, así como las demás personas que con sus actos puedan obligar a las Sociedades Financieras Populares, a las Federaciones y al Sistema de Protección del Ahorro, o bien, acordar la suspensión de todos ellos en sus funciones, de tres meses hasta cinco años, cuando dicha Comisión considere que tales personas no cuentan con la calidad técnica u honorabilidad para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
-Párrafo reformado DOF 10-01-2014 La propia Comisión podrá además, con acuerdo de su Junta de Gobierno, en los casos señalados en el párrafo anterior, inhabilitar a las personas citadas para desempeñar un empleo, cargo, mandato o comisión en cualquiera de las Sociedades Financieras Populares, Federaciones y en el Fondo de Protección, así como en el sistema financiero mexicano, sin perjuicio de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables.
+Párrafo reformado DOF 10-01-2014
+La propia Comisión podrá además, con acuerdo de su Junta de Gobierno, en los casos señalados en el párrafo anterior, inhabilitar a las personas citadas para desempeñar un empleo, cargo, mandato o comisión en cualquiera de las Sociedades Financieras Populares, Federaciones y en el Fondo de Protección, así como en el sistema financiero mexicano, sin perjuicio de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables.
 Para imponer la inhabilitación la Comisión deberá tomar en cuenta:
 
 I. La gravedad de la infracción y la conveniencia de evitar estas prácticas;
@@ -2020,7 +2093,8 @@ III. El monto del beneficio, daño o perjuicio económicos derivados de la infra
 IV. La reincidencia.
 Para la suspensión, remoción e inhabilitación, la Comisión deberá oír previamente al interesado y al representante de la Sociedad Financiera Popular, Federación o Fondo de Protección, según se trate.
 Asimismo, tratándose de los miembros del Consejo de Administración, directores o gerentes generales, comisario, auditores externos y miembros del Comité de Crédito, de las Sociedades Financieras Populares, la Comisión procederá en términos de este artículo a petición de las Federaciones, siempre que dichas Federaciones acrediten que las personas antes mencionadas no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven.
-Párrafo reformado DOF 10-01-2014 Artículo reformado DOF 13-08-2009
+Párrafo reformado DOF 10-01-2014
+Artículo reformado DOF 13-08-2009
 
 ### Artículo 122
 Bis.- Las Sociedades Financieras Populares, así como las Federaciones y los Comités Técnico y el Administrador del Sistema de Protección del Ahorro, deberán proporcionar a la Comisión toda la información que les requiera para el adecuado cumplimiento de su tarea de supervisión.
@@ -2058,7 +2132,8 @@ a) Los actos, operaciones y servicios que realicen con sus Clientes, relativos a
 
 b) Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso pudiese contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del Consejo de Administración, administrador, comisario, directivo, funcionario, empleado, apoderado o algún miembro del Comité de Supervisión.
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan por las disposiciones de carácter general como relevantes, internas preocupantes e inusuales.
-Párrafo reformado DOF 10-01-2014 Asimismo, la Secretaría en las citadas disposiciones de carácter general emitirá los lineamientos sobre el procedimiento y criterios que las Sociedades Financieras Populares deberán observar respecto de:
+Párrafo reformado DOF 10-01-2014
+Asimismo, la Secretaría en las citadas disposiciones de carácter general emitirá los lineamientos sobre el procedimiento y criterios que las Sociedades Financieras Populares deberán observar respecto de:
 
 a) El adecuado conocimiento de sus Clientes, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 
@@ -2074,12 +2149,16 @@ f) El establecimiento de aquellas estructuras internas que deban funcionar como 
 Párrafo con incisos reformado DOF 10-01-2014 Las Sociedades Financieras Populares deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este Artículo. Las Sociedades Financieras Populares estarán obligadas a proporcionar dicha información y documentación.
 Las Sociedades Financieras Populares deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I de este artículo.
-Párrafo adicionado DOF 10-01-2014 La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
-Párrafo adicionado DOF 10-01-2014 La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
-Párrafo adicionado DOF 10-01-2014 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el Artículo 34 de esta Ley.
+Párrafo adicionado DOF 10-01-2014
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
+Párrafo adicionado DOF 10-01-2014
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+Párrafo adicionado DOF 10-01-2014
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el Artículo 34 de esta Ley.
 Las reglas y los lineamientos que de ellas deriven a que se refiere este Artículo deberán ser observadas por las Sociedades Financieras Populares, así como por los miembros del Consejo de Administración, administradores, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como por los miembros del Comité de Supervisión, por lo cual, tanto las Sociedades Financieras Populares como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 131 de esta Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes no reportadas, así como los incumplimientos a cualquiera de los incisos a), b), c), e) del tercer párrafo de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanen multa de 1,000 a 30,000 días de salario mínimo general vigente en el Distrito Federal.
-Párrafo reformado DOF 10-01-2014 Las mencionadas multas podrán ser impuestas, a las Sociedades Financieras Populares, como a los miembros del Consejo de Administración, administradores, miembros del Comité de Supervisión, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 122 de esta Ley.
+Párrafo reformado DOF 10-01-2014
+Las mencionadas multas podrán ser impuestas, a las Sociedades Financieras Populares, como a los miembros del Consejo de Administración, administradores, miembros del Comité de Supervisión, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 122 de esta Ley.
 Los servidores públicos de la Secretaría y de la Comisión, las Sociedades Financieras Populares, los miembros de sus consejos de administración, administradores, comisarios, directivos, funcionarios, empleados y apoderados, así como los miembros del Comité de Supervisión, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este Artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las Leyes correspondientes.
 Artículo reformado DOF 28-01-2004, 28-06-2007, 13-08-2009
 
@@ -2087,7 +2166,8 @@ Artículo reformado DOF 28-01-2004, 28-06-2007, 13-08-2009
 bis.- Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de tres meses para que las autoridades administrativas resuelvan lo que corresponda.
 Transcurrido el plazo aplicable se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario o bien que la solicitud correspondiente se acompañe de dictamen u opinión favorable de una Federación siempre que así se requiera en esta Ley o en las disposiciones que de ésta emanen. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo. Igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará en su caso, la responsabilidad que resulte aplicable.
 Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen las Sociedades Financieras Populares, Federaciones y Fondo de Protección deberán precisarse en disposiciones de carácter general.
-Párrafo reformado DOF 13-08-2009 Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+Párrafo reformado DOF 13-08-2009
+Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
 Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquel en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado las autoridades desecharán el escrito inicial.
 Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
@@ -2107,16 +2187,19 @@ Los días señalados en los citados términos se podrán considerar inhábiles p
 Artículo adicionado DOF 13-08-2009
 
 ## TÍTULO SEXTO — DE LAS SANCIONES, DELITOS Y NOTIFICACIONES
+
 Denominación del Título reformada DOF 13-08-2009
 
 ## Capítulo I — De las Sanciones
+
 Capítulo reformado DOF 13-08-2009 (se modifica su denominación y queda integrado con los artículos 125 a 136 Bis 2)
 
 ### Artículo 125
 .- El incumplimiento o la violación a las normas de la presente Ley y a las disposiciones que emanen de ella, serán sancionados con multa que impondrá administrativamente la Comisión y se hará efectiva por la Secretaría.
 Corresponderá a la Junta de Gobierno de la Comisión la imposición de sanciones, la que podrá delegar esta atribución en el presidente y los demás servidores públicos de la misma, en razón de la naturaleza de la infracción o del monto de las multas y tendrá asimismo la facultad indelegable de condonar, en su caso, total o parcialmente las multas impuestas.
 Para efectos de las multas establecidas en el presente Capítulo se entenderá por días de salario, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
-Artículo reformado DOF 13-08-2009 Reforma DOF 10-01-2014: Derogó del artículo el entonces último párrafo
+Artículo reformado DOF 13-08-2009
+Reforma DOF 10-01-2014: Derogó del artículo el entonces último párrafo
 
 ### Artículo 126
 .- Las infracciones a esta Ley o a las disposiciones que sean emitidas con base en ésta por la Secretaría o la Comisión serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
@@ -2203,11 +2286,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 129
 .- En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
-Párrafo reformado DOF 10-01-2014 Una vez desahogado el derecho de audiencia a que se refiere el artículo 131 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 136 Bis, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
-Párrafo reformado DOF 10-01-2014 Concluido el plazo a que se refiere la fracción I del artículo 131, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Artículo reformado DOF 13-08-2009
+Párrafo reformado DOF 10-01-2014
+Una vez desahogado el derecho de audiencia a que se refiere el artículo 131 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 136 Bis, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+Párrafo reformado DOF 10-01-2014
+Concluido el plazo a que se refiere la fracción I del artículo 131, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
+Párrafo reformado DOF 14-11-2025
+Artículo reformado DOF 13-08-2009
 
 ### Artículo 130
 .- La facultad de la Comisión para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción.
@@ -2264,7 +2352,8 @@ Artículo adicionado DOF 31-08-2007. Derogado DOF 13-08-2009
 ### Artículo 133
 .- Las multas a que se refiere el presente capítulo podrán ser impuestas a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones, así como a los miembros del Consejo de Administración, directores generales, directivos, funcionarios, empleados o personas que ostenten un cargo, mandato, comisión o cualquier otro título jurídico que las citadas sociedades u organismos otorguen a terceros para la realización de sus operaciones, que hayan incurrido directamente o hayan ordenado la realización de la conducta materia de la infracción. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el Artículo 122 de esta Ley.
 Las multas impuestas por la Comisión a las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV, Organismos de Integración Financiera Rural y Federaciones se harán efectivas por la Secretaría, una vez que hayan quedado firmes.
-Párrafo reformado DOF 10-01-2014 Artículo reformado DOF 13-08-2009
+Párrafo reformado DOF 10-01-2014
+Artículo reformado DOF 13-08-2009
 
 ### Artículo 134
 .- La Comisión considerará como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor acredite ante la Comisión haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de la Comisión en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
@@ -2336,6 +2425,7 @@ La Comisión deberá prever los mecanismos que eviten conflictos de interés ent
 Artículo adicionado DOF 31-08-2007. Reformado DOF 13-08-2009
 
 ## Capítulo I BIS — De los Programas de Autocorrección
+
 Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 136
@@ -2370,6 +2460,7 @@ Bis 6.- Las personas físicas y demás personas morales sujetas a la supervisió
 Artículo adicionado DOF 10-01-2014
 
 ## Capítulo II — De los Delitos
+
 Capítulo reformado DOF 13-08-2009 (se reubica). Reubicado DOF 10-01-2014
 
 ### Artículo 136
@@ -2453,7 +2544,8 @@ III. Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informa
 IV. Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito; y
 
 V. Inciten u ordenen no presentar la petición a que se refiere el Artículo 136 Bis 7 de esta Ley a quien esté facultado para ello.
-Fracción reformada DOF 10-01-2014 Artículo adicionado DOF 31-08-2007. Reformado DOF 13-08-2009
+Fracción reformada DOF 10-01-2014
+Artículo adicionado DOF 31-08-2007. Reformado DOF 13-08-2009
 
 ### Artículo 142
 .- Se sancionará con prisión de tres a quince años al miembro del Consejo de Administración, director general y cualquier otro directivo, funcionario o empleado de una Sociedad u organismo, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión, para que haga u omita un determinado acto relacionado con sus funciones.
@@ -2465,7 +2557,8 @@ Bis.- Las personas que ostenten algún cargo, mandato, comisión o cualquier otr
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 143
-.- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la Sociedad u organismo ofendido, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, o la Sociedad u organismo, o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años los cuales se computarán, conforme Artículo adicionado DOF 13-08-2009
+.- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la Sociedad u organismo ofendido, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, o la Sociedad u organismo, o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años los cuales se computarán, conforme
+Artículo adicionado DOF 13-08-2009
 
 ### Artículo 144
 .- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el Artículo 122 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
@@ -2481,6 +2574,7 @@ El procedimiento de inspección, suspensión de operaciones y clausura a que se 
 Artículo adicionado DOF 10-01-2014
 
 ## Capítulo III — De las Notificaciones
+
 Capítulo adicionado DOF 13-08-2009
 
 ### Artículo 146
@@ -2599,14 +2693,16 @@ Artículo derogado DOF 13-08-2009
 **SÉPTIMO.-** (Se deroga).
 Artículo derogado DOF 27-01-2003
 **OCTAVO.-** Para efectos de la fracción I del artículo 53 de la misma Ley, las Federaciones que soliciten su autorización dentro de un plazo de cuatro años contados a partir de la entrada en vigor de la Ley, deberán presentar los documentos en que, a juicio de la Comisión Nacional Bancaria y de Valores, se manifieste la intención de cuando menos ocho sociedades para afiliarse a dicha Federación, en el entendido de que al menos dos de las sociedades deberán cumplir los requisitos del artículo 10 de esta Ley, con excepción de las fracciones VIII y IX.
-Párrafo reformado DOF 23-02-2005 Las Federaciones que obtengan la autorización de la Comisión en términos de este artículo, contarán con el plazo a que se refiere el cuarto párrafo de la fracción I del artículo 53 de esta Ley, para reunir el número mínimo de Entidades afiliadas.
+Párrafo reformado DOF 23-02-2005
+Las Federaciones que obtengan la autorización de la Comisión en términos de este artículo, contarán con el plazo a que se refiere el cuarto párrafo de la fracción I del artículo 53 de esta Ley, para reunir el número mínimo de Entidades afiliadas.
 Párrafo adicionado DOF 23-02-2005
 **NOVENO.-** A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo
-**PRIMERO.** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
+**PRIMERO.-** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
 Concluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos.
 **DÉCIMO.-** Se deroga.
 Artículo derogado DOF 13-08-2009
-**DÉCIMO PRIMERO.-** Se deroga Artículo derogado DOF 13-08-2009
+**DÉCIMO PRIMERO.-** Se deroga
+Artículo derogado DOF 13-08-2009
 **DÉCIMO SEGUNDO.-** El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomará las medidas pertinentes y proveerá lo necesario en términos de las disposiciones aplicables, para que la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros estén en posibilidad de cumplir con las funciones conferidas en la Ley de Ahorro y Crédito Popular.
 **DÉCIMO TERCERO.-** Las solicitudes de autorización presentadas a la Secretaría de Hacienda y Crédito Público para constituir y operar Sociedades de Ahorro y Préstamo, y que no hayan sido resueltas con anterioridad a la entrada en vigor de la Ley de Ahorro y Crédito Popular, se entenderán resueltas en sentido negativo, por lo que los interesados correspondientes podrán iniciar el procedimiento para obtener la autorización a que se refiere el artículo 9o. de la misma Ley.
 Las solicitudes a que hace referencia el párrafo anterior serán devueltas a los interesados por la Secretaría de Hacienda y Crédito Público, dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
@@ -2620,7 +2716,7 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2003
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 6o., primer párrafo; 9o., cuarto párrafo; 22, fracción XI; 33, quinto párrafo; 35, fracción I, el inciso a) y el penúltimo párrafo; 36, fracciones I, primer párrafo, II, III, VIII, XXVIII y XXIX, 38, fracción IV; 44; 45; 46; 55, inciso h) de la fracción I; 60, fracción IX; 61; 67,
-**segundo.** párrafo; 74, inciso e) de la fracción II; 105, tercer y cuarto párrafos; 130, fracción XII; 138, primer párrafo; se ADICIONAN los artículos 4 Bis; 9o., quinto párrafo; 22, fracciones XII y XIII; 36, fracción XXX; 36 Bis; 36 Bis 1; 38, fracción V; 42, segundo párrafo; 65 Bis; 67, tercer párrafo; 74, incisos f) y g) de la fracción II; 101 Bis; 130, fracciones XIV y XV; y se DEROGAN los artículos 32, segundo párrafo; 131, fracciones VI y VII; y artículo SÉPTIMO TRANSITORIO de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
+**segundo.-** párrafo; 74, inciso e) de la fracción II; 105, tercer y cuarto párrafos; 130, fracción XII; 138, primer párrafo; se ADICIONAN los artículos 4 Bis; 9o., quinto párrafo; 22, fracciones XII y XIII; 36, fracción XXX; 36 Bis; 36 Bis 1; 38, fracción V; 42, segundo párrafo; 65 Bis; 67, tercer párrafo; 74, incisos f) y g) de la fracción II; 101 Bis; 130, fracciones XIV y XV; y se DEROGAN los artículos 32, segundo párrafo; 131, fracciones VI y VII; y artículo SÉPTIMO TRANSITORIO de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2663,8 +2759,8 @@ Publicado en el Diario Oficial de la Federación el 23 de febrero de 2005
 
 ### ARTÍCULO PRIMERO
 Se Reforman los artículos 10 fracción IV; 21 fracción VIII; 35 fracciones IV y VI; 36, fracciones VI, XXVII, XXIX y XXX; 67 incisos g) y h); 107; 130 fracción XV segundo párrafo; el
-**artículo octavo.** transitorio del Decreto por el que se expide la Ley de Ahorro y Crédito Popular y se Reforman y Derogan diversas disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley General de Sociedades Cooperativas, publicado en el Diario Oficial de la Federación el 4 de junio de 2001; se Adicionan los artículos 35, con un párrafo en la fracción IV; 36 con las fracciones XXXI, XXXII, XXXIII y XXXIV; 37 con una fracción VIII bis; 52 con cuatro párrafos; 67 con el inciso i), y un último párrafo al Octavo Transitorio del citado Decreto publicado en el Diario Oficial de la Federación el 4 de junio de 2001, y se Derogan la fracción II del artículo 10; los párrafos tercero,
-**cuarto.** , quinto y sexto del artículo sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular, publicado en el Diario Oficial de la Federación el 27 de enero de 2003; todos ellos de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
+**artículo octavo.-** transitorio del Decreto por el que se expide la Ley de Ahorro y Crédito Popular y se Reforman y Derogan diversas disposiciones de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley General de Sociedades Cooperativas, publicado en el Diario Oficial de la Federación el 4 de junio de 2001; se Adicionan los artículos 35, con un párrafo en la fracción IV; 36 con las fracciones XXXI, XXXII, XXXIII y XXXIV; 37 con una fracción VIII bis; 52 con cuatro párrafos; 67 con el inciso i), y un último párrafo al Octavo Transitorio del citado Decreto publicado en el Diario Oficial de la Federación el 4 de junio de 2001, y se Derogan la fracción II del artículo 10; los párrafos tercero,
+**cuarto.-** , quinto y sexto del artículo sexto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular, publicado en el Diario Oficial de la Federación el 27 de enero de 2003; todos ellos de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2687,7 +2783,7 @@ Publicado en el Diario Oficial de la Federación el 27 de mayo de 2005
 
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 4 bis; la fracción XXXIII del artículo 36; primero y
-**cuarto.** párrafos de la fracción I del artículo 53; segundo párrafo del artículo 81; segundo transitorio; tercero
+**cuarto.-** párrafos de la fracción I del artículo 53; segundo párrafo del artículo 81; segundo transitorio; tercero
 
 ## transitorio
 
@@ -2696,7 +2792,7 @@ Se reforman los artículos 4 bis; la fracción XXXIII del artículo 36; primero 
 ## transitorio
 
 y décimo primero transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular, publicado en el Diario Oficial de la Federación del 27 de enero de 2003; y Se adicionan, el artículo 51 con un tercer párrafo, pasando el actual párrafo
-**tercero.** a cuarto, los artículos 124 bis; 124 bis 1; 124 bis 2; todos ellos de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
+**tercero.-** a cuarto, los artículos 124 bis; 124 bis 1; 124 bis 2; todos ellos de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -2750,12 +2846,14 @@ La Federación de igual forma, y para efectos de lo dispuesto en el penúltimo p
 
 de este Decreto, deberá dar aviso de lo anterior al Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
 Las sociedades o asociaciones que cumplan con todos y cada uno de los requisitos previstos en este precepto, podrán continuar realizando las operaciones a que se refiere el primer párrafo de este artículo hasta el 31 de diciembre de 2008. Lo anterior, en el entendido de que a más tardar en esa fecha, deberán presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidades.
-Párrafo reformado DOF 31-08-2007 Las Federaciones publicarán semestralmente en el Diario Oficial de la Federación y en cuando menos un periódico de amplia circulación en el ámbito geográfico en el que operen, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del presente artículo y que cumplan con los requisitos señalados en este precepto.
+Párrafo reformado DOF 31-08-2007
+Las Federaciones publicarán semestralmente en el Diario Oficial de la Federación y en cuando menos un periódico de amplia circulación en el ámbito geográfico en el que operen, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del presente artículo y que cumplan con los requisitos señalados en este precepto.
 Las sociedades o asociaciones a que se refiere este artículo que al 31 de diciembre de 2008 no presenten su solicitud de autorización a la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidades o que se ubiquen en el supuesto de incumplimiento señalado en el tercer párrafo de la fracción V de este artículo, deberán abstenerse de realizar operaciones que impliquen captación. En caso contrario, se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables.
-Párrafo reformado DOF 31-08-2007 Las sociedades o asociaciones a que se refiere este precepto que incumplan alguno de los requisitos previstos en este artículo, o bien no obtengan la autorización de la Comisión para operar como Entidades en la fecha a que se refiere el párrafo anterior, deberán hacer esta situación del conocimiento de sus socios o asociados, mediante publicación en un periódico de amplia circulación en las plazas en las que operen, así como mediante la colocación de avisos en sus oficinas o sucursales. Lo anterior sin perjuicio de que la Federación respectiva deberá hacer este hecho del conocimiento público mediante las Citadas publicaciones.
+Párrafo reformado DOF 31-08-2007
+Las sociedades o asociaciones a que se refiere este precepto que incumplan alguno de los requisitos previstos en este artículo, o bien no obtengan la autorización de la Comisión para operar como Entidades en la fecha a que se refiere el párrafo anterior, deberán hacer esta situación del conocimiento de sus socios o asociados, mediante publicación en un periódico de amplia circulación en las plazas en las que operen, así como mediante la colocación de avisos en sus oficinas o sucursales. Lo anterior sin perjuicio de que la Federación respectiva deberá hacer este hecho del conocimiento público mediante las Citadas publicaciones.
 Para efectos de lo previsto en este precepto, la fracción III del artículo 3, los párrafos primero, tercero y
-**quinto.** del Artículo 5, el segundo párrafo del Artículo 6, el párrafo primero del Artículo 7, el párrafo primero del Artículo 8, los Artículos 38-A a 38-Q, el párrafo primero del Artículo 45 bis-3, el Artículo 51, el párrafo
-**sexto.** del Artículo 53 y el párrafo segundo del Artículo 78 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirán aplicando en los términos vigentes para aquellas Sociedades de Ahorro y Préstamo que cumplan con los requisitos contenidos en este artículo, hasta en tanto la Comisión Nacional Bancaria y de Valores resuelva su solicitud de autorización para operar como Entidades de Ahorro y Crédito Popular.
+**quinto.-** del Artículo 5, el segundo párrafo del Artículo 6, el párrafo primero del Artículo 7, el párrafo primero del Artículo 8, los Artículos 38-A a 38-Q, el párrafo primero del Artículo 45 bis-3, el Artículo 51, el párrafo
+**sexto.-** del Artículo 53 y el párrafo segundo del Artículo 78 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirán aplicando en los términos vigentes para aquellas Sociedades de Ahorro y Préstamo que cumplan con los requisitos contenidos en este artículo, hasta en tanto la Comisión Nacional Bancaria y de Valores resuelva su solicitud de autorización para operar como Entidades de Ahorro y Crédito Popular.
 Párrafo reformado DOF 31-08-2007
 
 ### ARTÍCULO QUINTO
@@ -2810,13 +2908,14 @@ A las Sociedades de Ahorro y Préstamo y Uniones de Crédito que de conformidad 
 
 ### ARTÍCULO NOVENO
 Las sociedades, asociaciones civiles y sociedades de solidaridad social, que capten recursos de sus Socios o asociados para su colocación entre éstos, distintas a Sociedades Cooperativas de cualquier tipo, que tengan la intención de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades de Ahorro y Crédito Popular, podrán transformarse en Sociedades Cooperativas de Ahorro y Préstamo o en sociedades anónimas mediante acuerdo de la mayoría de los Socios o asociados con derecho a voto. Las sociedades de solidaridad social que se transformen en términos de este Artículo, perderán dicho carácter a partir de la fecha en que surta efectos a terceros el acuerdo de transformación, por lo que quedarán sin efectos por ministerio de Ley, las autorizaciones o permisos que la autoridad competente hubiere otorgado para que se constituyeran con el carácter de Sociedad de solidaridad social. Lo anterior no implicará que se ubiquen en estado de disolución y liquidación.
-Párrafo reformado DOF 31-08-2007, 13-08-2009 El acuerdo de transformación adoptado de conformidad con lo señalado en el párrafo anterior deberá protocolizarse ante Fedatario Público.
+Párrafo reformado DOF 31-08-2007, 13-08-2009
+El acuerdo de transformación adoptado de conformidad con lo señalado en el párrafo anterior deberá protocolizarse ante Fedatario Público.
 
 ### ARTÍCULO DÉCIMO
 Se modifican las fechas de 1 de septiembre de 2004 y 30 de junio de 2004 a que hace referencia el primer párrafo de la fracción V del artículo 8 de la Ley que crea el Fideicomiso que administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, para quedar en 31 de diciembre de 2005 y 1 de enero de 2006, respectivamente.
 Asimismo, se modifica la fecha a que hace referencia la fracción VI del artículo 8 de la misma ley, para quedar en 31 de diciembre de 2005.
 Se prorroga el periodo durante el cual operará el Fideicomiso que administrará el fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores a que hace referencia el Artículo Tercero Transitorio del Decreto por el que se expidió la referida Ley, publicado el 29 de diciembre del 2000, para que concluya doce meses después de la fecha a que hace referencia el
-**cuarto.** párrafo del Artículo Cuarto Transitorio del presente Decreto o cuando se extinga su patrimonio, lo que suceda primero.
+**cuarto.-** párrafo del Artículo Cuarto Transitorio del presente Decreto o cuando se extinga su patrimonio, lo que suceda primero.
 
 ### ARTÍCULO DÉCIMO PRIMERO
 Las asociaciones y sociedades que tengan por objeto la captación de recursos entre sus socios o asociados para su colocación entre éstos y que se hayan constituido con posterioridad al 4 de junio de 2001 y hasta la fecha de entrada en vigor del presente Decreto, excepto aquellas a que se refiere el Artículo 4 bis de esta Ley, deberán abstenerse de realizar nuevas operaciones a partir del día hábil siguiente a la publicación del presente Decreto en el Diario Oficial de la Federación y deberán llevar a cabo los actos necesarios para la liquidación de las operaciones que impliquen captación de recursos que a dicha fecha tengan concertadas.
@@ -2855,13 +2954,11 @@ Se REFORMA la fracción X del artículo 36 de la Ley de Ahorro y Crédito Popula
 ## TRANSITORIOS
 
 **PRIMERO.-** Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
-
 I. El artículo Primero del presente Decreto;
 
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
-**Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo
-**Segundo.** de este Decreto;
-
+**Quinto.-** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo
+**Segundo.-** de este Decreto;
 III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
 
 IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
@@ -2893,7 +2990,6 @@ La entrada en vigor de las reformas, adiciones y derogaciones a los artículos d
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
 **SEXTO.-** La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
 **SÉPTIMO.-** Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
-
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
 
 II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
@@ -2935,7 +3031,7 @@ Publicado en el Diario Oficial de la Federación el 31 de agosto de 2007
 
 ### ARTÍCULO PRIMERO
 Se REFORMAN los artículos 4 Bis, primer párrafo, fracciones I, III, V y
-**segundo.** párrafo, 9, primer y tercer párrafos, 10, fracción V, 11, segundo párrafo, 38, primer párrafo, 55, fracción I, inciso i), 63, primer párrafo, 65 Bis, primer párrafo, 70, primero, segundo y tercer párrafos, 83, último párrafo, 86, 87, tercer párrafo, 93, penúltimo párrafo, 101 Bis, primer párrafo, 105, último párrafo, 109, fracción IV, 111, fracción VIII y 130 fracción XIV, se ADICIONAN un inciso d) y un último párrafo a la fracción V y un último párrafo al artículo 4 Bis, los artículos 4 Bis 1, 4 Bis 2, 4 Bis 3, un último párrafo al artículo 7, un último párrafo al artículo 19, una fracción XXXV al artículo 36, un último párrafo al artículo 55, un último párrafo al artículo 56, un tercer párrafo al artículo 62, y un tercer, cuarto, quinto y sexto párrafos al artículo 88, las fracciones IV Bis y VI Bis al artículo 130, así como los artículos 132 Bis, 136 Bis, 136 Bis 1, 136 Bis 2, 136 Bis 3, 136 Bis 4, 140 y 141; y se DEROGAN la fracción II y el inciso a) de la fracción V del artículo 4 bis, así como el artículo 138 de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
+**segundo.-** párrafo, 9, primer y tercer párrafos, 10, fracción V, 11, segundo párrafo, 38, primer párrafo, 55, fracción I, inciso i), 63, primer párrafo, 65 Bis, primer párrafo, 70, primero, segundo y tercer párrafos, 83, último párrafo, 86, 87, tercer párrafo, 93, penúltimo párrafo, 101 Bis, primer párrafo, 105, último párrafo, 109, fracción IV, 111, fracción VIII y 130 fracción XIV, se ADICIONAN un inciso d) y un último párrafo a la fracción V y un último párrafo al artículo 4 Bis, los artículos 4 Bis 1, 4 Bis 2, 4 Bis 3, un último párrafo al artículo 7, un último párrafo al artículo 19, una fracción XXXV al artículo 36, un último párrafo al artículo 55, un último párrafo al artículo 56, un tercer párrafo al artículo 62, y un tercer, cuarto, quinto y sexto párrafos al artículo 88, las fracciones IV Bis y VI Bis al artículo 130, así como los artículos 132 Bis, 136 Bis, 136 Bis 1, 136 Bis 2, 136 Bis 3, 136 Bis 4, 140 y 141; y se DEROGAN la fracción II y el inciso a) de la fracción V del artículo 4 bis, así como el artículo 138 de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ..........
 
 ### ARTÍCULO TERCERO
 Se REFORMAN los artículos Cuarto y Noveno Transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, para quedar como sigue: ..........
@@ -2952,7 +3048,7 @@ del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley 
 I. La asamblea general de socios o asociados de la sociedad o asociación de que se trate, acuerde llevar a cabo los actos necesarios para obtener la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidad y sujetarse a los términos y condiciones previstos en este artículo. El acuerdo de la asamblea deberá incluir la conformidad de ésta para que la sociedad o asociación asuma las obligaciones que se originen de los programas a que se refiere el artículo Cuarto Transitorio del presente Decreto.
 De igual forma, la asamblea, en su carácter de órgano supremo de la sociedad o asociación correspondiente, deberá aprobar su afiliación a una Federación autorizada por la Comisión Nacional Bancaria y de Valores, o la celebración de un contrato de prestación de servicios, en términos de lo señalado en la fracción II de este artículo, manifestando que dichos actos quedarán sujetos al cumplimiento de los programas a que se refiere el artículo Cuarto Transitorio del presente Decreto.
 Asimismo, la asamblea general de socios o asociados, deberá expresar su consentimiento para que la sociedad o asociación sea evaluada y clasificada de conformidad con lo establecido en el
-**artículo Tercero.** Transitorio del presente Decreto, manifestando además que conoce y está de acuerdo con el contenido de la metodología y criterios que se utilicen para efectos de su evaluación y clasificación.
+**artículo Tercero.-** Transitorio del presente Decreto, manifestando además que conoce y está de acuerdo con el contenido de la metodología y criterios que se utilicen para efectos de su evaluación y clasificación.
 Los órganos de administración de las sociedades o asociaciones deberán adoptar los acuerdos mencionados en los párrafos anteriores, y
 
 II. Se afilie a una Federación autorizada por la Comisión Nacional Bancaria y de Valores, o en su defecto, celebre con alguna de ellas, un contrato de prestación de servicios que prevea, entre otros aspectos, que la Federación le proporcione asesoría técnica, legal, financiera y de capacitación, y que permita a la Federación evaluar el cumplimiento de la sociedad o asociación al artículo Cuarto Transitorio del presente Decreto.
@@ -2966,8 +3062,8 @@ Las sociedades y asociaciones que en términos de lo previsto en el artículo Cu
 
 del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
 **TERCERO.-** Las sociedades o asociaciones que hayan dado cumplimiento a lo dispuesto por el
-**artículo Segundo.** Transitorio anterior, deberán someterse a una evaluación por parte de la Federación con la que se hayan afiliado o celebrado un contrato de prestación de servicios, a fin de que ésta las clasifique, con la opinión de un consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, en las categorías previstas en este precepto. Para efectos de lo anterior, las Federaciones deberán evaluar a las sociedades o asociaciones correspondientes, con base en la metodología y criterios que las Federaciones de manera conjunta con los consultores, hayan formulado en términos de lo dispuesto en el artículo
-**Cuarto.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
+**artículo Segundo.-** Transitorio anterior, deberán someterse a una evaluación por parte de la Federación con la que se hayan afiliado o celebrado un contrato de prestación de servicios, a fin de que ésta las clasifique, con la opinión de un consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, en las categorías previstas en este precepto. Para efectos de lo anterior, las Federaciones deberán evaluar a las sociedades o asociaciones correspondientes, con base en la metodología y criterios que las Federaciones de manera conjunta con los consultores, hayan formulado en términos de lo dispuesto en el artículo
+**Cuarto.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
 La Federación con la opinión de los consultores, clasificará a las sociedades o asociaciones en alguna de las categorías siguientes:
 
 I. Categoría A. Aquellas sociedades o asociaciones que estén en posibilidad de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares en términos de esta Ley;
@@ -2976,13 +3072,15 @@ Fracción reformada DOF 13-08-2009
 II. Categoría B. Aquellas sociedades o asociaciones que requieran de un plan de estabilización financiera y operativa, así como de un programa de ajuste para estar en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares;
 Fracción reformada DOF 13-08-2009
 
-III. Categoría C. Aquellas sociedades o asociaciones que requieran llevar a cabo un proceso de reestructuración que pueda implicar, entre otros aspectos, su fusión con otra Sociedad, su escisión o la transmisión de activos y pasivos, entre otros, y que además puedan necesitar apoyos financieros, a fin de estar en posibilidad de cumplir los requisitos mínimos para solicitar la autorización a la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares, o Fracción reformada DOF 13-08-2009
+III. Categoría C. Aquellas sociedades o asociaciones que requieran llevar a cabo un proceso de reestructuración que pueda implicar, entre otros aspectos, su fusión con otra Sociedad, su escisión o la transmisión de activos y pasivos, entre otros, y que además puedan necesitar apoyos financieros, a fin de estar en posibilidad de cumplir los requisitos mínimos para solicitar la autorización a la Comisión Nacional Bancaria y de Valores para constituirse y operar como Sociedades Financieras Populares, o
+Fracción reformada DOF 13-08-2009
 
 IV. Categoría D. Aquellas sociedades o asociaciones que no estén en posibilidad de cumplir con los requisitos mínimos para poder solicitar la autorización para constituirse y operar como Sociedades Financieras Populares.
-Fracción reformada DOF 13-08-2009 Para efecto de la clasificación a que se refieren las fracciones anteriores, no se considerará dentro de los requisitos que las sociedades o asociaciones deban cumplir para obtener la autorización de la Comisión Nacional Bancaria y de Valores en términos de lo previsto en este artículo, al dictamen a que se refiere el artículo 9 de la Ley de Ahorro y Crédito Popular.
+Fracción reformada DOF 13-08-2009
+Para efecto de la clasificación a que se refieren las fracciones anteriores, no se considerará dentro de los requisitos que las sociedades o asociaciones deban cumplir para obtener la autorización de la Comisión Nacional Bancaria y de Valores en términos de lo previsto en este artículo, al dictamen a que se refiere el artículo 9 de la Ley de Ahorro y Crédito Popular.
 Las Federaciones y los consultores deberán clasificar a las asociaciones o sociedades a que se refiere este artículo, en las categorías antes mencionadas, a más tardar el 30 de junio de 2008. Las asociaciones o sociedades que en términos de lo previsto en este artículo, hubiesen sido clasificadas en la categoría D referida en la fracción IV anterior, no podrán participar en los programas de asesoría, capacitación y seguimiento contemplados en el artículo Cuarto Transitorio de este Decreto por lo que deberán abstenerse de realizar operaciones que impliquen captación de recursos.
 Las asociaciones o sociedades que se encuentren en el supuesto referido en el párrafo anterior, podrán someter por una única ocasión a la Federación la solicitud de ser clasificadas nuevamente, aun con posterioridad a la fecha a que se refiere este precepto, siempre y cuando no hayan transcurrido más de 90 días desde que recibieron el resultado de su clasificación, y hayan efectivamente suspendido las operaciones que implican captación de recursos. En caso de que como resultado de la nueva clasificación hubiesen sido clasificadas en cualquiera de las categorías a que se refieren las fracciones I, II ó III de este artículo, podrán participar en los programas de asesoría, capacitación y seguimiento contemplados en el
-**artículo Cuarto.** Transitorio de este Decreto. En caso contrario, la Federación deberá dar por terminada la afiliación o el contrato de prestación de servicios celebrado con la asociación o sociedad de que se trate, e informará de este hecho a la Comisión Nacional Bancaria y de Valores. La terminación anticipada a que se refiere este párrafo, no generará responsabilidad alguna a cargo de la Federación.
+**artículo Cuarto.-** Transitorio de este Decreto. En caso contrario, la Federación deberá dar por terminada la afiliación o el contrato de prestación de servicios celebrado con la asociación o sociedad de que se trate, e informará de este hecho a la Comisión Nacional Bancaria y de Valores. La terminación anticipada a que se refiere este párrafo, no generará responsabilidad alguna a cargo de la Federación.
 **CUARTO.-** Las sociedades o asociaciones que al 1 de julio de 2008 hubieren dado cumplimiento a los requisitos previstos en los artículos Segundo y Tercero Transitorios de este Decreto, deberán sujetarse a programas de asesoría, capacitación y seguimiento con la Federación a la que se hayan afiliado o con la que hayan celebrado el contrato de prestación de servicios. Dichos programas deberán desarrollarse por la referida Federación con la opinión de un consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo y deberán considerar, en su caso, los Trabajos de Consolidación definidos en el artículo 2, fracción XI, de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
 Las Federaciones, así como los consultores referidos en el párrafo anterior, deberán desarrollar los programas de asesoría, capacitación y seguimiento que resultarán aplicables a cada una de las sociedades o asociaciones a que se refiere este artículo, a más tardar el 31 de diciembre de 2008.
 **QUINTO.-** Las sociedades o asociaciones que cumplan con todos los requisitos previstos en los Artículos Segundo, Tercero y Cuarto Transitorios de este Decreto dentro de los plazos previstos para ello, y que además hayan sido clasificadas por alguna Federación en cualquiera de las Categorías previstas en las fracciones I, II y III del Artículo Tercero Transitorio anterior, podrán continuar realizando operaciones que impliquen la captación de recursos de sus Socios o asociados para su colocación entre éstos hasta el 31 de diciembre de 2010, en los términos y bajo las condiciones previstos por el Artículo Octavo
@@ -3006,31 +3104,34 @@ de este Decreto, deberá dar aviso de lo anterior al Banco del Ahorro Nacional y
 Las asociaciones o sociedades que en términos de lo previsto en este artículo, hubiesen sido clasificadas en la categoría D referida en la fracción IV del artículo Tercero Transitorio anterior, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
 Las asociaciones o sociedades que se encuentren en el supuesto referido en el párrafo anterior, podrán someter por una única ocasión a la Federación la solicitud de ser clasificadas nuevamente, dentro de un plazo de 90 días contado a partir de la fecha en que se les hubiese notificado que fueron clasificadas en la citada categoría D, siempre y cuando hayan efectivamente suspendido las operaciones que implican captación de recursos. En caso de que se hubieren subsanado, a satisfacción de la Federación con la opinión del consultor, las circunstancias que las ubicaron en dicha categoría, podrán continuar con el programa de asesoría, capacitación y seguimiento al cual originalmente estaban sujetas, con adecuaciones que resulten pertinentes.
 **SÉPTIMO.-** Las sociedades o asociaciones a que se refiere el Artículo Cuarto Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, que al 31 de diciembre de 2008 no estén en posibilidad de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedades Financieras Populares, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus Socios o asociados para su colocación entre éstos.
-Párrafo reformado DOF 13-08-2009 Sin perjuicio de lo dispuesto en el párrafo anterior, excepcionalmente podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2010, aquellas sociedades o asociaciones que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios, con la opinión favorable del consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
+Párrafo reformado DOF 13-08-2009
+Sin perjuicio de lo dispuesto en el párrafo anterior, excepcionalmente podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2010, aquellas sociedades o asociaciones que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios, con la opinión favorable del consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
 Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedades deberán obtener la prórroga en cuestión a más tardar el 31 de diciembre de 2008, siempre que a dicha fecha se encuentren clasificadas en alguna de las Categorías referidas en los incisos a), b) y c) de la fracción IV del artículo
-**Cuarto.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
+**Cuarto.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
 Las sociedades y asociaciones a que hace referencia este Artículo, deberán acordar con la Federación a la que se hubiesen afiliado o con la que hayan celebrado contrato de prestación de servicios y con el consultor correspondiente, metas y compromisos periódicos encaminados a la presentación de su solicitud de autorización para organizarse y funcionar como Sociedad Financiera Popular. Dichos acuerdos deberán ajustarse a lo dispuesto por la Ley de Ahorro y Crédito Popular y la regulación secundaria que de ella derive, en particular a lo relativo a criterios contables, capital mínimo, requerimientos de capitalización, provisionamiento de cartera, control interno y proceso crediticio.
-Párrafo reformado DOF 13-08-2009 Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del
-**artículo Cuarto.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que se hubiesen acogido a la prórroga a la que se refiere el presente artículo.
+Párrafo reformado DOF 13-08-2009
+Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del
+**artículo Cuarto.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que se hubiesen acogido a la prórroga a la que se refiere el presente artículo.
 **OCTAVO.-** Las sociedades o asociaciones referidas en los artículos Quinto y Séptimo anterior, a partir del 1 de enero de 2009 deberán sujetarse a lo siguiente:
-
 I. No podrán incrementar sus activos crediticios en un porcentaje superior al veinte por ciento anual de su valor al 31 de diciembre de 2008, valuados de conformidad con las disposiciones que emita la Comisión Nacional Bancaria y de Valores para Sociedades Financieras Populares con activos por un monto equivalente a los de la Sociedad o asociación de que se trate, durante todo el período en el que se sujeten a este régimen;
 Fracción reformada DOF 13-08-2009
 
 II. No podrán abrir nuevas sucursales, y
 
 III. No podrán celebrar operaciones distintas a las que les correspondería realizar de acuerdo al Nivel de Operaciones que, en su caso, les podría ser asignado como Sociedades Financieras Populares de acuerdo a su número de activos, ámbito geográfico y número de Socios o asociados.
-Fracción reformada DOF 13-08-2009 Las asociaciones o sociedades que al 31 de diciembre de 2010 no hubieran solicitado la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedad Financiera Popular en términos de la Ley de la materia, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
+Fracción reformada DOF 13-08-2009
+Las asociaciones o sociedades que al 31 de diciembre de 2010 no hubieran solicitado la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Sociedad Financiera Popular en términos de la Ley de la materia, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
 Párrafo reformado DOF 13-08-2009
 **NOVENO.-** Se deroga.
 Artículo derogado DOF 13-08-2009
 **DÉCIMO.-** Para efectos de las evaluaciones que las Federaciones deben llevar a cabo de conformidad con lo dispuesto en los artículos Tercero, Cuarto y Sexto Transitorios de este Decreto, así como en el
-**Cuarto.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, las Federaciones, con la previa opinión favorable de los consultores a que se hace referencia en los citados preceptos, podrán efectuar modificaciones a la metodología y criterios que en términos de dichos artículos hubiesen formulado, la cual deberá considerar la regulación de carácter prudencial aplicable a Entidades de Ahorro y Crédito Popular que la Comisión Nacional Bancaria y de Valores emita en términos de la Ley de Ahorro y Crédito Popular. Las modificaciones que, en su caso, se efectúen deberán aplicar de forma general y no implicar reducción alguna a los requisitos o estándares originalmente establecidos.
+**Cuarto.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, las Federaciones, con la previa opinión favorable de los consultores a que se hace referencia en los citados preceptos, podrán efectuar modificaciones a la metodología y criterios que en términos de dichos artículos hubiesen formulado, la cual deberá considerar la regulación de carácter prudencial aplicable a Entidades de Ahorro y Crédito Popular que la Comisión Nacional Bancaria y de Valores emita en términos de la Ley de Ahorro y Crédito Popular. Las modificaciones que, en su caso, se efectúen deberán aplicar de forma general y no implicar reducción alguna a los requisitos o estándares originalmente establecidos.
 Las Federaciones, con la opinión del consultor referido en el párrafo anterior, podrán modificar la clasificación originalmente asignada a las sociedades o asociaciones que se hubieren sujetado al régimen previsto en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, con motivo de la evaluación periódica que en términos del referido precepto deben llevar a cabo.
 Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del
-**artículo Cuarto.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del artículo Segundo Transitorio de este Decreto y que cumplan con los requisitos señalados tanto en dicho precepto como en los artículos Tercero y Cuarto Transitorios del presente Decreto.
+**artículo Cuarto.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del artículo Segundo Transitorio de este Decreto y que cumplan con los requisitos señalados tanto en dicho precepto como en los artículos Tercero y Cuarto Transitorios del presente Decreto.
 **DÉCIMO PRIMERO.-** Las asociaciones o sociedades referidas en los Artículos Quinto y Séptimo anteriores, que al 31 de diciembre de 2010 no estén en condiciones de presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Sociedad Financiera Popular, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus asociados o Socios.
-Párrafo reformado DOF 13-08-2009 Sin perjuicio de lo dispuesto en el párrafo anterior, podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2012, aquellas asociaciones o sociedades que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios.
+Párrafo reformado DOF 13-08-2009
+Sin perjuicio de lo dispuesto en el párrafo anterior, podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2012, aquellas asociaciones o sociedades que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios.
 Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedades deberán obtener la prórroga en cuestión a más tardar el 31 de diciembre de 2010, sujetándose a lo siguiente:
 
 I. Exclusivamente podrán captar recursos de sus asociados o socios mediante préstamos que éstos les otorguen y solamente podrán dar créditos a tales personas;
@@ -3052,8 +3153,10 @@ Para efectos de lo dispuesto en el párrafo anterior, los administradores, conse
 **DÉCIMO QUINTO.-** No resultará aplicable el plazo previsto en el artículo 9 de la Ley de Ahorro y Crédito Popular para que la Comisión Nacional Bancaria y de Valores resuelva las solicitudes de autorización para la organización y funcionamiento de Sociedades Financieras Populares, que la citada Comisión reciba en cumplimiento a lo dispuesto en los Artículos Cuarto Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, Quinto y Décimo Primero Transitorios del presente Decreto.
 Artículo reformado DOF 13-08-2009
 **DÉCIMO SEXTO.-** Las Federaciones que a la fecha de entrada en vigor del presente Decreto no hayan constituido los Fondos de Protección en términos de lo dispuesto en el Artículo Noveno Transitorio del "Decreto por el que se expide la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 4 de junio de 2001, deberán constituir los citados Fondos a más tardar el 31 de diciembre de 2008, por lo que podrán administrar temporalmente los Fondos de Protección hasta dicha fecha. La Comisión Nacional Bancaria y de Valores, a solicitud de la Federación y por única ocasión, podrá otorgar discrecionalmente una prórroga de hasta doce meses para constituir los referidos Fondos de Protección.
-Párrafo reformado DOF 13-08-2009 Se deroga el párrafo segundo.
-Párrafo derogado DOF 13-08-2009 Se deroga el párrafo tercero.
+Párrafo reformado DOF 13-08-2009
+Se deroga el párrafo segundo.
+Párrafo derogado DOF 13-08-2009
+Se deroga el párrafo tercero.
 Párrafo derogado DOF 13-08-2009
 **DÉCIMO SÉPTIMO.-** Se deroga.
 Artículo derogado DOF 13-08-2009
@@ -3074,7 +3177,7 @@ Se REFORMAN los Artículos 1o.; 3o.; 4o.; 6o.; 7o.; 8o; la denominación del Tí
 
 DEL ARTÍCULO SEGUNDO
 **PRIMERO.-** Las sociedades y asociaciones que hubiesen dado cumplimiento a lo previsto en los Artículos Cuarto Transitorio del "Decreto por el que se Reforman y Adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular" publicado en el Diario Oficial de la Federación el 27 de mayo de 2005 y
-**Segundo.** , Tercero, Cuarto, Quinto y Séptimo Transitorios del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores" publicado en el Diario Oficial de la Federación el 31 de agosto de 2007, de manera temporal y hasta la conclusión de los plazos previstos por los Decretos antes referidos, podrán transformarse dentro de los 180 días siguientes a la entrada en vigor del presente Decreto en Sociedades Cooperativas de Ahorro y Préstamo mediante acuerdo de la mayoría de los socios o asociados con derecho a voto, sin que dicho acuerdo las ubique en estado de disolución y liquidación. Una vez constituidas como Sociedades Cooperativas de Ahorro y Préstamo, dichas sociedades deberán apegarse a los términos y condiciones a que se refiere el Artículo Tercero Transitorio de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
+**Segundo.-** , Tercero, Cuarto, Quinto y Séptimo Transitorios del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores" publicado en el Diario Oficial de la Federación el 31 de agosto de 2007, de manera temporal y hasta la conclusión de los plazos previstos por los Decretos antes referidos, podrán transformarse dentro de los 180 días siguientes a la entrada en vigor del presente Decreto en Sociedades Cooperativas de Ahorro y Préstamo mediante acuerdo de la mayoría de los socios o asociados con derecho a voto, sin que dicho acuerdo las ubique en estado de disolución y liquidación. Una vez constituidas como Sociedades Cooperativas de Ahorro y Préstamo, dichas sociedades deberán apegarse a los términos y condiciones a que se refiere el Artículo Tercero Transitorio de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 Asimismo, las Sociedades Cooperativas de cualquier tipo que capten recursos de sus socios para su colocación entre éstos y cuyas asambleas generales, con anterioridad a la entrada en vigor del presente Decreto hubiesen acordado solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como entidades de ahorro y crédito popular, bajo el tipo de Sociedades Financieras Populares, podrán transformarse en sociedades anónimas, a efecto de presentar su solicitud de autorización como Sociedad financiera popular en los plazos establecidos por la Ley de Ahorro y Crédito Popular.
 Las sociedades de solidaridad social podrán transformarse en Sociedades Cooperativas de Ahorro y Préstamo, en términos de lo dispuesto por el primer párrafo del presente Artículo, o en sociedades anónimas, mediante acuerdo de la mayoría de los socios o asociados con derecho a voto. Las sociedades de solidaridad social que se transformen en términos de este Artículo, perderán dicho carácter a partir de la fecha en que surta efectos a terceros el acuerdo de transformación, por lo que quedarán sin efectos por ministerio de Ley, las autorizaciones o permisos que la autoridad competente hubiere otorgado para que se constituyeran con el carácter de Sociedad de solidaridad social. La transformación efectuada en términos de este Artículo no implicará que se ubiquen en estado de disolución y liquidación.
 Los acuerdos de transformación adoptados de conformidad con lo señalado en este Artículo deberán protocolizarse ante Fedatario Público. Hasta en tanto las sociedades a que se refiere el presente Artículo, una vez autorizadas por la Comisión Nacional Bancaria y de Valores, no inscriban en el Registro Público de Comercio su transformación como Sociedades Financieras Populares, solamente podrán captar recursos de sus socios o asociados.
@@ -3090,7 +3193,7 @@ Hasta en tanto no deba realizarse el traspaso referido en el párrafo anterior, 
 Una vez efectuado el traspaso referido en el primer párrafo del presente Artículo, los contratos de fideicomisos y demás instrumentos mediante los cuales las Federaciones autorizadas por la Comisión Nacional Bancaria y de Valores administraban de forma provisional los recursos del Fondo de Protección, se extinguirán sin que para ello se requiera de la celebración de convenio alguno.
 **QUINTO.-** Las Uniones de Crédito que capten depósitos de ahorro continuarán sujetas a la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, en términos de lo establecido en la Ley de Uniones de Crédito, hasta en tanto sus autorizaciones queden sin efectos en términos de lo dispuesto por el Artículo Décimo Octavo Transitorio del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores" publicado en el Diario Oficial de la Federación el 31 de agosto de 2007.
 **SEXTO.-** Las Federaciones podrán contratar auditores externos a efecto de realizar las evaluaciones y reclasificaciones periódicas de los programas de asesoría, capacitación y seguimiento a que se refieren los Artículos Sexto y Décimo Transitorios del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores" publicado en el Diario Oficial de la Federación el 31 de agosto de 2007, así como para, en su caso, prorrogar los citados programas en términos de los Artículos Séptimo y Décimo
-**Primero.** Transitorios del Decreto antes señalado.
+**Primero.-** Transitorios del Decreto antes señalado.
 **SÉPTIMO.-** Los plazos y montos a que refiere el Artículo 33 Bis de la Ley de Ahorro y Crédito Popular, comenzarán a computarse a la entrada en vigor del presente Decreto, quedando sin efectos los plazos computados y montos determinados en términos de lo dispuesto por el Artículo 33 de la Ley de Ahorro y Crédito Popular, con anterioridad a la entrada en vigor de este.
 **OCTAVO.-** Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos y judiciales que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos o judiciales que se estipulan mediante el presente Decreto.
@@ -3111,7 +3214,7 @@ Se REFORMA el primer párrafo del Artículo NOVENO Transitorio, y se DEROGA el A
 
 ### ARTÍCULO OCTAVO
 Se REFORMAN las fracciones I, II, III y IV del Artículo TERCERO Transitorio, los párrafos primero y segundo del Artículo QUINTO Transitorio, los párrafos primero y cuarto del Artículo
-**SÉPTIMO.** Transitorio, fracciones I y II, así como último párrafo del Artículo OCTAVO Transitorio, el primer párrafo y las fracciones II y IV del Artículo DÉCIMO PRIMERO Transitorio, el Artículo DÉCIMO QUINTO
+**SÉPTIMO.-** Transitorio, fracciones I y II, así como último párrafo del Artículo OCTAVO Transitorio, el primer párrafo y las fracciones II y IV del Artículo DÉCIMO PRIMERO Transitorio, el Artículo DÉCIMO QUINTO
 
 ## Transitorio
 
@@ -3120,14 +3223,14 @@ Se REFORMAN las fracciones I, II, III y IV del Artículo TERCERO Transitorio, lo
 ## Transitorio
 
 y se DEROGAN el Artículo NOVENO Transitorio, los párrafos segundo y tercero del Artículo
-**DÉCIMO SEXTO.** Transitorio y el Artículo DÉCIMO SÉPTIMO Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores” publicado en el Diario Oficial de la Federación el 31 de agosto de 2007, para quedar como sigue: ……….
+**DÉCIMO SEXTO.-** Transitorio y el Artículo DÉCIMO SÉPTIMO Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular y de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores” publicado en el Diario Oficial de la Federación el 31 de agosto de 2007, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
 DEL DECRETO
 **PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto por el Artículo Segundo siguiente.
 **SEGUNDO.-** Las derogaciones efectuadas por el Artículo TERCERO del presente Decreto a los Artículos 4 Bis, 4 Bis 1, 4 Bis 2 y 4 Bis 3 de la Ley de Ahorro y Crédito Popular, así como por el Artículo
-**SEXTO.** del presente Decreto al Artículo Séptimo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular” publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
+**SEXTO.-** del presente Decreto al Artículo Séptimo Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular” publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.
 **TERCERO.-** En tanto la Comisión Nacional Bancaria y de Valores emite las disposiciones de carácter general a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, seguirán aplicándose las emitidas por dicha Comisión en términos de la Ley de Ahorro y Crédito Popular.
 **CUARTO.-** Las referencias que otras Leyes, reglamentos o disposiciones hagan respecto de las Entidades de Ahorro y Crédito Popular, se entenderán efectuadas a las Sociedades Financieras Populares y Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV.
 **QUINTO.-** El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
@@ -3140,14 +3243,13 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 CORRESPO
 
 ### ARTÍCULO SEXTO
 Se REFORMAN los artículos 12; 18 segundo párrafo; 35; 36, inciso b, fracción IV; 46 Bis 1, párrafos cuarto y quinto; 84; 122, primer y último párrafos; 122 Bis; 124; 126; 129, primer y
-**segundo.** párrafos; 131; 133, segundo párrafo; 134; 135; 136, 136 Bis 3; 136 Bis 4; 137, quinto párrafo, fracción II; 139 y 141, en su encabezado y fracción V; se ADICIONAN los artículos 35 Bis; 35 Bis 1; un inciso d) a la fracción III del artículo 36; 36 Bis 3; 36 Bis 4; 36 Bis 5; 42 Bis; 45 Bis; un segundo párrafo al artículo 46 Bis, recorriéndose los actuales párrafos segundo, tercero, cuarto y quinto a ser párrafos
-**tercero.** , cuarto, quinto y sexto respectivamente; 128 Bis; un Capítulo I Bis “De los programas de autocorrección” al Título Sexto; los artículos 136 Bis 5; 136 Bis 6 y los artículos 136 Bis 7; 136 Bis 8; 142 Bis; 145 Bis al Capítulo II “De los delitos” del Título Sexto y se DEROGAN los artículos 14; 15; 36,
-**segundo.** párrafo y 125, último párrafo de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ……… Disposiciones Transitorias
+**segundo.-** párrafos; 131; 133, segundo párrafo; 134; 135; 136, 136 Bis 3; 136 Bis 4; 137, quinto párrafo, fracción II; 139 y 141, en su encabezado y fracción V; se ADICIONAN los artículos 35 Bis; 35 Bis 1; un inciso d) a la fracción III del artículo 36; 36 Bis 3; 36 Bis 4; 36 Bis 5; 42 Bis; 45 Bis; un segundo párrafo al artículo 46 Bis, recorriéndose los actuales párrafos segundo, tercero, cuarto y quinto a ser párrafos
+**tercero.-** , cuarto, quinto y sexto respectivamente; 128 Bis; un Capítulo I Bis “De los programas de autocorrección” al Título Sexto; los artículos 136 Bis 5; 136 Bis 6 y los artículos 136 Bis 7; 136 Bis 8; 142 Bis; 145 Bis al Capítulo II “De los delitos” del Título Sexto y se DEROGAN los artículos 14; 15; 36,
+**segundo.-** párrafo y 125, último párrafo de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO OCTAVO
 En relación con las modificaciones a que se refieren los Artículos Sexto y
-**Séptimo.** , se estará a lo siguiente:
-
+**Séptimo.-** , se estará a lo siguiente:
 I. Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
 
@@ -3157,52 +3259,52 @@ III. La Comisión Nacional Bancaria y de Valores diseñará medidas para evitar 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Cuadragésimo Primero.- Se reforman las fracciones I y II del artículo 34 de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ...........
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo.
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 ### Artículo Noveno
 Se reforman los artículos 37, actuales párrafos segundo y tercero; 46 Bis 14, párrafos segundo y actual tercero; 60, actual párrafo segundo; 131, fracción I; y se adicionan los artículos 37, con los párrafos segundo, tercero y cuarto, recorriéndose el subsecuente; 46 Bis 14, con los párrafos
-**tercero.** y cuarto, recorriéndose el subsecuente; 60, con los párrafos segundo, tercero y cuarto, recorriéndose el subsecuente; 129, con los párrafos tercero y cuarto, recorriéndose el subsecuente, de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ………
+**tercero.-** y cuarto, recorriéndose el subsecuente; 60, con los párrafos segundo, tercero y cuarto, recorriéndose el subsecuente; 129, con los párrafos tercero y cuarto, recorriéndose el subsecuente, de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -3221,12 +3323,12 @@ Se reforma el quinto párrafo del artículo 129 de la Ley de Ahorro y Crédito P
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

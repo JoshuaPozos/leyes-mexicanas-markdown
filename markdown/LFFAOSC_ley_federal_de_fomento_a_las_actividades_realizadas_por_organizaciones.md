@@ -16,6 +16,7 @@ LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOC
 
 ## CAPÍTULO PRIMERO — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente ley es de orden público e interés social y tiene por objeto:
 
@@ -58,6 +59,7 @@ i) Registro: el Registro Federal de Organizaciones en el que se inscriban las or
 Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo las actividades cuyo fomento tiene por objeto esta ley, gozarán de los derechos que derivan de la inscripción en el Registro, con exclusión de los que se establecen en las fracciones II a VIII y XI del artículo 6 y del 25, reservados a las organizaciones constituidas conforme a las leyes mexicanas.
 
 ## CAPÍTULO SEGUNDO — De las Organizaciones de la Sociedad Civil
+
 
 ### Artículo 5
 . Para efectos de esta ley, las actividades de las organizaciones de la sociedad civil objeto de fomento son las siguientes:
@@ -103,7 +105,8 @@ Fracción reformada DOF 28-01-2011
 XVII. Promoción y defensa de los derechos de los consumidores;
 Fracción adicionada DOF 28-01-2011. Reformada DOF 25-04-2012
 
-XVIII. Acciones que promuevan el fortalecimiento del tejido social y la seguridad ciudadana, y Fracción adicionada DOF 25-04-2012
+XVIII. Acciones que promuevan el fortalecimiento del tejido social y la seguridad ciudadana, y
+Fracción adicionada DOF 25-04-2012
 
 XIX. Las que determinen otras leyes.
 Fracción recorrida DOF 28-01-2011, 25-04-2012
@@ -178,6 +181,7 @@ Las organizaciones que obtengan recursos económicos de terceros o del extranjer
 
 ## CAPÍTULO TERCERO — De las Autoridades y las Acciones de Fomento
 
+
 ### Artículo 10
 . El Ejecutivo Federal constituirá la Comisión de Fomento de las Actividades de las Organizaciones de la Sociedad Civil para facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades establecidas en el artículo 5 de esta ley.
 La Comisión se conformará por un representante, con rango de subsecretario u homólogo, al menos, de cada una de las siguientes dependencias:
@@ -237,6 +241,7 @@ El informe respectivo, consolidado por la Secretaría de Hacienda y Crédito Pú
 Párrafo reformado DOF 24-04-2018
 
 ## CAPÍTULO CUARTO
+
 Del Registro Federal de las Organizaciones de la Sociedad Civil y del Sistema de Información
 
 ### Artículo 15
@@ -321,6 +326,7 @@ Párrafo reformado DOF 24-04-2018
 
 ## CAPÍTULO QUINTO — Del Consejo Técnico Consultivo
 
+
 ### Artículo 26
 .- El Consejo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer, opinar y emitir recomendaciones respecto de la aplicación y cumplimiento de esta Ley.
 El Consejo concurrirá anualmente con la Comisión para realizar una evaluación conjunta de las políticas y acciones de fomento de las dependencias y entidades de la Administración Pública Federal.
@@ -339,7 +345,8 @@ Fracción reformada DOF 11-05-2022
 III. Cuatro representantes de los sectores académico, profesional, científico y cultural; la Comisión emitirá las bases para la selección de las personas representantes, observando el principio de paridad de género;
 Fracción reformada DOF 11-05-2022
 
-IV. Dos personas representantes del Poder Legislativo Federal, una por cada Cámara, cuyo desempeño legislativo sea afín a la materia que regula esta ley, y Fracción reformada DOF 11-05-2022
+IV. Dos personas representantes del Poder Legislativo Federal, una por cada Cámara, cuyo desempeño legislativo sea afín a la materia que regula esta ley, y
+Fracción reformada DOF 11-05-2022
 
 V. Una Secretaría Ejecutiva, designada por la persona titular de la Presidencia del Consejo con base en la terna propuesta por las personas integrantes del mismo.
 Fracción reformada DOF 05-08-2011, 11-05-2022
@@ -360,11 +367,13 @@ IV. Sugerir la adopción de medidas administrativas y operativas que permitan el
 
 V. Coadyuvar en la aplicación de la presente ley;
 
-VI. Emitir recomendaciones para la determinación de infracciones y su correspondiente sanción, en los términos de esta Ley, y Fracción reformada DOF 05-08-2011
+VI. Emitir recomendaciones para la determinación de infracciones y su correspondiente sanción, en los términos de esta Ley, y
+Fracción reformada DOF 05-08-2011
 
 VII. Expedir el Manual de Operación conforme al cual regulará su organización y funcionamiento.
 
 ## CAPÍTULO SEXTO — De las Infracciones, Sanciones y Medios de Impugnación
+
 
 ### Artículo 30
 . Constituyen infracciones a la presente ley, por parte de los sujetos a que la misma se refiere y que se acojan a ella:
@@ -414,12 +423,12 @@ En caso de que una organización sea sancionada con suspensión o cancelación d
 
 ## Transitorios
 
-**Primero.** La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Comisión a que hace referencia el artículo 10 deberá quedar conformada dentro de los 30 días hábiles siguientes a que entre en vigor esta ley.
-**Tercero.** El Ejecutivo Federal deberá expedir el reglamento de esta ley, en un plazo de 60 días hábiles contados a partir de su publicación en el Diario Oficial de la Federación.
-**Cuarto.** Para efectos de la inscripción de las organizaciones a que se refiere el Capítulo Cuarto de esta ley, el Registro deberá conformarse e iniciar su operación dentro de los 120 días hábiles siguientes a la fecha de entrada en vigor de esta ley.
-**Quinto.** La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los 180 días hábiles siguientes a la fecha de entrada en vigor de este ordenamiento.
-**Sexto.** Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el artículo 26, los consejeros representantes de las organizaciones serán invitados mediante un procedimiento de insaculación, en tres grupos de tres personas cada uno, que llevará a cabo la Comisión a que se refiere el artículo 9 de esta ley, de entre las propuestas que hagan las propias organizaciones.
+**Primero.-** La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Comisión a que hace referencia el artículo 10 deberá quedar conformada dentro de los 30 días hábiles siguientes a que entre en vigor esta ley.
+**Tercero.-** El Ejecutivo Federal deberá expedir el reglamento de esta ley, en un plazo de 60 días hábiles contados a partir de su publicación en el Diario Oficial de la Federación.
+**Cuarto.-** Para efectos de la inscripción de las organizaciones a que se refiere el Capítulo Cuarto de esta ley, el Registro deberá conformarse e iniciar su operación dentro de los 120 días hábiles siguientes a la fecha de entrada en vigor de esta ley.
+**Quinto.-** La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los 180 días hábiles siguientes a la fecha de entrada en vigor de este ordenamiento.
+**Sexto.-** Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el artículo 26, los consejeros representantes de las organizaciones serán invitados mediante un procedimiento de insaculación, en tres grupos de tres personas cada uno, que llevará a cabo la Comisión a que se refiere el artículo 9 de esta ley, de entre las propuestas que hagan las propias organizaciones.
 También por única ocasión, el primer grupo durará en su encargo un año, el segundo grupo dos años y el tercer grupo tres años, para que después sea renovado un tercio cada año por un periodo de tres de duración.
 México, D.F., a 15 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor y de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
@@ -430,7 +439,7 @@ Se adiciona una fracción XVII, recorriéndose la actual en su orden, al artícu
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 30 de noviembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen.
 Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, la Ley de Vivienda y la Ley Federal de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil.
@@ -451,7 +460,7 @@ Se reforman los artículos 6, fracción VI; 10, último párrafo; 13, primer pá
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforma el artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
 Publicado en el Diario Oficial de la Federación el 25 de abril de 2012
@@ -461,7 +470,7 @@ Se reforma la fracción VIII y se adiciona una fracción XVIII, pasando la actua
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de marzo de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman los artículos 5, 14, 24 y 31 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.
 Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
@@ -482,9 +491,9 @@ Se reforman las fracciones I, II, III, IV y V del artículo 27 de la Ley Federal
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

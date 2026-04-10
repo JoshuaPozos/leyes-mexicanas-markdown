@@ -11,6 +11,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## CAPÍTULO PRIMERO — DEL OBJETO Y APLICACIÓN DE LA LEY
 
+
 ### Artículo 1o
 . La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.
 Sus disposiciones son de orden público y están dirigidas a coadyuvar al desarrollo rural del país, estableciendo acciones de impulso a la productividad y competitividad, como medidas de apoyo tendientes a reducir las asimetrías con respecto a otros países de conformidad con lo que establece el artículo 13 fracción IX y demás disposiciones de la Ley de Desarrollo Rural Sustentable.
@@ -39,6 +40,7 @@ VII. PRECIOS Y TARIFAS DE ESTÍMULO.- Son los precios y tarifas cuyo propósito 
 VIII. PROGRAMA.- Programa de Energía para el Campo.
 
 ## CAPÍTULO SEGUNDO — DE LAS CUOTAS ENERGÉTICAS
+
 
 ### Artículo 4o
 . El Poder Ejecutivo Federal establecerá el programa, mediante precios y tarifas de estímulo de los energéticos agropecuarios.
@@ -74,6 +76,7 @@ Párrafo adicionado DOF 28-12-2012
 
 ## CAPÍTULO TERCERO — DE LOS REQUISITOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
+
 ### Artículo 10
 . Se considera a la cuota energética como parte accesoria e indivisible de la tierra, por lo que el productor que transmita su uso o posesión, deberá hacerlo conjuntamente con dicha cuota. Para tal efecto, la transmisión del uso o posesión de la tierra, deberá notificarse a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
@@ -84,6 +87,7 @@ Párrafo adicionado DOF 28-12-2012
 . El beneficiario deberá dar de baja el saldo a su favor de la cuota de energéticos que no haya sido utilizado al final de los trabajos del ciclo productivo, en los términos del Reglamento de la presente Ley.
 
 ## CAPÍTULO CUARTO — DE LAS INFRACCIONES Y SANCIONES
+
 
 ### Artículo 13
 . Son infracciones a la presente Ley:
@@ -98,9 +102,9 @@ En caso de reincidencia, la sanción consistirá en la pérdida definitiva de la
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Ejecutivo Federal expedirá dentro de los 75 días hábiles siguientes a la entrada en vigor de esta Ley, el Reglamento del presente cuerpo normativo y demás disposiciones administrativas necesarias.
-**TERCERO.** Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Ejecutivo Federal expedirá dentro de los 75 días hábiles siguientes a la entrada en vigor de esta Ley, el Reglamento del presente cuerpo normativo y demás disposiciones administrativas necesarias.
+**TERCERO.-** Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 México, D.F., a 12 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -112,6 +116,6 @@ Se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el C
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 06 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Francisco Arroyo Vieyra, Vicepresidente en funciones de Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de diciembre de dos mil doce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

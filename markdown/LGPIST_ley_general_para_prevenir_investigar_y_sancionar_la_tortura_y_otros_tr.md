@@ -16,7 +16,9 @@ LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PE
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 1
 .- La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional.
@@ -62,7 +64,8 @@ IX. Fiscalías Especializadas: Las instituciones especializadas en la investigac
 Fracción reformada DOF 20-05-2021
 
 X. Instituciones de Procuración de Justicia: Las Instituciones de la Federación y de las entidades federativas que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél.
-Fracción reformada DOF 20-05-2021 INHUMANOS O DEGRADANTES
+Fracción reformada DOF 20-05-2021
+INHUMANOS O DEGRADANTES
 
 XI. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y otras autoridades del Consejo Nacional de Seguridad Pública encargadas o que realicen funciones de Seguridad Pública a nivel federal, local o municipal.
 Fracción reformada DOF 20-05-2021
@@ -127,7 +130,9 @@ VII. Prohibición absoluta: La tortura y los tratos o penas crueles, inhumanos o
 
 ## TÍTULO SEGUNDO — DE LOS DELITOS
 
+
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
+
 
 ### Artículo 7
 .- El delito de tortura se investigará y perseguirá de oficio, por denuncia o vista de autoridad judicial.
@@ -192,6 +197,7 @@ VII. Las circunstancias y el contexto de la comisión de la conducta.
 
 ## CAPÍTULO SEGUNDO — DE LA COMPETENCIA
 
+
 ### Artículo 22
 . La investigación, persecución y sanción de los delitos previstos en esta Ley estará a cargo de las autoridades federales, cuando:
 INHUMANOS O DEGRADANTES
@@ -203,7 +209,8 @@ II. Se actualicen las hipótesis previstas en la Ley Orgánica del Poder Judicia
 III. Exista una sentencia o decisión de algún organismo internacional de protección de los derechos humanos o una resolución de un órgano previsto en cualquier tratado internacional en la que se determine la responsabilidad del Estado mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de los delitos previstos en esta Ley;
 
 IV. El Ministerio Público de la Federación solicite a la Fiscalía Especializada de la Entidad Federativa, le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o la relevancia social del mismo.
-Fracción reformada DOF 20-05-2021 La Víctima podrá pedir al Ministerio Público de la Federación que solicite la remisión de la investigación, a la que el Ministerio Público deberá responder de forma fundada y motivada.
+Fracción reformada DOF 20-05-2021
+La Víctima podrá pedir al Ministerio Público de la Federación que solicite la remisión de la investigación, a la que el Ministerio Público deberá responder de forma fundada y motivada.
 En los casos no contemplados en este artículo, serán competentes las Fiscalías Especializadas de las entidades federativas.
 Párrafo reformado DOF 20-05-2021
 
@@ -212,6 +219,7 @@ Párrafo reformado DOF 20-05-2021
 Artículo reformado DOF 20-05-2021
 
 ## CAPÍTULO TERCERO — DEL DELITO DE TORTURA
+
 
 ### Artículo 24
 .- Comete el delito de tortura el Servidor Público que, con el fin de obtener información o una confesión, con fines de investigación criminal, como medio intimidatorio, como castigo personal, como medio de coacción, como medida preventiva, o por razones basadas en discriminación, o con cualquier otro fin:
@@ -261,10 +269,12 @@ IX. Los autores o participes cometan el delito de tortura, con el propósito de 
 
 ## CAPÍTULO CUARTO — DEL DELITO DE TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES
 
+
 ### Artículo 29
 . Al servidor público que en el ejercicio de su encargo, como medio intimidatorio, como castigo o por motivos basados en discriminación, veje, maltrate, degrade, insulte o humille a una persona, se le aplicará una sanción de tres meses a tres años de prisión y hasta doscientos días multa.
 
 ## CAPÍTULO QUINTO — DE LOS DELITOS VINCULADOS
+
 INHUMANOS O DEGRADANTES
 
 ### Artículo 30
@@ -278,13 +288,16 @@ INHUMANOS O DEGRADANTES
 
 ## TÍTULO TERCERO — DE LA INVESTIGACIÓN Y PROCESAMIENTO DE LOS DELITOS PREVISTOS EN ESTA LEY
 
+
 ## CAPÍTULO PRIMERO — DE LA INVESTIGACIÓN
+
 
 ### Artículo 33
 .- El delito de tortura se investigará y perseguirá de oficio, por denuncia, noticia o vista de la autoridad judicial.
 La vista judicial tendrá por efecto que la autoridad competente inicie la investigación del delito de tortura en términos de lo dispuesto en la presente Ley y en el Código Nacional de Procedimientos Penales.
 En el caso de que la autoridad que tenga conocimiento de los hechos constitutivos del delito de tortura no tenga competencia para iniciar la investigación, ésta deberá remitir el asunto de manera inmediata y por cualquier medio, a las Fiscalías Especializadas competentes.
-Párrafo reformado DOF 20-05-2021 Todo Servidor Público que tenga conocimiento de la comisión del delito de tortura tiene la obligación de denunciarlo de manera inmediata ante las autoridades competentes.
+Párrafo reformado DOF 20-05-2021
+Todo Servidor Público que tenga conocimiento de la comisión del delito de tortura tiene la obligación de denunciarlo de manera inmediata ante las autoridades competentes.
 
 ### Artículo 34
 .- El Ministerio Público o la Víctima podrán solicitar la acumulación de procesos distintos de conformidad con lo previsto en el Código Nacional de Procedimientos Penales.
@@ -354,7 +367,8 @@ Artículo reformado DOF 20-05-2021
 
 ### Artículo 43
 .- Los peritos médicos y/o psicólogos que realicen el dictamen médico-psicológico basado en el Protocolo de Estambul, tendrán la obligación de entregar el mismo a la autoridad ministerial de la Fiscalía Especializada que conozca del caso, a efecto de que se agregue a la carpeta de investigación, así como copia a la Víctima, a su defensor o a quien ésta designe.
-Párrafo reformado DOF 20-05-2021 Solamente en los casos en que exista queja presentada ante la Comisión Nacional de los Derechos Humanos o ante los organismos públicos de protección de los derechos humanos competentes, se les remitirá copia para que se incluya en las mismas.
+Párrafo reformado DOF 20-05-2021
+Solamente en los casos en que exista queja presentada ante la Comisión Nacional de los Derechos Humanos o ante los organismos públicos de protección de los derechos humanos competentes, se les remitirá copia para que se incluya en las mismas.
 
 ### Artículo 44
 .- En el dictamen médico-psicológico basado en el Protocolo de Estambul, quedará asentado que se realizó con el consentimiento de la Víctima y se señalarán los nombres, el número de cédula profesional o de certificación, la experiencia con la que cuenta en la materia médica y psicológica, así como las firmas de los peritos en medicina y psicología que lo practicaron.
@@ -387,6 +401,7 @@ El personal médico de centros penitenciarios tendrá las obligaciones señalada
 
 ## CAPÍTULO SEGUNDO — DE LAS REGLAS PARA LA EXCLUSIÓN DE LA PRUEBA
 
+
 ### Artículo 50
 .- Serán excluidas o declaradas nulas, por carecer de valor probatorio, todas las pruebas obtenidas directamente a través de actos de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos.
 Las pruebas referidas en el párrafo anterior únicamente podrán ser admitidas y valoradas en juicio, en aquellos casos en que se solicite su inclusión a fin de probar los hechos de tortura u otras violaciones a derechos humanos de los que fue objeto una persona, y en contra de aquella que sea investigada o imputada por la comisión de tales hechos.
@@ -402,19 +417,23 @@ Procederá el reconocimiento de inocencia de la persona sentenciada, cuando se d
 
 ### Artículo 53
 .- Cuando el Juez advierta la existencia de cualquier dato o medio de prueba obtenido a través de un acto de tortura, dará vista con efectos de denuncia a la Fiscalía Especializada competente a efecto de que se inicie la investigación penal correspondiente.
-Párrafo reformado DOF 20-05-2021 Toda investigación, persecución, procesamiento y sanción del delito de tortura deberá ser competencia exclusiva de las autoridades del orden civil.
+Párrafo reformado DOF 20-05-2021
+Toda investigación, persecución, procesamiento y sanción del delito de tortura deberá ser competencia exclusiva de las autoridades del orden civil.
 
 ### Artículo 54
 .- De conformidad con las facultades establecidas en los artículos 99 y 101 de la Ley Orgánica del Poder Judicial de la Federación, los visitadores judiciales darán seguimiento a las vistas con efectos de denuncias del delito de tortura que hagan los órganos jurisdiccionales en el ámbito de sus competencias.
 
 ## TÍTULO CUARTO — DE LAS FISCALÍAS ESPECIALIZADAS
+
 Denominación del Título reformada DOF 20-05-2021
 
 ## CAPÍTULO PRIMERO — DE SU INTEGRACIÓN
 
+
 ### Artículo 55
 .- Las Instituciones de Procuración de Justicia deberán crear Fiscalías Especializadas con plena autonomía técnica y operativa para el conocimiento, investigación y persecución de delitos previstos en esta Ley; contarán con Ministerios Públicos, policías, servicios periciales y técnicos especializados; y estarán dotadas de los recursos humanos, financieros y materiales que se requieran para su efectiva operación.
-Artículo reformado DOF 20-05-2021 INHUMANOS O DEGRADANTES
+Artículo reformado DOF 20-05-2021
+INHUMANOS O DEGRADANTES
 
 ### Artículo 56
 .- Las autoridades de los tres órdenes de gobierno deben garantizar el acceso de las Fiscalías Especializadas a los registros de detenciones.
@@ -437,6 +456,7 @@ Para ingresar al servicio en las Fiscalías Especializadas, los aspirantes asumi
 Párrafo reformado DOF 20-05-2021
 
 ## CAPÍTULO SEGUNDO — DE SUS OBLIGACIONES Y FACULTADES
+
 
 ### Artículo 59
 .- Las Fiscalías Especializadas tendrán en el ámbito de su competencia, las obligaciones y facultades siguientes:
@@ -472,7 +492,9 @@ XIII. Las demás que dispongan esta Ley y otras disposiciones aplicables.
 
 ## TÍTULO QUINTO — DE LA PREVENCIÓN DE LOS DELITOS
 
+
 ## CAPÍTULO PRIMERO — DE LA PREVENCIÓN EN GENERAL
+
 
 ### Artículo 60
 .- Las autoridades de los tres órdenes de gobierno, en sus respectivos ámbitos de competencia, se coordinarán para:
@@ -493,7 +515,8 @@ VI. Desarrollar protocolos de actuación, campañas de sensibilización y difusi
 
 VII. Promover con las instancias educativas, sociales y de salud nacionales e internacionales, campañas de sensibilización, eventos de difusión y formación tendientes a la consolidación de la cultura de respeto a los derechos humanos en la materia;
 
-VIII. Proveer a las Fiscalías Especializadas de todos los medios técnicos necesarios en materia de criminalística y ciencias forenses para desempeñar su función investigativa de manera profesional y científica, y Fracción reformada DOF 20-05-2021
+VIII. Proveer a las Fiscalías Especializadas de todos los medios técnicos necesarios en materia de criminalística y ciencias forenses para desempeñar su función investigativa de manera profesional y científica, y
+Fracción reformada DOF 20-05-2021
 
 IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
@@ -531,12 +554,14 @@ La entrevista entre el detenido y su defensor deberá llevarse a cabo en condici
 
 ### Artículo 68
 .- La capacitación que en el ámbito de los derechos humanos reciban los Servidores Públicos adscritos a las Fiscalías Especializadas será desarrollada preponderantemente por las instancias competentes que en materia de capacitación, formación, difusión y profesionalización tengan las Instituciones de Procuración de Justicia.
-Párrafo reformado DOF 20-05-2021 La impartición de los cursos sobre las normas y criterios del derecho nacional e internacional, serán obligatorios para los Servidores Públicos que forman parte de las Instituciones de Seguridad Pública, de Procuración de Justicia y Policiales; así como para aquellos que participen en la custodia y tratamiento de toda persona sometida a privación de la libertad y para las personas que deseen ingresar a éstas.
+Párrafo reformado DOF 20-05-2021
+La impartición de los cursos sobre las normas y criterios del derecho nacional e internacional, serán obligatorios para los Servidores Públicos que forman parte de las Instituciones de Seguridad Pública, de Procuración de Justicia y Policiales; así como para aquellos que participen en la custodia y tratamiento de toda persona sometida a privación de la libertad y para las personas que deseen ingresar a éstas.
 Todo el personal del Sistema Nacional de Salud y de los servicios de salud tiene la obligación de contribuir a la prevención de la tortura y otros tratos crueles, inhumanos o degradantes.
 Cuando algún elemento del Sistema Nacional de Salud y de los servicios de salud cuente con elementos para presumir que una persona ha sido Víctima de estas conductas está obligado a hacerlo del conocimiento de las autoridades competentes.
 Todo organismo público de derechos humanos tendrá la obligación de investigar y documentar la tortura y otros tratos y penas crueles, inhumanos y degradantes inmediatamente después de recibida la queja correspondiente y de remitir sus eventuales peritajes y recomendaciones a los órganos de procuración de justicia y judiciales competentes, en su caso.
 
 ## CAPÍTULO SEGUNDO — DEL PROGRAMA NACIONAL
+
 
 ### Artículo 69
 .- El Programa Nacional debe incluir:
@@ -556,7 +581,8 @@ VI. Las bases para la creación de instrumentos de seguimiento y evaluación, lo
 
 ### Artículo 70
 .- La Fiscalía establecerá las bases para garantizar la coordinación nacional en el diseño, elaboración, instrumentación y aplicación del Programa Nacional.
-Párrafo reformado DOF 20-05-2021 La coordinación nacional deberá involucrar la participación de los tres poderes y órdenes de gobierno, así como de la Comisión Nacional y los organismos de protección de los derechos humanos de carácter nacional e internacional, instituciones académicas y organizaciones de la sociedad civil especializada en la documentación de casos de tortura y/o acompañamiento de Víctimas de tortura y otros tratos crueles, inhumanos o degradantes.
+Párrafo reformado DOF 20-05-2021
+La coordinación nacional deberá involucrar la participación de los tres poderes y órdenes de gobierno, así como de la Comisión Nacional y los organismos de protección de los derechos humanos de carácter nacional e internacional, instituciones académicas y organizaciones de la sociedad civil especializada en la documentación de casos de tortura y/o acompañamiento de Víctimas de tortura y otros tratos crueles, inhumanos o degradantes.
 
 ### Artículo 71
 .- En la aplicación del Programa Nacional, participarán:
@@ -578,6 +604,7 @@ VII. Los Consejos de la Judicatura Federal y estatales; y
 VIII. Otras autoridades e instancias de los tres órdenes de gobierno que puedan contribuir al cumplimiento de la presente Ley.
 
 ## CAPÍTULO TERCERO — INHUMANOS O DEGRADANTES
+
 DEL MECANISMO NACIONAL DE PREVENCIÓN
 
 ### Artículo 72
@@ -589,7 +616,8 @@ DEL MECANISMO NACIONAL DE PREVENCIÓN
 I. La persona titular de la Comisión Nacional, quien lo presidirá.
 
 II. Un Comité Técnico integrado por cuatro personas expertas en la prevención de la tortura e independientes, en su designación se garantizará el principio de paridad de género.
-Fracción reformada DOF 28-04-2022 El Reglamento determinará en todo aquello que no esté establecido en esta Ley, la estructura, integración y funcionamiento del Mecanismo Nacional de Prevención.
+Fracción reformada DOF 28-04-2022
+El Reglamento determinará en todo aquello que no esté establecido en esta Ley, la estructura, integración y funcionamiento del Mecanismo Nacional de Prevención.
 
 ### Artículo 74
 .- El Mecanismo Nacional de Prevención contará con los recursos humanos, materiales y financieros necesarios para el aseguramiento de su autonomía presupuestaria de gestión e institucionalidad necesarias para cumplir con la función independiente prevista en esta Ley y en el Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
@@ -696,6 +724,7 @@ El uso y tratamiento de la información recabada por el Mecanismo Nacional de Pr
 
 ## CAPÍTULO CUARTO — DEL REGISTRO NACIONAL
 
+
 ### Artículo 83
 .- El Registro Nacional es la herramienta de investigación y de información estadística que incluye los datos sobre todos los casos en los que se denuncie y se investigue los casos de tortura y otros tratos o penas crueles, inhumanas o degradantes; incluido el número de Víctimas de los mismos, el cual estará integrado por las bases de datos de las Instituciones de Procuración de Justicia, de la Comisión Nacional, de los Organismos de Protección de los Derechos Humanos, la Comisión Ejecutiva y las Comisiones de Atención a Víctimas; así como de los casos que se tramiten ante organismos internacionales de protección de los derechos humanos.
 
@@ -705,12 +734,15 @@ Asimismo, estará interconectado con el Registro Nacional de Víctimas, en térm
 
 ### Artículo 85
 .- La Fiscalía coordinará la operación y la administración del Registro Nacional.
-Párrafo reformado DOF 20-05-2021 El Registro Nacional se alimentará con los datos proporcionados por los registros de cada una de las entidades federativas y de la Federación en términos de los convenios que se celebren para tal efecto.
+Párrafo reformado DOF 20-05-2021
+El Registro Nacional se alimentará con los datos proporcionados por los registros de cada una de las entidades federativas y de la Federación en términos de los convenios que se celebren para tal efecto.
 En el caso de las Fiscalías de las entidades federativas, éstas instrumentarán su respectivo registro considerando como mínimo lo establecido en el presente Capítulo.
 
 ## TÍTULO SEXTO — DE LOS DERECHOS DE LAS VÍCTIMAS
 
+
 ## CAPÍTULO PRIMERO — DE LAS MEDIDAS DE AYUDA, ASISTENCIA Y ATENCIÓN
+
 
 ### Artículo 86
 .- La Comisión Ejecutiva y las Comisiones de Atención a Víctimas, deberán proporcionar en el ámbito de sus facultades y atribuciones, medidas de ayuda, asistencia y atención por sí mismas, o en coordinación con otras instituciones competentes, en los términos de lo previsto en el presente Título y en la Ley General de Víctimas.
@@ -778,6 +810,7 @@ X. Promover la participación en materia de atención a Víctimas de tortura y o
 XI. Las demás que dispongan esta y otras leyes.
 
 ## CAPÍTULO SEGUNDO — DE LAS MEDIDAS DE REPARACIÓN INTEGRAL A LAS VÍCTIMAS DEL DELITO DE
+
 TORTURA
 
 ### Artículo 93
@@ -792,6 +825,7 @@ Las entidades federativas y la Federación, en el ámbito de sus respectivas com
 
 ## CAPÍTULO TERCERO — DE LA PROTECCIÓN DE PERSONAS
 
+
 ### Artículo 95
 .- Las Víctimas del delito de tortura tienen derecho a la protección el Estado a través de las autoridades respectivas, lo que incluye el derecho a contar con medidas de protección eficaces cuando su vida, integridad o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de Víctima.
 Las medidas de protección antes referidas se deberán implementar con base en los principios contenidos en la Ley General de Víctimas y demás disposiciones aplicables.
@@ -804,34 +838,34 @@ ARTÍCULOS SEGUNDO A QUINTO.- ……….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
 Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la presente Ley.
 INHUMANOS O DEGRADANTES Los procedimientos iniciados antes de la vigencia de la presente ley continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
-**Tercero.** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
-**Cuarto.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-**Quinto.** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+**Tercero.-** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
+**Cuarto.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Quinto.-** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.
-**Sexto.** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
-**Séptimo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-**Octavo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
-**Noveno.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
+**Sexto.-** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+**Séptimo.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Octavo.-** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+**Noveno.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
 INHUMANOS O DEGRADANTES De la misma manera, dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, deberán expedir los lineamientos de carácter general que determinen las modalidades y procedimientos que deberán seguir durante las visitas.
 La persona titular del Mecanismo Nacional de Prevención realizará el nombramiento del Director Ejecutivo dentro de los noventa días siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
 La elección de los integrantes del Comité Técnico a que se refiere la fracción II del artículo 73 de esta Ley, se hará por única ocasión, atendiendo a la gradualidad siguiente:
 De las cuatro personas expertas elegidas, dos durarán en su encargo dos años y las otras dos durarán cuatro años, situación que será definida por el Senado conforme a la votación por mayoría; lo anterior para que exista sustitución escalonada en la integración del Comité Técnico, por lo que a partir de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los sustituyan serán elegidos en los términos de la ley por cuatro años.
 El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
-**Décimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-**Décimo Primero.** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
-**Décimo Segundo.** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
-**Décimo Tercero.** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+**Décimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+**Décimo Primero.-** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+**Décimo Segundo.-** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+**Décimo Tercero.-** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, será competente la Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior.
 En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa, correspondiente.
-**Décimo Cuarto.** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
-**Décimo Quinto.** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos INHUMANOS O DEGRADANTES necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
-**Décimo Sexto.** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+**Décimo Cuarto.-** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+**Décimo Quinto.-** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos INHUMANOS O DEGRADANTES necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+**Décimo Sexto.-** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 INHUMANOS O DEGRADANTES ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
@@ -839,43 +873,43 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Décimo Segundo
 Se reforman la actual fracción XVIII pasando a ser la fracción VIII y la actual fracción VIII pasando a ser la fracción IX recorriéndose las subsecuentes en su orden hasta la fracción XVIII del artículo 5; la fracción IV y el párrafo tercero del artículo 22; el artículo 23; el párrafo
-**tercero.** del artículo 33; el párrafo primero del artículo 35; el artículo 42; el párrafo primero del artículo 43; el párrafo primero del artículo 53; la denominación del Título Cuarto; el artículo 55; el artículo 56; el artículo 57; los párrafos primero y segundo del artículo 58; el párrafo único y la fracción IX del artículo 59; las fracciones II y VIII del artículo 60; el párrafo primero del artículo 68; el párrafo primero del artículo 70; la fracción XI del artículo 78; el párrafo primero del artículo 85; el artículo 89; la fracción V, del artículo 92 y el párrafo tercero del artículo 95 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue: ………..
+**tercero.-** del artículo 33; el párrafo primero del artículo 35; el artículo 42; el párrafo primero del artículo 43; el párrafo primero del artículo 53; la denominación del Título Cuarto; el artículo 55; el artículo 56; el artículo 57; los párrafos primero y segundo del artículo 58; el párrafo único y la fracción IX del artículo 59; las fracciones II y VIII del artículo 60; el párrafo primero del artículo 68; el párrafo primero del artículo 70; la fracción XI del artículo 78; el párrafo primero del artículo 85; el artículo 89; la fracción V, del artículo 92 y el párrafo tercero del artículo 95 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, para quedar como sigue: ………..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República INHUMANOS O DEGRADANTES se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 INHUMANOS O DEGRADANTES El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para INHUMANOS O DEGRADANTES que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para INHUMANOS O DEGRADANTES que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 INHUMANOS O DEGRADANTES DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacional de los Pueblos Indígenas, la Ley General de Derechos Lingüísticos de los Pueblos Indígenas y la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
@@ -885,10 +919,10 @@ Se reforma la fracción II del artículo 73; y el segundo párrafo del artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

@@ -15,7 +15,9 @@ Se expide la Ley de Seguridad Nacional, en los siguientes términos:
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1
 .- Las disposiciones de la presente Ley son de orden público y de observancia general en todo el territorio nacional.
@@ -68,9 +70,12 @@ X. Todo acto de financiamiento de acciones y organizaciones terroristas;
 XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o contrainteligencia;
 Fracción reformada DOF 08-11-2019
 
-XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y Fracción reformada DOF 08-11-2019
+XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y
+Fracción reformada DOF 08-11-2019
 
-XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
+XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.]
+Fracción adicionada DOF 08-11-2019
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
 
 ### Artículo 6
 .- Para los efectos de la presente Ley, se entiende por:
@@ -84,7 +89,8 @@ III. Red: Red Nacional de Investigación.
 IV. Centro: Centro de Investigación y Seguridad Nacional;
 Fracción reformada DOF 18-12-2020
 
-V. Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y Fracción reformada DOF 18-12-2020
+V. Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y
+Fracción reformada DOF 18-12-2020
 
 VI. Agentes Extranjeros: Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado.
 Fracción adicionada DOF 18-12-2020
@@ -112,7 +118,9 @@ La materia de Seguridad Nacional está excluida de la aplicación supletoria de 
 
 ## TÍTULO SEGUNDO — DE LAS INSTANCIAS ENCARGADAS DE LA SEGURIDAD NACIONAL
 
+
 ## CAPÍTULO I — DEL CONSEJO DE SEGURIDAD NACIONAL
+
 
 ### Artículo 9
 .- Las instancias de Seguridad Nacional contarán con la estructura, organización y recursos que determinen las disposiciones que les den origen.
@@ -155,7 +163,8 @@ VIII. El Secretario de Relaciones Exteriores;
 
 IX. El Secretario de Comunicaciones y Transportes;
 
-X. El Fiscal General de la República, y Fracción reformada DOF 20-05-2021
+X. El Fiscal General de la República, y
+Fracción reformada DOF 20-05-2021
 
 XI. El Director General del Centro de Investigación y Seguridad Nacional.
 Los integrantes del Consejo no podrán nombrar suplente. En caso de ausencia del Presidente, el Secretario Ejecutivo presidirá la reunión.
@@ -226,6 +235,7 @@ Previa autorización del Presidente del Consejo, también se podrán realizar co
 
 ## CAPÍTULO II — DEL CENTRO DE INVESTIGACIÓN Y SEGURIDAD NACIONAL
 
+
 ### Artículo 18
 .- El Centro de Investigación y Seguridad Nacional, es un órgano administrativo desconcentrado de la Secretaría de Gobernación, con autonomía, técnica, operativa y de gasto, adscrito directamente al Titular de dicha Secretaría.
 
@@ -256,6 +266,7 @@ XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le s
 
 ## CAPÍTULO III — ESTATUTO DEL PERSONAL DEL CENTRO
 
+
 ### Artículo 20
 .- Los mecanismos y las reglas para la selección, ingreso, nombramiento, capacitación, promoción y profesionalización del personal del Centro, se regirán por el Estatuto Laboral que al efecto expida el Presidente de la República. En éste se garantizarán los mecanismos de capacitación y promoción para la seguridad laboral, así como los estímulos requeridos para un servicio confiable, profesional y de calidad por parte del personal del Centro.
 
@@ -266,6 +277,7 @@ XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le s
 .- Los servidores públicos del Centro estarán sujetos a los mecanismos de control de confiabilidad que determine el Estatuto.
 
 ## CAPÍTULO IV — DE LA COORDINACIÓN PARA LA SEGURIDAD NACIONAL
+
 
 ### Artículo 23
 .- En la aplicación de la presente Ley y las medidas de coordinación que establece, se mantendrá el respeto a las atribuciones de las instancias que participen.
@@ -290,7 +302,9 @@ En la formación y operación de la Red, así como en la instrumentación de las
 
 ## TÍTULO TERCERO — DE LA INTELIGENCIA PARA LA SEGURIDAD NACIONAL
 
+
 ## CAPÍTULO I — DE LA INFORMACIÓN Y LA INTELIGENCIA
+
 
 ### Artículo 29
 .- Se entiende por inteligencia el conocimiento obtenido a partir de la recolección, procesamiento, diseminación y explotación de información, para la toma de decisiones en materia de Seguridad Nacional.
@@ -306,7 +320,9 @@ En la formación y operación de la Red, así como en la instrumentación de las
 
 ## CAPÍTULO II — DE LAS INTERVENCIONES DE COMUNICACIONES
 
+
 ## SECCIÓN I — DE LA SOLICITUD
+
 
 ### Artículo 33
 .- En los casos de amenaza inminente a los que se refiere el artículo 5 de esta Ley, el Gobierno Mexicano podrá hacer uso de los recursos que legalmente se encuentren a su alcance, incluyendo la información anónima.
@@ -324,6 +340,7 @@ El Poder Judicial de la Federación, de acuerdo con su ley orgánica, determinar
 Cuando el Centro coopere en las actividades de procuración de justicia, las intervenciones de comunicaciones privadas en las que se preste auxilio técnico tendrán naturaleza distinta a las reguladas Procedimientos Penales y la Ley Federal contra la Delincuencia Organizada.
 
 ## SECCIÓN II — DEL PROCEDIMIENTO
+
 
 ### Artículo 37
 .- El procedimiento tiene carácter reservado, por lo que las solicitudes se registrarán en un libro de gobierno especial que se manejará por el personal que para tal efecto designe el juez. No se permitirá el acceso a los expedientes a persona alguna, salvo al secretario del juzgado y a quien se autorice por escrito por parte del Director General del Centro.
@@ -366,6 +383,7 @@ El juez podrá requerir informes periódicos respecto de la ejecución de la aut
 
 ## SECCIÓN III — DE LA VIGENCIA DE LA AUTORIZACIÓN
 
+
 ### Artículo 43
 .- Las intervenciones se autorizarán por un lapso no mayor de ciento ochenta días naturales. Como casos de excepción debidamente justificados, el juez podrá autorizar prórroga a dicho plazo; hasta por un periodo igual al de la autorización original.
 
@@ -373,6 +391,7 @@ El juez podrá requerir informes periódicos respecto de la ejecución de la aut
 .- La solicitud de prórroga se someterá al procedimiento a que se refiere la Sección II del presente Capítulo, y en ella se deberán especificar las consideraciones que justifiquen que la intervención continúa siendo necesaria para investigar una amenaza a la Seguridad Nacional. En la descripción de los hechos que motiven la prórroga se aplicará lo dispuesto en la fracción I del artículo 38 de esta Ley.
 
 ## SECCIÓN IV — DE LAS OBLIGACIONES
+
 
 ### Artículo 45
 .- El personal del juzgado referido en el artículo 37 está obligado a mantener secreto del contenido de las solicitudes y resoluciones de autorización, así como aquella información generada por la aplicación de las mismas, de la que llegaren a tener conocimiento.
@@ -388,10 +407,12 @@ El juez podrá requerir informes periódicos respecto de la ejecución de la aut
 
 ## SECCIÓN V — DE LOS CASOS DE URGENCIA
 
+
 ### Artículo 49
 .- En casos de excepción, cuando el cumplimiento del procedimiento establecido en la Sección II del presente Capítulo comprometa el éxito de una investigación y existan indicios de que pueda consumarse una amenaza a la Seguridad Nacional, el juez, por la urgencia, podrá autorizar de inmediato la medida que se requiera.
 
 ## CAPÍTULO III — DEL ACCESO A LA INFORMACIÓN EN MATERIA DE SEGURIDAD NACIONAL
+
 
 ### Artículo 50
 .- Cada instancia representada en el Consejo es responsable de la administración, protección, clasificación, desclasificación y acceso de la información que genere o custodie, en los términos de la presente Ley y de la Ley Federal de Transparencia y Acceso a la Información Pública gubernamental.
@@ -417,7 +438,9 @@ II. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una
 
 ## TÍTULO CUARTO — DEL CONTROL LEGISLATIVO
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 56
 .- Las políticas y acciones vinculadas con la Seguridad Nacional estarán sujetas al control y evaluación del Poder Legislativo Federal, por conducto de una Comisión Bicamaral integrada por 3 Senadores y 3 Diputados.
@@ -459,7 +482,9 @@ En todo caso, omitirán cualquier información cuya revelación indebida afecte 
 
 ## TÍTULO QUINTO — DE LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 61
 .- Los servidores públicos cuyas áreas estén relacionadas con la Seguridad Nacional, orientarán, con base en los principios previstos en el artículo 3o., el desempeño de sus funciones, preservando los de legalidad, responsabilidad, respeto a los derechos fundamentales y garantías individuales y sociales, confidencialidad, lealtad, transparencia, eficiencia, coordinación y cooperación que deben cumplir en términos de las disposiciones legales que regulan al servicio público.
@@ -475,7 +500,9 @@ En todo caso, omitirán cualquier información cuya revelación indebida afecte 
 
 ## TÍTULO SEXTO — DE LA COOPERACIÓN DE LAS INSTANCIAS LOCALES Y MUNICIPALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 65
 .- La cooperación de los poderes y órganos de gobierno de las entidades federativas en la función de garantizar la Seguridad Nacional se establecerá para:
@@ -495,9 +522,12 @@ IV. Promover la participación de los Municipios en las políticas, acciones y p
 .- En la regulación y el ejercicio de las atribuciones que conforme al presente Título les correspondan a las entidades federativas, se observará puntualmente lo previsto por los artículos 117, 118 y 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO SÉPTIMO — DE LA COOPERACIÓN CON LOS GOBIERNOS EXTRANJEROS EN MATERIA DE
-SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL Título adicionado DOF 18-12-2020
+
+SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL
+Título adicionado DOF 18-12-2020
 
 ## CAPÍTULO I — DE LA COOPERACIÓN INTERNACIONAL
+
 Capítulo adicionado DOF 18-12-2020
 
 ### Artículo 68
@@ -549,6 +579,7 @@ Las autoridades responsables de la supervisión y vigilancia de los agentes y t�
 Artículo adicionado DOF 18-12-2020
 
 ## CAPÍTULO II — DE LOS ÓRGANOS AUXILIARES
+
 Capítulo adicionado DOF 18-12-2020
 
 ### Artículo 75
@@ -558,7 +589,8 @@ Artículo adicionado DOF 18-12-2020
 ### Artículo 76
 .- El Grupo de Coordinación Operativa es el órgano auxiliar del Consejo encargado de coordinar y supervisar la ejecución de los convenios, programas, acciones o acuerdos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional con las agencias de seguridad de países extranjeros que determine el Grupo de Alto Nivel de Seguridad.
 Será dirigido por un representante de la Secretaría de Seguridad y Protección Ciudadana con nivel de Jefe o Titular de Unidad y se integrará por representantes de las dependencias u organismos que determine el Consejo. El Consejo, emitirá las disposiciones generales que regulen su organización y funcionamiento.
-Artículo adicionado DOF 18-12-2020 ARTÍCULOS TRANSITORIOS
+Artículo adicionado DOF 18-12-2020
+ARTÍCULOS TRANSITORIOS
 
 ### ARTÍCULO PRIMERO
 La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -608,8 +640,8 @@ Se adiciona una fracción XIII al artículo 5 de la Ley de Seguridad Nacional, p
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
-**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+**Primero.-** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+**Segundo.-** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
 Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip.
 Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones a la Ley de Seguridad Nacional.
@@ -620,8 +652,8 @@ Se adicionan una fracción VI al artículo 6, y un Título Séptimo denominado "
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 Ciudad de México, a 15 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
@@ -629,48 +661,48 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 25 de noviembre de 2022 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/450/2022 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veinticuatro de noviembre de dos mil veintidós, resolvió la acción de inconstitucionalidad 130/2019 y su acumulada 136/2019, promovida por la Comisión Nacional de los Derechos Humanos y diversos integrantes de la Cámara de Senadores del Congreso de la Unión, en los términos siguientes: “PRIMERO: Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
-**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
-**QUINTO.** Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+**SEGUNDO.-** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoría.
+**TERCERO.-** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad-con lo expuesto en el apartado VI de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+**QUINTO.-** Se declara la invalidez por extensión, de los artículos 187, párrafo segundo, en su porción normativa ‘Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, y 192, párrafo tercero, en su porción normativa ‘La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código’, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 24 de noviembre de 2022 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
@@ -680,13 +712,13 @@ Publicada en el Diario Oficial de la Federación el 20 de agosto de 2025 Al marg
 SENTENCIA ……..
 
 VIII. DECISIÓN. 594. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.
-**TERCERO.** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión.
-**CUARTO.** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo
-**primero.** , fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
-**QUINTO.** Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
+**SEGUNDO.-** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.
+**TERCERO.-** Se reconoce la validez del artículo 113 Bis, párrafo primero, del Código Fiscal de la Federación, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, de conformidad con lo expuesto en el apartado VI de esta decisión.
+**CUARTO.-** Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2º, párrafo
+**primero.-** , fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal, publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, las cuales surtirán sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión, en el entendido de que únicamente la invalidez de este último precepto de la Ley Federal contra la Delincuencia Organizada tendrá efectos retroactivos al uno de enero de dos mil veinte, fecha en que entró en vigor el decreto por el que fue adicionado, en atención a lo determinado en los apartados VI y VII de esta determinación.
+**QUINTO.-** Se declara la invalidez, por extensión, de los artículos 187, párrafo segundo, en su porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, y 192, párrafo tercero, en su porción normativa “La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”, del Código Nacional de Procedimientos Penales, reformado y adicionado mediante el Decreto publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con lo expuesto en los apartados VI y VII de esta sentencia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; mediante oficio a las partes, al titular de la Fiscalía General de la República, a las Fiscalías Generales de las entidades federativas y a los Tribunales Superiores de Justicia de las entidades federativas del País y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: …….
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos propuestos.
@@ -703,12 +735,12 @@ Se reforma la fracción III del artículo 8 de la Ley de Seguridad Nacional, par
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

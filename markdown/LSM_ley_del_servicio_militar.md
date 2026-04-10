@@ -11,17 +11,22 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO: "E
 ARTICULO 1º.- De acuerdo con lo dispuesto en el artículo 5º de la Constitución Política de los Estados Unidos Mexicanos, se declara obligatorio y de orden público el servicio de las armas para todos los mexicanos por nacimiento o naturalización, quienes lo prestarán en el Ejército o en la Armada, como soldados, clases u oficiales, de acuerdo con sus capacidades y aptitudes.
 En caso de guerra internacional, el Servicio Militar también será obligatorio para los extranjeros, nacionales de los países cobeligerantes de México, que residan en la República.
 A los extranjeros que deban prestar servicios militares en México, se les aplicarán, como si fueran mexicanos, todas las disposiciones de esta Ley y de sus Reglamentos; exceptuando lo estipulado o lo que pueda estipularse al respecto, en acuerdos o convenios internacionales.
-Artículo reformado DOF 25-11-1942 ARTICULO 2°.- Se deroga.
-Artículo derogado DOF 22-06-2017 ARTICULO 3º.- La Secretaría de la Defensa Nacional prestará toda clase de ayuda a las autoridades educativas de los Estados en que no haya coordinación con la Federación en esta materia, para el cumplimiento de las funciones de instrucción militar a que se refiere la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, a fin de intensificar la eficacia de la instrucción, de unificar los sistemas para impartirla y de controlar los resultados.
+Artículo reformado DOF 25-11-1942
+ARTICULO 2°.- Se deroga.
+Artículo derogado DOF 22-06-2017
+ARTICULO 3º.- La Secretaría de la Defensa Nacional prestará toda clase de ayuda a las autoridades educativas de los Estados en que no haya coordinación con la Federación en esta materia, para el cumplimiento de las funciones de instrucción militar a que se refiere la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, a fin de intensificar la eficacia de la instrucción, de unificar los sistemas para impartirla y de controlar los resultados.
 ARTICULO 4º.- Los preliminares del alistamiento de cada clase para el servicio de las armas, se llevarán a cabo durante el segundo semestre del año en que cumplan los individuos 18 años de edad, comenzando su servicio militar el 1o. de enero del año siguiente. Sus obligaciones militares terminan el 31 de diciembre del año en que cumplan los 40 años de edad.
-Artículo reformado DOF 18-05-2022 ARTICULO 5º.- El servicio de las armas se prestará:
+Artículo reformado DOF 18-05-2022
+ARTICULO 5º.- El servicio de las armas se prestará:
 Por un año en el Ejército activo, quienes tengan 18 años de edad.
 Hasta los 30 años, en la 1a. Reserva.
 Hasta los 40 años, en la 2a. Reserva.
 Las clases y oficiales servirán en la 1a. Reserva hasta los 33 y 36 años respectivamente y hasta los 45 y 50 en la 2a. Reserva.
 Reforma DOF 18-05-2022: Derogó del artículo el entonces párrafo quinto ARTICULO 5 BIS.- En tiempo de paz, los mexicanos por nacimiento que adquieran otra nacionalidad, al cumplir con sus obligaciones del servicio de las armas no serán considerados en el activo en los términos de lo dispuesto en esta ley y en las disposiciones reglamentarias.
-Artículo adicionado DOF 23-01-1998 ARTICULO 6º.- Se deroga.
-Artículo derogado DOF 18-05-2022 ARTICULO 7º.- La Armada Nacional tomará de los contingentes de cada clase los efectivos necesarios para cubrir sus vacantes y constituir sus reservas en la forma que establezca el Reglamento respectivo.
+Artículo adicionado DOF 23-01-1998
+ARTICULO 6º.- Se deroga.
+Artículo derogado DOF 18-05-2022
+ARTICULO 7º.- La Armada Nacional tomará de los contingentes de cada clase los efectivos necesarios para cubrir sus vacantes y constituir sus reservas en la forma que establezca el Reglamento respectivo.
 ARTICULO 8º.- En caso de llamamiento, los reservistas quedarán sujetos a las leyes y disposiciones militares desde la fecha que se establezca en él.
 ARTICULO 9º.- En los casos de movilización, los reservistas serán considerados como pertenecientes al Ejército activo, desde la fecha en que se publique la convocatoria respectiva.
 ARTICULO 10.- El Reglamento de esta Ley fijará las causas de excepción total o parcial para el servicio de las armas, señalando los impedimentos de orden físico, moral y social y la manera de comprobarlos. La Secretaría de la Defensa Nacional, por virtud de esta Ley queda investida de la facultad para exceptuar del servicio militar a quienes no llenen las necesidades de la Defensa Nacional.
@@ -42,10 +47,14 @@ ARTICULO 23.- Los trabajadores, obreros, campesinos y empleados llamados al serv
 ARTICULO 24.- En el activo del Ejército se podrán admitir voluntarios hasta completar la cifra que anualmente fije la Secretaría de la Defensa Nacional, cuando se satisfagan los siguientes requisitos:
 I.- Hacer una solicitud.
 II.- Ser mexicano mayor de 18 y menor de 30 años de edad, y hasta los 40 años para el personal de especialistas del Ejército.
-Reforma DOF 18-05-2022: Derogó de la fracción el entonces párrafo segundo Fracción reformada DOF 18-08-1944 III.- Se deroga.
-Fracción derogada DOF 18-05-2022 IV.- Satisfacer los requisitos que determine el Reglamento de esta Ley.
+Reforma DOF 18-05-2022: Derogó de la fracción el entonces párrafo segundo
+Fracción reformada DOF 18-08-1944
+III.- Se deroga.
+Fracción derogada DOF 18-05-2022
+IV.- Satisfacer los requisitos que determine el Reglamento de esta Ley.
 ARTICULO 25.- Se deroga.
-Artículo derogado DOF 17-01-2022 ARTICULO 26.- Se podrá conceder el aplazamiento de la incorporación al activo: a).- A los estudiantes, por el tiempo que sea necesario de acuerdo con los planes de estudios que exijan las leyes de instrucción; pudiendo la Secretaría de la Defensa Nacional, aumentar ese plazo, cuando por causas de fuerza mayor justificadas, el estudiante no termine sus estudios en el plazo señalado; b).- A los residentes en el extranjero, hasta por 5 años; c).- A los que se encuentren procesados o compurgando condena en el año que cumplan los 18 años, y d).- A quienes sean sostén de familia durante los cinco años posteriores a la edad de enrolamiento, debiendo cumplir su servicio activo si dejan de serlo antes de ese lapso.
+Artículo derogado DOF 17-01-2022
+ARTICULO 26.- Se podrá conceder el aplazamiento de la incorporación al activo: a).- A los estudiantes, por el tiempo que sea necesario de acuerdo con los planes de estudios que exijan las leyes de instrucción; pudiendo la Secretaría de la Defensa Nacional, aumentar ese plazo, cuando por causas de fuerza mayor justificadas, el estudiante no termine sus estudios en el plazo señalado; b).- A los residentes en el extranjero, hasta por 5 años; c).- A los que se encuentren procesados o compurgando condena en el año que cumplan los 18 años, y d).- A quienes sean sostén de familia durante los cinco años posteriores a la edad de enrolamiento, debiendo cumplir su servicio activo si dejan de serlo antes de ese lapso.
 ARTICULO 27.- Los cuadros de oficiales del activo serán todos profesionales; los cuadros de sargentos estarán formados con profesionales que hayan obtenido esta jerarquía y soliciten reengancharse y de los conscriptos que sean promovidos, previa la satisfacción de los requisitos necesarios.
 ARTICULO 28.- Los oficiales de las reservas, procederán: a).- De los profesionales que obtengan por cualquier causa digna su separación del activo, hallándose aún dentro de la edad que para dichas reservas se establece. b).- De los conscriptos que por haber satisfecho los requisitos que establezca el Reglamento respectivo, obtengan la jerarquía de subteniente. c).- De los oficiales de las mismas reservas que sean promovidos.
 ARTICULO 29.- Los cabos y sargentos de las reservas, procederán: a).- De los del activo que se separen hallándose en la edad militar. b).- De los mismos reservistas que asciendan en las reservas, al satisfacer los requisitos que para ello se establezcan.
@@ -85,11 +94,13 @@ ARTICULO 57.- En todos los casos a que se refieren los artículos anteriores, el
 ARTICULO 58.- Todo individuo que no dé aviso de los cambios de domicilio a que se refiere esta Ley, será castigado con arresto de dos a quince días. En tiempo de guerra, la pena será de uno a seis meses de prisión sin perjuicio de que cumplan el servicio que les corresponda en uno y otro casos.
 ARTICULO 59.- Las empresas de transportes terrestres, marítimas y aéreas que expidan boletos o transporten mexicanos de edad militar al extranjero, sin que éstos hayan recabado la autorización correspondiente, incurrirán en una multa de $ 1,000.00 a $ 5,000.00, con excepción de las empresas que hagan el servicio de tránsito internacional entre dos poblaciones fronterizas.
 ARTICULO 60.- Se deroga.
-Artículo derogado DOF 30-04-2021 ARTICULO 61.- En tiempo de paz, los reservistas convocados para maniobras o ejercicios que no concurran el día fijado al lugar que se indique según órdenes que se les den por citas o por avisos, serán castigados con pena de uno a tres meses de retención en un cuerpo de tropas, haciendo allí su instrucción.
+Artículo derogado DOF 30-04-2021
+ARTICULO 61.- En tiempo de paz, los reservistas convocados para maniobras o ejercicios que no concurran el día fijado al lugar que se indique según órdenes que se les den por citas o por avisos, serán castigados con pena de uno a tres meses de retención en un cuerpo de tropas, haciendo allí su instrucción.
 ARTICULO 62.- Las penas de arresto, retención o prisión impuestas con arreglo a esta Ley, no serán conmutables, aun cuando proceda dicha conmutación de acuerdo con la legislación penal federal o local.
 ARTICULO 63.- En general, los juicios penales que conforme a lo prevenido en esta ley deban seguirse, serán de la competencia de los Tribunales Federales, siempre que se trate de delitos cometidos, por los individuos de edad militar, antes del sorteo, o por las personas civiles que intervengan en actos u omisiones relacionados con esta ley y su reglamento. Serán de la competencia de los Tribunales Militares, siempre que las faltas o delitos sean cometidos por conscriptos a partir del momento de la insaculación, en los términos del artículo 13 constitucional.
 Los militares que por su encargo o comisión intervengan en la insaculación, sorteo y reclutamiento de conscriptos, excluyen de la inscripción, del sorteo o a conseguir una excepción injustificada, aplacen su enlistamiento, los substituyan por personas distintas o que de cualquiera otra manera violen la presente ley y su reglamento, serán castigados como reos del delito de infracción de deberes militares previsto en el artículo 382 del Código de Justicia Militar.
-Artículo reformado DOF 25-10-1944 ARTICULO 64.- Toda persona que tenga conocimiento o noticia de cualquier modo de la comisión de actos u omisiones contrarios a las prescripciones de esta Ley, está obligada a ponerlo inmediatamente en conocimiento de las autoridades. La infracción a este precepto no será punible cuando los infractores sean abuelos, padres, hermanos, hijos o cónyuges. La pena por la contravención a que se refiere este artículo será hasta de 15 días de arresto.
+Artículo reformado DOF 25-10-1944
+ARTICULO 64.- Toda persona que tenga conocimiento o noticia de cualquier modo de la comisión de actos u omisiones contrarios a las prescripciones de esta Ley, está obligada a ponerlo inmediatamente en conocimiento de las autoridades. La infracción a este precepto no será punible cuando los infractores sean abuelos, padres, hermanos, hijos o cónyuges. La pena por la contravención a que se refiere este artículo será hasta de 15 días de arresto.
 
 ## TRANSITORIOS
 
@@ -107,7 +118,7 @@ ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que pone en vigor la Ley 
 Publicado en el Diario Oficial de la Federación el 31 de agosto de 1942 D E C R E T O :
 ARTICULO 1º.- Se pone en vigor, en su totalidad, la   de diecinueve de agosto de mil novecientos cuarenta.
 ARTICULO 2º.- Se convoca a los mexicanos en edad militar a inscribirse en la forma fijada en el
-**artículo quinto.** transitorio de la misma ley.
+**artículo quinto.-** transitorio de la misma ley.
 ARTICULO 3º.- Mientras se expide el Reglamento de la Ley que se menciona, la Secretaría de la Defensa Nacional dictará las disposiciones que sean necesarias para el cumplimiento de la misma, según los términos del artículo tercero transitorio de ella y lo mandado en el presente decreto.
 
 ## TRANSITORIOS
@@ -168,8 +179,8 @@ Se deroga el artículo 60 de la Ley del Servicio Militar, para quedar como sigue
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal tendrá 90 días naturales posteriores a la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento de la Ley del Servicio Militar.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal tendrá 90 días naturales posteriores a la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento de la Ley del Servicio Militar.
 Ciudad de México, a 8 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Mónica Bautista Rodríguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

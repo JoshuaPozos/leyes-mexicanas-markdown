@@ -16,7 +16,9 @@ Ley General para la Inclusión de las Personas con Discapacidad
 
 ## Título Primero
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 1
 . Las disposiciones de la presente Ley son de orden público, de interés social y de observancia general en los Estados Unidos Mexicanos.
@@ -73,7 +75,8 @@ XVIII. Estenografía Proyectada. Es el oficio y la técnica de transcribir un mo
 Fracción recorrida DOF 22-06-2018
 
 XIX. Estimulación Temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
-Fracción recorrida DOF 22-06-2018 XIX Bis. Formato de Lectura Fácil: Texto complementario al principal redactado en un lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
+Fracción recorrida DOF 22-06-2018
+XIX Bis. Formato de Lectura Fácil: Texto complementario al principal redactado en un lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
 Fracción adicionada DOF 06-01-2023
 
 XX. Igualdad de Oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
@@ -89,7 +92,8 @@ XXIII. Ley. Ley General para la Inclusión de las Personas con Discapacidad;
 Fracción recorrida DOF 22-06-2018
 
 XXIV. Organizaciones. Todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
-Fracción recorrida DOF 22-06-2018 XXV (sic DOF 12-07-2018). Registro Nacional de Población con Discapacidad. Porción del Registro Nacional de Población que solicitó y obtuvo la Certificación del Estado con Reconocimiento Nacional que refiere el artículo 10 de la Ley;
+Fracción recorrida DOF 22-06-2018
+XXV (sic DOF 12-07-2018). Registro Nacional de Población con Discapacidad. Porción del Registro Nacional de Población que solicitó y obtuvo la Certificación del Estado con Reconocimiento Nacional que refiere el artículo 10 de la Ley;
 Fracción adicionada DOF 12-07-2018
 
 XXVI. Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
@@ -113,7 +117,8 @@ Fracción recorrida DOF 22-06-2018, 12-07-2018
 XXXII. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
 Fracción recorrida DOF 22-06-2018, 12-07-2018
 
-XXXIII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y Fracción recorrida DOF 22-06-2018, 12-07-2018
+XXXIII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+Fracción recorrida DOF 22-06-2018, 12-07-2018
 
 XXXIV. Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 Fracción recorrida DOF 22-06-2018, 12-07-2018
@@ -123,7 +128,8 @@ Fracción recorrida DOF 22-06-2018, 12-07-2018
 
 ### Artículo 4
 . Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
-Párrafo reformado DOF 12-07-2018 Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+Párrafo reformado DOF 12-07-2018
+Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
 Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural.
 Para efectos del párrafo anterior, la Administración Pública, de conformidad con su ámbito de competencia, impulsará el derecho a la igualdad de oportunidades de las personas con discapacidad, el pleno desarrollo, adelanto y empoderamiento de las mujeres, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la inclusión social de las personas con discapacidad. Será prioridad de la Administración Pública adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, no pueden representarse a sí mismas.
 Párrafo reformado DOF 29-04-2022
@@ -185,9 +191,11 @@ XII. Impulsar la participación solidaria de la sociedad y la familia en la pres
 XIII. Las demás que otros ordenamientos le confieran.
 
 ## Título Segundo
+
 Derechos de las Personas con Discapacidad
 
 ## Capítulo I
+
 Salud y Asistencia Social
 
 ### Artículo 7
@@ -239,6 +247,7 @@ V. Los demás que tengan por objeto garantizar la prestación de servicios de as
 El Sector Salud expedirá a las personas con discapacidad un certificado de reconocimiento y calificación de discapacidad con validez nacional.
 
 ## Capítulo II
+
 Trabajo y Empleo
 
 ### Artículo 11
@@ -266,6 +275,7 @@ VII. Promover medidas a efecto de que las obligaciones laborables no interrumpan
 VIII. Las demás que dispongan otros ordenamientos.
 
 ## Capítulo III
+
 Educación
 
 ### Artículo 12
@@ -309,6 +319,7 @@ XIV. Las demás que dispongan otros ordenamientos.
 . La educación especial tendrá por objeto, además de lo establecido en la Ley General de Educación, la formación de la vida independiente y la atención de necesidades educativas especiales que comprende entre otras, dificultades severas de aprendizaje, comportamiento, emocionales, discapacidad múltiple o severa y aptitudes sobresalientes, que le permita a las personas tener un desempeño académico equitativo, evitando así la desatención, deserción, rezago o discriminación.
 
 ## Capítulo IV
+
 Accesibilidad y Vivienda
 
 ### Artículo 16
@@ -337,6 +348,7 @@ III. Que la adecuación de las instalaciones públicas sea progresiva.
 Artículo reformado DOF 14-06-2024
 
 ## Capítulo V
+
 Transporte Público y Comunicaciones
 
 ### Artículo 19
@@ -356,6 +368,7 @@ V. Promover convenios con los concesionarios del transporte público a fin de qu
 . Los medios de comunicación implementarán el uso de tecnología y, en su caso, de intérpretes de la Lengua de Señas Mexicana, que permitan a la comunidad de sordos las facilidades de comunicación y el acceso al contenido de su programación.
 
 ## Capítulo VI
+
 Desarrollo Social
 
 ### Artículo 21
@@ -371,6 +384,7 @@ III. Promover la apertura de establecimientos especializados para la asistencia,
 IV. Todas las demás que tengan como objeto mejorar las condiciones sociales y permita potenciar las capacidades de las personas con discapacidad.
 
 ## Capítulo VII
+
 Recopilación de datos y Estadística
 
 ### Artículo 22
@@ -383,6 +397,7 @@ La información estadística del Registro Nacional de Población con Discapacida
 Artículo reformado DOF 12-07-2018
 
 ## Capítulo VIII
+
 Deporte, Recreación, Cultura y Turismo
 
 ### Artículo 24
@@ -436,6 +451,7 @@ II. Establecer programas para la promoción turística de las personas con disca
 III. Las demás que dispongan otros ordenamientos.
 
 ## Capítulo IX
+
 Acceso a la Justicia
 
 ### Artículo 28
@@ -452,6 +468,7 @@ Artículo reformado DOF 06-01-2023
 . El Poder Ejecutivo Federal y los Gobiernos de las Entidades Federativas, en coordinación con el Consejo, promoverán que las instancias de administración e impartición de justicia, cuenten con la disponibilidad de los recursos para la comunicación, ayudas técnicas y humanas necesarias para la atención de las personas con discapacidad en sus respectivas jurisdicciones.
 
 ## Capítulo X
+
 Libertad de Expresión, Opinión y Acceso a la Información
 
 ### Artículo 32
@@ -468,6 +485,7 @@ III. Las instituciones a cargo de servicios y programas sociales en materia de d
 IV. Los medios de comunicación y las instituciones del sector privado que prestan servicios y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad.
 
 ## Capítulo XI
+
 Lineamientos del Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad
 
 ### Artículo 33
@@ -487,6 +505,7 @@ IV. Cumplir con la normatividad vigente para la elaboración de programas, super
 V. Incluir lineamientos e indicadores de las políticas públicas, estadística, presupuestos, impacto social y todos aquellos que se estimen necesarios para una correcta y eficiente aplicación.
 
 ## Capítulo XII
+
 Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad
 
 ### Artículo 35
@@ -513,9 +532,11 @@ VI. Promover que en las políticas, programas o acciones, se impulse la toma de 
 VII. Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley.
 
 ## Título Tercero
+
 Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad
 
 ## Capítulo I
+
 Denominación, objeto, domicilio y patrimonio
 
 ### Artículo 38
@@ -539,6 +560,7 @@ III. Los bienes que adquiera por cualquier otro título lícito, y
 IV. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales.
 
 ## Capítulo II
+
 Atribuciones
 
 ### Artículo 42
@@ -577,6 +599,7 @@ XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de
 XVII. Las demás que se establezcan en esta Ley, su Reglamento, Estatuto Orgánico del Consejo y demás disposiciones aplicables.
 
 ## Capítulo III
+
 Órganos de Administración
 
 ### Artículo 43
@@ -588,7 +611,8 @@ II. El Director General.
 
 ### Artículo 44
 . La Junta de Gobierno del Consejo estará integrada por once representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
-Párrafo reformado DOF 17-12-2015, 14-06-2024 Los representantes del Poder Ejecutivo Federal serán los titulares de las siguientes dependencias y entidades:
+Párrafo reformado DOF 17-12-2015, 14-06-2024
+Los representantes del Poder Ejecutivo Federal serán los titulares de las siguientes dependencias y entidades:
 
 I. Secretaría de Salud;
 
@@ -609,10 +633,12 @@ VII. Sistema Nacional para el Desarrollo Integral de la Familia;
 VIII. Consejo Nacional para Prevenir la Discriminación;
 Fracción reformada DOF 14-06-2024
 
-IX. Comisión Nacional de Cultura Física y Deporte, y Fracción reformada DOF 14-06-2024
+IX. Comisión Nacional de Cultura Física y Deporte, y
+Fracción reformada DOF 14-06-2024
 
 X. Comisión Nacional de Vivienda.
-Fracción adicionada DOF 14-06-2024 Los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico.
+Fracción adicionada DOF 14-06-2024
+Los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico.
 El Director General del Consejo participará con voz pero sin derecho a voto.
 Asimismo, serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, un representante de cada uno de los siguientes órganos públicos: Secretaría de Turismo, Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación e Instituto Nacional de Estadística y Geografía.
 
@@ -679,6 +705,7 @@ X. Proponer a la Junta de Gobierno el tabulador salarial del Consejo, y
 XI. Las demás que le confieran éste u otros ordenamientos.
 
 ## Capítulo IV
+
 Asamblea Consultiva
 
 ### Artículo 51
@@ -733,6 +760,7 @@ La Asamblea será presidida por un representante electo de entre sus miembros.
 . La Asamblea Consultiva podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Federal, de los Gobiernos Estatales y Municipales, de organizaciones civiles y de particulares.
 
 ## Capítulo V
+
 Órganos de Vigilancia
 
 ### Artículo 57
@@ -742,6 +770,7 @@ La Asamblea será presidida por un representante electo de entre sus miembros.
 . Corresponderá a la Secretaría de la Función Pública el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación. El órgano de vigilancia del Consejo estará integrado por un Comisario Público propietario y un suplente, designado por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
 
 ## Capítulo VI
+
 Régimen de Trabajo
 
 ### Artículo 59
@@ -749,7 +778,9 @@ Régimen de Trabajo
 
 ## Título Cuarto
 
+
 ## Capítulo I
+
 Responsabilidades y Sanciones
 
 ### Artículo 60
@@ -757,14 +788,14 @@ Responsabilidades y Sanciones
 
 ## Transitorios
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley General de las Personas con Discapacidad publicada en el Diario Oficial de la Federación el 10 de junio de 2005 y se derogan todas aquellas disposiciones que se opongan al presente decreto.
-**Tercero.** El Titular del Ejecutivo Federal convocará e instalará el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad dentro de los treinta días siguientes al inicio de la vigencia de la presente Ley.
-**Cuarto.** El Poder Ejecutivo Federal expedirá el Reglamento de esta Ley en un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley.
-**Quinto.** Los recursos financieros, materiales y humanos para el establecimiento y funcionamiento del organismo que se crea en el presente decreto, serán aquellos con los que cuenta actualmente el Secretariado Técnico del Consejo Nacional para las Personas con Discapacidad.
-**Sexto.** Con el objeto de instalar el Consejo, la Junta de Gobierno y la Asamblea Consultiva, las personas con discapacidad a que se refiere la fracción I del artículo 53 serán designados por los Titulares del Poder Ejecutivo de las Entidades Federativas por única vez y durarán en su encargo hasta seis meses.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley General de las Personas con Discapacidad publicada en el Diario Oficial de la Federación el 10 de junio de 2005 y se derogan todas aquellas disposiciones que se opongan al presente decreto.
+**Tercero.-** El Titular del Ejecutivo Federal convocará e instalará el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad dentro de los treinta días siguientes al inicio de la vigencia de la presente Ley.
+**Cuarto.-** El Poder Ejecutivo Federal expedirá el Reglamento de esta Ley en un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley.
+**Quinto.-** Los recursos financieros, materiales y humanos para el establecimiento y funcionamiento del organismo que se crea en el presente decreto, serán aquellos con los que cuenta actualmente el Secretariado Técnico del Consejo Nacional para las Personas con Discapacidad.
+**Sexto.-** Con el objeto de instalar el Consejo, la Junta de Gobierno y la Asamblea Consultiva, las personas con discapacidad a que se refiere la fracción I del artículo 53 serán designados por los Titulares del Poder Ejecutivo de las Entidades Federativas por única vez y durarán en su encargo hasta seis meses.
 Los representantes a que se refieren las fracciones II y III del artículo 53 de la presente Ley, serán propuestos por el Director General por única vez y durarán en su encargo hasta seis meses.
-**Séptimo.** Todos los entes competentes deberán desarrollar las políticas públicas y acciones señaladas en la presente Ley, adoptando medidas hasta el máximo de sus recursos disponibles para lograr, de manera progresiva, el pleno ejercicio de estos derechos en congruencia con la Convención.
+**Séptimo.-** Todos los entes competentes deberán desarrollar las políticas públicas y acciones señaladas en la presente Ley, adoptando medidas hasta el máximo de sus recursos disponibles para lograr, de manera progresiva, el pleno ejercicio de estos derechos en congruencia con la Convención.
 México, D.F., a 3 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
@@ -774,19 +805,19 @@ Se REFORMAN los artículos 25, párrafo primero; 26, párrafo primero, y 44, pá
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Seguros y de Fianzas y la Ley General para la Inclusión de las Personas con Discapacidad.
@@ -824,7 +855,7 @@ Se reforma el párrafo primero del artículo 4 de la Ley General para la Inclusi
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma el párrafo cuarto del artículo 4 de la Ley General para la Inclusión de las Personas con Discapacidad.
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2022
@@ -845,7 +876,7 @@ Se reforma el primer párrafo y las fracciones I, II, III y IV del artículo 11 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de septiembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Dip.
 Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de octubre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 2, 29 y 32 de la Ley General para la Inclusión de las Personas con Discapacidad.
@@ -878,7 +909,7 @@ Se reforma la fracción II del artículo 7 y la fracción II del artículo 21 de
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 14 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Vivienda, de la Ley de los Derechos de las Personas Adultas Mayores y de la Ley General para la Inclusión de las Personas con Discapacidad.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2024

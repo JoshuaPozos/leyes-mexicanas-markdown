@@ -20,7 +20,8 @@ LEY ORGANICA DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS CAPITULO PRIMERO D
 
 ### Artículo 3o
 .- El Banco Nacional de Obras y Servicios Públicos, como institución de banca de desarrollo, tendrá por objeto financiar o refinanciar proyectos relacionados directa o indirectamente con inversión pública o privada en infraestructura y servicios públicos, así como con las mismas operaciones coadyuvar al fortalecimiento institucional de los gobiernos Federal, estatales y municipales, con el propósito de contribuir al desarrollo sustentable del país.
-Párrafo reformado DOF 10-01-2014 La operación y funcionamiento de la Institución, se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios, buscando alcanzar dentro de los sectores encomendados al prestar el servicio público de banca y crédito, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
+Párrafo reformado DOF 10-01-2014
+La operación y funcionamiento de la Institución, se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios, buscando alcanzar dentro de los sectores encomendados al prestar el servicio público de banca y crédito, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 Artículo reformado DOF 24-06-2002
 
 ### Artículo 4o
@@ -40,7 +41,8 @@ II. Promover y financiar la dotación de infraestructura, servicios públicos, e
 Fracción reformada DOF 24-06-2002
 
 III. Financiar y proporcionar asistencia técnica a los municipios para la formulación, administración y ejecución de sus planes de desarrollo urbano y para la creación y administración de reservas territoriales y ecológicas, así como estructurar y coordinar proyectos de inversión;
-Fracción reformada DOF 24-06-2002 III Bis. Promover programas de financiamiento para ampliar la cobertura de los servicios públicos y generar la infraestructura productiva necesaria para impulsar el desarrollo regional de las zonas indígenas y afromexicanas;
+Fracción reformada DOF 24-06-2002
+III Bis. Promover programas de financiamiento para ampliar la cobertura de los servicios públicos y generar la infraestructura productiva necesaria para impulsar el desarrollo regional de las zonas indígenas y afromexicanas;
 Fracción adicionada DOF 01-08-2005. Reformada DOF 01-04-2024
 
 IV. Otorgar asistencia técnica y financiera para la mejor utilización de los recursos crediticios y el desarrollo de las administraciones locales, financiar proyectos de infraestructura y servicios públicos. La Sociedad no podrá administrar obras y servicios públicos realizados con sus financiamientos;
@@ -78,10 +80,12 @@ IX. Podrá actuar a solicitud de los gobiernos del Distrito Federal, de los Esta
 Fracción reformada DOF 24-06-2002
 
 X. Participar temporalmente en el capital social de empresas vinculadas con el objeto a que se refiere el artículo 3o. de esta Ley, de acuerdo con los parámetros establecidos en el reglamento orgánico de la Sociedad;
-Fracción reformada DOF 24-06-2002 X Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
+Fracción reformada DOF 24-06-2002
+X Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 Fracción adicionada DOF 10-01-2014
 
-XI. Garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito, y Fracción adicionada DOF 24-06-2002
+XI. Garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito, y
+Fracción adicionada DOF 24-06-2002
 
 XII. Las demás actividades análogas y conexas a sus objetivos en los términos que al efecto le señale la Secretaría de Hacienda y Crédito Público, incluyendo las de agente financiero del Gobierno Federal, en los términos de las disposiciones legales aplicables.
 Fracción adicionada DOF 24-06-2002
@@ -136,22 +140,27 @@ Párrafo reformado DOF 24-06-2002
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo.
 
 b) Los titulares de las Secretarías de Desarrollo Social; de Turismo; de Comunicaciones y Transportes; el Subsecretario de Hacienda y Crédito Público; el Subsecretario de Egresos, y un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central.
-Párrafo reformado DOF 10-01-2014 Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inferior inmediato siguiente.
+Párrafo reformado DOF 10-01-2014
+Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inferior inmediato siguiente.
 En las ausencias del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
-Párrafo reformado DOF 10-01-2014 Inciso reformado DOF 24-06-2002
+Párrafo reformado DOF 10-01-2014
+Inciso reformado DOF 24-06-2002
 
 II. Cinco consejeros de serie “B” de certificados de aportación patrimonial, representados por tres Gobernadores o dos de éstos y el Jefe de Gobierno del Distrito Federal y dos Presidentes Municipales, que serán designados de entre los Gobiernos de los Estados y Municipios.
 Fracción reformada DOF 24-06-2002, 10-01-2014
 
 III. Dos consejeros externos de la serie "B" designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrán el carácter de consejeros independientes.
 El nombramiento de consejeros independientes deberá recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
-Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008 El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
-Párrafo adicionado DOF 24-06-2002 En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
+Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
+Párrafo adicionado DOF 24-06-2002
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
 Párrafo adicionado DOF 24-06-2002
 
 ### Artículo 18
 .- El Consejo Directivo se reunirá por lo menos trimestralmente y sesionará válidamente con la asistencia de seis o más consejeros, siempre y cuando entre ellos se encuentre un mínimo de cuatro de los nombrados por la serie "A".
-Párrafo reformado DOF 10-01-2014 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
+Párrafo reformado DOF 10-01-2014
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 El consejero independiente no tendrá suplente y deberá asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrá ser designado otro con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
 Párrafo adicionado DOF 24-06-2002
 
@@ -173,7 +182,8 @@ b) Nexo patrimonial importante y/o vínculo laboral con persona física o moral 
 c) Conflicto de intereses con la Sociedad, por ser clientes, proveedores, deudores, acreedores, importantes o de cualquier otra naturaleza, y
 
 d) La representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o sectores de atención que se relacionen con el objeto de la Sociedad o sean miembros de sus órganos directivos.
-Fracción adicionada DOF 24-06-2002 Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
+Fracción adicionada DOF 24-06-2002
+Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
 Párrafo adicionado DOF 24-06-2002
 
 ### Artículo 20
@@ -187,7 +197,8 @@ I. Aprobar el informe Anual de Actividades que le presente el Director General; 
 
 II. Aprobar los demás programas específicos y reglamentos internos de la Sociedad, que le presente el Director General, a efecto de someterlos a la autorización de la Secretaría de Hacienda y Crédito Público.
 
-III. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría de Hacienda y Crédito Público, y Fracción adicionada DOF 24-06-2002
+III. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría de Hacienda y Crédito Público, y
+Fracción adicionada DOF 24-06-2002
 
 IV. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional, de conformidad con lo previsto en el artículo 42, fracción XVIII de la Ley de Instituciones de Crédito, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
 Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014
@@ -199,7 +210,8 @@ Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014
 .- El Director General tendrá a su cargo la administración y la representación legal del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, institución de banca de desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo, al efecto tendrá las siguientes facultades y funciones:
 
 I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
-Fracción reformada DOF 24-06-2002 I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
+Fracción reformada DOF 24-06-2002
+I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
 Fracción adicionada DOF 10-01-2014
 
 II. Ejecutar las resoluciones del Consejo Directivo;
@@ -215,7 +227,8 @@ VI. Las que le delegue el Consejo Directivo.
 VII. Decidir la designación y contratación de los servidores públicos de la Sociedad, distintos de los señalados en el artículo 42 de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución;
 Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014
 
-VIII. Autorizar la publicación de los balances mensuales de la institución, conforme a las bases acordadas por el Consejo Directivo, y Fracción adicionada DOF 24-06-2002
+VIII. Autorizar la publicación de los balances mensuales de la institución, conforme a las bases acordadas por el Consejo Directivo, y
+Fracción adicionada DOF 24-06-2002
 
 IX. Participar en las sesiones del Consejo Directivo con voz, pero sin voto.
 Fracción adicionada DOF 24-06-2002
@@ -238,7 +251,8 @@ Además de las causas de remoción señaladas en este precepto, a los consejeros
 Artículo adicionado DOF 24-06-2002
 
 ### Artículo 25
-.- (Derogado) Artículo derogado DOF 24-06-2002
+.- (Derogado)
+Artículo derogado DOF 24-06-2002
 
 ### Artículo 26
 .- Los consejeros, el Director General, directores, subdirectores, gerentes y los delegados fiduciarios de la Sociedad, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
@@ -438,7 +452,7 @@ III. Las sociedades financieras de objeto limitado deberán presentar la informa
 
 ### ARTÍCULO OCTAVO
 A la entrada en vigor del presente Decreto, la Comisión Nacional Bancaria y de Valores, en los términos del artículo 45-I de la Ley de Instituciones de Crédito previstos en el artículo
-**primero.** de este mismo Decreto, podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales a que dicho artículo se refiere, la adquisición de acciones representativas del capital social de una o más sociedades financieras de objeto limitado, siempre y cuando se cumplan los requisitos señalados en la fracción I de dicho artículo 45-I y se modifiquen los estatutos sociales de aquella sociedad cuyas acciones sean objeto de enajenación, en caso que ésta se pretenda convertir en Filial, a efecto de cumplir con lo dispuesto en el Capítulo III del Título Segundo de dicha Ley.
+**primero.-** de este mismo Decreto, podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales a que dicho artículo se refiere, la adquisición de acciones representativas del capital social de una o más sociedades financieras de objeto limitado, siempre y cuando se cumplan los requisitos señalados en la fracción I de dicho artículo 45-I y se modifiquen los estatutos sociales de aquella sociedad cuyas acciones sean objeto de enajenación, en caso que ésta se pretenda convertir en Filial, a efecto de cumplir con lo dispuesto en el Capítulo III del Título Segundo de dicha Ley.
 La vigencia de lo dispuesto en el párrafo anterior concluirá cuando entren en vigor las disposiciones a que se refiere el artículo quinto transitorio del "Decreto por el que se reforman, derogan y adicionan Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley publicado en el Diario Oficial de la Federación el 18 de julio de 2006.
 
 ### ARTÍCULO NOVENO
@@ -492,8 +506,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
@@ -503,11 +517,9 @@ Se REFORMAN los artículos 3, primer párrafo; 7, fracciones I y VI; 9; 17, frac
 
 ### ARTÍCULO VIGÉSIMO PRIMERO
 En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo
-**Séptimo.** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
-
+**Séptimo.-** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
 I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo
-**segundo.** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
-
+**segundo.-** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
 II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
 
 III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
@@ -520,7 +532,7 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024

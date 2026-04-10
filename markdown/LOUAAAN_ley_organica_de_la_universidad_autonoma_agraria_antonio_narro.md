@@ -14,6 +14,7 @@ SE EXPIDE LA  .
 : Se expide la Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro. .
 
 ## Capítulo I — De la Naturaleza y los Objetivos.
+
 ARTÍCULO 1. Se crea la Universidad Autónoma Agraria Antonio Narro, como un organismo público descentralizado, con personalidad jurídica propia, patrimonio propio y dotado de Autonomía en los términos de la Fracción VII del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, con todas las facultades que en el mismo se establecen.
 ARTÍCULO 2. La sede de la Universidad Autónoma Agraria Antonio Narro será la localidad de Buenavista, municipio de Saltillo de Zaragoza, Estado de Coahuila.
 Podrá establecer unidades de investigación, de servicios o de postgrado en cualquier lugar de la república, mediante convenio con instituciones de educación superior o de investigación científica de otras entidades, avalados por las correspondientes autoridades educativas.
@@ -26,6 +27,7 @@ II. Realizar investigación en las áreas de su competencia, cuyos resultados fa
 III. Preservar, promover, investigar y acrecentar la cultura, la ciencia y la tecnología en general, y en forma particular, las que se relacionan directamente con su naturaleza y misión de servicio, dentro de un proceso de intercambio sistemático con la sociedad, para contribuir al desarrollo sustentable.
 
 ## Capítulo II — De su Patrimonio.
+
 ARTÍCULO 4. El patrimonio de la Universidad estará constituido por:
 
 I. Todos los bienes que, al momento de su creación, sean propiedad de la Universidad Autónoma Agraria Antonio Narro creada por el Congreso del Estado de Coahuila, en Decreto de 4 de Abril de 1989, como su patrimonio en los términos de la Ley Orgánica, así como los bienes que haya adquirido con posterioridad;
@@ -42,6 +44,7 @@ VI. Los bienes muebles e inmuebles, los derechos reales y personales y todos los
 ARTÍCULO 5. Todos los bienes muebles e inmuebles que constituyen el patrimonio de la Universidad tendrán el carácter de inalienables e imprescriptibles, y no se podrá constituir sobre los mismos ningún gravamen, mientras no se desafecten del servicio a que están destinados, previo acuerdo del H. Consejo Universitario, excepción hecha de los recursos a que se refiere la fracción V del artículo anterior. En caso de ser desafectados se aplicarán a dichos bienes las disposiciones del derecho común.
 
 ## Capítulo III — De sus Atribuciones.
+
 ARTÍCULO 6. La Universidad, para el logro de sus objetivos, tendrá las siguientes atribuciones:
 
 I. Establecer, organizar y modificar su gobierno, estructura, funciones y dependencias en la forma que esta Ley Orgánica, el Estatuto y los reglamentos lo determinen;
@@ -73,6 +76,7 @@ XIII. Establecer, en los términos que señale la Ley Orgánica, el Estatuto y l
 XIV. Preservar y desarrollar todos los servicios que se prestan a la Comunidad Universitaria de acuerdo a su capacidad y a sus necesidades.
 
 ## Capítulo IV — De la Comunidad Universitaria y de sus Autoridades.
+
 ARTÍCULO 7. La Comunidad Universitaria estará constituida por sus autoridades, profesoresinvestigadores y alumnos, en los términos que especifiquen el Estatuto y los reglamentos internos.
 ARTÍCULO 8. Son autoridades de la Universidad:
 
@@ -88,6 +92,7 @@ V. Las demás que contemple el Estatuto Universitario.
 ARTÍCULO 9. Las autoridades universitarias serán electas por la Comunidad o designadas por el órgano o autoridad que corresponda, cada una de acuerdo a los términos y modalidades establecidos por esta Ley Orgánica, el Estatuto Universitario y sus Reglamentos.
 
 ## Capítulo V — Del H. Consejo Universitario y sus Comisiones.
+
 ARTÍCULO 10. El H. Consejo Universitario será la máxima autoridad de la Universidad y estará integrado paritariamente por profesores-investigadores y alumnos, electos de conformidad con el Estatuto y los reglamentos respectivos. El cargo de Consejero Universitario será honorario.
 ARTÍCULO 11. El Consejo sesionará de manera ordinaria dos veces por año en al menos cuatro sesiones, y de manera extraordinaria cada vez que sea convocado, en los términos de la normatividad vigente.
 El Consejo trabajará en sesiones plenarias y en comisiones temáticas.
@@ -134,6 +139,7 @@ ARTÍCULO 13. Para la validez de los acuerdos en los asuntos a que se refieren l
 Para la validez de los acuerdos relacionados con las fracciones I, II, IV, VI, VIII, X y XIV en el caso de remoción del artículo 12, se requerirá sin excepción, el voto aprobatorio de no menos de dos terceras partes de los miembros del H. Consejo Universitario.
 
 ## Capítulo VI — Del Consejo Directivo.
+
 ARTÍCULO 14. El Consejo Directivo se integrará y funcionará de acuerdo a lo que determine esta Ley Orgánica, el Estatuto y el reglamento correspondientes.
 ARTÍCULO 15. Corresponde al Consejo Directivo, según lo que establezca el Estatuto y los reglamentos respectivos:
 
@@ -148,6 +154,7 @@ IV. Colaborar en la gestión de los recursos para el cumplimiento de los fines d
 V. Las demás que le asigne el Estatuto.
 
 ## Capítulo VII — Del Rector.
+
 ARTÍCULO 16. El Rector será la máxima autoridad ejecutora de la Universidad.
 ARTÍCULO 17. El Rector, será el representante legal de la Universidad, durará en su encargo cuatro años y no podrá ser reelecto. En los casos de ausencia temporal, será substituido en la forma y términos que establezca el Estatuto y los reglamentos.
 ARTÍCULO 18. Para ser Rector se requiere:
@@ -197,6 +204,7 @@ XI. Celebrar todo tipo de convenios para el cumplimiento de los fines de la Univ
 XII. Las demás que señale este ordenamiento, así como las normas y disposiciones reglamentarias de la Universidad.
 
 ## Capítulo VIII — Del Patronato.
+
 ARTÍCULO 21. El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario, un Tesorero y tres vocales.
 Los miembros del Patronato serán mexicanos y de reconocida solvencia moral. Durarán en su cargo ocho años y podrán ser reelectos. El cargo de miembro del Patronato será honorario.
 ARTÍCULO 22. Corresponde al Patronato:
@@ -211,6 +219,7 @@ IV. Acrecentar el patrimonio de la Universidad.
 Ejercer las demás atribuciones que le confieran este ordenamiento y las normas y disposiciones reglamentarias de la Universidad.
 
 ## Capítulo IX — Disposiciones Generales.
+
 ARTÍCULO 23. Para la elección de los titulares de las unidades regionales se seguirá el mismo procedimiento que para Rector, aunque sólo votará la Comunidad Universitaria de la unidad correspondiente.
 ARTÍCULO 24. Para que un trabajador académico sea considerado sujeto de una relación laboral, deberá someterse a los procedimientos de selección que determine el Estatuto y reglamentos y disposiciones legales.
 ARTÍCULO 25. Los sindicatos o asociaciones de personal académico, personal administrativo y alumnos serán independientes de los órganos de gobierno de la Universidad y se organizarán en la forma en que los propios interesados determinen.
@@ -218,8 +227,8 @@ ARTÍCULO 26. Las disposiciones y reglamentos que emanen de las autoridades a qu
 
 ## Transitorios
 
-**PRIMERO.** El presente Decreto se publicará en el Diario Oficial de la Federación y entrará en vigor al día siguiente a aquél en que el H. Congreso del Estado apruebe y el Titular del Ejecutivo Estatal publique en el Periódico Oficial del Estado de Coahuila de Zaragoza la Abrogación de la Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989, y la desincorporación de todos los bienes muebles e inmuebles que conforman el patrimonio de la Universidad.
-**SEGUNDO.** El H. Consejo Universitario deberá elaborar y aprobar las reformas necesarias al Estatuto y los reglamentos que procedan, para hacerlos congruentes con esta Ley Orgánica, dentro de un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor de la presente Ley Orgánica.
-**TERCERO.** Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley Orgánica emitida por el H. Congreso de Coahuila del 4 de abril de 1989.
-**CUARTO.** Las autoridades en función, al momento de entrar en vigor esta Ley Orgánica, permanecerán en su cargo hasta concluir el periodo para el cual fueron electas o designadas conforme a la Ley Orgánica anterior. Concluido dicho término, las nuevas autoridades se designarán o elegirán conforme a la Ley Orgánica en vigor, y al estatuto y los reglamentos que de ella emanen.
+**PRIMERO.-** El presente Decreto se publicará en el Diario Oficial de la Federación y entrará en vigor al día siguiente a aquél en que el H. Congreso del Estado apruebe y el Titular del Ejecutivo Estatal publique en el Periódico Oficial del Estado de Coahuila de Zaragoza la Abrogación de la Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989, y la desincorporación de todos los bienes muebles e inmuebles que conforman el patrimonio de la Universidad.
+**SEGUNDO.-** El H. Consejo Universitario deberá elaborar y aprobar las reformas necesarias al Estatuto y los reglamentos que procedan, para hacerlos congruentes con esta Ley Orgánica, dentro de un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor de la presente Ley Orgánica.
+**TERCERO.-** Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley Orgánica emitida por el H. Congreso de Coahuila del 4 de abril de 1989.
+**CUARTO.-** Las autoridades en función, al momento de entrar en vigor esta Ley Orgánica, permanecerán en su cargo hasta concluir el periodo para el cual fueron electas o designadas conforme a la Ley Orgánica anterior. Concluido dicho término, las nuevas autoridades se designarán o elegirán conforme a la Ley Orgánica en vigor, y al estatuto y los reglamentos que de ella emanen.
 México, D.F., a 7 de marzo de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de abril de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.

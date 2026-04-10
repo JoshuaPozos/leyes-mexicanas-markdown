@@ -11,9 +11,11 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . Se crea el Instituto Mexicano de la Juventud como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio, autonomía técnica, operativa y de gestión y con domicilio en la Ciudad de México.
-Párrafo reformado DOF 23-03-2022 Cuando la presente Ley se refiera al Instituto, se entenderá por éste al Instituto Mexicano de la Juventud.
+Párrafo reformado DOF 23-03-2022
+Cuando la presente Ley se refiera al Instituto, se entenderá por éste al Instituto Mexicano de la Juventud.
 Artículo reformado DOF 02-04-2015
 
 ### Artículo 2
@@ -38,10 +40,12 @@ Fracción recorrida DOF 05-08-2011
 V. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las autoridades estatales, municipales, y de los sectores social y privado cuando así lo requieran;
 Fracción recorrida DOF 05-08-2011
 
-VI. Promover coordinadamente con las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, económicas, culturales y derechos, y Fracción reformada y recorrida DOF 05-08-2011
+VI. Promover coordinadamente con las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, económicas, culturales y derechos, y
+Fracción reformada y recorrida DOF 05-08-2011
 
 VII. Fungir como representante del Gobierno Federal en materia de juventud, ante los Gobiernos estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
-Fracción recorrida DOF 05-08-2011 Artículo reformado DOF 20-03-2006, 22-06-2006
+Fracción recorrida DOF 05-08-2011
+Artículo reformado DOF 20-03-2006, 22-06-2006
 
 ### Artículo 3
 Bis. El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá trabajar en colaboración con la Secretaría de Bienestar, conforme los siguientes lineamientos:
@@ -110,10 +114,12 @@ Fracción reformada y recorrida DOF 05-08-2011
 XIV. Proponer a la Secretaría de Educación Pública la operación de programas especiales de becas para fortalecer la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior de las y los estudiantes pertenecientes a pueblos y comunidades indígenas y afromexicanas;
 Fracción reformada y recorrida DOF 05-08-2011. Reformada DOF 01-04-2024
 
-XV. Difundir en las dependencias y entidades de la Administración Pública Federal, así como en los gobiernos de los estados y municipios, la información y los compromisos asumidos por el Estado Mexicano en los Tratados Internacionales en materia de juventud, y Fracción adicionada DOF 05-08-2011
+XV. Difundir en las dependencias y entidades de la Administración Pública Federal, así como en los gobiernos de los estados y municipios, la información y los compromisos asumidos por el Estado Mexicano en los Tratados Internacionales en materia de juventud, y
+Fracción adicionada DOF 05-08-2011
 
 XVI. Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
-Fracción recorrida DOF 05-08-2011 Artículo reformado DOF 20-03-2006, 22-06-2006
+Fracción recorrida DOF 05-08-2011
+Artículo reformado DOF 20-03-2006, 22-06-2006
 
 ### Artículo 4
 Bis. El Programa al que se refiere la fracción I del artículo anterior, deberá ser diseñado desde una perspectiva que promueva la participación de las instituciones gubernamentales y académicas, organizaciones de la sociedad civil, principalmente de los jóvenes, y demás sectores involucrados con la juventud, además de lo que prevé la Ley de Planeación.
@@ -134,6 +140,7 @@ Fracción reformada DOF 05-08-2011
 . La canalización de fondos por parte del Instituto para proyectos, estudios, programas e investigaciones relacionadas con su objeto, estará sujeta a la celebración de un contrato o convenio, que asegure su debido cumplimiento.
 
 ## Capítulo II
+
 Administración, Control y Vigilancia
 
 ### Artículo 7
@@ -172,7 +179,8 @@ h) El Secretario de Economía;
 i) El Secretario de Comunicaciones y Transportes, y
 
 j) El Director General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
-Por cada Miembro Propietario, el titular podrá nombrar a un suplente, quien deberá tener el nivel de Director General Adjunto o equivalente, y Párrafo reformado DOF 02-04-2015
+Por cada Miembro Propietario, el titular podrá nombrar a un suplente, quien deberá tener el nivel de Director General Adjunto o equivalente, y
+Párrafo reformado DOF 02-04-2015
 
 II. Siete miembros más que serán:
 
@@ -182,8 +190,10 @@ b) Dos rectores o directores de universidades o instituciones públicas de educa
 
 c) Dos jóvenes, integrantes del Consejo de Seguimiento de Proyectos y Programas.
 Estos siete miembros formarán parte de la Junta Directiva a invitación del titular de la Secretaría de Bienestar, durarán en su encargo un año y serán designados de acuerdo al procedimiento que se señale en el Estatuto Orgánico.
-Párrafo reformado DOF 02-04-2015, 23-03-2022 La Junta Directiva podrá invitar a los representantes de otras dependencias e instituciones públicas, privadas y sociales, quienes tendrán derecho a voz, pero sin voto.
-Párrafo reformado DOF 05-08-2011 La Junta Directiva contará con un Secretario y un Prosecretario.
+Párrafo reformado DOF 02-04-2015, 23-03-2022
+La Junta Directiva podrá invitar a los representantes de otras dependencias e instituciones públicas, privadas y sociales, quienes tendrán derecho a voz, pero sin voto.
+Párrafo reformado DOF 05-08-2011
+La Junta Directiva contará con un Secretario y un Prosecretario.
 Artículo reformado DOF 22-06-2006
 
 ### Artículo 9
@@ -227,7 +237,8 @@ Fracción recorrida DOF 05-08-2011
 XIII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda al Comisario.
 Fracción recorrida DOF 05-08-2011
 
-XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad practica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Bienestar, y Fracción recorrida DOF 05-08-2011. Reformada DOF 02-04-2015, 23-03-2022
+XIV. Aprobar las normas y bases para la cancelación de adeudos a favor del Instituto y con cargo a terceros, cuando fuere notoria la imposibilidad practica de su cobro, informando lo conducente a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Bienestar, y
+Fracción recorrida DOF 05-08-2011. Reformada DOF 02-04-2015, 23-03-2022
 
 XV. Las demás que, con el carácter de indelegables, se le atribuyan en los términos de la Ley Federal de Entidades Paraestatales y otras disposiciones legales aplicables.
 Fracción recorrida DOF 05-08-2011
@@ -263,7 +274,8 @@ Fracción reformada DOF 14-05-2013
 IX. Remitir a las Mesas Directivas de ambas Cámaras del H. Congreso de la Unión, al inicio de los periodos ordinarios de sesiones de cada año legislativo, los estudios e investigaciones relativos a la problemática y características juveniles previstos en la fracción VII del artículo 4;
 Fracción adicionada DOF 14-05-2013
 
-X. Difundir los proyectos de desarrollo de la juventud, el seguimiento a las acciones de los programas y sus correspondientes propuestas previstos en el artículo 15 de la presente Ley, y Fracción adicionada DOF 14-05-2013
+X. Difundir los proyectos de desarrollo de la juventud, el seguimiento a las acciones de los programas y sus correspondientes propuestas previstos en el artículo 15 de la presente Ley, y
+Fracción adicionada DOF 14-05-2013
 
 XI. Las que le confieran las demás disposiciones jurídicas aplicables.
 Fracción recorrida DOF 14-05-2013
@@ -271,7 +283,8 @@ Fracción recorrida DOF 14-05-2013
 ### Artículo 13
 . El Instituto contará con un Órgano Interno de Control que formará parte de su estructura.
 El titular de dicho órgano, así como los responsables de las áreas de auditoría, quejas y responsabilidades dependerán y serán nombrados y removidos por la Secretaría de la Función Pública.
-Párrafo reformado DOF 09-04-2012 Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en las disposiciones legales aplicables.
+Párrafo reformado DOF 09-04-2012
+Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en las disposiciones legales aplicables.
 El Instituto proporcionará al titular del Órgano Interno de Control los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades.
 Artículo reformado DOF 05-08-2011
 
@@ -281,17 +294,20 @@ Artículo reformado DOF 05-08-2011, 09-04-2012
 
 ## Capítulo III — Del Consejo de Seguimiento de Proyectos y Programas
 
+
 ### Artículo 15
 . El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud es un órgano que tendrá por objeto conocer el cumplimiento dado a los programas dirigidos a los jóvenes tanto del Instituto como de las demás Secretarías y Entidades, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al Director General del Instituto, formulando, en su caso, las propuestas correspondientes.
 Artículo reformado DOF 22-06-2006, 05-08-2011
 
 ### Artículo 15
 Bis. El Consejo ciudadano se integrará con 20 jóvenes mayores de edad y de manera equitativa en cuanto a su género, los cuales serán seleccionados por la Junta Directiva de conformidad con la convocatoria pública difundida previamente entre las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, los sectores público y privado, y los pueblos y comunidades indígenas y afromexicanas.
-Párrafo reformado DOF 01-04-2024 Los cargos de consejero son honoríficos y se desempeñarán por un período de dos años. El Consejo ciudadano se renovará por mitad cada año.
+Párrafo reformado DOF 01-04-2024
+Los cargos de consejero son honoríficos y se desempeñarán por un período de dos años. El Consejo ciudadano se renovará por mitad cada año.
 Los demás requisitos para la integración y renovación del Consejo ciudadano, así como las atribuciones y funcionamiento de éste, se establecerán en el Estatuto Orgánico del Instituto y la convocatoria pública correspondiente aprobada por la Junta Directiva.
 Artículo adicionado DOF 05-08-2011
 
 ## Capítulo IV — Del Régimen Laboral y Seguridad Social
+
 Denominación del Capítulo reformada DOF 05-08-2011
 
 ### Artículo 16
@@ -302,10 +318,10 @@ Denominación del Capítulo reformada DOF 05-08-2011
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** La Secretaría de Educación Pública, de los recursos financieros asignados a la Dirección General Causa Joven de la Comisión Nacional del Deporte, transferirá los necesarios para el inicio de actividades del Instituto. Asimismo, transferirá los recursos materiales que se encuentran asignados a dicha Dirección.
-**TERCERO.** La Junta Directiva del Instituto deberá quedar constituida en un plazo no mayor al de treinta días a partir de la vigencia de este decreto, mismo plazo en el que se deberá designar al Director General del propio Instituto.
-**CUARTO.** El primer Consejo de Seguimiento de Proyectos y Programas deberá quedar integrado en un plazo de noventa días a partir del nombramiento del Director General del Instituto Mexicano de la Juventud.
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La Secretaría de Educación Pública, de los recursos financieros asignados a la Dirección General Causa Joven de la Comisión Nacional del Deporte, transferirá los necesarios para el inicio de actividades del Instituto. Asimismo, transferirá los recursos materiales que se encuentran asignados a dicha Dirección.
+**TERCERO.-** La Junta Directiva del Instituto deberá quedar constituida en un plazo no mayor al de treinta días a partir de la vigencia de este decreto, mismo plazo en el que se deberá designar al Director General del propio Instituto.
+**CUARTO.-** El primer Consejo de Seguimiento de Proyectos y Programas deberá quedar integrado en un plazo de noventa días a partir del nombramiento del Director General del Instituto Mexicano de la Juventud.
 Durará en su encargo hasta el 31 de diciembre de 1999, fecha en la que se renovará la mitad de sus integrantes, en los términos del último párrafo del artículo 15. La determinación de los consejeros salientes para este supuesto, se hará por insaculación una vez instalada la Junta Directiva; y en un plazo que no exceda los sesenta días, deberá expedir el Estatuto Orgánico del Instituto.
 Las bases para la convocatoria pública para seleccionar a los miembros de este Consejo, serán previstas en el Estatuto Orgánico.
 México, D.F., a 21 de diciembre de 1998.- Sen. Mario Vargas Aguiar, Presidente.- Dip. Jaime Moreno Garavilla, Presidente.- Sen. Víctor H. Islas Hernández, Secretario.- Dip. José Ernesto Manrique Villarreal, Secretario.- Rúbricas".
@@ -322,7 +338,7 @@ Se reforma la fracción IV del Artículo 3 y la fracción IX del Artículo 4 de 
 México, D.F., a 14 de febrero de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Yolanda E. González Hernández, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de marzo del año dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforma y adiciona la Ley del Instituto Mexicano de la Juventud.
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2006 Articulo Único.- Se reforman los artículos 4, actual fracción VIII; 8 fracción I incisos h) y j); 15,
-**segundo.** párrafo; se adicionan los artículos 3, con una nueva fracción II recorriéndose en su orden las subsecuentes; 4 con una nueva fracción IV y una nueva fracción XI recorriéndose en su orden las subsecuentes, todos de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue: ..........
+**segundo.-** párrafo; se adicionan los artículos 3, con una nueva fracción II recorriéndose en su orden las subsecuentes; 4 con una nueva fracción IV y una nueva fracción XI recorriéndose en su orden las subsecuentes, todos de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -337,10 +353,10 @@ Se reforman los artículos 2; 3, actual fracción V; y 4, actuales fracciones I,
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de la Juventud serán atendidas con los recursos humanos, financieros y materiales con los que hasta la entrada en vigor del presente Decreto cuenta dicho Instituto.
-**Tercero.** El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá quedar constituido en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto.
-**Cuarto.** Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se harán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de la Juventud serán atendidas con los recursos humanos, financieros y materiales con los que hasta la entrada en vigor del presente Decreto cuenta dicho Instituto.
+**Tercero.-** El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá quedar constituido en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto.
+**Cuarto.-** Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se harán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
 México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
@@ -350,8 +366,8 @@ Se reforman los artículos 8, fracción I, inciso d); 13, primer párrafo; y 14 
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se adiciona el artículo 12 de la Ley del Instituto Mexicano de la Juventud.
 Publicado en el Diario Oficial de la Federación el 14 de mayo de 2013
@@ -391,7 +407,7 @@ Se reforman los artículos 1, párrafo primero; 3 Bis, en su párrafo primero; 8
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 17 de febrero de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

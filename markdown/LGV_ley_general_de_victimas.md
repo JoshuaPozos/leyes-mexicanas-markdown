@@ -13,13 +13,17 @@ Se expide la Ley General de Víctimas.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO I — APLICACIÓN, OBJETO E INTERPRETACIÓN
+
 
 ### Artículo 1
 . La presente Ley general es de orden público, de interés social y observancia en todo el territorio nacional, en términos de lo dispuesto por los artículos 1o., párrafo tercero, 17, 20 y 73, fracción XXIX-X, de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por el Estado Mexicano, y otras leyes en materia de víctimas.
-Párrafo reformado DOF 03-05-2013, 03-01-2017 En las normas que protejan a víctimas en las leyes expedidas por el Congreso, se aplicará siempre la que más favorezca a la persona.
+Párrafo reformado DOF 03-05-2013, 03-01-2017
+En las normas que protejan a víctimas en las leyes expedidas por el Congreso, se aplicará siempre la que más favorezca a la persona.
 La presente Ley obliga, en sus respectivas competencias, a las autoridades de todos los ámbitos de gobierno, y de sus poderes constitucionales, así como a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Las autoridades de todos los ámbitos de gobierno deberán actuar conforme a los principios y criterios establecidos en esta Ley, así como brindar atención inmediata en especial en materias de salud, educación y asistencia social, en caso contrario quedarán sujetos a las responsabilidades administrativas, civiles o penales a que haya lugar.
-Párrafo reformado DOF 03-05-2013, 03-01-2017 La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
+Párrafo reformado DOF 03-05-2013, 03-01-2017
+La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
 Párrafo reformado DOF 03-05-2013
 
 ### Artículo 2
@@ -42,6 +46,7 @@ Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — CONCEPTO, PRINCIPIOS Y DEFINICIONES
 
+
 ### Artículo 4
 . Se denominarán víctimas directas aquellas personas físicas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución y en los Tratados Internacionales de los que el Estado Mexicano sea Parte.
 Son víctimas indirectas los familiares o aquellas personas físicas a cargo de la víctima directa que tengan una relación inmediata con ella.
@@ -55,36 +60,55 @@ Artículo reformado DOF 03-05-2013
 Dignidad.- La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
 En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, todas las autoridades del Estado están obligadas a garantizar que no se vea disminuido el mínimo existencial al que la víctima tiene derecho, ni sea afectado el núcleo esencial de sus derechos.
 En cualquier caso, toda norma, institución o acto que se desprenda de la presente Ley serán interpretados de conformidad con los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que el Estado Mexicano sea Parte, aplicando siempre la norma más benéfica para la persona.
-Párrafo reformado DOF 03-05-2013 Buena fe.- Las autoridades presumirán la buena fe de las víctimas. Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requiera, así como respetar y permitir el ejercicio efectivo de sus derechos.
-Párrafo reformado DOF 03-05-2013 Complementariedad.- Los mecanismos, medidas y procedimientos contemplados en esta Ley, en especial los relacionados con la de asistencia, ayuda, protección, atención y reparación integral a las víctimas, deberán realizarse de manera armónica, eficaz y eficiente entendiéndose siempre como complementarias y no excluyentes.
-Párrafo reformado DOF 03-05-2013 Tanto las reparaciones individuales, administrativas o judiciales, como las reparaciones colectivas deben ser complementarias para alcanzar la integralidad que busca la reparación.
+Párrafo reformado DOF 03-05-2013
+Buena fe.- Las autoridades presumirán la buena fe de las víctimas. Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requiera, así como respetar y permitir el ejercicio efectivo de sus derechos.
+Párrafo reformado DOF 03-05-2013
+Complementariedad.- Los mecanismos, medidas y procedimientos contemplados en esta Ley, en especial los relacionados con la de asistencia, ayuda, protección, atención y reparación integral a las víctimas, deberán realizarse de manera armónica, eficaz y eficiente entendiéndose siempre como complementarias y no excluyentes.
+Párrafo reformado DOF 03-05-2013
+Tanto las reparaciones individuales, administrativas o judiciales, como las reparaciones colectivas deben ser complementarias para alcanzar la integralidad que busca la reparación.
 Debida diligencia.- El Estado deberá realizar todas las actuaciones necesarias dentro de un tiempo razonable para lograr el objeto de esta Ley, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como sujeto titular de derecho.
-Párrafo reformado DOF 03-05-2013 El Estado deberá remover los obstáculos que impidan el acceso real y efectivo de las víctimas a las medidas reguladas por la presente Ley, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas.
+Párrafo reformado DOF 03-05-2013
+El Estado deberá remover los obstáculos que impidan el acceso real y efectivo de las víctimas a las medidas reguladas por la presente Ley, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas.
 Enfoque diferencial y especializado.- Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
-Párrafo reformado DOF 03-05-2013 Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior del menor.
-Párrafo reformado DOF 03-05-2013, 01-04-2024 Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
+Párrafo reformado DOF 03-05-2013
+Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior del menor.
+Párrafo reformado DOF 03-05-2013, 01-04-2024
+Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
 Enfoque transformador.- Las autoridades que deban aplicar la presente Ley realizarán, en el ámbito de sus respectivas competencias, los esfuerzos necesarios encaminados a que las medidas de ayuda, protección, atención, asistencia y reparación integral a las que tienen derecho las víctimas contribuyan a la eliminación de los esquemas de discriminación y marginación que pudieron ser la causa de los hechos victimizantes.
-Párrafo reformado DOF 03-05-2013 Gratuidad.- Todas las acciones, mecanismos, procedimientos y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley, serán gratuitos para la víctima.
+Párrafo reformado DOF 03-05-2013
+Gratuidad.- Todas las acciones, mecanismos, procedimientos y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley, serán gratuitos para la víctima.
 Igualdad y no discriminación.- En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere la presente Ley, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial.
 Integralidad, indivisibilidad e interdependencia.- Todos los derechos contemplados en esta Ley se encuentran interrelacionados entre sí. No se puede garantizar el goce y ejercicio de los mismos sin que a la vez se garantice el resto de los derechos. La violación de un derecho pondrá en riesgo el ejercicio de otros.
 Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada.
 Interés superior de la niñez.- El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 Principio adicionado DOF 03-01-2017 Máxima protección.- Toda autoridad de los órdenes de gobierno debe velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos.
-Párrafo reformado DOF 03-05-2013 Las autoridades adoptarán en todo momento, medidas para garantizar la seguridad, protección, bienestar físico y psicológico e intimidad de las víctimas.
-Párrafo reformado DOF 03-05-2013 Mínimo existencial.- Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia.
-Párrafo adicionado DOF 03-05-2013 No criminalización.- Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
-Párrafo reformado DOF 03-05-2013 Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse.
+Párrafo reformado DOF 03-05-2013
+Las autoridades adoptarán en todo momento, medidas para garantizar la seguridad, protección, bienestar físico y psicológico e intimidad de las víctimas.
+Párrafo reformado DOF 03-05-2013
+Mínimo existencial.- Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia.
+Párrafo adicionado DOF 03-05-2013
+No criminalización.- Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
+Párrafo reformado DOF 03-05-2013
+Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse.
 Victimización secundaria.- Las características y condiciones particulares de la víctima no podrán ser motivo para negarle su calidad. El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos.
-Párrafo reformado DOF 03-05-2013 Participación conjunta.- Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
-Párrafo reformado DOF 03-05-2013 La víctima tiene derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo al contexto, siempre y cuando las medidas no impliquen un detrimento a sus derechos.
-Párrafo reformado DOF 03-05-2013 Progresividad y no regresividad.- Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
-Párrafo reformado DOF 03-05-2013 Publicidad.- Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los derechos humanos de las víctimas o las garantías para su protección.
+Párrafo reformado DOF 03-05-2013
+Participación conjunta.- Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
+Párrafo reformado DOF 03-05-2013
+La víctima tiene derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo al contexto, siempre y cuando las medidas no impliquen un detrimento a sus derechos.
+Párrafo reformado DOF 03-05-2013
+Progresividad y no regresividad.- Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados.
+Párrafo reformado DOF 03-05-2013
+Publicidad.- Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los derechos humanos de las víctimas o las garantías para su protección.
 El Estado deberá implementar mecanismos de difusión eficaces a fin de brindar información y orientación a las víctimas acerca de los derechos, garantías y recursos, así como acciones, mecanismos y procedimientos con los que cuenta, los cuales deberán ser dirigidos a las víctimas y publicitarse de forma clara y accesible.
-Párrafo reformado DOF 03-05-2013 Rendición de cuentas.- Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas.
-Párrafo reformado DOF 03-05-2013 Transparencia.- Todas las acciones, mecanismos y procedimientos que lleve a cabo el Estado en ejercicio de sus obligaciones para con las víctimas, deberán instrumentarse de manera que garanticen el acceso a la información, así como el seguimiento y control correspondientes.
-Párrafo reformado DOF 03-05-2013 Las autoridades deberán contar con mecanismos efectivos de rendición de cuentas y de evaluación de las políticas, planes y programas que se instrumenten para garantizar los derechos de las víctimas.
-Párrafo reformado DOF 03-05-2013 Trato preferente.- Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
+Párrafo reformado DOF 03-05-2013
+Rendición de cuentas.- Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas.
+Párrafo reformado DOF 03-05-2013
+Transparencia.- Todas las acciones, mecanismos y procedimientos que lleve a cabo el Estado en ejercicio de sus obligaciones para con las víctimas, deberán instrumentarse de manera que garanticen el acceso a la información, así como el seguimiento y control correspondientes.
+Párrafo reformado DOF 03-05-2013
+Las autoridades deberán contar con mecanismos efectivos de rendición de cuentas y de evaluación de las políticas, planes y programas que se instrumenten para garantizar los derechos de las víctimas.
+Párrafo reformado DOF 03-05-2013
+Trato preferente.- Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
 
 ### Artículo 6
 . Para los efectos de esta Ley, se entenderá por:
@@ -133,7 +157,8 @@ XV. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y
 Fracción reformada DOF 03-05-2013, 03-01-2017, 06-11-2020
 
 XVI. Registro: Registro Nacional de Víctimas, que incluye el registro federal y los registros de las entidades federativas;
-Fracción reformada DOF 03-05-2013, 03-01-2017 Fracción reformada DOF 03-05-2013, 03-01-2017
+Fracción reformada DOF 03-05-2013, 03-01-2017
+Fracción reformada DOF 03-05-2013, 03-01-2017
 
 XVIII. Sistema: Sistema Nacional de Atención a Víctimas;
 Fracción reformada DOF 03-05-2013, 03-01-2017
@@ -141,7 +166,8 @@ Fracción reformada DOF 03-05-2013, 03-01-2017
 XIX. Víctima: Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
 Fracción reformada DOF 03-05-2013, 03-01-2017
 
-XX. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito, y Fracción derogada DOF 03-05-2013. Adicionada DOF 03-01-2017
+XX. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito, y
+Fracción derogada DOF 03-05-2013. Adicionada DOF 03-01-2017
 
 XXI. Violación de derechos humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
 Fracción derogada DOF 03-05-2013. Adicionada DOF 03-01-2017
@@ -151,7 +177,9 @@ Fracción derogada DOF 03-05-2013
 
 ## TÍTULO SEGUNDO — DE LOS DERECHOS DE LAS VÍCTIMAS
 
+
 ## CAPÍTULO I — DE LOS DERECHOS EN LO GENERAL DE LAS VÍCTIMAS
+
 Denominación del Capítulo reformada DOF 03-05-2013
 
 ### Artículo 7
@@ -242,12 +270,15 @@ Fracción adicionada DOF 25-04-2023
 XXXVIII. El Ministerio Público y los órganos jurisdiccionales, de verificar que la víctima u ofendidos no se encuentran en condiciones para rendir su declaración, deberán reconocer su derecho a tener un periodo de espera y estabilización física y psicoemocional;
 Fracción adicionada DOF 25-04-2023
 
-XXXIX. Tener acceso ágil, eficaz y transparente a los Recursos de Ayuda y Fondos Estatales en términos de esta Ley, y Fracción adicionada DOF 03-01-2017. Reformada DOF 06-11-2020. Recorrida DOF 25-04-2023
+XXXIX. Tener acceso ágil, eficaz y transparente a los Recursos de Ayuda y Fondos Estatales en términos de esta Ley, y
+Fracción adicionada DOF 03-01-2017. Reformada DOF 06-11-2020. Recorrida DOF 25-04-2023
 
 XL. Los demás señalados por la Constitución, los Tratados Internacionales, esta Ley y cualquier otra disposición en la materia o legislación especial.
-Fracción adicionada DOF 03-01-2017. Recorrida DOF 25-04-2023 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017. Recorrida DOF 25-04-2023
+Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
+
 
 ### Artículo 8
 . Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión Ejecutiva o de las Comisiones de víctimas de las entidades federativas según corresponda, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento
@@ -255,31 +286,43 @@ Fracción adicionada DOF 03-01-2017. Recorrida DOF 25-04-2023 Artículo reformad
 ## transitorio
 
 en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
-Párrafo reformado DOF 03-01-2017 Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
-Párrafo reformado DOF 03-01-2017 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
+Párrafo reformado DOF 03-01-2017
+Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
+Párrafo reformado DOF 03-01-2017
+Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 Las medidas de ayuda inmediata, ayuda, asistencia, atención, rehabilitación y demás establecidas en los Títulos Segundo, Tercero, Cuarto y Quinto de esta Ley, se brindarán por las instituciones públicas de los gobiernos Federal, de las entidades federativas y municipios en el ámbito de sus competencias, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
-Párrafo reformado DOF 03-01-2017 Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquélla o aquéllas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
-Párrafo adicionado DOF 03-01-2017 La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas deberán otorgar, con cargo a sus Recursos de Ayuda que corresponda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
-Párrafo adicionado DOF 03-01-2017 En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva o Comisiones de víctimas podrán autorizar que la víctima acuda a una institución de carácter privado con cargo a los Recursos de Ayuda o al Fondo Estatal, según corresponda.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 La Comisión Ejecutiva, así como las Comisiones de víctimas, en el ámbito de sus competencias, deberán otorgar, con cargo al presupuesto autorizado de la Comisión Ejecutiva o del Fondo Estatal que corresponda, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho víctimizante. La Comisión Ejecutiva o las Comisiones de víctimas requerirán a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 136 de la Ley.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 La Comisión Ejecutiva deberá cubrir medidas de ayuda inmediata de acuerdo con su disponibilidad presupuestaria cuando la Comisión Estatal lo solicite por escrito en caso de no contar con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquélla o aquéllas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
+Párrafo adicionado DOF 03-01-2017
+La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas deberán otorgar, con cargo a sus Recursos de Ayuda que corresponda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
+Párrafo adicionado DOF 03-01-2017
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva o Comisiones de víctimas podrán autorizar que la víctima acuda a una institución de carácter privado con cargo a los Recursos de Ayuda o al Fondo Estatal, según corresponda.
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+La Comisión Ejecutiva, así como las Comisiones de víctimas, en el ámbito de sus competencias, deberán otorgar, con cargo al presupuesto autorizado de la Comisión Ejecutiva o del Fondo Estatal que corresponda, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho víctimizante. La Comisión Ejecutiva o las Comisiones de víctimas requerirán a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 136 de la Ley.
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+La Comisión Ejecutiva deberá cubrir medidas de ayuda inmediata de acuerdo con su disponibilidad presupuestaria cuando la Comisión Estatal lo solicite por escrito en caso de no contar con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 9
 . Las víctimas tendrán derecho a la asistencia y a la atención, los cuales se garantizarán incluyendo siempre un enfoque transversal de género y diferencial.
 Se entiende por asistencia el conjunto integrado de mecanismos, procedimientos, programas, medidas y recursos de orden político, económico, social, cultural, entre otros, a cargo del Estado, orientado a restablecer la vigencia efectiva de los derechos de las víctimas, brindarles condiciones para llevar una vida digna y garantizar su incorporación a la vida social, económica y política. Entre estas medidas, las víctimas contarán con asistencia médica especializada incluyendo la psiquiátrica, psicológica, traumatológica y tanatológica.
 Se entiende por atención, la acción de dar información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral, cualificando el ejercicio de los mismos.
-Párrafo reformado DOF 03-05-2013 Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral, por lo tanto, el costo o las erogaciones en que incurra el Estado en la prestación de los servicios de atención y asistencia, en ningún caso serán descontados de la compensación a que tuvieran derecho las víctimas.
+Párrafo reformado DOF 03-05-2013
+Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral, por lo tanto, el costo o las erogaciones en que incurra el Estado en la prestación de los servicios de atención y asistencia, en ningún caso serán descontados de la compensación a que tuvieran derecho las víctimas.
 La Federación y las Entidades Federativas, en el ámbito de sus respectivas competencias, deben cubrir las erogaciones derivadas de las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación que brinden la Comisión Ejecutiva o las Comisiones de víctimas a través de sus respectivos Recursos de Ayuda.
 Párrafo adicionado DOF 03-01-2017
 
 ## CAPÍTULO III — DEL DERECHO DE ACCESO A LA JUSTICIA
 
+
 ### Artículo 10
 . Las víctimas tienen derecho a un recurso judicial adecuado y efectivo, ante las autoridades independientes, imparciales y competentes, que les garantice el ejercicio de su derecho a conocer la verdad, a que se realice con la debida diligencia una investigación inmediata y exhaustiva del delito o de las violaciones de derechos humanos sufridas por ellas; a que los autores de los delitos y de las violaciones de derechos, con el respeto al debido proceso, sean enjuiciados y sancionados; y a obtener una reparación integral por los daños sufridos.
-Párrafo reformado DOF 03-05-2013 Las víctimas tendrán acceso a los mecanismos de justicia de los cuales disponga el Estado, incluidos los procedimientos judiciales y administrativos. La legislación en la materia que regule su intervención en los diferentes procedimientos deberá facilitar su participación.
+Párrafo reformado DOF 03-05-2013
+Las víctimas tendrán acceso a los mecanismos de justicia de los cuales disponga el Estado, incluidos los procedimientos judiciales y administrativos. La legislación en la materia que regule su intervención en los diferentes procedimientos deberá facilitar su participación.
 
 ## CAPÍTULO IV — DE LOS DERECHOS DE LAS VÍCTIMAS EN EL PROCESO PENAL
+
 
 ### Artículo 11
 . Para garantizar los derechos establecidos en el artículo 10 de la presente Ley, las víctimas tendrán acceso a los mecanismos y procedimientos previstos en la Constitución, en las leyes locales y federales aplicables y en los Tratados Internacionales.
@@ -314,8 +357,10 @@ XII. A que se les notifique toda resolución que pueda afectar sus derechos y a 
 
 XIII. En los casos que impliquen graves violaciones a los derechos humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar que grupos de esos expertos revisen, informen y emitan recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas.
 La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos a que se refiere el párrafo anterior.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 13
 . Cuando el imputado se sustraiga de la acción de la justicia, deje de presentarse ante la autoridad jurisdiccional competente que conozca de su caso los días que se hubieran señalado para tal efecto u omita comunicar a la autoridad jurisdiccional competente los cambios de domicilio que tuviere o se ausentase del lugar del juicio de autorización de la autoridad jurisdiccional competente, esta última ordenará, sin demora alguna, que entregue la suma que garantiza la reparación del daño a la víctima, dejando constancia en el expediente del pago definitivo de la cantidad depositada, lo que no implica que se haya efectuado la reparación integral del daño correspondiente.
@@ -329,8 +374,10 @@ Artículo reformado DOF 03-05-2013
 ### Artículo 15
 . Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse dependiendo de la naturaleza del caso, y en caso de aceptar su realización a ser acompañadas en todo momento por su Asesor Jurídico o la persona que consideren.
 La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 16
 . Derogado.
@@ -342,6 +389,7 @@ No podrá llevarse la conciliación ni la mediación a menos de que quede acredi
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO V — DEL DERECHO A LA VERDAD
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 18
@@ -364,10 +412,14 @@ Esto incluye la instrumentación de protocolos de búsqueda conforme a la legisl
 Esta obligación, incluye la realización de las exhumaciones de cementerios, fosas clandestinas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cuerpos u osamentas de las víctimas. Las exhumaciones deberán realizarse con la debida diligencia y competencia y conforme a las normas y protocolos internacionales sobre la materia, buscando garantizar siempre la correcta ubicación, recuperación y posterior identificación de los cuerpos u osamentas bajo estándares científicos reconocidos internacionalmente.
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí y/o a través de sus asesores jurídicos; a ser informadas sobre los protocolos y procedimientos que serán aplicados; y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los derechos humanos, que contribuyan al mejor desarrollo de las mismas.
 La Comisión Ejecutiva con cargo a los recursos autorizados para tal fin, así como las Comisiones de víctimas de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley, en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
-Párrafo reformado DOF 03-01-2017 En caso necesario, a efecto de garantizar las investigaciones, la autoridad deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto haya una sentencia ejecutoriada. Las autoridades ministeriales tampoco podrán autorizar ni procesar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, hasta en tanto no haya sentencia ejecutoriada.
-Párrafo reformado DOF 03-01-2017 Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración especial de ausencia por desaparición se sujetarán a lo que dispongan las leyes en la materia, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley, en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
+Párrafo reformado DOF 03-01-2017
+En caso necesario, a efecto de garantizar las investigaciones, la autoridad deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto haya una sentencia ejecutoriada. Las autoridades ministeriales tampoco podrán autorizar ni procesar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, hasta en tanto no haya sentencia ejecutoriada.
+Párrafo reformado DOF 03-01-2017
+Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración especial de ausencia por desaparición se sujetarán a lo que dispongan las leyes en la materia, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 22
 . Para garantizar el ejercicio pleno de este derecho de las víctimas, sus familiares y la sociedad, el Estado podrá generar mecanismos para la investigación independiente, imparcial y competente, que cumpla, entre otros, con los siguientes objetivos:
@@ -399,9 +451,11 @@ En estos casos, no se podrá denegar la consulta de los archivos por razones de 
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 25
-. Toda persona tendrá derecho a saber si sus datos personales se encuentran en los archivos estatales y, en ese caso, después de ejercer su derecho de consulta, a impugnar la legitimidad de las informaciones y contenidos que le conciernan ejerciendo el derecho que corresponda. La autoridad garantizará que el documento modificado después de la impugnación incluya una referencia clara a las informaciones y contenidos del documento cuya validez se impugna y ambos se entregarán juntos cuando se solicite el primero. Para casos de personas fallecidas, este derecho podrá ser ejercido por sus Artículo reformado DOF 03-05-2013
+. Toda persona tendrá derecho a saber si sus datos personales se encuentran en los archivos estatales y, en ese caso, después de ejercer su derecho de consulta, a impugnar la legitimidad de las informaciones y contenidos que le conciernan ejerciendo el derecho que corresponda. La autoridad garantizará que el documento modificado después de la impugnación incluya una referencia clara a las informaciones y contenidos del documento cuya validez se impugna y ambos se entregarán juntos cuando se solicite el primero. Para casos de personas fallecidas, este derecho podrá ser ejercido por sus
+Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO VI — DEL DERECHO A LA REPARACIÓN INTEGRAL
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 26
@@ -423,26 +477,35 @@ V. Las medidas de no repetición buscan que el hecho punible o la violación de 
 
 VI. Para los efectos de la presente Ley, la reparación colectiva se entenderá como un derecho del que son titulares los grupos, comunidades u organizaciones sociales que hayan sido afectadas por la violación de los derechos individuales de los miembros de los colectivos, o cuando el daño comporte un impacto colectivo. La restitución de los derechos afectados estará orientada a la reconstrucción del tejido social y cultural colectivo que reconozca la afectación en la capacidad institucional de garantizar el goce, la protección y la promoción de los derechos en las comunidades, grupos y pueblos afectados.
 
-VII. La declaración que restablezca la dignidad y la reputación de la víctima u ofendido y de las personas vinculadas a ella, a través de los medios que solicite, y Fracción adicionada DOF 25-04-2023
+VII. La declaración que restablezca la dignidad y la reputación de la víctima u ofendido y de las personas vinculadas a ella, a través de los medios que solicite, y
+Fracción adicionada DOF 25-04-2023
 
 VIII. La disculpa pública de reconocimiento de hechos y aceptación de responsabilidad, cuando en el delito participe un servidor público o agente de autoridad, lo anterior con independencia de otras responsabilidades en que incurra el Estado por la omisión de cumplimiento en la presente Ley.
-Fracción adicionada DOF 25-04-2023 Cuando una persona sea declarada penalmente responsable de la comisión del delito de feminicidio, el órgano jurisdiccional de conocimiento deberá condenarla al pago de la reparación integral del daño, a favor de la víctima u ofendidos, en todos los casos.
-Párrafo adicionado DOF 25-04-2023 Cuando sean servidores o agentes estatales los que actúen a título oficial y cometan cualquiera de los delitos materia de esta Ley, las víctimas serán resarcidas por el Estado, conforme a la legislación en materia de responsabilidad patrimonial estatal.
-Párrafo adicionado DOF 25-04-2023 Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
+Fracción adicionada DOF 25-04-2023
+Cuando una persona sea declarada penalmente responsable de la comisión del delito de feminicidio, el órgano jurisdiccional de conocimiento deberá condenarla al pago de la reparación integral del daño, a favor de la víctima u ofendidos, en todos los casos.
+Párrafo adicionado DOF 25-04-2023
+Cuando sean servidores o agentes estatales los que actúen a título oficial y cometan cualquiera de los delitos materia de esta Ley, las víctimas serán resarcidas por el Estado, conforme a la legislación en materia de responsabilidad patrimonial estatal.
+Párrafo adicionado DOF 25-04-2023
+Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo a los recursos autorizados para tal fin o a los Fondos Estatales, según corresponda.
-Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
+Artículo reformado DOF 03-05-2013
 
 ## TÍTULO TERCERO
+
 Título reubicado y denominación del Título suprimida DOF 03-05-2013
 
 ## CAPÍTULO I — MEDIDAS DE AYUDA INMEDIATA
+
 Capítulo reubicado y denominación del Capítulo reformada DOF 03-05-2013
 
 ### Artículo 28
 . La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
-Párrafo reformado DOF 03-01-2017, 01-04-2024 Las medidas de ayuda inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017, 01-04-2024
+Las medidas de ayuda inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 29
 . Las instituciones hospitalarias públicas Federales, de las entidades federativas y de los municipios tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
@@ -471,7 +534,8 @@ IX. Servicios de interrupción voluntaria del embarazo en los casos permitidos p
 
 X. La atención para los derechos sexuales y reproductivos de las mujeres víctimas.
 En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, la Federación, las entidades federativas o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 31
 . La Federación, las entidades federativas o municipios donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa en todos los casos en los cuales la muerte sobrevenga como resultado del hecho victimizante. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias correspondientes a los Recursos de Ayuda de la Comisión Ejecutiva y de las Comisiones de víctimas de las entidades federativas según corresponda.
@@ -483,7 +547,8 @@ Artículo reformado DOF 03-05-2013
 
 ### Artículo 33
 . Los Gobiernos federal y de las entidades federativas, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias serán las entidades obligadas a otorgar el carnet que identifique a las víctimas ante el sistema de salud, con el fin de garantizar la asistencia y atención urgentes para efectos reparadores.
-Párrafo reformado DOF 03-01-2017 El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicho carnet y requieran atención inmediata deberán ser atendidas de manera prioritaria.
+Párrafo reformado DOF 03-01-2017
+El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicho carnet y requieran atención inmediata deberán ser atendidas de manera prioritaria.
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 34
@@ -503,7 +568,8 @@ V. Se le proporcionará atención permanente en salud mental en los casos en que
 
 VI. La atención materno-infantil permanente cuando sea el caso incluyendo programas de nutrición.
 No podrá negarse la garantía de ejercer los derechos que protege este artículo a ninguna víctima que se encuentre fuera de su jurisdicción de derechohabientes.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 35
 . A toda víctima de violación sexual, o cualquier otra conducta que afecte su integridad física o psicológica, se le garantizará el acceso a los servicios de anticoncepción de emergencia y de interrupción voluntaria del embarazo en los casos permitidos por la ley, con absoluto respeto a la voluntad de la víctima; asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
@@ -519,6 +585,7 @@ Artículo reformado DOF 03-05-2013, 03-01-2017
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 38
@@ -526,6 +593,7 @@ Capítulo reubicado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013, 03-01-2017
 
 ## CAPÍTULO III — MEDIDAS EN MATERIA DE TRASLADO
+
 Capítulo reubicado DOF 03-05-2013. Denominación del Capítulo reformada DOF 03-01-2017
 
 ### Artículo 39
@@ -543,15 +611,18 @@ III. Solicitar a alguna institución nacional medidas de seguridad o protección
 
 IV. Recibir atención especializada o de tratamiento por alguna institución nacional, pública o privada cuando así sea autorizado en términos del quinto párrafo del artículo 8 de esta Ley, para el apoyo médico, psicológico o social que requiera.
 En caso de que las Comisiones de víctimas no hayan cubierto los gastos, la Comisión Ejecutiva de conformidad con los lineamientos que para tal efecto emita deberá brindar la ayuda a que se refiere el presente artículo sujeto a su disponibilidad presupuestaria.
-Párrafo reformado DOF 06-11-2020 Las Comisiones de víctimas deberán reintegrar los gastos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
+Párrafo reformado DOF 06-11-2020
+Las Comisiones de víctimas deberán reintegrar los gastos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 Artículo adicionado DOF 03-01-2017
 
 ## CAPÍTULO IV — MEDIDAS EN MATERIA DE PROTECCIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 40
 . Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, las autoridades del orden federal, de las entidades federativas o municipales de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas que sean necesarias para evitar que la víctima sufra alguna lesión o daño.
-Párrafo reformado DOF 03-01-2017 Las medidas de protección a las víctimas se deberán implementar con base en los siguientes principios:
+Párrafo reformado DOF 03-01-2017
+Las medidas de protección a las víctimas se deberán implementar con base en los siguientes principios:
 
 I. Principio de protección: Considera primordial la protección de la vida, la integridad física, la libertad y la seguridad de las personas;
 
@@ -561,13 +632,15 @@ III. Principio de confidencialidad: Toda la información y actividad administrat
 
 IV. Principio de oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
 Serán sancionadas administrativa, civil o penalmente, de conformidad con las leyes aplicables, los servidores públicos federales, de las entidades federativas o municipales que contribuyan a poner en riesgo la seguridad de las víctimas, ya sea a través de intimidación, represalias, amenazas directas, negligencia o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 41
 . Las medidas adoptadas deberán ser acordes con la amenaza que tratan de conjurar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad.
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO V — MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 42
@@ -579,9 +652,11 @@ Artículo reformado DOF 03-05-2013, 03-01-2017
 Artículo reformado DOF 03-05-2013
 
 ## TÍTULO CUARTO — MEDIDAS DE ASISTENCIA Y ATENCIÓN
+
 Título reubicado y reestructurado (se suprime su anterior Capítulo II para quedar con dos capítulos), con denominación reformada DOF 03-05-2013
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 44
@@ -631,6 +706,7 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013, 03-01-2017
 
 ## CAPÍTULO II — MEDIDAS ECONÓMICAS Y DE DESARROLLO
+
 Capítulo reubicado y recorrido (antes capítulo III) DOF 03-05-2013
 
 ### Artículo 55
@@ -654,6 +730,7 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO III — MEDIDAS DE ATENCIÓN Y ASISTENCIA EN MATERIA DE PROCURACIÓN Y
+
 ADMINISTRACIÓN DE JUSTICIA Capítulo reubicado y recorrido (antes capítulo IV) DOF 03-05-2013
 
 ### Artículo 60
@@ -670,9 +747,11 @@ Estas medidas se brindarán a la víctima con independencia de la representació
 Artículo reformado DOF 03-05-2013
 
 ## TÍTULO QUINTO — MEDIDAS DE REPARACIÓN INTEGRAL
+
 Título reubicado DOF 03-05-2013
 
 ## CAPÍTULO I — MEDIDAS DE RESTITUCIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 61
@@ -700,6 +779,7 @@ En los casos en que una autoridad judicial competente revoque una sentencia cond
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — MEDIDAS DE REHABILITACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 62
@@ -723,6 +803,7 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO III — MEDIDAS DE COMPENSACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 64
@@ -746,8 +827,10 @@ VIII. Los gastos comprobables de transporte, alojamiento, comunicación o alimen
 Las normas reglamentarias aplicables establecerán el procedimiento y el monto de gasto comprobable mínimo que no deberá ser mayor al veinticinco por ciento del monto total.
 La compensación subsidiaria a las víctimas de los delitos señaladas en el artículo 68 de esta Ley, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 67 de este ordenamiento.
 En los casos de la fracción VIII, cuando se hayan cubierto con los Recursos de Ayuda, no se tomarán en consideración para la determinación de la compensación.
-Párrafo adicionado DOF 03-01-2017 La Comisión Ejecutiva o las Comisiones de víctimas, según corresponda, expedirán los lineamientos respectivos a efecto de que a la víctima no se le cause mayores cargas de comprobación.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo adicionado DOF 03-01-2017
+La Comisión Ejecutiva o las Comisiones de víctimas, según corresponda, expedirán los lineamientos respectivos a efecto de que a la víctima no se le cause mayores cargas de comprobación.
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 65
 . Todas las víctimas de violaciones a los derechos humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
@@ -777,12 +860,14 @@ a) La determinación del Ministerio Público cuando el responsable se haya sustr
 b) La resolución firme emitida por la autoridad judicial;
 La determinación de la Comisión Ejecutiva correspondiente deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
 El monto de la compensación subsidiaria a la que se podrá obligar al Estado, en sus ámbitos federal o local, será hasta de quinientas Unidades de Medida y Actualización mensuales, que ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 68
 . La Federación y las entidades federativas compensarán a través de las Comisiones en el ámbito de su competencia, de forma subsidiaria el daño causado a la víctima de los delitos que ameriten prisión preventiva oficiosa o en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, daño o menoscabo al libre desarrollo de su personalidad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física o mental como consecuencia del delito, cuando así lo determine la autoridad judicial.
 La Comisión Ejecutiva podrá cubrir la compensación subsidiaria para asegurar su cumplimiento, con cargo a los recursos autorizados para tal fin, cuando la Comisión de víctimas de la entidad federativa lo solicite por escrito en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
-Párrafo reformado DOF 06-11-2020 Artículo reformado DOF 03-05-2013, 03-01-2017
+Párrafo reformado DOF 06-11-2020
+Artículo reformado DOF 03-05-2013, 03-01-2017
 
 ### Artículo 69
 . La Comisión Ejecutiva correspondiente ordenará la compensación subsidiaria cuando la víctima, que no haya sido reparada, exhiba ante ella todos los elementos a su alcance que lo demuestren y presente ante la Comisión sus alegatos. La víctima podrá presentar entre otros:
@@ -807,6 +892,7 @@ Artículo reformado DOF 03-05-2013, 03-01-2017, 06-11-2020
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO IV — MEDIDAS DE SATISFACCIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 73
@@ -826,6 +912,7 @@ VI. La realización de actos que conmemoren el honor, la dignidad y la humanidad
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO V — MEDIDAS DE NO REPETICIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 74
@@ -882,19 +969,26 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013
 
 ## TÍTULO SEXTO — SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
+
 Título reestructurado (se suprime su anterior Capítulo IV para quedar con cinco capítulos) DOF 03-05-2013
 
 ## CAPÍTULO I — CREACIÓN Y OBJETO
 
+
 ### Artículo 79
 . El Sistema Nacional de Atención a Víctimas será la instancia superior de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en los ámbitos local, federal y municipal.
 El Sistema Nacional de Atención a Víctimas está constituido por todas las instituciones y entidades públicas federales, estatales, del Gobierno de la Ciudad de México y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el Capítulo II del presente Título.
-Párrafo reformado DOF 03-01-2017 El Sistema tiene por objeto la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por esta Ley para la protección de los derechos de las víctimas.
+Párrafo reformado DOF 03-01-2017
+El Sistema tiene por objeto la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por esta Ley para la protección de los derechos de las víctimas.
 Para la operación del Sistema y el cumplimiento de sus atribuciones, el Sistema contará con una Comisión Ejecutiva y Comisiones de víctimas, quienes conocerán y resolverán los asuntos de su competencia, de conformidad con las disposiciones aplicables.
-Párrafo reformado DOF 03-01-2017 Las Comisiones de víctimas tienen la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal.
-Párrafo reformado DOF 03-01-2017 Las víctimas podrán acudir directamente a la Comisión Ejecutiva cuando no hubieren recibido respuesta dentro de los treinta días naturales siguientes, cuando la atención se hubiere prestado de forma deficiente o cuando se hubiere negado. En estos casos, la Comisión Ejecutiva podrá otorgar las medidas de atención inmediata, en términos de lo previsto por el Reglamento.
-Párrafo adicionado DOF 03-01-2017 En el caso de víctimas de desplazamiento interno que se encuentren en una entidad federativa distinta de su entidad de origen la Comisión Ejecutiva y las Comisiones Ejecutivas en el ámbito de sus competencias, cuando proceda, garantizarán su debido registro, atención y reparación, en términos de esta Ley.
-Párrafo adicionado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Las Comisiones de víctimas tienen la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal.
+Párrafo reformado DOF 03-01-2017
+Las víctimas podrán acudir directamente a la Comisión Ejecutiva cuando no hubieren recibido respuesta dentro de los treinta días naturales siguientes, cuando la atención se hubiere prestado de forma deficiente o cuando se hubiere negado. En estos casos, la Comisión Ejecutiva podrá otorgar las medidas de atención inmediata, en términos de lo previsto por el Reglamento.
+Párrafo adicionado DOF 03-01-2017
+En el caso de víctimas de desplazamiento interno que se encuentren en una entidad federativa distinta de su entidad de origen la Comisión Ejecutiva y las Comisiones Ejecutivas en el ámbito de sus competencias, cuando proceda, garantizarán su debido registro, atención y reparación, en términos de esta Ley.
+Párrafo adicionado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 80
 . El Gobierno Federal, de las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de protección, ayuda, asistencia y atención, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
@@ -948,12 +1042,15 @@ b) La obligación de las Comisiones de víctimas de acompañar a cada solicitud 
 c) El plazo para restituir los recursos solicitados a la Comisión Ejecutiva, el cual no podrá exceder del primer semestre del siguiente ejercicio fiscal.
 En caso de incumplimiento al reintegro, la Federación compensará el monto respectivo con cargo a las transferencias de recursos federales que correspondan a la entidad federativa de que se trate, y
 
-d) La obligación de la Comisión Ejecutiva de dar aviso a la Auditoria Superior de la Federación en caso de incumplimiento de pago de la entidad federativa, y Fracción reformada DOF 03-01-2017
+d) La obligación de la Comisión Ejecutiva de dar aviso a la Auditoria Superior de la Federación en caso de incumplimiento de pago de la entidad federativa, y
+Fracción reformada DOF 03-01-2017
 
 XVIII. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
-Fracción adicionada DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — INTEGRACIÓN DEL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 82
@@ -964,7 +1061,8 @@ I. Poder Ejecutivo:
 a) La persona titular de la Presidencia de la República, quien lo presidirá;
 Inciso reformado DOF 28-04-2022
 
-b) La persona titular de la Presidencia de la Comisión de Justicia de la Conferencia Nacional de Gobernadores, y Inciso reformado DOF 28-04-2022
+b) La persona titular de la Presidencia de la Comisión de Justicia de la Conferencia Nacional de Gobernadores, y
+Inciso reformado DOF 28-04-2022
 
 c) La persona titular de la Secretaría de Gobernación.
 Inciso reformado DOF 28-04-2022
@@ -974,7 +1072,8 @@ II. Poder Legislativo:
 a) La persona titular de la Presidencia de la Comisión de Justicia de la Cámara de Diputados;
 Inciso reformado DOF 28-04-2022
 
-b) La persona titular de la Presidencia de la Comisión de Justicia del Senado de la República, y Inciso reformado DOF 28-04-2022
+b) La persona titular de la Presidencia de la Comisión de Justicia del Senado de la República, y
+Inciso reformado DOF 28-04-2022
 
 c) Una persona integrante del poder legislativo de los estados y del Congreso de la Ciudad de México.
 Inciso reformado DOF 28-04-2022
@@ -986,13 +1085,15 @@ Inciso reformado DOF 28-04-2022
 
 IV. Organismos Públicos:
 
-a) La persona titular de la Presidencia de la Comisión Nacional de los Derechos Humanos, y Inciso reformado DOF 28-04-2022
+a) La persona titular de la Presidencia de la Comisión Nacional de los Derechos Humanos, y
+Inciso reformado DOF 28-04-2022
 
 b) Una persona representante de organismos públicos de protección de los derechos humanos de las entidades federativas.
 Inciso reformado DOF 03-01-2017, 28-04-2022
 
 V. La Comisión Ejecutiva de Atención a Víctimas y una persona representante de las comisiones ejecutivas locales.
-Fracción reformada DOF 28-04-2022 Artículo reformado DOF 03-05-2013
+Fracción reformada DOF 28-04-2022
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 83
 . Quienes integren el Sistema se reunirán en Pleno o en comisiones las cuales se deberán crear de conformidad con lo establecido en el Reglamento de esta Ley.
@@ -1005,18 +1106,26 @@ El Reglamento establecerá el mecanismo de invitación correspondiente. Las pers
 Artículo reformado DOF 03-05-2013, 03-01-2017, 28-04-2022
 
 ## CAPÍTULO III — DE LA ESTRUCTURA OPERATIVA DEL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
+
 Capítulo reubicado y denominación reformada DOF 03-05-2013
 
 ### Artículo 84
 . La Comisión Ejecutiva es un organismo con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos de la Federación.
-Párrafo reformado DOF 03-01-2017 Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo 95 de esta Ley.
-Párrafo adicionado DOF 03-01-2017 La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de la Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
-Párrafo adicionado DOF 03-01-2017 El domicilio de la Comisión Ejecutiva es en la Ciudad de México, y podrá establecer delegaciones y oficinas en otras entidades federativas, cuando así lo autorice la Junta de Gobierno, de acuerdo a su disponibilidad presupuestaria.
-Párrafo adicionado DOF 03-01-2017 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
+Párrafo reformado DOF 03-01-2017
+Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo 95 de esta Ley.
+Párrafo adicionado DOF 03-01-2017
+La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de la Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
+Párrafo adicionado DOF 03-01-2017
+El domicilio de la Comisión Ejecutiva es en la Ciudad de México, y podrá establecer delegaciones y oficinas en otras entidades federativas, cuando así lo autorice la Junta de Gobierno, de acuerdo a su disponibilidad presupuestaria.
+Párrafo adicionado DOF 03-01-2017
+En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 De la Comisión Ejecutiva depende la Asesoría Jurídica Federal, el Registro Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación, en términos de esta Ley, el Reglamento y demás disposiciones aplicables.
-Párrafo reformado DOF 06-11-2020 A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Federal contará con un área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia y reparación integral, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
-Párrafo reformado DOF 06-11-2020 Las entidades federativas contarán con una asesoría jurídica, un registro de víctimas y un Fondo estatal en los términos de esta Ley y de lo que disponga la legislación aplicable.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 06-11-2020
+A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Federal contará con un área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia y reparación integral, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
+Párrafo reformado DOF 06-11-2020
+Las entidades federativas contarán con una asesoría jurídica, un registro de víctimas y un Fondo estatal en los términos de esta Ley y de lo que disponga la legislación aplicable.
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 84
 Bis. El patrimonio de la Comisión Ejecutiva se integra:
@@ -1046,12 +1155,16 @@ c) Educación Pública;
 
 d) Salud;
 
-II. Cuatro personas representantes de la Asamblea Consultiva, designadas por ésta, y Fracción reformada DOF 28-04-2022
+II. Cuatro personas representantes de la Asamblea Consultiva, designadas por ésta, y
+Fracción reformada DOF 28-04-2022
 
 III. La persona titular de la Comisión Ejecutiva.
-Fracción reformada DOF 28-04-2022 Las personas integrantes referidas en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones las personas integrantes tendrán derecho de voz y voto. En la integración de la Junta de Gobierno se garantizará en todo momento el principio de paridad de género establecido en el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo reformado DOF 28-04-2022 La Junta de Gobierno contará con una Secretaría Técnica.
-Párrafo reformado DOF 28-04-2022 Artículo adicionado DOF 03-01-2017
+Fracción reformada DOF 28-04-2022
+Las personas integrantes referidas en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones las personas integrantes tendrán derecho de voz y voto. En la integración de la Junta de Gobierno se garantizará en todo momento el principio de paridad de género establecido en el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+Párrafo reformado DOF 28-04-2022
+La Junta de Gobierno contará con una Secretaría Técnica.
+Párrafo reformado DOF 28-04-2022
+Artículo adicionado DOF 03-01-2017
 
 ### Artículo 84
 Quinquies. La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.
@@ -1086,8 +1199,10 @@ La Asamblea Consultiva estará integrada por nueve representantes de colectivos 
 Para efectos del párrafo anterior, la Comisión Ejecutiva emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Diario Oficial de la Federación.
 La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
 Las bases de la convocatoria pública deben ser emitidas por la Comisionada o el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas, así como experiencia laboral o de conocimientos especializados, en materias afines a la Ley.
-Párrafo reformado DOF 28-04-2022 La elección de las personas que integren la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
-Párrafo reformado DOF 28-04-2022 Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de la Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
+Párrafo reformado DOF 28-04-2022
+La elección de las personas que integren la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+Párrafo reformado DOF 28-04-2022
+Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de la Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
 Artículo adicionado DOF 03-01-2017
 
 ### Artículo 85
@@ -1107,12 +1222,16 @@ Fracción reformada DOF 28-04-2022
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 Fracción reformada DOF 03-01-2017
 
-IV. Contar con título profesional, y Fracción reformada DOF 03-01-2017
+IV. Contar con título profesional, y
+Fracción reformada DOF 03-01-2017
 
 V. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
-Fracción adicionada DOF 03-01-2017 En la elección de la titularidad de la Comisión Ejecutiva, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
-Párrafo reformado DOF 03-01-2017, 28-04-2022 La persona titular de la Comisión Ejecutiva se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
-Párrafo reformado DOF 03-01-2017, 28-04-2022 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017
+En la elección de la titularidad de la Comisión Ejecutiva, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+Párrafo reformado DOF 03-01-2017, 28-04-2022
+La persona titular de la Comisión Ejecutiva se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+Párrafo reformado DOF 03-01-2017, 28-04-2022
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 87
 . El Comisionado Ejecutivo para el desarrollo de las actividades de la Comisión Ejecutiva designará a las personas responsables de la Asesoría Jurídica, el Registro Nacional de Víctimas y el área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación.
@@ -1198,10 +1317,12 @@ XXXIV. Implementar los mecanismos de control, con la participación de la socied
 XXXV. Hacer públicos los informes anuales sobre el funcionamiento de la Asesoría Jurídica Federal y del área responsable de efectuar los pagos que, en su caso, corresponda efectuar a las víctimas por concepto de Recursos de Ayuda, asistencia, reparación integral y compensación, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
 Fracción reformada DOF 03-01-2017, 06-11-2020
 
-XXXVI. Conocer y aprobar los casos a que se refiere el artículo 88 Bis de la Ley, y Fracción reformada DOF 03-01-2017
+XXXVI. Conocer y aprobar los casos a que se refiere el artículo 88 Bis de la Ley, y
+Fracción reformada DOF 03-01-2017
 
 XXXVII. Las demás que se deriven de la presente Ley.
-Fracción adicionada DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 88
 Bis. La Comisión Ejecutiva podrá ayudar, atender, asistir y, en su caso, cubrir una compensación subsidiaria en términos de esta Ley, en aquellos casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en los siguientes supuestos:
@@ -1225,7 +1346,8 @@ b) Cuando el hecho constitutivo de delito trascienda el ámbito de una o más en
 c) A solicitud de la Secretaría de Gobernación, cuando el hecho constitutivo victimizante revista trascendencia nacional.
 La Comisión Ejecutiva podrá valorar estos casos, de oficio, o a petición de la Comisión Nacional de los Derechos Humanos, los organismos públicos de derechos humanos locales, las Comisiones de víctimas locales, la autoridad ministerial o jurisdiccional correspondiente, o bien de las víctimas o sus representantes. La determinación que al respecto realice la Comisión Ejecutiva deberá atender a la obligación de garantizar de manera oportuna y efectiva los derechos de las víctimas.
 Los recursos erogados bajo este supuesto deberán ser reintegrados a la tesorería de la Comisión Ejecutiva, por la Comisión de víctimas local con cargo al Fondo Local correspondiente, en cuanto éste cuente con los recursos para tal efecto, o por la entidad federativa, con cargo a su presupuesto, en caso de que aún no exista la Comisión de víctimas local o se haya constituido el Fondo Estatal.
-Párrafo reformado DOF 06-11-2020 Artículo adicionado DOF 03-01-2017
+Párrafo reformado DOF 06-11-2020
+Artículo adicionado DOF 03-01-2017
 
 ### Artículo 89
 . La Comisión Ejecutiva podrá celebrar convenios de coordinación, colaboración y concertación con las entidades e instituciones federales así como con las entidades e instituciones homologas de las entidades federativas, incluidos los organismos autónomos de protección de los derechos humanos que sean necesarios para el cumplimiento de los fines del Sistema.
@@ -1234,11 +1356,13 @@ Artículo reformado DOF 03-05-2013, 03-01-2017
 ### Artículo 90
 . En los casos de graves violaciones a los derechos humanos o delitos cometidos contra un grupo de víctimas, las organizaciones no gubernamentales, los poderes ejecutivos y legislativos de las entidades federativas, el Congreso de la Unión, los municipios, o cualquier otra institución pública o privada que tenga entre sus fines la defensa de los derechos humanos podrán proponer el establecimiento de programas emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, acceso a la verdad y reparación integral de las víctimas.
 Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta del Comisionado Ejecutivo cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 91
 . Los diagnósticos nacionales que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, migrantes, mujeres, personas con discapacidad, de delitos tales como violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
-Párrafo reformado DOF 25-04-2023, 01-04-2024 Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema, así como para canalizar o distribuir los recursos necesarios.
+Párrafo reformado DOF 25-04-2023, 01-04-2024
+Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema, así como para canalizar o distribuir los recursos necesarios.
 La Comisión Ejecutiva podrá también contar con la asesoría de grupos de expertos en temas específicos, solicitar opiniones de organismos nacionales o internacionales públicos de derechos humanos, instituciones u organizaciones públicas o privadas nacionales o extranjeros con amplia experiencia en cierta problemática relacionada con la atención, asistencia, justicia; verdad y reparación integral a las víctimas. Los recursos destinados para tal efecto deberán ser públicos, monitoreables y de fácil acceso para la sociedad civil.
 Se deberá procurar en todo momento, además de la especialización técnica y científica, el aporte de los grupos de víctimas y organizaciones de base que trabajen directamente con víctimas.
 Artículo reformado DOF 03-05-2013
@@ -1288,29 +1412,37 @@ VII. Coordinar las acciones para el cumplimiento de las funciones de la Comisió
 VIII. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva a solicitar su inscripción en el Registro Nacional de Víctimas, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
 
 IX. Suscribir los convenios de colaboración, coordinación o concertación o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
-Fracción reformada DOF 03-01-2017 X.- Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
+Fracción reformada DOF 03-01-2017
+X.- Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
 
 XI. Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
 
 XII. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva;
 Fracción reformada DOF 03-01-2017
 
-XIII. Determinar a propuesta del Comité Interdisciplinario Evaluador, los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva otorgue a las víctimas. Para lo cual, el Comisionado Ejecutivo se podrá apoyar de la asesoría de la Asamblea Consultiva, y Fracción reformada DOF 03-01-2017
+XIII. Determinar a propuesta del Comité Interdisciplinario Evaluador, los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva otorgue a las víctimas. Para lo cual, el Comisionado Ejecutivo se podrá apoyar de la asesoría de la Asamblea Consultiva, y
+Fracción reformada DOF 03-01-2017
 
 XIV. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva en términos de la legislación aplicable.
-Fracción adicionada DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO IV — REGISTRO NACIONAL DE VÍCTIMAS
+
 Capítulo reubicado y recorrido (antes capítulo V) DOF 03-05-2013
 
 ### Artículo 96
 . El Registro Nacional de Víctimas, es el mecanismo administrativo y técnico que soporta todo el proceso de ingreso y registro de las víctimas del delito y de violaciones de derechos humanos al Sistema, creado en esta Ley.
 El Registro Nacional de Víctimas constituye un soporte fundamental para garantizar que las víctimas tengan un acceso oportuno y efectivo a las medidas de ayuda, asistencia, atención, acceso a la justicia y reparación integral previstas en esta Ley.
 El Registro Nacional de Víctimas es una unidad administrativa de la Comisión Ejecutiva.
-Párrafo reformado DOF 03-01-2017 El Registro es la unidad administrativa encargada de llevar y salvaguardar el padrón de víctimas, a nivel nacional, e inscribir los datos de las víctimas del delito y de violaciones a derechos humanos del orden federal, y por excepción del orden local en los casos a que se refiere el artículo 88 Bis de la presente Ley.
-Párrafo reformado DOF 03-01-2017 Las entidades federativas contarán con sus propios registros. La Federación, y las entidades federativas estarán obligadas a intercambiar, sistematizar, analizar y actualizar la información que diariamente se genere en materia de víctimas del delito y de violaciones a derechos humanos para la debida integración del Registro. La integración del registro federal estará a cargo de la Comisión Ejecutiva.
-Párrafo reformado DOF 03-01-2017 El Comisionado Ejecutivo dictará las medidas necesarias para la integración y preservación de la información administrada y sistematizada en el Registro Nacional de Víctimas, incluida aquella contenida en el registro federal.
-Párrafo reformado DOF 03-01-2017 Los integrantes del Sistema estarán obligados a compartir la información en materia de víctimas que obren en sus bases de datos con el Registro Nacional de Víctimas.
+Párrafo reformado DOF 03-01-2017
+El Registro es la unidad administrativa encargada de llevar y salvaguardar el padrón de víctimas, a nivel nacional, e inscribir los datos de las víctimas del delito y de violaciones a derechos humanos del orden federal, y por excepción del orden local en los casos a que se refiere el artículo 88 Bis de la presente Ley.
+Párrafo reformado DOF 03-01-2017
+Las entidades federativas contarán con sus propios registros. La Federación, y las entidades federativas estarán obligadas a intercambiar, sistematizar, analizar y actualizar la información que diariamente se genere en materia de víctimas del delito y de violaciones a derechos humanos para la debida integración del Registro. La integración del registro federal estará a cargo de la Comisión Ejecutiva.
+Párrafo reformado DOF 03-01-2017
+El Comisionado Ejecutivo dictará las medidas necesarias para la integración y preservación de la información administrada y sistematizada en el Registro Nacional de Víctimas, incluida aquella contenida en el registro federal.
+Párrafo reformado DOF 03-01-2017
+Los integrantes del Sistema estarán obligados a compartir la información en materia de víctimas que obren en sus bases de datos con el Registro Nacional de Víctimas.
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 97
@@ -1321,14 +1453,16 @@ I. Las solicitudes de ingreso hechas directamente por las víctimas del delito y
 II. Las solicitudes de ingreso que presenten cualquiera de las autoridades y particulares señalados en el artículo 99 de esta Ley, como responsables de ingresar el nombre de las víctimas del delito o de violación de derechos humanos al Sistema, y
 
 III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito federal, de las entidades federativas o municipal, así como de las comisiones públicas de derechos humanos en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
-Fracción reformada DOF 03-01-2017 Las entidades e instituciones generadoras y usuarias de la información sobre las víctimas y que posean actualmente registros de víctimas, pondrán a disposición del Registro Nacional de Víctimas la información que generan y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
+Fracción reformada DOF 03-01-2017
+Las entidades e instituciones generadoras y usuarias de la información sobre las víctimas y que posean actualmente registros de víctimas, pondrán a disposición del Registro Nacional de Víctimas la información que generan y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 En los casos en que existiere soporte documental de los registros que reconocen la calidad de víctima, deberá entregarse copia digital al Registro Nacional de Víctimas. En caso que estos soportes no existan, las entidades a que se refiere este artículo certificarán dicha circunstancia.
 Dichas entidades serán responsables por el contenido de la información que transmiten al Registro Nacional de Víctimas.
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 98
 . Las solicitudes de ingreso se realizarán en forma totalmente gratuita, ante la Comisión Ejecutiva y sus correlativos de las entidades federativas, según corresponda de acuerdo a la competencia. Las solicitudes derivadas de delitos federales o de violaciones donde participen autoridades federales, serán presentadas a la Comisión Ejecutiva quien llevará el registro federal.
-Párrafo reformado DOF 03-01-2017 Los mexicanos domiciliados en el exterior, podrán presentar la incorporación de datos al Registro Nacional de Víctimas ante la Embajada o Consulado del país donde se encuentren. En los países en que no exista representación del Estado mexicano, podrán acudir al país más cercano que cuente con sede diplomática.
+Párrafo reformado DOF 03-01-2017
+Los mexicanos domiciliados en el exterior, podrán presentar la incorporación de datos al Registro Nacional de Víctimas ante la Embajada o Consulado del país donde se encuentren. En los países en que no exista representación del Estado mexicano, podrán acudir al país más cercano que cuente con sede diplomática.
 La información que acompaña la incorporación de datos al registro se consignará en el formato único de declaración diseñado por la Comisión Ejecutiva y su utilización será obligatoria por parte de las autoridades responsables de garantizar el ingreso al mismo, de conformidad con lo dispuesto en la Ley.
 El formato único de incorporación al registro deberá ser accesible a toda persona y de uso simplificado y buscará recoger la información necesaria para que la víctima pueda acceder plenamente a todos sus derechos, incluidos los que se le reconocen en la presente Ley.
 La solicitud de inscripción de la víctima no implica de oficio su ingreso al Registro. Para acceder a las medidas de atención, asistencia y reparación integral previstos en esta Ley, deberá realizarse el ingreso, y valoración por parte de la autoridad correspondiente en cumplimiento de las disposiciones del Capítulo III del presente Título.
@@ -1385,9 +1519,12 @@ Artículo reformado DOF 03-05-2013
 ### Artículo 101
 . Presentada la solicitud, deberá ingresarse la misma al Registro, y se procederá a la valoración de la información recogida en el formato único junto con la documentación remitida que acompañe dicho formato.
 Para mejor proveer, la Comisión Ejecutiva y las comisiones de víctimas, podrán solicitar la información que consideren necesaria a cualquiera de las autoridades del orden federal, local y municipal, las que estarán en el deber de suministrarla en un plazo que no supere los diez días hábiles.
-Párrafo reformado DOF 03-05-2013 Si hubiera una duda razonable sobre la ocurrencia de los hechos se escuchará a la víctima o a quien haya solicitado la inscripción, quienes podrán asistir ante la comisión respectiva. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
-Párrafo reformado DOF 03-05-2013 La realización del proceso de valoración al que se hace referencia en los párrafos anteriores, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima, conforme lo establece el Título Tercero de esta Ley.
-Párrafo reformado DOF 03-05-2013 No se requerirá la valoración de los hechos de la declaración cuando:
+Párrafo reformado DOF 03-05-2013
+Si hubiera una duda razonable sobre la ocurrencia de los hechos se escuchará a la víctima o a quien haya solicitado la inscripción, quienes podrán asistir ante la comisión respectiva. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta Ley.
+Párrafo reformado DOF 03-05-2013
+La realización del proceso de valoración al que se hace referencia en los párrafos anteriores, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima, conforme lo establece el Título Tercero de esta Ley.
+Párrafo reformado DOF 03-05-2013
+No se requerirá la valoración de los hechos de la declaración cuando:
 
 I. Exista sentencia condenatoria o resolución por parte de la autoridad jurisdiccional o administrativa competente;
 
@@ -1437,6 +1574,7 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO V — INGRESO DE LA VÍCTIMA AL REGISTRO
+
 Capítulo reubicado y recorrido (antes capítulo VI) con denominación reformada DOF 03-05-2013
 
 ### Artículo 106
@@ -1490,11 +1628,14 @@ Fracción reformada DOF 03-01-2017
 VI. La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
 Fracción adicionada DOF 03-01-2017
 
-VII. La Comisión Ejecutiva, y Fracción adicionada DOF 03-01-2017
+VII. La Comisión Ejecutiva, y
+Fracción adicionada DOF 03-01-2017
 
 VIII. El Ministerio Público.
-Fracción adicionada DOF 03-01-2017 El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los Recursos de Ayuda, a la reparación integral y a la compensación, de conformidad con lo previsto en la presente Ley y en el Reglamento.
-Párrafo reformado DOF 06-11-2020 Artículo reformado DOF 03-05-2013
+Fracción adicionada DOF 03-01-2017
+El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los Recursos de Ayuda, a la reparación integral y a la compensación, de conformidad con lo previsto en la presente Ley y en el Reglamento.
+Párrafo reformado DOF 06-11-2020
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 111
 . El reconocimiento de la calidad de víctima tendrá como efecto:
@@ -1503,13 +1644,15 @@ I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, 
 
 II. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 Al reconocerse su calidad de víctima, ésta podrá acceder a los Recursos de Ayuda y a la reparación integral, de conformidad con lo previsto en la presente Ley y en el Reglamento. El procedimiento y los elementos a acreditar, se determinarán en el Reglamento correspondiente.
-Párrafo reformado DOF 06-11-2020 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 06-11-2020
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 112
 . El Sistema Nacional de Atención a Víctimas garantizará los servicios de ayuda, atención, asistencia, acceso a la justicia, a la verdad y a la reparación integral de los extranjeros que hayan sido víctimas del delito o de violaciones a derechos humanos en México, firmando los convenios de colaboración correspondientes con las autoridades competentes del país donde la víctima retorne y con apoyo de los consulados mexicanos en dicho país.
 Artículo reformado DOF 03-05-2013
 
 ## TÍTULO SÉPTIMO — DE LA DISTRIBUCIÓN DE COMPETENCIAS
+
 Título reubicado y reestructurado (se suprimen sus anteriores Capítulos II al VIII para quedar con once capítulos) DOF 03-05-2013
 
 ### Artículo 113
@@ -1517,6 +1660,7 @@ Título reubicado y reestructurado (se suprimen sus anteriores Capítulos II al 
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO I — DE LA FEDERACIÓN
+
 Capítulo reubicado y denominación reformada DOF 03-05-2013
 
 ### Artículo 114
@@ -1605,10 +1749,12 @@ IX. Apoyar a las autoridades encargadas de efectuar la investigación del delito
 X. Generar los espacios públicos para cumplir, en el ámbito de sus atribuciones lo que mandata la Ley;
 Fracción reformada DOF 03-01-2017
 
-XI. Brindar las medidas de atención prioritaria, determinadas por la Comisión Ejecutiva y las Comisiones de víctimas, en términos de esta Ley, y Fracción adicionada DOF 03-01-2017
+XI. Brindar las medidas de atención prioritaria, determinadas por la Comisión Ejecutiva y las Comisiones de víctimas, en términos de esta Ley, y
+Fracción adicionada DOF 03-01-2017
 
 XII. Las demás previstas para el cumplimiento de la presente Ley, las normas reglamentarias respectivas y el Programa.
-Fracción adicionada DOF 03-01-2017 En materia educativa, las autoridades competentes establecerán un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los niveles de educación primaria, secundaria, preparatoria o universidad en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
+Fracción adicionada DOF 03-01-2017
+En materia educativa, las autoridades competentes establecerán un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los niveles de educación primaria, secundaria, preparatoria o universidad en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
 En los casos en que la víctima esté cursando sus estudios en una institución privada, el apoyo se brindará hasta la conclusión del ciclo escolar en curso.
 En materia de relaciones exteriores, promover, propiciar y asegurar en el exterior la coordinación de acciones en materia de cooperación internacional de las dependencias y entidades de la Administración Pública Federal, que garanticen la protección de los derechos de las víctimas, así como intervenir en la celebración de tratados, acuerdos y convenciones internacionales que se vinculen con la protección de los derechos humanos de las víctimas en los que el país sea parte.
 Las instituciones del sector salud, de manera integral e interdisciplinaria brindarán atención médica, psicológica y servicios integrales a las víctimas, asegurando que en la prestación de los servicios se respeten sus derechos humanos.
@@ -1616,6 +1762,7 @@ Las dependencias e instituciones de seguridad pública deberán salvaguardar la 
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO II — DEL ACCESO A LA JUSTICIA
+
 Capítulo reubicado y recorrido (antes Capítulo IX) DOF 03-05-2013
 
 ### Artículo 117
@@ -1643,6 +1790,7 @@ IX. Las demás previstas para el cumplimiento de la presente Ley, y las normas r
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO III — DE LAS ENTIDADES FEDERATIVAS
+
 Capítulo reubicado y recorrido (antes Capítulo X) DOF 03-05-2013
 
 ### Artículo 118
@@ -1687,6 +1835,7 @@ Las autoridades federales harán las gestiones necesarias para propiciar que las
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO IV — DE LOS MUNICIPIOS
+
 Capítulo reubicado y recorrido (antes Capítulo XI) DOF 03-05-2013
 
 ### Artículo 119
@@ -1712,6 +1861,7 @@ IX. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamie
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO V — DE LOS SERVIDORES PÚBLICOS
+
 Capítulo reubicado y recorrido (antes Capítulo XII) DOF 03-05-2013
 
 ### Artículo 120
@@ -1768,6 +1918,7 @@ Ello sin perjuicio de las responsabilidades administrativas o penales que se gen
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO VI — DEL MINISTERIO PÚBLICO
+
 Capítulo reubicado y recorrido (antes Capítulo XIII) DOF 03-05-2013
 
 ### Artículo 123
@@ -1795,6 +1946,7 @@ XI. Las demás acciones que establezcan las disposiciones jurídicas aplicables 
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO VII — DE LOS INTEGRANTES DEL PODER JUDICIAL
+
 Capítulo reubicado y recorrido (antes Capítulo XIV) con denominación reformada DOF 03-05-2013
 
 ### Artículo 124
@@ -1824,6 +1976,7 @@ XI. Las demás acciones que dispongan las disposiciones jurídicas aplicables en
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO VIII — DEL ASESOR JURÍDICO DE LAS VÍCTIMAS
+
 Capítulo reubicado y recorrido (antes Capítulo XV) con denominación reformada DOF 03-05-2013
 
 ### Artículo 125
@@ -1847,7 +2000,8 @@ VI. Representar a la víctima en todo procedimiento jurisdiccional o administrat
 Fracción reformada DOF 03-01-2017
 
 VII. Derogada.
-Fracción derogada DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Fracción derogada DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 125
 Bis. La Asesoría Jurídica se integrará por los abogados, peritos, profesionales y técnicos de las diversas disciplinas que se requieren para la defensa de los derechos previstos en esta Ley.
@@ -1855,6 +2009,7 @@ La Asesoría Jurídica para el cumplimiento de los objetos de la presente Ley co
 Artículo adicionado DOF 03-01-2017
 
 ## CAPÍTULO IX — DE LOS FUNCIONARIOS DE ORGANISMOS PÚBLICOS DE PROTECCIÓN DE DERECHOS
+
 HUMANOS Capítulo reubicado y recorrido (antes Capítulo XVI) DOF 03-05-2013
 
 ### Artículo 126
@@ -1877,6 +2032,7 @@ VIII. Recomendar las reparaciones a favor de las víctimas de violaciones a los 
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO X — DE LAS POLICÍAS
+
 Capítulo reubicado y recorrido (antes Capítulo XVII) DOF 03-05-2013
 
 ### Artículo 127
@@ -1898,6 +2054,7 @@ VII. Mantener actualizados los registros en cumplimiento de esta Ley y de las le
 Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO XI — DE LA VÍCTIMA
+
 Capítulo reubicado y recorrido (antes Capítulo XVIII) DOF 03-05-2013
 
 ### Artículo 128
@@ -1917,9 +2074,11 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013
 
 ## TÍTULO OCTAVO — DE LOS RECURSOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
+
 Título reubicado y denominación reformada DOF 03-05-2013. Denominación reformada DOF 06-11-2020
 
 ## CAPÍTULO I — OBJETO E INTEGRACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 130
@@ -1955,6 +2114,7 @@ Artículo reformado DOF 03-05-2013, 03-01-2017. Derogado DOF 06-11-2020
 Artículo reformado DOF 03-05-2013, 03-01-2017. Derogado DOF 06-11-2020
 
 ## CAPÍTULO II — DE LA ADMINISTRACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 136
@@ -1980,7 +2140,8 @@ Artículo reformado DOF 03-05-2013, 06-11-2020
 
 ### Artículo 141
 . La Federación se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al presupuesto de la Comisión Ejecutiva para dar cumplimiento a lo previsto en la presente Ley y el Reglamento. Dichos recursos deberán enterarse a la tesorería de la Comisión Ejecutiva, mismos que serán utilizados para continuar otorgando la compensación prevista en el Título Quinto del presente ordenamiento.
-Párrafo reformado DOF 06-11-2020 Para tal efecto, se aportarán a la Federación los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
+Párrafo reformado DOF 06-11-2020
+Para tal efecto, se aportarán a la Federación los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
 El Ministerio Público estará obligado a ofrecer los elementos probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor de la Federación en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
 En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial correspondiente.
 Artículo reformado DOF 03-05-2013
@@ -1994,11 +2155,13 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013, 06-11-2020
 
 ## CAPÍTULO III — DEL PROCEDIMIENTO
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 144
 . Para acceder a los Recursos de Ayuda, asistencia y reparación integral, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva de conformidad con lo señalado por esta Ley y su Reglamento.
-Párrafo reformado DOF 06-11-2020 Quien reciba la solicitud la remitirá a la Comisión Ejecutiva o comisiones de víctimas en un plazo que no podrá exceder los dos días hábiles.
+Párrafo reformado DOF 06-11-2020
+Quien reciba la solicitud la remitirá a la Comisión Ejecutiva o comisiones de víctimas en un plazo que no podrá exceder los dos días hábiles.
 Las determinaciones de las comisiones respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
 Artículo reformado DOF 03-05-2013
 
@@ -2062,9 +2225,11 @@ III. La imposibilidad de trabajar como consecuencia del daño;
 IV. El número y la edad de los dependientes económicos, y
 
 V. La disponibilidad presupuestaria.
-Fracción reformada DOF 06-11-2020 Artículo reformado DOF 03-05-2013
+Fracción reformada DOF 06-11-2020
+Artículo reformado DOF 03-05-2013
 
 ## CAPÍTULO IV — DE LA REPARACIÓN
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 151
@@ -2096,7 +2261,9 @@ Artículo reformado DOF 03-05-2013
 Artículo reformado DOF 03-05-2013, 06-11-2020
 
 ## CAPÍTULO V — DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA
-ENTIDAD FEDERATIVA Capítulo adicionado DOF 03-01-2017
+
+ENTIDAD FEDERATIVA
+Capítulo adicionado DOF 03-01-2017
 
 ### Artículo 157
 Bis. El Fondo estatal se conformará con los recursos que destinen las entidades federativas expresamente para dicho fin.
@@ -2104,7 +2271,8 @@ Artículo adicionado DOF 03-01-2017
 
 ### Artículo 157
 Ter. La suma de las asignaciones anuales que cada entidad federativa aporte a su respectivo Fondo estatal, será igual al 50% de los recursos que se autoricen a la Comisión Ejecutiva en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, para el pago de ayudas, asistencia y reparación integral en términos de esta Ley y el Reglamento.
-Párrafo reformado DOF 06-11-2020 La aportación anual que deberá realizar cada entidad federativa al Fondo estatal respectivo, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población de dicha entidad federativa con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+Párrafo reformado DOF 06-11-2020
+La aportación anual que deberá realizar cada entidad federativa al Fondo estatal respectivo, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población de dicha entidad federativa con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 La aportación anual de cada entidad federativa se deberá efectuar, siempre y cuando, el patrimonio del Fondo estatal al inicio del ejercicio sea inferior al monto de aportación que corresponde a la entidad federativa de acuerdo con el párrafo anterior. Dicha aportación se deberá efectuar a más tardar al 31 de marzo de cada ejercicio.
 Artículo adicionado DOF 03-01-2017
 
@@ -2117,6 +2285,7 @@ Quinquies. La constitución de cada Fondo estatal será con independencia de la 
 Artículo adicionado DOF 03-01-2017
 
 ## TÍTULO NOVENO — DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN
+
 Título reubicado DOF 03-05-2013
 
 ### Artículo 158
@@ -2152,12 +2321,15 @@ Artículo reformado DOF 03-05-2013
 La formación y capacitación se realizará con enfoque diferencial y transformador. Se ofrecerá a la víctima programas en virtud de su interés, condición y contexto, atendiendo a la utilidad de dicha capacitación o formación. El objeto es brindar a la víctima herramientas idóneas que ayuden a hacer efectiva la atención y la reparación integral, así como favorecer el fortalecimiento y resiliencia de la víctima.
 Asimismo, deberá brindarse a la víctima orientación ocupacional específica que le permita optar sobre los programas, planes y rutas de capacitación y formación más idóneos conforme su interés, condición y contexto.
 Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno al momento de la expedición de la presente Ley, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma. Cuando en el Gobierno Federal o en los gobiernos de las entidades federativas no cuenten con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, deberán crear los programas y planes específicos.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ## TÍTULO DÉCIMO — DE LA ASESORÍA JURÍDICA FEDERAL Y DE LAS ENTIDADES FEDERATIVAS DE
+
 ATENCIÓN A VÍCTIMAS Título reubicado y denominación reformada DOF 03-05-2013
 
 ## CAPÍTULO ÚNICO
+
 Capítulo reubicado DOF 03-05-2013
 
 ### Artículo 165
@@ -2168,8 +2340,10 @@ Artículo reformado DOF 03-05-2013
 
 ### Artículo 166
 . La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
-Párrafo reformado DOF 18-02-2022 Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto en el artículo 121 y 125 de esta Ley.
-Párrafo reformado DOF 03-01-2017 Artículo reformado DOF 03-05-2013
+Párrafo reformado DOF 18-02-2022
+Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto en el artículo 121 y 125 de esta Ley.
+Párrafo reformado DOF 03-01-2017
+Artículo reformado DOF 03-05-2013
 
 ### Artículo 167
 . La Asesoría Jurídica Federal tiene a su cargo las siguientes funciones:
@@ -2190,8 +2364,10 @@ Artículo reformado DOF 03-05-2013
 
 ### Artículo 168
 . La víctima tendrá derecho a solicitar a la Comisión Ejecutiva o a las Comisiones de víctimas, según corresponda, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro. En este caso, la Comisión Ejecutiva del Sistema Nacional de Víctimas deberá nombrarle uno a través de la Asesoría Jurídica Federal, así como un intérprete o traductor lingüístico cuando la víctima no comprenda el idioma español o tenga discapacidad auditiva, verbal o visual.
-Párrafo reformado DOF 03-01-2017, 18-02-2022 La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida, y de contar con un intérprete o traductor de su lengua, cuando así se requiera.
-Párrafo reformado DOF 18-02-2022 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o pueden contratar a un abogado particular y en especial a:
+Párrafo reformado DOF 03-01-2017, 18-02-2022
+La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida, y de contar con un intérprete o traductor de su lengua, cuando así se requiera.
+Párrafo reformado DOF 18-02-2022
+El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o pueden contratar a un abogado particular y en especial a:
 
 I. Las personas que estén desempleadas y no perciban ingresos;
 
@@ -2306,31 +2482,40 @@ X. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 Artículo reformado DOF 03-05-2013
 
 ### Artículo 181
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 182
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 183
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 184
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 185
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 186
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 187
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 188
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ### Artículo 189
-. (Se deroga) Artículo derogado DOF 03-05-2013
+. (Se deroga)
+Artículo derogado DOF 03-05-2013
 
 ## TRANSITORIOS
 
@@ -2371,9 +2556,9 @@ Publicado en el Diario Oficial de la Federación el 3 de enero de 2017
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN el primero y tercer párrafos del artículo 1; las fracciones I, III, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI del artículo 6; las fracciones XXI, XXX y XXXIV del artículo 7; el primero, segundo y cuarto párrafos del artículo 8; la fracción IV del artículo 12; el segundo párrafo del artículo 28; el artículo 29; el último párrafo del artículo 30; el artículo 31; el primer párrafo del artículo 33; las fracciones I y II del artículo 34; el artículo 36; el artículo 38; la denominación del CAPÍTULO III del TÍTULO TERCERO para quedar como "MEDIDAS EN MATERIA DE TRASLADO"; el
-**primero.** y el último párrafos del artículo 40; el artículo 42; el artículo 45; el artículo 46; el artículo 47; el artículo 52; el artículo 54; el artículo 57; las fracciones I y VI del artículo 61; el primero y último párrafos del artículo 67; el artículo 68; el artículo 70; el artículo 71; el segundo, cuarto y quinto párrafos del artículo 79; el artículo 80; las fracciones I, III, XVI y XVII del artículo 81; el inciso b) de la fracción IV del artículo 82; el sexto párrafo del artículo 83; el primero y quinto párrafos del artículo 84; el artículo 85; el primer párrafo, las fracciones III y IV y los dos últimos párrafos del artículo 86; el artículo 87; las fracciones XIV, XXII, XXV, XXXV y XXXVI del artículo 88; el artículo 89; el segundo párrafo del artículo 90; el artículo 93; el primer párrafo y las fracciones II, IV, IX, XII y XIII del artículo 95; el tercero, cuarto, quinto y sexto párrafos del artículo 96; la fracción III del primer párrafo del artículo 97; el primer párrafo del artículo 98; la fracción IV del artículo 100; las fracciones IV y V del artículo 110; la fracción VI del artículo 114; la fracción X del artículo 116; el primer párrafo del artículo 117; las fracciones I, III, IV, V y VI del artículo 125; el primer párrafo del artículo 130; la fracción I del artículo 132; el artículo 134; el artículo 135; el artículo 136; el primer párrafo y las fracciones I y III del artículo 138; el artículo 145; el cuarto párrafo del artículo 164; el segundo párrafo del artículo 166; el primer párrafo del artículo 168. Se ADICIONAN el principio de "Interés superior de la niñez" al artículo 5, entre los principios de "Integralidad, indivisibilidad e interdependencia" y de "Máxima protección" recorriéndose los subsecuentes; las fracciones XXXV, XXXVI y XXXVII al artículo 7; cinco últimos párrafos al artículo 8; un último párrafo al artículo 9; dos párrafos finales al artículo 12; dos párrafos al artículo 15; el párrafo quinto, recorriéndose los anteriores
-**quinto.** a séptimo para ser sexto, séptimo y octavo del artículo 21; un último párrafo al artículo 27; un último párrafo al artículo 28; un último párrafo al artículo 34; el artículo 39 Bis; dos últimos párrafos al artículo 64; dos últimos párrafos al artículo 79; la fracción XVIII al artículo 81; un segundo, tercer y cuarto párrafos al artículo 84, recorriéndose los actuales segundo, tercero, cuarto y quinto para ser quinto, sexto,
-**séptimo.** y octavo respectivamente; el artículo 84 Bis; el artículo 84 Ter; el artículo 84 Quáter; el artículo 84 Quinquies; el artículo 84 Sexies; el artículo 84 Septies; el artículo 84 Octies; la fracción V al artículo 86; la fracción XXXVII al artículo 88; el artículo 88 Bis; la fracción XIV al artículo 95; las fracciones VI, VII y VIII al artículo 110; las fracciones XI y XII al artículo 116; el artículo 125 Bis; un CAPÍTULO V "DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA" al TÍTULO OCTAVO, con los artículos 157 Bis, 157 Ter, 157 Quáter y 157 Quinquies. Se DEROGAN los artículos 16; la fracción XXX del artículo 88; 92; 94; la fracción VII del artículo 125; los artículos 175; 176; 177 y 178; de la Ley de Víctimas, para quedar como sigue: ……….
+**primero.-** y el último párrafos del artículo 40; el artículo 42; el artículo 45; el artículo 46; el artículo 47; el artículo 52; el artículo 54; el artículo 57; las fracciones I y VI del artículo 61; el primero y último párrafos del artículo 67; el artículo 68; el artículo 70; el artículo 71; el segundo, cuarto y quinto párrafos del artículo 79; el artículo 80; las fracciones I, III, XVI y XVII del artículo 81; el inciso b) de la fracción IV del artículo 82; el sexto párrafo del artículo 83; el primero y quinto párrafos del artículo 84; el artículo 85; el primer párrafo, las fracciones III y IV y los dos últimos párrafos del artículo 86; el artículo 87; las fracciones XIV, XXII, XXV, XXXV y XXXVI del artículo 88; el artículo 89; el segundo párrafo del artículo 90; el artículo 93; el primer párrafo y las fracciones II, IV, IX, XII y XIII del artículo 95; el tercero, cuarto, quinto y sexto párrafos del artículo 96; la fracción III del primer párrafo del artículo 97; el primer párrafo del artículo 98; la fracción IV del artículo 100; las fracciones IV y V del artículo 110; la fracción VI del artículo 114; la fracción X del artículo 116; el primer párrafo del artículo 117; las fracciones I, III, IV, V y VI del artículo 125; el primer párrafo del artículo 130; la fracción I del artículo 132; el artículo 134; el artículo 135; el artículo 136; el primer párrafo y las fracciones I y III del artículo 138; el artículo 145; el cuarto párrafo del artículo 164; el segundo párrafo del artículo 166; el primer párrafo del artículo 168. Se ADICIONAN el principio de "Interés superior de la niñez" al artículo 5, entre los principios de "Integralidad, indivisibilidad e interdependencia" y de "Máxima protección" recorriéndose los subsecuentes; las fracciones XXXV, XXXVI y XXXVII al artículo 7; cinco últimos párrafos al artículo 8; un último párrafo al artículo 9; dos párrafos finales al artículo 12; dos párrafos al artículo 15; el párrafo quinto, recorriéndose los anteriores
+**quinto.-** a séptimo para ser sexto, séptimo y octavo del artículo 21; un último párrafo al artículo 27; un último párrafo al artículo 28; un último párrafo al artículo 34; el artículo 39 Bis; dos últimos párrafos al artículo 64; dos últimos párrafos al artículo 79; la fracción XVIII al artículo 81; un segundo, tercer y cuarto párrafos al artículo 84, recorriéndose los actuales segundo, tercero, cuarto y quinto para ser quinto, sexto,
+**séptimo.-** y octavo respectivamente; el artículo 84 Bis; el artículo 84 Ter; el artículo 84 Quáter; el artículo 84 Quinquies; el artículo 84 Sexies; el artículo 84 Septies; el artículo 84 Octies; la fracción V al artículo 86; la fracción XXXVII al artículo 88; el artículo 88 Bis; la fracción XIV al artículo 95; las fracciones VI, VII y VIII al artículo 110; las fracciones XI y XII al artículo 116; el artículo 125 Bis; un CAPÍTULO V "DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA" al TÍTULO OCTAVO, con los artículos 157 Bis, 157 Ter, 157 Quáter y 157 Quinquies. Se DEROGAN los artículos 16; la fracción XXX del artículo 88; 92; 94; la fracción VII del artículo 125; los artículos 175; 176; 177 y 178; de la Ley de Víctimas, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -2406,24 +2591,24 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ### ARTÍCULO DÉCIMO OCTAVO
 Se reforman los artículos 6, fracción XV; 7, fracción XXXVI; 8, párrafos séptimo, octavo y noveno; 12, párrafo segundo; 15, párrafo segundo; 21, párrafo quinto; 27, párrafo tercero; 39 bis, párrafo segundo; 67, párrafo primero; 68, párrafo segundo; 70, 71, 81, fracción XVII; 84, párrafos sexto y séptimo; 87; 88, fracciones XIV, XVIII y XXXV; 88 Bis, tercer párrafo; 93, fracción I; 95, fracción VI; 110, segundo párrafo; 111, segundo párrafo; 130; 131; 132; 136, párrafos
-**primero.** y segundo; 139; 140; 141, párrafo primero; 143; 144, párrafo primero; 149, párrafo primero; 150, fracción V; 157; 157 Ter, párrafo primero, y 157 Quáter, así como la denominación del Título Octavo; y se derogan los artículos 6, fracción VIII; 93, fracción III; 133; 134; 135; 137 y 138 de la Ley General de Víctimas, para quedar como sigue: ……..
+**primero.-** y segundo; 139; 140; 141, párrafo primero; 143; 144, párrafo primero; 149, párrafo primero; 150, fracción V; 157; 157 Ter, párrafo primero, y 157 Quáter, así como la denominación del Título Octavo; y se derogan los artículos 6, fracción VIII; 93, fracción III; 133; 134; 135; 137 y 138 de la Ley General de Víctimas, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-**Cuarto.** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+**Cuarto.-** Las dependencias y entidades, por conducto de sus unidades responsables, deberán coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos previstos en las disposiciones que se abrogan, reforman o derogan por virtud de este Decreto, salvo que la Secretaría de Hacienda y Crédito Público determine una fecha distinta para la concentración de los recursos.
 A la extinción de los fideicomisos, y terminación de mandatos y análogos públicos las entidades concentrarán en sus respectivas tesorerías los recursos distintos a los fiscales, en el plazo señalado en el primer párrafo del presente Transitorio.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, con prioridad para el fortalecimiento de los programas y acciones en materia de salud, especialmente para los requerimientos derivados de la atención a la Pandemia generada por la enfermedad Covid-19, que ocasiona el Coronavirus SARS-CoV2, incluyendo, en su caso, la obtención de la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-**Quinto.** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
+**Quinto.-** Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el primer semestre del ejercicio 2021 se suscriban los convenios de extinción o terminación respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-**Sexto.** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
-**Séptimo.** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
+**Sexto.-** Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+**Séptimo.-** El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio de dichos fideicomisos, en términos de las disposiciones aplicables, en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Por lo que a partir de la entrada en vigor del presente Decreto no podrán adquirir compromisos adicionales con cargo al patrimonio de dichos instrumentos.
 Asimismo, deberán concentrar en sus tesorerías los recursos distintos a los señalados en el primer párrafo del presente Transitorio en el plazo previsto en el mismo.
 El Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación deberán coordinarse con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para extinguir los fideicomisos públicos constituidos al amparo de la Ley de Ciencia y Tecnología, con la finalidad de que durante el ejercicio fiscal de 2021 se suscriban los convenios de extinción en términos de las disposiciones aplicables.
 Los fideicomisos públicos constituidos por Centros Públicos de Investigación para el cumplimiento exclusivo de obligaciones de carácter laboral o en materia de seguridad social continuarán operando con la finalidad de salvaguardar los derechos laborales de los trabajadores.
@@ -2435,20 +2620,20 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del transitorio Cuarto de este Decreto.
 A la entrada en vigor del presente Decreto, los fondos Sectorial CONACYT-Secretaría de EnergíaHidrocarburos; Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, y de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, no podrán contraer obligaciones adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la entrada en vigor de este Decreto.
-**Octavo.** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
+**Octavo.-** El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, la totalidad de los recursos públicos federales que formen parte del patrimonio del mismo en la fecha que determine la Secretaría de Hacienda y Crédito Público en conjunto con el Consejo Nacional de Ciencia y Tecnología, sin que la misma rebase el 30 de junio de 2021. Cumplido lo anterior, el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de este Decreto.
-**Noveno.** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
-**Décimo.** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-**Décimo Primero.** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
-**Décimo Segundo.** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-**Décimo Tercero.** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
-**Décimo Cuarto.** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
+**Noveno.-** Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
+**Décimo.-** La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
+**Décimo Primero.-** Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente Decreto, en lo que resulte conducente.
+**Décimo Segundo.-** La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
+**Décimo Tercero.-** Los recursos que integran el patrimonio de los fideicomisos públicos denominados Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+**Décimo Cuarto.-** Los recursos que integran el patrimonio del fideicomiso público denominado Fondo para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional competente y, en caso de resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado en el transitorio Quinto.
-**Décimo Quinto.** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
+**Décimo Quinto.-** A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
 Una vez cumplidas la totalidad de las obligaciones y se ejerzan los derechos derivados de los instrumentos a que se refiere el párrafo anterior, el Fideicomiso para promover el acceso al financiamiento de MIPYMES y Emprendedores se extinguirá en términos de las disposiciones aplicables.
 A la extinción de dicho vehículo, la Secretaría de Economía por conducto de la unidad responsable, realizará las acciones necesarias para concentrar los recursos federales remanentes en la Tesorería de la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
@@ -2456,18 +2641,18 @@ Los ingresos excedentes que se concentren en la Tesorería de la Federación al 
 ## Transitorio
 
 se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente.
-**Décimo Sexto.** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
+**Décimo Sexto.-** La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho instrumento en términos del transitorio Quinto del presente Decreto. De igual forma, por conducto de la unidad responsable del mandato, deberá coordinar las acciones que correspondan para que concentre los recursos públicos federales en la Tesorería de la Federación, de conformidad con lo dispuesto en el
 
 ## transitorio
 
-**Cuarto.** del presente Decreto.
+**Cuarto.-** del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-**Décimo Séptimo.** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
-**Décimo Octavo.** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
-**Décimo Noveno.** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
+**Décimo Séptimo.-** A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este Decreto y de sus disposiciones transitorias.
+**Décimo Octavo.-** Los recursos que integran el patrimonio del Fondo a que se refiere el segundo párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se reintegre a la Tesorería de la Federación. Asimismo, la Financiera, en conjunto con la institución crediticia del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente Decreto.
+**Décimo Noveno.-** Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y únicamente podrán llevarse a cabo los actos tendientes a su extinción. Con los recursos a que se refiere el artículo 37 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria se podrán cubrir las obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-**Vigésimo.** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+**Vigésimo.-** Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
 Ciudad de México, a 20 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -2479,39 +2664,39 @@ Se reforma la fracción II del artículo 117 de la Ley General de Víctimas, par
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman los artículos 166, 168 y 170 de la Ley General de Víctimas.
 Publicado en el Diario Oficial de la Federación el 18 de febrero de 2022
@@ -2521,9 +2706,9 @@ Se reforman el primer párrafo del artículo 166; el primer y segundo párrafos 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 120 días para armonizar su respectiva legislación conforme a lo establecido en este Decreto.
-**Tercero.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 120 días para armonizar su respectiva legislación conforme a lo establecido en este Decreto.
+**Tercero.-** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
 Ciudad de México, a 14 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de febrero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacional de los Pueblos Indígenas, la Ley General de Derechos Lingüísticos de los Pueblos Indígenas y la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
@@ -2533,10 +2718,10 @@ Se reforman los incisos a), b) y c) de la fracción I, los incisos a), b) y c) d
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -2548,8 +2733,8 @@ Se reforman la fracción XXXV del artículo 7, y el primer párrafo del artícul
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
@@ -2557,7 +2742,7 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 ### Artículo Trigésimo
 Noveno.- Se reforman los artículos 5, undécimo párrafo; 7, fracción XXI; 28,
-**segundo.** párrafo; 45; 47; 91, primer párrafo y 116, fracción V, de la Ley General de Víctimas, para quedar como sigue: ……….
+**segundo.-** párrafo; 45; 47; 91, primer párrafo y 116, fracción V, de la Ley General de Víctimas, para quedar como sigue: ……….
 
 ## Transitorio
 

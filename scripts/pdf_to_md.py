@@ -1045,7 +1045,115 @@ def build_ast(lines: list[str], metadata: dict) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Formateo Markdown
+# Render Markdown from AST — el JSON es la fuente de verdad
+# ---------------------------------------------------------------------------
+
+def render_markdown(ast: dict) -> list[str]:
+    """
+    Renderiza un AST canónico (JSON) a líneas de Markdown.
+    El AST es la fuente de verdad; el Markdown es una de sus vistas.
+    """
+    lines: list[str] = []
+
+    # Encabezado meta
+    name = ast.get("name", "")
+    lines.extend([
+        f"# {name}",
+        "",
+        "> Documento generado automáticamente a partir del PDF oficial.",
+        "> Fuente: Cámara de Diputados del H. Congreso de la Unión — [diputados.gob.mx](https://www.diputados.gob.mx)",
+        "",
+        "---",
+        "",
+    ])
+
+    # Preámbulo
+    _render_content(ast.get("preamble", []), lines)
+
+    # Estructura
+    for node in ast.get("structure", []):
+        _render_node(node, lines)
+
+    return lines
+
+
+def _render_content(elements: list[dict], lines: list[str]) -> None:
+    """Renderiza elementos de contenido (párrafos, fracciones, etc.) a Markdown."""
+    for i, elem in enumerate(elements):
+        t = elem.get("type", "")
+        if t == "paragraph":
+            lines.append(elem.get("text", ""))
+        elif t == "fraccion":
+            if i > 0:
+                lines.append("")
+            lines.append(f"{elem['ordinal']}. {elem.get('text', '')}")
+        elif t == "inciso":
+            if i > 0:
+                lines.append("")
+            lines.append(f"{elem['ordinal']}) {elem.get('text', '')}")
+        elif t == "reform_note":
+            lines.append(elem.get("text", ""))
+        elif t == "table":
+            _render_table(elem, lines)
+
+
+def _render_table(table: dict, lines: list[str]) -> None:
+    """Renderiza un nodo tabla a formato Markdown."""
+    title = table.get("title")
+    headers = table.get("headers", [])
+    rows = table.get("rows", [])
+    lines.append("")
+    if title:
+        lines.append(f"**{title}**")
+    if headers:
+        lines.append("| " + " | ".join(headers) + " |")
+        lines.append("| " + " | ".join(["---"] * len(headers)) + " |")
+        for row in rows:
+            lines.append("| " + " | ".join(row) + " |")
+    lines.append("")
+
+
+def _render_node(node: dict, lines: list[str]) -> None:
+    """Renderiza un nodo estructural del AST a Markdown."""
+    ntype = node.get("type", "")
+    heading = node.get("heading", "")
+    descriptor = node.get("descriptor")
+    content = list(node.get("content", []))
+    children = node.get("children", [])
+
+    if ntype in ("titulo", "capitulo", "seccion", "transitorios"):
+        h = heading
+        if descriptor:
+            h += f" — {descriptor}"
+        lines.append("")
+        lines.append(f"## {h}")
+        lines.append("")
+
+    elif ntype == "articulo":
+        lines.append("")
+        lines.append(f"### {heading}")
+
+    elif ntype == "transitorio_articulo":
+        ordinal = node.get("ordinal", "") or heading
+        if re.match(r'(?:ARTÍCULO|Artículo)\s', heading or ordinal):
+            lines.append("")
+            lines.append(f"### {heading}")
+        else:
+            # Ordinal transitorio: **Ordinal.-** texto
+            if content and content[0].get("type") == "paragraph":
+                lines.append(f"**{ordinal}.-** {content[0]['text']}")
+                content = content[1:]
+            else:
+                lines.append(f"**{ordinal}.-**")
+
+    _render_content(content, lines)
+
+    for child in children:
+        _render_node(child, lines)
+
+
+# ---------------------------------------------------------------------------
+# Formateo Markdown (legacy — usar render_markdown para nuevas conversiones)
 # ---------------------------------------------------------------------------
 
 def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
@@ -1239,7 +1347,7 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Convierte un PDF de ley mexicana a Markdown estructurado.",
+        description="Convierte un PDF de ley mexicana a Markdown estructurado + JSON canónico.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -1265,7 +1373,18 @@ def parse_args() -> argparse.Namespace:
         "--canonical-dir", "-c",
         type=Path,
         default=None,
-        help="Directorio para JSON canónico (default: no genera JSON).",
+        help="Directorio para JSON canónico (default: canonical/).",
+    )
+    parser.add_argument(
+        "--format",
+        choices=["json", "md", "both"],
+        default="both",
+        help="Formato de salida: json, md, o both (default: both).",
+    )
+    parser.add_argument(
+        "--validate",
+        action="store_true",
+        help="Valida el JSON generado contra el schema.",
     )
     return parser.parse_args()
 
@@ -1284,38 +1403,16 @@ def main() -> None:
     else:
         output_path = args.output.resolve()
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    canonical_dir = args.canonical_dir
+    if canonical_dir is None:
+        canonical_dir = Path(__file__).parent.parent / "canonical"
 
     title = args.title or pdf_path.stem.replace("_", " ").replace("-", " ")
 
     print(f"Extrayendo texto de: {pdf_path.name}", flush=True)
     lines, _ = extract_lines(pdf_path, verbose=args.verbose)
 
-    meta_header = [
-        f"# {title}",
-        "",
-        "> Documento generado automáticamente a partir del PDF oficial.",
-        "> Fuente: Cámara de Diputados del H. Congreso de la Unión — [diputados.gob.mx](https://www.diputados.gob.mx)",
-        "",
-        "---",
-        "",
-    ]
-
-    print("Estructurando Markdown...", flush=True)
-    md_lines = build_markdown(lines, meta_header)
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(md_lines))
-
-    print(f"✅ Markdown → {output_path}")
-    print(f"   Líneas: {len(md_lines)}")
-
-    # --- Generate canonical JSON ---
-    canonical_dir = args.canonical_dir
-    if canonical_dir is None:
-        # Default: canonical/ alongside markdown/
-        canonical_dir = Path(__file__).parent.parent / "canonical"
-
+    # --- Construir AST canónico (fuente de verdad) ---
     catalog_entry = _load_catalog_entry(pdf_path)
     if not catalog_entry.get("nombre"):
         catalog_entry["nombre"] = title
@@ -1323,14 +1420,38 @@ def main() -> None:
     print("Construyendo AST canónico...", flush=True)
     ast = build_ast(lines, catalog_entry)
 
-    canonical_dir = canonical_dir.resolve()
-    canonical_dir.mkdir(parents=True, exist_ok=True)
-    json_path = canonical_dir / (pdf_path.stem + ".json")
+    # --- Escribir JSON ---
+    if args.format in ("json", "both"):
+        canonical_dir = canonical_dir.resolve()
+        canonical_dir.mkdir(parents=True, exist_ok=True)
+        json_path = canonical_dir / (pdf_path.stem + ".json")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(ast, f, ensure_ascii=False, indent=2)
+        print(f"✅ JSON    → {json_path}")
 
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(ast, f, ensure_ascii=False, indent=2)
+    # --- Validar contra schema ---
+    if args.validate:
+        schema_path = Path(__file__).parent.parent / "schema" / "law_ast.schema.json"
+        if schema_path.exists():
+            try:
+                import jsonschema
+                with open(schema_path) as f:
+                    schema = json.load(f)
+                jsonschema.validate(ast, schema)
+                print("✅ JSON válido contra schema")
+            except ImportError:
+                print("⚠️  jsonschema no instalado, omitiendo validación", file=sys.stderr)
+            except jsonschema.ValidationError as e:
+                print(f"❌ Validación: {e.message[:200]}", file=sys.stderr)
 
-    print(f"✅ JSON    → {json_path}")
+    # --- Escribir Markdown (renderizado desde el AST) ---
+    if args.format in ("md", "both"):
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        md_lines = render_markdown(ast)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(md_lines))
+        print(f"✅ Markdown → {output_path}")
+        print(f"   Líneas: {len(md_lines)}")
 
 
 if __name__ == "__main__":

@@ -40,7 +40,8 @@ III. Emitir bonos bancarios de desarrollo. Dichos títulos procurarán fomentar 
 IV. Financiar la adquisición, construcción, ampliación y reparación de casas habitación para los miembros de las fuerzas armadas;
 
 V. Efectuar preferentemente con los militares y personas morales de los cuales aquéllos formen parte, las demás operaciones activas y pasivas de la Ley de Instituciones de Crédito autorizadas para las instituciones de banca de desarrollo;
-Fracción reformada DOF 10-01-2014 V Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
+Fracción reformada DOF 10-01-2014
+V Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 Fracción adicionada DOF 10-01-2014
 
 VI. Efectuar el servicio de pago por concepto de haber de retiro y pensión; y
@@ -48,7 +49,8 @@ VI. Efectuar el servicio de pago por concepto de haber de retiro y pensión; y
 VII. Las demás análogas y conexas al objeto de la Institución que le señale la Secretaría de Hacienda y Crédito Público, inclusive la de agente financiero del Gobierno Federal, en los términos de las disposiciones legales aplicables.
 ARTICULO 8o.- La Secretaría de Hacienda y Crédito Público, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Sociedad para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
 Corresponde al Banco de México, en los términos de su Ley, regular mediante disposiciones de carácter general, las características de las operaciones pasivas que impliquen captación de recursos del público, los fideicomisos, mandatos y comisiones, las operaciones en el mercado de dinero, así como las operaciones financieras conocidas como derivadas que celebre la Sociedad.
-Artículo reformado DOF 24-06-2002 ARTICULO 9o.- El Gobierno Federal responderá en todo tiempo de las operaciones concertadas por el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo:
+Artículo reformado DOF 24-06-2002
+ARTICULO 9o.- El Gobierno Federal responderá en todo tiempo de las operaciones concertadas por el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo:
 
 I. Con personas físicas o morales nacionales y de los depósitos obligatorios a que se refiere el artículo 55 de esta Ley; y
 
@@ -77,7 +79,8 @@ ARTICULO 20.- El Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad 
 ARTICULO 21.- Cuando el personal de generales, jefes, oficiales y tropa o sus equivalentes en la Armada, se encuentren sustraídos a la acción de la justicia Militar y el Banco sea notificado de ello por la autoridad militar competente, no podrán disponer de sus respectivos fondos de ahorro y de trabajo en tanto no exista resolución definitiva en los términos de la legislación del mismo fuero.
 ARTICULO 22.- Los préstamos se harán de tal manera que los abonos correspondientes para reintegrar la cantidad prestada, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse sobre cualquier otro adeudo con la Sociedad, no excederán del 50% del haber de retiro o pensión en su caso.
 ARTICULO 23.- El Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, administrará los recursos afectos a los fondos de ahorro y de trabajo, los cuales se destinarán al otorgamiento de préstamos de acuerdo con los términos y condiciones que autorice el Consejo Directivo y los requisitos previstos en esta Ley. Las cantidades no utilizadas serán invertidas, para fomentar y financiar las actividades que le han sido encomendadas a la sociedad en su carácter de banca de desarrollo.
-Artículo reformado DOF 10-01-2014 CAPITULO III Préstamos con Garantía Hipotecaria ARTICULO 24.- Los militares que se encuentren percibiendo haber o haber de retiro con cargo al Erario Federal, podrán obtener del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos, en la medida de los recursos disponibles para este fin. Dichos créditos deberán destinarse para:
+Artículo reformado DOF 10-01-2014
+CAPITULO III Préstamos con Garantía Hipotecaria ARTICULO 24.- Los militares que se encuentren percibiendo haber o haber de retiro con cargo al Erario Federal, podrán obtener del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos, en la medida de los recursos disponibles para este fin. Dichos créditos deberán destinarse para:
 
 I. Adquirir casas para habitación familiar del militar;
 
@@ -96,7 +99,9 @@ Párrafo reformado DOF 10-01-2014
 I. A los militares con haber o haber de retiro; y
 
 II. A los pensionistas.
-ARTICULO 28.- Se deroga Artículo derogado DOF 10-01-2014 ARTICULO 29.- Las Secretarías de la Defensa Nacional y de Marina, informarán al Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, en un plazo no mayor de quince días, contados a partir de la fecha en que se generen, las siguientes situaciones:
+ARTICULO 28.- Se deroga
+Artículo derogado DOF 10-01-2014
+ARTICULO 29.- Las Secretarías de la Defensa Nacional y de Marina, informarán al Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, en un plazo no mayor de quince días, contados a partir de la fecha en que se generen, las siguientes situaciones:
 
 I. Las altas y bajas del personal de las Fuerzas Armadas;
 
@@ -105,10 +110,16 @@ II. Las licencias que se concedan sin goce de haberes;
 III. Los nombres y las jerarquías de los militares que hayan cumplido la edad límite; y
 
 IV. Los nombres de los familiares que los militares señalen para disfrutar de los beneficios que la presente Ley les concede, incluso cuando el militar cause baja o cambie de beneficiarios.
-ARTICULO 30.- Se deroga Artículo derogado DOF 10-01-2014 ARTICULO 31.- Los préstamos de corto y mediano plazo se otorgarán conforme a las reglas que al efecto expida el Consejo Directivo.
-Artículo reformado DOF 10-01-2014 ARTICULO 32.- Se deroga Artículo derogado DOF 10-01-2014 ARTICULO 33.- Los adeudos por concepto de préstamos que no fueran cubiertos por los militares podrán ser descontados, después de seis meses de su vencimiento o en un plazo menor con autorización del acreditado, a sus fondos de ahorro o de trabajo y en cuanto a los militares con haber de retiro y a los pensionistas, los mismos se aplicarán a los haberes de retiro o percepciones que disfruten.
+ARTICULO 30.- Se deroga
+Artículo derogado DOF 10-01-2014
+ARTICULO 31.- Los préstamos de corto y mediano plazo se otorgarán conforme a las reglas que al efecto expida el Consejo Directivo.
+Artículo reformado DOF 10-01-2014
+ARTICULO 32.- Se deroga
+Artículo derogado DOF 10-01-2014
+ARTICULO 33.- Los adeudos por concepto de préstamos que no fueran cubiertos por los militares podrán ser descontados, después de seis meses de su vencimiento o en un plazo menor con autorización del acreditado, a sus fondos de ahorro o de trabajo y en cuanto a los militares con haber de retiro y a los pensionistas, los mismos se aplicarán a los haberes de retiro o percepciones que disfruten.
 Las políticas para los descuentos a que se refiere este artículo deberán ser aprobadas por el Consejo Directivo.
-Artículo reformado DOF 10-01-2014 TITULO TERCERO Capital Social ARTICULO 34.- El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará representado por certificados de aportación patrimonial en un 66% de la serie "A" y en un 34% de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
+Artículo reformado DOF 10-01-2014
+TITULO TERCERO Capital Social ARTICULO 34.- El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará representado por certificados de aportación patrimonial en un 66% de la serie "A" y en un 34% de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
 La serie "A" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal.
 La serie "B" podrá ser suscrita por el Gobierno Federal, por las entidades de la Administración Pública Paraestatal, por las sociedades mercantiles formadas por los miembros de las Fuerzas Armadas, por los miembros de éstas que tengan el grado de generales, jefes o sus equivalentes en la Armada y por personas físicas o morales mexicanas.
 La Secretaría de Hacienda y Crédito Público podrá autorizar que entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas y municipios, puedan adquirir certificados de la citada serie "B" en una proporción mayor de la establecida en el artículo 15 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
@@ -122,21 +133,29 @@ Párrafo reformado DOF 24-06-2002
 
 I. Cinco consejeros que representarán a la serie "A" de certificados de aportación patrimonial y que serán cada uno de las siguientes dependencias: de las Secretarías de la Defensa Nacional, de Marina y dos de la Secretaría de Hacienda y Crédito Público, así como del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 El Secretario de Hacienda y Crédito Público, presidirá el Consejo Directivo.
-Párrafo adicionado DOF 24-06-2002 Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inmediato inferior siguiente.
-Párrafo adicionado DOF 24-06-2002 En ausencias del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
-Párrafo adicionado DOF 24-06-2002. Reformado DOF 10-01-2014 Reforma DOF 24-06-2002: Derogó de esta fracción el entonces párrafo segundo
+Párrafo adicionado DOF 24-06-2002
+Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inmediato inferior siguiente.
+Párrafo adicionado DOF 24-06-2002
+En ausencias del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
+Párrafo adicionado DOF 24-06-2002. Reformado DOF 10-01-2014
+Reforma DOF 24-06-2002: Derogó de esta fracción el entonces párrafo segundo
 
 II. Cuatro Consejeros que representarán a la serie "B" designados de la siguiente manera, uno por cada una de las Secretarías: de la Defensa Nacional, de Marina, de Hacienda y Crédito Público y uno del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 Por cada consejero propietario se nombrará un suplente, en la forma y términos en que lo sean los propietarios.
 Reforma DOF 24-06-2002: Derogó de esta fracción los entonces párrafos segundo, cuarto y quinto
 
 III. Dos consejeros de la serie “B” designados por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, que tendrán el carácter de consejeros independientes. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
-Fracción adicionada DOF 24-06-2002 El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
-Párrafo adicionado DOF 24-06-2002 En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
-Párrafo adicionado DOF 24-06-2002 ARTICULO 40.- El Consejo Directivo se reunirá por lo menos trimestralmente y sesionará válidamente con la asistencia de cinco consejeros.
-Párrafo reformado DOF 10-01-2014 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
+Fracción adicionada DOF 24-06-2002
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
+Párrafo adicionado DOF 24-06-2002
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
+Párrafo adicionado DOF 24-06-2002
+ARTICULO 40.- El Consejo Directivo se reunirá por lo menos trimestralmente y sesionará válidamente con la asistencia de cinco consejeros.
+Párrafo reformado DOF 10-01-2014
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
-Párrafo adicionado DOF 24-06-2002 ARTICULO 41.- En caso de ausencia del Presidente del Consejo, será sustituido por el consejero que la Secretaría de la Defensa Nacional haya designado en primer lugar. En ausencia de ambos, los consejeros designarán al que habrá de sustituirlo.
+Párrafo adicionado DOF 24-06-2002
+ARTICULO 41.- En caso de ausencia del Presidente del Consejo, será sustituido por el consejero que la Secretaría de la Defensa Nacional haya designado en primer lugar. En ausencia de ambos, los consejeros designarán al que habrá de sustituirlo.
 ARTICULO 42.- No podrán ser consejeros:
 
 I. Las personas que se encuentren en los casos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
@@ -158,8 +177,10 @@ b) Nexo patrimonial importante y/o vínculo laboral con persona física o moral 
 c) Conflicto de intereses con la Sociedad, por ser clientes, proveedores, deudores, acreedores, importantes o de cualquier otra naturaleza, y
 
 d) La representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o sectores de atención que se relacionen con el objeto de la Sociedad o sean miembros de sus órganos directivos.
-Fracción adicionada DOF 24-06-2002 Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
-Párrafo adicionado DOF 24-06-2002 ARTICULO 43.- El Consejo dirigirá a la Sociedad en los términos de lo previsto por el artículo 20 y demás relativos de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+Fracción adicionada DOF 24-06-2002
+Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
+Párrafo adicionado DOF 24-06-2002
+ARTICULO 43.- El Consejo dirigirá a la Sociedad en los términos de lo previsto por el artículo 20 y demás relativos de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
 El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los acuerdos que en su caso dicte, respecto a las operaciones previstas en las fracciones VI y XI del artículo 30 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, deberán considerar la propuesta del Director General.
 ARTICULO 44.- También serán facultades del Consejo Directivo las siguientes:
 
@@ -179,14 +200,17 @@ Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014
 VI. Aprobar la política para la determinación de los intereses que se paguen a los fondos de ahorro y de trabajo, para ser sometida a la autorización de la Secretaría de Hacienda y Crédito Público;
 Fracción adicionada DOF 10-01-2014
 
-VII. Establecer los términos y condiciones del otorgamiento de préstamos con cargo a los fondos de ahorro y de trabajo, y Fracción adicionada DOF 10-01-2014
+VII. Establecer los términos y condiciones del otorgamiento de préstamos con cargo a los fondos de ahorro y de trabajo, y
+Fracción adicionada DOF 10-01-2014
 
 VIII. Aprobar las políticas para los descuentos previstos en el artículo 33 de la presente Ley.
-Fracción adicionada DOF 10-01-2014 ARTICULO 45.- El Director General será designado por el Ejecutivo Federal, debiendo recaer ese nombramiento en un General o Jefe del Ejército, de la Fuerza Aérea o su equivalente de la Armada.
+Fracción adicionada DOF 10-01-2014
+ARTICULO 45.- El Director General será designado por el Ejecutivo Federal, debiendo recaer ese nombramiento en un General o Jefe del Ejército, de la Fuerza Aérea o su equivalente de la Armada.
 ARTICULO 46.- El Director General tendrá a su cargo la administración y la representación legal del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo, al efecto tendrá las siguientes facultades y funciones:
 
 I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
-Fracción reformada DOF 24-06-2002 I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
+Fracción reformada DOF 24-06-2002
+I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
 Fracción adicionada DOF 10-01-2014
 
 II. Ejecutar las resoluciones del Consejo Directivo;
@@ -210,16 +234,22 @@ III. Utilizar, en beneficio propio o de terceros la información confidencial de
 
 IV. Someter a sabiendas a la consideración del Consejo Directivo, información falsa.
 Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie “A” y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-Artículo adicionado DOF 24-06-2002 ARTICULO 47.- La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
-Artículo reformado DOF 10-01-2014 ARTICULO 48.- Los consejeros, el Director General, los directores, los subdirectores, los gerentes y los delegados fiduciarios de la Sociedad, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
-ARTICULO 49.- (Derogado) Artículo derogado DOF 24-06-2002 TITULO QUINTO Disposiciones Generales ARTICULO 50.- La Secretaría de Hacienda y Crédito Público interpretará a efectos administrativos la presente Ley y podrá expedir las disposiciones complementarias que se requieran en la aplicación de la misma.
+Artículo adicionado DOF 24-06-2002
+ARTICULO 47.- La vigilancia de la Sociedad se realizará por los órganos y en los términos señalados en la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
+Artículo reformado DOF 10-01-2014
+ARTICULO 48.- Los consejeros, el Director General, los directores, los subdirectores, los gerentes y los delegados fiduciarios de la Sociedad, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
+ARTICULO 49.- (Derogado)
+Artículo derogado DOF 24-06-2002
+TITULO QUINTO Disposiciones Generales ARTICULO 50.- La Secretaría de Hacienda y Crédito Público interpretará a efectos administrativos la presente Ley y podrá expedir las disposiciones complementarias que se requieran en la aplicación de la misma.
 ARTICULO 51.- Las operaciones y servicios de la Sociedad se regirán por lo dispuesto en la presente Ley y supletoriamente por la Ley Reglamentaria del Servicio Público de Banca y Crédito, por la Ley Orgánica del Banco de México, y por las demás disposiciones aplicables.
 ARTICULO 52.- La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones, así como sus programas operativos de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría de Hacienda y Crédito Público.
 Las modalidades en la asignación de recursos serán autorizadas por la Secretaría de Hacienda y Crédito Público, en los términos del artículo 31 de la Ley de Instituciones de Crédito, la que procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables.
-Artículo reformado DOF 24-06-2002 ARTICULO 53.- Previa autorización de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos, no se considerarán remanentes de operación.
+Artículo reformado DOF 24-06-2002
+ARTICULO 53.- Previa autorización de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos, no se considerarán remanentes de operación.
 Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
 ARTICULO 54.- El gobierno federal aportará al Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, las cantidades necesarias para cubrir las obligaciones que impone esta Ley a la Sociedad, respecto al fondo de ahorro y fondo de trabajo, a cuyo efecto, la Secretaría de Hacienda y Crédito Público vigilará que en el Presupuesto de Egresos de la Federación correspondiente, se incluyan las partidas respectivas.
-Artículo reformado DOF 09-04-2012 ARTICULO 55.- Deberán hacerse en el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, los depósitos en efectivo que están obligados a constituir los alumnos que causan alta en las escuelas militares, a fin de garantizar su aprovechamiento.
+Artículo reformado DOF 09-04-2012
+ARTICULO 55.- Deberán hacerse en el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, los depósitos en efectivo que están obligados a constituir los alumnos que causan alta en las escuelas militares, a fin de garantizar su aprovechamiento.
 ARTICULO 56.- Los servidores públicos de la Sociedad, independientemente de lo señalado en esta Ley, serán preferentemente militares.
 ARTICULO 57.- La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma:
 Tres representantes de la Secretaría de Hacienda y Crédito Público; el Subsecretario de Egresos, el Subsecretario de Hacienda y Crédito Público y el Titular de la Unidad de Banca de Desarrollo;
@@ -232,7 +262,8 @@ La Secretaría de Hacienda y Crédito Público establecerá criterios en materia
 Este Comité sesionará a petición del director general de la Sociedad, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión. Sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público, quien lo presidirá, contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero sin voto.
 Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
 En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perjuicio del derecho de voto de su suplente, presidirá el Comité y ejercerá el voto de calidad el Titular de la Unidad de Banca de Desarrollo.
-Artículo adicionado DOF 24-06-2002. Reformado DOF 09-04-2012, 10-01-2014 ARTICULO 58.- La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución, con respecto a los actos que dichas personas realicen en el ejercicio de las funciones que tengan encomendadas por ley y de conformidad con los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+Artículo adicionado DOF 24-06-2002. Reformado DOF 09-04-2012, 10-01-2014
+ARTICULO 58.- La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución, con respecto a los actos que dichas personas realicen en el ejercicio de las funciones que tengan encomendadas por ley y de conformidad con los Lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 La mencionada asistencia y defensa legal se proporcionará aun cuando las personas indicadas dejen de desempeñar sus funciones o prestar sus servicios a la Sociedad, siempre que se trate de actos realizados en el desempeño de sus funciones o actividades al servicio de la Sociedad.
 La asistencia y defensa legal se proporcionará con cargo a los recursos con los que cuente la Sociedad para estos fines. En caso de que la autoridad competente dicte al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicha persona deberá rembolsar a la Sociedad los gastos y cualquier otra erogación que ésta hubiere efectuado con motivo de la asistencia y defensa legal.
 Lo dispuesto en este artículo se aplicará sin perjuicio de la obligación que tienen los sujetos de asistencia y defensa legal, de rendir los informes que les sean requeridos en términos de las disposiciones legales aplicables como parte del desempeño de sus funciones.
@@ -274,8 +305,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
@@ -285,11 +316,9 @@ Se REFORMAN los artículos 7, fracciones I, II, segundo párrafo, y V; 23; 27, p
 
 ### ARTÍCULO VIGÉSIMO PRIMERO
 En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo
-**Séptimo.** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
-
+**Séptimo.-** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
 I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo
-**segundo.** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
-
+**segundo.-** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
 II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
 
 III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
@@ -302,5 +331,5 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

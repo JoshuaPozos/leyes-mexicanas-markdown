@@ -16,14 +16,17 @@ LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLA
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es reglamentaria del párrafo primero de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos en materia de secuestro. Es de orden público y de observancia general en toda la República y tiene por objeto establecer los tipos penales, sus sanciones, las medidas de protección, atención y asistencia a ofendidos y víctimas, la distribución de competencias y formas de coordinación entre los órdenes de gobierno. Para ello la Federación y las Entidades Federativas, en el ámbito de sus competencias, estarán obligadas a coordinarse en el cumplimiento del objeto de esta Ley.
 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 2
 . Esta Ley establece los tipos penales y punibilidades en materia de secuestro. Para la investigación, persecución y sanción de los delitos previstos en la presente ley se aplicará en lo Contra la Delincuencia Organizada y la Ley General de Víctimas.
-Párrafo reformado DOF 17-06-2016 Los imputados por la comisión de alguno de los delitos señalados en los artículos 9, 10, 11, 17 y 18 de esta Ley, durante el proceso penal estarán sujetos a prisión preventiva oficiosa.
-Párrafo adicionado DOF 27-02-2011. Reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
+Párrafo reformado DOF 17-06-2016
+Los imputados por la comisión de alguno de los delitos señalados en los artículos 9, 10, 11, 17 y 18 de esta Ley, durante el proceso penal estarán sujetos a prisión preventiva oficiosa.
+Párrafo adicionado DOF 27-02-2011. Reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 3
 . El Ministerio Público, en todos los casos, en esta materia procederá de oficio.
@@ -59,7 +62,8 @@ Fracción adicionada DOF 17-06-2016
 
 ### Artículo 6
 . En el caso del delito de secuestro no procederá el archivo temporal de la investigación, aun cuando de las diligencias practicadas no resulten elementos suficientes para el ejercicio de la acción penal y no aparece que se puedan practicar otras. La policía, bajo la conducción y mando del Ministerio Público, estará obligada en todo momento a realizar las investigaciones tendientes a lograr el esclarecimiento de los hechos.
-Artículo reformado DOF 17-06-2016 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 17-06-2016
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 7
 . Sólo podrá suspenderse el proceso penal iniciado por el delito de secuestro o delitos por hechos conexos o derivados del mismo, en los casos aplicables a que se refiere el Código Nacional o cuando sea puesto a disposición de otro juez que lo reclame en el extranjero.
@@ -70,6 +74,7 @@ Artículo reformado DOF 17-06-2016
 . En todos los casos, la sentencia condenatoria que se dicte por los delitos contemplados en esta Ley, deberá contemplar la reparación del daño a las víctimas, cuyo monto fijará el juez de la causa con los elementos que las partes le aporten o aquellos que considere procedentes a su juicio, en términos de la ley.
 
 ## Capítulo II — De los Delitos en Materia de Secuestro
+
 
 ### Artículo 9
 . Al que prive de la libertad a otro se le aplicarán:
@@ -124,10 +129,12 @@ Artículo reformado DOF 03-06-2014
 
 ### Artículo 12
 .- Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9 de esta Ley y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de cuatro a doce años de prisión y de cien a trescientos días multa.
-Párrafo reformado DOF 27-02-2011, 03-06-2014 La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
+Párrafo reformado DOF 27-02-2011, 03-06-2014
+La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
 La pena señalada en el párrafo primero de este artículo se aplicará a aquél que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
 No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en los de seiscientos a mil días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
-Párrafo reformado DOF 27-02-2011, 03-06-2014 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 9 de la presente Ley, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de dieciséis a treinta años y de quinientos hasta mil días multa.
+Párrafo reformado DOF 27-02-2011, 03-06-2014
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 9 de la presente Ley, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de dieciséis a treinta años y de quinientos hasta mil días multa.
 Párrafo reformado DOF 03-06-2014
 
 ### Artículo 13
@@ -136,7 +143,8 @@ Artículo reformado DOF 03-06-2014
 
 ### Artículo 14
 . Se impondrán de cuatro a dieciséis años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados en el artículo 9 de esta Ley.
-Párrafo reformado DOF 03-06-2014 La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en el artículo 9 de la presente Ley.
+Párrafo reformado DOF 03-06-2014
+La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en el artículo 9 de la presente Ley.
 
 ### Artículo 15
 . Se aplicará pena de cuatro a dieciséis años de prisión y de mil cuatrocientos a tres mil días multa, al que:
@@ -148,12 +156,15 @@ II. Preste auxilio o cooperación al autor de cualquiera de las conductas previs
 
 III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en los artículos 9 y 10 de esta Ley, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
-IV. Altere, modifique o destruya ilícitamente el lugar, indicios, evidencias, objetos, instrumentos o productos del hecho delictivo, o Fracción reformada DOF 17-06-2016
+IV. Altere, modifique o destruya ilícitamente el lugar, indicios, evidencias, objetos, instrumentos o productos del hecho delictivo, o
+Fracción reformada DOF 17-06-2016
 
 V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en los artículos 9 y 10 de esta Ley, o favorezca que el imputado se sustraiga a la acción de la justicia.
-Fracción reformada DOF 17-06-2016 No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
+Fracción reformada DOF 17-06-2016
+No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
 
-a) Los ascendientes o descendientes consanguíneos o afines directos, o Inciso reformado DOF 17-06-2016
+a) Los ascendientes o descendientes consanguíneos o afines directos, o
+Inciso reformado DOF 17-06-2016
 
 b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
@@ -201,9 +212,11 @@ VIII. Se obligue a no molestar a la víctima y a los testigos que depusieron en 
 
 ### Artículo 20
 .- La autoridad judicial podrá ordenar que las personas que hayan sido condenadas por conductas previstas en el presente ordenamiento queden sujetas a vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
-Párrafo reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
+Párrafo reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo
 
 ## Capítulo III — De la Prevención y Coordinación
+
 
 ### Artículo 21
 . Las instituciones de seguridad pública de los tres órdenes de gobierno se coordinarán a través del Centro Nacional de Prevención y Participación Ciudadana del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para:
@@ -228,23 +241,30 @@ VII. Observar las demás obligaciones establecidas en otros ordenamientos.
 Artículo reformado DOF 19-01-2018
 
 ## Capítulo IV
+
 Ámbito de Aplicación
 
 ### Artículo 23
 . Los delitos previstos en esta Ley se prevendrán, investigarán, perseguirán y sancionarán por la Federación cuando se trate de los casos previstos en la Ley Federal Contra la Delincuencia Organizada y cuando se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder Judicial de la Federación y del Código Nacional; o cuando el Ministerio Público de la Federación solicite a la autoridad competente de la entidad federativa le remita la investigación correspondiente, atendiendo a las características propias del hecho, así como a las circunstancias de ejecución o a la relevancia social del mismo.
-Párrafo reformado DOF 17-06-2016 En los casos no contemplados en el párrafo anterior, serán competentes las autoridades del fuero común.
+Párrafo reformado DOF 17-06-2016
+En los casos no contemplados en el párrafo anterior, serán competentes las autoridades del fuero común.
 Si de las diligencias practicadas en la investigación de un delito se desprende la comisión de alguno de los contemplados en esta Ley, el Ministerio Público del fuero común deberá, remitir al Ministerio Público de la Federación los registros de investigación correspondientes.
-Párrafo reformado DOF 17-06-2016 Si de las diligencias practicadas en la investigación de los delitos contemplados en esta Ley se desprende la comisión de alguno diferente del fuero común, el Ministerio Público de la Federación deberá, remitir al Ministerio Público del fuero local los registros de investigación correspondientes.
-Párrafo reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo quinto
+Párrafo reformado DOF 17-06-2016
+Si de las diligencias practicadas en la investigación de los delitos contemplados en esta Ley se desprende la comisión de alguno diferente del fuero común, el Ministerio Público de la Federación deberá, remitir al Ministerio Público del fuero local los registros de investigación correspondientes.
+Párrafo reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo quinto
 
 ## Capítulo V
+
 Intervención y Aportación Voluntaria de Comunicaciones
 
 ### Artículo 24
 . Para la intervención y aportación voluntaria de comunicaciones privadas, se estará a lo dispuesto en el Código Nacional.
-Párrafo reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo los entonces párrafos segundo a quinto
+Párrafo reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo los entonces párrafos segundo a quinto
 
 ## Capítulo VI
+
 Obligaciones de los Concesionarios de Redes Públicas de Telecomunicaciones
 
 ### Artículo 25
@@ -264,12 +284,14 @@ IV. Se deroga.
 Fracción derogada DOF 17-06-2016
 
 ## Capítulo VII
+
 Protección de Personas
 
 ### Artículo 26
 . En el ámbito de sus respectivas competencias, los titulares del Ministerio Público de la Federación y de las entidades federativas expedirán los correspondientes programas para la protección de personas.
 El Ministerio Público incorporará a dichos programas a las personas cuya vida o integridad corporal pueda estar en peligro por su intervención en un procedimiento penal seguido por las conductas previstas en la presente Ley.
-Párrafo reformado DOF 17-06-2016 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo tercero
+Párrafo reformado DOF 17-06-2016
+Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo tercero
 
 ### Artículo 27
 . La información y la documentación relacionada con las personas protegidas se mantendrán en estricta reserva en términos de las disposiciones aplicables.
@@ -281,7 +303,8 @@ El cumplimiento de los programas de protección a personas de las entidades fede
 
 ### Artículo 29
 . La incorporación al Programa Federal de Protección a Personas, durante el procedimiento penal será autorizada por el Fiscal General de la República o el Servidor Público inmediato inferior en quien éste delegue la facultad.
-Párrafo reformado DOF 17-06-2016, 20-05-2021 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Para tal efecto, se deberán analizar las condiciones de cada persona, si éstas se encuentran en el supuesto que señala el artículo 26 de esta Ley y si cumplen con los requisitos que señale el programa.
+Párrafo reformado DOF 17-06-2016, 20-05-2021
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Para tal efecto, se deberán analizar las condiciones de cada persona, si éstas se encuentran en el supuesto que señala el artículo 26 de esta Ley y si cumplen con los requisitos que señale el programa.
 La misma regla aplicará respecto de la incorporación de personas a los programas de protección de personas de las entidades federativas.
 El Titular del Ministerio Público o el servidor público que se designe para tal efecto, determinará la duración de ésta, tomando en cuenta, como mínimo:
 
@@ -317,6 +340,7 @@ Las erogaciones por concepto de otorgamiento de apoyo estarán sujetas a la norm
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ## Capítulo VIII
+
 Apoyos a las Víctimas, Ofendidos y Testigos de Cargo
 
 ### Artículo 32
@@ -373,6 +397,7 @@ III. La posibilidad efectiva de que puedan reclamar sus derechos mediante el eje
 IV. La defensa jurídica para obtener las restituciones o reparaciones en el goce de los mismos.
 
 ## Capítulo IX
+
 Restitución Inmediata de Derechos y Reparación
 
 ### Artículo 35
@@ -381,6 +406,7 @@ En su caso, la restitución de derechos y la reparación se harán con cargo a l
 Dentro de la reparación a las víctimas de las conductas previstas en la presente Ley se incluirán los gastos alimentarios y de transporte y hospedaje a cargo de ésta, con motivo del procedimiento penal.
 
 ## Capítulo X
+
 Embargo por Valor Equivalente
 
 ### Artículo 36
@@ -388,6 +414,7 @@ Embargo por Valor Equivalente
 Artículo reformado DOF 17-06-2016
 
 ## Capítulo XI — Del Fondo de Apoyo para las Víctimas y Ofendidos
+
 
 ### Artículo 37
 . El Fondo tiene como objetivo dotar a las autoridades de recursos para apoyar a las víctimas y ofendidos por los delitos previstos en la presente Ley, así como incentivar la denuncia.
@@ -415,9 +442,11 @@ El Fondo a que se refiere este artículo se constituirá en los términos y porc
 
 ### Artículo 39
 . La Fiscalía General de la República administrará el Fondo, siguiendo criterios de transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento correspondiente, el cual determinará los criterios de asignación de recursos.
-Párrafo reformado DOF 20-05-2021 Los recursos que lo integren serán fiscalizados anualmente por la Auditoría Superior de la Federación.
+Párrafo reformado DOF 20-05-2021
+Los recursos que lo integren serán fiscalizados anualmente por la Auditoría Superior de la Federación.
 
 ## Capítulo XII
+
 Organización de la Federación y de las Entidades Federativas
 
 ### Artículo 40
@@ -488,7 +517,8 @@ Para ingresar al servicio en las unidades especializadas, los aspirantes asumir�
 I. Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas previstas en esta Ley;
 
 II. Decretar las medidas de protección para el resguardo de la vida o integridad de las víctimas o sus familiares, así como solicitar al juez las providencias precautorias para garantizar la reparación del daño;
-Fracción reformada DOF 17-06-2016 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Fracción reformada DOF 17-06-2016
+DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 III. Asesorar a los familiares en las negociaciones para lograr la libertad de las víctimas;
 
@@ -512,6 +542,7 @@ XI. Utilizar cualquier medio de investigación que les permita regresar con vida
 XII. Las demás que disponga la Ley.
 
 ## Capítulo XIII
+
 Auxilio entre Autoridades
 
 ### Artículo 44
@@ -521,6 +552,7 @@ Auxilio entre Autoridades
 . Las autoridades de los gobiernos federal y de las entidades federativas deberán establecer mecanismos de cooperación destinados al intercambio de formación y adiestramiento continuo de agentes del Ministerio Público, policías y peritos especializados en los delitos previstos en esta Ley de las Instituciones de Seguridad Pública, cuyos resultados cuenten con la certificación del Centro Nacional de Certificación y Acreditación.
 
 ## Capítulo XIV — De la Prisión Preventiva y de la Ejecución de Sentencias
+
 
 ### Artículo 46
 . A los imputados y sentenciados por las conductas previstas por esta Ley, se les podrán aplicar las medidas de vigilancia especiales previstas en la legislación aplicable.
@@ -534,7 +566,8 @@ Artículo reformado DOF 17-06-2016
 
 ### Artículo 48
 . Los imputados o sentenciados por las conductas previstas en esta Ley, que proporcionen datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes, podrán beneficiarse con medidas de protección durante el tiempo y bajo las modalidades que se estime necesario. Además se asegurará que la prisión preventiva y ejecución de sentencia, se llevarán a cabo en establecimientos distintos a aquél en donde compurguen su sentencia los miembros del mismo grupo delictivo.
-Artículo reformado DOF 17-06-2016 ARTÍCULOS SEGUNDO A OCTAVO. ……….
+Artículo reformado DOF 17-06-2016
+ARTÍCULOS SEGUNDO A OCTAVO. ……….
 ARTÍCULOS TRANSITORIOS Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
@@ -574,7 +607,7 @@ Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 
 ### Artículo Quinto
 Se reforman los artículos 2, primer y tercer párrafos; 4, fracción VIII; 6; 7, primer párrafo; 15, fracciones IV y V del primer párrafo, e inciso a) del segundo párrafo; 16, segundo párrafo; 19,
-**segundo.** párrafo y fracción V; 23, primer, tercer y cuarto párrafos; 24, primer párrafo; 25, primer párrafo; 26, segundo párrafo; 29, primer, quinto, fracción III y sexto párrafos; 32, primer párrafo, y fracciones I, IV, VII, IX y XI; 34, primer párrafo; 36; 40 fracción XIX; 43, fracción II; 46; 47; 48. Se adiciona la fracción X del artículo 4 y un segundo párrafo al artículo 7. Se derogan el segundo párrafo del artículo 1; segundo párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del artículo 23; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del artículo 25; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
+**segundo.-** párrafo y fracción V; 23, primer, tercer y cuarto párrafos; 24, primer párrafo; 25, primer párrafo; 26, segundo párrafo; 29, primer, quinto, fracción III y sexto párrafos; 32, primer párrafo, y fracciones I, IV, VII, IX y XI; 34, primer párrafo; 36; 40 fracción XIX; 43, fracción II; 46; 47; 48. Se adiciona la fracción X del artículo 4 y un segundo párrafo al artículo 7. Se derogan el segundo párrafo del artículo 1; segundo párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del artículo 23; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del artículo 25; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -607,38 +640,38 @@ Se reforma el párrafo primero del artículo 29; la fracción I, del artículo 3
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

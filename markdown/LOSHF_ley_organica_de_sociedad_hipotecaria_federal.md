@@ -16,9 +16,11 @@ Artículo reformado DOF 22-06-2006
 
 ### Artículo 2o
 .- Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de crédito y garantías destinadas a la construcción, adquisición y mejora de vivienda, preferentemente de interés social en los términos de esta Ley, así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
-Párrafo reformado DOF 22-06-2006, 20-08-2008 Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
+Párrafo reformado DOF 22-06-2006, 20-08-2008
+Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
 La Sociedad Hipotecaria Federal desarrollará programas que promuevan la construcción de viviendas en zonas de pueblos y comunidades indígenas y afromexicanas en el territorio nacional con los recursos que se aprueben para tal efecto en el presupuesto de egresos.
-Párrafo adicionado DOF 01-08-2005. Reformado DOF 01-04-2024 Para efectos de esta Ley, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
+Párrafo adicionado DOF 01-08-2005. Reformado DOF 01-04-2024
+Para efectos de esta Ley, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
 
 ### Artículo 3o
 .- El domicilio de Sociedad Hipotecaria Federal será el que, dentro del territorio nacional, determine su Reglamento Orgánico. La duración de la Sociedad será indefinida.
@@ -37,8 +39,10 @@ IV. Operar con divisas y valores, incluyendo aquéllos respaldados por garantía
 Fracción reformada DOF 22-06-2006
 
 V. Garantizar créditos y valores relacionados con financiamientos a la vivienda, otorgados o emitidos por entidades financieras, e invertir en esos valores;
-Fracción reformada DOF 22-06-2006 V Bis. Otorgar créditos relacionados con su objeto con el fin de impulsar el desarrollo de algún segmento de los mercados primario y secundario de crédito a la vivienda o de procurar la estabilidad de dichos mercados conforme a los criterios que defina su Consejo Directivo;
-Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014 V Ter. Prestar servicios de consultoría;
+Fracción reformada DOF 22-06-2006
+V Bis. Otorgar créditos relacionados con su objeto con el fin de impulsar el desarrollo de algún segmento de los mercados primario y secundario de crédito a la vivienda o de procurar la estabilidad de dichos mercados conforme a los criterios que defina su Consejo Directivo;
+Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014
+V Ter. Prestar servicios de consultoría;
 Fracción adicionada DOF 20-08-2008
 
 VI. Celebrar contratos para cubrir, total o parcialmente, los riesgos que asuma la Sociedad por las operaciones a que se refieren las fracciones V y V Bis anteriores;
@@ -51,12 +55,16 @@ VIII. Realizar avalúos que tendrán la misma fuerza probatoria que las leyes as
 IX. Practicar operaciones de fideicomiso y llevar a cabo mandatos y comisiones relativos a su fin, cuando por ley se le asigne a la Sociedad esa encomienda; cuando se trate de actos que coadyuven a la consecución de su objetivo o bien cuando la propia Sociedad constituya fideicomisos para cumplir obligaciones laborales a su cargo;
 
 X. Actuar como representante común de tenedores de títulos de crédito representativos de financiamiento a la vivienda;
-Fracción reformada DOF 22-06-2006 X Bis. Realizar aportaciones para la constitución de instituciones de seguros de los ramos de crédito a la vivienda y garantía financiera o invertir en el capital social de éstas, en los términos del artículo 24 Bis de esta Ley;
-Fracción adicionada DOF 22-06-2006 X Ter. Invertir, con la previa autorización de la Secretaría de Hacienda y Crédito Público, en el capital social de las empresas que le presten servicios complementarios o auxiliares en la administración o en la realización del objeto de la propia Sociedad o realizar aportaciones para la constitución de este tipo de empresas, en cuyo caso éstas no serán consideradas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal Paraestatal, así como contratar sus servicios sin que resulte aplicable para tal efecto la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
-Fracción adicionada DOF 22-06-2006. Reformada DOF 20-08-2008, 10-01-2014 X Quáter. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
+Fracción reformada DOF 22-06-2006
+X Bis. Realizar aportaciones para la constitución de instituciones de seguros de los ramos de crédito a la vivienda y garantía financiera o invertir en el capital social de éstas, en los términos del artículo 24 Bis de esta Ley;
+Fracción adicionada DOF 22-06-2006
+X Ter. Invertir, con la previa autorización de la Secretaría de Hacienda y Crédito Público, en el capital social de las empresas que le presten servicios complementarios o auxiliares en la administración o en la realización del objeto de la propia Sociedad o realizar aportaciones para la constitución de este tipo de empresas, en cuyo caso éstas no serán consideradas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal Paraestatal, así como contratar sus servicios sin que resulte aplicable para tal efecto la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+Fracción adicionada DOF 22-06-2006. Reformada DOF 20-08-2008, 10-01-2014
+X Quáter. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 Fracción adicionada DOF 10-01-2014
 
-XI. Fomentar la instrumentación de programas de aseguramiento complementarios a los créditos a la vivienda, que permitan ampliar la cobertura de riesgos y facilitar la liberación de las obligaciones, gravámenes o limitaciones de dominio a cargo de los acreditados o sus beneficiarios, cuando se presenten condiciones económicas adversas no imputables a ellos, que afecten de manera relevante su situación patrimonial, a fin de proteger el patrimonio de los acreditados, y Fracción adicionada DOF 10-01-2014
+XI. Fomentar la instrumentación de programas de aseguramiento complementarios a los créditos a la vivienda, que permitan ampliar la cobertura de riesgos y facilitar la liberación de las obligaciones, gravámenes o limitaciones de dominio a cargo de los acreditados o sus beneficiarios, cuando se presenten condiciones económicas adversas no imputables a ellos, que afecten de manera relevante su situación patrimonial, a fin de proteger el patrimonio de los acreditados, y
+Fracción adicionada DOF 10-01-2014
 
 XII. Las demás operaciones a que se refiere la Ley de Instituciones de Crédito, así como las análogas y conexas que autorice la Secretaría de Hacienda y Crédito Público.
 Fracción recorrida DOF 10-01-2014
@@ -82,7 +90,8 @@ Bis.- El Gobierno Federal responderá en todo tiempo, de las operaciones pasivas
 I. Con personas físicas o morales nacionales; y
 
 II. Con instituciones del extranjero privadas, gubernamentales e intergubernamentales.
-Artículo adicionado DOF 10-01-2014 CAPITULO TERCERO Capital social
+Artículo adicionado DOF 10-01-2014
+CAPITULO TERCERO Capital social
 
 ### Artículo 9o
 .- El capital de la Sociedad estará representado por certificados de aportación patrimonial en un sesenta y seis por ciento de la serie "A" y en un treinta y cuatro por ciento de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
@@ -122,19 +131,23 @@ Inciso reformado DOF 10-01-2014
 d) Un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central;
 Inciso reformado DOF 10-01-2014
 
-e) El Secretario de Desarrollo Agrario, Territorial y Urbano, y Inciso adicionado DOF 10-01-2014
+e) El Secretario de Desarrollo Agrario, Territorial y Urbano, y
+Inciso adicionado DOF 10-01-2014
 
-f) El Titular de la Comisión Nacional de Vivienda, y Inciso reformado DOF 20-08-2008. Recorrido DOF 10-01-2014
+f) El Titular de la Comisión Nacional de Vivienda, y
+Inciso reformado DOF 20-08-2008. Recorrido DOF 10-01-2014
 
 II. Cuatro consejeros externos representarán a la serie "B" de los certificados de aportación patrimonial de la Sociedad; serán designados por el titular o titulares de esos certificados que representen, cuando menos, el 51% de éstos y, en el supuesto de que el titular sea el Gobierno Federal, la designación correspondiente la realizará el Secretario de Hacienda y Crédito Público.
 Los consejeros externos no tendrán suplentes. Los demás consejeros designarán a sus suplentes, quienes deberán tener, preferentemente, nivel de director general en la Administración Pública Federal Centralizada o su equivalente.
 En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
-Párrafo adicionado DOF 10-01-2014 El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con los temas a tratar.
+Párrafo adicionado DOF 10-01-2014
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con los temas a tratar.
 Artículo reformado DOF 24-06-2002, 22-06-2006
 
 ### Artículo 15
 .- El Consejo Directivo se reunirá, por lo menos, trimestralmente y sesionará válidamente con la asistencia, cuando menos, de seis de sus miembros, siempre y cuando entre ellos se encuentren dos de los consejeros de la serie "A" de los certificados de aportación patrimonial y dos consejeros externos.
-Párrafo reformado DOF 22-06-2006, 10-01-2014 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el presidente voto de calidad en caso de empate.
+Párrafo reformado DOF 22-06-2006, 10-01-2014
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el presidente voto de calidad en caso de empate.
 En el orden del día de las sesiones del Consejo Directivo, deberán listarse los asuntos a tratar en las mismas, sin incluir asuntos generales.
 
 ### Artículo 16
@@ -142,7 +155,8 @@ En el orden del día de las sesiones del Consejo Directivo, deberán listarse lo
 Las personas que ocupen el cargo de consejeros externos podrán ser designadas con ese carácter más de una vez.
 La vacante que se produzca en un puesto de consejero externo será cubierta por el nuevo miembro que se designe para integrar el Consejo Directivo y durará en su cargo sólo por el tiempo que faltare desempeñar al sustituido.
 Los consejeros externos no formarán parte del personal de la Sociedad, por lo que no se considerarán servidores públicos.
-Párrafo adicionado DOF 20-08-2008 El Consejo Directivo de la Sociedad tendrá la facultad indelegable de fijar las remuneraciones de los consejeros externos, a propuesta del Comité señalado en el artículo 31 de esta Ley, sin que éstas se sujeten a autorización alguna por parte de autoridades administrativas. Para adoptar las resoluciones a que se refiere este párrafo, en la respectiva sesión del Consejo Directivo, no podrán participar los consejeros externos y éste deberá considerar las remuneraciones existentes para el personal de la Sociedad, así como la evolución de las remuneraciones en el sistema financiero del país. Asimismo, como criterio rector, el Consejo Directivo deberá procurar que la Sociedad cuente con consejeros externos idóneos y calificados, en términos de las disposiciones aplicables y con base en las condiciones del mercado laboral. Los pagos se realizarán con cargo al presupuesto autorizado de la Sociedad.
+Párrafo adicionado DOF 20-08-2008
+El Consejo Directivo de la Sociedad tendrá la facultad indelegable de fijar las remuneraciones de los consejeros externos, a propuesta del Comité señalado en el artículo 31 de esta Ley, sin que éstas se sujeten a autorización alguna por parte de autoridades administrativas. Para adoptar las resoluciones a que se refiere este párrafo, en la respectiva sesión del Consejo Directivo, no podrán participar los consejeros externos y éste deberá considerar las remuneraciones existentes para el personal de la Sociedad, así como la evolución de las remuneraciones en el sistema financiero del país. Asimismo, como criterio rector, el Consejo Directivo deberá procurar que la Sociedad cuente con consejeros externos idóneos y calificados, en términos de las disposiciones aplicables y con base en las condiciones del mercado laboral. Los pagos se realizarán con cargo al presupuesto autorizado de la Sociedad.
 Artículo reformado DOF 24-06-2002, 22-06-2006
 
 ### Artículo 17
@@ -173,7 +187,8 @@ Párrafo reformado DOF 24-06-2002, 22-06-2006
 
 I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
 I Bis. Dejar de reunir o contravenir los requisitos que se establecen en términos de esta Ley para su designación;
-Fracción adicionada DOF 22-06-2006 I Ter. Dejar de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio;
+Fracción adicionada DOF 22-06-2006
+I Ter. Dejar de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio;
 Fracción adicionada DOF 22-06-2006
 
 II. Incumplir los acuerdos del Consejo Directivo o actuar deliberadamente, en exceso o defecto de sus atribuciones o en contravención a las disposiciones de esta Ley;
@@ -186,13 +201,16 @@ Fracción adicionada DOF 22-06-2006
 IV. Someter a la consideración del Consejo Directivo, a sabiendas, información falsa o engañosa;
 Fracción reformada DOF 22-06-2006
 
-V. Tomar decisiones que vayan en contra de lo dispuesto por el artículo 5 de esta Ley, y Fracción reformada DOF 22-06-2006
+V. Tomar decisiones que vayan en contra de lo dispuesto por el artículo 5 de esta Ley, y
+Fracción reformada DOF 22-06-2006
 
 VI. Por cualquier otra causa que sea considerada como grave por el Consejo Directivo, mediante resolución tomada por, al menos, siete de sus miembros.
 El Consejo Directivo de la Sociedad, a solicitud de su presidente o de al menos tres de sus miembros, resolverá sobre la existencia de causas de remoción de un consejero externo. La resolución se formulará por acuerdo de la mayoría de sus miembros, después de conceder el derecho de audiencia al afectado, sin que éste participe en la votación correspondiente.
 Con base en la resolución del Consejo Directivo, se procederá a la designación del nuevo consejero externo en los términos de esta Ley.
-Fracción adicionada DOF 22-06-2006 Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-Párrafo adicionado DOF 24-06-2002 Se podrá remover de su cargo al Director General de la Sociedad y a los Directores Generales de las instituciones de seguros a que se refiere la fracción X Bis del artículo 4 de esta Ley, cuando incumplan sin justificación los planes de trabajo y cuando se obtengan pérdidas financieras injustificadas, sin perjuicio de las responsabilidades a que haya lugar.
+Fracción adicionada DOF 22-06-2006
+Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Párrafo adicionado DOF 24-06-2002
+Se podrá remover de su cargo al Director General de la Sociedad y a los Directores Generales de las instituciones de seguros a que se refiere la fracción X Bis del artículo 4 de esta Ley, cuando incumplan sin justificación los planes de trabajo y cuando se obtengan pérdidas financieras injustificadas, sin perjuicio de las responsabilidades a que haya lugar.
 Párrafo adicionado DOF 22-06-2006
 
 ### Artículo 19
@@ -203,8 +221,10 @@ El Consejo podrá acordar la realización de las operaciones inherentes al objet
 .- También serán facultades del Consejo Directivo las siguientes:
 
 I. Aprobar, a propuesta del Director General, las líneas generales de sus operaciones activas, pasivas y de servicios, así como las inversiones que realice la Sociedad, sujeto a lo dispuesto en los artículos 5 y 6 de esta Ley;
-Fracción reformada DOF 22-06-2006 I Bis. Aprobar los planes de trabajo a largo plazo de la Sociedad que someta a su consideración el Director General;
-Fracción adicionada DOF 22-06-2006 I Ter. Aprobar, a propuesta del Comité de Recursos Humanos y Desarrollo Institucional y en el marco de las disposiciones presupuestarias aplicables, las remuneraciones de los consejeros externos, así como de los miembros externos de los Comités que se constituyan en términos de esta Ley;
+Fracción reformada DOF 22-06-2006
+I Bis. Aprobar los planes de trabajo a largo plazo de la Sociedad que someta a su consideración el Director General;
+Fracción adicionada DOF 22-06-2006
+I Ter. Aprobar, a propuesta del Comité de Recursos Humanos y Desarrollo Institucional y en el marco de las disposiciones presupuestarias aplicables, las remuneraciones de los consejeros externos, así como de los miembros externos de los Comités que se constituyan en términos de esta Ley;
 Fracción adicionada DOF 22-06-2006
 
 II. Aprobar el informe anual de actividades que le presente el Director General;
@@ -212,7 +232,9 @@ II. Aprobar el informe anual de actividades que le presente el Director General;
 III. Aprobar la propuesta del Reglamento Orgánico de la Sociedad, así como los programas someterlos a la consideración y, en su caso, expedición por la Secretaría de Hacienda y Crédito Público;
 Fracción reformada DOF 22-06-2006
 
-IV. (Derogada) Fracción derogada DOF 24-06-2002 IV Bis. Resolver sobre los asuntos que someta a su consideración el Comité de Auditoría;
+IV. (Derogada)
+Fracción derogada DOF 24-06-2002
+IV Bis. Resolver sobre los asuntos que someta a su consideración el Comité de Auditoría;
 Fracción adicionada DOF 22-06-2006
 
 V. Expedir las normas y criterios a los cuales deberán sujetarse la elaboración y el ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, sujetándose a los montos globales anuales autorizados al efecto por la Secretaría de Hacienda y Crédito Público;
@@ -230,12 +252,15 @@ a) Las características para delimitar los segmentos de mercado que requieran de
 
 b) Los plazos o metas para determinar cuándo la Sociedad deberá concluir con el otorgamiento de créditos al respectivo segmento del mercado, para lo cual deberá considerar que se hayan desarrollado sanas prácticas de competencia y se cuente con participación suficiente y adecuada del sector privado.
 
-c) Los criterios para autorizar la participación de la Sociedad en el otorgamiento de créditos durante circunstancias inusuales en los mercados, con el propósito de mantener la liquidez y sana operación del sector de crédito a la vivienda, y Inciso reformado DOF 10-01-2014 Fracción adicionada DOF 20-08-2008
+c) Los criterios para autorizar la participación de la Sociedad en el otorgamiento de créditos durante circunstancias inusuales en los mercados, con el propósito de mantener la liquidez y sana operación del sector de crédito a la vivienda, y
+Inciso reformado DOF 10-01-2014
+Fracción adicionada DOF 20-08-2008
 
 IX. Establecer políticas de carácter prudencial que fijen límites a la exposición de la Sociedad en su función de proveedor de liquidez al mercado.
 Fracción adicionada DOF 20-08-2008. Reformada DOF 10-01-2014
 
-X. Se deroga Fracción adicionada DOF 20-08-2008. Derogada DOF 10-01-2014
+X. Se deroga
+Fracción adicionada DOF 20-08-2008. Derogada DOF 10-01-2014
 
 ### Artículo 21
 .- El Director General será designado por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que sea de reconocida honorabilidad y que cuente con amplios conocimientos y experiencia en el sistema financiero y en materia administrativa. Esta persona, además, deberá reunir los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito.
@@ -245,16 +270,19 @@ X. Se deroga Fracción adicionada DOF 20-08-2008. Derogada DOF 10-01-2014
 
 I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aún aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa, podrán emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio.
 También podrá representar a la Sociedad cuando ésta actúe como Autoridad Responsable en el juicio de amparo, el titular de la unidad administrativa encargada del área jurídica de la Sociedad;
-Fracción reformada DOF 20-08-2008 I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
+Fracción reformada DOF 20-08-2008
+I Bis. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
 Fracción adicionada DOF 10-01-2014
 
 II. Ejecutar los acuerdos del Consejo Directivo;
 II Bis. Formular el plan de trabajo de largo plazo de la Sociedad de cuando menos cinco años, para someterlo a consideración del Consejo Directivo, que comprenda las proyecciones financieras, operativas y estrategias de la Institución. Este plan estratégico se revisará al menos cada tres años o antes en caso que se requiriera ajustar;
-Fracción adicionada DOF 22-06-2006. Reformada DOF 20-08-2008 II Bis 1. Formular el plan de trabajo anual relacionado con la estrategia, así como el avance y seguimiento del plan de largo plazo para someterlo a consideración del Consejo Directivo en el primer trimestre de cada año;
+Fracción adicionada DOF 22-06-2006. Reformada DOF 20-08-2008
+II Bis 1. Formular el plan de trabajo anual relacionado con la estrategia, así como el avance y seguimiento del plan de largo plazo para someterlo a consideración del Consejo Directivo en el primer trimestre de cada año;
 Fracción adicionada DOF 20-08-2008
 
 III. Actuar con el carácter de apoderado y como delegado fiduciario general, así como proponer al Consejo Directivo la designación de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la de su rango y presentar las solicitudes de licencia, así como las renuncias de los mismos;
-Fracción reformada DOF 10-01-2014 III Bis. Expedir certificaciones de constancias de los expedientes de la Sociedad y determinar a los servidores públicos de la Sociedad que cuenten con esta atribución;
+Fracción reformada DOF 10-01-2014
+III Bis. Expedir certificaciones de constancias de los expedientes de la Sociedad y determinar a los servidores públicos de la Sociedad que cuenten con esta atribución;
 Fracción adicionada DOF 20-08-2008
 
 IV. Firmar y publicar los balances mensuales de la Sociedad conforme a las bases acordadas por el Consejo Directivo;
@@ -278,14 +306,17 @@ Fracción reformada DOF 22-06-2006
 Artículo reformado DOF 22-06-2006, 20-08-2008, 10-01-2014
 
 ### Artículo 23
-Bis.- Se deroga Artículo adicionado DOF 22-06-2006. Reformado DOF 20-08-2008. Derogado DOF 10-01-2014
+Bis.- Se deroga
+Artículo adicionado DOF 22-06-2006. Reformado DOF 20-08-2008. Derogado DOF 10-01-2014
 
 ### Artículo 24
 .- Los Consejeros, el Director General y los delegados fiduciarios de la Sociedad y de las Instituciones de seguros en las que ésta participe en términos de la fracción X Bis, del artículo 4 de esta Ley, sólo están obligados a absolver posiciones o rendir testimonio en juicio en representación de la Sociedad o de dichas instituciones, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
 Artículo reformado DOF 22-06-2006
 
 ## CAPÍTULO CUARTO — BIS
-De la Participación de la Sociedad en Instituciones de Seguros Capítulo adicionado DOF 22-06-2006
+
+De la Participación de la Sociedad en Instituciones de Seguros
+Capítulo adicionado DOF 22-06-2006
 
 ### Artículo 24
 Bis.- La participación de la Sociedad en el capital social de las instituciones de seguros a que se refiere el artículo 4, fracción X Bis, de esta Ley sólo podrá hacerse en la totalidad menos una de las acciones representativas del capital de tales instituciones y, en consecuencia, éstas serán empresas de participación estatal mayoritaria. La acción restante será suscrita por el Gobierno Federal, por conducto de la Tesorería de la Federación.
@@ -305,10 +336,12 @@ Artículo adicionado DOF 22-06-2006
 
 ### Artículo 24
 Quáter.- Como excepción a lo dispuesto por el artículo 29, fracciones VII, VII Bis y VII Bis 2 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, en lo que respecta a los consejos de administración de las instituciones de seguros de que trata este capítulo, éstos quedarán integrados por los mismos consejeros que conforman el Consejo Directivo de la Sociedad y tendrán las facultades que establezca la normativa aplicable. La vigilancia de la sociedad se realizará por los órganos y en los términos señalados en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y las disposiciones de carácter general que emita la Comisión Nacional de Seguros y Fianzas.
-Párrafo reformado DOF 20-08-2008, 10-01-2014 El director general de cada institución de seguros a que se refiere este artículo será designado por la Sociedad, mediante acuerdo de su Consejo Directivo, a propuesta del Secretario de Hacienda y Crédito Público. La designación del director general podrá recaer en el Director General de la Sociedad.
+Párrafo reformado DOF 20-08-2008, 10-01-2014
+El director general de cada institución de seguros a que se refiere este artículo será designado por la Sociedad, mediante acuerdo de su Consejo Directivo, a propuesta del Secretario de Hacienda y Crédito Público. La designación del director general podrá recaer en el Director General de la Sociedad.
 Las instituciones de seguros en cuyo capital social participe la Sociedad se apoyarán en la estructura administrativa de ésta para el ejercicio de sus funciones, en términos de las disposiciones aplicables.
 Las operaciones que, de acuerdo con lo establecido por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, realicen las instituciones de seguros en cuyo capital participe la Sociedad deberán contratarse en términos que guarden congruencia con la consecución del objetivo de impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda y con la sana administración de su patrimonio.
-Artículo adicionado DOF 22-06-2006 CAPITULO QUINTO Disposiciones Generales
+Artículo adicionado DOF 22-06-2006
+CAPITULO QUINTO Disposiciones Generales
 
 ### Artículo 25
 .- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, podrá interpretar para efectos administrativos los preceptos de esta Ley.
@@ -344,7 +377,8 @@ En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perju
 Artículo reformado DOF 24-06-2002, 22-06-2006, 10-01-2014
 
 ### Artículo 32
-.- (Derogado) Artículo derogado DOF 24-06-2002
+.- (Derogado)
+Artículo derogado DOF 24-06-2002
 
 ### Artículo 33
 .- La Sociedad prestará los servicios de asistencia y defensa legal a los integrantes de su Consejo Directivo, comités establecidos por el mismo o previstos por disposición normativa y a los servidores públicos que laboren o hubieren laborado en la propia institución o en las instituciones de seguros en cuyo capital participe, con respecto a los actos que las personas antes referidas lleven a cabo en el ejercicio de las funciones que por ley les estén encomendadas y de conformidad con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
@@ -359,9 +393,10 @@ Artículo adicionado DOF 20-08-2008. Reformado DOF 10-01-2014
 **SEGUNDO.-** La Sociedad Hipotecaria Federal será fiduciario sustituto del Fondo de Operación y Financiamiento Bancario a la Vivienda, a partir del día en que su Consejo Directivo lleve a cabo su primera sesión. El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público garantiza las obligaciones del mencionado Fondo derivadas de operaciones de financiamiento contraídas con anterioridad a la entrada en vigor del presente Decreto.
 El Gobierno Federal otorga garantías adicionales al mencionado Fondo, para la continuación de sus programas de garantía en operación, hasta por seis mil millones de unidades de inversión, a fin de que dicho Fondo pueda absorber pérdidas extraordinarias que, en su caso, llegaren a presentarse por una cantidad que exceda a la de las reservas, mismas que no podrán ser retiradas, debiendo destinarse a cubrir en todo momento las contingencias que respalden tales programas. Al efecto el Fondo deberá mantener informada a la Secretaría de Hacienda y Crédito Público de la evolución de las mencionadas reservas.
 El Gobierno Federal responderá en todo tiempo de las obligaciones que la Sociedad contraiga con
-**tercero.** s hasta la conclusión de dichos compromisos.
+**tercero.-** s hasta la conclusión de dichos compromisos.
 Párrafo reformado DOF 24-06-2002. Fe de erratas DOF 08-07-2002
-**Cuarto.** párrafo.- Se deroga Párrafo adicionado DOF 24-06-2002. Fe de erratas DOF 08-07-2002. Derogado DOF 10-01-2014
+**Cuarto.-** párrafo.- Se deroga
+Párrafo adicionado DOF 24-06-2002. Fe de erratas DOF 08-07-2002. Derogado DOF 10-01-2014
 **TERCERO.-** Las inscripciones y anotaciones marginales de cualquier naturaleza efectuadas en los Registros Públicos de la Propiedad y del Comercio, así como cualquier otro Registro, relativas al Banco de México en su carácter de fiduciario del Fondo de Operación y Financiamiento Bancario a la Vivienda, respecto de inmuebles, contratos, convenios, títulos de crédito, comisiones de carácter mercantil y cualesquiera otras, se entenderán referidas a Sociedad Hipotecaria Federal, a partir de que ésta funja como fiduciario sustituto de ese Fondo, de acuerdo a lo previsto en el artículo segundo transitorio de este Decreto.
 Asimismo, corresponderán a Sociedad Hipotecaria Federal, las acciones, excepciones, defensas y recursos de cualquier naturaleza deducidos en los juicios y procedimientos administrativos en los que el Banco de México, en su carácter de fiduciario del mencionado Fondo, hubiere sido parte, a partir de la fecha a que se refiere el párrafo anterior.
 **CUARTO.-** A la entrada en vigor del presente Decreto, quedará transferida la cantidad de diez mil millones de pesos, del Fondo de Operación y Financiamiento Bancario a la Vivienda a Sociedad Hipotecaria Federal, para integrar el capital social de esta última.
@@ -370,14 +405,15 @@ También se considerarán como parte de dicho capital los bienes muebles e inmue
 SEPTIMO.- Las personas que presten un servicio personal subordinado al Banco de México, en su carácter de fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, así como los funcionarios que desempeñen algún cargo en este fideicomiso, formarán parte del personal al servicio de Sociedad Hipotecaria Federal y conservarán las remuneraciones y prestaciones de las cuales gozan al entrar en vigor esta Ley. El personal que ingrese a laborar a Sociedad Hipotecaria Federal con posterioridad a la entrada en vigor de la presente Ley, se sujetará a lo dispuesto en la misma.
 **OCTAVO.-** Sociedad Hipotecaria Federal no deberá distribuir dividendos ni disminuir su capital, por un plazo de doce años contado a partir de la entrada en vigor de esta Ley, salvo en el caso de que su Consejo Directivo, contando con la opinión favorable de dos empresas calificadoras de prestigio, estime que la Sociedad cuenta con un capital y reservas suficientes para hacer frente a todas sus obligaciones y pasivos contingentes, así como a sus programas de financiamiento y garantías.
 **NOVENO.-** Se deroga.
-Artículo derogado DOF 20-08-2008 DECIMO.- Previo al inicio de operaciones, distintas a las que actualmente realiza el Fondo de Operación y Financiamiento Bancario a la Vivienda, Sociedad Hipotecaria Federal someterá a la aprobación de la Comisión Nacional Bancaria y de Valores, sus sistemas operativos, de procesamiento de información y de control interno, así como sus manuales de organización y operación.
+Artículo derogado DOF 20-08-2008
+DECIMO.- Previo al inicio de operaciones, distintas a las que actualmente realiza el Fondo de Operación y Financiamiento Bancario a la Vivienda, Sociedad Hipotecaria Federal someterá a la aprobación de la Comisión Nacional Bancaria y de Valores, sus sistemas operativos, de procesamiento de información y de control interno, así como sus manuales de organización y operación.
 DECIMO PRIMERO.- Se derogan las disposiciones que se opongan a la presente Ley.
 México, D.F., a 25 de septiembre de 2001.- Dip. Beatriz Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen.
 Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal.
 Publicado en el Diario Oficial de la Federación el 24 de junio de 2002 ARTICULO SEPTIMO.- Se reforman los artículos 14 fracción III; 16 fracción I; 18 párrafo primero; 20 fracción VI; 28; 31 párrafos primero, segundo y cuarto; segundo transitorio en su tercer párrafo; se adiciona un último párrafo al artículo 18, un segundo y tercer párrafo al artículo 28 y un cuarto párrafo al
-**segundo.** transitorio y se deroga la fracción IV del artículo 20 y el artículo 32 de la Ley Orgánica de Sociedad Hipotecaria Federal.
+**segundo.-** transitorio y se deroga la fracción IV del artículo 20 y el artículo 32 de la Ley Orgánica de Sociedad Hipotecaria Federal.
 
 ## TRANSITORIOS
 
@@ -416,7 +452,7 @@ Se REFORMAN los artículos 1o.; 2o., primer párrafo; 4o, fracciones IV, V, VI y
 **SEGUNDO.-** El cargo de los primeros consejeros externos que se designen en términos de lo establecido en la fracción II del artículo 14 de esta Ley, durará hasta el 31 de diciembre de 2006. Los períodos de los consejeros externos cuyas designaciones se realicen a la conclusión del término antes señalado, vencerán los días 31 de diciembre de 2009, 2010, 2011 y 2012, y el Secretario de Hacienda y Crédito Público, al hacer la designación que le corresponda, indicará cuál de los citados períodos corresponde a cada consejero.
 **TERCERO.-** A más tardar a los 90 días siguientes a que el Secretario de Hacienda y Crédito Público designe a los consejeros externos en términos de lo dispuesto por el artículo transitorio anterior, se deberá modificar la integración de los Comités de Auditoría y de Recursos Humanos y Desarrollo Institucional a que se refieren los artículos 23 y 31 de esta Ley.
 **CUARTO.-** La garantía del Gobierno Federal respecto de las obligaciones de la Sociedad a que se refieren los párrafos tercero y cuarto del artículo segundo transitorio de la Ley Orgánica de Sociedad Hipotecaria Federal, en los términos reformados y adicionados conforme al "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio de 2002, será aplicable a aquellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.
-**QUINTO.** Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
+**QUINTO.-** Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del "Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos términos establecidos en el primer párrafo del artículo segundo transitorio del citado Decreto.
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforma y adiciona diversas disposiciones de la Ley Orgánica de Sociedad Hipotecaria Federal y deroga el artículo noveno transitorio del Decreto por el cual se expidió la Ley Orgánica de Sociedad Hipotecaria Federal, publicado el 11 de octubre de 2001.
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
@@ -440,11 +476,9 @@ Disposiciones Transitorias
 
 ### ARTÍCULO VIGÉSIMO PRIMERO
 En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo
-**Séptimo.** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
-
+**Séptimo.-** , Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
 I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo
-**segundo.** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
-
+**segundo.-** del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
 II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
 
 III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
@@ -457,7 +491,7 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024

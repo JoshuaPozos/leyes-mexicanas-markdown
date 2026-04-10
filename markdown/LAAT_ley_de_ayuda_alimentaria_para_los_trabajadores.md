@@ -16,6 +16,7 @@ Ley de Ayuda Alimentaria para los Trabajadores
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ### Artículo 1o
 . La presente Ley tiene por objeto promover y regular la instrumentación de esquemas de ayuda alimentaria en beneficio de los trabajadores, con el propósito de mejorar su estado nutricional, así como de prevenir las enfermedades vinculadas con una alimentación deficiente y proteger la salud en el ámbito ocupacional.
 Esta Ley es de aplicación en toda la República y sus disposiciones son de interés social.
@@ -40,7 +41,9 @@ Se entenderá que un patrón ha optado concertadamente por otorgar ayuda aliment
 
 ## TÍTULO SEGUNDO — AYUDA ALIMENTARIA
 
+
 ## Capítulo I
+
 Objetivo de la Ayuda Alimentaria
 
 ### Artículo 5o
@@ -50,6 +53,7 @@ Objetivo de la Ayuda Alimentaria
 . La Secretaría de Salud, en coordinación con la Secretaría, definirá e instrumentará campañas nacionales, dirigidas específicamente a los trabajadores, en materia de promoción de la salud y orientación alimentaria, incluyendo mensajes para mejorar su estado nutricional y prevenir la desnutrición, el sobrepeso y la obesidad.
 
 ## Capítulo II
+
 Modalidades de Ayuda Alimentaria
 
 ### Artículo 7o
@@ -119,6 +123,7 @@ b) o c) de la fracción I del artículo 7 o en la fracción II de ese mismo art�
 IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
 
 ## Capítulo III
+
 Incentivos y promoción
 
 ### Artículo 13
@@ -129,7 +134,9 @@ Incentivos y promoción
 
 ## TÍTULO TERCERO — EVALUACIÓN, SEGUIMIENTO Y VIGILANCIA
 
+
 ## Capítulo I
+
 Comisión Tripartita
 
 ### Artículo 15
@@ -152,6 +159,7 @@ La Secretaría podrá invitar a participar en las sesiones de la comisión tripa
 El funcionamiento y la operación de la Comisión Tripartita se establecerán de acuerdo con sus Reglas Internas de Operación.
 
 ## Capítulo II
+
 Vigilancia
 
 ### Artículo 16
@@ -160,7 +168,9 @@ Las acciones de vigilancia se ajustarán al procedimiento administrativo estable
 
 ## TÍTULO CUARTO — SANCIONES
 
+
 ## Capítulo Único
+
 
 ### Artículo 17
 . Las violaciones a los preceptos de esta Ley y las disposiciones que emanen de ella serán sancionadas administrativamente por las autoridades sanitarias y laborales, federales o locales, en el ámbito de sus respectivas competencias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -182,7 +192,7 @@ Las acciones de vigilancia se ajustarán al procedimiento administrativo estable
 
 ## TRANSITORIOS
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría del Trabajo y Previsión Social convocará a la primera sesión de la Comisión Tripartita a la que se refiere el artículo 15 en un plazo que no excederá los noventa días naturales posteriores a la entrada en vigor de esta ley.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría del Trabajo y Previsión Social convocará a la primera sesión de la Comisión Tripartita a la que se refiere el artículo 15 en un plazo que no excederá los noventa días naturales posteriores a la entrada en vigor de esta ley.
 México, D.F., a 7 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen.
 Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.

@@ -9,7 +9,7 @@ Nuevo Código publicado en el Diario Oficial de la Federación el 7 de junio de 
 
 ## transitorios
 
-**Primero.** y Segundo del Decreto DOF 07-06-2023, se establece: “Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** y Segundo del Decreto DOF 07-06-2023, se establece: “Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ### Artículo Segundo
 La aplicación de lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares previsto en el presente Decreto, entrará en vigor gradualmente, como sigue: en el Orden Federal, de conformidad con la Declaratoria que indistinta y sucesivamente realicen las Cámaras de Diputados y Senadores que integran el Congreso de la Unión, previa solicitud del Poder Judicial de la Federación, sin que la misma pueda exceder del 1o. de abril de 2027.
@@ -23,9 +23,12 @@ Libro Primero Del Sistema de Impartición de Justicia en Materia Civil y Familia
 
 ## Título Primero — Disposiciones Generales
 
+
 ## Capítulo I — Del Código Nacional de Procedimientos Civiles y Familiares
 
+
 ## Sección Primera
+
 Formalidades del Procedimiento
 
 ### Artículo 1
@@ -117,7 +120,8 @@ Las autoridades jurisdiccionales deberán cerciorarse en todos los casos que las
 ### Artículo 5
 . En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.
 En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-Párrafo reformado DOF 15-01-2026 Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.
+Párrafo reformado DOF 15-01-2026
+Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.
 Párrafo reformado DOF 15-01-2026
 
 ### Artículo 6
@@ -163,6 +167,7 @@ XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado 
 XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
 
 ## Sección Segunda — De la Acción
+
 
 ### Artículo 8
 . El ejercicio de la acción requiere:
@@ -393,6 +398,7 @@ El pago de los gastos y costas será conforme al arancel establecido.
 
 ## Sección Tercera — De las Excepciones
 
+
 ### Artículo 62
 . Las excepciones procesales son las oposiciones de la parte demandada para impugnar o contradecir el procedimiento, sin atacar el derecho sustantivo en litigio, las cuales se deben resolver antes del dictado de la sentencia definitiva.
 
@@ -484,7 +490,9 @@ La excepción de cosa juzgada debe oponerse al dar contestación a la demanda o 
 
 ## Título Segundo — De la Competencia Objetiva y Subjetiva
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 77
 . Toda demanda debe formularse ante la autoridad jurisdiccional competente. La competencia de la autoridad jurisdiccional se determinará por la materia, el grado y el territorio.
@@ -540,6 +548,7 @@ Esta nulidad de actuaciones es de pleno derecho, y solo bastará para ello que s
 Serán válidas las actuaciones de una autoridad jurisdiccional competente, aun cuando declare nulo o inexistente el acuerdo en el cual se pactó su competencia.
 
 ## Sección Primera — De la Fijación de la Competencia
+
 
 ### Artículo 89
 . Es autoridad jurisdiccional competente:
@@ -609,6 +618,7 @@ En caso de urgencia, puede dictarla la autoridad jurisdiccional del lugar donde 
 
 ## Sección Segunda — De la Substanciación y Decisión de Competencias
 
+
 ### Artículo 94
 . Las contiendas sobre competencia, podrán promoverse por inhibitoria o por declinatoria.
 La inhibitoria se intentará ante la autoridad jurisdiccional a quien se considere competente.
@@ -656,7 +666,9 @@ Una vez recibidos los expedientes, el procedimiento para resolver se ajustará a
 
 ## Capítulo II — De la Competencia Subjetiva
 
+
 ## Sección Primera — De los Impedimentos y Excusas
+
 
 ### Artículo 104
 . Las autoridades jurisdiccionales se tendrán por forzosamente impedidas para conocer en los casos siguientes:
@@ -698,6 +710,7 @@ Las opiniones expresadas por la autoridad jurisdiccional al intentar conciliar e
 . Las autoridades jurisdiccionales tienen el deber de excusarse del conocimiento de los procedimientos en que ocurra alguna de las causas expresadas en el artículo anterior, aún y cuando las partes no los recusen. La excusa debe expresar concretamente la causa en que se funde. Sin perjuicio de las providencias que conforme a este Código Nacional se deben dictar, tienen la obligación de excusarse inmediatamente que se avoquen al conocimiento de un procedimiento del que no deben conocer por impedimento, o dentro de los tres días siguientes en que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
 
 ## Sección Segunda — De la Recusación
+
 
 ### Artículo 106
 . Cuando la autoridad jurisdiccional no se excusare a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal.
@@ -801,7 +814,9 @@ Libro Segundo Del Procedimiento Oral Civil y Familiar
 
 ## Título Primero — De las Formalidades Judiciales
 
+
 ## Capítulo I — De las Partes en el Procedimiento
+
 
 ### Artículo 125
 . Sólo puede iniciar o intervenir en un procedimiento judicial, quien tenga interés en que la autoridad jurisdiccional declare, constituya, preserve o modifique un derecho o imponga una condena y quien tenga el interés contrario.
@@ -879,6 +894,7 @@ III. Cualquier persona interesada podrá excluirse de la representación común,
 . En cualquiera de los procedimientos previstos en el presente Código Nacional, sin que obste el derecho de las partes, sus abogados y representantes autorizados de comparecer a exponer sus alegatos en la audiencia respectiva, bajo el principio de igualdad procesal y publicidad, podrán solicitar fuera de audiencia, una cita a la autoridad jurisdiccional para manifestar en lo particular, los aspectos que consideren relevantes en la solución del juicio en el que intervengan. La misma se solicitará por escrito y le recaerá mandamiento judicial en el que se indique día, hora y duración de la cita, la que se autorizará con la finalidad de que comparezcan al recinto judicial el interesado y su contra parte; o bien sus asesores jurídicos; con el objeto de respetar el principio de contradicción. Fuera de estos casos, las autoridades jurisdiccionales estarán impedidas para escuchar en lo particular o individual a cualquiera de las partes.
 
 ## Capítulo II — De las Actuaciones Judiciales
+
 
 ### Artículo 135
 . Las autoridades jurisdiccionales se sujetarán al procedimiento convencional que las partes hubieren pactado, siempre que el mismo se hubiere formalizado en documento público o ante la misma autoridad jurisdiccional que conozca de la demanda en cualquier estado del juicio, y se respeten las formalidades esenciales del procedimiento; salvo los procedimientos en materia familiar, los cuales son de orden público.
@@ -1032,7 +1048,8 @@ Son horas hábiles las comprendidas de las siete a las diecinueve horas, pero cu
 
 ### Artículo 150
 . En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.
-Párrafo reformado DOF 15-01-2026 En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+Párrafo reformado DOF 15-01-2026
+En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
 ### Artículo 151
 . El Poder Judicial contará con una Oficialía de Partes Común, a través de la cual se presenten los escritos de demanda o promociones posteriores de manera electrónica y escrita, en los siguientes términos:
@@ -1104,6 +1121,7 @@ Cualquier nulidad que se genere en audiencia, deberá reclamarse de forma oral e
 Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones se tramitarán y resolverán en los términos de lo dispuesto por el artículo 185.
 
 ## Capítulo III — De las Resoluciones Judiciales
+
 
 ### Artículo 167
 . Para los efectos de este Código Nacional, las resoluciones judiciales se clasifican en la forma siguiente:
@@ -1182,6 +1200,7 @@ Sólo en el caso de no ser posible lo uno ni lo otro, se hará la condena genér
 
 ## Capítulo IV — De las Costas
 
+
 ### Artículo 180
 . Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con testigos de asistencia, o se practicaren diligencias fuera del lugar del juicio.
 
@@ -1213,6 +1232,7 @@ La decisión que se pronuncie será apelable en efecto devolutivo de tramitació
 . La condena en costas no procede en los juicios o procedimientos relacionados con el derecho familiar, o civil cuando se encuentren involucrados derechos que afecten a niñas, niños, adolescentes o personas que pertenezcan a grupos sociales en situación de vulnerabilidad, siempre que no tengan un fin preponderantemente patrimonial.
 
 ## Capítulo V — De los Incidentes
+
 
 ### Artículo 185
 . Los incidentes, cualquiera que sea su naturaleza, nunca suspenderán el procedimiento, además:
@@ -1246,6 +1266,7 @@ En todos los casos de nulidad de actuaciones o notificaciones sólo se repetirá
 . En todos los casos contra la sentencia interlocutoria procede el recurso de apelación en efecto devolutivo.
 
 ## Capítulo VI — De las Medidas de Apremio y las Correcciones Disciplinarias
+
 
 ### Artículo 191
 . Para hacer cumplir sus determinaciones, las autoridades jurisdiccionales, previo apercibimiento, pueden emplear cualquiera de los siguientes medios de apremio, cuantas veces crean necesario, sin que para ello sea indispensable que se ciñan al orden que a continuación se señala:
@@ -1281,6 +1302,7 @@ La autoridad jurisdiccional deberá fundar y motivar la imposición de la medida
 . Dentro de los tres días de haberse hecho saber una corrección disciplinaria, a quien se le haya impuesto, podrá pedir a la autoridad jurisdiccional que la oiga en justicia; y se citará para la audiencia dentro del quinto día, en la que se resolverá, confirmará, atenuará o dejará sin efecto la corrección disciplinaria, sin que en contra de dicha resolución proceda recurso alguno.
 
 ## Capítulo VII — Del Emplazamiento y las Notificaciones
+
 
 ### Artículo 194
 . El emplazamiento, es el primer acto por el que se hace saber a una persona que se ha iniciado un juicio en su contra, para que dentro del término que se señale comparezca a contestar la demanda.
@@ -1420,6 +1442,7 @@ Al acordar lo relativo a la autorización a que se refiere este artículo, se de
 
 ## Capítulo VIII — De los Exhortos y Despachos
 
+
 ### Artículo 217
 . Los exhortos y despachos que se reciban de las autoridades judiciales del territorio nacional, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse, exija necesariamente mayor tiempo.
 En ningún caso para la diligenciación de exhortos y despachos entrantes o salientes enviados por el Poder Judicial de la Entidad Federativa que corresponda, se requerirá la legalización de las firmas de los funcionarios que los expidan.
@@ -1477,6 +1500,7 @@ Del empleo de los medios de comunicación indicados se dejará razón en el expe
 La parte a cuya instancia se libre exhorto, queda obligada a satisfacer los gastos que origine su diligenciación.
 
 ## Capítulo IX — De los Términos Judiciales
+
 
 ### Artículo 227
 . Los términos empezarán a correr:
@@ -1562,9 +1586,12 @@ XI. Las costas serán a cargo de la parte actora; pero serán compensables con l
 
 ## Título Segundo — De la Etapa Postulatoria
 
+
 ## Capítulo I — De la Demanda
 
+
 ## Sección Primera
+
 Requisitos de la Demanda
 
 ### Artículo 235
@@ -1625,6 +1652,7 @@ IV. Producir todas las consecuencias de la interpelación judicial, si por otros
 V. Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
 ## Sección Segunda — De la Contestación a la Demanda
+
 
 ### Artículo 241
 . La contestación a la demanda deberá cumplir con los siguientes requisitos:
@@ -1721,6 +1749,7 @@ Las demás determinaciones se notificarán a las partes a través del medio de c
 
 ## Sección Tercera — Del Allanamiento y Rebeldía
 
+
 ### Artículo 255
 . Transcurrido el plazo fijado en el emplazamiento sin contestar la demanda, se tendrán por contestados los hechos en sentido negativo y se hará la declaratoria de rebeldía correspondiente. A continuación, se señalará fecha para la audiencia de juicio, dictando auto de admisión de las pruebas ofrecidas por la parte actora.
 
@@ -1746,7 +1775,9 @@ II. Desde el día en que fue declarada rebelde o quebrantó la radicación de pe
 
 ## Capítulo II — De las Pruebas
 
+
 ## Sección Primera — De las Pruebas en General
+
 
 ### Artículo 261
 . Las partes, para soportar su acción, excepciones y defensas, así como acreditar los hechos, podrán ofrecer medios de prueba que no sean contrarios a derecho, y les serán admitidas por la autoridad jurisdiccional, las que resulten pertinentes e idóneas y guarden relación con los hechos narrados y cumplan con los requisitos de ofrecimiento previstos en este Código Nacional.
@@ -1794,7 +1825,8 @@ La autoridad jurisdiccional tiene la facultad y el deber de compeler a las perso
 De la mencionada obligación están exentas las personas ascendientes, descendientes, tutores o curadores de niñas, niños y adolescentes, personas designadas como apoyo para el ejercicio de la capacidad jurídica, pupilos, cónyuges, concubinos, convivientes, en los casos en que se trate de probar contra la parte con la que están relacionadas, sin perjuicio de que, si alguna de ellas manifiesta su voluntad de hacerlo, se les permitirá, dejando constancia de dicha circunstancia.
 Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento que tengan de los hechos debido a su empleo, cargo, puesto, oficio, profesión o relación de negocios.
 Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.
-Párrafo reformado DOF 15-01-2026 Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia.
+Párrafo reformado DOF 15-01-2026
+Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia.
 
 ### Artículo 272
 . Las personas que no puedan concurrir a la sede judicial, por tener algún impedimento debidamente acreditado, podrán ser examinadas en el lugar donde se encuentren y su testimonio podrá ser rendido o transmitido utilizando sistemas de justicia digital, en presencia de la autoridad jurisdiccional.
@@ -1869,6 +1901,7 @@ El acuerdo que autorice el término para el desahogo de prueba foránea no será
 En caso de que las partes, estando obligadas a presentar a sus testigos o peritos no cumplan con dicha comparecencia, se les tendrá por desistidos de la prueba, a menos que justifiquen la imposibilidad que se tuvo para presentarlos, dentro de esa misma audiencia, en la que la autoridad jurisdiccional ordenará lo procedente.
 
 ## Sección Segunda — De la Declaración de Parte Propia y Contraria
+
 
 ### Artículo 284
 . Podrá ofrecerse la prueba de declaración voluntaria de parte propia, así como la declaración de la parte contraria, a través del interrogatorio que se les formule en forma personal en el acto de la audiencia de juicio, con el fin de obtener información sobre los hechos controvertidos dentro del proceso, le sean propios o no.
@@ -1947,6 +1980,7 @@ Las determinaciones que adopte la autoridad jurisdiccional durante el desahogo d
 
 ## Sección Tercera — De la Declaración de Testigos
 
+
 ### Artículo 291
 . Se podrá ofrecer la prueba testimonial para que cualquier persona que tenga conocimiento sobre los hechos relacionados al litigio comparezca a proporcionar su declaración testimonial a través del interrogatorio que oralmente se le formule. La autoridad jurisdiccional podrá prevenir al oferente para el efecto de reducir prudencialmente el número de testigos, debiendo admitir cuando menos dos por cada hecho controvertido.
 Toda persona que no tenga impedimento legal y sea conocedora de los hechos que las partes deben de probar, están obligadas a declarar como testigos.
@@ -2007,6 +2041,7 @@ El interrogatorio será previamente calificado por la autoridad jurisdiccional u
 En todo caso, deberá preferirse y estarse al desahogo a distancia de la prueba testimonial, caso en el cual no se requerirá de dicho interrogatorio escrito.
 
 ## Sección Cuarta — De la Prueba Pericial
+
 
 ### Artículo 300
 . La prueba pericial solo procede cuando:
@@ -2082,6 +2117,7 @@ Cuando la recusación se declare fundada se designará otra persona perito terce
 No habrá recurso alguno contra las resoluciones que se dicten en el trámite o la decisión de la recusación.
 
 ## Sección Quinta — De la Prueba Documental Física o Electrónica
+
 
 ### Artículo 308
 . Las pruebas documentales, físicas o electrónicas recibirán el mismo trato, atendiendo los principios de equivalencia funcional y neutralidad tecnológica. En todo caso, atendiendo a su naturaleza, se estará a las reglas generales y especiales, en lo relativo a su objeción, impugnación o fiabilidad.
@@ -2209,6 +2245,7 @@ V. Las firmas o huellas digitales puestas en actuaciones judiciales, en presenci
 
 ## Sección Sexta — De la Inspección o Reconocimiento Judicial
 
+
 ### Artículo 332
 . Al ofrecerse la prueba de inspección judicial, se deberá señalar e identificar los puntos sobre los que debe versar y puede verificarse respecto de lugares, bienes muebles e inmuebles, información publicada y de libre acceso en internet o personas, y que no requieran de conocimientos técnicos especializados, debiendo indicar con toda precisión, la materia u objeto de la prueba y su relación con algún punto del debate, sin cuyos requisitos no se admitirá.
 El reconocimiento o inspección judicial, es el acto contingente y momentáneo, en el que la autoridad jurisdiccional, a través de sus sentidos, da fe de aspectos reales o cuestiones materiales para crear convicción respecto de los hechos materia del litigio.
@@ -2231,12 +2268,14 @@ VI. En caso de no presentarse a la audiencia o diligencia la parte interesada, l
 
 ## Sección Séptima — De la Prueba de Informes
 
+
 ### Artículo 334
 . El informe es un medio de prueba autónomo, que consiste en la rendición de datos, a través de un comunicado que debe contener la información que la parte oferente de la prueba proponga, o que el juzgado requiera oficiosamente y que la persona informante tenga a su disposición, en cualquier fuente que la pueda contener, ya sea electrónica o documental.
 Los informes que se soliciten deberán versar sobre puntos claramente individualizados y referirse a hechos o actos que resulten de la documentación, archivo o registro de la persona informante.
 La contraparte podrá formular las peticiones tendientes a que los informes sean completos y ajustados a los hechos a que han de referirse.
 
 ## Sección Octava — De otros Medios de Prueba
+
 
 ### Artículo 335
 . Para acreditar hechos o circunstancias que tengan relación con el procedimiento que se ventile, las partes pueden presentar otros medios de prueba que no estén expresamente reconocidos y regulados en el Código Nacional, como son, ejemplificativamente, videos, fotografías, cintas cinematográficas, disquetes o discos compactos, de sistemas computacionales, grabaciones de imágenes y sonidos, así como la información generada o comunicada que conste en medios electrónicos, magnéticos, ópticos, u otros medios de reproducción; o bien, copias digitales, impresiones de documentos electrónicos, simples o al carbón, documentos taquigráficos; así como registros dactiloscópicos, fonográficos y, en general, cualesquiera otros elementos proporcionados por la ciencia y la tecnología, que puedan producir convicción en el ánimo de la autoridad jurisdiccional.
@@ -2248,6 +2287,7 @@ En todo caso, deberán respetarse los principios de equivalencia funcional o no 
 . Si alguna de las partes estima que la reproducción de estos medios puede atentar contra la intimidad de las personas o poner en riesgo información reservada, confidencial o secretos industriales, lo expresará a la autoridad jurisdiccional, quien calificará tal solicitud y de considerarla fundada se recibirá en audiencia privada, dejando constancia de ello en el acta mínima que al efecto se levante.
 
 ## Sección Novena — De las Presunciones
+
 
 ### Artículo 337
 . Presunción es la consecuencia que la norma jurídica o la autoridad jurisdiccional, deduce de un hecho conocido para averiguar la verdad de otro desconocido: la primera se llama legal y la segunda humana.
@@ -2268,6 +2308,7 @@ En todo caso, deberán respetarse los principios de equivalencia funcional o no 
 . En los supuestos de presunciones legales que admiten prueba en contrario, opera la inversión de la carga de la prueba.
 
 ## Sección Décima — De la Valoración de las Pruebas
+
 
 ### Artículo 343
 . Las autoridades jurisdiccionales apreciarán la prueba según su libre convicción extraída de la totalidad del debate y la instrumental de actuaciones, lo harán de manera libre, lógica y basada en la experiencia. En la resolución judicial respectiva siempre expondrán la motivación racional de las pruebas desahogadas tanto en lo individual como en su conjunto, salvo que se hayan desestimado, indicando las razones que se tuvieron para hacerlo.
@@ -2300,6 +2341,7 @@ El órgano jurisdiccional según la naturaleza de los hechos, la prueba de ellos
 La información, documentos electrónicos o mensajes de datos contenidos o almacenados en una cadena de bloques pública hacen prueba plena, siempre que no existan circunstancias fehacientes de que los registros vinculados en la cadena de bloques han sido vulnerados o manipulados sin autorización, o no son confiables.
 
 ## Capítulo III — Del Juicio Oral Sumario
+
 
 ### Artículo 351
 . Corresponde a los Consejos de la Judicatura de los Poderes Judiciales de las Entidades Federativas y del Poder Judicial de la Federación, mediante acuerdos generales, determinar qué asuntos serán gestionados en el juicio oral sumario que trata este Capítulo.
@@ -2372,9 +2414,12 @@ Libro Tercero De la Justicia Civil
 
 ## Título Primero — De los Actos Prejudiciales en Materia Civil
 
+
 ## Capítulo I — De los Medios Preparatorios del Juicio en General
 
+
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 367
 . El juicio podrá prepararse:
@@ -2447,6 +2492,7 @@ Contra la resolución que niegue alguna de las diligencias enumeradas en el art�
 
 ## Sección Segunda — De los Medios Preparatorios del Juicio Ejecutivo Civil
 
+
 ### Artículo 378
 . Los medios preparatorios a juicio ejecutivo tienen por objeto que una persona presunta deudora comparezca ante la autoridad jurisdiccional para reconocer el contenido de un documento o la firma de este, así como por solicitud de la persona acreedora y sobre una obligación cierta, liquida y exigible.
 
@@ -2489,6 +2535,7 @@ La liquidación se hace incidentalmente con un escrito de cada parte, un plazo p
 
 ## Sección Tercera — De la Preparación del Juicio Arbitral
 
+
 ### Artículo 386
 . Cuando en un contrato o instrumento público se haya establecido cláusula de arbitraje y no se haya nombrado árbitro, éste se rehusare o falleciere y no exista sustituto, cualquiera de las partes contratantes podrá acudir ante la autoridad jurisdiccional para que se designe uno a través de un medio preparatorio.
 
@@ -2506,6 +2553,7 @@ Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare o fall
 . Habiéndose nombrado árbitro, se levantará acta de la audiencia, a través de la cual se iniciarán las actuaciones de este, emplazando a las partes como se determina en las reglas generales del juicio arbitral.
 
 ## Sección Cuarta — De las Preliminares de la Consignación
+
 
 ### Artículo 391
 . Si la persona acreedora rehusare, sin justa causa recibir la prestación debida, dar el documento justificativo de pago o si fuere persona incierta o no tenga la habilidad o facultad jurídica de recibir pagos, la deudora podrá librarse de la obligación, mediante el ofrecimiento judicial de pago, seguido de consignación.
@@ -2552,7 +2600,9 @@ Mientras la acreedora no acepte la consignación o no se pronuncie resolución s
 
 ## Capítulo II — De las Medidas Cautelares en Materia Civil
 
+
 ## Sección Primera — De las Providencias Precautorias
+
 
 ### Artículo 404
 . Las providencias precautorias son las siguientes:
@@ -2628,6 +2678,7 @@ En contra de la resolución de dicha reclamación, procederá el recurso de apel
 
 ## Sección Segunda — De las Medidas de Aseguramiento
 
+
 ### Artículo 417
 . Antes de iniciarse el juicio, o durante su desarrollo, pueden decretarse todas las medidas necesarias para mantener la situación de hecho existente. Estas medidas se decretarán en forma provisional y definitiva siguiendo el mismo procedimiento cautelar que para las providencias precautorias se prevén en el artículo 409 del presente Código Nacional, y su resolución definitiva, es apelable en el efecto devolutivo de tramitación inmediata.
 
@@ -2651,11 +2702,14 @@ El hecho de no interponer la demanda dentro del plazo indicado, deja sin efecto 
 . No podrá decretarse diligencia preparatoria alguna, de aseguramiento o precautoria que no esté autorizada por este Código Nacional o por disposición especial de la ley.
 
 ## Título Segundo
+
 Procedimientos Civiles No Contenciosos
 
 ## Capítulo I — De la Jurisdicción Voluntaria
 
+
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 424
 . La jurisdicción voluntaria comprende todos los actos que, por disposición de la ley o por solicitud de las personas interesadas, se requiere la intervención de la autoridad jurisdiccional, sin que esté promovida, ni se promueva cuestión litigiosa alguna entre partes determinadas.
@@ -2751,6 +2805,7 @@ No se comprenden, en esa disposición, los autos que tengan fuerza de definitivo
 
 ## Sección Segunda — Del Apeo y Deslinde
 
+
 ### Artículo 439
 . El apeo o deslinde tiene lugar siempre que no se hayan fijado los límites o linderos que separan un fundo de otro u otros, o que, habiéndose fijado, hay motivo fundado para creer que no son exactos ya sea que naturalmente se hayan confundido, o porque se hayan destruido las señales que los marcaban, o bien porque éstas se hayan colocado en lugar distinto del primitivo.
 
@@ -2808,6 +2863,7 @@ En el caso de que el trámite de la diligencia se realice ante Notaria o Notario
 
 ## Sección Tercera — De la Designación de Apoyos Extraordinarios
 
+
 ### Artículo 445
 . Todas las personas mayores de edad tienen capacidad jurídica plena. El código civil respectivo regulará las modalidades en que las personas puedan recibir apoyo para el ejercicio de su capacidad jurídica, que son formas de apoyo que se prestan a la persona para facilitar el ejercicio de sus derechos, incluyendo el apoyo en la comunicación, la comprensión de los actos jurídicos y sus consecuencias, y la manifestación de la voluntad.
 Puede ser objeto de apoyo cualquier acto jurídico, incluidos aquellos para los que la ley exige la intervención personal del interesado. Nadie puede ser obligado a ejercer su capacidad jurídica mediante apoyos, salvo lo señalado en el artículo siguiente.
@@ -2855,7 +2911,9 @@ Además, deberá verificar, de preferencia de manera directa, que sigue vigente 
 
 ## Capítulo II — De los Juicios Orales Civiles
 
+
 ## Sección Primera — Del Juicio Ordinario Civil Oral
+
 
 ### Artículo 456
 . Todas las controversias de naturaleza civil que no tengan señalada tramitación especial en este Código Nacional se ventilarán en juicio ordinario civil y se tramitarán conforme a las reglas del presente Título y en lo no previsto, se regirá por las disposiciones generales de este Código Nacional.
@@ -2931,6 +2989,7 @@ Tratándose de personas pertenecientes a grupos sociales en situación de vulner
 . Asimismo, al momento de dictar la sentencia definitiva, la autoridad jurisdiccional explicará a las partes las ventajas del cumplimiento voluntario de la sentencia; y las desventajas, de no hacerlo voluntariamente; así como la importancia de presentarse a las audiencias de cumplimiento voluntario de sentencia y sus consecuencias legales, para el caso de que la resolución no sea modificada o revocada por la autoridad jurisdiccional de segunda instancia. Destacando la importancia de vigilar el expediente ante la ausencia de cualquier notificación personal antes de los tres meses posteriores a que la sentencia definitiva sea ejecutable.
 
 ## Sección Segunda — Del Juicio Ejecutivo Civil Oral
+
 
 ### Artículo 470
 . Procede el juicio ejecutivo en los casos que un documento lleve aparejada ejecución y que contenga obligación cierta, líquida y exigible.
@@ -3027,6 +3086,7 @@ Verificado de cualquiera de los modos indicados el requerimiento, se procederá 
 
 ## Sección Tercera — De las Tercerías
 
+
 ### Artículo 486
 . Tercería es la acción que deduce un tercero en un procedimiento previamente instaurado entre dos o más personas, con el objeto de coadyuvar o adherirse a las acciones del demandante o a las excepciones del demandado, o para excluir los derechos de ese tercero.
 En un juicio previamente instaurado y seguido por dos o más personas, puede uno o más terceros, con intereses distintos de las partes, presentarse a deducir una acción distinta de la que se debate entre aquellos, tercero que debe fundar su acción y presentar los documentos que tenga relación con la litis planteada en el juicio principal, sin los cuales se desechará de plano. Este nuevo litigante se llama tercer opositor.
@@ -3114,6 +3174,7 @@ Al declararse fundada la tercería excluyente que motive se levante el embargo d
 
 ## Sección Cuarta — Del Juicio Especial Hipotecario Oral
 
+
 ### Artículo 506
 . Se tramitará en la vía especial hipotecaria oral todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que el crédito conste en documento público o privado, según la forma que establezca la legislación común o la que sea aplicable, e inscrito en el Registro, Oficina o Instituto Público Registral que corresponda y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
@@ -3193,6 +3254,7 @@ Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos
 
 ## Sección Quinta — Del Juicio Especial de Arrendamiento Inmobiliario Oral
 
+
 ### Artículo 520
 . A las controversias que versen sobre el arrendamiento inmobiliario les serán aplicables las disposiciones de este Capítulo.
 A las acciones que se intenten contra quien haya otorgado fianza de carácter civil o terceras personas por controversias derivados del arrendamiento, se aplicarán las reglas de este Capítulo, en lo conducente. Igualmente, la acción que intente la persona arrendataria para exigir a la arrendadora, el derecho de preferencia y el pago de los daños y perjuicios a que se refiere el Código Civil correspondiente se sujetará a lo dispuesto en este Título.
@@ -3231,6 +3293,7 @@ Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos
 . En todo lo no previsto regirán las reglas generales de este Código Nacional, en cuanto no se opongan a las disposiciones del presente Capítulo.
 
 ## Sección Sexta — Del Procedimiento Especial de Inmatriculación Judicial Oral
+
 
 ### Artículo 530
 . El procedimiento especial oral de inmatriculación judicial de inmuebles, sin perjuicio de lo dispuesto en los Códigos Civiles respectivos, se substanciará conforme a lo siguiente:
@@ -3284,7 +3347,9 @@ En el caso de que no hubiera oposición, y previa solicitud de acuse de rebeldí
 
 ## Título Tercero — Del Juicio Arbitral
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 533
 . Las partes tienen el derecho de someter sus controversias al juicio arbitral.
@@ -3353,6 +3418,7 @@ II. Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitr
 
 ## Capítulo II — De la Ejecución de Laudos
 
+
 ### Artículo 546
 . Notificado el laudo, cualquier parte podrá presentarlo a la autoridad jurisdiccional para su ejecución, a no ser que las partes ejercieren una acción de nulidad dentro de los siguientes tres meses a la notificación del laudo.
 
@@ -3379,9 +3445,12 @@ Libro Cuarto De la Justicia Familiar
 
 ## Título Primero — Disposiciones Comunes a los Procedimientos Familiares
 
+
 ## Capítulo I — Disposiciones Generales en Materia Familiar
 
+
 ## Sección Primera
+
 Generalidades
 
 ### Artículo 550
@@ -3481,6 +3550,7 @@ VII. Determinar las medidas y órdenes de protección procedentes para la protec
 
 ## Sección Segunda — De los Alimentos
 
+
 ### Artículo 562
 . Si la autoridad jurisdiccional considera acreditada la obligación alimentaria, dictará el auto admisorio a más tardar al día siguiente en que haya recibido la solicitud respectiva, fijando una pensión alimenticia provisional y dará aviso sin demora a la persona física o moral de quien perciba el ingreso la persona deudora alimentista, para que lleve a cabo el descuento y haga entrega de la cantidad al acreedor alimentario e informe sobre el total de sus percepciones.
 
@@ -3506,6 +3576,7 @@ Las personas representantes de la Procuraduría de Protección de Niñas, Niños
 En caso de que la autoridad jurisdiccional verifique un incumplimiento total o parcial por la parte deudora alimentista del fallo que condena al pago de alimentos, ya sea que comprenda el pago de una pensión alimenticia ordinaria o retroactiva, informará para su inscripción en el plazo de tres días dicho incumplimiento al Registro Nacional de Obligaciones Alimentarias.
 
 ## Sección Tercera — De las Medidas Provisionales y de Protección
+
 
 ### Artículo 569
 . La autoridad jurisdiccional deberá intervenir de oficio en las cuestiones inherentes al orden familiar y deberá decretar las medidas provisionales necesarias sin audiencia de la contraparte y cerciorarse de su cumplimiento, en los casos que a continuación se mencionan, de manera enunciativa y no limitativa:
@@ -3600,6 +3671,7 @@ En su caso, se dará vista al Ministerio Público para los efectos que correspon
 
 ## Sección Cuarta — De la Separación de Personas
 
+
 ### Artículo 578
 . Quien intente demandar, denunciar o querellarse contra su cónyuge o persona concubina, podrá solicitar a la autoridad jurisdiccional en materia familiar su separación del domicilio hogar común.
 
@@ -3645,6 +3717,7 @@ Cualquier oposición de las personas cónyuges o concubinas respecto de los alim
 
 ## Sección Quinta — De la Justicia Restaurativa en Materia Familiar
 
+
 ### Artículo 584
 . Las partes de común acuerdo podrán sujetarse a un procedimiento de Justicia Restaurativa en materia familiar, el cual tendrá como finalidad que las partes reconozcan la existencia de un conflicto, asuman su responsabilidad y participen tanto en la reparación de los daños como en la reestructuración de la dinámica familiar. Quedan exceptuados los casos de violencia sexual contra niñas, niños y adolescentes. El procedimiento de Justicia Restaurativa no es obligatorio para acceder a la justicia familiar.
 Las partes podrán acordar suspender la tramitación del juicio que hayan iniciado por un intervalo no mayor a tres meses. Las medidas cautelares, precautorias o provisionales decretadas en el trámite de cualquier juicio se mantendrán vigentes.
@@ -3671,11 +3744,14 @@ De resultar en derecho el convenio, se elevará a categoría de cosa juzgada y d
 El cumplimiento forzoso del convenio judicial podrá solicitarse en la vía de apremio.
 
 ## Título Segundo
+
 Procedimientos No Contenciosos en Materia Familiar
 
 ## Capítulo I — De la Jurisdicción Voluntaria
 
+
 ## Sección Primera
+
 Generalidades
 
 ### Artículo 587
@@ -3747,6 +3823,7 @@ Si no mediare oposición, la autoridad jurisdiccional aprobará la información 
 
 ## Sección Segunda — De la Consignación de Alimentos
 
+
 ### Artículo 597
 . Quien sea deudor alimentista puede promover diligencias de consignación, derivadas de su obligación de proporcionar alimentos, sin que ello constituya la extinción de la obligación alimentaria y sin perjuicio de que la autoridad jurisdiccional determine lo conducente.
 
@@ -3766,6 +3843,7 @@ Si no mediare oposición, la autoridad jurisdiccional aprobará la información 
 . La consignación que hace el deudor de pensiones alimentarias no extingue ni fija por sí misma su obligación de pagar alimentos.
 
 ## Sección Tercera — Del Nombramiento de Personas Tutoras y Curadoras
+
 
 ### Artículo 603
 . Toda persona tutora cualquiera que sea su clase debe manifestar si acepta o no el cargo dentro de los tres días que sigan a la notificación de su nombramiento; en igual término debe proponer su impedimento o excusa.
@@ -3830,6 +3908,7 @@ Tratándose de excusa, únicamente se dará vista a los interesados y al Ministe
 
 ## Sección Cuarta — De la Enajenación de Bienes de Niñas, Niños y Adolescentes
 
+
 ### Artículo 613
 . Será necesaria autorización judicial en la vía de jurisdicción voluntaria para la enajenación de los bienes que pertenezcan exclusivamente a niñas, niños, adolescentes y correspondan a las clases siguientes:
 
@@ -3871,6 +3950,7 @@ La autoridad jurisdiccional señalará un término prudente a la persona tutora,
 
 ## Sección Quinta — De la Declaración de Ausencia y Especial de Ausencia por Desaparición
 
+
 ### Artículo 621
 . La declaración de ausencia, así como la declaración especial de ausencia por desaparición, podrá ser solicitada por cualquier persona a quien le asista un interés en términos de la legislación sustantiva aplicable y será recibida mediante escrito o por comparecencia ante la autoridad jurisdiccional en materia civil o familiar en turno, quien podrá recibir la solicitud sin mayores formalidades, en caso de recibirse por comparecencia será preferentemente videograbada. En ambas modalidades la solicitud deberá ser despachada por la autoridad jurisdiccional dentro de las veinticuatro horas siguientes a su recepción.
 En caso de que la persona solicitante comparezca sin representación autorizada, la autoridad jurisdiccional designará de inmediato persona de la defensoría pública para su asistencia y representación.
@@ -3901,6 +3981,7 @@ Una vez efectuada la Declaración de Ausencia o la Declaración Especial de Ause
 . Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de las personas ausentes o desaparecidas, así como a la transacción y arrendamiento por más de cinco años, de bienes de ausentes o desaparecidos.
 
 ## Sección Sexta
+
 Restitución Nacional de Niñas, Niños y Adolescentes
 
 ### Artículo 629
@@ -3996,6 +4077,7 @@ El desarrollo de la audiencia y la resolución que dicte la autoridad jurisdicci
 
 ## Sección Séptima — Del Procedimiento de Adopción
 
+
 ### Artículo 642
 . Será competente para tramitar la solicitud de adopción la autoridad jurisdiccional ubicada en el domicilio de la persona que se pretende adoptar.
 
@@ -4056,6 +4138,7 @@ Dentro de los tres días hábiles siguientes al desahogo de la última audiencia
 
 ## Capítulo II — Del Divorcio Bilateral
 
+
 ### Artículo 654
 . Será competente para tramitar la disolución del vínculo matrimonial la autoridad jurisdiccional ubicada en donde se encuentre el último domicilio conyugal, salvo sumisión expresa de ambos cónyuges ante alguna otra autoridad jurisdiccional.
 
@@ -4099,9 +4182,12 @@ La autoridad del Registro Civil, previa identificación de los cónyuges, y rati
 
 ## Título Tercero — Del Juicio Oral Familiar
 
+
 ## Capítulo I — Disposiciones Generales
 
+
 ## Sección Primera — De la Procedencia del Juicio Oral Familiar
+
 
 ### Artículo 663
 . Se tramitarán en la vía oral familiar, todas las controversias que no tengan tramitación especial señalada en este Código Nacional.
@@ -4139,6 +4225,7 @@ II. Un objeto se oculte, dilapide o pueda no lograrse su inspección.
 . En todo lo no previsto regirán las reglas generales de este Código Nacional, en cuanto no se opongan a los principios y disposiciones del presente Libro.
 
 ## Sección Segunda — De la Audiencia Preliminar Familiar
+
 
 ### Artículo 670
 . Una vez contestada la demanda, con las excepciones y defensas se dará vista a la parte actora por el término de tres días para que manifieste lo que a su derecho convenga y ofrezca pruebas.
@@ -4202,6 +4289,7 @@ Si las partes no reúnen los requisitos necesarios para acceder al cambio de ví
 
 ## Sección Tercera — De la Audiencia de Juicio
 
+
 ### Artículo 678
 . Abierta la audiencia de juicio, la autoridad jurisdiccional escuchará los alegatos de apertura de las partes, los cuales no podrán exceder de diez minutos, para exponer sus respectivas teorías del caso.
 La autoridad jurisdiccional señalará el orden para el desahogo de las pruebas, de conformidad con los acuerdos fijados en la audiencia preliminar.
@@ -4229,9 +4317,11 @@ Para los efectos del párrafo anterior, será competente la misma autoridad juri
 Libro Quinto De los Juicios Universales
 
 ## Título Primero
+
 Juicios Sucesorios
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 684
 . Será competente para conocer del procedimiento sucesorio testamentario o intestamentario, la autoridad jurisdiccional, en materia civil o familiar de conformidad con las leyes orgánicas del poder judicial de cada Entidad Federativa, así como la o el Notario Público en los términos que dispone el presente Código Nacional.
@@ -4444,6 +4534,7 @@ Toda la información podrá ser recabada en formato impreso, o en medios electr�
 
 ## Sección Primera — Del Procedimiento Especial en los Intestados
 
+
 ### Artículo 711
 . En las sucesiones intestamentarias en que no hubiere controversia alguna y las personas herederas fueren mayores de edad, así como niñas, niños o adolescentes que se encuentren debidamente representados, se podrá realizar el procedimiento especial en los intestados a que se refiere esta sección.
 Se exceptúa de lo dispuesto en el párrafo anterior, cuando los bienes se encuentren afectos a patrimonio familiar, en cuyo caso no se admitirá a trámite el juicio hasta en tanto se presente la constancia de que el mismo se ha extinguido, en caso de que así lo prevea el Código Civil de la Entidad Federativa donde se pretenda radicar el juicio sucesorio, de lo contrario, deberán seguirse las reglas particulares que al efecto establezca dicha legislación.
@@ -4507,6 +4598,7 @@ Si hubieren aparecido otros parientes, al momento de comparecer deberán acompa�
 
 ## Sección Segunda — De las Sucesiones Testamentarias
 
+
 ### Artículo 726
 . En los juicios de sucesión, si la Federación o las Entidades Federativas son herederos o legatarios en concurrencia con los particulares, se estará a las reglas de competencia previstas en este Código Nacional.
 
@@ -4541,6 +4633,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 . En la junta de las personas herederas, podrán estas nombrar a quien funja como interventor, conforme a la facultad y en los casos previstos en el Código Civil de cada Entidad Federativa.
 
 ## Sección Tercera — Del Inventario y Avalúo
+
 
 ### Artículo 736
 . Dentro de diez días de haber aceptado su cargo, quien ejerce el albaceazgo debe dar aviso de que procederá a la formación de inventarios y avalúos, y propondrá al o los peritos valuadores en la materia correspondiente, debiendo concluir la presente sección dentro de los siguientes sesenta días.
@@ -4638,6 +4731,7 @@ Aprobado el inventario por la autoridad jurisdiccional o por el consentimiento d
 
 ## Sección Cuarta — De la Administración y Rendición de Cuentas
 
+
 ### Artículo 751
 . Corresponde la posesión y administración de la masa hereditaria a quien sobreviva, de conformidad con lo siguiente:
 
@@ -4717,6 +4811,7 @@ La inconformidad expresa se substanciará en forma incidental, el incidente se d
 
 ## Sección Quinta — De la Partición de Herencia
 
+
 ### Artículo 769
 . Aprobada la cuenta general de administración, dentro de los quince días siguientes, el albacea presentará el proyecto de partición de los bienes, en los términos del Código Civil respectivo.
 
@@ -4773,7 +4868,9 @@ El resto de los bienes o derechos adjudicados la autoridad jurisdiccional deber�
 
 ## Capítulo II — De Otras Formas Testamentarias
 
+
 ## Sección Primera — Del Testamento Público Cerrado
+
 
 ### Artículo 783
 . Para la apertura del testamento público cerrado, los testigos reconocerán separadamente sus firmas y el pliego que las contenga. El Ministerio Público asistirá a la diligencia.
@@ -4790,6 +4887,7 @@ En seguida firmarán al margen del testamento las personas que hayan intervenido
 
 ## Sección Segunda — De la Declaración del Testamento Ológrafo
 
+
 ### Artículo 787
 . La autoridad jurisdiccional que tenga noticia de que el autor de la herencia depositó su testamento ológrafo, como se dispone en el Código Civil respectivo, dirigirá oficio al encargado del Archivo General de Notarías, Registro de la Propiedad, Director del Archivo de Instrumentos Públicos, que lleve a cabo dicha función en la Entidad Federativa, en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
 
@@ -4800,6 +4898,7 @@ En seguida firmarán al margen del testamento las personas que hayan intervenido
 . Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, la autoridad jurisdiccional nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
 ## Sección Tercera — Del Testamento Privado
+
 
 ### Artículo 790
 . A instancia de parte legítima formulada ante la autoridad jurisdiccional competente, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra de conformidad con el Código Civil respectivo.
@@ -4831,6 +4930,7 @@ De la que otorgue la declaración de formalidad, puede apelar el Ministerio Púb
 
 ## Sección Cuarta — Del Testamento Militar
 
+
 ### Artículo 795
 . Luego que la autoridad jurisdiccional reciba, por conducto de la persona titular de la Secretaría de la Defensa Nacional, el parte a que se refiere el Código Civil correspondiente, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes o desaparecidos, mandará exhorto al Tribunal o Poder Judicial del lugar donde se hallen.
 
@@ -4839,15 +4939,18 @@ De la que otorgue la declaración de formalidad, puede apelar el Ministerio Púb
 
 ## Sección Quinta — Del Testamento Marítimo
 
+
 ### Artículo 797
 . Hechas las publicaciones que ordena el Código Civil de la Entidad Federativa respectiva, podrán los interesados ocurrir ante la autoridad jurisdiccional competente para que pida de la Secretaría de Relaciones Exteriores o al Gobierno local, según la Entidad Federativa que lo contemple, la remisión del testamento para que lo envíe y continúe el trámite legal correspondiente.
 
 ## Sección Sexta — Del Testamento hecho en País Extranjero
 
+
 ### Artículo 798
 . El testamento hecho en país extranjero será declarado válido por la autoridad jurisdiccional competente, cuando haya sido formulado de conformidad con las Leyes del país en que se otorgue y no contravenga al orden público mexicano, siguiendo las reglas de aplicación e interpretación que contempla la legislación sustantiva de cada Entidad Federativa.
 
 ## Capítulo III
+
 Procedimiento Sucesorio No Controvertido Vía Judicial
 
 ### Artículo 799
@@ -4896,6 +4999,7 @@ Sin embargo, en caso de que de nueva cuenta no comparezcan las personas interesa
 
 ## Capítulo IV — De la Sucesión Tramitada por Notario Público
 
+
 ### Artículo 805
 . Podrán tramitarse ante Notaria o Notario Público todas las sucesiones testamentarias o intestamentarias, siempre y cuando no hubiere controversia alguna, con arreglo a lo que se establece en el presente Código Nacional.
 La apertura del testamento público cerrado, la declaración de ser formal el testamento ológrafo o un testamento especial y la declaración de ser formalmente válido un testamento otorgado en país extranjero se tramitará siempre judicialmente, excepto en este último caso cuando se trate de un testamento público abierto otorgado ante miembro del servicio exterior mexicano en ejercicio de funciones notariales en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, cuyo testimonio tendrá plena validez sin necesidad de legalización. Cumplido lo anterior, podrá tramitarse la sucesión ante Notaria o Notario Público conforme a lo dispuesto en este Código Nacional.
@@ -4938,7 +5042,9 @@ V. En el instrumento a que se refiere la fracción anterior, los legatarios podr
 
 ## Título Segundo — Del Concurso de Acreedores
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 811
 . Puede someterse a los procedimientos regulados en este Título la persona deudora no comerciante, que no pueda hacer frente a sus obligaciones líquidas y exigibles, siempre que no se encuentre en los supuestos que regula la Ley de Concursos Mercantiles y demás leyes especiales.
@@ -4986,6 +5092,7 @@ En su caso, se considerará a los acreedores con créditos garantizados debidame
 Los acreedores comunes son todos aquellos que no están considerados en los párrafos anteriores, quienes cobrarán a prorrata, sin distinción de fechas y conforme al plan de pagos que en su caso se apruebe.
 
 ## Sección Primera — Del Procedimiento Extrajudicial
+
 
 ### Artículo 820
 . El procedimiento extrajudicial inicia en la fecha en la que la persona deudora entregue bajo protesta de decir verdad al facilitador o conciliador el formato único universal con toda la información precisada en el artículo 833 del presente Código Nacional, acompañado de su reporte especial de crédito emitido por una sociedad de información crediticia con no más de treinta días de antigüedad.
@@ -5080,6 +5187,7 @@ En caso de no lograrse un nuevo acuerdo en el plazo señalado, el facilitador o 
 . Si la persona deudora cumple el convenio, quedarán extinguidas sus obligaciones en los términos estipulados en el mismo; pero si dejare de cumplirlo en todo o en parte, su exigibilidad se hará en la vía de apremio y se podrá iniciar el concurso necesario.
 
 ## Sección Segunda — Del Proceso Judicial de Concurso Civil
+
 
 ### Artículo 833
 . Para iniciar el proceso judicial, la persona deudora debe presentar en la oficialía de partes o en la vía electrónica la solicitud de concurso a través del formato único concursal que deberá contener además de la firma, todos los datos requeridos en éste. Dicho formato podrá ser descargado de la página de internet del Poder Judicial de la Entidad Federativa en que se inicie el proceso. La persona deudora en su escrito deberá expresar los motivos que lo obligan a iniciar el procedimiento.
@@ -5331,6 +5439,7 @@ Libro Sexto De las Acciones Colectivas
 
 ## Capítulo Único — Disposiciones Generales
 
+
 ### Artículo 855
 . La defensa y protección de los derechos e intereses colectivos, será ejercida ante los órganos jurisdiccionales competentes en el ámbito Federal con las modalidades que se señalen en este Libro, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
 
@@ -5369,6 +5478,7 @@ Tratándose de acciones colectivas relacionadas con prácticas monopólicas y co
 
 ## Sección Primera — De la Legitimación Activa
 
+
 ### Artículo 862
 . Tienen legitimación activa para ejercitar las acciones colectivas:
 
@@ -5402,6 +5512,7 @@ La autoridad jurisdiccional Federal deberá notificar la resolución de remoció
 La persona que ejerza el cargo de representante será responsable frente a la colectividad por el ejercicio de su gestión.
 
 ## Sección Segunda — Del Procedimiento
+
 
 ### Artículo 864
 . La demanda deberá contener:
@@ -5532,6 +5643,7 @@ La autoridad jurisdiccional Federal podrá requerir a los órganos y organismos 
 . Cuando la acción sea interpuesta por las personas a que se refieren las fracciones II y III del artículo 862 de este ordenamiento, estarán obligadas a informar a través de los medios idóneos a la colectividad, sobre el estado que guarda el procedimiento por lo menos cada seis meses.
 
 ## Sección Tercera — De las Sentencias
+
 
 ### Artículo 880
 . Las sentencias deberán resolver la controversia planteada por las partes conforme a derecho.
@@ -5675,6 +5787,7 @@ Libro Séptimo De los Recursos
 
 ## Capítulo Único — Disposiciones Generales
 
+
 ### Artículo 904
 . Las resoluciones judiciales dictadas dentro de los procedimientos son impugnables conforme a lo ordenado por este Código Nacional. Para ello la persona recurrente deberá precisar la parte de la resolución que impugna.
 
@@ -5699,6 +5812,7 @@ Quienes hubieren interpuesto un recurso podrán desistirse de éste antes de su 
 . La citación errónea en la fundamentación de preceptos legales en la sentencia o resolución impugnada que no haya influido en el sentido del fallo, así como los errores de forma en la transcripción que no causen agravio, no anularán ni revocarán la resolución judicial, deberán ser subsanados de oficio en cuanto sean advertidos de forma inmediata por la autoridad que emita la resolución judicial, o a petición de parte cuando sea advertida por ella, con la finalidad de evitar dar trámite a algún recurso que represente dilaciones procesales.
 
 ## Sección Primera — De la Apelación
+
 
 ### Artículo 908
 . El recurso de apelación tiene por objeto que la autoridad jurisdiccional de apelación confirme, revoque o modifique la resolución impugnada.
@@ -5819,6 +5933,7 @@ En aquellos asuntos complejos o por el volumen de las constancias podrán amplia
 
 ## Sección Segunda — De la Reposición
 
+
 ### Artículo 927
 . En la segunda instancia sólo procederá el recurso de reposición y será:
 
@@ -5833,6 +5948,7 @@ III. Cuando algún o algunas de las apelaciones en contra de resoluciones dictad
 En contra de esta resolución no se admitirá ningún recurso.
 
 ## Sección Tercera — De la Queja
+
 
 ### Artículo 929
 . El recurso de queja procede:
@@ -5855,7 +5971,9 @@ Libro Octavo De la Justicia Digital
 
 ## Título Único — Del Procedimiento en Línea e Integración del Expediente Judicial
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 933
 . Todos los procedimientos regulados en el presente Código Nacional podrán tramitarse bajo la modalidad de procedimiento en línea que, al igual que cualquier otra modalidad procesal, será gratuita para las partes.
@@ -5894,6 +6012,7 @@ Este principio no limitará o impedirá que se usen los sistemas de justicia dig
 
 ## Sección Primera — De la Integración del Expediente Judicial
 
+
 ### Artículo 939
 . El expediente judicial se integrará física y electrónicamente de acuerdo con las disposiciones establecidas en el presente Código Nacional, salvo que las partes convengan en que únicamente se integre de forma electrónica.
 El Acuerdo que contenga Lineamientos aprobados por el Consejo de la Judicatura que corresponda, establecerá las reglas que permitan la debida integración de expedientes físicos y electrónicos, para los procedimientos tramitados en la modalidad en línea.
@@ -5928,6 +6047,7 @@ II. La documentación recibida en formato impreso se digitalice e ingrese al exp
 
 ## Sección Segunda — De la Digitalización y Uso de Firma Electrónica
 
+
 ### Artículo 947
 . Toda promoción, documentación y actuación que ingrese a un expediente electrónico deberá ser suscrita y autenticada con una firma electrónica avanzada.
 
@@ -5960,7 +6080,9 @@ II. La documentación recibida en formato impreso se digitalice e ingrese al exp
 
 ## Capítulo II — Del Procedimiento en Línea y de las Audiencias Virtuales
 
+
 ## Sección Primera — Del Procedimiento en Línea
+
 
 ### Artículo 957
 . Los procedimientos en línea se ajustarán a las siguientes disposiciones:
@@ -6008,6 +6130,7 @@ En todo lo no previsto en el presente Capítulo, se estará a las disposiciones 
 
 ## Sección Segunda — De las Audiencias y Diligencias Virtuales
 
+
 ### Artículo 959
 . A petición de parte o por propuesta de la autoridad jurisdiccional, cualquier audiencia y diligencia prevista en el presente Código Nacional podrá celebrarse bajo la modalidad de audiencia virtual y diligencia virtual.
 En las audiencias, cualquiera de las partes o la autoridad jurisdiccional, podrán estar presentes vía remota o a través de sistemas de justicia digital de acuerdo con los lineamientos respectivos, siempre y cuando se garantice el derecho a la tutela judicial efectiva y los principios procesales previstos en el presente Código Nacional.
@@ -6044,7 +6167,9 @@ III. Ordenar todas las medidas necesarias para tal efecto, siempre que se respet
 
 ## Capítulo III — De los Sistemas de Justicia Digital y de la Seguridad de la Información
 
+
 ## Sección Primera — De los Sistemas de Justicia Digital
+
 
 ### Artículo 964
 . Los Poderes Judiciales correspondientes, a través del Consejo de la Judicatura o la autoridad competente señalada en su respectiva Ley Orgánica:
@@ -6078,6 +6203,7 @@ El reporte que determine que existió interrupción en el sistema o plataforma d
 . Las fallas que pueda sufrir la computadora, dispositivo, el equipo o la conexión a internet de las partes, interesados o sus representantes legales, de ninguna forma interrumpirán los plazos establecidos en este Código Nacional.
 
 ## Sección Segunda — De la Seguridad de la Información
+
 
 ### Artículo 968
 . Seguridad de la información es el principio consistente en que todo procedimiento en línea, promoción electrónica, audiencia virtual, diligencia virtual, videoconferencia, y en general, toda actuación y documentación que forme parte de procedimientos en línea, se lleve a cabo protegiendo la información y los sistemas de información contra el acceso, uso, divulgación, interrupción, modificación o destrucción no autorizados a fin de proporcionar confidencialidad, integridad y disponibilidad, mientras dichos atributos no se contrapongan con la naturaleza o características de determinado procedimiento, audiencia o actuación judicial.
@@ -6120,7 +6246,9 @@ Libro Noveno De la Sentencia, Vía de Apremio y su Ejecución
 
 ## Título Único — De la Ejecución de la Sentencia
 
+
 ## Capítulo I — De la Sentencia Ejecutoriada y Cosa Juzgada
+
 
 ### Artículo 974
 . Se considera cosa juzgada la sentencia que ha causado ejecutoria, el convenio emanado de cualquier procedimiento judicial, el celebrado en el procedimiento de mediación en el Centro de Justicia Alternativa correspondiente en las Entidades Federativas, así como el que resulte de la mediación comunitaria, y en los demás casos que la ley prevea.
@@ -6161,6 +6289,7 @@ En los supuestos de la fracción III, la declaración se hará de oficio o a pet
 . El auto en que se declara que una sentencia o resolución judicial ha causado o no ejecutoria, no admite ningún recurso.
 
 ## Capítulo II — De la Vía de Apremio y Ejecución de Sentencia
+
 
 ### Artículo 980
 . En la vía de apremio y los procedimientos de ejecución de sentencia o convenio, además de los principios previstos por este Código Nacional, serán aplicables los siguientes:
@@ -6405,6 +6534,7 @@ Estas excepciones se substanciarán en la audiencia de cumplimiento de sentencia
 . Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende el pacto comisorio expreso, transacciones, convenios, laudos y aquellos que ponen fin a los juicios arbitrales, convenios judiciales y aquellos a que se refiere el artículo 471 de este Código Nacional.
 
 ## Capítulo III — Del Embargo
+
 
 ### Artículo 1024
 . En los casos que así proceda, en la audiencia de cumplimiento la autoridad jurisdiccional decretará oralmente o por escrito el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, para el efecto de que se requiera a la persona deudora el cumplimiento de la obligación respectiva y no verificándolo en el acto, se proceda a embargar bienes suficientes a garantizar el importe de lo que se reclama.
@@ -6669,6 +6799,7 @@ En todos los casos se procurará dar trámite y resolver dentro del sistema de a
 
 ## Capítulo IV — Del Remate en Subasta Pública
 
+
 ### Artículo 1065
 . Toda venta que legalmente deba practicarse en subasta o almoneda pública, se sujetará a las disposiciones contenidas en este Capítulo, salvo en los casos en que el presente Código Nacional disponga expresamente lo contrario.
 
@@ -6881,6 +7012,7 @@ V. Los gastos de corretaje o comisión serán a cargo de la persona deudora y se
 VI. En todo lo demás, se estará a las disposiciones de este Capítulo.
 
 ## Capítulo V — De la Ejecución de la Sentencia y demás Resoluciones de las Autoridades
+
 Jurisdiccionales de las Entidades Federativas
 
 ### Artículo 1111
@@ -6912,6 +7044,7 @@ IV. Siempre que la parte condenada haya sido emplazada personalmente para ocurri
 Libro Décimo De los Procesos de Carácter Internacional
 
 ## Capítulo I — De la Competencia
+
 
 ### Artículo 1116
 . Los procesos de carácter internacional se regirán por las disposiciones de este Código Nacional y demás leyes aplicables, salvo lo dispuesto en los tratados y convenciones de los que México sea parte.
@@ -7001,6 +7134,7 @@ e) Que el tribunal elegido haya resuelto no conocer del litigio.
 
 ## Capítulo II — De la Cooperación Procesal Internacional
 
+
 ### Artículo 1129
 . Salvo lo prescrito en los tratados internacionales de que México sea parte, no procede la acumulación de procesos que también se estén tramitando en el extranjero, ni la escisión de procesos que produzcan la remisión de un proceso al extranjero.
 
@@ -7012,6 +7146,7 @@ I. El orden jurídico de los Estados Unidos Mexicanos determinará las condicion
 II. Solo los hechos estarán sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos, costumbres, tradiciones o valores culturales.
 
 ## Sección Primera — De las Notificaciones, Emplazamientos y Medidas Cautelares
+
 
 ### Artículo 1131
 . Las notificaciones y emplazamientos provenientes del extranjero, para la Federación y sus dependencias, las Entidades Federativas y los Municipios, se harán por conducto de las autoridades Federales que resulten competentes por razón del domicilio o residencia de aquéllas.
@@ -7053,6 +7188,7 @@ V. Tratándose de alimentos, se ejecutarán las medidas cautelares solicitadas c
 En caso de que, un nacional se extravíe en el extranjero, se enviará al cónsul mexicano en el lugar en que se presume el extravío, la solicitud de búsqueda, incluido el edicto que se publique en los Estados Unidos Mexicanos.
 
 ## Sección Segunda — De las Pruebas
+
 
 ### Artículo 1139
 . Las disposiciones relativas a la presentación de documentos y desahogo de pruebas en procedimientos internacionales se regirán por lo previsto en instrumentos internacionales y en su defecto, por lo dispuesto en esta Sección.
@@ -7096,6 +7232,7 @@ La diligenciación de cualquiera de estos actos, no implicará el reconocimiento
 . Las autoridades jurisdiccionales nacionales y los fedatarios públicos nacionales, podrán solicitar el auxilio y cooperación del Servicio Exterior Mexicano para ejecutar actos relacionados con un asunto o proceso que ante ellos se tramite, en los términos previstos por los instrumentos internacionales, este Código Nacional o cualquier disposición legal nacional.
 
 ## Sección Tercera — De la Cooperación, cuando intervengan Niñas, Niños y Adolescentes
+
 
 ### Artículo 1150
 . El ejercicio del derecho de visita y custodia de niñas, niños o adolescentes cuyos padres radiquen en países diferentes de manera habitual, se regirá conforme a los instrumentos internacionales y se observarán las siguientes reglas:
@@ -7190,6 +7327,7 @@ La autoridad jurisdiccional deberá informar de dicha decisión a la Secretaría
 
 ## Sección Cuarta — De los Exhortos Internacionales y Cartas Rogatorias
 
+
 ### Artículo 1162
 . Los exhortos o cartas rogatorias que se remitan al extranjero serán comunicaciones oficiales escritas, que contendrán la petición de ejecutar las actuaciones necesarias para el proceso en que se expidan. Dichas comunicaciones contendrán los datos informativos necesarios y las copias certificadas, cédulas, copias de traslado y demás anexos procedentes, con su respectiva traducción, según sea el caso.
 
@@ -7231,6 +7369,7 @@ La autoridad nacional fronteriza deberá cerciorarse de la autenticidad del exho
 
 ## Sección Quinta — De la Utilización de Videoconferencias en Procesos Internacionales
 
+
 ### Artículo 1169
 . De acuerdo al uso de tecnologías en la cooperación internacional, requirente y requerido, podrán utilizar videoconferencias para la ejecución de actos procesales y empleo de medios electrónicos de comunicación oficiales.
 
@@ -7258,6 +7397,7 @@ d) Durante la audiencia podrán presentarse aquellos documentos que se pongan a 
 e) El examen lo hará la autoridad requirente o los abogados reconocidos ante ésta. Las preguntas podrán ser objetadas por el requirente o el requerido, cuando no sean admisibles acorde al orden jurídico mexicano.
 
 ## Sección Sexta — De la Información del Derecho Extranjero
+
 
 ### Artículo 1173
 . El conocimiento, texto, alcance, sentido y vigencia del derecho extranjero, escrito o no escrito, deberá realizarse en forma oficiosa por la autoridad jurisdiccional nacional, pudiendo los interesados allegarle a la autoridad jurisdiccional datos o elementos para su conocimiento.
@@ -7297,6 +7437,7 @@ Las partes podrán convenir en una solución a su conflicto, decidir sobre la au
 . La autoridad jurisdiccional nacional para mejor proveer podrá admitir o allegarse de informes técnicos de personas, instituciones y organismos ajenos al litigio y que ostenten reconocida competencia sobre la cuestión planteada por las partes; éstas tendrán el carácter de Amigos del Tribunal y su informe no implicará el pago de costas u honorarios.
 
 ## Capítulo III — De la Ejecución de Sentencias, Laudos y Resoluciones Dictadas en el Extranjero
+
 
 ### Artículo 1181
 . El procedimiento de reconocimiento de sentencias, laudos arbitrales y demás resoluciones extranjeras, así como su ejecución se regirán conforme a las disposiciones previstas en los instrumentos internacionales aplicables y las contenidas en este Código Nacional, en particular, las disposiciones especiales de este Capítulo.
@@ -7362,6 +7503,7 @@ III. La sentencia resulta contraria a los principios o instituciones fundamental
 IV. El procedimiento concreto que condujo a la resolución fue incompatible con los principios fundamentales de equidad procesal establecidos en el derecho nacional.
 
 ## Sección Única — De la Ejecución Forzosa
+
 
 ### Artículo 1190
 . El reconocimiento y ejecución de sentencias, fallos y laudos extranjeros que impliquen coacción en su ejecución, requerirá procedimiento de homologación y se sujetará a las siguientes disposiciones, en el entendido de que no podrá controvertirse el fondo de la resolución:
@@ -7474,15 +7616,15 @@ Se adicionan un tercer párrafo al artículo 314 y un tercer párrafo al artícu
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría de Gobernación, a través de la Dirección General del Registro Nacional de Población e Identidad, emitirá los lineamientos para acreditar la autenticidad de los certificados de nacimiento expedidos por autoridades extranjeras, a efecto de darlos a conocer a todas las autoridades del registro civil en el país.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría de Gobernación, a través de la Dirección General del Registro Nacional de Población e Identidad, emitirá los lineamientos para acreditar la autenticidad de los certificados de nacimiento expedidos por autoridades extranjeras, a efecto de darlos a conocer a todas las autoridades del registro civil en el país.
 Ciudad de México, a 23 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 14 de agosto de 2024 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/272/2024 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el trece de agosto de dos mil veinticuatro, resolvió la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 554, en su porción normativa ‘entendida como la violencia ejercida contra las mujeres a través de sus hijos’, y 610, fracción II, en su porción normativa ‘el mismo menor’, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
-**TERCERO.** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas ‘que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa’, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito gire instrucciones para que, a la brevedad, se practique la citada notificación al referido Congreso, inclusive al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se reconoce la validez de los artículos 554, en su porción normativa ‘entendida como la violencia ejercida contra las mujeres a través de sus hijos’, y 610, fracción II, en su porción normativa ‘el mismo menor’, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+**TERCERO.-** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas ‘que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa’, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito gire instrucciones para que, a la brevedad, se practique la citada notificación al referido Congreso, inclusive al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 13 de agosto de 2024 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 14 de agosto de 2024 a las 12:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -7493,10 +7635,10 @@ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Naci�
 SENTENCIA Mediante la cual se resuelve la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos (CNDH), en contra de los artículos 610, fracciones II, en la porción normativa “el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; y, IV, en la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; 638, fracción III; y, 554 en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de los hijos”; todos del Código Nacional de Procedimientos Civiles y Familiares, expedido mediante Decreto publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés. ………..
 
 VII. EFECTOS. 218. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 219. Por lo anterior, se declara la invalidez de la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa” de las fracciones II y IV del artículo 610; así como de la fracción III del artículo 638, ambos del Código Nacional de Procedimientos Civiles y Familiares. La cual surtirá sus efectos a partir de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión. Y, se declara la validez de la segunda parte del artículo 554, en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, así como de la fracción II del artículo 610 en la porción normativa “el mismo menor”, ambos del propio Código Nacional de Procedimientos Civiles y Familiares. 220. Por lo expuesto y fundado, este Tribunal Pleno de la Suprema Corte de Justicia de la Nación RESUELVE
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 554, en su porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, y 610, fracción II, en su porción normativa “el mismo menor”, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
-**TERCERO.** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez de los artículos 554, en su porción normativa “entendida como la violencia ejercida contra las mujeres a través de sus hijos”, y 610, fracción II, en su porción normativa “el mismo menor”, del Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés.
+**TERCERO.-** Se declara la invalidez de los artículos 610, fracciones II y IV, en sendas porciones normativas “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”, y 638, fracción III, del referido Código Nacional de Procedimientos Civiles y Familiares, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; mediante oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: …….
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados.
@@ -7512,7 +7654,7 @@ Se reforman los artículo 554 y 573, último párrafo, del Código Nacional de P
 ## Transitorios
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+**Segundo.-** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
 **Tercero.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
@@ -7521,15 +7663,15 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Tercero
 Se reforman los artículos 5, segundo y tercer párrafos; 7, fracción XIV; 40,
-**segundo.** párrafo; 89, fracción XV; 150, primer párrafo; 271, quinto párrafo; 553; 570; 573, último párrafo y 576, y se adiciona un segundo párrafo al artículo 3 y un segundo párrafo al artículo 572, del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue: ………
+**segundo.-** párrafo; 89, fracción XV; 150, primer párrafo; 271, quinto párrafo; 553; 570; 573, último párrafo y 576, y se adiciona un segundo párrafo al artículo 3 y un segundo párrafo al artículo 572, del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

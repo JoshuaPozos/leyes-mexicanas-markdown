@@ -15,7 +15,9 @@ SE EXPIDE LA LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CRÉDITO G
 
 ## Título I — .- Aspectos Generales
 
+
 ## Capítulo I — .- Disposiciones Generales
+
 
 ### Artículo 1o
 .- La presente Ley es de orden público y tiene por objeto regular las actividades y servicios financieros para el otorgamiento de Crédito Garantizado, para la adquisición, construcción, remodelación o refinanciamiento destinado a la vivienda con la finalidad de asegurar la transparencia en su otorgamiento y fomentar la competencia.
@@ -62,6 +64,7 @@ Fracción adicionada DOF 07-02-2005
 
 ## Capítulo II — .- Información Previa
 
+
 ### Artículo 4
 .- (Se deroga).
 Artículo derogado DOF 15-06-2007
@@ -94,7 +97,9 @@ Las Reglas podrán establecer el formato de la información de manera que se per
 
 ## Título II — .- Contratación de Créditos Garantizados
 
+
 ## Capítulo I — .- Oferta Vinculante
+
 
 ### Artículo 6
 .- Las Entidades, tratándose de Créditos Garantizados a la Vivienda, estarán obligadas a extender sin costo alguno, una oferta vinculante a petición del solicitante y con base en la información que de buena fe declare éste, sin requerir la presentación de los documentos que soporten dicha información.
@@ -124,6 +129,7 @@ La Entidad estará obligada a otorgar el Crédito Garantizado a la Vivienda en l
 Si una vez realizado el avalúo, existieren diferencias entre éste y el valor declarado de la garantía, la Entidad procurará mantener la tasa de interés ofrecida en la oferta vinculante.
 
 ## Capítulo II — .- Avalúo del Inmueble
+
 
 ### Artículo 7
 .- Los avalúos de los bienes inmuebles objeto de Créditos Garantizados a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la Entidad.
@@ -192,6 +198,7 @@ Artículo adicionado DOF 07-02-2005
 
 ## Capítulo III — .- Formalización del Crédito Garantizado
 
+
 ### Artículo 8
 .- (Se deroga).
 Artículo derogado DOF 15-06-2007
@@ -207,6 +214,7 @@ III. Las demás que prevean las Reglas.
 
 ## Capítulo IV — .- Tasas de Interés e Índices de Referencia.
 
+
 ### Artículo 10
 . (Se deroga).
 Artículo reformado DOF 13-06-2003. Derogado DOF 15-06-2007
@@ -221,7 +229,9 @@ Artículo derogado DOF 15-06-2007
 
 ## Título III — .- Subrogación de Créditos
 
+
 ## Capítulo I — .- Subrogación de Deudor
+
 
 ### Artículo 13
 . Cuando se celebre la compraventa de un bien inmueble sobre la que recaiga un Crédito Garantizado que aún no haya sido amortizado en su totalidad, el comprador se podrá subrogar en los derechos y obligaciones del Deudor, sin necesidad de que se constituya una nueva garantía, con el fin de evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente. Lo anterior, siempre y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumplan con los demás requisitos y obligaciones que establece el artículo 6 de la presente Ley.
@@ -232,6 +242,7 @@ Artículo reformado DOF 13-06-2003
 Artículo reformado DOF 13-06-2003
 
 ## Capítulo II — .- Subrogación de Acreedor
+
 
 ### Artículo 15
 .- En caso de que un Crédito Garantizado se pague anticipadamente mediante la contratación de uno nuevo con otra Entidad, dicha Entidad quedará subrogada por ministerio de ley en los derechos del acreedor subrogante y se mantendrá inalterada la garantía original y su prelación, a efecto de evitar la constitución de una nueva garantía y los gastos inherentes de la misma.
@@ -252,9 +263,11 @@ Artículo reformado DOF 10-01-2014
 
 ## Título IV — .- Disposiciones Comunes
 
+
 ### Artículo 16
 .- (Se deroga el primer párrafo).
-Párrafo derogado DOF 15-06-2007 La comisión que se establezca por pago anticipado en la Subrogación de Acreedor en los Créditos Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que falte por amortizar.
+Párrafo derogado DOF 15-06-2007
+La comisión que se establezca por pago anticipado en la Subrogación de Acreedor en los Créditos Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que falte por amortizar.
 
 ### Artículo 17
 .- Se exceptúa de lo dispuesto en la presente Ley a los Créditos Garantizados que se otorguen en cumplimiento de obligaciones derivadas de contratos colectivos de trabajo. Asimismo se exceptúa exclusivamente de los artículos 13, 14 y 15 de la presente Ley a los Créditos Garantizados que otorguen, financien o garanticen el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Fondo para las Habitaciones Populares, o a cualquier otra entidad pública que realice dichas actividades.
@@ -273,8 +286,10 @@ Artículo reformado DOF 10-01-2014
 La Entidad deberá poner a disposición del acreditado el primer testimonio del instrumento público respectivo dentro de los sesenta días hábiles siguientes a la fecha en que se haya extinguido el referido crédito.
 En el caso de que la ley de la materia no exija instrumento público para la liberación del gravamen, la Entidad en un lapso no mayor a veinte días deberá de hacer entrega al acreditado de la constancia de liberación de la obligación a su cargo, por cumplimiento para su inscripción en el Registro Público de la Propiedad y del Comercio, corriendo a cargo de la Entidad las certificaciones o ratificaciones de firma ante notario para la cancelación.
 En caso de Subrogación de Acreedor, el acreedor subrogado deberá observar lo previsto en los tres párrafos anteriores, según corresponda.
-Párrafo adicionado DOF 10-01-2014 El incumplimiento a lo dispuesto en este artículo será sancionado con multa administrativa por un importe de quince mil a veinte mil días de salario mínimo general vigente en el Distrito Federal calculado en la fecha de la infracción, que será impuesta por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros respecto de las entidades financieras, y por la Procuraduría Federal del Consumidor respecto de las demás Entidades, en el ámbito de sus respectivas competencias, conforme a los procedimientos establecidos en las leyes que les resulten aplicables.
-Párrafo adicionado DOF 10-01-2014 Artículo adicionado DOF 25-05-2010
+Párrafo adicionado DOF 10-01-2014
+El incumplimiento a lo dispuesto en este artículo será sancionado con multa administrativa por un importe de quince mil a veinte mil días de salario mínimo general vigente en el Distrito Federal calculado en la fecha de la infracción, que será impuesta por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros respecto de las entidades financieras, y por la Procuraduría Federal del Consumidor respecto de las demás Entidades, en el ámbito de sus respectivas competencias, conforme a los procedimientos establecidos en las leyes que les resulten aplicables.
+Párrafo adicionado DOF 10-01-2014
+Artículo adicionado DOF 25-05-2010
 
 ### Artículo 20
 .- Si en la contratación del Crédito Garantizado se ofrece al deudor un seguro con cargo a éste, el costo y consentimiento para contratar dicho seguro deberá constar expresamente en la misma sección en la que habrá de recabarse su consentimiento. Asimismo, si tal seguro se establece por la Entidad como requisito de contratación del crédito, deberá informarse al deudor que su contratación con la propia Entidad es opcional.
@@ -282,10 +297,11 @@ Artículo adicionado DOF 10-01-2014
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor el 1o. de enero de 2003. Lo dispuesto en la Ley no aplicará a los créditos contratados con anterioridad a su entrada en vigor.
+**PRIMERO.-** La presente Ley entrará en vigor el 1o. de enero de 2003. Lo dispuesto en la Ley no aplicará a los créditos contratados con anterioridad a su entrada en vigor.
 Artículo reformado DOF 13-06-2003
-**SEGUNDO.** La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el Banco de México y la Sociedad Hipotecaria Federal deberán publicar, en un término que no exceda de seis meses a partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir. En tanto la Sociedad Hipotecaria Federal publica las reglas a que se refiere el artículo 7 de esta Ley, las Entidades deberán ofrecer un listado de valuadores al acreditado, con el objeto de que éste se encuentre en posibilidad de elegir un perito valuador.
-Artículo reformado DOF 13-06-2003 México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
+**SEGUNDO.-** La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el Banco de México y la Sociedad Hipotecaria Federal deberán publicar, en un término que no exceda de seis meses a partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir. En tanto la Sociedad Hipotecaria Federal publica las reglas a que se refiere el artículo 7 de esta Ley, las Entidades deberán ofrecer un listado de valuadores al acreditado, con el objeto de que éste se encuentre en posibilidad de elegir un perito valuador.
+Artículo reformado DOF 13-06-2003
+México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretaria.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -367,14 +383,14 @@ Se adiciona el artículo 19-Bis de la Ley de Transparencia y de Fomento a la Com
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-**Tercero.** Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
-**Cuarto.** Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
-**Quinto.** Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Banco de México expedirá las disposiciones de carácter general a que se refiere el artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+**Tercero.-** Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4 Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
+**Cuarto.-** Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
+**Quinto.-** Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
 Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para presentar a la Comisión el acuerdo mencionado en el artículo 36 de la citada Ley.
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**Sexto.** Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+**Sexto.-** Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
 México, D.F., a 11 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Carlos Samuel Moreno Teran, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de mayo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
@@ -385,5 +401,5 @@ Asimismo, la Secretaría de Economía deberá implementar un formato conforme al
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

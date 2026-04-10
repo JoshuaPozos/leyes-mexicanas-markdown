@@ -10,13 +10,16 @@ EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS TITULO PRIMERO Del Congreso General ARTICULO 1o. 1. El Poder Legislativo de los Estados Unidos Mexicanos se deposita en un Congreso General, que se divide en dos Cámaras, una de Diputados y otra de Senadores.
 ARTICULO 2o. 1. Cada Cámara se integrará por el número de miembros que señalan los artículos 52 y 56 de la Constitución Política de los Estados Unidos Mexicanos. 2. El ejercicio de las funciones de los diputados y los senadores durante tres años constituye una Legislatura. El año legislativo se computará del 1 de septiembre al 31 de agosto siguiente.
 ARTICULO 3o. 1. El Congreso y las Cámaras que lo componen tendrán la organización y funcionamiento que establecen la Constitución Política de los Estados Unidos Mexicanos, esta ley, las reglas de funcionamiento del Congreso General y de la Comisión Permanente, así como los reglamentos y acuerdos que cada una de ellas expida sin la intervención de la otra.
-Numeral reformado DOF 30-12-2004 2. Esta Ley y sus reformas y adiciones no necesitarán de promulgación del Presidente de la República, ni podrán ser objeto de veto.
+Numeral reformado DOF 30-12-2004
+2. Esta Ley y sus reformas y adiciones no necesitarán de promulgación del Presidente de la República, ni podrán ser objeto de veto.
 ARTICULO 4o. 1. De conformidad con los artículos 65 y 66 de la Constitución, el Congreso se reunirá a partir del 1o. de septiembre de cada año, para celebrar un primer periodo de sesiones ordinarias y a partir del 1o. de febrero de cada año, para celebrar un segundo periodo de sesiones ordinarias.
-Numeral reformado DOF 08-03-2005 2. Cada periodo de sesiones ordinarias durará el tiempo necesario para tratar los asuntos de su competencia. El primer periodo no podrá prolongarse sino hasta el quince de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83 constitucional, caso en el cual las sesiones podrán extenderse hasta el treinta y uno de diciembre de ese mismo año. El segundo periodo no podrá prolongarse más allá del treinta de abril del mismo año. 3. Las dos Cámaras acordarán, en su caso, el término de las sesiones antes de las fechas indicadas.
+Numeral reformado DOF 08-03-2005
+2. Cada periodo de sesiones ordinarias durará el tiempo necesario para tratar los asuntos de su competencia. El primer periodo no podrá prolongarse sino hasta el quince de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83 constitucional, caso en el cual las sesiones podrán extenderse hasta el treinta y uno de diciembre de ese mismo año. El segundo periodo no podrá prolongarse más allá del treinta de abril del mismo año. 3. Las dos Cámaras acordarán, en su caso, el término de las sesiones antes de las fechas indicadas.
 Si no estuvieren de acuerdo, resolverá el Presidente de la República. 4. El Congreso, o una de sus Cámaras, podrán ser convocados a periodos extraordinarios de sesiones en los términos que establece el artículo 67 de la Constitución.
 ARTICULO 5o. 1. El Congreso se reunirá en sesión conjunta de las Cámaras para tratar los asuntos que previenen los artículos 69, 84, 85, 86 y 87 de la Constitución, así como para celebrar sesiones solemnes. 2. Cuando el Congreso sesione conjuntamente lo hará en el recinto que ocupe la Cámara de Diputados y el Presidente de ésta lo será de aquél.
 ARTICULO 6o. 1. El 1o. de septiembre, a las 17:00 horas y el 1o. de febrero, a las 11:00 horas, de cada año, el Congreso se reunirá en sesión conjunta en el salón de sesiones de la Cámara de Diputados para inaugurar sus periodos de sesiones ordinarias.
-Numeral reformado DOF 08-03-2005 2. Al iniciarse cada periodo de sesiones ordinarias, el Presidente de la Mesa Directiva de la Cámara de Diputados declarará en voz alta: "El Congreso de los Estados Unidos Mexicanos abre hoy (fecha) el primer (o segundo) periodo de sesiones ordinarias del (primer, segundo o tercer) año de ejercicio de la (número ordinal) Legislatura".
+Numeral reformado DOF 08-03-2005
+2. Al iniciarse cada periodo de sesiones ordinarias, el Presidente de la Mesa Directiva de la Cámara de Diputados declarará en voz alta: "El Congreso de los Estados Unidos Mexicanos abre hoy (fecha) el primer (o segundo) periodo de sesiones ordinarias del (primer, segundo o tercer) año de ejercicio de la (número ordinal) Legislatura".
 ARTICULO 7o. 1. El primero de septiembre de cada año, a la apertura de las sesiones ordinarias del primer periodo del Congreso, asistirá el Presidente de la República y presentará un informe de conformidad con el artículo 69 de la Constitución. 2. Antes del arribo del Presidente de la República hará uso de la palabra un legislador federal por cada uno de los partidos políticos que concurran, representados en el Congreso. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y cada una de ellas no excederá de quince minutos. 3. El Presidente del Congreso contestará el informe en términos concisos y generales, con las formalidades que correspondan al acto. Esta sesión no tendrá más objeto que celebrar la apertura del periodo de sesiones y que el Presidente de la República presente su informe; en tal virtud, durante ella no procederán intervenciones o interrupciones por parte de los legisladores. 4. Las Cámaras analizarán el informe presentado por el Presidente de la República. El análisis se desarrollará clasificándose por materias: en política interior, política económica, política social y política exterior. 5. Las versiones estenográficas de las sesiones serán remitidas al Presidente de la República para su conocimiento.
 ARTICULO 8o. 1. Para la realización de la sesión conjunta de las Cámaras, se requiere el quórum que para cada una de ellas se dispone en el primer párrafo del artículo 63 constitucional.
 ARTICULO 9o. 1. En los términos del primer párrafo del artículo 84 de la Constitución, el Congreso General, constituido en Colegio Electoral, con la concurrencia de por lo menos las dos terceras partes del total de sus miembros, nombrará Presidente interino de la República. El nombramiento se otorgará en escrutinio secreto y por mayoría de votos de los miembros presentes. 2. El Congreso emitirá la convocatoria a elecciones en un plazo no mayor de diez días naturales, contados a partir del siguiente al del nombramiento del Presidente interino. 3. Esta convocatoria no podrá ser vetada por el Presidente interino.
@@ -40,15 +43,20 @@ b) El documento en el que consten los nombres de los diputados electos que lo fo
 
 c) El nombre del Coordinador del Grupo Parlamentario.
 ARTICULO 15. 1. Para la conducción de la sesión constitutiva de la Cámara habrá una Mesa de Decanos, constituida por un Presidente, tres Vicepresidentes y tres Secretarios. 2. La Mesa de Decanos se integra por los diputados electos presentes que hayan desempeñado con mayor antigüedad la responsabilidad de legislador federal. En caso de presentarse antigüedades iguales, la precedencia se establecerá en favor de quienes hayan pertenecido al mayor número de Legislaturas y, en su caso, a los de mayor edad. El diputado electo que cuente con mayor antigüedad será el Presidente de la Mesa de Decanos. Serán Vicepresidentes los diputados electos que cuenten con las tres siguientes mayores antigüedades, procurando reflejar la pluralidad de la conformación de la Cámara. En calidad de Secretarios les asistirán los siguientes tres diputados electos que cuenten con las sucesivas mayores antigüedades. 3. Presentes los diputados electos en el Salón de Sesiones para la celebración de la sesión constitutiva, el Secretario General de la Cámara informará que cuenta con la documentación relativa a los diputados electos, las credenciales de identificación y acceso de los mismos, la lista completa de los legisladores que integrarán la Cámara y la identificación de la antigüedad en cargos de legislador federal de cada uno de ellos; y mencionará por su nombre a quienes corresponda integrar la Mesa de Decanos, solicitándoles que ocupen su lugar en el presidium. 4. El Presidente ordenará la comprobación del quórum, y uno de los Secretarios procederá a comprobarlo a efecto de celebrar la sesión constitutiva. Declarado éste, el Presidente de la Mesa de Decanos abrirá la sesión. Enseguida, se dará a conocer el orden del día, mismo que se ceñirá al cumplimiento de los siguientes puntos: declaración del quórum; protesta constitucional del Presidente de la Mesa de Decanos; protesta constitucional de los diputados electos presentes; elección de los integrantes de la Mesa Directiva; declaración de la legal constitución de la Cámara; cita para sesión del Congreso General y designación de comisiones de cortesía para el ceremonial de esa sesión. 5. El Presidente de la Mesa de Decanos se pondrá de pie y al efecto harán lo propio los demás integrantes de la Cámara. Aquél prestará la siguiente protesta con el brazo derecho extendido: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de diputado a la (número ordinal) Legislatura de la Cámara de Diputados del Congreso de la Unión que el pueblo me ha conferido, así como la responsabilidad de Presidente de la Mesa de Decanos de la Cámara, mirando en todo por el bien y prosperidad de la Unión. Si así no lo hago, que la Nación me lo demande". 6. El resto de los integrantes de la Cámara permanecerá de pie y el Presidente de la Mesa de Decanos les tomará la protesta siguiente: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de diputado a la (número ordinal) Legislatura del Congreso de la Unión que el pueblo les ha conferido, mirando en todo por el bien y prosperidad de la Unión?". Los diputados electos responderán, con el brazo derecho extendido: "¡Si protesto!". El Presidente de la Mesa de Decanos, a su vez, contestará: "Si no lo hacen así, que la Nación se los demande". 7. Una vez que se hayan rendido las protestas constitucionales referidas en los dos párrafos anteriores, se procederá a la elección de la Mesa Directiva de la Cámara, de conformidad con lo dispuesto en esta ley. 8. Realizadas las votaciones y declarados los resultados para la elección de la Mesa Directiva de la Cámara, el Presidente de la Mesa de Decanos invitará a sus integrantes a que ocupen el lugar que les corresponde en el presidium, y los miembros de ésta tomarán su sitio en el Salón de Sesiones. 9. La elección de la Mesa Directiva se comunicará al Presidente de la República, a la Cámara de Senadores, a la Suprema Corte de Justicia de la Nación, y a los órganos legislativos de las entidades federativas.
-Numeral reformado DOF 02-05-2017 10. En la circunstancia de que la Mesa de Decanos deba actuar como Mesa Directiva, en tanto se concretan los entendimientos necesarios para elegir ésta, se harán las comunicaciones pertinentes a que se refiere el párrafo anterior.
+Numeral reformado DOF 02-05-2017
+10. En la circunstancia de que la Mesa de Decanos deba actuar como Mesa Directiva, en tanto se concretan los entendimientos necesarios para elegir ésta, se harán las comunicaciones pertinentes a que se refiere el párrafo anterior.
 ARTICULO 16. 1. El presidente de la Mesa Directiva declarará constituida la Cámara de Diputados, mediante la siguiente fórmula: "La Cámara de Diputados del Congreso de los Estados Unidos Mexicanos, correspondiente a la (número ordinal) Legislatura, se declara legalmente constituida para el desempeño de sus funciones". 2. Enseguida, citará para la sesión de Congreso General correspondiente a la apertura del primer periodo de sesiones ordinarias del primer año de ejercicio legislativo, que deberá celebrarse a las 17:00 horas del 1o. de septiembre del año que corresponda. 3. A su vez, hará la designación de las comisiones de cortesía que estime procedentes para el ceremonial de la sesión de Congreso General, tomando en cuenta el criterio de proporcionalidad en función de la integración del Pleno. 4. Una vez constituida la Cámara y para la celebración de las sesiones de apertura de Congreso General, que se den con posterioridad a la de inicio de sesiones ordinarias del primer año de ejercicio legislativo, el Presidente de la Mesa Directiva formulará las citas correspondientes para las 10:00 horas de las fechas señaladas en los artículos 65 y 66 constitucionales. 5. Los diputados que se presenten o sean llamados al ejercicio del cargo, con posterioridad a la sesión constitutiva de la Cámara, rendirán la protesta constitucional ante el Presidente de la Mesa Directiva en los términos de la fórmula prevista en esta ley.
 CAPITULO SEGUNDO De la Mesa Directiva
 
 ## Sección Primera — De su integración, duración y elección
+
 ARTICULO 17. 1. La Mesa Directiva de la Cámara de Diputados será electa por el Pleno; se integrará con un presidente, tres vicepresidentes y un secretario propuesto por cada Grupo Parlamentario, pudiendo optar éste último por no ejercer dicho derecho. Los integrantes de la Mesa Directiva durarán en sus funciones un año y podrán ser reelectos.
-Numeral reformado DOF 13-09-2006 2. La Cámara elegirá a la Mesa Directiva por el voto de las dos terceras partes de los diputados presentes, mediante una lista que contenga los nombres de los propuestos con sus respectivos cargos. 3. La elección de los integrantes de la Mesa Directiva se hará por cédula o utilizando el sistema de votación electrónica. 4. Para la elección de la Mesa Directiva, los Grupos Parlamentarios postularán a quienes deban integrarla, conforme a los criterios establecidos en el artículo 18. 5. Los coordinadores de los grupos parlamentarios no podrán formar parte de la Mesa Directiva de la Cámara. 6. En el caso de que a las 12:00 horas del día 31 de agosto del año de inicio de Legislatura no se hubiere electo a la Mesa Directiva conforme a lo dispuesto en los párrafos que anteceden, la Mesa de Decanos ejercerá las atribuciones y facultades que la ley otorga a aquélla y a sus integrantes, según corresponda, y su Presidente citará a la sesión de instalación de Congreso. La Mesa de Decanos no podrá ejercer dichas atribuciones más allá del 5 de septiembre. 7. La elección de los integrantes de la Mesa Directiva para el segundo y tercer año de ejercicio de la Legislatura, se llevará a cabo durante la sesión preparatoria del año de ejercicio que corresponda, garantizando que la presidencia de la Mesa Directiva para tales ejercicios recaiga, en orden decreciente, en un integrante de los dos grupos parlamentarios con mayor número de diputados que no la hayan ejercido. El proceso será conducido por los integrantes de la Mesa Directiva que concluye su ejercicio. Si en dicha sesión no se alcanza la mayoría calificada requerida, esta Mesa continuará en funciones hasta el día 5 del siguiente mes con el fin de que se logren los entendimientos necesarios.
-Numeral reformado DOF 13-09-2006 8. En ningún caso la presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
-Numeral adicionado DOF 13-09-2006 ARTICULO 18. 1. En la formulación de la lista para la elección de los integrantes de la Mesa Directiva los Grupos Parlamentarios cuidarán que los candidatos cuenten con una trayectoria y comportamiento que acrediten prudencia, tolerancia y respeto en la convivencia, así como experiencia en la conducción de asambleas.
+Numeral reformado DOF 13-09-2006
+2. La Cámara elegirá a la Mesa Directiva por el voto de las dos terceras partes de los diputados presentes, mediante una lista que contenga los nombres de los propuestos con sus respectivos cargos. 3. La elección de los integrantes de la Mesa Directiva se hará por cédula o utilizando el sistema de votación electrónica. 4. Para la elección de la Mesa Directiva, los Grupos Parlamentarios postularán a quienes deban integrarla, conforme a los criterios establecidos en el artículo 18. 5. Los coordinadores de los grupos parlamentarios no podrán formar parte de la Mesa Directiva de la Cámara. 6. En el caso de que a las 12:00 horas del día 31 de agosto del año de inicio de Legislatura no se hubiere electo a la Mesa Directiva conforme a lo dispuesto en los párrafos que anteceden, la Mesa de Decanos ejercerá las atribuciones y facultades que la ley otorga a aquélla y a sus integrantes, según corresponda, y su Presidente citará a la sesión de instalación de Congreso. La Mesa de Decanos no podrá ejercer dichas atribuciones más allá del 5 de septiembre. 7. La elección de los integrantes de la Mesa Directiva para el segundo y tercer año de ejercicio de la Legislatura, se llevará a cabo durante la sesión preparatoria del año de ejercicio que corresponda, garantizando que la presidencia de la Mesa Directiva para tales ejercicios recaiga, en orden decreciente, en un integrante de los dos grupos parlamentarios con mayor número de diputados que no la hayan ejercido. El proceso será conducido por los integrantes de la Mesa Directiva que concluye su ejercicio. Si en dicha sesión no se alcanza la mayoría calificada requerida, esta Mesa continuará en funciones hasta el día 5 del siguiente mes con el fin de que se logren los entendimientos necesarios.
+Numeral reformado DOF 13-09-2006
+8. En ningún caso la presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
+Numeral adicionado DOF 13-09-2006
+ARTICULO 18. 1. En la formulación de la lista para la elección de los integrantes de la Mesa Directiva los Grupos Parlamentarios cuidarán que los candidatos cuenten con una trayectoria y comportamiento que acrediten prudencia, tolerancia y respeto en la convivencia, así como experiencia en la conducción de asambleas.
 ARTICULO 19. 1. En las ausencias temporales del Presidente de la Mesa Directiva, los Vicepresidentes lo sustituirán de conformidad con el orden de prelación establecido en la lista electa. De igual forma se procederá para cubrir las ausencias temporales de los demás integrantes de la directiva. 2. Si las ausencias del Presidente fueren mayores a veintiún días en periodos de sesiones o de cuarenta y cinco en periodos de receso, la Mesa Directiva acordará la designación del "Vicepresidente en funciones de Presidente" y se considerará vacante el cargo hasta la elección correspondiente, para cumplir con el periodo para el que fue elegida la Mesa Directiva. Asimismo y para tal efecto, las ausencias por dichos plazos de sus demás integrantes serán consideradas vacantes y se procederá a la elección respectiva. 3. Toda elección de integrante de la Mesa se realizará mediante el voto de las dos terceras partes de los diputados presentes en el Pleno. 4. Los integrantes de la Mesa Directiva sólo podrán ser removidos con el voto de las dos terceras partes de los individuos presentes de la Cámara, por las siguientes causas:
 
 a) Transgredir en forma grave o reiterada las disposiciones contenidas en la Constitución y esta ley;
@@ -58,6 +66,7 @@ b) Incumplir los acuerdos del Pleno, cuando se afecten las atribuciones constitu
 c) Dejar de asistir, reiteradamente y sin causa justificada, a las sesiones de la Cámara o a las reuniones de la Mesa Directiva.
 
 ## Sección Segunda — De sus atribuciones
+
 ARTICULO 20. 1. La Mesa Directiva conduce las sesiones de la Cámara y asegura el debido desarrollo de los debates, discusiones y votaciones del Pleno; garantiza que en los trabajos legislativos prevalezca lo dispuesto en la Constitución y la ley. 2. La Mesa Directiva observará en su actuación los principios de imparcialidad y objetividad y tendrá las siguientes atribuciones:
 
 a) Asegurar el adecuado desarrollo de las sesiones del Pleno de la Cámara;
@@ -84,19 +93,25 @@ Inciso recorrido DOF 20-05-2014
 i) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo;
 Inciso reformado y recorrido DOF 20-05-2014
 
-j) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente y de los consejeros electorales del Instituto Nacional Electoral, así como de los titulares de los Órganos Internos de Control de los órganos a los que la Constitución Política de los Estados Unidos Mexicanos les reconoce autonomía y que ejerzan recursos del Presupuesto de Egresos de la Federación; y Inciso adicionado DOF 21-04-2008. Reformado y recorrido DOF 20-05-2014. Reformado DOF 27-01-2017
+j) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente y de los consejeros electorales del Instituto Nacional Electoral, así como de los titulares de los Órganos Internos de Control de los órganos a los que la Constitución Política de los Estados Unidos Mexicanos les reconoce autonomía y que ejerzan recursos del Presupuesto de Egresos de la Federación; y
+Inciso adicionado DOF 21-04-2008. Reformado y recorrido DOF 20-05-2014. Reformado DOF 27-01-2017
 
 k) Las demás que le atribuyen esta ley, los ordenamientos aplicables y los acuerdos de la Cámara.
-Inciso recorrido DOF 21-04-2008, 20-05-2014 ARTICULO 21. 1. La Mesa Directiva es dirigida y coordinada por el Presidente; se reunirá por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos. 2. Como órgano colegiado, la Mesa Directiva adoptará sus decisiones por consenso, y en caso de no lograrse el mismo por la mayoría de sus integrantes mediante el voto ponderado, en el cual el Diputado que esté facultado para ello, representará tantos votos como integrantes tenga su Grupo Parlamentario.
+Inciso recorrido DOF 21-04-2008, 20-05-2014
+ARTICULO 21. 1. La Mesa Directiva es dirigida y coordinada por el Presidente; se reunirá por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos. 2. Como órgano colegiado, la Mesa Directiva adoptará sus decisiones por consenso, y en caso de no lograrse el mismo por la mayoría de sus integrantes mediante el voto ponderado, en el cual el Diputado que esté facultado para ello, representará tantos votos como integrantes tenga su Grupo Parlamentario.
 En caso de empate, el Presidente de la Mesa tendrá voto de calidad.
-Numeral reformado DOF 13-09-2006 3. Para los efectos del párrafo anterior, el Diputado facultado para ejercer el voto ponderado, será el Vicepresidente. En el caso de los Grupos Parlamentarios que no cuenten con Vicepresidente o ante la ausencia del Vicepresidente respectivo a las reuniones de la Mesa, el voto ponderado será ejercido por el Secretario que corresponda.
-Numeral adicionado DOF 13-09-2006 4. A las reuniones de la Mesa concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+Numeral reformado DOF 13-09-2006
+3. Para los efectos del párrafo anterior, el Diputado facultado para ejercer el voto ponderado, será el Vicepresidente. En el caso de los Grupos Parlamentarios que no cuenten con Vicepresidente o ante la ausencia del Vicepresidente respectivo a las reuniones de la Mesa, el voto ponderado será ejercido por el Secretario que corresponda.
+Numeral adicionado DOF 13-09-2006
+4. A las reuniones de la Mesa concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 Numeral recorrido DOF 13-09-2006
 
 ## Sección Tercera — De su presidente
+
 ARTICULO 22. 1. El Presidente de la Mesa Directiva es el Presidente de la Cámara de Diputados y expresa su unidad.
 Garantiza el fuero constitucional de los diputados y vela por la inviolabilidad del Recinto Legislativo. 2. El Presidente conduce las relaciones institucionales con la Cámara de Senadores, con los otros dos Poderes de la Unión y los poderes de las entidades federativas. Asimismo, tiene la representación protocolaria de la Cámara en el ámbito de la diplomacia parlamentaria.
-Numeral reformado DOF 02-05-2017 3. El Presidente, al dirigir las sesiones, velará por el equilibrio entre las libertades de los legisladores y de los Grupos Parlamentarios, y la eficacia en el cumplimiento de las funciones constitucionales de la Cámara; asimismo, hará prevalecer el interés general de la Cámara por encima de los intereses particulares o de grupo. 4. El Presidente responderá sólo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
+Numeral reformado DOF 02-05-2017
+3. El Presidente, al dirigir las sesiones, velará por el equilibrio entre las libertades de los legisladores y de los Grupos Parlamentarios, y la eficacia en el cumplimiento de las funciones constitucionales de la Cámara; asimismo, hará prevalecer el interés general de la Cámara por encima de los intereses particulares o de grupo. 4. El Presidente responderá sólo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que las rigen.
 ARTICULO 23. 1. Son atribuciones del Presidente de la Mesa Directiva las siguientes:
 
 a) Presidir las sesiones del Congreso General; las de la Cámara y las de la Comisión Permanente; así como las reuniones de la Conferencia para la Dirección y Programación de los Trabajos Legislativos. Cuando la Presidencia de la Comisión Permanente corresponda a la Cámara de Diputados, el Presidente de la Mesa Directiva formará parte de la propuesta de Diputados que deberán integrarla;
@@ -133,10 +148,12 @@ Inciso reformado DOF 02-04-2013
 p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 Inciso reformado DOF 02-04-2013, 20-05-2014
 
-q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
+q) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y
+Inciso adicionado DOF 20-05-2014
 
 r) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
-Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014 2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
+Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014
+2. En el caso de iniciativas y minutas preferentes tendrá las siguientes atribuciones:
 
 a) Turnar inmediatamente la iniciativa o minuta a una o más comisiones para su análisis y dictamen;
 
@@ -148,10 +165,12 @@ d) Prevenir a la comisión o comisiones, siete días naturales antes de que venz
 
 e) Emitir la declaratoria de publicidad inmediatamente después de concluido el plazo de la comisión o comisiones para dictaminar.
 Numeral con incisos adicionado DOF 20-05-2014 3. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de las entidades federativas y de los Municipios.
-Numeral recorrido DOF 20-05-2014. Reformado DOF 02-05-2017 4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
+Numeral recorrido DOF 20-05-2014. Reformado DOF 02-05-2017
+4. Si al comenzar el periodo constitucional no se presentase el Presidente electo, o la elección no estuviere hecha o declarada válida el 1 de diciembre, procederá a tomar las medidas necesarias para que el Congreso se erija en colegio electoral a efecto de designar Presidente interino, en los términos del artículo 84 Constitucional.
 Numeral adicionado DOF 21-04-2008. Recorrido DOF 20-05-2014
 
 ## Sección Cuarta — De los Vicepresidentes y de los Secretarios
+
 ARTICULO 24. 1. Los Vicepresidentes asisten al Presidente de la Cámara en el ejercicio de sus funciones. 2. Las representaciones protocolarias de la Cámara podrán ser asumidas por uno de los Vicepresidentes, quien será nombrado para tal efecto por el Presidente.
 ARTICULO 25. 1. Los Secretarios de la Mesa Directiva de la Cámara tendrán las atribuciones siguientes:
 
@@ -175,9 +194,12 @@ a) Acta en la que conste la decisión de sus miembros de constituirse en Grupo, 
 b) Las normas acordadas por los miembros del Grupo para su funcionamiento interno, según dispongan los Estatutos del partido político en el que militen; y
 
 c) Nombre del diputado que haya sido designado como Coordinador del Grupo Parlamentario y los nombres de quienes desempeñen otras actividades directivas. 4. En la primera sesión de cada periodo ordinario, cada grupo parlamentario presentará la agenda legislativa que abordará durante el transcurso de éste.
-Numeral reformado DOF 30-03-2006 5. El Secretario General hará publicar los documentos constitutivos de los grupos parlamentarios y, al inicio de cada periodo de sesiones, la agenda legislativa de los temas que cada uno pretenda abordar durante el transcurso de éste.
-Numeral adicionado DOF 30-03-2006 6. Los grupos parlamentarios con base en la similitud de sus agendas o en la comunión de sus principios ideológicos, podrán formular acuerdos que se traduzcan en la conformación de mayorías parlamentarias.
-Numeral adicionado DOF 30-03-2006 ARTICULO 27. 1. El Coordinador expresa la voluntad del Grupo Parlamentario; promueve los entendimientos necesarios para la elección de los integrantes de la Mesa Directiva; y participa con voz y voto en la Junta de Coordinación Política y en la Conferencia para la Dirección y Programación de los Trabajos Legislativos. 2. Durante el ejercicio de la Legislatura, el Coordinador del Grupo Parlamentario comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su Grupo. Con base en las comunicaciones de los Coordinadores de los Grupos Parlamentarios, el Presidente de la Cámara llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+Numeral reformado DOF 30-03-2006
+5. El Secretario General hará publicar los documentos constitutivos de los grupos parlamentarios y, al inicio de cada periodo de sesiones, la agenda legislativa de los temas que cada uno pretenda abordar durante el transcurso de éste.
+Numeral adicionado DOF 30-03-2006
+6. Los grupos parlamentarios con base en la similitud de sus agendas o en la comunión de sus principios ideológicos, podrán formular acuerdos que se traduzcan en la conformación de mayorías parlamentarias.
+Numeral adicionado DOF 30-03-2006
+ARTICULO 27. 1. El Coordinador expresa la voluntad del Grupo Parlamentario; promueve los entendimientos necesarios para la elección de los integrantes de la Mesa Directiva; y participa con voz y voto en la Junta de Coordinación Política y en la Conferencia para la Dirección y Programación de los Trabajos Legislativos. 2. Durante el ejercicio de la Legislatura, el Coordinador del Grupo Parlamentario comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su Grupo. Con base en las comunicaciones de los Coordinadores de los Grupos Parlamentarios, el Presidente de la Cámara llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
 ARTICULO 28. 1. Para el ejercicio de las funciones constitucionales de sus miembros, los Grupos Parlamentarios proporcionan información, otorgan asesoría, y preparan los elementos necesarios para articular el trabajo parlamentario de aquéllos.
 ARTICULO 29. 1. De conformidad con la representación de cada Grupo Parlamentario la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá una subvención mensual para cada Grupo Parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de diputados que los conformen. 2. La cuenta anual de las subvenciones que se asignen a los Grupos Parlamentarios se incorporará a la Cuenta Pública de la Cámara de Diputados, para efectos de las facultades que competen al órgano de fiscalización previsto en el artículo 79 constitucional. De dicho documento se remitirá un ejemplar a la Contraloría Interna de la Cámara. 3. La ocupación de los espacios y las curules en el Salón de Sesiones se hará de forma que los integrantes de cada Grupo Parlamentario queden ubicados en un área regular y continua. La asignación definitiva de las áreas que correspondan a los Grupos estará a cargo de la Mesa Directiva de la Cámara.
 Para ello, los coordinadores de los Grupos formularán proposiciones de ubicación. En todo caso, la Mesa Directiva resolverá con base en la representatividad en orden decreciente de cada Grupo, el número de Grupos conformados y las características del Salón de Sesiones.
@@ -185,12 +207,17 @@ ARTICULO 30. 1. Los diputados que no se inscriban o dejen de pertenecer a un Gru
 CAPITULO CUARTO De la Junta de Coordinación Política
 
 ## Sección Primera — De su integración
+
 ARTICULO 31. 1. La Junta de Coordinación Política se integra con los Coordinadores de cada Grupo Parlamentario. 2. La sesión de instalación de la Junta de Coordinación Política, será convocada por el Coordinador del Grupo Parlamentario que tenga el mayor número de diputados.
-Numeral adicionado DOF 13-09-2006 3. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador de aquel Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en la Cámara.
-Numeral recorrido DOF 13-09-2006 4. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los Coordinadores de los tres Grupos Parlamentarios que cuenten con el mayor número de diputados. El orden anual para presidir este órgano será determinado por la Junta de Coordinación Política.
-Numeral reformado y recorrido DOF 13-09-2006 ARTICULO 32. 1. En caso de ausencia temporal o definitiva del Presidente de la Junta, el Grupo Parlamentario al que pertenezca informará de inmediato, tanto al Presidente de la Cámara como a la propia Junta, el nombre del diputado que lo sustituirá. 2. Los integrantes de la Junta podrán ser sustituidos temporalmente de conformidad con las reglas internas de cada Grupo Parlamentario.
+Numeral adicionado DOF 13-09-2006
+3. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador de aquel Grupo Parlamentario que por sí mismo cuente con la mayoría absoluta en la Cámara.
+Numeral recorrido DOF 13-09-2006
+4. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto señalado en el párrafo anterior, la Presidencia de la Junta será ejercida, en forma alternada y para cada año legislativo, por los Coordinadores de los tres Grupos Parlamentarios que cuenten con el mayor número de diputados. El orden anual para presidir este órgano será determinado por la Junta de Coordinación Política.
+Numeral reformado y recorrido DOF 13-09-2006
+ARTICULO 32. 1. En caso de ausencia temporal o definitiva del Presidente de la Junta, el Grupo Parlamentario al que pertenezca informará de inmediato, tanto al Presidente de la Cámara como a la propia Junta, el nombre del diputado que lo sustituirá. 2. Los integrantes de la Junta podrán ser sustituidos temporalmente de conformidad con las reglas internas de cada Grupo Parlamentario.
 
 ## Sección Segunda — De su naturaleza y atribuciones
+
 ARTICULO 33. 1. La Junta de Coordinación Política es la expresión de la pluralidad de la Cámara; por tanto, es el órgano colegiado en el que se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 ARTICULO 34. 1. A la Junta le corresponden las atribuciones siguientes:
 
@@ -216,10 +243,12 @@ Inciso reformado DOF 29-09-2003. Recorrido DOF 20-05-2014
 h) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios;
 Inciso reformado DOF 29-09-2003. Reformado y recorrido DOF 20-05-2014
 
-i) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, las leyes que regulan dichos organismos, la presente ley y el Reglamento de la Cámara de Diputados, así como los procedimientos que de ellas se deriven, con el consenso de los respectivos grupos parlamentarios; y Inciso adicionado DOF 21-04-2008. Reformado y recorrido DOF 20-05-2014. Reformado DOF 27-01-2017
+i) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, las leyes que regulan dichos organismos, la presente ley y el Reglamento de la Cámara de Diputados, así como los procedimientos que de ellas se deriven, con el consenso de los respectivos grupos parlamentarios; y
+Inciso adicionado DOF 21-04-2008. Reformado y recorrido DOF 20-05-2014. Reformado DOF 27-01-2017
 
 j) Las demás que le atribuyen esta ley o los ordenamientos relativos.
-Inciso adicionado DOF 29-09-2003. Recorrido DOF 21-04-2008, 20-05-2014 ARTICULO 34 Bis. 1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del titular del Órgano Interno de Control del Instituto Nacional Electoral, por lo menos, deberá contener:
+Inciso adicionado DOF 29-09-2003. Recorrido DOF 21-04-2008, 20-05-2014
+ARTICULO 34 Bis. 1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del titular del Órgano Interno de Control del Instituto Nacional Electoral, por lo menos, deberá contener:
 Párrafo reformado DOF 27-01-2017
 
 a) El proceso de designación para el que se convoca, los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
@@ -237,9 +266,12 @@ I. El órgano o la comisión que se encargará de la recepción de documentos e 
 II. Presentadas las propuestas, el órgano o comisión encargado de entrevistar y evaluar a los ciudadanos propuestos por los grupos parlamentarios, así como de formular el dictamen respectivo que consagre los resultados, para los efectos conducentes.
 
 f) Los criterios específicos con que se evaluará a los aspirantes. 2. En el proceso de designación de los consejeros electorales del Instituto Nacional Electoral, se procurará la inclusión paritaria de hombres y mujeres.
-Numeral reformado DOF 27-01-2017 Artículo adicionado DOF 21-04-2008 ARTICULO 35. 1. La Junta deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre la Cámara al inicio de la Legislatura. Sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos. Adoptará sus decisiones por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos Coordinadores representarán tantos votos como integrantes tenga su Grupo Parlamentario. 2. A las reuniones de la Junta concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+Numeral reformado DOF 27-01-2017
+Artículo adicionado DOF 21-04-2008
+ARTICULO 35. 1. La Junta deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre la Cámara al inicio de la Legislatura. Sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos. Adoptará sus decisiones por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos Coordinadores representarán tantos votos como integrantes tenga su Grupo Parlamentario. 2. A las reuniones de la Junta concurrirá el Secretario General de la Cámara, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
 ## Sección Tercera — Del Presidente de la Junta de Coordinación Política
+
 ARTICULO 36. 1. Corresponden al Presidente de la Junta de Coordinación Política las atribuciones siguientes:
 
 a) Convocar y conducir las reuniones de trabajo que celebre;
@@ -268,8 +300,10 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 CAPITULO SEXTO De las Comisiones y los Comités
 
 ## Sección Primera — De las Comisiones
+
 ARTICULO 39. 1. Las Comisiones son órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que la Cámara cumpla sus atribuciones constitucionales y legales. 2. La Cámara de Diputados contará con las comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones.
-Párrafo reformado DOF 02-05-2013 Las comisiones ordinarias serán:
+Párrafo reformado DOF 02-05-2013
+Las comisiones ordinarias serán:
 I.- Asuntos Frontera Norte;
 II.- Asuntos Frontera Sur;
 III.- Asuntos Migratorios;
@@ -317,33 +351,48 @@ XLIV.- Trabajo y Previsión Social;
 XLV.- Transparencia y Anticorrupción;
 XLVI.- Turismo;
 XLVII.- Vivienda, y XLVIII.- Zonas Metropolitanas.
-Párrafo adicionado DOF 02-05-2013. Fracciones reformadas DOF 02-05-2013, 04-10-2016, 05-10-2018. Párrafo con fracciones reformado DOF 06-10-2021 Numeral reformado DOF 09-10-2000, 29-09-2003, 23-01-2006, 05-12-2006, 08-10-2012, 17-10-2012 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por los artículos 26, apartado A, párrafo cuarto y 93, párrafo primero de la Constitución, y su competencia se corresponde en lo general con las otorgadas a las dependencia y entidades de la Administración Pública Federal.
-Numeral reformado DOF 28-12-2017 ARTICULO 40. 1. Las comisiones ordinarias que se establecen en este artículo desarrollan las tareas específicas que en cada caso se señalan. 2. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias se integra con veinte miembros de entre los diputados de mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Se encargará de:
+Párrafo adicionado DOF 02-05-2013. Fracciones reformadas DOF 02-05-2013, 04-10-2016, 05-10-2018. Párrafo con fracciones reformado
+DOF 06-10-2021
+Numeral reformado DOF 09-10-2000, 29-09-2003, 23-01-2006, 05-12-2006, 08-10-2012, 17-10-2012
+3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por los artículos 26, apartado A, párrafo cuarto y 93, párrafo primero de la Constitución, y su competencia se corresponde en lo general con las otorgadas a las dependencia y entidades de la Administración Pública Federal.
+Numeral reformado DOF 28-12-2017
+ARTICULO 40. 1. Las comisiones ordinarias que se establecen en este artículo desarrollan las tareas específicas que en cada caso se señalan. 2. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias se integra con veinte miembros de entre los diputados de mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Se encargará de:
 Párrafo reformado DOF 31-03-2006
 
 a) Preparar proyectos de ley o de decreto para adecuar las normas que rigen las actividades camarales;
 
-b) Dictaminar las propuestas que se presenten en esta materia y en lo referente a las distinciones que se otorguen en nombre de la Cámara de Diputados, así como de resolver las consultas que en el mismo ámbito decidan plantearle los órganos de legisladores constituidos en virtud de este ordenamiento; y Inciso reformado DOF 31-03-2006
+b) Dictaminar las propuestas que se presenten en esta materia y en lo referente a las distinciones que se otorguen en nombre de la Cámara de Diputados, así como de resolver las consultas que en el mismo ámbito decidan plantearle los órganos de legisladores constituidos en virtud de este ordenamiento; y
+Inciso reformado DOF 31-03-2006
 
 c) Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias. 3. Se deroga.
-Numeral derogado DOF 04-10-2016 4. La Comisión de Vigilancia de la Auditoría Superior de la Federación realiza las tareas que le marca la Constitución y la correspondiente ley reglamentaria.
-Numeral reformado DOF 07-12-2001 5. La Comisión Jurisdiccional se integrará por un mínimo de 12 diputados y un máximo de 16, a efecto de que entre ellos se designen a los que habrán de conformar, cuando así se requiera, la sección instructora encargada de las funciones a que se refiere la ley reglamentaria del Título Cuarto de la Constitución en materia de responsabilidades de los servidores públicos.
+Numeral derogado DOF 04-10-2016
+4. La Comisión de Vigilancia de la Auditoría Superior de la Federación realiza las tareas que le marca la Constitución y la correspondiente ley reglamentaria.
+Numeral reformado DOF 07-12-2001
+5. La Comisión Jurisdiccional se integrará por un mínimo de 12 diputados y un máximo de 16, a efecto de que entre ellos se designen a los que habrán de conformar, cuando así se requiera, la sección instructora encargada de las funciones a que se refiere la ley reglamentaria del Título Cuarto de la Constitución en materia de responsabilidades de los servidores públicos.
 ARTICULO 41. 1. Las comisiones de investigación se constituyen con carácter transitorio para el ejercicio de la facultad a que se refiere el párrafo tercero del artículo 93 constitucional.
 ARTICULO 42. 1. El Pleno podrá acordar la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformarán y el plazo para efectuar las tareas que se les hayan encomendado.
 Cumplido su objeto se extinguirán. Cuando se haya agotado el objeto de una comisión especial o al final de la Legislatura, el Secretario General de la Cámara informará lo conducente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, la cual hará la declaración de su extinción.
 
 ## Sección Segunda — De su integración
+
 ARTICULO 43. 1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la legislatura, tendrán hasta treinta miembros, o el número necesario para garantizar la proporción entre la integración del Pleno y la conformación de comisiones, de tal manera que los Grupos Parlamentarios no pierdan su representación proporcional en ellas. Los diputados podrán pertenecer hasta tres de ellas; para estos efectos, no se computará la pertenencia a las comisiones Jurisdiccional y las de investigación.
 El encargo de sus integrantes será por el término de la legislatura, salvo aquellas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la legislatura.
-Numeral reformado DOF 09-10-2000, 20-05-2014, 05-10-2018 2. Las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública, podrán tener más de treinta miembros; se incrementarán para incorporar a un diputado de cada grupo parlamentario que no haya alcanzado a integrarse en razón de su proporción, y el número que sea necesario para que los demás grupos no pierdan su representación proporcional en ellas.
-Numeral adicionado DOF 05-12-2006 3. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, garantizando que los Grupos Parlamentarios no pierdan la representación proporcional expresada en el Pleno en la conformación de las comisiones.
-Numeral recorrido DOF 05-12-2006. Reformado DOF 05-10-2018 4. Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
-Numeral recorrido DOF 05-12-2006 5. En caso de que la dimensión de algún Grupo Parlamentario no permita la participación de sus integrantes como miembros de la totalidad de las comisiones, se dará preferencia a su inclusión en las que solicite el Coordinador del Grupo correspondiente.
-Numeral recorrido DOF 05-12-2006 6. Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio Grupo podrá solicitar su sustitución.
-Numeral recorrido DOF 05-12-2006 7. Los integrantes de la Mesa Directiva de la Cámara no formarán parte de las comisiones.
+Numeral reformado DOF 09-10-2000, 20-05-2014, 05-10-2018
+2. Las comisiones de Hacienda y Crédito Público y de Presupuesto y Cuenta Pública, podrán tener más de treinta miembros; se incrementarán para incorporar a un diputado de cada grupo parlamentario que no haya alcanzado a integrarse en razón de su proporción, y el número que sea necesario para que los demás grupos no pierdan su representación proporcional en ellas.
+Numeral adicionado DOF 05-12-2006
+3. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, garantizando que los Grupos Parlamentarios no pierdan la representación proporcional expresada en el Pleno en la conformación de las comisiones.
+Numeral recorrido DOF 05-12-2006. Reformado DOF 05-10-2018
+4. Al proponer la integración de las comisiones, la Junta postulará también a los diputados que deban presidirlas y fungir como secretarios. Al hacerlo, cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos Grupos Parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno, y tome en cuenta los antecedentes y la experiencia legislativa de los diputados.
+Numeral recorrido DOF 05-12-2006
+5. En caso de que la dimensión de algún Grupo Parlamentario no permita la participación de sus integrantes como miembros de la totalidad de las comisiones, se dará preferencia a su inclusión en las que solicite el Coordinador del Grupo correspondiente.
+Numeral recorrido DOF 05-12-2006
+6. Si un diputado se separa del Grupo Parlamentario al que pertenecía en el momento de conformarse las comisiones, el Coordinador del propio Grupo podrá solicitar su sustitución.
+Numeral recorrido DOF 05-12-2006
+7. Los integrantes de la Mesa Directiva de la Cámara no formarán parte de las comisiones.
 Numeral recorrido DOF 05-12-2006
 
 ## Sección Tercera — Disposiciones Complementarias
+
 ARTICULO 44. 1. Los miembros de las comisiones están obligados a acudir puntualmente a sus reuniones y sólo podrán faltar por causa justificada y debidamente comunicada. 2. El Coordinador del Grupo Parlamentario al que pertenezcan los diputados miembros de las comisiones podrá solicitar su sustitución temporal o definitiva. 3. Las comisiones contarán para el desempeño de sus tareas, con el espacio necesario para el trabajo de su Mesa Directiva y para la celebración de sus reuniones plenarias. 4. Las comisiones podrán establecer subcomisiones o grupos de trabajo para el cumplimiento de sus tareas. En la constitución de las subcomisiones se buscará reflejar la pluralidad de los Grupos Parlamentarios representados en la Comisión.
 ARTICULO 45. 1. Los presidentes de las comisiones ordinarias, con el acuerdo de éstas, podrán solicitar información o documentación a las dependencias y entidades del Ejecutivo Federal cuando se trate de un asunto sobre su ramo o se discuta una iniciativa relativa a las materias que les corresponda atender de acuerdo con los ordenamientos aplicables. 2. No procederá la solicitud de información o documentación, cuando una u otra tengan el carácter de reservada conforme a las disposiciones legales aplicables. 3. El titular de la dependencia o entidad estará obligado a proporcionar la información en un plazo razonable; si la misma no fuere remitida, la comisión podrá dirigirse oficialmente en queja al titular de la dependencia o al C. Presidente de la República. 4. Las comisiones ordinarias cuya materia se corresponde con los ramos de la Administración Pública Federal harán el estudio del informe a que se refiere el primer párrafo del artículo 93 constitucional, según su competencia. Al efecto, formularán un documento en el que consten las conclusiones de su análisis.
 En su caso, podrán requerir mayor información del ramo, o solicitar la comparecencia de servidores públicos de la dependencia ante la propia comisión. Si de las conclusiones se desprenden situaciones que por su importancia o trascendencia requieran la presencia en la Cámara del titular de la Dependencia, la comisión podrá solicitar al Presidente de la Conferencia para la Dirección y Programación de los Trabajos Legislativos que el Secretario del Despacho o Jefe de Departamento Administrativo correspondiente comparezca ante el Pleno. Asimismo, se estará a lo dispuesto por el párrafo segundo del artículo 93 constitucional. 5. Asimismo, las comisiones a que se refiere el párrafo anterior y de acuerdo a su competencia, darán opinión fundada a la Comisión de Presupuesto y Cuenta Pública, con base en los informes que rindan el Poder Ejecutivo Federal y las demás entidades fiscalizadas, en los términos del artículo 79, fracción I, de la Constitución. Dichas opiniones deberán ser enviadas a más tardar sesenta días después de la recepción de los informes. La opinión fundada tendrá por objeto hacer aportaciones a esa Comisión sobre aspectos presupuestales específicos, en relación al cumplimiento de los objetivos de los programas del correspondiente ramo de la Administración Pública Federal, y para que sean consideradas en la revisión de la Cuenta Pública. 6. Las comisiones tendrán las tareas siguientes:
@@ -365,13 +414,18 @@ Los proyectos de dictamen de la Sección Instructora y los de las comisiones enc
 Numeral adicionado DOF 29-09-2003
 
 ## Sección Cuarta — De los Comités
+
 ARTICULO 46. 1. Los comités son órganos para auxiliar en actividades de la Cámara que se constituyen por disposición del Pleno, para realizar tareas diferentes a las de las comisiones. Tendrán la duración que señale el acuerdo de su creación. 2. Para la orientación informativa, así como para el conocimiento y atención de las peticiones que formulen los ciudadanos a la Cámara o a sus órganos, se formará el Comité de Información, Gestoría y Quejas. 3. Para auxiliar a la Junta de Coordinación Política en el ejercicio de sus funciones administrativas, habrá un Comité de Administración. El Acuerdo de su creación será propuesto al Pleno por la Junta y deberá señalar su objeto, integración y atribuciones, así como la directiva del Comité, cuya Presidencia deberá recaer en un Diputado del mismo Grupo Parlamentario de quien presida aquélla.
-Numeral reformado DOF 29-09-2003 4. Para efectos de consulta y opinión en materia política y legislativa, se integrará el Comité de decanos que atenderá las solicitudes que le requieran la Junta de Coordinación Política y los órganos legislativos. Este Comité estará constituido por los diputados que integren la Mesa de Decanos, conservando la composición y estructura jerárquica.
-Numeral adicionado DOF 21-04-2008 5. A propuesta de la Junta de Coordinación Política, el Pleno propondrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
-Numeral adicionado DOF 29-09-2003. Recorrido DOF 21-04-2008 CAPITULO SEPTIMO De la Organización Técnica y Administrativa ARTICULO 47. 1. Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas y la atención eficiente de sus necesidades administrativas y financieras, la Cámara cuenta con 2. La Cámara tendrá una Unidad de Capacitación y Formación Permanente de los integrantes de los servicios parlamentarios, administrativos y financieros.
+Numeral reformado DOF 29-09-2003
+4. Para efectos de consulta y opinión en materia política y legislativa, se integrará el Comité de decanos que atenderá las solicitudes que le requieran la Junta de Coordinación Política y los órganos legislativos. Este Comité estará constituido por los diputados que integren la Mesa de Decanos, conservando la composición y estructura jerárquica.
+Numeral adicionado DOF 21-04-2008
+5. A propuesta de la Junta de Coordinación Política, el Pleno propondrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la Legislatura en que se conformaron, pudiendo desde luego ser establecidos nuevamente para cada legislatura.
+Numeral adicionado DOF 29-09-2003. Recorrido DOF 21-04-2008
+CAPITULO SEPTIMO De la Organización Técnica y Administrativa ARTICULO 47. 1. Para la coordinación y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas y la atención eficiente de sus necesidades administrativas y financieras, la Cámara cuenta con 2. La Cámara tendrá una Unidad de Capacitación y Formación Permanente de los integrantes de los servicios parlamentarios, administrativos y financieros.
 Numeral adicionado DOF 04-03-2016
 
 ## Sección Primera — ARTICULO 48.
+
 los ordenamientos, políticas y lineamientos respectivos; y constituye el ámbito de coordinación y supervisión de los servicios de la Cámara de Diputados. La prestación de dichos servicios queda a cargo 2. El Secretario General de la Cámara será nombrado por el Pleno con el voto de las dos terceras partes de los diputados presentes, a propuesta de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, por el término de cada Legislatura, pudiendo ser reelecto; continuará en sus funciones hasta la realización de la elección correspondiente. 3. Para ser designado Secretario General de la Cámara se requiere:
 
 a) Ser mexicano por nacimiento y no tener otra nacionalidad, y estar en Pleno goce de sus derechos;
@@ -399,6 +453,7 @@ e) Formular los programas anuales de naturaleza administrativa y financiera; y
 f) Informar trimestralmente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios y administrativos y financieros.
 
 ## Sección Segunda — ARTICULO 49.
+
 de acción a los servicios siguientes:
 
 a) Servicios de Asistencia Técnica a la Presidencia de la Mesa Directiva, que comprende los de: comunicaciones y correspondencia; turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionados con el fuero de los legisladores; registro biográfico de los integrantes de las legislaturas; y protocolo, ceremonial y relaciones públicas;
@@ -412,8 +467,10 @@ d) Servicios del Diario de los Debates, que comprende los de: elaboración integ
 e) Servicios del Archivo, que comprende los de: formación, clasificación y custodia de expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos de la Cámara y a los legisladores; y
 
 f) Servicios de Bibliotecas, que comprende los de: acervo de libros; hemeroteca; videoteca; multimedia; museografía; e informática parlamentaria. 2. Cada uno de los Servicios establecidos en el párrafo anterior se constituye en una Dirección, la cual se estructura con las oficinas que se requieran, conforme a lo que se disponga en el Estatuto. 3. La Cámara contará también, en el ámbito de la Secretaria General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas; de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública; de estudios para el desarrollo rural sustentable y la soberanía alimentaria, y de estudios para el logro de la igualdad de género.
-Numeral reformado DOF 10-05-2004, 03-08-2005, 28-12-2017 4. El centro de estudios de derecho e investigaciones parlamentarias, contará en su estructura con una Dirección para desarrollar estudios de transparencia, rendición de cuentas y políticas anticorrupción.
-Numeral adicionado DOF 24-05-2018 ARTICULO 50. 1. El Secretario de Servicios Parlamentarios vela por la imparcialidad de los servicios a su cargo y realiza la compilación y registro de los acuerdos, precedentes y prácticas parlamentarias. 2. Al Secretario le corresponde:
+Numeral reformado DOF 10-05-2004, 03-08-2005, 28-12-2017
+4. El centro de estudios de derecho e investigaciones parlamentarias, contará en su estructura con una Dirección para desarrollar estudios de transparencia, rendición de cuentas y políticas anticorrupción.
+Numeral adicionado DOF 24-05-2018
+ARTICULO 50. 1. El Secretario de Servicios Parlamentarios vela por la imparcialidad de los servicios a su cargo y realiza la compilación y registro de los acuerdos, precedentes y prácticas parlamentarias. 2. Al Secretario le corresponde:
 
 a) Asistir al Secretario General en el cumplimiento de sus funciones; acordar con él los asuntos de su responsabilidad; y suplirlo cuando no pueda concurrir a las reuniones de la Mesa Directiva;
 
@@ -424,6 +481,7 @@ c) Realizar estudios sobre la organización, el funcionamiento y los procedimien
 d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad parlamentaria.
 
 ## Sección Tercera — De la Secretaría de Servicios Administrativos y Financieros
+
 ARTICULO 51. 1. La Secretaría de Servicios Administrativos y Financieros se integra con funcionarios de carrera y confiere unidad de acción a los servicios siguientes:
 
 a) Servicios de Recursos Humanos, que comprende los de: aspectos administrativos de los servicios de carrera; reclutamiento, promoción y evaluación permanente del personal externo a los servicios de carrera; nóminas; prestaciones sociales; y expedientes laborales;
@@ -450,6 +508,7 @@ c) Realizar estudios de carácter administrativo y financiero de la Cámara; y
 d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad administrativa y financiera.
 
 ## Sección Cuarta — De otros Organos Técnicos de la Cámara
+
 ARTICULO 53. 1. La Cámara cuenta con su propia Contraloría Interna, cuyo titular tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas, así como conocer de los recursos de revocación, de conformidad con la Ley General de Responsabilidades Administrativas; llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable; recibir y resguardar las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal que deban presentar las personas servidoras públicas y vigilar su registro; dar seguimiento y verificar la evolución patrimonial e intereses y, en su caso, emitir los certificados de no anomalías en la evolución patrimonial; participar en actos de fiscalización en materia de adquisiciones, obra pública y servicios relacionados con las mismas, vigilar el cumplimiento de la Norma en materia de entrega y recepción, practicar evaluaciones del desempeño a las unidades administrativas y parlamentarias, así como emitir opiniones a los proyectos de actualización de la normatividad interna; vigilar la atención de las obligaciones de transparencia que le competen conforme a sus atribuciones; tutelar los derechos de acceso a la información y la protección de datos personales; conocer y resolver los recursos de revisión interpuestos por personas solicitantes. La Contraloría se ubica en el ámbito de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y debe presentar a ésta un informe trimestral sobre el cumplimiento de sus funciones. Su titular es nombrado a propuesta de dicha Conferencia, por las dos terceras partes de los individuos presentes en el Pleno. 2. La Contraloría Interna cuenta con las Direcciones Generales de Auditoría; de Control y Evaluación; de Quejas, Denuncias e Inconformidades; y de Situación y Evolución Patrimonial:
 
 a) A la Dirección General de Auditoría le corresponde elaborar, aplicar y verificar el cumplimiento del programa anual de auditoría, realizar auditorías y aclaración de las observaciones hasta la solventación y/o elaboración de los proyectos de oficio de vista; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables.
@@ -459,7 +518,8 @@ b) A la Dirección General de Control y Evaluación le corresponde diseñar, imp
 c) A la Dirección General de Quejas, Denuncias e Inconformidades le corresponde recibir e investigar las quejas, denuncias e inconformidades interpuestas contra personas servidoras públicas de la Cámara, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y substanciar los procedimientos en materia de responsabilidades administrativas, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley General de Responsabilidades Administrativas; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, representar a la Contraloría Interna en los recursos legales y ante las autoridades jurisdiccionales locales o federales, substanciar y/o resolver las inconformidades, conciliaciones y medios de impugnación previstos en las disposiciones en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas de la Cámara de Diputados y los Lineamientos Generales en Materia de Administración del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos.
 
 d) A la Dirección General de Situación y Evolución Patrimonial le corresponde asesorar, recibir, resguardar y registrar las declaraciones de situación patrimonial y de intereses que deban presentar las personas servidoras públicas; dar seguimiento, investigar y verificar la evolución patrimonial; emitir el certificado de no anomalías conforme a la ley de la materia y demás disposiciones aplicables, así como, certificar documentos que, por el ejercicio de sus funciones, obren en sus archivos.
-Artículo reformado DOF 24-12-2007, 07-07-2025 ARTICULO 54. 1. La Coordinación de Comunicación Social tiene a su cargo la difusión de las actividades de la Cámara, sirve de enlace con los medios de comunicación, y es responsable del programa de publicaciones. La Coordinación depende de la Presidencia de la Mesa Directiva. Su organización y funciones, así como la designación de su titular y del personal que la integre, se rige por lo dispuesto en el Estatuto.
+Artículo reformado DOF 24-12-2007, 07-07-2025
+ARTICULO 54. 1. La Coordinación de Comunicación Social tiene a su cargo la difusión de las actividades de la Cámara, sirve de enlace con los medios de comunicación, y es responsable del programa de publicaciones. La Coordinación depende de la Presidencia de la Mesa Directiva. Su organización y funciones, así como la designación de su titular y del personal que la integre, se rige por lo dispuesto en el Estatuto.
 ARTICULO 55. 1. La Unidad de Capacitación y Formación Permanente de los integrantes de los servicios parlamentario y administrativo y financiero de la Cámara de Diputados es el órgano técnico responsable de la formación, actualización y especialización de los candidatos a ingresar y de los funcionarios de carrera en ambas ramas, de conformidad con el Estatuto respectivo. La Unidad está a cargo de un Coordinador nombrado en los términos que establezca el Estatuto del Servicio de Carrera y se estructura con las oficinas que se requieran. 2. La Unidad para la Igualdad de Género de la Cámara de Diputados es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con el Estatuto respectivo y con las siguientes funciones:
 
 a) Proponer acciones orientadas a la igualdad sustantiva en la Cámara de Diputados;
@@ -477,6 +537,7 @@ Numeral con incisos adicionado DOF 04-03-2016 3. La Unidad estará a cargo de un
 Numeral adicionado DOF 04-03-2016
 
 ## Sección Quinta — Disposiciones Generales
+
 ARTICULO 56. 1. El Estatuto para la organización y funcionamiento de las Secretarías y de los servicios de carrera, por lo menos deberá contener:
 
 a) La estructura de cada una de las Secretarías y sus relaciones de mando y supervisión; y
@@ -492,14 +553,19 @@ b) Para el ingreso a los Cuerpos se deberán acreditar los requisitos que señal
 c) Los nombramientos de los titulares de los servicios parlamentario y administrativo y financiero en un nivel o rango de un Cuerpo para ocupar un cargo o puesto, se regularán por las disposiciones del Estatuto; y
 
 d) La permanencia y promoción de los funcionarios se sujetará a la acreditación de los exámenes de los programas de actualización y especialización que imparta la Unidad, así como a los resultados de la evaluación anual que se realice en los términos que establezca el Estatuto. 2. Las condiciones de trabajo y los sistemas de adscripción, movimientos a los cargos, compensaciones adicionales por el desempeño de un cargo y remociones, así como las demás disposiciones necesarias para la organización y adecuado desempeño de los servicios de carrera de la Cámara, se desarrollarán en el Estatuto. 3. Los miembros de los dos servicios de carrera serán considerados trabajadores de confianza, y sus relaciones laborales se regirán conforme a lo establecido por la fracción XIV del Apartado B del artículo 123 de la Constitución, por esta ley y por el Estatuto. A efecto de que reciban las prestaciones de seguridad social, se celebrarán los convenios pertinentes con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-CAPITULO OCTAVO De la Designación de los Titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos Capítulo adicionado DOF 27-01-2017
+CAPITULO OCTAVO De la Designación de los Titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos
+Capítulo adicionado DOF 27-01-2017
 
 ## Sección Primera — De su Naturaleza Constitucional
-Sección adicionada DOF 27-01-2017 ARTICULO 57 BIS. 1. Conforme a lo previsto en el artículo 74, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, corresponde a la Cámara de Diputados designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación.
+
+Sección adicionada DOF 27-01-2017
+ARTICULO 57 BIS. 1. Conforme a lo previsto en el artículo 74, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, corresponde a la Cámara de Diputados designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación.
 Artículo adicionado DOF 27-01-2017
 
 ## Sección Segunda — Del Proceso para su Designación
-Sección adicionada DOF 27-01-2017 ARTICULO 57 TER. 1. La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+Sección adicionada DOF 27-01-2017
+ARTICULO 57 TER. 1. La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
 
 a) La Junta de Coordinación Política de la Cámara de Diputados propondrá al Pleno la convocatoria para la designación del titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
 
@@ -531,11 +597,17 @@ k) Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo
 Artículo adicionado DOF 27-01-2017
 
 ## Sección Tercera — De la Responsabilidad de los Titulares de los Órganos Internos de Control
-Sección adicionada DOF 27-01-2017 ARTICULO 57 QUÁTER. 1. La Cámara de Diputados a través de la Dirección General de Quejas, Denuncias e Inconformidades de la Contraloría Interna, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
-Numeral reformado DOF 07-07-2025 2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
-Numeral reformado DOF 07-07-2025 3. En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
-Artículo adicionado DOF 27-01-2017 ARTICULO 57 QUINQUIES. 1. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
-Artículo adicionado DOF 27-01-2017 TITULO TERCERO De la Organización y Funcionamiento de la Cámara de Senadores CAPITULO PRIMERO De la Sesión Constitutiva de la Cámara ARTICULO 58. 1. En el año de la elección para la renovación del Senado de la República, el Secretario General de Servicios Parlamentarios: a. Hará el inventario de las copias certificadas de las constancias que acrediten a los senadores electos por las vías que la Constitución establezca, expedidas en los términos de la ley de la materia; así como de las notificaciones de las sentencias inatacables del órgano jurisdiccional electoral sobre los comicios de senadores; b. Entregará, a partir del 20 y hasta el 28 de agosto, las credenciales de identificación y acceso de los senadores electos a la sesión constitutiva, con base en las constancias de validez y de mayoría y de la primera minoría, y de asignación proporcional, en los términos del inciso anterior; y c. Preparará la lista de los Senadores electos a la nueva legislatura, para los efectos del párrafo segundo del artículo siguiente de esta Ley, distinguiendo a los integrantes de la nueva legislatura que hayan ocupado anteriormente el cargo de Senador, por orden de antigüedad en el desempeño de esa función, así como por su edad en orden decreciente.
+
+Sección adicionada DOF 27-01-2017
+ARTICULO 57 QUÁTER. 1. La Cámara de Diputados a través de la Dirección General de Quejas, Denuncias e Inconformidades de la Contraloría Interna, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
+Numeral reformado DOF 07-07-2025
+2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+Numeral reformado DOF 07-07-2025
+3. En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+Artículo adicionado DOF 27-01-2017
+ARTICULO 57 QUINQUIES. 1. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
+Artículo adicionado DOF 27-01-2017
+TITULO TERCERO De la Organización y Funcionamiento de la Cámara de Senadores CAPITULO PRIMERO De la Sesión Constitutiva de la Cámara ARTICULO 58. 1. En el año de la elección para la renovación del Senado de la República, el Secretario General de Servicios Parlamentarios: a. Hará el inventario de las copias certificadas de las constancias que acrediten a los senadores electos por las vías que la Constitución establezca, expedidas en los términos de la ley de la materia; así como de las notificaciones de las sentencias inatacables del órgano jurisdiccional electoral sobre los comicios de senadores; b. Entregará, a partir del 20 y hasta el 28 de agosto, las credenciales de identificación y acceso de los senadores electos a la sesión constitutiva, con base en las constancias de validez y de mayoría y de la primera minoría, y de asignación proporcional, en los términos del inciso anterior; y c. Preparará la lista de los Senadores electos a la nueva legislatura, para los efectos del párrafo segundo del artículo siguiente de esta Ley, distinguiendo a los integrantes de la nueva legislatura que hayan ocupado anteriormente el cargo de Senador, por orden de antigüedad en el desempeño de esa función, así como por su edad en orden decreciente.
 ARTICULO 59. 1. Los senadores electos se reunirán en el salón de sesiones de la Cámara de Senadores el día 29 de agosto del año de la elección, a las 11:00 horas, con objeto de celebrar la sesión constitutiva de la Cámara. 2. El Secretario General de Servicios Parlamentarios notificará a los integrantes de la nueva legislatura, la fecha señalada en el párrafo anterior para la celebración de la sesión constitutiva, al momento de entregar las credenciales de identificación y acceso. A su vez, mandará difundir avisos en los diarios de mayor circulación nacional en torno al contenido de dicha disposición.
 ARTICULO 60. 1. Exclusivamente para la conducción de la sesión constitutiva de la Cámara habrá una Mesa de Decanos, formada por un Presidente, dos Vicepresidentes y dos Secretarios. 2. La Mesa de Decanos se integra por los Senadores electos presentes que, en orden decreciente, hayan desempeñado con mayor antigüedad el cargo de Senador. En caso de presentarse antigüedades iguales, la precedencia se establecerá a favor de los de mayor edad. 3. Si ningún miembro se hubiese desempeñado anteriormente como Senador se acudirá a la mayor antigüedad como diputado federal y en su defecto, como diputado local. 4. El Senador electo que cuente con mayor antigüedad será el Presidente de la Mesa de Decanos.
 Igual criterio se seguirá para los vicepresidentes y secretarios, sucesivamente. Si ningún Senador tuviere antigüedad parlamentaria la Mesa de Decanos se formará por orden decreciente de edad. 5. Presentes en el salón de sesiones los senadores electos para la celebración de la sesión constitutiva, el Secretario General de Servicios Parlamentarios informará que cuenta con la documentación correspondiente y mencionará por su nombre a quienes corresponda ocupar la Mesa de Decanos, solicitándoles que ocupen sus lugares en el presidium. 6. El Presidente de la Mesa de Decanos ordenará el pase de lista, y uno de los secretarios comprobará el quórum para la celebración de la sesión constitutiva. Declarado el quórum, el Presidente abrirá la sesión. Enseguida, se dará a conocer el orden del día, mismo que se ceñirá al cumplimiento de los siguientes puntos:
@@ -560,13 +632,16 @@ ARTICULO 61. 1. El Presidente de la Mesa Directiva declarará constituida la Cá
 CAPITULO SEGUNDO De la Mesa Directiva
 
 ## Sección Primera — De su integración, duración y elección
+
 ARTICULO 62. 1. La Mesa Directiva de la Cámara de Senadores se integra con un Presidente, tres vicepresidentes y cuatro secretarios, electos por mayoría absoluta de los senadores presentes y en votación por cédula. 2. La Mesa Directiva durará en su ejercicio un año legislativo y sus integrantes podrán ser reelectos.
 Antes de tomar posesión de sus cargos, los integrantes de la Mesa Directiva rendirán la protesta correspondiente en los términos que disponga el Reglamento. 3. La elección de la Mesa Directiva se comunicará a la Cámara de Diputados, al Titular del Poder Ejecutivo Federal, al Presidente de la Suprema Corte de Justicia de la Nación y a las Legislaturas de las entidades federativas.
-Numeral reformado DOF 02-05-2017 ARTICULO 63. 1. El Presidente de la Mesa Directiva será suplido en sus ausencias temporales por el Vicepresidente que corresponda de acuerdo al orden en que hayan sido electos. 2. En caso de ausencia de todos los vicepresidentes, el Presidente de la Mesa Directiva podrá designar a alguno de los Secretarios para conducir el debate durante las sesiones. 3. En caso de vacantes de cualquiera de los integrantes de la Mesa Directiva, se procederá a una nueva elección en los términos del artículo 62 de esta Ley; los así electos concluirán el periodo de quien hubiese dejado la vacante.
+Numeral reformado DOF 02-05-2017
+ARTICULO 63. 1. El Presidente de la Mesa Directiva será suplido en sus ausencias temporales por el Vicepresidente que corresponda de acuerdo al orden en que hayan sido electos. 2. En caso de ausencia de todos los vicepresidentes, el Presidente de la Mesa Directiva podrá designar a alguno de los Secretarios para conducir el debate durante las sesiones. 3. En caso de vacantes de cualquiera de los integrantes de la Mesa Directiva, se procederá a una nueva elección en los términos del artículo 62 de esta Ley; los así electos concluirán el periodo de quien hubiese dejado la vacante.
 ARTICULO 64. 1. En caso de que se realice uno o más periodos de sesiones extraordinarias durante el año legislativo, en dichos periodos actuará la Mesa Directiva electa para el año correspondiente.
 ARTICULO 65. 1. Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por transgredir en forma reiterada las disposiciones de esta Ley, del Reglamento o por incumplir los acuerdos de la Mesa Directiva y de la Cámara. Para ello se requiere que algún senador presente moción, que se adhieran a ella por lo menos cinco senadores y que sea aprobada en votación nominal por las dos terceras partes de los miembros presentes, después de que se someta a discusión, en la cual podrán hacer uso de la palabra hasta tres Senadores en pro y tres en contra. 2. La remoción a que se refiere el párrafo anterior tendrá efectos definitivos y se procederá a la designación del nuevo integrante de la Mesa Directiva, mediante el mecanismo previsto en esta Ley.
 
 ## Sección Segunda — De sus Facultades
+
 ARTICULO 66. 1. La Mesa Directiva observará en su desempeño los principios de legalidad, imparcialidad y objetividad y tendrá las siguientes facultades:
 
 a) Presidir los debates y votaciones del Pleno y determinar el trámite de los asuntos, conforme a la Constitución, a esta Ley y al Reglamento correspondiente;
@@ -600,14 +675,18 @@ Inciso recorrido DOF 20-05-2014
 k) Organizar y supervisar las funciones a cargo de las secretarías generales, la Tesorería, el servicio civil de carrera y crear las unidades administrativas que requiera la Cámara;
 Inciso recorrido DOF 20-05-2014
 
-l) Expedir el nombramiento o el oficio de remoción de los servidores públicos de la Cámara, mandos medios y superiores, acordados mediante los procedimientos señalados en esta Ley, las disposiciones reglamentarias y los acuerdos aplicables; y Inciso recorrido DOF 20-05-2014
+l) Expedir el nombramiento o el oficio de remoción de los servidores públicos de la Cámara, mandos medios y superiores, acordados mediante los procedimientos señalados en esta Ley, las disposiciones reglamentarias y los acuerdos aplicables; y
+Inciso recorrido DOF 20-05-2014
 
 m) Las demás que se deriven de esta Ley o del Reglamento.
-Inciso recorrido DOF 20-05-2014 2. Las facultades que se precisan en los incisos a), d), e), f), g), h) y l), serán ejercidas por el Presidente de la Mesa Directiva.
-Numeral reformado DOF 20-05-2014 3. Las facultades que se precisan en los incisos b), c), i), j) y k), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes.
+Inciso recorrido DOF 20-05-2014
+2. Las facultades que se precisan en los incisos a), d), e), f), g), h) y l), serán ejercidas por el Presidente de la Mesa Directiva.
+Numeral reformado DOF 20-05-2014
+3. Las facultades que se precisan en los incisos b), c), i), j) y k), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes.
 Numeral reformado DOF 20-05-2014
 
 ## Sección Tercera — De su Presidente
+
 ARTICULO 67. 1. El Presidente de la Mesa Directiva es el Presidente de la Cámara y su representante jurídico; en él se expresa la unidad de la Cámara de Senadores. En su desempeño, deberá hacer prevalecer el interés general de la Cámara por encima de los intereses particulares o de grupo, para lo cual, además de las facultades específicas que se le atribuyen en el artículo anterior, tendrá las siguientes atribuciones:
 
 a) Abrir, prorrogar, suspender y clausurar las sesiones del Pleno;
@@ -639,10 +718,12 @@ Inciso reformado DOF 02-04-2013
 m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 Inciso reformado DOF 02-04-2013, 20-05-2014
 
-n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
+n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y
+Inciso adicionado DOF 20-05-2014
 
 o) Las demás que le confieran esta Ley y el Reglamento.
-Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014 2. En el caso de iniciativas preferentes tendrá las siguientes atribuciones:
+Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014
+2. En el caso de iniciativas preferentes tendrá las siguientes atribuciones:
 
 a) Turnar inmediatamente la iniciativa a una o más comisiones para su análisis y dictamen;
 
@@ -656,6 +737,7 @@ e) Inmediatamente después de concluido el plazo de la comisión o comisiones pa
 Numeral con incisos adicionado DOF 20-05-2014 ARTICULO 68. 1. El Presidente de la Cámara estará subordinado en sus decisiones al voto del Pleno. Este voto será consultado cuando lo solicite algún senador, en cuyo caso se requerirá que al menos cinco senadores se adhieran a dicha solicitud. El trámite para que el Pleno resuelva acerca de la misma será establecido en el Reglamento.
 
 ## Sección Cuarta — De los Vicepresidentes y de los Secretarios
+
 ARTICULO 69. 1. Los Vicepresidentes asisten al Presidente de la Cámara en el ejercicio de sus funciones y lo sustituyen en sus ausencias temporales.
 ARTICULO 70. asisten al Presidente de la Cámara en los actos relacionados con la conducción de las sesiones ordinarias del Pleno y tendrán las siguientes atribuciones:
 
@@ -703,10 +785,12 @@ ARTICULO 79. 1. La ocupación de los espacios y los escaños en el salón de ses
 CAPITULO CUARTO De la Junta de Coordinación Política
 
 ## Sección Primera — De su integración
+
 ARTICULO 80. 1. La Junta de Coordinación Política expresa la pluralidad de la Cámara y en tal carácter es el órgano colegiado en el que se impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las facultades que la Constitución asigna a la Cámara.
 ARTICULO 81. 1. Al inicio del periodo constitucional de cada legislatura, se conformará la Junta de Coordinación Política, la cual se integra por los coordinadores de los grupos parlamentarios representados en la legislatura. Adicionalmente a los anteriores, serán integrantes de la Junta de Coordinación Política: dos senadores por el grupo parlamentario mayoritario y uno por el grupo parlamentario que, por sí mismo, constituya la primera minoría de la Legislatura. En su ausencia el Coordinador de cada grupo parlamentario podrá nombrar un Senador que lo represente. 2. La Junta adoptará sus decisiones por el voto ponderado de los coordinadores de los grupos parlamentarios, conforme al número de senadores con que cuente cada uno de sus respectivos grupos respecto del total de la Cámara. 3. Los grupos parlamentarios podrán nombrar y sustituir libremente a quienes los representen en la Junta de Coordinación Política, mediante el acuerdo firmado por la mayoría de sus integrantes, que se comunicará formalmente a la Mesa Directiva. 4. Será Presidente de la Junta de Coordinación Política por el término de una legislatura el coordinador del grupo parlamentario que, por sí mismo, cuente con la mayoría absoluta del voto ponderado de la Junta. 5. Si al iniciar la legislatura ningún coordinador cuenta con la mayoría absoluta del voto ponderado de la Junta, la Presidencia de ésta será ejercida, en forma alternada y para cada año legislativo, por los coordinadores de los grupos parlamentarios que cuenten con un número de senadores que representen, al menos, el 25 por ciento del total de la Cámara. El orden anual para presidir la Junta será determinado por el coordinador del grupo parlamentario de mayor número de senadores. 6. El Presidente de la Junta nombrará a un Secretario Técnico, quien será responsable de preparar los documentos para las reuniones, elaborar las actas y comunicar los acuerdos a las instancias correspondientes de la Cámara.
 
 ## Sección Segunda — De sus Atribuciones
+
 ARTICULO 82. 1. La Junta de Coordinación Política tiene a su cargo las siguientes atribuciones:
 
 a) Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas, iniciativas o minutas que requieran de votación por el Pleno, a fin de agilizar el trabajo legislativo;
@@ -721,12 +805,15 @@ Inciso adicionado DOF 20-05-2014
 e) Elaborar el programa legislativo de cada periodo de sesiones, el calendario de trabajo para su desahogo y puntos del orden del día de las sesiones del Pleno, y realizar reuniones con la Mesa Directiva, o con su Presidente, para dichos efectos;
 Inciso recorrido DOF 20-05-2014
 
-f) Proponer al Presidente de la Mesa Directiva a los senadores que integren las delegaciones para atender la celebración de reuniones de carácter internacional; y Inciso recorrido DOF 20-05-2014
+f) Proponer al Presidente de la Mesa Directiva a los senadores que integren las delegaciones para atender la celebración de reuniones de carácter internacional; y
+Inciso recorrido DOF 20-05-2014
 
 g) Las demás que se deriven de esta Ley y del Reglamento.
-Inciso recorrido DOF 20-05-2014 ARTICULO 83. 1. La Junta de Coordinación Política sesionará, por lo menos, una vez a la semana durante los periodos de sesiones, y al menos una vez al mes durante los recesos; a las reuniones podrán asistir, previa convocatoria, los miembros de las juntas directivas de las comisiones, los senadores, o los funcionarios de la Cámara, siempre que se vaya a tratar un asunto de su respectiva competencia y dando previamente conocimiento al Presidente del Senado.
+Inciso recorrido DOF 20-05-2014
+ARTICULO 83. 1. La Junta de Coordinación Política sesionará, por lo menos, una vez a la semana durante los periodos de sesiones, y al menos una vez al mes durante los recesos; a las reuniones podrán asistir, previa convocatoria, los miembros de las juntas directivas de las comisiones, los senadores, o los funcionarios de la Cámara, siempre que se vaya a tratar un asunto de su respectiva competencia y dando previamente conocimiento al Presidente del Senado.
 
 ## Sección Tercera — De las atribuciones del Presidente de la Junta de Coordinación Política
+
 ARTICULO 84. 1. Corresponden al Presidente de la Junta de Coordinación Política las siguientes atribuciones:
 
 a) Promover la adopción de los acuerdos necesarios para el adecuado desahogo de la agenda legislativa de cada periodo de sesiones;
@@ -797,7 +884,8 @@ Fracción reformada DOF 24-12-2012
 XXI. Medio Ambiente, Recursos Naturales y Pesca;
 Fracción reformada DOF 24-12-2012
 
-XXII. Para la Igualdad de Género Fracción reformada DOF 24-12-2012
+XXII. Para la Igualdad de Género
+Fracción reformada DOF 24-12-2012
 
 XXIII. Puntos Constitucionales;
 
@@ -812,12 +900,15 @@ XXVII. Salud y Seguridad Social;
 XXVIII. Seguridad Pública;
 Fracción adicionada DOF 30-12-2005
 
-XXIX. Trabajo y Previsión Social, y Fracción recorrida DOF 30-12-2005
+XXIX. Trabajo y Previsión Social, y
+Fracción recorrida DOF 30-12-2005
 
 XXX. Turismo.
-Fracción recorrida DOF 30-12-2005 ARTICULO 91. 1. Las Comisiones contarán con un presidente y dos secretarios.
+Fracción recorrida DOF 30-12-2005
+ARTICULO 91. 1. Las Comisiones contarán con un presidente y dos secretarios.
 ARTICULO 92. 1. Durante su encargo, el Presidente y los Vicepresidentes de la Cámara, no formarán parte de ninguna comisión ordinaria o especial.
-Artículo reformado DOF 05-03-2009 ARTICULO 93. 1. Las reuniones de las comisiones podrán ser públicas, cuando así lo acuerden sus integrantes.
+Artículo reformado DOF 05-03-2009
+ARTICULO 93. 1. Las reuniones de las comisiones podrán ser públicas, cuando así lo acuerden sus integrantes.
 También podrán celebrar sesiones de información y audiencia a las que asistirán, a invitación de ellas, representantes de grupos de interés, asesores, peritos, o las personas que las comisiones consideren que puedan aportar conocimientos y experiencias sobre el asunto de que se trate.
 ARTICULO 94. 1. Las comisiones tomarán sus decisiones por mayoría de votos de sus miembros. Los dictámenes que produzcan deberán presentarse firmados por la mayoría de los senadores que las integren. Si alguno o algunos de ellos disienten del parecer de la mayoría, podrán presentar por escrito voto particular.
 ARTICULO 95. 1. La Cámara podrá aumentar o disminuir el número de las comisiones o subdividirlas en secciones según lo crea conveniente o lo exija el despacho de los negocios.
@@ -831,22 +922,28 @@ ARTICULO 100 Bis. 1.- De acuerdo con el Decreto por el que se crea el reconocimi
 a) El Senado de la República celebrará sesión solemne en el mes de marzo de cada año, para hacer entrega del Reconocimiento “Elvia Carrillo Puerto” a la mujer que haya sido acreedora al mismo por su destacada labor en el reconocimiento, defensa, protección, ejercicio e investigación de los Derechos Humanos de las Mujeres y de la Igualdad de Género en nuestro país.
 
 b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados, titulares de los Organismos Públicos y Organizaciones de la Sociedad Civil dedicadas a la promoción, defensa e investigación de los derechos humanos de las mujeres, así como de las universidades e instituciones educativas del país.
-Artículo adicionado DOF 15-10-2013 ARTICULO 100 Ter. 1. De acuerdo con el Decreto que crea la medalla de honor “Armada de México”, en conmemoración de la creación de la Armada de México, que otorga el Senado, se deberá cumplir lo siguiente:
+Artículo adicionado DOF 15-10-2013
+ARTICULO 100 Ter. 1. De acuerdo con el Decreto que crea la medalla de honor “Armada de México”, en conmemoración de la creación de la Armada de México, que otorga el Senado, se deberá cumplir lo siguiente:
 
 a) El Senado de la República celebrará sesión solemne preferentemente el 04 de octubre de cada año, o en la fecha que se señale, para imponer la medalla de honor “Armada de México”, a la persona que haya sido acreedora a la misma, por sus méritos académicos, profesionales, cívicos, su relevancia social, o cualquier otra circunstancia que la Comisión de Marina estime que constituyan acciones o hechos sobresalientes durante la prestación de los servicios que, ordinaria o extraordinariamente les sean encomendados.
 
 b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados y a los demás funcionarios y personalidades que la Mesa Directiva determine.
-Artículo adicionado DOF 09-12-2022 ARTICULO 101. 1. La Comisión Jurisdiccional se integrará por un mínimo de 8 Senadores y un máximo de 12, con la finalidad de que entre ellos se designe a los que habrán de conformar, cuando así se requiera, la sección de enjuiciamiento encargada de las funciones a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos; en dicha sección deberán estar representados los grupos parlamentarios.
+Artículo adicionado DOF 09-12-2022
+ARTICULO 101. 1. La Comisión Jurisdiccional se integrará por un mínimo de 8 Senadores y un máximo de 12, con la finalidad de que entre ellos se designe a los que habrán de conformar, cuando así se requiera, la sección de enjuiciamiento encargada de las funciones a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos; en dicha sección deberán estar representados los grupos parlamentarios.
 ARTICULO 102. 1. La Comisión de Reglamentos y Prácticas Parlamentarias se encargará de preparar proyectos de ley o decreto para adecuar las normas que rigen las actividades camarales, de dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los organismos constituidos en virtud de esta Ley, y aquellas que se refieran al protocolo.
 ARTICULO 103. 1. El Reglamento establecerá los procedimientos y trámites para el despacho de los trabajos de las comisiones y los asuntos que por su naturaleza y trascendencia puedan ser resueltos por ellas mismas.
 
 ## Sección Segunda — De su Integración
+
 ARTICULO 104. 1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, tendrán hasta quince miembros y el encargo de sus integrantes será por el término de la misma, salvo aquéllas que conozcan de una iniciativa preferente las cuales deberán constituirse a más tardar en la tercera sesión ordinaria del primer periodo de sesiones del primer año de la Legislatura. Ningún senador pertenecerá a más de cinco comisiones ordinarias, salvo Acuerdo de la Junta.
-Numeral reformado DOF 20-05-2014, 18-05-2015, 08-05-2019 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones. Al efecto, los grupos parlamentarios formularán los planteamientos que estimen pertinentes. 3. Al plantear la integración de las comisiones, la Junta de Coordinación Política propondrá también a quienes deban integrar sus juntas directivas. Al hacerlo, cuidará que su propuesta incorpore a los senadores pertenecientes a los distintos grupos parlamentarios, de forma tal que se refleje la proporción que representen en el Pleno. 4. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta de Coordinación Política y sea aprobado por el Pleno.
-Numeral adicionado DOF 08-05-2019 5. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir “grupos de amistad” para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas.
+Numeral reformado DOF 20-05-2014, 18-05-2015, 08-05-2019
+2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en la Cámara y formulará las propuestas correspondientes, con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las comisiones. Al efecto, los grupos parlamentarios formularán los planteamientos que estimen pertinentes. 3. Al plantear la integración de las comisiones, la Junta de Coordinación Política propondrá también a quienes deban integrar sus juntas directivas. Al hacerlo, cuidará que su propuesta incorpore a los senadores pertenecientes a los distintos grupos parlamentarios, de forma tal que se refleje la proporción que representen en el Pleno. 4. Se podrá incrementar el número de miembros de las comisiones ordinarias, tomando en cuenta lo dispuesto en el numeral 2 de este artículo, siempre que haya Acuerdo de la mayoría de los integrantes de la Junta de Coordinación Política y sea aprobado por el Pleno.
+Numeral adicionado DOF 08-05-2019
+5. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir “grupos de amistad” para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas.
 Numeral recorrido DOF 08-05-2019
 
 ## Sección Tercera — De su Organización
+
 ARTICULO 105. 1. Los miembros de las comisiones están obligados a acudir puntualmente a sus reuniones y sólo podrán faltar a ellas por causa justificada debidamente comunicada y autorizada por el Presidente de la comisión correspondiente. 2. Los grupos parlamentarios tendrán, en todo tiempo, el derecho de solicitar cambios en la adscripción de sus integrantes ante las comisiones de la Cámara, o para sustituirlos provisionalmente por causa justificada. El coordinador del grupo parlamentario respectivo hará la solicitud de sustitución definitiva o por el periodo de sesiones y el receso subsecuente a la Junta de Coordinación Política, con objeto de que ésta lo plantee, por conducto de la Mesa Directiva, al Pleno de la Cámara. Durante los recesos, el Presidente de la Cámara podrá acordar la sustitución, con carácter de provisional, previa solicitud de la Junta. 3. Las comisiones contarán para el desempeño de sus tareas, con el espacio físico necesario para su Servicios Parlamentarios, contarán con el apoyo técnico de carácter jurídico que sea pertinente para la formulación de proyectos de dictamen o de informes, así como para el levantamiento y registro de las actas de sus reuniones. En todo caso, las comisiones ordinarias contarán con un Secretario Técnico. 4. No habrá retribución extraordinaria alguna por las tareas que los senadores realicen como integrantes de las comisiones.
 CAPITULO SEXTO De la Organización Técnica y Administrativa ARTICULO 106. 1. La Cámara de Senadores, para el desahogo de sus tareas legislativas y administrativas, contará con las siguientes dependencias:
 Cámara, y
@@ -854,10 +951,12 @@ Cámara, y
 c) Las unidades administrativas que acuerde la Mesa Directiva, las que dependerán de ésta.
 
 d) Se crea la Unidad Técnica para la Igualdad de Género, adscrita a la Mesa Directiva del Senado de la República. La Comisión para la Igualdad de Género supervisará el cumplimiento de sus objetivos, atribuciones y el Programa para la Igualdad de Género del Senado de la República, además, contará con la estructura administrativa necesaria y el presupuesto suficiente para el cumplimiento de sus funciones.
-Inciso adicionado DOF 07-12-2017 ARTICULO 107. 1. Los titulares de las Secretarías Generales de Servicios Administrativos y de Servicios Parlamentarios, así como de la Tesorería de la Cámara, serán propuestos por la Mesa Directiva al Pleno, y serán electos por mayoría de los senadores presentes. Durarán en sus cargos por toda la legislatura, pudiendo ser reelectos. Podrán ser removidos a propuesta de la Mesa Directiva, por causa grave, calificada por la mayoría absoluta de los senadores presentes en el Pleno.
+Inciso adicionado DOF 07-12-2017
+ARTICULO 107. 1. Los titulares de las Secretarías Generales de Servicios Administrativos y de Servicios Parlamentarios, así como de la Tesorería de la Cámara, serán propuestos por la Mesa Directiva al Pleno, y serán electos por mayoría de los senadores presentes. Durarán en sus cargos por toda la legislatura, pudiendo ser reelectos. Podrán ser removidos a propuesta de la Mesa Directiva, por causa grave, calificada por la mayoría absoluta de los senadores presentes en el Pleno.
 ARTICULO 108. 1. Independientemente de las atribuciones que esta Ley y el Reglamento concedan al Secretario General de Servicios Parlamentarios, al Secretario General de Servicios Administrativos y al Tesorero, éstos tienen facultades para formular, en el ámbito de su competencia, normas administrativas de carácter interno, previamente sancionadas por la Mesa Directiva de la Cámara.
 
 ## Sección Primera — ARTICULO 109.
+
 a) Asistir a la Mesa Directiva durante el desarrollo de las sesiones del Pleno;
 
 b) Recibir los documentos oficiales y de los particulares dirigidos a la Cámara, remitirlos desde luego a la Mesa Directiva y llevar un control de registro de los mismos;
@@ -875,6 +974,7 @@ g) Desahogar las consultas de carácter técnico-jurídico que le formulen las c
 h) Las demás que se deriven de esta Ley, del Reglamento, y de los acuerdos de la Mesa Directiva de la Cámara.
 
 ## Sección Segunda — ARTICULO 110.
+
 a) Encabezar y dirigir los servicios administrativos, a fin de que éstos se desempeñen con eficacia;
 
 b) Conducir las relaciones de trabajo establecidas con el personal de base de la Cámara; y
@@ -882,6 +982,7 @@ b) Conducir las relaciones de trabajo establecidas con el personal de base de la
 c) Administrar los recursos humanos y materiales, así como los servicios generales, de informática, jurídicos y de seguridad de la Cámara.
 
 ## Sección Tercera — De la Tesorería y la Contraloría
+
 ARTICULO 111. 1. La Tesorería de la Cámara tendrá las siguientes atribuciones:
 
 a) Recibir de la Tesorería de la Federación los fondos correspondientes al presupuesto de egresos autorizado para cada ejercicio fiscal, conforme al calendario de ministraciones aprobado;
@@ -898,8 +999,10 @@ f) Descontar de las cantidades que deba entregar como dietas a los Senadores, la
 
 g) Las demás que esta Ley, el Reglamento y los acuerdos de la Mesa Directiva le confieran. 2. El Tesorero al iniciar su cargo otorgará la fianza correspondiente para caucionar la Administración de los fondos del presupuesto de la Cámara.
 ARTICULO 112. 1. La Cámara tendrá una contraloría interna, cuyo titular será designado por mayoría de los senadores presentes en el Pleno a propuesta de la Junta de Coordinación Política. El contralor podrá ser removido de su cargo por causa grave, calificada por el voto de la mayoría de los senadores presentes en el Pleno. 2. Las ausencias temporales del contralor interno mayores de treinta días naturales, serán suplidas por el titular de la subcontraloría que corresponda, en el orden de prelación que señala el párrafo 2 del artículo 113, quien fungirá como encargado del despacho.
-Numeral adicionado DOF 05-03-2009 3. En su caso, el encargado del despacho realizará las funciones que esta ley y demás ordenamientos aplicables determinen para el titular de la Contraloría Interna.
-Numeral adicionado DOF 05-03-2009 ARTICULO 113. 1. La Contraloría Interna, tendrá las siguientes atribuciones:
+Numeral adicionado DOF 05-03-2009
+3. En su caso, el encargado del despacho realizará las funciones que esta ley y demás ordenamientos aplicables determinen para el titular de la Contraloría Interna.
+Numeral adicionado DOF 05-03-2009
+ARTICULO 113. 1. La Contraloría Interna, tendrá las siguientes atribuciones:
 
 a) Realizar la auditoría interna del ejercicio del presupuesto de egresos de la Cámara. También auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Cámara, para lo cual deberán presentar un informe semestral;
 
@@ -928,8 +1031,11 @@ l) Expedir con la intervención de su titular, la certificación de los document
 m) Emitir las normas administrativas internas, en el ámbito de sus atribuciones, que estime convenientes para regular su funcionamiento, las cuales deberán ser previamente sancionadas por la Mesa Directiva;
 Inciso reformado DOF 02-07-2025
 
-n) Ejercer las funciones, competencias y atribuciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados que se establecen en las leyes de la materia, y Inciso adicionado DOF 02-07-2025 ñ) Las demás que determine la Mesa Directiva.
-Inciso recorrido DOF 02-07-2025 2. La Contraloría Interna se auxiliará de las áreas que a continuación se enlistan, cuyas funciones se organizarán y desarrollarán en los ordenamientos administrativos y manuales correspondientes:
+n) Ejercer las funciones, competencias y atribuciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados que se establecen en las leyes de la materia, y
+Inciso adicionado DOF 02-07-2025
+ñ) Las demás que determine la Mesa Directiva.
+Inciso recorrido DOF 02-07-2025
+2. La Contraloría Interna se auxiliará de las áreas que a continuación se enlistan, cuyas funciones se organizarán y desarrollarán en los ordenamientos administrativos y manuales correspondientes:
 
 a) Subcontraloría de Auditoría;
 
@@ -940,26 +1046,32 @@ c) Subcontraloría de Evaluación de la Gestión Administrativa;
 d) Subcontraloría de Evaluación de la Gestión Parlamentaria;
 Inciso reformado DOF 02-07-2025
 
-e) Coordinación de Auditoría a Grupos Parlamentarios, y Inciso reformado DOF 02-07-2025
+e) Coordinación de Auditoría a Grupos Parlamentarios, y
+Inciso reformado DOF 02-07-2025
 
 f) Unidad de Anticorrupción y Transparencia.
-Inciso adicionado DOF 02-07-2025 3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
+Inciso adicionado DOF 02-07-2025
+3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
 Artículo reformado DOF 05-03-2009
 
 ## Sección Cuarta — Del Servicio Civil de Carrera
+
 ARTICULO 114. 1. Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y de orden administrativo de la Cámara de Senadores, se instituye el servicio civil de carrera. Para tal propósito, la Cámara contará con un Centro de Capacitación y Formación permanente de los servidores públicos del Senado, dependiente de la Mesa Directiva, la que designará al titular de dicho Centro, el cual deberá cumplir los requisitos y ejercerá las atribuciones que establezca el Estatuto. 2. La Comisión de Estudios Legislativos elaborará el proyecto de Estatuto del Servicio Civil de Carrera del Senado, que será aprobado por el Pleno.
 ARTICULO 115. 1. Los miembros del Servicio Civil de Carrera serán considerados trabajadores de confianza, y sus relaciones laborales se regirán conforme a lo establecido por la fracción XIV del Apartado B del artículo 123 de la Constitución, por esta Ley, y por los ordenamientos respectivos. A efecto de que reciban las prestaciones de seguridad social, se celebrarán los convenios respectivos con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 TITULO CUARTO De la Comisión Permanente ARTICULO 116. 1. La Comisión Permanente es el órgano del Congreso de la Unión que, durante los recesos de éste, desempeña las funciones que le señala la Constitución Política de los Estados Unidos Mexicanos.
 ARTICULO 117. 1. La Comisión Permanente se compone de treinta y siete miembros, de los que diecinueve serán diputados y dieciocho senadores, quienes serán designados mediante voto secreto por las respectivas Cámaras, durante la última sesión de cada periodo ordinario. Para suplir en sus ausencias a los titulares, las Cámaras nombrarán de entre sus miembros en ejercicio el mismo número de sustitutos. 2. La Comisión Permanente celebrará sus sesiones correspondientes al primer receso de cada año de la Legislatura en el recinto de la Cámara de Diputados, y en el segundo receso, en el recinto de la Cámara de Senadores.
-Numeral adicionado DOF 29-04-2004 ARTICULO 118. 1. El mismo día en que las Cámaras acuerden su respectiva clausura de sesiones ordinarias, los diputados y senadores que hubieren sido nombrados como miembros de la Comisión Permanente, se reunirán a efecto de elegir a su Mesa Directiva en el recinto que corresponda conforme al artículo anterior.
-Numeral reformado DOF 29-04-2004 2. La Mesa Directiva de la Comisión Permanente, deberá elegirse conforme al siguiente procedimiento:
+Numeral adicionado DOF 29-04-2004
+ARTICULO 118. 1. El mismo día en que las Cámaras acuerden su respectiva clausura de sesiones ordinarias, los diputados y senadores que hubieren sido nombrados como miembros de la Comisión Permanente, se reunirán a efecto de elegir a su Mesa Directiva en el recinto que corresponda conforme al artículo anterior.
+Numeral reformado DOF 29-04-2004
+2. La Mesa Directiva de la Comisión Permanente, deberá elegirse conforme al siguiente procedimiento:
 
 a) Los Diputados y Senadores se reunirán bajo la Presidencia provisional de la persona a quien corresponda el primer lugar por orden alfabético de apellidos, o de éstos y de nombres si hubiere dos o más apellidos iguales.
 
 b) Para su auxilio, el Presidente provisional designará a dos Secretarios.
 
 c) Los diputados y senadores elegirán por mayoría, en votación por cédula un Presidente, un Vicepresidente y cuatro Secretarios; de estos últimos, dos deberán ser diputados y dos senadores.
-Numeral adicionado DOF 29-04-2004 ARTICULO 119. 1. El Presidente y el Vicepresidente serán elegidos para un periodo de receso, entre los diputados, y para el periodo siguiente, entre los senadores.
+Numeral adicionado DOF 29-04-2004
+ARTICULO 119. 1. El Presidente y el Vicepresidente serán elegidos para un periodo de receso, entre los diputados, y para el periodo siguiente, entre los senadores.
 ARTICULO 120. 1. Llevada a cabo la elección de la Mesa Directiva, los electos tomarán desde luego posesión de sus cargos, y el Presidente declarará instalada la Comisión Permanente comunicándolo así a quien corresponda.
 ARTICULO 121. 1. Las sesiones de la Comisión Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
 ARTICULO 122. 1. Los asuntos cuya resolución corresponda al Congreso o a una de las Cámaras y que durante el receso se presenten a la Comisión Permanente, se turnarán a las comisiones relativas de la Cámara que corresponda. 2. Cuando se trate de iniciativas de ley o de decretos, se imprimirán y se ordenará su inserción en el Diario de los Debates; se remitirán para su conocimiento a los diputados o senadores, según el caso, y se turnarán a las comisiones de la Cámara a que vayan dirigidas.
@@ -970,8 +1082,13 @@ ARTICULO 126. 1. Si el Congreso de la Unión, se halla reunido en un periodo ext
 ARTICULO 127. 1. La Comisión Permanente podrá tener hasta tres comisiones para el despacho de los negocios de su competencia.
 ARTICULO 128. 1. Durante los recesos del Congreso, se presentarán a la Comisión Permanente, para su examen y su aprobación, los presupuestos de dietas, sueldos y gastos de las respectivas Cámaras, conforme a los procedimientos establecidos en la presente Ley.
 ARTICULO 129. 1. La Comisión Permanente, el último día de su ejercicio en cada periodo, deberá tener formados dos inventarios, uno para la Cámara de Diputados y otro para la de Senadores. Dichos inventarios se turnarán a las Secretarías de las respectivas Cámaras y contendrán las memorias, oficios, comunicaciones y otros documentos que hubiere recibido durante el receso del Congreso.
-TITULO QUINTO De la Iniciativa Ciudadana y Preferente Título adicionado DOF 20-05-2014 CAPITULO PRIMERO De la Iniciativa Ciudadana Capítulo adicionado DOF 20-05-2014 ARTICULO 130. 1. El derecho de iniciar leyes o decretos compete a los ciudadanos en un número equivalente a cuando menos al cero punto trece por ciento de la lista nominal de electores. 2. Los ciudadanos podrán presentar proyectos de iniciativas, respecto de las materias de competencia del Congreso de la Unión. 3. Las iniciativas ciudadanas seguirán el procedimiento legislativo dispuesto por esta Ley y los reglamentos de cada Cámara, una vez que la autoridad electoral comunique el cumplimiento del requisito señalado en el numeral 1. Cumplidos los plazos en los términos que establecen los reglamentos respectivos, sin que haya dictamen de las comisiones, la Mesa Directiva incluirá el asunto en el Orden del Día de la sesión inmediata siguiente.
-Artículo adicionado DOF 20-05-2014 ARTICULO 131. 1. La iniciativa ciudadana, además de los requisitos que establecen los reglamentos de las cámaras, según corresponda, deberá:
+TITULO QUINTO De la Iniciativa Ciudadana y Preferente
+Título adicionado DOF 20-05-2014
+CAPITULO PRIMERO De la Iniciativa Ciudadana
+Capítulo adicionado DOF 20-05-2014
+ARTICULO 130. 1. El derecho de iniciar leyes o decretos compete a los ciudadanos en un número equivalente a cuando menos al cero punto trece por ciento de la lista nominal de electores. 2. Los ciudadanos podrán presentar proyectos de iniciativas, respecto de las materias de competencia del Congreso de la Unión. 3. Las iniciativas ciudadanas seguirán el procedimiento legislativo dispuesto por esta Ley y los reglamentos de cada Cámara, una vez que la autoridad electoral comunique el cumplimiento del requisito señalado en el numeral 1. Cumplidos los plazos en los términos que establecen los reglamentos respectivos, sin que haya dictamen de las comisiones, la Mesa Directiva incluirá el asunto en el Orden del Día de la sesión inmediata siguiente.
+Artículo adicionado DOF 20-05-2014
+ARTICULO 131. 1. La iniciativa ciudadana, además de los requisitos que establecen los reglamentos de las cámaras, según corresponda, deberá:
 
 a) Presentarse por escrito ante el Presidente de la Cámara de Diputados o de Senadores; y en sus recesos, ante el Presidente de la Comisión Permanente.
 La Cámara que reciba el escrito de presentación de la iniciativa ciudadana será la Cámara de origen, salvo que el proyecto respectivo se refiera a empréstitos, contribuciones, impuestos o reclutamiento de tropas. En estos casos la cámara de origen será siempre la de Diputados.
@@ -983,7 +1100,8 @@ c) Nombre completo y domicilio del representante para oír y recibir notificacio
 
 d) Toda la documentación deberá estar plenamente identificada, señalando en la parte superior de cada hoja el nombre del proyecto de decreto que se propone someter.
 Cuando la iniciativa no cumpla con los requisitos señalados en los incisos a), c) o d) el Presidente de la Cámara prevendrá a los proponentes para que subsane los errores u omisiones en un plazo de quince días hábiles a partir de la notificación. En caso de no subsanarse en el plazo establecido, se tendrá por no presentada.
-Artículo adicionado DOF 20-05-2014 ARTICULO 132. 1. La iniciativa ciudadana atenderá el siguiente procedimiento:
+Artículo adicionado DOF 20-05-2014
+ARTICULO 132. 1. La iniciativa ciudadana atenderá el siguiente procedimiento:
 
 a) El Presidente de la Mesa Directiva de la Cámara de origen, dará cuenta de ella y solicitará de inmediato al Instituto Nacional Electoral, la verificación de que haya sido suscrita en un número equivalente, a cuando menos el cero punto trece por ciento de la lista nominal de electores, dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente.
 El Instituto, a través de la Dirección Ejecutiva del Registro Federal de Electores dentro del plazo a que se refiere el párrafo anterior, verificará que los nombres de quienes hayan suscrito la iniciativa ciudadana, aparezcan en las listas nominales de electores y que la suma corresponda en un número equivalente, a cuando menos el cero punto trece por ciento de la lista nominal de electores.
@@ -997,10 +1115,16 @@ En caso de que el representante de los promoventes impugne la resolución del In
 d) En el supuesto de que se verifique el cumplimiento del porcentaje señalado en el inciso a), el Presidente de la Mesa Directiva, turnará la iniciativa a comisión para su análisis y dictamen; y seguirá el proceso legislativo ordinario; y
 
 e) En el caso de que la iniciativa ciudadana sea aprobada por la Cámara de origen, pasará a la Cámara revisora, a efecto de que siga el procedimiento legislativo ordinario, conforme a lo dispuesto por el artículo 72 de la Constitución.
-Artículo adicionado DOF 20-05-2014 ARTICULO 133. 1. En el proceso legislativo de dictamen en cada Cámara, el Presidente de la comisión deberá convocar al representante designado por los ciudadanos, para que asista a una reunión de la comisión que corresponda, a efecto de que exponga el contenido de su propuesta. 2. Las opiniones vertidas durante la reunión a la que fue convocado, no serán vinculantes para la comisión y únicamente constituirán elementos adicionales para elaborar y emitir su dictamen, de acuerdo con lo establecido en el Reglamento de la Cámara respectiva. 3. El procedimiento de dictamen no se interrumpirá en caso de que el representante no asista a la reunión a la que haya sido formalmente convocado. 4. El representante podrá asistir a las demás reuniones públicas de la comisión para conocer del desarrollo del proceso de dictamen y podrá hacer uso de la voz hasta antes del inicio del proceso de deliberación y votación.
-Artículo adicionado DOF 20-05-2014 CAPITULO SEGUNDO De la Iniciativa Preferente Capítulo adicionado DOF 20-05-2014 ARTICULO 134. 1. La iniciativa preferente es aquella que es sometida al Congreso de la Unión por el Presidente de la República en ejercicio de su facultad exclusiva para trámite preferente, o señalada con tal carácter de entre las que hubiere presentado en periodos anteriores y estén pendientes de dictamen. 2. La iniciativa referida en el numeral anterior, conservará su carácter preferente durante todo el proceso legislativo previsto en el artículo 72 de la Constitución.
-Artículo adicionado DOF 20-05-2014 ARTICULO 135. 1. No podrán tener carácter preferente las iniciativas de adición o reforma a la Constitución. 2. La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas.
-Artículo adicionado DOF 20-05-2014 ARTICULO 136. 1. El día de la apertura de cada periodo ordinario de sesiones el Presidente de la República podrá presentar hasta dos iniciativas para trámite preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores cuando estén pendientes de dictamen. 2. En el caso de las iniciativas preferentes presentadas o señaladas con ese carácter, se observará lo siguiente:
+Artículo adicionado DOF 20-05-2014
+ARTICULO 133. 1. En el proceso legislativo de dictamen en cada Cámara, el Presidente de la comisión deberá convocar al representante designado por los ciudadanos, para que asista a una reunión de la comisión que corresponda, a efecto de que exponga el contenido de su propuesta. 2. Las opiniones vertidas durante la reunión a la que fue convocado, no serán vinculantes para la comisión y únicamente constituirán elementos adicionales para elaborar y emitir su dictamen, de acuerdo con lo establecido en el Reglamento de la Cámara respectiva. 3. El procedimiento de dictamen no se interrumpirá en caso de que el representante no asista a la reunión a la que haya sido formalmente convocado. 4. El representante podrá asistir a las demás reuniones públicas de la comisión para conocer del desarrollo del proceso de dictamen y podrá hacer uso de la voz hasta antes del inicio del proceso de deliberación y votación.
+Artículo adicionado DOF 20-05-2014
+CAPITULO SEGUNDO De la Iniciativa Preferente
+Capítulo adicionado DOF 20-05-2014
+ARTICULO 134. 1. La iniciativa preferente es aquella que es sometida al Congreso de la Unión por el Presidente de la República en ejercicio de su facultad exclusiva para trámite preferente, o señalada con tal carácter de entre las que hubiere presentado en periodos anteriores y estén pendientes de dictamen. 2. La iniciativa referida en el numeral anterior, conservará su carácter preferente durante todo el proceso legislativo previsto en el artículo 72 de la Constitución.
+Artículo adicionado DOF 20-05-2014
+ARTICULO 135. 1. No podrán tener carácter preferente las iniciativas de adición o reforma a la Constitución. 2. La iniciativa preferente podrá versar sobre cualquier materia y comprender uno o más ordenamientos cuando exista conexidad en los temas.
+Artículo adicionado DOF 20-05-2014
+ARTICULO 136. 1. El día de la apertura de cada periodo ordinario de sesiones el Presidente de la República podrá presentar hasta dos iniciativas para trámite preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores cuando estén pendientes de dictamen. 2. En el caso de las iniciativas preferentes presentadas o señaladas con ese carácter, se observará lo siguiente:
 
 a) La Cámara de origen deberá discutirla y votarla en un plazo máximo de treinta días naturales, contados a partir de su presentación o de que se reciba el oficio del Ejecutivo Federal señalando dicho carácter a iniciativas presentadas con anterioridad.
 
@@ -1015,7 +1139,8 @@ II. La discusión y votación sólo se abocará a la iniciativa preferente y deb
 III. El proyecto de decreto materia de la iniciativa con carácter preferente aprobado por la Cámara de origen, será enviado de inmediato a la Cámara revisora, en calidad de minuta, para los efectos del artículo 72 de la Constitución.
 
 d) La comisión o comisiones podrán trabajar en conferencia a fin de agilizar el análisis y dictamen de las iniciativas con carácter preferente, en cualquier etapa del proceso legislativo.
-Artículo adicionado DOF 20-05-2014 ARTICULO 137. 1. Para las minutas sobre iniciativas preferentes aprobadas y remitidas a la Cámara revisora para los efectos de la fracción A del artículo 72 constitucional, se observará lo siguiente:
+Artículo adicionado DOF 20-05-2014
+ARTICULO 137. 1. Para las minutas sobre iniciativas preferentes aprobadas y remitidas a la Cámara revisora para los efectos de la fracción A del artículo 72 constitucional, se observará lo siguiente:
 
 a) El Presidente turnará a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de ésta al Pleno;
 
@@ -1034,7 +1159,8 @@ I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día d
 II. Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para los efectos de la fracción A del artículo 72 de la Constitución.
 
 III. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución, sin que la iniciativa, materia de la minuta, pierda su carácter de preferente.
-Artículo adicionado DOF 20-05-2014 ARTICULO 138. 1. Para las minutas sobre iniciativas preferentes remitidas para los efectos de las fracciones D o E del artículo 72 constitucional, se observará lo siguiente:
+Artículo adicionado DOF 20-05-2014
+ARTICULO 138. 1. Para las minutas sobre iniciativas preferentes remitidas para los efectos de las fracciones D o E del artículo 72 constitucional, se observará lo siguiente:
 
 a) El Presidente turnará a la comisión o comisiones que corresponda, en cuanto se reciba y se dé cuenta de ésta al Pleno;
 
@@ -1049,14 +1175,22 @@ e) Si transcurre el plazo sin que se formule el dictamen correspondiente, proced
 I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
 
 II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora, la cual deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución.
-Artículo adicionado DOF 20-05-2014 TITULO SEXTO De la difusión e información de las actividades del Congreso Título recorrido (antes Título Quinto) DOF 20-05-2014 CAPITULO UNICO ARTICULO 139. 1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
-Artículo recorrido (antes Artículo 130) DOF 20-05-2014 ARTICULO 140. 1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con un órgano denominado "Canal de Televisión del Congreso General de los Estados Unidos Mexicanos", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables. 2. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos tiene por objeto, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación, la actividad legislativa y parlamentaria que corresponda a las de las Cámaras del Congreso de la Unión y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculados con la difusión de la cultura democrática y los valores nacionales. 3. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos gozará de autonomía técnica y de gestión para la consecución de su objeto.
+Artículo adicionado DOF 20-05-2014
+TITULO SEXTO De la difusión e información de las actividades del Congreso
+Título recorrido (antes Título Quinto) DOF 20-05-2014
+CAPITULO UNICO ARTICULO 139. 1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
+Artículo recorrido (antes Artículo 130) DOF 20-05-2014
+ARTICULO 140. 1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con un órgano denominado "Canal de Televisión del Congreso General de los Estados Unidos Mexicanos", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables. 2. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos tiene por objeto, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación, la actividad legislativa y parlamentaria que corresponda a las de las Cámaras del Congreso de la Unión y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculados con la difusión de la cultura democrática y los valores nacionales. 3. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos gozará de autonomía técnica y de gestión para la consecución de su objeto.
 El Canal se sujetará a lo previsto en esta Ley, el Reglamento del Canal, por los lineamientos administrativos, políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral. 4. Para la realización de su objeto, el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos contará con el presupuesto que cada Cámara le haya asignado y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
 Dichos recursos deberán ser aportados por cada Cámara en los términos que se determinen en el anexo del Decreto del Presupuesto de Egresos de la Federación correspondiente al Poder Legislativo, y deberán ser ejercidos de manera integral para el funcionamiento del Canal.
-Artículo recorrido (antes Artículo 131) DOF 20-05-2014. Reformado DOF 28-12-2016 ARTICULO 141. 1. Para la conducción de las actividades que desarrolla el Canal, se constituye la Comisión Bicamaral del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos. 2. La Comisión estará integrada por tres diputados y tres senadores electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras. 3. En las reuniones de la Comisión que se discutan temas de contrataciones, adquisiciones y licitaciones que lleve a cabo el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, deberán estar presentes, con voz pero sin voto, el Secretario General de la Cámara de Diputados y el Secretario General de Servicios Administrativos de la Cámara de Senadores. 4. La Comisión informará al inicio de cada periodo ordinario de sesiones en cada Cámara, a través de las respectivas mesas directivas, sobre el desarrollo de las actividades del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos. 5. Para el mejor desempeño de las labores propias del Canal, este contará con una Comisión Bicamaral, una Dirección General, un Consejo Consultivo, así como de un Defensor de Audiencia, los dos últimos de conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión. 6. Cualquier legislador de las Cámaras que integran el Congreso de la Unión podrá solicitar al responsable del Canal copia del material videográfico transmitido a través del mismo. 7. La organización y funcionamiento del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos se sujetará a las disposiciones legales aplicables y a las reglamentarias específicas que al efecto dicte el Congreso de la Unión, así como a las políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral. 8. En ejercicio de las facultades delegatorias para la representación de las Cámaras previstas en esta Ley, los presidentes de ambas Cámaras otorgarán un poder especial para actos de administración, pleitos y cobranzas, en favor del titular de la Dirección General del Canal para llevar a cabo las contrataciones, adquisiciones y licitaciones de equipo y de servicios que realice el Canal, en apego a los lineamientos administrativos emitidos para tal efecto por la Comisión Bicamaral.
-Artículo recorrido (antes Artículo 132) DOF 20-05-2014. Reformado DOF 28-12-2016 ARTICULO 142. 1. Cada Cámara tendrá un órgano oficial denominado “Diario de los Debates” en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que presida, copia fiel del acta de la sesión anterior, versión taquigráfica o estenográfica, en su caso, de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura. 2. Las actas de las sesiones secretas no serán publicadas. 3. El Titular de la unidad administrativa responsable del Diario de los Debates en cada Cámara, será responsable de la custodia, salvaguarda y archivo de los expedientes, y deberá remitirlos en su oportunidad, conforme a los acuerdos que dicten las respectivas mesas directivas, al Archivo General de la Nación.
-Artículo recorrido (antes Artículo 133) DOF 20-05-2014 ARTICULO 143. 1. El Congreso de la Unión tendrá un Sistema de Bibliotecas que estará a cargo de las Cámaras de Diputados y de Senadores. 2. Las Cámaras conformarán, mantendrán y acrecentarán los acervos bibliográfico y de otros contenidos científico, cultural o informativo, para contribuir al cumplimiento de las atribuciones de las propias Cámaras, sus Comisiones y de los legisladores. Esos acervos tendrán carácter público. 3. La administración y operación de las Bibliotecas será responsabilidad de los servicios establecidos en cada Cámara, conforme a los Títulos Segundo y Tercero de esta ley, y a través de una Comisión Bicamaral del Sistema de Bibliotecas, integrada por tres diputados y tres senadores, electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras.
-Artículo recorrido (antes Artículo 134) DOF 20-05-2014 ARTICULO 144. 1. Las Cámaras podrán establecer instituciones de investigación jurídica y legislativa para la mejor información y realización de los trabajos.
+Artículo recorrido (antes Artículo 131) DOF 20-05-2014. Reformado DOF 28-12-2016
+ARTICULO 141. 1. Para la conducción de las actividades que desarrolla el Canal, se constituye la Comisión Bicamaral del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos. 2. La Comisión estará integrada por tres diputados y tres senadores electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras. 3. En las reuniones de la Comisión que se discutan temas de contrataciones, adquisiciones y licitaciones que lleve a cabo el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, deberán estar presentes, con voz pero sin voto, el Secretario General de la Cámara de Diputados y el Secretario General de Servicios Administrativos de la Cámara de Senadores. 4. La Comisión informará al inicio de cada periodo ordinario de sesiones en cada Cámara, a través de las respectivas mesas directivas, sobre el desarrollo de las actividades del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos. 5. Para el mejor desempeño de las labores propias del Canal, este contará con una Comisión Bicamaral, una Dirección General, un Consejo Consultivo, así como de un Defensor de Audiencia, los dos últimos de conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión. 6. Cualquier legislador de las Cámaras que integran el Congreso de la Unión podrá solicitar al responsable del Canal copia del material videográfico transmitido a través del mismo. 7. La organización y funcionamiento del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos se sujetará a las disposiciones legales aplicables y a las reglamentarias específicas que al efecto dicte el Congreso de la Unión, así como a las políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral. 8. En ejercicio de las facultades delegatorias para la representación de las Cámaras previstas en esta Ley, los presidentes de ambas Cámaras otorgarán un poder especial para actos de administración, pleitos y cobranzas, en favor del titular de la Dirección General del Canal para llevar a cabo las contrataciones, adquisiciones y licitaciones de equipo y de servicios que realice el Canal, en apego a los lineamientos administrativos emitidos para tal efecto por la Comisión Bicamaral.
+Artículo recorrido (antes Artículo 132) DOF 20-05-2014. Reformado DOF 28-12-2016
+ARTICULO 142. 1. Cada Cámara tendrá un órgano oficial denominado “Diario de los Debates” en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que presida, copia fiel del acta de la sesión anterior, versión taquigráfica o estenográfica, en su caso, de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura. 2. Las actas de las sesiones secretas no serán publicadas. 3. El Titular de la unidad administrativa responsable del Diario de los Debates en cada Cámara, será responsable de la custodia, salvaguarda y archivo de los expedientes, y deberá remitirlos en su oportunidad, conforme a los acuerdos que dicten las respectivas mesas directivas, al Archivo General de la Nación.
+Artículo recorrido (antes Artículo 133) DOF 20-05-2014
+ARTICULO 143. 1. El Congreso de la Unión tendrá un Sistema de Bibliotecas que estará a cargo de las Cámaras de Diputados y de Senadores. 2. Las Cámaras conformarán, mantendrán y acrecentarán los acervos bibliográfico y de otros contenidos científico, cultural o informativo, para contribuir al cumplimiento de las atribuciones de las propias Cámaras, sus Comisiones y de los legisladores. Esos acervos tendrán carácter público. 3. La administración y operación de las Bibliotecas será responsabilidad de los servicios establecidos en cada Cámara, conforme a los Títulos Segundo y Tercero de esta ley, y a través de una Comisión Bicamaral del Sistema de Bibliotecas, integrada por tres diputados y tres senadores, electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras.
+Artículo recorrido (antes Artículo 134) DOF 20-05-2014
+ARTICULO 144. 1. Las Cámaras podrán establecer instituciones de investigación jurídica y legislativa para la mejor información y realización de los trabajos.
 Artículo recorrido (antes Artículo 135) DOF 20-05-2014
 
 ## TRANSITORIOS
@@ -1090,7 +1224,8 @@ III). La Mesa Directiva de la Cámara de Senadores electa para el mes de septiem
 IV). En la última sesión del mes de septiembre de 1999 se elegirá una Mesa Directiva en los términos de la Ley que se abroga para fungir durante el mes de octubre.
 V). En la última sesión del mes de octubre de 1999, la Cámara de Senadores procederá a elegir la Mesa Directiva a que se refiere el Título Tercero de la Ley materia del presente Decreto.
 VI). Los artículos 112 y 113 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero del año 2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del 1 de septiembre del mismo año.
-Fracción reformada DOF 31-12-1999 VII). El Senado podrá designar de entre los funcionarios que ya presten sus servicios, a los que deban ocupar los puestos de nueva creación, hasta el final de la LVII Legislatura. Las designaciones definitivas de funcionarios se harán a partir del inicio de las tareas de la LVIII Legislatura.
+Fracción reformada DOF 31-12-1999
+VII). El Senado podrá designar de entre los funcionarios que ya presten sus servicios, a los que deban ocupar los puestos de nueva creación, hasta el final de la LVII Legislatura. Las designaciones definitivas de funcionarios se harán a partir del inicio de las tareas de la LVIII Legislatura.
 VIII). Los requisitos que deberán cumplir los titulares de las secretarías generales y la Tesorería serán establecidos por la Mesa Directiva.
 ARTICULO QUINTO.- En tanto el Congreso expide las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan a la Ley materia del presente Decreto, las disposiciones del ARTICULO SEXTO.- Los grupos parlamentarios continuarán funcionando como están conformados en la actualidad y las normas que los rigen entrarán en vigor el 1 de septiembre de 2000.
 ARTICULO SEPTIMO.- Se abroga la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 25 de mayo de 1979, y sus reformas y adiciones, publicadas en el mismo medio, de fechas 28 de diciembre de 1981 y 20 de julio de 1994.
@@ -1100,7 +1235,8 @@ SE ESTABLECE UN ARTÍCULO TRANSITORIO ÚNICO DE LA LEY ORGÁNICA DEL CONGRESO GE
 ### Artículo Único
 Para efectos de dar cumplimiento a los artículos Tercero y Cuarto Transitorios del Decreto por el que se reforman los artículos 6o, 41, 85, 99, 108, 116 y 122, se adiciona el artículo 134 y se deroga un párrafo al artículo 97 de la Constitución Política de los Estados Unidos Mexicanos, la Junta de Coordinación Política de la Cámara de Diputados, por una única vez, presentará al Pleno el procedimiento y convocatoria para la integración del Consejo General del Instituto Federal Electoral y las propuestas de nombres para ocupar los cargos de Consejero Presidente y los de los consejeros electorales para su elección.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Artículo adicionado DOF 15-11-2007 México, D.F., a 14 de noviembre de 2007.- Sen. Santiago Creel Miranda, Presidente.- Rúbrica.- Dip.
+Artículo adicionado DOF 15-11-2007
+México, D.F., a 14 de noviembre de 2007.- Sen. Santiago Creel Miranda, Presidente.- Rúbrica.- Dip.
 Ruth Zavaleta Salgado, Presidenta.- Rúbrica.- Sen. Renán Cleominio Zoreda Novelo, Secretario.Rúbrica.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el Artículo Cuarto Transitorio, fracción VI, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999
@@ -1137,7 +1273,7 @@ Se reforma y adiciona el artículo 34; se reforman las fracciones V a XXXVI y se
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 25 de septiembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Rúbrica.Sen. Enrique Jackson Ramírez, Presidente.- Rúbrica.- Dip. Marcos Morales Torres, Secretario.Rúbrica.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 117 y 118 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2004
@@ -1246,7 +1382,8 @@ La adecuación respecto de la integración de la Mesa Directiva en los términos
 ### Artículo Tercero
 Por única ocasión, durante el tercer año de ejecicio (ejercicio, sic DOF 12-122011) de la LXI Legislatura, se dejará sin efecto el numeral 1, última parte, del artículo 17 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para permitir que la Presidencia de la Mesa Directiva de la Cámara de Diputados sea ejercida por un diputado integrante del Grupo Parlamentario del PRI por el periodo del 1 de septiembre al 15 de diciembre de 2011; un diputado del Grupo Parlamentario del PRD por el periodo del 16 de diciembre de 2011 al 30 de abril de 2012 y un diputado del Grupo Parlamentario del PAN por el periodo del 1 de mayo al 31 de agosto de 2012.
 De igual manera, se excepciona por el mismo periodo la aplicación de lo dispuesto en el numeral 8 del citado artículo 17 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para permitir por esta ocasión que el Grupo Parlamentario del PRD pueda presidir la Mesa Directiva, en términos del párrafo precedente sin que constituya óbice para presidir la Junta de Coordinación Política.
-Artículo adicionado DOF 12-12-2011 México, D.F., a 12 de septiembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Rúbrica.- Sen.
+Artículo adicionado DOF 12-12-2011
+México, D.F., a 12 de septiembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Rúbrica.- Sen.
 Manlio Fabio Beltrones Rivera, Presidente.- Rúbrica.- Dip. Antonio Xavier López Adame, Secretario.Rúbrica.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 39 y 43 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2006 Artículo Unico.- Se reforma la actual fracción XX, del numeral 2, del Artículo 39; se adicionan los Artículos 39, numeral 2, con una fracción VIII recorriéndose las demás fracciones en su orden y 43, con un numeral 2, recorriéndose los demás numerales en su orden, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue: ..........
@@ -1290,7 +1427,7 @@ Publicado en el Diario Oficial de la Federación el 21 de abril de 2008
 
 ### Artículo Único
 Se adiciona un párrafo cuarto al artículo 46, recorriéndose el actual para pasar a ser
-**quinto.** párrafo, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue ……….
+**quinto.-** párrafo, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue ……….
 
 ## TRANSITORIO
 
@@ -1317,7 +1454,7 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
 ### Artículo Único
 Se reforma el inciso d), del párrafo 1 del artículo 34 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para quedar como sigue: ……….
 Artículo Transitorio
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de junio de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Adrián Rivera Pérez, Secretario.Rúbricas.
 DECRETO por el que se reforma el artículo 92 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 5 de marzo de 2009
@@ -1394,7 +1531,7 @@ Se adicionan un inciso q) y se reforma el inciso p) al numeral 1 del artículo 2
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2013
@@ -1404,8 +1541,8 @@ Se reforman las fracciones XXV a XXX, del numeral 2 del artículo 39 de la Ley O
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Todos los asuntos turnados a la actual Comisión de Equidad y Género de la Cámara de Diputados, se entenderán remitidos a la Comisión de Igualdad de Género.
+**PRIMERO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Todos los asuntos turnados a la actual Comisión de Equidad y Género de la Cámara de Diputados, se entenderán remitidos a la Comisión de Igualdad de Género.
 México, D.F., a 23 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Rúbrica.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Dip. Fernando Bribiesca Sahagun, Secretario.Rúbrica.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona un artículo 100 Bis a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
@@ -1427,8 +1564,8 @@ Se REFORMAN los artículos 43, numeral 1; 66, numerales 2 y 3; 104, numeral 1; s
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
 **Tercero.-** Las Cámaras del Congreso a través de la oficina de atención ciudadana, en un plazo no mayor a 90 días establecerán mecanismos de apoyo a los ciudadanos que buscan presentar iniciativas.
 México, D.F., a 9 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 19 de mayo de 2014.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO que reforma el numeral 1 del artículo 104 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
@@ -1471,12 +1608,12 @@ Se reforman los artículos 140 y 141 de la Ley Orgánica del Congreso General de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor una vez publicado en el Diario Oficial de la Federación.
-**Segundo.** Se contará con un periodo de 90 días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para la elaboración de los lineamientos generales de administración por parte de la Comisión Bicamaral del Canal, mismos que serán aplicables para ambas Cámaras.
-**Tercero.** Las mesas directivas de las Cámaras de Diputados y de Senadores, en ejercicio de las facultades que les concede la Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos, harán las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento del presente Decreto.
-**Cuarto.** Las unidades de administración de ambas Cámaras deberán realizar las gestiones correspondientes ante la Secretaría de Hacienda y Crédito Público, para la creación de un programa presupuestario en el Ramo Autónomo 01 Poder Legislativo, para la difusión de las actividades legislativas a cargo del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos; que tenga por objeto ser la fuente de recursos financieros para el desarrollo y operación del Canal, así como para acreditar su capacidad financiera.
-**Quinto.** Los servidores públicos que laboran en el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, preservan sus derechos y la vigencia de sus nombramientos, cargos y responsabilidades.
-**Sexto.** Queda sin efecto todo aquello que se oponga a lo dispuesto al presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor una vez publicado en el Diario Oficial de la Federación.
+**Segundo.-** Se contará con un periodo de 90 días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para la elaboración de los lineamientos generales de administración por parte de la Comisión Bicamaral del Canal, mismos que serán aplicables para ambas Cámaras.
+**Tercero.-** Las mesas directivas de las Cámaras de Diputados y de Senadores, en ejercicio de las facultades que les concede la Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos, harán las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento del presente Decreto.
+**Cuarto.-** Las unidades de administración de ambas Cámaras deberán realizar las gestiones correspondientes ante la Secretaría de Hacienda y Crédito Público, para la creación de un programa presupuestario en el Ramo Autónomo 01 Poder Legislativo, para la difusión de las actividades legislativas a cargo del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos; que tenga por objeto ser la fuente de recursos financieros para el desarrollo y operación del Canal, así como para acreditar su capacidad financiera.
+**Quinto.-** Los servidores públicos que laboran en el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, preservan sus derechos y la vigencia de sus nombramientos, cargos y responsabilidades.
+**Sexto.-** Queda sin efecto todo aquello que se oponga a lo dispuesto al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Rúbrica.- Sen. Pablo Escudero Morales, Presidente.- Rúbrica.- Dip. Ernestina Godoy Ramos.Secretaria.- Rúbrica.- Sen. María Elena Barrera Tapia.- Secretaria.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Comqpetencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
@@ -1486,14 +1623,14 @@ Se reforman los artículos 20, numeral 2, inciso j); 34, numeral 1, inciso i) y 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
-**Tercero.** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
-**Cuarto.** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
-**Quinto.** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
-**Sexto.** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
-**Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+**Tercero.-** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+**Cuarto.-** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+**Quinto.-** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+**Sexto.-** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+**Séptimo.-** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, en consonancia con la Reforma Política de la Ciudad de México.
 Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
@@ -1503,9 +1640,9 @@ Se reforman los artículos 15, numeral 9; 22, numeral 2; 23, numeral 3; 62, nume
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los asuntos que la Mesa Directiva del Senado de la República hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
-**TERCERO.** La integración de la Comisión de la Ciudad de México del Senado de la República será la misma que tenía la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los asuntos que la Mesa Directiva del Senado de la República hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
+**TERCERO.-** La integración de la Comisión de la Ciudad de México del Senado de la República será la misma que tenía la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto.
 Ciudad de México, a 5 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Rúbrica.- Dip.
 María Guadalupe Murguía Gutiérrez, Presidenta.- Rúbrica.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Rúbrica.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona un inciso d) al artículo 106 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
@@ -1514,8 +1651,8 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2017
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Senado de la República, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República y al Estatuto del Servicio Civil de Carrera.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Senado de la República, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República y al Estatuto del Servicio Civil de Carrera.
 Ciudad de México, a 21 de noviembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.Dip. Jorge Carlos Ramírez Marín, Presidente.- Rúbrica.- Sen. Lorena Cuéllar Cisneros, Secretaria.Rúbrica.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbrica.
 DECRETO por el que se reforma el numeral 3 del artículo 39 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2017
@@ -1525,7 +1662,7 @@ Se reforma el numeral 3, del artículo 39 de la Ley Orgánica del Congreso Gener
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 7 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.Rúbrica.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbrica.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbrica.
 DECRETO por el que se reforma el artículo 49 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2017
@@ -1543,9 +1680,9 @@ Se adiciona un numeral 4 al artículo 49 de la Ley Orgánica del Congreso Genera
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La implementación del presente Decreto no comprometerá la erogación de recursos adicionales a los presupuestados a la Cámara de Diputados y por tanto no se recurrirá a reasignación de ellos.
-**Tercero.** Se derogan las disposiciones que contravengan el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La implementación del presente Decreto no comprometerá la erogación de recursos adicionales a los presupuestados a la Cámara de Diputados y por tanto no se recurrirá a reasignación de ellos.
+**Tercero.-** Se derogan las disposiciones que contravengan el presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Rúbrica.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Dip. Sofía del Sagrario de León Maza, Secretaria.Rúbrica.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbrica.
 DECRETO por el que se reforman los artículos 39 y 43 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
@@ -1558,7 +1695,6 @@ Se reforman los artículos 39, numeral 2 y 43, numerales 1 y 3 de la Ley Orgáni
 
 **Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** A partir de la entrada en vigor del presente Decreto, los asuntos que hayan quedado pendientes de resolución en anteriores legislaturas en las Comisiones de la Cámara de Diputados y los turnados por la actual LXIV legislatura a Comisiones que permanecían en poder de la Mesa Directiva, serán distribuidos bajo los siguientes criterios:
-
 a) Los asuntos a cargo de las Comisiones Ordinarias que se extinguen o fusionan, se distribuirán de la siguiente forma:
 Comisiones Ordinarias que se extinguen o Nuevas Comisiones Ordinarias fusionan Agricultura y Sistemas de Riego Desarrollo y Conservación Rural, Agrícola y Autosuficiencia Alimentaria Desarrollo Rural Reforma Agraria Agua Potable y Saneamiento Recursos Hidráulicos, Agua Potable y Saneamiento Recursos Hidráulicos Cambio Climático Medio Ambiente, Sustentabilidad, Cambio Climático y Recursos Naturales Medio Ambiente y Recursos Naturales Ciudad de México Gobernación y Población Competitividad Economía, Comercio y Competitividad Economía Comunicaciones Comunicaciones y Transportes Transportes Desarrollo Metropolitano Desarrollo Metropolitano, Urbano, Ordenamiento Territorial y Movilidad Desarrollo Urbano y Ordenamiento Territorial Desarrollo Municipal Federalismo y Desarrollo Municipal Fortalecimiento al Federalismo Gobernación Gobernación y Población Población
 
@@ -1586,8 +1722,8 @@ Se reforma el segundo párrafo del numeral 2 del artículo 39 de la Ley Orgánic
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Mesa Directiva de la Cámara de Diputados resolverá el turno de los asuntos que han sido presentados y turnados durante la LXV Legislatura en la Cámara de Diputados hasta antes de la entrada en vigor del presente Decreto, conforme a sus atribuciones, publicando en la Gaceta Parlamentaria el turno que corresponda atendiendo el contenido y la materia de las nuevas denominaciones de las comisiones ordinarias.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Mesa Directiva de la Cámara de Diputados resolverá el turno de los asuntos que han sido presentados y turnados durante la LXV Legislatura en la Cámara de Diputados hasta antes de la entrada en vigor del presente Decreto, conforme a sus atribuciones, publicando en la Gaceta Parlamentaria el turno que corresponda atendiendo el contenido y la materia de las nuevas denominaciones de las comisiones ordinarias.
 Ciudad de México, a 5 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Rúbrica.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Rúbrica.- Dip. Luis Enrique Martínez Ventura, Secretario.- Rúbrica.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbrica.
 DECRETO por el que se adiciona un artículo 100 Ter a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2022

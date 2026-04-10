@@ -16,7 +16,9 @@ LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTO
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único — Del Objeto de la Ley
+
 
 ### Artículo 1
 . La presente Ley es de orden público, interés social y de observancia general en todo el territorio nacional, en términos de lo dispuesto por el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de extorsión.
@@ -82,7 +84,9 @@ VI. Secretaría de Seguridad: a la Secretaría de Seguridad y Protección Ciudad
 
 ## TÍTULO SEGUNDO — DE LA COMPETENCIA Y LA COORDINACIÓN
 
+
 ## Capítulo I — De la Competencia
+
 
 ### Artículo 8
 . La investigación, persecución y sanción del delito de extorsión estará a cargo de la Federación, cuando:
@@ -98,6 +102,7 @@ Cuando la comisión de los delitos previstos en esta Ley se encuentre vinculada 
 . En los casos no previstos en el artículo anterior, será competencia de las autoridades locales la investigación, persecución y sanción del delito de extorsión.
 
 ## Capítulo II — De la Coordinación y Cooperación
+
 
 ### Artículo 10
 . Las autoridades de los distintos órdenes de gobierno y las Instituciones de Seguridad Pública, respetando su ámbito de competencia y autonomía, deberán prestarse el auxilio que requieran y facilitar la entrega de la información necesaria de manera ágil, pronta y expedita, con la finalidad de allegarse de los elementos que resulten necesarios para prevenir, investigar, perseguir y sancionar el delito de extorsión y delitos vinculados, de conformidad con esta Ley y con los ordenamientos jurídicos aplicables.
@@ -148,7 +153,9 @@ VIII. Desarrollar campañas de difusión dirigidas a sensibilizar y prevenir a l
 
 ## TÍTULO TERCERO — DEL DELITO DE EXTORSIÓN
 
+
 ## Capítulo I — Del Delito de Extorsión, sus sanciones y agravantes
+
 
 ### Artículo 15
 . A quien, sin derecho, obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un beneficio o lucro para sí o para otro o causando a alguien un daño o perjuicio patrimonial, moral, físico o psicológico, FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS se le impondrán de quince a veinticinco años de prisión y una multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
@@ -237,6 +244,7 @@ Las penas previstas en el presente Capítulo se impondrán, independientemente d
 
 ## Capítulo II — De los Delitos Vinculados al Delito de Extorsión
 
+
 ### Artículo 19
 . A quien dolosamente preste auxilio o cooperación al autor de cualquiera de las conductas previstas en la presente Ley se le impondrá una pena de cuatro a doce años de prisión y multa de sesenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -262,11 +270,14 @@ A la persona privada de su libertad en un centro de readaptación social, establ
 . Se impondrá la pena prevista en el artículo 15 de la presente Ley incrementada de tres a cinco años de prisión, a la persona servidora pública o autoridad penitenciaria que facilite los medios o permita las condiciones para la comisión de los delitos previstos en este ordenamiento.
 
 ## TÍTULO CUARTO — FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
+
 PREVISIONES PARA LA INVESTIGACIÓN, PERSECUCIÓN, SANCIÓN Y EJECUCIÓN PENAL
 
 ## Capítulo I — De la Investigación del Delito de Extorsión y su procesamiento
 
+
 ## Sección Primera — De la Investigación
+
 
 ### Artículo 25
 . Una vez que se tenga conocimiento de la probable comisión del delito de extorsión, la Policía actuará bajo el mando y conducción del Ministerio Público, conforme a lo dispuesto en el Código Nacional, deberán llevar a cabo las siguientes acciones:
@@ -311,6 +322,7 @@ FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNID
 
 ## Sección Segunda — De la Prueba
 
+
 ### Artículo 27
 . La autoridad judicial, para resolver cualquier incidente de nulidad o exclusión de pruebas que haga valer la persona imputada o su defensa, durante un procedimiento seguido por algún delito previsto en esta Ley, deberá analizar oficiosamente si se actualiza la fuente independiente, el vínculo atenuado o el descubrimiento inevitable sobre las mismas, de conformidad con lo previsto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -318,12 +330,14 @@ FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNID
 . Para efectos de la investigación, el ingreso de una autoridad a un lugar sin autorización judicial se entenderá justificado en los términos de lo previsto por el artículo 290 del Código Nacional.
 
 ## Sección Tercera
+
 Providencias Precautorias
 
 ### Artículo 29
 . La víctima, la o el ofendido o el Ministerio Público, podrán solicitar a la persona juzgadora las providencias precautorias que resulten procedentes para garantizar la reparación del daño, en los términos previstos por el artículo 138 del Código Nacional.
 
 ## Sección Cuarta
+
 Medidas de Protección
 
 ### Artículo 30
@@ -348,6 +362,7 @@ f) En el caso que de la denuncia respectiva o que de la información de la local
 FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
 
 ## Sección Quinta
+
 Medidas Cautelares
 
 ### Artículo 31
@@ -358,6 +373,7 @@ Estas medidas cautelares tendrán una revisión oficiosa trimestral por parte de
 . Las personas imputadas por la comisión del delito señalado en el artículo 15 de la presente Ley, estarán sujetas a prisión preventiva oficiosa durante el proceso penal, siempre y cuando se le impute también la comisión de cualquiera de las conductas agravantes que se encuentran previstas en los artículos 17 y 18 de la misma.
 
 ## Capítulo II — De las Sentencias
+
 
 ### Artículo 33
 . Para la individualización de la pena por el delito de extorsión y otros delitos vinculados, deberá tomarse en consideración, además de lo contemplado en la legislación penal respectiva, los elementos siguientes:
@@ -378,6 +394,7 @@ VI. Las circunstancias y el contexto de la comisión de la conducta.
 . La sentencia condenatoria que se dicte por el delito de extorsión deberá contemplar y cuantificar el monto de la reparación integral del daño a las víctimas, con base en los elementos probatorios que las partes aporten o aquellos que la persona juzgadora de la causa considere procedentes.
 
 ## Capítulo III
+
 Ejecución Penal
 
 ### Artículo 35
@@ -396,6 +413,7 @@ FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNID
 
 ## TÍTULO QUINTO — DE LA PREVENCIÓN DEL DELITO DE EXTORSIÓN
 
+
 ### Artículo 39
 . Las autoridades encargadas de diseñar, implementar y evaluar programas, políticas y acciones para la prevención del delito de extorsión deberán colaborar, cooperar y coordinarse entre sí para el cumplimiento de los objetivos previstos en la presente Ley. Asimismo, impulsarán espacios de diálogo en los que se promueva la colaboración con instituciones públicas, privadas y sociales en materia de prevención del delito de extorsión.
 Las autoridades a las que se refiere el párrafo anterior se asegurarán de que su personal se encuentre debidamente capacitado en la materia.
@@ -406,6 +424,7 @@ Las Instituciones de Seguridad Pública, de procuración y de administración de
 De igual manera, estarán obligadas a brindar asesoría y orientación inmediata a las personas que lo requieran por hechos en desarrollo, cuya intervención evite que se consume el delito de extorsión en su contra, con independencia de las acciones de investigación y persecución que correspondan.
 
 ## Capítulo I — Del Centro de Atención a Denuncias por el Delito de Extorsión
+
 
 ### Artículo 41
 . La Secretaría de Seguridad contará con un Centro de Atención a Denuncias por el Delito de Extorsión, el cual tendrá por objeto implementar los mecanismos y procedimientos para la recepción, registro, canalización, atención y seguimiento de las denuncias por la posible comisión del delito de extorsión, así como fortalecer los mecanismos de vinculación con la ciudadanía para orientar e informar a la población de las acciones que deben realizarse para la prevención de este delito.
@@ -426,6 +445,7 @@ VI. Las demás que se establezcan en otros ordenamientos.
 FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
 
 ## Capítulo II — De la Estrategia para Prevenir y Combatir el Delito de Extorsión
+
 
 ### Artículo 42
 . La Federación y las entidades federativas, respectivamente, diseñarán e implementarán una estrategia para prevenir y combatir el delito de extorsión, que tendrá como objeto definir y coordinar el diseño y la implementación de acciones y políticas en el ámbito de sus respectivas competencias. Las estrategias que implementen las entidades federativas deberán ajustarse a los contenidos mínimos de la Estrategia Nacional a cargo de la Federación.
@@ -451,15 +471,15 @@ Tratándose de las estrategias a cargo de las entidades federativas, dicho diagn
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Tercero.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.-** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio. la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
 FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS
-**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
-**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
-**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Sexto.-** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+**Séptimo.-** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.-** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+**Noveno.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Décimo.-** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

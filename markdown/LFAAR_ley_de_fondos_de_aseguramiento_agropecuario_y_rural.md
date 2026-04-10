@@ -19,6 +19,7 @@ TÍTULO PRELIMINAR DISPOSICIONES GENERALES
 
 ## Capítulo Único
 
+
 ### Artículo 1o
 . Esta Ley es de orden público y observancia general en todo el territorio nacional. Tiene por objeto crear y regular la organización, funcionamiento y operación del Sistema de Fondos de Aseguramiento Agropecuario y Rural, que se constituirá por los Fondos de Aseguramiento y por sus Organismos Integradores, que se registren ante la Secretaría de Hacienda y Crédito Público en los términos de esta Ley, con los siguientes propósitos específicos:
 
@@ -95,11 +96,14 @@ I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
 II. La Legislación Mercantil;
 
 IV. El Código Nacional de Procedimientos Civiles y Familiares.
-Fracción reformada DOF 14-11-2025 Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.
+Fracción reformada DOF 14-11-2025
+Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.
 
 ## TÍTULO PRIMERO — DE LOS FONDOS DE ASEGURAMIENTO
 
+
 ## Capítulo Primero — De su Constitución y Registro
+
 
 ### Artículo 7o
 . La constitución de un Fondo de Aseguramiento deberá realizarse conforme a las siguientes bases:
@@ -129,9 +133,7 @@ a) El dictamen favorable del Organismo Integrador respectivo;
 
 b) El testimonio de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, así como su inscripción en el Registro Público de la Propiedad y del Comercio, y
 
-c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos:
-
-i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
+c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
 Los Organismos Integradores remitirán a la Secretaría, en términos del presente artículo, las solicitudes para las que hubiesen generado un dictamen favorable, acompañándolas del mismo, y la Secretaría entregará su resolución a través de dichos Organismos Integradores, o directamente cuando se trate de Fondos de Aseguramiento que opten por el régimen de no afiliados;
 
 III. Tratándose de aquellos Fondos de Aseguramiento que pretendan obtener registro y que opten por el régimen de no afiliados, podrán acudir directamente ante la Secretaría, a efecto de que ésta designe al Organismo Integrador que se encargará de emitir el dictamen correspondiente, continuando con el procedimiento señalado en el inciso anterior;
@@ -175,6 +177,7 @@ La escritura o sus reformas deberán inscribirse en el Registro Público de la P
 En ningún momento la denominación del Fondo de Aseguramiento podrá formarse con el nombre, palabras, siglas o símbolos que la identifique con organizaciones políticas o religiosas.
 
 ## Capítulo Segundo — De su Organización
+
 
 ### Artículo 10
 . Los Fondos de Aseguramiento contarán, cuando menos, con los siguientes órganos:
@@ -336,6 +339,7 @@ En caso de contravenirse esta disposición, el voto de cualquier Consejero será
 
 ## Capítulo Tercero — De la Admisión, Separación, Suspensión y Exclusión de Socios
 
+
 ### Artículo 26
 . Para ser socio de un Fondo de Aseguramiento se requiere:
 
@@ -375,6 +379,7 @@ VI. Las demás que establezcan los Estatutos.
 La suspensión podrá ser hasta por dos años según lo acuerde la Asamblea General de Socios. En caso de daños causados, la suspensión durará hasta que los mismos sean reparados o compensados a satisfacción del Fondo de Aseguramiento o de los socios afectados. En caso de reincidencia, la Asamblea General de Socios podrá resolver la exclusión del socio, lo que implicará la pérdida definitiva de sus derechos como tal.
 
 ## Capítulo Cuarto — De su Funcionamiento y Operación
+
 
 ### Artículo 29
 . Los Fondos de Aseguramiento funcionarán de manera que las coberturas que practiquen no tengan fines de lucro para el mismo ni para los socios. Sólo podrán cobrar a sus socios por concepto de cuota lo indispensable para sufragar los gastos generales que ocasione su gestión y las cuotas para sus Organismos Integradores; cubrir la prima de reaseguro y accesorios a la misma; constituir o incrementar conforme a esta Ley las reservas técnicas necesarias para cumplir sus compromisos de aseguramiento con sus socios; realizar aportaciones al Fondo de Protección y al Fondo de Retención Común de Riesgos; así como, para crear e incrementar el Fondo Social previsto en esta Ley.
@@ -493,13 +498,9 @@ VI. Tratándose de inversiones en moneda extranjera podrán fungir como organism
 
 VII. Los Fondos de Aseguramiento, al llevar a cabo las inversiones a que se refieren las fracciones I, II y III anteriores, deberán observar los siguientes límites, tanto en moneda nacional como en moneda extranjera:
 
-a) Por tipo de valores, depósitos o títulos:
+a) Por tipo de valores, depósitos o títulos: i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y
 
-i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y
-
-b) Por emisor o deudor:
-
-i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
+b) Por emisor o deudor: i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
 
 ### Artículo 40
 . Los Fondos de Aseguramiento sólo podrán operar dentro de su zona de influencia, la cual deberá determinarse en los Estatutos que señalarán el o los municipios que la integran. Nuevos municipios podrán integrarse a su zona de influencia sólo mediante:
@@ -515,7 +516,9 @@ III. La obtención de un dictamen favorable del Organismo Integrador que corresp
 
 ## TÍTULO SEGUNDO — DE LOS ORGANISMOS INTEGRADORES
 
+
 ## Capítulo Primero — De su Organización
+
 
 ### Artículo 42
 . Los Fondos de Aseguramiento podrán constituir asociaciones a nivel Nacional, Estatal y Local. Con sujeción a lo establecido en esta Ley el contrato social de su constitución y los Estatutos deberán otorgarse ante fedatario público, estipulando su carácter de Organismo Integrador y de sociedad con fines no lucrativos, con personalidad jurídica y patrimonio propios; el objeto social; la duración de la sociedad, que puede ser por tiempo indefinido; el domicilio, mismo que deberá estar dentro de territorio nacional; el nombre de la sociedad; y la relación de afiliados fundadores, principales consejeros, directivos y administradores. Las actividades de los Organismos Integradores Nacional, Estatales y Locales, serán las propias de su objeto social y se abstendrán de realizar otro tipo de actividades.
@@ -700,6 +703,7 @@ Los Organismos Integradores deberán informar a la Secretaría la designación d
 
 ## Capítulo Segundo — De la Afiliación
 
+
 ### Artículo 61
 . Los Fondos de Aseguramiento podrán afiliarse a un Organismo Integrador Estatal registrado ante la Secretaría. El Organismo Integrador Estatal, a su vez, podrá afiliarse al Organismo Integrador Nacional registrado ante la Secretaría.
 El Organismo Integrador Estatal publicará anualmente, en periódico de amplia circulación en el ámbito geográfico en el que opera, la lista de sus Fondos de Aseguramiento afiliados.
@@ -727,6 +731,7 @@ El Organismo Integrador correspondiente continuará ejerciendo sobre el Fondo de
 
 ## Capítulo Tercero — De los Fondos de Aseguramiento no Afiliados
 
+
 ### Artículo 67
 . Los Fondos de Aseguramiento que no celebren contrato de afiliación con un Organismo Integrador, conforme a lo dispuesto en esta Ley, serán considerados como Fondos de Aseguramiento no afiliados.
 
@@ -740,6 +745,7 @@ El Fondo de Aseguramiento no afiliado tendrá todas las obligaciones de los Fond
 El Organismo Integrador que les preste el servicio de Asesoría Técnica y Seguimiento de Operaciones, podrá prestarles servicios complementarios a un costo equivalente al que corresponda a un Fondo de Aseguramiento afiliado.
 
 ## Capítulo Cuarto — De la Fusión, Disolución, Liquidación y Revocación
+
 
 ### Artículo 70
 . Para los efectos de esta Ley y en términos de la misma, se podrán utilizar los siguientes mecanismos:
@@ -806,7 +812,9 @@ La Secretaría, valorará la procedencia o improcedencia de la solicitud de revo
 
 ## TÍTULO TERCERO — DEL SISTEMA DE PROTECCIÓN
 
+
 ## Capítulo Único — De los Fondos de Protección y de Retención Común de Riesgos
+
 
 ### Artículo 75
 . En complemento a la operación de Seguros, llevada a cabo por los Fondos de Aseguramiento, se establece un Sistema de Protección integrado por el Fondo de Protección y el Fondo de Retención Común de Riesgos, de acuerdo a lo siguiente:
@@ -886,7 +894,9 @@ Los recursos para este fin provendrán de aportaciones, adicionales a las previs
 
 ## TÍTULO CUARTO — DE LAS FACULTADES DE LAS AUTORIDADES
 
+
 ## Capítulo Primero — Del Seguimiento de las Operaciones
+
 
 ### Artículo 85
 . La Secretaría tendrá además de las facultades que se le otorgan en otros artículos de esta Ley, las que se señalan en este Capítulo.
@@ -899,6 +909,7 @@ El Organismo Integrador Nacional, los Organismos Integradores Estatales, los Org
 . La Asamblea General, como órgano máximo de autoridad de los Fondos de Aseguramiento y de los Organismos Integradores, podrá en todo tiempo acordar la remoción de los miembros de los Consejos de Administración, de Vigilancia, de los Comités Técnicos, de los Directores o Gerentes, Comisario o de quienes ejerzan estas funciones en los términos de esta Ley, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven y puedan con sus actos causar perjuicio a los Fondos de Aseguramiento y a los Organismos Integradores Nacional y Estatales.
 
 ## Capítulo Segundo — Del Fomento y Apoyo a los Fondos de Aseguramiento
+
 
 ### Artículo 87
 . Los Fondos de Aseguramiento son organismos que deberán ser considerados como sujetos del fomento y apoyo por parte de las instancias gubernamentales, en términos de lo que al efecto establezca el Presupuesto de Egresos de la Federación. Igual tratamiento como sujetos de fomento se les reconoce en esta Ley a los Organismos Integradores.
@@ -924,6 +935,7 @@ La SAGARPA también promoverá mecanismos de coordinación con las Entidades Fed
 . Las acciones de fomento y apoyo a los Fondos de Aseguramiento y de fomento a sus Organismos Integradores, serán las que se definan en los programas de apoyo que establezca el Presupuesto de Egresos de la Federación y se sujetarán a las reglas de operación que emitan las autoridades competentes de acuerdo con dicho Decreto. Estas acciones de fomento y apoyo, estarán referidas a promover apoyos al productor que coadyuven a cubrir las primas del servicio de aseguramiento; a respaldar y fortalecer el servicio de Asesoría Técnica y Seguimiento de Operaciones, dispuesto por esta Ley; a consolidar el funcionamiento de los Fondos de Aseguramiento; a impulsar su capacitación; a promover la constitución de nuevos Fondos de Aseguramiento; a desarrollar nuevos productos y coberturas de seguros; a fortalecer las estructuras técnicas de los Fondos de Aseguramiento; y en general, todas aquéllas que contribuyan a respaldar y facilitar el cumplimiento de las disposiciones de esta Ley.
 
 ## Capítulo Tercero — Disposiciones Finales
+
 
 ### Artículo 94
 . El incumplimiento o la violación a las disposiciones de la presente Ley y a las que de ella emanen, serán sancionadas de acuerdo a lo establecido en esta Ley y en las disposiciones mercantiles, civiles, fiscales y penales aplicables.
@@ -980,7 +992,7 @@ La Secretaría contará con un plazo máximo de 270 días naturales contados a p
 
 ### ARTÍCULO SÉPTIMO
 Las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria continuarán vigentes por un plazo de 270 días naturales a partir de la entrada en vigor de esta Ley y aplicará para aquellos Fondos de Aseguramiento que se encuentren en el caso del párrafo primero del
-**artículo Tercero.** Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
+**artículo Tercero.-** Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
 México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -991,12 +1003,12 @@ Se reforma la fracción IV del artículo 6o. de la Ley de Fondos de Aseguramient
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

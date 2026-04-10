@@ -46,7 +46,8 @@ Artículo reformado DOF 29-05-2025
 .- El Poder Ejecutivo Federal, los gobiernos de las entidades federativas, de los Municipios y de las alcaldías de la Ciudad de México deben realizar campañas educativas permanentes de culturas de paz y desarme que tengan por objeto reducir la posesión, la protección y el uso de armas de cualquier tipo.
 Dichas campañas deben incluir información sobre materiales explosivos, artificios pirotécnicos y sustancias químicas relacionadas, así como los riesgos en su manipulación.
 Por razones de interés público, sólo se autoriza la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del Reglamento de esta Ley.
-Artículo reformado DOF 23-12-1974, 08-02-1985, 06-12-2022, 29-05-2025 conexas.
+Artículo reformado DOF 23-12-1974, 08-02-1985, 06-12-2022, 29-05-2025
+conexas.
 TITULO SEGUNDO Posesión y Portación CAPITULO I Disposiciones preliminares
 
 ### Artículo 7o
@@ -71,30 +72,45 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 9o
 .- Está permitida la posesión de armas de fuego autorizadas por la Secretaría en el domicilio declarado por las personas físicas, para la seguridad y legítima defensa de sus moradores, de conformidad con esta Ley y su Reglamento.
-Párrafo adicionado DOF 29-05-2025 Pueden poseerse o portarse, en los términos y con las limitaciones establecidas por esta Ley y su Reglamento, armas de las características siguientes:
-Párrafo reformado DOF 29-05-2025 I.- Pistolas de funcionamiento semiautomático, de calibre no superior al .380" y sus equivalentes 9 x 17 mm o 9 mm Short o 9 mm Kurz. Quedan exceptuadas las pistolas calibres .38" Super, así como los otros modelos y marcas del calibre 9 mm, .357", incluyendo en estas excepciones el calibre .22" Magnum, Hornet y TCM.
-Fracción reformada DOF 29-05-2025 II.- Revólveres en calibres no superiores al .38 Especial, quedando exceptuado el calibre .357 Magnum.
-Fracción reformada para quedar con un párrafo DOF 29-05-2025 III.- Las que menciona el artículo 10 de esta Ley.
+Párrafo adicionado DOF 29-05-2025
+Pueden poseerse o portarse, en los términos y con las limitaciones establecidas por esta Ley y su Reglamento, armas de las características siguientes:
+Párrafo reformado DOF 29-05-2025
+I.- Pistolas de funcionamiento semiautomático, de calibre no superior al .380" y sus equivalentes 9 x 17 mm o 9 mm Short o 9 mm Kurz. Quedan exceptuadas las pistolas calibres .38" Super, así como los otros modelos y marcas del calibre 9 mm, .357", incluyendo en estas excepciones el calibre .22" Magnum, Hornet y TCM.
+Fracción reformada DOF 29-05-2025
+II.- Revólveres en calibres no superiores al .38 Especial, quedando exceptuado el calibre .357 Magnum.
+Fracción reformada para quedar con un párrafo DOF 29-05-2025
+III.- Las que menciona el artículo 10 de esta Ley.
 IV.- Las que integren colecciones de armas, en los términos de los artículos 21 y 22.
 Los ejidatarios, comuneros y jornaleros del campo pueden poseer en su domicilio y portar fuera de las zonas urbanas, con la manifestación del registro del arma, un rifle calibre .22" o una escopeta de cualquier calibre, excepto las de cañón de longitud inferior a 635 mm (25") y las de calibre superior al 12 (.729" o 18.5 mm).
-Párrafo reformado y reubicado (antes segundo párrafo de la fracción II) DOF 29-05-2025 También pueden poseer en su domicilio un arma de las señaladas en las fracciones I y II de este artículo, para la seguridad y legítima defensa de las personas moradoras.
-Párrafo adicionado DOF 29-05-2025 La calidad de persona ejidataria o comunera debe comprobarse mediante documento fehaciente que expida la autoridad agraria competente. La calidad de jornalero del campo debe acreditarse con el certificado que expida la autoridad competente del lugar en el que radique dicha persona.
-Párrafo adicionado DOF 29-05-2025 Las armas señaladas en este artículo se podrán autorizar para su uso en representaciones escénicas y culturales, así como actos cívicos y conmemorativos, las cuales deben estar inhabilitadas, en los términos y condiciones señalados en el Reglamento de esta Ley.
-Párrafo adicionado DOF 29-05-2025 Se exceptúan las armas mencionadas en este artículo que por su apariencia constituyan réplicas de las señaladas en el artículo 11 de esta Ley.
+Párrafo reformado y reubicado (antes segundo párrafo de la fracción II) DOF 29-05-2025
+También pueden poseer en su domicilio un arma de las señaladas en las fracciones I y II de este artículo, para la seguridad y legítima defensa de las personas moradoras.
+Párrafo adicionado DOF 29-05-2025
+La calidad de persona ejidataria o comunera debe comprobarse mediante documento fehaciente que expida la autoridad agraria competente. La calidad de jornalero del campo debe acreditarse con el certificado que expida la autoridad competente del lugar en el que radique dicha persona.
+Párrafo adicionado DOF 29-05-2025
+Las armas señaladas en este artículo se podrán autorizar para su uso en representaciones escénicas y culturales, así como actos cívicos y conmemorativos, las cuales deben estar inhabilitadas, en los términos y condiciones señalados en el Reglamento de esta Ley.
+Párrafo adicionado DOF 29-05-2025
+Se exceptúan las armas mencionadas en este artículo que por su apariencia constituyan réplicas de las señaladas en el artículo 11 de esta Ley.
 Párrafo adicionado DOF 29-05-2025
 
 ### Artículo 10
 .- La Secretaría tiene la atribución de autorizar a las personas que practiquen actividades de tiro y cacería inscritos en un club o asociación debidamente acreditados ante la referida Secretaría, la posesión en su domicilio, el transporte y la portación, dentro del campo de tiro o cotos de caza autorizada de hasta 10 armas siguientes:
-Párrafo reformado DOF 29-05-2025 I.- Pistolas, revólveres y rifles calibre .22, de fuego circular.
+Párrafo reformado DOF 29-05-2025
+I.- Pistolas, revólveres y rifles calibre .22, de fuego circular.
 II.- Pistolas de calibre .38” con fines de tiro olímpico o de competencia y de .380” o sus equivalentes 9 x 17 mm o 9 mm Short o 9 mm Kurz.
-Fracción reformada DOF 29-05-2025 III.- Escopetas en todos sus calibres y modelos, excepto las de cañón de longitud inferior a 635 mm. (25), y las de calibre superior al 12 (.729 ó 18. 5 mm.).
+Fracción reformada DOF 29-05-2025
+III.- Escopetas en todos sus calibres y modelos, excepto las de cañón de longitud inferior a 635 mm. (25), y las de calibre superior al 12 (.729 ó 18. 5 mm.).
 IV.- Escopetas de 3 cañones en los calibres autorizados en la fracción anterior, con un cañón para cartuchos metálicos de distinto calibre.
 V.- Rifles de repetición o de funcionamiento semiautomático, no convertibles en automáticos, con la excepción de carabinas calibre .30”, fusil, mosquetones y carabinas calibre .223”, 7 y 7.62 mm y fusiles Garand calibre .30”.
-Fracción reformada DOF 08-02-1985, 29-05-2025 VI.- Rifles de calibres superiores a los señalados en la fracción anterior, con permiso especial para su empleo en el extranjero, en cacería de piezas mayores no existentes en la fauna nacional.
-Fracción reformada DOF 29-05-2025 VII.- Las demás armas de características deportivas de acuerdo con las normas legales de cacería, aplicables por las Secretarías de Estado u Organismos que tengan injerencia, así como los reglamentos nacionales e internacionales para tiro de competencia.
-Fracción reformada DOF 08-02-1985 VIII.- Armas accionadas por gas, aire comprimido o pistón superiores a los 140 Joules de energía cinética y cuyos efectos se asimilan a las armas de fuego.
-Fracción adicionada DOF 29-05-2025 Se les puede expedir un permiso extraordinario de transportación de armas a las personas que practiquen actividades de tiro y cacería o a quienes justifiquen las causas de necesidad conforme a los procedimientos señalados en el Reglamento de esta Ley y las disposiciones que emita la Secretaría.
-Párrafo adicionado DOF 29-05-2025 A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de ésta Ley, únicamente como complemento del atuendo charro, debiendo llevarlos descargados.
+Fracción reformada DOF 08-02-1985, 29-05-2025
+VI.- Rifles de calibres superiores a los señalados en la fracción anterior, con permiso especial para su empleo en el extranjero, en cacería de piezas mayores no existentes en la fauna nacional.
+Fracción reformada DOF 29-05-2025
+VII.- Las demás armas de características deportivas de acuerdo con las normas legales de cacería, aplicables por las Secretarías de Estado u Organismos que tengan injerencia, así como los reglamentos nacionales e internacionales para tiro de competencia.
+Fracción reformada DOF 08-02-1985
+VIII.- Armas accionadas por gas, aire comprimido o pistón superiores a los 140 Joules de energía cinética y cuyos efectos se asimilan a las armas de fuego.
+Fracción adicionada DOF 29-05-2025
+Se les puede expedir un permiso extraordinario de transportación de armas a las personas que practiquen actividades de tiro y cacería o a quienes justifiquen las causas de necesidad conforme a los procedimientos señalados en el Reglamento de esta Ley y las disposiciones que emita la Secretaría.
+Párrafo adicionado DOF 29-05-2025
+A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de ésta Ley, únicamente como complemento del atuendo charro, debiendo llevarlos descargados.
 Párrafo reformado DOF 08-02-1985
 
 ### Artículo 10
@@ -103,16 +119,28 @@ Artículo adicionado DOF 24-12-1998
 
 ### Artículo 11
 .- Las armas, cargadores, municiones y materiales reservados para el uso exclusivo de la Fuerza Armada Permanente, son las siguientes:
-Párrafo reformado DOF 29-05-2025 a).- Revólveres calibre .357 Magnum y los superiores a .38 Especial. b).- Pistolas calibre 5.7 x 28 mm; .357" en todas sus variantes; 9 mm. Parabellum, Luger y similares; .38" Super y las de calibres superiores;
-Inciso reformado DOF 29-05-2025 c).- Fusiles, rifles, mosquetones, carabinas y tercerolas en calibre .223", 5.45 mm, 5.7 x 28 mm, 5.56 mm, 7 mm, 7.62 mm, .30" y .50" (12.7 mm), similares y superiores en todos sus modelos;
-Inciso reformado DOF 08-02-1985, 29-05-2025 d).- Pistolas, carabinas y fusiles con sistema automático, subametralladoras y ametralladoras en todos sus calibres;
-Inciso reformado DOF 29-05-2025 e).- Escopetas con cañón de longitud inferior a 635 mm. (25), las de calibre superior al 12 (.729 ó 18. 5 mm) y las lanzagases, con excepción de las de uso industrial. f).- Cargadores, municiones para las armas anteriores y cartuchos con artificios especiales como trazadores, incendiarios, perforantes, fumígenos, expansivos, de gases y los cargados con postas superiores al 00 (.84 cms. de diámetro) para escopeta;
-Inciso reformado DOF 29-05-2025 g).- Cañones, piezas de artillería, morteros y carros de combate con sus aditamentos, accesorios, proyectiles y municiones. h).- Proyectiles-cohete, torpedos, granadas, bombas, minas, cargas de profundidad, lanzagranadas y similares, fusiles y ametralladoras en calibres .50" (12.7 mm) y superiores; así como los aparatos, artificios y máquinas para su lanzamiento;
-Inciso reformado DOF 29-05-2025 i).- Bayonetas;
-Inciso reformado DOF 29-05-2025 j).- Navíos, submarinos, embarcaciones e hidroaviones para la guerra naval y su armamento. k).- Aeronaves de guerra y su armamento. k Bis).- Aeronaves pilotadas a distancia adaptadas para transportar, activar y detonar explosivos, artefactos explosivos, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
-Inciso adicionado DOF 07-06-2024 l).- Artificios de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas. m).- Silenciadores, y Inciso adicionado DOF 29-05-2025 n).- Todos aquellos desarrollos tecnológicos en materia de armas y municiones, cuyas características balísticas igualen o excedan los descritos en los incisos anteriores, en cuanto a poder de penetración, alcance y volumen de fuego, así como aquellos accesorios, ingenios y vehículos blindados acondicionados para el empleo de armamento.
-Inciso adicionado DOF 29-05-2025 La Secretaría puede autorizar el uso de las armas, municiones y materiales destinados exclusivamente para la guerra, mediante justificación de necesidad, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México, así como a personas servidoras públicas extranjeras en los casos a que se refieren los artículos 28 y 28 Bis de esta Ley.
-Párrafo reformado DOF 23-12-1974, 08-02-1985, 22-05-2015, 06-12-2022, 29-05-2025 Reforma DOF 29-05-2025: Suprimió del artículo el entonces párrafo segundo para quedar integrado en el actual último párrafo
+Párrafo reformado DOF 29-05-2025
+a).- Revólveres calibre .357 Magnum y los superiores a .38 Especial. b).- Pistolas calibre 5.7 x 28 mm; .357" en todas sus variantes; 9 mm. Parabellum, Luger y similares; .38" Super y las de calibres superiores;
+Inciso reformado DOF 29-05-2025
+c).- Fusiles, rifles, mosquetones, carabinas y tercerolas en calibre .223", 5.45 mm, 5.7 x 28 mm, 5.56 mm, 7 mm, 7.62 mm, .30" y .50" (12.7 mm), similares y superiores en todos sus modelos;
+Inciso reformado DOF 08-02-1985, 29-05-2025
+d).- Pistolas, carabinas y fusiles con sistema automático, subametralladoras y ametralladoras en todos sus calibres;
+Inciso reformado DOF 29-05-2025
+e).- Escopetas con cañón de longitud inferior a 635 mm. (25), las de calibre superior al 12 (.729 ó 18. 5 mm) y las lanzagases, con excepción de las de uso industrial. f).- Cargadores, municiones para las armas anteriores y cartuchos con artificios especiales como trazadores, incendiarios, perforantes, fumígenos, expansivos, de gases y los cargados con postas superiores al 00 (.84 cms. de diámetro) para escopeta;
+Inciso reformado DOF 29-05-2025
+g).- Cañones, piezas de artillería, morteros y carros de combate con sus aditamentos, accesorios, proyectiles y municiones. h).- Proyectiles-cohete, torpedos, granadas, bombas, minas, cargas de profundidad, lanzagranadas y similares, fusiles y ametralladoras en calibres .50" (12.7 mm) y superiores; así como los aparatos, artificios y máquinas para su lanzamiento;
+Inciso reformado DOF 29-05-2025
+i).- Bayonetas;
+Inciso reformado DOF 29-05-2025
+j).- Navíos, submarinos, embarcaciones e hidroaviones para la guerra naval y su armamento. k).- Aeronaves de guerra y su armamento. k Bis).- Aeronaves pilotadas a distancia adaptadas para transportar, activar y detonar explosivos, artefactos explosivos, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
+Inciso adicionado DOF 07-06-2024
+l).- Artificios de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas. m).- Silenciadores, y
+Inciso adicionado DOF 29-05-2025
+n).- Todos aquellos desarrollos tecnológicos en materia de armas y municiones, cuyas características balísticas igualen o excedan los descritos en los incisos anteriores, en cuanto a poder de penetración, alcance y volumen de fuego, así como aquellos accesorios, ingenios y vehículos blindados acondicionados para el empleo de armamento.
+Inciso adicionado DOF 29-05-2025
+La Secretaría puede autorizar el uso de las armas, municiones y materiales destinados exclusivamente para la guerra, mediante justificación de necesidad, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México, así como a personas servidoras públicas extranjeras en los casos a que se refieren los artículos 28 y 28 Bis de esta Ley.
+Párrafo reformado DOF 23-12-1974, 08-02-1985, 22-05-2015, 06-12-2022, 29-05-2025
+Reforma DOF 29-05-2025: Suprimió del artículo el entonces párrafo segundo para quedar integrado en el actual último párrafo
 
 ### Artículo 11
 Bis.- Se prohíbe a personas ajenas a la Fuerza Armada Permanente la posesión, portación y uso de las armas, cargadores, municiones, materiales, accesorios, ingenios o vehículos blindados previstos en el artículo anterior, así como de vehículos particulares modificados con cualquier tipo de blindaje y adaptados para el uso de armamento.
@@ -135,7 +163,8 @@ Artículo reformado DOF 29-05-2025
 
 ### Artículo 14
 .- El extravío, robo, destrucción, enajenación, aseguramiento o decomiso de un arma que se posea o se porte debe hacerse del conocimiento de la Secretaría, así como de la autoridad ministerial en los casos que corresponda por parte de la persona titular del registro o, en caso de su fallecimiento o ausencia declarada, por la persona responsable designada, en los términos y por los conductos que establezca el Reglamento de esta Ley y demás disposiciones emitidas por dicha Secretaría.
-Artículo reformado DOF 08-02-1985, 29-05-2025 CAPITULO II Posesión de armas en el domicilio
+Artículo reformado DOF 08-02-1985, 29-05-2025
+CAPITULO II Posesión de armas en el domicilio
 
 ### Artículo 15
 .- En el domicilio se pueden poseer armas para la seguridad y defensa legítima de sus moradores. Su posesión impone el deber de manifestarlas a la Secretaría para su registro.
@@ -182,16 +211,19 @@ Artículo reformado DOF 29-05-2025
 
 ### Artículo 23
 .- Las armas que formen parte de una colección pueden enajenarse como tal, o por unidades, en los términos de las disposiciones de esta Ley y previo permiso escrito de la Secretaría.
-Artículo reformado DOF 29-05-2025 CAPITULO III Casos, condiciones, requisitos y lugares para la portación de armas
+Artículo reformado DOF 29-05-2025
+CAPITULO III Casos, condiciones, requisitos y lugares para la portación de armas
 
 ### Artículo 24
 .- Para portar armas se requiere la licencia respectiva.
 Los militares con jerarquía de Generales, Jefes y Oficiales o sus equivalentes en la Fuerza Armada Permanente pueden poseer y portar armas, cargadores, accesorios y municiones sin licencia, con la sola acreditación de su personalidad militar vigente.
-Párrafo reformado DOF 21-12-1995, 29-05-2025 Pueden portar armas, en los casos y con las condiciones y requisitos que establecen la presente Ley y su Reglamento, las personas integrantes de:
+Párrafo reformado DOF 21-12-1995, 29-05-2025
+Pueden portar armas, en los casos y con las condiciones y requisitos que establecen la presente Ley y su Reglamento, las personas integrantes de:
 I.- Las instituciones policiales y de procuración de justicia federales, estatales, de la Ciudad de México, municipales y de las alcaldías;
 II.- Los organismos que, por sus funciones de carácter público, justifiquen su necesidad;
 III.- Las empresas de seguridad privada, y IV.- Los ciudadanos que cubran los requisitos establecidos en esta Ley y demás disposiciones legales aplicables.
-Párrafo adicionado DOF 21-12-1995. Reformado DOF 06-12-2022, 29-05-2025 Se prohíbe a los militares portar armas de su propiedad para prestar sus servicios en empresas de seguridad privada o con particulares, sin la autorización de la Secretaría o de la Secretaría de Marina, según corresponda.
+Párrafo adicionado DOF 21-12-1995. Reformado DOF 06-12-2022, 29-05-2025
+Se prohíbe a los militares portar armas de su propiedad para prestar sus servicios en empresas de seguridad privada o con particulares, sin la autorización de la Secretaría o de la Secretaría de Marina, según corresponda.
 Párrafo adicionado DOF 29-05-2025
 
 ### Artículo 25
@@ -225,21 +257,26 @@ A. Estar constituidas conforme a las leyes mexicanas.
 B. Tratándose de servicios privados de seguridad:
 
 a) Contar con la autorización para funcionar como servicio privado de seguridad, y b).- Contar con la opinión favorable de la Secretaría de Seguridad y Protección Ciudadana, que deberá emitir en un plazo no mayor de treinta días hábiles a partir de la fecha de la solicitud, sobre la justificación de la necesidad de la portación del armamento, y los límites en número y características de las armas, así como lugares de utilización.
-Inciso reformado DOF 29-05-2025 C. Tratándose de otras personas morales, cuando por sus circunstancias especiales lo ameriten, a juicio de la Secretaría de la Defensa Nacional, para servicios internos de seguridad y protección de sus instalaciones; ajustándose a las prescripciones, controles y supervisión que determine la propia Secretaría.
+Inciso reformado DOF 29-05-2025
+C. Tratándose de otras personas morales, cuando por sus circunstancias especiales lo ameriten, a juicio de la Secretaría de la Defensa Nacional, para servicios internos de seguridad y protección de sus instalaciones; ajustándose a las prescripciones, controles y supervisión que determine la propia Secretaría.
 D. Acreditar que quienes portarán armas cumplen con lo previsto en los primeros cinco incisos de la fracción I anterior.
 Previa autorización de la Secretaría, los titulares de las licencias colectivas deben expedir credenciales foliadas de identificación personal, que contengan los datos de la licencia colectiva y se renovarán cada dos años.
-Párrafo reformado DOF 29-05-2025 Las licencias y, en su caso, los permisos para la portación de armas de fuego y explosivos, en original o copia certificada, se deben exhibir ante la autoridad administrativa o judicial competente, para acreditar la autorización de su portación o posesión. De lo contrario, se presumirá que se carece de dicha autorización.
-Párrafo adicionado DOF 29-05-2025 El término para expedir las licencias particulares y colectivas será de cincuenta días hábiles, contados a partir de que se presenta la solicitud correspondiente.
+Párrafo reformado DOF 29-05-2025
+Las licencias y, en su caso, los permisos para la portación de armas de fuego y explosivos, en original o copia certificada, se deben exhibir ante la autoridad administrativa o judicial competente, para acreditar la autorización de su portación o posesión. De lo contrario, se presumirá que se carece de dicha autorización.
+Párrafo adicionado DOF 29-05-2025
+El término para expedir las licencias particulares y colectivas será de cincuenta días hábiles, contados a partir de que se presenta la solicitud correspondiente.
 Fe de erratas al artículo DOF 25-01-1972. Artículo reformado DOF 08-02-1985, 21-12-1995
 
 ### Artículo 27
 .- A los extranjeros sólo se les podrá autorizar la portación de armas cuando, además de satisfacer los requisitos señalados en el artículo anterior, acrediten su calidad de residentes permanentes, salvo en los casos de permisos de licencia temporal para turistas con fines deportivos.
 La Secretaría puede expedir permisos extraordinarios de ingreso y portación temporal de armas a servidores públicos extranjeros de migración o aduanas, en los casos y con los requisitos previstos en los artículos 28 y 28 Bis de esta Ley, los cuales pueden cancelarse, sin perjuicio de aplicar las sanciones que procedan, en los casos que prevé el artículo 31 de la presente Ley.
-Párrafo reformado DOF 29-05-2025 Artículo reformado DOF 22-05-2015
+Párrafo reformado DOF 29-05-2025
+Artículo reformado DOF 22-05-2015
 
 ### Artículo 28
 .- Con base en el principio de reciprocidad, la Secretaría puede autorizar la portación temporal de armas a los servidores públicos extranjeros de migración o aduanas, debidamente acreditados ante el Gobierno Federal, que participen en la revisión migratoria en los puntos de tránsito internacionales o el despacho conjunto de mercancías en las aduanas nacionales, respectivamente, conforme a la legislación aplicable y a los acuerdos interinstitucionales que deberán celebrarse para tal efecto.
-Párrafo reformado DOF 29-05-2025 La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de tramitar ante la Secretaría, cuando menos con 15 días de anticipación al inicio de la comisión, los permisos extraordinarios de ingreso y portación temporal de armas respectivos, proporcionando para tal efecto la siguiente información:
+Párrafo reformado DOF 29-05-2025
+La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de tramitar ante la Secretaría, cuando menos con 15 días de anticipación al inicio de la comisión, los permisos extraordinarios de ingreso y portación temporal de armas respectivos, proporcionando para tal efecto la siguiente información:
 Párrafo reformado DOF 29-05-2025
 
 I. Copia del acuerdo interinstitucional a que se refiere el primer párrafo de este artículo;
@@ -258,15 +295,20 @@ VII. Opinión de la Secretaría de Gobernación o de la Secretaría de Hacienda 
 Dichos permisos tendrán una vigencia de 6 meses; en caso de que la comisión sea mayor a este período podrán renovarse semestralmente.
 Los servidores públicos extranjeros a que se refiere este artículo sólo podrán portar las armas que utilizan en su país de origen, como parte del equipamiento asignado por la institución a la que pertenecen, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático cuyo calibre no sea superior a .40” o equivalente.
 La Secretaría determinará en los permisos extraordinarios el arma autorizada, el local o la instalación en que será válida la portación y los demás límites o restricciones que sean aplicables.
-Párrafo reformado DOF 29-05-2025 La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría, respecto del cambio de local o instalación, así como la finalización de la comisión, para los efectos correspondientes.
-Párrafo reformado DOF 29-05-2025 En el caso de personas servidoras públicas mexicanas que, con base en el principio de reciprocidad y los acuerdos interinstitucionales a que se refiere el primer párrafo del presente artículo, participen en las actividades migratorias o aduaneras realizadas en instalaciones de países extranjeros, la Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría respecto de la salida y retorno de las armas que porten dichas personas servidoras públicas.
-Párrafo reformado DOF 29-05-2025 El personal y armamento considerado para prestar el apoyo en el extranjero deberá estar previamente incluido en la licencia oficial colectiva respectiva.
+Párrafo reformado DOF 29-05-2025
+La Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría, respecto del cambio de local o instalación, así como la finalización de la comisión, para los efectos correspondientes.
+Párrafo reformado DOF 29-05-2025
+En el caso de personas servidoras públicas mexicanas que, con base en el principio de reciprocidad y los acuerdos interinstitucionales a que se refiere el primer párrafo del presente artículo, participen en las actividades migratorias o aduaneras realizadas en instalaciones de países extranjeros, la Secretaría de Gobernación o la Secretaría de Hacienda y Crédito Público, según sea el caso, serán responsables de dar aviso a la Secretaría respecto de la salida y retorno de las armas que porten dichas personas servidoras públicas.
+Párrafo reformado DOF 29-05-2025
+El personal y armamento considerado para prestar el apoyo en el extranjero deberá estar previamente incluido en la licencia oficial colectiva respectiva.
 Artículo derogado DOF 31-12-1981. Adicionado DOF 22-05-2015
 
 ### Artículo 28
 Bis.- La Secretaría podrá otorgar, con base en el principio de reciprocidad, permisos extraordinarios de ingreso y portación temporal de armas a las personas servidoras públicas extranjeras que acompañen como agentes de seguridad, en visitas oficiales, a Jefes de Estado, jefes de gobierno, ministros o equivalentes, siempre que se trate de revólveres o pistolas de funcionamiento semiautomático, cuyo calibre no sea superior a .40” o equivalente.
-Párrafo reformado DOF 29-05-2025 En casos excepcionales, se podrá autorizar el ingreso y portación de otro tipo de armas, siempre que a juicio de la Secretaría se justifique la necesidad de su uso.
-Párrafo reformado DOF 29-05-2025 La Secretaría de Relaciones Exteriores será responsable de tramitar dichos permisos ante la Secretaría, cuando menos con quince días de anticipación al inicio de la visita y a solicitud del Estado o sujeto de derecho internacional correspondiente, proporcionando para tal efecto la siguiente información:
+Párrafo reformado DOF 29-05-2025
+En casos excepcionales, se podrá autorizar el ingreso y portación de otro tipo de armas, siempre que a juicio de la Secretaría se justifique la necesidad de su uso.
+Párrafo reformado DOF 29-05-2025
+La Secretaría de Relaciones Exteriores será responsable de tramitar dichos permisos ante la Secretaría, cuando menos con quince días de anticipación al inicio de la visita y a solicitud del Estado o sujeto de derecho internacional correspondiente, proporcionando para tal efecto la siguiente información:
 Párrafo reformado DOF 29-05-2025
 
 I. Nombres y fechas de nacimiento de los servidores públicos extranjeros que fungirán como agentes de seguridad;
@@ -281,23 +323,33 @@ Artículo adicionado DOF 22-05-2015
 
 ### Artículo 29
 .- La licencia oficial colectiva para la portación de armas puede expedirse a:
-Párrafo reformado DOF 29-05-2025 I.- Las instituciones policiales, y de procuración de justicia federales y estatales, así como a los organismos que, por sus funciones de carácter público, justifiquen su necesidad:
-Párrafo reformado DOF 29-05-2025 A. Se deroga.
-Apartado derogado DOF 29-05-2025 B. Las instituciones antes mencionadas deben cumplir con las disposiciones legales de orden federal o local que resulten aplicables:
+Párrafo reformado DOF 29-05-2025
+I.- Las instituciones policiales, y de procuración de justicia federales y estatales, así como a los organismos que, por sus funciones de carácter público, justifiquen su necesidad:
+Párrafo reformado DOF 29-05-2025
+A. Se deroga.
+Apartado derogado DOF 29-05-2025
+B. Las instituciones antes mencionadas deben cumplir con las disposiciones legales de orden federal o local que resulten aplicables:
 Párrafo reformado DOF 29-05-2025
 
 a) Se deroga.
 Inciso derogado DOF 29-05-2025
 
-b) En el caso de las instituciones policiales, la Secretaría de Seguridad y Protección Ciudadana es el conducto para solicitar a la Secretaría la expedición de licencia oficial colectiva, las cuales se deben solicitar para las personas que integren su organización operativa y que figuren en las nóminas de pago respectivas, las que deben resolver lo conducente en un plazo no mayor de sesenta días siguientes a la presentación de la solicitud ante la Secretaría de Seguridad y Protección Ciudadana, y Inciso reformado DOF 29-05-2025
+b) En el caso de las instituciones policiales, la Secretaría de Seguridad y Protección Ciudadana es el conducto para solicitar a la Secretaría la expedición de licencia oficial colectiva, las cuales se deben solicitar para las personas que integren su organización operativa y que figuren en las nóminas de pago respectivas, las que deben resolver lo conducente en un plazo no mayor de sesenta días siguientes a la presentación de la solicitud ante la Secretaría de Seguridad y Protección Ciudadana, y
+Inciso reformado DOF 29-05-2025
 
 c) Las instituciones policiales, y de procuración de justicia federales y estatales, así como a los organismos que, por sus funciones de carácter público, justifiquen su necesidad deben expedir a su personal operativo, inscrito en el registro que establezca la ley de la materia, credenciales foliadas de identificación personal, por lapsos de dos años, las cuales, durante su vigencia, se deben asimilar a licencias individuales.
-Inciso reformado DOF 29-05-2025 C. Los titulares de las licencias colectivas deben remitir periódicamente a las Secretarías de la Defensa Nacional y de Seguridad y Protección Ciudadana un informe de las armas que se encuentren en su poder, debidamente correlacionado con su estructura y organización operativa, señalando los folios de las credenciales y los datos del personal que las tuviera a su cargo.
-Apartado reformado DOF 29-05-2025 D. Las autoridades competentes se deben coordinar con los gobiernos de las entidades federativas para obtener, con oportunidad y exactitud, la información necesaria para el cumplimiento de esta Ley.
-Apartado reformado DOF 29-05-2025 E. La Secretaría debe inspeccionar periódicamente el armamento, solo para efectos de su control, sin tener autoridad alguna sobre el personal.
-Apartado reformado DOF 29-05-2025 II.- Se deroga.
-Fracción derogada DOF 29-05-2025 III.- Los elementos operativos de las licencias oficiales colectivas a que se refiere este artículo deben cumplir, además, con los requisitos establecidos en los cinco primeros numerales de la fracción I del artículo 26 de esta Ley.
-Fracción reformada DOF 29-05-2025 Artículo reformado DOF 23-12-1974, 08-02-1985, 21-12-1995
+Inciso reformado DOF 29-05-2025
+C. Los titulares de las licencias colectivas deben remitir periódicamente a las Secretarías de la Defensa Nacional y de Seguridad y Protección Ciudadana un informe de las armas que se encuentren en su poder, debidamente correlacionado con su estructura y organización operativa, señalando los folios de las credenciales y los datos del personal que las tuviera a su cargo.
+Apartado reformado DOF 29-05-2025
+D. Las autoridades competentes se deben coordinar con los gobiernos de las entidades federativas para obtener, con oportunidad y exactitud, la información necesaria para el cumplimiento de esta Ley.
+Apartado reformado DOF 29-05-2025
+E. La Secretaría debe inspeccionar periódicamente el armamento, solo para efectos de su control, sin tener autoridad alguna sobre el personal.
+Apartado reformado DOF 29-05-2025
+II.- Se deroga.
+Fracción derogada DOF 29-05-2025
+III.- Los elementos operativos de las licencias oficiales colectivas a que se refiere este artículo deben cumplir, además, con los requisitos establecidos en los cinco primeros numerales de la fracción I del artículo 26 de esta Ley.
+Fracción reformada DOF 29-05-2025
+Artículo reformado DOF 23-12-1974, 08-02-1985, 21-12-1995
 
 ### Artículo 30
 .- Corresponde a la Secretaría la expedición, negación, suspensión y cancelación de las licencias de portación de armas; así como su registro, control y vigilancia.
@@ -310,16 +362,20 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 31
 .- Las licencias de portación de armas son intransferibles. Se cancelarán, sin perjuicio de aplicar las sanciones que procedan, en los siguientes casos:
-Párrafo reformado DOF 29-05-2025 I.- Cuando sus poseedores hagan mal uso de las armas o de las licencias;
+Párrafo reformado DOF 29-05-2025
+I.- Cuando sus poseedores hagan mal uso de las armas o de las licencias;
 II.- Cuando sus poseedores alteren las licencias;
 III.- Cuando se usen las armas fuera de los lugares autorizados;
 IV.- Cuando se porte un arma distinta a la que ampara la licencia;
 V.- Cuando el arma amparada por la licencia se modifique en sus características originales;
 VI.- Cuando la expedición de la licencia se haya basado en engaño, o cuando a juicio de la Secretaría hayan desaparecido los motivos que se tuvieron en cuenta para otorgarla o que por causa superveniente se dejare de satisfacer algún otro requisito necesario para su expedición;
-Fracción reformada DOF 29-05-2025 VII.- Por resolución de autoridad competente;
+Fracción reformada DOF 29-05-2025
+VII.- Por resolución de autoridad competente;
 VIII.- Cuando sus poseedores cambien de domicilio sin manifestarlo a la Secretaría;
-Fracción reformada DOF 29-05-2025 IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría dictadas con base en esos Ordenamientos.
-Fracción reformada DOF 29-05-2025 La suspensión de las licencias de portación de armas procederá a juicio de la Secretaría conforme a los procedimientos establecidos en el Reglamento de esta Ley.
+Fracción reformada DOF 29-05-2025
+IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría dictadas con base en esos Ordenamientos.
+Fracción reformada DOF 29-05-2025
+La suspensión de las licencias de portación de armas procederá a juicio de la Secretaría conforme a los procedimientos establecidos en el Reglamento de esta Ley.
 Párrafo reformado DOF 29-05-2025
 
 ### Artículo 32
@@ -364,13 +420,18 @@ Artículo reformado DOF 21-12-1995, 29-05-2025
 
 ### Artículo 41
 .- Las disposiciones de este Título son aplicables a todas las actividades relacionadas con las armas, objetos y materiales que a continuación se mencionan:
-Párrafo reformado DOF 29-05-2025 I.- ARMAS a).- Todas las armas permitidas, que figuran en los artículos 9 y 10 de esta Ley;
-Inciso reformado DOF 29-05-2025 b).- Armas accionadas por gas, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
-Inciso reformado DOF 29-05-2025 c).- Cañones industriales; y d).- Las partes constitutivas de las armas anteriores.
+Párrafo reformado DOF 29-05-2025
+I.- ARMAS a).- Todas las armas permitidas, que figuran en los artículos 9 y 10 de esta Ley;
+Inciso reformado DOF 29-05-2025
+b).- Armas accionadas por gas, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
+Inciso reformado DOF 29-05-2025
+c).- Cañones industriales; y d).- Las partes constitutivas de las armas anteriores.
 II.- MUNICIONES a).- Municiones y sus partes constitutivas destinadas a las armas señaladas en la fracción anterior; b).- Los cartuchos empleados en las herramientas de fijación de anclas en la industria de la construcción y que para su funcionamiento usan pólvora.
 III.- POLVORAS Y EXPLOSIVOS a).- Pólvoras en todas sus composiciones; b).- Acido pícrico; c).- Dinitrotolueno; d).- Nitroalmidones; e).- Nitroglicerina; f).- Nitrocelulosa: Tipo fibrosa, humectada en alcohol, con una concentración de 12. 2% de nitrógeno como máximo y con 30% de solvente como mínimo. Tipo cúbica (densapastosa), con una concentración del 12. 2% de nitrógeno como máximo y hasta el 25% de solvente como mínimo; g).- Nitroguanidina; h).- Tetril; i).- Pentrita (P.E.T.N.) o Penta Eritrita Tetranitrada; j).- Trinitrotolueno; k).- Fulminato de mercurio; l).- Nitruros de plomo, plata y cobre; m).- Dinamitas y amatoles; n).- Estifanato de plomo; o).- Nitrocarbonitratos (explosivos al nitrato de amonio); p).- Ciclonita (R.D.X.). q).- En general, toda substancia, mezcla o compuesto con propiedades explosivas.
-Inciso adicionado DOF 08-02-1985 IV.- ARTIFICIOS a).- Iniciadores; b).- Detonadores; c).- Mechas de seguridad; d).- Cordones detonantes; e).- Pirotécnicos. f).- Cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos.
-Inciso adicionado DOF 08-02-1985 V.- SUBSTANCIAS QUIMICAS RELACIONADAS CON EXPLOSIVOS a).- Cloratos; b).- Percloratos; c).- Sodio metálico; d).- Magnesio en polvo; e).- Fósforo. f).- Todas aquellas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
+Inciso adicionado DOF 08-02-1985
+IV.- ARTIFICIOS a).- Iniciadores; b).- Detonadores; c).- Mechas de seguridad; d).- Cordones detonantes; e).- Pirotécnicos. f).- Cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos.
+Inciso adicionado DOF 08-02-1985
+V.- SUBSTANCIAS QUIMICAS RELACIONADAS CON EXPLOSIVOS a).- Cloratos; b).- Percloratos; c).- Sodio metálico; d).- Magnesio en polvo; e).- Fósforo. f).- Todas aquellas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
 Inciso adicionado DOF 08-02-1985
 
 ### Artículo 41
@@ -389,7 +450,8 @@ Artículo reformado DOF 08-02-1985, 29-05-2025
 ### Artículo 44
 .- Los permisos son intransferibles.
 Los generales tendrán vigencia durante el año en que se expidan, y pueden ser revalidados a juicio de la Secretaría.
-Párrafo reformado DOF 29-05-2025 Los ordinarios y extraordinarios tendrán la vigencia que se señale en cada caso concreto.
+Párrafo reformado DOF 29-05-2025
+Los ordinarios y extraordinarios tendrán la vigencia que se señale en cada caso concreto.
 Los permisos deben ser revalidados de conformidad con los plazos y requisitos que se establecen en esta Ley y su Reglamento. Las personas titulares de los permisos y los solicitantes por primera vez se deben ajustar a la calendarización establecida en el propio reglamento para ingresar las solicitudes correspondientes.
 Párrafo adicionado DOF 29-05-2025
 
@@ -408,7 +470,8 @@ Artículo derogado DOF 27-12-1993
 
 ### Artículo 47
 .- (Se deroga).
-Artículo derogado DOF 27-12-1993 CAPITULO II De las actividades y operaciones industriales y comerciales
+Artículo derogado DOF 27-12-1993
+CAPITULO II De las actividades y operaciones industriales y comerciales
 
 ### Artículo 48
 .- Los permisos generales para la fabricación, organización, reparación y actividades conexas respecto de las armas, objetos y materiales que señala este Título, incluyen la autorización para la compra de las partes o elementos que se requieran.
@@ -419,10 +482,14 @@ Artículo derogado DOF 29-05-2025
 
 ### Artículo 50
 .- La Secretaría, así como las personas físicas y morales con permiso general vigente, pueden vender únicamente en total por persona:
-Párrafo reformado DOF 29-05-2025 a).- Hasta 500 cartuchos calibre .22", con excepción de Magnum, Hornet y TCM.
-Inciso reformado DOF 29-05-2025 b).- Hasta 1,000 cartuchos para escopeta de las permitidas por esta Ley.
-Inciso reformado DOF 29-05-2025 c).- Se deroga.
-Inciso derogado DOF 29-05-2025 d).- Hasta 200 cartuchos como máximo, para las otras armas permitidas.
+Párrafo reformado DOF 29-05-2025
+a).- Hasta 500 cartuchos calibre .22", con excepción de Magnum, Hornet y TCM.
+Inciso reformado DOF 29-05-2025
+b).- Hasta 1,000 cartuchos para escopeta de las permitidas por esta Ley.
+Inciso reformado DOF 29-05-2025
+c).- Se deroga.
+Inciso derogado DOF 29-05-2025
+d).- Hasta 200 cartuchos como máximo, para las otras armas permitidas.
 Los periodos para comercialización de las cantidades de municiones son los siguientes: a).- Anualmente, para la protección de domicilio y parcela; b).- Trimestralmente, para actividades cinegéticas, y c).- Mensualmente, para tiro deportivo.
 Párrafo con incisos adicionado DOF 29-05-2025 Reforma DOF 29-05-2025: Derogó del artículo el entonces párrafo segundo
 
@@ -443,7 +510,8 @@ Artículo reformado DOF 29-05-2025
 
 ### Artículo 54
 .- Quienes carezcan de los permisos que señale el artículo 42 de esta Ley y que necesiten adquirir cualquier cantidad de pólvora, explosivo o artificios, deben obtener autorización en los términos de esta Ley y su Reglamento.
-Artículo reformado DOF 29-05-2025 CAPITULO III De la importación y exportación
+Artículo reformado DOF 29-05-2025
+CAPITULO III De la importación y exportación
 
 ### Artículo 55
 .- Las armas, objetos y materiales a que se refiere esta Ley que se importen al amparo de permisos ordinarios o extraordinarios, deberán destinarse precisamente al uso señalado en dichos permisos. Cualquier modificación, cambio o transformación que pretenda introducirse al destino señalado, requiere de nuevo permiso.
@@ -471,7 +539,8 @@ Artículo reformado DOF 08-02-1985
 
 ### Artículo 59
 Bis.- Las importaciones y exportaciones temporales de materiales regulados por la Secretaría con fines de exhibición, estudio, pruebas de funcionamiento, capacitación, mantenimiento o cualquier otro motivo justificado, deben contar con el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deben cumplir, conforme al Reglamento de esta Ley.
-Artículo adicionado DOF 29-05-2025 CAPITULO IV Del transporte
+Artículo adicionado DOF 29-05-2025
+CAPITULO IV Del transporte
 
 ### Artículo 60
 .- Los permisos generales para cualesquiera de las actividades reguladas en este Título, incluyen la autorización para el transporte dentro del territorio nacional, de las armas, objetos y materiales que amparen, pero sus tenedores deben sujetarse a las leyes, reglamentos y disposiciones relativos.
@@ -491,7 +560,8 @@ Artículo reformado DOF 29-05-2025
 
 ### Artículo 64
 .- Queda prohibido el envío de armas, partes, componentes y accesorios de las mismas, municiones y sus partes constitutivas, así como artificios, materiales explosivos y sustancias químicas relacionadas con estos, a través del Servicio Postal Mexicano o los servicios de mensajería y paquetería que operan en territorio nacional.
-Artículo reformado DOF 29-05-2025 CAPITULO V Del almacenamiento
+Artículo reformado DOF 29-05-2025
+CAPITULO V Del almacenamiento
 
 ### Artículo 65
 .- El almacenamiento de las armas, objetos y materiales aludidos en este Título, puede autorizarse como actividad complementaria del permiso general concedido, o como específico de personas o negociaciones.
@@ -503,7 +573,8 @@ Artículo reformado DOF 29-05-2025
 
 ### Artículo 67
 .- El almacenamiento de las armas, objetos y materiales a que se refiere este Título deben sujetarse a los requisitos, tablas de compatibilidad y distancia-cantidad que señale la Secretaría, así como a los requisitos establecidos en el Reglamento de esta Ley y normas oficiales mexicanas en la materia.
-Artículo reformado DOF 29-05-2025 CAPITULO VI Del control y vigilancia
+Artículo reformado DOF 29-05-2025
+CAPITULO VI Del control y vigilancia
 
 ### Artículo 68
 .- Quienes tengan permiso general, deben rendir a la Secretaría, dentro de los diez primeros días de cada mes, un informe detallado de sus actividades, en el que se especifique el movimiento ocurrido en el mes anterior.
@@ -544,27 +615,38 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 76
 .- Las personas titulares de permisos generales y licencias están obligadas a conservar, por el término de cinco años, toda la información, documentación y archivos electrónicos relacionados con dichos permisos y licencias.
-Artículo reformado DOF 29-05-2025 TITULO CUARTO Sanciones CAPITULO UNICO
+Artículo reformado DOF 29-05-2025
+TITULO CUARTO Sanciones CAPITULO UNICO
 
 ### Artículo 77
 .- Serán sancionadas con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización:
-Párrafo reformado DOF 29-05-2025 I.- Quienes posean armas sin haber hecho la manifestación de las mismas a la Secretaría;
+Párrafo reformado DOF 29-05-2025
+I.- Quienes posean armas sin haber hecho la manifestación de las mismas a la Secretaría;
 Fracción reformada DOF 29-05-2025
 
 II. Quienes posean armas, cartuchos o municiones en lugar no autorizado;
 
 III. Quienes infrinjan lo dispuesto en el artículo 36 de esta Ley. En este caso, además de la sanción, se asegurará el arma, y IV.- Las personas que posean o almacenen, sin el permiso correspondiente, una cantidad de municiones o cartuchos o sus partes constitutivas, menor o igual a la establecida en el artículo 50 de esta Ley;
-Fracción reformada DOF 29-05-2025 V.- Las personas que posean una o más armas sin el registro correspondiente, de las comprendidas en el artículo 9o. de esta Ley para efectos de seguridad y defensa legítima de sus moradores;
-Fracción adicionada DOF 29-05-2025 VI.- Las personas deportistas de tiro y cacería que posean una o más armas, de las comprendidas en el artículo 10 de esta Ley, que dejen de pertenecer a un club o asociación autorizado por la Secretaría y no se inscriban a otro en el plazo de treinta días;
-Fracción adicionada DOF 29-05-2025 VII.- Las personas que posean o porten municiones o cartuchos en calibres que no correspondan a las armas que tengan manifestadas en el Registro Federal de Armas de Fuego y Control de Explosivos, y Fracción adicionada DOF 29-05-2025 VIII.- Las personas que posean o porten cargadores o sus componentes para las armas comprendidas en los artículos 9o. y 10 de esta Ley, sin autorización correspondiente.
-Fracción adicionada DOF 29-05-2025 Para efectos de la imposición de las sanciones administrativas a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
+Fracción reformada DOF 29-05-2025
+V.- Las personas que posean una o más armas sin el registro correspondiente, de las comprendidas en el artículo 9o. de esta Ley para efectos de seguridad y defensa legítima de sus moradores;
+Fracción adicionada DOF 29-05-2025
+VI.- Las personas deportistas de tiro y cacería que posean una o más armas, de las comprendidas en el artículo 10 de esta Ley, que dejen de pertenecer a un club o asociación autorizado por la Secretaría y no se inscriban a otro en el plazo de treinta días;
+Fracción adicionada DOF 29-05-2025
+VII.- Las personas que posean o porten municiones o cartuchos en calibres que no correspondan a las armas que tengan manifestadas en el Registro Federal de Armas de Fuego y Control de Explosivos, y
+Fracción adicionada DOF 29-05-2025
+VIII.- Las personas que posean o porten cargadores o sus componentes para las armas comprendidas en los artículos 9o. y 10 de esta Ley, sin autorización correspondiente.
+Fracción adicionada DOF 29-05-2025
+Para efectos de la imposición de las sanciones administrativas a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
 Además de la sanción, se deben asegurar las armas, cargadores, accesorios, municiones, cartuchos y objetos relacionados con estos, a efecto de ponerlos a disposición de la autoridad competente, quien los debe remitir para su destino final a la Secretaría, de conformidad con la legislación aplicable.
-Párrafo adicionado DOF 29-05-2025 Artículo reformado DOF 08-02-1985, 22-07-1994, 24-12-1998
+Párrafo adicionado DOF 29-05-2025
+Artículo reformado DOF 08-02-1985, 22-07-1994, 24-12-1998
 
 ### Artículo 78
 .- La Secretaría, las demás autoridades federales, de las entidades federativas, de los municipios y de las alcaldías, que desempeñen funciones de seguridad pública deben asegurar, previa expedición obligatoria del recibo correspondiente, las armas a todas aquellas personas que las porten sin la licencia respectiva, así como a aquellas que, teniendo una licencia vigente, no la lleven consigo o hayan hecho mal uso de las armas.
-Párrafo reformado DOF 06-12-2022, 29-05-2025 El arma, municiones, cartuchos, cargadores y accesorios asegurados a la persona interesada, por no llevar consigo la licencia correspondiente, deben ser devueltos, previo pago de diez veces el valor diario de la Unidad de Medida y Actualización y la exhibición de la licencia por lo que se refiere al arma. El plazo para exhibir la licencia será de quince días hábiles.
-Párrafo reformado DOF 29-05-2025 Para los efectos del pago de la multa antes mencionada, se turnará la infracción, a la brevedad, a la autoridad fiscal federal correspondiente.
+Párrafo reformado DOF 06-12-2022, 29-05-2025
+El arma, municiones, cartuchos, cargadores y accesorios asegurados a la persona interesada, por no llevar consigo la licencia correspondiente, deben ser devueltos, previo pago de diez veces el valor diario de la Unidad de Medida y Actualización y la exhibición de la licencia por lo que se refiere al arma. El plazo para exhibir la licencia será de quince días hábiles.
+Párrafo reformado DOF 29-05-2025
+Para los efectos del pago de la multa antes mencionada, se turnará la infracción, a la brevedad, a la autoridad fiscal federal correspondiente.
 Artículo reformado DOF 08-02-1985, 21-12-1995
 
 ### Artículo 79
@@ -589,7 +671,8 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 81
 .- Se sancionará con penas de tres a ocho años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, a quien porte un arma de las comprendidas en los artículos 9o. y 10 de esta Ley sin tener expedida la licencia correspondiente.
-Párrafo reformado DOF 19-02-2021, 29-05-2025 En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
+Párrafo reformado DOF 19-02-2021, 29-05-2025
+En caso de que se porten dos o más armas, la pena correspondiente se aumentará hasta en dos terceras partes.
 Artículo reformado DOF 08-02-1985, 22-07-1994, 24-12-1998
 
 ### Artículo 81
@@ -623,7 +706,8 @@ I.- Prisión de seis a nueve años y multa de cien a trescientas veces el valor 
 Párrafo con fracciones reformado DOF 03-01-1989, 29-05-2025 En el caso de las armas permitidas, la posesión de más de cinco de las comprendidas en los artículos 9o. y 10 de esta Ley sin el permiso correspondiente, se sancionará con:
 I.- Prisión de uno a cuatro años y multa de diez a doscientas veces el valor diario de la Unidad de Medida y Actualización, si las armas están comprendidas en las fracciones I y II del artículo 9o. de esta Ley, y II.- Prisión de uno a siete años y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de cualquiera otra de las armas comprendidas en las fracciones del I a la VI del artículo 10 de esta Ley.
 Párrafo con fracciones adicionado DOF 29-05-2025 Para la aplicación de la sanción por delitos de portación o acopio de armas, el Juez deberá tomar en cuenta la actividad a que se dedica el autor, sus antecedentes y las circunstancias en que fue detenido.
-Reforma DOF 29-05-2025: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 08-02-1985
+Reforma DOF 29-05-2025: Derogó del artículo el entonces párrafo segundo
+Artículo adicionado DOF 08-02-1985
 
 ### Artículo 83
 Ter.- A la persona que, sin el permiso correspondiente, posea un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, o sus piezas o componentes, se le sancionará con:
@@ -636,14 +720,16 @@ Artículo adicionado DOF 24-12-1998. Artículo reformado DOF 05-11-2003, 23-01-2
 ### Artículo 83
 Quáter.- A la persona que, sin autorización posea, porte o transporte municiones o cartuchos en cantidades mayores a las establecidas en el artículo 50 de esta Ley, se le sancionará con:
 I.- Prisión de uno a cuatro años y multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los artículos 9o., 10 y 11 incisos a) y b) de esta Ley, y II.- Prisión de cuatro a siete años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de las armas comprendidas en los restantes incisos del artículo 11 de esta Ley.
-Fracción reformada DOF 19-02-2021 Artículo adicionado DOF 24-12-1998. Reformado (antes Artículo 83 Quat) DOF 29-05-2025
+Fracción reformada DOF 19-02-2021
+Artículo adicionado DOF 24-12-1998. Reformado (antes Artículo 83 Quat) DOF 29-05-2025
 
 ### Artículo 83
 Quinquies.- A la persona que, sin autorización posea, porte o transporte cargadores, así como cualquier otro accesorio para abastecer de municiones o cartuchos un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
 I.- Prisión de dos a cuatro años y multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de dos y hasta cinco cargadores u otros accesorios, y II.- Prisión de cuatro a ocho años y multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de más de cinco cargadores u otros accesorios.
 Las penas previstas en el presente artículo se deben imponer con independencia de aquellas que correspondan por la comisión de otros delitos.
 No se debe subsumir la pena que corresponda a los cargadores cuando se sancione la posesión o portación de arma, si el cargador no abastece el arma.
-Fracción reformada DOF 19-02-2021 Artículo adicionado DOF 12-11-2015. Reformado (antes Artículo 83 Quintus) DOF 29-05-2025
+Fracción reformada DOF 19-02-2021
+Artículo adicionado DOF 12-11-2015. Reformado (antes Artículo 83 Quintus) DOF 29-05-2025
 
 ### Artículo 83
 Sexies.- Se sancionará con prisión de cuatro a ocho años y multa de setecientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que emplee o distribuya ilícitamente:
@@ -689,9 +775,11 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 86
 .- Se impondrá una pena de cuatro a seis años de prisión y multa de diez a trescientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que sin el permiso respectivo:
-Párrafo reformado DOF 08-02-1985, 03-01-1989, 29-05-2025 I.- Compren explosivos, y II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
+Párrafo reformado DOF 08-02-1985, 03-01-1989, 29-05-2025
+I.- Compren explosivos, y II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
 La pena de prisión prevista en este artículo se aumentará entre un tercio y el doble cuando el transporte a que se refiere la fracción II sea de las armas señaladas en los incisos a) o b) del artículo 11 de esta Ley, o de sus piezas, componentes, cargadores, municiones o cartuchos que se utilicen para abastecerlas.
-Párrafo adicionado DOF 03-01-1989. Reformado DOF 29-05-2025 Si el transporte es de las armas comprendidas en el artículo 11 de esta Ley o de sus piezas o componentes, cargadores, así como las municiones o cartuchos para abastecerlas, excepto las mencionadas en sus incisos a), b) e i), la pena será de cinco a treinta años de prisión y multa de veinte a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Párrafo adicionado DOF 03-01-1989. Reformado DOF 29-05-2025
+Si el transporte es de las armas comprendidas en el artículo 11 de esta Ley o de sus piezas o componentes, cargadores, así como las municiones o cartuchos para abastecerlas, excepto las mencionadas en sus incisos a), b) e i), la pena será de cinco a treinta años de prisión y multa de veinte a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 Párrafo adicionado DOF 03-01-1989. Reformado DOF 29-05-2025
 
 ### Artículo 86
@@ -701,9 +789,12 @@ Artículo adicionado DOF 29-05-2025
 
 ### Artículo 87
 .- Se impondrá una pena de un mes a dos años de prisión y multa de dos a cien veces el valor diario de la Unidad de Medida y Actualización, a la persona que:
-Párrafo reformado DOF 08-02-1985, 29-05-2025 I.- Realice actividades reguladas por esta Ley al amparo de un permiso general, sin cumplir con las condiciones de seguridad a las que estén obligados de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable;
-Fracción reformada DOF 29-05-2025 II.- Remita armas, objetos y materiales que regula esta Ley, si el transporte se efectúa por conducto de empresas que no cuenten con los permisos de las Secretarías de la Defensa Nacional y de Infraestructura, Comunicaciones y Transportes;
-Fracción reformada DOF 29-05-2025 III.- Realicen el transporte a que se refiere la fracción anterior, y IV.- Enajene explosivos, artificios y substancias químicas relacionadas con explosivos, a negociaciones o personas que no tengan el permiso correspondiente de la Secretaría, tratándose de artificios pirotécnicos se sujetarán a la cantidad establecida por el Reglamento de esta Ley.
+Párrafo reformado DOF 08-02-1985, 29-05-2025
+I.- Realice actividades reguladas por esta Ley al amparo de un permiso general, sin cumplir con las condiciones de seguridad a las que estén obligados de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable;
+Fracción reformada DOF 29-05-2025
+II.- Remita armas, objetos y materiales que regula esta Ley, si el transporte se efectúa por conducto de empresas que no cuenten con los permisos de las Secretarías de la Defensa Nacional y de Infraestructura, Comunicaciones y Transportes;
+Fracción reformada DOF 29-05-2025
+III.- Realicen el transporte a que se refiere la fracción anterior, y IV.- Enajene explosivos, artificios y substancias químicas relacionadas con explosivos, a negociaciones o personas que no tengan el permiso correspondiente de la Secretaría, tratándose de artificios pirotécnicos se sujetarán a la cantidad establecida por el Reglamento de esta Ley.
 Fracción reformada DOF 29-05-2025
 
 ### Artículo 87
@@ -886,12 +977,12 @@ Se reforman los artículos 81, primer párrafo; 83 Ter, fracción II; 83 Quat, f
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Tercero.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+**Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Quinto.-** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Armas de Fuego y Explosivos, en Materia de Armonización Normativa con la denominación de la Ciudad de México.
@@ -899,7 +990,7 @@ Publicado en el Diario Oficial de la Federación el 6 de diciembre de 2022
 
 ### Artículo Único
 Se reforman los artículos 3o.; 5o., párrafo primero; 11, párrafo último; 18; 24, párrafo
-**tercero.** ; 52, párrafo primero y 78, párrafo primero de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: ……..
+**tercero.-** ; 52, párrafo primero y 78, párrafo primero de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: ……..
 
 ## Transitorio
 
@@ -922,9 +1013,9 @@ Publicado en el Diario Oficial de la Federación el 29 de mayo de 2025
 
 ### Artículo Único
 Se reforman los artículos 1; 2; 3; 4; 5; 7; 8; 9, actual primer párrafo, la fracción I, actual segundo párrafo de la fracción II, que pasa a ser tercer párrafo; 10, primer párrafo, fracciones II, V y VI; 11, primer párrafo, los incisos b), c), d), f), h), i), y los actuales penúltimo y último párrafos; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24, actuales segundo y tercer párrafos; 25; 26, primer párrafo, último párrafo de la fracción I, fracción II, inciso b y último párrafo; 27, segundo párrafo; 28, primero,
-**segundo.** , quinto, sexto y séptimo párrafos; 28 Bis, primero, segundo y tercer párrafos; 29, primer párrafo, fracción I, apartado B en su párrafo y los incisos b) y c), los apartados C, D y E, y la fracción III; 30, primer párrafo; 31, primer y último párrafo, y las fracciones VI, VIII y IX; 37; 40; 41, primer párrafo y, inciso b) de la fracción I; 43; 44, segundo párrafo; 45; 50, primer párrafo e incisos a) y b); 51; 52, primer y actual
-**segundo.** párrafos; 53; 54; 56; 57; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 71; 72; 73; 74; 76; 77, primer párrafo, fracciones I y IV; 78, primer y segundo párrafos; 79; 80; 81, primer párrafo; 82; 83, primer párrafo y fracciones I, II, III, segundo y tercer párrafos; 83 Bis, primer párrafo y fracciones I y II; 83 Ter, primer párrafo y fracciones I, II y III; 83 Quáter; 83 Quiquies; 84, primer párrafo, fracciones I, II y III; 84 Bis, primer párrafo; 84 Ter; 85; 85 Bis, primer párrafo, fracciones I, II y III; 86, primero, segundo y tercer párrafos; 87, primer párrafo, fracciones I, II y IV; 88, primer párrafo; 89; 90; 92; se adicionan un artículo 1 Bis; segundo párrafo al artículo 5; segundo párrafo al artículo 7; un artículo 8 Bis; párrafos primero,
-**cuarto.** , quinto, sexto y séptimo al artículo 9; la fracción VIII y el penúltimo párrafo, al artículo 10; los incisos m y n, al artículo 11; un artículo 11 Bis; un artículo 11 Ter; segundo párrafo al artículo 19; un artículo 20 Bis; párrafos cuarto y quinto al artículo 21; último párrafo Al artículo 26; un artículo 30 Bis; un artículo 34 Bis; un artículo 41 Bis; el último párrafo al artículo 44; un artículo 45 Bis; un segundo párrafo y los incisos a), b) y c) del artículo 50; el segundo párrafo al artículo 52; segundo párrafo al artículo 53; un artículo 55 Bis; un artículo 59 Bis; un segundo párrafo al artículo 72; 75 Bis; las fracciones V, VI, VII y VIII y un último párrafo al artículo 77; un artículo 80 Bis; un artículo 81 Bis; el artículo 82 Bis; fracción IV y el último párrafo al artículo 83; segundo párrafo y las fracciones I y II del artículo 83 Bis; se adiciona la fracción IV y el último párrafo del artículo 83 Ter; párrafos segundo y tercero del artículo 83 Quinquies; un artículo 83 Sexies; un artículo 83 Septies; la fracción IV al artículo 84; la fracción IV al artículo 85 Bis; un artículo 85 Ter; un artículo 86 Bis; los artículos 87 Bis; 87 Ter; 87 Quáter; y 87 Quinquies; segundo, tercer y cuarto párrafos al artículo 88; 89 Bis; se derogan las fracciones I, II, III y IV del artículo 2; el apartado A de la fracción I, el inciso a) del apartado B y la fracción II del artículo 29; el segundo párrafo del artículo 30; el artículo 32; el artículo 33; el artículo 49; el inciso c) del primer párrafo y último párrafo del artículo 50; el artículo 58; el penúltimo párrafo del artículo 83 Bis; el segundo párrafo del artículo 84 Bis; el artículo 91, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: …….
+**segundo.-** , quinto, sexto y séptimo párrafos; 28 Bis, primero, segundo y tercer párrafos; 29, primer párrafo, fracción I, apartado B en su párrafo y los incisos b) y c), los apartados C, D y E, y la fracción III; 30, primer párrafo; 31, primer y último párrafo, y las fracciones VI, VIII y IX; 37; 40; 41, primer párrafo y, inciso b) de la fracción I; 43; 44, segundo párrafo; 45; 50, primer párrafo e incisos a) y b); 51; 52, primer y actual
+**segundo.-** párrafos; 53; 54; 56; 57; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 71; 72; 73; 74; 76; 77, primer párrafo, fracciones I y IV; 78, primer y segundo párrafos; 79; 80; 81, primer párrafo; 82; 83, primer párrafo y fracciones I, II, III, segundo y tercer párrafos; 83 Bis, primer párrafo y fracciones I y II; 83 Ter, primer párrafo y fracciones I, II y III; 83 Quáter; 83 Quiquies; 84, primer párrafo, fracciones I, II y III; 84 Bis, primer párrafo; 84 Ter; 85; 85 Bis, primer párrafo, fracciones I, II y III; 86, primero, segundo y tercer párrafos; 87, primer párrafo, fracciones I, II y IV; 88, primer párrafo; 89; 90; 92; se adicionan un artículo 1 Bis; segundo párrafo al artículo 5; segundo párrafo al artículo 7; un artículo 8 Bis; párrafos primero,
+**cuarto.-** , quinto, sexto y séptimo al artículo 9; la fracción VIII y el penúltimo párrafo, al artículo 10; los incisos m y n, al artículo 11; un artículo 11 Bis; un artículo 11 Ter; segundo párrafo al artículo 19; un artículo 20 Bis; párrafos cuarto y quinto al artículo 21; último párrafo Al artículo 26; un artículo 30 Bis; un artículo 34 Bis; un artículo 41 Bis; el último párrafo al artículo 44; un artículo 45 Bis; un segundo párrafo y los incisos a), b) y c) del artículo 50; el segundo párrafo al artículo 52; segundo párrafo al artículo 53; un artículo 55 Bis; un artículo 59 Bis; un segundo párrafo al artículo 72; 75 Bis; las fracciones V, VI, VII y VIII y un último párrafo al artículo 77; un artículo 80 Bis; un artículo 81 Bis; el artículo 82 Bis; fracción IV y el último párrafo al artículo 83; segundo párrafo y las fracciones I y II del artículo 83 Bis; se adiciona la fracción IV y el último párrafo del artículo 83 Ter; párrafos segundo y tercero del artículo 83 Quinquies; un artículo 83 Sexies; un artículo 83 Septies; la fracción IV al artículo 84; la fracción IV al artículo 85 Bis; un artículo 85 Ter; un artículo 86 Bis; los artículos 87 Bis; 87 Ter; 87 Quáter; y 87 Quinquies; segundo, tercer y cuarto párrafos al artículo 88; 89 Bis; se derogan las fracciones I, II, III y IV del artículo 2; el apartado A de la fracción I, el inciso a) del apartado B y la fracción II del artículo 29; el segundo párrafo del artículo 30; el artículo 32; el artículo 33; el artículo 49; el inciso c) del primer párrafo y último párrafo del artículo 50; el artículo 58; el penúltimo párrafo del artículo 83 Bis; el segundo párrafo del artículo 84 Bis; el artículo 91, de la Ley Federal de Armas de Fuego y Explosivos, para quedar como sigue: …….
 
 ## Transitorios
 

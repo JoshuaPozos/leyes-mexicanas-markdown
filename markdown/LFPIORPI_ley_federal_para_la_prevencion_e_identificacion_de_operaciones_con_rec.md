@@ -16,6 +16,7 @@ Ley Federal para la Prevención e Identificación de Operaciones con Recursos de
 
 ## Capítulo I — Disposiciones Preliminares
 
+
 ### Artículo 1
 . La presente Ley es de orden e interés público y de observancia general en los Estados Unidos Mexicanos.
 
@@ -33,16 +34,20 @@ II. Avisos, a aquellos que deben presentarse en términos del artículo 17 de la
 III. Beneficiario Controlador, a la persona física o grupo de personas físicas que:
 Párrafo reformado DOF 16-07-2025
 
-a) Directamente o por medio de alguna persona Cliente o Usuaria obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o Inciso reformado DOF 16-07-2025
+a) Directamente o por medio de alguna persona Cliente o Usuaria obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o
+Inciso reformado DOF 16-07-2025
 
 b) Ejerce el control efectivo en última instancia de aquella persona moral que, en su carácter de Cliente o Usuaria, lleve a cabo actos u operaciones con quien realice una Actividad Vulnerable, así como las personas por cuenta de quienes celebra alguno de ellos.
-Párrafo reformado DOF 16-07-2025 Se entiende que una persona o grupo de personas controla de manera efectiva en última instancia a una persona moral cuando, a través de la titularidad de valores, por contrato o cualquier otro acto, en términos de las Reglas de Carácter General aplicables, puede:
+Párrafo reformado DOF 16-07-2025
+Se entiende que una persona o grupo de personas controla de manera efectiva en última instancia a una persona moral cuando, a través de la titularidad de valores, por contrato o cualquier otro acto, en términos de las Reglas de Carácter General aplicables, puede:
 Párrafo reformado DOF 16-07-2025
 
 i) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes; ii) Mantener la titularidad de los derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del veinticinco por ciento del capital social, o Subinciso reformado DOF 16-07-2025 iii) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la misma.
 Para efectos del Capítulo IV Bis de esta Ley, se entenderá como Beneficiario Controlador a quien tenga el control de una persona moral en términos del inciso b) anterior, aunque dicha persona moral no sea Cliente o Usuaria de alguien que realice Actividades Vulnerables o se lleven a cabo actos u operaciones con éstas a su nombre.
-Párrafo adicionado DOF 16-07-2025 Para efectos de esta Ley y demás disposiciones jurídicas aplicables, la definición de Beneficiario Controlador, es equiparable a beneficiario final y propietario real.
-Párrafo adicionado DOF 16-07-2025 III Bis. Cliente o Usuaria, a cualquier persona física o moral, así como fideicomisos que celebren actos u operaciones con quienes realicen Actividades Vulnerables;
+Párrafo adicionado DOF 16-07-2025
+Para efectos de esta Ley y demás disposiciones jurídicas aplicables, la definición de Beneficiario Controlador, es equiparable a beneficiario final y propietario real.
+Párrafo adicionado DOF 16-07-2025
+III Bis. Cliente o Usuaria, a cualquier persona física o moral, así como fideicomisos que celebren actos u operaciones con quienes realicen Actividades Vulnerables;
 Fracción adicionada DOF 16-07-2025
 
 IV. Delitos de Operaciones con Recursos de Procedencia Ilícita, a los tipificados en el Capítulo II IV Bis. Desarrollo Inmobiliario, al proyecto para la construcción de inmuebles o fraccionamiento de lotes, destinados a su venta o renta;
@@ -67,12 +72,16 @@ XI. Fiscalía, a la Fiscalía General de la República;
 Fracción reformada DOF 20-05-2021
 
 XII. Relación de negocios, a aquella establecida de manera formal y habitual entre quien realiza una Actividad Vulnerable y sus Clientes o Usuarias, excluyendo los actos u operaciones que se celebren ocasionalmente y la prestación de servicios de fe pública prevista en el artículo 17, fracción XII, de la Ley, sin perjuicio de lo que establezcan otras disposiciones legales y reglamentarias;
-Fracción reformada DOF 16-07-2025 XII Bis. Representante Encargada de Cumplimiento, a la persona designada ante la Secretaría en términos de lo establecido en el artículo 20 de esta Ley;
-Fracción adicionada DOF 16-07-2025 XII Ter. Riesgo, a la probabilidad de que las Actividades Vulnerables puedan ser utilizadas para llevar a cabo actos u operaciones a través de los cuales se pudiesen actualizar los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento;
+Fracción reformada DOF 16-07-2025
+XII Bis. Representante Encargada de Cumplimiento, a la persona designada ante la Secretaría en términos de lo establecido en el artículo 20 de esta Ley;
+Fracción adicionada DOF 16-07-2025
+XII Ter. Riesgo, a la probabilidad de que las Actividades Vulnerables puedan ser utilizadas para llevar a cabo actos u operaciones a través de los cuales se pudiesen actualizar los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento;
 Fracción adicionada DOF 16-07-2025
 
 XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público;
-Fracción reformada DOF 16-07-2025 XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y Fracción adicionada DOF 16-07-2025
+Fracción reformada DOF 16-07-2025
+XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y
+Fracción adicionada DOF 16-07-2025
 
 XIV. Unidad, a la Unidad Especializada en Investigación de Delitos Fiscales y Financieros de la Fiscalía.
 Fracción reformada DOF 20-05-2021, 16-07-2025
@@ -86,11 +95,13 @@ Fracción adicionada DOF 16-07-2025
 
 III. La Ley Federal de Procedimiento Administrativo;
 
-IV. La Ley General de Transparencia y Acceso a la Información Pública, y Fracción reformada DOF 16-07-2025
+IV. La Ley General de Transparencia y Acceso a la Información Pública, y
+Fracción reformada DOF 16-07-2025
 
 V. La Ley Federal de Protección de Datos Personales en Posesión de Particulares.
 
 ## Capítulo II — De las Autoridades
+
 
 ### Artículo 5
 . La Secretaría será la autoridad competente para aplicar e interpretar, en el ámbito Secretaría conforme a esta Ley.
@@ -125,7 +136,8 @@ Fracción adicionada DOF 16-07-2025
 X. Promover entre las Entidades Federativas la implementación coordinada de unidades especializadas en la recepción y análisis de información patrimonial, conforme a sus facultades, que contribuya a la prevención y detección de los Delitos de Operaciones con Recursos de Procedencia Ilícita, de las estructuras financieras de las organizaciones delictivas así como evitar el uso de los recursos para su financiamiento;
 Fracción adicionada DOF 16-07-2025
 
-XI. Fungir como enlace entre el Gobierno Federal y los países, jurisdicciones u organismos internacionales o intergubernamentales, respecto a las materias que estén relacionadas con el objeto de esta Ley y coordinará la implementación de los acuerdos que se adopten, y Fracción adicionada DOF 16-07-2025
+XI. Fungir como enlace entre el Gobierno Federal y los países, jurisdicciones u organismos internacionales o intergubernamentales, respecto a las materias que estén relacionadas con el objeto de esta Ley y coordinará la implementación de los acuerdos que se adopten, y
+Fracción adicionada DOF 16-07-2025
 
 XII. Las demás previstas en otras disposiciones de esta Ley y otros ordenamientos jurídicos aplicables.
 Fracción recorrida DOF 16-07-2025
@@ -207,7 +219,9 @@ c) Evitar que el sistema financiero sea utilizado para operaciones ilícitas.
 
 ## Capítulo III — De las Entidades Financieras y de las Actividades Vulnerables
 
+
 ## Sección Primera — De las Entidades Financieras
+
 
 ### Artículo 13
 . Para el cumplimiento del objeto de la presente Ley las Entidades Financieras se regirán por las disposiciones de la misma, así como por las Leyes que especialmente las regulan de acuerdo con sus actividades y operaciones específicas.
@@ -229,9 +243,11 @@ IV. Conservar, por al menos diez años, la información y documentación relativ
 
 ### Artículo 16
 . La supervisión, verificación y vigilancia del cumplimiento de las obligaciones a que se refiere esta Sección y las disposiciones de carácter general que emanen de las leyes que especialmente regulen a las Entidades Financieras se llevarán a cabo, según corresponda, por la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro.
-Párrafo reformado DOF 16-07-2025 Los órganos desconcentrados referidos en el párrafo anterior, en el ámbito de sus respectivas competencias, emitirán los criterios y políticas generales para supervisar a las Entidades Financieras respecto del cumplimiento de las obligaciones previstas en esta Sección. La Secretaría coadyuvará con dichos órganos desconcentrados para procurar la homologación de tales criterios y políticas.
+Párrafo reformado DOF 16-07-2025
+Los órganos desconcentrados referidos en el párrafo anterior, en el ámbito de sus respectivas competencias, emitirán los criterios y políticas generales para supervisar a las Entidades Financieras respecto del cumplimiento de las obligaciones previstas en esta Sección. La Secretaría coadyuvará con dichos órganos desconcentrados para procurar la homologación de tales criterios y políticas.
 
 ## Sección Segunda — De las Actividades Vulnerables
+
 
 ### Artículo 17
 . Para efectos de esta Ley se entenderán Actividades Vulnerables y, por tanto, objeto de identificación en términos del artículo siguiente, las que a continuación se enlistan:
@@ -261,7 +277,8 @@ Párrafo reformado DOF 16-07-2025
 
 V. La realización habitual o profesional de actividades de construcción o desarrollo de bienes inmuebles, así como de intermediación en la transmisión de la propiedad o constitución de derechos sobre dichos bienes, en los que se involucren operaciones de compra o venta de los propios bienes.
 Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA;
-Fracción reformada DOF 16-07-2025 V Bis. La recepción de recursos que se destinen para llevar a cabo un Desarrollo Inmobiliario cuya finalidad sea su venta o renta.
+Fracción reformada DOF 16-07-2025
+V Bis. La recepción de recursos que se destinen para llevar a cabo un Desarrollo Inmobiliario cuya finalidad sea su venta o renta.
 Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA;
 Fracción adicionada DOF 16-07-2025
 
@@ -317,7 +334,8 @@ Las operaciones previstas en este inciso, siempre serán objeto de aviso.
 Párrafo reformado DOF 16-07-2025
 
 d) La constitución o modificación de fideicomisos traslativos de dominio o de garantía, salvo los que se constituyan para garantizar algún crédito a favor de instituciones del sistema financiero u organismos públicos de vivienda.
-Serán objeto de Aviso ante la Secretaría cuando las operaciones se realicen por un monto igual o superior al equivalente a cuatro mil veces el valor diario de la UMA, y Inciso reformado DOF 16-07-2025
+Serán objeto de Aviso ante la Secretaría cuando las operaciones se realicen por un monto igual o superior al equivalente a cuatro mil veces el valor diario de la UMA, y
+Inciso reformado DOF 16-07-2025
 
 e) El otorgamiento de contratos de mutuo o crédito, con o sin garantía, en los que el acreedor no forme parte del sistema financiero o no sea un organismo público de vivienda.
 Las operaciones previstas en este inciso, siempre serán objeto de Aviso.
@@ -365,15 +383,19 @@ Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el
 Fracción reformada DOF 16-07-2025
 
 XVI. El ofrecimiento habitual y profesional de intercambio de activos virtuales por parte de sujetos distintos a las Entidades Financieras, que se lleven a cabo a través de plataformas electrónicas, digitales o similares, que administren u operen, facilitando o realizando operaciones de compra o venta de dichos activos propiedad de sus clientes o bien, provean medios para custodiar, almacenar, o transferir activos virtuales distintos a los reconocidos por el Banco de México en términos de la Ley para Regular las Instituciones de Tecnología Financiera, incluidas las operaciones que se realicen con ciudadanos mexicanos desde otra jurisdicción. Se entenderá como activo virtual toda representación de valor registrada electrónicamente y utilizada entre el público como medio de pago para todo tipo de actos jurídicos, cuya transferencia únicamente puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo denominado en moneda de curso legal o divisas.
-Párrafo reformado DOF 16-07-2025 Serán objeto de Aviso ante la Secretaría:
+Párrafo reformado DOF 16-07-2025
+Serán objeto de Aviso ante la Secretaría:
 
 a) Cuando el monto de la operación que realice cada Cliente o Usuario de quien realice la Actividad Vulnerable a que se refiere esta fracción sea por una cantidad igual o superior al equivalente a doscientas diez veces el valor diario de la UMA.
 
 b) Cuando las operaciones den lugar al cobro de una contraprestación por el servicio brindado, independientemente de su denominación, ésta sea por una cantidad igual o superior al equivalente a cuatro veces el valor diario de la UMA.
 Párrafo con incisos reformado DOF 16-07-2025 Quienes realicen las Actividades Vulnerables establecidas en esta fracción deberán obtener, mantener y poner a disposición de las autoridades competentes, la información precisa sobre las operaciones con activos virtuales del originante, del receptor y, en su caso, del Beneficiario Controlador, de conformidad con lo que dispongan las reglas de carácter general.
-Párrafo adicionado DOF 16-07-2025 En el evento de que el Banco de México reconozca en términos de la Ley para Regular las Instituciones de Tecnología Financiera activos virtuales, las personas que provean los medios a que se refiere esta fracción, deberán obtener las autorizaciones correspondientes en los plazos que señale dicho Banco de México en las disposiciones respectivas.
-Fracción adicionada DOF 09-03-2018 También se considerará que realizan las actividades vulnerables previstas en el presente artículo, quienes actúan por medio de fideicomisos o cualquier otra figura jurídica.
-Párrafo adicionado DOF 16-07-2025 Los actos u operaciones que se realicen por montos inferiores a los señalados en las fracciones anteriores no darán lugar a obligación alguna. No obstante, si una persona realiza actos u operaciones por una suma acumulada en un periodo de seis meses que supere los montos establecidos en cada supuesto para la formulación de Avisos, podrá ser considerada como operación sujeta a la obligación de presentar los mismos para los efectos de esta Ley.
+Párrafo adicionado DOF 16-07-2025
+En el evento de que el Banco de México reconozca en términos de la Ley para Regular las Instituciones de Tecnología Financiera activos virtuales, las personas que provean los medios a que se refiere esta fracción, deberán obtener las autorizaciones correspondientes en los plazos que señale dicho Banco de México en las disposiciones respectivas.
+Fracción adicionada DOF 09-03-2018
+También se considerará que realizan las actividades vulnerables previstas en el presente artículo, quienes actúan por medio de fideicomisos o cualquier otra figura jurídica.
+Párrafo adicionado DOF 16-07-2025
+Los actos u operaciones que se realicen por montos inferiores a los señalados en las fracciones anteriores no darán lugar a obligación alguna. No obstante, si una persona realiza actos u operaciones por una suma acumulada en un periodo de seis meses que supere los montos establecidos en cada supuesto para la formulación de Avisos, podrá ser considerada como operación sujeta a la obligación de presentar los mismos para los efectos de esta Ley.
 La Secretaría podrá determinar mediante disposiciones de carácter general, los casos y condiciones en que las Actividades sujetas a supervisión no deban ser objeto de Aviso, siempre que hayan sido realizadas por conducto del sistema financiero.
 
 ### Artículo 18
@@ -391,10 +413,12 @@ Fracción reformada DOF 16-07-2025
 
 IV. Custodiar, proteger, resguardar y evitar la destrucción u ocultamiento de la información y documentación que sirva de soporte a la Actividad Vulnerable, incluyendo los registros de las operaciones realizadas que permitan la reconstrucción de operaciones en lo individual, la correspondencia comercial que las partes involucradas se hubieran compartido para llevar a cabo la operación y los resultados de los análisis previos que se hayan realizado en su caso, así como la que identifique a las personas Clientes o Usuarias, en términos de las reglas de carácter general que emita la Secretaría.
 La información y documentación a que se refiere el párrafo anterior deberá conservarse de manera física o electrónica, en el domicilio registrado ante la Secretaría para este efecto, excepto para la fracción XIV del artículo 17 de esta Ley, por al menos un plazo de diez años contado a partir de la fecha de la realización de la Actividad Vulnerable, sin perjuicio de lo establecido en otros ordenamientos aplicables. Cuando se trate de información y documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se interrumpirá en la fecha de su presentación y se reiniciará hasta que la resolución definitiva que se emita quede firme;
-Fracción reformada DOF 16-07-2025 IV Bis. Realizar su alta y registro o, en su caso, modificación o baja del Padrón de personas que realizan Actividades Vulnerables, a través del Portal en Internet, de conformidad con lo Para realizar el alta y registro y sus actualizaciones, quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley deberán enviar la información, documentación, datos e imágenes a través de los medios electrónicos y en el formato oficial que para tales efectos determine la Secretaría, los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones;
+Fracción reformada DOF 16-07-2025
+IV Bis. Realizar su alta y registro o, en su caso, modificación o baja del Padrón de personas que realizan Actividades Vulnerables, a través del Portal en Internet, de conformidad con lo Para realizar el alta y registro y sus actualizaciones, quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley deberán enviar la información, documentación, datos e imágenes a través de los medios electrónicos y en el formato oficial que para tales efectos determine la Secretaría, los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones;
 Fracción adicionada DOF 16-07-2025
 
-V. Brindar las facilidades necesarias para que se lleven a cabo las visitas de verificación en los Fracción reformada DOF 16-07-2025
+V. Brindar las facilidades necesarias para que se lleven a cabo las visitas de verificación en los
+Fracción reformada DOF 16-07-2025
 
 VI. Presentar los Avisos e Informes ante la Secretaría conforme lo establecido en la presente Ley, así como en las reglas de carácter general.
 En caso de sospecha o de contar con información basada en hechos o indicios, de que los recursos relacionados con los actos u operaciones pudieran provenir o estar destinados a la comisión de los Delitos de Operaciones con Recursos de Procedencia Ilícita, deberán presentar Aviso dentro de las 24 horas siguientes en que tuvieron conocimiento de dicha información o se generó la sospecha, incluso si el acto u operación no se celebró, considerando las guías que para tal efecto emita la Secretaría, de conformidad con las reglas de carácter general correspondientes;
@@ -410,11 +434,13 @@ Fracción adicionada DOF 16-07-2025
 IX. Desarrollar procesos para la selección de personal, así como adoptar programas de capacitación anuales, dirigidos a quienes integran su órgano de administración o persona administradora única, directivas, personas representantes encargadas de cumplimiento y empleadas o empleados que tengan relación directa con las personas Clientes o Usuarias, según corresponda, que contemplen la difusión de la Ley y su normativa secundaria, así como del Manual de Políticas Internas señalado en la fracción VIII de este artículo, en términos de las reglas de carácter general que emita la Secretaría;
 Fracción adicionada DOF 16-07-2025
 
-X. Contar con mecanismos automatizados que les permitan llevar a cabo un monitoreo permanente de los actos u operaciones que realicen con las personas Clientes o Usuarias para identificar aquellas que no se encuentren dentro del perfil transaccional de las personas Clientes o Usuarias conforme a las reglas de carácter general que emita la Secretaría o que deban acumularse conforme al penúltimo párrafo del artículo 17 de la Ley. Dichos mecanismos también deben permitir dar un seguimiento intensificado a las personas Clientes o Usuarias que sean consideradas Personas Políticamente Expuestas o de alto Riesgo, conforme a lo dispuesto por la fracción IX del artículo 6 de la Ley o la evaluación que se realice en términos de la fracción VII de este artículo, y Fracción adicionada DOF 16-07-2025
+X. Contar con mecanismos automatizados que les permitan llevar a cabo un monitoreo permanente de los actos u operaciones que realicen con las personas Clientes o Usuarias para identificar aquellas que no se encuentren dentro del perfil transaccional de las personas Clientes o Usuarias conforme a las reglas de carácter general que emita la Secretaría o que deban acumularse conforme al penúltimo párrafo del artículo 17 de la Ley. Dichos mecanismos también deben permitir dar un seguimiento intensificado a las personas Clientes o Usuarias que sean consideradas Personas Políticamente Expuestas o de alto Riesgo, conforme a lo dispuesto por la fracción IX del artículo 6 de la Ley o la evaluación que se realice en términos de la fracción VII de este artículo, y
+Fracción adicionada DOF 16-07-2025
 
 XI. Contar con la revisión por parte del área de auditoría interna o de una persona auditora externa independiente cuando el riesgo de quien realiza la Actividad Vulnerable sea bajo o medio, o bien, de una persona auditora externa independiente cuando el riesgo de quien realiza la Actividad Vulnerable sea alto, según la evaluación realizada conforme a la fracción VII de este artículo, para evaluar y dictaminar en un año calendario la efectividad del cumplimiento de las obligaciones previstas en la Ley y demás disposiciones aplicables.
 Dichas auditorías se regularán en términos de las reglas de carácter general que emita la Secretaría.
-Fracción adicionada DOF 16-07-2025 La Secretaría, mediante acuerdos publicados en el Diario Oficial de la Federación, podrá establecer excepciones al cumplimiento de las obligaciones previstas en la presente Ley, su reglamento, reglas de carácter general y demás disposiciones legales de aplicación supletoria, en casos fortuitos o de fuerza mayor que afecten a quienes realizan las actividades consideradas vulnerables de la presente Sección.
+Fracción adicionada DOF 16-07-2025
+La Secretaría, mediante acuerdos publicados en el Diario Oficial de la Federación, podrá establecer excepciones al cumplimiento de las obligaciones previstas en la presente Ley, su reglamento, reglas de carácter general y demás disposiciones legales de aplicación supletoria, en casos fortuitos o de fuerza mayor que afecten a quienes realizan las actividades consideradas vulnerables de la presente Sección.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 19
@@ -444,6 +470,7 @@ Bis. La supervisión, verificación y vigilancia del cumplimiento de las obligac
 Artículo adicionado DOF 16-07-2025
 
 ## Sección Tercera
+
 Plazos y formas para la presentación de Avisos
 
 ### Artículo 23
@@ -453,11 +480,13 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 24
 . La presentación de los Avisos e Informes se llevará a cabo a través de los medios electrónicos y en los formatos oficiales que establezca la Secretaría, los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones.
-Párrafo reformado DOF 16-07-2025 Dichos Avisos contendrán respecto del acto u operación relacionados con la Actividad Vulnerable que se informe, lo siguiente:
+Párrafo reformado DOF 16-07-2025
+Dichos Avisos contendrán respecto del acto u operación relacionados con la Actividad Vulnerable que se informe, lo siguiente:
 
 I. Datos generales de quien realice la Actividad Vulnerable;
 
-II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona Beneficiario Controlador, así como la información sobre su actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y Fracción reformada DOF 16-07-2025
+II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona Beneficiario Controlador, así como la información sobre su actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y
+Fracción reformada DOF 16-07-2025
 
 III. Descripción general de la Actividad Vulnerable sobre la cual se dé Aviso.
 Las y los notarios públicos podrán cumplir las obligaciones de presentar los Avisos que señala el inciso a) del Apartado A de la fracción XII del artículo 17 de la Ley, únicamente cuando sean presentados a través de los medios que establezcan las disposiciones fiscales federales para enviar las declaraciones y avisos que en materia fiscal correspondan, siempre y cuando contengan la información que requiere el presente artículo.
@@ -468,6 +497,7 @@ Párrafo reformado DOF 16-07-2025
 Artículo reformado DOF 16-07-2025
 
 ## Sección Cuarta
+
 Avisos por Conducto de Entidades Colegiadas
 
 ### Artículo 26
@@ -511,11 +541,13 @@ La Entidad Colegiada no será responsable cuando el incumplimiento de las obliga
 
 ### Artículo 31
 . La Entidad Colegiada deberá de informar con cuando menos treinta días de anticipación, a sus integrantes y a la Secretaría, la intención de extinción, disolución o liquidación de la misma, o bien de su intención de dejar de actuar como intermediario entre sus integrantes y la Secretaría.
-Párrafo reformado DOF 16-07-2025 A partir de la extinción, disolución o liquidación, o bien de que deje de actuar como intermediario entre sus integrantes y la Secretaría, ésta ya no recibirá Avisos por conducto de la Entidad Colegiada de que se trate, por lo que sus integrantes deberán dar cumplimiento en forma individual y directa a las obligaciones que deriven de esta Ley.
+Párrafo reformado DOF 16-07-2025
+A partir de la extinción, disolución o liquidación, o bien de que deje de actuar como intermediario entre sus integrantes y la Secretaría, ésta ya no recibirá Avisos por conducto de la Entidad Colegiada de que se trate, por lo que sus integrantes deberán dar cumplimiento en forma individual y directa a las obligaciones que deriven de esta Ley.
 Previo a la liquidación, disolución o extinción de la Entidad Colegiada, o bien, a que deje de actuar como intermediario entre sus integrantes y la Secretaría, deberá devolver a sus integrantes la información y documentación que estos le hayan proporcionado para el cumplimiento de sus obligaciones.
 En aquellos casos en los que deje de tener vigencia el convenio celebrado con la Secretaría, la Entidad Colegiada deberá de proceder de conformidad con lo anteriormente señalado.
 
 ## Capítulo IV — Del Uso de Efectivo y Metales
+
 
 ### Artículo 32
 . Queda prohibido dar cumplimiento a obligaciones y, en general, liquidar o pagar, así como aceptar la liquidación o el pago, de actos u operaciones mediante el uso de monedas y billetes, en moneda nacional o divisas y Metales Preciosos, aun cuando la liquidación o el pago se realice en efectivo por conducto de una Entidad Financiera, en los supuestos siguientes:
@@ -540,10 +572,13 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 33
 . Las personas depositarias de Fe Pública, en los instrumentos en los que hagan constar cualquiera de los actos u operaciones a que se refiere el artículo anterior, deberán identificar la forma en la que se paguen las obligaciones que de ellos deriven cuando las operaciones tengan un valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA.
-Párrafo reformado DOF 16-07-2025 En caso de que el valor de la operación sea inferior a la cantidad antes referida y cuando el acto u operación haya sido total o parcialmente pagado con anterioridad a la firma del instrumento, bastará la declaración que bajo protesta de decir verdad hagan las personas Clientes o Usuarias.
-Párrafo reformado DOF 16-07-2025 En los casos distintos de los señalados en el párrafo anterior, los demás actos u operaciones a que se refieren las fracciones II a VII del artículo anterior deberán formalizarse mediante la expedición de los certificados, facturas o garantías que correspondan, o de cualquier otro documento en el que conste la operación, y se verificarán previa identificación de quienes realicen el acto u operación, así como, en su caso, del Beneficiario Controlador. En dichos documentos se deberá especificar la forma de pago y anexar el comprobante respectivo.
+Párrafo reformado DOF 16-07-2025
+En caso de que el valor de la operación sea inferior a la cantidad antes referida y cuando el acto u operación haya sido total o parcialmente pagado con anterioridad a la firma del instrumento, bastará la declaración que bajo protesta de decir verdad hagan las personas Clientes o Usuarias.
+Párrafo reformado DOF 16-07-2025
+En los casos distintos de los señalados en el párrafo anterior, los demás actos u operaciones a que se refieren las fracciones II a VII del artículo anterior deberán formalizarse mediante la expedición de los certificados, facturas o garantías que correspondan, o de cualquier otro documento en el que conste la operación, y se verificarán previa identificación de quienes realicen el acto u operación, así como, en su caso, del Beneficiario Controlador. En dichos documentos se deberá especificar la forma de pago y anexar el comprobante respectivo.
 
 ## Capítulo IV Bis — Del Beneficiario Controlador
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 33
@@ -561,6 +596,7 @@ Artículo adicionado DOF 16-07-2025
 
 ## Capítulo V — De las Visitas de Verificación
 
+
 ### Artículo 34
 . La Secretaría podrá comprobar, de oficio y en cualquier tiempo, el cumplimiento de las obligaciones previstas en esta Ley, mediante la práctica de visitas de verificación o requerimientos de información, documentación, datos e imágenes a quienes realicen las Actividades Vulnerables previstas en la Sección Segunda del Capítulo III de esta Ley, a las Entidades Colegiadas a que se refiere el artículo 26 de esta Ley o, en su caso, al órgano concentrador previsto en el penúltimo párrafo del artículo 27 de la misma.
 Las personas requeridas o visitadas deberán proporcionar exclusivamente la información, datos, imágenes y documentación soporte con que cuenten que esté directamente relacionada con las Actividades Vulnerables que realicen.
@@ -577,6 +613,7 @@ Artículo reformado DOF 16-07-2025
 . La Secretaría, para el ejercicio de las facultades que le confiere la presente Ley, en su caso, podrá solicitar el auxilio de la fuerza pública cuando las circunstancias así lo requieran. Los mandos de la fuerza pública deberán proporcionar el auxilio solicitado.
 
 ## Capítulo VI — De la Reserva y Manejo de Información
+
 
 ### Artículo 38
 . La información y documentación soporte de los Avisos, así como la identidad de quienes los hayan presentado y, en su caso, de las personas Representantes Encargadas del Cumplimiento designadas en términos del artículo 20 de la Ley y del representante de las Entidades Colegiadas a que se refiere el artículo 27, fracción IV, de este ordenamiento, se considera confidencial y reservada en términos de la Ley General de Transparencia y Acceso a la Información Pública.
@@ -631,12 +668,15 @@ En estos casos quienes reciban la información y los datos de parte de la Secret
 
 ### Artículo 50
 . Las personas servidoras públicas de la Secretaría, la Fiscalía y las personas que deban presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la Secretaría, se abstendrán de divulgarla o proporcionarla, bajo cualquier medio, a quien no esté expresamente autorizado en la misma.
-Párrafo reformado DOF 20-05-2021, 16-07-2025 Para que se pueda proporcionar información, documentación, datos e imágenes a las personas servidoras públicas de las entidades federativas, éstas deberán estar sujetas a obligaciones legales en materia de guarda, reserva y confidencialidad respecto de aquello que se les proporcione en términos de esta Ley y su inobservancia esté penalmente sancionada.
-Párrafo reformado DOF 16-07-2025 La violación a las reservas que esta Ley impone, será sancionada en los términos de las disposiciones legales aplicables.
+Párrafo reformado DOF 20-05-2021, 16-07-2025
+Para que se pueda proporcionar información, documentación, datos e imágenes a las personas servidoras públicas de las entidades federativas, éstas deberán estar sujetas a obligaciones legales en materia de guarda, reserva y confidencialidad respecto de aquello que se les proporcione en términos de esta Ley y su inobservancia esté penalmente sancionada.
+Párrafo reformado DOF 16-07-2025
+La violación a las reservas que esta Ley impone, será sancionada en los términos de las disposiciones legales aplicables.
 
 ### Artículo 51
 . Los administradores de los sistemas previstos en la Ley de Sistemas de Pagos, incluido el Banco de México; las personas morales o fideicomisos que tengan por objeto realizar procesos de compensación o transferencias de información de medios de pagos del sistema financiero, así como compensar y liquidar obligaciones derivadas de contratos bancarios, bursátiles o financieros, y las personas que emitan, administren, operen o presten servicios de tarjetas de crédito, débito, prepagadas de acceso a efectivo, de servicios, de pago electrónico y las demás que proporcionen servicios para tales fines, proporcionarán a la Secretaría la información y documentación a la que tengan acceso y que ésta les requiera por escrito, mismo que les deberá ser notificado en términos de la Ley Federal de Procedimiento Administrativo, para efectos de lo dispuesto en la presente Ley.
-Párrafo reformado DOF 16-07-2025 Las personas a que se refiere el párrafo anterior proporcionarán la información y documentación que se les requiera, dentro de los treinta días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+Párrafo reformado DOF 16-07-2025
+Las personas a que se refiere el párrafo anterior proporcionarán la información y documentación que se les requiera, dentro de los treinta días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 El intercambio de información a que haya lugar de acuerdo con el párrafo primero de este artículo, entre el Banco de México y la Secretaría, se hará conforme a los acuerdos que celebren, en los cuales podrán establecer criterios y mecanismos para el acceso a la información que el Banco de México deba proporcionar a la Secretaría conforme al presente artículo. La información que el Banco de México proporcione, quedará sujeta al mismo tratamiento que el aplicable tanto a los Avisos como a la respectiva información soporte, en términos de los artículos 39 y 42 de la presente Ley.
 Párrafo reformado DOF 16-07-2025
 
@@ -655,6 +695,7 @@ En caso de que las Entidades Financieras y quienes realicen Actividades Vulnerab
 Artículo adicionado DOF 16-07-2025
 
 ## Capítulo VII — De las Sanciones Administrativas
+
 
 ### Artículo 52
 . La Secretaría sancionará administrativamente a quienes infrinjan esta Ley, en los términos del presente Capítulo.
@@ -687,7 +728,8 @@ VII. Participen en cualquiera de los actos u operaciones prohibidos por el artí
 I. Se aplicará multa equivalente a doscientos y hasta dos mil veces el valor diario de la UMA en el caso de las fracciones I, II, III y IV del artículo 53 de esta Ley;
 Fracción reformada DOF 16-07-2025
 
-II. Se aplicará multa equivalente a dos mil y hasta diez mil veces el valor diario de la UMA en el caso de la fracción V del artículo 53 de esta Ley, y Fracción reformada DOF 16-07-2025
+II. Se aplicará multa equivalente a dos mil y hasta diez mil veces el valor diario de la UMA en el caso de la fracción V del artículo 53 de esta Ley, y
+Fracción reformada DOF 16-07-2025
 
 III. Se aplicará multa equivalente a diez mil y hasta sesenta y cinco mil veces el valor diario de la UMA, o del diez al cien por ciento del valor del acto u operación, cuando sean cuantificables en dinero, la que resulte mayor en el caso de las fracciones VI y VII del artículo 53 de esta Ley.
 Fracción reformada DOF 16-07-2025
@@ -717,7 +759,8 @@ Una vez que haya quedado firme la sanción impuesta por la Secretaría, ésta in
 
 ### Artículo 58
 . Cuando la Secretaría determine que una persona notaria o corredora Pública ha incurrido en notorias deficiencias relacionadas con el cumplimiento de esta Ley, informará a la autoridad competente para supervisar el ejercicio de la fe pública, a efecto de que instaure el procedimiento sancionador correspondiente.
-Párrafo reformado DOF 16-07-2025 Para efectos de lo dispuesto en el párrafo anterior, se consideran notorias deficiencias:
+Párrafo reformado DOF 16-07-2025
+Para efectos de lo dispuesto en el párrafo anterior, se consideran notorias deficiencias:
 Párrafo adicionado DOF 16-07-2025
 
 I. La reincidencia en la violación de lo dispuesto en el artículo 53, en sus fracciones I, II, III, IV y V, y
@@ -751,23 +794,28 @@ Artículo reformado DOF 16-07-2025
 
 ## Capítulo VIII — De los Delitos
 
+
 ### Artículo 62
 . Se sancionará con prisión de dos a ocho años y con quinientos a dos mil días multa
 
 I. Proporcione a quienes deban dar Avisos, información, documentación, datos o imágenes que sean falsos, para ser incorporados en aquellos que deban presentarse;
 Fracción reformada DOF 16-07-2025
 
-II. Modifique o altere información, documentación, datos o imágenes destinados a ser incorporados a los Avisos o desahogos de los requerimientos de información que le formule la Secretaría en términos de lo dispuesto en esta Ley, o incorporados en avisos presentados, o Fracción reformada DOF 16-07-2025
+II. Modifique o altere información, documentación, datos o imágenes destinados a ser incorporados a los Avisos o desahogos de los requerimientos de información que le formule la Secretaría en términos de lo dispuesto en esta Ley, o incorporados en avisos presentados, o
+Fracción reformada DOF 16-07-2025
 
 III. Incorpore a los avisos o al desahogo de requerimientos que le formule la Secretaría en términos de lo dispuesto en esta Ley, información, documentación, datos o imágenes ilegibles que impidan el conocimiento efectivo de su contenido.
-Fracción adicionada DOF 16-07-2025 Los delitos previstos en este artículo admitirán la comisión culposa.
-Párrafo adicionado DOF 16-07-2025 La comisión culposa de estos delitos, cuando medie un error de tipo vencible y éste sea corregido de manera espontánea antes de que la autoridad tome conocimiento del delito, no será sancionada.
+Fracción adicionada DOF 16-07-2025
+Los delitos previstos en este artículo admitirán la comisión culposa.
+Párrafo adicionado DOF 16-07-2025
+La comisión culposa de estos delitos, cuando medie un error de tipo vencible y éste sea corregido de manera espontánea antes de que la autoridad tome conocimiento del delito, no será sancionada.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 63
 . Se sancionará con prisión de cuatro a diez años y con quinientos a dos mil días multa
 
-I. Al servidor público de alguna de las dependencias o entidades de la administración pública federal, del Poder Judicial de la Federación o de los órganos constitucionales autónomos que indebidamente utilice la información, datos, documentación o imágenes a las que tenga acceso o reciban con motivo de esta Ley, o que transgreda lo dispuesto por el Capítulo VI de la misma, en materia de la reserva y el manejo de información, y Fracción reformada DOF 20-05-2021
+I. Al servidor público de alguna de las dependencias o entidades de la administración pública federal, del Poder Judicial de la Federación o de los órganos constitucionales autónomos que indebidamente utilice la información, datos, documentación o imágenes a las que tenga acceso o reciban con motivo de esta Ley, o que transgreda lo dispuesto por el Capítulo VI de la misma, en materia de la reserva y el manejo de información, y
+Fracción reformada DOF 20-05-2021
 
 II. A quien, sin contar con autorización de la autoridad competente, revele o divulgue, por cualquier medio, información en la que se vincule a una persona física o moral o servidor público con cualquier Aviso o requerimiento de información hecho entre autoridades, en relación con algún acto u operación relacionada con las Actividades Vulnerables, independientemente de que el Aviso exista o no.
 
@@ -781,14 +829,14 @@ En el caso previsto en la fracción II del artículo 63 se procederá indistinta
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor a los nueve meses siguientes al día de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los treinta días siguientes a la entrada en vigor de esta Ley.
-**Tercero.** Los Avisos que deban presentarse por quienes realicen Actividades Vulnerables en términos de la Sección Primera del Capítulo III de esta Ley, se continuarán presentando en los términos previstos en las leyes y disposiciones generales que específicamente les apliquen.
-**Cuarto.** Las Actividades Vulnerables a que se refiere la Sección Segunda del Capítulo III de la Ley, que se hayan celebrado con anterioridad a la entrada en vigor de la misma, se regirán por las disposiciones jurídicas aplicables y vigentes al momento en que ello hubiere ocurrido.
+**Primero.-** La presente Ley entrará en vigor a los nueve meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los treinta días siguientes a la entrada en vigor de esta Ley.
+**Tercero.-** Los Avisos que deban presentarse por quienes realicen Actividades Vulnerables en términos de la Sección Primera del Capítulo III de esta Ley, se continuarán presentando en los términos previstos en las leyes y disposiciones generales que específicamente les apliquen.
+**Cuarto.-** Las Actividades Vulnerables a que se refiere la Sección Segunda del Capítulo III de la Ley, que se hayan celebrado con anterioridad a la entrada en vigor de la misma, se regirán por las disposiciones jurídicas aplicables y vigentes al momento en que ello hubiere ocurrido.
 La presentación de los Avisos en términos de las Secciones Segunda y Tercera del Capítulo III de la presente Ley se llevará a cabo, por primera vez, a la entrada en vigor del Reglamento de esta Ley; tales Avisos contendrán la información referente a los actos u operaciones relacionados con Actividades Vulnerables celebrados a partir de la fecha de entrada en vigor del citado Reglamento.
-**Quinto.** Las disposiciones relativas a la obligación de presentar Avisos, así como las restricciones al efectivo, entrarán en vigor a los sesenta días siguientes a la entrada en vigor del Reglamento de esta Ley.
-**Sexto.** Los convenios para el intercambio de información y acceso a bases de datos de los organismos autónomos, entidades federativas y municipios que establece esta Ley, deberán otorgarse entre las autoridades federales y aquéllos, en un plazo perentorio de seis meses contados a partir de la entrada en vigor.
-**Séptimo.** Se derogan todos los preceptos legales que se opongan a la presente Ley.
+**Quinto.-** Las disposiciones relativas a la obligación de presentar Avisos, así como las restricciones al efectivo, entrarán en vigor a los sesenta días siguientes a la entrada en vigor del Reglamento de esta Ley.
+**Sexto.-** Los convenios para el intercambio de información y acceso a bases de datos de los organismos autónomos, entidades federativas y municipios que establece esta Ley, deberán otorgarse entre las autoridades federales y aquéllos, en un plazo perentorio de seis meses contados a partir de la entrada en vigor.
+**Séptimo.-** Se derogan todos los preceptos legales que se opongan a la presente Ley.
 México, D.F., a 11 de octubre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnología Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
@@ -809,60 +857,59 @@ Se reforman las fracciones XI y XIV, del artículo 3; el artículo 7; las fracci
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Primero
 Se reforman el artículo 2; la fracción III, su inciso a), los párrafos primero,
-**segundo.** y subinciso ii) del inciso b), la fracción VI, la fracción XII, la fracción XIII y la fracción XIV, del artículo 3; la fracción IV del artículo 4; el artículo 5; la fracción VII del artículo 6; la fracción IV del artículo 8; el primer párrafo del artículo 9; el artículo 11; la fracción I del artículo 15; el párrafo primero del artículo 16; la fracción I; la fracción II; el párrafo segundo de la fracción III; el párrafo segundo de la fracción IV; la fracción V; la fracción VI; la fracción VII; la fracción VIII, la fracción IX; el párrafo segundo de la fracción X; el párrafo primero, el segundo párrafo del inciso a), el párrafo segundo del inciso c), el inciso d), del apartado A, el párrafo primero y los incisos a) y c) del apartado B, de la fracción XII; la fracción XIII, párrafo primero e incisos d) y e) de la fracción XIV; la fracción XV; párrafos primero y segundo de la fracción XVI, del artículo 17; Las fracciones I, II, III, IV, V y VI del artículo 18; el artículo 20; el segundo párrafo del artículo 21; el artículo 22; el artículo 23; el primer párrafo, la fracción II y el tercer párrafo del artículo 24; el artículo 25; el artículo 26; el tercer párrafo del artículo 27; el primer párrafo del artículo 31; el primer párrafo y las fracciones I a VII del artículo 32; el primer y segundo párrafos del artículo 33; el artículo 34; el artículo 35; el artículo 38; el artículo 40; el artículo 45; el artículo 47; los párrafos primero y
-**segundo.** del artículo 50; los párrafos primero y tercero del artículo 51; el segundo párrafo de la fracción III y la fracción V del artículo 53; las fracciones I a III del artículo 54; el artículo 55; el artículo 56; el artículo 58; el párrafo primero del artículo 59; el artículo 61, y el artículo 62; Se adicionan los párrafos tercero y
-**cuarto.** a la fracción III, la fracción III Bis, la fracción IV Bis, la fracción IX Bis, la fracción XII Bis, la fracción XII Ter y la fracción XIII Bis al artículo 3; la fracción II Bis al artículo 4; las fracciones I Bis, VIII, IX, X y XI, recorriendo en su numeración el texto de la actual fracción VIII para quedar como fracción XII, al artículo 6; la fracción V Bis, un apartado D a la fracción XII, tercer párrafo de la fracción XVI recorriendo en su orden el texto del actual tercer párrafo para quedar como cuarto párrafo y un segundo párrafo recorriendo en su orden el texto de los actuales segundo y tercer párrafos para quedar como tercero y cuarto párrafos del artículo 17; las fracciones IV Bis, VII a la XI y un segundo párrafo al artículo 18; un tercer párrafo al artículo 19; el artículo 22 Bis; la fracción VIII y el segundo párrafo al artículo 32; el Capítulo IV Bis, compuesto por los artículos 33 Bis, 33 Ter y 33 Quáter; el artículo 41 Bis; el artículo 51 Bis; el artículo 51 Ter; el artículo 54 Bis, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……….
+**segundo.-** y subinciso ii) del inciso b), la fracción VI, la fracción XII, la fracción XIII y la fracción XIV, del artículo 3; la fracción IV del artículo 4; el artículo 5; la fracción VII del artículo 6; la fracción IV del artículo 8; el primer párrafo del artículo 9; el artículo 11; la fracción I del artículo 15; el párrafo primero del artículo 16; la fracción I; la fracción II; el párrafo segundo de la fracción III; el párrafo segundo de la fracción IV; la fracción V; la fracción VI; la fracción VII; la fracción VIII, la fracción IX; el párrafo segundo de la fracción X; el párrafo primero, el segundo párrafo del inciso a), el párrafo segundo del inciso c), el inciso d), del apartado A, el párrafo primero y los incisos a) y c) del apartado B, de la fracción XII; la fracción XIII, párrafo primero e incisos d) y e) de la fracción XIV; la fracción XV; párrafos primero y segundo de la fracción XVI, del artículo 17; Las fracciones I, II, III, IV, V y VI del artículo 18; el artículo 20; el segundo párrafo del artículo 21; el artículo 22; el artículo 23; el primer párrafo, la fracción II y el tercer párrafo del artículo 24; el artículo 25; el artículo 26; el tercer párrafo del artículo 27; el primer párrafo del artículo 31; el primer párrafo y las fracciones I a VII del artículo 32; el primer y segundo párrafos del artículo 33; el artículo 34; el artículo 35; el artículo 38; el artículo 40; el artículo 45; el artículo 47; los párrafos primero y
+**segundo.-** del artículo 50; los párrafos primero y tercero del artículo 51; el segundo párrafo de la fracción III y la fracción V del artículo 53; las fracciones I a III del artículo 54; el artículo 55; el artículo 56; el artículo 58; el párrafo primero del artículo 59; el artículo 61, y el artículo 62; Se adicionan los párrafos tercero y
+**cuarto.-** a la fracción III, la fracción III Bis, la fracción IV Bis, la fracción IX Bis, la fracción XII Bis, la fracción XII Ter y la fracción XIII Bis al artículo 3; la fracción II Bis al artículo 4; las fracciones I Bis, VIII, IX, X y XI, recorriendo en su numeración el texto de la actual fracción VIII para quedar como fracción XII, al artículo 6; la fracción V Bis, un apartado D a la fracción XII, tercer párrafo de la fracción XVI recorriendo en su orden el texto del actual tercer párrafo para quedar como cuarto párrafo y un segundo párrafo recorriendo en su orden el texto de los actuales segundo y tercer párrafos para quedar como tercero y cuarto párrafos del artículo 17; las fracciones IV Bis, VII a la XI y un segundo párrafo al artículo 18; un tercer párrafo al artículo 19; el artículo 22 Bis; la fracción VIII y el segundo párrafo al artículo 32; el Capítulo IV Bis, compuesto por los artículos 33 Bis, 33 Ter y 33 Quáter; el artículo 41 Bis; el artículo 51 Bis; el artículo 51 Ter; el artículo 54 Bis, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, para quedar como sigue: ……….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
-**Segundo.** La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
+**Segundo.-** La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
 El periodo anual a que se refieren las fracciones IX y XI del artículo 18 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita para desarrollar programas de capacitación y contar con una auditoría respectivamente, se entenderá por año calendario por lo que el primer periodo iniciará el 1 de enero del año siguiente a aquel en que se publique el presente Decreto y concluirá el 31 de diciembre del mismo año.
 Tratándose del primer año de operaciones de quienes realicen Actividades Vulnerables, el periodo comprenderá desde la fecha en que inicien operaciones como Actividad Vulnerable y hasta el 31 de diciembre del siguiente año.
-**Tercero.** Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
-**Cuarto.** Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
-
+**Tercero.-** Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
+**Cuarto.-** Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
 I. Un programa de capacitación y orientación dirigido a las asociaciones y sociedades sin fines de lucro, para el correcto cumplimiento de las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma.
 
 II. Las medidas simplificadas de cumplimiento de las obligaciones de las asociaciones y sociedades sin fines de lucro, de acuerdo con el nivel de riesgo que representen, de conformidad con las disposiciones reglamentarias, a efecto de armonizar la debida aplicación de la ley con la protección del espacio cívico y el derecho a la libertad de asociación.
-**Quinto.** Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
-**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Quinto.-** Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

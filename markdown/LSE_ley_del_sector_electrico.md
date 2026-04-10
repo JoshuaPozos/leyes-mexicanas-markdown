@@ -18,7 +18,9 @@ Se expide la Ley del Sector Eléctrico, para quedar como sigue:
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I — Del Objeto y finalidad de la Ley
+
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de los artículos 25, párrafos cuarto y quinto; 27, párrafo sexto y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, de orden público e interés social y tiene por objeto regular la planeación y el control del Sistema Eléctrico Nacional, el Servicio Público de Transmisión y Distribución de Energía Eléctrica, así como las demás actividades del sector eléctrico.
@@ -307,6 +309,7 @@ Cuando, la separación legal sea insuficiente para fomentar la operación eficie
 
 ## Capítulo II — De las Autoridades
 
+
 ### Artículo 10
 .- A la Secretaría le corresponde:
 
@@ -511,7 +514,9 @@ L. Interpretar para efectos administrativos la presente Ley en el ámbito de sus
 
 ## TÍTULO SEGUNDO — DE LA PLANEACIÓN, CONTROL Y PREVALENCIA DEL ESTADO
 
+
 ## Capítulo Único — De la Planeación y el Control del Sistema Eléctrico Nacional
+
 
 ### Artículo 12
 .- La planeación del sector eléctrico tiene carácter vinculante y está a cargo de la Secretaría, autoridad que debe elaborar el Plan de Desarrollo del Sector Eléctrico, en términos de esta Ley y la Ley de Planeación y Transición Energética. La planeación vinculante, en el sector eléctrico, debe considerar los siguientes principios:
@@ -556,7 +561,9 @@ IV. Incorporar mecanismos para conocer la opinión de los Participantes del Merc
 
 ## TÍTULO TERCERO — DE LA GENERACIÓN DE ENERGÍA ELÉCTRICA
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 16
 .- La generación de energía eléctrica en Centrales Eléctricas puede ser realizada por el Estado, los particulares por sí mismos o en conjunto en esquemas de inversión mixta, en los términos establecidos en la presente Ley.
@@ -606,6 +613,7 @@ Las Generadoras Exentas también pueden vender energía eléctrica y Productos A
 
 ## Capítulo II — De la Generación Distribuida
 
+
 ### Artículo 25
 .- La Generación Distribuida es una modalidad de generación de electricidad en Centrales Eléctricas con capacidad menor a 0.7 MW, que se encuentra interconectada en un circuito de distribución que contiene una alta concentración de Centros de Carga en términos de las Reglas de Mercado, de las disposiciones administrativas de carácter general aplicables y es una Generadora Exenta.
 La energía eléctrica y Productos Asociados pueden ser destinados para uso propio o su venta en los términos de la presente Ley.
@@ -639,6 +647,7 @@ Estas contraprestaciones, en ningún caso, deben contener subsidios no autorizad
 
 ## Capítulo III — Del Autoconsumo
 
+
 ### Artículo 30
 .- Se considera autoconsumo a la producción de una Central Eléctrica con capacidad igual o mayor a 0.7 MW que es destinada para satisfacer las necesidades propias en sitio de la persona titular del permiso de generación vigente, en los términos establecidos en esta Ley.
 El autoconsumo interconectado en Centrales Eléctricas cuya capacidad sea entre 0.7 y 20 MW pueden tener un trámite simplificado para la obtención del permiso de generación de acuerdo con los lineamientos que para tal efecto emita la CNE.
@@ -671,6 +680,7 @@ En la modalidad de autoconsumo interconectado no aplica la separación legal, ni
 
 ## Capítulo IV — De la Generación para el Mercado Eléctrico Mayorista
 
+
 ### Artículo 35
 .- Se considera generación para el mercado eléctrico a la producción de energía eléctrica y Productos asociados de una Central Eléctrica con capacidad igual o mayor a 0.7 MW que es destinada para su comercialización a través de los mecanismos contemplados en el Mercado Eléctrico Mayorista, en los términos establecidos en esta Ley.
 
@@ -689,6 +699,7 @@ III. Sujetar el mantenimiento de sus Centrales Eléctricas a la coordinación y 
 IV. Notificar al CENACE los retiros programados de sus Centrales Eléctricas.
 
 ## Capítulo V — De los Esquemas para el Desarrollo Mixto
+
 
 ### Artículo 38
 .- Las Centrales Eléctricas que se desarrollen de manera conjunta entre el Estado y los particulares, lo deben hacer a través de los siguientes esquemas:
@@ -727,6 +738,7 @@ III. Las Centrales Eléctricas que sean objeto de contratos celebrados en esta m
 
 ## Capítulo VI — De la Modalidad de Cogeneración
 
+
 ### Artículo 41
 .- El permiso de generación de electricidad puede tener la modalidad de cogeneración cuando la producción de energía eléctrica:
 
@@ -750,7 +762,9 @@ III. Cualquier otra que establezca el Reglamento o las disposiciones administrat
 
 ## TÍTULO CUARTO — DE LA TRANSMISIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA
 
+
 ## Capítulo Único — De la Transmisión y Distribución de Energía Eléctrica
+
 
 ### Artículo 44
 .- La Transportista y la Distribuidora son responsables de la Red Nacional de Transmisión y las Redes Generales de Distribución, respectivamente, y operan sus redes conforme a las instrucciones del CENACE, quien debe priorizar el uso de estas redes para garantizar la Confiabilidad del Sistema Eléctrico Nacional.
@@ -872,7 +886,9 @@ En su defecto, y previa solicitud del propietario y la no objeción del CENACE, 
 
 ## TÍTULO QUINTO — DE LA COMERCIALIZACIÓN DE ENERGÍA ELÉCTRICA
 
+
 ## Capítulo Único
+
 Comercialización de Energía Eléctrica
 
 ### Artículo 60
@@ -949,7 +965,9 @@ Dichas tarifas y precios máximos, o los parámetros usados para su cálculo, pu
 
 ## TÍTULO SEXTO — DE LAS DEMÁS ACTIVIDADES DEL SECTOR ELÉCTRICO
 
+
 ## Capítulo I — De los Usuarios Calificados
+
 
 ### Artículo 73
 .- La Calidad de Usuario Calificado se adquiere mediante la inscripción en el registro correspondiente a cargo de la CNE. La inscripción se obtiene mediante solicitud a la CNE por los medios electrónicos establecidos para tal fin. El solicitante debe acreditar que los Centros de Carga a incluirse en el registro cumplan con los niveles requeridos de consumo o demanda fijados por la Secretaría.
@@ -975,6 +993,7 @@ La Secretaría puede determinar y ajustar a la baja periódicamente los niveles 
 
 ## Capítulo II — De los Pequeños Sistemas Eléctricos
 
+
 ### Artículo 79
 .- Se consideran pequeños sistemas eléctricos los que se utilicen para suministrar energía eléctrica al público en general y no se encuentren conectados de manera permanente a la Red Nacional de Transmisión o a las Redes Generales de Distribución y que suministren una demanda no mayor a 100 MW. Estos sistemas incluyen un conjunto interconectado de dispositivos, equipos y componentes diseñados para generar, transmitir, distribuir y consumir energía eléctrica a niveles reducidos. Su operación requiere gestionar eficientemente la generación y el consumo de energía, garantizando la Continuidad, eficiencia y seguridad frente a variaciones en la demanda, con un nivel adecuado de calidad y confiabilidad.
 El Sistema Interconectado de Baja California y el Sistema Interconectado de Baja California Sur, no se consideran pequeños sistemas eléctricos.
@@ -986,6 +1005,7 @@ El Sistema Interconectado de Baja California y el Sistema Interconectado de Baja
 .- Las Reglas del Mercado pueden establecer esquemas especiales para la operación de los pequeños sistemas eléctricos, así como para el Sistema Interconectado de Baja California y para el Sistema Interconectado de Baja California Sur. El Control Operativo de los anteriores sistemas es facultad del CENACE.
 
 ## Capítulo III — Del Almacenamiento de Energía
+
 puede establecer los términos, condiciones y modalidades en los que los Sistemas de Almacenamiento de Energía Eléctrica participan en las actividades del sector eléctrico, así como permisos y sus requisitos necesarios.
 
 ### Artículo 83
@@ -999,6 +1019,7 @@ puede establecer los términos, condiciones y modalidades en los que los Sistema
 La misma capacidad o energía disponible no debe participar en más de un servicio y debe ser ofertada en su totalidad al CENACE para efectos de operación eficiente del Sistema Eléctrico Nacional.
 
 ## Capítulo IV
+
 De la Infraestructura y el Suministro de Electricidad en Materia de Electromovilidad puede regular sobre la infraestructura y el suministro de electricidad necesaria para la electromovilidad.
 Para efectos del presente apartado se entiende por electromovilidad los sistemas de transporte terrestre basados en vehículos ligeros y pesados con un sistema de tracción eléctrica o sistema híbrido que toman energía de un sistema de suministro eléctrico y que se utilizan para transportar personas o bienes materiales.
 
@@ -1006,6 +1027,7 @@ Para efectos del presente apartado se entiende por electromovilidad los sistemas
 .- La CNE, en el ámbito de sus atribuciones puede establecer criterios para la interconexión de la infraestructura, la contraprestación para el suministro de energía y los términos y condiciones de uso para la electromovilidad, entre otros.
 
 ## Capítulo V — Del Uso y Ocupación Superficial
+
 
 ### Artículo 88
 .- El sector eléctrico se considera de utilidad pública. Procede la ocupación o afectación superficial o la constitución de servidumbres necesarias para la construcción de Proyectos de Infraestructura del servicio público de transmisión y Centrales Eléctricas mediante el aprovechamiento de un yacimiento geotérmico o del recurso hidráulico, o cualquier otra, conforme a las disposiciones aplicables.
@@ -1142,6 +1164,7 @@ Lo dispuesto en el presente artículo debe ser determinado por las autoridades j
 
 ## Capítulo VI — Del Fomento a la Industria Nacional
 
+
 ### Artículo 107
 .- La Secretaría de Economía, con la opinión de la Secretaría, debe definir las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en el sector eléctrico, con especial atención a las pequeñas y medianas empresas, conforme a lo siguiente:
 
@@ -1182,7 +1205,9 @@ II. La contratación de servicios de origen nacional, incluyendo la capacitació
 
 ## TÍTULO SÉPTIMO — DEL MERCADO ELÉCTRICO MAYORISTA
 
+
 ## Capítulo I — De la Operación del Mercado Eléctrico Mayorista
+
 
 ### Artículo 110
 .- El CENACE opera el Mercado Eléctrico Mayorista conforme a la presente Ley. En el Mercado Eléctrico Mayorista, los Generadores, Comercializadores y Usuarios Calificados Participantes del Mercado pueden realizar las transacciones referidas en el artículo 112 de esta Ley, de conformidad con las Reglas del Mercado.
@@ -1259,6 +1284,7 @@ Cuando la Secretaría, la CNE, el CENACE o cualquier otra persona considere que 
 .- Las adquisiciones que las dependencias y entidades de la Administración Pública Federal realicen dentro del Mercado Eléctrico Mayorista y los mecanismos de adquisición de energía y Productos Asociados del Mercado Eléctrico Mayorista referidos en esta Ley no se sujetan ni a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, ni a la Ley de Obras Públicas y Servicios Relacionadas con las Mismas.
 
 ## Capítulo II — Del Centro Nacional de Control de Energía
+
 
 ### Artículo 123
 .- El CENACE es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el Control Operativo del Sistema Eléctrico Nacional, la operación del Mercado Eléctrico Mayorista y el acceso cuando sea técnicamente factible a la Red Nacional de Transmisión y las Redes Generales de Distribución, así como las demás facultades señaladas en esta Ley y otras disposiciones aplicables.
@@ -1353,7 +1379,9 @@ En los comités consultivos que, en su caso, cree el Consejo de Administración 
 
 ## TÍTULO OCTAVO — DISPOSICIONES APLICABLES A LOS INTEGRANTES DEL SECTOR ELÉCTRICO
 
+
 ## Capítulo I — De las Obligaciones del Servicio Universal y la Justicia Energética
+
 
 ### Artículo 129
 .- El Gobierno Federal debe promover el acceso energético, priorizando la electrificación de comunidades rurales y zonas urbanas marginadas. Para este efecto, la Secretaría puede coordinarse con las entidades federativas y los municipios.
@@ -1371,6 +1399,7 @@ Para los efectos anteriores, la Secretaría, con opinión de las Secretarías de
 La CNE y el Instituto Nacional de Estadística y Geografía deben prestar el apoyo técnico que se requiera para los fines del presente artículo.
 
 ## Capítulo II — Del Impacto Social y Desarrollo Sostenible
+
 
 ### Artículo 133
 .- Los Proyectos de Infraestructura de los sectores público y privado en el sector eléctrico deben atender los principios de Sostenibilidad y respeto de los derechos humanos y los recursos naturales de los pueblos y las comunidades indígenas y afromexicanas y todas aquellas asentadas en las regiones en donde se pretendan desarrollar dichos proyectos.
@@ -1435,6 +1464,7 @@ En caso de incumplimiento a las obligaciones derivadas de las resoluciones en ma
 La autorización que emita la Secretaría en materia de Manifestación de Impacto Social del Sector Energético debe permanecer vigente durante el tiempo que dure el permiso o medida administrativa que se trate.
 
 ## Capítulo III
+
 De las Obligaciones para Energías Limpias, Transición Energética y Descarbonización del Sector Eléctrico
 
 ### Artículo 142
@@ -1478,6 +1508,7 @@ V. La CNE puede establecer requerimientos de estimación, medición, y reporte r
 .- La Secretaría de Medio Ambiente y Recursos Naturales debe establecer, a través de Normas Oficiales Mexicanas y los demás instrumentos o disposiciones aplicables, las obligaciones de reducción de emisiones contaminantes relativas al sector eléctrico.
 
 ## Capítulo IV — De las Disposiciones Generales de los Permisos
+
 
 ### Artículo 151
 .- Los permisos de Generación y Comercialización los otorga la CNE. Las autorizaciones de importación y exportación de energía y Productos Asociados los otorga la Secretaría. Para su otorgamiento los interesados deben presentar la solicitud correspondiente, la acreditación del pago de derechos o aprovechamientos en los términos que establezcan las disposiciones legales de la materia, la información relativa a su objeto social, capacidad legal, técnica y financiera, y la descripción del proyecto en los términos que establezca la Secretaría mediante disposiciones de carácter general.
@@ -1528,6 +1559,7 @@ La terminación del permiso no extingue las obligaciones contraídas por la pers
 
 ## Capítulo V — De la Estandarización, Normalización, Confiabilidad y Seguridad
 
+
 ### Artículo 153
 .- La Secretaría debe establecer la política en materia de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad en el Sistema Eléctrico Nacional, incluyendo los criterios para establecer el equilibrio entre estos objetivos.
 La CNE, con la autorización de la Secretaría, debe expedir, aplicar y supervisar, la regulación necesaria en materia de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad del Sistema Eléctrico Nacional.
@@ -1565,6 +1597,7 @@ La CNE puede solicitar a otras autoridades, en el ámbito de su competencia, la 
 Las medidas de seguridad deben estar vigentes durante el tiempo estrictamente necesario para corregir las deficiencias o anomalías.
 
 ## Capítulo VI — De las Tarifas
+
 
 ### Artículo 157
 .- La transmisión, distribución, Suministro Básico y Suministro de Último Recurso, así como los costos del servicio de operación del CENACE, se deben sujetar a los lineamientos de contabilidad regulatoria establecidos por la CNE, para lo cual las personas que desarrollen dichas actividades están obligadas a presentar la información que la CNE determine mediante disposiciones administrativas de carácter general.
@@ -1628,6 +1661,7 @@ VI. Incentivar la provisión eficiente y suficiente de los Servicios Conexos no 
 
 ## Capítulo VII — De las Inversiones de la Empresa Pública del Estado
 
+
 ### Artículo 168
 .- Para fines de la evaluación del retorno resultante de las inversiones de la Empresa Pública del Estado, la Secretaría de Hacienda y Crédito Público determina el Retorno Objetivo acorde a cada actividad, de acuerdo con las exigencias del plan de expansión de generación, la Red Nacional de Transmisión y Redes Generales de Distribución.
 
@@ -1635,6 +1669,7 @@ VI. Incentivar la provisión eficiente y suficiente de los Servicios Conexos no 
 .- La Secretaría de Hacienda y Crédito Público debe establecer las metodologías para evaluar los retornos sobre el capital en los resultados reportados por la Empresa Pública del Estado y sus filiales. Su aplicación por estas empresas debe ser vigilada y, en su caso, ajustada, por la Secretaría. Los Retornos Objetivos y sus metodologías de evaluación deben ser independientes de la regulación tarifaria de la CNE.
 
 ## Capítulo VIII — De la Intervención
+
 
 ### Artículo 170
 .- Cuando existan irregularidades en la administración u operación de algún permisionario, que pongan en riesgo la Calidad, Confiabilidad, Continuidad y seguridad del Suministro Eléctrico, la Secretaría debe intervenir al mismo, con el objeto de que la persona interventora se haga cargo de la administración y operación temporal de las instalaciones de que se trate. La persona interventora debe contar con conocimientos y experiencia en materias directamente relacionadas con las actividades del sector eléctrico y debe ser designada por la persona titular de la Secretaría. La persona interventora puede apoyarse de la Empresa Pública del Estado y sus filiales.
@@ -1652,6 +1687,7 @@ Las menciones hechas en este artículo a las personas directivas, órganos de ad
 
 ## Capítulo IX — De la Requisa
 
+
 ### Artículo 174
 .- En caso de desastre natural, guerra, huelga, grave alteración del orden público o cuando se tema algún peligro inminente para la seguridad nacional, la seguridad interior del país, la economía nacional o la Continuidad del Suministro Eléctrico, el Gobierno Federal puede hacer la requisa de los bienes muebles e inmuebles necesarios para el Suministro Eléctrico y disponer de todo ello como juzgue conveniente. La requisa se debe mantener mientras subsistan las condiciones que la motivaron.
 
@@ -1659,6 +1695,7 @@ Las menciones hechas en este artículo a las personas directivas, órganos de ad
 .- El Gobierno Federal, salvo en el caso de guerra o conflicto armado internacionales, debe indemnizar a las personas afectadas pagando los daños y perjuicios a su valor real. Si no hubiere acuerdo sobre el monto de la indemnización, los daños deben ser fijados por peritos nombrados por ambas partes y, en el caso de los perjuicios, se debe tomar como base el promedio del ingreso neto en el año anterior a la requisa. Cada una de las partes debe cubrir la mitad de los gastos que se originen por el peritaje.
 
 ## Capítulo X — De la Información
+
 
 ### Artículo 176
 .- El principio de máxima publicidad rige en la información relacionada con las actividades empresariales, económicas, financieras e industriales que desarrolle la Empresa Pública del Estado y, en su caso, sus filiales en términos de la normatividad en materia de transparencia y acceso a la información pública y protección de datos personales.
@@ -1701,7 +1738,9 @@ La información confidencial o reservada se sujeta a lo dispuesto en las disposi
 
 ## TÍTULO NOVENO — DE LAS INFRACCIONES A LA LEY
 
+
 ## Capítulo I — De la Prevención y Sanción de los Actos y Omisiones Contrarios a la Ley
+
 
 ### Artículo 181
 .- En el ámbito de sus respectivas atribuciones, la Secretaría y la CNE están facultadas para prevenir, investigar, identificar, denunciar y, en su caso, sancionar a los contratistas, permisionarios, personas servidoras públicas, así como toda persona física o moral, pública o privada, nacional o extranjera que participe en el sector energético cuando realicen actos u omisiones que tengan como objeto o consecuencia directa o indirecta influir en la toma de decisión de una persona servidora pública, del personal o de las personas consejeras de la Empresa Pública del Estado para obtener un beneficio económico personal directo o indirecto.
@@ -1723,6 +1762,7 @@ V. Infracciones a los códigos de ética o de conducta institucionales que resul
 .- Las sanciones relativas a las conductas previstas en el artículo anterior deben ser determinadas por las autoridades competentes, de conformidad con la normatividad en materia de combate a la corrupción, responsabilidades administrativas, penal o laboral.
 
 ## Capítulo II — De las Sanciones
+
 
 ### Artículo 184
 .- Las infracciones a lo dispuesto en esta Ley, sus Reglamentos o disposiciones emanadas de la misma se deben sancionar de conformidad con lo siguiente:
@@ -1848,22 +1888,22 @@ La imposición de las sanciones previstas en esta Ley, incluyendo la revocación
 
 ## Transitorios
 
-**Primero.** La presente Ley entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley de la Industria Eléctrica, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014 y demás disposiciones que se opongan al presente Decreto.
-**Tercero.** La operación del Mercado Eléctrico Mayorista debe realizarse conforme a las Reglas del Mercado, las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red, y demás disposiciones aplicables vigentes al momento de la publicación de esta Ley y hasta en tanto no se expidan nuevas disposiciones.
-**Cuarto.** Dentro de los primeros 180 días de la entrada en vigor de la presente Ley, la CNE debe revisar y actualizar las metodologías de transmisión y las metodologías de las tarifas reguladas del Servicio Público de Transmisión, para dar cumplimiento a lo establecido en la reforma constitucional en materia de áreas y empresas estratégicas publicada en el Diario Oficial de la Federación el 31 de octubre de 2024. Lo anterior, para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad del Sistema Eléctrico Nacional. En tanto no se emitan las actualizaciones, siguen aplicando las disposiciones vigentes.
-**Quinto.** A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica, continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley del Servicio Público de Energía Eléctrica y a las disposiciones vigentes al momento de su formalización.
+**Primero.-** La presente Ley entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de la Industria Eléctrica, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014 y demás disposiciones que se opongan al presente Decreto.
+**Tercero.-** La operación del Mercado Eléctrico Mayorista debe realizarse conforme a las Reglas del Mercado, las Disposiciones Administrativas de Carácter General que contienen los criterios de eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional: Código de Red, y demás disposiciones aplicables vigentes al momento de la publicación de esta Ley y hasta en tanto no se expidan nuevas disposiciones.
+**Cuarto.-** Dentro de los primeros 180 días de la entrada en vigor de la presente Ley, la CNE debe revisar y actualizar las metodologías de transmisión y las metodologías de las tarifas reguladas del Servicio Público de Transmisión, para dar cumplimiento a lo establecido en la reforma constitucional en materia de áreas y empresas estratégicas publicada en el Diario Oficial de la Federación el 31 de octubre de 2024. Lo anterior, para garantizar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y Sostenibilidad del Sistema Eléctrico Nacional. En tanto no se emitan las actualizaciones, siguen aplicando las disposiciones vigentes.
+**Quinto.-** A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley del Servicio Público de Energía Eléctrica, continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley del Servicio Público de Energía Eléctrica y a las disposiciones vigentes al momento de su formalización.
 Los instrumentos a que se refiere este artículo transitorio no deben ser prorrogados una vez que concluya su vigencia.
-**Sexto.** La Secretaría debe promover que personas titulares de los permisos al amparo de la Ley del Servicio Público de Energía Eléctrica; autoabastecimiento, cogeneración, pequeña producción, producción independiente, importación, exportación y usos propios continuos y de los contratos y convenios vinculados a los mismos, puedan solicitar la migración a las figuras de la presente Ley de manera expedita a través de estrategias o programas que comprendan la simplificación administrativa y agilidad técnica.
+**Sexto.-** La Secretaría debe promover que personas titulares de los permisos al amparo de la Ley del Servicio Público de Energía Eléctrica; autoabastecimiento, cogeneración, pequeña producción, producción independiente, importación, exportación y usos propios continuos y de los contratos y convenios vinculados a los mismos, puedan solicitar la migración a las figuras de la presente Ley de manera expedita a través de estrategias o programas que comprendan la simplificación administrativa y agilidad técnica.
 Para ello, la Secretaría debe emitir los lineamientos que regulen el procedimiento expedito de migración e instruir a las instituciones del sector a implementar una ventanilla única que facilite su tramitación bajo las condiciones referidas.
-**Séptimo.** Los integrantes de una sociedad de autoabastecimiento o de los establecimientos asociados a la cogeneración de energía eléctrica, pueden solicitar directamente la exclusión de sus centros de carga del permiso y del contrato de interconexión respectivo conforme a las disposiciones vigentes, en tanto no se emitan nuevas disposiciones, con la finalidad de regirse al amparo de la presente Ley.
-**Octavo.** Los titulares o integrantes de las sociedades de autoabastecimiento, establecimientos asociados a la cogeneración y contratos de interconexión emitidos al amparo de la Ley del Servicio Público de Energía Eléctrica que tengan interés en participar en el Mercado Eléctrico Mayorista en modalidad de Generadora, deben migrar la totalidad de su capacidad a las figuras de generación de la presente Ley y celebrar contratos sujetándose a las Reglas del Mercado.
+**Séptimo.-** Los integrantes de una sociedad de autoabastecimiento o de los establecimientos asociados a la cogeneración de energía eléctrica, pueden solicitar directamente la exclusión de sus centros de carga del permiso y del contrato de interconexión respectivo conforme a las disposiciones vigentes, en tanto no se emitan nuevas disposiciones, con la finalidad de regirse al amparo de la presente Ley.
+**Octavo.-** Los titulares o integrantes de las sociedades de autoabastecimiento, establecimientos asociados a la cogeneración y contratos de interconexión emitidos al amparo de la Ley del Servicio Público de Energía Eléctrica que tengan interés en participar en el Mercado Eléctrico Mayorista en modalidad de Generadora, deben migrar la totalidad de su capacidad a las figuras de generación de la presente Ley y celebrar contratos sujetándose a las Reglas del Mercado.
 Los Centros de Carga incluidos en dichos contratos de interconexión referidos en el presente artículo transitorio pueden excluirse de los mismos para recibir el Suministro Básico o Calificado de acuerdo con sus intereses.
 Lo anterior conforme a los lineamientos que emita la Secretaría para el procedimiento expedito de migración a los que se refiere el artículo transitorio Sexto.
-**Noveno.** A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley de la Industria Eléctrica continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley de la Industria Eléctrica y a las disposiciones vigentes al momento de su formalización. Dichos instrumentos no deben ser prorrogados una vez que concluya su vigencia.
+**Noveno.-** A la entrada en vigor de la presente Ley, todos los permisos, contratos o cualquier instrumento o acto administrativo otorgados al amparo de la Ley de la Industria Eléctrica continúan surtiendo sus efectos hasta la terminación de su vigencia, rigiéndose conforme a los términos en los que fueron otorgados bajo la Ley de la Industria Eléctrica y a las disposiciones vigentes al momento de su formalización. Dichos instrumentos no deben ser prorrogados una vez que concluya su vigencia.
 Las personas titulares de los permisos, contratos o cualquier instrumento o acto administrativo otorgados, pueden solicitar la migración a las figuras de la presente Ley.
 Para ello, la Secretaría debe emitir los lineamientos que regulen el procedimiento expedito de migración e instruir a las instituciones del sector a implementar una ventanilla única que facilite su tramitación a través de estrategias o programas que comprendan la simplificación administrativa y agilidad técnica.
-**Décimo.** Los contratos, así como cualquier otro acto que derive de los mismos que hayan sido celebrados con las empresas productivas del Estado y sus subsidiarias al amparo de la Ley de la Industria Eléctrica, se deben transferir a las Empresas Públicas del Estado, por lo que continúan rigiéndose en los términos establecidos en los actos jurídicos y las demás disposiciones emanadas de dicha Ley, y en lo que no se oponga a lo anterior, por lo dispuesto en la Ley del Sector Eléctrico y sus artículos transitorios.
+**Décimo.-** Los contratos, así como cualquier otro acto que derive de los mismos que hayan sido celebrados con las empresas productivas del Estado y sus subsidiarias al amparo de la Ley de la Industria Eléctrica, se deben transferir a las Empresas Públicas del Estado, por lo que continúan rigiéndose en los términos establecidos en los actos jurídicos y las demás disposiciones emanadas de dicha Ley, y en lo que no se oponga a lo anterior, por lo dispuesto en la Ley del Sector Eléctrico y sus artículos transitorios.
 Para efectos de lo anterior, la Empresa Pública del Estado debe mantener la separación de sus actividades en materia de nominaciones y ofertas para el Mercado Eléctrico Mayorista en congruencia con el Sistema de liquidación, reliquidación, facturación, emisión de estados de cuenta, cobranza y balance financiero del mercado.
 Para efectos de la participación de la Empresa Pública del Estado en el Mercado Eléctrico Mayorista, ésta debe mantener y establecer la separación operativa y funcional para que:
 
@@ -1875,16 +1915,16 @@ c) Las actividades de transmisión realicen sus actividades en materia de operac
 
 d) Las actividades de distribución puedan realizar sus actividades en materia de operación y mediación y sus liquidaciones respectivas de manera diferenciada.
 Para dichos efectos el CENACE debe establecer cuentas de orden diferenciadas por cada segmento horizontal con el fin de mantener la integridad de los procesos de liquidación, reliquidación, facturación, emisión de estados de cuenta, cobranza y balance financiero del mercado, lo anterior sin menoscabo de los mecanismos simplificados de tesorería y garantías necesarias.
-**Décimo Primero.** Las solicitudes de autorización, aprobación o permisos que se hayan recibido con anterioridad a la entrada en vigor de esta Ley, se deben tramitar conforme a las disposiciones jurídicas vigentes al momento de su ingreso. Asimismo, los solicitantes pueden presentar voluntariamente su desistimiento al trámite que a la fecha no haya sido resuelto, a fin de que ingresen uno nuevo al amparo de la presente Ley.
-**Décimo Segundo.** La Evaluación de Impacto Social continúa vigente hasta en tanto no se emitan las disposiciones administrativas generales correspondientes a la Manifestación de Impacto Social del Sector Energético.
-**Décimo Tercero.** Se derogan los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad (TESL), emitidos por la Secretaría de Energía y publicados en el Diario Oficial de la Federación el día 11 de enero de 2016, en todo lo que se oponga al presente Decreto conforme a sus artículos transitorios. Los numerales de los mencionados Términos, relativos a las empresas productivas subsidiarias de la CFE, quedarán derogados una vez que entre en vigor la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad. Únicamente continuarán vigentes los numerales 8.2 y subsecuentes, así como su Capítulo 9, en lo que se refiere a las empresas filiales de la Comisión Federal de Electricidad, en tanto la Secretaría de Energía emita las nuevas normas que deberán sustituirlos.
-**Décimo Cuarto.** A la entrada en vigor de la presente Ley, la CNE debe revisar la metodología tarifaria y los costos del servicio de operación, investigación, actualización y desarrollo del CENACE conforme a los artículos 116 y 158, la cual surtirá efectos una vez que se emita.
+**Décimo Primero.-** Las solicitudes de autorización, aprobación o permisos que se hayan recibido con anterioridad a la entrada en vigor de esta Ley, se deben tramitar conforme a las disposiciones jurídicas vigentes al momento de su ingreso. Asimismo, los solicitantes pueden presentar voluntariamente su desistimiento al trámite que a la fecha no haya sido resuelto, a fin de que ingresen uno nuevo al amparo de la presente Ley.
+**Décimo Segundo.-** La Evaluación de Impacto Social continúa vigente hasta en tanto no se emitan las disposiciones administrativas generales correspondientes a la Manifestación de Impacto Social del Sector Energético.
+**Décimo Tercero.-** Se derogan los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad (TESL), emitidos por la Secretaría de Energía y publicados en el Diario Oficial de la Federación el día 11 de enero de 2016, en todo lo que se oponga al presente Decreto conforme a sus artículos transitorios. Los numerales de los mencionados Términos, relativos a las empresas productivas subsidiarias de la CFE, quedarán derogados una vez que entre en vigor la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad. Únicamente continuarán vigentes los numerales 8.2 y subsecuentes, así como su Capítulo 9, en lo que se refiere a las empresas filiales de la Comisión Federal de Electricidad, en tanto la Secretaría de Energía emita las nuevas normas que deberán sustituirlos.
+**Décimo Cuarto.-** A la entrada en vigor de la presente Ley, la CNE debe revisar la metodología tarifaria y los costos del servicio de operación, investigación, actualización y desarrollo del CENACE conforme a los artículos 116 y 158, la cual surtirá efectos una vez que se emita.
 
 ### ARTÍCULO CUARTO A ARTÍCULO DÉCIMO
 ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

@@ -15,6 +15,7 @@ Se expide la Ley de Educación Naval.
 
 ## CAPÍTULO I — De las Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley tiene por objeto normar la educación pública que imparte la Secretaría de Marina a través de la Universidad Naval, en sus diversos niveles educativos, la cual está orientada al conocimiento, difusión, aplicación de la ciencia, la doctrina y Cultura Naval, a fin de contribuir con el desarrollo marítimo nacional.
 La aplicación de esta Ley corresponde a la Secretaría de Marina, en coordinación con la Secretaría de Educación Pública, con respeto de los derechos humanos.
@@ -65,6 +66,7 @@ Asimismo, personal invitado de otra nacionalidad, podrá acceder al Sistema Educ
 
 ## CAPÍTULO II — Del Rector de la Universidad Naval
 
+
 ### Artículo 6
 . Al frente de la Universidad Naval estará el Rector, con grado de Almirante, el cual deberá contar con al menos dos posgrados o equivalentes.
 
@@ -82,6 +84,7 @@ IV. Expedir certificados, constancias y diplomas a quienes hayan concluido satis
 V. Las demás que establecen las disposiciones jurídicas aplicables.
 
 ## CAPÍTULO III — Del Sistema Educativo
+
 
 ### Artículo 8
 . El Sistema Educativo es el conjunto de recursos humanos, financieros, de infraestructura y procesos educativos a través de los cuales, la Secretaría de Marina, ofrece una educación naval integral de calidad, mediante el desarrollo de competencias y valores.
@@ -159,6 +162,7 @@ III. Mixta: Es la educación del tipo formal, la cual se desarrolla bajo la comb
 
 ## CAPÍTULO IV — Del Plan General
 
+
 ### Artículo 15
 . El Plan General establece, los planes y programas para alcanzar una educación integral de calidad, conforme al Modelo Educativo que deberá cubrir las necesidades de la Secretaría.
 
@@ -182,6 +186,7 @@ III. Los avances en las áreas humanística, científica, tecnológica y náutic
 
 ## CAPÍTULO V — Del Modelo Educativo
 
+
 ### Artículo 18
 . El Modelo Educativo define el diseño, estructura, planes y programas; que sirve de guía para la ejecución y evaluación del proceso formativo de calidad, así como también la evaluación de los Docentes y Discentes pertenecientes al modelo.
 
@@ -192,6 +197,7 @@ III. Los avances en las áreas humanística, científica, tecnológica y náutic
 . Los Directores de los Establecimientos Educativos Navales, serán los responsables de aplicar el desarrollo del Modelo Educativo de acuerdo al nivel y modalidad correspondiente.
 
 ## CAPÍTULO VI — De la Extensión Académica
+
 
 ### Artículo 21
 . La extensión académica comprenderá los siguientes aspectos:
@@ -214,10 +220,10 @@ Los estudios que realice el personal naval, en el extranjero, serán validados p
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, dentro del plazo de ciento ochenta días siguientes a la entrada en vigor de la presente Ley, expedirá el Reglamento correspondiente.
-**Tercero.** Se derogan todas las disposiciones que se opongan a la presente Ley.
-**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto autorizado a la Secretaría de Marina en cada ejercicio fiscal, por lo que no se requerirán recursos adicionales para el ejercicio fiscal de que se trate.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, dentro del plazo de ciento ochenta días siguientes a la entrada en vigor de la presente Ley, expedirá el Reglamento correspondiente.
+**Tercero.-** Se derogan todas las disposiciones que se opongan a la presente Ley.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto autorizado a la Secretaría de Marina en cada ejercicio fiscal, por lo que no se requerirán recursos adicionales para el ejercicio fiscal de que se trate.
 Ciudad de México, a 19 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Lizeth Sánchez García, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de marzo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma la fracción III del artículo 10 de la Ley de Educación Naval.
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 2023

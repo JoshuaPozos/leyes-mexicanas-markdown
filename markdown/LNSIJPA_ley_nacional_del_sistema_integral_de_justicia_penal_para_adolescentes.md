@@ -16,7 +16,9 @@ LIBRO PRIMERO DISPOSICIONES GENERALES
 
 ## TÍTULO I — DISPOSICIONES PRELIMINARES
 
+
 ## CAPÍTULO ÚNICO — ÁMBITO DE APLICACIÓN Y OBJETO
+
 
 ### Artículo 1
 . Ámbito de aplicación Esta Ley es de orden público y de observancia general en toda la República Mexicana. Se aplicará a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, y que sean competencia de la Federación o de las entidades federativas, en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
@@ -127,7 +129,9 @@ Asimismo, con independencia de que cuente con madre, padre o tutor, cuando se ad
 
 ## TÍTULO II — PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
 
+
 ## CAPÍTULO I — PRINCIPIOS GENERALES DEL SISTEMA
+
 
 ### Artículo 12
 . Interés superior de la niñez Para efectos de esta Ley el interés superior de la niñez debe entenderse como derecho, principio y norma de procedimiento dirigido a asegurar el disfrute pleno y efectivo de todos sus derechos, en concordancia con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -227,10 +231,12 @@ No vulnera el principio de publicidad de las personas adolescentes, la expedici�
 
 ## CAPÍTULO II — DERECHOS Y DEBERES DE LAS PERSONAS ADOLESCENTES
 
+
 ### Artículo 34
 . Enunciación no limitativa Los derechos de las personas adolescentes previstos en la presente Ley son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la Constitución, en los Tratados Internacionales de los que el Estado mexicano sea parte y las leyes aplicables en la materia, favoreciendo en todo tiempo la protección más amplia de sus derechos.
 
 ## SECCIÓN PRIMERA — DERECHOS DE LAS PERSONAS ADOLESCENTES SUJETAS AL SISTEMA
+
 
 ### Artículo 35
 . Protección a la intimidad La persona adolescente tendrá derecho a que durante todo el procedimiento y la ejecución de las medidas se respete su derecho a la intimidad personal y familiar, evitando cualquier intromisión indebida a su vida privada o a la de su familia. Las autoridades protegerán la información que se refiera a su vida privada, la de su familia y sus datos personales.
@@ -282,6 +288,7 @@ Si se trata de una persona adolescente con discapacidad se le nombrará intérpr
 Si una persona adolescente, después de haberlo consultado con su defensa, quisiera hacer uso de su derecho a declarar, únicamente podrá hacerlo en presencia del Órgano Jurisdiccional competente y con la presencia de su defensa. En ningún caso se le exigirá protesta de decir verdad.
 
 ## SECCIÓN SEGUNDA — DERECHOS DE LAS PERSONAS ADOLESCENTES EN PRISIÓN PREVENTIVA O
+
 INTERNAMIENTO
 
 ### Artículo 46
@@ -314,7 +321,8 @@ XI. Salir del Centro Especializado, bajo las medidas de seguridad pertinentes pa
 a) Recibir atención médica especializada, cuando ésta no pueda ser proporcionada en el mismo.
 
 b) Acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario o de quien ejerciera la patria potestad, tutela o cuidado, así como para visitarlos en su lecho de muerte, siempre y cuando las condiciones de seguridad lo permitan, de conformidad con el Reglamento aplicable.
-Inciso reformado DOF 20-12-2022 En ambos casos, las salidas serán bajo la vigilancia que determinen las autoridades del Centro Especializado;
+Inciso reformado DOF 20-12-2022
+En ambos casos, las salidas serán bajo la vigilancia que determinen las autoridades del Centro Especializado;
 
 XII. Tener contacto con el exterior a través de los programas y actividades desarrollados por Centro Especializado;
 
@@ -406,6 +414,7 @@ Las disposiciones reglamentarias preverán un régimen específico de visitas pa
 
 ## CAPÍTULO III — DERECHOS DE LAS VÍCTIMAS
 
+
 ### Artículo 59
 . Derechos de las víctimas Las víctimas u ofendidos por la realización de hechos señalados como delitos por las leyes penales federales y de las entidades federativas, tendrán todos los derechos reconocidos en la Constitución, el Código Nacional y demás legislación aplicable.
 La Comisión Ejecutiva de Atención a Víctimas y las comisiones ejecutivas de las entidades federativas, dentro de sus respectivos ámbitos de competencia, proporcionarán la asistencia, ayuda, atención y reparación integral a las víctimas en términos de la Ley General de Víctimas y demás legislación aplicable.
@@ -424,7 +433,9 @@ El pago a la víctima u ofendido, podrá aplicarse con cargo al Fondo de Ayuda, 
 
 ## TÍTULO III — COMPETENCIA
 
+
 ## CAPÍTULO ÚNICO — REGLAS GENERALES
+
 
 ### Artículo 61
 . Reglas Generales Será competente para conocer de un asunto el Órgano Jurisdiccional del lugar en el que ocurrió el hecho que la ley señale como delito.
@@ -448,7 +459,9 @@ Cuando en el lugar de los hechos no se cuente con un Órgano Jurisdiccional fede
 
 ## TÍTULO IV — AUTORIDADES, INSTITUCIONES Y ÓRGANOS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 63
 . Especialización de los órganos del Sistema Integral de Justicia Penal para Adolescentes El Sistema Integral de Justicia Penal para Adolescentes deberá contar con los siguientes órganos especializados:
@@ -483,6 +496,7 @@ La especialización de los funcionarios del Sistema podrá llevarse a cabo media
 
 ## CAPÍTULO II — DEL MINISTERIO PÚBLICO ESPECIALIZADO
 
+
 ### Artículo 66
 . El Ministerio Público Especializado en Justicia para Adolescentes Las Procuradurías Generales de Justicia o Fiscalías de las entidades federativas contarán con agentes del Ministerio Público o Fiscales Especializados en Justicia para Adolescentes que, además de las obligaciones y atribuciones previstas por la Constitución, los Tratados Internacionales de los que el Estado mexicano sea parte, el Código Nacional y leyes aplicables, tendrán las siguientes:
 
@@ -508,6 +522,7 @@ X. Las demás que establece esta Ley.
 
 ## CAPÍTULO III — DE LA DEFENSA
 
+
 ### Artículo 67
 . Obligaciones de los defensores en justicia para adolescentes La defensa, además de las obligaciones y atribuciones previstas por la Constitución, los Tratados Internacionales de los que el Estado mexicano sea parte, el Código Nacional y las leyes aplicables, tendrán las siguientes:
 
@@ -520,6 +535,7 @@ III. Informar de inmediato a la persona adolescente su situación jurídica, as�
 IV. Realizar todos los trámites o gestiones necesarios que garanticen a la persona adolescente una defensa técnica y adecuada.
 
 ## CAPÍTULO IV — DE LAS AUTORIDADES DE MECANISMOS ALTERNATIVOS
+
 
 ### Artículo 68
 . Obligaciones de los Órganos de Mecanismos Alternativos Para la adecuada aplicación de esta Ley, se establece como obligaciones de los Órganos de Mecanismos Alternativos de las entidades federativas, las siguientes:
@@ -558,10 +574,12 @@ VIII. Las demás establecidas en esta Ley, en la Ley de Mecanismos Alternativos 
 
 ## CAPÍTULO V — DE LOS JUECES Y MAGISTRADOS ESPECIALIZADOS
 
+
 ### Artículo 70
 . De los Órganos Jurisdiccionales Especializados en adolescentes Además de las facultades y atribuciones previstas en el Código de Procedimientos, la Ley de Ejecución y otras disposiciones aplicables, los Jueces de Control, los Tribunales de Juicio Oral, los Jueces de Ejecución y los Magistrados Especializados en Justicia para Adolescentes de la Federación, y de las entidades federativas tendrán las facultades que les confiere esta Ley.
 
 ## CAPÍTULO VI — DE LAS AUTORIDADES DE EJECUCIÓN DE MEDIDAS
+
 
 ### Artículo 71
 . Autoridad Administrativa En la Federación y en las entidades federativas, en el ámbito de sus respectivas competencias, habrá una Autoridad Administrativa especializada dependiente de la Administración Pública Federal o estatal con autonomía técnica, operativa y de gestión que independientemente de su organización administrativa, contará con las siguientes áreas:
@@ -670,6 +688,7 @@ c) Proponer a la Autoridad Administrativa la suscripción de convenios que sean 
 
 ## CAPÍTULO VII — DE LAS AUTORIDADES AUXILIARES EN EL SISTEMA INTEGRAL
 
+
 ### Artículo 73
 . Autoridades Auxiliares Los órganos del Sistema podrán auxiliarse de la Comisión Nacional de los Derechos Humanos y de los organismos de protección de los derechos humanos de las entidades federativas.
 Las policías y servicios periciales que actúen como auxiliares del Ministerio Público, también deberán acreditar que su personal cuenta con capacitación en materia de derechos de niñas, niños y adolescentes.
@@ -713,6 +732,7 @@ La Autoridad Administrativa y las autoridades corresponsables podrán implementa
 La Autoridad Administrativa y las autoridades corresponsables, conforme a sus presupuestos, establecerán centros de atención para el cumplimiento de medidas no privativas de la libertad y formarán redes de colaboración en beneficio de las personas adolescentes y a sus familiares a fin de prestar el apoyo necesario para facilitar la reinserción social, procurar su vida digna y prevenir la reincidencia.
 
 ## CAPÍTULO VIII — SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA DEL SISTEMA INTEGRAL DE
+
 JUSTICIA PENAL PARA ADOLESCENTES
 
 ### Artículo 78
@@ -739,7 +759,9 @@ LIBRO SEGUNDO MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS Y FORMAS DE 
 
 ## TÍTULO I — MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 82
 . Objeto Las disposiciones de este Título tienen por objeto regular los mecanismos alternativos de solución de controversias en materia de justicia penal para adolescentes, que puedan derivar en un acuerdo reparatorio o en un plan de reparación y propuesta de condiciones por cumplir para una suspensión condicional del proceso, siempre que sea procedente.
@@ -758,6 +780,7 @@ III. Enfoque diferencial y especializado: Los facilitadores llevarán a cabo los
 
 ## CAPÍTULO II — LA MEDIACIÓN
 
+
 ### Artículo 85
 . Concepto La mediación es el mecanismo voluntario mediante el cual la persona adolescente, su representante y la víctima u ofendido, buscan, construyen y proponen opciones de solución a la controversia.
 El facilitador durante la mediación propicia la comunicación y el entendimiento mutuo entre los intervinientes para que logren alcanzar una solución a su conflicto por sí mismos.
@@ -771,6 +794,7 @@ En el caso de que los intervinientes logren alcanzar un acuerdo o plan de repara
 Cuando por alguna circunstancia no pueda tenerse un encuentro entre las partes o no se considere conveniente por parte del facilitador, podrá realizarse la mediación a través de éste, con encuentros separados. Esto será excepcional, debiendo intentarse como regla general que se encuentren las partes presentes.
 
 ## CAPÍTULO III — LOS PROCESOS RESTAURATIVOS
+
 
 ### Artículo 88
 . Modelos aplicables Para alcanzar un resultado restaurativo, se pueden utilizar los siguientes modelos de reunión: víctima con la persona adolescente, junta restaurativa y círculos.
@@ -801,7 +825,9 @@ En el caso de que los intervinientes logren alcanzar una solución que considere
 
 ## TÍTULO II — SOLUCIONES ALTERNAS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 94
 . Uso prioritario Las autoridades aplicarán prioritariamente las soluciones alternas previstas en esta Ley.
@@ -809,6 +835,7 @@ Desde su primera intervención, el Ministerio Público, el asesor jurídico o el
 El Juez verificará el cumplimiento de la obligación anterior y, en caso de que el adolescente o la víctima manifiesten su desconocimiento, éste explicará y exhortará a la utilización de algún mecanismo alternativo.
 
 ## CAPÍTULO II — ACUERDOS REPARATORIOS
+
 
 ### Artículo 95
 . Procedencia Los acuerdos reparatorios procederán en los casos en que se atribuyan hechos previstos como delitos, en los que no procede la medida de sanción de internamiento de conformidad con esta Ley.
@@ -830,6 +857,7 @@ Previo a la aprobación del acuerdo reparatorio, el Juez de Control o el Ministe
 Si la persona adolescente incumple sin justa causa las obligaciones pactadas dentro del plazo fijado o dentro de seis meses contados a partir del día siguiente de la ratificación del acuerdo de no haberse determinado temporalidad, el procedimiento continuará como si no se hubiera realizado el acuerdo a partir de la última actuación que conste en el registro.
 
 ## CAPÍTULO III — SUSPENSIÓN CONDICIONAL DEL PROCESO
+
 
 ### Artículo 100
 . Procedencia La suspensión condicional del proceso procederá a solicitud de la persona adolescente o del Ministerio Público con acuerdo de aquél, en los casos en que se cubran los requisitos siguientes:
@@ -880,7 +908,9 @@ LIBRO TERCERO PROCEDIMIENTO PARA ADOLESCENTES
 
 ## TÍTULO I — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 106
 . Objeto El procedimiento para adolescentes tiene como objetivo establecer la existencia jurídica de un hecho señalado como delito, determinar si la persona adolescente es su autor o partícipe, el grado de responsabilidad y, en su caso, la aplicación de las medidas que correspondan conforme a esta Ley. El proceso deberá observar en todo momento el fin socioeducativo del Sistema.
@@ -892,6 +922,7 @@ LIBRO TERCERO PROCEDIMIENTO PARA ADOLESCENTES
 . Plazos En el proceso especial para adolescentes los plazos son perentorios y se pueden habilitar días y horas no laborables para conocer de la causa.
 
 ## CAPÍTULO II — DE LA PRESCRIPCIÓN
+
 
 ### Artículo 109
 . Plazos especiales de prescripción Atendiendo a las reglas de prescripción establecidas en las legislaciones penales aplicables y teniendo en cuenta la edad de la persona adolescente al momento de la comisión de la conducta, la prescripción de la acción penal se ajustará a lo siguiente:
@@ -937,7 +968,9 @@ Si en el transcurso del procedimiento se comprueba que la persona a quien se le 
 
 ## TÍTULO II — MEDIDAS CAUTELARES
 
+
 ## CAPÍTULO ÚNICO — MEDIDAS CAUTELARES
+
 
 ### Artículo 119
 . Medidas cautelares personales Sólo a solicitud del Ministerio Público, la víctima u ofendido, y bajo las condiciones y por el tiempo que se fija en esta Ley, el Órgano Jurisdiccional podrá imponer a la persona adolescente, después de escuchar sus razones, las siguientes medidas cautelares:
@@ -998,7 +1031,9 @@ Los lineamientos y el procedimiento para la supervisión de las condiciones de l
 
 ## TÍTULO III — DE LA INVESTIGACIÓN
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 125
 . Prohibición del arraigo Por ningún motivo las disposiciones relativas al arraigo serán aplicables en el caso de las personas adolescentes.
@@ -1014,7 +1049,9 @@ Los lineamientos y el procedimiento para la supervisión de las condiciones de l
 
 ## TÍTULO IV — AUDIENCIA INICIAL
 
+
 ## CAPÍTULO ÚNICO — AUDIENCIA INICIAL
+
 
 ### Artículo 129
 . Detención en flagrancia Cuando una persona adolescente sea sorprendida en la comisión de una conducta que las leyes señalen como delito, podrá ser detenida sin orden judicial y deberá ser puesta a disposición inmediata de la autoridad más cercana y ésta con la misma prontitud lo pondrá a disposición del Ministerio Público competente. El primer respondiente deberá hacer el registro inmediato de la detención.
@@ -1036,7 +1073,9 @@ El Juez en audiencia fijará la fecha del cierre del plazo, o en su caso, de la 
 
 ## TÍTULO V — ETAPA INTERMEDIA
 
+
 ## CAPÍTULO ÚNICO — DE LA ETAPA INTERMEDIA
+
 
 ### Artículo 134
 . Disposiciones supletorias La fase escrita de la etapa intermedia del procedimiento especial para personas adolescentes se regirá por las disposiciones establecidas en este Capítulo, y la fase oral por lo dispuesto en este Capítulo y supletoriamente lo dispuesto en el Código Nacional.
@@ -1107,12 +1146,15 @@ El Juez de Control podrá dictar autos de apertura del juicio separados, para di
 
 ## TÍTULO VI — DEL JUICIO
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 142
 . Oralidad y publicidad El juicio se desahogará de manera oral. Se llevará a puerta cerrada. Sólo podrán estar presentes quienes en ella intervengan, salvo que la persona adolescente solicite que sea público, con las restricciones que el Tribunal de Juicio Oral ordene. Se observará lo dispuesto en el Código Nacional para el desarrollo de la etapa de enjuiciamiento.
 
 ## CAPÍTULO II — DELIBERACIÓN, FALLO Y SENTENCIA
+
 
 ### Artículo 143
 . Sentencia Concluido el juicio, el Tribunal de Juicio Oral resolverá sobre la responsabilidad de la persona adolescente, atendiendo a lo establecido en esta Ley.
@@ -1203,7 +1245,9 @@ Una vez firme la sentencia condenatoria, el Tribunal de Juicio Oral deberá pone
 
 ## TÍTULO VII — MEDIDAS DE SANCIÓN
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 153
 . Finalidades de las medidas de sanción El fin de las medidas de sanción es la reinserción social y reintegración de la persona adolescente encontrada responsable de la comisión de un hecho señalado como delito, para lograr el ejercicio de sus derechos, así como la reparación del daño a la víctima u ofendido, en los términos descritos por esta Ley.
@@ -1266,6 +1310,7 @@ En todos los casos que se apliquen medidas de sanción, se impondrá además la 
 
 ## CAPÍTULO II — MEDIDAS DE SANCIÓN NO PRIVATIVAS DE LA LIBERTAD
 
+
 ### Artículo 157
 . Amonestación Es la llamada de atención que el Juez hace a la persona adolescente, exhortándolo para que en lo sucesivo se acoja a las normas sociales, de trato familiar y convivencia comunitaria.
 El Juez deberá advertir a la persona responsable del o la adolescente sobre el hecho que se le atribuye a la persona adolescente y les solicitará intervenir para que el amonestado respete las normas anteriormente establecidas.
@@ -1298,6 +1343,7 @@ Se dará preferencia a las instituciones que se encuentren más cercanos al domi
 La duración de esta medida no podrá ser superior a dos años.
 
 ## CAPÍTULO III — MEDIDAS DE SANCIÓN PRIVATIVAS DE LA LIBERTAD
+
 
 ### Artículo 163
 . Estancia domiciliaria Consiste en la permanencia de la persona adolescente en su domicilio, con su familia.
@@ -1341,7 +1387,9 @@ Los espacios destinados al internamiento en tiempo libre deben estar totalmente 
 
 ## TÍTULO VIII — RECURSOS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 168
 . Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en el Código Nacional y en esta Ley.
@@ -1349,6 +1397,7 @@ El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otor
 En el procedimiento penal sólo se admitirán los recursos de revocación y apelación, según corresponda.
 
 ## CAPÍTULO II — RECURSOS EN PARTICULAR
+
 
 ### Artículo 169
 . Queja y su procedencia Procederá queja en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado por esta Ley. La queja podrá ser promovida por cualquier parte del procedimiento y se tramitará sin perjuicio de las otras consecuencias legales que tenga la omisión del juzgador.
@@ -1358,6 +1407,7 @@ A partir de que se recibió la queja por el Órgano Jurisdiccional, éste tiene 
 El Consejo tendrá cuarenta y ocho horas para resolver si dicha omisión se ha verificado. En ese caso, el Consejo ordenará la realización del acto omitido y apercibirá al Órgano Jurisdiccional de las imposiciones de las sanciones previstas por la Ley Orgánica respectiva en caso de incumplimiento. En ningún caso, el Consejo podrá ordenar al Órgano Jurisdiccional los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
 
 ## SECCIÓN I — REVOCACIÓN
+
 
 ### Artículo 170
 . Procedencia del recurso de revocación El recurso de revocación procederá en cualquiera de las etapas del procedimiento penal, en las que interviene la autoridad judicial, en contra de las resoluciones de mero trámite que se resuelvan sin sustanciación.
@@ -1372,6 +1422,7 @@ II. Si el recurso se hace valer contra resoluciones dictadas fuera de audiencia,
 La resolución que decida la revocación interpuesta oralmente en audiencia, deberá emitirse de inmediato; la resolución que decida la revocación interpuesta por escrito deberá emitirse dentro de los tres días siguientes a su interposición. En caso de que el Juez cite a audiencia por la complejidad del caso, resolverá en ésta.
 
 ## SECCIÓN II — APELACIÓN
+
 
 ### Artículo 172
 . Trámite de la apelación El recurso de apelación contra las resoluciones del Juez de Control se interpondrá por escrito ante el mismo Juez que dictó la resolución, dentro de los cinco días contados a partir de aquel en el que surta efectos la notificación si se tratare de auto o cualquier otra providencia, y de siete días si se tratare de sentencia definitiva.
@@ -1395,7 +1446,9 @@ LIBRO CUARTO EJECUCIÓN DE LAS MEDIDAS
 
 ## TÍTULO I — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO I — DISPOSICIONES PRELIMINARES
+
 
 ### Artículo 176
 . Definición.
@@ -1545,6 +1598,7 @@ Las instituciones públicas o privadas coadyuvantes en el cumplimiento de los pl
 
 ## CAPÍTULO II — DE LA JUSTICIA RESTAURATIVA EN EJECUCIÓN DE LAS MEDIDAS DE SANCIÓN
 
+
 ### Artículo 192
 . Objeto de la justicia restaurativa en la ejecución de medidas de sanción En la ejecución de las medidas de sanción podrán realizarse procesos restaurativos, en los que la víctima u ofendido, la persona adolescente y en su caso, la comunidad afectada, en libre ejercicio de su autonomía, participen de forma individual o conjuntamente de forma activa en la resolución de cuestiones derivadas de los hechos que la ley señala como delitos, con el objeto de identificar las necesidades y responsabilidades individuales y colectivas, así como a coadyuvar en la reintegración de la víctima u ofendido y de la persona adolescente a quien se le haya dictado una medida de sanción, a la comunidad y la recomposición del tejido social.
 
@@ -1569,7 +1623,9 @@ Los procesos restaurativos que impliquen un encuentro entre las partes, solo pod
 
 ## TÍTULO II — PROCEDIMIENTOS ADMINISTRATIVOS Y JURISDICCIONALES
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 198
 . Audiencia de Inicio de Ejecución Una vez que la sentencia en la que se dicte una medida de sanción a una persona adolescente quede firme, el órgano que dicte dicha resolución la notificará al Juez de Ejecución competente en un plazo que no exceda a tres días hábiles.
@@ -1585,6 +1641,7 @@ La Autoridad Administrativa deberá informar a la persona adolescente, a la defe
 La inobservancia de estas obligaciones por parte de los servidores públicos responsables será sancionada administrativa y penalmente.
 
 ## CAPÍTULO II — PROCEDIMIENTO ADMINISTRATIVO
+
 
 ### Artículo 201
 . Peticiones administrativas Las personas adolescentes a quienes se les haya dictado la medida de internamiento preventivo o internamiento y las personas legitimadas por esta Ley podrán formular peticiones administrativas ante el Centro de Internamiento en contra de los hechos, actos u omisiones respecto de las condiciones de internamiento.
@@ -1645,6 +1702,7 @@ En este caso el Juez de Ejecución de oficio, suspenderá de inmediato los efect
 Cuando los Jueces de Ejecución reciban promociones que por su naturaleza no sean de imposible reparación, y no se hubiere agotado la petición administrativa, las turnarán al Centro para su tramitación, recabando registro de su entrega.
 
 ## CAPÍTULO III — CONTROVERSIAS ANTE JUEZ DE EJECUCIÓN
+
 
 ### Artículo 210
 . Controversias Los Jueces de Ejecución conocerán, además de lo establecido en esta Ley, de las controversias relacionadas con:
@@ -1715,6 +1773,7 @@ II. Las condiciones en que ha venido cumpliendo la medida, y
 III. Los retos y obstáculos que ha enfrentado la persona adolescente en el cumplimiento de su medida.
 
 ## CAPÍTULO IV — PROCEDIMIENTO JURISDICCIONAL
+
 
 ### Artículo 218
 . Reglas del procedimiento Las acciones y recursos judiciales se sustanciarán conforme a un sistema acusatorio y oral y se regirán por los principios de contradicción, concentración, continuidad, inmediación y publicidad.
@@ -1818,6 +1877,7 @@ Cuando la Autoridad Administrativa alegue imposibilidad material o económica pa
 
 ## CAPÍTULO V — MODIFICACIÓN Y CUMPLIMIENTO ANTICIPADO DE LA MEDIDA DE SANCIÓN
 
+
 ### Artículo 227
 . Audiencia de modificación de la medida El Juez de Ejecución, de oficio, revisará anualmente las medidas de sanción impuestas; en esta audiencia con base en el interés superior de la niñez, evaluará las condiciones, retos y obstáculos que ha enfrentado la persona adolescente en el cumplimiento de su medida y evaluará la posibilidad de sustituirla por otra menos grave.
 
@@ -1831,6 +1891,7 @@ El Juez deberá escuchar y tomar en cuenta la opinión de la persona adolescente
 Al término de la audiencia, el Juez explicará a las partes y a la víctima u ofendido, en su caso, su determinación respecto de la procedencia o negativa de la modificación o sustitución de la medida, así como las obligaciones que en virtud de dicha decisión, deba cumplir la persona adolescente, la Autoridad Administrativa que supervisará dicha medida y demás servidores públicos que intervengan en la ejecución de la misma.
 
 ## CAPÍTULO VI — MODIFICACIÓN POR INCUMPLIMIENTO DE LA MEDIDA
+
 
 ### Artículo 230
 . Modificación de la medida por incumplimiento La Autoridad Administrativa deberá vigilar el cumplimiento de la medida. En caso de incumplimiento, informará a las partes sobre el mismo.
@@ -1849,6 +1910,7 @@ El Juez podrá apercibir a la persona adolescente para que dé cumplimiento a la
 . Reiteración de incumplimiento Si la persona adolescente no cumpliere con el apercibimiento judicial que se le hubiere hecho, el Ministerio Público podrá solicitar una nueva audiencia de modificación de la medida en la cual, de demostrarse la reiteración del incumplimiento, el Juez decretará en el acto la modificación de la medida sin que proceda un nuevo apercibimiento.
 
 ## CAPÍTULO VII — CONTROL DE LA MEDIDA DE SANCIÓN DE INTERNAMIENTO
+
 
 ### Artículo 234
 . Ingreso de la persona adolescente al Centro de Internamiento En caso de que se trate de una medida de privación de la libertad, la Autoridad Administrativa verificará el ingreso de la persona adolescente al Centro de Internamiento correspondiente y que se le explicó el contenido del Reglamento al que queda sujeto y los derechos que le asisten mientras se encuentra en dicho Centro. Se elaborará un Acta en la que constarán:
@@ -1944,6 +2006,7 @@ XI. Los horarios y lineamientos generales para el otorgamiento del servicio de a
 
 ## CAPÍTULO VIII — RECURSOS DURANTE LA EJECUCIÓN
 
+
 ### Artículo 240
 . Disposiciones generales El derecho a recurrir solo corresponde a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
 En las controversias de ejecución penal, sólo se admiten los recursos de revocación y apelación.
@@ -2000,9 +2063,11 @@ También es admisible la prueba incluso relacionada con los hechos cuando sea in
 LIBRO QUINTO
 
 ## TÍTULO I — DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA PARA PERSONAS
+
 ADOLESCENTES
 
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 250
 . Prevención social de la violencia y delincuencia La prevención social de la violencia y la delincuencia es el conjunto de políticas públicas, programas, estrategias y acciones orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia así como a combatir las distintas causas y factores que la generan.
@@ -2080,7 +2145,9 @@ V. Implementación de estrategias y mecanismos eficaces para disminuir los facto
 
 ## TÍTULO II
 
+
 ## CAPÍTULO ÚNICO — DEL RECONOCIMIENTO DE LA FUNCIÓN PREVENTIVA DE LAS FAMILIAS
+
 
 ### Artículo 258
 . De la coadyuvancia de las familias Las familias son la unidad central de la sociedad, encargadas de la integración social primaria de personas adolescentes; los gobiernos y la sociedad, deben tratar de preservar la integridad de las familias, incluidas las familias extensas y sustitutas.
@@ -2101,7 +2168,9 @@ Se evitará, en la medida de lo posible, y solo se utilizará como último recur
 
 ## TÍTULO TERCERO
 
+
 ## CAPÍTULO ÚNICO — DE LA COADYUVANCIA LAS AUTORIDADES DIRECTIVAS DE LOS PLANTELES DE
+
 EDUCACIÓN
 
 ### Artículo 263
@@ -2137,7 +2206,9 @@ X. Prevenir que las personas adolescentes se encuentren en situaciones de riesgo
 
 ## TÍTULO CUARTO
 
+
 ## CAPÍTULO ÚNICO — DEL RECONOCIMIENTO DE LA FUNCIÓN PREVENTIVA DE LA COMUNIDAD
+
 
 ### Artículo 266
 . De la función preventiva de la comunidad Los tres órdenes de gobierno, en el ámbito de sus competencias, deberán coordinarse con las autoridades correspondientes, para apoyar programas comunitarios a fin de:
@@ -2215,7 +2286,7 @@ Se reforma la fracción V del artículo 102 de la Ley Nacional del Sistema Integ
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 22 de septiembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Óscar Eduardo Ramírez Aguilar, Presidente.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
@@ -2226,7 +2297,7 @@ Se reforman las fracciones VI y XI, inciso b), primer párrafo del artículo 46 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores del gasto correspondiente, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores del gasto correspondiente, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 9 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

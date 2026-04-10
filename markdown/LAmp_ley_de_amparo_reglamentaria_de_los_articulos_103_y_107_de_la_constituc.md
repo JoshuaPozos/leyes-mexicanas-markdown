@@ -14,19 +14,24 @@ SE EXPIDE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONS
 Se expide la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO PRIMERO
+
 Reglas Generales
 
 ## CAPÍTULO I — Disposiciones Fundamentales
+
 
 ### Artículo 1o
 . El juicio de amparo tiene por objeto resolver toda controversia que se suscite:
 
 I. Por normas generales, actos u omisiones de autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Por normas generales, actos u omisiones de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencias de la Ciudad de México, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, y Fracción reformada DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+II. Por normas generales, actos u omisiones de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencias de la Ciudad de México, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, y
+Fracción reformada DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 III. Por normas generales, actos u omisiones de las autoridades de los Estados o de la Ciudad de México, que invadan la esfera de competencia de la autoridad federal, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas por la Constitución Política de los Estados Unidos Mexicanos.
-Fracción reformada DOF 13-03-2025 El amparo protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares en los casos señalados en la presente Ley.
+Fracción reformada DOF 13-03-2025
+El amparo protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares en los casos señalados en la presente Ley.
 
 ### Artículo 2o
 . El juicio de amparo se tramitará en vía directa o indirecta. Se substanciará y resolverá de acuerdo con las formas y procedimientos que establece esta Ley.
@@ -51,7 +56,8 @@ Artículo reformado DOF 13-03-2025, 16-10-2025
 
 ### Artículo 4o
 . De manera excepcional, y sólo cuando exista urgencia atendiendo al interés social o al orden público, las Cámaras del Congreso de la Unión, a través de las personas que ocupen sus presidencias, o el Ejecutivo Federal, por conducto de la persona titular de la Consejería Jurídica, podrán solicitar a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación que un juicio de amparo, incluidos los recursos o procedimientos derivados de éste, se substancien y resuelvan de manera prioritaria, sin modificar de ningún modo los plazos previstos en la ley.
-Párrafo reformado DOF 13-03-2025 La urgencia en los términos de este artículo se justificará cuando:
+Párrafo reformado DOF 13-03-2025
+La urgencia en los términos de este artículo se justificará cuando:
 
 I. Se trate de amparos promovidos para la defensa de grupos en situación de vulnerabilidad en los términos de la ley.
 Fracción reformada DOF 13-03-2025
@@ -62,9 +68,11 @@ III. Se trate de prevenir daños irreversibles al equilibrio ecológico.
 
 IV. En aquellos casos que el Pleno de la Suprema Corte de Justicia de la Nación estime procedentes.
 Recibida la solicitud, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación la someterá a consideración del Pleno, que resolverá de forma definitiva por mayoría simple. La resolución incluirá las providencias que resulten necesarias, las que se notificarán, cuando proceda, al Órgano de Administración Judicial.
-Párrafo reformado DOF 13-03-2025 Para la admisión, trámite y resolución de las solicitudes, así como las previsiones a que hace referencia este artículo, deberán observarse los acuerdos generales que al efecto emita la Suprema Corte de Justicia de la Nación.
+Párrafo reformado DOF 13-03-2025
+Para la admisión, trámite y resolución de las solicitudes, así como las previsiones a que hace referencia este artículo, deberán observarse los acuerdos generales que al efecto emita la Suprema Corte de Justicia de la Nación.
 
 ## CAPÍTULO II
+
 Capacidad y Personería
 
 ### Artículo 5o
@@ -72,11 +80,15 @@ Capacidad y Personería
 ESTADOS UNIDOS MEXICANOS
 
 I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo 1o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
-Párrafo reformado DOF 13-03-2025 Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo.
-Párrafo adicionado DOF 16-10-2025 El interés simple, en ningún caso, podrá invocarse como interés legítimo. La autoridad pública no podrá invocar interés legítimo.
+Párrafo reformado DOF 13-03-2025
+Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo.
+Párrafo adicionado DOF 16-10-2025
+El interés simple, en ningún caso, podrá invocarse como interés legítimo. La autoridad pública no podrá invocar interés legítimo.
 El juicio de amparo podrá promoverse conjuntamente por dos o más personas quejosas cuando resientan una afectación común en sus derechos o intereses, aun en el supuesto de que dicha afectación derive de actos distintos, si éstos les causan un perjuicio análogo y provienen de las mismas autoridades.
-Párrafo reformado DOF 13-03-2025 Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos, agrarios o del trabajo, la persona quejosa deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa.
-Párrafo reformado DOF 13-03-2025 La persona víctima u ofendida del delito podrán tener el carácter de persona quejosa en los términos de esta Ley.
+Párrafo reformado DOF 13-03-2025
+Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos, agrarios o del trabajo, la persona quejosa deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa.
+Párrafo reformado DOF 13-03-2025
+La persona víctima u ofendida del delito podrán tener el carácter de persona quejosa en los términos de esta Ley.
 Párrafo reformado DOF 13-03-2025
 
 II. La autoridad responsable, teniendo tal carácter, con independencia de su naturaleza formal, la que dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifica o extingue situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas.
@@ -89,7 +101,8 @@ Párrafo reformado DOF 13-03-2025
 a) La persona que haya gestionado el acto reclamado o tenga interés jurídico en que subsista;
 
 b) La contraparte de la persona quejosa cuando el acto reclamado emane de un juicio o controversia del orden judicial, administrativo, agrario o del trabajo; o tratándose de persona extraña al procedimiento, la que tenga interés contrario al de la persona quejosa;
-Inciso reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Inciso reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 c) La persona víctima del delito u ofendida, o quien tenga derecho a la reparación del daño o a reclamar la responsabilidad civil, cuando el acto reclamado emane de un juicio del orden penal y afecte de manera directa esa reparación o responsabilidad;
 Inciso reformado DOF 13-03-2025
@@ -101,7 +114,8 @@ e) La o el Ministerio Público que haya intervenido en el procedimiento penal de
 Inciso reformado DOF 13-03-2025
 
 IV. La o el Ministerio Público Federal en todos los juicios, donde podrá interponer los recursos que señala esta Ley, y los existentes en amparos penales cuando se reclamen resoluciones de tribunales locales, independientemente de las obligaciones que la misma ley le precisa para procurar la pronta y expedita administración de justicia.
-Fracción reformada DOF 13-03-2025 Sin embargo, en amparos indirectos en materias civil y mercantil, y con exclusión de la materia familiar, donde sólo se afecten intereses particulares, la o el Ministerio Público Federal podrá interponer los recursos que esta Ley señala, sólo cuando las personas quejosas hubieren impugnado la constitucionalidad de normas generales y este aspecto se aborde en la sentencia.
+Fracción reformada DOF 13-03-2025
+Sin embargo, en amparos indirectos en materias civil y mercantil, y con exclusión de la materia familiar, donde sólo se afecten intereses particulares, la o el Ministerio Público Federal podrá interponer los recursos que esta Ley señala, sólo cuando las personas quejosas hubieren impugnado la constitucionalidad de normas generales y este aspecto se aborde en la sentencia.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 6o
@@ -112,7 +126,8 @@ Artículo reformado DOF 13-03-2025
 ### Artículo 7o
 . La Federación, los Estados, la Ciudad de México, los municipios o cualquier persona moral pública podrán solicitar amparo por conducto de las personas servidoras públicas o representantes que señalen las disposiciones aplicables, cuando la norma general, un acto u omisión los afecten en su patrimonio respecto de relaciones jurídicas en las que se encuentren en un plano de igualdad con los particulares.
 Las personas morales oficiales, los organismos descentralizados, las empresas públicas del Estado, las empresas de participación estatal mayoritaria, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas, fondos, mandatos y fideicomisos públicos estarán exentos de prestar las garantías que en esta Ley se exige a las partes.
-Párrafo reformado DOF 16-10-2025 Artículo reformado DOF 13-03-2025
+Párrafo reformado DOF 16-10-2025
+Artículo reformado DOF 13-03-2025
 
 ### Artículo 8o
 . La persona menor de edad, persona con discapacidad o mayor sujeta a interdicción podrá pedir amparo por sí o por cualquier persona en su nombre sin la intervención de su legítimo o legítima representante cuando ésta se halle ausente, se ignore quién sea, esté impedida o se negare a promoverlo. El órgano jurisdiccional, sin perjuicio de dictar las providencias que sean urgentes, le nombrará un o una representante especial para que intervenga en el juicio, debiendo preferir a una ESTADOS UNIDOS MEXICANOS persona familiar cercana, salvo cuando haya conflicto de intereses o motivo que justifiquen la designación de persona diversa.
@@ -171,6 +186,7 @@ Cualquiera de las partes que tenga noticia del fallecimiento de la persona quejo
 Artículo reformado DOF 13-03-2025
 
 ## CAPÍTULO III
+
 Plazos
 
 ### Artículo 17
@@ -212,6 +228,7 @@ Correrán para cada parte desde el día siguiente a aquél en que para ella hubi
 Artículo reformado DOF 13-03-2025
 
 ## CAPÍTULO IV
+
 Notificaciones
 
 ### Artículo 24
@@ -222,7 +239,8 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 25
 . Las notificaciones a la persona titular del Poder Ejecutivo Federal se entenderán con el o la titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarla en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley.
-Párrafo reformado DOF 20-05-2021, 13-03-2025 Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas vía electrónica, con el uso de la Firma Electrónica, a través del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación, y solo excepcionalmente por medio de oficio impreso dirigido al domicilio oficial que corresponda.
+Párrafo reformado DOF 20-05-2021, 13-03-2025
+Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas vía electrónica, con el uso de la Firma Electrónica, a través del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación, y solo excepcionalmente por medio de oficio impreso dirigido al domicilio oficial que corresponda.
 Párrafo reformado DOF 16-10-2025
 
 ### Artículo 26
@@ -262,7 +280,8 @@ II. Por oficio:
 a) A la autoridad responsable, salvo que se trate de la primera notificación a un o una particular señalada como tal, en cuyo caso se observará lo establecido en el inciso b) de la fracción I del presente artículo;
 Inciso reformado DOF 13-03-2025
 
-b) A la autoridad que tenga el carácter de tercera interesada, y Inciso reformado DOF 13-03-2025
+b) A la autoridad que tenga el carácter de tercera interesada, y
+Inciso reformado DOF 13-03-2025
 
 c) Al o la Ministerio Público de la Federación en el caso de amparo contra normas generales.
 Inciso reformado DOF 13-03-2025
@@ -285,19 +304,23 @@ I. Cuando obre en autos el domicilio de la persona, o se encuentre señalado uno
 a) El actuario o actuaria buscará a la persona que deba ser notificada, se cerciorará de su identidad, le hará saber el órgano jurisdiccional que ordena la notificación y el número de expediente y le entregará copia autorizada de la resolución que se notifica y, en su caso, de los documentos a que se refiera dicha resolución. Si la persona se niega a recibir o a firmar la notificación, la negativa se asentará en autos y aquélla se tendrá por hecha;
 Inciso reformado DOF 13-03-2025
 
-b) Si no se encuentra a la persona que deba ser notificada, el actuario o actuaria se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número del expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista; y por lista en una página electrónica, y Inciso reformado DOF 13-03-2025
+b) Si no se encuentra a la persona que deba ser notificada, el actuario o actuaria se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número del expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista; y por lista en una página electrónica, y
+Inciso reformado DOF 13-03-2025
 
 c) Si el actuario o actuaria encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse. Si no se presenta se notificará por lista y por lista en una página electrónica pudiendo, el referido órgano, tomar las medidas necesarias para lograr la notificación personal si lo estima pertinente.
-Inciso reformado DOF 13-03-2025 En todos los casos a que se refieren los incisos anteriores, el actuario o actuaria asentará razón circunstanciada en el expediente;
+Inciso reformado DOF 13-03-2025
+En todos los casos a que se refieren los incisos anteriores, el actuario o actuaria asentará razón circunstanciada en el expediente;
 Párrafo reformado DOF 13-03-2025
 
 II. Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, la primera notificación se hará por exhorto o despacho en términos del Código Nacional de Procedimientos Civiles y Familiares, los que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica. En el exhorto o despacho se requerirá que se señale domicilio en el lugar del juicio, con apercibimiento que de no hacerlo, las siguientes notificaciones, aún las personales, se practicarán por lista, sin perjuicio de que pueda hacer la solicitud a que se refiere la fracción IV del artículo 26 de esta Ley.
-Párrafo reformado DOF 13-03-2025 Cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conoce del juicio, pero en zona conurbada, podrá comisionar al notificador para que la realice en los términos de la fracción I de este artículo;
+Párrafo reformado DOF 13-03-2025
+Cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conoce del juicio, pero en zona conurbada, podrá comisionar al notificador para que la realice en los términos de la fracción I de este artículo;
 
 III. Cuando no conste en autos domicilio para oír notificaciones, o el señalado resulte inexacto:
 
 a) Las notificaciones personales a la persona quejosa se efectuarán por lista.
-ESTADOS UNIDOS MEXICANOS Inciso reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
+Inciso reformado DOF 13-03-2025
 
 b) Tratándose de la primera notificación la persona tercera interesada y al o la particular señalada como autoridad responsable, el órgano jurisdiccional dictará las medidas que estime pertinentes con el propósito de que se investigue su domicilio y podrá requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado. Siempre que el acto reclamado emane de un procedimiento judicial la notificación se hará en el último domicilio señalado para oír notificaciones en el juicio de origen.
 Si a pesar de lo anterior no pudiere efectuarse la notificación, se hará por edictos a costa de la persona quejosa en términos del Código Nacional de Procedimientos Civiles y Familiares. En caso de que la persona quejosa no acredite haber entregado para su publicación los edictos dentro del plazo de veinte días siguientes al en que se pongan a su disposición, se sobreseerá el amparo.
@@ -307,7 +330,8 @@ c) Cuando se trate de personas de escasos recursos a juicio del órgano jurisdic
 Inciso reformado DOF 13-03-2025
 
 IV. Cuando obre en autos que la persona cuenta con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, la notificación se hará de forma electrónica.
-Fracción adicionada DOF 16-10-2025 Cuando deba notificarse a la persona interesada la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio para oír notificaciones, ni se expresan estos datos en el escrito, continuará el juicio.
+Fracción adicionada DOF 16-10-2025
+Cuando deba notificarse a la persona interesada la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio para oír notificaciones, ni se expresan estos datos en el escrito, continuará el juicio.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 28
@@ -319,8 +343,11 @@ Fracción reformada DOF 13-03-2025
 
 II. Si el domicilio de la autoridad se encuentra fuera del lugar del juicio, se enviará el oficio por correo en pieza certificada con acuse de recibo, el que se agregará en autos.
 En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria.
-Párrafo reformado DOF 13-03-2025, 16-10-2025 El Órgano de Administración Judicial será el encargado de desarrollar y actualizar mediante acuerdos generales, el listado de medios electrónicos aptos para practicar notificaciones en el juicio de amparo.
-Párrafo adicionado DOF 16-10-2025 ESTADOS UNIDOS MEXICANOS En ningún caso podrán practicarse notificaciones a las partes por un medio diverso al establecido en la presente Ley, en los acuerdos generales emitidos por el Órgano de Administración Judicial o, tratándose de autoridades responsables que tengan Convenio suscrito con el Órgano de Administración Judicial o la Suprema Corte de Justicia de la Nación, según corresponda, en contravención a las formas o medios que se establezcan en dicho convenio, y Párrafo adicionado DOF 16-10-2025
+Párrafo reformado DOF 13-03-2025, 16-10-2025
+El Órgano de Administración Judicial será el encargado de desarrollar y actualizar mediante acuerdos generales, el listado de medios electrónicos aptos para practicar notificaciones en el juicio de amparo.
+Párrafo adicionado DOF 16-10-2025
+ESTADOS UNIDOS MEXICANOS En ningún caso podrán practicarse notificaciones a las partes por un medio diverso al establecido en la presente Ley, en los acuerdos generales emitidos por el Órgano de Administración Judicial o, tratándose de autoridades responsables que tengan Convenio suscrito con el Órgano de Administración Judicial o la Suprema Corte de Justicia de la Nación, según corresponda, en contravención a las formas o medios que se establezcan en dicho convenio, y
+Párrafo adicionado DOF 16-10-2025
 
 III. En casos urgentes, cuando lo requiera el orden público o fuere necesario para la eficacia de la notificación, el órgano jurisdiccional que conozca del amparo o del incidente de suspensión o de cualquier otro previsto por esta Ley, podrá ordenar que la notificación se haga a las autoridades responsables por cualquier medio oficial, sin perjuicio de practicarla conforme a las fracciones I y II de este artículo.
 Las oficinas públicas de comunicaciones están obligadas a transmitir, sin costo alguno, los oficios a que se refieren las anteriores fracciones.
@@ -343,15 +370,18 @@ Párrafo reformado DOF 13-03-2025
 . Las notificaciones por vía electrónica se sujetarán a las reglas siguientes:
 
 I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio digitalizado mediante la utilización de la Firma Electrónica al usuario registrado dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, o en su caso, mediante el sistema establecido en el Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación y, excepcionalmente, por oficio impreso en los términos precisados en el artículo 28 de esta Ley.
-Párrafo reformado DOF 13-03-2025, 16-10-2025 A efecto de dar cumplimiento a lo dispuesto por el párrafo anterior, cuando el domicilio se encuentre fuera del lugar del juicio, la primera notificación se hará por correo, en pieza certificada con acuse de recibo por medio de oficio digitalizado, con la utilización de la Firma Electrónica.
+Párrafo reformado DOF 13-03-2025, 16-10-2025
+A efecto de dar cumplimiento a lo dispuesto por el párrafo anterior, cuando el domicilio se encuentre fuera del lugar del juicio, la primera notificación se hará por correo, en pieza certificada con acuse de recibo por medio de oficio digitalizado, con la utilización de la Firma Electrónica.
 En todos los casos la notificación o constancia respectiva se agregará a los autos.
 Las autoridades responsables que cuenten con Firma Electrónica están obligadas a ingresar al sistema electrónico del Poder Judicial de la Federación todos los días y obtener la constancia a que se refiere la fracción III del artículo 31 de esta Ley, en un plazo máximo de dos días a partir ESTADOS UNIDOS MEXICANOS de que el órgano jurisdiccional la hubiere enviado, con excepción de las determinaciones dictadas en el incidente de suspensión en cuyo caso el plazo será de veinticuatro horas.
 De no generarse la constancia de consulta antes mencionada, el órgano jurisdiccional que corresponda tendrá por hecha la notificación y se dará por no cumplida por la autoridad responsable la resolución que contenga. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o la actuaria, quien, además, asentará en el expediente cualquiera de las situaciones anteriores.
-Párrafo reformado DOF 13-03-2025 En aquellos asuntos que por su especial naturaleza, las autoridades responsables consideren que pudiera alterarse su normal funcionamiento, éstas podrán solicitar al órgano jurisdiccional la ampliación del término de la consulta de los archivos contenidos en el sistema de información electrónica.
+Párrafo reformado DOF 13-03-2025
+En aquellos asuntos que por su especial naturaleza, las autoridades responsables consideren que pudiera alterarse su normal funcionamiento, éstas podrán solicitar al órgano jurisdiccional la ampliación del término de la consulta de los archivos contenidos en el sistema de información electrónica.
 El auto que resuelva sobre la ampliación podrá ser recurrido a través del recurso de queja en los plazos y términos establecidos para las resoluciones a las que se refiere el artículo 97, fracción I, inciso b) de esta Ley;
 
 II. Las personas quejosas o terceras interesadas que cuenten con Firma Electrónica están obligadas a ingresar al sistema electrónico del Poder Judicial de la Federación todos los días y obtener la constancia a que se refiere la fracción III del artículo 31 de esta Ley, en un plazo máximo de dos días a partir de que el órgano jurisdiccional la hubiere enviado, con excepción de las determinaciones dictadas en el incidente de suspensión, en cuyo caso, el plazo será de veinticuatro horas.
-De no ingresar al sistema electrónico del Poder Judicial de la Federación dentro de los plazos señalados, el órgano jurisdiccional que corresponda tendrá por hecha la notificación. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o actuaria, quien, además, hará constar en el expediente cualquiera de las situaciones anteriores, y Fracción reformada DOF 13-03-2025
+De no ingresar al sistema electrónico del Poder Judicial de la Federación dentro de los plazos señalados, el órgano jurisdiccional que corresponda tendrá por hecha la notificación. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o actuaria, quien, además, hará constar en el expediente cualquiera de las situaciones anteriores, y
+Fracción reformada DOF 13-03-2025
 
 III. Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el sistema, haciendo imposible el envío y la recepción de promociones dentro de los plazos establecidos en la ley, las partes deberán dar aviso de inmediato, por cualquier otra vía, al órgano jurisdiccional que corresponda, el que comunicará tal situación a la unidad administrativa encargada de operar el sistema. En tanto dure ese acontecimiento, se suspenderán, únicamente por ese lapso, los plazos correspondientes.
 Una vez que se haya restablecido el sistema, la unidad administrativa encargada de operar el sistema enviará un reporte al o los órganos jurisdiccionales correspondientes en el que deberá señalar la causa y el tiempo de la interrupción del sistema, para efectos del cómputo correspondiente.
@@ -362,9 +392,11 @@ El órgano jurisdiccional que corresponda deberá notificar a las partes sobre l
 ESTADOS UNIDOS MEXICANOS
 
 I. Las que correspondan a las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, desde el momento en que hayan quedado legalmente hechas.
-Párrafo reformado DOF 13-03-2025 Cuando el oficio que contenga el auto o resolución que se debe notificar se envíe por correo y no se trate de la suspensión, en la fecha que conste en el acuse de recibo, siempre y cuando sea un día hábil. En caso contrario, a la primera hora del día hábil siguiente;
+Párrafo reformado DOF 13-03-2025
+Cuando el oficio que contenga el auto o resolución que se debe notificar se envíe por correo y no se trate de la suspensión, en la fecha que conste en el acuse de recibo, siempre y cuando sea un día hábil. En caso contrario, a la primera hora del día hábil siguiente;
 
-II. Las demás, desde el día siguiente al de la notificación personal o al de la fijación y publicación de la lista que se realice en los términos de la presente Ley. Tratándose de aquellas personas usuarias que cuenten con Firma Electrónica, la notificación por lista surtirá sus efectos cuando llegado el término al que se refiere la fracción II del artículo 30, no hubieren generado la constancia electrónica que acredite la consulta de los archivos respectivos, debiendo asentar el actuario o actuaria la razón correspondiente, y Fracción reformada DOF 13-03-2025
+II. Las demás, desde el día siguiente al de la notificación personal o al de la fijación y publicación de la lista que se realice en los términos de la presente Ley. Tratándose de aquellas personas usuarias que cuenten con Firma Electrónica, la notificación por lista surtirá sus efectos cuando llegado el término al que se refiere la fracción II del artículo 30, no hubieren generado la constancia electrónica que acredite la consulta de los archivos respectivos, debiendo asentar el actuario o actuaria la razón correspondiente, y
+Fracción reformada DOF 13-03-2025
 
 III. Las realizadas por vía electrónica cuando se genere la constancia de la consulta realizada, la cual, por una parte, el órgano jurisdiccional digitalizará para el expediente electrónico y, por otra, hará una impresión que agregará al expediente impreso correspondiente como constancia de notificación.
 Se entiende generada la constancia cuando el sistema electrónico del Poder Judicial de la Federación produzca el aviso de la hora en que se recupere la determinación judicial correspondiente, contenida en el archivo electrónico.
@@ -373,9 +405,11 @@ Se entiende generada la constancia cuando el sistema electrónico del Poder Judi
 . Serán nulas las notificaciones que no se hicieren en la forma que establecen las disposiciones precedentes.
 
 ## CAPÍTULO V
+
 Competencia
 
 ## Sección Primera
+
 Reglas de Competencia
 
 ### Artículo 33
@@ -400,7 +434,8 @@ En materia agraria y en los juicios en contra de tribunales federales de lo cont
 
 ### Artículo 35
 . Los juzgados de distrito y los tribunales colegiados de apelación son competentes para conocer del juicio de amparo indirecto.
-Párrafo reformado DOF 07-06-2021 También lo serán las autoridades del orden común cuando actúen en auxilio de los órganos jurisdiccionales de amparo.
+Párrafo reformado DOF 07-06-2021
+También lo serán las autoridades del orden común cuando actúen en auxilio de los órganos jurisdiccionales de amparo.
 
 ### Artículo 36
 . Los tribunales colegiados de apelación sólo conocerán de los juicios de amparo indirecto promovidos contra actos de otros tribunales de la misma naturaleza. Será competente otro tribunal del mismo circuito, si lo hubiera, o el más próximo a la residencia de aquél que haya emitido el acto reclamado.
@@ -433,6 +468,7 @@ Si el Pleno decide ejercer la facultad de atracción se avocará al conocimiento
 Artículo reformado DOF 20-05-2021, 07-06-2021, 13-03-2025
 
 ## Sección Segunda
+
 Conflictos Competenciales
 
 ### Artículo 41
@@ -455,7 +491,8 @@ Si en el mismo supuesto del párrafo anterior quien conoce de la revisión es un
 ### Artículo 46
 . Cuando un tribunal colegiado de circuito tenga información de que otro conoce de un asunto que a aquél le corresponda, lo requerirá para que le remita los autos. Si el requerido estima no ser competente deberá remitir los autos, dentro de los tres días siguientes a la recepción del requerimiento.
 Si considera que lo es, en igual plazo hará saber su resolución al requirente, suspenderá el procedimiento y remitirá los autos a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación, quien lo turnará a la ministra o ministro ponente que corresponda, para que aquella resuelva lo que proceda dentro del plazo de ocho días.
-Párrafo reformado DOF 13-03-2025 Cuando el tribunal colegiado de circuito que conozca de un juicio o recurso estime carecer de competencia para conocer de ellos, lo declarará así y enviará dentro de los tres días siguientes los autos al órgano jurisdiccional que en su concepto lo sea.
+Párrafo reformado DOF 13-03-2025
+Cuando el tribunal colegiado de circuito que conozca de un juicio o recurso estime carecer de competencia para conocer de ellos, lo declarará así y enviará dentro de los tres días siguientes los autos al órgano jurisdiccional que en su concepto lo sea.
 ESTADOS UNIDOS MEXICANOS Si éste acepta la competencia, se avocará al conocimiento; en caso contrario, dentro de los tres días siguientes comunicará su resolución al órgano que declinó la competencia y remitirá los autos a la Suprema Corte de Justicia de la Nación para que dentro del plazo de ocho días resuelva lo que proceda.
 
 ### Artículo 47
@@ -467,14 +504,19 @@ Artículo reformado DOF 07-06-2021
 
 ### Artículo 48
 . Cuando se presente una demanda de amparo ante jueza o juez de distrito o tribunal colegiado de apelación y estimen carecer de competencia, la remitirán de plano, con sus anexos, a la jueza, juez o tribunal competente, sin decidir sobre la admisión ni sobre la suspensión del acto reclamado, salvo que se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
-Párrafo reformado DOF 07-06-2021 Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución a la persona requirente, previa notificación de las partes. En caso contrario, devolverá la demanda a la persona requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución a la persona requerida y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso a la persona requerida para que exponga lo que estime pertinente.
-Párrafo reformado DOF 13-03-2025 Si el conflicto competencial se plantea entre órganos que no sean de la jurisdicción de un mismo tribunal colegiado de circuito, lo resolverá el que ejerza jurisdicción sobre el o la requirente, quien remitirá los autos y dará aviso a la persona requerida para que exponga lo conducente, debiéndose estar a lo que se dispone en el artículo anterior.
-Párrafo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS Recibidos los autos y el oficio relativo, el tribunal colegiado de circuito tramitará el expediente y resolverá dentro de los ocho días siguientes quién debe conocer del juicio; comunicará su resolución a las o los involucrados y remitirá los autos al órgano declarado competente.
-Párrafo reformado DOF 13-03-2025 Admitida la demanda de amparo indirecto ningún órgano jurisdiccional podrá declararse incompetente para conocer del juicio antes de resolver sobre la suspensión definitiva.
+Párrafo reformado DOF 07-06-2021
+Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución a la persona requirente, previa notificación de las partes. En caso contrario, devolverá la demanda a la persona requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución a la persona requerida y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso a la persona requerida para que exponga lo que estime pertinente.
+Párrafo reformado DOF 13-03-2025
+Si el conflicto competencial se plantea entre órganos que no sean de la jurisdicción de un mismo tribunal colegiado de circuito, lo resolverá el que ejerza jurisdicción sobre el o la requirente, quien remitirá los autos y dará aviso a la persona requerida para que exponga lo conducente, debiéndose estar a lo que se dispone en el artículo anterior.
+Párrafo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS Recibidos los autos y el oficio relativo, el tribunal colegiado de circuito tramitará el expediente y resolverá dentro de los ocho días siguientes quién debe conocer del juicio; comunicará su resolución a las o los involucrados y remitirá los autos al órgano declarado competente.
+Párrafo reformado DOF 13-03-2025
+Admitida la demanda de amparo indirecto ningún órgano jurisdiccional podrá declararse incompetente para conocer del juicio antes de resolver sobre la suspensión definitiva.
 
 ### Artículo 49
 . Cuando la jueza o el juez de distrito o el tribunal colegiado de apelación ante el cual se hubiese promovido un juicio de amparo tenga información de que otro está conociendo de un juicio diverso promovido por la misma quejosa o quejoso, contra las mismas autoridades y por el mismo acto reclamado, aunque los conceptos de violación sean distintos, lo comunicará de inmediato por oficio a dicho órgano, y anexará la certificación del día y hora de presentación de la demanda, así como, en su caso, del auto dictado como primera actuación en el juicio.
-Párrafo reformado DOF 07-06-2021 Recibido el oficio, el órgano resolverá dentro de las veinticuatro horas siguientes si se trata del mismo asunto y si le corresponde su conocimiento, y comunicará lo anterior al oficiante. Si reconoce la competencia de éste, le remitirá los autos relativos.
+Párrafo reformado DOF 07-06-2021
+Recibido el oficio, el órgano resolverá dentro de las veinticuatro horas siguientes si se trata del mismo asunto y si le corresponde su conocimiento, y comunicará lo anterior al oficiante. Si reconoce la competencia de éste, le remitirá los autos relativos.
 En caso de conflicto competencial, se estará a lo dispuesto en el artículo 48 de esta Ley.
 Cuando se resuelva que se trata de un mismo asunto, se continuará el juicio promovido ante la jueza o el juez de distrito o tribunal colegiado de apelación que haya resultado competente y se deberá sobreseer en el otro juicio.
 Párrafo reformado DOF 07-06-2021
@@ -485,6 +527,7 @@ La presidenta o el presidente del tribunal colegiado pedirá informe a la jueza 
 Artículo reformado DOF 07-06-2021
 
 ## CAPÍTULO VI
+
 Impedimentos, Excusas y Recusaciones
 
 ### Artículo 51
@@ -508,7 +551,8 @@ Fracción reformada DOF 13-03-2025
 
 VI. Si figuran como partes en algún juicio de amparo semejante al de su conocimiento;
 
-VII. Si tuvieren amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados, abogadas o representantes, y Fracción reformada DOF 13-03-2025
+VII. Si tuvieren amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados, abogadas o representantes, y
+Fracción reformada DOF 13-03-2025
 
 VIII. Si se encuentran en una situación diversa a las especificadas que implicaran elementos objetivos de los que pudiera derivarse el riesgo de pérdida de imparcialidad.
 
@@ -548,8 +592,10 @@ Fracción con incisos adicionada DOF 07-06-2021
 
 ### Artículo 55
 . Las ministras y los ministros de la Suprema Corte de Justicia de la Nación manifestarán estar impedidos ante el tribunal pleno.
-Párrafo reformado DOF 13-03-2025 Las magistradas o los magistrados de circuito y las juezas o los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal que corresponda.
-Párrafo reformado DOF 07-06-2021 Las excusas se calificarán de plano.
+Párrafo reformado DOF 13-03-2025
+Las magistradas o los magistrados de circuito y las juezas o los jueces de distrito manifestarán su impedimento y lo comunicarán al tribunal que corresponda.
+Párrafo reformado DOF 07-06-2021
+Las excusas se calificarán de plano.
 
 ### Artículo 56
 . Cuando una de las ministras o ministros se manifieste impedido en asuntos del conocimiento del Pleno, las ministras y ministros restantes calificarán la excusa. Si la admiten, éstos continuarán en el conocimiento del asunto; en caso de empate, quien presida tendrá voto de calidad.
@@ -557,9 +603,12 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 57
 . Cuando uno o una de los integrantes de un tribunal colegiado de circuito o de un tribunal colegiado de apelación, se excuse o sea recusado, los y las restantes resolverán lo conducente.
-Párrafo reformado DOF 07-06-2021, 13-03-2025 En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano. El mismo procedimiento se seguirá tratándose de empate en tribunales colegiados de apelación.
-Párrafo reformado DOF 07-06-2021 Cuando la excusa o recusación se refiera a más de un magistrado o magistrada, la resolución se hará en términos del párrafo anterior.
-Párrafo reformado DOF 13-03-2025 Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto se devolverá al tribunal de origen para que resuelva. Si fueren dos o más las magistradas o magistrados que resulten impedidos, el propio tribunal que así lo decidió resolverá el asunto principal.
+Párrafo reformado DOF 07-06-2021, 13-03-2025
+En caso de empate, la resolución corresponderá al tribunal colegiado de circuito siguiente en orden del mismo circuito y especialidad y, de no haberlos, al del circuito más cercano. El mismo procedimiento se seguirá tratándose de empate en tribunales colegiados de apelación.
+Párrafo reformado DOF 07-06-2021
+Cuando la excusa o recusación se refiera a más de un magistrado o magistrada, la resolución se hará en términos del párrafo anterior.
+Párrafo reformado DOF 13-03-2025
+Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto se devolverá al tribunal de origen para que resuelva. Si fueren dos o más las magistradas o magistrados que resulten impedidos, el propio tribunal que así lo decidió resolverá el asunto principal.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 58
@@ -577,13 +626,19 @@ Párrafo con fracciones adicionado DOF 16-10-2025
 
 ### Artículo 60
 . La recusación se presentará ante la persona servidora pública a quien se estime impedida, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación.
-Párrafo reformado DOF 13-03-2025, 16-10-2025 El escrito de recusación deberá ser presentado con anterioridad a la publicación de la lista de sesión a que se refiere el artículo 184 de esta Ley. Para el caso de que el asunto sea retirado y/o aplazado conforme al citado artículo 184, no podrá volver a presentarse, salvo que se modifique la integración del órgano jurisdiccional.
-Párrafo adicionado DOF 16-10-2025 Si la persona servidora pública admite la causa de recusación, se declarará fundada; si la negare, se señalará día y hora para que dentro de los tres días siguientes se celebre la audiencia en la que se ofrecerán, admitirán y desahogarán las pruebas de las partes y se dictará resolución.
-Párrafo reformado DOF 13-03-2025 En caso de no rendirse el informe a que se refiere el párrafo primero, se declarará fundada la causa de recusación, en cuyo caso se devolverá a la persona promovente la garantía exhibida.
-Párrafo reformado DOF 13-03-2025 Si se declara infundada la recusación la persona servidora pública seguirá conociendo del asunto.
-Párrafo reformado DOF 13-03-2025 Si el órgano que deba calificar la recusación la hubiere negado y ésta se comprobase, quedará sujeto a la responsabilidad que corresponda conforme a esta Ley.
+Párrafo reformado DOF 13-03-2025, 16-10-2025
+El escrito de recusación deberá ser presentado con anterioridad a la publicación de la lista de sesión a que se refiere el artículo 184 de esta Ley. Para el caso de que el asunto sea retirado y/o aplazado conforme al citado artículo 184, no podrá volver a presentarse, salvo que se modifique la integración del órgano jurisdiccional.
+Párrafo adicionado DOF 16-10-2025
+Si la persona servidora pública admite la causa de recusación, se declarará fundada; si la negare, se señalará día y hora para que dentro de los tres días siguientes se celebre la audiencia en la que se ofrecerán, admitirán y desahogarán las pruebas de las partes y se dictará resolución.
+Párrafo reformado DOF 13-03-2025
+En caso de no rendirse el informe a que se refiere el párrafo primero, se declarará fundada la causa de recusación, en cuyo caso se devolverá a la persona promovente la garantía exhibida.
+Párrafo reformado DOF 13-03-2025
+Si se declara infundada la recusación la persona servidora pública seguirá conociendo del asunto.
+Párrafo reformado DOF 13-03-2025
+Si el órgano que deba calificar la recusación la hubiere negado y ésta se comprobase, quedará sujeto a la responsabilidad que corresponda conforme a esta Ley.
 
 ## CAPÍTULO VII
+
 Improcedencia
 
 ### Artículo 61
@@ -621,8 +676,11 @@ XIII. Contra actos consentidos expresamente o por manifestaciones de voluntad qu
 
 XIV. Contra normas generales o actos consentidos tácitamente, entendiéndose por tales aquéllos contra los que no se promueva el juicio de amparo dentro de los plazos previstos.
 No se entenderá consentida una norma general, a pesar de que siendo impugnable en amparo desde el momento de la iniciación de su vigencia no se haya reclamado, sino sólo en el caso de que tampoco se haya promovido amparo contra el primer acto de su aplicación en perjuicio de la persona quejosa.
-Párrafo reformado DOF 13-03-2025 Cuando contra el primer acto de aplicación proceda algún recurso o medio de defensa legal por virtud del cual pueda ser modificado, revocado o nulificado, será optativo para la persona interesada hacerlo valer o impugnar desde luego la norma general en juicio de amparo. En el primer caso, sólo se entenderá consentida la norma general si no se promueve contra ella el amparo dentro del plazo legal contado a partir del día siguiente de aquél al en que surta sus efectos la notificación de la resolución recaída al recurso o medio de defensa, si no existieran medios de defensa ordinarios en contra de dicha resolución, o de la última resolución recaída al medio de defensa ordinario previsto en ley contra la resolución del recurso, aún cuando para fundarlo se hayan aducido exclusivamente motivos de ilegalidad.
-ESTADOS UNIDOS MEXICANOS Párrafo reformado DOF 13-03-2025 Si en contra de dicha resolución procede amparo directo, deberá estarse a lo dispuesto en el capítulo respectivo a ese procedimiento;
+Párrafo reformado DOF 13-03-2025
+Cuando contra el primer acto de aplicación proceda algún recurso o medio de defensa legal por virtud del cual pueda ser modificado, revocado o nulificado, será optativo para la persona interesada hacerlo valer o impugnar desde luego la norma general en juicio de amparo. En el primer caso, sólo se entenderá consentida la norma general si no se promueve contra ella el amparo dentro del plazo legal contado a partir del día siguiente de aquél al en que surta sus efectos la notificación de la resolución recaída al recurso o medio de defensa, si no existieran medios de defensa ordinarios en contra de dicha resolución, o de la última resolución recaída al medio de defensa ordinario previsto en ley contra la resolución del recurso, aún cuando para fundarlo se hayan aducido exclusivamente motivos de ilegalidad.
+ESTADOS UNIDOS MEXICANOS
+Párrafo reformado DOF 13-03-2025
+Si en contra de dicha resolución procede amparo directo, deberá estarse a lo dispuesto en el capítulo respectivo a ese procedimiento;
 
 XV. Contra las resoluciones o declaraciones de las autoridades competentes en materia electoral;
 
@@ -643,14 +701,17 @@ Inciso reformado DOF 17-06-2016, 13-03-2025
 c) Cuando se trate de persona extraña al procedimiento.
 
 d) Cuando se trate del auto de vinculación a proceso.
-Inciso adicionado DOF 17-06-2016 Cuando la procedencia del recurso o medio de defensa se sujete a interpretación adicional o su fundamento legal sea insuficiente para determinarla, la persona quejosa quedará en libertad de interponer dicho recurso o acudir al juicio de amparo;
-Párrafo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Inciso adicionado DOF 17-06-2016
+Cuando la procedencia del recurso o medio de defensa se sujete a interpretación adicional o su fundamento legal sea insuficiente para determinarla, la persona quejosa quedará en libertad de interponer dicho recurso o acudir al juicio de amparo;
+Párrafo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 XIX. Cuando se esté tramitando ante los tribunales ordinarios algún recurso o medio de defensa legal propuesto por la persona quejosa que pueda tener por efecto modificar, revocar o nulificar el acto reclamado;
 Fracción reformada DOF 13-03-2025
 
 XX. Contra actos de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, que deban ser revisados de oficio, conforme a las leyes que los rijan, o proceda contra ellos algún juicio, recurso o medio de defensa legal por virtud del cual puedan ser modificados, revocados o nulificados, siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer la persona quejosa, con los mismos alcances que los que prevé esta Ley y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con esta Ley.
-Párrafo reformado DOF 13-03-2025 No existe obligación de agotar tales recursos o medios de defensa, si el acto reclamado carece de fundamentación, cuando sólo se aleguen violaciones directas a la Constitución o cuando el recurso o medio de defensa se encuentre previsto en un reglamento sin que la ley aplicable contemple su existencia.
+Párrafo reformado DOF 13-03-2025
+No existe obligación de agotar tales recursos o medios de defensa, si el acto reclamado carece de fundamentación, cuando sólo se aleguen violaciones directas a la Constitución o cuando el recurso o medio de defensa se encuentre previsto en un reglamento sin que la ley aplicable contemple su existencia.
 Si en el informe justificado la autoridad responsable señala la fundamentación y motivación del acto reclamado, operará la excepción al principio de definitividad contenida en el párrafo anterior;
 
 XXI. Cuando hayan cesado los efectos del acto reclamado;
@@ -663,13 +724,15 @@ XXIII. En los demás casos en que la improcedencia resulte de alguna disposició
 . Las causas de improcedencia se analizarán de oficio por el órgano jurisdiccional que conozca del juicio de amparo.
 
 ## CAPÍTULO VIII
+
 Sobreseimiento
 
 ### Artículo 63
 . El sobreseimiento en el juicio de amparo procede cuando:
 
 I. La persona quejosa desista de la demanda o no la ratifique en los casos en que la ley establezca requerimiento. En caso de desistimiento se notificará personalmente a la persona quejosa para que ratifique su escrito en un plazo de tres días, apercibido que de no hacerlo, se le tendrá por no desistida y se continuará el juicio.
-Párrafo reformado DOF 13-03-2025 No obstante, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o núcleos de población que de hecho o por derecho guarden el estado comunal, no procede el desistimiento del juicio o de los recursos, o el consentimiento expreso de los propios actos, ESTADOS UNIDOS MEXICANOS salvo que lo acuerde expresamente la Asamblea General, pero uno y otro sí podrán decretarse en su beneficio;
+Párrafo reformado DOF 13-03-2025
+No obstante, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o núcleos de población que de hecho o por derecho guarden el estado comunal, no procede el desistimiento del juicio o de los recursos, o el consentimiento expreso de los propios actos, ESTADOS UNIDOS MEXICANOS salvo que lo acuerde expresamente la Asamblea General, pero uno y otro sí podrán decretarse en su beneficio;
 
 II. La persona quejosa no acredite sin causa razonable a juicio del órgano jurisdiccional de amparo haber entregado los edictos para su publicación en términos del artículo 27 de esta Ley una vez que se compruebe que se hizo el requerimiento al órgano que los decretó;
 Fracción reformada DOF 13-03-2025
@@ -690,6 +753,7 @@ Párrafo reformado DOF 13-03-2025
 . El sobreseimiento no prejuzga sobre la constitucionalidad o legalidad del acto reclamado, ni sobre la responsabilidad de la autoridad responsable al ordenarlo o ejecutarlo y solo podrá decretarse cuando no exista duda de su actualización.
 
 ## CAPÍTULO IX
+
 Incidentes
 
 ### Artículo 66
@@ -700,6 +764,7 @@ Incidentes
 Transcurrido el plazo anterior, dentro de los tres días siguientes se celebrará la audiencia en la que se recibirán y desahogarán las pruebas, se oirán los alegatos de las partes y, en su caso, se dictará la resolución correspondiente.
 
 ## Sección Primera
+
 Nulidad de Notificaciones ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 68
@@ -711,6 +776,7 @@ Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 . Declarada la nulidad, se repondrá el procedimiento a partir de la actuación anulada.
 
 ## Sección Segunda
+
 Reposición de Constancias de Autos
 
 ### Artículo 70
@@ -726,14 +792,18 @@ Párrafo reformado DOF 13-03-2025
 Si la pérdida es imputable a alguna de las partes, la reposición se hará a su costa, quien además pagará los daños y perjuicios que el extravío y la reposición ocasionen, sin perjuicio de las sanciones penales que ello implique.
 
 ## CAPÍTULO X
+
 Sentencias
 
 ### Artículo 73
 . Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de las o los individuos particulares o de las personas morales, privadas u oficiales que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda.
 Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales.
-Párrafo reformado DOF 13-03-2025 El Pleno de la Suprema Corte de Justicia de la Nación, así como los tribunales colegiados de circuito, tratándose de resoluciones sobre la constitucionalidad o convencionalidad de una norma general y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, cuando menos con tres días de anticipación a la publicación de las listas de los asuntos que se resolverán.
-Párrafo reformado DOF 17-06-2016, 13-03-2025 ESTADOS UNIDOS MEXICANOS La Suprema Corte de Justicia de la Nación y el Órgano de Administración Judicial reglamentarán mediante acuerdos generales la publicidad que deba darse a los proyectos de sentencia a que se refiere el párrafo anterior.
-Párrafo adicionado DOF 17-06-2016. Reformado DOF 13-03-2025 Cuando proceda hacer la declaratoria general de inconstitucionalidad se aplicarán las disposiciones del Título Cuarto de esta Ley.
+Párrafo reformado DOF 13-03-2025
+El Pleno de la Suprema Corte de Justicia de la Nación, así como los tribunales colegiados de circuito, tratándose de resoluciones sobre la constitucionalidad o convencionalidad de una norma general y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, cuando menos con tres días de anticipación a la publicación de las listas de los asuntos que se resolverán.
+Párrafo reformado DOF 17-06-2016, 13-03-2025
+ESTADOS UNIDOS MEXICANOS La Suprema Corte de Justicia de la Nación y el Órgano de Administración Judicial reglamentarán mediante acuerdos generales la publicidad que deba darse a los proyectos de sentencia a que se refiere el párrafo anterior.
+Párrafo adicionado DOF 17-06-2016. Reformado DOF 13-03-2025
+Cuando proceda hacer la declaratoria general de inconstitucionalidad se aplicarán las disposiciones del Título Cuarto de esta Ley.
 En amparo directo, la calificación de los conceptos de violación en que se alegue la inconstitucionalidad de una norma general, se hará únicamente en la parte considerativa de la sentencia.
 
 ### Artículo 74
@@ -756,8 +826,10 @@ El órgano jurisdiccional, de oficio podrá aclarar la sentencia ejecutoriada, s
 . En las sentencias que se dicten en los juicios de amparo el acto reclamado se apreciará tal y como aparezca probado ante la autoridad responsable. No se admitirán ni se tomarán en consideración las pruebas que no se hubiesen rendido ante dicha autoridad.
 No obstante lo dispuesto en el párrafo anterior, en el amparo indirecto la persona quejosa podrá ofrecer pruebas cuando no hubiere tenido oportunidad de hacerlo ante la autoridad responsable.
 Adicionalmente, en materia penal, el juez o jueza de distrito deberá cerciorarse de que este ofrecimiento en el amparo no implique una violación a la oralidad o a los principios que rigen en el proceso penal acusatorio.
-Párrafo reformado DOF 17-06-2016, 13-03-2025 El Órgano jurisdiccional deberá recabar oficiosamente las pruebas rendidas ante la responsable y las actuaciones que estime necesarias para la resolución del asunto. En materia penal, se estará a lo dispuesto en la última parte del párrafo anterior.
-Párrafo reformado DOF 17-06-2016 ESTADOS UNIDOS MEXICANOS Además, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a las personas ejidatarias o comuneras, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
+Párrafo reformado DOF 17-06-2016, 13-03-2025
+El Órgano jurisdiccional deberá recabar oficiosamente las pruebas rendidas ante la responsable y las actuaciones que estime necesarias para la resolución del asunto. En materia penal, se estará a lo dispuesto en la última parte del párrafo anterior.
+Párrafo reformado DOF 17-06-2016
+ESTADOS UNIDOS MEXICANOS Además, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a las personas ejidatarias o comuneras, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 76
@@ -766,18 +838,23 @@ Párrafo reformado DOF 13-03-2025
 ### Artículo 77
 . Los efectos de la concesión del amparo serán:
 
-I. Cuando el acto reclamado sea de carácter positivo se restituirá a la persona quejosa en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación, y Fracción reformada DOF 13-03-2025
+I. Cuando el acto reclamado sea de carácter positivo se restituirá a la persona quejosa en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación, y
+Fracción reformada DOF 13-03-2025
 
 II. Cuando el acto reclamado sea de carácter negativo o implique una omisión, obligar a la autoridad responsable a respetar el derecho de que se trate y a cumplir lo que el mismo exija.
 En el último considerando de la sentencia que conceda el amparo, la persona juzgadora deberá determinar con precisión los efectos del mismo, especificando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución de la persona quejosa en el goce del derecho.
-Párrafo reformado DOF 13-03-2025 En asuntos del orden penal en que se reclame una orden de aprehensión o autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad con motivo de delitos que la ley no considere como graves o respecto de los cuales no proceda la prisión preventiva oficiosa conforme la legislación procedimental aplicable, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto por el que se resuelva la situación jurídica de la persona quejosa en el sentido de sujetarlo a proceso penal, en términos de la legislación procesal aplicable, y el amparo se conceda por vicios formales.
-Párrafo reformado DOF 17-06-2016, 13-03-2025 En caso de que el efecto de la sentencia sea la libertad de la persona quejosa, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que la persona quejosa no evada la acción de la justicia.
-Párrafo reformado DOF 13-03-2025 En todo caso, la sentencia surtirá sus efectos, cuando se declare ejecutoriada o cause estado por ministerio de ley.
+Párrafo reformado DOF 13-03-2025
+En asuntos del orden penal en que se reclame una orden de aprehensión o autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad con motivo de delitos que la ley no considere como graves o respecto de los cuales no proceda la prisión preventiva oficiosa conforme la legislación procedimental aplicable, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto por el que se resuelva la situación jurídica de la persona quejosa en el sentido de sujetarlo a proceso penal, en términos de la legislación procesal aplicable, y el amparo se conceda por vicios formales.
+Párrafo reformado DOF 17-06-2016, 13-03-2025
+En caso de que el efecto de la sentencia sea la libertad de la persona quejosa, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que la persona quejosa no evada la acción de la justicia.
+Párrafo reformado DOF 13-03-2025
+En todo caso, la sentencia surtirá sus efectos, cuando se declare ejecutoriada o cause estado por ministerio de ley.
 
 ### Artículo 78
 . Cuando el acto reclamado sea una norma general la sentencia deberá determinar si es constitucional, o si debe considerarse inconstitucional.
 Si se declara la inconstitucionalidad de la norma general impugnada, los efectos se extenderán a todas aquellas normas y actos cuya validez dependa de la propia norma invalidada. Dichos efectos se traducirán en la inaplicación únicamente respecto de la persona quejosa.
-Párrafo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales a la inaplicación deberán adoptarse para restablecer a la persona quejosa en el pleno goce del derecho violado.
+Párrafo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales a la inaplicación deberán adoptarse para restablecer a la persona quejosa en el pleno goce del derecho violado.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 79
@@ -791,7 +868,8 @@ Fracción reformada DOF 13-03-2025
 
 III. En materia penal:
 
-a) En favor de la persona inculpada o sentenciada, y Inciso reformado DOF 13-03-2025
+a) En favor de la persona inculpada o sentenciada, y
+Inciso reformado DOF 13-03-2025
 
 b) En favor de la persona ofendida o víctima en los casos en que tenga el carácter de persona quejosa o adherente;
 Inciso reformado DOF 13-03-2025
@@ -801,18 +879,22 @@ IV. En materia agraria:
 a) En los casos a que se refiere la fracción III del artículo 17 de esta Ley; y
 
 b) En favor de las personas ejidatarias y comuneras en particular, cuando el acto reclamado afecte sus bienes o derechos agrarios.
-Inciso reformado DOF 13-03-2025 En estos casos deberá suplirse la deficiencia de la queja y la de exposiciones, comparecencias y alegatos, así como en los recursos que los mismos interpongan con motivo de dichos juicios;
+Inciso reformado DOF 13-03-2025
+En estos casos deberá suplirse la deficiencia de la queja y la de exposiciones, comparecencias y alegatos, así como en los recursos que los mismos interpongan con motivo de dichos juicios;
 
 V. En materia laboral, en favor de la persona trabajadora, con independencia de que la relación entre la persona empleadora y empleada esté regulada por el derecho laboral o por el derecho administrativo;
 Fracción reformada DOF 13-03-2025
 
-VI. En otras materias, cuando se advierta que ha habido en contra de la persona quejosa o del o la particular recurrente una violación evidente de la ley que la haya dejado sin defensa por afectar los derechos previstos en el artículo 1o. de esta Ley. En este caso la suplencia sólo operará en lo que se refiere a la controversia en el amparo, sin poder afectar situaciones procesales resueltas en el procedimiento en el que se dictó la resolución reclamada, y Fracción reformada DOF 13-03-2025
+VI. En otras materias, cuando se advierta que ha habido en contra de la persona quejosa o del o la particular recurrente una violación evidente de la ley que la haya dejado sin defensa por afectar los derechos previstos en el artículo 1o. de esta Ley. En este caso la suplencia sólo operará en lo que se refiere a la controversia en el amparo, sin poder afectar situaciones procesales resueltas en el procedimiento en el que se dictó la resolución reclamada, y
+Fracción reformada DOF 13-03-2025
 
 VII. En cualquier materia, en favor de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para su defensa en el juicio.
 ESTADOS UNIDOS MEXICANOS En los casos de las fracciones I, II, III, IV, V y VII de este artículo la suplencia se dará aún ante la ausencia de conceptos de violación o agravios. En estos casos solo se expresará en las sentencias cuando la suplencia derive de un beneficio.
-Párrafo reformado DOF 17-06-2016 La suplencia de la queja por violaciones procesales o formales sólo podrá operar cuando se advierta que en el acto reclamado no existe algún vicio de fondo.
+Párrafo reformado DOF 17-06-2016
+La suplencia de la queja por violaciones procesales o formales sólo podrá operar cuando se advierta que en el acto reclamado no existe algún vicio de fondo.
 
 ## CAPÍTULO XI
+
 Medios de Impugnación
 
 ### Artículo 80
@@ -825,6 +907,7 @@ Bis. La Suprema Corte de Justicia de la Nación de oficio o a petición fundada 
 Artículo adicionado DOF 07-06-2021
 
 ## Sección Primera
+
 Recurso de Revisión
 
 ### Artículo 81
@@ -844,7 +927,8 @@ e) Las sentencias dictadas en la audiencia constitucional; en su caso, deberán 
 ESTADOS UNIDOS MEXICANOS
 
 II. En amparo directo, en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales que establezcan la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que a juicio de la Suprema Corte de Justicia de la Nación el asunto revista un interés excepcional en materia constitucional o de derechos humanos. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales sin poder comprender otras.
-Fracción reformada DOF 07-06-2021 Reforma DOF 07-06-2021: Derogó del artículo el entonces párrafo segundo
+Fracción reformada DOF 07-06-2021
+Reforma DOF 07-06-2021: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 82
 . La parte que obtuvo resolución favorable en el juicio de amparo puede adherirse a la revisión interpuesta por otra de las partes dentro del plazo de cinco días, contados a partir del día siguiente a aquél en que surta efectos la notificación de la admisión del recurso, expresando los agravios correspondientes; la adhesión al recurso sigue la suerte procesal de éste.
@@ -874,8 +958,10 @@ Las autoridades judiciales o jurisdiccionales carecen de legitimación para recu
 ### Artículo 88
 . El recurso de revisión se interpondrá por escrito en el que se expresarán los agravios que cause la resolución impugnada.
 ESTADOS UNIDOS MEXICANOS Si el recurso se interpone en contra de una resolución dictada en amparo directo, el o la recurrente deberá transcribir textualmente la parte de la sentencia que contenga un pronunciamiento sobre constitucionalidad de normas generales o establezca la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos, o la parte del concepto de violación respectivo cuyo análisis se hubiese omitido en la sentencia.
-Párrafo reformado DOF 13-03-2025 En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica.
-Párrafo reformado DOF 13-03-2025 Cuando no se haga la transcripción a que se refiere el párrafo primero o no se exhiban las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que en el plazo de tres días lo haga; si no lo hiciere se tendrá por no interpuesto el recurso, salvo que se afecte al o la recurrente por actos restrictivos de la libertad, se trate de menores de edad o de incapaces, o se afecten derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.
+Párrafo reformado DOF 13-03-2025
+En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica.
+Párrafo reformado DOF 13-03-2025
+Cuando no se haga la transcripción a que se refiere el párrafo primero o no se exhiban las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que en el plazo de tres días lo haga; si no lo hiciere se tendrá por no interpuesto el recurso, salvo que se afecte al o la recurrente por actos restrictivos de la libertad, se trate de menores de edad o de incapaces, o se afecten derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 89
@@ -886,7 +972,8 @@ Párrafo reformado DOF 13-03-2025
 
 ### Artículo 91
 . La persona titular de la presidencia del órgano jurisdiccional, según corresponda, dentro de los tres siguientes días a su recepción calificará la procedencia del recurso y lo admitirá o desechará.
-Párrafo reformado DOF 13-03-2025 Cuando se trate del recurso de revisión en amparo directo no procederá ningún medio de impugnación en contra del auto que deseche el recurso.
+Párrafo reformado DOF 13-03-2025
+Cuando se trate del recurso de revisión en amparo directo no procederá ningún medio de impugnación en contra del auto que deseche el recurso.
 Párrafo adicionado DOF 07-06-2021
 
 ### Artículo 92
@@ -897,7 +984,9 @@ Artículo reformado DOF 13-03-2025
 . Al conocer de los asuntos en revisión, el órgano jurisdiccional observará las reglas siguientes:
 
 I. Si quien recurre es la persona quejosa, examinará, en primer término, los agravios hechos valer en contra del sobreseimiento decretado en la resolución recurrida.
-ESTADOS UNIDOS MEXICANOS Párrafo reformado DOF 13-03-2025 Si los agravios son fundados, examinará las causales de sobreseimiento invocadas y no estudiadas por el órgano jurisdiccional de amparo de primera instancia, o surgidas con posterioridad a la resolución impugnada;
+ESTADOS UNIDOS MEXICANOS
+Párrafo reformado DOF 13-03-2025
+Si los agravios son fundados, examinará las causales de sobreseimiento invocadas y no estudiadas por el órgano jurisdiccional de amparo de primera instancia, o surgidas con posterioridad a la resolución impugnada;
 
 II. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará, en primer término, los agravios en contra de la omisión o negativa a decretar el sobreseimiento; si son fundados se revocará la resolución recurrida;
 Fracción reformada DOF 13-03-2025
@@ -910,7 +999,8 @@ IV. Si encontrare que por acción u omisión se violaron las reglas fundamentale
 V. Si quien recurre es la persona quejosa, examinará los demás agravios; si estima que son fundados, revocará la sentencia recurrida y dictará la que corresponda;
 Fracción reformada DOF 13-03-2025
 
-VI. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará los agravios de fondo, si estima que son fundados, analizará los conceptos de violación no estudiados y concederá o negará el amparo, y Fracción reformada DOF 13-03-2025
+VI. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará los agravios de fondo, si estima que son fundados, analizará los conceptos de violación no estudiados y concederá o negará el amparo, y
+Fracción reformada DOF 13-03-2025
 
 VII. Sólo tomará en consideración las pruebas que se hubiesen rendido ante la autoridad responsable o el órgano jurisdiccional de amparo, salvo aquéllas que tiendan a desestimar el sobreseimiento fuera de la audiencia constitucional.
 
@@ -924,6 +1014,7 @@ VII. Sólo tomará en consideración las pruebas que se hubiesen rendido ante la
 . Cuando se trate de revisión de sentencias pronunciadas en materia de amparo directo por tribunales colegiados de circuito, la Suprema Corte de Justicia de la Nación resolverá únicamente sobre la constitucionalidad de la norma general impugnada, o sobre la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos o de los derechos humanos establecidos en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 ## Sección Segunda
+
 Recurso de Queja
 
 ### Artículo 97
@@ -945,7 +1036,8 @@ e) Las que se dicten durante la tramitación del juicio, o del incidente de susp
 
 f) Las que decidan el incidente de reclamación de daños y perjuicios;
 
-g) Las que resuelvan el incidente por exceso o defecto en la ejecución del acuerdo en que se haya concedido a la persona quejosa la suspensión provisional o definitiva del acto reclamado, y Inciso reformado DOF 13-03-2025
+g) Las que resuelvan el incidente por exceso o defecto en la ejecución del acuerdo en que se haya concedido a la persona quejosa la suspensión provisional o definitiva del acto reclamado, y
+Inciso reformado DOF 13-03-2025
 
 h) Las que se dicten en el incidente de cumplimiento sustituto de las sentencias de amparo;
 
@@ -974,7 +1066,8 @@ ESTADOS UNIDOS MEXICANOS En el caso de que se trate de actos de la autoridad res
 ### Artículo 100
 . En el escrito de queja se expresarán los agravios que cause la resolución recurrida.
 En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes, señalando las constancias que en copia certificada deberán remitirse al órgano jurisdiccional que deba resolver el recurso. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica.
-Párrafo reformado DOF 13-03-2025 Cuando no se exhiban las copias a que se refiere el párrafo anterior se requerirá al o la recurrente para que en el plazo de tres días lo haga; si no lo hiciere, se tendrá por no interpuesto el recurso, salvo que se trate de actos restrictivos de la libertad o que afecten intereses de menores de edad o incapaces o de personas trabajadoras o derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.
+Párrafo reformado DOF 13-03-2025
+Cuando no se exhiban las copias a que se refiere el párrafo anterior se requerirá al o la recurrente para que en el plazo de tres días lo haga; si no lo hiciere, se tendrá por no interpuesto el recurso, salvo que se trate de actos restrictivos de la libertad o que afecten intereses de menores de edad o incapaces o de personas trabajadoras o derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 101
@@ -993,11 +1086,13 @@ Artículo reformado DOF 07-06-2021, 13-03-2025
 ESTADOS UNIDOS MEXICANOS
 
 ## Sección Tercera
+
 Recurso de Reclamación
 
 ### Artículo 104
 . El recurso de reclamación es procedente contra los acuerdos de trámite dictados por la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación o por las personas titulares de la presidencia de los tribunales colegiados de circuito.
-Párrafo reformado DOF 13-03-2025 Dicho recurso se podrá interponer por cualquiera de las partes, por escrito, en el que se expresan agravios, dentro del término de tres días siguientes al en que surta sus efectos la notificación de la resolución impugnada.
+Párrafo reformado DOF 13-03-2025
+Dicho recurso se podrá interponer por cualquiera de las partes, por escrito, en el que se expresan agravios, dentro del término de tres días siguientes al en que surta sus efectos la notificación de la resolución impugnada.
 En contra del acuerdo que deseche el recurso de revisión en amparo directo no procede medio de impugnación alguno.
 Párrafo adicionado DOF 07-06-2021
 
@@ -1011,17 +1106,21 @@ Artículo reformado DOF 13-03-2025
 
 ## TÍTULO SEGUNDO — De los Procedimientos de Amparo
 
+
 ## CAPÍTULO I
+
 El Amparo Indirecto
 
 ## Sección Primera
+
 Procedencia y Demanda
 
 ### Artículo 107
 . El amparo indirecto procede:
 
 I. Contra normas generales que por su sola entrada en vigor o con motivo del primer acto de su aplicación causen perjuicio a la persona quejosa.
-Párrafo reformado DOF 13-03-2025 Para los efectos de esta Ley, se entiende por normas generales, entre otras, las siguientes:
+Párrafo reformado DOF 13-03-2025
+Para los efectos de esta Ley, se entiende por normas generales, entre otras, las siguientes:
 
 a) Los tratados internacionales aprobados en los términos previstos en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos; salvo aquellas disposiciones en que tales tratados reconozcan derechos humanos;
 
@@ -1030,7 +1129,8 @@ b) Las leyes federales;
 c) Las constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal;
 
 d) Las leyes de los Estados y de la Ciudad de México;
-Inciso reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Inciso reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 f) Los reglamentos locales; y
 
@@ -1042,13 +1142,15 @@ Fracción reformada DOF 16-10-2025
 
 III. Contra actos, omisiones o resoluciones provenientes de un procedimiento administrativo seguido en forma de juicio, siempre que se trate de:
 
-a) La resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento si por virtud de estas últimas hubiere quedado sin defensa la persona quejosa, trascendiendo al resultado de la resolución, y Inciso reformado DOF 13-03-2025
+a) La resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento si por virtud de estas últimas hubiere quedado sin defensa la persona quejosa, trascendiendo al resultado de la resolución, y
+Inciso reformado DOF 13-03-2025
 
 b) Actos en el procedimiento que sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
 IV. Contra actos de tribunales judiciales, administrativos, agrarios o del trabajo realizados fuera de juicio o después de concluido.
 Si se trata de actos de ejecución de sentencia sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, entendida como aquélla que aprueba o reconoce el cumplimiento total de lo sentenciado o declara la imposibilidad material o jurídica para darle cumplimiento, o las que ordenan el archivo definitivo del expediente, pudiendo reclamarse en la misma demanda las violaciones cometidas durante ese procedimiento que hubieren dejado sin defensa a la persona quejosa y trascendido al resultado de la resolución.
-Párrafo reformado DOF 13-03-2025 En los procedimientos de remate la última resolución es aquélla que en forma definitiva ordena el otorgamiento de la escritura de adjudicación y la entrega de los bienes rematados, en cuyo caso se harán valer las violaciones cometidas durante ese procedimiento en los términos del párrafo anterior;
+Párrafo reformado DOF 13-03-2025
+En los procedimientos de remate la última resolución es aquélla que en forma definitiva ordena el otorgamiento de la escritura de adjudicación y la entrega de los bienes rematados, en cuyo caso se harán valer las violaciones cometidas durante ese procedimiento en los términos del párrafo anterior;
 
 V. Contra actos en juicio cuyos efectos sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
@@ -1058,7 +1160,8 @@ ESTADOS UNIDOS MEXICANOS
 VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño;
 Fracción reformada DOF 14-07-2014, 13-03-2025
 
-VIII. Contra actos de autoridad que determinen inhibir o declinar la competencia o el conocimiento de un asunto, y Fracción reformada DOF 14-07-2014
+VIII. Contra actos de autoridad que determinen inhibir o declinar la competencia o el conocimiento de un asunto, y
+Fracción reformada DOF 14-07-2014
 
 IX. Contra normas generales, actos u omisiones de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones.
 Tratándose de resoluciones dictadas por dichos órganos emanadas de un procedimiento seguido en forma de juicio sólo podrá impugnarse la que ponga fin al mismo por violaciones cometidas en la resolución o durante el procedimiento; las normas generales aplicadas durante el procedimiento sólo podrán reclamarse en el amparo promovido contra la resolución referida.
@@ -1082,7 +1185,8 @@ V. Bajo protesta de decir verdad, los hechos o abstenciones que constituyan los 
 
 VI. Los preceptos que, conforme al artículo 1o de esta Ley, contengan los derechos humanos y las garantías cuya violación se reclame;
 
-VII. Si el amparo se promueve con fundamento en la fracción II del artículo 1o. de esta Ley, deberá precisarse la facultad reservada a los estados u otorgada a la Ciudad de México que haya sido invadida por la autoridad federal; si el amparo se promueve con apoyo en la fracción III de dicho artículo, se señalará el precepto de la Constitución General de la República que contenga la facultad de la autoridad federal que haya sido vulnerada o restringida, y Fracción reformada DOF 13-03-2025
+VII. Si el amparo se promueve con fundamento en la fracción II del artículo 1o. de esta Ley, deberá precisarse la facultad reservada a los estados u otorgada a la Ciudad de México que haya sido invadida por la autoridad federal; si el amparo se promueve con apoyo en la fracción III de dicho artículo, se señalará el precepto de la Constitución General de la República que contenga la facultad de la autoridad federal que haya sido vulnerada o restringida, y
+Fracción reformada DOF 13-03-2025
 
 VIII. Los conceptos de violación.
 ESTADOS UNIDOS MEXICANOS
@@ -1097,7 +1201,8 @@ II. La autoridad que lo hubiere ordenado, si fuere posible;
 III. La autoridad que ejecute o trate de ejecutar el acto; y
 
 IV. En su caso, el lugar en que se encuentre la persona quejosa.
-Fracción reformada DOF 13-03-2025 En estos supuestos, la demanda podrá formularse por escrito, por comparecencia o por medios electrónicos. En este último caso no se requerirá de firma electrónica.
+Fracción reformada DOF 13-03-2025
+En estos supuestos, la demanda podrá formularse por escrito, por comparecencia o por medios electrónicos. En este último caso no se requerirá de firma electrónica.
 
 ### Artículo 110
 . Con la demanda se exhibirán copias para cada una de las partes y dos para el incidente de suspensión, siempre que se pidiere y no tuviere que concederse de oficio. Esta exigencia no será necesaria en los casos que la demanda se presente en forma electrónica.
@@ -1111,11 +1216,13 @@ Párrafo reformado DOF 16-10-2025
 I. No hayan transcurrido los plazos para su presentación;
 
 II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial y que no hubieren sido de su conocimiento con anterioridad a la presentación de la demanda. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley.
-Fracción reformada DOF 13-03-2025, 16-10-2025 En el caso de la fracción II, la demanda podrá ampliarse dentro de los plazos referidos en este artículo, siempre que no se haya celebrado la audiencia constitucional o bien presentar una nueva demanda.
+Fracción reformada DOF 13-03-2025, 16-10-2025
+En el caso de la fracción II, la demanda podrá ampliarse dentro de los plazos referidos en este artículo, siempre que no se haya celebrado la audiencia constitucional o bien presentar una nueva demanda.
 No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo.
 Párrafo adicionado DOF 16-10-2025
 
 ## Sección Segunda
+
 Substanciación
 
 ### Artículo 112
@@ -1143,7 +1250,8 @@ En caso de falta de copias, se estará a lo dispuesto por el artículo 110 de es
 
 ### Artículo 115
 . De no existir prevención, o cumplida ésta, el órgano jurisdiccional admitirá la demanda; señalará día y hora para la audiencia constitucional, que se celebrará dentro de los treinta días siguientes; pedirá informe con justificación a las autoridades responsables, apercibiéndolas de las consecuencias que implica su falta en términos del artículo 117 de esta Ley; ordenará correr traslado a la persona tercera interesada, y, en su caso, tramitará el incidente de suspensión.
-Párrafo reformado DOF 13-03-2025 Cuando a criterio del órgano jurisdiccional exista causa fundada y suficiente, la audiencia constitucional podrá celebrarse en un plazo que no podrá exceder de otros treinta días.
+Párrafo reformado DOF 13-03-2025
+Cuando a criterio del órgano jurisdiccional exista causa fundada y suficiente, la audiencia constitucional podrá celebrarse en un plazo que no podrá exceder de otros treinta días.
 Las personas servidoras públicas serán responsables de verificar que los expedientes estén integrados debidamente con antelación a la celebración de la audiencia constitucional.
 Párrafo adicionado DOF 16-10-2025
 
@@ -1155,25 +1263,33 @@ Párrafo reformado DOF 13-03-2025
 ### Artículo 117
 . La autoridad responsable deberá rendir su informe con justificación por escrito o en medios magnéticos dentro del plazo de quince días, con el cual se dará vista a las partes. El órgano jurisdiccional, atendiendo a las circunstancias del caso, podrá ampliar el plazo por otros diez días.
 ESTADOS UNIDOS MEXICANOS Entre la fecha de notificación a la persona quejosa del informe justificado y la de celebración de la audiencia constitucional, deberá mediar un plazo de por lo menos ocho días; de lo contrario, se acordará diferir o suspender la audiencia, según proceda, a solicitud de la persona quejosa o de la persona tercera interesada.
-Párrafo reformado DOF 13-03-2025 En el sistema procesal penal acusatorio, la autoridad jurisdiccional acompañará un índice cronológico del desarrollo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
-Párrafo adicionado DOF 17-06-2016 Los informes rendidos fuera de los plazos establecidos en el párrafo primero podrán ser tomados en cuenta si la persona quejosa estuvo en posibilidad de conocerlos. Si no se rindió informe justificado, se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo de la persona quejosa acreditar su inconstitucionalidad cuando dicho acto no sea en sí mismo violatorio de los derechos humanos y garantías a que se refiere el artículo 1o. de esta Ley.
-Párrafo reformado DOF 13-03-2025 En el informe se expondrán las razones y fundamentos que se estimen pertinentes para sostener la improcedencia del juicio y la constitucionalidad o legalidad del acto reclamado y se acompañará, en su caso, copia certificada de las constancias necesarias para apoyarlo.
+Párrafo reformado DOF 13-03-2025
+En el sistema procesal penal acusatorio, la autoridad jurisdiccional acompañará un índice cronológico del desarrollo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
+Párrafo adicionado DOF 17-06-2016
+Los informes rendidos fuera de los plazos establecidos en el párrafo primero podrán ser tomados en cuenta si la persona quejosa estuvo en posibilidad de conocerlos. Si no se rindió informe justificado, se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo de la persona quejosa acreditar su inconstitucionalidad cuando dicho acto no sea en sí mismo violatorio de los derechos humanos y garantías a que se refiere el artículo 1o. de esta Ley.
+Párrafo reformado DOF 13-03-2025
+En el informe se expondrán las razones y fundamentos que se estimen pertinentes para sostener la improcedencia del juicio y la constitucionalidad o legalidad del acto reclamado y se acompañará, en su caso, copia certificada de las constancias necesarias para apoyarlo.
 En amparos en materia agraria, además, se expresarán nombre y domicilio de la persona tercera interesada, los preceptos legales que justifiquen los actos que en realidad hayan ejecutado o pretendan ejecutar y si las responsables son autoridades agrarias, la fecha en que se hayan dictado las resoluciones que amparen los derechos agrarios de la persona quejosa y de la tercera, en su caso, y la forma y términos en que las mismas hayan sido ejecutadas, así como los actos por virtud de los cuales aquéllos hayan adquirido sus derechos, de todo lo cual también acompañarán al informe copias certificadas, así como de las actas de posesión, planos de ejecución, censos agrarios, certificados de derechos agrarios, títulos de parcela y demás constancias necesarias para precisar los derechos de las partes.
-Párrafo reformado DOF 13-03-2025 No procederá que la autoridad responsable al rendir el informe pretenda variar o mejorar la fundamentación y motivación del acto reclamado, ni que ofrezca pruebas distintas de las consideradas al pronunciarlo, salvo las relacionadas con las nuevas pretensiones deducidas por la persona quejosa.
-Párrafo reformado DOF 13-03-2025 Tratándose de actos materialmente administrativos, cuando en la demanda se aduzca la falta o insuficiencia de fundamentación y motivación, en su informe justificado la autoridad deberá complementar en esos aspectos el acto reclamado. En esos casos, deberá correrse traslado con el informe a la persona quejosa, para que en el plazo de quince días realice la ampliación de la demanda, la que se limitará a cuestiones derivadas de la referida complementación. Con la ampliación se dará vista a las responsables así como a la persona tercera interesada y, en su caso, se emplazará a las diversas autoridades que en ampliación se señalen. Para tales efectos deberá diferirse la audiencia constitucional.
+Párrafo reformado DOF 13-03-2025
+No procederá que la autoridad responsable al rendir el informe pretenda variar o mejorar la fundamentación y motivación del acto reclamado, ni que ofrezca pruebas distintas de las consideradas al pronunciarlo, salvo las relacionadas con las nuevas pretensiones deducidas por la persona quejosa.
+Párrafo reformado DOF 13-03-2025
+Tratándose de actos materialmente administrativos, cuando en la demanda se aduzca la falta o insuficiencia de fundamentación y motivación, en su informe justificado la autoridad deberá complementar en esos aspectos el acto reclamado. En esos casos, deberá correrse traslado con el informe a la persona quejosa, para que en el plazo de quince días realice la ampliación de la demanda, la que se limitará a cuestiones derivadas de la referida complementación. Con la ampliación se dará vista a las responsables así como a la persona tercera interesada y, en su caso, se emplazará a las diversas autoridades que en ampliación se señalen. Para tales efectos deberá diferirse la audiencia constitucional.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 118
 . En los casos en que la quejosa o el quejoso impugne la aplicación por parte de la autoridad responsable de normas generales consideradas inconstitucionales por la jurisprudencia decretada por la Suprema Corte de Justicia de la Nación o por los plenos regionales, el informe con justificación se reducirá a tres días improrrogables, y la celebración de la audiencia se señalará dentro de diez días contados desde el siguiente al de la admisión de la demanda.
-Artículo reformado DOF 07-06-2021 ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 07-06-2021
+ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 119
 . Serán admisibles toda clase de pruebas, excepto la confesional por posiciones. Las pruebas deberán ofrecerse y rendirse en la audiencia constitucional, salvo que esta Ley disponga otra cosa.
 La documental podrá presentarse con anterioridad, sin perjuicio de que el órgano jurisdiccional haga relación de ella en la audiencia y la tenga como recibida en ese acto, aunque no exista gestión expresa de la persona interesada.
-Párrafo reformado DOF 13-03-2025 Las pruebas testimonial, pericial, inspección judicial o cualquier otra que amerite desahogo posterior, deberán ofrecerse a más tardar, cinco días hábiles antes de la audiencia constitucional, sin contar el del ofrecimiento ni el señalado para la propia audiencia.
+Párrafo reformado DOF 13-03-2025
+Las pruebas testimonial, pericial, inspección judicial o cualquier otra que amerite desahogo posterior, deberán ofrecerse a más tardar, cinco días hábiles antes de la audiencia constitucional, sin contar el del ofrecimiento ni el señalado para la propia audiencia.
 Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia.
 Para el ofrecimiento de las pruebas testimonial, pericial o inspección judicial, se deberán exhibir original y copias para cada una de las partes de los interrogatorios al tenor de los cuales deberán ser examinados los y las testigos, proporcionando el nombre y en su caso el domicilio cuando no los pueda presentar; el cuestionario para los peritos o peritas o de los puntos sobre los que deba versar la inspección. No se admitirán más de tres testigos por cada hecho.
-Párrafo reformado DOF 13-03-2025 Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al oferente para que las presente dentro del plazo de tres días; si no las exhibiere, se tendrá por no ofrecida la prueba.
+Párrafo reformado DOF 13-03-2025
+Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al oferente para que las presente dentro del plazo de tres días; si no las exhibiere, se tendrá por no ofrecida la prueba.
 El órgano jurisdiccional ordenará que se entregue una copia a cada una de las partes para que puedan ampliar por escrito, en un plazo de tres días, el cuestionario, el interrogatorio o los puntos sobre los que deba versar la inspección, para que puedan formular repreguntas al verificarse la audiencia.
 
 ### Artículo 120
@@ -1183,9 +1299,12 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 121
 . A fin de que las partes puedan rendir sus pruebas, las personas servidoras públicas tienen la obligación de expedir con toda oportunidad, las copias o documentos que aquellas les hubieren solicitado. Si no lo hacen, la parte interesada una vez que acredite haber hecho la petición, solicitará al órgano jurisdiccional que requiera a las omisas y difiera la audiencia, lo que se acordará siempre que la solicitud se hubiere hecho cinco días hábiles antes del señalado para su celebración, sin contar el de la ESTADOS UNIDOS MEXICANOS solicitud ni el señalado para la propia audiencia. El órgano jurisdiccional hará el requerimiento de que se le envíen directamente los documentos o copias dentro de un plazo que no exceda de diez días.
-Párrafo reformado DOF 13-03-2025 Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia.
-Párrafo adicionado DOF 16-10-2025 Si a pesar del requerimiento no se le envían oportunamente los documentos o copias, el órgano jurisdiccional, a petición de parte, podrá diferir la audiencia hasta en tanto se envíen; hará uso de los medios de apremio y agotados éstos, si persiste el incumplimiento denunciará los hechos al o la Ministerio Público de la Federación.
-Párrafo reformado DOF 13-03-2025 Si se trata de actuaciones concluidas, podrán pedirse originales a instancia de cualquiera de las partes.
+Párrafo reformado DOF 13-03-2025
+Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia.
+Párrafo adicionado DOF 16-10-2025
+Si a pesar del requerimiento no se le envían oportunamente los documentos o copias, el órgano jurisdiccional, a petición de parte, podrá diferir la audiencia hasta en tanto se envíen; hará uso de los medios de apremio y agotados éstos, si persiste el incumplimiento denunciará los hechos al o la Ministerio Público de la Federación.
+Párrafo reformado DOF 13-03-2025
+Si se trata de actuaciones concluidas, podrán pedirse originales a instancia de cualquiera de las partes.
 
 ### Artículo 122
 . Si al presentarse un documento por una de las partes otra de ellas lo objetare de falso en la audiencia constitucional, el órgano jurisdiccional la suspenderá para continuarla dentro de los diez días siguientes; en la reanudación de la audiencia se presentarán las pruebas relativas a la autenticidad del documento. En este caso, si se trata de las pruebas testimonial, pericial o de inspección judicial se estará a lo dispuesto por el artículo 119 de esta Ley, con excepción del plazo de ofrecimiento que será de tres días contados a partir del siguiente al de la fecha de suspensión de la audiencia.
@@ -1195,10 +1314,13 @@ Párrafo reformado DOF 13-03-2025 Si se trata de actuaciones concluidas, podrán
 
 ### Artículo 124
 . Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda en un plazo que no podrá exceder de noventa días naturales.
-Párrafo reformado DOF 17-06-2016, 16-10-2025 La persona quejosa podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare.
-Párrafo reformado DOF 13-03-2025 En los asuntos del orden administrativo, en la sentencia se analizará el acto reclamado considerando la fundamentación y motivación que para complementarlo haya expresado la autoridad responsable en el informe justificado. Ante la falta o insuficiencia de aquéllas, en la sentencia concesoria se estimará que el referido acto presenta un vicio de fondo que impide a la autoridad su reiteración.
+Párrafo reformado DOF 17-06-2016, 16-10-2025
+La persona quejosa podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare.
+Párrafo reformado DOF 13-03-2025
+En los asuntos del orden administrativo, en la sentencia se analizará el acto reclamado considerando la fundamentación y motivación que para complementarlo haya expresado la autoridad responsable en el informe justificado. Ante la falta o insuficiencia de aquéllas, en la sentencia concesoria se estimará que el referido acto presenta un vicio de fondo que impide a la autoridad su reiteración.
 
 ## Sección Tercera
+
 Suspensión del Acto Reclamado ESTADOS UNIDOS MEXICANOS Primera Parte Reglas Generales
 
 ### Artículo 125
@@ -1220,7 +1342,8 @@ Fracción reformada DOF 13-03-2025
 
 ### Artículo 128
 . Con excepción de los casos en que proceda de oficio, la suspensión se tramitará a petición de la persona quejosa en todas las materias, salvo aquellas previstas en el último párrafo de este artículo.
-Párrafo reformado DOF 14-07-2014, 13-03-2025, 16-10-2025 Para ello, el órgano jurisdiccional, cuando la naturaleza del acto lo permita, deberá realizar de forma expresa y justificada un análisis ponderado de la apariencia del buen derecho y del interés social, a fin de verificar que concurran los requisitos siguientes:
+Párrafo reformado DOF 14-07-2014, 13-03-2025, 16-10-2025
+Para ello, el órgano jurisdiccional, cuando la naturaleza del acto lo permita, deberá realizar de forma expresa y justificada un análisis ponderado de la apariencia del buen derecho y del interés social, a fin de verificar que concurran los requisitos siguientes:
 
 I. Que exista el acto reclamado, se tenga certeza de su inminente realización u opere una presunción razonable sobre su existencia.
 
@@ -1231,7 +1354,8 @@ III. Que, al ponderar los efectos de la suspensión frente al interés social, y
 IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto.
 ESTADOS UNIDOS MEXICANOS Párrafo con fracciones adicionado DOF 16-10-2025 La suspensión se tramitará en incidente por separado y por duplicado.
 Asimismo, no serán objeto de suspensión las órdenes o medidas de protección dictadas en términos de la legislación aplicable por alguna autoridad administrativa o jurisdiccional para salvaguardar la seguridad o integridad de una persona y la ejecución de una técnica de investigación o medida cautelar concedida por autoridad judicial.
-Párrafo adicionado DOF 17-06-2016 Las normas generales, actos u omisiones de las autoridades a que refieren los párrafos decimoquinto y decimoséptimo del artículo 28 de la Constitución Federal, no serán objeto de suspensión. Solamente en los casos en que la autoridad a que refiere el párrafo decimoquinto del artículo 28 de la Constitución Federal imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
+Párrafo adicionado DOF 17-06-2016
+Las normas generales, actos u omisiones de las autoridades a que refieren los párrafos decimoquinto y decimoséptimo del artículo 28 de la Constitución Federal, no serán objeto de suspensión. Solamente en los casos en que la autoridad a que refiere el párrafo decimoquinto del artículo 28 de la Constitución Federal imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
 Párrafo adicionado DOF 14-07-2014. Reformado DOF 16-10-2025
 
 ### Artículo 129
@@ -1279,7 +1403,8 @@ XVI. Se continúe con la realización de actividades o prestación de servicios 
 Fracción adicionada DOF 16-10-2025
 
 XVII. Se impida u obstaculice al Estado el ejercicio de sus facultades en materia de deuda pública, previstas en la Constitución Política de los Estados Unidos Mexicanos, y las que se establezcan en las leyes de la materia.
-Fracción adicionada DOF 16-10-2025 Reforma DOF 14-06-2024: Derogó del artículo el entonces párrafo segundo
+Fracción adicionada DOF 16-10-2025
+Reforma DOF 14-06-2024: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 130
 . La suspensión se podrá pedir en cualquier tiempo mientras no se dicte sentencia ejecutoria.
@@ -1291,12 +1416,15 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 132
 . En los casos en que sea procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero y la misma se conceda, la persona quejosa deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren si no obtuviere sentencia favorable en el juicio de amparo.
-Párrafo reformado DOF 13-03-2025 Cuando con la suspensión puedan afectarse derechos de la persona tercera interesada que no sean estimables en dinero, el órgano jurisdiccional fijará discrecionalmente el importe de la garantía.
-Párrafo reformado DOF 13-03-2025 La suspensión concedida a los núcleos de población no requerirá de garantía para que surta sus efectos.
+Párrafo reformado DOF 13-03-2025
+Cuando con la suspensión puedan afectarse derechos de la persona tercera interesada que no sean estimables en dinero, el órgano jurisdiccional fijará discrecionalmente el importe de la garantía.
+Párrafo reformado DOF 13-03-2025
+La suspensión concedida a los núcleos de población no requerirá de garantía para que surta sus efectos.
 
 ### Artículo 133
 . La suspensión, en su caso, quedará sin efecto si la o el tercero otorga contragarantía para restituir las cosas al estado que guardaban antes de la violación reclamada y pagar los daños y perjuicios que sobrevengan a la persona quejosa, en el caso de que se le conceda el amparo.
-Párrafo reformado DOF 13-03-2025 No se admitirá la contragarantía cuando de ejecutarse el acto reclamado quede sin materia el juicio de amparo o cuando resulte en extremo difícil restituir las cosas al estado que guardaban antes de la violación.
+Párrafo reformado DOF 13-03-2025
+No se admitirá la contragarantía cuando de ejecutarse el acto reclamado quede sin materia el juicio de amparo o cuando resulte en extremo difícil restituir las cosas al estado que guardaban antes de la violación.
 Cuando puedan afectarse derechos que no sean estimables en dinero, el órgano jurisdiccional fijará discrecionalmente el importe de la contragarantía.
 
 ### Artículo 134
@@ -1305,22 +1433,27 @@ Párrafo reformado DOF 13-03-2025
 
 I. Los gastos o primas pagados, conforme a la ley, a la empresa legalmente autorizada que haya otorgado la garantía;
 
-II. Los gastos legales de la escritura respectiva y su registro, así como los de la cancelación y su registro, cuando la persona quejosa hubiere otorgado garantía hipotecaria, y Fracción reformada DOF 13-03-2025
+II. Los gastos legales de la escritura respectiva y su registro, así como los de la cancelación y su registro, cuando la persona quejosa hubiere otorgado garantía hipotecaria, y
+Fracción reformada DOF 13-03-2025
 
 III. Los gastos legales acreditados para constituir el depósito.
 
 ### Artículo 135
 . Cuando el amparo se solicite en contra de actos relativos a determinación, liquidación, ejecución o cobro de contribuciones o créditos de naturaleza fiscal, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos si se ha constituido o se constituye la garantía del interés fiscal ante la autoridad exactora por cualquiera de los medios permitidos por las leyes fiscales aplicables.
-Párrafo publicado sin cambios DOF 16-10-2025 El órgano jurisdiccional está facultado para reducir el monto de la garantía o dispensar su otorgamiento, en los siguientes casos:
-Párrafo publicado sin cambios DOF 16-10-2025 ESTADOS UNIDOS MEXICANOS
+Párrafo publicado sin cambios DOF 16-10-2025
+El órgano jurisdiccional está facultado para reducir el monto de la garantía o dispensar su otorgamiento, en los siguientes casos:
+Párrafo publicado sin cambios DOF 16-10-2025
+ESTADOS UNIDOS MEXICANOS
 
 I. Si realizado el embargo por las autoridades fiscales, éste haya quedado firme y los bienes del contribuyente embargados fueran suficientes para asegurar la garantía del interés fiscal;
 
-II. Si el monto de los créditos excediere la capacidad económica de la persona quejosa, y Fracción reformada DOF 13-03-2025
+II. Si el monto de los créditos excediere la capacidad económica de la persona quejosa, y
+Fracción reformada DOF 13-03-2025
 
 III. Si se tratase de tercero distinto al sujeto obligado de manera directa o solidaria al pago del crédito.
 Tratándose de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de actos que resuelvan sobre solicitudes de prescripción respecto de dichos créditos, la suspensión podrá otorgarse discrecionalmente, la que surtirá efectos si se ha constituido garantía del interés fiscal ante la autoridad exactora mediante billete de depósito emitido por institución autorizada o carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria y las demás disposiciones jurídicas aplicables.
-Párrafo adicionado DOF 16-10-2025 En los casos en que se niegue el amparo, cuando exista sobreseimiento del mismo o bien cuando por alguna circunstancia se deje sin efectos la suspensión en el amparo, la autoridad responsable hará efectiva la garantía.
+Párrafo adicionado DOF 16-10-2025
+En los casos en que se niegue el amparo, cuando exista sobreseimiento del mismo o bien cuando por alguna circunstancia se deje sin efectos la suspensión en el amparo, la autoridad responsable hará efectiva la garantía.
 
 ### Artículo 136
 . La suspensión, cualquiera que sea su naturaleza, surtirá sus efectos desde el momento en que se pronuncie el acuerdo relativo, aún cuando sea recurrido.
@@ -1385,12 +1518,14 @@ Artículo reformado DOF 16-10-2025
 ### Artículo 147
 . En los casos en que la suspensión sea procedente, el órgano jurisdiccional deberá fijar la situación en que habrán de quedar las cosas y tomará las medidas pertinentes para conservar la materia del amparo hasta la terminación del juicio, pudiendo establecer condiciones de cuyo cumplimiento dependa el que la medida suspensional siga surtiendo efectos.
 Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden y, de ser jurídica y materialmente posible, restablecerá provisionalmente a la persona quejosa en el goce del derecho violado mientras se dicta sentencia ejecutoria en el juicio de amparo.
-Párrafo reformado DOF 13-03-2025 El órgano jurisdiccional tomará las medidas que estime necesarias para evitar que se defrauden los derechos de los menores de edad o incapaces, en tanto se dicte sentencia definitiva en el juicio de amparo.
+Párrafo reformado DOF 13-03-2025
+El órgano jurisdiccional tomará las medidas que estime necesarias para evitar que se defrauden los derechos de los menores de edad o incapaces, en tanto se dicte sentencia definitiva en el juicio de amparo.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 148
 . En los juicios de amparo en que se reclame una norma general autoaplicativa sin señalar un acto concreto de aplicación, la suspensión se otorgará para impedir los efectos y consecuencias de la norma en la esfera jurídica de la persona quejosa.
-Párrafo reformado DOF 13-03-2025 En el caso en que se reclame una norma general con motivo del primer acto de su aplicación, la suspensión, además de los efectos establecidos en el párrafo anterior, se decretará en relación con los efectos y consecuencias subsecuentes del acto de aplicación.
+Párrafo reformado DOF 13-03-2025
+En el caso en que se reclame una norma general con motivo del primer acto de su aplicación, la suspensión, además de los efectos establecidos en el párrafo anterior, se decretará en relación con los efectos y consecuencias subsecuentes del acto de aplicación.
 ESTADOS UNIDOS MEXICANOS Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales.
 Párrafo adicionado DOF 14-06-2024. Reformado DOF 16-10-2025
 
@@ -1435,16 +1570,20 @@ Párrafo reformado DOF 13-03-2025
 
 I. Formará por duplicado un expediente que contenga la demanda de amparo y sus anexos, el acuerdo que decrete la suspensión de oficio y el señalamiento preciso de la resolución que se mande suspender; las constancias de notificación y las determinaciones que dicte para hacer cumplir su resolución;
 
-II. Ordenará a la autoridad responsable que mantenga las cosas en el estado en que se encuentren o que, en su caso, proceda inmediatamente a poner en libertad o a disposición del o la Ministerio Público a la persona quejosa y que rinda al juez o jueza de distrito el informe previo, y Fracción reformada DOF 13-03-2025
+II. Ordenará a la autoridad responsable que mantenga las cosas en el estado en que se encuentren o que, en su caso, proceda inmediatamente a poner en libertad o a disposición del o la Ministerio Público a la persona quejosa y que rinda al juez o jueza de distrito el informe previo, y
+Fracción reformada DOF 13-03-2025
 
 III. Remitirá de inmediato el original de las actuaciones al juez o jueza de distrito competente y conservará el duplicado para vigilar el cumplimiento de sus resoluciones, hasta en tanto el juez o jueza de distrito provea lo conducente, con plena jurisdicción.
-Fracción reformada DOF 13-03-2025 En caso de la probable comisión del delito de desaparición forzada, el juez o jueza de primera instancia procederá conforme lo establecido por el artículo 15 de esta Ley.
-Párrafo reformado DOF 13-03-2025 Cuando el amparo se promueva contra actos de un juez o jueza de primera instancia y no haya otro en el lugar, o cuando se impugnen actos de otras autoridades y aquél no pueda ser habido, la demanda de amparo podrá presentarse ante cualquiera de los órganos judiciales que ejerzan jurisdicción en el mismo lugar, siempre que en él resida la autoridad ejecutora o, en su defecto, ante el órgano jurisdiccional más próximo.
+Fracción reformada DOF 13-03-2025
+En caso de la probable comisión del delito de desaparición forzada, el juez o jueza de primera instancia procederá conforme lo establecido por el artículo 15 de esta Ley.
+Párrafo reformado DOF 13-03-2025
+Cuando el amparo se promueva contra actos de un juez o jueza de primera instancia y no haya otro en el lugar, o cuando se impugnen actos de otras autoridades y aquél no pueda ser habido, la demanda de amparo podrá presentarse ante cualquiera de los órganos judiciales que ejerzan jurisdicción en el mismo lugar, siempre que en él resida la autoridad ejecutora o, en su defecto, ante el órgano jurisdiccional más próximo.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 160
 . Cuando el acto reclamado sea la orden de deportación, expulsión o extradición, la suspensión tiene por efecto que no se ejecute y la persona interesada quede en el lugar donde se encuentre a disposición del órgano jurisdiccional de amparo, sólo en lo que se refiere a su libertad personal.
-Artículo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 161
 . Cuando el acto reclamado consista en la orden de traslado de la persona quejosa de un centro penitenciario a otro, la suspensión, si procede, tendrá por efecto que éste no se lleve a cabo.
@@ -1477,9 +1616,12 @@ I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el ar
 Fracción reformada DOF 13-03-2025, 16-10-2025
 
 II. Si se trata de delitos que no impliquen prisión preventiva oficiosa, la suspensión producirá el efecto de que la persona quejosa no sea detenida, bajo las medidas de aseguramiento que el órgano jurisdiccional de amparo estime necesarias a fin de que no evada la acción de la justicia y se presente al proceso penal para los efectos de su continuación y pueda ser devuelto a la autoridad responsable en caso de que no obtenga la protección de la justicia federal.
-Fracción reformada DOF 13-03-2025 Cuando la persona quejosa ya se encuentre materialmente detenida por orden de autoridad competente y el o la Ministerio Público que interviene en el procedimiento penal solicite al juez o jueza la prisión preventiva porque considere que otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona imputada en el juicio, el desarrollo de la investigación, la protección a la víctima, de las y los testigos o de la comunidad, así como cuando la persona imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso, y el juez o jueza del proceso penal acuerde la prisión preventiva, el efecto de la suspensión sólo será el establecido en la fracción I de este artículo.
-Párrafo reformado DOF 13-03-2025 Si la persona quejosa incumple las medidas de aseguramiento o las obligaciones derivadas del procedimiento penal, la suspensión será revocada con la sola comunicación de la autoridad responsable.
-Párrafo reformado DOF 13-03-2025 En el caso de órdenes o medidas de protección impuestas en cualquiera de las etapas de un procedimiento penal se estará a lo dispuesto en el penúltimo párrafo del artículo 128.
+Fracción reformada DOF 13-03-2025
+Cuando la persona quejosa ya se encuentre materialmente detenida por orden de autoridad competente y el o la Ministerio Público que interviene en el procedimiento penal solicite al juez o jueza la prisión preventiva porque considere que otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona imputada en el juicio, el desarrollo de la investigación, la protección a la víctima, de las y los testigos o de la comunidad, así como cuando la persona imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso, y el juez o jueza del proceso penal acuerde la prisión preventiva, el efecto de la suspensión sólo será el establecido en la fracción I de este artículo.
+Párrafo reformado DOF 13-03-2025
+Si la persona quejosa incumple las medidas de aseguramiento o las obligaciones derivadas del procedimiento penal, la suspensión será revocada con la sola comunicación de la autoridad responsable.
+Párrafo reformado DOF 13-03-2025
+En el caso de órdenes o medidas de protección impuestas en cualquiera de las etapas de un procedimiento penal se estará a lo dispuesto en el penúltimo párrafo del artículo 128.
 Párrafo adicionado DOF 17-06-2016
 
 ### Artículo 167
@@ -1488,11 +1630,13 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 168
 . Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal en los términos del artículo 166, fracción II, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que, dentro de los cinco días siguientes a la notificación de la determinación de la suspensión, exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes.
-Párrafo reformado DOF 13-03-2025, 16-10-2025 Para fijar el monto de la garantía se tomará en cuenta:
+Párrafo reformado DOF 13-03-2025, 16-10-2025
+Para fijar el monto de la garantía se tomará en cuenta:
 
 I. La naturaleza, modalidades y características del delito que se le impute;
 
-II. Las características personales y situación económica de la persona quejosa, y Fracción reformada DOF 13-03-2025
+II. Las características personales y situación económica de la persona quejosa, y
+Fracción reformada DOF 13-03-2025
 
 III. La posibilidad de que se sustraiga a la acción de la justicia.
 No se exigirá garantía cuando la suspensión únicamente tenga los efectos a que se refiere el artículo 163 de esta Ley.
@@ -1504,24 +1648,29 @@ Párrafo adicionado DOF 16-10-2025
 Artículo reformado DOF 13-03-2025
 
 ## CAPÍTULO II
+
 El Amparo Directo
 
 ## Sección Primera
+
 Procedencia
 
 ### Artículo 170
 . El juicio de amparo directo procede:
 
 I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas de la persona quejosa trascendiendo al resultado del fallo.
-Párrafo reformado DOF 13-03-2025 Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido.
+Párrafo reformado DOF 13-03-2025
+Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido.
 En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u persona ofendida del delito.
-Párrafo reformado DOF 17-06-2016, 13-03-2025 Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas o laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
+Párrafo reformado DOF 17-06-2016, 13-03-2025
+Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas o laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
 Cuando dentro del juicio surjan cuestiones sobre constitucionalidad de normas generales que sean de reparación posible por no afectar derechos sustantivos ni constituir violaciones procesales relevantes, sólo podrán hacerse valer en el amparo directo que proceda contra la resolución definitiva.
 Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda. En materia penal el proceso comienza con la audiencia inicial ante el Juez o Jueza de control;
 Párrafo reformado DOF 17-06-2016, 13-03-2025
 
 II. Contra sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales de lo contencioso administrativo cuando éstas sean favorables a la persona quejosa, para el único efecto de hacer valer conceptos de violación en contra de las normas generales aplicadas.
-Fracción reformada DOF 13-03-2025 En estos casos, el juicio se tramitará únicamente si la autoridad interpone y se admite el recurso de revisión en materia contencioso administrativa previsto por el artículo 104 de la Constitución Política de los Estados Unidos Mexicanos. El tribunal colegiado de circuito resolverá primero lo relativo al recurso de ESTADOS UNIDOS MEXICANOS revisión contencioso administrativa, y únicamente en el caso de que éste sea considerado procedente y fundado, se avocará al estudio de las cuestiones de constitucionalidad planteadas en el juicio de amparo.
+Fracción reformada DOF 13-03-2025
+En estos casos, el juicio se tramitará únicamente si la autoridad interpone y se admite el recurso de revisión en materia contencioso administrativa previsto por el artículo 104 de la Constitución Política de los Estados Unidos Mexicanos. El tribunal colegiado de circuito resolverá primero lo relativo al recurso de ESTADOS UNIDOS MEXICANOS revisión contencioso administrativa, y únicamente en el caso de que éste sea considerado procedente y fundado, se avocará al estudio de las cuestiones de constitucionalidad planteadas en el juicio de amparo.
 
 ### Artículo 171
 . Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando la persona quejosa las haya impugnado durante la tramitación del juicio, mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva y la violación procesal trascienda al resultado del fallo.
@@ -1554,14 +1703,16 @@ IX. Se le desechen recursos, respecto de providencias que afecten partes sustanc
 
 X. Se continúe el procedimiento después de haberse promovido una competencia, o la autoridad impedida o recusada, continúe conociendo del juicio, salvo los casos en que la ley expresamente la faculte para ello;
 
-XI. Se desarrolle cualquier audiencia sin la presencia del juez o jueza o se practiquen diligencias judiciales de forma distinta a la prevenida por la ley, y Fracción reformada DOF 13-03-2025
+XI. Se desarrolle cualquier audiencia sin la presencia del juez o jueza o se practiquen diligencias judiciales de forma distinta a la prevenida por la ley, y
+Fracción reformada DOF 13-03-2025
 
 XII. Se trate de casos análogos a los previstos en las fracciones anteriores a juicio de los órganos jurisdiccionales de amparo.
 ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 173
 . En los juicios del orden penal se considerarán violadas las leyes del procedimiento con trascendencia a las defensas de la persona quejosa, cuando:
-Párrafo reformado DOF 13-03-2025 Apartado A. Sistema de Justicia Penal Mixto
+Párrafo reformado DOF 13-03-2025
+Apartado A. Sistema de Justicia Penal Mixto
 
 I. No se le haga saber el motivo del procedimiento o la causa de la acusación y el nombre del acusador o acusadora particular si lo hubiere;
 Fracción reformada DOF 13-03-2025
@@ -1587,7 +1738,8 @@ VIII. Se le desechen los recursos que tuviere conforme a la ley, respecto de pro
 IX. No se le suministren los datos que necesite para su defensa;
 
 X. Se celebre la audiencia de derecho sin la asistencia del o la Agente del Ministerio Público a quien corresponda formular la requisitoria, sin la del juez o jueza que deba fallar o la del secretario o secretaria o testigos de asistencia que deban autorizar el acto, así como el defensor o defensora;
-Fracción reformada DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Fracción reformada DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 XI. La sentencia se funde en la confesión del reo o la rea, si estuvo incomunicada antes de otorgarla, o si se obtuvo su declaración por medio de intimidación, tortura o de cualquiera otra coacción;
 Fracción reformada DOF 13-03-2025
@@ -1595,7 +1747,8 @@ Fracción reformada DOF 13-03-2025
 XII. La sentencia se funde en alguna diligencia cuya nulidad establezca la ley expresamente;
 
 XIII. Seguido el proceso por el delito determinado en el auto de formal prisión, la persona quejosa fuere sentenciada por diverso delito;
-No se considerará que el delito es diverso cuando el que se exprese en la sentencia solo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la averiguación siempre que, en este último caso el o la Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de formal prisión o de sujeción a proceso, y que la persona quejosa hubiese sido oída en defensa sobre la nueva clasificación, durante el juicio propiamente tal, y Fracción reformada DOF 13-03-2025
+No se considerará que el delito es diverso cuando el que se exprese en la sentencia solo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la averiguación siempre que, en este último caso el o la Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de formal prisión o de sujeción a proceso, y que la persona quejosa hubiese sido oída en defensa sobre la nueva clasificación, durante el juicio propiamente tal, y
+Fracción reformada DOF 13-03-2025
 
 XIV. En los demás casos análogos a los de las fracciones anteriores, a juicio del órgano jurisdiccional de amparo.
 Apartado con fracciones adicionado DOF 17-06-2016 Apartado B. Sistema de Justicia Penal Acusatorio y Oral
@@ -1616,7 +1769,8 @@ Fracción reformada DOF 13-03-2025
 VII. El Órgano jurisdiccional reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra, salvo las excepciones previstas por la legislación procedimental aplicable;
 
 VIII. La persona imputada no sea informada, desde el momento de su detención en su comparecencia ante el o la Ministerio Público o ante el órgano jurisdiccional, de los hechos que se le imputan y los derechos que le asisten;
-Fracción reformada DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Fracción reformada DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 IX. No se le haga saber o se le niegue a la persona imputada extranjera, el derecho a recibir asistencia consular de las embajadas o consulados del país respecto del que sea nacional, salvo que haya declinado fehacientemente a este derecho;
 Fracción reformada DOF 13-03-2025
@@ -1644,17 +1798,20 @@ XVII. No se hayan respetado los derechos de la persona víctima y ofendida en t�
 Fracción reformada DOF 13-03-2025
 
 XVIII. Cuando seguido el proceso por un delito, la persona quejosa haya sido sentenciada por un ilícito diverso a los mismos hechos materiales que fueron objeto de la investigación, sin que hubiese sido oído en defensa sobre la nueva clasificación, en términos de la legislación procedimental aplicable.
-Párrafo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS No se considerará que el delito es diverso cuando el que se exprese en la sentencia sólo difiera en grado del que haya sido materia del proceso, o bien sea el resultado de la reclasificación jurídica del delito en términos del Código Nacional de Procedimientos Penales;
+Párrafo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS No se considerará que el delito es diverso cuando el que se exprese en la sentencia sólo difiera en grado del que haya sido materia del proceso, o bien sea el resultado de la reclasificación jurídica del delito en términos del Código Nacional de Procedimientos Penales;
 
 XIX. Se trate de casos análogos a las fracciones anteriores a juicio del Órgano jurisdiccional de amparo.
 Apartado con fracciones adicionado DOF 17-06-2016 Artículo reestructurado DOF 17-06-2016 (se suprimen del artículo las anteriores fracciones I a XXII y se adicionan los Apartados A y B)
 
 ### Artículo 174
 . En la demanda de amparo principal y en su caso, en la adhesiva la persona quejosa deberá hacer valer todas las violaciones procesales que estime se cometieron; las que no se hagan valer se tendrán por consentidas. Asimismo, precisará la forma en que trascendieron en su perjuicio al resultado del fallo.
-Párrafo reformado DOF 13-03-2025 El tribunal colegiado de circuito, deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquellas que, en su caso, advierta en suplencia de la queja.
+Párrafo reformado DOF 13-03-2025
+El tribunal colegiado de circuito, deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquellas que, en su caso, advierta en suplencia de la queja.
 Si las violaciones procesales no se invocaron en un primer amparo, ni el tribunal colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación ni de estudio oficioso en juicio de amparo posterior.
 
 ## Sección Segunda
+
 Demanda
 
 ### Artículo 175
@@ -1692,20 +1849,24 @@ Artículo reformado DOF 13-03-2025
 . Dentro del plazo de cinco días contados a partir del siguiente al de presentación de la demanda, la autoridad responsable que emitió el acto reclamado deberá:
 
 I. Certificar al pie de la demanda, la fecha de notificación a la persona quejosa de la resolución reclamada, la de su presentación y los días inhábiles que mediaron entre ambas fechas.
-Párrafo reformado DOF 13-03-2025 Si no consta en autos la fecha de notificación, la autoridad responsable dará cumplimiento a lo dispuesto en este artículo, sin perjuicio de que dentro de las veinticuatro horas siguientes a la en que obre en su poder la constancia de notificación respectiva proporcione la información correspondiente al órgano jurisdiccional competente;
+Párrafo reformado DOF 13-03-2025
+Si no consta en autos la fecha de notificación, la autoridad responsable dará cumplimiento a lo dispuesto en este artículo, sin perjuicio de que dentro de las veinticuatro horas siguientes a la en que obre en su poder la constancia de notificación respectiva proporcione la información correspondiente al órgano jurisdiccional competente;
 
-II. Correr traslado a la o el tercero interesado, en el último domicilio que haya designado para oír notificaciones en los autos del juicio de origen o en el que señale la persona quejosa, y Fracción reformada DOF 13-03-2025
+II. Correr traslado a la o el tercero interesado, en el último domicilio que haya designado para oír notificaciones en los autos del juicio de origen o en el que señale la persona quejosa, y
+Fracción reformada DOF 13-03-2025
 
 III. Rendir el informe con justificación acompañando la demanda de amparo, los autos del juicio de origen con sus anexos y la constancia de traslado a las partes. Deberá dejar copia certificada de las actuaciones que estime necesarias para la ejecución de la resolución reclamada o para proveer respecto de la suspensión.
 En el sistema procesal penal acusatorio, se acompañará un índice cronológico del desahogo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
 Párrafo adicionado DOF 17-06-2016
 
 ## Sección Tercera
+
 Substanciación
 
 ### Artículo 179
 . La persona titular de la presidencia del tribunal colegiado de circuito deberá resolver en el plazo de tres días si admite la demanda, previene a la persona quejosa para su regularización, o la desecha por encontrar motivo manifiesto e indudable de improcedencia.
-Artículo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 180
 . Si hubiera irregularidades en el escrito de demanda por no haber satisfecho los requisitos que establece el artículo 175 de esta Ley, la persona titular de la presidencia del tribunal colegiado de circuito señalará a la persona promovente un plazo que no excederá de cinco días, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
@@ -1720,11 +1881,14 @@ Artículo reformado DOF 13-03-2025, 16-10-2025
 . La parte que haya obtenido sentencia favorable y la que tenga interés jurídico en que subsista el acto reclamado podrán presentar amparo en forma adhesiva al que promueva cualquiera de las partes que intervinieron en el juicio del que emana el acto reclamado, el cual se tramitará en el mismo expediente y se resolverán en una sola sentencia. La presentación y trámite del amparo adhesivo se regirá, en lo conducente, por lo dispuesto para el amparo principal, y seguirá la misma suerte procesal de éste.
 El amparo adhesivo únicamente procederá en los casos siguientes:
 
-I. Cuando el o la adherente trate de fortalecer las consideraciones vertidas en el fallo definitivo, a fin de no quedar indefenso o indefensa, y Fracción reformada DOF 13-03-2025
+I. Cuando el o la adherente trate de fortalecer las consideraciones vertidas en el fallo definitivo, a fin de no quedar indefenso o indefensa, y
+Fracción reformada DOF 13-03-2025
 
 II. Cuando existan violaciones al procedimiento que pudieran afectar las defensas del o la adherente, trascendiendo al resultado del fallo.
-Fracción reformada DOF 13-03-2025 Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del o la adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el o la adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores de edad, incapaces, ejidatarios o ejidatarias, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose de la persona imputada y de la ofendida o víctima.
-Párrafo reformado DOF 17-06-2016, 13-03-2025 Con la demanda de amparo adhesivo se correrá traslado a la parte contraria para que exprese lo que a su interés convenga.
+Fracción reformada DOF 13-03-2025
+Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del o la adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el o la adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores de edad, incapaces, ejidatarios o ejidatarias, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose de la persona imputada y de la ofendida o víctima.
+Párrafo reformado DOF 17-06-2016, 13-03-2025
+Con la demanda de amparo adhesivo se correrá traslado a la parte contraria para que exprese lo que a su interés convenga.
 La falta de promoción del amparo adhesivo hará que precluya el derecho de quien obtuvo sentencia favorable para alegar posteriormente las violaciones procesales que se hayan cometido en su contra, siempre que haya estado en posibilidad de hacerlas valer.
 ESTADOS UNIDOS MEXICANOS El tribunal colegiado de circuito, respetando la lógica y las reglas fundamentales que norman el procedimiento en el juicio de amparo, procurará resolver integralmente el asunto para evitar, en lo posible, la prolongación de la controversia.
 
@@ -1743,19 +1907,23 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 186
 . La resolución se tomará por unanimidad o mayoría de votos. En este último caso, el magistrado o magistrada que no esté conforme con el sentido de la resolución deberá formular su voto particular dentro del plazo de diez días siguientes al de la firma del engrose, voto en el que expresará cuando menos sucintamente las razones que lo fundamentan.
-Párrafo reformado DOF 13-03-2025 Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. La falta de emisión de un voto particular no impedirá la publicación de la sentencia.
+Párrafo reformado DOF 13-03-2025
+Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. La falta de emisión de un voto particular no impedirá la publicación de la sentencia.
 Párrafo reformado DOF 16-10-2025
 
 ### Artículo 187
 . Si no fuera aprobado el proyecto, pero el magistrado o magistrada ponente aceptare las adiciones o reformas propuestas en la sesión, procederá a redactar la sentencia con base en los términos de la discusión.
-Párrafo reformado DOF 13-03-2025 Si el voto de la mayoría de los magistrados o magistradas fuera en sentido distinto al del proyecto, uno de ellos o ellas redactará la sentencia.
-Párrafo reformado DOF 13-03-2025 En ambos casos el plazo para redactar la sentencia será de diez días, debiendo quedar en autos constancia del proyecto original.
+Párrafo reformado DOF 13-03-2025
+Si el voto de la mayoría de los magistrados o magistradas fuera en sentido distinto al del proyecto, uno de ellos o ellas redactará la sentencia.
+Párrafo reformado DOF 13-03-2025
+En ambos casos el plazo para redactar la sentencia será de diez días, debiendo quedar en autos constancia del proyecto original.
 ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 188
 . Las sentencias del tribunal deberán ser firmadas por todos sus integrantes y por el secretario de acuerdos.
 Cuando por cualquier motivo cambiare el personal del tribunal que haya dictado una ejecutoria conforme a los artículos anteriores, antes de que haya podido ser firmada por los magistrados o magistradas que la hubiesen dictado, si fue aprobado el proyecto de la magistrada o magistrado relator, la sentencia será autorizada válidamente por los magistrados o magistradas que integran aquél, haciéndose constar las circunstancias que hubiesen concurrido.
-Párrafo reformado DOF 13-03-2025 Firmada la sentencia se notificará por lista a las partes.
+Párrafo reformado DOF 13-03-2025
+Firmada la sentencia se notificará por lista a las partes.
 En los casos en que proceda el recurso de revisión la notificación a las partes se hará en forma personal.
 Para los efectos del párrafo anterior, la autoridad responsable solo será notificada al proveerse la remisión de los autos a la Suprema Corte de Justicia de la Nación o haya transcurrido el plazo para interponer el recurso.
 
@@ -1765,39 +1933,49 @@ En los asuntos del orden penal, cuando se desprendan violaciones de fondo de las
 Artículo reformado DOF 13-03-2025
 
 ## Sección Cuarta
+
 Suspensión del Acto Reclamado
 
 ### Artículo 190
 . La autoridad responsable decidirá, en el plazo de veinticuatro horas a partir de la solicitud, sobre la suspensión del acto reclamado y los requisitos para su efectividad.
 Tratándose de laudos o de resoluciones que pongan fin al juicio, dictados por tribunales del trabajo, la suspensión se concederá en los casos en que, a juicio de la persona titular de la presidencia del tribunal respectivo, no se ponga a la parte trabajadora en peligro de no subsistir mientras se resuelve el juicio de amparo, en los cuales sólo se suspenderá la ejecución en cuanto exceda de lo necesario para asegurar tal subsistencia.
-Párrafo reformado DOF 13-03-2025 Son aplicables a la suspensión en amparo directo, salvo el caso de la materia penal, los artículos 125, 128, 129, 130, 132, 133, 134, 135, 136, 154 y 156 de esta Ley.
+Párrafo reformado DOF 13-03-2025
+Son aplicables a la suspensión en amparo directo, salvo el caso de la materia penal, los artículos 125, 128, 129, 130, 132, 133, 134, 135, 136, 154 y 156 de esta Ley.
 
 ### Artículo 191
 . Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que la persona quejosa quede a disposición del Órgano jurisdiccional de amparo, por mediación de la autoridad responsable.
 Artículo reformado DOF 17-06-2016, 13-03-2025
 
 ## TÍTULO TERCERO — ESTADOS UNIDOS MEXICANOS
+
 Cumplimiento y Ejecución
 
 ## CAPÍTULO I
+
 Cumplimiento e Inejecución
 
 ### Artículo 192
 . Las ejecutorias de amparo deben ser puntualmente cumplidas. Al efecto, cuando cause ejecutoria la sentencia en que se haya concedido el amparo, o se reciba testimonio de la dictada en revisión, la jueza o el juez de distrito o el tribunal colegiado de apelación, si se trata de amparo indirecto, o el tribunal colegiado de circuito, tratándose de amparo directo, la notificarán sin demora a las partes.
-Párrafo reformado DOF 07-06-2021 En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la ejecutoria dentro del plazo de tres días, apercibida que de no hacerlo así sin causa justificada, se impondrá a su titular una multa que se determinará desde luego y que, asimismo, se remitirá el expediente al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según el caso, para seguir el trámite de inejecución, que puede culminar con la separación de su puesto y su consignación.
+Párrafo reformado DOF 07-06-2021
+En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la ejecutoria dentro del plazo de tres días, apercibida que de no hacerlo así sin causa justificada, se impondrá a su titular una multa que se determinará desde luego y que, asimismo, se remitirá el expediente al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según el caso, para seguir el trámite de inejecución, que puede culminar con la separación de su puesto y su consignación.
 La persona juzgadora previo a requerir a las autoridades responsables o a otras que considere como vinculadas al cumplimiento de la ejecutoria de amparo, deberá analizar el marco jurídico de actuación de las mismas para determinar si conforme a sus facultades les corresponde llevar a cabo actos relacionados con el cumplimiento respectivo.
-Párrafo adicionado DOF 16-10-2025 Al ordenar la notificación y requerimiento a la autoridad responsable, el órgano judicial de amparo también ordenará notificar y requerir a la persona superior jerárquica de aquélla, en su caso, para que le ordene cumplir con la ejecutoria, bajo el apercibimiento que de no demostrar que dio la orden, se le impondrá a su titular una multa en los términos señalados en esta Ley, además de que incurrirá en las mismas responsabilidades de la autoridad responsable. La persona titular de la Presidencia de la República no podrá ser considerada autoridad responsable o superior jerárquica.
-Párrafo reformado DOF 13-03-2025 El órgano judicial de amparo, al hacer los requerimientos, podrá ampliar el plazo de cumplimiento tomando en cuenta su complejidad o dificultad debiendo fijar un plazo razonable y estrictamente determinado. Asimismo, en casos urgentes y de notorio perjuicio para la persona quejosa, ordenará el cumplimiento inmediato por los medios oficiales de que disponga.
+Párrafo adicionado DOF 16-10-2025
+Al ordenar la notificación y requerimiento a la autoridad responsable, el órgano judicial de amparo también ordenará notificar y requerir a la persona superior jerárquica de aquélla, en su caso, para que le ordene cumplir con la ejecutoria, bajo el apercibimiento que de no demostrar que dio la orden, se le impondrá a su titular una multa en los términos señalados en esta Ley, además de que incurrirá en las mismas responsabilidades de la autoridad responsable. La persona titular de la Presidencia de la República no podrá ser considerada autoridad responsable o superior jerárquica.
+Párrafo reformado DOF 13-03-2025
+El órgano judicial de amparo, al hacer los requerimientos, podrá ampliar el plazo de cumplimiento tomando en cuenta su complejidad o dificultad debiendo fijar un plazo razonable y estrictamente determinado. Asimismo, en casos urgentes y de notorio perjuicio para la persona quejosa, ordenará el cumplimiento inmediato por los medios oficiales de que disponga.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 193
 . Si la ejecutoria no quedó cumplida en el plazo fijado y se trata de amparo indirecto, el órgano judicial de amparo hará el pronunciamiento respectivo, impondrá las multas que procedan y remitirá los autos al tribunal colegiado de circuito, lo cual será notificado a la autoridad responsable y, en su caso, a su superiora o superior jerárquico, cuyos titulares seguirán teniendo responsabilidad aunque dejen el cargo.
-Párrafo reformado DOF 13-03-2025 Se considerará incumplimiento el retraso por medio de evasivas o procedimientos ilegales de la autoridad responsable, o de cualquiera otra que intervenga en el trámite relativo.
+Párrafo reformado DOF 13-03-2025
+Se considerará incumplimiento el retraso por medio de evasivas o procedimientos ilegales de la autoridad responsable, o de cualquiera otra que intervenga en el trámite relativo.
 En cambio, si la autoridad demuestra que la ejecutoria está en vías de cumplimiento o justifica la causa del retraso, el órgano judicial de amparo podrá ampliar el plazo por una sola vez, subsistiendo los apercibimientos efectuados. El incumplimiento ameritará las providencias especificadas en el primer párrafo.
 ESTADOS UNIDOS MEXICANOS En el supuesto de que sea necesario precisar, definir o concretar la forma o términos del cumplimiento de la ejecutoria, cualquiera de los órganos judiciales competentes podrá ordenar, de oficio o a petición de parte, que se abra un incidente para tal efecto.
 Al remitir los autos al tribunal colegiado de circuito, la jueza o el juez de distrito o el tribunal colegiado de apelación, formará un expedientillo con las copias certificadas necesarias para seguir procurando el cumplimiento de la ejecutoria.
-Párrafo reformado DOF 07-06-2021 El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo de la persona titular de la autoridad responsable y, en su caso, del de su superiora o superior jerárquico, lo cual será notificado a éstos.
-Párrafo reformado DOF 13-03-2025 Si la ejecutoria de amparo no quedó cumplida en el plazo fijado y se trata de amparo directo, el tribunal colegiado de circuito seguirá, en lo conducente y aplicable, lo establecido en los párrafos anteriores. Llegado el caso, remitirá los autos a la Suprema Corte de Justicia de la Nación con proyecto de separación del cargo de las personas titulares de la autoridad responsable y su superiora o superior jerárquico.
+Párrafo reformado DOF 07-06-2021
+El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo de la persona titular de la autoridad responsable y, en su caso, del de su superiora o superior jerárquico, lo cual será notificado a éstos.
+Párrafo reformado DOF 13-03-2025
+Si la ejecutoria de amparo no quedó cumplida en el plazo fijado y se trata de amparo directo, el tribunal colegiado de circuito seguirá, en lo conducente y aplicable, lo establecido en los párrafos anteriores. Llegado el caso, remitirá los autos a la Suprema Corte de Justicia de la Nación con proyecto de separación del cargo de las personas titulares de la autoridad responsable y su superiora o superior jerárquico.
 Párrafo reformado DOF 13-03-2025
 
 ### Artículo 194
@@ -1811,7 +1989,8 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 196
 . Cuando el órgano judicial de amparo reciba informe de la autoridad responsable de que ya cumplió la ejecutoria, dará vista a la persona quejosa y, en su caso, a la o el tercero interesado, para que dentro del plazo de tres días manifiesten lo que a su derecho convenga. En los casos de amparo directo la vista será de diez días donde la parte afectada podrá alegar el defecto o exceso en el cumplimiento. Dentro del mismo plazo computado a partir del siguiente al en que haya tenido conocimiento de su afectación por el cumplimiento, podrá comparecer la persona extraña a juicio para defender su interés.
-Párrafo reformado DOF 13-03-2025 Transcurrido el plazo dado a las partes, con desahogo de la vista o sin ella, el órgano judicial de amparo dictará resolución fundada y motivada en que declare si la sentencia está cumplida o no lo está, si incurrió en exceso o defecto, o si hay imposibilidad para cumplirla.
+Párrafo reformado DOF 13-03-2025
+Transcurrido el plazo dado a las partes, con desahogo de la vista o sin ella, el órgano judicial de amparo dictará resolución fundada y motivada en que declare si la sentencia está cumplida o no lo está, si incurrió en exceso o defecto, o si hay imposibilidad para cumplirla.
 La ejecutoria se entiende cumplida cuando lo sea en su totalidad, sin excesos ni defectos.
 ESTADOS UNIDOS MEXICANOS Si en estos términos el órgano judicial de amparo la declara cumplida, ordenará el archivo del expediente.
 Si no está cumplida, no está cumplida totalmente, no lo está correctamente o se considera de imposible cumplimiento, remitirá los autos al tribunal colegiado de circuito o a la Suprema Corte de Justicia de la Nación, según corresponda, como establece, en lo conducente, el artículo 193 de esta Ley.
@@ -1824,10 +2003,12 @@ Si no está cumplida, no está cumplida totalmente, no lo está correctamente o 
 Cuando sea necesario precisar, definir o concretar la forma o términos del cumplimiento de la ejecutoria, la Suprema Corte de Justicia de la Nación devolverá los autos al órgano judicial de amparo, a efecto de que desahogue el incidente a que se refiere el párrafo cuarto del artículo 193 de esta Ley.
 Cuando estime que el retraso en el cumplimiento es justificado, dará un plazo razonable a la autoridad responsable para que cumpla, el que podrá ampliarse a solicitud fundada de la autoridad.
 Cuando considere que es inexcusable o hubiere transcurrido el plazo anterior sin que se hubiese cumplido, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable y a consignarlo ante el juez o jueza de distrito por el delito de incumplimiento de sentencias de amparo. Las mismas providencias se tomarán respecto de la superiora o superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los o las titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hayan incumplido la ejecutoria.
-Párrafo reformado DOF 13-03-2025 En la misma resolución, la Suprema Corte de Justicia de la Nación ordenará que se devuelvan los autos al órgano jurisdiccional de amparo a efecto de que reinicie el trámite de cumplimiento ante los nuevos titulares, sin perjuicio de la consignación que proceda contra las o los anteriores titulares que hayan sido considerados responsables del incumplimiento de la ejecutoria de amparo en términos del párrafo anterior.
+Párrafo reformado DOF 13-03-2025
+En la misma resolución, la Suprema Corte de Justicia de la Nación ordenará que se devuelvan los autos al órgano jurisdiccional de amparo a efecto de que reinicie el trámite de cumplimiento ante los nuevos titulares, sin perjuicio de la consignación que proceda contra las o los anteriores titulares que hayan sido considerados responsables del incumplimiento de la ejecutoria de amparo en términos del párrafo anterior.
 Párrafo reformado DOF 13-03-2025
 
 ## CAPÍTULO II
+
 Repetición del Acto Reclamado
 
 ### Artículo 199
@@ -1839,9 +2020,11 @@ ESTADOS UNIDOS MEXICANOS
 ### Artículo 200
 . Recibidos los autos, la Suprema Corte de Justicia de la Nación determinará a la brevedad posible, si existe o no repetición del acto reclamado.
 En el primer supuesto, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable, así como a consignarlo ante juez o jueza de distrito por el delito que corresponda.
-Párrafo reformado DOF 13-03-2025 Si no hubiere repetición, o si habiéndola, la autoridad no actuó dolosamente y dejó sin efectos el acto repetitivo antes de la resolución de la Suprema Corte de Justicia de la Nación, ésta hará la declaratoria correspondiente y devolverá los autos al órgano judicial que los remitió.
+Párrafo reformado DOF 13-03-2025
+Si no hubiere repetición, o si habiéndola, la autoridad no actuó dolosamente y dejó sin efectos el acto repetitivo antes de la resolución de la Suprema Corte de Justicia de la Nación, ésta hará la declaratoria correspondiente y devolverá los autos al órgano judicial que los remitió.
 
 ## CAPÍTULO III
+
 Recurso de Inconformidad
 
 ### Artículo 201
@@ -1857,14 +2040,18 @@ IV. Declare infundada o improcedente la denuncia por incumplimiento de la declar
 
 ### Artículo 202
 . El recurso de inconformidad podrá interponerse por la persona quejosa o, en su caso, por la o el tercero interesado o la o el promovente de la denuncia a que se refiere el artículo 210 de esta Ley, mediante escrito presentado por conducto del órgano judicial que haya dictado la resolución impugnada, dentro del plazo de quince días contados a partir del siguiente al en que surta efectos la notificación.
-Párrafo reformado DOF 13-03-2025 La persona extraña a juicio que resulte afectada por el cumplimiento o ejecución de la sentencia de amparo también podrá interponer el recurso de inconformidad en los mismos términos establecidos en el párrafo anterior, si ya había tenido conocimiento de lo actuado ante el órgano judicial de amparo; en caso contrario, el plazo de quince días se contará a partir del siguiente al que haya tenido conocimiento de la afectación. En cualquier caso, la persona extraña al juicio de amparo sólo podrá alegar en contra del cumplimiento o ejecución indebidos de la ejecutoria en cuanto la afecten, pero no en contra de la ejecutoria misma.
-Párrafo reformado DOF 13-03-2025 Cuando el amparo se haya otorgado en contra de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, la inconformidad podrá ser interpuesta en cualquier tiempo.
+Párrafo reformado DOF 13-03-2025
+La persona extraña a juicio que resulte afectada por el cumplimiento o ejecución de la sentencia de amparo también podrá interponer el recurso de inconformidad en los mismos términos establecidos en el párrafo anterior, si ya había tenido conocimiento de lo actuado ante el órgano judicial de amparo; en caso contrario, el plazo de quince días se contará a partir del siguiente al que haya tenido conocimiento de la afectación. En cualquier caso, la persona extraña al juicio de amparo sólo podrá alegar en contra del cumplimiento o ejecución indebidos de la ejecutoria en cuanto la afecten, pero no en contra de la ejecutoria misma.
+Párrafo reformado DOF 13-03-2025
+Cuando el amparo se haya otorgado en contra de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, la inconformidad podrá ser interpuesta en cualquier tiempo.
 
 ### Artículo 203
 . El órgano jurisdiccional, sin decidir sobre la admisión del recurso de inconformidad, remitirá el original del escrito, así como los autos del juicio al tribunal colegiado de circuito, el cual resolverá allegándose de los elementos que estime convenientes.
-ESTADOS UNIDOS MEXICANOS Artículo reformado DOF 07-06-2021
+ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 07-06-2021
 
 ## CAPÍTULO IV
+
 Incidente de Cumplimiento Sustituto
 
 ### Artículo 204
@@ -1875,17 +2062,22 @@ Artículo reformado DOF 13-03-2025
 . El cumplimiento sustituto podrá ser solicitado por cualquiera de las partes o decretado de oficio por el órgano jurisdiccional que hubiera emitido la sentencia de amparo, en los casos en que:
 Párrafo reformado DOF 07-06-2021
 
-I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener la persona quejosa, o Fracción reformada DOF 13-03-2025
+I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener la persona quejosa, o
+Fracción reformada DOF 13-03-2025
 
 II. Por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al juicio.
 La solicitud podrá presentarse ante el órgano jurisdiccional que hubiera emitido la sentencia de amparo a partir del momento que ésta cause ejecutoria.
-Párrafo reformado DOF 07-06-2021 El cumplimiento sustituto se tramitará incidentalmente en los términos de los artículos 66 y 67 de esta Ley.
+Párrafo reformado DOF 07-06-2021
+El cumplimiento sustituto se tramitará incidentalmente en los términos de los artículos 66 y 67 de esta Ley.
 En el incidente, el órgano jurisdiccional que hubiera emitido la sentencia determinará si ha lugar o no al cumplimiento sustituto. En caso de resultar favorecida la petición, se abrirá un nuevo incidente para cuantificar el pago de daños y perjuicios.
-Párrafo reformado DOF 07-06-2021 Tanto la determinación sobre la procedencia del cumplimiento sustituto como la que cuantifique los daños y perjuicios serán recurribles mediante el recurso de queja previsto en el artículo 97, fracción I, inciso h) de esta Ley, del cual conocerán los tribunales colegiados de circuito.
-Párrafo adicionado DOF 07-06-2021 Independientemente de lo establecido en los párrafos anteriores, la persona quejosa y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente.
+Párrafo reformado DOF 07-06-2021
+Tanto la determinación sobre la procedencia del cumplimiento sustituto como la que cuantifique los daños y perjuicios serán recurribles mediante el recurso de queja previsto en el artículo 97, fracción I, inciso h) de esta Ley, del cual conocerán los tribunales colegiados de circuito.
+Párrafo adicionado DOF 07-06-2021
+Independientemente de lo establecido en los párrafos anteriores, la persona quejosa y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente.
 Párrafo reformado DOF 13-03-2025
 
 ## CAPÍTULO V
+
 Incidente por Exceso o Defecto en el Cumplimiento de la Suspensión
 
 ### Artículo 206
@@ -1911,6 +2103,7 @@ III. En la audiencia se recibirán las pruebas ofrecidas por las partes, se dar�
 Artículo reformado DOF 13-03-2025
 
 ## CAPÍTULO VI
+
 Denuncia por Incumplimiento de la Declaratoria General de Inconstitucionalidad
 
 ### Artículo 210
@@ -1918,15 +2111,20 @@ Denuncia por Incumplimiento de la Declaratoria General de Inconstitucionalidad
 Párrafo reformado DOF 13-03-2025
 
 I. La denuncia se hará ante el juez o jueza de distrito que tenga jurisdicción en el lugar donde el acto deba tener ejecución, trate de ejecutarse, se esté ejecutando o se haya ejecutado.
-Párrafo reformado DOF 13-03-2025 Si el acto denunciado puede tener ejecución en más de un distrito o ha comenzado a ejecutarse en uno de ellos y sigue ejecutándose en otro, el trámite se llevará ante el juez o jueza de distrito que primero admita la denuncia; en su defecto, aquél que dicte acuerdo sobre ella o, en su caso, el que primero la haya recibido.
-Párrafo reformado DOF 13-03-2025 Cuando el acto denunciado no requiera ejecución material se tramitará ante el juez o jueza de distrito en cuya jurisdicción resida la o el denunciante.
-Párrafo reformado DOF 13-03-2025 El juez o jueza de distrito dará vista a las partes para que en un plazo de tres días expongan lo que a su derecho convenga.
-Párrafo reformado DOF 13-03-2025 Transcurrido este plazo, dictará resolución dentro de los tres días siguientes. Si fuere en el sentido de que se aplicó la norma general inconstitucional, ordenará a la autoridad aplicadora ESTADOS UNIDOS MEXICANOS que deje sin efectos el acto denunciado y de no hacerlo en tres días se estará a lo que disponen los artículos 192 al 198 de esta Ley en lo conducente. Si fuere en el sentido de que no se aplicó, la resolución podrá impugnarse mediante el recurso de inconformidad;
+Párrafo reformado DOF 13-03-2025
+Si el acto denunciado puede tener ejecución en más de un distrito o ha comenzado a ejecutarse en uno de ellos y sigue ejecutándose en otro, el trámite se llevará ante el juez o jueza de distrito que primero admita la denuncia; en su defecto, aquél que dicte acuerdo sobre ella o, en su caso, el que primero la haya recibido.
+Párrafo reformado DOF 13-03-2025
+Cuando el acto denunciado no requiera ejecución material se tramitará ante el juez o jueza de distrito en cuya jurisdicción resida la o el denunciante.
+Párrafo reformado DOF 13-03-2025
+El juez o jueza de distrito dará vista a las partes para que en un plazo de tres días expongan lo que a su derecho convenga.
+Párrafo reformado DOF 13-03-2025
+Transcurrido este plazo, dictará resolución dentro de los tres días siguientes. Si fuere en el sentido de que se aplicó la norma general inconstitucional, ordenará a la autoridad aplicadora ESTADOS UNIDOS MEXICANOS que deje sin efectos el acto denunciado y de no hacerlo en tres días se estará a lo que disponen los artículos 192 al 198 de esta Ley en lo conducente. Si fuere en el sentido de que no se aplicó, la resolución podrá impugnarse mediante el recurso de inconformidad;
 
 II. Si con posterioridad la autoridad aplicadora o en su caso la sustituta incurrieran de nueva cuenta en aplicar la norma general declarada inconstitucional, el denunciante podrá combatir dicho acto a través del procedimiento de denuncia de repetición del acto reclamado previsto por el Capítulo II del Título Tercero de esta Ley.
 El procedimiento establecido en el presente artículo será aplicable a los casos en que la declaratoria general de inconstitucionalidad derive de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO VII — Disposiciones Complementarias
+
 
 ### Artículo 211
 . Lo dispuesto en este título debe entenderse sin perjuicio de que el órgano jurisdiccional haga cumplir la sentencia de que se trate dictando las órdenes y medidas de apremio necesarias. Si éstas no fueren obedecidas, comisionará al secretario o secretaria o actuario o actuaria para que le dé cumplimiento cuando la naturaleza del acto lo permita y, en su caso, el mismo juez o jueza de distrito se constituirá en el lugar en que deba dársele cumplimiento para ejecutarla.
@@ -1945,9 +2143,11 @@ Artículo reformado DOF 13-03-2025
 . No podrá archivarse ningún juicio de amparo sin que se haya cumplido la sentencia que concedió la protección constitucional o no exista materia para la ejecución y así se haya determinado por el órgano jurisdiccional de amparo en resolución fundada y motivada.
 
 ## TÍTULO CUARTO
+
 Jurisprudencia y Declaratoria General de Inconstitucionalidad ESTADOS UNIDOS MEXICANOS
 
 ## CAPÍTULO I — Disposiciones Generales
+
 
 ### Artículo 215
 . La jurisprudencia se establece por precedentes obligatorios, por reiteración y por contradicción.
@@ -1955,15 +2155,20 @@ Artículo reformado DOF 07-06-2021
 
 ### Artículo 216
 . La jurisprudencia por precedentes obligatorios se establece por la Suprema Corte de Justicia de la Nación funcionando en Pleno.
-Párrafo reformado DOF 13-03-2025 La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito.
+Párrafo reformado DOF 13-03-2025
+La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito.
 La jurisprudencia por contradicción se establece por el Pleno de la Suprema Corte de Justicia de la Nación y por los plenos regionales.
-Párrafo reformado DOF 13-03-2025 Artículo reformado DOF 07-06-2021
+Párrafo reformado DOF 13-03-2025
+Artículo reformado DOF 07-06-2021
 
 ### Artículo 217
 . La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación será obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas, con excepción de la propia Suprema Corte.
-Párrafo reformado DOF 07-06-2021 La jurisprudencia que establezcan los plenos regionales es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su región, salvo para la Suprema Corte de Justicia de la Nación y los plenos regionales.
-Párrafo reformado DOF 07-06-2021 La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su circuito, con excepción de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito.
-Párrafo adicionado DOF 07-06-2021 La jurisprudencia en ningún caso tendrá efecto retroactivo en perjuicio de persona alguna.
+Párrafo reformado DOF 07-06-2021
+La jurisprudencia que establezcan los plenos regionales es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su región, salvo para la Suprema Corte de Justicia de la Nación y los plenos regionales.
+Párrafo reformado DOF 07-06-2021
+La jurisprudencia que establezcan los tribunales colegiados de circuito es obligatoria para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas de su circuito, con excepción de la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito.
+Párrafo adicionado DOF 07-06-2021
+La jurisprudencia en ningún caso tendrá efecto retroactivo en perjuicio de persona alguna.
 Reforma DOF 13-03-2025: Derogó del artículo el entonces párrafo segundo (antes reformado DOF 07-06-2021)
 
 ### Artículo 218
@@ -1998,7 +2203,9 @@ Párrafo reformado DOF 07-06-2021
 Artículo derogado DOF 07-06-2021
 
 ## CAPÍTULO II
-Jurisprudencia por Precedentes Obligatorios Denominación del Capítulo reformada DOF 07-06-2021
+
+Jurisprudencia por Precedentes Obligatorios
+Denominación del Capítulo reformada DOF 07-06-2021
 
 ### Artículo 222
 . Las razones que justifiquen las decisiones contenidas en las sentencias que dicte el Pleno de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de seis votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
@@ -2009,14 +2216,19 @@ Artículo reformado DOF 07-06-2021, 13-03-2025
 Artículo reformado DOF 07-06-2021. Derogado DOF 13-03-2025
 
 ## CAPÍTULO III
-Jurisprudencia por Reiteración Capítulo adicionado DOF 07-06-2021
+
+Jurisprudencia por Reiteración
+Capítulo adicionado DOF 07-06-2021
 
 ### Artículo 224
 . La jurisprudencia por reiteración se establece por los tribunales colegiados de circuito cuando sustenten, por unanimidad, un mismo criterio en cinco sentencias no interrumpidas por otra en contrario. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
-ESTADOS UNIDOS MEXICANOS Artículo reformado DOF 07-06-2021
+ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 07-06-2021
 
 ## CAPÍTULO IV
-Jurisprudencia por Contradicción de Criterios Capítulo recorrido (antes Capítulo III) con denominación reformada DOF 07-06-2021
+
+Jurisprudencia por Contradicción de Criterios
+Capítulo recorrido (antes Capítulo III) con denominación reformada DOF 07-06-2021
 
 ### Artículo 225
 . La jurisprudencia por contradicción se establece al dilucidar los criterios discrepantes sostenidos entre los plenos regionales o entre los tribunales colegiados de circuito, en los asuntos de su competencia.
@@ -2025,19 +2237,23 @@ Artículo reformado DOF 07-06-2021, 13-03-2025
 ### Artículo 226
 . Las contradicciones de criterios serán resueltas por:
 
-I. Derogada Fracción derogada DOF 13-03-2025
+I. Derogada
+Fracción derogada DOF 13-03-2025
 
-II. El Pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre plenos regionales o entre tribunales colegiados de circuito pertenecientes a distintas regiones, y Fracción reformada DOF 13-03-2025
+II. El Pleno de la Suprema Corte de Justicia de la Nación cuando deban dilucidarse los criterios contradictorios sostenidos entre plenos regionales o entre tribunales colegiados de circuito pertenecientes a distintas regiones, y
+Fracción reformada DOF 13-03-2025
 
 III. Los plenos regionales cuando deban dilucidarse criterios contradictorios entre los tribunales colegiados de circuito de la región correspondiente.
 Al resolverse una contradicción de criterios, el órgano correspondiente podrá acoger uno de los criterios discrepantes, sustentar uno diverso, declararla inexistente o sin materia. En todo caso, la decisión se determinará por mayoría.
 La resolución que decida la contradicción de criterios no afectará las situaciones jurídicas concretas de los juicios en los cuales se hayan dictado las sentencias que sustentaron los criterios contendientes.
-Párrafo reformado DOF 13-03-2025 Artículo reformado DOF 07-06-2021
+Párrafo reformado DOF 13-03-2025
+Artículo reformado DOF 07-06-2021
 
 ### Artículo 227
 . La legitimación para denunciar las contradicciones de criterios se ajustará a las siguientes reglas:
 
-I. Derogada Fracción derogada DOF 13-03-2025
+I. Derogada
+Fracción derogada DOF 13-03-2025
 
 II. Las contradicciones a que se refiere la fracción II del artículo anterior podrán ser denunciadas ante la Suprema Corte de Justicia de la Nación por las ministras o los ministros, los plenos regionales, o los tribunales colegiados de circuito y sus integrantes, que hayan sustentado criterios discrepantes, la o el Fiscal General de la República, las magistradas o los magistrados del tribunal colegiado de apelación, las juezas o los jueces de distrito, o las partes en los asuntos que las motivaron, y
 
@@ -2045,7 +2261,9 @@ III. Las contradicciones a que se refiere la fracción III del artículo anterio
 Artículo reformado DOF 17-06-2016, 20-05-2021, 07-06-2021
 
 ## CAPÍTULO V
-Interrupción de la Jurisprudencia ESTADOS UNIDOS MEXICANOS Capítulo recorrido (antes Capítulo IV) DOF 07-06-2021
+
+Interrupción de la Jurisprudencia ESTADOS UNIDOS MEXICANOS
+Capítulo recorrido (antes Capítulo IV) DOF 07-06-2021
 
 ### Artículo 228
 . Los tribunales no estarán obligados a seguir sus propias jurisprudencias. Sin embargo, para que puedan apartarse de ellas deberán proporcionar argumentos suficientes que justifiquen el cambio de criterio. En ese caso, se interrumpirá la jurisprudencia y dejará de tener carácter obligatorio.
@@ -2061,20 +2279,25 @@ Nota: Por Decreto DOF 07-06-2021 se derogó el entonces Capítulo V “Jurisprud
 Artículo derogado DOF 07-06-2021
 
 ## CAPÍTULO VI
+
 Declaratoria General de Inconstitucionalidad
 
 ### Artículo 231
 . Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación deberá informarlo a la autoridad emisora de la norma en un plazo de quince días.
-Párrafo reformado DOF 07-06-2021, 13-03-2025 Lo dispuesto en el presente Capítulo no será aplicable a normas en materia tributaria.
+Párrafo reformado DOF 07-06-2021, 13-03-2025
+Lo dispuesto en el presente Capítulo no será aplicable a normas en materia tributaria.
 
 ### Artículo 232
 . Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia en la que determinen la inconstitucionalidad de una norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo reformado DOF 07-06-2021, 13-03-2025 Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el Pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos seis votos.
-Párrafo reformado DOF 13-03-2025 Cuando el órgano emisor de la norma sea el órgano legislativo federal o local, el plazo referido en el párrafo anterior se computará dentro de los días útiles de los periodos ordinarios de sesiones determinados en la Constitución Federal, en el Estatuto de Gobierno del Distrito Federal, o en la Constitución Local, según corresponda.
+Párrafo reformado DOF 07-06-2021, 13-03-2025
+Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el Pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos seis votos.
+Párrafo reformado DOF 13-03-2025
+Cuando el órgano emisor de la norma sea el órgano legislativo federal o local, el plazo referido en el párrafo anterior se computará dentro de los días útiles de los periodos ordinarios de sesiones determinados en la Constitución Federal, en el Estatuto de Gobierno del Distrito Federal, o en la Constitución Local, según corresponda.
 
 ### Artículo 233
 . Los plenos regionales, conforme a los acuerdos generales que emita la Suprema Corte de Justicia de la Nación, podrán solicitar a ésta, por mayoría de sus integrantes, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su región se haya emitido jurisprudencia derivada de amparos indirectos en revisión.
-Artículo reformado DOF 07-06-2021 ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 07-06-2021
+ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 234
 . La declaratoria en ningún caso podrá modificar el sentido de la resolución o jurisprudencia que le dio origen, será obligatoria, tendrá efectos generales y establecerá:
@@ -2089,9 +2312,11 @@ Los efectos de estas declaratorias no serán retroactivos salvo en materia penal
 . La declaratoria general de inconstitucionalidad se remitirá al Diario Oficial de la Federación y al órgano oficial en el que se hubiera publicado la norma declarada inconstitucional para su publicación dentro del plazo de siete días hábiles.
 
 ## TÍTULO QUINTO
+
 Medidas Disciplinarias y de Apremio, Responsabilidades, Sanciones y Delitos
 
 ## CAPÍTULO I
+
 Medidas Disciplinarias y de Apremio
 
 ### Artículo 236
@@ -2114,6 +2339,7 @@ III. Ordenar que se ponga a la persona infractora a disposición del o la Minist
 Fracción reformada DOF 20-05-2021, 13-03-2025
 
 ## CAPÍTULO II
+
 Responsabilidades y Sanciones ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 238
@@ -2151,7 +2377,8 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 246
 . En el caso del artículo 28, fracción II de esta Ley, si la persona encargada de la oficina pública de comunicaciones no envía el oficio de referencia, se le impondrá una multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización.
-Artículo reformado DOF 13-03-2025 ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 247
 . En los casos de los artículos 32 y 68 de esta Ley, a la persona servidora pública que de mala fe practique una notificación que sea declarada nula se le impondrá una multa de setenta a seiscientos noventa Unidades de Medida y Actualización.
@@ -2187,7 +2414,8 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 255
 . En el caso del artículo 122 de esta Ley, si el juez o jueza de distrito desechare la impugnación presentada, impondrá al promovente que actuó con mala fe multa de setenta a seiscientos noventa Unidades de Medida y Actualización.
-ESTADOS UNIDOS MEXICANOS Artículo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 13-03-2025
 
 ### Artículo 256
 . En el caso del artículo 145 de esta Ley, si se acredita que la segunda suspensión se solicitó indebidamente y con mala fe, se impondrá multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización.
@@ -2217,16 +2445,19 @@ Fracción reformada DOF 13-03-2025
 III. No informe o no remita, en su caso, la certificación relativa a la fecha de notificación del acto reclamado, la de presentación de la demanda y de los días inhábiles que mediaron entre uno y otro acto; y
 
 IV. No tramite la demanda de amparo o no remita con la oportunidad debida y en los plazos previstos por esta Ley las constancias que le sean solicitadas por amparo o por las partes en el juicio constitucional.
-Fracción reformada DOF 16-10-2025 Tratándose de amparo contra normas generales, las autoridades que hayan intervenido en el refrendo del decreto promulgatorio de la norma o en su publicación, únicamente rendirán el informe justificado cuando adviertan que su intervención en el proceso legislativo o de creación de la norma general, se impugne por vicios propios.
+Fracción reformada DOF 16-10-2025
+Tratándose de amparo contra normas generales, las autoridades que hayan intervenido en el refrendo del decreto promulgatorio de la norma o en su publicación, únicamente rendirán el informe justificado cuando adviertan que su intervención en el proceso legislativo o de creación de la norma general, se impugne por vicios propios.
 La falta del informe justificado de las autoridades legislativas, además de lo señalado en el párrafo anterior, no dará lugar a sanción alguna. En la inteligencia que ello no impide al órgano jurisdiccional examinar los referidos actos, si advierte un motivo de inconstitucionalidad.
 
 ## CAPÍTULO III
+
 Delitos ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 261
 . Se impondrá una pena de dos a seis años de prisión y multa de treinta a trescientos días:
 
-I. A la persona quejosa, a su abogada o abogado autorizado o a ambos, si con el propósito de obtener una ventaja procesal indebida, en la demanda afirme hechos falsos u omita los que le consten en relación con el acto reclamado, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y Fracción reformada DOF 13-03-2025
+I. A la persona quejosa, a su abogada o abogado autorizado o a ambos, si con el propósito de obtener una ventaja procesal indebida, en la demanda afirme hechos falsos u omita los que le consten en relación con el acto reclamado, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y
+Fracción reformada DOF 13-03-2025
 
 II. A la persona quejosa o tercera interesada, a su abogada o abogado o a ambos, si en el juicio de amparo presenten testigos o documentos falsos.
 Fracción reformada DOF 13-03-2025
@@ -2246,7 +2477,8 @@ IV. En los casos de suspensión admita, por notoria mala fe o negligencia inexcu
 V. Fuera de los casos señalados en las fracciones anteriores, se resista de cualquier modo a dar cumplimiento a los mandatos u órdenes dictadas en materia de amparo.
 
 ### Artículo 263
-. Las personas juzgadoras de distrito, las autoridades judiciales de los Estados y de la Ciudad de México cuando actúen en auxilio de la justicia federal, las personas titulares de las presidencias de las juntas y de los tribunales de conciliación y arbitraje, las personas magistradas de circuito y las personas ministras de la Suprema Corte de Justicia de la Nación son responsables en los juicios de amparo por los delitos y faltas que cometan en los términos que los definen y castigan el Artículo reformado DOF 13-03-2025
+. Las personas juzgadoras de distrito, las autoridades judiciales de los Estados y de la Ciudad de México cuando actúen en auxilio de la justicia federal, las personas titulares de las presidencias de las juntas y de los tribunales de conciliación y arbitraje, las personas magistradas de circuito y las personas ministras de la Suprema Corte de Justicia de la Nación son responsables en los juicios de amparo por los delitos y faltas que cometan en los términos que los definen y castigan el
+Artículo reformado DOF 13-03-2025
 
 ### Artículo 264
 . Al ministro o ministra, magistrado o magistrada o juez o jueza que dolosamente hubiere negado la causa que funda la recusación y ésta se comprueba, se le impondrán pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación por un lapso de dos a seis años.
@@ -2254,7 +2486,8 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 265
 . Se impondrá pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación de dos a seis años para desempeñar otro cargo, empleo o comisión públicos, al juez o jueza de distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, cuando dolosamente:
-ESTADOS UNIDOS MEXICANOS Párrafo reformado DOF 13-03-2025
+ESTADOS UNIDOS MEXICANOS
+Párrafo reformado DOF 13-03-2025
 
 I. No suspenda el acto reclamado a sabiendas de que importe peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, si dichos actos no se ejecutan por causas ajenas a la intervención de los órganos jurisdiccionales mencionados; y
 
@@ -2294,20 +2527,20 @@ Artículo reformado DOF 13-03-2025, 16-10-2025
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se abroga la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 10 de enero de 1936, y se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
-**TERCERO.** Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como al cumplimiento y ejecución de las sentencias de amparo.
-**CUARTO.** A las personas que hayan cometido un delito de los contemplados en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 Constitucionales publicada en el Diario Oficial de la Federación de 10 de enero de 1936, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones vigentes en el momento en que se haya cometido.
-**QUINTO.** Los actos a los que se refiere la fracción III del artículo 17 de esta Ley que se hubieren dictado o emitido con anterioridad a la entrada en vigor de la misma podrán impugnarse mediante el juicio de amparo dentro de los siete años siguientes a la entrada en vigor de la presente Ley.
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 10 de enero de 1936, y se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
+**TERCERO.-** Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como al cumplimiento y ejecución de las sentencias de amparo.
+**CUARTO.-** A las personas que hayan cometido un delito de los contemplados en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 Constitucionales publicada en el Diario Oficial de la Federación de 10 de enero de 1936, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones vigentes en el momento en que se haya cometido.
+**QUINTO.-** Los actos a los que se refiere la fracción III del artículo 17 de esta Ley que se hubieren dictado o emitido con anterioridad a la entrada en vigor de la misma podrán impugnarse mediante el juicio de amparo dentro de los siete años siguientes a la entrada en vigor de la presente Ley.
 Los actos que se hubieren dictado o emitido con anterioridad a la presente Ley y que a su entrada en vigor no hubiere vencido el plazo para la presentación de la demanda de amparo conforme a la ley que se abroga en virtud del presente decreto, les serán aplicables los plazos de la presente Ley contados a partir del día siguiente a aquél en que surta efectos, conforme a la ley del acto, la notificación del acto o resolución que se reclame o a aquél que haya tenido conocimiento o se ostente sabedor del mismo o de su ejecución.
-**SEXTO.** La jurisprudencia integrada conforme a la ley anterior continuará en vigor en lo que no se oponga a la presente Ley.
-**SÉPTIMO.** Para la integración de la jurisprudencia por reiteración de criterios a que se refiere la presente Ley no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a la ley anterior.
-**OCTAVO.** Las declaratorias generales de inconstitucionalidad no podrán ser hechas respecto de tesis aprobadas conforme a la ley anterior.
+**SEXTO.-** La jurisprudencia integrada conforme a la ley anterior continuará en vigor en lo que no se oponga a la presente Ley.
+**SÉPTIMO.-** Para la integración de la jurisprudencia por reiteración de criterios a que se refiere la presente Ley no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a la ley anterior.
+**OCTAVO.-** Las declaratorias generales de inconstitucionalidad no podrán ser hechas respecto de tesis aprobadas conforme a la ley anterior.
 ESTADOS UNIDOS MEXICANOS
-**NOVENO.** La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal en el ámbito de sus respectivas competencias podrán dictar las medidas necesarias para lograr el efectivo e inmediato cumplimiento de la presente Ley.
-**DÉCIMO.** Se deroga.
+**NOVENO.-** La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal en el ámbito de sus respectivas competencias podrán dictar las medidas necesarias para lograr el efectivo e inmediato cumplimiento de la presente Ley.
+**DÉCIMO.-** Se deroga.
 Artículo derogado DOF 17-06-2016
-**DÉCIMO PRIMERO.** El Consejo de la Judicatura Federal expedirá el Reglamento a que hace referencia el artículo 3o del presente ordenamiento para la implementación del Sistema Electrónico y la utilización de la firma electrónica.
+**DÉCIMO PRIMERO.-** El Consejo de la Judicatura Federal expedirá el Reglamento a que hace referencia el artículo 3o del presente ordenamiento para la implementación del Sistema Electrónico y la utilización de la firma electrónica.
 Asimismo el Consejo de la Judicatura Federal dictará los acuerdos generales a que refieren los artículos 41 Bis y Bis 1 del presente decreto, para la debida integración y funcionamiento de los Plenos de Circuito.
 Las anteriores disposiciones deberán emitirse en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
 
@@ -2328,7 +2561,7 @@ Las anteriores disposiciones deberán emitirse en un plazo de noventa días a pa
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión.
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
@@ -2338,31 +2571,30 @@ Se reforma el primer párrafo del artículo 128; y se adicionan una fracción IX
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**TERCERO.** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-**CUARTO.** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**QUINTO.** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**TERCERO.-** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**CUARTO.-** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**QUINTO.-** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar videojuegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-**SEXTO.** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
+**SEXTO.-** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
 
 ## Transitorio
 
 del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
-**SÉPTIMO.** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal ESTADOS UNIDOS MEXICANOS de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
+**SÉPTIMO.-** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal ESTADOS UNIDOS MEXICANOS de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
 Párrafo adicionado DOF 15-06-2018
-**OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**OCTAVO.-** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
-**NOVENO.** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
+**NOVENO.-** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 Por Índice Hirschman-Herfindahl “IHH” se entiende la suma de los cuadrados de las participaciones de cada agente económico (IHH=i qi2), en el sector que corresponda, medida para el caso del sector de las telecomunicaciones con base en el indicador de número de suscriptores y usuarios de servicios de telecomunicaciones, y para el sector de la radiodifusión con base en audiencia. Este índice puede tomar valores entre cero y diez mil.
 ESTADOS UNIDOS MEXICANOS Para calcular el Índice de Dominancia “ID”, se determinará primero la contribución porcentual hi de cada agente económico al índice IHH definido en el párrafo anterior (hi = 100xqi2/IHH). Después se calculará el valor de ID aplicando la fórmula del Hirschman-Herfindahl, pero utilizando ahora las contribuciones hi en vez de las participaciones qi (es decir, ID=i hi2). Este índice también varía entre cero y diez mil.
 Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
-**DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
-
+**DÉCIMO.-** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
 
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
@@ -2372,9 +2604,8 @@ III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que 
 IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 ESTADOS UNIDOS MEXICANOS No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
-**artículo Octavo.** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
-
+**artículo Octavo.-** Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**DÉCIMO PRIMERO.-** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
 
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
@@ -2385,7 +2616,7 @@ Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto
 IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 ESTADOS UNIDOS MEXICANOS Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-**DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
+**DÉCIMO SEGUNDO.-** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
 
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
@@ -2394,7 +2625,7 @@ II. En caso que el Instituto Federal de Telecomunicaciones considere que la info
 
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
-**Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
+**Octavo.-** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente ESTADOS UNIDOS MEXICANOS económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
 
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
@@ -2413,66 +2644,67 @@ ESTADOS UNIDOS MEXICANOS
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
 
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
-**DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**DÉCIMO TERCERO.-** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
-**DÉCIMO CUARTO.** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
-**DÉCIMO QUINTO.** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SEXTO.** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**DÉCIMO SÉPTIMO.** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
+**DÉCIMO CUARTO.-** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
+**DÉCIMO QUINTO.-** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SEXTO.-** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SÉPTIMO.-** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
 ESTADOS UNIDOS MEXICANOS Para transitar al régimen de concesión correspondiente, los permisionarios deberán presentar solicitud al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en un plazo de noventa días hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
 En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-**DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
-**DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
+**DÉCIMO OCTAVO.-** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+**DÉCIMO NOVENO.-** La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
-**artículo Quinto.** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**artículo Quinto.-** transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
 Los concesionarios y permisionarios de televisión radiodifundida estarán obligados a realizar todas las inversiones e instalaciones necesarias para transitar a la televisión digital terrestre a más tardar el 31 de diciembre de 2015. El Instituto Federal de Telecomunicaciones vigilará el debido cumplimiento de la obligación citada.
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de ESTADOS UNIDOS MEXICANOS Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
-Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
-Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
-**VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
-**artículo Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+Párrafo adicionado DOF 18-12-2015
+En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
+Párrafo reformado DOF 18-12-2015
+Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
+**VIGÉSIMO.-** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
+**artículo Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
-**VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
-**VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
-**VIGÉSIMO TERCERO.** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones ESTADOS UNIDOS MEXICANOS y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
-**VIGÉSIMO CUARTO.** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
-**VIGÉSIMO QUINTO.** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
+**VIGÉSIMO PRIMERO.-** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+**VIGÉSIMO SEGUNDO.-** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+**VIGÉSIMO TERCERO.-** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones ESTADOS UNIDOS MEXICANOS y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
+**VIGÉSIMO CUARTO.-** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
+**VIGÉSIMO QUINTO.-** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
 Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen con motivo de dicha consolidación.
 Asimismo, el Instituto Federal de Telecomunicaciones, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá definir los puntos de interconexión a la red pública de telecomunicaciones del agente económico preponderante o con poder sustancial.
 Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan a lo previsto en el presente transitorio.
 Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales como números 900.
-**VIGÉSIMO SEXTO.** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO SEXTO.-** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.
-**VIGÉSIMO SÉPTIMO.** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO OCTAVO.** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-**VIGÉSIMO NOVENO.** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+**VIGÉSIMO SÉPTIMO.-** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO OCTAVO.-** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO NOVENO.-** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
 ESTADOS UNIDOS MEXICANOS
-**TRIGÉSIMO.** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
+**TRIGÉSIMO.-** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
 En tanto se emite el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
 Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.
-**TRIGÉSIMO.** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
-**TRIGÉSIMO.** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
+**TRIGÉSIMO.-** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+**TRIGÉSIMO.-** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
-**TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
-**TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
-
+**TRIGÉSIMO.-** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+**TRIGÉSIMO.-** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
 I. Sus planes de crecimiento;
 
 II. Sus gastos de operación, y
 
 III. Su equilibrio financiero.
-**TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
-**TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
+**TRIGÉSIMO.-** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
+**TRIGÉSIMO.-** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
 ESTADOS UNIDOS MEXICANOS
-**TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
-**TRIGÉSIMO.** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+**TRIGÉSIMO.-** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+**TRIGÉSIMO.-** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
 Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
 Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
-**TRIGÉSIMO.** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
+**TRIGÉSIMO.-** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
 CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley Federal de Telecomunicaciones y Radiodifusión, a partir de su entrada en vigor.
 CUADRAGÉSIMO PRIMERO. Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos 67 fracción II y 76 fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
 CUADRAGÉSIMO SEGUNDO. A la concesión para instalar, operar y explotar una red pública de telecomunicaciones que, en los términos del artículo Décimo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o, 7o, 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, debe ser cedida por la Comisión Federal de Electricidad a Telecomunicaciones de México, no le resultará aplicable lo establecido en los artículos 140 y 144 de la Ley Federal de Telecomunicaciones y Radiodifusión, exclusivamente respecto a aquellos contratos vigentes a la fecha de publicación del presente Decreto que hayan sido celebrados entre la Comisión Federal de Electricidad y aquellas personas físicas o morales que, conforme a la misma Ley, han de ser considerados como usuarios finales.
@@ -2481,7 +2713,7 @@ ESTADOS UNIDOS MEXICANOS En caso de que exista impedimento técnico, legal o eco
 CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir de la entrada en vigor del presente Decreto, las señales de los concesionarios de uso comercial que transmitan televisión radiodifundida y que cubran más del cincuenta por ciento del territorio nacional deberán contar con lenguaje de señas mexicana o subtitulaje oculto en idioma nacional, en la programación que transmitan de las 06:00 a las 24:00 horas, excluyendo la publicidad y otros casos que establezca el Instituto Federal de Telecomunicaciones, atendiendo a las mejores prácticas internacionales. Los entes públicos federales que sean concesionarios de uso público de televisión radiodifundida estarán sujetos a la misma obligación.
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
-**Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+**Octavo.-** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
@@ -2491,16 +2723,16 @@ Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el a
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
-**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+**Tercero.-** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
 México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 
 ### Artículo Sexto
 Se reforman los artículos 12, segundo párrafo; 61, inciso b) de la fracción XVIII; 73,
-**segundo.** y tercer párrafos; 75, segundo y tercer párrafos; 77, tercer párrafo; 79, segundo párrafo; 124, primer párrafo; 138, primer párrafo; 165; 170, segundo, tercero y quinto párrafos de la fracción I; 173; 182, tercer párrafo; 191; 227, fracciones I, II y III. Se adicionan un inciso d) a la fracción XVIII del artículo 61; un tercer párrafo al artículo 73, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 117, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 128, recorriéndose en su orden los subsecuentes; un último párrafo al artículo 166 y un segundo párrafo a la fracción III del artículo 178. Se deroga el artículo Décimo Transitorio, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
+**segundo.-** y tercer párrafos; 75, segundo y tercer párrafos; 77, tercer párrafo; 79, segundo párrafo; 124, primer párrafo; 138, primer párrafo; 165; 170, segundo, tercero y quinto párrafos de la fracción I; 173; 182, tercer párrafo; 191; 227, fracciones I, II y III. Se adicionan un inciso d) a la fracción XVIII del artículo 61; un tercer párrafo al artículo 73, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 117, recorriéndose en su orden los subsecuentes; un tercer párrafo al artículo 128, recorriéndose en su orden los subsecuentes; un último párrafo al artículo 166 y un segundo párrafo a la fracción III del artículo 178. Se deroga el artículo Décimo Transitorio, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2539,59 +2771,58 @@ Se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto 
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Sexagésimo Quinto.- Se reforman los párrafos segundo y tercero del artículo 9o.; el párrafo
-**cuarto.** del artículo 15; el párrafo primero del artículo 25; el párrafo primero y la fracción I del artículo 40; las fracciones I, II y III del artículo 227, y la fracción III del artículo 237 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
+**cuarto.-** del artículo 15; el párrafo primero del artículo 25; el párrafo primero y la fracción I del artículo 40; las fracciones I, II y III del artículo 227, y la fracción III del artículo 237 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que ESTADOS UNIDOS MEXICANOS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que ESTADOS UNIDOS MEXICANOS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
 ESTADOS UNIDOS MEXICANOS
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 ESTADOS UNIDOS MEXICANOS Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
 
 ### Artículo Quinto
 Se reforman los artículos 33, fracción III; 35, párrafo primero; 36; 40, párrafo primero y fracción I; 47; 48, párrafo primero; 49, párrafos primero y cuarto; 50; 54, fracción III, inciso c); 55, párrafo segundo; 57, párrafos primero y segundo; 58; 79, fracción I; 81, fracción II; 102; 118; 192, párrafo
-**primero.** ; 193, párrafo quinto; 203; 205, párrafos primero, segundo y cuarto; 207; 215; 216; 217, párrafos
-**primero.** , segundo y tercero; 218; 219; 220, párrafo segundo; la denominación del Capítulo II del Título
-**Cuarto.** ; 222; 223; 224; la denominación del actual Capítulo III que pasa a ser Capítulo IV, del Título
-**Cuarto.** ; 225; 226; 227; 228; 231, párrafo primero; 232, párrafo primero; 233; 234, párrafo primero; 248 y 249; se adicionan una fracción IV al artículo 54; un artículo 80 Bis; un párrafo segundo al artículo 91; un párrafo tercero al artículo 104; un párrafo quinto al artículo 205, pasando el actual párrafo quinto a ser párrafo sexto, un párrafo segundo al artículo 216, pasando el actual párrafo segundo a ser párrafo
-**tercero.** ; un párrafo cuarto al artículo 217, pasando el actual párrafo cuarto a ser párrafo quinto; los párrafos segundo y cuarto al artículo 218; un Capítulo III al artículo 224, del Título Cuarto, recorriéndose la numeración de los subsecuentes Capítulos hasta el Capítulo V; un párrafo segundo al artículo 228, y se derogan el párrafo segundo del artículo 81; los artículos 85; 221; el actual Capítulo V, del Título Cuarto y el artículo 230, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
+**primero.-** ; 193, párrafo quinto; 203; 205, párrafos primero, segundo y cuarto; 207; 215; 216; 217, párrafos
+**primero.-** , segundo y tercero; 218; 219; 220, párrafo segundo; la denominación del Capítulo II del Título
+**Cuarto.-** ; 222; 223; 224; la denominación del actual Capítulo III que pasa a ser Capítulo IV, del Título
+**Cuarto.-** ; 225; 226; 227; 228; 231, párrafo primero; 232, párrafo primero; 233; 234, párrafo primero; 248 y 249; se adicionan una fracción IV al artículo 54; un artículo 80 Bis; un párrafo segundo al artículo 91; un párrafo tercero al artículo 104; un párrafo quinto al artículo 205, pasando el actual párrafo quinto a ser párrafo sexto, un párrafo segundo al artículo 216, pasando el actual párrafo segundo a ser párrafo
+**tercero.-** ; un párrafo cuarto al artículo 217, pasando el actual párrafo cuarto a ser párrafo quinto; los párrafos segundo y cuarto al artículo 218; un Capítulo III al artículo 224, del Título Cuarto, recorriéndose la numeración de los subsecuentes Capítulos hasta el Capítulo V; un párrafo segundo al artículo 228, y se derogan el párrafo segundo del artículo 81; los artículos 85; 221; el actual Capítulo V, del Título Cuarto y el artículo 230, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
-
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
 I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
 
 II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
@@ -2607,33 +2838,33 @@ c) Las nuevas categorías de la Carrera Judicial.
 IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
-**Segundo.** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
-**Tercero.** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
-**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-**Quinto.** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
-**Sexto.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**Séptimo.** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
-**Octavo.** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
-**Noveno.** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
-**Décimo.** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
-**Décimo Primero.** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ESTADOS UNIDOS MEXICANOS ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
-**Décimo Segundo.** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
-**Décimo Tercero.** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
+**Segundo.-** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+**Tercero.-** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Quinto.-** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+**Sexto.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Séptimo.-** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+**Octavo.-** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+**Noveno.-** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+**Décimo.-** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+**Décimo Primero.-** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ESTADOS UNIDOS MEXICANOS ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+**Décimo Segundo.-** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+**Décimo Tercero.-** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip.
 María Guadalupe Díaz Avilez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 17 de noviembre de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/398/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el dieciséis de noviembre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+**SEGUNDO.-** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las ESTADOS UNIDOS MEXICANOS Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal.
 Atentamente Ciudad de México; 16 de noviembre de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 17 de noviembre de 2021 a las 13:35 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 ESTADOS UNIDOS MEXICANOS SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
 Publicada en el Diario Oficial de la Federación el 18 de febrero de 2022 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021 PROMOVENTES: DIVERSOS INTEGRANTES DE LAS CÁMARAS DE SENADORES Y DE DIPUTADOS DEL CONGRESO DE LA UNIÓN PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS SECRETARIOS: ROBERTO FRAGA JIMÉNEZ MANUEL POBLETE RÍOS Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al dieciséis de noviembre de dos mil veintiuno. ……… 187. Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+**SEGUNDO.-** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 ESTADOS UNIDOS MEXICANOS El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
@@ -2648,42 +2879,40 @@ Se adiciona un último párrafo al artículo 148, y se deroga el último párraf
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 24 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman y derogan diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 13 de marzo 2025
 
 ### Artículo Único
 Se reforman los artículos 1o., párrafo primero, fracciones II y III; 2o., párrafo
-**segundo.** ; 3o., párrafos segundo, cuarto, séptimo y octavo; 4o., párrafos primero, segundo, fracción I, y
-**tercero.** ; 5o., fracción I, párrafos primero, tercero, cuarto y quinto, II, párrafo segundo, III, párrafo primero y sus incisos b), c), d) y e), y IV y, último párrafo; 6o.; 7o.; 8o.; 9o.; 10; 11; 12; 13; 14; 15; 16; 18; 20, párrafo segundo; 23; 24; 25, párrafo primero; 26; fracciones I, incisos a) y b), y II, incisos a), b) y c); 27, párrafo primero, fracciones I, párrafos primero, incisos a), b) y c), y segundo, II, párrafo primero, III, incisos a), b) y c) y, párrafo segundo; 28, fracciones I, y II, párrafo segundo; 29, párrafos primero, fracción II, y segundo; 30, fracciones I, párrafos primero y quinto, y II; 31, fracciones I, párrafo primero, y II; 33, fracción V; 37; 38; 39; 40; 46, párrafo primero; 48, párrafos segundo, tercero y cuarto; 51, párrafo primero y sus fracciones I, III, IV, V y VII; 54, fracción III, inciso a) y b); 55, párrafo primero; 56, párrafo primero; 57, párrafos primero, tercero y cuarto; 60, párrafos primero, segundo, tercero y cuarto; 61, fracciones III, X, XII, XIV, párrafos segundo y tercero, XVII, párrafo segundo, XVIII, párrafos segundo, inciso b), y
-**tercero.** , XIX, y XX, párrafo primero; 63, fracciones I, párrafo primero, II, y III; 64, segundo párrafo; 71,
-**segundo.** párrafo; 73, párrafos primero, segundo y tercero; 75, párrafos segundo y cuarto; 77, párrafos
-**primero.** , fracción I, segundo, tercero y cuarto; 78, párrafos segundo y tercero; 79, fracciones II, III, inciso
-
+**segundo.-** ; 3o., párrafos segundo, cuarto, séptimo y octavo; 4o., párrafos primero, segundo, fracción I, y
+**tercero.-** ; 5o., fracción I, párrafos primero, tercero, cuarto y quinto, II, párrafo segundo, III, párrafo primero y sus incisos b), c), d) y e), y IV y, último párrafo; 6o.; 7o.; 8o.; 9o.; 10; 11; 12; 13; 14; 15; 16; 18; 20, párrafo segundo; 23; 24; 25, párrafo primero; 26; fracciones I, incisos a) y b), y II, incisos a), b) y c); 27, párrafo primero, fracciones I, párrafos primero, incisos a), b) y c), y segundo, II, párrafo primero, III, incisos a), b) y c) y, párrafo segundo; 28, fracciones I, y II, párrafo segundo; 29, párrafos primero, fracción II, y segundo; 30, fracciones I, párrafos primero y quinto, y II; 31, fracciones I, párrafo primero, y II; 33, fracción V; 37; 38; 39; 40; 46, párrafo primero; 48, párrafos segundo, tercero y cuarto; 51, párrafo primero y sus fracciones I, III, IV, V y VII; 54, fracción III, inciso a) y b); 55, párrafo primero; 56, párrafo primero; 57, párrafos primero, tercero y cuarto; 60, párrafos primero, segundo, tercero y cuarto; 61, fracciones III, X, XII, XIV, párrafos segundo y tercero, XVII, párrafo segundo, XVIII, párrafos segundo, inciso b), y
+**tercero.-** , XIX, y XX, párrafo primero; 63, fracciones I, párrafo primero, II, y III; 64, segundo párrafo; 71,
+**segundo.-** párrafo; 73, párrafos primero, segundo y tercero; 75, párrafos segundo y cuarto; 77, párrafos
+**primero.-** , fracción I, segundo, tercero y cuarto; 78, párrafos segundo y tercero; 79, fracciones II, III, inciso
 a) y b), IV, párrafo primero, inciso b), V y VI; 83, párrafo segundo; 88, párrafos segundo, tercero y cuarto; 91, párrafo primero; 92; 93, fracciones I, párrafo primero, II, III, V y VI; 97, fracciones I, incisos d) y g), y II, inciso d); 100, párrafos segundo y tercero; 102; 104, párrafo primero; 105; 106; 107, fracciones I, párrafos
-**primero.** , y segundo, inciso d), III, inciso a), IV, párrafo segundo, y VII, 108, fracciones I, II, III y VII; 109, fracción IV; 110, párrafo segundo, 111, fracción II; 114, párrafo primero; 115, párrafo primero; 116, párrafo segundo; 117, párrafos segundo, cuarto, sexto, séptimo y octavo; 119, párrafos segundo y quinto; 120; 121, párrafos primero y segundo; 124, párrafo segundo; 125; 127, fracción II; 128, párrafo primero, fracción I; 129, fracciones VIII y XII; 131; 132, párrafos primero y segundo; 133, párrafo primero; 134, párrafo primero y su fracción II; 135, párrafo segundo, fracción II; 136, párrafo segundo; 137; 139; 145; 147, párrafos segundo y tercero; 148, párrafo primero; 150; 152; 159, párrafos primero y sus fracciones II y III, segundo y tercero; 160; 161; 162; 163; 164; 165; 166, párrafos primero, fracciones I y II, segundo y
-**tercero.** ; 167; 168, párrafos primero y segundo, fracción II; 169; 170, fracciones I, párrafos primero,
-**segundo.** y quinto, y II; 171; 172, párrafo primero y sus fracciones II, IV y XI; 173, párrafo primero y sus apartados A, fracciones I, II, III, IV, VI, X, XI y XIII y B, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XVII y XVIII, párrafo primero; 174, párrafo primero; 175, fracciones I, II y V; 177; 178, fracciones I, párrafo
-**primero.** , y II; 179; 180; 181; 182, párrafos segundo, fracciones I y II, y tercero; 183; 185; 186, párrafo
-**primero.** ; 187, párrafos primero y segundo; 188, párrafo segundo; 189; 190, párrafo segundo; 191; 192, párrafos tercero y cuarto; 193, párrafos primero, sexto y séptimo; 194; 195; 196, párrafo primero; 198; párrafos cuarto y quinto; 200, párrafo segundo; 202, párrafos primero y segundo; 204; 205, párrafos
-**primero.** , fracción I, y sexto; 209; 210, párrafo primero y su fracción I, párrafos primero, segundo, tercero y
-**cuarto.** ; 211; 212; 216, párrafos primero y tercero; 219; 222; 225; 226, párrafos primero, fracción II, y
-**tercero.** ; 231, párrafo primero; 232, párrafos primero y segundo; 236, párrafo primero; 237, fracción III; 238; 239; 240; 241; 242; 243; 244; 245; 246; 247; 249; 250; 251; 252; 253; 254; 255; 256; 257; 258; 259; 260, párrafo primero y su fracción II; 261, fracciones I y II; 262, párrafo primero; 263; 264; 265, párrafo
-**primero.** ; 266, párrafo primero y su fracción II, y 271, y se derogan los artículos 43; 54, la fracción II; 56, el párrafo segundo; 217, el párrafo segundo; 223; 226, párrafo primero, la fracción I, y 227, la fracción I, de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ..........
+**primero.-** , y segundo, inciso d), III, inciso a), IV, párrafo segundo, y VII, 108, fracciones I, II, III y VII; 109, fracción IV; 110, párrafo segundo, 111, fracción II; 114, párrafo primero; 115, párrafo primero; 116, párrafo segundo; 117, párrafos segundo, cuarto, sexto, séptimo y octavo; 119, párrafos segundo y quinto; 120; 121, párrafos primero y segundo; 124, párrafo segundo; 125; 127, fracción II; 128, párrafo primero, fracción I; 129, fracciones VIII y XII; 131; 132, párrafos primero y segundo; 133, párrafo primero; 134, párrafo primero y su fracción II; 135, párrafo segundo, fracción II; 136, párrafo segundo; 137; 139; 145; 147, párrafos segundo y tercero; 148, párrafo primero; 150; 152; 159, párrafos primero y sus fracciones II y III, segundo y tercero; 160; 161; 162; 163; 164; 165; 166, párrafos primero, fracciones I y II, segundo y
+**tercero.-** ; 167; 168, párrafos primero y segundo, fracción II; 169; 170, fracciones I, párrafos primero,
+**segundo.-** y quinto, y II; 171; 172, párrafo primero y sus fracciones II, IV y XI; 173, párrafo primero y sus apartados A, fracciones I, II, III, IV, VI, X, XI y XIII y B, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XVII y XVIII, párrafo primero; 174, párrafo primero; 175, fracciones I, II y V; 177; 178, fracciones I, párrafo
+**primero.-** , y II; 179; 180; 181; 182, párrafos segundo, fracciones I y II, y tercero; 183; 185; 186, párrafo
+**primero.-** ; 187, párrafos primero y segundo; 188, párrafo segundo; 189; 190, párrafo segundo; 191; 192, párrafos tercero y cuarto; 193, párrafos primero, sexto y séptimo; 194; 195; 196, párrafo primero; 198; párrafos cuarto y quinto; 200, párrafo segundo; 202, párrafos primero y segundo; 204; 205, párrafos
+**primero.-** , fracción I, y sexto; 209; 210, párrafo primero y su fracción I, párrafos primero, segundo, tercero y
+**cuarto.-** ; 211; 212; 216, párrafos primero y tercero; 219; 222; 225; 226, párrafos primero, fracción II, y
+**tercero.-** ; 231, párrafo primero; 232, párrafos primero y segundo; 236, párrafo primero; 237, fracción III; 238; 239; 240; 241; 242; 243; 244; 245; 246; 247; 249; 250; 251; 252; 253; 254; 255; 256; 257; 258; 259; 260, párrafo primero y su fracción II; 261, fracciones I y II; 262, párrafo primero; 263; 264; 265, párrafo
+**primero.-** ; 266, párrafo primero y su fracción II, y 271, y se derogan los artículos 43; 54, la fracción II; 56, el párrafo segundo; 217, el párrafo segundo; 223; 226, párrafo primero, la fracción I, y 227, la fracción I, de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ..........
 ESTADOS UNIDOS MEXICANOS
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Hasta en tanto las Ministras y Ministros electos tomen protesta de su encargo ante el Senado de la República el 1o. de septiembre de 2025, la Suprema Corte de Justicia de la Nación se regirá por las reglas de votación contenidas en la Ley de Amparo vigente con anterioridad a la publicación de este Decreto. Lo anterior, a efecto de que:
-
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Hasta en tanto las Ministras y Ministros electos tomen protesta de su encargo ante el Senado de la República el 1o. de septiembre de 2025, la Suprema Corte de Justicia de la Nación se regirá por las reglas de votación contenidas en la Ley de Amparo vigente con anterioridad a la publicación de este Decreto. Lo anterior, a efecto de que:
 I. Las razones que justifiquen las decisiones contenidas en las sentencias que dicte el Pleno de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de ocho votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
 
 II. Las razones que justifiquen las decisiones contenidas en las sentencias que dicten las salas de la Suprema Corte de Justicia de la Nación, constituyen precedentes obligatorios para todas las autoridades jurisdiccionales de la Federación y de las entidades federativas cuando sean tomadas por mayoría de cuatro votos. Las cuestiones de hecho o de derecho que no sean necesarias para justificar la decisión no serán obligatorias.
 
 III. Para la emisión de la declaratoria general de inconstitucionalidad el Pleno de la Suprema Corte de Justicia de la Nación requerirá que ésta se apruebe por mayoría de cuando menos ocho votos.
-**Tercero.** Lo previsto en el transitorio anterior será aplicable en la resolución de todos los asuntos que se encuentren admitidos o pendientes de resolución al momento de la entrada en vigor del presente Decreto, independientemente de la etapa en la que se encuentren dichos asuntos; así como para los que se admitan con posterioridad, y previo a la toma de protesta referida en el artículo anterior.
+**Tercero.-** Lo previsto en el transitorio anterior será aplicable en la resolución de todos los asuntos que se encuentren admitidos o pendientes de resolución al momento de la entrada en vigor del presente Decreto, independientemente de la etapa en la que se encuentren dichos asuntos; así como para los que se admitan con posterioridad, y previo a la toma de protesta referida en el artículo anterior.
 Ciudad de México, a 19 de febrero de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
@@ -2691,18 +2920,18 @@ Publicado en el Diario Oficial de la Federación el 16 de octubre 2025
 
 ### Artículo Primero
 Se reforman los artículos 3o.; 7o., párrafo segundo; 25, párrafo segundo; 26, fracción IV; 28, párrafo primero, fracción II, párrafo segundo; 30, fracción I, párrafo primero; 60, párrafo
-**primero.** ; 111, párrafo primero y fracción II; 124, párrafo primero; 128, párrafos primero y actual cuarto; 137; 138, párrafo primero; 146, fracciones I, II, III y IV; 148, párrafo tercero; 166, fracción I; 168, párrafo
-**primero.** ; 181; 186, párrafo segundo; 260, fracción IV; 262, párrafo primero; y 271; y se adicionan un párrafo segundo, recorriéndose los subsecuentes, a la fracción I, del artículo 5o.; una fracción IV al artículo 27; párrafos tercero y cuarto, a la fracción II del artículo 28; un párrafo segundo al artículo 59; un párrafo segundo, recorriéndose los subsecuentes, al artículo 60; un párrafo segundo al artículo 82; un párrafo segundo a la fracción II, del artículo 107; un párrafo tercero al artículo 111; un párrafo tercero al artículo 115; un párrafo segundo, recorriéndose los subsecuentes, al artículo 121; un párrafo segundo con las fracciones I, II, III, y IV, recorriéndose los subsecuentes, al artículo 128; las fracciones XIV, XV, XVI y XVII, al artículo 129; un párrafo tercero, recorriéndose el subsecuente, al artículo 135; un párrafo
-**cuarto.** al artículo 168; un párrafo tercero, recorriéndose los subsecuentes, al artículo 192 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
+**primero.-** ; 111, párrafo primero y fracción II; 124, párrafo primero; 128, párrafos primero y actual cuarto; 137; 138, párrafo primero; 146, fracciones I, II, III y IV; 148, párrafo tercero; 166, fracción I; 168, párrafo
+**primero.-** ; 181; 186, párrafo segundo; 260, fracción IV; 262, párrafo primero; y 271; y se adicionan un párrafo segundo, recorriéndose los subsecuentes, a la fracción I, del artículo 5o.; una fracción IV al artículo 27; párrafos tercero y cuarto, a la fracción II del artículo 28; un párrafo segundo al artículo 59; un párrafo segundo, recorriéndose los subsecuentes, al artículo 60; un párrafo segundo al artículo 82; un párrafo segundo a la fracción II, del artículo 107; un párrafo tercero al artículo 111; un párrafo tercero al artículo 115; un párrafo segundo, recorriéndose los subsecuentes, al artículo 121; un párrafo segundo con las fracciones I, II, III, y IV, recorriéndose los subsecuentes, al artículo 128; las fracciones XIV, XV, XVI y XVII, al artículo 129; un párrafo tercero, recorriéndose el subsecuente, al artículo 135; un párrafo
+**cuarto.-** al artículo 168; un párrafo tercero, recorriéndose los subsecuentes, al artículo 192 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**Tercero.** Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
-**Cuarto.** El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Tercero.-** Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
+**Cuarto.-** El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
 Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio portal, el aviso de inicio de registro de usuarios digitales para autoridades.
 Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
 ESTADOS UNIDOS MEXICANOS
-**Quinto.** El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
+**Quinto.-** El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
 Ciudad de México, a 15 de octubre de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Vicepresidente en funciones de Presidente.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

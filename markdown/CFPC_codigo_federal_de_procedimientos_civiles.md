@@ -17,7 +17,8 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES LIBRO PRIMERO Disposiciones Generales TITULO PRIMERO Partes CAPITULO I Personas que pueden intervenir en un procedimiento judicial ARTICULO 1º.- Sólo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés en que la autoridad judicial declare o constituya un derecho o imponga una condena, y quien tenga el interés contrario.
 Actuarán, en el juicio, los mismos interesados o sus representantes o apoderados, en los términos de la ley. En cualquier caso, los efectos procesales serán los mismos, salvo prevención en contrario.
 Se exceptúan de lo señalado en los párrafos anteriores, cuando el derecho o interés de que se trate sea difuso, colectivo o individual de incidencia colectiva. En estos casos, se podrá ejercitar en forma colectiva, en términos de lo dispuesto en el Libro Quinto de este Código.
-Artículo reformado DOF 30-08-2011 ARTICULO 2º.- Cuando haya transmisión, a un tercero, del interés de que habla el artículo anterior, dejará de ser parte quien haya perdido el interés, y lo será quien lo haya adquirido.
+Artículo reformado DOF 30-08-2011
+ARTICULO 2º.- Cuando haya transmisión, a un tercero, del interés de que habla el artículo anterior, dejará de ser parte quien haya perdido el interés, y lo será quien lo haya adquirido.
 Esas transmisiones no afectan el procedimiento judicial, excepto en los casos en que hagan desaparecer, por confusión, substancial de intereses, la materia del litigio.
 ARTICULO 3º.- Las relaciones recíprocas de las partes, dentro del proceso, con sus respectivas facultades y obligaciones así como los términos, recursos y toda clase de medios que este Código concede para hacer valer, los contendientes, sus pretensiones en el litigio, no pueden sufrir modificación, en ningún sentido, por virtud de leyes o estatutos relativos al modo de funcionar o de ser especial de una de las partes, sea actora o demandada. En todo caso, debe observarse la norma tutelar de la igualdad de las partes dentro del proceso, de manera tal que su curso fuera el mismo aunque se invirtieran los papeles de los litigantes.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 4º.- Las instituciones, servicios y dependencias de la Administración Pública de la Federación y de las entidades federativas, tendrán dentro del procedimiento judicial, en cualquier forma en que intervengan, la misma situación que otra parte cualquiera; pero nunca podrá dictarse, en su contra, mandamiento de ejecución ni providencia de embargo, y estarán exentos de prestar las garantías que este Código exija de las partes.
@@ -49,16 +50,19 @@ Fe de erratas al artículo DOF 13-03-1943 TITULO SEGUNDO Autoridad Judicial CAPI
 ARTICULO 13.- A falta de los jueces, magistrados o ministros normalmente competentes, conocerán del negocio los que deban substituirlos de acuerdo con la Ley Orgánica del Poder Judicial de la Federación.
 ARTICULO 14.- Ningún tribunal puede negarse a conocer de un asunto, sino por considerarse incompetente. El auto en que un juez se negare a conocer, es apelable.
 ARTICULO 15.- Ninguna jueza o juez puede sostener competencia con su Tribunal Colegiado de Apelación; pero sí con otra jueza, juez o Tribunal que, aun superior en grado, no ejerza sobre ella o él jurisdicción.
-Artículo reformado DOF 07-06-2021 ARTICULO 16.- Las partes pueden desistir de una competencia antes o después de la remisión de los autos al superior, si se trata de competencia por territorio.
+Artículo reformado DOF 07-06-2021
+ARTICULO 16.- Las partes pueden desistir de una competencia antes o después de la remisión de los autos al superior, si se trata de competencia por territorio.
 ARTICULO 17.- Es nulo de pleno derecho lo actuado por el tribunal que fuere declarado incompetente, salva disposición contraria a la ley.
 En los casos de incompetencia superveniente, la nulidad sólo opera a partir del momento en que sobrevino la incompetencia.
 Fe de erratas al párrafo DOF 13-03-1943 No obstante esta nulidad, las partes pueden convenir en reconocer como válidas todas o algunas de las actuaciones practicadas por el tribunal declarado incompetente.
 SECCION PRIMERA Competencia por materia ARTICULO 18.- Los negocios de la competencia de la Suprema Corte de Justicia, hecha excepción de los procedimientos de amparo, se verán siempre por el Tribunal Pleno, en única instancia. Los restantes negocios de competencia federal, cuando no exista ley especial, se verán por los Juzgados de Distrito, en primer grado, y, en apelación, ante los Tribunales Colegiados de Apelación, en los términos en que sea procedente el recurso, de conformidad con las disposiciones de este ordenamiento.
-Párrafo reformado DOF 07-06-2021 Si dentro de un negocio del orden local o de la competencia de un tribunal federal de organización especial, se hace valer un interés de la Federación en forma de tercería o de cualquiera otra manera, cesará la competencia del que esté conociendo, y pasará el negocio a la Suprema Corte de Justicia o al Juzgado de Distrito que corresponda, según sea la naturaleza del interés de la Federación.
+Párrafo reformado DOF 07-06-2021
+Si dentro de un negocio del orden local o de la competencia de un tribunal federal de organización especial, se hace valer un interés de la Federación en forma de tercería o de cualquiera otra manera, cesará la competencia del que esté conociendo, y pasará el negocio a la Suprema Corte de Justicia o al Juzgado de Distrito que corresponda, según sea la naturaleza del interés de la Federación.
 Inversamente, desaparecido el interés de la Federación en un negocio, o resuelta definitivamente la cuestión que a ella importaba, cesará la competencia de los tribunales ordinarios de la Federación.
 ARTICULO 19.- Los juzgados de Distrito tienen la competencia material que detalladamente les atribuye la Ley Orgánica del Poder Judicial de la Federación.
 ARTICULO 20.- Los Tribunales Colegiados de Apelación, conocerán de la segunda instancia de los negocios de la competencia de los juzgados de Distrito.
-Artículo reformado DOF 07-06-2021 ARTICULO 21.- En el caso de reconvención, es juez competente el que lo sea para conocer de la demanda original. El mismo precepto es aplicable al caso de tercerías.
+Artículo reformado DOF 07-06-2021
+ARTICULO 21.- En el caso de reconvención, es juez competente el que lo sea para conocer de la demanda original. El mismo precepto es aplicable al caso de tercerías.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 22.- Para los actos preparatorios, es competente el juez que lo sea para el negocio principal. El mismo precepto es aplicable a las medidas precautorias. Si los autos estuvieren en segunda instancia, es competente el juez que conoció en primera. Lo propio se dispone para todo acto de ejecución.
 SECCION SEGUNDA Competencia territorial ARTICULO 23.- La competencia territorial es prorrogable por mutuo consentimiento de las partes expreso o tácito.
 Hay prórroga tácita:
@@ -70,14 +74,19 @@ II.- El del lugar convenido para el cumplimiento de la obligación;
 III.- El de la ubicación de la cosa, tratándose de acciones reales sobre inmuebles o de controversias derivadas del contrato de arrendamiento. Si las cosas estuvieren situadas en, o abarcaren dos o más circunscripciones territoriales, será competente el que prevenga en el conocimiento del negocio;
 
 IV. El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales, colectivas o del estado civil;
-Fracción reformada DOF 30-08-2011 V.- El del lugar del domicilio del deudor, en caso de concurso.
+Fracción reformada DOF 30-08-2011
+V.- El del lugar del domicilio del deudor, en caso de concurso.
 Es también competente el tribunal de que trata esta fracción para conocer de los juicios seguidos contra el concursado, en que no se pronuncie aun sentencia al radicarse el juicio de concurso, y de los que, para esa ocasión, estén ya sentenciados ejecutoriadamente, siempre que, en este último caso, la sentencia no ordene que se haga trance y remate de bienes embargados, ni esté en vías de ejecución con embargo ya ejecutado. El juicio sentenciado que se acumule, sólo lo será para los efectos de la graduación del crédito vuelto indiscutible por la sentencia;
 Fe de erratas al párrafo DOF 13-03-1943 VI.- El del lugar en que haya tenido su domicilio el autor de la sucesión, en la época de su muerte, tratándose de juicios hereditarios; a falta de ese domicilio, será competente el de la ubicación de los bienes raíces sucesorios, observándose, en lo aplicable, lo dispuesto en la fracción III. A falta de domicilio y bienes raíces, es competente el del lugar del fallecimiento del autor de la herencia.
 Fe de erratas al párrafo DOF 13-03-1943 Es también competente el tribunal de que trata esta fracción, para conocer: a).- De las acciones de petición de herencia; b).- De las acciones contra la sucesión, antes de la partición y adjudicación de los bienes, y c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 VII.- El del lugar en que se hizo una inscripción en el Registro Público de la Propiedad, cuando la acción que se entable no tenga más objeto que decretar su cancelación;
-Fracción reformada DOF 18-12-2002 VIII.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
-Fe de erratas al párrafo DOF 13-03-1943 Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y Párrafo reformado DOF 18-12-2002 IX.- Tratándose de juicios en los que el demandado sea indígena, será juez competente el del lugar en el que aquél tenga su domicilio; si ambas partes son indígenas, lo será el juez que ejerza jurisdicción en el domicilio del demandante.
-Fracción adicionada DOF 18-12-2002 ARTICULO 25.- En los negocios relativos a la tutela de los menores o incapacitados, es juez competente el de la residencia del menor o incapacitado.
+Fracción reformada DOF 18-12-2002
+VIII.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
+Fe de erratas al párrafo DOF 13-03-1943 Cuando haya varios tribunales competentes conforme a las disposiciones anteriores, en caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento, y
+Párrafo reformado DOF 18-12-2002
+IX.- Tratándose de juicios en los que el demandado sea indígena, será juez competente el del lugar en el que aquél tenga su domicilio; si ambas partes son indígenas, lo será el juez que ejerza jurisdicción en el domicilio del demandante.
+Fracción adicionada DOF 18-12-2002
+ARTICULO 25.- En los negocios relativos a la tutela de los menores o incapacitados, es juez competente el de la residencia del menor o incapacitado.
 ARTICULO 26.- Para suplir el consentimiento del que ejerza la patria potestad, y para conocer de los impedimentos para contraer matrimonio, es juez competente el del lugar en que hayan presentado su solicitud los pretendientes.
 ARTICULO 27.- Para suplir la licencia marital y para conocer de los juicios de nulidad del matrimonio, es juez competente el del domicilio conyugal.
 El propio juez es competente para conocer de los negocios de divorcio y, tratándose de abandono de hogar, lo será el del domicilio del cónyuge abandonado.
@@ -151,7 +160,9 @@ Fe de erratas al párrafo DOF 13-03-1943 La imposición de la corrección discip
 ARTICULO 55.- Son correcciones disciplinarias:
 I.- Apercibimiento;
 
-II. Multa que no exceda de sesenta días de salario mínimo general vigente en el Distrito Federal, y Fracción reformada DOF 20-06-2008 III.- Suspensión de empleo hasta por quince días.
+II. Multa que no exceda de sesenta días de salario mínimo general vigente en el Distrito Federal, y
+Fracción reformada DOF 20-06-2008
+III.- Suspensión de empleo hasta por quince días.
 Esta última fracción sólo es aplicable al secretario y demás empleados del tribunal que imponga la corrección.
 ARTICULO 56.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se hubiere impuesto, podrá ésta pedir, ante el mismo tribunal, que la oiga en justicia.
 Recibida la petición, citará el tribunal, para dentro de los ocho días siguientes, a una audiencia, al interesado, en la que, después de escuchar lo que expusiere en su descargo, resolverá en el mismo acto, sin ulterior recurso.
@@ -161,7 +172,9 @@ ARTICULO 59.- Los tribunales, para hacer cumplir sus determinaciones, pueden emp
 
 I. Multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal.
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso, y Fracción reformada DOF 20-06-2008 II.- El auxilio de la fuerza pública.
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso, y
+Fracción reformada DOF 20-06-2008
+II.- El auxilio de la fuerza pública.
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 ARTICULO 60.- Todo tribunal actuará con secretario o testigos de asistencia.
 SECCION SEGUNDA De los secretarios ARTICULO 61.- En todo acto de que deba dejarse constancia en autos, intervendrá el secretario, y lo autorizará con su firma; hecha excepción de los encomendados a otros funcionarios.
@@ -180,7 +193,8 @@ ARTICULO 71.- Después de que se haya admitido, por un tribunal, demanda para la
 La ampliación a que se refiere el párrafo anterior sólo puede presentarse una vez, hasta antes de la audiencia final de la primera instancia, y se observarán las disposiciones aplicables como si se tratara de un nuevo juicio.
 ARTICULO 72.- Dos o más litigios deben acumularse cuando la decisión de cada uno exige la comprobación, la constitución o la modificación de relaciones jurídicas, derivadas, en todo o en parte, del mismo hecho, el cual tiene necesariamente que comprobarse en todo caso, o tienden en todo o en parte al mismo efecto, o cuando, en dos o más juicios, debe resolverse, total o parcialmente, una misma controversia. Para que proceda la acumulación, es necesario que los juicios no estén para verificarse la audiencia final de la primera instancia. La acumulación se hará del más nuevo al más antiguo.
 La acumulación no procede respecto de procesos que se ventilen en el extranjero.
-Párrafo adicionado DOF 12-01-1988 ARTICULO 73.- Si los juicios se encuentran en el mismo tribunal, la acumulación puede ordenarse de oficio o a petición de parte, por el procedimiento incidental.
+Párrafo adicionado DOF 12-01-1988
+ARTICULO 73.- Si los juicios se encuentran en el mismo tribunal, la acumulación puede ordenarse de oficio o a petición de parte, por el procedimiento incidental.
 ARTICULO 74.- Cuando los juicios se encuentren en diferentes tribunales, la acumulación se substanciará por el procedimiento señalado para la inhibitoria. El tribunal que decida la acumulación enviará los autos al que deba conocer de los juicios acumulados, cuando aquella proceda, o devolverá, a cada tribunal, los que haya enviado, en caso contrario.
 La resolución que resuelva sobre la acumulación es irrevocable.
 ARTICULO 75.- El efecto de la acumulación es el de que los asuntos acumulados se resuelvan en una sola sentencia, para lo cual se suspenderá la tramitación de una cuestión cuando esté para verificarse, en ella, la audiencia final del juicio.
@@ -199,9 +213,11 @@ ARTICULO 83.- El que funda su derecho en una regla general no necesita probar qu
 ARTICULO 84.- El que afirma que otro contrajo una liga jurídica, sólo debe probar el hecho o acto que la originó, y no que la obligación subsiste.
 ARTICULO 85.- Ni la prueba, en general, ni los medios de prueba establecidos por la ley, son renunciables.
 ARTICULO 86.- Sólo los hechos estarán sujetos a prueba, así como los usos o costumbres en que se funde el derecho.
-Artículo reformado DOF 12-01-1988 ARTICULO 86 Bis.- El tribunal aplicará el derecho extranjero tal como lo harían los jueces o tribunales del Estado cuyo derecho resultare aplicable, sin perjuicio de que las partes puedan alegar la existencia y contenido del derecho extranjero.
+Artículo reformado DOF 12-01-1988
+ARTICULO 86 Bis.- El tribunal aplicará el derecho extranjero tal como lo harían los jueces o tribunales del Estado cuyo derecho resultare aplicable, sin perjuicio de que las partes puedan alegar la existencia y contenido del derecho extranjero.
 Para informarse del texto, vigencia, sentido y alcance del derecho extranjero, el tribunal podrá valerse de informes oficiales al respecto, los que podrá solicitar al Servicio Exterior Mexicano, así como disponer y admitir las diligencias probatorias que considere necesarias o que ofrezcan las partes.
-Artículo adicionado DOF 12-01-1988 ARTICULO 87.- El tribunal debe recibir las pruebas que le presenten las partes, siempre que estén reconocidas por la ley. Los autos en que se admita alguna prueba no son recurribles; los que la desechen son apelables en ambos efectos. Cuando la recepción de una prueba pueda ofender la moral o el decoro social, las diligencias respectivas podrán ser reservadas, según el prudente arbitrio del tribunal.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 87.- El tribunal debe recibir las pruebas que le presenten las partes, siempre que estén reconocidas por la ley. Los autos en que se admita alguna prueba no son recurribles; los que la desechen son apelables en ambos efectos. Cuando la recepción de una prueba pueda ofender la moral o el decoro social, las diligencias respectivas podrán ser reservadas, según el prudente arbitrio del tribunal.
 ARTICULO 88.- Los hechos notorios pueden ser invocados por el tribunal, aunque no hayan sido alegados ni probados por las partes.
 ARTICULO 89.- Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija, deben tenerse por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe, a la inspección del tribunal, la cosa o documento que tiene en su poder o de que puede disponer.
 ARTICULO 90.- Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales, en las averiguaciones de la verdad. Deben, sin demora, exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
@@ -233,8 +249,10 @@ Fe de erratas al artículo DOF 13-03-1943 ARTICULO 105.- Si el citado a absolver
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 106.- Si fueren varios los que hayan de absolver posiciones al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo día, siempre que fuere posible, evitando que los que absuelvan primero se comuniquen con los que hayan de absolver después.
 ARTICULO 107.- En ningún caso se permitirá que la parte que ha de absolver un interrogatorio de posiciones esté asistida por su abogado, procurador, ni otra persona; ni se le dará traslado, ni copia de las posiciones, ni término para que se aconseje; pero, si el absolvente no hablare el español, podrá ser asistido por un intérprete, si fuere necesario, y, en este caso, el tribunal lo nombrará. Si la parte lo pide, se asentará también su declaración en su propio idioma, con intervención del intérprete.
 Cuando el que haya de absolver posiciones fuere indígena y no hable el español, o hablándolo no lo sepa leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, asentándose su declaración en español y en su propio idioma.
-Párrafo adicionado DOF 18-12-2002 Cuando el absolvente tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá a petición de la parte que lo requiera, ordenar la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad, de un traductor o intérprete.
-Párrafo adicionado DOF 24-05-2011 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 108.- Hecha, por el absolvente, la protesta de decir verdad, el tribunal procederá al interrogatorio.
+Párrafo adicionado DOF 18-12-2002
+Cuando el absolvente tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá a petición de la parte que lo requiera, ordenar la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad, de un traductor o intérprete.
+Párrafo adicionado DOF 24-05-2011
+Fe de erratas al artículo DOF 13-03-1943 ARTICULO 108.- Hecha, por el absolvente, la protesta de decir verdad, el tribunal procederá al interrogatorio.
 ARTICULO 109.- Las contestaciones serán categóricas, en sentido afirmativo o negativo; pero el que las dé podrá agregar las explicaciones que considere necesarias, y, en todo caso, dará las que el tribunal le pida.
 Si la parte estimare ilegal una pregunta, podrá manifestarlo al tribunal, a fin de que vuelva a calificarla.
 Sí se declara procedente, se le repetirá para que la conteste, apercibida de tenerla por confesa, si no lo hace.
@@ -269,7 +287,8 @@ CAPITULO III Documentos públicos privados ARTICULO 129.- Son documentos públic
 Fe de erratas al párrafo DOF 13-03-1943 La calidad de públicos se demuestra por la existencia regular, sobre los documentos, de los sellos, firmas u otros signos exteriores que, en su caso, prevengan las leyes.
 ARTICULO 130.- Los documentos públicos expedidos por autoridades de la Federación, de los Estados, del Distrito Federal y Territorios o de los Municipios, harán fe en el juicio, sin necesidad de legalización.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 131.- (Se deroga).
-Artículo derogado DOF 12-01-1988 ARTICULO 132.- De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria, para que, dentro de tres días, manifieste si está conforme. Si lo estuviere o no contestare la vista, se pasará por la traducción; en caso contrario, el tribunal nombrará traductor.
+Artículo derogado DOF 12-01-1988
+ARTICULO 132.- De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria, para que, dentro de tres días, manifieste si está conforme. Si lo estuviere o no contestare la vista, se pasará por la traducción; en caso contrario, el tribunal nombrará traductor.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 133.- Son documentos privados los que no reúnen las condiciones previstas por el artículo 129.
 ARTICULO 134.- Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento o pieza que obre en las oficinas públicas, el contrario tendrá derecho de que, a su costa, se adicione con lo que crea conducente del mismo documento o pieza.
 ARTICULO 135.- Los documentos existentes en un lugar distinto de aquél en que se sigue el negocio, se compulsarán a virtud de despacho o exhorto que dirija el tribunal de los autos al Juez de Distrito respectivo, o, en su defecto, al del lugar en que aquéllos se hallen.
@@ -341,8 +360,10 @@ ARTICULO 178.- Cuando el testigo deje de contestar algún punto, o haya incurrid
 ARTICULO 179.- El tribunal tendrá la más amplia facultad para hacer, a los testigos y a las partes, las preguntas que estime conducentes a la investigación de la verdad, así como para cerciorarse de la idoneidad de los mismos testigos, asentándose todo en el acta.
 ARTICULO 180.- Si el testigo no habla el castellano, rendirá su declaración por medio de intérprete, que será nombrado por el tribunal. Cuando el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma, por él o por el intérprete. Este último deberá, antes de desempeñar su encargo, protestar hacerlo lealmente, haciéndose constar esta circunstancia.
 Si el testigo fuere indígena y no hable el español, o hablándolo no lo supiera leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, a fin de que rinda su testimonio, sea en su propia lengua o en español; pero en cualquier caso, el mismo deberá asentarse en ambos idiomas.
-Párrafo adicionado DOF 18-12-2002 Cuando el testigo tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá ordenar a petición del oferente de la prueba o de la persona que dará testimonio, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de un traductor o intérprete.
-Párrafo adicionado DOF 24-05-2011 ARTICULO 181.- Cada respuesta del testigo se hará constar en autos, en forma que, al mismo tiempo, se comprenda, en ella, el sentido o términos de la pregunta formulada. Sólo cuando lo pida una parte, respecto a preguntas especiales, puede el tribunal, permitir que, primero, se escriba textualmente la pregunta, y, a continuación, la respuesta.
+Párrafo adicionado DOF 18-12-2002
+Cuando el testigo tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá ordenar a petición del oferente de la prueba o de la persona que dará testimonio, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de un traductor o intérprete.
+Párrafo adicionado DOF 24-05-2011
+ARTICULO 181.- Cada respuesta del testigo se hará constar en autos, en forma que, al mismo tiempo, se comprenda, en ella, el sentido o términos de la pregunta formulada. Sólo cuando lo pida una parte, respecto a preguntas especiales, puede el tribunal, permitir que, primero, se escriba textualmente la pregunta, y, a continuación, la respuesta.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 182.- Los testigos están obligados a dar la razón de su dicho, respecto de las respuestas que no la lleven ya en sí, y el tribunal deberá exigirla.
 ARTICULO 183.- El testigo firmará al pie de su declaración y al margen de las hojas en que se contenga, después de habérsele leído o de que la lea por sí mismo y la ratifique. Si no quiere, no sabe o no puede leer, la declaración será leída por el secretario, y, si no quiere, no sabe o no puede firmar, imprimirá sus huellas digitales, si puede y quiere hacerlo, de todo lo cual se hará relación motivada en autos.
 ARTICULO 184.- La declaración, una vez ratificada, no puede variarse ni en la substancia ni en la redacción.
@@ -390,7 +411,8 @@ ARTICULO 210.- El documento privado que un litigante presenta, prueba plenamente
 ARTICULO 210-A.- Se reconoce como prueba la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
 Para valorar la fuerza probatoria de la información a que se refiere el párrafo anterior, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
 Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
-Artículo adicionado DOF 29-05-2000 ARTICULO 211.- El valor de la prueba pericial quedará a la prudente apreciación del tribunal.
+Artículo adicionado DOF 29-05-2000
+ARTICULO 211.- El valor de la prueba pericial quedará a la prudente apreciación del tribunal.
 ARTICULO 212.- El reconocimiento o inspección judicial hará prueba plena cuando se refiere a puntos que no requieran conocimientos técnicos especiales.
 ARTICULO 213.- En los casos en que se haya extraviado o destruido el documento público o privado, y en aquel en que no pueda disponer, sin culpa alguna de su parte, quien debiera presentarlo y beneficiarse con él, tales circunstancias pueden acreditarse por medio de testigos, los que exclusivamente servirán para acreditar los hechos por virtud de los cuales no puede la parte presentar el documento; mas de ninguna manera para hacer fe del contenido de éste, el cual, se probará sólo por confesión de la contraparte, y, en su defecto, por pruebas de otras clases aptas para acreditar directamente la existencia de la obligación o de la excepción que debía probar el documento, y que el acto o contrato tuvo lugar, con las formalidades exigidas para su validez, en el lugar y momento en que se efectuó.
 En este caso, no será admisible la confesión ficta cuando el emplazamiento se haya verificado por edictos y se siga el juicio en rebeldía.
@@ -415,7 +437,8 @@ Fe de erratas al artículo DOF 13-03-1943 ARTICULO 220.- Las resoluciones judici
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 221.- Los decretos deberán dictarse al dar cuenta el secretario con la promoción respectiva. Lo mismo se observará respecto de los autos que, para ser dictados, no requieran citación para audiencia; en caso contrario, se pronunciarán dentro del término que fije la ley, o, en su defecto, dentro de cinco días. La sentencia se dictará en la forma y términos que previenen los artículos 346 y 347 de este ordenamiento.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 222.- Las sentencias contendrán, además de los requisitos comunes a toda resolución judicial, una relación suscinta de las cuestiones planteadas y de las pruebas rendidas, así como las consideraciones jurídicas aplicables, tanto legales como doctrinarias, comprendiendo, en ellas, los motivos para hacer o no condenación en costas, y terminarán resolviendo, con toda precisión, los puntos sujetos a la consideración del tribunal, y fijando, en su caso, el plazo dentro del cual deben cumplirse.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 222 bis.- A fin de garantizarle a los indígenas, el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
-Artículo adicionado DOF 18-12-2002 ARTICULO 223.- Sólo una vez puede pedirse la aclaración o adición de sentencia o de auto que ponga fin a un incidente, y se promoverá ante el tribunal que hubiere dictado la resolución, dentro de los tres días siguientes de notificado el promovente, expresándose, con toda claridad, la contradicción, ambigüedad u obscuridad de las cláusulas o de las palabras cuya aclaración se solicite, o la omisión que se reclame.
+Artículo adicionado DOF 18-12-2002
+ARTICULO 223.- Sólo una vez puede pedirse la aclaración o adición de sentencia o de auto que ponga fin a un incidente, y se promoverá ante el tribunal que hubiere dictado la resolución, dentro de los tres días siguientes de notificado el promovente, expresándose, con toda claridad, la contradicción, ambigüedad u obscuridad de las cláusulas o de las palabras cuya aclaración se solicite, o la omisión que se reclame.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 224.- El tribunal resolverá dentro de los tres días siguientes, lo que estime procedente, sin que pueda variar la substancia de la resolución.
 ARTICULO 225.- El auto que resuelva sobre la aclaración o adición de una resolución, se reputará parte integrante de ésta, y no admitirá ningún recurso.
 ARTICULO 226.- La aclaración o adición, interrumpe el término para apelar.
@@ -436,16 +459,19 @@ Su importe debe garantizar la devolución de lo que se deba percibir, sus frutos
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 236.- Otorgada la garantía de que trata el artículo anterior, la parte contraria al ejecutante puede evitar la ejecución, otorgando, a su vez, caución bastante para responder de los daños y perjuicios que se ocasionen a su contraparte por no llevarse adelante la resolución recurrida, sino hasta que se confirme, pagando el importe de los gastos de la fianza que se hubiere otorgado.
 En este caso y en el del artículo anterior, la garantía se calificará con audiencia de la contraparte.
 ARTICULO 237.- Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos efectos, hubiere recaído en expediente tramitado por cuerda separada, sólo serán remitidos, al Tribunal Colegiado de Apelación, los autos relativos al punto apelado; sin perjuicio de que, en copia, se remitan las constancias que, del principal, soliciten las partes, o de que se envíe éste, si ambas lo solicitaren.
-Párrafo reformado DOF 07-06-2021 En los autos que queden en el tribunal, no podrá nunca dictarse resolución alguna que modifique, revoque o, en otra forma, afecte lo acordado en la resolución apelada, entretanto que el recurso esté pendiente, para lo cual se dejará copia de ella.
+Párrafo reformado DOF 07-06-2021
+En los autos que queden en el tribunal, no podrá nunca dictarse resolución alguna que modifique, revoque o, en otra forma, afecte lo acordado en la resolución apelada, entretanto que el recurso esté pendiente, para lo cual se dejará copia de ella.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 238.- Sólo son apelables las sentencias que recaigan en negocios cuyo valor exceda de mil pesos, y en aquellos cuyo interés no sea susceptible de valuarse en dinero.
 ARTICULO 239.- Las sentencias que fueren apelables conforme al artículo anterior, lo serán en ambos efectos, salvo cuando la ley expresamente determine que lo sean sólo en el devolutivo.
 ARTICULO 240.- Sólo son apelables los autos cuando lo sea la sentencia definitiva del juicio en que se dicten, siempre que decidan un incidente o lo disponga este Código. Esta apelación procede sólo en el efecto devolutivo; para que proceda en ambos se requiere disposición especial de la ley.
 ARTICULO 241.- La apelación debe interponerse ante el tribunal que haya pronunciado la resolución, en el acto de la notificación o, a más tardar, dentro de los cinco días siguientes de que cause estado, si se tratare de sentencia, o de tres, si fuere de auto.
 ARTICULO 242.- Interpuesta la apelación en tiempo hábil, el tribunal la admitirá sin substanciación alguna, si procede legalmente, y, dentro de los tres días siguientes a la notificación, remitirá, al Tribunal Colegiado de Apelación, los autos originales, cuando el recurso se hubiere admitido en ambos efectos. Si se hubiere admitido sólo en el efecto devolutivo, se remitirá el testimonio correspondiente, tan pronto como quede concluido.
 Fe de erratas al artículo DOF 13-03-1943. Reformado DOF 07-06-2021 ARTICULO 243.- En el auto en que se admita la apelación, se emplazará, a la o al apelante, para que, dentro de los tres días siguientes de estar notificado, ocurra al Tribunal Colegiado de Apelación a continuar el recurso, ampliándose el término que se le señale, en su caso, por razón de la distancia.
-Artículo reformado DOF 07-06-2021 ARTICULO 244.- En el escrito en que el apelante se presente a continuar el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se hayan cometido.
+Artículo reformado DOF 07-06-2021
+ARTICULO 244.- En el escrito en que el apelante se presente a continuar el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se hayan cometido.
 ARTICULO 245.- El Tribunal Colegiado de Apelación, recibidos los autos o el testimonio, en su caso, lo hará saber a las partes.
-Artículo reformado DOF 07-06-2021 ARTICULO 246.- Notificadas las partes del decreto a que se refiere el artículo anterior, a los tres días siguientes examinará y declarará el tribunal, de oficio, en primer lugar, si el recurso fué interpuesto o no en tiempo, y si es o no apelable la resolución recurrida, y, en segundo, si el escrito del apelante fué presentado en tiempo y contiene la expresión de agravios.
+Artículo reformado DOF 07-06-2021
+ARTICULO 246.- Notificadas las partes del decreto a que se refiere el artículo anterior, a los tres días siguientes examinará y declarará el tribunal, de oficio, en primer lugar, si el recurso fué interpuesto o no en tiempo, y si es o no apelable la resolución recurrida, y, en segundo, si el escrito del apelante fué presentado en tiempo y contiene la expresión de agravios.
 ARTICULO 247.- Cuando se declare que la resolución no es apelable, o que no fué interpuesto en tiempo el recurso, no será necesario decidir respecto a la oportunidad de la continuación del recurso y a la expresión de agravios. En caso contrario, en el mismo auto en que se resuelva sobre la procedencia de la apelación, se decidirá sobre si el escrito de continuación del recurso fue presentado en tiempo y contiene la expresión de agravios.
 ARTICULO 248.- Si se declara que la resolución recurrida no es apelable, o que no fué interpuesto el recurso en tiempo, se devolverán, al tribunal que conoció del negocio, los autos que hubiere enviado, con testimonio del fallo, para que continúe la tramitación, en su caso, o para que sep roceda a su cumplimiento, si se tratare de sentencia.
 ARTICULO 249.- Si se determina que el escrito del apelante fué presentado fuera del término del emplazamiento, o que no contiene la expresión de agravios, se declarará desierto el recurso, y que ha causado ejecutoria la sentencia, en su caso, mandándose devolver los autos que se hubieren recibido, y remitir testimonio de la resolución al tribunal que hubiere conocido el negocio.
@@ -475,7 +501,8 @@ Fe de erratas al párrafo DOF 13-03-1943 Si, al recibir, el tribunal, la promoci
 Cuando se reciba el testimonio y de él aparezca que transcurrió ya el término para mejorar el recurso, se declarará desierto, de oficio, y se comunicará al juez del negocio.
 ARTICULO 265.- Si se revoca la calificación del grado y se declara admisible la apelación en ambos efectos, se ordenará, al inferior, que remita los autos.
 Si se declara admisible la apelación en el efecto devolutivo, se le ordenará que envíe testimonio de las constancias que las partes designen y de las que la jueza o el juez señale, si no se consideran bastantes las contenidas en el remitido para la denegada apelación, si se tratare de apelación de auto, o que remita los autos, si se tratare de sentencia definitiva. En el primer caso, los términos para que designen constancias las partes se contarán a partir de la notificación del auto en que el inferior les haga saber que está en su poder la resolución del Tribunal Colegiado de Apelación.
-Párrafo reformado DOF 07-06-2021 ARTICULO 266.- La segunda instancia se tramitará en la forma prevenida en el capítulo precedente.
+Párrafo reformado DOF 07-06-2021
+ARTICULO 266.- La segunda instancia se tramitará en la forma prevenida en el capítulo precedente.
 CAPITULO IV Disposiciones comunes ARTICULO 267.- Los recursos no son renunciables.
 ARTICULO 268.- Si se pronunciare sentencia definitiva estando pendiente un recurso, y no fuere recurrida la sentencia, luego que causa ésta ejecutoria se comunicará al tribunal que conozca del recurso, para que lo declare sin materia y ordene su archivo. Si la sentencia fuere recurrida, se comunicará la admisión del recurso al tribunal que conozca del que esté en trámite, para que remita el expediente al que ha de conocer del interpuesto contra la sentencia, para que los resuelva sucesivamente, primero el recurso pendiente y luego el interpuesto contra la sentencia.
 Si prospera el recurso pendiente contra una resolución interlocutoria, el tribunal de alzada pronunciará, a continuación, su fallo definitivo, si lo resuelto en su interlocutoria no influye ni puede influir en el sentido de la resolución del recurso pendiente contra la definitiva. En el caso contrario, acordará que se posponga su fallo definitivo hasta que se cumpla por el inferior lo mandado en el interlocutorio. El inferior, dentro los cinco días siguientes de haber cumplido con lo mandado en el fallo interlocutorio, lo hará saber así al tribunal de alzada, el que, dentro de igual término, citará a las partes para pronunciar la sentencia de fondo pendiente.
@@ -485,19 +512,25 @@ ARTICULO 269.- En los juicios de que conozca la Suprema Corte de Justicia en ún
 TITULO SEPTIMO Actos Procesales en General CAPITULO I Formalidades judiciales ARTICULO 270.- Las actuaciones judiciales y promociones pueden efectuarse en una forma cualquiera, siempre que la ley no haya previsto una especial.
 ARTICULO 271.- Las actuaciones judiciales y promociones deben escribirse en lengua española. Lo que se presente escrito en idioma extranjero se acompañará de la correspondiente traducción al castellano.
 Las actuaciones dictadas en los juicios en los que una o ambas partes sean indígenas, que no supieran leer el español, el tribunal deberá traducirlas a su lengua, dialecto o idioma con cargo a su presupuesto, por conducto de la persona autorizada para ello.
-Párrafo adicionado DOF 18-12-2002 Las promociones que los pueblos o comunidades indígenas o los indígenas en lo individual, asentados en el territorio nacional, hicieren en su lengua, dialecto o idioma, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio con cargo a su presupuesto, por conducto de la persona autorizada para ello.
-Párrafo adicionado DOF 18-12-2002 Las fechas y cantidades se escribirán con letra.
+Párrafo adicionado DOF 18-12-2002
+Las promociones que los pueblos o comunidades indígenas o los indígenas en lo individual, asentados en el territorio nacional, hicieren en su lengua, dialecto o idioma, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio con cargo a su presupuesto, por conducto de la persona autorizada para ello.
+Párrafo adicionado DOF 18-12-2002
+Las fechas y cantidades se escribirán con letra.
 En las actuaciones dictadas en los juicios en los que una o ambas partes tengan alguna discapacidad visual, auditiva o de locución, el tribunal deberá a petición de la parte que lo requiera, otorgar la asistencia necesaria en materia de estenografía proyectada o de ayuda técnica respectiva.
-Párrafo adicionado DOF 24-05-2011 ARTICULO 272.- En las actuaciones judiciales, no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada, salvándose, al fin, con toda precisión, el error cometido. Igualmente se salvarán las frases escritas entre renglones.
+Párrafo adicionado DOF 24-05-2011
+ARTICULO 272.- En las actuaciones judiciales, no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada, salvándose, al fin, con toda precisión, el error cometido. Igualmente se salvarán las frases escritas entre renglones.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 273.- Todas las declaraciones, ante los tribunales, se rendirán bajo protesta de decir verdad y bajo apercibimiento de la pena en que incurre el que comete el delito de falsedad en declaraciones judiciales.
 ARTICULO 274.- Las audiencias serán públicas en todos los tribunales; hecha excepción de las que, a juicio del tribunal, convenga que sean secretas.
 El acuerdo será reservado.
 ARTÍCULO 274 bis.- En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 Tratándose de procedimientos en los que una o ambas partes afirmen tener la calidad de personas con discapacidad visual, auditiva o silente, la misma se acreditará con la sola manifestación de quien lo haga. En caso de que la parte contraria objete la calidad de la persona con discapacidad, el juez solicitará la expedición de una constancia a la institución pública correspondiente.
-Párrafo adicionado DOF 24-05-2011 Artículo adicionado DOF 18-12-2002 ARTICULO 275.- El juez recibirá, por sí, todas las declaraciones, y presidirá todos los actos de prueba.
+Párrafo adicionado DOF 24-05-2011
+Artículo adicionado DOF 18-12-2002
+ARTICULO 275.- El juez recibirá, por sí, todas las declaraciones, y presidirá todos los actos de prueba.
 En los Tribunales Colegiados de Apelación, la persona instructora tiene todas las facultades y obligaciones de la Jueza o del Juez, hasta llegar al período de alegatos de la audiencia final del juicio.
 Los alegatos tendrán lugar ante el personal del Tribunal Colegiado de Apelación, y el proyecto de sentencia lo formulará la persona instructora.
-Párrafo reformado DOF 07-06-2021 Las reclamaciones de las partes por violaciones del procedimiento se reservarán para decidir sobre ellas al pronunciar la santencia, y, si se estimase necesario, se ordenará que el instructor practique las diligencias indebidamente omitidas, o reponga el procedimiento en la parte o partes indispensables para que el reclamante no quede sin defensa, cumplido lo cual se repetirá la audiencia de alegatos y se pronunciará el fallo.
+Párrafo reformado DOF 07-06-2021
+Las reclamaciones de las partes por violaciones del procedimiento se reservarán para decidir sobre ellas al pronunciar la santencia, y, si se estimase necesario, se ordenará que el instructor practique las diligencias indebidamente omitidas, o reponga el procedimiento en la parte o partes indispensables para que el reclamante no quede sin defensa, cumplido lo cual se repetirá la audiencia de alegatos y se pronunciará el fallo.
 ARTICULO 276.- Todo litigante, con su primera promoción, presentará:
 I.- El documento o documento que acrediten el carácter en que se presente en el negocio, en caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; hecha excepción de los casos de gestión oficiosa y de aquellos en que la representación le corresponda por disposición de la ley;
 Fe de erratas a la fracción DOF 13-03-1943 II.- El número de copias simples necesario para correr traslado a las demás partes, tanto de la demanda principal o incidental como de los documentos que con ellas se acompañen.
@@ -613,12 +646,16 @@ En toda dilación probatoria, respecto de la cual no se disponga, en este Códig
 CAPITULO V Audiencia final de juicio ARTICULO 341.- Cuando no haya controversia sobre los hechos, pero sí sobre el derecho, se citará, desde luego, para la audiencia de alegatos, y se pronunciará la sentencia, o no ser que deba probarse el derecho, por estarse en los casos del artículo 86.
 ARTICULO 342.- Concluida la recepción de las pruebas ofrecidas por las partes y de las decretadas por el tribunal, en su caso, el último día del término de prueba se verificará la audiencia final del juicio, con arreglo a los artículos siguientes, concurran o no las partes.
 Si alguna de las partes fuera indígena y no hablara el español, o hablándolo no lo supiera leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, a fin de que se conozcan fehacientemente todas las actuaciones judiciales que tengan lugar en dicha audiencia, sea en su propia lengua o en español; en cualquier caso, la misma deberá asentarse en ambos idiomas, si la naturaleza de la lengua lo permite.
-Párrafo adicionado DOF 24-05-2011 En caso de que una de las partes o ambas tengan alguna discapacidad visual, auditiva o de locución, será obligación del juez ordenar a petición de quien lo requiera, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de traductor, a fin de que se conozcan fehacientemente todas y cada una de las actuaciones judiciales que tengan lugar en dicha audiencia.
-Párrafo adicionado DOF 24-05-2011 Si para el desahogo de la audiencia no es posible contar con la asistencia requerida para los indígenas y para los discapacitados visuales, auditivos o silentes ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
-Párrafo adicionado DOF 24-05-2011 ARTICULO 343.- Abierta la audiencia, pondrá el tribunal a discusión, en los puntos que estime necesarios, la prueba documental del actor, y, en seguida, la del demandado, concediendo a cada parte el uso de la palabra, alternativamente por dos veces respecto de la prueba de cada parte, por un término que no ha de exceder de quince minutos.
+Párrafo adicionado DOF 24-05-2011
+En caso de que una de las partes o ambas tengan alguna discapacidad visual, auditiva o de locución, será obligación del juez ordenar a petición de quien lo requiera, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de traductor, a fin de que se conozcan fehacientemente todas y cada una de las actuaciones judiciales que tengan lugar en dicha audiencia.
+Párrafo adicionado DOF 24-05-2011
+Si para el desahogo de la audiencia no es posible contar con la asistencia requerida para los indígenas y para los discapacitados visuales, auditivos o silentes ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
+Párrafo adicionado DOF 24-05-2011
+ARTICULO 343.- Abierta la audiencia, pondrá el tribunal a discusión, en los puntos que estime necesarios, la prueba documental del actor, y, en seguida, la del demandado, concediendo a cada parte el uso de la palabra, alternativamente por dos veces respecto de la prueba de cada parte, por un término que no ha de exceder de quince minutos.
 Fe de erratas al párrafo DOF 13-03-1943 Discutida la prueba documental, se pasará a la discusión de la pericial, en los puntos que el tribunal estime necesarios, si hubiere habido discrepancia entre los peritos, concediéndose a éstos el uso de la palabra, sólo una vez, por un término que no excederá de treinta minutos. Si no hubiere habido discrepancia, se pasará a la discusión de la prueba testimonial, la que se llevará a efecto exclusivamente por interrogatorio directo del tribunal a los testigos y a las partes, puestos en formal careo, para el efecto de aclarar los puntos contradictorios observados en sus declaraciones.
 No impedirá la celebración de la audiencia la falta de asistencia de las partes ni la de los peritos o testigos, siendo a cargo de cada parte, en su caso, la presentación de los peritos o testigos que cada una haya designado. La falta de asistencia de los peritos o testigos que el tribunal haya citado para la audiencia, por estimarlo así conveniente, tampoco impedirá la celebración de la audiencia; pero se impondrá a los renuentes una multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal.
-Párrafo reformado DOF 20-06-2008 ARTICULO 344.- Terminada la discusión de que tratan los artículos precedentes, se abrirá la audiencia de alegatos, en la que se observarán las siguientes reglas:
+Párrafo reformado DOF 20-06-2008
+ARTICULO 344.- Terminada la discusión de que tratan los artículos precedentes, se abrirá la audiencia de alegatos, en la que se observarán las siguientes reglas:
 Fe de erratas al párrafo DOF 13-03-1943 I.- El secretario leerá las constancias de autos que pidiere la parte que esté en el uso de la palabra;
 II.- Alegará primero el actor y en seguida el demandado. También alegará el Ministerio Público cuando fuere parte en el negocio;
 III.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes, quienes, en la réplica y dúplica, deberán alegar tanto sobre la cuestión de fondo como sobre las incidencias que se hayan presentado en el proceso;
@@ -751,7 +788,8 @@ ARTICULO 426.- Cuando la ejecución tenga por objeto cosa cierta y determinada, 
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 427.- Si la cosa se halla en poder de un tercero, la ejecución no podrá despacharse en su contra, sino en los casos siguientes:
 I.- Cuando la ejecución se funde en acción real, y II.- Cuando judicialmente se haya declarado nula la enajenación por la que adquirió el tercero.
 ARTICULO 428.- (Se deroga).
-Artículo derogado DOF 12-01-1988 CAPITULO IV Oposición de terceros a la ejecución ARTICULO 429.- Cuando, en una ejecución, se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos, en virtud de los cuales se ha ordenado la ejecución, tanto el ejecutante como el ejecutado son solidariamente responsables de los daños y perjuicios que con ella se causen al tercero, y la oposición de éste se resolverá por el procedimiento incidental.
+Artículo derogado DOF 12-01-1988
+CAPITULO IV Oposición de terceros a la ejecución ARTICULO 429.- Cuando, en una ejecución, se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos, en virtud de los cuales se ha ordenado la ejecución, tanto el ejecutante como el ejecutado son solidariamente responsables de los daños y perjuicios que con ella se causen al tercero, y la oposición de éste se resolverá por el procedimiento incidental.
 Cuando se demuestre que sólo una de las partes ha sido responsable de la ejecución en bienes del tercero, cesa la solidaridad.
 ARTICULO 430.- Cuando, en una ejecución, se afecten intereses de tercero que tenga una controversia, con el ejecutante o el ejecutado, que pueda influir en los intereses de éstos que han motivado la ejecución, o que surja a virtud de ésta, la oposición del tercero se substanciará en forma de juicio, autónomo o en tercería, según que se haya o no pronunciado sentencia que defina los derechos de aquéllos.
 Fe de erratas al párrafo DOF 13-03-1943 La demanda deberá entablarla el opositor hasta antes de que se haya consumado definitivamente la ejecución; pero dentro de los nueve días de haber tenido conocimiento de ella.
@@ -898,7 +936,8 @@ ARTICULO 506.- El juicio iniciado contra la Hacienda Pública Federal no suspend
 ARTICULO 507.- La sentencia de los tribunales federales resolverá sobre la existencia del derecho fiscal, si ésta hubiere sido reclamada, o sobre la preferencia que tal derecho deba tener respecto de los que se hayan considerado privilegiados.
 ARTICULO 508.- Si los bienes secuestrados administrativamente estuvieren afectos a responsabilidad de pago preferente al derecho de la Hacienda Pública Federal, así lo declarará la sentencia; pero, en tal caso, con el sobrante del precio de dichos bienes y con los demás que constituyan el fondo del concurso, se pagará el crédito fiscal.
 ARTICULO 509. Si los bienes concursados no excedieren del importe de los créditos preferentes al de la Hacienda Pública Federal, el Ministerio Público provocará la declaración judicial, en ese sentido, y la remitirá a la Secretaría de Hacienda y Crédito Público, para justificar los asientos que deban hacerse en los libros de la contabilidad fiscal.
-Artículo reformado DOF 09-04-2012 CAPITULO II Del juicio de sucesión ARTICULO 510.- En los juicios de sucesión, si la Federación es heredera o legataria en concurrencia con los particulares, el juez de los autos remitirá, al de Distrito, copia de la cláusula respectiva y demás constancias conducentes, a afecto de que haga las declaraciones que correspondan.
+Artículo reformado DOF 09-04-2012
+CAPITULO II Del juicio de sucesión ARTICULO 510.- En los juicios de sucesión, si la Federación es heredera o legataria en concurrencia con los particulares, el juez de los autos remitirá, al de Distrito, copia de la cláusula respectiva y demás constancias conducentes, a afecto de que haga las declaraciones que correspondan.
 ARTICULO 511.- En el caso a que se refiere el artículo anterior, el juicio, cuando haya controversia, se substanciará entre el Ministerio Público Federal y el albacea, conforme a las reglas del Libro Segundo.
 Aceptada la herencia o el legado, y resuelta, en su caso, la controversia, en favor de la Federación, conocerá del juicio sucesorio el juez de Distrito que corresponda.
 ARTICULO 512.- Si la Federación fuere instituida heredera universal, el juicio de sucesión se radicará ante el juez de Distrito que corresponda. El cargo de albacea corresponderá al Agente del Ministerio Público Federal, quien encomendará la administración de los bienes sucesorios a los jefes de las oficinas federales de Hacienda de las circunscripciones en que se encuentren ubicados los bienes raíces.
@@ -920,7 +959,21 @@ II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el
 III.- Al ir demarcando los límites del fundo deslindado, otorgará posesión, al promovente, del predio que quede comprendido dentro de ellos, si ninguno de los colindantes se opusiere, o mandará que se le mantenga en la que esté disfrutando;
 IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que, conforme a sus títulos, queda comprendido dentro de los límites de su propiedad, el tribunal oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si éste se lograre, se hará constar así, y se otorgará la posesión, según su sentido. Si no se lograre el acuerdo, se abstendrá el juez de hacer declaración alguna en cuanto a la posesión, respetando, en ella, a quien la disfrutare, y mandará reservar sus derechos a los interesados, para que los haga valer en el juicio correspondiente; y V.- Mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales. Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 ARTICULO 520.- Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos o presente a los otros.
-CAPITULO IV Procedimiento de avalúo en los casos de expropiación (Se deroga) Fe de erratas a la denominación del Capítulo DOF 13-03-1943. Derogado DOF 16-01-2012 ARTICULO 521.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 522.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 523.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 524.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 525.- (Se deroga) Fe de erratas al artículo DOF 13-03-1943. Derogado DOF 16-01-2012 ARTICULO 526.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 527.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 528.- (Se deroga) Artículo derogado DOF 16-01-2012 ARTICULO 529.- (Se deroga) Fe de erratas al artículo DOF 13-03-1943. Derogado DOF 16-01-2012 TITULO SEGUNDO Jurisdicción voluntaria CAPITULO I Disposiciones generales ARTICULO 530.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
+CAPITULO IV Procedimiento de avalúo en los casos de expropiación (Se deroga) Fe de erratas a la denominación del Capítulo DOF 13-03-1943. Derogado DOF 16-01-2012 ARTICULO 521.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 522.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 523.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 524.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 525.- (Se deroga) Fe de erratas al artículo DOF 13-03-1943. Derogado DOF 16-01-2012 ARTICULO 526.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 527.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 528.- (Se deroga)
+Artículo derogado DOF 16-01-2012
+ARTICULO 529.- (Se deroga) Fe de erratas al artículo DOF 13-03-1943. Derogado DOF 16-01-2012 TITULO SEGUNDO Jurisdicción voluntaria CAPITULO I Disposiciones generales ARTICULO 530.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 ARTICULO 531.- Cuando fuere necesaria la audiencia de alguna persona, será citada conforme a derecho, advirtiéndole, en la citación, que quedan, por tres días, las actuaciones en la secretaría, para que se imponga de ellas, y se le señalará día y hora para la audiencia, a la que concurrirá el promovente, sin que sea obstáculo, para la celebración de ella, la falta de asistencia de éste.
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 532.- Se oirá precisamente al Ministerio Público Federal:
 I.- Cuando la solicitud promovida afecte los intereses de la Federación;
@@ -941,93 +994,158 @@ Fe de erratas al párrafo DOF 13-03-1943 ARTICULO 539.- El Juez está obligado a
 Fe de erratas al artículo DOF 13-03-1943 ARTICULO 540.- Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos de conocimiento, por cada uno de los presentados.
 ARTICULO 541.- Las informaciones se protocolizarán en la Notaría que designe el promovente.
 ARTICULO 542.- En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
-LIBRO CUARTO De la Cooperación Procesal Internacional Libro adicionado DOF 12-01-1988 TITULO UNICO Título adicionado DOF 12-01-1988 CAPITULO I Disposiciones Generales Capítulo adicionado DOF 12-01-1988 ARTICULO 543.- En los asuntos del orden federal, la cooperación judicial internacional se regirá por las disposiciones de este Libro y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
-Artículo adicionado DOF 12-01-1988 ARTICULO 544.- En materia de litigio internacional, las dependencias de la Federación y de las Entidades Federativas estarán sujetas a las reglas especiales previstas en este Libro.
-Artículo adicionado DOF 12-01-1988 ARTICULO 545.- La diligenciación por parte de tribunales mexicanos de notificaciones, recepción de pruebas u otros actos de mero procedimiento, solicitados para surtir efectos en el extranjero no implicará en definitiva el reconocimiento de la competencia asumida por el tribunal extranjero, ni el compromiso de ejecutar la sentencia que se dictare en el procedimiento correspondiente.
-Artículo adicionado DOF 12-01-1988 ARTICULO 546.- Para que hagan fe en la República los documentos públicos extranjeros, deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicables. Los que fueren transmitidos internacionalmente por conducto oficial para surtir efectos legales, no requerirán de legalización.
-Artículo adicionado DOF 12-01-1988 ARTICULO 547.- Las diligencias de notificaciones y de recepción de pruebas en territorio nacional, para surtir efectos en el extranjero, podrán llevarse a cabo a solicitud de parte.
-Artículo adicionado DOF 12-01-1988 ARTICULO 548.- La práctica de diligencias en país extranjero para surtir efectos en juicios que se tramiten ante tribunales nacionales, podrá encomendarse a los miembros del Servicio Exterior Mexicano por los tribunales que conozcan del asunto, caso en el cual dichas diligencias deberán practicarse conforme a las disposiciones de este Código dentro de los límites que permita el derecho internacional.
+LIBRO CUARTO De la Cooperación Procesal Internacional Libro adicionado DOF 12-01-1988 TITULO UNICO
+Título adicionado DOF 12-01-1988
+CAPITULO I Disposiciones Generales
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 543.- En los asuntos del orden federal, la cooperación judicial internacional se regirá por las disposiciones de este Libro y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 544.- En materia de litigio internacional, las dependencias de la Federación y de las Entidades Federativas estarán sujetas a las reglas especiales previstas en este Libro.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 545.- La diligenciación por parte de tribunales mexicanos de notificaciones, recepción de pruebas u otros actos de mero procedimiento, solicitados para surtir efectos en el extranjero no implicará en definitiva el reconocimiento de la competencia asumida por el tribunal extranjero, ni el compromiso de ejecutar la sentencia que se dictare en el procedimiento correspondiente.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 546.- Para que hagan fe en la República los documentos públicos extranjeros, deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicables. Los que fueren transmitidos internacionalmente por conducto oficial para surtir efectos legales, no requerirán de legalización.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 547.- Las diligencias de notificaciones y de recepción de pruebas en territorio nacional, para surtir efectos en el extranjero, podrán llevarse a cabo a solicitud de parte.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 548.- La práctica de diligencias en país extranjero para surtir efectos en juicios que se tramiten ante tribunales nacionales, podrá encomendarse a los miembros del Servicio Exterior Mexicano por los tribunales que conozcan del asunto, caso en el cual dichas diligencias deberán practicarse conforme a las disposiciones de este Código dentro de los límites que permita el derecho internacional.
 En los casos en que así proceda, dichos miembros podrán solicitar a las autoridades extranjeras competentes, su cooperación en la práctica de las diligencias encomendadas.
-Artículo adicionado DOF 12-01-1988 CAPITULO II De los Exhortos o Cartas Rogatorias Internacionales Capítulo adicionado DOF 12-01-1988 ARTICULO 549.- Los exhortos que se remitan al extranjero o que se reciban de él se ajustarán a lo dispuesto por los artículos siguientes, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
-Artículo adicionado DOF 12-01-1988 ARTICULO 550.- Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realización de las actuaciones necesarias en el proceso en que se expidan.
+Artículo adicionado DOF 12-01-1988
+CAPITULO II De los Exhortos o Cartas Rogatorias Internacionales
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 549.- Los exhortos que se remitan al extranjero o que se reciban de él se ajustarán a lo dispuesto por los artículos siguientes, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 550.- Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realización de las actuaciones necesarias en el proceso en que se expidan.
 Dichas comunicaciones contendrán los datos informativos necesarios y las copias certificadas, cédulas, copias de traslado y demás anexos procedentes según sea el caso.
 No se exigirán requisitos de forma adicionales respecto de los exhortos que provengan del extranjero.
-Artículo adicionado DOF 12-01-1988 ARTICULO 551.- Los exhortos o cartas rogatorias podrán ser transmitidos al órgano requerido por las propias partes interesadas, por vía judicial, por intermedio de los funcionarios consulares o agentes diplomáticos o por la autoridad competente del Estado requirente o requerido según sea el caso.
-Artículo adicionado DOF 12-01-1988 ARTICULO 552.- Los exhortos provenientes del extranjero que sean transmitidos por conductos oficiales no requerirán legalización y los que se remitan al extranjero sólo necesitarán de la legalización exigida por las leyes del país en donde se deban de diligenciar.
-Artículo adicionado DOF 12-01-1988 ARTICULO 553.- Todo exhorto internacional que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción. Salvo deficiencia evidente u objeción de parte, se estará al texto de la misma.
-Artículo adicionado DOF 12-01-1988 ARTICULO 554.- Los exhortos internacionales que se reciban sólo requerirán homologación cuando implique ejecución coactiva sobre personas, bienes o derechos, en cuyo caso se aplicará lo dispuesto por el Capítulo Sexto de este Libro. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán sin formar incidente.
-Artículo adicionado DOF 12-01-1988 ARTICULO 555.- Los exhortos internacionales que se reciban serán diligenciados conforme a las leyes nacionales.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 551.- Los exhortos o cartas rogatorias podrán ser transmitidos al órgano requerido por las propias partes interesadas, por vía judicial, por intermedio de los funcionarios consulares o agentes diplomáticos o por la autoridad competente del Estado requirente o requerido según sea el caso.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 552.- Los exhortos provenientes del extranjero que sean transmitidos por conductos oficiales no requerirán legalización y los que se remitan al extranjero sólo necesitarán de la legalización exigida por las leyes del país en donde se deban de diligenciar.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 553.- Todo exhorto internacional que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción. Salvo deficiencia evidente u objeción de parte, se estará al texto de la misma.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 554.- Los exhortos internacionales que se reciban sólo requerirán homologación cuando implique ejecución coactiva sobre personas, bienes o derechos, en cuyo caso se aplicará lo dispuesto por el Capítulo Sexto de este Libro. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán sin formar incidente.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 555.- Los exhortos internacionales que se reciban serán diligenciados conforme a las leyes nacionales.
 Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder excepcionalmente la simplificación de formalidades o la observancia de formalidades distintas a las nacionales, a solicitud del juez exhortante o de la parte interesada, si esto no resulta lesivo al orden público y especialmente a las garantías individuales; la petición deberá contener la descripción de las formalidades cuya aplicación se solicite para la diligenciación del exhorto.
-Artículo adicionado DOF 12-01-1988 ARTICULO 556.- Los tribunales que remitan al extranjero o reciban de él, exhortos internacionales, los tramitarán por duplicado y conservarán un ejemplar para constancia de lo enviado, recibido y actuado.
-Artículo adicionado DOF 12-01-1988 CAPITULO III Competencia en materia de actos procesales Capítulo adicionado DOF 12-01-1988 ARTICULO 557.- Las notificaciones, citaciones y emplazamientos a las dependencias de la Federación y de las Entidades Federativas, provenientes del extranjero se harán por conducto de las autoridades federales que resulten competentes por razón del domicilio de aquéllas.
-Artículo adicionado DOF 12-01-1988 ARTICULO 558.- Las diligencias a que se refiere el artículo anterior y el artículo 545 se llevará a cabo por el tribunal del domicilio de quien vaya a ser notificado, de quien vaya a recibirse la prueba o donde se encuentre la cosa según sea el caso.
-Artículo adicionado DOF 12-01-1988 CAPITULO IV De la Recepción de las Pruebas Capítulo adicionado DOF 12-01-1988 ARTICULO 559.- Las dependencias de la Federación y de las Entidades Federativas y sus servidores públicos, estarán impedidos de llevar a cabo la exhibición de documentos o copias de documentos existentes en archivos oficiales bajo su control en México; se exceptúan los casos en que tratándose de asuntos particulares, documentos o archivos personales lo permita la ley y cuando a través del desahogo de un exhorto o carta rogatoria así lo ordene el tribunal mexicano.
-Artículo adicionado DOF 12-01-1988 ARTICULO 560.- En materia de recepción de prueba en litigios que se ventilen en el extranjero, las embajadas, consulados y miembros del Servicio Exterior Mexicano estarán a lo dispuesto en los tratados y convenciones de los que México sea parte y a lo dispuesto en la Ley Orgánica del Servicio Exterior Mexicano, su Reglamento y demás disposiciones aplicables.
-Artículo adicionado DOF 12-01-1988 ARTICULO 561.- La obligación de exhibir documentos y cosas en procesos que se sigan en el extranjero no comprenderá la de exhibir documentos o copias de documentos identificados por características genéricas.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 556.- Los tribunales que remitan al extranjero o reciban de él, exhortos internacionales, los tramitarán por duplicado y conservarán un ejemplar para constancia de lo enviado, recibido y actuado.
+Artículo adicionado DOF 12-01-1988
+CAPITULO III Competencia en materia de actos procesales
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 557.- Las notificaciones, citaciones y emplazamientos a las dependencias de la Federación y de las Entidades Federativas, provenientes del extranjero se harán por conducto de las autoridades federales que resulten competentes por razón del domicilio de aquéllas.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 558.- Las diligencias a que se refiere el artículo anterior y el artículo 545 se llevará a cabo por el tribunal del domicilio de quien vaya a ser notificado, de quien vaya a recibirse la prueba o donde se encuentre la cosa según sea el caso.
+Artículo adicionado DOF 12-01-1988
+CAPITULO IV De la Recepción de las Pruebas
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 559.- Las dependencias de la Federación y de las Entidades Federativas y sus servidores públicos, estarán impedidos de llevar a cabo la exhibición de documentos o copias de documentos existentes en archivos oficiales bajo su control en México; se exceptúan los casos en que tratándose de asuntos particulares, documentos o archivos personales lo permita la ley y cuando a través del desahogo de un exhorto o carta rogatoria así lo ordene el tribunal mexicano.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 560.- En materia de recepción de prueba en litigios que se ventilen en el extranjero, las embajadas, consulados y miembros del Servicio Exterior Mexicano estarán a lo dispuesto en los tratados y convenciones de los que México sea parte y a lo dispuesto en la Ley Orgánica del Servicio Exterior Mexicano, su Reglamento y demás disposiciones aplicables.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 561.- La obligación de exhibir documentos y cosas en procesos que se sigan en el extranjero no comprenderá la de exhibir documentos o copias de documentos identificados por características genéricas.
 En ningún caso podrá un tribunal nacional ordenar ni llevar a cabo la inspección general de archivos que no sean de acceso al público, salvo en los casos permitidos por las leyes nacionales.
-Artículo adicionado DOF 12-01-1988 ARTICULO 562.- Cuando se solicitare el desahogo de prueba testimonial o de declaración de parte para surtir efectos en un proceso extranjero, los declarantes podrán ser interrogados verbal y directamente en los términos del artículo 173 de este Código.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 562.- Cuando se solicitare el desahogo de prueba testimonial o de declaración de parte para surtir efectos en un proceso extranjero, los declarantes podrán ser interrogados verbal y directamente en los términos del artículo 173 de este Código.
 Para ello será necesario que se acredite ante el tribunal del desahogo, que los hechos materia del interrogatorio están relacionados con el proceso pendiente y que medie solicitud de parte o de la autoridad exhortante.
-Artículo adicionado DOF 12-01-1988 ARTICULO 563.- Para los efectos del artículo 543, los servidores públicos de las dependencias de la federación y de las entidades federativas, estarán impedidos de rendir declaraciones en procedimientos judiciales y desahogar prueba testimonial con respecto a sus actuaciones en su calidad de tales. Dichas declaraciones deberán hacerse por escrito cuando se trate de asuntos privados, y cuando así lo ordene el juez nacional competente.
-Artículo adicionado DOF 12-01-1988 CAPITULO V Competencia en Materia de Ejecución de Sentencias Capítulo adicionado DOF 12-01-1988 ARTICULO 564.- Será reconocida en México la competencia asumida por un tribunal extranjero para los efectos de la ejecución de sentencias, cuando dicha competencia haya sido asumida por razones que resulten compatibles o análogas con el derecho nacional, salvo que se trate de asuntos de la competencia exclusiva de los tribunales mexicanos.
-Artículo adicionado DOF 12-01-1988 ARTICULO 565.- No obstante lo previsto en el artículo anterior, el tribunal nacional reconocerá la competencia asumida por el extranjero si a su juicio éste hubiera asumido dicha competencia para evitar una denegación de justicia, por no existir órgano jurisdiccional competente. El tribunal mexicano podrá asumir competencia en casos análogos.
-Artículo adicionado DOF 12-01-1988 ARTICULO 566.- También será reconocida la competencia asumida por un órgano jurisdiccional extranjero designado por convenio de las partes antes del juicio, si dadas las circunstancias y relaciones de las mismas, dicha elección no implica de hecho impedimento o denegación de acceso a la justicia.
-Artículo adicionado DOF 12-01-1988 ARTICULO 567.- No se considerará válida la cláusula o convenio de elección de foro, cuando la facultad de elegirlo opere en beneficio exclusivo de alguna parte pero no de todas.
-Artículo adicionado DOF 12-01-1988 ARTICULO 568.- Los tribunales nacionales tendrán competencia exclusiva para conocer de los asuntos que versen sobre las siguientes materias:
+Artículo adicionado DOF 12-01-1988
+ARTICULO 563.- Para los efectos del artículo 543, los servidores públicos de las dependencias de la federación y de las entidades federativas, estarán impedidos de rendir declaraciones en procedimientos judiciales y desahogar prueba testimonial con respecto a sus actuaciones en su calidad de tales. Dichas declaraciones deberán hacerse por escrito cuando se trate de asuntos privados, y cuando así lo ordene el juez nacional competente.
+Artículo adicionado DOF 12-01-1988
+CAPITULO V Competencia en Materia de Ejecución de Sentencias
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 564.- Será reconocida en México la competencia asumida por un tribunal extranjero para los efectos de la ejecución de sentencias, cuando dicha competencia haya sido asumida por razones que resulten compatibles o análogas con el derecho nacional, salvo que se trate de asuntos de la competencia exclusiva de los tribunales mexicanos.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 565.- No obstante lo previsto en el artículo anterior, el tribunal nacional reconocerá la competencia asumida por el extranjero si a su juicio éste hubiera asumido dicha competencia para evitar una denegación de justicia, por no existir órgano jurisdiccional competente. El tribunal mexicano podrá asumir competencia en casos análogos.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 566.- También será reconocida la competencia asumida por un órgano jurisdiccional extranjero designado por convenio de las partes antes del juicio, si dadas las circunstancias y relaciones de las mismas, dicha elección no implica de hecho impedimento o denegación de acceso a la justicia.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 567.- No se considerará válida la cláusula o convenio de elección de foro, cuando la facultad de elegirlo opere en beneficio exclusivo de alguna parte pero no de todas.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 568.- Los tribunales nacionales tendrán competencia exclusiva para conocer de los asuntos que versen sobre las siguientes materias:
 I.- Tierras y aguas ubicadas en el territorio nacional, incluyendo el subsuelo, espacio aéreo, mar territorial y plataforma continental, ya sea que se trate de derechos reales, de derechos derivados de concesiones de uso, exploración, explotación o aprovechamiento, o de arrendamiento de dichos bienes;
 II.- Recursos de la zona económica exclusiva o que se relacionen con cualquiera de los derechos de soberanía sobre dicha zona, en los términos de la Ley Federal del Mar;
 III.- Actos de autoridad o atinentes al régimen interno del Estado y de las dependencias de la Federación y de las entidades federativas;
 IV.- Régimen interno de las embajadas y consulados de México en el extranjero y sus actuaciones oficiales; y V.- En los casos en que lo dispongan así otras leyes.
-Artículo adicionado DOF 12-01-1988 CAPITULO VI Ejecución de Sentencias Capítulo adicionado DOF 12-01-1988 ARTICULO 569.- Las sentencias, los laudos arbitrales privados de carácter no comercial y demás resoluciones jurisdiccionales extranjeros tendrán eficacia y serán reconocidos en la República en todo lo que no sea contrario al orden público interno en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
-Párrafo reformado DOF 22-07-1993 Tratándose de sentencias, laudos o resoluciones jurisdiccionales que sólo vayan a utilizarse como prueba ante tribunales mexicanos, será suficiente que los mismos llenen los requisitos necesarios para ser considerados como auténticos.
+Artículo adicionado DOF 12-01-1988
+CAPITULO VI Ejecución de Sentencias
+Capítulo adicionado DOF 12-01-1988
+ARTICULO 569.- Las sentencias, los laudos arbitrales privados de carácter no comercial y demás resoluciones jurisdiccionales extranjeros tendrán eficacia y serán reconocidos en la República en todo lo que no sea contrario al orden público interno en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Párrafo reformado DOF 22-07-1993
+Tratándose de sentencias, laudos o resoluciones jurisdiccionales que sólo vayan a utilizarse como prueba ante tribunales mexicanos, será suficiente que los mismos llenen los requisitos necesarios para ser considerados como auténticos.
 Los efectos que las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales extranjeros produzcan en el territorio nacional, estarán regidos por lo dispuesto en el Código Civil, por este código y demás leyes aplicables.
-Párrafo reformado DOF 22-07-1993 Artículo adicionado DOF 12-01-1988 ARTICULO 570.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales extranjeros se cumplirán coactivamente en la República, mediante homologación en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
-Artículo adicionado DOF 12-01-1988. Reformado DOF 22-07-1993 ARTICULO 571.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales dictados en el extranjero, podrán tener fuerza de ejecución si cumplen con las siguientes condiciones:
-Párrafo reformado DOF 22-07-1993 I.- Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos provenientes del extranjero;
+Párrafo reformado DOF 22-07-1993
+Artículo adicionado DOF 12-01-1988
+ARTICULO 570.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales extranjeros se cumplirán coactivamente en la República, mediante homologación en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Artículo adicionado DOF 12-01-1988. Reformado DOF 22-07-1993
+ARTICULO 571.- Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales dictados en el extranjero, podrán tener fuerza de ejecución si cumplen con las siguientes condiciones:
+Párrafo reformado DOF 22-07-1993
+I.- Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos provenientes del extranjero;
 II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
 III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en el derecho internacional que sean compatibles con las adoptadas por este Código. El Juez o tribunal sentenciador extranjero no tiene competencia cuando exista, en los actos jurídicos de que devenga la resolución que se pretenda ejecutar, una cláusula de sometimiento únicamente a la jurisdicción de tribunales mexicanos;
-Fracción reformada DOF 30-12-2008 IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+Fracción reformada DOF 30-12-2008
+IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
 V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
 VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
 VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y VIII.- Que llenen los requisitos para ser considerados como auténticos.
 No obstante el cumplimiento de las anteriores condiciones, el tribunal podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o laudos extranjeros en casos análogos.
-Artículo adicionado DOF 12-01-1988 ARTICULO 572.- El exhorto del Juez o tribunal requirente deberá acompañarse de la siguiente documentación:
+Artículo adicionado DOF 12-01-1988
+ARTICULO 572.- El exhorto del Juez o tribunal requirente deberá acompañarse de la siguiente documentación:
 I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
 II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del artículo anterior;
 III.- Las traducciones al idioma español que sean necesarias al efecto; y IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar del tribunal de la homologación.
-Artículo adicionado DOF 12-01-1988 ARTICULO 573.- Es tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, el del domicilio del ejecutado, o en su defecto, el de la ubicación de sus bienes en la República.
-Artículo adicionado DOF 12-01-1988 ARTICULO 574.- El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 573.- Es tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, el del domicilio del ejecutado, o en su defecto, el de la ubicación de sus bienes en la República.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 574.- El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
 La resolución que se dicte será apelable en ambos efectos si se denegare la ejecución, y en el efecto devolutivo si se concediere.
-Artículo adicionado DOF 12-01-1988 ARTICULO 575.- Ni el Tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre las motivaciones o fundamentos de hecho o de derecho en que se apoye, limitándose a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en el derecho nacional.
-Artículo adicionado DOF 12-01-1988 ARTICULO 576.- Todas las cuestiones relativas a embargo, secuestro, depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero, serán resueltas por el tribunal de la homologación.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 575.- Ni el Tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre las motivaciones o fundamentos de hecho o de derecho en que se apoye, limitándose a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en el derecho nacional.
+Artículo adicionado DOF 12-01-1988
+ARTICULO 576.- Todas las cuestiones relativas a embargo, secuestro, depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero, serán resueltas por el tribunal de la homologación.
 La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero.
-Artículo adicionado DOF 12-01-1988 ARTICULO 577.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
-Artículo adicionado DOF 12-01-1988 Libro Quinto De las Acciones Colectivas Libro adicionado DOF 30-08-2011
+Artículo adicionado DOF 12-01-1988
+ARTICULO 577.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
+Artículo adicionado DOF 12-01-1988
+Libro Quinto De las Acciones Colectivas Libro adicionado DOF 30-08-2011
 
 ## Título Único
+
 Título adicionado DOF 30-08-2011
 
 ## Capítulo I
-Previsiones Generales Capítulo adicionado DOF 30-08-2011 ARTICULO 578.- La defensa y protección de los derechos e intereses colectivos será ejercida ante los Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
-Artículo adicionado DOF 30-08-2011 ARTICULO 579.- La acción colectiva es procedente para la tutela de las pretensiones cuya titularidad corresponda a una colectividad de personas, así como para el ejercicio de las pretensiones individuales cuya titularidad corresponda a los miembros de un grupo de personas.
-Artículo adicionado DOF 30-08-2011 ARTICULO 580.- En particular, las acciones colectivas son procedentes para tutelar:
+
+Previsiones Generales
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 578.- La defensa y protección de los derechos e intereses colectivos será ejercida ante los Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 579.- La acción colectiva es procedente para la tutela de las pretensiones cuya titularidad corresponda a una colectividad de personas, así como para el ejercicio de las pretensiones individuales cuya titularidad corresponda a los miembros de un grupo de personas.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 580.- En particular, las acciones colectivas son procedentes para tutelar:
 
 I. Derechos e intereses difusos y colectivos, entendidos como aquéllos de naturaleza indivisible cuya titularidad corresponde a una colectividad de personas, indeterminada o determinable, relacionadas por circunstancias de hecho o de derecho comunes.
 
 II. Derechos e intereses individuales de incidencia colectiva, entendidos como aquéllos de naturaleza divisible cuya titularidad corresponde a los individuos integrantes de una colectividad de personas, determinable, relacionadas por circunstancias de derecho.
-Artículo adicionado DOF 30-08-2011 ARTICULO 581.- Para los efectos de este Código, los derechos citados en el artículo anterior se ejercerán a través de las siguientes acciones colectivas, que se clasificarán en:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 581.- Para los efectos de este Código, los derechos citados en el artículo anterior se ejercerán a través de las siguientes acciones colectivas, que se clasificarán en:
 
 I. Acción difusa: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses difusos, cuyo titular es una colectividad indeterminada, que tiene por objeto reclamar judicialmente del demandado la reparación del daño causado a la colectividad, consistente en la restitución de las cosas al estado que guardaren antes de la afectación, o en su caso al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad, sin que necesariamente exista vínculo jurídico alguno entre dicha colectividad y el demandado.
 
 II. Acción colectiva en sentido estricto: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses colectivos, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente del demandado, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo y que deriva de un vínculo jurídico común existente por mandato de ley entre la colectividad y el demandado.
 
 III. Acción individual homogénea: Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.
-Artículo adicionado DOF 30-08-2011 ARTICULO 582.- La acción colectiva podrá tener por objeto pretensiones declarativas, constitutivas o de condena.
-Artículo adicionado DOF 30-08-2011 ARTICULO 583.- El juez interpretará las normas y los hechos de forma compatible con los principios y objetivos de los procedimientos colectivos, en aras de proteger y tutelar el interés general y los derechos e intereses colectivos.
-Artículo adicionado DOF 30-08-2011 ARTICULO 584.- Las acciones colectivas previstas en este título prescribirán a los tres años seis meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado el daño causante de la afectación.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 582.- La acción colectiva podrá tener por objeto pretensiones declarativas, constitutivas o de condena.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 583.- El juez interpretará las normas y los hechos de forma compatible con los principios y objetivos de los procedimientos colectivos, en aras de proteger y tutelar el interés general y los derechos e intereses colectivos.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 584.- Las acciones colectivas previstas en este título prescribirán a los tres años seis meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado el daño causante de la afectación.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo II — De la Legitimación Activa
-Capítulo adicionado DOF 30-08-2011 ARTICULO 585.- Tienen legitimación activa para ejercitar las acciones colectivas:
+
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 585.- Tienen legitimación activa para ejercitar las acciones colectivas:
 
 I. La Procuraduría Federal de Protección al Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Comisión Federal de Competencia;
 
@@ -1036,7 +1154,9 @@ II. El representante común de la colectividad conformada por al menos treinta m
 III. Las asociaciones civiles sin fines de lucro legalmente constituidas al menos un año previo al momento de presentar la acción, cuyo objeto social incluya la promoción o defensa de los derechos e intereses de la materia de que se trate y que cumplan con los requisitos establecidos en este Código, y
 
 IV. El Fiscal General de la República.
-Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 30-08-2011 ARTICULO 586.- La representación a que se refieren las fracciones II y III del artículo anterior, deberá ser adecuada.
+Fracción reformada DOF 20-05-2021
+Artículo adicionado DOF 30-08-2011
+ARTICULO 586.- La representación a que se refieren las fracciones II y III del artículo anterior, deberá ser adecuada.
 Se considera representación adecuada:
 
 I. Actuar con diligencia, pericia y buena fe en la defensa de los intereses de la colectividad en el juicio;
@@ -1057,7 +1177,10 @@ El representante será responsable frente a la colectividad por el ejercicio de 
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo III
-Procedimiento Capítulo adicionado DOF 30-08-2011 ARTICULO 587.- La demanda deberá contener:
+
+Procedimiento
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 587.- La demanda deberá contener:
 
 I. El tribunal ante el cual se promueve;
 
@@ -1082,7 +1205,8 @@ X. Los fundamentos de derecho, y
 XI. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
 El juez podrá prevenir a la parte actora para que aclare o subsane su demanda cuando advierta la omisión de requisitos de forma, sea obscura o irregular, otorgándole un término de cinco días para tales efectos.
 El juez resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue la prevención, no se cumplan los requisitos previstos en este Título, o se trate de pretensiones infundadas, frívolas, o temerarias.
-Artículo adicionado DOF 30-08-2011 ARTICULO 588.- Son requisitos de procedencia de la legitimación en la causa los siguientes:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 588.- Son requisitos de procedencia de la legitimación en la causa los siguientes:
 
 I. Que se trate de actos que dañen a consumidores o usuarios de bienes o servicios públicos o privados o al medio ambiente o que se trate de actos que hayan dañado al consumidor por la existencia de concentraciones indebidas o prácticas monopólicas, declaradas existentes por resolución firme emitida por la Comisión Federal de Competencia;
 
@@ -1097,7 +1221,8 @@ V. Que la materia de la litis no haya sido objeto de cosa juzgada en procesos pr
 VI. Que no haya prescrito la acción, y
 
 VII. Las demás que determinen las leyes especiales aplicables.
-Artículo adicionado DOF 30-08-2011 ARTICULO 589.- Son causales de improcedencia de la legitimación en el proceso, los siguientes:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 589.- Son causales de improcedencia de la legitimación en el proceso, los siguientes:
 
 I. Que los miembros promoventes de la colectividad no hayan otorgado su consentimiento en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
 
@@ -1113,19 +1238,24 @@ VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso proc
 
 VII. Que las asociaciones que pretendan ejercer la legitimación en el proceso no cumplan con los requisitos establecidos en este Título.
 El juez de oficio o a petición de cualquier interesado podrá verificar el cumplimiento de estos requisitos durante el procedimiento.
-Artículo adicionado DOF 30-08-2011 ARTICULO 590.- Una vez presentada la demanda o desahogada la prevención, dentro de los tres días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le dará vista por cinco días para que manifieste lo que a su derecho convenga respecto del cumplimiento de los requisitos de procedencia previstos en este Título.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 590.- Una vez presentada la demanda o desahogada la prevención, dentro de los tres días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le dará vista por cinco días para que manifieste lo que a su derecho convenga respecto del cumplimiento de los requisitos de procedencia previstos en este Título.
 Desahogada la vista, el juez certificará dentro del término de diez días, el cumplimiento de los requisitos de procedencia previstos en los artículos 587 y 588 de este Código. Este plazo podrá ser prorrogado por el juez hasta por otro igual, en caso de que a su juicio la complejidad de la demanda lo amerite.
 Esta resolución podrá ser modificada en cualquier etapa del procedimiento cuando existieren razones justificadas para ello.
-Artículo adicionado DOF 30-08-2011 ARTICULO 591.- Concluida la certificación referida en el artículo anterior, el juez proveerá sobre la admisión o desechamiento de la demanda y en su caso, dará vista a los órganos y organismos referidos en la fracción I del artículo 585 de este Código, según la materia del litigio de que se trate.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 591.- Concluida la certificación referida en el artículo anterior, el juez proveerá sobre la admisión o desechamiento de la demanda y en su caso, dará vista a los órganos y organismos referidos en la fracción I del artículo 585 de este Código, según la materia del litigio de que se trate.
 El auto que admita la demanda deberá ser notificado en forma personal al representante legal, quien deberá ratificar la demanda.
 El juez ordenará la notificación a la colectividad del inicio del ejercicio de la acción colectiva de que se trate, mediante los medios idóneos para tales efectos, tomando en consideración el tamaño, localización y demás características de dicha colectividad. La notificación deberá ser económica, eficiente y amplia, teniendo en cuenta las circunstancias en cada caso.
 Contra la admisión o desechamiento de la demanda es procedente el recurso de apelación, al cual deberá darse trámite en forma inmediata.
-Artículo adicionado DOF 30-08-2011 ARTICULO 592.- La parte demandada contará con quince días para contestar la demanda a partir de que surta efectos la notificación del auto de admisión de la demanda. El juez podrá ampliar este plazo hasta por un periodo igual, a petición del demandado.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 592.- La parte demandada contará con quince días para contestar la demanda a partir de que surta efectos la notificación del auto de admisión de la demanda. El juez podrá ampliar este plazo hasta por un periodo igual, a petición del demandado.
 Una vez contestada la demanda, se dará vista a la actora por 5 días para que manifieste lo que a su derecho convenga.
-Artículo adicionado DOF 30-08-2011 ARTICULO 593.- La notificación a que se refiere el segundo párrafo del artículo 591 de este Código, contendrá una relación sucinta de los puntos esenciales de la acción colectiva respectiva, así como las características que permitan identificar a la colectividad.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 593.- La notificación a que se refiere el segundo párrafo del artículo 591 de este Código, contendrá una relación sucinta de los puntos esenciales de la acción colectiva respectiva, así como las características que permitan identificar a la colectividad.
 Las demás notificaciones a los miembros de la colectividad o grupo se realizarán por estrados.
 Salvo que de otra forma se encuentren previstas en este Título, las notificaciones a las partes se realizarán en los términos que establece este Código.
-Artículo adicionado DOF 30-08-2011 ARTICULO 594.- Los miembros de la colectividad afectada podrán adherirse a la acción de que se trate, conforme a las reglas establecidas en este artículo.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 594.- Los miembros de la colectividad afectada podrán adherirse a la acción de que se trate, conforme a las reglas establecidas en este artículo.
 En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, la adhesión a su ejercicio podrá realizarse por cada individuo que tenga una afectación a través de una comunicación expresa por cualquier medio dirigida al representante a que se refiere el artículo 585 de este Código o al representante legal de la parte actora, según sea el caso.
 Los afectados podrán adherirse voluntariamente a la colectividad durante la substanciación del proceso y hasta dieciocho meses posteriores a que la sentencia haya causado estado o en su caso, el convenio judicial adquiera la calidad de cosa juzgada.
 Dentro de este lapso, el interesado hará llegar su consentimiento expreso y simple al representante, quien a su vez lo presentará al juez. El juez proveerá sobre la adhesión y, en su caso, ordenará el inicio del incidente de liquidación que corresponda a dicho interesado.
@@ -1134,47 +1264,67 @@ Los afectados que se adhieran posteriormente a que la sentencia haya causado est
 En tratándose de la adhesión voluntaria, la exclusión que haga cualquier miembro de la colectividad posterior al emplazamiento del demandado, equivaldrá a un desistimiento de la acción colectiva, por lo que no podrá volver a participar en un procedimiento colectivo derivado de o por los mismos hechos.
 Tratándose de acciones colectivas en sentido estricto e individuales homogéneas sólo tendrán derecho al pago que derive de la condena, las personas que formen parte de la colectividad y prueben en el incidente de liquidación, haber sufrido el daño causado.
 El representante a que se refiere el artículo 585 de este Código tendrá los poderes más amplios que en derecho procedan con las facultades especiales que requiera la ley para sustanciar el procedimiento y para representar a la colectividad y a cada uno de sus integrantes que se hayan adherido o se adhieran a la acción.
-Artículo adicionado DOF 30-08-2011 ARTICULO 595.- Realizada la notificación a que se refiere el segundo párrafo del artículo 591 de este Código, el juez señalará de inmediato fecha y hora para la celebración de la audiencia previa y de conciliación, la cual se llevará a cabo dentro de los diez días siguientes.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 595.- Realizada la notificación a que se refiere el segundo párrafo del artículo 591 de este Código, el juez señalará de inmediato fecha y hora para la celebración de la audiencia previa y de conciliación, la cual se llevará a cabo dentro de los diez días siguientes.
 En la audiencia el juez personalmente propondrá soluciones al litigio y exhortará a las partes a solucionarlo, pudiendo auxiliarse de los expertos que considere idóneos.
 La acción colectiva podrá ser resuelta por convenio judicial entre las partes en cualquier momento del proceso hasta antes de que cause estado.
 Si las partes alcanzaren un convenio total o parcial, el juez de oficio revisará que proceda legalmente y que los intereses de la colectividad de que se trate estén debidamente protegidos.
 Previa vista por diez días a los órganos y organismos a que se refiere la fracción I del artículo 585 de miembros de la colectividad, si las hubiere, el juez podrá aprobar el convenio elevándolo a la categoría de cosa juzgada.
-Artículo adicionado DOF 30-08-2011 ARTICULO 596.- En caso de que las partes no alcanzaren acuerdo alguno en la audiencia previa y de conciliación, el juez procederá a abrir el juicio a prueba por un período de sesenta días hábiles, comunes para las partes, para su ofrecimiento y preparación, pudiendo, a instancia de parte, otorgar una prórroga hasta por veinte días hábiles.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 596.- En caso de que las partes no alcanzaren acuerdo alguno en la audiencia previa y de conciliación, el juez procederá a abrir el juicio a prueba por un período de sesenta días hábiles, comunes para las partes, para su ofrecimiento y preparación, pudiendo, a instancia de parte, otorgar una prórroga hasta por veinte días hábiles.
 Una vez presentado el escrito de pruebas, el representante legal deberá ratificarlo bajo protesta ante el Juez.
 El auto que admita las pruebas señalará la fecha para la celebración de la audiencia final del juicio en la cual se desahogarán, en un lapso que no exceda de cuarenta días hábiles, el que podrá ser prorrogado por el juez.
 Una vez concluido el desahogo de pruebas, el juez dará vista a las partes para que en un periodo de diez días hábiles aleguen lo que a su derecho y representación convenga.
 El juez dictará sentencia dentro de los treinta días hábiles posteriores a la celebración de la audiencia final.
-Artículo adicionado DOF 30-08-2011 ARTICULO 597.- Los términos establecidos en los capítulos IV y V del Título Primero del Libro Segundo podrán ser ampliados por el juez, si existieren causas justificadas para ello.
-Artículo adicionado DOF 30-08-2011 ARTICULO 598.- Para mejor proveer, el juzgador podrá valerse de cualquier persona, documento o cosa, a petición de parte o de oficio, siempre que tengan relación inmediata con los hechos controvertidos.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 597.- Los términos establecidos en los capítulos IV y V del Título Primero del Libro Segundo podrán ser ampliados por el juez, si existieren causas justificadas para ello.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 598.- Para mejor proveer, el juzgador podrá valerse de cualquier persona, documento o cosa, a petición de parte o de oficio, siempre que tengan relación inmediata con los hechos controvertidos.
 El juez deberá recibir todas aquellas manifestaciones o documentos, escritos u orales, de terceros ajenos al procedimiento que acudan ante él en calidad de amicus curiae o en cualquier otra, siempre que sean relevantes para resolver el asunto controvertido y que los terceros no se encuentren en conflicto de interés respecto de las partes.
 El juez en su sentencia deberá, sin excepción, hacer una relación sucinta de los terceros que ejerzan el derecho de comparecer ante el tribunal conforme a lo establecido en el párrafo anterior y de los argumentos o manifestaciones por ellos vertidos.
 El juez podrá requerir a los órganos y organismos a que se refiere la fracción I del artículo 585 de este Código o a cualquier tercero, la elaboración de estudios o presentación de los medios probatorios necesarios con cargo al Fondo a que se refiere este Título.
-Artículo adicionado DOF 30-08-2011 ARTICULO 599.- Si el juez lo considera pertinente, de oficio o a petición de parte, podrá solicitar a una de las partes la presentación de información o medios probatorios que sean necesarios para mejor resolver el litigio de que se trate o para ejecutar la sentencia respectiva.
-Artículo adicionado DOF 30-08-2011 ARTICULO 600.- Para resolver el juez puede valerse de medios probatorios estadísticos, actuariales o cualquier otro derivado del avance de la ciencia.
-Artículo adicionado DOF 30-08-2011 ARTICULO 601.- No será necesario que la parte actora ofrezca y desahogue pruebas individualizadas por cada uno de los miembros de la colectividad.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 599.- Si el juez lo considera pertinente, de oficio o a petición de parte, podrá solicitar a una de las partes la presentación de información o medios probatorios que sean necesarios para mejor resolver el litigio de que se trate o para ejecutar la sentencia respectiva.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 600.- Para resolver el juez puede valerse de medios probatorios estadísticos, actuariales o cualquier otro derivado del avance de la ciencia.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 601.- No será necesario que la parte actora ofrezca y desahogue pruebas individualizadas por cada uno de los miembros de la colectividad.
 Las reclamaciones individuales deberán justificar en su caso, la relación causal en el incidente de liquidación respectivo.
-Artículo adicionado DOF 30-08-2011 ARTICULO 602.- Cuando la acción sea interpuesta por los representantes a que se refieren las fracciones II y III del artículo 585 de este Código, estarán obligados a informar a través de los medios idóneos, a los miembros de la colectividad sobre el estado que guarda el procedimiento por lo menos cada seis meses.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 602.- Cuando la acción sea interpuesta por los representantes a que se refieren las fracciones II y III del artículo 585 de este Código, estarán obligados a informar a través de los medios idóneos, a los miembros de la colectividad sobre el estado que guarda el procedimiento por lo menos cada seis meses.
 Los órganos y organismos a que se refiere la fracción I del artículo 585 de este Código, deberán llevar un registro de todos los procedimientos colectivos en trámite, así como los ya concluidos, en los que participan o hayan participado, respectivamente, como parte o tercero interesado. Dicho registro contará con la información necesaria y deberá ser de fácil acceso al público, de conformidad con la legislación aplicable.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo IV
-Sentencias Capítulo adicionado DOF 30-08-2011 ARTICULO 603.- Las sentencias deberán resolver la controversia planteada por las partes conforme a derecho.
-Artículo adicionado DOF 30-08-2011 ARTICULO 604.- En acciones difusas el juez sólo podrá condenar al demandado a la reparación del daño causado a la colectividad, consistente en restitución de las cosas al estado que guardaren antes de la afectación, si esto fuere posible. Esta restitución podrá consistir en la realización de una o más acciones o abstenerse de realizarlas.
+
+Sentencias
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 603.- Las sentencias deberán resolver la controversia planteada por las partes conforme a derecho.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 604.- En acciones difusas el juez sólo podrá condenar al demandado a la reparación del daño causado a la colectividad, consistente en restitución de las cosas al estado que guardaren antes de la afectación, si esto fuere posible. Esta restitución podrá consistir en la realización de una o más acciones o abstenerse de realizarlas.
 Si no fuere posible lo anterior, el juez condenará al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad. En su caso, la cantidad resultante se destinará al Fondo a que se refiere el Capítulo XI de este Título.
-Artículo adicionado DOF 30-08-2011 ARTICULO 605.- En el caso de acciones colectivas en sentido estricto e individuales homogéneas, el juez podrá condenar al demandado a la reparación del daño, consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo conforme a lo establecido en este artículo.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 605.- En el caso de acciones colectivas en sentido estricto e individuales homogéneas, el juez podrá condenar al demandado a la reparación del daño, consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo conforme a lo establecido en este artículo.
 Cada miembro de la colectividad podrá promover el incidente de liquidación, en el que deberá probar el daño sufrido. El juez establecerá en la sentencia, los requisitos y plazos que deberán cumplir los miembros del grupo para promover dicho incidente.
 El incidente de liquidación podrá promoverse por cada uno de los miembros de la colectividad en ejecución de sentencia dentro del año calendario siguiente al que la sentencia cause ejecutoria.
 A partir de que el juez determine el importe a liquidar, el miembro de la colectividad titular del derecho al cobro tendrá un año para ejercer el mismo.
 El pago que resulte del incidente de liquidación será hecho a los miembros de la colectividad en los términos que ordene la sentencia; en ningún caso a través del representante común.
-Artículo adicionado DOF 30-08-2011 ARTICULO 606.- En caso de que una colectividad haya ejercitado por los mismos hechos de manera simultánea una acción difusa y una acción colectiva, el juez proveerá la acumulación de las mismas en los términos de este Código.
-Artículo adicionado DOF 30-08-2011 ARTICULO 607.- La sentencia fijará al condenado un plazo prudente para su cumplimiento atendiendo a las circunstancias del caso, así como los medios de apremio que deban emplearse cuando se incumpla con la misma.
-Artículo adicionado DOF 30-08-2011 ARTICULO 608.- La sentencia será notificada a la colectividad o grupo de que se trate en los términos de lo dispuesto por el segundo párrafo del artículo 591 de este Código.
-Artículo adicionado DOF 30-08-2011 ARTICULO 609.- Cuando una vez dictada la sentencia, alguna de las partes tenga conocimiento de que sus representantes ejercieron una representación fraudulenta en contra de sus intereses, éstas podrán promover dentro del plazo de cuarenta y cinco días hábiles la apelación que habrá de resolver sobre la nulidad de las actuaciones viciadas dentro del procedimiento colectivo, siempre que dicha representación fraudulenta haya influido en la sentencia emitida.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 606.- En caso de que una colectividad haya ejercitado por los mismos hechos de manera simultánea una acción difusa y una acción colectiva, el juez proveerá la acumulación de las mismas en los términos de este Código.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 607.- La sentencia fijará al condenado un plazo prudente para su cumplimiento atendiendo a las circunstancias del caso, así como los medios de apremio que deban emplearse cuando se incumpla con la misma.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 608.- La sentencia será notificada a la colectividad o grupo de que se trate en los términos de lo dispuesto por el segundo párrafo del artículo 591 de este Código.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 609.- Cuando una vez dictada la sentencia, alguna de las partes tenga conocimiento de que sus representantes ejercieron una representación fraudulenta en contra de sus intereses, éstas podrán promover dentro del plazo de cuarenta y cinco días hábiles la apelación que habrá de resolver sobre la nulidad de las actuaciones viciadas dentro del procedimiento colectivo, siempre que dicha representación fraudulenta haya influido en la sentencia emitida.
 En el caso de la colectividad, la apelación podrá promoverla el representante cuya designación haya sido autorizada por el juez. En este supuesto, el juez hará del conocimiento de los hechos que correspondan al Ministerio Público.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo V
-Medidas Precautorias Capítulo adicionado DOF 30-08-2011 ARTICULO 610.- En cualquier etapa del procedimiento el juez podrá decretar a petición de parte, medidas precautorias que podrán consistir en:
+
+Medidas Precautorias
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 610.- En cualquier etapa del procedimiento el juez podrá decretar a petición de parte, medidas precautorias que podrán consistir en:
 
 I. La orden de cesación de los actos o actividades que estén causando o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
 
@@ -1183,7 +1333,8 @@ II. La orden de realizar actos o acciones que su omisión haya causado o necesar
 III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y
 
 IV. Cualquier otra medida que el juez considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
-Artículo adicionado DOF 30-08-2011 ARTICULO 611.- Las medidas precautorias previstas en el artículo anterior podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no se cause una afectación ruinosa al demandado.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 611.- Las medidas precautorias previstas en el artículo anterior podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no se cause una afectación ruinosa al demandado.
 Para el otorgamiento de dichas medidas se requerirá:
 
 I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
@@ -1194,7 +1345,10 @@ Si con el otorgamiento de la medida se pudiera ocasionar daño al demandado, és
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo VI
-Medios de Apremio Capítulo adicionado DOF 30-08-2011 ARTICULO 612.- Los tribunales para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
+
+Medios de Apremio
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 612.- Los tribunales para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
 
 I. Multa hasta por la cantidad equivalente a treinta mil días de salario mínimo general vigente en el Distrito Federal, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse lo ordenado por el juez.
 
@@ -1207,7 +1361,10 @@ Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito 
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo VII
-Relación entre Acciones Colectivas y Acciones Individuales Capítulo adicionado DOF 30-08-2011 ARTICULO 613.- No procederá la acumulación entre procedimientos individuales y procedimientos colectivos.
+
+Relación entre Acciones Colectivas y Acciones Individuales
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 613.- No procederá la acumulación entre procedimientos individuales y procedimientos colectivos.
 En caso de coexistencia de un proceso individual y de un proceso colectivo proveniente de la misma causa, el mismo demandado en ambos procesos informará de tal situación a los jueces.
 El juez del proceso individual notificará a la parte actora de la existencia de la acción colectiva para que en su caso, decida continuar por la vía individual o ejerza su derecho de adhesión a la misma dentro del plazo de noventa días contados a partir de la notificación.
 Para que proceda la adhesión de la parte actora a la acción colectiva, deberá desistirse del proceso individual para que éste se sobresea.
@@ -1215,13 +1372,21 @@ Tratándose de derechos o intereses individuales de incidencia colectiva, en cas
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo VIII
-Cosa Juzgada Capítulo adicionado DOF 30-08-2011 ARTICULO 614.- La sentencia no recurrida tendrá efectos de cosa juzgada.
-Artículo adicionado DOF 30-08-2011 ARTICULO 615.- Si alguna persona inició un procedimiento individual al cual recayó una sentencia que causó ejecutoria no podrá ser incluida dentro de una colectividad para efectos de un proceso colectivo, si el objeto, las causas y las pretensiones son las mismas.
+
+Cosa Juzgada
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 614.- La sentencia no recurrida tendrá efectos de cosa juzgada.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 615.- Si alguna persona inició un procedimiento individual al cual recayó una sentencia que causó ejecutoria no podrá ser incluida dentro de una colectividad para efectos de un proceso colectivo, si el objeto, las causas y las pretensiones son las mismas.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo IX
-Gastos y Costas Capítulo adicionado DOF 30-08-2011 ARTICULO 616.- La sentencia de condena incluirá lo relativo a los gastos y costas que correspondan.
-Artículo adicionado DOF 30-08-2011 ARTICULO 617.- Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes.
+
+Gastos y Costas
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 616.- La sentencia de condena incluirá lo relativo a los gastos y costas que correspondan.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 617.- Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes.
 Los honorarios del representante legal y del representante común, que convengan con sus representados, quedarán sujetos al siguiente arancel máximo:
 
 I. Serán de hasta el 20%, si el monto líquido de la suerte principal no excede de 200 mil veces el salario mínimo diario en el Distrito Federal;
@@ -1230,7 +1395,8 @@ II. Si el monto líquido de la suerte principal excede 200 mil pero es menor a 2
 
 III. Si el monto líquido de la suerte principal excede a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 11% sobre los primeros 2 millones, y hasta el 3% sobre el excedente.
 Si las partes llegaren a un acuerdo para poner fin al juicio antes de la sentencia, los gastos y costas deberán estar contemplados como parte de las negociaciones del convenio de transacción judicial. En cualquier caso, los honorarios del representante legal y del representante común que pacten con sus representados deberán ajustarse al arancel máximo previsto en este artículo.
-Artículo adicionado DOF 30-08-2011 ARTICULO 618.- Los gastos y costas se liquidarán en ejecución de sentencia de conformidad con las siguientes reglas:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 618.- Los gastos y costas se liquidarán en ejecución de sentencia de conformidad con las siguientes reglas:
 
 I. Los gastos y costas así como los honorarios de los representantes de la parte actora referidos en el artículo anterior, serán cubiertos en la forma que lo determine el juez, buscando asegurar el pago correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere el Capítulo XI de este Título, cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
 
@@ -1241,21 +1407,27 @@ III. Si la condena no fuere cuantificable, el juez determinará el monto de los 
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo X — De las Asociaciones
-Capítulo adicionado DOF 30-08-2011 ARTICULO 619.- Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
-Artículo adicionado DOF 30-08-2011 ARTICULO 620.- Para obtener el registro correspondiente, dichas asociaciones deberán:
+
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 619.- Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 620.- Para obtener el registro correspondiente, dichas asociaciones deberán:
 
 I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y
 
 II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
-Artículo adicionado DOF 30-08-2011 ARTICULO 621.- El registro será público, su información estará disponible en la página electrónica del Consejo de la Judicatura Federal, y cuando menos deberá contener los nombres de los socios, asociados, representantes y aquellos que ejerzan cargos directivos, su objeto social, así como el informe a que se refiere la fracción II del artículo 623 de este Código.
-Artículo adicionado DOF 30-08-2011 ARTICULO 622.- Las asociaciones deberán:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 621.- El registro será público, su información estará disponible en la página electrónica del Consejo de la Judicatura Federal, y cuando menos deberá contener los nombres de los socios, asociados, representantes y aquellos que ejerzan cargos directivos, su objeto social, así como el informe a que se refiere la fracción II del artículo 623 de este Código.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 622.- Las asociaciones deberán:
 
 I. Evitar que sus asociados, socios, representantes o aquellos que ejerzan cargos directivos, incurran en situaciones de conflicto de interés respecto de las actividades que realizan en términos de este Título;
 
 II. Dedicarse a actividades compatibles con su objeto social, y
 
 III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
-Artículo adicionado DOF 30-08-2011 ARTICULO 623.- Para mantener el registro las asociaciones deberán:
+Artículo adicionado DOF 30-08-2011
+ARTICULO 623.- Para mantener el registro las asociaciones deberán:
 
 I. Cumplir con lo dispuesto en el artículo anterior;
 
@@ -1265,9 +1437,13 @@ III. Mantener actualizada en forma permanente la información que deba entregar 
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo XI — Del Fondo
-Capítulo adicionado DOF 30-08-2011 ARTICULO 624.- Para los efectos señalados en este Título, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
-Artículo adicionado DOF 30-08-2011 ARTICULO 625.- Los recursos que deriven de las sentencias recaídas en las acciones referidas en el párrafo anterior, deberán ser utilizados exclusivamente para el pago de los gastos derivados de los procedimientos colectivos, así como para el pago de los honorarios de los representantes de la parte actora a que se refiere el artículo 617 de este Código, cuando exista un interés social que lo justifique y el juez así lo determine, incluyendo pero sin limitar, las notificaciones a los miembros de la colectividad, la preparación de las pruebas pertinentes y la notificación de la sentencia respectiva. Los recursos podrán ser además utilizados para el fomento de la investigación y difusión relacionada con las acciones y derechos colectivos.
-Artículo adicionado DOF 30-08-2011 ARTICULO 626.- El Consejo de la Judicatura Federal divulgará anualmente el origen, uso y destino de los recursos del Fondo.
+
+Capítulo adicionado DOF 30-08-2011
+ARTICULO 624.- Para los efectos señalados en este Título, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 625.- Los recursos que deriven de las sentencias recaídas en las acciones referidas en el párrafo anterior, deberán ser utilizados exclusivamente para el pago de los gastos derivados de los procedimientos colectivos, así como para el pago de los honorarios de los representantes de la parte actora a que se refiere el artículo 617 de este Código, cuando exista un interés social que lo justifique y el juez así lo determine, incluyendo pero sin limitar, las notificaciones a los miembros de la colectividad, la preparación de las pruebas pertinentes y la notificación de la sentencia respectiva. Los recursos podrán ser además utilizados para el fomento de la investigación y difusión relacionada con las acciones y derechos colectivos.
+Artículo adicionado DOF 30-08-2011
+ARTICULO 626.- El Consejo de la Judicatura Federal divulgará anualmente el origen, uso y destino de los recursos del Fondo.
 Artículo adicionado DOF 30-08-2011
 
 ## TRANSITORIOS
@@ -1280,11 +1456,11 @@ Fe de erratas al artículo DOF 13-03-1943 José Gómez Esparza, D. P.- Esteban G
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos cuarenta y dos.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación.- Miguel Alemán.- Rúbricas.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE DE ERRATAS DEL CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES.
 Publicada en el Diario Oficial de la Federación el 13 de marzo de 1943 Nota: Fe de erratas a los artículos 3º, 4º, 5º, 7º, 8º, 9º, 11, 17, 21, 23, 24, 28, 31, 36, 39, 49, 54, 77, 79, 104, 105, 107, 109, 110, 111, 112, 113, 114, 116, 118, 119, 124, 126, 129, 130, 132, 135, 136, 137, 138, 141, 144, 146, 149, 153, 155, 157, 159, 163, 164, 171, 173, 174, 176, 181, 202, 203, 206, 213, 215, 219, 220, 221, 222, 223, 234, 235, 237, 242, 249, 251, 253, 256, 259, 261, 263, 264, 268, 272, 276, 280, 287, 288, 292, 302, 313, 316, 318, 319, 320, 322, 323, 325, 326, 327, 329, 330, 343, 344, 347, 348, 352, 357, 365, 373, 374, 375, 376, 381, 386, 389, 398, 401, 409, 421, 422, 423, 426, 430, 432, 434, 435, 436, 438, 439, 441, 445, 447, 449, 451, 452, 453, 455, 458, 459, 460, 468, 471, 472, 475, 481, 482, 484, 498, 503, 514, 516, 517, 525, 529, 531, 536, 538, 539 y 3º Transitorio; así como a la denominación del Capítulo VII del Título Cuarto del Libro Primero, y a la denominación Capítulo IV del Título
-**Primero.** del Libro Tercero.
+**Primero.-** del Libro Tercero.
 DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Federal de Procedimientos Civiles.
 Publicado en el Diario Oficial de la Federación el 12 de enero de 1988 quedar en los siguientes términos: ..........
 ARTICULO SEGUNDO.- Se adiciona un segundo párrafo al artículo 72, el artículo 86 Bis, y el Libro
-**Cuarto.** con un Título Unico integrado por seis capítulos que contienen los artículos 543 al 577, al Código Federal de Procedimientos Civiles, en los siguientes términos: ..........
+**Cuarto.-** con un Título Unico integrado por seis capítulos que contienen los artículos 543 al 577, al Código Federal de Procedimientos Civiles, en los siguientes términos: ..........
 Procedimientos Civiles.
 ARTICULOS TRANSITORIOS
 **PRIMERO.-** Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1308,7 +1484,7 @@ Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000 Civiles, 
 **Tercero.-** La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
 Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará a cada uno de los responsables de las oficinas del Registro Público de Comercio, a partir de la entrada en vigor del presente Decreto y a más tardar el 31 de agosto del año 2000, el programa informático del sistema registral automatizado a que se refiere el presente Decreto, la asistencia y capacitación técnica, así como las estrategias para su instrumentación, de conformidad con los convenios correspondientes.
 **Cuarto.-** En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
-**Quinto.** : La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en . términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
+**Quinto.-** : La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en . términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
 Artículo reformado DOF 13-06-2003
 **Sexto.-** La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas.
 Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
@@ -1321,12 +1497,12 @@ Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2002
 
 ### ARTÍCULO ÚNICO
 : Se reforman la fracción VII y el segundo párrafo de la fracción VIII del artículo 24; se adicionan, una fracción IX al artículo 24; un segundo párrafo al artículo 107; un segundo párrafo al artículo 180; el artículo 222 bis; los párrafos segundo y tercero del artículo 271, recorriéndose el actual
-**segundo.** para pasar a ser el cuarto y último párrafo; y el artículo 274 bis, para quedar como sigue: ..........
+**segundo.-** para pasar a ser el cuarto y último párrafo; y el artículo 274 bis, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 12 de noviembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Lydia Madero García, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se Consumidor, publicado el 29 de mayo de 2000.
@@ -1345,7 +1521,7 @@ Se reforman los artículos 55, fracción II; 59, fracción I; 153; y 343, tercer
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 DECRETO por el que se reforma la fracción III del artículo 1347-A del Código de Comercio Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2008 para quedar como sigue: ……….
 
@@ -1385,13 +1561,13 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 2012 Procedim
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
-**SEGUNDO.** Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+**PRIMERO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+**SEGUNDO.-** Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
 En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por
-**tercero.** s interesados en la contratación.
-**TERCERO.** El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
-**CUARTO.** Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
-**QUINTO.** La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+**tercero.-** s interesados en la contratación.
+**TERCERO.-** El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+**CUARTO.-** Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+**QUINTO.-** La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
@@ -1399,8 +1575,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 quedar co
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
@@ -1410,39 +1586,39 @@ Se reforma el párrafo tercero del artículo 4º; y la fracción IV del artícul
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Publicado en el Diario Oficial de la Federación el 7 de junio de 2021
 
@@ -1451,8 +1627,7 @@ Se reforman los artículos 15; 18, párrafo primero; 20; 237, párrafo primero; 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
-
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
 I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
 
 II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
@@ -1468,33 +1643,33 @@ c) Las nuevas categorías de la Carrera Judicial.
 IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
-**Segundo.** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
-**Tercero.** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
-**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-**Quinto.** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
-**Sexto.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**Séptimo.** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
-**Octavo.** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
-**Noveno.** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
-**Décimo.** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
-**Décimo Primero.** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
-**Décimo Segundo.** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
-**Décimo Tercero.** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
+**Segundo.-** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+**Tercero.-** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Quinto.-** Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio.
+**Sexto.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Séptimo.-** Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera Judicial contenidas en el presente Decreto.
+**Octavo.-** Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial, previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos inherentes a este.
+**Noveno.-** Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato.
+**Décimo.-** Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al momento de la interrupción.
+**Décimo Primero.-** Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir jurisprudencia por precedente.
+**Décimo Segundo.-** Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el Diario Oficial de la Federación el 26 de mayo de 1995.
+**Décimo Tercero.-** [Con el fin de implementar la reforma constitucional al Poder Judicial de la Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará en ese encargo hasta el 30 de noviembre de 2024. Asimismo, el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2016 concluirá su encargo el 30 de noviembre de 2023; el Consejero de la Judicatura Federal nombrado por el Pleno de la Suprema Corte de Justicia de la Nación el 24 de febrero de 2019 concluirá sus funciones el 23 de febrero de 2026; el Consejero de la Judicatura Federal nombrado por el Ejecutivo Federal el 18 de noviembre de 2019 concluirá el 17 de noviembre de 2026; las Consejeras de la Judicatura Federal designadas por el Senado de la República el 20 de noviembre de 2019 concluirán su encargo el 19 de noviembre de 2026; y el Consejero de la Judicatura Federal designado por el Pleno de la Suprema Corte de Justicia de la Nación el 1 de diciembre de 2019 durará en funciones hasta el 30 de noviembre de 2026.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 17-11-2021 y publicada DOF 18-02-2022 Ciudad de México, a 22 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. María Merced González González, Secretaria.- Dip.
 María Guadalupe Díaz Avilez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión.
 Notificados al Congreso de la Unión para efectos legales el 17 de noviembre de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/398/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el dieciséis de noviembre de dos mil veintiuno, resolvió la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
+**SEGUNDO.-** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal.
 Atentamente Ciudad de México; 16 de noviembre de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 17 de noviembre de 2021 a las 13:35 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
 Publicada en el Diario Oficial de la Federación el 18 de febrero de 2022 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021 PROMOVENTES: DIVERSOS INTEGRANTES DE LAS CÁMARAS DE SENADORES Y DE DIPUTADOS DEL CONGRESO DE LA UNIÓN PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS SECRETARIOS: ROBERTO FRAGA JIMÉNEZ MANUEL POBLETE RÍOS Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al dieciséis de noviembre de dos mil veintiuno. ……… 187. Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-**SEGUNDO.** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+**SEGUNDO.-** Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.

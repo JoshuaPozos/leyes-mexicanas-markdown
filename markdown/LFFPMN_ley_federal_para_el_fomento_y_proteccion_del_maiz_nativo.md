@@ -15,7 +15,9 @@ Se expide la Ley Federal para el Fomento y Protección del Maíz Nativo.
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo Único
+
 Generalidades
 
 ### Artículo 1
@@ -53,13 +55,16 @@ X. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.
 
 ## TÍTULO SEGUNDO — Del Fomento y Protección del Maíz Nativo
 
+
 ## Capítulo I — Del Maíz Nativo y en Diversificación Constante como manifestación cultural
+
 
 ### Artículo 3
 . Se reconoce a la producción, comercialización, consumo y Diversificación Constante del Maíz Nativo, como manifestación cultural nacional.
 Lo establecido en el párrafo anterior se regirá por lo dispuesto en la Ley General de Cultura y Derechos Culturales.
 
 ## Capítulo II
+
 Del Maíz Nativo y en Diversificación Constante como garantía del derecho humano a la alimentación
 
 ### Artículo 4
@@ -67,6 +72,7 @@ Del Maíz Nativo y en Diversificación Constante como garantía del derecho huma
 El Estado deberá garantizar y fomentar, a través de todas las autoridades competentes, que todas las personas tengan acceso efectivo al consumo informado de Maíz Nativo y en Diversificación Constante, así como de sus productos derivados, en condiciones libres de OGM's.
 
 ## Capítulo III — Del Consejo Nacional del Maíz Nativo
+
 
 ### Artículo 5
 . El CONAM es un órgano de consulta del Poder Ejecutivo Federal para brindar su opinión en materia de protección al Maíz Nativo y en Diversificación Constante.
@@ -118,6 +124,7 @@ V. Impulsar la investigación y difusión del conocimiento de los maíces nativo
 
 ## Capítulo IV — De la conservación de las formas tradicionales de producción del Maíz Nativo
 
+
 ### Artículo 11
 . El Estado garantizará la Conservación In Situ de Semillas de Maíz Nativo y en Diversificación Constante.
 
@@ -130,10 +137,10 @@ Las secretarías que se refieren en el párrafo anterior establecerán las medid
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal tendrá un término de noventa días naturales posteriores a la entrada en vigor de esta Ley, para emitir las disposiciones administrativas de carácter general necesarias para la integración y operatividad del CONAM.
-**Tercero.** El CONAM deberá instalarse dentro de los treinta días naturales posteriores al nombramiento de sus integrantes.
-**Cuarto.** La SADER, a través del Sistema Nacional de Inspección y Certificación de Semillas, revisará y, en su caso, modificará los programas de semillas existentes para que se ajusten al objeto de esta Ley de conformidad con las facultades previstas en la Ley Federal de Producción, Certificación y Comercio de Semillas.
-**Quinto.** El Congreso de la Unión, en un plazo que no exceda de trescientos sesenta y cinco días naturales posteriores a la publicación del presente Decreto, deberá publicar las reformas legales que resulten necesarias para dar cumplimiento al objeto de esta Ley.
-**Sexto.** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal tendrá un término de noventa días naturales posteriores a la entrada en vigor de esta Ley, para emitir las disposiciones administrativas de carácter general necesarias para la integración y operatividad del CONAM.
+**Tercero.-** El CONAM deberá instalarse dentro de los treinta días naturales posteriores al nombramiento de sus integrantes.
+**Cuarto.-** La SADER, a través del Sistema Nacional de Inspección y Certificación de Semillas, revisará y, en su caso, modificará los programas de semillas existentes para que se ajusten al objeto de esta Ley de conformidad con las facultades previstas en la Ley Federal de Producción, Certificación y Comercio de Semillas.
+**Quinto.-** El Congreso de la Unión, en un plazo que no exceda de trescientos sesenta y cinco días naturales posteriores a la publicación del presente Decreto, deberá publicar las reformas legales que resulten necesarias para dar cumplimiento al objeto de esta Ley.
+**Sexto.-** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 24 de marzo de 2020.- Dip. Laura Angelica Rojas Hernandez, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Julieta Macias Rabago, Secretaria, Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

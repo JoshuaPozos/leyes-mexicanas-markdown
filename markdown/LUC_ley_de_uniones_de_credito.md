@@ -32,7 +32,8 @@ III. Grupo empresarial, al conjunto de personas morales organizadas bajo esquema
 
 IV. Grupo de personas, a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas:
 
-a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, los cónyuges, la concubina y el concubinario, y Inciso reformado DOF 10-01-2014
+a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, los cónyuges, la concubina y el concubinario, y
+Inciso reformado DOF 10-01-2014
 
 b) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.
 
@@ -196,7 +197,8 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 22
 .- Las uniones se abstendrán, en su caso, de efectuar la inscripción en el registro a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de acciones que se efectúen en contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, y deberán informar a la Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital social de una unión, se realicen en contravención a lo dispuesto por los artículos 21 y 23 de esta Ley, los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de la unión quedarán en suspenso y por lo tanto no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda o que se han satisfecho los requisitos que esta ley contempla.
-Párrafo reformado DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo
+Párrafo reformado DOF 10-01-2014
+Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 23
 .- La adquisición, mediante una o varias operaciones simultáneas, de acciones representativas del capital social de una unión, por parte de una persona o grupo de personas, estará sujeta a los requisitos siguientes:
@@ -212,8 +214,10 @@ Para efectos de lo previsto en esta fracción, la Comisión deberá tomar en cue
 Fracción reformada DOF 10-01-2014
 
 IV. Cuando varias personas que no sean consideradas como un grupo de personas, pretendan adquirir en su conjunto, mediante operaciones simultáneas, el control o más del treinta por ciento del capital social de una unión, se requerirá autorización previa de la Comisión, la que podrá otorgar discrecionalmente, para lo cual deberán acompañar a su solicitud la información y documentación a que se refiere el artículo 17, fracción II, de esta Ley.
-Fracción reformada DOF 10-01-2014 La Comisión podrá autorizar de manera temporal, que una persona física o moral mantenga la participación en el capital social de una unión en porcentajes mayores a los señalados en la fracción III de este artículo, en caso de que se encuentre en riesgo la estabilidad y solvencia de la unión, y a fin de restablecer el capital neto de la propia unión a que se refiere el artículo 48 de esta Ley, en su caso, dar cumplimiento al plan de restauración de capital señalado en el artículo 80, fracción I, inciso b), de la presente Ley. La Comisión determinará mediante disposiciones de carácter general los casos en los que procederá dicha concentración de capital, así como los requisitos mínimos que deberán cumplir las uniones, a fin de que el accionista pueda obtener la autorización correspondiente.
-Párrafo adicionado DOF 10-01-2014 CAPITULO III De la administración de las uniones de crédito
+Fracción reformada DOF 10-01-2014
+La Comisión podrá autorizar de manera temporal, que una persona física o moral mantenga la participación en el capital social de una unión en porcentajes mayores a los señalados en la fracción III de este artículo, en caso de que se encuentre en riesgo la estabilidad y solvencia de la unión, y a fin de restablecer el capital neto de la propia unión a que se refiere el artículo 48 de esta Ley, en su caso, dar cumplimiento al plan de restauración de capital señalado en el artículo 80, fracción I, inciso b), de la presente Ley. La Comisión determinará mediante disposiciones de carácter general los casos en los que procederá dicha concentración de capital, así como los requisitos mínimos que deberán cumplir las uniones, a fin de que el accionista pueda obtener la autorización correspondiente.
+Párrafo adicionado DOF 10-01-2014
+CAPITULO III De la administración de las uniones de crédito
 
 ### Artículo 24
 .- La administración de las uniones estará encomendada a un consejo de administración y a un director general, en sus respectivas esferas de competencia.
@@ -224,7 +228,8 @@ Cada accionista o grupo de accionistas que representen por lo menos un diez por 
 
 ### Artículo 26
 .- Los nombramientos de consejeros de las uniones deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia empresarial, financiera, legal o administrativa.
-Párrafo reformado DOF 10-01-2014 La mayoría de los consejeros deberán ser residentes en el territorio nacional.
+Párrafo reformado DOF 10-01-2014
+La mayoría de los consejeros deberán ser residentes en el territorio nacional.
 En ningún caso podrán ser consejeros:
 
 I. Los directivos y empleados de la unión, con excepción del director general;
@@ -329,7 +334,8 @@ La sociedad escindente presentará a la Comisión el proyecto de acta que conten
 La autorización a que se refiere este artículo, los acuerdos de la asamblea de accionistas relativos a la escisión y la escritura constitutiva de la escindida, se inscribirán en el Registro Público de Comercio. A partir de la fecha en que se inscriban surtirá efectos la escisión.
 Una vez hecha la inscripción anterior, los acuerdos de escisión adoptados por la asamblea de accionistas de la sociedad escindente se publicarán en el Diario Oficial de la Federación.
 Durante los noventa días naturales siguientes a partir de la fecha de publicación a que se refiere el párrafo anterior, los acreedores de la sociedad escindente podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la escisión.
-Párrafo reformado DOF 10-01-2014 La sociedad escindida no se entenderá autorizada para organizarse y operar como unión, y la sociedad escindente que subsista conservará la autorización que se le haya otorgado para tales efectos.
+Párrafo reformado DOF 10-01-2014
+La sociedad escindida no se entenderá autorizada para organizarse y operar como unión, y la sociedad escindente que subsista conservará la autorización que se le haya otorgado para tales efectos.
 Con motivo de la escisión, a la sociedad escindida sólo se le transmitirán operaciones activas, pasivas, fidecomisos y comisiones de la unión escindente, en los casos en que lo autorice la Comisión, cuando considere que no se afectan adversamente los intereses de los socios de las uniones en las operaciones respectivas y no exista oposición de acreedores. Los fideicomisos o comisiones sólo podrán transmitirse cuando el causahabiente final sea una entidad financiera autorizada para llevar a cabo este tipo de operaciones.
 En el evento de que la escisión produzca la extinción de la unión escindente, la autorización otorgada para organizarse y operar como tal quedará sin efectos, sin que resulte necesario la emisión de una declaratoria expresa al respecto.
 TITULO TERCERO De las operaciones CAPITULO I Disposiciones generales
@@ -341,7 +347,8 @@ TITULO TERCERO De las operaciones CAPITULO I Disposiciones generales
 .- Las uniones, en los términos de su autorización y dependiendo del nivel de operaciones que les corresponda, sólo podrán realizar las siguientes operaciones:
 
 I. Recibir préstamos y créditos exclusivamente de sus socios, de fondos privados de financiamiento e inversión, de entidades financieras, de sociedades cuya actividad preponderante sea el otorgamiento de crédito, de organismos descentralizados de los gobiernos federal, estatales, municipales y del Distrito Federal, o de entidades financieras del exterior, así como de sus proveedores.
-Párrafo reformado DOF 10-01-2014 Las operaciones a que se refiere esta fracción que se garanticen con hipoteca de propiedades de las uniones, deberán acordarse previamente en asamblea general extraordinaria de accionistas por votación que represente por lo menos el sesenta y seis por ciento de su capital pagado, salvo que en sus estatutos tengan establecido un porcentaje más elevado;
+Párrafo reformado DOF 10-01-2014
+Las operaciones a que se refiere esta fracción que se garanticen con hipoteca de propiedades de las uniones, deberán acordarse previamente en asamblea general extraordinaria de accionistas por votación que represente por lo menos el sesenta y seis por ciento de su capital pagado, salvo que en sus estatutos tengan establecido un porcentaje más elevado;
 
 II. Recibir financiamientos de fondos aportados a fideicomisos constituidos por los gobiernos federal, estatales y del Distrito Federal, de conformidad con lo establecido en las reglas de operación que los mismos establezcan;
 
@@ -402,7 +409,8 @@ XXVIII. Las demás operaciones análogas y conexas que, mediante disposiciones d
 Las operaciones señaladas en las fracciones XXIII a XXV de este artículo que realicen las uniones con terceros, en ningún caso constituirán su actividad preponderante, debiendo en todo caso realizarse tales operaciones a través del departamento especial a que se refiere el artículo 31 de esta Ley.
 Las operaciones a que se refieren las fracciones XXI a XXVII de este artículo, se efectuarán por medio de departamento especial.
 Las uniones con niveles de operación II y III podrán otorgar créditos a otras uniones.
-Párrafo reformado DOF 10-01-2014 Las operaciones de factoraje financiero y arrendamiento financiero, únicamente podrán llevarse a cabo por uniones que se ubiquen en los niveles de operaciones II y III. La encomienda fiduciaria en fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubiquen en el nivel de operaciones III.
+Párrafo reformado DOF 10-01-2014
+Las operaciones de factoraje financiero y arrendamiento financiero, únicamente podrán llevarse a cabo por uniones que se ubiquen en los niveles de operaciones II y III. La encomienda fiduciaria en fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubiquen en el nivel de operaciones III.
 
 ### Artículo 41
 .- Las uniones podrán, previa autorización de la Comisión, celebrar operaciones de compra y venta de divisas exclusivamente con sus socios.
@@ -443,7 +451,8 @@ Artículo adicionado DOF 10-01-2014
 El titular de las operaciones a que se refiere la fracción I del artículo 40 de esta Ley, deberá designar beneficiarios y podrá en cualquier tiempo sustituirlos, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.
 En caso de fallecimiento del titular, la unión entregará el importe correspondiente a quienes el propio titular hubiese designado como beneficiarios, expresamente y por escrito, en la proporción estipulada para cada uno de ellos.
 Si no se hubiesen designado beneficiarios, el importe deberá entregarse en los términos previstos en la legislación común.
-Artículo reformado DOF 10-01-2014 CAPITULO II Regulación prudencial
+Artículo reformado DOF 10-01-2014
+CAPITULO II Regulación prudencial
 
 ### Artículo 46
 .- La Comisión emitirá lineamientos mínimos de regulación prudencial a los que deberán sujetarse las uniones, en temas tales como procesos crediticios, calificación de cartera crediticia, coeficientes de liquidez, administración integral de riesgos, controles internos y aquellos otros que juzgue convenientes para proveer la solvencia financiera y la adecuada operación de las uniones.
@@ -465,13 +474,15 @@ b) El pago del financiamiento que les fue otorgado, no dependa de la situación 
 Párrafo con incisos adicionado DOF 10-01-2014
 
 III. El monto total de créditos que en su conjunto puede otorgar una unión a otras uniones no podrá exceder del equivalente al cincuenta por ciento del capital neto de la unión otorgante.
-Fracción adicionada DOF 10-01-2014 La Comisión, a solicitud de la unión podrá autorizar operaciones específicas por montos que excedan los límites máximos, cuando las características de las mismas así lo justifiquen.
+Fracción adicionada DOF 10-01-2014
+La Comisión, a solicitud de la unión podrá autorizar operaciones específicas por montos que excedan los límites máximos, cuando las características de las mismas así lo justifiquen.
 
 ### Artículo 48
 .- Las uniones deberán mantener un capital neto en relación con los riesgos de mercado, de crédito y otros en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital por cada tipo de riesgo, en términos de las disposiciones de carácter general que establezca la Comisión con aprobación de su Junta de Gobierno.
 El capital neto, en su parte básica y complementaria, se determinará conforme a lo que establezca la propia Comisión en las mencionadas disposiciones que procuren salvaguardar la solvencia y estabilidad financiera de las uniones.
 El capital neto en ningún momento deberá ser inferior al capital mínimo pagado que le resulte aplicable conforme a lo establecido en el artículo 18.
-Párrafo adicionado DOF 10-01-2014 La Comisión, en las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, establecerá el procedimiento para el cálculo del índice de capitalización aplicable a las uniones.
+Párrafo adicionado DOF 10-01-2014
+La Comisión, en las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, establecerá el procedimiento para el cálculo del índice de capitalización aplicable a las uniones.
 Cuando la Comisión con motivo de su función de supervisión, requiera a las uniones realizar ajustes a los registros contables relativos a sus operaciones activas y pasivas que, a su vez, puedan derivar en modificaciones a su índice de capitalización, la Comisión deberá llevar a cabo las acciones necesarias para que se realice el cálculo de dicho índice de conformidad con lo previsto en este artículo y en las disposiciones aplicables, en cuyo caso escuchará previamente a la unión afectada.
 El índice de capitalización que, en términos del presente artículo, resulte de los ajustes requeridos por la Comisión será el utilizado para todos los efectos legales conducentes.
 
@@ -486,7 +497,8 @@ III. El importe total de las inversiones en plantas industriales, sociedades com
 Cuando tengan saldos insolutos provenientes de créditos destinados a la adquisición de plantas industriales, sociedades comerciales o de servicios, o empresas propietarias de dichas plantas, las uniones no podrán acordar devoluciones de capital con derecho a retiro.
 
 IV. El importe total del valor de los activos en operaciones de arrendamiento puro a las que se refiere la fracción XXV del artículo 40, no podrá exceder del cien por ciento del capital contable de la unión.
-Fracción adicionada DOF 10-01-2014 Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del artículo 103 de esta Ley.
+Fracción adicionada DOF 10-01-2014
+Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del artículo 103 de esta Ley.
 CAPITULO III Reglas especiales
 
 ### Artículo 50
@@ -572,7 +584,8 @@ Salvo pacto en contrario, la resolución de controversias relacionadas con las c
 
 ### Artículo 61
 .- Las uniones requerirán del acuerdo de, por lo menos, tres cuartas partes de los consejeros que estén presentes en las sesiones del consejo de administración, para aprobar la celebración de operaciones con personas relacionadas.
-Párrafo adicionado DOF 10-01-2014 Serán operaciones con personas relacionadas, las celebradas por las uniones, en las que resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
+Párrafo adicionado DOF 10-01-2014
+Serán operaciones con personas relacionadas, las celebradas por las uniones, en las que resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
 I. Los miembros del consejo de administración de la unión, el director general de la misma y los funcionarios de la jerarquía inmediata inferior a éste;
 
@@ -582,7 +595,8 @@ III. Las personas morales, así como los consejeros y directivos de éstas, en l
 
 IV. Las personas morales en las que cualesquiera de las personas señaladas en las fracciones anteriores, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
 Los consejeros y funcionarios se excusarán de participar en las discusiones y se abstendrán de votar en los casos en que tengan un interés directo.
-Párrafo adicionado DOF 10-01-2014 En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con los demás socios de la unión.
+Párrafo adicionado DOF 10-01-2014
+En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con los demás socios de la unión.
 Párrafo adicionado DOF 10-01-2014
 
 ### Artículo 62
@@ -696,8 +710,10 @@ II. Como resultado de su actuación en coordinación con otras entidades, person
 
 III. Directamente de otras autoridades.
 Párrafo con fracciones reformado DOF 10-01-2014 A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
-Párrafo reformado DOF 10-01-2014 Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
-Párrafo adicionado DOF 10-01-2014 TITULO QUINTO De las facultades de las autoridades CAPITULO I Medidas correctivas
+Párrafo reformado DOF 10-01-2014
+Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
+Párrafo adicionado DOF 10-01-2014
+TITULO QUINTO De las facultades de las autoridades CAPITULO I Medidas correctivas
 
 ### Artículo 79
 .- Las medidas correctivas deberán tener por objeto prevenir y, en su caso, corregir los problemas que las uniones presenten, derivados de las operaciones que realicen y que puedan afectar su estabilidad financiera o solvencia.
@@ -737,10 +753,12 @@ Lo previsto en el presente inciso también será aplicable respecto de pagos que
 c) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia unión a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 93 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la unión;
 Inciso reformado DOF 10-01-2014
 
-d) Cuando a juicio de la Comisión, la administración de la sociedad no presente la situación financiera integral de la unión a la asamblea general de accionistas o cuando se presenten situaciones irregulares que pongan en riesgo el patrimonio de la sociedad, la propia Comisión podrá solicitar al comisario de la misma la convocatoria a asambleas ordinarias y extraordinarias de accionistas para que informe de la situación determinada o de las medidas correctivas ordenadas, y Inciso reformado DOF 10-01-2014
+d) Cuando a juicio de la Comisión, la administración de la sociedad no presente la situación financiera integral de la unión a la asamblea general de accionistas o cuando se presenten situaciones irregulares que pongan en riesgo el patrimonio de la sociedad, la propia Comisión podrá solicitar al comisario de la misma la convocatoria a asambleas ordinarias y extraordinarias de accionistas para que informe de la situación determinada o de las medidas correctivas ordenadas, y
+Inciso reformado DOF 10-01-2014
 
 e) Las demás que determine la Comisión, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas financieras.
-Inciso adicionado DOF 10-01-2014 Para la aplicación de las medidas correctivas especiales adicionales, la Comisión podrá considerar, entre otros elementos, la situación financiera integral de la unión, el cumplimiento al marco regulatorio, la tendencia de su índice de capitalización y de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información.
+Inciso adicionado DOF 10-01-2014
+Para la aplicación de las medidas correctivas especiales adicionales, la Comisión podrá considerar, entre otros elementos, la situación financiera integral de la unión, el cumplimiento al marco regulatorio, la tendencia de su índice de capitalización y de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información.
 
 ### Artículo 81
 .- Cuando a juicio de la Comisión existan irregularidades en las uniones, que afecten su estabilidad o solvencia y pongan en peligro los intereses de los socios o acreedores, el Presidente de dicho órgano podrá proponer a la Junta de Gobierno, la declaración de intervención con carácter de gerencia de la unión de que se trate y designar a la persona física que se haga cargo de la unión con el carácter de interventor-gerente.
@@ -784,9 +802,11 @@ La Comisión, de oficio o a solicitud de la Comisión Nacional para Protección 
 
 ### Artículo 93
 .- La Comisión, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar que se proceda a la remoción de los miembros del consejo de administración, directores o gerentes y comisarios, delegados fiduciarios y funcionarios que puedan obligar con su firma a la unión, así como suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven.
-Párrafo reformado DOF 10-01-2014 En los dos últimos supuestos, la propia Comisión podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la unión.
+Párrafo reformado DOF 10-01-2014
+En los dos últimos supuestos, la propia Comisión podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la unión.
 La propia Comisión podrá, también con el acuerdo de su Junta de Gobierno, ordenar la remoción de los auditores externos independientes de las uniones, así como suspender o inhabilitar a dichas personas por el período señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o las disposiciones de carácter general que de la misma emanen, o bien, proporcionen dictámenes u opiniones que contengan información falsa, con independencia de las sanciones a que pudieran hacerse acreedores.
-Párrafo reformado DOF 10-01-2014 Para los efectos de este artículo se entenderá por:
+Párrafo reformado DOF 10-01-2014
+Para los efectos de este artículo se entenderá por:
 
 a) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la unión en el momento en que se haya cometido o se detecte la infracción; pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión.
 
@@ -1081,11 +1101,15 @@ Los procedimientos de inspección, suspensión de operaciones y clausura a que s
 
 ### Artículo 108
 .- En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el plazo del desahogo de la garantía de audiencia. En el caso de la confesional a cargo de autoridades, esta deberá ser desahogada por escrito.
-Párrafo reformado DOF 10-01-2014 Una vez desahogado el derecho de audiencia a que se refiere el artículo 110 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 117, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
-Párrafo reformado DOF 10-01-2014 Concluido el plazo a que se refiere la fracción I del artículo 110, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
+Párrafo reformado DOF 10-01-2014
+Una vez desahogado el derecho de audiencia a que se refiere el artículo 110 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, previsto en el artículo 117, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
+Párrafo reformado DOF 10-01-2014
+Concluido el plazo a que se refiere la fracción I del artículo 110, y en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
 Transcurrido el plazo para el desahogo de las pruebas, la Comisión notificará a la presunta infractora la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin a los procedimientos administrativos de sanción a que se refiere la presente Ley.
-Párrafo adicionado DOF 24-01-2024 La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin a los procedimientos administrativos de sanción a que se refiere la presente Ley.
+Párrafo adicionado DOF 24-01-2024
+La Comisión podrá allegarse de los medios de prueba que considere necesarios, así como acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho. La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
 Párrafo reformado DOF 14-11-2025
 
 ### Artículo 109
@@ -1101,7 +1125,8 @@ En caso de que el infractor pague las multas impuestas por la mencionada Comisi�
 I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen;
 Fracción reformada DOF 10-01-2014, 24-01-2024
 
-II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior, dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente, y Fracción reformada DOF 10-01-2014
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior, dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente, y
+Fracción reformada DOF 10-01-2014
 
 III. Se tomará en cuenta, en su caso, lo siguiente:
 Párrafo reformado DOF 10-01-2014
@@ -1115,7 +1140,8 @@ Párrafo adicionado DOF 10-01-2014
 
 c) La cuantía de la operación;
 
-d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y Inciso reformado DOF 10-01-2014
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
+Inciso reformado DOF 10-01-2014
 
 e) La naturaleza de la infracción cometida.
 Inciso reformado DOF 10-01-2014
@@ -1212,7 +1238,8 @@ No se podrán revocar o modificar los actos administrativos en la parte no impug
 El encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el presidente de la Comisión, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta de Gobierno.
 La Comisión deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
-CAPITULO II Bis De los programas de autocorrección Capítulo adicionado DOF 10-01-2014
+CAPITULO II Bis De los programas de autocorrección
+Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 119
 Bis.- Las uniones por conducto de su director general y, con la opinión del comité de auditoría, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la unión de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
@@ -1243,7 +1270,8 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 119
 Bis 3.- Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 119 Bis a 119 Bis 2 de esta Ley, según resulte aplicable.
-Artículo adicionado DOF 10-01-2014 CAPITULO III De los delitos
+Artículo adicionado DOF 10-01-2014
+CAPITULO III De los delitos
 
 ### Artículo 120
 .- En los casos previstos en los artículos 121 a 128 de esta Ley, se procederá indistintamente a petición de la Secretaría, previa opinión de la Comisión; o bien a petición de la unión de que se trate, o de quien tenga interés jurídico.
@@ -1319,23 +1347,35 @@ Igual sanción se impondrá al servidor público de la Comisión, que por sí o 
 ### Artículo 129
 .- Las uniones en términos de las disposiciones de carácter general que emita la Secretaría, escuchando la previa opinión de la Comisión, estarán obligadas a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 10-01-2014
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+Fracción reformada DOF 10-01-2014
 
 II. Presentar a la Secretaría, a través de la Comisión, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus socios y terceros, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administradores, directores generales y demás directivos, funcionarios, empleados y apoderados.
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan como relevantes, internas preocupantes e inusuales y operaciones en efectivo realizadas en moneda extranjera.
-Párrafo reformado DOF 10-01-2014 Asimismo, la Secretaría en las disposiciones de carácter general a que se refiere el presente artículo, también establecerá los lineamientos sobre el procedimiento y criterios que las uniones deberán observar respecto de:
-Párrafo reformado DOF 10-01-2014 i. El adecuado conocimiento de sus socios y terceros con los que realicen operaciones, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen; ii. La información y documentación que dichas uniones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus socios y terceros antes citados; iii. La forma en que las mismas uniones deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus socios o quienes lo hayan sido y terceros mencionados, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo;
-Inciso reformado DOF 10-01-2014 iv. Los términos para proporcionar capacitación al interior de las uniones sobre la materia objeto del presente artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento;
-Inciso reformado DOF 10-01-2014 v. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo, y Inciso adicionado DOF 10-01-2014 vi. El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada unión de crédito.
-Inciso adicionado DOF 10-01-2014 Las uniones deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción iii, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+Párrafo reformado DOF 10-01-2014
+Asimismo, la Secretaría en las disposiciones de carácter general a que se refiere el presente artículo, también establecerá los lineamientos sobre el procedimiento y criterios que las uniones deberán observar respecto de:
+Párrafo reformado DOF 10-01-2014
+i. El adecuado conocimiento de sus socios y terceros con los que realicen operaciones, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen; ii. La información y documentación que dichas uniones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus socios y terceros antes citados; iii. La forma en que las mismas uniones deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus socios o quienes lo hayan sido y terceros mencionados, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo;
+Inciso reformado DOF 10-01-2014
+iv. Los términos para proporcionar capacitación al interior de las uniones sobre la materia objeto del presente artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento;
+Inciso reformado DOF 10-01-2014
+v. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo, y
+Inciso adicionado DOF 10-01-2014
+vi. El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada unión de crédito.
+Inciso adicionado DOF 10-01-2014
+Las uniones deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción iii, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 La Secretaría estará facultada para requerir y recabar, a través de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II del presente artículo. Las uniones estarán obligadas a proporcionar dicha información y documentación. La Secretaría estará facultada para obtener información adicional de otras fuentes con el mismo fin y a proporcionar información a las autoridades competentes.
 El cumplimiento de las obligaciones señaladas en el presente artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual.
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las uniones, así como por los miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 Las uniones deberán suspender de forma inmediata la realización de actos, operaciones o servicios con los clientes o usuarios que la Secretaría de Hacienda y Crédito Público les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en los artículos referidos en la fracción I de este artículo.
-Párrafo adicionado DOF 10-01-2014 La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
-Párrafo adicionado DOF 10-01-2014 La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
-Párrafo adicionado DOF 10-01-2014 La violación a las disposiciones a que se refiere el presente artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes y operaciones en efectivo realizadas en moneda extranjera, no reportadas, así como los incumplimientos a cualquiera de los incisos i., ii., iii. o v. de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanan multa de 2,000 y hasta 30,000 días de salario mínimo general vigente en el Distrito Federal.
-Párrafo reformado DOF 10-01-2014 Los servidores públicos de la Secretaría y de la Comisión, las uniones, sus miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+Párrafo adicionado DOF 10-01-2014
+La obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaria de Hacienda y Crédito Público elimine de la lista de personas bloqueadas al cliente o usuario en cuestión.
+Párrafo adicionado DOF 10-01-2014
+La Secretaría de Hacienda y Crédito Público establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.
+Párrafo adicionado DOF 10-01-2014
+La violación a las disposiciones a que se refiere el presente artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes y operaciones en efectivo realizadas en moneda extranjera, no reportadas, así como los incumplimientos a cualquiera de los incisos i., ii., iii. o v. de este artículo, se sancionará con multa de 10,000 a 100,000 días de salario mínimo general vigente en el Distrito Federal y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanan multa de 2,000 y hasta 30,000 días de salario mínimo general vigente en el Distrito Federal.
+Párrafo reformado DOF 10-01-2014
+Los servidores públicos de la Secretaría y de la Comisión, las uniones, sus miembros del consejo de administración, administradores, directores generales y demás directivos, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ### Artículo 130
 .- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la unión ofendida, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la unión o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el Artículo 131.- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el artículo 93 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido o inhabilitado para ello.
@@ -1344,6 +1384,7 @@ Párrafo reformado DOF 10-01-2014 Los servidores públicos de la Secretaría y d
 .- Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
 
 ## Capítulo IV — De las notificaciones
+
 
 ### Artículo 133
 .- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere la presente Ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:
@@ -1457,9 +1498,9 @@ Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 UNIONES 
 
 ### ARTÍCULO NOVENO
 Se REFORMAN el inciso a) de la fracción IV del artículo 3o; el artículo 20; el artículo 21; el tercer párrafo del artículo 22; las fracciones I a IV del artículo 23; el primer párrafo del artículo 26; el artículo 30; el quinto párrafo del artículo 38; las fracciones I, VII y XXV y el cuarto párrafo del artículo 40; el artículo 45; el segundo y tercer párrafos del artículo 78; los incisos c) y d) de la fracción II del primer párrafo del artículo 80; el primero y tercer párrafos del artículo 93; la fracción III y el segundo párrafo del artículo 97; el artículo 99; la fracción I del artículo 103; las fracciones I, inciso e) y III, inciso a) del primer párrafo y segundo párrafo del artículo 104; fracción I del artículo 105; el primero y segundo párrafos del artículo 108; las fracciones I, II, y III, incisos a), d) y e) del artículo 110; el artículo 112; el
-**segundo.** párrafo del artículo 113; el artículo 114; el artículo 116; la fracción I, el párrafo segundo, el encabezado y los incisos iii. y iv. del párrafo tercero y el párrafo octavo del artículo 129; se ADICIONAN un segundo párrafo al artículo 23; el artículo 44 bis; un tercer párrafo con sus incisos a. y b. a la fracción II y la fracción III del artículo 47; un tercer párrafo, pasando los actuales párrafos tercero, cuarto y quinto, a ser los párrafos cuarto, quinto y sexto del artículo 48; una fracción IV al artículo 49; un párrafo primero, pasando el actual primero a ser segundo, y los párrafos tercero y cuarto, al artículo 61; los párrafos
-**primero.** a quinto, pasando los actuales párrafos primero a tercero, a ser los párrafos sexto, séptimo y
-**octavo.** al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del artículo 80; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción I, del artículo 104; un segundo párrafo al artículo 106; un segundo párrafo al inciso b) de la fracción III, y una fracción IV con sus incisos a) al f) al artículo 110; un Capítulo II Bis “De los programas de autocorrección” al Título Sexto que comprenderá de los artículos 119 Bis a 119 Bis 3; los numerales v y vi al tercer párrafo, los párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo y noveno a ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del artículo 18 y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
+**segundo.-** párrafo del artículo 113; el artículo 114; el artículo 116; la fracción I, el párrafo segundo, el encabezado y los incisos iii. y iv. del párrafo tercero y el párrafo octavo del artículo 129; se ADICIONAN un segundo párrafo al artículo 23; el artículo 44 bis; un tercer párrafo con sus incisos a. y b. a la fracción II y la fracción III del artículo 47; un tercer párrafo, pasando los actuales párrafos tercero, cuarto y quinto, a ser los párrafos cuarto, quinto y sexto del artículo 48; una fracción IV al artículo 49; un párrafo primero, pasando el actual primero a ser segundo, y los párrafos tercero y cuarto, al artículo 61; los párrafos
+**primero.-** a quinto, pasando los actuales párrafos primero a tercero, a ser los párrafos sexto, séptimo y
+**octavo.-** al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del artículo 80; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción I, del artículo 104; un segundo párrafo al artículo 106; un segundo párrafo al inciso b) de la fracción III, y una fracción IV con sus incisos a) al f) al artículo 110; un Capítulo II Bis “De los programas de autocorrección” al Título Sexto que comprenderá de los artículos 119 Bis a 119 Bis 3; los numerales v y vi al tercer párrafo, los párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo y noveno a ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del artículo 18 y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO DÉCIMO
 En relación con las modificaciones a que se refieren el Artículo Noveno de este Decreto, se estará a lo siguiente:
@@ -1473,7 +1514,7 @@ En los procedimientos administrativos que se encuentren en trámite, el interesa
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo.
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
@@ -1498,12 +1539,12 @@ Se reforma el quinto párrafo del artículo 108 de la Ley de Uniones de Crédito
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

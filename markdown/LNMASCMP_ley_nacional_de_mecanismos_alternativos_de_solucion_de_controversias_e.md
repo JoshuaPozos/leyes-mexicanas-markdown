@@ -16,7 +16,9 @@ LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA
 
 ## TÍTULO PRIMERO — DE LAS GENERALIDADES
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 1
 . Objeto general Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el territorio nacional y tienen por objeto establecer los principios, bases, requisitos y condiciones de los mecanismos alternativos de solución de controversias en materia penal que conduzcan a las Soluciones Alternas previstas en la legislación procedimental penal aplicable.
@@ -83,7 +85,9 @@ VII. Honestidad: Los Intervinientes y el Facilitador deberán conducir su partic
 
 ## TÍTULO SEGUNDO — DE LOS MECANISMOS ALTERNATIVOS
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 7
 . Derechos de los Intervinientes Los Intervinientes en los Mecanismos Alternativos tendrán los derechos siguientes:
@@ -175,7 +179,8 @@ El Facilitador podrá indagar con los Intervinientes, la interpretación que ell
 . De las sesiones de Mecanismos Alternativos Las sesiones de Mecanismos Alternativos se realizarán únicamente con la presencia de los Intervinientes y, en su caso, de auxiliares y expertos, a petición de las partes. Los Intervinientes podrán recibir orientación jurídica. Para tal efecto, cuando ambos Intervinientes cuenten con abogado, éstos podrán presenciar las sesiones, sin embargo, no podrán intervenir durante las mismas.
 En caso de que se suscite alguna duda de índole jurídica que no pueda ser resuelta por los auxiliares y expertos invocados por el Facilitador, cualquiera de los Intervinientes podrá solicitar la suspensión de la sesión a fin de que pueda consultar con su abogado, si lo tuviere.
 Cuando los intervinientes sean personas pertenecientes a pueblos y comunidades indígenas y afromexicanas o personas que no entiendan el idioma español, deberán ser asistidos durante las sesiones por un intérprete de conformidad con la legislación procedimental penal aplicable.
-Párrafo reformado DOF 01-04-2024 Al inicio de la sesión del Mecanismo Alternativo, el Facilitador hará saber a los Intervinientes las características del mecanismo, las reglas a observar, así como sus derechos y obligaciones. Se explicará que el mecanismo es confidencial en los términos que establece la fracción III del artículo 4 de esta Ley.
+Párrafo reformado DOF 01-04-2024
+Al inicio de la sesión del Mecanismo Alternativo, el Facilitador hará saber a los Intervinientes las características del mecanismo, las reglas a observar, así como sus derechos y obligaciones. Se explicará que el mecanismo es confidencial en los términos que establece la fracción III del artículo 4 de esta Ley.
 Se hará saber a los Intervinientes los alcances y efectos legales de los Acuerdos que en su caso lleguen a concretarse.
 El Mecanismo Alternativo se dará por concluido si alguno de los Intervinientes revela información confidencial, sin perjuicio de las responsabilidades en que se incurra por tal conducta.
 
@@ -184,6 +189,7 @@ El Mecanismo Alternativo se dará por concluido si alguno de los Intervinientes 
 En los casos en los que al imputado se le haya impuesto la medida cautelar de prisión preventiva, o alguna otra que implique privación de su libertad, se estará a lo dispuesto en el artículo 161 del Código Nacional de Procedimientos Penales, a fin de que se modifique la medida cautelar y esté en posibilidad de participar en el Mecanismo Alternativo.
 
 ## CAPÍTULO II — DE LA MEDIACIÓN
+
 
 ### Artículo 21
 . Concepto Es el mecanismo voluntario mediante el cual los Intervinientes, en libre ejercicio de su autonomía, buscan, construyen y proponen opciones de solución a la controversia, con el fin de alcanzar la solución de ésta. El Facilitador durante la mediación propicia la comunicación y el entendimiento mutuo entre los Intervinientes.
@@ -201,6 +207,7 @@ En el caso de que los Intervinientes logren alcanzar un Acuerdo que consideren i
 
 ## CAPÍTULO III — DE LA CONCILIACIÓN
 
+
 ### Artículo 25
 . Concepto Es el mecanismo voluntario mediante el cual los Intervinientes, en libre ejercicio de su autonomía, proponen opciones de solución a la controversia en que se encuentran involucrados.
 Además de propiciar la comunicación entre los Intervinientes, el Facilitador podrá, sobre la base de criterios objetivos, presentar alternativas de solución diversas.
@@ -210,6 +217,7 @@ Además de propiciar la comunicación entre los Intervinientes, el Facilitador p
 El Facilitador podrá proponer la alternativa que considere más viable para la solución de la controversia.
 
 ## CAPÍTULO IV — DE LA JUNTA RESTAURATIVA
+
 
 ### Artículo 27
 . Concepto La junta restaurativa es el mecanismo mediante el cual la víctima u ofendido, el imputado y, en su caso, la comunidad afectada, en libre ejercicio de su autonomía, buscan, construyen y proponen opciones de solución a la controversia, con el objeto de lograr un Acuerdo que atienda las necesidades y responsabilidades individuales y colectivas, así como la reintegración de la víctima u ofendido y del imputado a la comunidad y la recomposición del tejido social.
@@ -234,6 +242,7 @@ III. Un plan de restitución que pueda ser económico o en especie, reparando o 
 
 ## CAPÍTULO V — REGLAS GENERALES DE LOS MECANISMOS ALTERNATIVOS
 
+
 ### Artículo 30
 . Sustitución del Mecanismo Alternativo En el supuesto de que los Intervinientes hubieren participado en alguno de los Mecanismos Alternativos y no se hubiese logrado por este Mecanismo la solución de la controversia, el Facilitador podrá sugerirles que recurran a uno diverso. En caso de que los Intervinientes estuvieren de acuerdo, el Facilitador fijará fecha y hora para iniciar dicho Mecanismo en una sesión posterior.
 
@@ -257,6 +266,7 @@ V. Por incumplimiento del Acuerdo entre los Intervinientes, y
 VI. En los demás casos en que proceda dar por concluido el Mecanismo Alternativo de conformidad con la Ley.
 
 ## CAPÍTULO VI — DE LOS ACUERDOS
+
 
 ### Artículo 33
 . Requisitos de los Acuerdos En caso de que el Mecanismo Alternativo concluya con una solución mutuamente acordada por los Intervinientes, el Facilitador lo hará constar por escrito con la siguiente información:
@@ -287,7 +297,9 @@ El incumplimiento del Acuerdo dará lugar a la continuación del procedimiento p
 
 ## TÍTULO TERCERO — DEL SEGUIMIENTO DE LOS ACUERDOS
 
+
 ## CAPÍTULO ÚNICO — SEGUIMIENTO
+
 
 ### Artículo 36
 . Área de seguimiento El Órgano contará con un área de seguimiento, la cual tendrá la obligación de monitorear e impulsar el cumplimiento de los Acuerdos alcanzados por los Intervinientes en el Mecanismo Alternativo. El seguimiento podrá consistir en:
@@ -320,9 +332,11 @@ TITULO CUARTO DE LAS BASES PARA EL FUNCIONAMIENTO DE LOS MECANISMOS ALTERNATIVOS
 
 ## CAPÍTULO I — DEL ÓRGANO
 
+
 ### Artículo 40
 . Del Órgano La Fiscalía General de la República y las procuradurías o fiscalías estatales deberán contar con órganos especializados en mecanismos alternativos de resolución de controversias. El Poder Judicial Federal y los poderes judiciales estatales podrán contar con dichos órganos.
-Párrafo reformado DOF 20-05-2021 Los Órganos deberán tramitar los Mecanismos Alternativos previstos en esta Ley y ejercitar sus facultades con independencia técnica y de gestión. Asimismo realizarán acciones tendientes al fomento de la cultura de paz.
+Párrafo reformado DOF 20-05-2021
+Los Órganos deberán tramitar los Mecanismos Alternativos previstos en esta Ley y ejercitar sus facultades con independencia técnica y de gestión. Asimismo realizarán acciones tendientes al fomento de la cultura de paz.
 Para cumplir con las finalidades señaladas en el párrafo precedente, el Órgano contará con Facilitadores certificados y demás personal profesional necesario para el ejercicio de sus funciones.
 
 ### Artículo 41
@@ -363,6 +377,7 @@ IV. Las demás que se acuerden para el cumplimiento de lo dispuesto en este art�
 La Conferencia y el Consejo podrán celebrar convenios de colaboración para los efectos del presente artículo.
 
 ## CAPÍTULO II — DE LOS FACILITADORES
+
 
 ### Artículo 48
 . Requisitos para ser Facilitador Los Facilitadores deberán:
@@ -439,14 +454,14 @@ ARTÍCULOS SEGUNDO Y TERCERO. ………
 
 ## TRANSITORIOS
 
-**PRIMERO.** La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
+**PRIMERO.-** La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.
 Decreto entrarán en vigor en las regiones y gradualidad en las que se lleve a cabo la declaratoria a que refiere el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales, serán aplicables para los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
-**SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**TERCERO.** A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
-**CUARTO.** La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**TERCERO.-** A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
+**CUARTO.-** La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de junio de 2016.
 Dentro de los sesenta días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, así como la Secretaría Técnica del Consejo de certificación en sede judicial deberán elaborar el proyecto de criterios mínimos de certificación de Facilitadores. Para la elaboración de los criterios referidos deberán tomar en consideración la opinión de los representantes de las zonas en que estén conformadas la Conferencia y el Consejo. El proyecto deberá ser sometido a consideración del Pleno de la Conferencia o el Consejo en la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.
-**QUINTO.** La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
-**SEXTO.** La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+**QUINTO.-** La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
+**SEXTO.-** La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
 México, D.F., a 2 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
@@ -456,39 +471,39 @@ Se reforma la fracción XIV del artículo 3; el artículo 11; el párrafo primer
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024

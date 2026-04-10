@@ -15,7 +15,9 @@ Se expide la Ley de la Fiscalía General de la República.
 
 ## TÍTULO I — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES PRELIMINARES
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria del Apartado A, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones son de orden público, de interés social y de observancia general en todo el territorio nacional.
@@ -66,7 +68,9 @@ VIII. Policías: Las personas agentes de la Policía Federal Ministerial, así c
 
 ## TÍTULO II — ESTRUCTURA ORGÁNICA
 
+
 ## CAPÍTULO I — FACULTADES DE LA FISCALÍA GENERAL
+
 
 ### Artículo 10
 . Corresponde a la Fiscalía General:
@@ -99,6 +103,7 @@ XIII. Las demás que prevean otras disposiciones jurídicas aplicables.
 La Fiscalía General contará con todas aquellas unidades que le permitan cumplir con sus facultades y obligaciones constitucionales.
 
 ## CAPÍTULO II — ESTRUCTURA DE LA FISCALÍA GENERAL
+
 
 ### Artículo 11
 . La Fiscalía General, para el ejercicio de sus facultades, estará integrada por:
@@ -209,6 +214,7 @@ El Instituto Nacional de Ciencias Penales estará facultado para expedir certifi
 
 ## CAPÍTULO III — DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL
 
+
 ### Artículo 18
 . La estructura de la Fiscalía General estará sujeta a la autoridad jerárquica del Fiscal General, quien ejercerá ésta sobre el personal de las fiscalías, unidades y áreas que la integran y garantizará la independencia y autonomía de las funciones del Ministerio Público.
 El nombramiento de la persona titular de la Fiscalía General se sujetará al procedimiento y requisitos previstos en el artículo 102, Apartado A, de la Constitución en el que se promoverán los principios de transparencia, publicidad, mérito, participación ciudadana, e igualdad y no discriminación.
@@ -231,6 +237,7 @@ I. El Objetivo que se refiere a la calidad profesional relevante, trayectoria en
 II. El Subjetivo que se refiere a la honorabilidad, alta calidad técnica, compromiso con valores democráticos, independencia y reconocimiento social.
 
 ## CAPÍTULO IV — DE LAS FACULTADES Y LAS OBLIGACIONES DE LA PERSONA TITULAR DE LA
+
 FISCALÍA GENERAL
 
 ### Artículo 19
@@ -371,6 +378,7 @@ En los supuestos anteriores, en el caso de registros de investigación estrictam
 
 ## CAPÍTULO V — DE LA SUPLENCIA Y REPRESENTACIÓN
 
+
 ### Artículo 21
 . La persona titular de la Fiscalía General será suplida en sus excusas, ausencias o faltas temporales por la persona titular de la Fiscalía Especializada de Control Competencial, en los términos que disponga el Estatuto orgánico, quien deberá cumplir con los requisitos establecidos para ser persona titular de la Fiscalía General.
 En caso de ausencia definitiva, la titularidad de la Fiscalía General será ocupada temporalmente por la persona titular de la Fiscalía Especializada de Control Competencial, quien deberá notificar al Senado de la República a efectos de que proceda conforme al párrafo tercero del artículo 102, Apartado A, de la Constitución.
@@ -388,6 +396,7 @@ II. La persona servidora pública suplente de la persona titular de la Fiscalía
 
 ## CAPÍTULO VI — REMOCIÓN DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL POR CAUSA GRAVE
 
+
 ### Artículo 24
 . La persona titular de la Fiscalía General sólo podrá ser removida por la persona titular del Ejecutivo Federal por incurrir en alguna de las causas graves contempladas en el Capítulo II del Título Tercero de la Ley General de Responsabilidades Administrativas o por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución y 167 del Código Nacional o por los supuestos siguientes:
 
@@ -404,6 +413,7 @@ Dicha renuncia solamente procederá por la causa grave así calificada por el Se
 
 ## CAPÍTULO VII — UNIDADES ESPECIALIZADAS
 
+
 ### Artículo 25
 . Además de las previstas en el artículo 11 de esta Ley, la persona titular de la Fiscalía General podrá crear unidades encargadas de la investigación de casos, delitos y fenómenos delictivos de orden federal, las que, en su caso, podrán contar con áreas de servicio que brinden apoyo en las tareas que realiza la Fiscalía General, siempre que sus funciones no dupliquen las de otra fiscalía o unidad, de conformidad con lo previsto en el Plan Estratégico de Procuración de Justicia.
 Se entenderá que las unidades a que se refiere el artículo 11 cuentan con autonomía técnica y de gestión en cuanto a su funcionamiento interior, durante la investigación y en todas las etapas del proceso emitirán sus resoluciones de forma independiente y autónoma, pero estarán sujetas en todo momento en su estructura orgánica a la jerarquía institucional y facultades legales y normativas de cada unidad de la Fiscalía General, por lo que deberán sujetarse a todas y cada una de las obligaciones de las personas servidoras públicas de la Fiscalía General sin excepción, incluido el cumplimiento del régimen de control y confianza.
@@ -416,6 +426,7 @@ Se entenderá que las unidades a que se refiere el artículo 11 cuentan con auto
 Las demás disposiciones normativas de carácter general serán obligatorias para todas las personas servidoras públicas de la Fiscalía General, las cuales se publicarán en el medio de difusión oficial interno que establezca el Estatuto orgánico.
 
 ## CAPÍTULO VIII — MODELO DE GESTIÓN
+
 
 ### Artículo 28
 . La Fiscalía General, para el desempeño de sus funciones de operación sustantiva, definirá las políticas de persecución penal que se desarrollarán en las unidades de investigación y litigación, cuya competencia, distribución, dimensiones, recursos y temporalidad se ajustarán a lo que disponga el Estatuto orgánico, y demás ordenamientos normativos, tomando en cuenta los principios reconocidos por la Ley.
@@ -436,6 +447,7 @@ Aún en los casos de no ejercicio de la acción penal o archivo temporal del asu
 
 ## CAPÍTULO IX — EVALUACIÓN DE RESULTADOS
 
+
 ### Artículo 31
 . La Fiscalía General contará con un sistema institucional de evaluación de resultados, el cual deberá integrar los procesos de captura y recopilación de los datos generados por el trámite y seguimiento derivado del ejercicio de las facultades del Ministerio Público, sus auxiliares y las unidades de apoyo, a efecto de coordinar y dirigir la integración, producción, administración, conservación y difusión de la información relacionada con la investigación, judicialización y litigación de los casos y demás procesos institucionales, de conformidad con lo dispuesto en el Estatuto orgánico.
 El sistema institucional de evaluación de resultados deberá generar productos para el análisis de las actividades institucionales, indicadores de desempeño, identificar necesidades institucionales y productos estadísticos, orientados a la formulación, seguimiento, evaluación y replanteamiento del Plan Estratégico de Procuración de Justicia, así como a la toma de decisiones y la mejora continua de la procuración de justicia.
@@ -443,14 +455,17 @@ De igual forma, a través del sistema institucional de evaluación de resultados
 
 ## CAPÍTULO X — ORGANIZACIÓN REGIONAL
 
+
 ### Artículo 32
 . La Fiscalía General contará con un sistema de coordinación regional, por conducto de unidades que ejercerán sus funciones en las circunscripciones territoriales o regiones que se establezcan por necesidades del servicio, tanto para la atención de los asuntos de su competencia, como para la coordinación y colaboración con el resto de las unidades que la integran.
 Las unidades de la Fiscalía General que ejerzan sus funciones en las circunscripciones territoriales o regiones dependerán administrativamente del área central competente, y se coordinarán y articularán con ella y con las unidades centrales que sean necesarias a efecto de garantizar su unidad de actuación, la coordinación institucional y la eficiencia del Ministerio Público. El modelo de gestión privilegiará la concentración de los asuntos relevantes en las unidades centrales especializadas, conforme a lo que disponga el Estatuto orgánico.
 
 ## TÍTULO III — COLABORACIÓN CON EL MINISTERIO PÚBLICO Y LA COORDINACIÓN
+
 INTERINSTITUCIONAL
 
 ## CAPÍTULO I — COLABORACIÓN E INTERCAMBIO DE INFORMACIÓN
+
 
 ### Artículo 33
 . De conformidad con lo dispuesto en los artículos 21 y 102, Apartado A, de la Constitución y el Código Nacional, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal y sus homólogos de las entidades federativas, las entidades paraestatales, organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos que tengan el carácter de entidad paraestatal, y otras dependencias de la Administración Pública Federal; los órganos, dependencias, entidades e instituciones de las entidades federativas y de gobierno, en su respectivo ámbito de competencia, así como las personas particulares que realicen actos equivalentes a los de autoridad de conformidad con una norma de carácter general, deberán brindar de inmediato la colaboración, apoyo y auxilio que solicite, de manera debidamente fundada y motivada, la persona agente del Ministerio Público de la Federación o sus auxiliares para el debido ejercicio de sus funciones.
@@ -473,6 +488,7 @@ Durante la investigación y el procedimiento penal y el juicio de extinción de 
 
 ## CAPÍTULO II — SISTEMA DE COORDINACIÓN INTERINSTITUCIONAL
 
+
 ### Artículo 38
 . La Fiscalía General diseñará, construirá y administrará un sistema informático nacional interoperable, alimentado en conjunto con las procuradurías y fiscalías de las entidades federativas del país, con el propósito de compartir información sobre datos existentes en las investigaciones, fenómenos y mercados criminales, características delictivas relevantes, incidencia, reincidencia, resoluciones y criterios relevantes, sanciones, reparación del daño y casos de éxito; así como toda la información relativa a registros y análisis de perfiles genéticos de personas, vestigios biológicos, huellas de individuos, huella balística, análisis de voz, sistemas biométricos, de vehículos y otros elementos relacionados con hechos delictivos, para la investigación.
 Todos los entes públicos, deberán poner a disposición de la Fiscalía General la información con la que cuenten en el ámbito de sus atribuciones, que pueda resultar útil para el ejercicio de las investigaciones y persecución de los delitos, con el señalamiento de la clasificación de la información que corresponda o datos de que se trate, de conformidad con la legislación procesal penal que resulta aplicable al caso.
@@ -481,13 +497,16 @@ La información a que se refieren los Capítulos I y II de este Título será re
 
 ## TÍTULO IV — PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL
 
+
 ## CAPÍTULO I — PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL
+
 
 ### Artículo 39
 . La Fiscalía General contará con personal directivo y de mando, personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras, así como personas servidoras públicas especializadas, profesionales, técnicas y administrativas necesarias para la realización de sus funciones previstas en las disposiciones legales aplicables.
 Tendrán el carácter de personas agentes del Ministerio Público de la Federación las personas titulares de las Fiscalías Especializadas, fiscalías o unidades administrativas de la Institución, que tengan bajo su mando personas agentes del Ministerio Público de la Federación, por la naturaleza de las funciones que deban ejercer.
 
 ## CAPÍTULO II — PERSONAS AGENTES DEL MINISTERIO PÚBLICO DE LA FEDERACIÓN
+
 
 ### Artículo 40
 . Son facultades de las personas agentes del Ministerio Público de la Federación las siguientes:
@@ -604,6 +623,7 @@ XLVIII. Las demás que determinen otros ordenamientos las que deberán ser compa
 
 ## CAPÍTULO III — PERSONAS AGENTES DE LA POLICÍA FEDERAL MINISTERIAL
 
+
 ### Artículo 41
 . Con independencia de las facultades que señalan la Constitución, el Código Nacional, y las demás disposiciones aplicables, las personas agentes de la Policía Federal Ministerial deberán actuar durante la investigación bajo la conducción y mando de la persona agente del Ministerio Público de la Federación, en ejercicio de las siguientes facultades:
 
@@ -648,6 +668,7 @@ XIX. Cumplir con profesionalismo y dignidad la actuación como persona agente de
 XX. Las ordenadas por el órgano jurisdiccional y demás que las leyes determinen, siempre que éstas sean compatibles con las atribuciones constitucionales y legales de la Fiscalía General.
 
 ## CAPÍTULO IV — PERSONAL DE LOS SERVICIOS PERICIALES
+
 
 ### Artículo 42
 . Las personas peritas además de las facultades previstas en otras disposiciones aplicables, actuarán bajo la autoridad, conducción y mando de la persona agente del Ministerio Público de la Federación, y contarán con las siguientes facultades:
@@ -696,6 +717,7 @@ XVIII. Las demás que les confieran otras disposiciones, las que deberán ser co
 
 ## CAPÍTULO V — PERSONAS ANALISTAS
 
+
 ### Artículo 45
 . Con independencia de lo que señalan las disposiciones aplicables, las personas analistas actuarán bajo la autoridad, conducción y mando de la persona agente del Ministerio Público de la Federación, en el ejercicio de las siguientes facultades:
 
@@ -735,6 +757,7 @@ XVII. Las demás que determinen las disposiciones aplicables, las que deberán s
 
 ## CAPÍTULO VI — PERSONAS FACILITADORAS
 
+
 ### Artículo 46
 . Con independencia de lo que dispongan otras leyes aplicables, las personas facilitadoras tendrán las siguientes facultades:
 
@@ -767,6 +790,7 @@ XIII. Mantener la confidencialidad de la información a la que tengan acceso en 
 XIV. Las demás que señalen otras disposiciones legales.
 
 ## CAPÍTULO VII — OBLIGACIONES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA
+
 GENERAL
 
 ### Artículo 47
@@ -832,6 +856,7 @@ XVIII. Emplear el equipo y elementos que se les asigne con el debido cuidado y p
 XIX. Las demás que se establezcan en las disposiciones legales aplicables.
 
 ## CAPÍTULO VIII — OBLIGACIONES ESPECIALES PARA PERSONAS AGENTES DE LA POLICÍA FEDERAL
+
 MINISTERIAL, PERSONAS PERITAS Y PERSONAS ANALISTAS
 
 ### Artículo 48
@@ -862,7 +887,9 @@ A las personas peritas y personas analistas no les será conferida la fracción 
 
 ## TÍTULO V — RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
+
 ## CAPÍTULO ÚNICO — RÉGIMEN DE RELACIONES ADMINISTRATIVAS Y LABORALES DE LAS PERSONAS
+
 SERVIDORAS PÚBLICAS
 
 ### Artículo 50
@@ -888,7 +915,9 @@ El Estatuto del Servicio Profesional de Carrera señalará las personas servidor
 
 ## TÍTULO VI — SERVICIO PROFESIONAL DE CARRERA
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 51
 . La persona titular de la Fiscalía General establecerá en el Estatuto del Servicio Profesional de Carrera las bases y procedimientos para implementar el servicio profesional de carrera, el cual deberá operar con base al principio de mérito, perspectiva y paridad de género e igualdad de oportunidades conforme a las necesidades de la Fiscalía General.
@@ -931,6 +960,7 @@ El órgano que implemente el servicio profesional de carrera deberá contar con 
 La persona titular de la Fiscalía General, en el Estatuto del Servicio Profesional de Carrera, establecerá y regulará los derechos y obligaciones de las personas servidoras públicas de la Fiscalía General; así como todos aquellos procedimientos y órganos necesarios para la organización y funcionamiento del servicio profesional de carrera.
 
 ## CAPÍTULO II — PROCESOS DE EVALUACIÓN Y CERTIFICACIÓN DE LAS PERSONAS SERVIDORAS
+
 PÚBLICAS
 
 ### Artículo 54
@@ -958,6 +988,7 @@ En el caso de un procedimiento judicial o administrativo se podrá transferir la
 La certificación tendrá por objeto acreditar que la persona evaluada cubre con el perfil del puesto y las competencias requeridas para dar cumplimiento a los principios constitucionales y legales.
 
 ## CAPÍTULO III — REQUISITOS DE INGRESO Y PERMANENCIA
+
 
 ### Artículo 56
 . Para ingresar o permanecer como personal del servicio profesional de carrera en cualquiera de sus ramas, se requerirá cumplir con los requisitos siguientes:
@@ -997,6 +1028,7 @@ f) No incurrir en actos u omisiones que causen la pérdida de confianza o afecte
 g) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO IV — REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS AGENTES
+
 DEL MINISTERIO PÚBLICO DE LA FEDERACIÓN
 
 ### Artículo 57
@@ -1027,6 +1059,7 @@ e) Cumplir con las obligaciones que les impongan las leyes respectivas y demás 
 f) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO V — REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS AGENTES
+
 DE LA POLICÍA FEDERAL MINISTERIAL, PERSONAS PERITAS, PERSONAS ANALISTAS Y PERSONAS FACILITADORAS
 
 ### Artículo 58
@@ -1060,6 +1093,7 @@ b) Cumplir con las órdenes de comisión y rotación, así como los cambios de a
 c) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO VI — REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS
+
 SERVIDORAS PÚBLICAS ESPECIALIZADAS, PROFESIONALES, TÉCNICAS Y ADMINISTRATIVAS
 
 ### Artículo 59
@@ -1075,6 +1109,7 @@ IV. Los demás que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO VII — EXAMEN DE OPOSICIÓN
 
+
 ### Artículo 60
 . El examen de oposición a que se refieren los artículos 57 y 58 de esta Ley, tiene por objeto evaluar si la persona aspirante cuenta con los conocimientos y habilidades necesarias para desempeñar funciones sustantivas, mismo que se conforma por dos etapas, una oral y otra escrita.
 El examen de oposición se presentará ante el Instituto Nacional de Ciencias Penales, el cual integrará un sínodo compuesto por:
@@ -1087,6 +1122,7 @@ Para ambos exámenes, la calificación mínima aprobatoria será de 7.0.
 Corresponderá al Instituto Nacional de Ciencias Penales la aprobación en definitiva del examen de oposición y su decisión no admitirá recurso alguno.
 
 ## CAPÍTULO VIII — TERMINACIÓN DE LAS RELACIONES DE LA FISCALÍA GENERAL CON SU PERSONAL
+
 
 ### Artículo 61
 . Las relaciones jurídicas entre la Fiscalía General y su personal terminarán por las causas siguientes:
@@ -1125,6 +1161,7 @@ Las personas servidoras públicas que estén a cargo de administrar o manejar fo
 
 ## CAPÍTULO IX — PROCEDIMIENTO DE SEPARACIÓN
 
+
 ### Artículo 64
 . Sin perjuicio del régimen de responsabilidades administrativas de las personas servidoras públicas, el incumplimiento a alguno de los requisitos de permanencia previstos en los artículos 56 al 58 de esta Ley, tendrá como consecuencia la separación del cargo de las personas servidoras públicas involucradas.
 El procedimiento será instruido y resuelto por la unidad responsable de la formación, y sus resoluciones serán definitivas.
@@ -1152,7 +1189,9 @@ No procederá recurso alguno, en contra de las resoluciones dictadas dentro del 
 
 ## TÍTULO VII — RESPONSABILIDADES, FALTAS ADMINISTRATIVAS Y MEDIDAS DISCIPLINARIAS
 
+
 ## CAPÍTULO I — RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA
+
 GENERAL
 
 ### Artículo 70
@@ -1160,6 +1199,7 @@ GENERAL
 La persona titular de la Fiscalía General, así como todas las demás personas servidoras públicas de la Fiscalía General, con independencia de la relación jurídica que sostengan con la misma, estarán sujetas a las responsabilidades administrativas a que se refiere la Ley General de Responsabilidades Administrativas.
 
 ## CAPÍTULO II — FALTAS ADMINISTRATIVAS Y SUS SANCIONES
+
 
 ### Artículo 71
 . [Las personas servidoras públicas de la Fiscalía General estarán sujetas al régimen de responsabilidades de la Ley General de Responsabilidades Administrativas y a las disposiciones especiales que establece esta Ley.
@@ -1232,6 +1272,7 @@ Si la persona servidora pública suspendida conforme a esta fracción no resulta
 . [Para todo lo no dispuesto en el presente Capítulo, serán aplicables supletoriamente las disposiciones de la Ley General de Responsabilidades Administrativas y en el procedimiento de responsabilidad administrativa, será lo dispuesto en la Ley Federal de Procedimiento Contencioso Administrativo.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
 
 ## CAPÍTULO III — MEDIDAS DISCIPLINARIAS PARA PERSONAS AGENTES DE LA POLICÍA FEDERAL
+
 MINISTERIAL Y PERSONAS ANALISTAS
 
 ### Artículo 80
@@ -1258,7 +1299,9 @@ III. [Toda orden de arresto deberá darse por escrito y estar debidamente fundad
 
 ## TÍTULO VIII — PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
 
+
 ## CAPÍTULO I — PATRIMONIO
+
 
 ### Artículo 83
 . Para la realización de sus funciones, el patrimonio de la Fiscalía General estará constituido por los bienes y recursos que a continuación se enumeran:
@@ -1291,10 +1334,12 @@ El destino de los recursos del Fideicomiso o Mandato serán orientados a program
 
 ## CAPÍTULO II — CONTRATACIONES PÚBLICAS
 
+
 ### Artículo 85
 . Las contrataciones públicas que lleve a cabo la Fiscalía General se sujetarán en lo que resulte conducente y conforme a su autonomía constitucional, a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, sin perjuicio de la facultad de la persona titular de la Fiscalía General para emitir normas particulares previa opinión no vinculante con la persona titular del Órgano Interno de Control.
 
 ## CAPÍTULO III — PRESUPUESTO
+
 
 ### Artículo 86
 . La Fiscalía General elaborará su anteproyecto de presupuesto anual de egresos, el cual será remitido a la Secretaría de Hacienda y Crédito Público, para su incorporación en el proyecto de Presupuesto de Egresos de la Federación que se remita a la Cámara de Diputados.
@@ -1306,7 +1351,9 @@ La Fiscalía General goza de autonomía presupuestaria respecto de la asignació
 
 ## TÍTULO IX — PLAN ESTRATÉGICO DE PROCURACIÓN DE JUSTICIA
 
+
 ## CAPÍTULO ÚNICO — PLAN ESTRATÉGICO
+
 
 ### Artículo 88
 . La Fiscalía General deberá publicar cada tres años el Plan Estratégico de Procuración de Justicia. En dicho instrumento programático se determinarán las estrategias institucionales, objetivos, metas medibles a corto, mediano y largo plazo, así como las prioridades de investigación para la eficiencia y eficacia de la persecución penal, partiendo del análisis y determinación del capital humano y los recursos financieros disponibles para el adecuado desempeño de la función sustantiva; deberá estructurar las funciones y establecerá los principios que regirán a la Institución, a partir de una política criminal basada en el conocimiento profundo del fenómeno delictivo para focalizar sus esfuerzos y recursos en dar respuesta al conflicto penal, la adecuada atención a la víctima y mejorar el acceso a la justicia.
@@ -1336,7 +1383,9 @@ En el informe anual que presente la persona titular de la Fiscalía General, deb
 
 ## TÍTULO X — ÓRGANO INTERNO DE CONTROL
 
+
 ## CAPÍTULO I — ÓRGANO INTERNO DE CONTROL
+
 
 ### Artículo 89
 . El Órgano Interno de Control es aquella unidad dotada de autonomía técnica y de gestión por lo que refiere a su régimen interior, pero sujeta en todo momento en su estructura orgánica a la jerarquía institucional y facultades legales y normativas de cada unidad de la Fiscalía General, por lo que deberá ajustarse a todas y cada una de las obligaciones de las personas servidoras públicas de la Fiscalía General sin excepción, de conformidad con lo previsto en el artículo 47 de esta Ley y demás disposiciones aplicables.
@@ -1349,10 +1398,12 @@ En el informe anual que presente la persona titular de la Fiscalía General, deb
 
 ## CAPÍTULO II — ESTRUCTURA DEL ÓRGANO INTERNO DE CONTROL
 
+
 ### Artículo 92
 . Para el ejercicio de sus facultades y atribuciones, así como para lograr la mayor eficacia en la aplicación de las disposiciones administrativas y la eficacia en el desarrollo de las funciones que tienen encomendadas, el Órgano Interno de Control contará con las unidades que al efecto se establezcan en el Estatuto orgánico. En este entendido, la persona titular del Órgano Interno de Control conforme su autonomía técnica y de gestión, podrá delegar o distribuir aquellas sin perjuicio de su ejercicio directo, a través de los acuerdos que emita, los cuales se publicarán en el Diario Oficial de la Federación.
 
 ## CAPÍTULO III — FACULTADES DEL ÓRGANO INTERNO DE CONTROL
+
 
 ### Artículo 93
 . Serán facultades del Órgano Interno de Control las siguientes: del Sistema Nacional Anticorrupción, dentro de las que se encuentran las relativas a inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todas las personas servidoras públicas de la Fiscalía General;
@@ -1405,6 +1456,7 @@ XXIV. Ejercer las facultades previstas en esta Ley respecto de los órganos que 
 XXV. Las demás que señalen las leyes y disposiciones aplicables.
 
 ## CAPÍTULO IV — DESIGNACIÓN, DURACIÓN, REQUISITOS Y RESPONSABILIDADES DE LA PERSONA
+
 TITULAR DEL ÓRGANO INTERNO DE CONTROL
 
 ### Artículo 94
@@ -1435,14 +1487,18 @@ Las personas servidoras públicas adscritas al Órgano Interno de Control deber�
 
 ## TÍTULO XI — TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
 
+
 ## CAPÍTULO ÚNICO — TRANSPARENCIA DE LA INFORMACIÓN
+
 
 ### Artículo 97
 . Las bases de datos, sistemas, registros o archivos previstos en la presente Ley que contengan información relacionada con datos personales o datos provenientes de actos de investigación, recabados como consecuencia del ejercicio de las atribuciones de las personas servidoras públicas de la Fiscalía General o por intercambio de información con otros entes públicos, nacionales o internacionales, podrán tener la calidad de información reservada o confidencial, en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública o la Ley Federal de Transparencia y Acceso a la Información Pública, en cuyo caso únicamente podrán ser consultadas, revisadas o transmitidas para los fines y propósitos del ejercicio de las facultades constitucionales de la Fiscalía General, por las personas servidoras públicas previamente facultadas, salvo por aquella de carácter estadístico que será pública.
 
 ## TÍTULO XII — CONSEJO CIUDADANO
 
+
 ## CAPÍTULO ÚNICO — INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO CIUDADANO
+
 
 ### Artículo 98
 . El Consejo Ciudadano de la Fiscalía General será un órgano especializado de consulta, de carácter honorífico, que ejercerá las funciones establecidas en la presente Ley. Estará integrado por cinco personas de ciudadanía mexicana, de probidad y prestigio, que se hayan destacado por su contribución en materia de procuración e impartición de justicia, investigación criminal y derechos humanos. Sesionará al menos una vez al mes o cuando deba conocer de un tema para su opinión y visto bueno y estará presidido por una persona de entre los integrantes, de acuerdo con el Estatuto orgánico de esta Ley.
@@ -1485,49 +1541,49 @@ Artículos Segundo a Sexagésimo Sexto.- ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 98/2021, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 28 de marzo de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/HMS/121/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintitrés de marzo de dos mil veintitrés, resolvió la acción de inconstitucionalidad 98/2021, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es parcialmente procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se sobresee en la presente acción de inconstitucionalidad respecto del artículo 5, fracción II, de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, en términos del considerando cuarto de esta decisión.
-**TERCERO.** Se desestima en la presente acción de inconstitucionalidad respecto del artículo 94, párrafo segundo, fracción II, en su porción normativa “y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año”, de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno.
-**CUARTO.** Se reconoce la validez de los artículos 10, fracción I, 19, fracción XIV, 80, fracciones I y III, 81, -con la salvedad precisada en el punto resolutivo sexto-, y 82, fracciones I y II, de la Ley de la Fiscalía General de la República; 85, párrafo segundo, de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; 36, fracción IV, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; y 45, fracción III, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, publicadas mediante el Decreto en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, de conformidad con su considerando quinto.
-**QUINTO.** Se declara la invalidez del artículo 56, fracción I, inciso d), de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en términos de los considerandos quinto y sexto de este fallo.
-**SEXTO.** Se declara la invalidez de los artículos del 71 al 79; 80, fracción II, 81, párrafo primero, en su porción normativa “el arresto consiste en el confinamiento en espacios especiales destinado a ese fin;”, y 82, fracción III y párrafo último, en su porción normativa “La persona que impida el cumplimiento de un arresto, permita que se quebrante o no lo cumpla, será sancionada conforme a una falta considerada como grave.”, de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, y, por extensión, la del artículo 82, párrafo último, en su porción normativa “La reincidencia significará en cualquier caso la aplicación de la sanción establecida en la fracción III del artículo 72 de esta Ley, y sustanciado el procedimiento correspondiente y determinada su responsabilidad implicará la separación en términos del Capítulo IX, del Título VI de esta Ley”, de esta Ley, las cuales surtirán sus efectos retroactivos al veintiuno de mayo de dos mil veintiuno, a partir de la notificación de estos puntos resolutivos a Congreso de la Unión, en términos de los considerandos quinto y sexto de esta determinación.
-**SÉPTIMO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo respecto del artículo 56, fracción I, inciso d), surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los diversos del 71 al 79; 80, fracción II, 81, párrafo primero, en su porción normativa “el arresto consiste en el confinamiento en espacios especiales destinado a ese fin;”, y 82, fracción III y párrafo último, surtirá sus efectos retroactivos al veintiuno de mayo de dos mil veintiuno, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se sobresee en la presente acción de inconstitucionalidad respecto del artículo 5, fracción II, de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, reformado mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, en términos del considerando cuarto de esta decisión.
+**TERCERO.-** Se desestima en la presente acción de inconstitucionalidad respecto del artículo 94, párrafo segundo, fracción II, en su porción normativa “y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año”, de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno.
+**CUARTO.-** Se reconoce la validez de los artículos 10, fracción I, 19, fracción XIV, 80, fracciones I y III, 81, -con la salvedad precisada en el punto resolutivo sexto-, y 82, fracciones I y II, de la Ley de la Fiscalía General de la República; 85, párrafo segundo, de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; 36, fracción IV, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; y 45, fracción III, de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, publicadas mediante el Decreto en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, de conformidad con su considerando quinto.
+**QUINTO.-** Se declara la invalidez del artículo 56, fracción I, inciso d), de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en términos de los considerandos quinto y sexto de este fallo.
+**SEXTO.-** Se declara la invalidez de los artículos del 71 al 79; 80, fracción II, 81, párrafo primero, en su porción normativa “el arresto consiste en el confinamiento en espacios especiales destinado a ese fin;”, y 82, fracción III y párrafo último, en su porción normativa “La persona que impida el cumplimiento de un arresto, permita que se quebrante o no lo cumpla, será sancionada conforme a una falta considerada como grave.”, de la Ley de la Fiscalía General de la República, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el veinte de mayo de dos mil veintiuno, y, por extensión, la del artículo 82, párrafo último, en su porción normativa “La reincidencia significará en cualquier caso la aplicación de la sanción establecida en la fracción III del artículo 72 de esta Ley, y sustanciado el procedimiento correspondiente y determinada su responsabilidad implicará la separación en términos del Capítulo IX, del Título VI de esta Ley”, de esta Ley, las cuales surtirán sus efectos retroactivos al veintiuno de mayo de dos mil veintiuno, a partir de la notificación de estos puntos resolutivos a Congreso de la Unión, en términos de los considerandos quinto y sexto de esta determinación.
+**SÉPTIMO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo respecto del artículo 56, fracción I, inciso d), surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los diversos del 71 al 79; 80, fracción II, 81, párrafo primero, en su porción normativa “el arresto consiste en el confinamiento en espacios especiales destinado a ese fin;”, y 82, fracción III y párrafo último, surtirá sus efectos retroactivos al veintiuno de mayo de dos mil veintiuno, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 23 de marzo de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el martes 28 de marzo de 2023 a las 11:50 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -1568,12 +1624,12 @@ Se reforma el artículo 68 de la Ley de la Fiscalía General de la República, p
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

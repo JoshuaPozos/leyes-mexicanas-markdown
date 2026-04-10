@@ -15,7 +15,9 @@ Se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Públic
 
 ## Título Primero — Disposiciones Generales
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen:
@@ -376,7 +378,9 @@ El Reglamento de esta Ley establecerá los supuestos que deberán seguirse para 
 
 ## Título Segundo — De los Procedimientos de Contratación
 
+
 ## Capítulo Primero
+
 Generalidades
 
 ### Artículo 35
@@ -421,6 +425,7 @@ Las proposiciones presentadas a través de la Plataforma deberán ser firmadas p
 
 ## Capítulo Segundo — De los Testigos Sociales
 
+
 ### Artículo 38
 . En las licitaciones públicas cuyo monto rebase el equivalente a cinco millones de UMAS, en el diálogo competitivo y en aquellos casos que determine la Secretaría, atendiendo al impacto que la contratación tenga en los programas, derivados del Plan Nacional de Desarrollo, de las dependencias y entidades, participarán testigos sociales, conforme a lo siguiente:
 
@@ -462,6 +467,7 @@ El Reglamento de esta Ley establecerá los términos para el funcionamiento y op
 La Secretaría establecerá los montos de la contraprestación al testigo social, en función de la importancia y del presupuesto asignado a la contratación, mismos que no podrán exceder los montos de las remuneraciones máximas permitidas a las personas servidoras públicas en términos de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
 
 ## Capítulo Tercero — De la Licitación Pública
+
 
 ### Artículo 39
 . El carácter de las licitaciones públicas será:
@@ -644,6 +650,7 @@ Tratándose del diálogo competitivo no procederá el pago de gastos no recupera
 En este caso, los precios de los bienes o servicios contenidos en una misma partida y distribuidos entre dos o más proveedores, no podrán exceder del margen previsto por la convocante en la convocatoria a la licitación, el cual no podrá ser superior al diez por ciento respecto de la proposición solvente más baja.
 
 ## Capítulo Cuarto — De las Excepciones a la Licitación Pública
+
 
 ### Artículo 53
 . En los supuestos que prevé el artículo 54 de esta Ley, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
@@ -836,7 +843,9 @@ La Secretaría participará en los procedimientos de diálogo competitivo, confo
 
 ## Título Tercero — De los Contratos
 
+
 ## Capítulo Único
+
 
 ### Artículo 65
 . En las adquisiciones, arrendamientos y servicios deberá pactarse la condición de precio fijo. No obstante, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la convocante previamente a la presentación de las proposiciones.
@@ -1035,7 +1044,9 @@ En cualquiera de los casos previstos en este artículo, se pactará por las part
 
 ## Título Cuarto — De la Plataforma
 
+
 ## Capítulo Único
+
 
 ### Artículo 81
 . La Secretaría implementará y administrará la Plataforma como una herramienta electrónica oficial y transaccional, integrada por diversos módulos, a través de la cual se realizarán los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 35 de la presente Ley, así como la suscripción y administración de los contratos derivados de estos.
@@ -1097,7 +1108,9 @@ Dicho registro tendrá únicamente efectos declarativos respecto de la inscripci
 
 ## Título Quinto — De la Verificación
 
+
 ## Capítulo Único
+
 
 ### Artículo 87
 . La Secretaría, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables.
@@ -1110,7 +1123,9 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ## Título Sexto — De las Infracciones y Sanciones
 
+
 ## Capítulo Único
+
 
 ### Artículo 89
 . Los licitantes, proveedores, cotizantes o postulantes que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría con multa equivalente a la cantidad de cincuenta hasta tres mil veces la UMA diaria vigente elevada al mes, en la fecha de la infracción.
@@ -1162,7 +1177,9 @@ En la tramitación del procedimiento para imponer las sanciones a que se refiere
 
 ## Título Séptimo — De la Solución de las Controversias
 
+
 ## Capítulo Primero — De la Instancia de Inconformidad
+
 
 ### Artículo 95
 . La Secretaría conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública, invitación a cuando menos tres personas o diálogo competitivo que se indican a continuación:
@@ -1363,6 +1380,7 @@ En caso de que la autoridad resuelva que los actos del procedimiento de contrata
 
 ## Capítulo Segundo — Del Procedimiento de Conciliación
 
+
 ### Artículo 109
 . En cualquier momento los proveedores o las dependencias y entidades podrán presentar ante la Secretaría solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos, pedidos y órdenes de servicio o de suministro, celebrados con base en disposiciones de esta Ley y con recursos federales.
 Una vez recibida la solicitud respectiva, la Secretaría señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
@@ -1391,6 +1409,7 @@ En caso de no existir acuerdo de voluntades, las partes podrán optar por cualqu
 
 ## Capítulo Tercero — De los Medios de Apremio
 
+
 ### Artículo 113
 . La Secretaría, en los procedimientos de sanción, inconformidades y de conciliación a que se refiere esta Ley, podrá hacer uso de los medios de apremio que se indican a continuación, para hacer cumplir sus determinaciones:
 
@@ -1401,6 +1420,7 @@ II. Arresto hasta por treinta y seis horas, y
 III. Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, los que deberán de atender de inmediato el requerimiento de la autoridad.
 
 ## Capítulo Cuarto
+
 Del Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial
 
 ### Artículo 114
@@ -1448,13 +1468,11 @@ Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la 
 **Décimo Primero.-** El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 **Décimo Segundo.-** Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
 **Décimo Tercero.-** Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
-
 I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
 
 II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
 **Décimo Cuarto.-** El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
 **Décimo Quinto.-** Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
-
 I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
 
 II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;

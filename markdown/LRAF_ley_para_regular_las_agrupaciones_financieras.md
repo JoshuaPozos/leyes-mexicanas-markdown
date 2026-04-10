@@ -14,6 +14,7 @@ AGRUPACIONES FINANCIERAS ARTÍCULO QUINCUAGÉSIMO PRIMERO. Se expide la “Ley p
 
 ## TÍTULO PRIMERO — De las disposiciones preliminares
 
+
 ### Artículo 1o
 .- La presente Ley es de orden público y de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular las bases de organización de las Sociedades Controladoras y el funcionamiento de los Grupos Financieros, así como establecer los términos bajo los cuales habrán de operar, buscando la protección de los intereses de quienes celebren operaciones con las entidades financieras integrantes de dichos Grupos Financieros.
 
@@ -22,7 +23,8 @@ AGRUPACIONES FINANCIERAS ARTÍCULO QUINCUAGÉSIMO PRIMERO. Se expide la “Ley p
 
 ### Artículo 3o
 .- Las entidades financieras no deberán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, actuar de manera conjunta, ofrecer servicios complementarios ni, en general, ostentarse en forma alguna como integrantes de Grupos Financieros, salvo cuando se trate de integrantes de Grupos Financieros que se encuentren organizados y funcionen conforme a las disposiciones de la presente Ley. Las instituciones reguladas en la Ley para Regular las Instituciones de Tecnología Financiera no podrán utilizar denominaciones iguales o semejantes a las de otras entidades financieras, aún y cuando sean integrantes de Grupos Financieros.
-Párrafo reformado DOF 09-03-2018 Sin perjuicio de lo dispuesto en el primer párrafo, las entidades financieras y sus subsidiarias podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, sólo cuando así lo prevean las leyes especiales que las rijan y con sujeción a las disposiciones contenidas en dichos ordenamientos.
+Párrafo reformado DOF 09-03-2018
+Sin perjuicio de lo dispuesto en el primer párrafo, las entidades financieras y sus subsidiarias podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, sólo cuando así lo prevean las leyes especiales que las rijan y con sujeción a las disposiciones contenidas en dichos ordenamientos.
 
 ### Artículo 4o
 .- En lo no previsto por la presente Ley, se aplicarán supletoriamente, en el orden siguiente:
@@ -127,9 +129,11 @@ Para efectos de la presente Ley, los plazos fijados en días se entenderán en d
 .- Los plazos a que se refieren los artículos anteriores no les serán aplicables a las autoridades en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.
 
 ## TÍTULO SEGUNDO
+
 De la organización de las Sociedades Controladoras y la constitución y funcionamiento de Grupos Financieros
 
 ## CAPÍTULO I — De la organización
+
 
 ### Artículo 11
 .- Se requerirá autorización de la Secretaría para la organización de las Sociedades Controladoras y la constitución y funcionamiento de Grupos Financieros. Estas autorizaciones serán otorgadas o denegadas discrecionalmente por dicha Secretaría, oyendo la opinión del Banco de México y, según corresponda, en virtud de los integrantes del Grupo Financiero que pretenda organizarse, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
@@ -140,7 +144,8 @@ La autorización a que se refiere el presente artículo se otorgará sin perjuic
 
 ### Artículo 12
 .- Los Grupos Financieros a que se refiere la presente Ley estarán compuestos por una Sociedad Controladora y por algunas de las entidades financieras siguientes que sean consideradas integrantes del Grupo Financiero: almacenes generales de depósito, casas de cambio, instituciones de fianzas, instituciones de seguros, casas de bolsa, instituciones de banca múltiple, sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades financieras de objeto múltiple, sociedades financieras populares, instituciones de tecnología financiera y las demás entidades financieras susceptibles de ser integrantes de Grupos Financieros en términos de las reglas que emita la Secretaría.
-Párrafo reformado DOF 09-03-2018 El Grupo Financiero deberá formarse con cuando menos dos de las entidades financieras señaladas en el párrafo anterior, que podrán ser del mismo tipo. Como excepción a lo anterior, un Grupo Financiero no podrá formarse solamente con dos sociedades financieras de objeto múltiple.
+Párrafo reformado DOF 09-03-2018
+El Grupo Financiero deberá formarse con cuando menos dos de las entidades financieras señaladas en el párrafo anterior, que podrán ser del mismo tipo. Como excepción a lo anterior, un Grupo Financiero no podrá formarse solamente con dos sociedades financieras de objeto múltiple.
 Sólo podrán ser integrantes del Grupo Financiero aquellas entidades financieras en que la Sociedad Controladora mantenga directa o indirectamente más del cincuenta por ciento de las acciones representativas de su capital social.
 Asimismo, la Sociedad Controladora, a través de Subcontroladoras o de otras entidades financieras, podrá mantener indirectamente la tenencia accionaria de las entidades financieras integrantes del Grupo Financiero, así como de aquellas entidades financieras que no sean integrantes del Grupo Financiero y de Prestadoras de Servicio e Inmobiliarias, sin perjuicio de las prohibiciones previstas por las respectivas leyes especiales.
 Las entidades financieras en cuyo capital social participe, con más del cincuenta por ciento, una institución de banca múltiple, casa de bolsa o institución de seguros integrante de un Grupo Financiero, también serán integrantes del Grupo Financiero.
@@ -291,6 +296,7 @@ Asimismo, la Secretaría emitirá disposiciones de carácter general con el fin 
 
 ## CAPÍTULO II — Del funcionamiento
 
+
 ### Artículo 22
 .- El Control de las asambleas generales de accionistas y de la administración de todas las entidades financieras integrantes de cada Grupo Financiero deberá tenerlo una misma Sociedad Controladora.
 Asimismo, la Sociedad Controladora estará en posibilidad de nombrar o destituir a la mayoría de los miembros del consejo de administración de cada una de las entidades financieras integrantes del Grupo Financiero.
@@ -370,6 +376,7 @@ Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispue
 La documentación e información relacionada con los temas a tratar en la correspondiente asamblea de accionistas, deberán ponerse a disposición de los accionistas por lo menos con quince días de anticipación a su celebración.
 
 ## CAPÍTULO III — De la administración
+
 
 ### Artículo 33
 .- Las Sociedades Controladoras tendrán encomendada su administración a un consejo de administración y a un director general, que desempeñarán las funciones que el presente ordenamiento legal establece.
@@ -533,6 +540,7 @@ El director general de la Sociedad Controladora en adición de las personas que 
 
 ## SECCIÓN I — Del deber de diligencia
 
+
 ### Artículo 46
 .- Los miembros del consejo de administración de las Sociedades Controladoras, en el ejercicio diligente de las funciones que esta Ley y los estatutos sociales le confieren a dicho órgano social, deberán actuar de buena fe y en el mejor interés del Grupo Financiero, para lo cual podrán:
 
@@ -564,6 +572,7 @@ III. Incumplan los deberes que les impone esta Ley o los estatutos sociales de l
 Las Sociedades Controladoras podrán pactar indemnizaciones y contratar en favor de los miembros del consejo de administración seguros, fianzas o cauciones que cubran el monto de la indemnización por los daños que cause su actuación a la Sociedad Controladora, entidades financieras o Subcontroladoras, salvo que se trate de actos dolosos o de mala fe, o bien, ilícitos conforme a ésta u otras leyes.
 
 ## SECCIÓN II — Del deber de lealtad y de los actos o hechos ilícitos
+
 
 ### Artículo 50
 .- Los miembros y secretario del consejo de administración de las Sociedades Controladoras deberán guardar confidencialidad respecto de la información y los asuntos que tengan conocimiento con motivo de su cargo, cuando dicha información o asuntos no sean de carácter público.
@@ -625,6 +634,7 @@ La Sociedad Controladora afectada, en ningún caso podrá pactar en contrario, n
 
 ## SECCIÓN III — De las acciones de responsabilidad
 
+
 ### Artículo 54
 .- La responsabilidad que derive de los actos a que se refiere esta Ley, será exclusivamente en favor de la Sociedad Controladora o de la entidad financiera o Subcontroladora que sufra el daño patrimonial.
 La acción de responsabilidad podrá ser ejercida:
@@ -652,6 +662,7 @@ III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender
 IV. Cumplan los acuerdos de la asamblea de accionistas, siempre y cuando éstos no sean violatorios de la ley.
 
 ## CAPÍTULO IV — De la vigilancia
+
 
 ### Artículo 56
 .- La vigilancia de la gestión, conducción y ejecución de los negocios de las Sociedades Controladoras, de las entidades financieras integrantes del Grupo Financiero y de las Subcontroladoras, considerando la relevancia que tengan estas últimas en la situación financiera, administrativa, operacional y jurídica de las primeras, estará a cargo del consejo de administración a través de los comités que constituya, para que lleven a cabo las actividades en materia de prácticas societarias y de auditoría, así como por conducto de la persona moral que realice la auditoría externa de la Sociedad Controladora, cada uno en el ámbito de sus respectivas competencias, según lo señalado en esta Ley.
@@ -744,6 +755,7 @@ Para la elaboración de los informes a que se refiere este precepto legal, así 
 
 ## CAPÍTULO V — De la gestión, conducción y ejecución de los negocios sociales
 
+
 ### Artículo 59
 .- Las funciones de gestión, conducción y ejecución de los negocios de la Sociedad Controladora, de las entidades financieras integrantes del Grupo Financiero y de las Subcontroladoras, serán responsabilidad del director general que corresponda, conforme a lo establecido en este artículo, sujetándose para ello a las estrategias, políticas y lineamientos aprobados por el consejo de administración de la Sociedad Controladora.
 El director general de la Sociedad Controladora, para el cumplimiento de sus funciones, contará con las más amplias facultades para representar a esta en actos de administración y pleitos y cobranzas, incluyendo facultades especiales que conforme a las leyes requieran cláusula especial. Tratándose de actos de dominio, dicho director general deberá ajustarse a los términos y condiciones que establezca el consejo de administración conforme a lo señalado por el artículo 39, fracción VIII, del presente ordenamiento legal.
@@ -809,6 +821,7 @@ II. La presentación o revelación, a sabiendas, de información falsa o que ind
 III. La actualización de cualquiera de las conductas desleales previstas en los artículos 51, fracciones III a VII y 52 de esta Ley, siendo aplicables las responsabilidades previstas en los artículos 53 y 54 del presente ordenamiento legal.
 
 ## CAPÍTULO VI — De las asambleas de accionistas y derechos de los socios
+
 
 ### Artículo 63
 .- La asamblea general ordinaria de accionistas de las Sociedades Controladoras, en adición a lo previsto en la Ley General de Sociedades Mercantiles, se reunirá para aprobar los actos que pretenda llevar a cabo la propia Sociedad Controladora, las entidades financieras y Subcontroladoras, en el lapso de un ejercicio social, cuando representen el veinte por ciento o más de los activos consolidados del Grupo Financiero con base en cifras correspondientes al cierre del trimestre inmediato anterior, con independencia de la forma en que se ejecuten, sea simultánea o sucesiva, pero que por sus características puedan considerarse como un sólo acto.
@@ -879,7 +892,9 @@ Las acciones de responsabilidad en contra de los accionistas que infrinjan lo pr
 
 ## TÍTULO TERCERO
 
+
 ## CAPÍTULO ÚNICO — De las filiales de instituciones financieras del exterior
+
 
 ### Artículo 67
 .- Para los efectos de esta Ley se entenderá por:
@@ -936,7 +951,9 @@ La mayoría de los consejeros de una Sociedad Controladora Filial deberá residi
 
 ## TÍTULO CUARTO — De la oferta de servicios conjuntos
 
+
 ## CAPÍTULO ÚNICO — Del uso de instalaciones y de la oferta conjunta de servicios financieros
+
 
 ### Artículo 78
 .- Las entidades financieras que en términos de la presente Ley se puedan ostentar como integrantes de un Grupo Financiero, de conformidad con las reglas generales que dicte la Secretaría, podrán llevar a cabo operaciones que les sean propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del Grupo Financiero.
@@ -955,7 +972,9 @@ El consentimiento expreso del cliente a que se refiere el párrafo anterior debe
 
 ## TÍTULO QUINTO — De las inversiones de la Sociedad Controladora
 
+
 ## CAPÍTULO I — De las inversiones de la Sociedad Controladora en general
+
 
 ### Artículo 81
 .- Además de la participación accionaria de la Sociedad Controladora en entidades financieras integrantes del Grupo Financiero, podrá realizar las inversiones que se enuncian a continuación sujetándose a las disposiciones de carácter general que para estos efectos expida la Secretaría, previa opinión del Banco de México, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro, y en los términos previstos en la presente Ley en:
@@ -997,6 +1016,7 @@ Tanto las Prestadoras de Servicio e Inmobiliarias, como las Subcontroladoras, es
 La Sociedad Controladora contará con un plazo máximo de trescientos sesenta días, contados a partir de la fecha en que se notifique la revocación de la autorización antes mencionada, para retirar las inversiones a que se refiere el párrafo anterior. Lo anterior, sin perjuicio de la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables.
 
 ## CAPÍTULO II — De las inversiones en entidades financieras que no sean integrantes del Grupo
+
 Financiero
 
 ### Artículo 86
@@ -1036,6 +1056,7 @@ Al efecto, se deberá anexar copia autentificada por el secretario del consejo d
 
 ## CAPÍTULO III — De las inversiones en Prestadoras de Servicio e Inmobiliarias
 
+
 ### Artículo 89
 .- Para invertir directa o indirectamente en Prestadoras de Servicio e Inmobiliarias, las Sociedades Controladoras requerirán autorización de la Secretaría. Estas autorizaciones serán otorgadas o denegadas discrecionalmente por dicha Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
 Las Sociedades Controladoras que participen en el capital social de Prestadoras de Servicio e Inmobiliarias conforme al presente artículo se sujetarán a los límites de inversión y requisitos que dicte la Secretaría mediante reglas de carácter general, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro.
@@ -1047,7 +1068,9 @@ La solicitud correspondiente deberá cumplir con los requisitos establecidos en 
 
 ## TÍTULO SEXTO — De la protección de los intereses del público
 
+
 ## CAPÍTULO I — De la regulación y supervisión
+
 
 ### Artículo 91
 .- Las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro, conjuntamente, podrán establecer normas prudenciales, sobre una base consolidada, orientadas a preservar la estabilidad y solvencia de los Grupos Financieros en materia de administración integral de riesgos, control interno, revelación de información y aquellas otras que juzgue convenientes para procurar el adecuado funcionamiento de los Grupos Financieros.
@@ -1230,6 +1253,7 @@ Tampoco podrán recibir en garantía acciones de almacenes generales de depósit
 
 ## CAPÍTULO II — De las responsabilidades y medidas correctivas
 
+
 ### Artículo 117
 .- La Secretaría, mediante disposiciones de carácter general, oyendo la opinión de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro, establecerá las medidas correctivas que deberán cumplir las Sociedades Controladoras, tomando como base la obligación de asegurar que las entidades financieras que integran a su Grupo Financiero, cumplan con los requerimientos previstos en sus respectivas leyes especiales.
 Para efectos del párrafo anterior, la Secretaría podrá establecer diversas categorías, dependiendo del grado de insuficiencia que tengan las entidades financieras integrantes del Grupo Financiero respecto de los requerimientos señalados en el párrafo anterior, así como definir mediante disposiciones de carácter general, las medidas que serán aplicables en función del nivel de cumplimiento y los criterios para su aplicación.
@@ -1322,9 +1346,11 @@ La Secretaría determinará, mediante reglas de carácter general, el procedimie
 Las referidas responsabilidades estarán previstas expresamente en los estatutos de la Sociedad Controladora.
 
 ## TÍTULO SÉPTIMO
+
 De la revocación, liquidación, separación e intervención de los Grupos Financieros
 
 ## CAPÍTULO I — De la revocación
+
 
 ### Artículo 122
 .- La Secretaría, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, y a solicitud de la Sociedad Controladora de que se trate, podrá revocar la autorización para la organización de la Sociedad Controladora y la constitución y funcionamiento del Grupo Financiero prevista en el presente ordenamiento legal, siempre que se cumpla con lo siguiente:
@@ -1338,7 +1364,8 @@ III. La Sociedad Controladora haya presentado a la Comisión Supervisora, los es
 IV. Las entidades financieras integrantes del Grupo Financiero cumplan con los requerimientos de capitalización que deban observar de acuerdo con las disposiciones aplicables, al momento en que la Sociedad Controladora solicite la revocación conforme a este artículo.
 Lo anterior, sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, para lo cual el Registro únicamente requerirá previa notificación. Una vez inscrita la revocación en el Registro Público de Comercio, la sociedad deberá dar aviso a la Secretaría de dicha inscripción.
-Párrafo adicionado DOF 24-01-2024 Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
+Párrafo adicionado DOF 24-01-2024
+Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
 Párrafo adicionado DOF 24-01-2024
 
 ### Artículo 123
@@ -1358,10 +1385,14 @@ V. Si la Sociedad Controladora de que se trate no cumple con las medidas correct
 VI. Si transcurrido el plazo de nueve meses, contado a partir de la declaración de intervención acordada por la Comisión, no se hubieren corregido las irregularidades que hayan afectado la estabilidad o solvencia de la Sociedad Controladora.
 Lo anterior, sin perjuicio de los procedimientos que, en su caso, deban efectuarse ante la Comisión Federal de Competencia Económica o cualquier otra autoridad.
 Para efectos de lo previsto por el primer párrafo de este artículo, se otorgará audiencia a la Sociedad Controladora de que se trate, a efecto que, dentro del plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas.
-Párrafo adicionado DOF 24-01-2024 La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo previsto por el párrafo anterior, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen. Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Sociedad Controladora contará con cinco días hábiles para formular alegatos. Al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Secretaría contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 El Banco de México y, según corresponda, las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, deberán emitir la opinión a que se refiere el primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones referidas sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la opinión presentada extemporáneamente.
-Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, para lo cual el Registro únicamente requerirá previa notificación. La revocación pondrá en estado de disolución y liquidación a la Sociedad Controladora a partir de la fecha en que se le notifique sin necesidad del acuerdo de la asamblea de accionistas.
-Párrafo reformado DOF 24-01-2024 Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
+Párrafo adicionado DOF 24-01-2024
+La Secretaría, a petición de parte, podrá ampliar por una sola ocasión el plazo previsto por el párrafo anterior, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen. Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Sociedad Controladora contará con cinco días hábiles para formular alegatos. Al día hábil siguiente al vencimiento de dicho plazo se tendrá por cerrada la instrucción y la Secretaría contará con un plazo que no excederá de ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento de revocación a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+El Banco de México y, según corresponda, las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro, deberán emitir la opinión a que se refiere el primer párrafo de este artículo, con al menos treinta días hábiles de anticipación a que fenezca el plazo previsto para dictar la resolución que ponga fin al procedimiento de revocación. En caso de que cualquiera de las opiniones referidas sea emitida con posterioridad al plazo señalado, la Secretaría podrá resolver lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la opinión presentada extemporáneamente.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la Sociedad Controladora de que se trate, para lo cual el Registro únicamente requerirá previa notificación. La revocación pondrá en estado de disolución y liquidación a la Sociedad Controladora a partir de la fecha en que se le notifique sin necesidad del acuerdo de la asamblea de accionistas.
+Párrafo reformado DOF 24-01-2024
+Al revocarse la autorización de la Sociedad Controladora las entidades financieras integrantes del Grupo Financiero deberán dejar de ostentarse como integrantes del mismo. Dichas entidades financieras contarán con un plazo máximo de sesenta días hábiles contado a partir de la publicación de la revocación en el citado Diario Oficial, para suspender la oferta de los productos y prestación de los servicios financieros en las sucursales de las demás entidades financieras que integraban el Grupo Financiero.
 Reforma DOF 24-01-2024: Derogó del artículo el entonces párrafo cuarto
 
 ### Artículo 124
@@ -1371,6 +1402,7 @@ Reforma DOF 24-01-2024: Derogó del artículo el entonces párrafo cuarto
 .- Las Sociedades Controladoras a las que se les haya revocado la autorización conforme al presente Capítulo, deberán sujetarse en lo consecuente, a las disposiciones establecidas en el Capítulo II del presente Título.
 
 ## CAPÍTULO II — De la disolución, liquidación y del concurso mercantil
+
 
 ### Artículo 126
 .- La disolución, liquidación y el concurso mercantil de las Sociedades Controladoras se regirá por lo dispuesto en la Ley General de Sociedades Mercantiles y, en su caso, por la Ley de Concursos Mercantiles, con las excepciones siguientes:
@@ -1444,6 +1476,7 @@ Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesen
 
 ## CAPÍTULO III — De la intervención
 
+
 ### Artículo 127
 .- La Comisión Supervisora podrá declarar la intervención gerencial de la Sociedad Controladora cuando, a su juicio, existan irregularidades de cualquier género que afecten su estabilidad, solvencia o liquidez y pongan en peligro los intereses del público o de sus acreedores.
 Asimismo, la citada Comisión podrá declarar la intervención gerencial de la Sociedad Controladora cuando en alguna de las entidades financieras que integren el Grupo Financiero al que pertenece la Sociedad Controladora se haya decretado una intervención con tal carácter.
@@ -1513,14 +1546,17 @@ El interventor-gerente continuará en el desempeño de su encargo, mientras no s
 
 ## TÍTULO OCTAVO — De los procedimientos administrativos
 
+
 ## CAPÍTULO I — Disposiciones preliminares
+
 
 ### Artículo 141
 .- En los procedimientos administrativos de imposición de sanciones previstos en esta Ley se admitirán toda clase de pruebas. En el caso de la confesional a cargo de autoridades, ésta deberá ser desahogada por escrito.
 Una vez desahogado el derecho de audiencia a que se refiere el artículo 143 de esta Ley o bien, presentado el escrito mediante el cual se interponga recurso de revisión, únicamente se admitirán pruebas supervenientes, siempre y cuando no se haya emitido la resolución correspondiente.
 La Comisión Supervisora podrá allegarse de los medios de prueba que considere necesarios, pudiendo al efecto acordar sobre la admisibilidad de las pruebas ofrecidas. Sólo podrán rechazarse las pruebas aportadas por los interesados cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto, sean improcedentes, innecesarias o contrarias a la moral o al derecho.
 La valoración de las pruebas se hará conforme a lo establecido por el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Concluido el desahogo de pruebas se emitirá la resolución correspondiente, sin que, para emitir dicha resolución, sea necesaria la notificación previa al interesado.
+Párrafo reformado DOF 14-11-2025
+Concluido el desahogo de pruebas se emitirá la resolución correspondiente, sin que, para emitir dicha resolución, sea necesaria la notificación previa al interesado.
 
 ### Artículo 142
 .- La facultad de la Comisión Supervisora para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción.
@@ -1531,10 +1567,12 @@ En caso de que el infractor pague las multas impuestas por la Comisión Supervis
 
 ## CAPÍTULO II — De la imposición de sanciones administrativas
 
+
 ### Artículo 143
 .- La Comisión Supervisora, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
 
-I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La referida Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique, y Fracción reformada DOF 24-01-2024
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La referida Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquél en que se practique, y
+Fracción reformada DOF 24-01-2024
 
 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
 
@@ -1548,8 +1586,10 @@ c) La cuantía de la operación, y
 
 d) La intención de realizar la conducta.
 Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, la Comisión Supervisora contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
-Párrafo adicionado DOF 24-01-2024 Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión Supervisora notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
+Párrafo adicionado DOF 24-01-2024
+Una vez desahogadas las pruebas admitidas al presunto infractor, la Comisión Supervisora notificará la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador e imponer, en su caso, las sanciones que conforme a derecho procedan.
 Párrafo adicionado DOF 24-01-2024
 
 ### Artículo 144
@@ -1677,6 +1717,7 @@ Las personas que, sin contar con la autorización respectiva, se organicen y fun
 
 ## CAPÍTULO III — De los delitos
 
+
 ### Artículo 157
 .- Serán sancionados con prisión de dos a diez años, los miembros del consejo de administración, directivos, funcionarios, empleados o auditores externos, de una Sociedad Controladora del Grupo Financiero, que cometan cualquiera de las siguientes conductas:
 
@@ -1711,7 +1752,8 @@ La pena a que se refiere este artículo será de uno a tres años de prisión cu
 ### Artículo 161
 .- Los delitos previstos en esta Ley únicamente se perseguirán a petición de la Secretaría, previa opinión de la Comisión Supervisora, salvo tratándose del delito previsto en el artículo anterior del presente ordenamiento legal, el cual únicamente podrá perseguirse por querella de las víctimas u ofendidos que sean titulares de al menos treinta y tres por ciento del capital social de la Sociedad Controladora del Grupo Financiero o de las entidades financieras en las que ejerza el Control, o bien, a petición de la Secretaría, previa opinión de la Comisión Supervisora, siempre que así lo soliciten las víctimas u ofendidos que sean titulares de al menos el diez por ciento del capital social de la sociedad de que se trate.
 Dicha Comisión podrá abstenerse de emitir la opinión a que se refiere este artículo, cuando se trate de delitos en que los daños y perjuicios causados no excedan de 25,000 días de salario mínimo general diario vigente para el Distrito Federal, siempre y cuando se haya reparado el daño y resarcido el perjuicio a la víctima u ofendido, sin que hubiese mediado acto de autoridad alguna; que se trate de hechos en los que participen personas que no hayan estado relacionadas anteriormente con hechos ilícitos que afecten al sistema financiero; que no se trate de delito grave en términos del Código Nacional de Procedimientos Penales, y que a juicio de la referida Comisión los probables responsables hubiesen colaborado eficazmente, proporcionando información veraz para la investigación respectiva.
-Párrafo reformado DOF 14-11-2025 En los asuntos en que la Comisión Supervisora se hubiere abstenido de emitir la opinión a que se refiere el primer párrafo de este artículo, deberá informar a la Secretaría sobre su determinación.
+Párrafo reformado DOF 14-11-2025
+En los asuntos en que la Comisión Supervisora se hubiere abstenido de emitir la opinión a que se refiere el primer párrafo de este artículo, deberá informar a la Secretaría sobre su determinación.
 
 ### Artículo 162
 .- Los delitos previstos en esta Ley solo admitirán comisión dolosa. La acción penal en los casos previstos en esta Ley perseguibles por petición de la Secretaría, por el Grupo Financiero ofendido, o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o Grupo Financiero o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable y, si no tiene ese conocimiento, en cinco años que se computarán conforme a las reglas
@@ -1735,6 +1777,7 @@ Para efectos de este artículo, las autoridades judiciales o ministeriales feder
 En los casos de cuerpos de seguridad pública de las entidades federativas o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados con la Federación.
 
 ## CAPÍTULO IV — De las notificaciones
+
 
 ### Artículo 165
 .- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de revocación de las autorizaciones a que se refiere la presente Ley, así como las autorizaciones a que se refiere el presente ordenamiento legal y las resoluciones administrativas que le recaigan a los recursos de revocación interpuestos conforme a esta Ley, se podrán notificar de las siguientes maneras:
@@ -1817,7 +1860,9 @@ V. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico
 
 ## TÍTULO NOVENO — De los consejos de coordinación de autoridades financieras
 
+
 ## CAPÍTULO I — De los consejos de coordinación para el desarrollo del sistema financiero
+
 
 ### Artículo 177
 .- El Presidente de la República podrá constituir consejos que tengan por objeto facilitar la coordinación de las medidas y acciones en materia del sistema financiero que, en el ámbito de sus respectivas atribuciones, deban realizar o implementar la Secretaría, las dependencias o entidades de la Administración Pública Federal respectivas y el Banco de México.
@@ -1825,6 +1870,7 @@ Dichos consejos se podrán constituir para tratar temas relacionados con el desa
 Los consejos podrán ser transitorios o permanentes y serán presididos por quien determine el Presidente de la República.
 
 ## CAPÍTULO II — Del Consejo de Estabilidad del Sistema Financiero
+
 
 ### Artículo 178
 .- El Consejo de Estabilidad del Sistema Financiero es la instancia de coordinación permanente, evaluación y análisis de riesgos en la estabilidad financiera entre las autoridades que lo integran, a efecto de evitar interrupciones o alteraciones sustanciales en el funcionamiento del sistema financiero y, en su caso, minimizar su impacto cuando estas tengan lugar.
@@ -1871,6 +1917,7 @@ Toda información contenida en las actas del Consejo y, en general, aquella otra
 El Secretario Ejecutivo será asistido en sus funciones por un secretario suplente, quien también deberá ser un servidor público del Banco de México y cubrirá sus ausencias.
 
 ## CAPÍTULO III — Del Consejo Nacional de Inclusión Financiera
+
 
 ### Artículo 183
 .- El Consejo Nacional de Inclusión Financiera es la instancia de consulta, asesoría y coordinación, que tiene por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de una Política Nacional de Inclusión Financiera.
@@ -1946,6 +1993,7 @@ El Secretario Ejecutivo será asistido en sus funciones por un secretario suplen
 
 ## CAPÍTULO IV — Del Comité de Educación Financiera
 
+
 ### Artículo 188
 .- El Comité de Educación Financiera será la instancia de coordinación de los esfuerzos, acciones y programas en materia de educación financiera de los integrantes que lo conforman, con el fin de alcanzar una Estrategia Nacional de Educación Financiera, evitando la duplicidad de esfuerzos y propiciando la maximización de los recursos.
 
@@ -1996,6 +2044,7 @@ Al Secretario Ejecutivo y al Secretario Técnico les corresponderá el ejercicio
 
 ## CAPÍTULO V — Del intercambio de información
 
+
 ### Artículo 193
 .- El intercambio de información que efectúen entre sí las autoridades que participen en los consejos de coordinación, Consejo de Estabilidad del Sistema Financiero, Consejo Nacional de Inclusión Financiera o Comité de Educación Financiera, no implicará transgresión alguna a las obligaciones de reserva, confidencialidad, secrecía o análogas que se deban observar conforme a las disposiciones legales aplicables, y por lo tanto, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables.
 Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
@@ -2021,7 +2070,7 @@ ARTÍCULOS QUINCUAGÉSIMO TERCERO Y QUINCUAGÉSIMO CUARTO.- ……….
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley para Regular las Instituciones de Tecnología Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018
@@ -2038,7 +2087,7 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 ### Artículo Quinto
 Se reforman los artículos 123, párrafos primero y actual tercero; y 143, fracción I; y se adicionan los artículos 122, con los párrafos tercero y cuarto; 123, con los párrafos tercero, cuarto y
-**quinto.** , recorriéndose los subsecuentes; y 143, con los párrafos segundo, tercero y cuarto; y se deroga el artículo 123, actual cuarto párrafo, de la Ley para Regular las Agrupaciones Financieras, para quedar como sigue: ………
+**quinto.-** , recorriéndose los subsecuentes; y 143, con los párrafos segundo, tercero y cuarto; y se deroga el artículo 123, actual cuarto párrafo, de la Ley para Regular las Agrupaciones Financieras, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2054,12 +2103,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

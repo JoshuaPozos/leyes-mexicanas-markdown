@@ -19,6 +19,7 @@ LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general en todo el territorio nacional y tiene por objeto la protección de los datos personales en posesión de los particulares, con la finalidad de regular su tratamiento legítimo, controlado e informado, a efecto de garantizar la privacidad y el derecho a la autodeterminación informativa de las personas.
 Quedan exceptuados de la aplicación de la presente Ley:
@@ -74,9 +75,11 @@ XX. Transferencia: Toda comunicación de datos personales dentro o fuera del ter
 
 ### Artículo 4
 .- A falta de disposición expresa en esta Ley, se aplicarán de manera supletoria las Procedimiento Administrativo.
-Párrafo reformado DOF 14-11-2025 Para la substanciación de los procedimientos de protección de derechos, de verificación e imposición de sanciones se observarán las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo.
+Párrafo reformado DOF 14-11-2025
+Para la substanciación de los procedimientos de protección de derechos, de verificación e imposición de sanciones se observarán las disposiciones contenidas en la Ley Federal de Procedimiento Administrativo.
 
 ## Capítulo II — De los Principios de Protección de Datos Personales
+
 
 ### Artículo 5
 . El responsable deberá observar los principios de licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad en el tratamiento de datos personales.
@@ -170,6 +173,7 @@ Los responsables no adoptarán medidas de seguridad menores a aquellas que mante
 
 ## Capítulo III — De los Derechos de las Personas Titulares de Datos Personales
 
+
 ### Artículo 21
 . Cualquier persona titular o, en su caso, su representante legal, podrá ejercer los derechos ARCO previstos en la presente Ley.
 El ejercicio de cualquiera de los derechos ARCO no es requisito previo ni impide el ejercicio de otro.
@@ -213,6 +217,7 @@ II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le 
 No procederá el ejercicio del derecho de oposición en aquellos casos en los que el tratamiento sea necesario para el cumplimiento de una obligación legal impuesta al responsable.
 
 ## Capítulo IV — Del Ejercicio de los Derechos de Acceso, Rectificación, Cancelación y Oposición
+
 
 ### Artículo 27
 . La persona titular o su representante legal podrán solicitar al responsable en cualquier momento el ejercicio de los derechos ARCO, respecto de los datos personales que le conciernen.
@@ -266,6 +271,7 @@ Cuando una misma persona titular o su representante reitera su solicitud en un p
 
 ## Capítulo V — De la Transferencia de Datos
 
+
 ### Artículo 35
 . Cuando el responsable pretenda transferir los datos personales a terceros nacionales o extranjeros, distintos de la persona encargada deberá comunicar a éstos el aviso de privacidad y las finalidades a las que la persona titular sujetó su tratamiento.
 El tratamiento de los datos se hará conforme a lo convenido en el aviso de privacidad, el cual contendrá una cláusula en la que se indique si la persona titular acepta o no la transferencia de sus datos, de igual manera, el tercero receptor, asumirá las mismas obligaciones que correspondan al responsable que transfirió los datos.
@@ -289,11 +295,13 @@ VII. La transferencia sea precisa para el mantenimiento o cumplimiento de una re
 
 ## Capítulo VI — De la Autorregulación
 
+
 ### Artículo 37
 . Las personas físicas o morales podrán convenir entre ellas o con organizaciones civiles o gubernamentales, nacionales o extranjeras, esquemas de autorregulación vinculante en la materia, que complementen lo dispuesto por la presente Ley. Dichos esquemas deberán contener mecanismos para medir su eficacia en la protección de los datos, consecuencias y medidas correctivas eficaces en caso de incumplimiento.
 Los esquemas de autorregulación podrán traducirse en códigos deontológicos o de buena práctica profesional, sellos de confianza u otros mecanismos y contendrán reglas o estándares específicos que permitan armonizar los tratamientos de datos efectuados por los adheridos y facilitar el ejercicio de los derechos de las personas titulares. Dichos esquemas serán notificados de manera simultánea a las autoridades correspondientes y a la Secretaría.
 
 ## Capítulo VII — De la Secretaría
+
 
 ### Artículo 38
 . La Secretaría, para efectos de esta Ley, tendrá por objeto difundir el conocimiento del derecho a la protección de datos personales en la sociedad mexicana, promover su ejercicio y vigilar por la debida observancia de las disposiciones previstas en la presente Ley y que deriven de la misma; en particular aquellas relacionadas con el cumplimiento de obligaciones por parte de los sujetos regulados por este ordenamiento.
@@ -324,6 +332,7 @@ X. Difundir el conocimiento de las obligaciones en torno a la protección de dat
 XI. Las demás que le confieran esta Ley y demás ordenamientos aplicables.
 
 ## Capítulo VIII — Del Procedimiento de Protección de Derechos
+
 
 ### Artículo 40
 . El procedimiento se iniciará a instancia de la persona titular de los datos o de su representante legal, expresando con claridad el contenido de su reclamación y de los preceptos de esta Ley que se consideran vulnerados. La solicitud de protección de datos deberá presentarse ante la Secretaría dentro de los quince días siguientes a la fecha en que se comunique la respuesta a la persona titular por parte del responsable.
@@ -421,6 +430,7 @@ Si la resolución de la Secretaría a que se refiere el párrafo anterior determ
 
 ## Capítulo IX — Del Procedimiento de Verificación
 
+
 ### Artículo 54
 . La Secretaría verificará el cumplimiento de la presente Ley y de la normatividad que de ésta derive. La verificación podrá iniciarse de oficio o a petición de parte.
 La verificación de oficio procederá cuando se dé el incumplimiento a resoluciones dictadas con motivo de procedimientos de protección de derechos a que se refiere el Capítulo anterior o se presuma fundada y motivadamente la existencia de violaciones a la presente Ley.
@@ -431,6 +441,7 @@ Las personas servidoras públicas estarán obligadas a guardar confidencialidad 
 El Reglamento desarrollará la forma, términos y plazos en que se sustanciará el procedimiento a que se refiere el presente artículo.
 
 ## Capítulo X — Del Procedimiento de Imposición de Sanciones
+
 
 ### Artículo 56
 . Si con motivo del desahogo del procedimiento de protección de derechos o del procedimiento de verificación que realice la Secretaría, ésta tuviera conocimiento de un presunto incumplimiento de alguno de los principios o disposiciones de esta Ley, iniciará el procedimiento de imposición de sanciones.
@@ -443,6 +454,7 @@ Cuando haya causa justificada, la Secretaría podrá ampliar por una vez y hasta
 El Reglamento desarrollará la forma, términos y plazos en que se sustanciará el procedimiento de imposición de sanciones, incluyendo presentación de pruebas y alegatos, la celebración de audiencias y el cierre de instrucción.
 
 ## Capítulo XI — De las Infracciones y Sanciones
+
 
 ### Artículo 58
 . Constituyen infracciones a esta Ley, las conductas llevadas a cabo por el responsable:
@@ -514,6 +526,7 @@ V. La reincidencia.
 
 ## Capítulo XII — De los Delitos en Materia del Tratamiento Indebido de Datos Personales
 
+
 ### Artículo 62
 . Se impondrán de tres meses a tres años de prisión al que, estando autorizado para tratar datos personales, con ánimo de lucro, provoque una vulneración de seguridad a las bases de datos bajo su custodia.
 
@@ -530,7 +543,6 @@ V. La reincidencia.
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
 **Segundo.-** A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
-
 I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el 5 de julio de 2010;
 
 II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 4 de mayo de 2015 y sus modificaciones posteriores;
@@ -563,7 +575,7 @@ La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad gar
 La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
 **Décimo Cuarto.-** El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 **Décimo Quinto.-** Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y
-**Décimo Tercero.** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios
+**Décimo Tercero.-** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios
 
 ## transitorios
 
@@ -586,12 +598,12 @@ Octavo.- Se reforma el artículo 4 de la Ley Federal de Protección de Datos Per
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

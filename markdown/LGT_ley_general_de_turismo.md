@@ -15,11 +15,14 @@ Se expide la Ley General de Turismo.
 
 ## TÍTULO PRIMERO
 
+
 ## CAPÍTULO ÚNICO — De las Disposiciones Generales
+
 
 ### Artículo 1
 . La presente Ley es de orden público e interés social, de observancia general en toda la República en materia turística, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Secretaría de Turismo, y en el ámbito de sus respectivas competencias a las Dependencias y Entidades de la Administración Pública Federal, así como a los Estados, Municipios y la Ciudad de México. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Federal, a través de la Secretaría de Turismo.
-Párrafo reformado DOF 22-12-2017 La materia turística comprende los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
+Párrafo reformado DOF 22-12-2017
+La materia turística comprende los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
 Los procesos que se generan por la materia turística son una actividad prioritaria nacional que, bajo el enfoque social y económico, genera desarrollo regional.
 
 ### Artículo 2
@@ -111,7 +114,9 @@ XXI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territo
 
 ## TÍTULO SEGUNDO — De la Concurrencia y Coordinación de Autoridades
 
+
 ## CAPÍTULO I — De la Federación
+
 
 ### Artículo 4
 . Son atribuciones del Poder Ejecutivo Federal, que se ejercerán a través de la Secretaría:
@@ -162,11 +167,13 @@ II. Elaborar y ejecutar programas de desarrollo de la actividad turística, y
 
 III. Realizar acciones operativas que complementen los fines previstos en este ordenamiento.
 En los convenios o acuerdos de coordinación a que se refiere este artículo se podrán establecer las políticas y acciones que habrán de instrumentar los gobiernos Federal, Estatal y Municipal, y la Ciudad de México para fomentar las inversiones y propiciar el desarrollo integral y sustentable en beneficio de los habitantes de la Zona; así como los compromisos que asumen dichos órdenes de gobierno para coordinar sus acciones dentro de éstas.
-Párrafo reformado DOF 22-12-2017 Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
+Párrafo reformado DOF 22-12-2017
+Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
 Para los efectos de lo antes dispuesto, los convenios o acuerdos de coordinación que celebre el Ejecutivo Federal, por conducto de la Secretaría, con los gobiernos de los Estados o de la Ciudad de México, con la participación, en su caso, de sus Municipios, deberán sujetarse a las bases previstas en el reglamento de esta Ley.
 Párrafo reformado DOF 22-12-2017
 
 ## CAPÍTULO II — De las Dependencias Concurrentes en Materia Turística
+
 
 ### Artículo 6
 . En aquellos casos en que para la debida atención de un asunto, por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera de la intervención de otras dependencias o entidades de la Administración Pública Federal, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
@@ -219,6 +226,7 @@ XVIII. Las demás previstas en éste y otros ordenamientos.
 . La Secretaría se coordinará con las dependencias y entidades competentes de la Administración Pública Federal para la realización de las acciones conducentes cuando la actividad turística de alguna región del país haya resultado considerablemente afectada, o esté en peligro de serlo, por fenómenos naturales.
 
 ## CAPÍTULO III — De los Estados y la Ciudad de México
+
 Denominación del Capítulo reformada DOF 22-12-2017
 
 ### Artículo 9
@@ -270,6 +278,7 @@ XXI. Las demás previstas en éste y otros ordenamientos.
 
 ## CAPÍTULO IV — De los Municipios
 
+
 ### Artículo 10
 . Corresponde a los Municipios, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes atribuciones:
 
@@ -311,6 +320,7 @@ XVII. Las demás previstas en éste y otros ordenamientos.
 
 ## CAPÍTULO V — De la Comisión Ejecutiva de Turismo
 
+
 ### Artículo 11
 . La Comisión Ejecutiva de Turismo es una comisión de carácter intersecretarial, que tendrá por objeto conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la Administración Pública Federal, así como fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 La Comisión será presidida por la persona titular de la Secretaría, quién tendrá voto de calidad, y estará integrada por personas con el nivel de subsecretaría que designen las personas titulares de las dependencias y sus equivalentes en la entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables. Asimismo, podrán ser invitados a participar las principales organizaciones sectoriales de turismo, instituciones de educación superior, representantes de los sectores social y privado, exclusivamente con derecho a voz, garantizando en todo momento el principio de paridad de género.
@@ -318,20 +328,25 @@ Párrafo reformado DOF 07-12-2022
 
 ## CAPÍTULO VI — De los Consejos Consultivos
 
+
 ### Artículo 12
 . El Consejo Consultivo de Turismo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública Federal, con el fin de lograr un desarrollo integral de la actividad turística nacional, utilizando entre otros mecanismo los foros de consulta y memorias publicadas.
 Será presidido por la persona titular de la Secretaría, y estará integrado por representantes de las dependencias y entidades relacionadas con la actividad turística, así como integrantes del sector académico, conforme a lo que establezcan las disposiciones reglamentarias, garantizando en todo momento el principio de paridad de género.
-Párrafo reformado DOF 07-12-2022 Podrán ser invitadas las instituciones y demás entidades públicas, federales o locales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
+Párrafo reformado DOF 07-12-2022
+Podrán ser invitadas las instituciones y demás entidades públicas, federales o locales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
 ### Artículo 13
 . Los Estados y la Ciudad de México conformarán sus Consejos Consultivos Locales de Turismo, con el fin de lograr un desarrollo integral de la actividad turística local.
 Los Consejos Consultivos Locales de Turismo serán presididos por la persona titular del Ejecutivo Estatal y, en su caso, por la persona titular de la Jefatura de Gobierno de la Ciudad de México, y estarán integrados por las o los funcionarios locales que tengan a su cargo la materia turística, y aquéllos que determine la persona titular del Ejecutivo Local, y las presidentas o presidentes municipales conforme a lo que establezcan las disposiciones reglamentarias, garantizando en todo momento el principio de paridad de género.
-Párrafo reformado DOF 07-12-2022 Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado o en la Ciudad de México, las cuales participarán únicamente con derecho a voz.
+Párrafo reformado DOF 07-12-2022
+Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado o en la Ciudad de México, las cuales participarán únicamente con derecho a voz.
 Artículo reformado DOF 22-12-2017
 
 ## TÍTULO TERCERO — De la Política y Planeación de la Actividad Turística
 
+
 ## CAPÍTULO I — Del Atlas Turístico de México
+
 
 ### Artículo 14
 . Para elaborar el Atlas Turístico de México la Secretaría se coordinará con otras dependencias e instituciones y en forma concurrente con las Entidades Federativas y Municipios.
@@ -339,11 +354,14 @@ El Atlas Turístico de México es una herramienta para la promoción de la activ
 
 ## CAPÍTULO II — De la Incorporación de la Actividad Turística a las Cadenas Productivas
 
+
 ### Artículo 15
 . La Secretaría, los Estados, Municipios y la Ciudad de México, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías locales y buscar el desarrollo regional.
-Párrafo reformado DOF 22-12-2017 Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
+Párrafo reformado DOF 22-12-2017
+Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
 
 ## CAPÍTULO III — Del Turismo Social
+
 
 ### Artículo 16
 . La Secretaría impulsará y promoverá el turismo social, el cual comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades con equidad para que las personas viajen con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de economía, seguridad y comodidad.
@@ -357,6 +375,7 @@ Párrafo reformado DOF 22-12-2017
 
 ## CAPÍTULO IV — Del Turismo Accesible
 
+
 ### Artículo 18
 . La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
 
@@ -368,6 +387,7 @@ Párrafo reformado DOF 22-12-2017
 
 ## CAPÍTULO V — De la Cultura Turística
 
+
 ### Artículo 20
 . La Secretaría, en coordinación con los Estados, los Municipios, la Ciudad de México y las dependencias de la Administración Pública Federal, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
 Artículo reformado DOF 22-12-2017
@@ -378,12 +398,14 @@ Artículo reformado DOF 17-12-2015
 
 ## CAPÍTULO VI — Del Programa Sectorial de Turismo
 
+
 ### Artículo 22
 . La Secretaría elaborará el Programa Sectorial, que se sujetará a los objetivos y metas establecidas para el sector en el Plan Nacional de Desarrollo.
 La Secretaría al especificar en el programa las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta cada ruta o región.
 El Programa Sectorial de Turismo podrá contener entre otros elementos metodológicos de la planificación, un diagnóstico y un pronóstico de la situación del turismo en el país, el ordenamiento turístico del territorio, y las políticas, objetivos y metas a corto, mediano y largo plazo de esta actividad, con observancia a lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables.
 
 ## CAPÍTULO VII — Del Ordenamiento Turístico del Territorio
+
 
 ### Artículo 23
 . En la formulación del ordenamiento turístico del territorio deberán considerarse los siguientes criterios:
@@ -453,7 +475,8 @@ I. Serán concordantes con los programas de ordenamiento turístico general y re
 II. Las autoridades locales harán compatibles sus ordenamientos turísticos del territorio, con los ordenamientos ecológicos del territorio, y sus planes o programas de desarrollo urbano y uso del suelo.
 Asimismo, los programas de ordenamiento turístico local preverán las disposiciones necesarias para la coordinación, entre las distintas autoridades involucradas, en la formulación y ejecución de los programas;
 
-III. Cuando un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado y aprobado en forma conjunta por la Secretaría y el gobierno de los Estados o el de la Ciudad de México de que se trate, y Fracción reformada DOF 22-12-2017
+III. Cuando un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado y aprobado en forma conjunta por la Secretaría y el gobierno de los Estados o el de la Ciudad de México de que se trate, y
+Fracción reformada DOF 22-12-2017
 
 IV. Las leyes locales en la materia, establecerán las formas y los procedimientos para que los particulares participen en la elaboración, ejecución, vigilancia y evaluación de los programas de ordenamiento turístico a que se refiere este precepto.
 Las dependencias y entidades de la Administración Pública Federal, participarán en la consulta a que se refiere la fracción anterior, y podrán emitir las recomendaciones que estimen convenientes.
@@ -463,11 +486,14 @@ Las dependencias y entidades de la Administración Pública Federal, participar�
 
 ## CAPÍTULO VIII — De las Zonas de Desarrollo Turístico Sustentable
 
+
 ### Artículo 31
 . Las Zonas de Desarrollo Turístico Sustentable podrán ser declaradas como tales por su desarrollo actual o potencial.
 El Ejecutivo Federal, los Estados, los Municipios y la Ciudad de México, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
-Párrafo reformado DOF 22-12-2017 Los Estados, Municipios y la Ciudad de México, podrán presentar ante la Secretaría, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable.
-Párrafo reformado DOF 22-12-2017 Los requisitos y el procedimiento para la emisión de la Declaratoria de Zona de Desarrollo Turístico Sustentable, así como la clasificación de las mismas, deberán establecerse en el reglamento respectivo.
+Párrafo reformado DOF 22-12-2017
+Los Estados, Municipios y la Ciudad de México, podrán presentar ante la Secretaría, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable.
+Párrafo reformado DOF 22-12-2017
+Los requisitos y el procedimiento para la emisión de la Declaratoria de Zona de Desarrollo Turístico Sustentable, así como la clasificación de las mismas, deberán establecerse en el reglamento respectivo.
 
 ### Artículo 32
 . Las áreas naturales protegidas no podrán formar parte de las Zonas de Desarrollo Turístico Sustentable.
@@ -487,7 +513,9 @@ Artículo reformado DOF 22-12-2017
 
 ## TÍTULO CUARTO — De la Promoción y Fomento al Turismo
 
+
 ## CAPÍTULO I — De la Promoción de la Actividad Turística
+
 
 ### Artículo 37
 . Los Estados, los Municipios y la Ciudad de México deberán coordinarse con la Secretaría para el desarrollo de las campañas de promoción turística en territorio nacional y el extranjero.
@@ -511,6 +539,7 @@ Artículo reformado DOF 08-04-2013. Derogado DOF 31-07-2019
 
 ## CAPÍTULO II — Del Fomento a la Actividad Turística
 
+
 ### Artículo 42
 . El Fondo, contribuirá a la planeación, programación, fomento y desarrollo de la actividad turística y de los recursos turísticos, así como a la promoción del financiamiento de las inversiones privadas y sociales.
 El Fondo estará sectorizado, para todos los efectos legales, en el ámbito de la Secretaría.
@@ -523,9 +552,11 @@ I. Las aportaciones que efectúen el Gobierno Federal, los gobiernos locales, lo
 
 II. Los créditos que obtenga de fuentes nacionales e internacionales;
 
-III. Los productos de sus operaciones y de las inversiones de fondos, y Fracción reformada DOF 03-05-2023
+III. Los productos de sus operaciones y de las inversiones de fondos, y
+Fracción reformada DOF 03-05-2023
 
-IV. Se deroga Fracción reformada DOF 25-05-2011. Derogada DOF 03-05-2023
+IV. Se deroga
+Fracción reformada DOF 25-05-2011. Derogada DOF 03-05-2023
 
 V. Los demás recursos que obtenga por cualquier otro concepto.
 
@@ -584,11 +615,14 @@ Cada representante propietario acreditará ante el Comité a sus respectivos sup
 
 ## TÍTULO QUINTO — De los Aspectos Operativos
 
+
 ## CAPÍTULO I — Del Registro Nacional de Turismo
+
 
 ### Artículo 46
 . El Registro Nacional de Turismo, es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal, los Estados, Municipios y la Ciudad de México, podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
-Párrafo reformado DOF 22-12-2017 En las disposiciones reglamentarias se establecerán todas aquellas personas físicas y morales obligadas a inscribirse en el Registro Nacional de Turismo.
+Párrafo reformado DOF 22-12-2017
+En las disposiciones reglamentarias se establecerán todas aquellas personas físicas y morales obligadas a inscribirse en el Registro Nacional de Turismo.
 
 ### Artículo 47
 . Corresponde a la Secretaría regular y coordinar la operación del Registro Nacional de Turismo, el cual será operado por los Estados, los Municipios y la Ciudad de México.
@@ -613,6 +647,7 @@ Artículo reformado DOF 22-12-2017
 
 ## CAPÍTULO II — De los Prestadores de Servicios Turísticos y de los Turistas
 
+
 ### Artículo 53
 . Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose la presente Ley, la Ley Federal de Protección al Consumidor y las demás leyes aplicables.
 
@@ -627,6 +662,7 @@ Artículo declarado inválido por sentencia de la SCJN a Controversia Constituci
 . Corresponde a la Secretaría expedir las Normas Oficiales Mexicanas relacionadas con la prestación de los servicios turísticos.
 
 ## CAPÍTULO III — De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
+
 
 ### Artículo 57
 . Los prestadores de servicios turísticos tendrán los siguientes derechos:
@@ -680,6 +716,7 @@ XII. Las demás que establezca la legislación aplicable en la materia.
 
 ## CAPÍTULO IV — De los Derechos y Obligaciones de los Turistas
 
+
 ### Artículo 61
 . Los turistas, con independencia de los derechos que les asisten como consumidores, tendrán en los términos previstos en esta Ley, los siguientes derechos:
 
@@ -710,6 +747,7 @@ IV. Pagar el precio de los servicios utilizados en el momento de la presentació
 
 ## CAPÍTULO V — De la Competitividad y Profesionalización en la Actividad Turística
 
+
 ### Artículo 63
 . Corresponde a la Secretaría promover la competitividad de la actividad turística, y en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, fomentar:
 
@@ -731,9 +769,11 @@ VI. La realización de acciones para favorecer las inversiones y proyectos turí
 
 ### Artículo 65
 . La Secretaría participará en la elaboración de programas de profesionalización turística y promoverá, en coordinación con las dependencias y entidades de la Administración Pública Federal, gobiernos de los Estados, Municipios y la Ciudad de México, organismos públicos, privados y sociales, nacionales e internacionales, el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
-Párrafo reformado DOF 22-12-2017 En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
+Párrafo reformado DOF 22-12-2017
+En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
 
 ## CAPÍTULO VI — De la Verificación
+
 
 ### Artículo 66
 . Corresponde a la Secretaría verificar el cumplimiento de esta Ley, su reglamento y las Normas Oficiales Mexicanas en materia de Turismo. La Secretaría por sí o a través de los gobiernos locales y municipales, en términos de los acuerdos de coordinación que se establezcan, ejecutará las órdenes de verificación a que haya lugar.
@@ -747,16 +787,19 @@ Las visitas de verificación se realizarán con el representante, apoderado lega
 
 ## CAPÍTULO VII — De las Sanciones y del Recurso de Revisión
 
+
 ### Artículo 68
 . Las infracciones a lo dispuesto en esta Ley, su Reglamento y las Normas Oficiales Mexicanas, así como las derivadas de las quejas de los turistas, serán sancionadas por la Secretaría, para lo cual deberá iniciar y resolver el procedimiento administrativo de infracción, de conformidad con lo Tratándose de quejas que se deriven del incumplimiento de disposiciones establecidas en otras leyes de las que conozca la Secretaría, deberá turnarlas a la autoridad competente.
 Cuando derivado de una queja presentada por un turista ante la Procuraduría Federal del Consumidor, se detecte el probable incumplimiento de las disposiciones de esta Ley o de las disposiciones que de ella emanen, la Secretaría, podrá iniciar el procedimiento administrativo correspondiente, así como requerir al prestador de servicios turísticos información que estime para esclarecer los hechos.
 
 ### Artículo 69
 . Los prestadores que no se inscriban en el Registro Nacional de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces de la Unidad de Medida y Actualización, vigente al momento en que se cometa la violación.
-Párrafo reformado DOF 22-12-2017 En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
+Párrafo reformado DOF 22-12-2017
+En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
 Los prestadores de servicios turísticos que omitan información o proporcionen información inexacta a las autoridades competentes, para su inscripción al Registro Nacional de Turismo, serán requeridos para que en un término de cinco días hábiles proporcione o corrija la información solicitada en el Registro.
 En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de doscientas hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, vigente al momento en que se cometa la infracción.
-Párrafo reformado DOF 22-12-2017 Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
+Párrafo reformado DOF 22-12-2017
+Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
 
 ### Artículo 70
 . Las infracciones a lo establecido en las fracciones I, III y X del artículo 58 de esta Ley, se sancionarán con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, vigente al momento en que se cometa la infracción.
@@ -773,17 +816,20 @@ En caso de reincidencia se aplicará multa de hasta seis veces la suma correspon
 ### Artículo 73
 . Contra las resoluciones dictadas por la Secretaría, con fundamento en esta Ley se podrá interponer el recurso de revisión previsto por la Ley Federal de Procedimiento Administrativo.
 Serán supletorias de la presente Ley, la Ley Federal de Procedimiento Administrativo y a falta de disposición expresa en la misma se aplicará el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 La Secretaría deberá dar a conocer al público en general, los resultados de las acciones de verificación y sanciones que se realicen anualmente, a través de los medios que se determinen en el reglamento.
+Párrafo reformado DOF 14-11-2025
+La Secretaría deberá dar a conocer al público en general, los resultados de las acciones de verificación y sanciones que se realicen anualmente, a través de los medios que se determinen en el reglamento.
 La Procuraduría Federal de Protección al Consumidor compartirá con la Secretaría información sobre los prestadores de servicios turísticos que tenga registrados en sus bases de datos, tanto en materia de quejas recibidas como en lo relativo a los contratos de adhesión que le sean presentados para su registro.
 ARTÍCULOS TRANSITORIOS DE LA Primero. La presente Ley entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 Segundo. Se abroga la Ley Federal de Turismo publicada en el Diario Oficial de la Federación el 31 de diciembre de 1992 y las reformas a la misma, publicadas en el Diario Oficial de la Federación.
 Tercero. Las disposiciones emitidas con fundamento en la Ley Federal de Turismo que no se opongan a la presente Ley, mantendrán su vigencia hasta en tanto no se publiquen nuevas disposiciones.
 Cuarto. El Ejecutivo Federal deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
 Párrafo declarado inválido por sentencia de la SCJN a Controversia Constitucional DOF 28-05-2013. Reformado DOF 10-11-2014 Los Estados y la Ciudad de México deberán adecuar a la presente Ley, su legislación en la materia, dentro de un año contado a partir de entrado en vigor el presente Decreto.
-Párrafo reformado DOF 22-12-2017 Quinto. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+Párrafo reformado DOF 22-12-2017
+Quinto. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
 Sexto. la Secretaría de Turismo deberá modernizar la estructura del Registro Nacional de Turismo, para lo cual contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
 La Secretaría, de manera coordinada con los Gobiernos locales, municipales y de la Ciudad de México, deberá establecer los mecanismos que permitan la inscripción al Registro Nacional de Turismo, con el objeto de que los prestadores cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
-Párrafo reformado DOF 22-12-2017 Concluido el proceso de modernización del Registro Nacional de Turismo, la Secretaría, deberá publicar en el Diario Oficial de la Federación la convocatoria nacional de inscripción al Registro Nacional de Turismo dirigida a los prestadores de servicios turísticos.
+Párrafo reformado DOF 22-12-2017
+Concluido el proceso de modernización del Registro Nacional de Turismo, la Secretaría, deberá publicar en el Diario Oficial de la Federación la convocatoria nacional de inscripción al Registro Nacional de Turismo dirigida a los prestadores de servicios turísticos.
 Los prestadores de servicios turísticos contarán con un término de doce meses para inscribirse al Registro Nacional de Turismo, que comenzará a correr un día después de la fecha en que se publique en el Diario Oficial de la Federación la convocatoria correspondiente. Una vez transcurrido dicho plazo para efectos de la inscripción se estará a lo establecido en el presente decreto.
 Séptimo. Los convenios, acuerdos y/o contratos, así como las obligaciones y/o derechos adquiridos, celebrados por el Fondo Nacional de Fomento al Turismo bajo el acrónimo FONATUR, así como los que se celebren, surtirán sus efectos jurídicos.
 Octavo. Las acciones derivadas de la entrada en vigor de esta Ley, así como las modificaciones a la estructura administrativa de la Secretaría, se realizarán conforme a la disponibilidad presupuestal de la misma.
@@ -805,11 +851,11 @@ Se reforma el artículo 43, fracción IV de la Ley General de Turismo, para qued
 ## TRANSITORIOS
 
 DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.-** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se adiciona un segundo párrafo al artículo 41 de la Ley General de Turismo.
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
@@ -828,10 +874,10 @@ PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS.
 SECRETARIA: MAURA ANGÉLICA SANABRIA MARTÍNEZ.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día veinticuatro de enero de dos mil trece.
 VISTOS; Y RESULTANDO:
-**PRIMERO.** A DÉCIMO SEGUNDO. ……..
+**PRIMERO.-** A DÉCIMO SEGUNDO. ……..
 CONSIDERANDO:
-**PRIMERO.** A SÉPTIMO. ………
-**OCTAVO.** Efectos de la declaratoria de invalidez.
+**PRIMERO.-** A SÉPTIMO. ………
+**OCTAVO.-** Efectos de la declaratoria de invalidez.
 La controversia constitucional tiene alcances y efectos jurídicos relevantes en su función de mecanismo de control de la Constitución Mexicana. Basta con observar cuáles son las partes legitimadas que la hacen procedente para identificar su naturaleza procesal.
 Las normas que constituyen la esencia de este tipo de conflictos constitucionales, son generales y de interés público en razón de que derivan del ejercicio de la competencia y facultades de distintos órganos que representan y materializan el ejercicio del poder del Estado.
 En este medio de control constitucional la declaratoria de invalidez decretada debe tener efectos sólo entre las partes en la controversia, por virtud de lo siguiente:
@@ -845,11 +891,11 @@ Así, este Alto Tribunal estima que si la razón de inconstitucionalidad deriva 
 Por otra parte, en relación con la invalidez del artículo 54, en la porción normativa que indica “la Secretaría mediante”, de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación, así como del primer párrafo del artículo Cuarto transitorio de la misma, el efecto consiste en su expulsión del orden jurídico respecto del propio Distrito Federal.
 La presente sentencia producirá sus efectos a partir de su publicación en el Diario Oficial de la Federación, de conformidad con lo dispuesto en los artículos 41 y 45 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal.
 Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente controversia constitucional.
-**SEGUNDO.** Se reconoce la validez de los artículos 1o., 2o., 3o., fracciones I, X, XVIII, XX y XXI, 4o., fracciones III, VII, VIII y XII, 5o., fracción I, penúltimo y último párrafos, 9o., fracción VIII, y último párrafo, 24, primer párrafo y fracción II, 29, fracción I y último párrafo, 37, 40, 41, 47, 51, 53, 54, con la salvedad indicada en el punto resolutivo Cuarto, 56 y 66 de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación.
-**TERCERO.** Se declara la invalidez del artículo 39 de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación.
-**CUARTO.** Se declara la invalidez del artículo 54, en la porción normativa que indica “la Secretaría mediante”, de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación, así como del primer párrafo del artículo cuarto transitorio de la misma; y en vía de consecuencia la del diverso 48 de la propia ley, en la porción normativa de su párrafo primero que indica “la Secretaría a través del”, en los términos y para los efectos precisados en esta resolución.
-**QUINTO.** Publíquese esta sentencia en el Diario Oficial de la Federación, en la Gaceta Oficial del Distrito Federal y en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente controversia constitucional.
+**SEGUNDO.-** Se reconoce la validez de los artículos 1o., 2o., 3o., fracciones I, X, XVIII, XX y XXI, 4o., fracciones III, VII, VIII y XII, 5o., fracción I, penúltimo y último párrafos, 9o., fracción VIII, y último párrafo, 24, primer párrafo y fracción II, 29, fracción I y último párrafo, 37, 40, 41, 47, 51, 53, 54, con la salvedad indicada en el punto resolutivo Cuarto, 56 y 66 de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación.
+**TERCERO.-** Se declara la invalidez del artículo 39 de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación.
+**CUARTO.-** Se declara la invalidez del artículo 54, en la porción normativa que indica “la Secretaría mediante”, de la Ley General de Turismo, publicada el diecisiete de junio de dos mil nueve, en el Diario Oficial de la Federación, así como del primer párrafo del artículo cuarto transitorio de la misma; y en vía de consecuencia la del diverso 48 de la propia ley, en la porción normativa de su párrafo primero que indica “la Secretaría a través del”, en los términos y para los efectos precisados en esta resolución.
+**QUINTO.-** Publíquese esta sentencia en el Diario Oficial de la Federación, en la Gaceta Oficial del Distrito Federal y en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el pronunciamiento de procedencia contenido en el punto resolutivo Primero:
@@ -873,7 +919,7 @@ Publicado en el Diario Oficial de la Federación el 10 de noviembre de 2014
 
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 48, párrafo primero, 54 y Cuarto Transitorio, párrafo
-**primero.** de la Ley General de Turismo, para quedar como sigue: ………
+**primero.-** de la Ley General de Turismo, para quedar como sigue: ………
 
 ## TRANSITORIO
 
@@ -887,7 +933,7 @@ Se reforma la fracción VI del artículo 4 de la Ley General de Turismo, para qu
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de marzo de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Francisca Elena Corrales Corrales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de abril de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
@@ -897,19 +943,19 @@ Se REFORMAN los artículos 7, fracción XIII y 21 de la Ley General de Turismo, 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de Turismo.
@@ -917,7 +963,7 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017
 
 ### Artículo Único
 Se reforman los artículos 1, párrafo primero; 2, fracciones I, II y VIII; 4, fracciones III, VIII y XII segundo párrafo; 5, párrafos primero, segundo y cuarto; 7, fracción VIII; la denominación del Capítulo III del Título Segundo; 9, párrafo primero y fracción XII; 10, fracciones III y XV; 13; 15 párrafo
-**primero.** ; 17, párrafo segundo; 19, párrafo tercero; 20; 25, párrafo segundo; 26; 28, párrafo primero; 29, párrafo primero y fracción III; 31, párrafos segundo y tercero; 36; 37; 44, fracción III; 46, párrafo primero; 47; 51; 65, párrafo primero; 66, párrafo tercero; 69, párrafos primero y cuarto; 70; Cuarto transitorio, párrafo segundo y Sexto transitorio, párrafo segundo de la Ley General de Turismo, para quedar como sigue: ……….
+**primero.-** ; 17, párrafo segundo; 19, párrafo tercero; 20; 25, párrafo segundo; 26; 28, párrafo primero; 29, párrafo primero y fracción III; 31, párrafos segundo y tercero; 36; 37; 44, fracción III; 46, párrafo primero; 47; 51; 65, párrafo primero; 66, párrafo tercero; 69, párrafos primero y cuarto; 70; Cuarto transitorio, párrafo segundo y Sexto transitorio, párrafo segundo de la Ley General de Turismo, para quedar como sigue: ……….
 
 ## Transitorio
 
@@ -942,18 +988,18 @@ Se reforma el artículo 4, fracción II; y se derogan los artículos 3, fracció
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se ordena la desincorporación de la empresa de participación estatal mayoritaria denominada Consejo de Promoción Turística de México, S.A. de C.V. de la Administración Pública Federal, así mismo, la Asamblea General de Accionistas del Consejo de Promoción Turística de México, S.A. de C.V. deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, a efecto de aprobar su disolución y nombrar a su liquidador, quien tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, en términos de las disposiciones administrativas y presupuestables aplicables.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a la Secretaría de Turismo para el presente ejercicio fiscal 2019 y los subsecuentes, por lo que no se incrementará el presupuesto regularizable del ramo 21.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se ordena la desincorporación de la empresa de participación estatal mayoritaria denominada Consejo de Promoción Turística de México, S.A. de C.V. de la Administración Pública Federal, así mismo, la Asamblea General de Accionistas del Consejo de Promoción Turística de México, S.A. de C.V. deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, a efecto de aprobar su disolución y nombrar a su liquidador, quien tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, en términos de las disposiciones administrativas y presupuestables aplicables.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a la Secretaría de Turismo para el presente ejercicio fiscal 2019 y los subsecuentes, por lo que no se incrementará el presupuesto regularizable del ramo 21.
 Turismo, y en su caso de llegarse a realizar alguna modificación a la estructura orgánica del citado ramo, como resultado de la desincorporación del Consejo de Promoción Turística de México S.A. de C.V., ésta deberá llevarse a cabo mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, que serán cubiertos por el mismo ramo a costo compensado, toda vez que, no se autorizarán ampliaciones al presupuesto de dicha dependencia.
-**Cuarto.** El Consejo de Promoción Turística de México, S.A. de C.V. conservará su personalidad jurídica exclusivamente para efectos del proceso de disolución y liquidación, conforme a la Ley Federal instrumentos aplicables a su forma societaria.
-**Quinto.** La Secretaría de Turismo, en su carácter de dependencia coordinadora sectorial publicará, dentro de los treinta días siguientes al reconocimiento de la disolución y nombramiento del liquidador del Consejo de Promoción Turística de México, S.A. de C.V. por su Asamblea General de Accionistas, las bases para el proceso de liquidación de dicha empresa de participación estatal mayoritaria, atendiendo lo dispuesto en sus estatutos orgánico y sociales, y la normativa aplicable.
-**Sexto.** Los asuntos del Consejo de Promoción Turística de México, S.A. de C.V. que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán con su sustanciación de conformidad con la normativa jurídica aplicable al inicio de los mismos, hasta su conclusión por el liquidador.
+**Cuarto.-** El Consejo de Promoción Turística de México, S.A. de C.V. conservará su personalidad jurídica exclusivamente para efectos del proceso de disolución y liquidación, conforme a la Ley Federal instrumentos aplicables a su forma societaria.
+**Quinto.-** La Secretaría de Turismo, en su carácter de dependencia coordinadora sectorial publicará, dentro de los treinta días siguientes al reconocimiento de la disolución y nombramiento del liquidador del Consejo de Promoción Turística de México, S.A. de C.V. por su Asamblea General de Accionistas, las bases para el proceso de liquidación de dicha empresa de participación estatal mayoritaria, atendiendo lo dispuesto en sus estatutos orgánico y sociales, y la normativa aplicable.
+**Sexto.-** Los asuntos del Consejo de Promoción Turística de México, S.A. de C.V. que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán con su sustanciación de conformidad con la normativa jurídica aplicable al inicio de los mismos, hasta su conclusión por el liquidador.
 Los derechos y obligaciones que en materia de promoción turística haya contraído el Consejo de Promoción Turística de México, S.A. de C.V. y se encuentren vigentes a la entrada en vigor del presente Decreto, serán ejercidos y, en su caso, asumidos por la coordinadora de sector, en términos de la normativa aplicable y de las bases para la liquidación que se emitan para tal efecto.
 Los remanentes del proceso de liquidación del Consejo de Promoción Turística de México, S.A. de C.V., consistentes en activos, muebles e inmuebles y derechos de carácter patrimonial, podrán ser transferidos por el liquidador, para los efectos legales a los que haya lugar, al Servicio de Administración y Enajenación de Bienes o, en su caso, a la Tesorería de la Federación, previo a la conclusión de dicho proceso y en términos de las bases de liquidación y de la normativa aplicable.
-**Séptimo.** La Secretaría de Hacienda y Crédito Público y la de Turismo realizarán, en el ámbito de sus respectivas competencias, las gestiones que resulten necesarias para desincorporar al Consejo de Promoción Turística de México, S.A. de C.V., e intervenir en el proceso de liquidación, en términos de la normativa aplicable.
-**Octavo.** Los derechos de los trabajadores del Consejo de Promoción Turística de México, S.A. de C.V. serán respetados conforme a la legislación y normativa aplicables.
-**Noveno.** Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
+**Séptimo.-** La Secretaría de Hacienda y Crédito Público y la de Turismo realizarán, en el ámbito de sus respectivas competencias, las gestiones que resulten necesarias para desincorporar al Consejo de Promoción Turística de México, S.A. de C.V., e intervenir en el proceso de liquidación, en términos de la normativa aplicable.
+**Octavo.-** Los derechos de los trabajadores del Consejo de Promoción Turística de México, S.A. de C.V. serán respetados conforme a la legislación y normativa aplicables.
+**Noveno.-** Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
 Ciudad de México, a 19 de junio de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de julio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adiciona una fracción X Bis al artículo 7 de la Ley General de Turismo, en materia de Turismo Médico.
 Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2022
@@ -1005,12 +1051,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

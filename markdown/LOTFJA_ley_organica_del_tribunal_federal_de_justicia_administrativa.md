@@ -21,7 +21,9 @@ Se deroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrat
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I — Del Tribunal Federal de Justicia Administrativa
+
 
 ### Artículo 1
 . La presente Ley es de orden público e interés general y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del Tribunal Federal de Justicia Administrativa.
@@ -52,6 +54,7 @@ III. Presidente del Tribunal: El Presidente del Tribunal Federal de Justicia Adm
 IV. Tribunal: El Tribunal Federal de Justicia Administrativa.
 
 ## Capítulo II — De la competencia del Tribunal y los Conflictos de Intereses
+
 
 ### Artículo 3
 . El Tribunal conocerá de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se indican a continuación:
@@ -97,7 +100,9 @@ XVII. Las resoluciones de la Contraloría General del Instituto Nacional Elector
 XVIII. Las sanciones y demás resoluciones emitidas por la Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y
 
 XIX. Las señaladas en esta y otras leyes como competencia del Tribunal.
-El Tribunal podrá llevar a cabo mecanismos alternativos de solución de controversias a través del Centro Público, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de Párrafo adicionado DOF 26-01-2024 Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
+El Tribunal podrá llevar a cabo mecanismos alternativos de solución de controversias a través del Centro Público, de conformidad con lo dispuesto en la Ley General de Mecanismos Alternativos de
+Párrafo adicionado DOF 26-01-2024
+Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 El Tribunal conocerá también de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, cuando se consideren contrarias a la ley.
 
 ### Artículo 4
@@ -139,7 +144,9 @@ XV. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderad
 
 ## TÍTULO SEGUNDO — INTEGRACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
 
+
 ## Capítulo I — De la Estructura
+
 
 ### Artículo 6
 . El Tribunal se integra por los órganos colegiados siguientes:
@@ -152,6 +159,7 @@ III. Las Salas Regionales.
 
 ## Capítulo II — De la Sala Superior
 
+
 ### Artículo 7
 . La Sala Superior se integrará por dieciséis Magistrados. Funcionará en un Pleno General, en Pleno Jurisdiccional, y en tres Secciones. De los Magistrados de la Sala Superior, catorce ejercerán funciones jurisdiccionales, uno de los cuales presidirá el Tribunal de conformidad con las reglas establecidas en la presente Ley, y dos formarán parte de la Junta de Gobierno y Administración.
 
@@ -159,6 +167,7 @@ III. Las Salas Regionales.
 . La Sala Superior tendrá cada año dos períodos de sesiones; el primero comenzará el primer día hábil del mes de enero y terminará el antepenúltimo día hábil de la primera quincena del mes de julio; el segundo comenzará el primer día hábil del mes de agosto y terminará el antepenúltimo día hábil de la primera quincena del mes de diciembre.
 
 ## Capítulo III — De los plenos y Secciones de la Sala Superior
+
 
 ### Artículo 9
 . El Pleno General se conformará por el Presidente del Tribunal, por los trece Magistrados que integran las Secciones de la Sala Superior y por los dos Magistrados de la Sala Superior que forman parte de la Junta de Gobierno y Administración.
@@ -200,6 +209,7 @@ El Presidente del Tribunal no integrará Sección, salvo cuando sea requerido pa
 
 ## Capítulo IV — De las atribuciones del Pleno General
 
+
 ### Artículo 16
 . Son facultades del Pleno General las siguientes:
 
@@ -229,6 +239,7 @@ XII. Las señaladas en las demás leyes como competencia del Pleno General.
 En los acuerdos tomados por el Pleno General, en caso de empate, el Presidente del Tribunal tendrá voto de calidad.
 
 ## Capítulo V — De las atribuciones del Pleno Jurisdiccional
+
 
 ### Artículo 17
 . Son facultades del Pleno Jurisdiccional las siguientes:
@@ -260,6 +271,7 @@ XII. Podrá ejercer de oficio la facultad de atracción para la resolución de l
 XIII. Las señaladas en las demás leyes que competa conocer al Pleno Jurisdiccional de la Sala Superior del Tribunal.
 
 ## Capítulo VI — De las atribuciones de la Primera y Segunda Sección de la Sala Superior
+
 
 ### Artículo 18
 . Son facultades de la Primera y Segunda Sección, las siguientes:
@@ -297,6 +309,7 @@ Para la validez de las sesiones de la Secciones Primera y Segunda se requerirá 
 
 ## Capítulo VII — De las atribuciones de la Sección Tercera de la Sala Superior
 
+
 ### Artículo 20
 . Son facultades de la Tercera Sección las siguientes:
 
@@ -332,6 +345,7 @@ XIV. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
 XV. Las señaladas en las demás leyes como competencia exclusiva de la Sección.
 
 ## Capítulo VIII — De las atribuciones de la Junta de Gobierno y Administración
+
 
 ### Artículo 21
 . La Junta de Gobierno y Administración será el órgano del Tribunal que tendrá a su cargo la administración, vigilancia, disciplina y carrera jurisdiccional, y contará con autonomía técnica y de gestión para el adecuado cumplimiento de sus funciones.
@@ -445,6 +459,7 @@ Las faltas temporales de los Magistrados que integren la Junta de Gobierno y Adm
 
 ## Capítulo IX — De las Salas Regionales Ordinarias, Auxiliares, Especializadas o Mixtas
 
+
 ### Artículo 28
 . Las Salas Regionales tendrán el carácter siguiente:
 
@@ -501,6 +516,7 @@ XI. Comunicar a la Junta de Gobierno y Administración la falta de alguno de sus
 XII. Las demás que establezcan las disposiciones aplicables.
 
 ## Capítulo X — De las Salas Regionales Ordinarias
+
 
 ### Artículo 34
 . Las Salas Regionales Ordinarias conocerán de los juicios por razón de territorio, atendiendo al lugar donde se encuentre el domicilio fiscal del demandante, excepto cuando:
@@ -565,6 +581,7 @@ XV. Las demás que les correspondan conforme a las disposiciones legales aplicab
 
 ## Capítulo XI — De las Salas Especializadas en Materia de Responsabilidades Administrativas
 
+
 ### Artículo 37
 . El Tribunal contará con Salas Especializadas en materia de Responsabilidades Administrativas, cada una tendrá competencia respecto de las entidades que conformen las cinco circunscripciones administrativas, mismas que determinará el Pleno General a propuesta de la Junta de Gobierno y Administración, de acuerdo a estudios cualitativos y cuantitativos.
 
@@ -618,6 +635,7 @@ XIII. Las demás que les correspondan conforme a las disposiciones legales aplic
 
 ## Capítulo XII — De las Salas Regionales Auxiliares
 
+
 ### Artículo 40
 . Las Salas Auxiliares ejercerán jurisdicción material mixta y territorial en toda la República, y tendrán su sede en el lugar que determine el Reglamento Interior del Tribunal.
 Dichas Salas auxiliarán a las Salas Regionales, a las Salas Especializadas en materia de Responsabilidades Administrativas y a las Secciones tanto en el dictado de las sentencias definitivas, como en la instrucción de los juicios, según lo defina la Junta de Gobierno y Administración.
@@ -627,7 +645,9 @@ Dichas Salas auxiliarán a las Salas Regionales, a las Salas Especializadas en m
 
 ## TÍTULO TERCERO — DEL PERSONAL DEL TRIBUNAL
 
+
 ## Capítulo Único
+
 
 ### Artículo 42
 . El Tribunal tendrá los servidores públicos siguientes:
@@ -966,7 +986,9 @@ V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativa
 
 ## TÍTULO CUARTO — DE LOS PRECEDENTES, TESIS Y JURISPRUDENCIA
 
+
 ## Capítulo Único
+
 
 ### Artículo 68
 . La jurisprudencia y precedentes que deban establecer la Sala Superior actuando en Pleno o Secciones y los criterios aislados que pronuncien las Salas Regionales, en los asuntos de sus competencias, se regirán por las disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo.
@@ -979,22 +1001,22 @@ V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativa
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-**Segundo.** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
-**Tercero.** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+**Segundo.-** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+**Tercero.-** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
 El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
 Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos previstas en las leyes federales y locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
 Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
 Con la entrada en vigor de la Ley General de Responsabilidades Administrativas quedarán abrogadas Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
-**Cuarto.** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Cuarto.-** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
 La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes: a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador. b. Un integrante que durará en su encargo dos años. c. Un integrante que durará en su encargo tres años. d. Un integrante que durará en su encargo cuatro años. e. Un integrante que durará en su encargo cinco años.
 Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
 La sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
-**Quinto.** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Quinto.-** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
 El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
 Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
@@ -1002,7 +1024,7 @@ Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a l
 Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
-**primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+**primero.-** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
@@ -1028,11 +1050,11 @@ Se reforma la fracción II del artículo 3 de la Ley Orgánica del Tribunal Fede
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que se opongan al presente Decreto.
-**Tercero.** Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
-**Cuarto.** El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**Tercero.-** Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación, se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a derechos adquiridos, pues se trata de actuaciones futuras.
+**Cuarto.-** El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.
 Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio portal, el aviso de inicio de registro de usuarios digitales para autoridades.
 Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
-**Quinto.** El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
+**Quinto.-** El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la Federación, sin menoscabar el derecho de las partes de consultar los expedientes correspondientes.
 Ciudad de México, a 15 de octubre de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Vicepresidente en funciones de Presidente.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de octubre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

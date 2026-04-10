@@ -23,7 +23,8 @@ TITULO SEGUNDO DEL DESARROLLO Y FOMENTO AGROPECUARIOS
 
 ### Artículo 4o
 .- El Ejecutivo Federal promoverá el desarrollo integral y equitativo del sector rural mediante el fomento de las actividades productivas y de las acciones sociales con perspectiva de género, orientadas a elevar el bienestar de la población y su participación en la vida nacional, en condiciones de igualdad y paridad.
-Párrafo reformado DOF 25-04-2023 Las organizaciones de productores podrán elaborar propuestas de políticas de desarrollo y fomento al campo, las cuales serán concertadas con el Ejecutivo Federal para su aplicación.
+Párrafo reformado DOF 25-04-2023
+Las organizaciones de productores podrán elaborar propuestas de políticas de desarrollo y fomento al campo, las cuales serán concertadas con el Ejecutivo Federal para su aplicación.
 LEY AGRARIA
 
 ### Artículo 5o
@@ -41,7 +42,9 @@ TITULO TERCERO DE LOS EJIDOS Y COMUNIDADES
 
 ## Capítulo I — De los Ejidos
 
+
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 9o
 .- Los núcleos de población ejidales o ejidos tienen personalidad jurídica y patrimonio propio y son propietarios de las tierras que les han sido dotadas o de las que hubieren adquirido por cualquier otro título.
@@ -54,6 +57,7 @@ TITULO TERCERO DE LOS EJIDOS Y COMUNIDADES
 LEY AGRARIA Los ejidos colectivos ya constituidos como tales o que adopten la explotación colectiva podrán modificar o concluir el régimen colectivo mediante resolución de la asamblea, en los términos del artículo 23 de esta ley.
 
 ## Sección Segunda — De los Ejidatarios y Avecindados
+
 
 ### Artículo 12
 .- Son ejidatarios los hombres y las mujeres titulares de derechos ejidales.
@@ -82,7 +86,8 @@ III. Con la sentencia o resolución relativa del tribunal agrario.
 
 ### Artículo 17
 .- El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario, en su caso, a una de las hijas o uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
-Párrafo reformado DOF 08-03-2022 La lista de sucesión deberá ser depositada en el Registro Agrario Nacional o formalizada ante fedatario público. Con las mismas formalidades podrá ser modificada por el propio ejidatario, en cuyo caso será válida la de fecha posterior.
+Párrafo reformado DOF 08-03-2022
+La lista de sucesión deberá ser depositada en el Registro Agrario Nacional o formalizada ante fedatario público. Con las mismas formalidades podrá ser modificada por el propio ejidatario, en cuyo caso será válida la de fecha posterior.
 
 ### Artículo 18
 .- Cuando el ejidatario no haya hecho designación de sucesores, o cuando ninguno de los señalados en la lista de herederos pueda heredar por imposibilidad material o legal, los derechos agrarios se transmitirán de acuerdo con el siguiente orden de preferencia:
@@ -118,6 +123,7 @@ La desaparición en ningún caso podrá ser causal para perder la condición de 
 Artículo adicionado DOF 22-06-2018
 
 ## Sección Tercera — De los Organos del Ejido
+
 
 ### Artículo 21
 .- Son órganos de los ejidos:
@@ -271,7 +277,9 @@ V. Las demás que señale el reglamento de la junta de pobladores, que se limite
 
 ## Capítulo II — De las Tierras Ejidales
 
+
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 43
 .- Son tierras ejidales y por tanto están sujetas a las disposiciones relativas de esta ley las que han sido dotadas al núcleo de población ejidal o incorporadas al régimen ejidal.
@@ -312,6 +320,7 @@ La demanda presentada por cualquier interesado ante el tribunal agrario o la den
 .- El propio núcleo de población y los ejidatarios podrán constituir fondos de garantía para hacer frente a las obligaciones crediticias que contraigan, los cuales se crearán y organizarán de conformidad con los lineamientos que dicte el Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
 ## Sección Segunda — De las Aguas del Ejido
+
 LEY AGRARIA
 
 ### Artículo 52
@@ -327,6 +336,7 @@ LEY AGRARIA
 .- Los aguajes comprendidos dentro de las tierras ejidales, siempre que no hayan sido legalmente asignados individualmente, serán de uso común y su aprovechamiento se hará conforme lo disponga el reglamento interno del ejido o, en su defecto, de acuerdo con la costumbre de cada ejido, siempre y cuando no se contravenga la ley y normatividad de la materia.
 
 ## Sección Tercera — De la Delimitación y Destino de las Tierras Ejidales
+
 
 ### Artículo 56
 .- La asamblea de cada ejido, con las formalidades previstas a tal efecto en los artículos 24 a 28 y 31 de esta ley, podrá determinar el destino de las tierras que no estén formalmente parceladas, efectuar el parcelamiento de éstas, reconocer el parcelamiento económico o de hecho o regularizar la tenencia de los posesionarios o de quienes carezcan de los certificados correspondientes.
@@ -370,6 +380,7 @@ La asignación de tierras que no haya sido impugnada en un término de noventa d
 Cuando la asignación se hubiere hecho a un grupo de ejidatarios, se presumirá, salvo prueba en contrario, que gozan de dichos derechos en partes iguales, y serán ejercidos conforme a lo convenido entre ellos o, en su defecto, a lo que disponga el reglamento interno o la resolución de la asamblea y, supletoriamente, conforme a las reglas de copropiedad que dispone el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
 
 ## Sección Cuarta — De las Tierras del Asentamiento Humano
+
 
 ### Artículo 63
 .- Las tierras destinadas al asentamiento humano integran el área necesaria para el desarrollo de la vida comunitaria del ejido, que está compuesta por los terrenos en que se ubique la zona de urbanización y su fundo legal. Se dará la misma protección a la parcela escolar, la unidad agrícola industrial de la mujer, la unidad productiva para el desarrollo integral de la juventud y a las demás áreas reservadas para el asentamiento.
@@ -415,6 +426,7 @@ Artículo reformado DOF 03-06-2011
 
 ## Sección Quinta — De las Tierras de Uso Común
 
+
 ### Artículo 73
 .- Las tierras ejidales de uso común constituyen el sustento económico de la vida en comunidad del ejido y están conformadas por aquellas tierras que no hubieren sido especialmente reservadas por la asamblea para el asentamiento del núcleo de población, ni sean tierras parceladas.
 
@@ -441,6 +453,7 @@ En todo caso el ejido o los ejidatarios, según corresponda, tendrá derecho de 
 
 ## Sección Sexta — De las Tierras Parceladas
 
+
 ### Artículo 76
 .- Corresponde a los ejidatarios el derecho de aprovechamiento, uso y usufructo de sus parcelas.
 
@@ -461,7 +474,8 @@ Para la validez de la enajenación se requiere:
 
 a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público;
 
-b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y Inciso reformado DOF 19-12-2016
+b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y
+Inciso reformado DOF 19-12-2016
 
 c) Dar aviso por escrito al comisariado ejidal.
 Realizada la enajenación, el Registro Agrario Nacional, procederá a inscribirla y expedirá los nuevos certificados parcelarios, cancelando los anteriores. Por su parte, el comisariado ejidal deberá realizar la inscripción correspondiente en el libro respectivo.
@@ -491,6 +505,7 @@ La notificación hecha al comisariado, con la participación de dos testigos o a
 
 ## Sección Séptima — De las Tierras Ejidales en Zonas Urbanas
 
+
 ### Artículo 87
 .- Cuando los terrenos de un ejido se encuentren ubicados en el área de crecimiento de un centro de población, los núcleos de población ejidal podrán beneficiarse de la urbanización de sus tierras.
 En todo caso, la incorporación de las tierras ejidales al desarrollo urbano deberá sujetarse a las leyes, reglamentos y planes vigentes en materia de asentamientos humanos.
@@ -502,6 +517,7 @@ En todo caso, la incorporación de las tierras ejidales al desarrollo urbano deb
 .- En toda enajenación de terrenos ejidales ubicados en las áreas declaradas reservadas para el crecimiento de un centro de población, de conformidad con los planes de desarrollo urbano municipal, en favor de personas ajenas al ejido, se deberá respetar el derecho de preferencia de los gobiernos de los estados y municipios establecido por la Ley General de Asentamientos Humanos.
 
 ## Capítulo III — De la Constitución de Nuevos Ejidos
+
 
 ### Artículo 90
 .- Para la constitución de un ejido bastará:
@@ -522,6 +538,7 @@ LEY AGRARIA Será nula la aportación de tierras en fraude de acreedores.
 .- El ejido podrá convertir las tierras que hubiere adquirido bajo el régimen de dominio pleno al régimen ejidal, en cuyo caso el comisariado ejidal tramitará las inscripciones correspondientes en el Registro Agrario Nacional, a partir de lo cual dicha tierra quedará sujeta a lo dispuesto por esta ley para las tierras ejidales.
 
 ## Capítulo IV — De la Expropiación de Bienes Ejidales y Comunales
+
 
 ### Artículo 93
 .- Los bienes ejidales y comunales podrán ser expropiados por alguna o algunas de las siguientes causas de utilidad pública:
@@ -559,6 +576,7 @@ Artículo reformado DOF 25-06-2018
 .- Cuando los bienes expropiados se destinen a un fin distinto del señalado en el decreto respectivo, o si transcurrido un plazo de cinco años no se ha cumplido con la causa de utilidad pública, el fideicomiso Fondo Nacional de Fomento Ejidal ejercitará las acciones necesarias para reclamar la reversión parcial o total, según corresponda, de los bienes expropiados y opere la incorporación de éstos a su patrimonio.
 
 ## Capítulo V — De las Comunidades
+
 
 ### Artículo 98
 .- El reconocimiento como comunidad a los núcleos agrarios deriva de los siguientes procedimientos:
@@ -965,17 +983,22 @@ TITULO DECIMO DE LA JUSTICIA AGRARIA
 
 ## Capítulo I — Disposiciones Preliminares
 
+
 ### Artículo 163
 .- Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver las controversias que se susciten con motivo de la aplicación de las disposiciones contenidas en esta ley.
 
 ### Artículo 164
 .- En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito, además observarán lo siguiente:
 I.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas se considerarán los usos y costumbres de los pueblos y comunidades indígenas y afromexicanas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
-Fracción reformada DOF 01-04-2024 II.- Las promociones que los pueblos o comunidades indígenas y afromexicanas, o las personas pertenecientes a pueblos o comunidades indígenas y afromexicanas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
-Fracción reformada DOF 01-04-2024 III.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
-Párrafo reformado DOF 01-04-2024 En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
+Fracción reformada DOF 01-04-2024
+II.- Las promociones que los pueblos o comunidades indígenas y afromexicanas, o las personas pertenecientes a pueblos o comunidades indígenas y afromexicanas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+Fracción reformada DOF 01-04-2024
+III.- Los juicios en los que una o ambas partes sean personas pertenecientes a pueblos o comunidades indígenas o afromexicanas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+Párrafo reformado DOF 01-04-2024
+En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
 IV.- El tribunal asignará gratuitamente a las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
-Párrafo reformado DOF 01-04-2024 Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
+Párrafo reformado DOF 01-04-2024
+Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
 Artículo reformado DOF 22-06-2011
 
 ### Artículo 165
@@ -984,7 +1007,8 @@ LEY AGRARIA
 
 ### Artículo 166
 .- Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Título Segundo, Capítulo I, Sección Tercera, primera parte, de la Ley de Amparo.
-Párrafo reformado DOF 19-12-2016 En la aplicación de las disposiciones de ese ordenamiento para efectos de la suspensión del acto de autoridad en materia agraria, los tribunales agrarios considerarán las condiciones socioeconómicas de los interesados para el establecimiento de la garantía inherente a la reparación del daño e indemnización que pudiere causarse con la suspensión, si la sentencia no fuere favorable para el quejoso.
+Párrafo reformado DOF 19-12-2016
+En la aplicación de las disposiciones de ese ordenamiento para efectos de la suspensión del acto de autoridad en materia agraria, los tribunales agrarios considerarán las condiciones socioeconómicas de los interesados para el establecimiento de la garantía inherente a la reparación del daño e indemnización que pudiere causarse con la suspensión, si la sentencia no fuere favorable para el quejoso.
 Artículo reformado DOF 09-07-1993
 
 ### Artículo 167
@@ -998,13 +1022,16 @@ Artículo reformado DOF 14-11-2025
 .- Cuando el tribunal agrario recibiere inhibitoria de otro en que se promueva competencia y considerase debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá el expediente con el oficio inhibitorio, con informe especial al Tribunal Superior Agrario, el cual decidirá, en su caso, la competencia.
 
 ## Capítulo II
+
 Emplazamientos
 
 ### Artículo 170
 .- El actor puede presentar su demanda por escrito o por simple comparecencia; en este caso, se solicitará a la Procuraduría Agraria coadyuve en su formulación por escrito de manera concisa.
 En su actuación, dicho organismo se apegará a los principios de objetividad e imparcialidad debidas.
-Párrafo reformado DOF 09-07-1993 Recibida la demanda, se emplazará al demandado para que comparezca a contestarla a más tardar durante la audiencia. En el emplazamiento se expresará, por lo menos, el nombre del actor, lo que demanda, la causa de la demanda y la fecha y hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a cinco ni mayor a diez días, contado a partir de la fecha en que se practique el emplazamiento, y la advertencia de que en dicha audiencia se desahogarán las pruebas, salvo las que no puedan ser inmediatamente desahogadas, en cuyo caso se suspenderá la audiencia y el tribunal proveerá lo necesario para que sean desahogadas, en un plazo de quince días.
-Párrafo reformado DOF 09-07-1993 Atendiendo a circunstancias especiales de lejanía o apartamiento de las vías de comunicación y otras que hagan difícil el acceso de los interesados al tribunal, se podrá ampliar el plazo para la celebración de la audiencia hasta por quince días más.
+Párrafo reformado DOF 09-07-1993
+Recibida la demanda, se emplazará al demandado para que comparezca a contestarla a más tardar durante la audiencia. En el emplazamiento se expresará, por lo menos, el nombre del actor, lo que demanda, la causa de la demanda y la fecha y hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a cinco ni mayor a diez días, contado a partir de la fecha en que se practique el emplazamiento, y la advertencia de que en dicha audiencia se desahogarán las pruebas, salvo las que no puedan ser inmediatamente desahogadas, en cuyo caso se suspenderá la audiencia y el tribunal proveerá lo necesario para que sean desahogadas, en un plazo de quince días.
+Párrafo reformado DOF 09-07-1993
+Atendiendo a circunstancias especiales de lejanía o apartamiento de las vías de comunicación y otras que hagan difícil el acceso de los interesados al tribunal, se podrá ampliar el plazo para la celebración de la audiencia hasta por quince días más.
 Debe llevarse en los tribunales agrarios un registro en que se asentarán por días y meses, los nombres de actores y demandados y el objeto de la demanda.
 LEY AGRARIA
 
@@ -1021,11 +1048,16 @@ II. Su parcela u otro lugar que frecuente y en el que sea de creerse que se hall
 ### Artículo 173
 .- Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios, o cuando viviendo o trabajando en un lugar se negaren la o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar donde se encuentre.
 Previa certificación de que no pudo hacerse la notificación personal y habiéndose comprobado fehacientemente que alguna persona no tenga domicilio fijo o se ignore dónde se encuentre y hubiere que emplazarla a juicio o practicar por primera vez en autos una notificación personal, el tribunal acordará que el emplazamiento o la notificación se hagan por edictos que contendrán la resolución que se notifique, en su caso una breve síntesis de la demanda y del emplazamiento y se publicarán por dos veces dentro de un plazo de diez días, en uno de los diarios de mayor circulación en la región en que esté ubicado el inmueble relacionado con el procedimiento agrario y en el periódico oficial del Estado en que se encuentre localizado dicho inmueble, así como en la oficina de la Presidencia Municipal que corresponda y en los estrados del tribunal.
-Párrafo adicionado DOF 09-07-1993 Las notificaciones practicadas en la forma antes prevista surtirán efectos una vez transcurridos quince días, a partir de la fecha de la última publicación por lo que, cuando se trate de emplazamiento, se deberá tomar en cuenta este plazo al señalar el día para la celebración de la audiencia prevista en el artículo 185.
-Párrafo adicionado DOF 09-07-1993 Si el interesado no se presenta dentro del plazo antes mencionado, o no comparece a la audiencia de ley, las subsecuentes notificaciones se le harán en los estrados del tribunal.
-Párrafo adicionado DOF 09-07-1993 Sin perjuicio de realizar las notificaciones en la forma antes señalada, el tribunal podrá, además, hacer uso de otros medios de comunicación masiva, para hacerlas del conocimiento de los interesados.
-Párrafo adicionado DOF 09-07-1993 Quienes comparezcan ante los tribunales agrarios, en la primera diligencia judicial en que intervengan, o en el primer escrito, deben señalar domicilio ubicado en la población en que tenga su sede el tribunal respectivo, o las oficinas de la autoridad municipal del lugar en que vivan, para que en ese lugar se practiquen las notificaciones que deban ser personales, las que, en caso de que no esté presente el interesado o su representante, se harán por instructivo. En este caso, las notificaciones personales así practicadas surtirán efectos legales plenos.
-Párrafo adicionado DOF 09-07-1993 LEY AGRARIA Cuando no se señale domicilio para recibir notificaciones personales, éstas se harán en los estrados del tribunal.
+Párrafo adicionado DOF 09-07-1993
+Las notificaciones practicadas en la forma antes prevista surtirán efectos una vez transcurridos quince días, a partir de la fecha de la última publicación por lo que, cuando se trate de emplazamiento, se deberá tomar en cuenta este plazo al señalar el día para la celebración de la audiencia prevista en el artículo 185.
+Párrafo adicionado DOF 09-07-1993
+Si el interesado no se presenta dentro del plazo antes mencionado, o no comparece a la audiencia de ley, las subsecuentes notificaciones se le harán en los estrados del tribunal.
+Párrafo adicionado DOF 09-07-1993
+Sin perjuicio de realizar las notificaciones en la forma antes señalada, el tribunal podrá, además, hacer uso de otros medios de comunicación masiva, para hacerlas del conocimiento de los interesados.
+Párrafo adicionado DOF 09-07-1993
+Quienes comparezcan ante los tribunales agrarios, en la primera diligencia judicial en que intervengan, o en el primer escrito, deben señalar domicilio ubicado en la población en que tenga su sede el tribunal respectivo, o las oficinas de la autoridad municipal del lugar en que vivan, para que en ese lugar se practiquen las notificaciones que deban ser personales, las que, en caso de que no esté presente el interesado o su representante, se harán por instructivo. En este caso, las notificaciones personales así practicadas surtirán efectos legales plenos.
+Párrafo adicionado DOF 09-07-1993
+LEY AGRARIA Cuando no se señale domicilio para recibir notificaciones personales, éstas se harán en los estrados del tribunal.
 Párrafo adicionado DOF 09-07-1993
 
 ### Artículo 174
@@ -1041,6 +1073,7 @@ Párrafo adicionado DOF 09-07-1993
 .- Los peritos, testigos y, en general, terceros que no constituyan parte pueden ser citados por cédula o por cualquier otro medio fidedigno, cerciorándose quien haga el citatorio de la exactitud de la dirección de la persona citada.
 
 ## Capítulo III — Del Juicio Agrario
+
 
 ### Artículo 178
 .- La copia de la demanda se entregará al demandado o a la persona con quien se practique el emplazamiento respectivo. El demandado contestará la demanda a más tardar en la audiencia, pudiendo hacerlo por escrito o mediante su comparecencia. En este último caso, el tribunal solicitará a la Procuraduría Agraria que coadyuve en su formulación por escrito en forma concisa. En su actuación, dicho organismo se apegará a los principios de objetividad e imparcialidad debidas.
@@ -1080,8 +1113,10 @@ III. Todas las acciones y excepciones o defensas se harán valer en el acto mism
 IV. El magistrado podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren en la audiencia, carear a las personas entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
 V. Si el demandado no compareciere o se rehusara a contestar las preguntas que se le hagan, el tribunal podrá tener por ciertas las afirmaciones de la otra parte, salvo cuando se demuestre que no compareció por caso fortuito o fuerza mayor a juicio del propio tribunal; y VI.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la avenencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el cual deberá cumplir con los principios de exhaustividad, congruencia y equidad, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia ejecutoriada. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
-Fracción reformada DOF 09-07-1993, 27-03-2017 En caso de que la audiencia no estuviere presidida por el magistrado, lo actuado en ella no producirá efecto jurídico alguno.
-Párrafo adicionado DOF 09-07-1993 LEY AGRARIA
+Fracción reformada DOF 09-07-1993, 27-03-2017
+En caso de que la audiencia no estuviere presidida por el magistrado, lo actuado en ella no producirá efecto jurídico alguno.
+Párrafo adicionado DOF 09-07-1993
+LEY AGRARIA
 
 ### Artículo 186
 .- En el procedimiento agrario serán admisibles toda clase de pruebas, mientras no sean contrarias a la ley.
@@ -1101,6 +1136,7 @@ En la práctica de estas diligencias, el tribunal obrará como estime pertinente
 .- En los juicios agrarios, la inactividad procesal o la falta de promoción del actor durante el plazo de cuatro meses producirá la caducidad.
 
 ## Capítulo IV
+
 Ejecución de las Sentencias
 
 ### Artículo 191
@@ -1110,11 +1146,14 @@ I. Si al pronunciarse la sentencia estuvieren presentes ambas partes, el tribuna
 
 II. El vencido en juicio podrá proponer fianza de persona arraigada en el lugar o de institución autorizada para garantizar la obligación que se le impone, y el tribunal, con audiencia de la parte que obtuvo, calificará la fianza o garantía según su arbitrio y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aún mayor tiempo si el que obtuvo estuviera conforme con ella. Si transcurrido el plazo no hubiere cumplido, se hará efectiva la fianza o garantía correspondiente.
 Si existiera alguna imposibilidad material o jurídica para ejecutar una sentencia relativa a tierras de un núcleo de población, la parte que obtuvo sentencia favorable podrá aceptar la superficie efectivamente deslindada, en cuyo caso la sentencia se tendrá por ejecutada, dejándose constancia de tal circunstancia en el acta que levante el actuario.
-Párrafo adicionado DOF 09-07-1993 LEY AGRARIA En caso de inconformidad con la ejecución de la parte que obtuvo sentencia favorable, se presentarán al actuario los alegatos correspondientes, los que asentará junto con las razones que impidan la ejecución, en el acta circunstanciada que levante.
-Párrafo adicionado DOF 09-07-1993 Dentro de los quince días siguientes al levantamiento del acta de ejecución, el tribunal del conocimiento dictará resolución definitiva sobre la ejecución de la sentencia y aprobará el plano definitivo.
+Párrafo adicionado DOF 09-07-1993
+LEY AGRARIA En caso de inconformidad con la ejecución de la parte que obtuvo sentencia favorable, se presentarán al actuario los alegatos correspondientes, los que asentará junto con las razones que impidan la ejecución, en el acta circunstanciada que levante.
+Párrafo adicionado DOF 09-07-1993
+Dentro de los quince días siguientes al levantamiento del acta de ejecución, el tribunal del conocimiento dictará resolución definitiva sobre la ejecución de la sentencia y aprobará el plano definitivo.
 Párrafo adicionado DOF 09-07-1993
 
 ## Capítulo V — Disposiciones Generales
+
 
 ### Artículo 192
 .- Las cuestiones incidentales que se susciten ante los tribunales agrarios, se resolverán conjuntamente con lo principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se refieran a la ejecución de la sentencia, pero en ningún caso se formará artículo de previo y especial pronunciamiento sino que se decidirán de plano.
@@ -1139,10 +1178,12 @@ Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la 
 
 ## Capítulo VI — Del Recurso de Revisión
 
+
 ### Artículo 198
 .- El recurso de revisión en materia agraria procede contra la sentencia de los tribunales agrarios que resuelvan en primera instancia sobre:
 I.- Cuestiones relacionadas con los límites de tierras suscitadas entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios, sociedades o asociaciones;
-Fracción reformada DOF 09-07-1993 II.- La tramitación de un juicio agrario que reclame la restitución de tierras ejidales; o III.- La nulidad de resoluciones emitidas por las autoridades en materia agraria.
+Fracción reformada DOF 09-07-1993
+II.- La tramitación de un juicio agrario que reclame la restitución de tierras ejidales; o III.- La nulidad de resoluciones emitidas por las autoridades en materia agraria.
 
 ### Artículo 199
 .- La revisión debe presentarse ante el tribunal que haya pronunciado la resolución recurrida dentro del término de diez días posteriores a la notificación de la resolución. Para su interposición, bastará un simple escrito que exprese los agravios.
@@ -1206,8 +1247,8 @@ Se reforma el artículo 164 de la Ley Agraria, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
-**Primero.** Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
-**Segundo.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Primero.-** Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
+**Segundo.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 31 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 30 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 17 de enero de 2012
@@ -1225,8 +1266,8 @@ Se reforman los artículos 66, 120 y 121, último párrafo, de la Ley Agraria, p
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 LEY AGRARIA DECRETO por el que se adiciona un segundo párrafo al artículo 37 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
@@ -1236,7 +1277,7 @@ Se adiciona un segundo párrafo al artículo 37 de la Ley Agraria, para quedar c
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el primer párrafo del artículo 166 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
@@ -1257,7 +1298,7 @@ Se reforma el artículo 115 de la Ley Agraria, para quedar como sigue: ………
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el inciso b) del artículo 80 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
@@ -1300,9 +1341,9 @@ Por el que se adiciona un artículo 20 Bis de Ley Agraria, para quedar como sigu
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+**TERCERO.-** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 95 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
@@ -1312,7 +1353,7 @@ Se reforma el artículo 95 de la Ley Agraria, para quedar como sigue: ……..
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman los artículos 17 y 18 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 8 de marzo de 2022
@@ -1334,7 +1375,7 @@ Se reforman los artículos 4o., primer párrafo y 32 de la Ley Agraria, para que
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 37 de la Ley Agraria.
 Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
@@ -1364,12 +1405,12 @@ Se reforma el artículo 167 de la Ley Agraria, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

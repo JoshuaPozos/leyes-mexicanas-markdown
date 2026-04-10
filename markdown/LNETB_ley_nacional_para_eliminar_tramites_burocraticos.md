@@ -15,7 +15,9 @@ Se expide la Ley Nacional para Eliminar Trámites Burocráticos, para quedar com
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I
+
 Objeto de la Ley
 
 ### Artículo 1
@@ -131,6 +133,7 @@ Cuando no se especifique el plazo, se entenderán diez días para cualquier actu
 
 ## Capítulo II — De los Principios
 
+
 ### Artículo 6
 . Para el cumplimiento de los objetivos de esta Ley, los Sujetos Obligados regirán su actuación en apego a los siguientes principios:
 
@@ -185,7 +188,9 @@ XXIV. Gratuidad en la Atención: la orientación, recepción, atención o canali
 
 ## TÍTULO SEGUNDO — DE LAS AUTORIDADES PARA ELIMINAR TRÁMITES BUROCRÁTICOS
 
+
 ## Capítulo I — De las Autoridades Responsables
+
 
 ### Artículo 7
 . Son responsables de implementar, supervisar y vigilar el cumplimiento de las disposiciones de esta Ley, en sus respectivos ámbitos de competencias, las siguientes:
@@ -199,6 +204,7 @@ III. Los Enlaces de Simplificación y Digitalización, y
 IV. Las personas servidoras públicas responsables de la implementación, supervisión y vigilancia de la aplicación de la presente Ley en los Poderes Legislativo y Judicial, los Organismos con Autonomía Constitucional y los Organismos con Jurisdicción Contenciosa que no formen parte de los poderes judiciales de la Federación y de las entidades federativas.
 
 ## Capítulo II — De la Autoridad Nacional de Simplificación y Digitalización
+
 
 ### Artículo 8
 . La Agencia de Transformación Digital y Telecomunicaciones es la Autoridad Nacional de Simplificación y Digitalización, y es la responsable a nivel nacional y en el ámbito federal, de implementar, supervisar y vigilar la aplicación de la presente Ley.
@@ -303,6 +309,7 @@ XIX. Las demás que se establezcan en esta Ley y otras disposiciones jurídicas 
 
 ## Capítulo III — De las Autoridades Locales de Simplificación y Digitalización
 
+
 ### Artículo 11
 . Los poderes ejecutivos estatales y municipales contarán con una Autoridad Local de Simplificación y Digitalización, que será transversal para toda la Administración Pública que corresponda, y que cualquiera que sea su naturaleza jurídica, ejercerá las atribuciones de su competencia por acuerdo directo de la persona titular del ejecutivo local, y tendrá las atribuciones previstas en la presente Ley y las que se establezcan en la normatividad local aplicable.
 La Autoridad Local unificará las atribuciones, capacidades, agendas y estrategias vinculadas a la simplificación y digitalización, el desarrollo de capacidades tecnológicas públicas, buenas prácticas regulatorias y las demás que señale esta Ley.
@@ -364,6 +371,7 @@ XVIII. Establecer canales de atención para resolver dudas, brindar asesoría y,
 XIX. Las demás que se establezcan en esta Ley y otras disposiciones jurídicas aplicables.
 
 ## Capítulo IV — De los Enlaces de Simplificación y Digitalización
+
 
 ### Artículo 14
 . Las personas titulares de los Sujetos Obligados designarán a una persona servidora pública con nivel jerárquico mínimo de Director General u homólogo, que fungirá como Enlace de Simplificación y Digitalización de Trámites y Servicios, y será responsable de coordinar, articular y vigilar el cumplimiento de las obligaciones establecidas en esta Ley, al interior de cada Sujeto Obligado.
@@ -436,6 +444,7 @@ XIV. Las demás que establezca la Ley y otras disposiciones aplicables.
 Las entidades federativas, Municipios y demarcaciones territoriales de la Ciudad de México, en lo que no contravenga a lo previsto en la presente Ley y en los lineamientos que emita la Autoridad Nacional, estarán facultados para emitir los manuales, políticas, bases, reglas y otros documentos normativos que permitan la implementación del Modelo Nacional para Eliminar los Trámites Burocráticos, el Modelo Nacional para la Digitalización, el Modelo Nacional de Homologación de Trámites y Servicios, la Compartición de Soluciones Tecnológicas y el Desarrollo de Capacidades Públicas, así como el Modelo Nacional de Atención Ciudadana, en su respectivo ámbito de competencia.
 
 ## Capítulo V
+
 De los Poderes Legislativo y Judicial, los Organismos con Autonomía Constitucional y los Organismos con Jurisdicción Contenciosa que no formen parte de los poderes judiciales
 
 ### Artículo 18
@@ -444,7 +453,9 @@ Los Sujetos Obligados a que se refiere el presente artículo, implementarán acc
 
 ## TÍTULO TERCERO — DEL MODELO NACIONAL PARA ELIMINAR TRÁMITES BUROCRÁTICOS
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 19
 . El Modelo Nacional para Eliminar Trámites Burocráticos es el conjunto de herramientas y acciones de observancia obligatoria para los Sujetos Obligados, que tiene como objetivo eliminar costos burocráticos para facilitar el acceso y obtención de Trámites y Servicios, conforme a lo siguiente:
@@ -500,7 +511,9 @@ VI. Las demás que determine la Autoridad Nacional.
 
 ## Capítulo II — De las herramientas para eliminar trámites burocráticos
 
+
 ## Sección I
+
 La Agenda de Simplificación y Digitalización de Trámites y Servicios
 
 ### Artículo 21
@@ -560,6 +573,7 @@ V. Implementar estándares de seguridad suficientes para prevenir y reaccionar a
 VI. Implementar mecanismos de actualización tecnológica para evitar obsolescencia y amenazas de seguridad.
 
 ## Sección II
+
 La Agenda Regulatoria
 
 ### Artículo 26
@@ -613,6 +627,7 @@ La Autoridad Nacional, mediante los lineamientos correspondientes, determinará 
 . La Autoridad de Simplificación y Digitalización, podrá emitir recomendaciones sobre el contenido de la Agenda Regulatoria, o sobre los costos burocráticos de la Propuesta Regulatoria desde su etapa de planeación, para garantizar las buenas prácticas regulatorias, la simplificación y digitalización.
 
 ## Sección III
+
 Análisis de Impacto Regulatorio
 
 ### Artículo 33
@@ -710,6 +725,7 @@ La versión que publiquen los Sujetos Obligados de las Propuestas Regulatorias q
 Las versiones que se publiquen de las Regulaciones que emitan las personas titulares de los ejecutivos de los tres órdenes de gobierno serán las que apruebe la Consejería Jurídica del Ejecutivo Federal u homólogas en el ámbito de sus competencias.
 
 ## Sección IV
+
 Análisis de Impacto Regulatorio Ex Post
 
 ### Artículo 45
@@ -726,6 +742,7 @@ Análisis de Impacto Regulatorio Ex Post
 
 ## Sección V — De la Exención al Análisis de Impacto Regulatorio
 
+
 ### Artículo 49
 . Las Propuestas Regulatorias exentas de presentar un Análisis de Impacto Regulatorio deberán remitirse a la Autoridad de Simplificación y Digitalización, antes de su publicación en el Medio de Difusión Oficial correspondiente, junto con una justificación de exención que contendrá la siguiente información:
 
@@ -740,6 +757,7 @@ Los Sujetos Obligados deberán actualizar su Agenda de Simplificación y Digital
 La publicación de la propuesta regulatoria en el Medio de Difusión Oficial, no exime al Sujeto Obligado de cumplir con las obligaciones de eliminación de costos burocráticos, conforme a lo previsto en este artículo.
 
 ## Sección VI
+
 Portal Ciudadano Único de Trámites y Servicios
 
 ### Artículo 51
@@ -790,6 +808,7 @@ XIV. Los horarios de atención al público, y
 XV. Las demás que establezca la Autoridad Nacional en los lineamientos correspondientes.
 
 ## Sección VII
+
 Registro Nacional de Regulaciones
 
 ### Artículo 55
@@ -800,7 +819,9 @@ Registro Nacional de Regulaciones
 
 ## TÍTULO CUARTO — DEL MODELO NACIONAL PARA LA DIGITALIZACIÓN
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 57
 . El Modelo Nacional para la Digitalización es el conjunto de herramientas y acciones para eliminar la discrecionalidad, arbitrariedad y espacios de corrupción, así como para facilitar y agilizar la solicitud y resolución de Trámites y Servicios, mediante la implementación de procesos sistematizados, automatizados, así como el uso de plataformas digitales.
@@ -829,7 +850,9 @@ IV. Las demás que determine la Autoridad Nacional.
 
 ## Capítulo II — De las Herramientas para la Digitalización
 
+
 ## Sección I
+
 Estrategia Digital Nacional
 
 ### Artículo 62
@@ -839,6 +862,7 @@ Estrategia Digital Nacional
 . La Estrategia Digital Nacional se actualizará sexenalmente y deberá estar alineada al Plan Nacional de Desarrollo, tendrá una visión de largo plazo, a fin de impulsar como elementos permanentes el desarrollo nacional.
 
 ## Sección II
+
 Llave MX
 
 ### Artículo 64
@@ -896,6 +920,7 @@ Los datos y documentos asociados a una Llave MX estarán en todo momento bajo el
 La Autoridad Nacional habilitará los mecanismos de validación y consulta necesarios para tal efecto.
 
 ## Sección III
+
 Expediente Digital Ciudadano
 
 ### Artículo 76
@@ -935,14 +960,17 @@ II. La incorporación de las medidas, normas y especificaciones técnicas para a
 III. Propiciar la incorporación de procesos e instrumentos para la clasificación y descripción, así como para la valoración y disposición de los documentos digitales.
 
 ## TÍTULO QUINTO — DEL MODELO NACIONAL DE HOMOLOGACIÓN DE TRÁMITES Y SERVICIOS, COMPARTICIÓN DE
+
 SOLUCIONES TECNOLÓGICAS Y DESARROLLO DE CAPACIDADES PÚBLICAS
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 85
 . El Modelo Nacional de Homologación de Trámites y Servicios, Compartición de Soluciones Tecnológicas y Desarrollo de Capacidades Públicas, es el conjunto de herramientas y acciones de observancia obligatoria para todos los Sujetos Obligados, que tiene por objeto simplificar, estandarizar y homologar los Trámites y Servicios, sus requisitos, tiempos de resolución y procesos en los tres órdenes de gobierno, así como fortalecer la soberanía tecnológica pública.
 
 ## Sección I
+
 Modelo Nacional de Homologación de Trámites y Servicios
 
 ### Artículo 86
@@ -987,6 +1015,7 @@ XIII. Las demás que establezca la ley y otras disposiciones aplicables.
 
 ## Sección II — De los Modelos Nacionales de Trámites y Servicios
 
+
 ### Artículo 88
 . Para la homologación de Trámites y Servicios se procurará que en todo el territorio nacional existan las mismas modalidades de trámites, con los mismos requisitos, procedimientos y plazos de atención.
 
@@ -999,6 +1028,7 @@ En ningún caso, la armonización normativa podrá obstaculizar la implementaci�
 . La Autoridad Nacional podrá habilitar en coordinación con las Autoridades Locales y Sujetos Obligados, las ventanillas digitales nacionales, sectoriales o interinstitucionales para la atención de trámites o servicios de impacto nacional. La Autoridad Nacional emitirá los lineamientos para la operación y funcionamiento de estas ventanillas, correspondiendo a los Sujetos Obligados la atención sustantiva de los Trámites y Servicios a su cargo, conforme al ámbito de sus respectivas competencias y atribuciones.
 
 ## Sección III
+
 Repositorio Nacional de Tecnología Pública
 
 ### Artículo 91
@@ -1018,6 +1048,7 @@ En la adquisición de soluciones tecnológicas por parte de los Sujetos Obligado
 
 ## Sección IV — De los Proyectos Estratégicos Nacionales
 
+
 ### Artículo 95
 . La Autoridad Nacional desarrollará e implementará proyectos estratégicos nacionales para homologar los Trámites y Servicios de mayor impacto en la vida de las personas o de interés nacional para el desarrollo económico y el bienestar social, a fin de facilitar el acceso, gestión, resolución y obtención de Trámites y Servicios, los que de manera enunciativa, pero no limitativa serán, catastro, registro público de la propiedad, registro civil e inversión pública y privada.
 
@@ -1026,7 +1057,9 @@ En la adquisición de soluciones tecnológicas por parte de los Sujetos Obligado
 
 ## TÍTULO SEXTO — DEL MODELO NACIONAL DE ATENCIÓN CIUDADANA
 
+
 ## Capítulo Único — De la Unificación de la Atención Ciudadana
+
 
 ### Artículo 97
 . El Modelo Nacional de Atención Ciudadana es el conjunto de principios, criterios y acciones de observancia obligatoria para los Sujetos Obligados, que tiene por objeto estandarizar la atención de solicitudes, orientación, asesoría o acompañamiento en Trámites y Servicios, bajo procesos eficientes, simplificados, unificados, de calidad y resolutivos para las personas.
@@ -1044,9 +1077,11 @@ En la adquisición de soluciones tecnológicas por parte de los Sujetos Obligado
 . En la Administración Pública Federal, la Autoridad Nacional será la responsable de habilitar y, en su caso, unificar los mecanismos de contacto para brindar información y orientación sobre Trámites y Servicios, así como para la captación, canalización de quejas y solicitudes de atención ciudadana.
 
 ## TÍTULO SÉPTIMO — DE LAS CERTIFICACIONES, EVALUACIÓN, REGISTRO NACIONAL DE VISITAS DOMICILIARIAS Y
+
 RESPONSABILIDADES ADMINISTRATIVAS
 
 ## Capítulo I — De las Certificaciones
+
 
 ### Artículo 102
 . La Autoridad Nacional otorgará Certificaciones de Simplificación y Digitalización a los Sujetos Obligados para reconocer el cumplimiento de las disposiciones previstas en esta Ley.
@@ -1073,6 +1108,7 @@ VII. Los demás requerimientos que establezca la Autoridad Nacional.
 
 ## Capítulo II — De las Evaluaciones
 
+
 ### Artículo 105
 . La Autoridad Nacional diseñará los métodos y mecanismos para la evaluación de la implementación de los Modelos Nacionales y de los objetivos de la presente Ley, en los términos establecidos en los lineamientos correspondientes.
 Para efectos de lo previsto en el presente artículo, la Autoridad Nacional podrá auxiliarse de cualquier institución pública o privada.
@@ -1085,6 +1121,7 @@ La Autoridad Nacional hará públicos la metodología y los resultados que gener
 . Los Sujetos Obligados y las Autoridades Locales deberán proporcionar la información que les sea requerida por la Autoridad Nacional para determinar el grado de cumplimiento de los Modelos Nacionales y las herramientas previstas en esta Ley.
 
 ## Capítulo III — Del Registro Nacional de Visitas Domiciliarias
+
 
 ### Artículo 108
 . El Registro Nacional de Visitas Domiciliarias es la herramienta que permite hacer pública toda la información de las inspecciones, verificaciones o visitas domiciliarias a cargo de los Sujetos Obligados, así como la información que permita identificar a las personas servidoras públicas con nombramiento de inspector, verificador, visitador o supervisor o cuyas funciones sean las de vigilar el cumplimiento de una Regulación, el cual contendrá al menos:
@@ -1118,6 +1155,7 @@ IV. La información adicional que determine la Autoridad Nacional en los lineami
 . Será obligación de los Sujetos Obligados mantener actualizada la información del Padrón Nacional y del Listado de inspecciones, verificaciones y visitas domiciliarias, en los términos que se establezcan en los lineamientos que emita la Autoridad Nacional.
 
 ## Capítulo IV — De las Responsabilidades Administrativas de las
+
 Personas Servidoras Públicas
 
 ### Artículo 113
@@ -1146,15 +1184,15 @@ Para efectos del presente artículo transitorio, las personas titulares de las U
 **Décimo.-** En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, la Autoridad Nacional deberá emitir los Lineamientos para la implementación del Modelo Nacional para Eliminar los Trámites Burocráticos, el Modelo Nacional para la Digitalización, el Modelo Nacional de Homologación de Trámites y Servicios, la Compartición de Soluciones Tecnológicas y Desarrollo de Capacidades Públicas, así como el Modelo Nacional de Atención Ciudadana. Dichos Lineamientos serán de aplicación nacional y observancia obligatoria para los Sujetos Obligados.
 **Décimo Primero.-** En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, las personas titulares de los Sujetos Obligados de la Federación deberán designar a sus respectivos Enlaces de Simplificación y Digitalización y notificarlo a la Agencia de Transformación Digital y Telecomunicaciones.
 **Décimo Segundo.-** En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, los Sujetos Obligados de la Federación deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de
-**tercero.** s, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
+**tercero.-** s, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
 **Décimo Tercero.-** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto se abrogan todas las leyes locales que derivan de la Ley General de Mejora Regulatoria, publicada en el Diario Oficial de la Federación el 18 de mayo de 2018; en el mismo término se derogan aquellas disposiciones legales, y quedan sin efectos las disposiciones reglamentarias y administrativas locales que se opongan a lo dispuesto en el presente Decreto.
 Dentro del mismo plazo, los Congresos de los Estados y el de la Ciudad de México armonizarán su normatividad de conformidad con el presente Decreto.
 **Décimo Cuarto.-** En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, las entidades federativas y Municipios deberán establecer sus respectivas Autoridades de Simplificación y Digitalización. En tanto no se establezcan estas autoridades, continuarán en funcionamiento las Autoridades de Mejora Regulatoria, conforme a sus leyes locales y normativa aplicable. Una vez que entren en funcionamiento las nuevas autoridades de simplificación, éstas se regirán por la Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto.
 Los asuntos que se encuentren en trámite ante las autoridades estatales de Mejora Regulatoria al momento de su extinción continuarán a cargo de las respectivas Autoridades Locales de Simplificación y Digitalización, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 **Décimo Quinto.-** En un plazo no mayor a treinta días naturales contados a partir del plazo previsto en el Artículo
-**Décimo Cuarto.** transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+**Décimo Cuarto.-** transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
 La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la respectiva Autoridad Local.
 **Décimo Sexto.-** En un plazo no mayor a treinta días naturales contados a partir del plazo previsto en el Artículo
-**Décimo Cuarto.** transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
+**Décimo Cuarto.-** transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
 **Décimo Séptimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, esta deberá llevarse a cabo mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
 Ciudad de México, a 24 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

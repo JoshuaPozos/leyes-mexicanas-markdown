@@ -18,7 +18,9 @@ Se expide la Ley de Biocombustibles, para quedar como sigue:
 
 ## TÍTULO PRIMERO
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 1
 .- La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular y promover el desarrollo sustentable de los Biocombustibles, con el fin de coadyuvar con la soberanía, justicia y autosuficiencia energética, como parte de la diversificación y de la transición energética, y establece las bases para:
@@ -77,7 +79,9 @@ XVIII. Transporte: Actividad de recibir, entregar y, en su caso, conducir Biocom
 
 ## TÍTULO SEGUNDO — De las Autoridades Competentes y de la Coordinación
 
+
 ## Capítulo I — De las Autoridades Competentes
+
 
 ### Artículo 4
 .- La interpretación para efectos administrativos y la aplicación de esta Ley corresponde al Ejecutivo Federal, a través de la SENER, la SADER y la SEMARNAT, en el ámbito de sus competencias.
@@ -187,6 +191,7 @@ XVI. Coordinar con la SENER la elaboración de programas para la producción sus
 
 ## Capítulo II — De los Convenios y Acuerdos de Coordinación
 
+
 ### Artículo 8
 .- En el marco previsto en la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo Federal, en coordinación con los gobiernos de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, puede impulsar las políticas, programas y demás acciones que considere necesarias para el cumplimiento de esta Ley.
 Para tal efecto, el Ejecutivo Federal, a través de sus dependencias y entidades, puede suscribir convenios o acuerdos de coordinación entre ellas, así como con los gobiernos de las entidades federativas y de los municipios y las demarcaciones territoriales de la Ciudad de México, con el objeto de establecer las bases de participación, en el ámbito de sus competencias, para instrumentar las acciones necesarias para el cumplimiento de esta Ley.
@@ -228,7 +233,9 @@ Las dependencias y entidades de la Administración Pública Federal competentes 
 
 ## TÍTULO TERCERO — De los Instrumentos para el Desarrollo Sustentable de los Biocombustibles
 
+
 ## Capítulo I — De los Instrumentos de Planeación
+
 
 ### Artículo 11
 .- La Estrategia Nacional de Transición Energética debe de incluir las metas para Producción de Biocombustibles.
@@ -271,6 +278,7 @@ En ningún caso las revisiones y actualizaciones se pueden hacer en menoscabo de
 
 ## Capítulo II — De los Instrumentos de Promoción
 
+
 ### Artículo 17
 .- Las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, pueden promover y fomentar instrumentos de carácter fiscal, financiero o de mercado, que incentiven:
 
@@ -288,6 +296,7 @@ III. La Producción de Biocombustibles y su uso sustentable.
 Las empresas cuyo objeto sea la producción de Biomasa, para su uso directo como Biocombustible o para su Producción, así como la Producción de Biocombustibles, deben proporcionar información a la Secretaría de Economía sobre el grado de contenido nacional en las actividades que realicen, conforme a las disposiciones que resulten aplicables.
 
 ## Capítulo III
+
 De la Investigación, Desarrollo Tecnológico, Transferencia de Tecnología y Capacitación
 
 ### Artículo 20
@@ -335,6 +344,7 @@ XI. Las demás que expresamente le atribuya esta Ley, sus disposiciones reglamen
 
 ## Capítulo IV — De la Información y Participación Social
 
+
 ### Artículo 22
 .- La SENER debe registrar en el Subsistema, entre otros aspectos, los siguientes:
 
@@ -360,7 +370,9 @@ IV. Concertar acciones e inversiones con los sectores social y privado con la fi
 
 ## TÍTULO CUARTO — De las Actividades Reguladas para Biocombustibles
 
+
 ## Capítulo I — De los Permisos y Autorizaciones
+
 
 ### Artículo 25
 .- Para la realización de las actividades descritas en este artículo, se requiere de permiso conforme a lo siguiente:
@@ -487,6 +499,7 @@ XII. Las demás previstas en el permiso o autorización respectiva.
 
 ## Capítulo II — Del Registro de Permisos de Biocombustibles
 
+
 ### Artículo 37
 .- La SENER debe integrar, organizar y actualizar el Registro de permisos y autorizaciones de Biocombustibles, en el cual, cuando menos se inscriben:
 
@@ -501,7 +514,9 @@ El Reglamento especificará la información que deberá constar en el Registro y
 
 ## TÍTULO QUINTO — Disposiciones Aplicables a las Actividades de los Biocombustibles
 
+
 ## Capítulo I — De las Infracciones y las Sanciones
+
 
 ### Artículo 38
 .- La SENER, la SADER y la SEMARNAT, en el ámbito de sus respectivas atribuciones, puede comprobar el cumplimiento de las disposiciones contenidas en la presente Ley y las que deriven de ella mediante visitas de verificación o los mecanismos que estas dependencias definan para ello y, en su caso, determinar las infracciones e imponer las sanciones correspondientes, sujetándose a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
@@ -564,6 +579,7 @@ En caso de reincidencia, se debe imponer una multa por el doble de la anteriorme
 
 ## Capítulo II — De las Impugnaciones y la Solución de Controversias
 
+
 ### Artículo 44
 .- Las controversias que se susciten respecto de las transacciones de Biomasa producida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su aprovechamiento energético y la Producción de Biocombustibles, en materia de calidad, cantidad y oportunidad de los productos, servicios financieros, servicios técnicos, equipos, tecnología y bienes de Producción, se deben resolver a través del Servicio Nacional de Arbitraje previsto en el artículo 184 de la Ley de Desarrollo Rural Sustentable.
 
@@ -596,6 +612,6 @@ Las solicitudes de autorización o permisos que se hayan recibido previo a la en
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

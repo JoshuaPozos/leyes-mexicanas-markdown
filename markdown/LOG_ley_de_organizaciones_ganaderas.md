@@ -10,11 +10,14 @@ ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a su
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
 ## TÍTULO I — DISPOSICIONES GENERALES
+
 ARTÍCULO 1o.- La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustenten el desarrollo y mejoramiento de los procesos productivos y de comercialización de los productos ganaderos.
 La aplicación e interpretación administrativa de las disposiciones contenidas en este ordenamiento corresponde al Ejecutivo Federal por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Párrafo reformado DOF 09-04-2012 ARTÍCULO 2o.- En lo no previsto por esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo y la legislación civil o mercantil que corresponda.
+Párrafo reformado DOF 09-04-2012
+ARTÍCULO 2o.- En lo no previsto por esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo y la legislación civil o mercantil que corresponda.
 ARTÍCULO 3o.- El Ejecutivo Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, coordinará sus acciones con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones para la debida aplicación de esta Ley.
-Párrafo reformado DOF 09-04-2012 Las organizaciones ganaderas a las que se refiere esta Ley, serán consideradas de interés público, por lo que tanto el Gobierno Federal como los gobiernos de las entidades federativas y municipios, les darán todo su apoyo para la realización del objeto señalado en el artículo 5o. de este ordenamiento.
+Párrafo reformado DOF 09-04-2012
+Las organizaciones ganaderas a las que se refiere esta Ley, serán consideradas de interés público, por lo que tanto el Gobierno Federal como los gobiernos de las entidades federativas y municipios, les darán todo su apoyo para la realización del objeto señalado en el artículo 5o. de este ordenamiento.
 ARTÍCULO 4o.- Para los efectos de esta Ley se entiende por:
 Página
 
@@ -52,9 +55,11 @@ XV. Unión ganadera regional general: organización que agrupa a cuando menos el
 XVI. Unión ganadera regional especializada: organización que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un estado.
 
 ## TÍTULO II — DE LAS ORGANIZACIONES GANADERAS
+
 Página
 
 ## CAPÍTULO I — Del objeto
+
 ARTÍCULO 5o.- Las organizaciones ganaderas a que se refiere esta Ley tendrán por objeto:
 
 I. Promover y fomentar entre sus asociados la adopción de tecnologías adecuadas para el desarrollo sustentable y sostenible y la explotación racional de las diversas especies ganaderas;
@@ -89,6 +94,7 @@ XIV. Establecer fideicomisos cuyo objeto sea el de promover el consumo de produc
 XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
 
 ## CAPÍTULO II — De la constitución, organización y registro
+
 ARTÍCULO 6o.- Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y voluntariamente, de conformidad al artículo noveno Constitucional.
 Las asociaciones ganaderas locales y las uniones ganaderas regionales podrán ser de carácter general o especializado.
 ARTÍCULO 7o.- La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamentos y demás disposiciones aplicables.
@@ -116,6 +122,7 @@ Tampoco podrán, bajo pena de disolución, obligar a sus asociados a la realizac
 La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO III — De la disolución
+
 ARTÍCULO 17.- Las organizaciones ganaderas se disolverán:
 
 I. Por acuerdo de las dos terceras partes de sus asociados en asamblea general ordinaria que deberá ser convocada especialmente para este efecto, o por la imposibilidad de seguir realizando los objetivos que señala esta Ley y sus estatutos;
@@ -129,6 +136,7 @@ Disuelta la organización se procederá a su liquidación, en los términos lega
 ARTÍCULO 18.- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación Nacional de Organizaciones Ganaderas y otro de la organización ganadera de que se trate, conforme al procedimiento que establezca el reglamento.
 
 ## TÍTULO III — DE LAS SANCIONES ADMINISTRATIVAS Y DEL RECURSO DE REVISIÓN
+
 ARTÍCULO 19.- Para la imposición de las sanciones previstas en esta Ley, su Reglamento y demás disposiciones aplicables, la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
 ARTÍCULO 20.- A quien por sí o por interpósita persona, haga uso indebido de las distintas denominaciones de las organizaciones ganaderas a las que se refiere esta Ley, se impondrá multa de quinientos a mil días de salario mínimo general diario vigente en el Distrito Federal al momento de cometer la infracción. Igual sanción se impondrá a quien se ostente como representante de una organización ganadera, sin contar con el registro correspondiente.
 En caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
@@ -137,6 +145,7 @@ ARTÍCULO 22.- A aquellas organizaciones ganaderas que incumplan lo estipulado p
 ARTÍCULO 23.- Los afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO IV — DE LA SOLUCIÓN DE CONTROVERSIAS
+
 ARTÍCULO 24.- Los conflictos que se susciten con motivo de la organización y funcionamiento de las organizaciones a que se refiere esta Ley, serán resueltos en términos de sus estatutos.
 ARTÍCULO 25.- Tratándose de conflictos entre asociaciones ganaderas locales o entre éstas y las uniones ganaderas regionales, la Secretaría intervendrá a petición de parte en los términos de su reglamento.
 Cuando la controversia se origine por causas vinculadas con la Confederación Nacional de Organizaciones Ganaderas, la competencia para resolverlos será de la Secretaría, de acuerdo con las normas reglamentarias aplicables.
@@ -163,7 +172,7 @@ Se reforman los artículos 1o, segundo párrafo; 3o, primer párrafo; y 4o, frac
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 Página

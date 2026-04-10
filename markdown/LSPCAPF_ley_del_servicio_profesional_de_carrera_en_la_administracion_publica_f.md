@@ -16,7 +16,9 @@ LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único — De la naturaleza y objeto de la Ley
+
 
 ### Artículo 1
 .- La presente Ley tiene por objeto establecer las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera en las dependencias de la Administración Pública Federal Centralizada.
@@ -91,7 +93,9 @@ Artículo reformado DOF 01-09-2005
 
 ## TÍTULO SEGUNDO — DE LOS DERECHOS Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL SISTEMA
 
+
 ## Capítulo Primero — De los Derechos
+
 
 ### Artículo 10
 .- Los servidores públicos de carrera tendrán los siguientes derechos:
@@ -119,6 +123,7 @@ X. Recibir una indemnización en los términos de ley, cuando sea despedido inju
 XI. Las demás que se deriven de los preceptos del presente ordenamiento, de su reglamento y demás disposiciones aplicables.
 
 ## Capítulo Segundo — De las Obligaciones
+
 
 ### Artículo 11
 .- Son obligaciones de los servidores públicos de carrera:
@@ -150,7 +155,9 @@ XI. Las demás que señalen las leyes y disposiciones aplicables.
 
 ## TÍTULO TERCERO — DE LA ESTRUCTURA DEL SISTEMA DE SERVICIO PROFESIONAL DE CARRERA
 
+
 ## Capítulo Primero
+
 Consideraciones Preliminares
 
 ### Artículo 13
@@ -187,7 +194,9 @@ Compete a las dependencias de la Administración Pública administrar el Sistema
 
 ## Capítulo Segundo — De la Estructura Funcional
 
+
 ## Sección Primera — Del Subsistema de Planeación de los Recursos Humanos
+
 
 ### Artículo 14
 .- La Secretaría establecerá un Subsistema de Planeación de Recursos Humanos para el eficiente ejercicio del Sistema.
@@ -212,6 +221,7 @@ VIII. Ejercerá las demás funciones que le señale esta Ley, su Reglamento y di
 
 ## Sección Segunda — Del Registro Único del Servicio Profesional de Carrera
 
+
 ### Artículo 15
 .- El Registro Único del Servicio Público Profesional es un padrón que contiene información básica y técnica en materia de recursos humanos de la Administración Pública y se establece con fines de apoyar el desarrollo del servidor público de carrera dentro de las dependencias.
 Los datos personales que en él se contengan serán considerados confidenciales.
@@ -233,6 +243,7 @@ Los datos del Registro respecto al proceso de capacitación y desarrollo deberá
 .- Será motivo de baja del Registro, la separación del servidor público del Sistema por causas distintas a la renuncia.
 
 ## Capítulo Tercero — Del Subsistema de Ingreso
+
 
 ### Artículo 21
 .- El aspirante a ingresar al Sistema deberá cumplir, además de lo que señale la convocatoria respectiva, los siguientes requisitos:
@@ -301,6 +312,7 @@ Una vez emitida la autorización deberá hacerse de conocimiento de la Secretar�
 
 ## Capítulo Cuarto — Del Subsistema de Desarrollo Profesional
 
+
 ### Artículo 35
 .- Desarrollo Profesional es el proceso mediante el cual los servidores públicos de carrera con base en el mérito podrán ocupar plazas vacantes de igual o mayor jerarquía, en cualquier dependencia o en las entidades públicas y en las instituciones con las cuales exista convenio para tal propósito.
 
@@ -335,6 +347,7 @@ II. Horizontal o trayectorias laterales, que son aquellas que corresponden a otr
 .- Las dependencias, en apego a las disposiciones que al efecto emita la Secretaría, podrán celebrar convenios con autoridades federales, estatales, municipales y del Distrito Federal, y organismos públicos o privados para el intercambio de recursos humanos una vez cubiertos los perfiles requeridos, con el fin de fortalecer el proceso de desarrollo profesional de los servidores públicos de carrera y de ampliar sus experiencias.
 
 ## Capítulo Quinto — Del Subsistema de Capacitación y Certificación de Capacidades
+
 
 ### Artículo 44
 .- La Capacitación y la Certificación de Capacidades son los procesos mediante los cuales los servidores públicos de carrera son inducidos, preparados, actualizados y certificados para desempeñar un cargo en la Administración Pública. La Secretaría emitirá las normas que regularán este proceso en las dependencias.
@@ -380,6 +393,7 @@ De no aprobar la evaluación, se procederá a la separación del Servidor Públi
 
 ## Capítulo Sexto — Del Subsistema de Evaluación del Desempeño
 
+
 ### Artículo 54
 .- La Evaluación del Desempeño es el método mediante el cual se miden, tanto en forma individual como colectiva, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y metas asignadas a los servidores públicos, en función de sus habilidades, capacidades y adecuación al puesto.
 
@@ -412,6 +426,7 @@ Se consideran sujetos de mérito, aquellos servidores públicos de carrera que h
 Las evaluaciones del desempeño serán requisito indispensable para la permanencia de un Servidor Público de Carrera en el Sistema y en su puesto.
 
 ## Capítulo Séptimo — Del Subsistema de Separación
+
 
 ### Artículo 59
 .- Para efectos de esta Ley se entenderá por separación del Servidor Público de Carrera la terminación de su nombramiento o las situaciones por las que dicho nombramiento deje de surtir sus efectos.
@@ -450,6 +465,7 @@ Aquellos servidores profesionales de carrera que se hagan cargo de otra función
 
 ## Capítulo Octavo — Del Subsistema de Control y Evaluación
 
+
 ### Artículo 64
 .- La Secretaría con apoyo de las dependencias establecerá mecanismos de evaluación sobre la operación del Sistema a efecto de contar con elementos suficientes para su adecuado perfeccionamiento.
 
@@ -461,7 +477,9 @@ Aquellos servidores profesionales de carrera que se hagan cargo de otra función
 
 ## Capítulo Noveno — De la estructura orgánica del Sistema
 
+
 ## Sección Primera — De la Secretaría
+
 
 ### Artículo 67
 .- Para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, el Sistema contará con los siguientes órganos:
@@ -515,6 +533,7 @@ XVIII. Las demás que se establezcan en la presente Ley, su Reglamento y disposi
 
 ## Sección Segunda — Del Consejo Consultivo
 
+
 ### Artículo 70
 .- El Consejo es un órgano de apoyo para el Sistema. Estará integrado por el titular de la Secretaría, por los responsables de cada Subsistema, por los presidentes de los comités técnicos de cada dependencia y por representantes de la Secretaría de Gobernación, de Hacienda y Crédito Público y del Trabajo y Previsión Social, contará además con un representante de los sectores social, privado y académico, a invitación de los demás integrantes.
 Son atribuciones del Consejo:
@@ -537,6 +556,7 @@ VII. Las que se deriven de las disposiciones de esta Ley, su Reglamento y demás
 .- El Consejo estará presidido por el titular de la Secretaría y contará con un Secretario Técnico.
 
 ## Sección Tercera — De los Comités Técnicos de Profesionalización y Selección
+
 
 ### Artículo 72
 .- En cada dependencia se instalará un Comité que será el cuerpo técnico especializado encargado de la implantación, operación y evaluación del Sistema al interior de la misma. Asimismo, será responsable de la planeación, formulación de estrategias y análisis prospectivo, para el mejoramiento de los recursos humanos de las dependencias y la prestación de un mejor servicio público a la sociedad; se podrá asesorar de especialistas de instituciones de educación superior y de empresas y asociaciones civiles especializadas, nacionales e internacionales y de colegios de profesionales.
@@ -573,7 +593,9 @@ X. Las demás que se deriven de esta Ley y su Reglamento.
 
 ## TÍTULO CUARTO
 
+
 ## Capítulo Primero — Del Recurso de Revocación
+
 
 ### Artículo 76
 .- En contra de las resoluciones que recaigan en el procedimiento de selección en los términos de esta Ley, el interesado podrá interponer ante la Secretaría, recurso de revocación dentro del término de diez días contados a partir del día siguiente en que se haga del conocimiento, el nombre del aspirante que obtuvo la calificación más alta en el procedimiento de selección.
@@ -599,6 +621,7 @@ Los conflictos individuales de carácter laboral no serán materia del presente 
 Se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo a las disposiciones del presente Título.
 
 ## Capítulo Segundo — De las Competencias
+
 
 ### Artículo 79
 .- El Tribunal Federal de Conciliación y Arbitraje será competente para conocer de los conflictos individuales de carácter laboral que se susciten entre las dependencias y los servidores públicos sujetos a esta Ley.

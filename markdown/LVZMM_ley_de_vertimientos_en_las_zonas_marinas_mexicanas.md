@@ -15,6 +15,7 @@ Se expide la Ley de Vertimientos en las Zonas Marinas Mexicanas, para quedar com
 Ley de Vertimientos en las Zonas Marinas Mexicanas
 
 ## Capítulo I
+
 Objeto y Ámbito de Aplicación
 
 ### Artículo 1
@@ -56,7 +57,8 @@ Fracción reformada DOF 13-04-2020
 II. El hundimiento deliberado de buques, aeronaves, plataformas u otras construcciones en el mar, con el único objeto de deshacerse de ellas;
 Fracción reformada DOF 13-04-2020
 
-III. El almacenamiento de desechos u otras materias en el lecho marino o en el subsuelo de éste, desde buques, aeronaves, plataformas u otras construcciones en el mar, y Fracción reformada DOF 13-04-2020
+III. El almacenamiento de desechos u otras materias en el lecho marino o en el subsuelo de éste, desde buques, aeronaves, plataformas u otras construcciones en el mar, y
+Fracción reformada DOF 13-04-2020
 
 IV. Todo abandono o derribo in situ de plataformas u otras construcciones, con el único objeto de deshacerse deliberadamente de ellas.
 Fracción reformada DOF 13-04-2020
@@ -108,6 +110,7 @@ VII. Objetos voluminosos constituidos principalmente por hierro, acero, hormigó
 Artículo adicionado DOF 13-04-2020
 
 ## Capítulo II — De la Autoridad
+
 
 ### Artículo 5
 .- La Secretaría es la autoridad en materia de vertimientos y tendrá las siguientes facultades:
@@ -163,6 +166,7 @@ Artículo adicionado DOF 13-04-2020
 .- La Secretaría, en coordinación con las demás Dependencias de la Administración Pública Federal, instituciones de investigación y de educación superior públicas y privadas, promoverá y facilitará la investigación científica y técnica sobre la prevención, reducción y eliminación de la contaminación por vertimiento de desechos y otras materias. La investigación deberá incluir la observación, medición, evaluación y análisis de la contaminación mediante métodos científicos, así como la difusión y cumplimiento de esta Ley.
 
 ## Capítulo III
+
 Evaluación a Considerarse en los Vertimientos
 
 ### Artículo 8
@@ -290,6 +294,7 @@ En caso de que se llegue a verter material en volumen superior al manifestado en
 
 ## Capítulo IV — De los Permisos
 
+
 ### Artículo 18
 .- La Secretaría otorgará permiso para vertimiento a personas físicas o morales de nacionalidad mexicana o extranjeras, previo el cumplimiento de los requisitos que se establecen en la presente Ley, conforme a las Normas Oficiales Mexicanas, o en su caso, en función de la evaluación de los resultados de los estudios técnicos e información científica aplicable en la materia, que deberá presentar el interesado.
 
@@ -369,6 +374,7 @@ El interesado se ajustará a las disposiciones que le sean indicadas. En caso de
 
 ## Capítulo V — De las Obligaciones Adicionales en materia de Vertimientos
 
+
 ### Artículo 27
 .- Adicionalmente a los requisitos que establece la presente ley, el interesado deberá cumplir con lo siguiente:
 
@@ -385,6 +391,7 @@ V. Entregará, según el caso y por el tiempo que señale la Secretaría, un inf
 VI. Suspenderá las actividades de vertimiento ante la presencia de un fenómeno meteorológico que por su magnitud e intensidad pudiera causar daños a los ecosistemas, y procederá de la misma forma cuando el vertimiento por sí mismo provoque las mismas consecuencias.
 
 ## Capítulo VI — De las Visitas de Inspección y Vigilancia
+
 
 ### Artículo 28
 .- Personal acreditado de la Secretaría, llevará a cabo las visitas de inspección y vigilancia para el cumplimiento de la presente Ley, así como el Decreto Promulgatorio del Protocolo de 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972.
@@ -473,6 +480,7 @@ XIV. Nombre y firma de quienes intervinieron en la diligencia.
 
 ## Sección I — De las Medidas Preventivas
 
+
 ### Artículo 35
 .- Son medidas preventivas las adoptadas por la Secretaría en las zonas marinas mexicanas, tendentes a evitar la contaminación o alteración del ambiente marino o afectación a la salud humana, a consecuencia de vertimiento de desechos y otras materias, incluyendo la suspensión del vertimiento.
 
@@ -494,6 +502,7 @@ Tratándose de la destrucción o hundimiento de aeronaves, la Secretaría se coo
 La información que le sea proporcionada tendrá el carácter que conforme a la normatividad vigente le corresponda.
 
 ## Sección II — De las Infracciones y Sanciones
+
 
 ### Artículo 41
 .- Son infracciones a la presente Ley, las siguientes:
@@ -568,6 +577,7 @@ La Secretaría proporcionará los dictámenes técnicos, cuando el Ministerio P�
 
 ## Sección III — Del Procedimiento
 
+
 ### Artículo 48
 .- Para imponer una sanción, la Secretaría deberá notificar previamente al presunto infractor del inicio del procedimiento, mediante oficio en el que se especificarán los hechos y las disposiciones legales que se consideran violadas y, en su caso, las disposiciones que el permisionario debe cumplir para subsanar los daños ocasionados al ecosistema marino; para que éste, dentro del término de quince días hábiles contados a partir del día hábil siguiente al en que sea hecha la notificación manifieste lo que a su derecho convenga y ofrezca pruebas.
 En caso de que el presunto infractor dentro del plazo concedido no realice manifestación alguna, se tendrá por precluido su derecho y la Secretaría procederá a dictar resolución dentro de los quince días hábiles siguientes, haciéndole saber el derecho que tiene para interponer el recurso de revocación, dentro del término de quince días hábiles contados a partir del día siguiente al que fue hecha la notificación, en el que deberá presentar por escrito sus argumentos y pruebas ante la Secretaría.
@@ -592,6 +602,7 @@ Los plazos empezarán a correr a partir del día siguiente a aquél en que haya 
 
 ## Sección IV — De la Cancelación
 
+
 ### Artículo 53
 .- La Secretaría le notificará al interesado, o a su representante legal, la cancelación del permiso, lo cual no lo exime de las responsabilidades contraídas con terceros o con autoridades Federales, Estatales o Municipales durante la vigencia del mismo. La cancelación del permiso de vertimiento será definitiva para quien no cumpla con esta Ley.
 
@@ -614,6 +625,7 @@ VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta
 
 ## Sección V — De las Excepciones
 
+
 ### Artículo 55
 .- No se hará acreedor a ninguna sanción, quien haya realizado vertimiento por caso fortuito o fuerza mayor, siempre y cuando se justifique la acción implementada a satisfacción de la Secretaría.
 Lo anterior no lo exime de la obligación de reparar, compensar, remediar o restaurar los daños ocasionados por el vertimiento.
@@ -622,6 +634,7 @@ Lo anterior no lo exime de la obligación de reparar, compensar, remediar o rest
 .- Quien lleve a cabo un vertimiento por alguna de las causas señaladas en el artículo anterior, deberá rendir un informe detallado a la Secretaría, justificando la realización del mismo. La contravención a lo dispuesto en este artículo, aun tratándose de siniestros, será considerado un vertimiento y se aplicarán las sanciones que establece la presente Ley.
 
 ## Capítulo VII — De la Responsabilidad
+
 
 ### Artículo 57
 .- Las personas que realicen un vertimiento en violación a las disposiciones legales aplicables, asumirán la responsabilidad de reparar la afectación o daño ambiental al medio marino, de acuerdo a la Ley Federal de Responsabilidad Ambiental, sin perjuicio de la aplicación de las sanciones administrativas, penales o civiles que procedan, mediante las acciones de remediación que resulten aplicables, restituyendo el ambiente marino, al estado que guardaba antes del vertimiento o cuando esto no fuere posible, mediante el pago de una indemnización que será cuantificada por la Secretaría en función de la afectación o daño causado al medio marino.
@@ -660,9 +673,9 @@ Se reforman las fracciones I, II, III y IV y el párrafo primero del artículo 3
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Secretaría, vigilará y regulará la disposición de aguas congénitas y los recortes de perforación, procedentes de actividades petroleras en el mar, hasta en tanto no exista la normatividad ambiental respectiva.
-**Tercero.** El artículo 3 Ter entrará en vigor al expedirse las Normas Oficiales Mexicanas a las que alude el segundo párrafo del artículo citado.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría, vigilará y regulará la disposición de aguas congénitas y los recortes de perforación, procedentes de actividades petroleras en el mar, hasta en tanto no exista la normatividad ambiental respectiva.
+**Tercero.-** El artículo 3 Ter entrará en vigor al expedirse las Normas Oficiales Mexicanas a las que alude el segundo párrafo del artículo citado.
 Ciudad de México, a 12 de marzo de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
@@ -672,12 +685,12 @@ Se reforma el segundo párrafo del artículo 61 de la Ley de Vertimientos en las
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

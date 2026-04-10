@@ -32,7 +32,8 @@ Fracción adicionada DOF 10-12-2002
 IV. Empresas Operadoras, a las empresas concesionarias para operar la Base de Datos Nacional SAR;
 
 V. Fondos de Previsión Social, a los fondos de pensiones o jubilaciones de personal, de primas de antigüedad, así como fondos de ahorro establecidos por empresas privadas, dependencias o entidades públicas federales, estatales o municipales o por cualquier otra persona, como una prestación laboral a favor de los trabajadores;
-Fracción reformada DOF 10-12-2002 V bis. Rendimiento Neto, en singular o en plural, a los indicadores que reflejan los rendimientos menos las comisiones, que hayan obtenido los trabajadores por la inversión de sus recursos en las Sociedades de Inversión.
+Fracción reformada DOF 10-12-2002
+V bis. Rendimiento Neto, en singular o en plural, a los indicadores que reflejan los rendimientos menos las comisiones, que hayan obtenido los trabajadores por la inversión de sus recursos en las Sociedades de Inversión.
 La Junta de Gobierno de la Comisión deberá autorizar la metodología que se establezca para construir los indicadores de Rendimiento Neto, fijando en dicha metodología el periodo para su cálculo;
 Fracción adicionada DOF 15-06-2007
 
@@ -55,7 +56,9 @@ XII. Trabajador, a los trabajadores afiliados, así como a cualquier otra person
 Fracción reformada DOF 10-12-2002
 
 XIII. Trabajador Afiliado, a los trabajadores inscritos en el Instituto Mexicano del Seguro Social;
-Fracción reformada DOF 10-12-2002 XIII bis. Trabajador no Afiliado, a los trabajadores que no se encuentren inscritos en el Instituto Mexicano del Seguro Social, y Fracción adicionada DOF 10-12-2002
+Fracción reformada DOF 10-12-2002
+XIII bis. Trabajador no Afiliado, a los trabajadores que no se encuentren inscritos en el Instituto Mexicano del Seguro Social, y
+Fracción adicionada DOF 10-12-2002
 
 XIV. Vínculo Laboral, la prestación de servicios subordinados de conformidad con lo dispuesto por la Ley Federal del Trabajo o la prestación de servicios profesionales.
 Fracción adicionada DOF 10-12-2002
@@ -65,6 +68,7 @@ Fracción adicionada DOF 10-12-2002
 CAPITULO II De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
 ## Sección I — De la Comisión
+
 
 ### Artículo 5o
 .- La Comisión tendrá las facultades siguientes:
@@ -81,7 +85,8 @@ IV. Emitir reglas de carácter general para la operación y pago de los retiros 
 V. Establecer las bases de colaboración entre las dependencias y entidades públicas participantes en la operación de los sistemas de ahorro para el retiro;
 
 VI. Otorgar, modificar o revocar las autorizaciones a que se refiere esta ley, a las administradoras y sociedades de inversión;
-Fracción reformada DOF 10-12-2002 VI bis. Conocer de los nombramientos de los consejeros, directores generales, funcionarios de los dos niveles inmediatos inferiores y comisarios de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito;
+Fracción reformada DOF 10-12-2002
+VI bis. Conocer de los nombramientos de los consejeros, directores generales, funcionarios de los dos niveles inmediatos inferiores y comisarios de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito;
 Fracción adicionada DOF 10-12-2002
 
 VII. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro. Tratándose de las instituciones de crédito, la supervisión se realizará exclusivamente en relación con su participación en los sistemas de ahorro para el retiro.
@@ -109,7 +114,8 @@ c) Las medidas adoptadas por la Comisión para proteger los recursos de los trab
 d) Información estadística de los trabajadores registrados en las administradoras, incluyendo clasificación de trabajadores por número de semanas de cotización, número de trabajadores con aportación, número de trabajadores con aportaciones voluntarias y aportación promedio, clasificación de los trabajadores por rango de edad y distribución de sexo y cotización promedio de los trabajadores, densidad de cotización por rango de ingreso, edad y sexo. La información anterior será desglosada por administradora y por instituto de seguridad social o trabajador no afiliado, según corresponda;
 
 e) Información desagregada por administradora relativa a los montos de Rendimiento Neto, de Rendimiento Neto Real, pagados a los trabajadores, al cobro de comisiones, y en caso de presentarse minusvalías, el monto de éstas y el porcentaje que corresponda por tipo de inversión.
-Fracción reformada DOF 10-12-2002, 21-01-2009 XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero;
+Fracción reformada DOF 10-12-2002, 21-01-2009
+XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero;
 Fracción adicionada DOF 21-01-2009
 
 XIV. Dar a conocer a la opinión pública reportes sobre comisiones, número de trabajadores registrados en las administradoras, estado de situación financiera, estado de resultados, composición de cartera y rentabilidad de las sociedades de inversión, cuando menos en forma trimestral;
@@ -121,14 +127,17 @@ XVI. Las demás que le otorguen ésta u otras leyes.
 
 ## Sección II — De los Organos de Gobierno
 
+
 ### Artículo 6o
 .- Los órganos de gobierno de la Comisión serán la Junta de Gobierno, la Presidencia y el Comité Consultivo y de Vigilancia.
 
 ### Artículo 7o
 .- La Junta de Gobierno estará integrada por el Secretario de Hacienda y Crédito Público, quien la presidirá, el Presidente de la Comisión, dos vicepresidentes de la misma y otros trece vocales.
-Párrafo reformado DOF 15-06-2007 Dichos vocales serán el Secretario del Trabajo y Previsión Social, el Gobernador del Banco de México, el Subsecretario de Hacienda y Crédito Público, el Director General del Instituto Mexicano del Seguro Social, el Director General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Presidente de la Comisión Nacional Bancaria y de Valores y el Presidente de la Comisión Nacional de Seguros y Fianzas.
+Párrafo reformado DOF 15-06-2007
+Dichos vocales serán el Secretario del Trabajo y Previsión Social, el Gobernador del Banco de México, el Subsecretario de Hacienda y Crédito Público, el Director General del Instituto Mexicano del Seguro Social, el Director General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Presidente de la Comisión Nacional Bancaria y de Valores y el Presidente de la Comisión Nacional de Seguros y Fianzas.
 Los cinco vocales restantes serán designados por el Secretario de Hacienda y Crédito Público debiendo ser cuatro representantes de las organizaciones nacionales de trabajadores y uno de los correspondientes a los patrones, que formen parte del Comité Consultivo y de Vigilancia y que ostenten la mayor representatividad.
-Párrafo reformado DOF 15-06-2007 En ausencia del Secretario de Hacienda y Crédito Público, lo suplirá el Presidente de la Comisión.
+Párrafo reformado DOF 15-06-2007
+En ausencia del Secretario de Hacienda y Crédito Público, lo suplirá el Presidente de la Comisión.
 Por cada miembro propietario se nombrará un suplente que en todo caso deberá ser un funcionario con el rango inmediato inferior al del miembro propietario. Los miembros suplentes podrán ser removidos libremente por las dependencias, entidades o instituciones que los hayan designado. Los representantes suplentes de las organizaciones obreras y patronales serán designados en los mismos términos que los miembros propietarios.
 La Junta de Gobierno contará con un Secretario, el cual podrá expedir constancias de los acuerdos de los órganos colegiados de la propia Comisión.
 
@@ -170,13 +179,15 @@ XI. Aprobar la estructura y organización de la Comisión, así como el establec
 XII. Resolver sobre otros asuntos que el Presidente de la Comisión someta a su consideración.
 La Junta de Gobierno podrá delegar en el Presidente de la Comisión, las facultades previstas en las fracciones II, III y VII de este artículo, mediante acuerdo publicado en el Diario Oficial de la Federación.
 El Presidente podrá delegar, a su vez, las facultades previstas en las fracciones III y VII en los Vicepresidentes y Directores Generales de la Comisión, en los términos establecidos en esta ley, mientras que el ejercicio de las demás facultades señaladas en este artículo corresponderá exclusivamente a la Junta de Gobierno de la Comisión.
-Párrafo reformado DOF 10-12-2002 Los acuerdos tomados por la Junta de Gobierno serán firmados por el Presidente de la Comisión para su ejecución y, en su caso, publicación.
+Párrafo reformado DOF 10-12-2002
+Los acuerdos tomados por la Junta de Gobierno serán firmados por el Presidente de la Comisión para su ejecución y, en su caso, publicación.
 Párrafo adicionado DOF 10-12-2002
 
 ### Artículo 9o
 .- La Junta de Gobierno celebrará sesiones bimestrales, y en cualquier tiempo cuando sean convocadas por su Presidente, o por el Presidente de la Comisión.
 Habrá quórum con la presencia de nueve de sus miembros. Las resoluciones se tomarán por mayoría de votos de los presentes. El Presidente de la Junta de Gobierno dirigirá los debates, dará cuenta de los asuntos y tendrá voto de calidad en los casos de empate.
-Párrafo reformado DOF 15-06-2007 Los acuerdos de la Junta de Gobierno serán ejecutivos y corresponderá al Presidente de la Comisión, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
+Párrafo reformado DOF 15-06-2007
+Los acuerdos de la Junta de Gobierno serán ejecutivos y corresponderá al Presidente de la Comisión, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
 
 ### Artículo 10
 .- El Secretario de Hacienda y Crédito Público nombrará al Presidente de la Comisión.
@@ -189,10 +200,12 @@ II. Gozar de reconocida experiencia en materia económica, financiera, jurídica
 III. No tener nexos patrimoniales con los accionistas que formen el grupo de control de los participantes en los sistemas de ahorro para el retiro sujetos a la supervisión de la Comisión, ni con los funcionarios de primer y segundo nivel de los mismos, así como no ser cónyuge ni tener relación de parentesco consanguíneo dentro del segundo grado con dichas personas;
 Fracción reformada DOF 10-12-2002
 
-IV. No haber sido inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano y gozar de reconocida solvencia moral, y Fracción reformada DOF 10-12-2002
+IV. No haber sido inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano y gozar de reconocida solvencia moral, y
+Fracción reformada DOF 10-12-2002
 
 V. No desempeñar cargo de elección popular, ni ser accionista, consejero, funcionario, comisario, apoderado o agente de los participantes en los sistemas de ahorro para el retiro.
-Fracción adicionada DOF 10-12-2002 La limitación consistente en no ser accionista de los participantes en los sistemas de ahorro para el retiro no será aplicable tratándose de las acciones del capital variable emitidas por Sociedades de Inversión en las que participe como trabajador.
+Fracción adicionada DOF 10-12-2002
+La limitación consistente en no ser accionista de los participantes en los sistemas de ahorro para el retiro no será aplicable tratándose de las acciones del capital variable emitidas por Sociedades de Inversión en las que participe como trabajador.
 Párrafo adicionado DOF 10-12-2002
 
 ### Artículo 11
@@ -204,7 +217,8 @@ Artículo reformado DOF 10-12-2002
 
 I. Tener a su cargo la representación legal de la Comisión y el ejercicio de sus facultades, sin perjuicio de las atribuidas por esta ley a la Junta de Gobierno;
 En los procedimientos judiciales, administrativos o laborales en los que la Comisión sea parte o pueda resultar afectada, el Presidente directamente o por medio de los Vicepresidentes o Directores Generales de la Comisión que al efecto designe en los acuerdos delegatorios, ejercitará las acciones, excepciones y defensas, producirá alegatos, ofrecerá pruebas, interpondrá los recursos que procedan, podrá presentar desistimientos, y en general realizará todos los actos procesales que correspondan a la Comisión o a sus órganos, incluyendo en los juicios de amparo la presentación de los informes de ley.
-Párrafo adicionado DOF 10-12-2002 El Presidente y los Vicepresidentes sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Comisión o en virtud de sus funciones cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, mismo que contestarán por escrito dentro del término establecido por dicha autoridad.
+Párrafo adicionado DOF 10-12-2002
+El Presidente y los Vicepresidentes sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Comisión o en virtud de sus funciones cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, mismo que contestarán por escrito dentro del término establecido por dicha autoridad.
 Párrafo adicionado DOF 10-12-2002
 
 II. Dirigir administrativamente a la Comisión;
@@ -319,16 +333,21 @@ CAPITULO III De los Participantes en los Sistemas de Ahorro para el Retiro
 
 ## Sección I — De las Administradoras de Fondos para el Retiro
 
+
 ### Artículo 18
 .- Las administradoras son entidades financieras que se dedican de manera habitual y profesional a administrar las cuentas individuales y canalizar los recursos de las subcuentas que las integran en términos de la presente ley, así como a administrar sociedades de inversión.
-Párrafo reformado DOF 10-12-2002 Las administradoras deberán efectuar todas las gestiones que sean necesarias, para la obtención de una adecuada rentabilidad y seguridad en las inversiones de las sociedades de inversión que administren. En cumplimiento de sus funciones, atenderán exclusivamente al interés de los trabajadores y asegurarán que todas las operaciones que efectúen para la inversión de los recursos de dichos trabajadores se realicen con ese objetivo.
+Párrafo reformado DOF 10-12-2002
+Las administradoras deberán efectuar todas las gestiones que sean necesarias, para la obtención de una adecuada rentabilidad y seguridad en las inversiones de las sociedades de inversión que administren. En cumplimiento de sus funciones, atenderán exclusivamente al interés de los trabajadores y asegurarán que todas las operaciones que efectúen para la inversión de los recursos de dichos trabajadores se realicen con ese objetivo.
 Las administradoras, tendrán como objeto:
 
 I. Abrir, administrar y operar cuentas individuales de los trabajadores.
 Tratándose de trabajadores afiliados, sus cuentas individuales se sujetarán a las disposiciones de las leyes de seguridad social aplicables y sus reglamentos, así como a las de este ordenamiento. Para el caso de las subcuentas de vivienda, las administradoras deberán individualizar las aportaciones y rendimientos correspondientes con base en la información que les proporcionen los institutos de seguridad social. La canalización de los recursos de dichas subcuentas se hará en los términos previstos por sus propias leyes;
-Fracción reformada DOF 10-12-2002 I bis. Abrir, administrar y operar cuentas individuales, con sus respectivas subcuentas, en las que se reciban recursos de los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos previstos en el artículo 74 bis de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
-Fracción adicionada DOF 10-12-2002 I ter. Abrir, administrar y operar cuentas individuales, en las que se reciban recursos de los trabajadores no afiliados, o que no se encuentren inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que así lo deseen, destinados a la contratación de rentas vitalicias, seguros de sobrevivencia o retiros programados en los términos previstos en el artículo 74 ter de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
-Fracción adicionada DOF 10-12-2002 I quáter. Abrir, administrar y operar cuentas individuales, en las que se reciban recursos de los trabajadores no afiliados de las dependencias o entidades públicas de carácter estatal o municipal cuando proceda, en los términos previstos en el artículo 74 quinquies de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
+Fracción reformada DOF 10-12-2002
+I bis. Abrir, administrar y operar cuentas individuales, con sus respectivas subcuentas, en las que se reciban recursos de los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos previstos en el artículo 74 bis de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
+Fracción adicionada DOF 10-12-2002
+I ter. Abrir, administrar y operar cuentas individuales, en las que se reciban recursos de los trabajadores no afiliados, o que no se encuentren inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que así lo deseen, destinados a la contratación de rentas vitalicias, seguros de sobrevivencia o retiros programados en los términos previstos en el artículo 74 ter de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
+Fracción adicionada DOF 10-12-2002
+I quáter. Abrir, administrar y operar cuentas individuales, en las que se reciban recursos de los trabajadores no afiliados de las dependencias o entidades públicas de carácter estatal o municipal cuando proceda, en los términos previstos en el artículo 74 quinquies de esta ley y conforme a las reglas de carácter general que al efecto expida la Comisión;
 Fracción adicionada DOF 10-12-2002
 
 II. Recibir las cuotas y aportaciones de seguridad social correspondientes a las cuentas individuales de conformidad con las leyes de seguridad social, así como las aportaciones voluntarias y complementarias de retiro, y los demás recursos que en términos de esta ley puedan ser recibidos en las cuentas individuales y administrar los recursos de los fondos de previsión social;
@@ -351,11 +370,14 @@ VIII. Pagar los retiros parciales con cargo a las cuentas individuales de los tr
 IX. Entregar los recursos a las instituciones de seguros que el trabajador o sus beneficiarios hayan elegido, para la contratación de rentas vitalicias o del seguro de sobrevivencia;
 Fracción reformada DOF 10-12-2002
 
-X. Funcionar como entidades financieras autorizadas, en términos de lo dispuesto por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otros ordenamientos, y Fracción reformada DOF 10-12-2002
+X. Funcionar como entidades financieras autorizadas, en términos de lo dispuesto por la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otros ordenamientos, y
+Fracción reformada DOF 10-12-2002
 
 XI. Los análogos o conexos a los anteriores que sean autorizados por la Junta de Gobierno.
-Fracción adicionada DOF 10-12-2002 Las administradoras, además de las comisiones que cobren a los trabajadores en términos del artículo 37 del presente ordenamiento, podrán percibir ingresos por la administración de los recursos de los fondos de previsión social.
-Párrafo adicionado DOF 10-12-2002 Para efectos de las fracciones I bis, I ter y I quater, las administradoras y las prestadoras de servicio deberán reportar la individualización de las aportaciones y rendimientos correspondientes a los trabajadores a que se refieren los artículos 192 y 251 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; dicha individualización deberá calcularse por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado con base en la tasa de rendimiento que le proporcione el fondo de pensiones.
+Fracción adicionada DOF 10-12-2002
+Las administradoras, además de las comisiones que cobren a los trabajadores en términos del artículo 37 del presente ordenamiento, podrán percibir ingresos por la administración de los recursos de los fondos de previsión social.
+Párrafo adicionado DOF 10-12-2002
+Para efectos de las fracciones I bis, I ter y I quater, las administradoras y las prestadoras de servicio deberán reportar la individualización de las aportaciones y rendimientos correspondientes a los trabajadores a que se refieren los artículos 192 y 251 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; dicha individualización deberá calcularse por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado con base en la tasa de rendimiento que le proporcione el fondo de pensiones.
 Párrafo adicionado DOF 30-04-2024
 
 ### Artículo 18
@@ -418,7 +440,8 @@ Párrafo reformado DOF 10-12-2002
 
 ### Artículo 23
 .- La adquisición de acciones de una administradora o la incorporación de nuevos accionistas a ésta, que implique la participación del adquirente en 5% o más del capital social de dicha administradora, así como la fusión de administradoras, deberán ser autorizadas por la Comisión, siempre y cuando estas operaciones no impliquen conflicto de interés.
-Párrafo reformado DOF 10-01-2014 La autorización para la adquisición de acciones que representen el 5% o más del capital social de una administradora, también se requerirá para el caso de personas físicas o morales que la Comisión considere para estos efectos como una sola persona, de conformidad con lo que disponga el reglamento de esta ley.
+Párrafo reformado DOF 10-01-2014
+La autorización para la adquisición de acciones que representen el 5% o más del capital social de una administradora, también se requerirá para el caso de personas físicas o morales que la Comisión considere para estos efectos como una sola persona, de conformidad con lo que disponga el reglamento de esta ley.
 Cuando la adquisición de acciones sea menor al 5% de su capital social, la administradora de que se trate deberá dar aviso a la Comisión con diez días hábiles de anticipación a que surta efectos el acto y proporcionarle la información que ésta determine. Asimismo, una vez efectuada la operación deberá hacerlo del conocimiento de la Comisión.
 Artículo reformado DOF 10-12-2002
 
@@ -488,7 +511,8 @@ III. Recibir los informes del comisario y los dictámenes de los auditores exter
 
 IV. Informar a la Comisión mensualmente del cumplimiento de las obligaciones a su cargo, así como en cualquier momento de las irregularidades de que tenga conocimiento en el ejercicio de sus funciones.
 El contralor normativo incluirá dentro del programa de autorregulación, su plan de funciones con las actividades de evaluación y las medidas para preservar su cumplimiento.
-Párrafo adicionado DOF 10-12-2002 El contralor normativo deberá asistir a las sesiones de consejo de administración de las administradoras y de las sociedades de inversión y a las sesiones del comité de inversión, y en todo caso participará con voz pero sin voto.
+Párrafo adicionado DOF 10-12-2002
+El contralor normativo deberá asistir a las sesiones de consejo de administración de las administradoras y de las sociedades de inversión y a las sesiones del comité de inversión, y en todo caso participará con voz pero sin voto.
 Asimismo, será responsable por el incumplimiento de cualquiera de sus obligaciones previstas en esta ley, pudiendo ser sancionado de conformidad a lo previsto en la misma.
 Las funciones del contralor normativo se ejercerán sin perjuicio de las que correspondan al comisario y al auditor externo de la administradora de que se trate, de conformidad con la legislación aplicable.
 
@@ -527,7 +551,8 @@ Las administradoras deberán presentar a la Junta de Gobierno de la Comisión su
 La Junta de Gobierno, una vez analizada la solicitud, podrá exigir información adicional así como aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas para los intereses de los trabajadores, considerando el monto de los activos en administración, la estructura de costos de las administradoras, el nivel de las demás comisiones presentes en el mercado y los demás elementos que dicho órgano de gobierno considere pertinentes. La Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley, excepto tratándose de las solicitudes de autorización anuales, en cuyo caso deberá resolver a más tardar el último día hábil del mes de diciembre. No se podrán autorizar aumentos de comisiones por encima del promedio del resto de las comisiones autorizadas.
 La propia Junta de Gobierno de la Comisión atendiendo a las consideraciones referidas en el párrafo anterior, dictará políticas y criterios en materia de comisiones, particularmente sobre la dispersión máxima permitida en el sistema entre la comisión más baja y la más alta, mediante la definición de parámetros claros, y podrá emitir exhortos o recomendaciones a las administradoras sobre el nivel de sus comisiones.
 Las comisiones que cobren las administradoras de fondos para el retiro estarán sujetas a un máximo, el cual resultará del promedio aritmético de los cobros en materia de comisiones en los sistemas de contribución definida de los Estados Unidos de América, Colombia y Chile, de conformidad con las políticas y criterios que al efecto emita la Junta de Gobierno de la Comisión de conformidad con el párrafo anterior. En la medida en que las comisiones en estos países tengan ajustes a la baja serán aplicables las mismas reducciones y, en caso contrario, se mantendrá el promedio que al momento se esté aplicando.
-Párrafo adicionado DOF 16-12-2020 En caso de que una administradora omita presentar sus comisiones anuales para autorización en la fecha establecida, estará obligada a cobrar la comisión más baja autorizada por la Junta de Gobierno a otras administradoras para el año calendario de que se trate, hasta que presente su solicitud y sus comisiones sean autorizadas.
+Párrafo adicionado DOF 16-12-2020
+En caso de que una administradora omita presentar sus comisiones anuales para autorización en la fecha establecida, estará obligada a cobrar la comisión más baja autorizada por la Junta de Gobierno a otras administradoras para el año calendario de que se trate, hasta que presente su solicitud y sus comisiones sean autorizadas.
 En caso de que una administradora presente su solicitud y la Junta de Gobierno deniegue la autorización respectiva por cualquier causa, la administradora solicitante estará obligada a cobrar la comisión que resulte de calcular el promedio del resto de las comisiones autorizadas para el periodo correspondiente, hasta que modifique su solicitud, y sus comisiones sean autorizadas por la Junta de Gobierno. Asimismo, la Junta de Gobierno deberá hacer públicas las razones por las cuales la autorización de comisiones sea denegada, a menos que la información respectiva esté clasificada como reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 Las administradoras deberán entregar en el domicilio de los trabajadores un comunicado cuando incrementen sus comisiones, por lo menos con treinta días naturales de anticipación a la fecha en que entre en vigor el incremento, a efecto de que los trabajadores puedan solicitar, si así lo desean, el traspaso de su cuenta individual a otra administradora.
 El incumplimiento a lo previsto en el párrafo anterior, tendrá como consecuencia la nulidad de la o las comisiones que pretendan cobrarse, con independencia de las sanciones que en su caso procedan.
@@ -592,6 +617,7 @@ VIII. Las demás que les señalen ésta u otras leyes.
 
 ## Sección II — De las Sociedades de Inversión Especializadas de Fondos para el Retiro
 
+
 ### Artículo 39
 .- Las sociedades de inversión, administradas y operadas por las administradoras, tienen por objeto invertir los recursos provenientes de las cuentas individuales que reciban en los términos de las leyes de seguridad social y de esta ley. Asimismo, las sociedades de inversión invertirán los recursos de las administradoras a que se refieren los artículos 27 y 28 de esta ley.
 Además, las sociedades de inversión podrán invertir las aportaciones destinadas a fondos de previsión social, las aportaciones voluntarias y complementarias de retiro que reciban de los trabajadores y patrones, así como los demás recursos que en términos de esta ley pueden ser depositados en las cuentas individuales.
@@ -614,14 +640,16 @@ Las sociedades de inversión no deberán utilizar en su denominación, expresion
 
 II. El capital mínimo exigido de la sociedad estará íntegramente suscrito y pagado, y será el que establezca la Comisión, mediante disposiciones de carácter general.
 Dicho capital estará representado por acciones de capital fijo que sólo podrán transmitirse previa autorización de la Comisión, la cual no será necesaria en el caso de que se transmitan a la administradora que las opere.
-Párrafo reformado DOF 10-12-2002 Las sociedades de inversión no estarán obligadas a constituir el fondo de reserva a que se refiere el artículo 20 de la Ley General de Sociedades Mercantiles;
+Párrafo reformado DOF 10-12-2002
+Las sociedades de inversión no estarán obligadas a constituir el fondo de reserva a que se refiere el artículo 20 de la Ley General de Sociedades Mercantiles;
 Párrafo adicionado DOF 10-12-2002
 
 III. Su administración estará a cargo de los mismos integrantes del Consejo de Administración de la administradora que las opere en los términos que establece esta ley;
 Fracción reformada DOF 10-12-2002
 
 IV. Únicamente podrán participar en el capital social fijo de las sociedades de inversión, la administradora que solicite su constitución y los socios de dicha administradora. En ningún caso la participación accionaria de las administradoras en el capital fijo de las sociedades de inversión que operen podrá ser inferior al 99% de la parte representativa del capital social fijo.
-Párrafo reformado DOF 10-12-2002 La fusión de sociedades de inversión deberá ser previamente autorizada por la Comisión;
+Párrafo reformado DOF 10-12-2002
+La fusión de sociedades de inversión deberá ser previamente autorizada por la Comisión;
 Párrafo adicionado DOF 10-12-2002
 
 V. Unicamente podrán participar en su capital social variable los trabajadores que inviertan los recursos de las cuentas individuales previstas en las leyes de seguridad social, así como las administradoras conforme a lo dispuesto en los artículos 27 y 28 de esta ley;
@@ -635,8 +663,10 @@ VIII. Podrán adquirir las acciones que emitan, procediendo a la disminución de
 ### Artículo 42
 .- Las sociedades de inversión deberán contar con un comité de inversión que tendrá por objeto determinar la política y estrategia de inversión y la composición de los activos de la sociedad, así como designar a los operadores que ejecuten la política de inversión.
 Este comité deberá integrarse cuando menos con un consejero independiente, el director general de la administradora que opere a la sociedad de inversión y los demás miembros que designe el consejo de administración de la sociedad de inversión de que se trate. No podrán ser miembros de este comité aquellas personas que sean miembros del comité de riesgos de la sociedad con excepción del director general de la administradora, el cual deberá participar en ambos comités.
-Párrafo adicionado DOF 10-12-2002 La designación de los operadores de las sociedades de inversión deberá contar con el voto favorable de los consejeros independientes que sean miembros del comité de inversión.
-Párrafo reformado DOF 10-12-2002 Este Comité deberá sesionar cuando menos una vez al mes, y sus sesiones no serán válidas sin la presencia de cuando menos un consejero independiente. De cada sesión deberá levantarse acta pormenorizada, la cual deberá estar a disposición de la Comisión.
+Párrafo adicionado DOF 10-12-2002
+La designación de los operadores de las sociedades de inversión deberá contar con el voto favorable de los consejeros independientes que sean miembros del comité de inversión.
+Párrafo reformado DOF 10-12-2002
+Este Comité deberá sesionar cuando menos una vez al mes, y sus sesiones no serán válidas sin la presencia de cuando menos un consejero independiente. De cada sesión deberá levantarse acta pormenorizada, la cual deberá estar a disposición de la Comisión.
 
 ### Artículo 42
 bis.- Las sociedades de inversión deberán contar con un comité de riesgos, el cual tendrá por objeto administrar los riesgos a que se encuentren expuestas, así como vigilar que la realización de sus operaciones se ajuste a los límites, políticas y procedimientos para la administración de riesgos aprobados por su consejo de administración.
@@ -666,7 +696,8 @@ Artículo reformado DOF 10-12-2002
 .- Cuando una sociedad de inversión haya adquirido valores entre los porcentajes previstos en el régimen de inversión que le sea aplicable y con motivo de variaciones en los precios de los valores que integran su activo no cubra o se exceda de tales porcentajes podrá solicitar a la Comisión, autorización para mantener temporalmente el defecto o exceso correspondiente, la cual, en su caso, se otorgará con la condición de que no lleven a cabo nuevas adquisiciones o venta de los valores causantes de los mismos hasta en tanto se restablezcan los porcentajes aplicables.
 Las sociedades de inversión que incumplan con el régimen de inversión autorizado, deberán recomponer su cartera en el plazo que fije la Comisión, oyendo la opinión del Comité de Análisis de Riesgo el que no podrá ser mayor de seis meses, a fin de ajustarse al régimen ordenado por esta ley.
 Asimismo, en caso de que una sociedad de inversión haya adquirido un valor que cumpla con los requisitos de calificación y posteriormente se degrade la calificación de éste, podrán conservar dicho valor hasta su amortización.
-Párrafo adicionado DOF 10-12-2002 Cuando se presenten minusvalías derivadas del incumplimiento al régimen de inversión autorizado por efectos distintos a los de valuación, o en el caso de la falta de presentación de la solicitud a que se refiere el primer párrafo de este artículo, la administradora que opere la sociedad de inversión de que se trate, las cubrirá con cargo a la reserva especial constituida en los términos previstos en esta ley, y en caso de que ésta resulte insuficiente, lo deberá hacer con cargo a su capital social.
+Párrafo adicionado DOF 10-12-2002
+Cuando se presenten minusvalías derivadas del incumplimiento al régimen de inversión autorizado por efectos distintos a los de valuación, o en el caso de la falta de presentación de la solicitud a que se refiere el primer párrafo de este artículo, la administradora que opere la sociedad de inversión de que se trate, las cubrirá con cargo a la reserva especial constituida en los términos previstos en esta ley, y en caso de que ésta resulte insuficiente, lo deberá hacer con cargo a su capital social.
 
 ### Artículo 44
 Bis.- Cuando habiendo cumplido el régimen de inversión autorizado se presenten minusvalías derivadas de situaciones extraordinarias del mercado, la administradora que opere la sociedad de inversión de que se trate lo notificará a la Comisión dentro de un plazo que no excederá de un día hábil.
@@ -749,16 +780,20 @@ X. Celebrar operaciones que de manera directa o indirecta tengan como resultado 
 La Comisión en casos excepcionales y atendiendo a las consideraciones del caso concreto, podrá autorizar la adquisición de los valores a que se refiere el párrafo anterior hasta por un diez por ciento;
 
 XI. Adquirir valores extranjeros distintos a los autorizados por la Comisión en el régimen de inversión.
-Estos valores no deberán exceder el 20% del activo total de la sociedad de inversión, y Fracción reformada DOF 10-12-2002
+Estos valores no deberán exceder el 20% del activo total de la sociedad de inversión, y
+Fracción reformada DOF 10-12-2002
 
 XII. Las demás que señalen ésta u otras leyes.
 
 ## Sección III — Disposiciones Comunes
 
+
 ### Artículo 49
 .- Las administradoras y las sociedades de inversión serán administradas por un consejo de administración integrado con un mínimo de cinco consejeros que serán designados por los accionistas de la administradora, de los cuales cuando menos dos serán consejeros independientes.
-Párrafo reformado DOF 10-12-2002 Los integrantes del consejo de administración designado por los accionistas de una administradora, serán también los integrantes del consejo de administración de las sociedades de inversión que opere aquélla.
-Párrafo reformado DOF 10-12-2002 En caso de que se aumente el número de integrantes del Consejo de Administración se deberá mantener la proporción de consejeros independientes que se señala en el primer párrafo de este artículo.
+Párrafo reformado DOF 10-12-2002
+Los integrantes del consejo de administración designado por los accionistas de una administradora, serán también los integrantes del consejo de administración de las sociedades de inversión que opere aquélla.
+Párrafo reformado DOF 10-12-2002
+En caso de que se aumente el número de integrantes del Consejo de Administración se deberá mantener la proporción de consejeros independientes que se señala en el primer párrafo de este artículo.
 Los consejos de administración de las administradoras y de las sociedades de inversión deberán sesionar cuando menos cada tres meses. En ambos casos, sus sesiones no serán válidas sin la presencia de cuando menos un consejero independiente. De cada sesión de consejo de administración deberá levantarse acta pormenorizada, la cual deberá estar a disposición de la Comisión.
 Párrafo reformado DOF 10-12-2002
 
@@ -771,7 +806,8 @@ II. Acreditar ante la Comisión solvencia moral, así como capacidad técnica y 
 
 III. No ser cónyuge o tener relación de parentesco por afinidad, civil o consanguíneo dentro del segundo grado o algún vínculo laboral con los accionistas de control o principales funcionarios de las administradoras.
 Asimismo, no deberá ser accionista o empleado de ninguna de las empresas del grupo financiero o corporativo al que pertenezca el accionista de control mayoritario de la administradora en que preste sus servicios.
-Párrafo reformado DOF 10-12-2002 La limitación consistente en no ser accionista de las empresas antes mencionadas no será aplicable tratándose de las sociedades de inversión en las que participe como trabajador;
+Párrafo reformado DOF 10-12-2002
+La limitación consistente en no ser accionista de las empresas antes mencionadas no será aplicable tratándose de las sociedades de inversión en las que participe como trabajador;
 Párrafo adicionado DOF 10-12-2002
 
 IV. No prestar servicios personales a los institutos de seguridad social o habérselos prestado durante los doce meses anteriores a su contratación;
@@ -844,7 +880,8 @@ Fracción reformada DOF 24-01-2024
 III. Concluido el plazo a que se refiere la fracción anterior y, en su caso, el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas;
 Fracción reformada DOF 24-01-2024
 
-IV. Al día hábil siguiente de concluido el plazo para el desahogo de las pruebas la Comisión notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine, y Fracción adicionada DOF 24-01-2024
+IV. Al día hábil siguiente de concluido el plazo para el desahogo de las pruebas la Comisión notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine, y
+Fracción adicionada DOF 24-01-2024
 
 V. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo. La resolución correspondiente, no admitirá recurso administrativo alguno.
 Fracción adicionada DOF 24-01-2024
@@ -861,11 +898,13 @@ b) El cargo de síndico o liquidador siempre corresponderá a alguna institució
 c) La Comisión ejercerá, respecto a los síndicos y a los liquidadores, las funciones de vigilancia que tiene atribuidas en relación a las propias administradoras; y
 
 d) La Comisión podrá solicitar la declaración de concurso mercantil en las condiciones y casos previstos por la Ley de Concursos Mercantiles.
-Inciso reformado DOF 10-12-2002 En el caso de disolución de las administradoras o sociedades de inversión, la Comisión deberá tomar todas las medidas necesarias para la protección de los intereses de los trabajadores.
+Inciso reformado DOF 10-12-2002
+En el caso de disolución de las administradoras o sociedades de inversión, la Comisión deberá tomar todas las medidas necesarias para la protección de los intereses de los trabajadores.
 Antes de proceder a la disolución y liquidación de una administradora, se traspasarán los recursos de las sociedades de inversión que administre a la cuenta concentradora prevista en el artículo 75 de esta ley, durante el plazo que determine el reglamento de la misma. El traspaso de esos recursos a otra administradora, se realizará de conformidad con las disposiciones de carácter general que expida la Comisión, salvaguardando los derechos de los trabajadores, sin perjuicio del derecho de éstos para elegir la administradora a la que se traspasará su cuenta individual y la sociedad de inversión para invertir sus recursos.
 Párrafo reformado DOF 10-12-2002
 
 ## Sección IV — De las Empresas Operadoras de la Base de Datos Nacional SAR
+
 
 ### Artículo 57
 .- La Base de Datos Nacional SAR, propiedad exclusiva del Gobierno Federal, es aquélla conformada por la información procedente de los sistemas de ahorro para el retiro, conteniendo la información individual de cada trabajador y el registro de la administradora o institución de crédito en que cada uno de éstos se encuentra afiliado.
@@ -948,10 +987,14 @@ XV. Ejecutar u omitir actos que impidan la prestación continua de los servicios
 
 XVI. Por incurrir en cualquier otra causal de revocación prevista en esta ley, sus reglamentos o en el título de concesión.
 La Secretaría de Hacienda y Crédito Público podrá revocar las concesiones en caso de que se actualice cualquiera de los supuestos señalados en las fracciones II, VIII, XI, XII, XIII y XV anteriores.
-Párrafo reformado DOF 24-01-2024 En los demás supuestos previstos en este artículo, para la procedencia de la revocación, se requerirá que la concesionaria los haya actualizado por lo menos en cinco ocasiones.
-Párrafo reformado DOF 24-01-2024 Para otorgar el derecho de audiencia que refiere el presente artículo, la Secretaría de Hacienda y Crédito Público deberá conceder un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, para que la concesionaria manifieste lo que a su derecho convenga y ofrezca las pruebas que considere convenientes. Dicho plazo podrá ampliarse por una sola ocasión, hasta por el mismo lapso, para lo cual se considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas la Secretaría de Hacienda y Crédito Público notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría de Hacienda y Crédito Público contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo de revocación a que se refiere el presente artículo.
+Párrafo reformado DOF 24-01-2024
+En los demás supuestos previstos en este artículo, para la procedencia de la revocación, se requerirá que la concesionaria los haya actualizado por lo menos en cinco ocasiones.
+Párrafo reformado DOF 24-01-2024
+Para otorgar el derecho de audiencia que refiere el presente artículo, la Secretaría de Hacienda y Crédito Público deberá conceder un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, para que la concesionaria manifieste lo que a su derecho convenga y ofrezca las pruebas que considere convenientes. Dicho plazo podrá ampliarse por una sola ocasión, hasta por el mismo lapso, para lo cual se considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Secretaría contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas la Secretaría de Hacienda y Crédito Público notificará a la interesada de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Secretaría podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Secretaría de Hacienda y Crédito Público contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo de revocación a que se refiere el presente artículo.
 Párrafo adicionado DOF 24-01-2024
 
 ### Artículo 62
@@ -962,6 +1005,7 @@ El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a lo
 .- Previo a la declaración de revocación de la concesión para la operación de la Base de Datos Nacional SAR, se deberá cumplir con el procedimiento establecido en el artículo 55 de esta ley.
 
 ## Sección V
+
 De las Relaciones entre las Administradoras y los Grupos y Entidades Financieras y de los Conflictos de Interés
 
 ### Artículo 64
@@ -1014,23 +1058,28 @@ Los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia, a
 
 I. Tratándose de colocaciones primarias, las sociedades de inversión tendrán prohibido adquirir valores de:
 
-a) Empresas con las que la administradora que las opere tenga nexos patrimoniales, de control administrativo o formen parte del mismo grupo financiero al que pertenezca, y Inciso reformado DOF 10-12-2002
+a) Empresas con las que la administradora que las opere tenga nexos patrimoniales, de control administrativo o formen parte del mismo grupo financiero al que pertenezca, y
+Inciso reformado DOF 10-12-2002
 
 b) Empresas, cuando el agente colocador sea una institución de crédito o casa de bolsa que sea parte del mismo grupo financiero al que pertenezca la administradora que opere a la sociedad de inversión o con la que tenga nexo patrimonial.
 Inciso reformado DOF 10-12-2002
 
 II. Adicionalmente, las sociedades de inversión tendrán prohibido:
 
-a) Operar valores con entidades financieras con las que la administradora que las opere tenga nexos patrimoniales, de control administrativo o formen parte del grupo financiero al que pertenezca, cuando la entidad financiera de que se trate actúe por cuenta propia, y Inciso reformado DOF 10-12-2002
+a) Operar valores con entidades financieras con las que la administradora que las opere tenga nexos patrimoniales, de control administrativo o formen parte del grupo financiero al que pertenezca, cuando la entidad financiera de que se trate actúe por cuenta propia, y
+Inciso reformado DOF 10-12-2002
 
 b) Efectuar operaciones con títulos no emitidos en serie, con los intermediarios financieros con los que la administradora que las opere tenga nexos patrimoniales, de control administrativo o formen parte del grupo financiero al que pertenezca.
-Inciso reformado DOF 10-12-2002 Las sociedades de inversión sólo podrán utilizar los servicios de la institución de crédito o de la casa de bolsa del grupo financiero del que la administradora que las opere forme parte, o bien de una institución de crédito o casa de bolsa con la que dicha administradora tenga nexo patrimonial, para que éstas, por cuenta y orden de la sociedad de inversión, efectúen operaciones con valores distintas a las arriba señaladas.
-Párrafo reformado DOF 10-12-2002 Para efectos de lo dispuesto por el presente artículo, en los prospectos de información de cada sociedad de inversión se deberá establecer cuáles son los nexos patrimoniales de la administradora que las opere y los integrantes del grupo financiero al que pertenezcan.
+Inciso reformado DOF 10-12-2002
+Las sociedades de inversión sólo podrán utilizar los servicios de la institución de crédito o de la casa de bolsa del grupo financiero del que la administradora que las opere forme parte, o bien de una institución de crédito o casa de bolsa con la que dicha administradora tenga nexo patrimonial, para que éstas, por cuenta y orden de la sociedad de inversión, efectúen operaciones con valores distintas a las arriba señaladas.
+Párrafo reformado DOF 10-12-2002
+Para efectos de lo dispuesto por el presente artículo, en los prospectos de información de cada sociedad de inversión se deberá establecer cuáles son los nexos patrimoniales de la administradora que las opere y los integrantes del grupo financiero al que pertenezcan.
 Párrafo adicionado DOF 10-12-2002
 
 ### Artículo 70
 .- Los contratos que celebren las administradoras con cualquier empresa con la que tengan nexos patrimoniales o de control administrativo, deberán ser sometidos, previamente a su celebración, a la aprobación del contralor normativo a efecto de que éste verifique que el contenido de los mismos se ajusta a las condiciones existentes en el mercado para actos similares y que no existe un beneficio extraordinario a favor de la empresa con la que la administradora pretenda celebrar el contrato.
-Párrafo reformado DOF 10-12-2002 Las empresas que presten servicios a más de una administradora, no deberán hacer discriminación entre éstas, para lo cual deberán aplicar las mismas condiciones de contratación.
+Párrafo reformado DOF 10-12-2002
+Las empresas que presten servicios a más de una administradora, no deberán hacer discriminación entre éstas, para lo cual deberán aplicar las mismas condiciones de contratación.
 
 ### Artículo 71
 .- Las sociedades de inversión deberán respetar el límite del cinco por ciento o su ampliación de hasta el 10 por ciento, con autorización de la Comisión, para la adquisición directa o indirecta de valores emitidos o avalados por personas físicas o morales con quienes tengan nexos patrimoniales o de control administrativo.
@@ -1044,6 +1093,7 @@ Artículo reformado DOF 10-12-2002
 CAPITULO IV De la Cuenta Individual y de los Planes de Pensiones Establecidos por Patrones o Derivados de Contratación Colectiva
 
 ## Sección I — De la Cuenta Individual
+
 
 ### Artículo 74
 .- Los trabajadores afiliados tienen derecho a la apertura de su cuenta individual de conformidad con la Ley del Seguro Social, en la administradora de su elección. Para abrir las cuentas individuales, se les asignará una clave de identificación por el Instituto Mexicano del Seguro Social.
@@ -1061,13 +1111,18 @@ Asimismo, los trabajadores afiliados podrán solicitar a su administradora que s
 Las aportaciones complementarias de retiro sólo podrán retirarse cuando el trabajador afiliado tenga derecho a disponer de las aportaciones obligatorias, ya sea para complementar, cuando así lo solicite el trabajador, los recursos destinados al pago de su pensión, o bien para recibirlas en una sola exhibición.
 Las administradoras estarán obligadas a abrir la cuenta individual o a aceptar el traspaso de dicha cuenta, de aquellos trabajadores afiliados que cumpliendo con las disposiciones aplicables, soliciten su apertura de cuenta. En ningún caso podrán hacer discriminación de trabajadores.
 Los trabajadores tendrán derecho a traspasar su cuenta individual de una administradora a otra una vez transcurrido un año, contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Podrá hacerlo antes del año, cuando traspase su cuenta individual a una administradora cuyas sociedades de inversión hubieren registrado un mayor Rendimiento Neto, en el período de cálculo inmediato anterior. La Junta de Gobierno determinará el mínimo de diferencia que debe de haber entre los Rendimientos Netos observados para que se pueda ejercer el derecho de traspaso de una administradora a otra.
-Párrafo reformado DOF 11-01-2005, 15-06-2007 Los trabajadores que ejerzan su derecho de traspasar su cuenta individual de una administradora a otra que haya registrado un Rendimiento Neto mayor, deberán permanecer al menos doce meses en la última administradora elegida.
-Párrafo adicionado DOF 15-06-2007 Sin perjuicio de lo anterior, la Junta de Gobierno de la Comisión, atendiendo a las circunstancias del mercado, la competencia entre administradoras y otros factores que permitan propiciar las mejores condiciones de competitividad en beneficio de los trabajadores, podrá establecer un plazo menor al del año para que éstos ejerzan su derecho al traspaso.
-Párrafo adicionado DOF 15-06-2007 Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
-Párrafo adicionado DOF 15-06-2007 El derecho de los trabajadores afiliados para invertir los recursos de su cuenta individual en otra sociedad de inversión, que sea operada por la misma administradora que se encuentre operando dicha cuenta, podrá ser ejercitado en cualquier tiempo, siempre que reúnan los requisitos para invertir en dicha sociedad de inversión.
+Párrafo reformado DOF 11-01-2005, 15-06-2007
+Los trabajadores que ejerzan su derecho de traspasar su cuenta individual de una administradora a otra que haya registrado un Rendimiento Neto mayor, deberán permanecer al menos doce meses en la última administradora elegida.
+Párrafo adicionado DOF 15-06-2007
+Sin perjuicio de lo anterior, la Junta de Gobierno de la Comisión, atendiendo a las circunstancias del mercado, la competencia entre administradoras y otros factores que permitan propiciar las mejores condiciones de competitividad en beneficio de los trabajadores, podrá establecer un plazo menor al del año para que éstos ejerzan su derecho al traspaso.
+Párrafo adicionado DOF 15-06-2007
+Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
+Párrafo adicionado DOF 15-06-2007
+El derecho de los trabajadores afiliados para invertir los recursos de su cuenta individual en otra sociedad de inversión, que sea operada por la misma administradora que se encuentre operando dicha cuenta, podrá ser ejercitado en cualquier tiempo, siempre que reúnan los requisitos para invertir en dicha sociedad de inversión.
 Los trabajadores afiliados podrán solicitar en cualquier tiempo a las administradoras, en las oficinas de éstas, estados de cuenta adicionales a los que conforme a esta ley y a las disposiciones de carácter general aquéllas deban enviarles periódicamente.
 Las administradoras serán responsables de efectuar los trámites para el traspaso de cuentas individuales, una vez que el trabajador afiliado haya presentado las solicitudes correspondientes en los términos de las disposiciones de carácter general que emita la Comisión. En todo caso, la administradora responsable de efectuar el traspaso de la cuenta deberá cerciorarse fehacientemente que el trabajador afiliado haya solicitado el traspaso correspondiente.
-Párrafo reformado DOF 21-01-2009 Artículo reformado DOF 10-12-2002
+Párrafo reformado DOF 21-01-2009
+Artículo reformado DOF 10-12-2002
 
 ### Artículo 74
 bis.- Los trabajadores inscritos en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, tendrán derecho a la apertura de su cuenta individual en la administradora de su elección. La administradora elegida tendrá a su cargo la administración de la cuenta individual y, cuando el trabajador así lo decida, la inversión de la totalidad de los recursos acumulados en la subcuenta de ahorro para el retiro y de las aportaciones voluntarias en las sociedades de inversión.
@@ -1150,7 +1205,8 @@ Los trabajadores podrán realizar retiros de su subcuenta de aportaciones volunt
 Para realizar retiros con cargo a la subcuenta de aportaciones voluntarias, los trabajadores deberán dar aviso a la administradora en los términos que se establezcan en el prospecto de información de la sociedad de inversión de que se trate.
 Previo consentimiento del trabajador afiliado, el importe de las aportaciones voluntarias podrá transferirse a la subcuenta de vivienda para su aplicación en un crédito de vivienda otorgado a su favor por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Esta transferencia podrá realizarse en cualquier momento aun cuando no haya transcurrido el plazo mínimo para disponer de las aportaciones voluntarias.
 En caso de fallecimiento del trabajador, tendrán derecho a disponer de los recursos de sus subcuentas de ahorro voluntario de la cuenta individual, las personas que el titular de la cuenta haya designado para tal efecto y, a falta de éstas, las personas que señale la legislación aplicable en cada caso.
-Párrafo reformado DOF 15-06-2007 El trabajador, o sus beneficiarios, que hayan obtenido una resolución de otorgamiento de pensión o bien, de negativa de pensión, o que por cualquier otra causa tenga el derecho a retirar la totalidad de los recursos de su cuenta individual, podrá optar por que las cantidades depositadas en su subcuenta de aportaciones voluntarias, permanezcan invertidas en las sociedades de inversión operadas por la administradora en la que se encuentre registrado, durante el plazo que considere conveniente. Las aportaciones voluntarias no se utilizarán para financiar las pensiones de los trabajadores, a menos que conste su consentimiento expreso para ello.
+Párrafo reformado DOF 15-06-2007
+El trabajador, o sus beneficiarios, que hayan obtenido una resolución de otorgamiento de pensión o bien, de negativa de pensión, o que por cualquier otra causa tenga el derecho a retirar la totalidad de los recursos de su cuenta individual, podrá optar por que las cantidades depositadas en su subcuenta de aportaciones voluntarias, permanezcan invertidas en las sociedades de inversión operadas por la administradora en la que se encuentre registrado, durante el plazo que considere conveniente. Las aportaciones voluntarias no se utilizarán para financiar las pensiones de los trabajadores, a menos que conste su consentimiento expreso para ello.
 Artículo reformado DOF 10-12-2002
 
 ### Artículo 80
@@ -1166,6 +1222,7 @@ Los trabajadores y, en su caso, sus beneficiarios, podrán acceder ante los inst
 Artículo adicionado DOF 30-04-2024
 
 ## Sección II — Del Registro de Planes de Pensiones Establecidos por Patrones o Derivados de
+
 Contratación Colectiva
 
 ### Artículo 82
@@ -1180,6 +1237,7 @@ CAPITULO V De la Supervisión de los Participantes en los Sistemas de Ahorro par
 
 ## Sección I — De la Contabilidad
 
+
 ### Artículo 84
 .- La contabilidad de las administradoras, sociedades de inversión y empresas operadoras, se sujetará a lo previsto en la presente ley, en el reglamento de la misma, así como en las disposiciones de carácter general y los anexos de estas últimas, que para tal efecto expida la Comisión.
 Las administradoras, sociedades de inversión y las empresas operadoras, deberán cumplir con las normas de agrupación de cuentas, así como de registro contable y de operaciones que dicte la Comisión.
@@ -1187,7 +1245,8 @@ Artículo reformado DOF 10-12-2002
 
 ### Artículo 85
 .- Las cuentas que deben llevar las administradoras, sociedades de inversión y empresas operadoras, se ajustarán estrictamente a las leyes aplicables, al catálogo que al efecto autorice la Comisión, así como a los criterios y procedimientos que se establezcan en las disposiciones de carácter general y en los anexos que las integren, que en materia de contabilidad emita la Comisión. Las administradoras, sociedades de inversión y empresas operadoras podrán introducir nuevas cuentas, previa autorización de la Comisión, para lo cual deberán indicar en la solicitud respectiva el motivo de la misma.
-Párrafo reformado DOF 10-12-2002 Las sociedades de inversión y administradoras deberán llevar su contabilidad en su domicilio social, así como los sistemas y registros contables que establezca la Comisión, debiendo satisfacer los requisitos mínimos a que se refieren las leyes aplicables.
+Párrafo reformado DOF 10-12-2002
+Las sociedades de inversión y administradoras deberán llevar su contabilidad en su domicilio social, así como los sistemas y registros contables que establezca la Comisión, debiendo satisfacer los requisitos mínimos a que se refieren las leyes aplicables.
 Los asientos de contabilidad serán analíticos y deberán efectuarse en el plazo, que a tal efecto establezca la Comisión, el que no deberá exceder de cinco días hábiles.
 
 ### Artículo 86
@@ -1204,9 +1263,11 @@ La información que cumpliendo con los procedimientos establecidos se integre a 
 
 ## Sección II — De la Supervisión
 
+
 ### Artículo 89
 .- La supervisión que realice la Comisión se sujetará al Reglamento de esta Ley, y comprenderá los procedimientos correspondientes al ejercicio de las facultades de inspección, vigilancia, prevención y corrección que se confieren a la Comisión en esta Ley, así como en otras leyes y disposiciones aplicables. Tratándose de las instituciones de crédito la supervisión se realizará exclusivamente por lo que respecta a las operaciones que realicen en relación con los referidos sistemas.
-Párrafo reformado DOF 24-01-2024 La supervisión de los participantes en los sistemas de ahorro para el retiro tendrá por objeto evaluar los riesgos a que están sujetos, sus sistemas de control y la calidad de su administración, a fin de procurar que los mismos mantengan una adecuada liquidez, sean solventes y estables y, en general se ajusten a las disposiciones que los rigen y a los usos y sanas prácticas de los mercados financieros.
+Párrafo reformado DOF 24-01-2024
+La supervisión de los participantes en los sistemas de ahorro para el retiro tendrá por objeto evaluar los riesgos a que están sujetos, sus sistemas de control y la calidad de su administración, a fin de procurar que los mismos mantengan una adecuada liquidez, sean solventes y estables y, en general se ajusten a las disposiciones que los rigen y a los usos y sanas prácticas de los mercados financieros.
 Asimismo, por medio de la supervisión se evaluarán de manera consolidada los riesgos de los participantes en los sistemas de ahorro para el retiro agrupados o que tengan nexos patrimoniales, así como en general el adecuado funcionamiento de dichos sistemas.
 
 ### Artículo 90
@@ -1242,13 +1303,16 @@ XIII. Ejercer las demás facultades que, en materia de supervisión, se atribuye
 
 ### Artículo 91
 .- Los participantes en los sistemas de ahorro para el retiro, estarán obligados a proporcionar a la Comisión en ejercicio de sus facultades de supervisión la información y documentación que ésta les solicite mediante requerimiento expreso o disposiciones de carácter general, en relación con las cuentas y operaciones relativas a los sistemas de ahorro para el retiro, así como sobre su organización, sistemas, procesos, contabilidad, inversiones, presupuestos y patrimonio.
-Párrafo reformado DOF 10-12-2002 La información y documentación que requiera la Comisión a las personas mencionadas en el párrafo que antecede deberá proporcionarse dentro de los plazos y horarios que al efecto se establezcan, así como cumplir con la calidad, oportunidad, características, forma, periodicidad, requisitos y presentación que sean señalados por la propia Comisión en el requerimiento correspondiente, o en su caso, en las disposiciones de carácter general y en los anexos que las integren.
-Párrafo reformado DOF 10-12-2002 La información y documentos que obtenga la Comisión en el ejercicio de sus facultades, son estrictamente confidenciales, con excepción de los que por su naturaleza puedan ser dados a conocer al público en general. Los servidores públicos de la Comisión serán responsables en caso de su divulgación.
+Párrafo reformado DOF 10-12-2002
+La información y documentación que requiera la Comisión a las personas mencionadas en el párrafo que antecede deberá proporcionarse dentro de los plazos y horarios que al efecto se establezcan, así como cumplir con la calidad, oportunidad, características, forma, periodicidad, requisitos y presentación que sean señalados por la propia Comisión en el requerimiento correspondiente, o en su caso, en las disposiciones de carácter general y en los anexos que las integren.
+Párrafo reformado DOF 10-12-2002
+La información y documentos que obtenga la Comisión en el ejercicio de sus facultades, son estrictamente confidenciales, con excepción de los que por su naturaleza puedan ser dados a conocer al público en general. Los servidores públicos de la Comisión serán responsables en caso de su divulgación.
 
 ### Artículo 92
 .- La inspección que practique la Comisión se efectuará a través de visitas, verificación de operaciones y auditorías de registros y sistemas, en las instalaciones o equipos automatizados de los participantes en los sistemas de ahorro para el retiro.
 Los procedimientos de inspección que la Comisión lleve a cabo, deberán concluirse dentro de un plazo de doce meses contado a partir de que se notifique al Participante en los Sistemas de Ahorro para el Retiro la orden de visita.
-Párrafo adicionado DOF 24-01-2024 Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de los obligados a cubrir las cuotas y aportaciones a los sistemas de ahorro para el retiro, la Comisión comunicará tal situación, según corresponda, a la Secretaría de Hacienda y Crédito Público, al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la Secretaría de la Función Pública.
+Párrafo adicionado DOF 24-01-2024
+Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de los obligados a cubrir las cuotas y aportaciones a los sistemas de ahorro para el retiro, la Comisión comunicará tal situación, según corresponda, a la Secretaría de Hacienda y Crédito Público, al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la Secretaría de la Función Pública.
 Párrafo reformado DOF 09-04-2012
 
 ### Artículo 93
@@ -1266,6 +1330,7 @@ El Presidente de la Comisión podrá designar, en cualquier tiempo, inspectores 
 La Comisión vigilará que los inspectores y visitadores no incurran en situaciones de conflicto de interés entre su función y los participantes en los sistemas de ahorro para el retiro, siéndoles aplicables las sanciones y penas previstas en la Ley Federal de Responsabilidades de los Servidores Públicos y en
 
 ## Sección III — De la Intervención Administrativa y Gerencial
+
 
 ### Artículo 96
 .- Cuando se encuentre que alguna operación de las personas sujetas a la supervisión de la Comisión, no está realizada en los términos de las disposiciones normativas aplicables, el Presidente de la Comisión dictará las medidas necesarias para regularizarlas, señalando un plazo para tal efecto.
@@ -1291,34 +1356,44 @@ CAPITULO VI De las Sanciones Administrativas
 
 ### Artículo 99
 .- El incumplimiento o la contravención a las normas previstas en la presente ley, en las leyes del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como en los reglamentos y disposiciones que de ellas emanen, en lo relacionado con los sistemas de ahorro para el retiro, por parte de los Participantes en los Sistemas de Ahorro para el Retiro, contralores normativos, consejeros independientes, consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas, serán sancionados con multa que impondrá administrativamente la Comisión, tomando como base el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción, a excepción de que en la propia ley se disponga otra forma de sanción.
-Párrafo reformado DOF 10-01-2014 Si después de haber sido sancionada una conducta hubiera reincidencia o el mismo incumplimiento en forma reiterada, ésta se sancionará con multa cuyo importe será equivalente de hasta el doble de la sanción impuesta originalmente. Igualmente, cuando la Comisión además de imponer la sanción que corresponda otorgue al infractor un plazo para que cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción o realice el resarcimiento de daños a los Trabajadores y el infractor no dé cumplimiento a ello, este nuevo incumplimiento será sancionado como reincidencia.
-Párrafo adicionado DOF 10-01-2014 Para imponer la multa que corresponda, la Comisión deberá oír previamente al interesado. Para tal efecto, la Comisión iniciará el procedimiento sancionador, dándole a conocer al interesado las causas por la cual se considera que existen irregularidades, otorgando un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, mismo que, a petición de parte podrá ampliarse por una sola vez por el mismo lapso considerando las condiciones particulares del caso; para que el interesado manifieste lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes.
-Párrafo reformado DOF 24-01-2024 Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión notificará al interesado la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, o en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá:
+Párrafo reformado DOF 10-01-2014
+Si después de haber sido sancionada una conducta hubiera reincidencia o el mismo incumplimiento en forma reiterada, ésta se sancionará con multa cuyo importe será equivalente de hasta el doble de la sanción impuesta originalmente. Igualmente, cuando la Comisión además de imponer la sanción que corresponda otorgue al infractor un plazo para que cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción o realice el resarcimiento de daños a los Trabajadores y el infractor no dé cumplimiento a ello, este nuevo incumplimiento será sancionado como reincidencia.
+Párrafo adicionado DOF 10-01-2014
+Para imponer la multa que corresponda, la Comisión deberá oír previamente al interesado. Para tal efecto, la Comisión iniciará el procedimiento sancionador, dándole a conocer al interesado las causas por la cual se considera que existen irregularidades, otorgando un plazo de diez días hábiles, contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, mismo que, a petición de parte podrá ampliarse por una sola vez por el mismo lapso considerando las condiciones particulares del caso; para que el interesado manifieste lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes.
+Párrafo reformado DOF 24-01-2024
+Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión notificará al interesado la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, o en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá:
 
 a) Expresar con precisión el o los preceptos legales o disposiciones administrativas aplicables al caso, así como las circunstancias especiales, razones particulares o causas inmediatas que se toman en consideración para determinar la existencia de la conducta infractora;
 
 b) Tomar en cuenta la gravedad del acto u omisión que dio origen a la imposición de la multa, así como las consecuencias ocasionadas en la operación de los sistemas de ahorro para el retiro y la capacidad económica del infractor.
 Cuando la multa a imponer sea superior al mínimo establecido, en la resolución que al efecto se dicte, se deberán razonar las circunstancias y motivos por las que se considere aplicable al caso concreto un monto superior al mínimo previsto por la ley.
 Las multas que se impongan en términos de la presente ley no excederán en ningún caso del cinco por ciento del capital contable del Participante de que se trate, las cuales serán notificadas al representante legal del Participante en los Sistemas de Ahorro para el Retiro que haya cometido la infracción. La imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron la determinación de las multas.
-Párrafo reformado DOF 10-01-2014 Lo dispuesto en el presente artículo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la comisión de otras infracciones o delitos, ni la revocación de las autorizaciones o concesiones otorgadas a los participantes en los sistemas de ahorro para el retiro a que alude la presente ley.
+Párrafo reformado DOF 10-01-2014
+Lo dispuesto en el presente artículo no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la comisión de otras infracciones o delitos, ni la revocación de las autorizaciones o concesiones otorgadas a los participantes en los sistemas de ahorro para el retiro a que alude la presente ley.
 La facultad de la Comisión y de la Secretaría de Hacienda y Crédito Público para imponer sanciones de carácter administrativo señaladas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción. Para el caso de conductas continuas, el plazo referido se computará a partir del momento en que cese la misma y tratándose de continuadas, se contará a partir de la consumación de la última conducta.
-Párrafo adicionado DOF 24-01-2024 La caducidad referida en el párrafo anterior, se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se inician las facultades de supervisión.
-Párrafo adicionado DOF 24-01-2024 Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+Párrafo adicionado DOF 24-01-2024
+La caducidad referida en el párrafo anterior, se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se inician las facultades de supervisión.
+Párrafo adicionado DOF 24-01-2024
+Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
 
 I. Hasta por dos años, cuando el Participante en los Sistemas de Ahorro para el Retiro: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
 
 II. Cuando el Participante en los Sistemas de Ahorro para el Retiro haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
-Párrafo con fracciones adicionado DOF 24-01-2024 Artículo reformado DOF 10-12-2002
+Párrafo con fracciones adicionado DOF 24-01-2024
+Artículo reformado DOF 10-12-2002
 
 ### Artículo 100
 .- Las infracciones a que se refiere este artículo cometidas por los Participantes en los Sistemas de Ahorro para el Retiro, contralores normativos, consejeros independientes, consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas, se sancionarán como sigue:
 Párrafo reformado DOF 10-01-2014
 
 I. Multa de un mil a cinco mil días de salario a la Administradora que no utilice para la apertura de cuentas individuales, la documentación que al efecto determinen las disposiciones aplicables, o en su caso, no se ajuste al procedimiento y a las características que regulan el procedimiento de registro de Trabajadores previsto en esta ley y en las disposiciones que de ella emanen;
-Fracción reformada DOF 10-01-2014 I bis. Multa de cien a mil días de salario por cada Cuenta Individual al Participante en los Sistemas de Ahorro para el Retiro que registre a un Trabajador o solicite el traspaso de la Cuenta Individual de un Trabajador, sin que conste de manera expresa, a través de los mecanismos autorizados por la Comisión, el consentimiento por parte del Trabajador para la realización del trámite de registro o traspaso correspondiente, o cuando se haya obtenido el consentimiento del Trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio;
-Fracción adicionada DOF 11-01-2005. Reformada DOF 10-01-2014 I ter. Por cada acto que celebren las administradoras con empresas con las que tengan nexo patrimonial, en el cual el precio o monto de la contraprestación pactada a cargo de la administradora sea superior a la que hubieren acordado partes independientes según lo señala el artículo 64 bis de esta Ley, se aplicará una multa del 80% al 90% de la diferencia pagada por la administradora, respecto al precio promedio acordado por partes independientes que conste en el estudio realizado por un tercero independiente;
+Fracción reformada DOF 10-01-2014
+I bis. Multa de cien a mil días de salario por cada Cuenta Individual al Participante en los Sistemas de Ahorro para el Retiro que registre a un Trabajador o solicite el traspaso de la Cuenta Individual de un Trabajador, sin que conste de manera expresa, a través de los mecanismos autorizados por la Comisión, el consentimiento por parte del Trabajador para la realización del trámite de registro o traspaso correspondiente, o cuando se haya obtenido el consentimiento del Trabajador mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el registro o traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio;
+Fracción adicionada DOF 11-01-2005. Reformada DOF 10-01-2014
+I ter. Por cada acto que celebren las administradoras con empresas con las que tengan nexo patrimonial, en el cual el precio o monto de la contraprestación pactada a cargo de la administradora sea superior a la que hubieren acordado partes independientes según lo señala el artículo 64 bis de esta Ley, se aplicará una multa del 80% al 90% de la diferencia pagada por la administradora, respecto al precio promedio acordado por partes independientes que conste en el estudio realizado por un tercero independiente;
 Fracción adicionada DOF 11-01-2005
 
 II. Multa de cien a mil días de salario al Participante en los Sistemas de Ahorro para el Retiro, por cada estado de cuenta que no entregue a los Trabajadores en los términos, periodicidad y forma que al efecto establezcan las disposiciones aplicables, así como cuando el Participante en los Sistemas de Ahorro para el Retiro no atienda los trámites relacionados con las cuentas individuales;
@@ -1350,7 +1425,8 @@ XII. Multa de cinco mil a veinte mil días de salario a los participantes en los
 XIII. Multa de dos mil quinientos a cinco mil días de salario a las administradoras que operen a las sociedades de inversión, que den preferencia a sus intereses o a los de sus empresas frente a los de los trabajadores, que realicen operaciones que impliquen conflicto de interés, o intervengan en aquellas que no se ajusten a los usos y sanas prácticas del mercado de valores;
 
 XIV. Multa de cinco mil a veinte mil días de salario a la Sociedad de Inversión que incumpla con el régimen de inversión señalado en los prospectos de información que dé a conocer al público inversionista previamente autorizados por la Comisión, o que establezca un régimen de inversión que no se sujete a lo previsto por esta ley.
-Párrafo reformado DOF 10-01-2014 Igual sanción se impondrá si invierte los recursos de las cuentas individuales relativas a las cuentas de ahorro para el retiro o a los fondos de previsión social, en contravención a lo dispuesto por esta ley y las reglas de carácter general que le sean aplicables;
+Párrafo reformado DOF 10-01-2014
+Igual sanción se impondrá si invierte los recursos de las cuentas individuales relativas a las cuentas de ahorro para el retiro o a los fondos de previsión social, en contravención a lo dispuesto por esta ley y las reglas de carácter general que le sean aplicables;
 
 XV. Multa de dos mil quinientos a cinco mil días de salario a la institución de crédito, administradora, sociedad de inversión o empresa operadora, que falseen, oculten, o disimulen sus registros contables y estados financieros, independientemente de las responsabilidades civiles o penales que resulten aplicables;
 
@@ -1358,7 +1434,8 @@ XVI. Multa de un mil a diez mil días de salario a los Participantes en los Sist
 Fracción reformada DOF 10-01-2014
 
 XVII. Multa de un mil a veinte mil días de salario por cobrar comisiones por los servicios que preste en materia de los Sistemas de Ahorro para el Retiro por importes superiores a los autorizados conforme a las disposiciones aplicables.
-Párrafo reformado DOF 11-01-2005, 10-01-2014 Igual sanción se impondrá a la administradora que calcule erróneamente las comisiones por cobrar;
+Párrafo reformado DOF 11-01-2005, 10-01-2014
+Igual sanción se impondrá a la administradora que calcule erróneamente las comisiones por cobrar;
 
 XVIII. Multa de dos mil a diez mil días de salario a los funcionarios de las instituciones de crédito, administradoras, sociedades de inversión y empresas operadoras que no observen el principio de confidencialidad y de reserva de información previsto por esta ley;
 
@@ -1387,7 +1464,8 @@ XXVII. Multa de dos mil a veinte mil días de salario a la administradora que in
 Fracción adicionada DOF 28-01-2004
 
 XXVIII. Las infracciones a cualesquiera de las normas de esta ley, de las leyes de seguridad social, así como las disposiciones que de ellas emanen en relación con los sistemas de ahorro para el retiro y que no tengan sanción especialmente señalada en este artículo serán sancionadas con multa de un mil a cincuenta mil días de salario.
-Fracción reformada DOF 28-01-2004 (se recorre). Reformada DOF 10-01-2014 Si las multas a que se refiere esta ley son impuestas a alguno de los participantes en los sistemas de ahorro para el retiro, la Comisión también podrá imponer una multa de cien a cinco mil días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad motivo de la sanción impuesta.
+Fracción reformada DOF 28-01-2004 (se recorre). Reformada DOF 10-01-2014
+Si las multas a que se refiere esta ley son impuestas a alguno de los participantes en los sistemas de ahorro para el retiro, la Comisión también podrá imponer una multa de cien a cinco mil días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad motivo de la sanción impuesta.
 Artículo reformado DOF 10-12-2002
 
 ### Artículo 100-A
@@ -1416,10 +1494,12 @@ a) Incumplimiento al régimen de inversión de las sociedades de inversión;
 b) Cobro de comisiones que excedan el monto autorizado por la Comisión;
 Inciso reformado DOF 10-01-2014
 
-c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y Inciso reformado DOF 10-01-2014
+c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y
+Inciso reformado DOF 10-01-2014
 
 d) Cuando se trate de omisiones o contravenciones a la normatividad que se identifiquen en un mismo proceso en forma reiterada.
-Inciso adicionado DOF 10-01-2014 Artículo adicionado DOF 10-12-2002. Reformado DOF 11-01-2005
+Inciso adicionado DOF 10-01-2014
+Artículo adicionado DOF 10-12-2002. Reformado DOF 11-01-2005
 
 ### Artículo 100
 ter.- Los programas de corrección a que se refiere el artículo anterior, deberán presentarse ante la Comisión, por el Contralor Normativo o, en caso de aquellos participantes en los sistemas de ahorro para el retiro que no estén obligados a contar con éste, por un funcionario autorizado por la Comisión para estos efectos.
@@ -1429,7 +1509,8 @@ Artículo adicionado DOF 10-12-2002
 
 ### Artículo 100
 quáter.- El beneficio previsto en los artículos 100 bis y 100 ter, no será aplicable en caso de que las irregularidades hayan sido detectadas por la Comisión, en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación del programa de corrección.
-Párrafo reformado DOF 11-01-2005 Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado al participante la irregularidad.
+Párrafo reformado DOF 11-01-2005
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado al participante la irregularidad.
 En el caso de las facultades de inspección, se entenderá que la irregularidad fue detectada previamente por la Comisión cuando haya sido corregida con posterioridad a que se haya notificado una orden de visita de inspección, o haya mediado requerimiento y se refiera al objeto de la visita.
 En ningún caso la aplicación del beneficio previsto por este artículo, eximirá a las administradoras de su obligación de resarcir los daños y perjuicios, que en su caso, se causen a los trabajadores afectados por la infracción de que se trate.
 Artículo adicionado DOF 10-12-2002
@@ -1444,7 +1525,8 @@ Tratándose de personas a las que el Banco de México no les lleve cuenta, las m
 En el escrito en que la parte afectada interponga el recurso, deberá expresarse el acto impugnado y los agravios que el mismo cause, y se acompañarán u ofrecerán, según corresponda, las pruebas que al efecto se consideren convenientes. A dicho escrito, se acompañará además el documento que acredite el otorgamiento de una garantía por el monto de la multa impuesta.
 Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad competente, desechará por improcedente el recurso interpuesto. Si se omitieran las pruebas, se tendrán por no ofrecidas.
 La resolución del recurso de revocación podrá ser desechando, confirmando, mandando reponer por uno nuevo que lo sustituya o revocando el acto impugnado y deberá ser emitida por el Presidente de la Comisión en un plazo no superior a los sesenta días hábiles siguientes a su admisión.
-Párrafo reformado DOF 10-12-2002 La interposición del recurso de revocación, una vez otorgada la garantía en los términos del Código Fiscal de la Federación, suspenderá la exigibilidad del pago de la multa.
+Párrafo reformado DOF 10-12-2002
+La interposición del recurso de revocación, una vez otorgada la garantía en los términos del Código Fiscal de la Federación, suspenderá la exigibilidad del pago de la multa.
 La solicitud de condonación de multas impuestas por la Comisión deberá presentarse por escrito ante el Presidente de la misma, el cual resolverá sobre la procedencia de la condonación, ya sea total o parcialmente, aplicándose en forma supletoria lo dispuesto por el Código Fiscal de la Federación.
 Igualmente, en caso de que ésta se niegue, su importe se actualizará de conformidad a dicho Código y deberá ser cubierto dentro de los cinco días hábiles siguientes a aquél en que se notifique al infractor la resolución correspondiente.
 En el caso de que se confirme la resolución recurrida, la multa impuesta se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a la cantidad que se deba de actualizar. Dicho factor se obtendrá de conformidad con lo previsto por el Código Fiscal de la Federación. Las multas impuestas no se actualizarán por fracciones de mes.
@@ -1477,8 +1559,10 @@ Fracción reformada DOF 17-05-1999
 
 ### Artículo 107
 .- Serán sancionados con prisión de tres a nueve años los miembros de la junta de gobierno y del comité consultivo de vigilancia, que revelen información confidencial a la que tengan acceso en razón de su cargo.
-Párrafo reformado DOF 17-05-1999 En caso de que por la comisión del delito se obtenga un lucro indebido, directamente, por interpósita persona o a favor de un tercero, el responsable será sancionado con prisión de cinco a quince años.
-Párrafo reformado DOF 17-05-1999 A los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia, que tengan el carácter de servidor público, les serán aplicables las penas previstas en el presente artículo aumentadas en un cincuenta por ciento.
+Párrafo reformado DOF 17-05-1999
+En caso de que por la comisión del delito se obtenga un lucro indebido, directamente, por interpósita persona o a favor de un tercero, el responsable será sancionado con prisión de cinco a quince años.
+Párrafo reformado DOF 17-05-1999
+A los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia, que tengan el carácter de servidor público, les serán aplicables las penas previstas en el presente artículo aumentadas en un cincuenta por ciento.
 
 ### Artículo 107
 bis.- Serán sancionados los servidores públicos de la Comisión Nacional del Sistema de Ahorro para el Retiro, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 103 a 107 de esta ley, cuando:
@@ -1501,12 +1585,14 @@ Artículo adicionado DOF 17-05-1999
 
 ### Artículo 108
 .- Los delitos previstos en esta ley se perseguirán a petición de la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro, por las instituciones ofendidas reguladas por esta ley, o de quien tenga interés jurídico. Cuando se presuma la existencia de algún delito, el Presidente de la Comisión deberá informar de inmediato a la Procuraduría Fiscal de la Federación.
-Párrafo reformado DOF 17-05-1999 Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, así como la reparación del daño que se hubiere causado.
+Párrafo reformado DOF 17-05-1999
+Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, así como la reparación del daño que se hubiere causado.
 
 ### Artículo 108
 bis.- Las administradoras, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+Fracción reformada DOF 28-06-2007
 
 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en la que intervengan algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
@@ -1518,7 +1604,8 @@ Las disposiciones de carácter general a que se refiere este artículo deberán 
 La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión, conforme al procedimiento previsto en el artículo 99 de la presente Ley, con la multa establecida por el artículo 100, fracción XXVII, de esta Ley.
 Las mencionadas multas podrán ser impuestas, tanto a las administradoras, como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 52 de esta Ley.
 Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión, las administradoras, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
-Artículo adicionado DOF 17-05-1999. Reformado DOF 28-01-2004 CAPITULO VIII Del Procedimiento de Conciliación y Arbitraje
+Artículo adicionado DOF 17-05-1999. Reformado DOF 28-01-2004
+CAPITULO VIII Del Procedimiento de Conciliación y Arbitraje
 
 ### Artículo 109
 .- (Se deroga).
@@ -1526,7 +1613,8 @@ Artículo derogado DOF 18-01-1999
 
 ### Artículo 110
 .- (Se deroga).
-Artículo derogado DOF 18-01-1999 CAPITULO IX De las Disposiciones Generales
+Artículo derogado DOF 18-01-1999
+CAPITULO IX De las Disposiciones Generales
 
 ### Artículo 111
 .- Las notificaciones de los actos administrativos de la Comisión se harán:
@@ -1542,7 +1630,8 @@ IV. Por edictos, únicamente en el caso de que se ignore el domicilio o correo e
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el Código Fiscal de la Federación.
 En el caso de notificaciones por correo electrónico al buzón designado al efecto, el acuse de recibo consistirá en el documento que transmita automáticamente dicho buzón al recibir el documento digital.
 Para efectos de los procedimientos de supervisión, las notificaciones que se realicen por medios diferentes al correo electrónico, el recurso de revocación, las sanciones, el procedimiento de ejecución de las multas impuestas, la disminución en el pago y la garantía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta Ley, su Reglamento y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 24-01-2024, 14-11-2025 Artículo reformado DOF 10-12-2002, 11-01-2005
+Párrafo reformado DOF 24-01-2024, 14-11-2025
+Artículo reformado DOF 10-12-2002, 11-01-2005
 
 ### Artículo 112
 .- Las administradoras, sociedades de inversión y empresas operadoras, deberán cubrir los derechos correspondientes en los términos de las disposiciones legales aplicables.
@@ -1579,7 +1668,8 @@ Artículo adicionado DOF 10-12-2002
 
 ### Artículo 119
 .- Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de cuatro meses para que la Comisión resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido positivo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la Comisión, conforme al Reglamento Interior de ésta. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
-Párrafo reformado DOF 11-01-2005 Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen los participantes en los sistemas de ahorro para el retiro, deberán precisarse en disposiciones de carácter general.
+Párrafo reformado DOF 11-01-2005
+Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen los participantes en los sistemas de ahorro para el retiro, deberán precisarse en disposiciones de carácter general.
 Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la Comisión deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la Comisión y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
 Notificada la prevención, se suspenderá el plazo para que la Comisión resuelva y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, la Comisión desechará el escrito inicial.
 Si la Comisión no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto.
@@ -1603,7 +1693,8 @@ Artículo adicionado DOF 10-12-2002
 Este Consejo tendrá como función conocer las políticas de administración de las cuentas individuales por las administradoras, las políticas de inversión de los recursos de los trabajadores y sobre las comisiones que se apliquen a sus cuentas individuales, así como dirigir recomendaciones a los consejos de administración de las diversas administradoras.
 La Secretaría del Trabajo y Previsión Social fijará las bases para determinar la forma de designar a los representantes de los trabajadores y los patrones. Los representantes de las administradoras deberán ser nombrados por acuerdo de todas las administradoras autorizadas y tendrán derecho a voz, pero no a voto.
 Un representante de los trabajadores o los patrones presidirá, alternativamente, por periodos anuales el Consejo de Pensiones. Este consejo se deberá reunir, a convocatoria de quien presida, en sesiones ordinarias por lo menos cada seis meses.
-Artículo adicionado DOF 10-12-2002 ARTICULOS SEGUNDO A SEXTO.- ..........
+Artículo adicionado DOF 10-12-2002
+ARTICULOS SEGUNDO A SEXTO.- ..........
 
 ## TRANSITORIOS
 
@@ -1705,7 +1796,7 @@ Publicada en el Diario Oficial de la Federación el 18 de enero de 1999
 
 **PRIMERO.-** La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
-**TERCERO.** A DÉCIMO.- ..........
+**TERCERO.-** A DÉCIMO.- ..........
 México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Espiridión Sánchez López, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Organizaciones y Actividades Auxiliares Penales.
@@ -1737,8 +1828,8 @@ Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2002
 
 ### ARTÍCULO ÚNICO
 Se REFORMAN los artículos 3o., fracciones V, IX, XII y XIII; 5o., fracciones II, VI, XIII y XIV; 8o., fracciones I, II, III, IV, V y segundo párrafo; 10, fracciones III y IV; 11; 12, fracciones IV, XII y XV; 16, fracciones VIII, IX, XIV, XVI y XVII; 18, primer párrafo y fracciones I, II, III, IV, IX y X; 20, fracción IV; 22, tercer párrafo; 23; 28; 29, fracción III; 30, fracción I; 37; 38, primer párrafo; 39; 41, fracción II en su segundo párrafo, y las fracciones III y IV; 42, segundo párrafo; 43; 47; 48, fracción XI; 49, párrafos primero, segundo y cuarto; 50, fracción III en su segundo párrafo; 53; 56, párrafos primero y
-**tercero.** , e incisos a) y d); 69, fracción I en sus incisos a) y b), fracción II en sus incisos a) y b) y el párrafo
-**segundo.** del artículo; 70, primer párrafo; 72; 74; 76, primer párrafo; 78; 79; 84; 85, primer párrafo; 86; 90, fracciones VIII y XI; 91, párrafos primero y segundo; 99; 100; 102, cuarto párrafo; 111 y 115; se ADICIONAN los artículos 3o., con las fracciones III bis, XIII bis y XIV; 5o., con la fracción VI bis; 8o., con un tercer párrafo; 10, con la fracción V y un último párrafo; 12, fracción I con un segundo y tercer párrafos y un último párrafo; 18, con las fracciones I bis, I ter y I quáter y XI, así como con un último párrafo; 18 bis; 30, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto y así sucesivamente; 31; el 41, fracción II con un tercer párrafo y la fracción IV con un segundo párrafo; el 42 con un segundo párrafo, pasando el actual segundo párrafo a ser tercero y así sucesivamente; 42 bis; 44 con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto; 47 bis; 50, fracción III con un tercer párrafo y el mismo artículo con un último párrafo; 69, con un tercer párrafo; 74 bis; 74 ter; 74 quáter; 74 quinquies; 100 bis; 100 ter; 100 quáter; 113, con un tercer párrafo; 115 bis; 119; 120; 121; 122 y 123; y se DEROGAN la fracción IV del artículo 38 y el artículo 114 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ..........
+**tercero.-** , e incisos a) y d); 69, fracción I en sus incisos a) y b), fracción II en sus incisos a) y b) y el párrafo
+**segundo.-** del artículo; 70, primer párrafo; 72; 74; 76, primer párrafo; 78; 79; 84; 85, primer párrafo; 86; 90, fracciones VIII y XI; 91, párrafos primero y segundo; 99; 100; 102, cuarto párrafo; 111 y 115; se ADICIONAN los artículos 3o., con las fracciones III bis, XIII bis y XIV; 5o., con la fracción VI bis; 8o., con un tercer párrafo; 10, con la fracción V y un último párrafo; 12, fracción I con un segundo y tercer párrafos y un último párrafo; 18, con las fracciones I bis, I ter y I quáter y XI, así como con un último párrafo; 18 bis; 30, con un cuarto párrafo, pasando el actual cuarto párrafo a ser quinto y así sucesivamente; 31; el 41, fracción II con un tercer párrafo y la fracción IV con un segundo párrafo; el 42 con un segundo párrafo, pasando el actual segundo párrafo a ser tercero y así sucesivamente; 42 bis; 44 con un tercer párrafo, pasando el actual tercer párrafo a ser cuarto; 47 bis; 50, fracción III con un tercer párrafo y el mismo artículo con un último párrafo; 69, con un tercer párrafo; 74 bis; 74 ter; 74 quáter; 74 quinquies; 100 bis; 100 ter; 100 quáter; 113, con un tercer párrafo; 115 bis; 119; 120; 121; 122 y 123; y se DEROGAN la fracción IV del artículo 38 y el artículo 114 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1814,7 +1905,7 @@ México, D.F., a 8 de octubre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presi
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma el artículo noveno transitorio del Decreto de Ley de los Sistemas de Ahorro para el Retiro y de reformas y adiciones a las leyes General de Instituciones y Sociedades Mutualistas de Seguros, para regular las Agrupaciones Financieras, de Instituciones de Crédito, del Mercado de Valores y Federal de Protección al Consumidor, publicado el 23 de mayo de 1996, así como los artículos segundo y
-**tercero.** transitorios del Decreto por el que se reforma y adiciona la Ley de los Sistemas de Ahorro para el Retiro, publicado el 10 de diciembre de 2002.
+**tercero.-** transitorios del Decreto por el que se reforma y adiciona la Ley de los Sistemas de Ahorro para el Retiro, publicado el 10 de diciembre de 2002.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2002
 
 ### ARTÍCULO PRIMERO
@@ -1832,7 +1923,7 @@ Se reforman los artículos Segundo y Tercero Transitorios del Decreto por el que
 De dichos recursos se formará el fondo de reserva a que se refiere la fracción I, el cual deberá constituirse a más tardar el 15 de enero de 2003.
 **QUINTO.-** Sin perjuicio de que los recursos de la cuenta concentradora se cancelen antes del día 31 de diciembre de 2002, a dichos recursos se les aplicará, en la fecha de cancelación, la tasa de interés determinada por la Secretaría de Hacienda y Crédito Público y las instituciones de crédito podrán cobrar las comisiones correspondientes como si estos recursos hubieran permanecido depositados hasta el mismo día 31 de diciembre de 2002. Asimismo, las instituciones de crédito deberán concluir los procesos pendientes que hubiesen sido solicitados por los trabajadores o los institutos de seguridad social previamente a la fecha de entrada en vigor del presente Decreto.
 A partir del día primero de enero de 2003 las instituciones de crédito deberán cumplir las obligaciones previstas en las fracciones II y IV del artículo Tercero Transitorio reformado en términos del artículo
-**Segundo.** de este Decreto, por lo que se refiere a las cuentas individuales del Sistema de Ahorro para el Retiro previsto en la Ley del Seguro Social de 1973 sin cobro alguno.
+**Segundo.-** de este Decreto, por lo que se refiere a las cuentas individuales del Sistema de Ahorro para el Retiro previsto en la Ley del Seguro Social de 1973 sin cobro alguno.
 **SEXTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara Isabel Castellanos Cortés, Secretario.- Dip. Adrián Rivera Pérez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -1881,7 +1972,7 @@ Publicado en el Diario Oficial de la Federación el 15 de junio de 2007
 
 ### ARTÍCULO ÚNICO
 Se adicionan los artículos, 3o. con una fracción V bis; 5o. con una fracción XII; 66 bis, y 74 párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo, noveno y décimo a ser décimo primero, décimo segundo y décimo tercero; y se reforman los artículos 7o., párrafos primero y
-**tercero.** ; 9o., párrafo segundo; 37, párrafos segundo y cuarto; 74, párrafo séptimo; 76, párrafo primero y 79, párrafo noveno, todos de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ..........
+**tercero.-** ; 9o., párrafo segundo; 37, párrafos segundo y cuarto; 74, párrafo séptimo; 76, párrafo primero y 79, párrafo noveno, todos de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -1925,7 +2016,6 @@ En caso de que una administradora omita presentar sus comisiones para autorizaci
 En caso de que la autorización sea denegada por cualquier causa, la administradora de que se trate deberá cobrar la comisión que resulte de calcular el promedio del resto de las comisiones autorizadas para el periodo correspondiente, hasta que modifique su solicitud, y sus comisiones sean autorizadas por la Junta de Gobierno.
 **Cuarto.-** La primera asignación que se efectúe de conformidad con lo dispuesto en el artículo 76 se llevará a cabo doce meses después de la entrada en vigor del presente Decreto.
 **Quinto.-** Las administradoras que a la fecha de entrada en vigor del presente Decreto tengan cuentas individuales asignadas que no hayan registrado y que por lo tanto no hayan celebrado un contrato de administración de fondos para el retiro con sus titulares, deberán proceder como sigue:
-
 I. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto deberán presentar un programa de trabajo a la Comisión para obtener el registro de las cuentas individuales asignadas en un plazo máximo de dos años.
 
 II. Transcurrido el plazo máximo de dos años a que se refiere la fracción anterior, deberán notificar a la Comisión las cuentas individuales asignadas que no hayan registrado.
@@ -1933,7 +2023,7 @@ La Comisión deberá reasignar a las administradoras que hayan registrado un may
 Las administradoras podrán renunciar en cualquier momento a las cuentas individuales asignadas a que se refiere este artículo, en cuyo caso deberán hacerlo del conocimiento de la Comisión, para que esta proceda a su reasignación en los términos previstos en el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro.
 **Sexto.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 **Séptimo.-** La Junta de Gobierno en la primera revisión de estructura de comisiones a que se refiere el
-**artículo tercero.** transitorio del presente Decreto no podrá autorizar ninguna comisión superior al promedio vigente de las comisiones autorizadas.
+**artículo tercero.-** transitorio del presente Decreto no podrá autorizar ninguna comisión superior al promedio vigente de las comisiones autorizadas.
 México, D.F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip.
 César Horacio Duarte Jáquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
@@ -1944,8 +2034,8 @@ Se reforma el artículo 92, segundo párrafo, de la Ley de los Sistemas de Ahorr
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 ARTÍCULO CUADRAGÉSIMO CUARTO.- Se REFORMAN los artículos 12, fracción X; 21; 23, primer párrafo; 99, primer y anterior quinto párrafos; 100, primer párrafo y fracciones I, I bis, II, IX, XIV primer párrafo, XVI, XVII primer párrafo, XIX, XXIV, XXV, XXVI y XXVIII, y 100 bis, incisos b) y c) y, se ADICIONAN los artículos 8o. con una fracción IX Bis; 21 Bis; 99 con un segundo párrafo, recorriéndose los demás en su orden, y 100 bis con un inciso d), de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ……… Disposiciones Transitorias ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
@@ -1962,25 +2052,24 @@ Las disposiciones de carácter general a que se refiere dicho precepto, se emiti
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social y de la Ley de los Sistemas de Ahorro para el Retiro.
 Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 
 ### Artículo Segundo
 Se adiciona un párrafo octavo, pasando los actuales párrafos octavo a décimo
-**octavo.** a ser los párrafos noveno a décimo noveno, del artículo 37 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
-
+**octavo.-** a ser los párrafos noveno a décimo noveno, del artículo 37 de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
 
 ## Transitorios
 
 nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si
+
 | Salario base | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
 
 cotización 1.0 SM* 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 1.150% 1.01SMa 1.50 UMA*" 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 44.202% _ 1.51a 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% _7.380% 17962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% — 8.183% ,902% _ 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 ____UMA______ 4.016% 4.882% 5.747% 7.479% 8.3455% _9.211% 10.077% a 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
-
 Del 1 de enero de 2021 al 31 de diciembre de 2022:
 
 I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzada y vejez, una cuota del tres punto ciento cincuenta por ciento sobre el salario base de cotización del trabajador.
@@ -1988,7 +2077,7 @@ I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzad
 II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
 
 III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
-**Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
+**Tercero.-** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
 
 | Salario base | de Trabajador | cotización del | Cuota social |
@@ -1998,13 +2087,10 @@ Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualm
 | 6.01 | a 7.09 | UMA | 51.00 |
 
 *Unidad de Medida y Actualización
-
 > Valores mencionados del importe de la cuota social, se actualizarán trimestralmen
-
 midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como r ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos. pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la las de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el : do se actualizará conforme al Indice Nacional de Precios al Consumidor a la fecha en o ne el trabajador.
-
-
 vecretaria de Servicios Farlamentarios e
+
 | Año | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Semanas de | Cotización | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  | 1,000 0 |
@@ -2013,20 +2099,22 @@ vecretaria de Servicios Farlamentarios e
 | 2022 | 775 | 800 | 825 |  |  |  |  |  | 76 | 1000 |  |
 
 10500 2023 800 825 850 875 900 925 950 975 1,000 1,025 min 1,0750 2024 825 850 675 900 925 950 975 1,000 1,025 1090 mis 1,1000 2025 850 875 900 925 $50 975 1,000 1,025 1,050 1,075 mis 1,1250 2026 875 900 925 950 875 1,000 1,025 1,080 1,075 1,100 mis 1,1500 2027 9000 828 950 975 1,000 4,026 1,080 14,078 1,100 1,125 1,1750 2028 925 950 976 1,000 1,025 1050 1075 1,100 4125 1,150 do 1,2000 2029 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 más 1,2250 2030 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 1,200 mis Salario Base E Pensión mensual en de Colización garantizada pesos 50 |26822 2716 2809 2,003 2,997 3,090 3,184 3278 3,371 3468 3,889 61 |2660 2753 2847 2941 3,034 3,128 3221 3,318 3409 3802 3,596
-| 52 | 2897 2701 2684 2076 3972 3165 3259 3353 3446 350 136
-UMA"" 63 28728 2922 3015 3,109 3,203 3,206 3390 3484 357 3,671 64 2886 2950 3,053 3147 3,240 3,334 3,427 3,821 3,815 3,708 pace 2808 2903 2,907 3,000 3,164 3,276 3,371 3465 3599 3,652 3,746 60 3,400 3,530 3,657 3,774 3,896 4017 4,139 4,281 4,303 4,504 4,526 61 3,457 3,579 3,701 3,873 3,944 4,055 4,188 a,310 4,431 4,553 4,675 62 | 3,506 3628 3,750 3871 3,999 4195 4.237 4358 4480 4607 4,724 er UMA 63 |3555 3677 3,708 3,920 4,042 4164 4285 4407 4520 4651 4777 64 | 3604 3725 3847 3,068 4,001 4212 4,934 4456 4577 4,699 4,821 SHO 3662 3774 3,896 4017 4,138 4281 4383 4504 4626 4748 4,870 60 |4,195 4345 4495 4,645 4795 4945 5094 5244 5,304 5544 5,694 61 |a255 4405 4555 4,708 4,855 5005 5184 5304 5454 564 5,754 3003.99 62 | 4315 4465 4615 4,765 4915 65084 5214 S304 5514 6884 5,814 UMA 63 | 4.375 4525 4675 4,625 4975 6.124 5,274 5424 5574 5724 5,874 64 | 4438 4585 4735 4888 5.034 6184 5334 6484 5.834 5764 5,993 650 | 4.405 4645 4.705 4945 5064 5244 5394 5544 5,694 5844 5,993 mas 60 | 4982 5160 53538 5816 6494 5872 6080 6278 6405 4,883 6,761 61 6231 5409 55887 5705 5843 6,121 6,208 6477 6655 6,832 62 5302 5480 5858 5898 6,192 6370 6548 676 ‘ences 6014 6,904 UMA 53 | 5195 5373 5551 5,729 6907 6085 6263 6441 6819 6,787 6,975 64 | 5267 5445 5623 5801 5,978 6156 63M 6.512 6690 6868 7,046 ss 5,338 5,516 56M S872 6050 6228 6,405 6583 6,781 6,938 7,117 5,760 6,975 6,181 6387 6503 6700 7,005 7,211 7417 7,623 7,829 5551 6057 6263 68489 6675 6881 7087 7,298 7,489 7,708 791 60 5,933 6,140 6,346 6552 6,758 6964 7,170 7,376 7,582 7,788 7,904 Un 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 5,076 6,088 86,304 6510 6716 6,822 7128 7,334 7,540 7,746 7,955 6159 6181 6387 6593 6700 7,008 7,211 7.417 7,623 7,820 8,035 6,24 *Salario Minimo “Unidad de Medida y Actualización
 
-**Quinto.** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
+| 52 | 2897 2701 2684 2076 3972 3165 3259 3353 3446 350 136 |
+| --- | --- |
+
+UMA"" 63 28728 2922 3015 3,109 3,203 3,206 3390 3484 357 3,671 64 2886 2950 3,053 3147 3,240 3,334 3,427 3,821 3,815 3,708 pace 2808 2903 2,907 3,000 3,164 3,276 3,371 3465 3599 3,652 3,746 60 3,400 3,530 3,657 3,774 3,896 4017 4,139 4,281 4,303 4,504 4,526 61 3,457 3,579 3,701 3,873 3,944 4,055 4,188 a,310 4,431 4,553 4,675 62 | 3,506 3628 3,750 3871 3,999 4195 4.237 4358 4480 4607 4,724 er UMA 63 |3555 3677 3,708 3,920 4,042 4164 4285 4407 4520 4651 4777 64 | 3604 3725 3847 3,068 4,001 4212 4,934 4456 4577 4,699 4,821 SHO 3662 3774 3,896 4017 4,138 4281 4383 4504 4626 4748 4,870 60 |4,195 4345 4495 4,645 4795 4945 5094 5244 5,304 5544 5,694 61 |a255 4405 4555 4,708 4,855 5005 5184 5304 5454 564 5,754 3003.99 62 | 4315 4465 4615 4,765 4915 65084 5214 S304 5514 6884 5,814 UMA 63 | 4.375 4525 4675 4,625 4975 6.124 5,274 5424 5574 5724 5,874 64 | 4438 4585 4735 4888 5.034 6184 5334 6484 5.834 5764 5,993 650 | 4.405 4645 4.705 4945 5064 5244 5394 5544 5,694 5844 5,993 mas 60 | 4982 5160 53538 5816 6494 5872 6080 6278 6405 4,883 6,761 61 6231 5409 55887 5705 5843 6,121 6,208 6477 6655 6,832 62 5302 5480 5858 5898 6,192 6370 6548 676 ‘ences 6014 6,904 UMA 53 | 5195 5373 5551 5,729 6907 6085 6263 6441 6819 6,787 6,975 64 | 5267 5445 5623 5801 5,978 6156 63M 6.512 6690 6868 7,046 ss 5,338 5,516 56M S872 6050 6228 6,405 6583 6,781 6,938 7,117 5,760 6,975 6,181 6387 6503 6700 7,005 7,211 7417 7,623 7,829 5551 6057 6263 68489 6675 6881 7087 7,298 7,489 7,708 791 60 5,933 6,140 6,346 6552 6,758 6964 7,170 7,376 7,582 7,788 7,904 Un 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 5,076 6,088 86,304 6510 6716 6,822 7128 7,334 7,540 7,746 7,955 6159 6181 6387 6593 6700 7,008 7,211 7.417 7,623 7,820 8,035 6,24 *Salario Minimo “Unidad de Medida y Actualización
+**Quinto.-** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
 Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
-**Sexto.** La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
-**Séptimo.** La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
-**Octavo.** El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
-**Noveno.** Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
+**Sexto.-** La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.
+**Séptimo.-** La Comisión Nacional del Sistema de Ahorro para el Retiro, a los diez años siguientes de la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público el análisis de los resultados obtenidos de la aplicación del mismo, a fin de que esta última informe lo que corresponda al Congreso de la Unión.
+**Octavo.-** El Instituto Mexicano del Seguro Social, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional de Seguros y Fianzas y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, deberán ajustar los sistemas y procedimientos que resulten necesarios para instrumentar las reformas previstas en este Decreto.
+**Noveno.-** Dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro, deberá emitir las modificaciones a las disposiciones de carácter general, que sean necesarias para que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten lo relativo a la designación de beneficiarios a que se refiere el artículo 193 de la Ley del Seguro Social.
 La designación de beneficiarios que se realice por los trabajadores a partir de la entrada en vigor del presente Decreto, en términos de lo dispuesto por el artículo 193 de la Ley del Seguro Social, surtirá efectos a partir de la fecha en que las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, instrumenten los ajustes correspondientes de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 La designación de beneficiarios sustitutos efectuada en términos del artículo 193 de la Ley del Seguro Social, con anterioridad a la entrada en vigor del presente Decreto, mantendrá su vigencia para el caso en que no haya beneficiarios del trabajador titular de la cuenta individual en términos de la legislación común.
 Los procedimientos de designación de beneficiarios que, a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante las juntas o tribunales de conciliación y arbitraje, en términos del artículo 501 de la Ley Federal del Trabajo, continuarán substanciándose de conformidad con lo dispuesto por dicha ley.
-**Décimo.** Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
-**Décimo Primero.** Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
+**Décimo.-** Para efectos de lo dispuesto en el artículo 37, párrafo octavo, de la Ley de los Sistemas de Ahorro para el Retiro, la Junta de Gobierno de la Comisión Nacional del Sistema de Ahorro para el Retiro contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias a las disposiciones de carácter general correspondientes a efecto de dar cumplimiento a lo dispuesto en el mismo.
+**Décimo Primero.-** Se derogan todas aquellas disposiciones que se opongan a lo previsto el presente Decreto.
 Ciudad de México, a 9 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo.
@@ -2034,7 +2122,7 @@ Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
 
 ### Artículo Décimo Cuarto
 Se reforman los artículos 55, fracciones II y III; 61, párrafos segundo y
-**tercero.** ; 89, párrafo primero; 99, párrafo tercero; y 111, párrafo tercero; y se adicionan los artículos 55, con las fracciones IV y V; 61, con los párrafos cuarto, quinto y sexto; 92, con un párrafo segundo, recorriéndose el subsecuente; 93, con un párrafo tercero; 99, con los párrafos cuarto, recorriéndose los subsecuentes, noveno, décimo y décimo primero, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
+**tercero.-** ; 89, párrafo primero; 99, párrafo tercero; y 111, párrafo tercero; y se adicionan los artículos 55, con las fracciones IV y V; 61, con los párrafos cuarto, quinto y sexto; 92, con un párrafo segundo, recorriéndose el subsecuente; 93, con un párrafo tercero; 99, con los párrafos cuarto, recorriéndose los subsecuentes, noveno, décimo y décimo primero, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
 
 ## Transitorios
 
@@ -2047,12 +2135,12 @@ Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, y del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, publicado en el Diario Oficial de la Federación el 29 de mayo de 2023, para la creación del Fondo de Pensiones para el Bienestar.
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2024
-**CUARTO.** Se reforma la fracción III del artículo 18, y se adicionan un último párrafo al artículo 18 y un artículo 81 Bis, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
+**CUARTO.-** Se reforma la fracción III del artículo 18, y se adicionan un último párrafo al artículo 18 y un artículo 81 Bis, de la Ley de los Sistemas de Ahorro para el Retiro, para quedar como sigue: ………
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
-**SEGUNDO.** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
+**SEGUNDO.-** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
 El Decreto que el Ejecutivo Federal emita deberá prever, entre otros, lo siguiente:
 
 a) El Fondo de Pensiones para el Bienestar tendrá entre sus fines recibir, administrar, invertir y entregar los recursos que le sean aportados conforme a las disposiciones aplicables, pudiendo establecerse aportaciones adicionales a su patrimonio.
@@ -2062,26 +2150,26 @@ b) Los recursos del patrimonio del Fondo de Pensiones para el Bienestar deberán
 c) El Fondo de Pensiones para el Bienestar brindará a los institutos de seguridad social los recursos necesarios para procurar que los trabajadores que alcancen los sesenta y cinco años de edad y cuya pensión sea igual o menor a dieciséis mil setecientos setenta y siete pesos con sesenta y ocho centavos, que equivale al salario mensual promedio registrado en 2023 en el Instituto Mexicano del Seguro Social actualizado por la inflación estimada para el año 2024, reciban un complemento a las obligaciones del Gobierno Federal en relación con la pensión que se obtenga conforme a las disposiciones aplicables para que sea igual a su último salario hasta por el monto descrito en este párrafo. Dicho monto deberá actualizarse el primero de enero de cada año, de acuerdo con la inflación estimada para el año correspondiente. Lo anterior, siempre y cuando hayan iniciado la cotización en términos de la Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete, así como para aquellos trabajadores que se encuentren bajo el régimen de cuentas individuales que cotizan en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El complemento a que se refiere este inciso es intransferible y será exigible por los trabajadores que obtengan su dictamen o concesión de pensión, según corresponda, a partir de que transcurran 60 días de la constitución del Fondo de Pensiones para el Bienestar. Dicho complemento estará sujeto a la suficiencia del Fondo, así como a las reglas que determine la Secretaría de Hacienda y Crédito Público.
 
 d) El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos a los institutos de seguridad social.
-**TERCERO.** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
-**CUARTO.** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
-**QUINTO.** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
+**TERCERO.-** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
+**CUARTO.-** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
+**QUINTO.-** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Segundo.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
-**SEXTO.** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
-**SÉPTIMO.** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
+**Vigésimo Segundo.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
+**SEXTO.-** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
+**SÉPTIMO.-** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Cuarto.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
-**OCTAVO.** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+**Vigésimo Cuarto.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
+**OCTAVO.-** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
 Los intereses correspondientes al ejercicio fiscal 2024 que deberán pagarse a las subcuentas de vivienda se calcularán, aprobarán y abonarán conforme a las disposiciones vigentes con anterioridad a la aprobación del presente Decreto.
-**NOVENO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
+**NOVENO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
 Para lo anterior, una vez que alguno de los Institutos transfiera al Fondo de Pensiones para el Bienestar los recursos de la subcuenta bajo su administración, incluyendo la de los trabajadores a que se refiere este Decreto que hubieran llegado a cumplir setenta o setenta y cinco años, según corresponda, lo deberá comunicar al resto de participantes del Sistema de Ahorro para el Retiro para que, en su caso, transfieran la otra subcuenta, a efecto de consolidar el ahorro de los titulares de las cuentas individuales en el referido fideicomiso.
-**DÉCIMO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
+**DÉCIMO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
 Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a efecto de que éstos realicen los pagos correspondientes en términos de la normativa aplicable, por lo que el Fondo no responderá ni se subrogará en las obligaciones a cargo de dichos institutos, ni respecto del destino que los mismos den a los recursos.
-**DÉCIMO PRIMERO.** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
+**DÉCIMO PRIMERO.-** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
 Ciudad de México, a 25 de abril de 2024.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -2092,12 +2180,12 @@ Se reforma el último párrafo del artículo 111 de la Ley de los Sistemas de Ah
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

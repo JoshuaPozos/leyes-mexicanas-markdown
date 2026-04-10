@@ -12,9 +12,12 @@ SE EXPIDE LA  .
 
 ## TÍTULO I — Del Juicio Contencioso Administrativo Federal
 
+
 ## CAPÍTULO I — Disposiciones Generales
+
 ARTÍCULO 1o.- Los juicios que se promuevan ante el Tribunal Federal de Justicia Fiscal y Administrativa, se regirán por las disposiciones de esta Ley, sin perjuicio de lo dispuesto por los tratados internacionales de que México sea parte. A falta de disposición expresa se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares, siempre que la disposición de este último ordenamiento no contravenga las que regulan el juicio contencioso administrativo federal que establece esta Ley.
-Párrafo reformado DOF 14-11-2025 Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo federal, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+Párrafo reformado DOF 14-11-2025
+Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo federal, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
 Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que la Sala Regional competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
 ARTÍCULO 1-A.- Para los efectos de esta Ley se entenderá por:
 
@@ -23,7 +26,8 @@ I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digita
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
 
 III. Boletín Jurisdiccional: Medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se tramitan ante el mismo.
-Fracción reformada DOF 10-12-2010, 13-06-2016 III Bis. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional.
+Fracción reformada DOF 10-12-2010, 13-06-2016
+III Bis. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional.
 Fracción adicionada DOF 13-06-2016
 
 IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica avanzada en un procedimiento contencioso administrativo.
@@ -38,7 +42,8 @@ VIII. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto
 
 IX. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo federal, independientemente de que sea texto, imagen, audio o video, identificado por un número específico.
 
-X. (Se deroga) Fracción derogada DOF 13-06-2016
+X. (Se deroga)
+Fracción derogada DOF 13-06-2016
 
 XI. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en Juicio en Línea.
 
@@ -58,7 +63,9 @@ XVI. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
 Fracción recorrida DOF 10-12-2010
 
 XVII. Juicio de resolución exclusiva de fondo: El juicio contencioso administrativo federal en aquellos casos a los que se refiere el Capítulo XII del Título II de esta Ley.
-Fracción adicionada DOF 27-01-2017 Artículo adicionado DOF 12-06-2009 ARTÍCULO 2o.- El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+Fracción adicionada DOF 27-01-2017
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 2o.- El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
 Asimismo, procede dicho juicio contra los actos administrativos, Decretos y Acuerdos de carácter general, diversos a los Reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta en unión del primer acto de aplicación.
 Las autoridades de la Administración Pública Federal, tendrán acción para controvertir una resolución administrativa favorable a un particular cuando estime que es contraria a la ley.
 ARTÍCULO 3o.- Son partes en el juicio contencioso administrativo:
@@ -76,14 +83,18 @@ Dentro del mismo plazo que corresponda a la autoridad demandada, la Secretaría 
 
 III. El tercero que tenga un derecho incompatible con la pretensión del demandante.
 ARTÍCULO 4o.- Toda promoción deberá contener la firma autógrafa o la firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Cuando el promovente en un Juicio en la vía tradicional, no sepa o no pueda estampar su firma autógrafa, estampará en el documento su huella digital y en el mismo documento otra persona firmará a su ruego.
-Párrafo reformado DOF 12-06-2009 Las personas morales para presentar una demanda o cualquier promoción podrán optar por utilizar su firma electrónica avanzada o bien hacerlo con la firma electrónica avanzada de su representante legal; en el primer caso, el titular del certificado de firma será la persona moral.
-Párrafo adicionado DOF 13-06-2016 Cuando la resolución afecte a dos o más personas, la demanda deberá ir firmada por cada una de ellas, y designar a un representante común que elegirán de entre ellas mismas, si no lo hicieren, el Magistrado Instructor nombrará con tal carácter a cualquiera de los interesados, al admitir la demanda.
+Párrafo reformado DOF 12-06-2009
+Las personas morales para presentar una demanda o cualquier promoción podrán optar por utilizar su firma electrónica avanzada o bien hacerlo con la firma electrónica avanzada de su representante legal; en el primer caso, el titular del certificado de firma será la persona moral.
+Párrafo adicionado DOF 13-06-2016
+Cuando la resolución afecte a dos o más personas, la demanda deberá ir firmada por cada una de ellas, y designar a un representante común que elegirán de entre ellas mismas, si no lo hicieren, el Magistrado Instructor nombrará con tal carácter a cualquiera de los interesados, al admitir la demanda.
 ARTÍCULO 5o.- Ante el Tribunal no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar en la fecha de la presentación de la demanda o de la contestación, en su caso.
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal, sin perjuicio de lo que disponga la legislación de profesiones. La representación de los menores de edad será ejercida por quien tenga la patria potestad. Tratándose de otros incapaces, de la sucesión y del ausente, la representación se acreditará con la resolución judicial respectiva.
 Se presumirá, salvo prueba en contrario, que la presentación en el Sistema de Justicia en Línea de demandas o promociones enviadas con la firma electrónica avanzada de una persona moral, la hizo el Administrador Único o el Presidente del Consejo de Administración de dicha persona, atendiendo a quien ocupe dicho cargo al momento de la presentación.
-Párrafo adicionado DOF 13-06-2016 La representación de las autoridades corresponderá a las unidades administrativas encargadas de su defensa jurídica, según lo disponga el Ejecutivo Federal en su Reglamento o decreto respectivo y en su caso, conforme lo disponga la Ley Federal de Entidades Paraestatales. Tratándose de autoridades de las Entidades Federativas coordinadas, conforme lo establezcan las disposiciones locales.
+Párrafo adicionado DOF 13-06-2016
+La representación de las autoridades corresponderá a las unidades administrativas encargadas de su defensa jurídica, según lo disponga el Ejecutivo Federal en su Reglamento o decreto respectivo y en su caso, conforme lo disponga la Ley Federal de Entidades Paraestatales. Tratándose de autoridades de las Entidades Federativas coordinadas, conforme lo establezcan las disposiciones locales.
 Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
-Párrafo reformado DOF 28-01-2010 ARTÍCULO 6o.- En los juicios que se tramiten ante el Tribunal no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+Párrafo reformado DOF 28-01-2010
+ARTÍCULO 6o.- En los juicios que se tramiten ante el Tribunal no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
 Únicamente habrá lugar a condena en costas a favor de la autoridad demandada, cuando se controviertan resoluciones con propósitos notoriamente dilatorios.
 Para los efectos de este artículo, se entenderá que el actor tiene propósitos notoriamente dilatorios cuando al dictarse una sentencia que reconozca la validez de la resolución impugnada, se beneficia económicamente por la dilación en el cobro, ejecución o cumplimiento, siempre que los conceptos de impugnación formulados en la demanda sean notoriamente improcedentes o infundados. Cuando la ley prevea que las cantidades adeudadas se aumentan con actualización por inflación y con alguna tasa de interés o de recargos, se entenderá que no hay beneficio económico por la dilación.
 La autoridad demandada deberá indemnizar al particular afectado por el importe de los daños y perjuicios causados, cuando la unidad administrativa de dicho órgano cometa falta grave al dictar la resolución impugnada y no se allane al contestar la demanda en el concepto de impugnación de que se trata. Habrá falta grave cuando:
@@ -108,6 +119,7 @@ ARTÍCULO 7o Bis. Las partes, representantes legales, autorizados, delegados, te
 Artículo adicionado DOF 13-06-2016
 
 ## CAPÍTULO II — De la Improcedencia y del Sobreseimiento
+
 ARTÍCULO 8o.- Es improcedente el juicio ante el Tribunal en los casos, por las causales y contra los actos siguientes:
 
 I. Que no afecten los intereses jurídicos del demandante, salvo en los casos de legitimación expresamente reconocida por las leyes que rigen al acto impugnado.
@@ -148,7 +160,8 @@ XVI. Cuando la demanda se hubiere interpuesto por la misma parte y en contra del
 Fracción adicionada DOF 13-06-2016
 
 XVII. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley o de una ley fiscal o administrativa.
-Fracción recorrida DOF 13-06-2016 La procedencia del juicio será examinada aun de oficio.
+Fracción recorrida DOF 13-06-2016
+La procedencia del juicio será examinada aun de oficio.
 ARTÍCULO 9o.- Procede el sobreseimiento:
 
 I. Por desistimiento del demandante.
@@ -165,6 +178,7 @@ VI. En los demás casos en que por disposición legal haya impedimento para emit
 El sobreseimiento del juicio podrá ser total o parcial.
 
 ## CAPÍTULO III — De los Impedimentos y Excusas
+
 ARTÍCULO 10.- Los magistrados del Tribunal estarán impedidos para conocer, cuando:
 
 I. Tengan interés personal en el negocio.
@@ -186,10 +200,14 @@ ARTÍCULO 12.- Manifestada por un magistrado la causa de impedimento, el Preside
 
 ## TÍTULO II — De la Substanciación y Resolución del Juicio
 
+
 ## CAPÍTULO I — De la Demanda
+
 ARTÍCULO 13.- El demandante podrá presentar su demanda, mediante Juicio en la vía tradicional, por escrito ante la sala regional competente o, en línea, a través del Sistema de Justicia en Línea, para este último caso, el demandante deberá manifestar su opción al momento de presentar la demanda. Una vez que el demandante haya elegido su opción no podrá variarla. Cuando la autoridad tenga este carácter la demanda se presentará en todos los casos en línea a través del Sistema de Justicia en Línea.
-Párrafo reformado DOF 12-06-2009 Para el caso de que el demandante no manifieste su opción al momento de presentar su demanda se entenderá que eligió tramitar el Juicio en la vía tradicional.
-Párrafo adicionado DOF 12-06-2009 La demanda deberá presentarse dentro de los plazos que a continuación se indican:
+Párrafo reformado DOF 12-06-2009
+Para el caso de que el demandante no manifieste su opción al momento de presentar su demanda se entenderá que eligió tramitar el Juicio en la vía tradicional.
+Párrafo adicionado DOF 12-06-2009
+La demanda deberá presentarse dentro de los plazos que a continuación se indican:
 Párrafo adicionado DOF 12-06-2009
 
 I. De treinta días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
@@ -205,7 +223,8 @@ Fracción reformada DOF 13-06-2016
 
 III. De cinco años cuando las autoridades demanden la modificación o nulidad de una resolución favorable a un particular, los que se contarán a partir del día siguiente a la fecha en que éste se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
 Cuando el demandante tenga su domicilio fuera de la población donde esté la sede de la Sala, la demanda podrá enviarse a través de Correos de México, correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el demandante, pudiendo en este caso señalar como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala competente, en cuyo caso, el señalado para tal efecto, deberá estar ubicado dentro de la circunscripción territorial de la Sala.
-Párrafo reformado DOF 12-06-2009 Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año, si antes no se ha aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para interponer la demanda si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación, incluyendo en su caso, el procedimiento arbitral. En estos casos cesará la suspensión cuando se notifique la resolución que da por terminado dicho procedimiento, inclusive en el caso de que se dé por terminado a petición del interesado.
+Párrafo reformado DOF 12-06-2009
+Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año, si antes no se ha aceptado el cargo de representante de la sucesión. También se suspenderá el plazo para interponer la demanda si el particular solicita a las autoridades fiscales iniciar el procedimiento de resolución de controversias contenido en un tratado para evitar la doble tributación, incluyendo en su caso, el procedimiento arbitral. En estos casos cesará la suspensión cuando se notifique la resolución que da por terminado dicho procedimiento, inclusive en el caso de que se dé por terminado a petición del interesado.
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, el plazo para interponer el juicio contencioso administrativo federal se suspenderá hasta por un año. La suspensión cesará tan pronto como se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 ARTÍCULO 14.- La demanda deberá indicar:
 
@@ -230,12 +249,17 @@ VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
 VIII. Lo que se pida, señalando en caso de solicitar una sentencia de condena, las cantidades o actos cuyo cumplimiento se demanda.
 En cada demanda sólo podrá aparecer un demandante, salvo en los casos que se trate de la impugnación de resoluciones conexas, o que se afecte los intereses jurídicos de dos o más personas, mismas que podrán promover el juicio contra dichas resoluciones en una sola demanda.
-Párrafo reformado DOF 12-06-2009 En los casos en que sean dos o más demandantes éstos ejercerán su opción a través de un representante común.
-Párrafo adicionado DOF 12-06-2009 En la demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, el Magistrado Instructor requerirá a los promoventes para que en el plazo de cinco días presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo se desechará la demanda inicial.
-Párrafo reformado DOF 12-06-2009 Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
+Párrafo reformado DOF 12-06-2009
+En los casos en que sean dos o más demandantes éstos ejercerán su opción a través de un representante común.
+Párrafo adicionado DOF 12-06-2009
+En la demanda en que promuevan dos o más personas en contravención de lo dispuesto en el párrafo anterior, el Magistrado Instructor requerirá a los promoventes para que en el plazo de cinco días presenten cada uno de ellos su demanda correspondiente, apercibidos que de no hacerlo se desechará la demanda inicial.
+Párrafo reformado DOF 12-06-2009
+Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 Si en el lugar señalado por el actor como domicilio del tercero, se negare que sea éste, el demandante deberá proporcionar al Tribunal la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 12-06-2009, 10-12-2010, 14-11-2025 Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
-Párrafo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016 ARTÍCULO 15.- El demandante deberá adjuntar a su demanda:
+Párrafo reformado DOF 12-06-2009, 10-12-2010, 14-11-2025
+Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
+Párrafo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016
+ARTÍCULO 15.- El demandante deberá adjuntar a su demanda:
 
 I. Una copia de la misma y de los documentos anexos para cada una de las partes.
 
@@ -283,14 +307,18 @@ En el escrito de ampliación de demanda se deberá señalar el nombre del actor 
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, será aplicable en lo conducente, lo dispuesto en el tercer párrafo del artículo 15 de esta Ley.
 Si no se adjuntan las copias a que se refiere este artículo, el Magistrado Instructor requerirá al promovente para que las presente dentro del plazo de cinco días. Si el promovente no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones VII, VIII y IX del artículo 15 de esta Ley, las mismas se tendrán por no ofrecidas.
 ARTÍCULO 18. El tercero, dentro de los treinta días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
-Párrafo reformado DOF 13-06-2016 Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los cuatro últimos párrafos del artículo 15.
+Párrafo reformado DOF 13-06-2016
+Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio, las pruebas documentales que ofrezca y el cuestionario para los peritos. Son aplicables en lo conducente los cuatro últimos párrafos del artículo 15.
 
 ## CAPÍTULO II — De la Contestación
+
 ARTÍCULO 19. Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los treinta días siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de diez días siguientes a aquél en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación en tiempo y forma, o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-Párrafo reformado DOF 13-06-2016 Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
+Párrafo reformado DOF 13-06-2016
+Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
 Cuando los demandados fueren varios el término para contestar les correrá individualmente.
 Las dependencias, organismos o autoridades cuyos actos o resoluciones sean susceptibles de impugnarse ante el Tribunal, así como aquéllas encargadas de su defensa en el juicio y quienes puedan promover juicio de lesividad, deben registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, para el efecto del envío del aviso electrónico, salvo en los casos en que ya se encuentren registrados en el Sistema de Justicia en Línea.
-Párrafo adicionado DOF 13-06-2016 ARTÍCULO 20.- El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
+Párrafo adicionado DOF 13-06-2016
+ARTÍCULO 20.- El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
 
 I. Los incidentes de previo y especial pronunciamiento a que haya lugar.
 
@@ -325,10 +353,14 @@ En la contestación de la demanda, o hasta antes del cierre de la instrucción, 
 ARTÍCULO 23.- Cuando haya contradicciones entre los hechos y fundamentos de derecho dados en la contestación de la autoridad federativa coordinada que dictó la resolución impugnada y la formulada por el titular de la dependencia u organismo desconcentrado o descentralizado, únicamente se tomará en cuenta, respecto a esas contradicciones, lo expuesto por éstos últimos.
 
 ## CAPÍTULO III — De las Medidas Cautelares
+
 ARTÍCULO 24. Una vez iniciado el juicio contencioso administrativo, salvo en los casos en que se ocasione perjuicio al interés social o se contravengan disposiciones de orden público, y con el fin de asegurar la eficacia de la sentencia, el Magistrado Instructor podrá decretar la suspensión de la ejecución del acto impugnado, a fin de mantener la situación de hecho existente en el estado en que se encuentra, así como todas las medidas cautelares positivas necesarias para evitar que el litigio quede sin materia o se cause un daño irreparable al actor.
-Párrafo reformado DOF 13-06-2016 La suspensión de la ejecución del acto impugnado se tramitará y resolverá exclusivamente de conformidad con el procedimiento previsto en el artículo 28 de esta Ley.
-Párrafo reformado DOF 13-06-2016 Las demás medidas cautelares se tramitarán y resolverán de conformidad con el procedimiento previsto en la presente disposición jurídica y los artículos 24 Bis, 25, 26 y 27 de esta Ley.
-Párrafo reformado DOF 13-06-2016 Durante los periodos de vacaciones del Tribunal, en cada región un Magistrado de Sala Regional cubrirá la guardia y quedará habilitado para resolver las peticiones urgentes sobre medidas cautelares o suspensión del acto impugnado, relacionadas con cuestiones planteadas en la demanda.
+Párrafo reformado DOF 13-06-2016
+La suspensión de la ejecución del acto impugnado se tramitará y resolverá exclusivamente de conformidad con el procedimiento previsto en el artículo 28 de esta Ley.
+Párrafo reformado DOF 13-06-2016
+Las demás medidas cautelares se tramitarán y resolverán de conformidad con el procedimiento previsto en la presente disposición jurídica y los artículos 24 Bis, 25, 26 y 27 de esta Ley.
+Párrafo reformado DOF 13-06-2016
+Durante los periodos de vacaciones del Tribunal, en cada región un Magistrado de Sala Regional cubrirá la guardia y quedará habilitado para resolver las peticiones urgentes sobre medidas cautelares o suspensión del acto impugnado, relacionadas con cuestiones planteadas en la demanda.
 Artículo reformado DOF 12-06-2009, 10-12-2010
 
 ### Artículo 24
@@ -352,13 +384,18 @@ b) Adjuntar copia de la solicitud, para cada una de las partes, a fin de correrl
 En caso de no cumplir con los requisitos previstos en las fracciones I y II del presente artículo, se tendrá por no interpuesto el incidente.
 En los demás casos, el particular justificará en su petición las razones por las cuales las medidas cautelares son indispensables y el Magistrado Instructor podrá otorgarlas, motivando las razones de su procedencia.
 La solicitud de las medidas cautelares, se podrá presentar en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 25. El acuerdo que admita el incidente de petición de medidas cautelares, deberá emitirse dentro de las veinticuatro horas siguientes a su interposición, en dicho acuerdo se ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de setenta y dos horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Si no se rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere este párrafo, el Magistrado Instructor resolverá sobre las medidas cautelares previas que se le hayan solicitado.
-Párrafo reformado DOF 13-06-2016 Dentro del plazo de cinco días contados a partir de que haya recibido el informe o que haya vencido el término para presentarlo, el Magistrado Instructor dictará la resolución en la que, de manera definitiva, decrete o niegue las medidas cautelares solicitadas, decida en su caso, sobre la admisión de la garantía ofrecida, la cual deberá otorgarse dentro del plazo de tres días. Cuando no se otorgare la garantía dentro del plazo señalado, las medidas cautelares dejarán de tener efecto.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 25. El acuerdo que admita el incidente de petición de medidas cautelares, deberá emitirse dentro de las veinticuatro horas siguientes a su interposición, en dicho acuerdo se ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de setenta y dos horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Si no se rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere este párrafo, el Magistrado Instructor resolverá sobre las medidas cautelares previas que se le hayan solicitado.
+Párrafo reformado DOF 13-06-2016
+Dentro del plazo de cinco días contados a partir de que haya recibido el informe o que haya vencido el término para presentarlo, el Magistrado Instructor dictará la resolución en la que, de manera definitiva, decrete o niegue las medidas cautelares solicitadas, decida en su caso, sobre la admisión de la garantía ofrecida, la cual deberá otorgarse dentro del plazo de tres días. Cuando no se otorgare la garantía dentro del plazo señalado, las medidas cautelares dejarán de tener efecto.
 Mientras no se dicte sentencia definitiva el Magistrado Instructor que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
-Artículo reformado DOF 10-12-2010 ARTÍCULO 26. El Magistrado Instructor podrá decretar medidas cautelares positivas, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende por el simple transcurso del tiempo.
-Artículo reformado DOF 13-06-2016 ARTÍCULO 27. En los casos en los que las medidas cautelares puedan causar daños a terceros, el Magistrado Instructor las ordenará siempre que el actor otorgue garantía bastante para reparar, mediante indemnización, los daños y perjuicios que con ellas pudieran causarse si no obtiene sentencia favorable en el juicio; garantía que deberá expedirse a favor de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición de la Sala Regional que corresponda. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de datos que permitan el ejercicio de esta facultad, se requerirá a las partes afectadas para que proporcionen todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la fijación del monto de la garantía.
+Artículo reformado DOF 10-12-2010
+ARTÍCULO 26. El Magistrado Instructor podrá decretar medidas cautelares positivas, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende por el simple transcurso del tiempo.
+Artículo reformado DOF 13-06-2016
+ARTÍCULO 27. En los casos en los que las medidas cautelares puedan causar daños a terceros, el Magistrado Instructor las ordenará siempre que el actor otorgue garantía bastante para reparar, mediante indemnización, los daños y perjuicios que con ellas pudieran causarse si no obtiene sentencia favorable en el juicio; garantía que deberá expedirse a favor de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición de la Sala Regional que corresponda. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de datos que permitan el ejercicio de esta facultad, se requerirá a las partes afectadas para que proporcionen todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la fijación del monto de la garantía.
 Por su parte, la autoridad podrá obligarse a resarcir los daños y perjuicios que se pudieran causar al particular; en cuyo caso, el Tribunal, considerando las circunstancias del caso, podrá no dictar las medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, el Magistrado Instructor, la Sala Regional, la Sección o el Pleno, deberá condenarla a pagar la indemnización administrativa que corresponda.
-Artículo reformado DOF 10-12-2010, 13-06-2016 ARTÍCULO 28. La solicitud de suspensión de la ejecución del acto administrativo impugnado, presentado por el actor o su representante legal, se tramitará y resolverá, de conformidad con las reglas siguientes:
+Artículo reformado DOF 10-12-2010, 13-06-2016
+ARTÍCULO 28. La solicitud de suspensión de la ejecución del acto administrativo impugnado, presentado por el actor o su representante legal, se tramitará y resolverá, de conformidad con las reglas siguientes:
 
 I. Se concederá siempre que:
 
@@ -396,7 +433,8 @@ IV. Mientras no se dicte sentencia definitiva en el juicio, el Magistrado Instru
 Fracción reformada DOF 13-06-2016
 
 V. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado Instructor ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la Sala ordenará hacer efectiva la garantía otorgada ante la autoridad.
-Artículo reformado DOF 10-12-2010 ARTÍCULO 28 Bis. Las medidas cautelares positivas y la suspensión de la ejecución del acto impugnado podrán quedar sin efecto si la contraparte exhibe contragarantía para indemnizar los daños y perjuicios que pudieran causarse a la parte actora. Además la contragarantía deberá cubrir los costos de la garantía que hubiese otorgado la parte actora, la cual comprenderá, entre otros aspectos, los siguientes:
+Artículo reformado DOF 10-12-2010
+ARTÍCULO 28 Bis. Las medidas cautelares positivas y la suspensión de la ejecución del acto impugnado podrán quedar sin efecto si la contraparte exhibe contragarantía para indemnizar los daños y perjuicios que pudieran causarse a la parte actora. Además la contragarantía deberá cubrir los costos de la garantía que hubiese otorgado la parte actora, la cual comprenderá, entre otros aspectos, los siguientes:
 
 I. Los gastos o primas pagados, conforme a la ley, a la empresa legalmente autorizada que haya otorgado la garantía;
 
@@ -409,6 +447,7 @@ No se admitirá la contragarantía si de ejecutarse el acto impugnado o de no co
 Artículo adicionado DOF 13-06-2016
 
 ## CAPÍTULO IV — De los Incidentes
+
 ARTÍCULO 29.- En el juicio contencioso administrativo federal sólo serán de previo y especial pronunciamiento:
 
 I. La incompetencia por materia.
@@ -429,7 +468,8 @@ En caso de duda, será competente por razón de territorio la Sala Regional ante
 Cuando una sala esté conociendo de algún juicio que sea competencia de otra, el demandado o el tercero podrán acudir ante el Presidente del Tribunal exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes, a fin de que se someta el asunto al conocimiento de la Sección que por turno le corresponda conocer.
 Cuando se presente un asunto en una Sala Regional que por materia corresponda conocer a una Sala Especializada, la primera se declarará incompetente y comunicará su resolución a la que en su opinión corresponde conocer del juicio, enviándole los autos.
 La Sala requerida decidirá de plano, dentro de las cuarenta y ocho horas siguientes a la fecha de recepción del expediente, si acepta o no el conocimiento del asunto. Si la Sala lo acepta, comunicará su resolución a la requirente y a las partes. En caso de no aceptarlo, se tramitará el incidente a que se refiere el tercer párrafo de este artículo.
-Artículo reformado DOF 10-12-2010 ARTÍCULO 31.- Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
+Artículo reformado DOF 10-12-2010
+ARTÍCULO 31.- Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
 
 I. Las partes sean las mismas y se invoquen idénticos agravios.
 
@@ -437,7 +477,8 @@ II. Siendo diferentes las partes e invocándose distintos agravios, el acto impu
 
 III. Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos o resoluciones que sean unos antecedentes o consecuencia de los otros.
 Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y el juicio en línea, el Magistrado Instructor requerirá a las partes relativas al Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por substanciar el juicio en línea, en caso de que no ejerza su opción se tramitara el Juicio en la vía tradicional.
-Párrafo adicionado DOF 12-06-2009 ARTÍCULO 32.- La acumulación se solicitará ante el Magistrado Instructor que esté conociendo del juicio en el cual la demanda se presentó primero, para lo cual en un término que no exceda de seis días solicitará el envío de los autos del juicio. El magistrado que conozca de la acumulación, en el plazo de cinco días, deberá formular proyecto de resolución que someterá a la Sala, la que dictará la determinación que proceda. La acumulación podrá tramitarse de oficio.
+Párrafo adicionado DOF 12-06-2009
+ARTÍCULO 32.- La acumulación se solicitará ante el Magistrado Instructor que esté conociendo del juicio en el cual la demanda se presentó primero, para lo cual en un término que no exceda de seis días solicitará el envío de los autos del juicio. El magistrado que conozca de la acumulación, en el plazo de cinco días, deberá formular proyecto de resolución que someterá a la Sala, la que dictará la determinación que proceda. La acumulación podrá tramitarse de oficio.
 ARTÍCULO 33.- Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
 Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, se dictará resolución.
@@ -465,6 +506,7 @@ Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento,
 Si no está previsto algún trámite especial, los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
 
 ## CAPÍTULO V — De las Pruebas
+
 ARTÍCULO 40.- En los juicios que se tramiten ante este Tribunal, el actor que pretende se reconozca o se haga efectivo un derecho subjetivo, deberá probar los hechos de los que deriva su derecho y la violación del mismo, cuando ésta consista en hechos positivos y el demandado de sus excepciones.
 En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, se ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
@@ -485,9 +527,12 @@ IV. Por una sola vez y por causa que lo justifique, comunicada al instructor ant
 
 V. El perito tercero será designado por la Sala Regional de entre los que tenga adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, la Sala designará bajo su responsabilidad a la persona que deba rendir dicho dictamen. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución de crédito, debiendo cubrirse sus honorarios por las partes. En los demás casos los cubrirá el Tribunal. En el auto en que se designe perito tercero, se le concederá un plazo mínimo de quince días para que rinda su dictamen.
 El Magistrado Instructor, dentro del plazo de tres días posteriores a la notificación del acuerdo que tenga por rendido el dictamen del perito tercero, podrá ordenar que se lleve a cabo el desahogo de una junta de peritos, en la cual se planteen aclaraciones en relación a los dictámenes. El acuerdo por el que se fije el lugar, día y hora para la celebración de la junta de peritos deberá notificarse a todas las partes, así como a los peritos.
-Párrafo adicionado DOF 13-06-2016 En la audiencia, el Magistrado Instructor podrá requerir que los peritos hagan las aclaraciones correspondientes, debiendo levantar el acta circunstanciada correspondiente.
-Párrafo adicionado DOF 13-06-2016 En el caso de la Sala Superior del Tribunal, el Magistrado ponente podrá ordenar directamente la reapertura de la instrucción del juicio, a efecto de que la junta de peritos se realice en la Secretaría General o Adjunta de Acuerdos o en la Sala Regional, la cual podrá llevarse a cabo a través de medios electrónicos.
-Párrafo adicionado DOF 13-06-2016 ARTÍCULO 44.- Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el Magistrado Instructor los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
+Párrafo adicionado DOF 13-06-2016
+En la audiencia, el Magistrado Instructor podrá requerir que los peritos hagan las aclaraciones correspondientes, debiendo levantar el acta circunstanciada correspondiente.
+Párrafo adicionado DOF 13-06-2016
+En el caso de la Sala Superior del Tribunal, el Magistrado ponente podrá ordenar directamente la reapertura de la instrucción del juicio, a efecto de que la junta de peritos se realice en la Secretaría General o Adjunta de Acuerdos o en la Sala Regional, la cual podrá llevarse a cabo a través de medios electrónicos.
+Párrafo adicionado DOF 13-06-2016
+ARTÍCULO 44.- Para desahogar la prueba testimonial se requerirá a la oferente para que presente a los testigos y cuando ésta manifieste no poder presentarlos, el Magistrado Instructor los citará para que comparezcan el día y hora que al efecto señale. De los testimonios se levantará acta pormenorizada y podrán serles formuladas por el magistrado o por las partes aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán testimonio por escrito.
 Cuando los testigos tengan su domicilio fuera de la sede de la Sala, se podrá desahogar la prueba mediante exhorto, previa calificación hecha por el Magistrado Instructor del interrogatorio presentado, pudiendo repreguntar el magistrado o juez que desahogue el exhorto, en términos del artículo 73 de esta Ley.
 ARTÍCULO 45.- A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad, previo pago de los derechos correspondientes, las copias certificadas de los documentos que les soliciten; si no se cumpliera con esa obligación la parte interesada solicitará al Magistrado Instructor que requiera a los omisos.
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
@@ -501,9 +546,11 @@ II. Tratándose de actos de comprobación de las autoridades administrativas, se
 
 III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación de la Sala.
 Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración se estará a lo dispuesto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
+Párrafo reformado DOF 14-11-2025
+Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
 ## CAPÍTULO VI — Del Cierre de la Instrucción
+
 
 ### Artículo 47
 . El Magistrado Instructor, cinco días después de que haya concluido la sustanciación del juicio y/o no existiere ninguna cuestión pendiente que impida su resolución, notificará a las partes que tienen un término de cinco días para formular alegatos de lo bien probado por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia; dichos alegatos no pueden ampliar la litis fijada en los acuerdos de admisión a la demanda o de admisión a la ampliación a la demanda, en su caso.
@@ -511,6 +558,7 @@ Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con ale
 Artículo reformado DOF 13-06-2016
 
 ## CAPÍTULO VII
+
 Facultad de Atracción ARTÍCULO 48. El Pleno o las Secciones del Tribunal podrán resolver los juicios con características especiales.
 Párrafo reformado DOF 10-12-2010
 
@@ -526,7 +574,8 @@ II. Para el ejercicio de la facultad de atracción, se estará a las siguientes 
 
 a) La petición que, en su caso, formulen las Salas Regionales, el Magistrado Instructor o las autoridades deberá presentarse hasta antes del cierre de la instrucción.
 En el caso del juicio de resolución exclusiva de fondo, la petición señalada en el párrafo anterior sólo se podrá formular por las partes en el juicio o los Magistrados de la Sección de la Sala Superior competente.
-Párrafo adicionado DOF 27-01-2017 Inciso reformado DOF 10-12-2010
+Párrafo adicionado DOF 27-01-2017
+Inciso reformado DOF 10-12-2010
 
 b) La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional o al Magistrado Instructor antes del cierre de la instrucción.
 Inciso reformado DOF 10-12-2010
@@ -537,8 +586,10 @@ d) Una vez cerrada la instrucción del juicio, la Sala Regional o el Magistrado 
 Inciso reformado DOF 10-12-2010
 
 ## CAPÍTULO VIII — De la Sentencia
+
 ARTÍCULO 49. La sentencia se pronunciará por unanimidad o mayoría de votos de los Magistrados integrantes de la sala, dentro de los cuarenta y cinco días siguientes a aquél en que haya quedado cerrada la instrucción en el juicio. Para este efecto, el Magistrado Instructor formulará el proyecto respectivo dentro de los treinta días siguientes al cierre de instrucción. Para dictar resolución en los casos de sobreseimiento, por alguna de las causas previstas en el artículo 9o. de esta Ley, no será necesario que se hubiese cerrado la instrucción.
-Párrafo reformado DOF 13-06-2016 El plazo para que el magistrado ponente del Pleno o de la Sección formule su proyecto, empezará a correr a partir de que tenga en su poder el expediente integrado.
+Párrafo reformado DOF 13-06-2016
+El plazo para que el magistrado ponente del Pleno o de la Sección formule su proyecto, empezará a correr a partir de que tenga en su poder el expediente integrado.
 Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magistrado disidente podrá limitarse a expresar que vota total o parcialmente en contra del proyecto o formular voto particular razonado, el que deberá presentar en un plazo que no exceda de diez días.
 Si el proyecto no fue aceptado por los otros magistrados del Pleno, Sección o Sala, el magistrado ponente o instructor engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
 ARTÍCULO 50.- Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
@@ -547,14 +598,16 @@ Las Salas podrán corregir los errores que adviertan en la cita de los preceptos
 Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
 En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 Hecha excepción de lo dispuesto en fracción XIII, apartado B, del artículo 123 Constitucional, respecto de los Agentes del Ministerio Público, los Peritos y los Miembros de las Instituciones Policiales de la Federación, que hubiesen promovido el juicio o medio de defensa en el que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese, destitución o cualquier otra forma de terminación del servicio fue injustificada; casos en los que la autoridad demandada sólo estará obligada a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio.
-Párrafo adicionado DOF 23-01-2009 ARTÍCULO 50-A.- Las sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa con motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial del Estado, deberán contener como elementos mínimos los siguientes:
+Párrafo adicionado DOF 23-01-2009
+ARTÍCULO 50-A.- Las sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa con motivo de las demandas que prevé la Ley Federal de Responsabilidad Patrimonial del Estado, deberán contener como elementos mínimos los siguientes:
 
 I. El relativo a la existencia de la relación de causalidad entre la actividad administrativa y la lesión producida y la valoración del daño o perjuicio causado;
 
 II. Determinar el monto de la indemnización, explicitando los criterios utilizados para su cuantificación, y
 
 III. En los casos de concurrencia previstos en el Capítulo IV de la Ley Federal de Responsabilidad Patrimonial del Estado, se deberán razonar los criterios de impugnación y la graduación correspondiente para su aplicación a cada caso en particular.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 51.- Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 51.- Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
 
 I. Incompetencia del funcionario que la haya dictado, ordenado o tramitado el procedimiento del que deriva dicha resolución.
 
@@ -580,14 +633,16 @@ e) Cuando no se dé a conocer al contribuyente visitado el resultado de una comp
 f) Cuando no se valore alguna prueba para acreditar los hechos asentados en el oficio de observaciones o en la última acta parcial, siempre que dicha prueba no sea idónea para dichos efectos.
 El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
 Cuando resulte fundada la incompetencia de la autoridad y además existan agravios encaminados a controvertir el fondo del asunto, el Tribunal deberá analizarlos y si alguno de ellos resulta fundado, con base en el principio de mayor beneficio, procederá a resolver el fondo de la cuestión efectivamente planteada por el actor.
-Párrafo adicionado DOF 10-12-2010 Los órganos arbitrales y de otra naturaleza, derivados de mecanismos alternativos de solución de controversias en materia de prácticas desleales, contenidos en tratados y convenios internacionales de los que México sea parte, no podrán revisar de oficio las causales a que se refiere este artículo.
+Párrafo adicionado DOF 10-12-2010
+Los órganos arbitrales y de otra naturaleza, derivados de mecanismos alternativos de solución de controversias en materia de prácticas desleales, contenidos en tratados y convenios internacionales de los que México sea parte, no podrán revisar de oficio las causales a que se refiere este artículo.
 ARTÍCULO 52.- La sentencia definitiva podrá:
 
 I. Reconocer la validez de la resolución impugnada.
 
 II. Declarar la nulidad de la resolución impugnada.
 
-III. (Se deroga) Fracción derogada DOF 13-06-2016
+III. (Se deroga)
+Fracción derogada DOF 13-06-2016
 
 IV. Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 51 de esta Ley, el Tribunal declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, cuando corresponda a la pretensión deducida, también podrá indicar los términos conforme a los cuales deberá dictar su resolución la autoridad administrativa.
 En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, la Sala Regional competente deberá precisar, el monto, el alcance y los términos de la misma para su cumplimiento.
@@ -603,12 +658,15 @@ c) Declarar la nulidad del acto o resolución administrativa de carácter genera
 Inciso reformado DOF 10-12-2010
 
 d) Reconocer la existencia de un derecho subjetivo y condenar al ente público federal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
-Inciso adicionado DOF 12-06-2009 Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en la fracción IV, deberá cumplirse en un plazo de cuatro meses tratándose del Juicio Ordinario o un mes tratándose del Juicio Sumario de conformidad con lo previsto en el artículo 5814 de la presente Ley, contados a partir de que la sentencia quede firme.
-Párrafo reformado DOF 13-06-2016 Dentro del mismo término deberá emitir la resolución definitiva, aún cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 46-A y 67 del Código Fiscal de la Federación.
+Inciso adicionado DOF 12-06-2009
+Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, conforme a lo dispuesto en la fracción IV, deberá cumplirse en un plazo de cuatro meses tratándose del Juicio Ordinario o un mes tratándose del Juicio Sumario de conformidad con lo previsto en el artículo 5814 de la presente Ley, contados a partir de que la sentencia quede firme.
+Párrafo reformado DOF 13-06-2016
+Dentro del mismo término deberá emitir la resolución definitiva, aún cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 46-A y 67 del Código Fiscal de la Federación.
 Si el cumplimiento de la sentencia entraña el ejercicio o el goce de un derecho por parte del demandante, transcurrido el plazo señalado en el párrafo anterior sin que la autoridad hubiere cumplido con la sentencia, el beneficiario del fallo tendrá derecho a una indemnización que la Sala que haya conocido del asunto determinará, atendiendo el tiempo transcurrido hasta el total cumplimiento del fallo y los perjuicios que la omisión hubiere ocasionado, sin menoscabo de lo establecido en el artículo 58 de esta Ley. El ejercicio de dicho derecho se tramitará vía incidental.
 Cuando para el cumplimiento de la sentencia, sea necesario solicitar información o realizar algún acto de la autoridad administrativa en el extranjero, se suspenderá el plazo a que se refiere el párrafo anterior, entre el momento en que se pida la información o en que se solicite realizar el acto correspondiente y la fecha en que se proporcione dicha información o se realice el acto.
 Transcurridos los plazos establecidos en este precepto, sin que se haya dictado la resolución definitiva, precluirá el derecho de la autoridad para emitirla salvo en los casos en que el particular, con motivo de la sentencia, tenga derecho a una resolución definitiva que le confiera una prestación, le reconozca un derecho o le abra la posibilidad de obtenerlo.
-Párrafo reformado DOF 13-06-2016 En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
+Párrafo reformado DOF 13-06-2016
+En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
 La sentencia se pronunciará sobre la indemnización o pago de costas, solicitados por las partes, cuando se adecue a los supuestos del artículo 6o. de esta Ley.
 ARTÍCULO 53.- La sentencia definitiva queda firme cuando:
 
@@ -618,7 +676,8 @@ II. Admitiendo recurso o juicio, no fuere impugnada, o cuando, habiéndolo sido,
 
 III. Sea consentida expresamente por las partes o sus representantes legítimos.
 A partir de que quede firme una sentencia y cause ejecutoria, correrán los plazos para el cumplimiento de las sentencias, previstos en los artículos 52 y 58-14 de esta Ley.
-Párrafo reformado DOF 13-06-2016 ARTÍCULO 54.- La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
+Párrafo reformado DOF 13-06-2016
+ARTÍCULO 54.- La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquél en que surta efectos su notificación.
 La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala o Sección que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
 ARTÍCULO 55.- Las partes podrán formular excitativa de justicia ante el Presidente del Tribunal, si el magistrado responsable no formula el proyecto respectivo dentro del plazo señalado en esta Ley.
 ARTÍCULO 56.- Recibida la excitativa de justicia, el Presidente del Tribunal, solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente dará cuenta al Pleno y si éste encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo. Si el mismo no cumpliere con dicha obligación, será sustituido en los términos de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
@@ -626,6 +685,7 @@ En el supuesto de que la excitativa se promueva por no haberse dictado sentencia
 Cuando un magistrado, en dos ocasiones hubiere sido sustituido conforme a este precepto, el Presidente del Tribunal podrá poner el hecho en conocimiento del Presidente de la República.
 
 ## CAPÍTULO IX — Del Cumplimiento de la Sentencia y de la Suspensión
+
 ARTÍCULO 57.- Las autoridades demandadas y cualesquiera otra autoridad relacionada, están obligadas a cumplir las sentencias del Tribunal Federal de Justicia Fiscal y Administrativa, conforme a lo siguiente:
 
 I. En los casos en los que la sentencia declare la nulidad y ésta se funde en alguna de las siguientes causales:
@@ -645,7 +705,8 @@ d) Cuando prospere el desvío de poder, la autoridad queda impedida para dictar 
 
 II. En los casos de condena, la sentencia deberá precisar la forma y los plazos en los que la autoridad cumplirá con la obligación respectiva, conforme a las reglas establecidas en el artículo 52 de esta Ley.
 Cuando se interponga el juicio de amparo o el recurso de revisión, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-Fracción reformada DOF 13-06-2016 Reforma DOF 13-06-2016: Derogó del artículo los entonces párrafos segundo y tercero ARTÍCULO 58.- A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este precepto se refiere, una vez vencido el plazo previsto por el artículo 52 de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a lo siguiente:
+Fracción reformada DOF 13-06-2016
+Reforma DOF 13-06-2016: Derogó del artículo los entonces párrafos segundo y tercero ARTÍCULO 58.- A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este precepto se refiere, una vez vencido el plazo previsto por el artículo 52 de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a lo siguiente:
 
 I. La Sala Regional, la Sección o el Pleno que hubiere pronunciado la sentencia, podrá de oficio, por conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso.
 Concluido el término anterior con informe o sin él, la Sala Regional, la Sección o el Pleno de que se trate, decidirá si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá como sigue:
@@ -694,53 +755,76 @@ Existiendo resolución administrativa definitiva, si el Magistrado Instructor, l
 Párrafo reformado DOF 13-06-2016
 
 ## CAPÍTULO X — Del Juicio en Línea
-Capítulo adicionado DOF 12-06-2009 ARTÍCULO 58-A.- El juicio contencioso administrativo federal se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal, en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-B.- Cuando el demandante ejerza su derecho a presentar su demanda en línea a través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
+
+Capítulo adicionado DOF 12-06-2009
+ARTÍCULO 58-A.- El juicio contencioso administrativo federal se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal, en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley. En todo lo no previsto, se aplicarán las demás disposiciones que resulten aplicables de este ordenamiento.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-B.- Cuando el demandante ejerza su derecho a presentar su demanda en línea a través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
 Si el demandante no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del Tribunal.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-C.- Cuando la demandante sea una autoridad, el particular demandado, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-C.- Cuando la demandante sea una autoridad, el particular demandado, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
 A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal.
 Si el particular rechaza tramitar el juicio en línea contestará la demanda mediante el Juicio en la vía tradicional.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-D.- En el Sistema de Justicia en Línea del Tribunal se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos, y resoluciones tanto interlocutorias como definitivas, así como las demás actuaciones que deriven de la substanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida el Tribunal.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-D.- En el Sistema de Justicia en Línea del Tribunal se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos, y resoluciones tanto interlocutorias como definitivas, así como las demás actuaciones que deriven de la substanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida el Tribunal.
 En los juicios en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia, cuando ello sea posible.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-E.- La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea del Tribunal, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-E.- La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea del Tribunal, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
 Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que, para tal efecto, expida el Tribunal.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-F.- La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-G.- Solamente, las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-H.- Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-I.- Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea del Tribunal emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-J. Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea del Tribunal en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas avanzadas de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
-Artículo adicionado DOF 12-06-2009. Reformado DOF 13-06-2016 ARTÍCULO 58-K.- Los documentos que las partes ofrezcan como prueba, incluido el expediente administrativo a que se refiere el artículo 14, fracción V, de esta Ley, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea del Tribunal.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-F.- La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-G.- Solamente, las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-H.- Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-I.- Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea del Tribunal emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-J. Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea del Tribunal en términos del presente capítulo. Dichas actuaciones serán validadas con las firmas electrónicas avanzadas de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
+Artículo adicionado DOF 12-06-2009. Reformado DOF 13-06-2016
+ARTÍCULO 58-K.- Los documentos que las partes ofrezcan como prueba, incluido el expediente administrativo a que se refiere el artículo 14, fracción V, de esta Ley, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea del Tribunal.
 Tratándose de documentos digitales, se deberá manifestar la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, la omisión de la manifestación presume en perjuicio sólo del promovente, que el documento digitalizado corresponde a una copia simple.
 Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emitan los órganos del Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-L.- Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-L.- Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieren sido objeto de prueba.
 Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en la demanda y ser presentadas a la Sala que esté conociendo del asunto, en la misma fecha en la que se registre en el Sistema de Justicia en Línea del Tribunal la promoción correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-M.- Para los juicios que se substancien en términos de este capítulo no será necesario que las partes exhiban copias para correr los traslados que la Ley establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-M.- Para los juicios que se substancien en términos de este capítulo no será necesario que las partes exhiban copias para correr los traslados que la Ley establece, salvo que hubiese tercero interesado, en cuyo caso, a fin de correrle traslado, el demandante deberá presentar la copia de traslado con sus respectivos anexos.
 En el escrito a través del cual el tercero interesado se apersone en juicio, deberá precisar si desea que el juicio se continúe substanciando en línea y señalar en tal caso, su Dirección de Correo Electrónico.
 En caso de que manifieste su oposición, la Sala dispondrá lo conducente para que se digitalicen los documentos que dicho tercero presente, a fin de que se prosiga con la instrucción del juicio en línea con relación a las demás partes, y a su vez, se impriman y certifiquen las constancias de las actuaciones y documentación electrónica, a fin de que se integre el expediente del tercero en un Juicio en la vía tradicional.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-N.- Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán conforme a lo siguiente:
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-N.- Las notificaciones que se practiquen dentro del juicio en línea, se efectuarán conforme a lo siguiente:
 I.- Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea del Tribunal.
 II.- El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea del Tribunal junto con la actuación o resolución respectiva y los documentos adjuntos.
 III.- El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual está disponible en el Sistema de Justicia en Línea del Tribunal.
 IV.- El Sistema de Justicia en Línea del Tribunal registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior.
 V.- Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el Sistema de Justicia en Línea del Tribunal genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar.
 VI.- En caso de que en el plazo señalado en la fracción anterior, el Sistema de Justicia en Línea del Tribunal no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista y por Boletín Procesal al cuarto día hábil contado a partir de la fecha de envío del Correo Electrónico, fecha en que se tendrá por legalmente notificado.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-O.- Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas de las Salas del Tribunal.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-O.- Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas de las Salas del Tribunal.
 Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea del Tribunal, en el lugar en donde el promovente tenga su domicilio fiscal y, por recibidas, en el lugar de la sede de la Sala Regional a la que corresponda conocer del juicio por razón de territorio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-P.- Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, según corresponda, la Dirección de Correo Electrónico Institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridad demandada.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-P.- Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, según corresponda, la Dirección de Correo Electrónico Institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridad demandada.
 En el caso de que las autoridades demandadas no cumplan con esta obligación, todas las notificaciones que deben hacerse, incluyendo el emplazamiento, se harán a través del Boletín Procesal, hasta que se cumpla con dicha formalidad.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-Q.- Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-Q.- Para la presentación y trámite de los recursos de revisión y juicios de amparo que se promuevan contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
 El Secretario General de Acuerdos del Tribunal, los Secretarios Adjuntos de Sección y los Secretarios de Acuerdos de Sala Superior y de Salas Regionales según corresponda, deberán imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Juzgados de Distrito y Tribunales Colegiados de Circuito, cuando se impugnen resoluciones de los juicios correspondientes a su mesa.
 Sin perjuicio de lo anterior, en aquellos casos en que así lo solicite el Juzgado de Distrito o el Tribunal Colegiado se podrá remitir la información a través de medios electrónicos.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-R.- En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un Juicio en la vía tradicional.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-R.- En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través de un Juicio en la vía tradicional.
 Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover juicios en línea.
 Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Distrito Federal al momento de cometer la infracción.
-Artículo adicionado DOF 12-06-2009 ARTÍCULO 58-S.- Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la Sala correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+Artículo adicionado DOF 12-06-2009
+ARTÍCULO 58-S.- Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la Sala correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 Artículo adicionado DOF 12-06-2009
 
 ## Capítulo XI — Del Juicio en la Vía Sumaria
-Capítulo adicionado DOF 10-12-2010 ARTÍCULO 58-1. El juicio contencioso administrativo federal se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-2. Cuando se impugnen resoluciones definitivas cuyo importe no exceda de quince veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
+
+Capítulo adicionado DOF 10-12-2010
+ARTÍCULO 58-1. El juicio contencioso administrativo federal se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-2. Cuando se impugnen resoluciones definitivas cuyo importe no exceda de quince veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
 Párrafo reformado DOF 13-06-2016
 
 I. Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, por las que se fije en cantidad líquida un crédito fiscal;
@@ -753,9 +837,13 @@ IV. Las que requieran el pago de una póliza de fianza o de una garantía que hu
 
 V. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
 Para determinar la cuantía en los casos en los incisos I), III), y V), sólo se considerará el crédito principal sin accesorios ni actualizaciones. Cuando en un mismo acto se contenga más de una resolución de las mencionadas anteriormente no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de esta vía.
-Párrafo reformado DOF 13-06-2016 La demanda deberá presentarse dentro de los treinta días siguientes a aquél en que surta efectos la notificación de la resolución impugnada, de conformidad con las disposiciones de esta Ley ante la Sala Regional competente.
-Párrafo reformado DOF 13-06-2016 La interposición del juicio en la vía incorrecta no genera el desechamiento, improcedencia o sobreseimiento. En todos los casos, y en cualquier fase del procedimiento, mientras no haya quedado cerrada la instrucción, el Magistrado Instructor debe reconducir el juicio en la vía correcta, debiendo realizar las regularizaciones que correspondan, siempre y cuando no impliquen repetir alguna promoción de las partes.
-Párrafo reformado DOF 13-06-2016 Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-3. La tramitación del Juicio en la vía Sumaria será improcedente cuando:
+Párrafo reformado DOF 13-06-2016
+La demanda deberá presentarse dentro de los treinta días siguientes a aquél en que surta efectos la notificación de la resolución impugnada, de conformidad con las disposiciones de esta Ley ante la Sala Regional competente.
+Párrafo reformado DOF 13-06-2016
+La interposición del juicio en la vía incorrecta no genera el desechamiento, improcedencia o sobreseimiento. En todos los casos, y en cualquier fase del procedimiento, mientras no haya quedado cerrada la instrucción, el Magistrado Instructor debe reconducir el juicio en la vía correcta, debiendo realizar las regularizaciones que correspondan, siempre y cuando no impliquen repetir alguna promoción de las partes.
+Párrafo reformado DOF 13-06-2016
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-3. La tramitación del Juicio en la vía Sumaria será improcedente cuando:
 
 I. Si no se encuentra en alguno de los supuestos previstos en el artículo 58-2.
 
@@ -770,35 +858,51 @@ V. Se trate de resoluciones que además de imponer una multa o sanción pecuniar
 VI. El oferente de una prueba testimonial, no pueda presentar a las personas señaladas como testigos.
 En estos casos el Magistrado Instructor, antes de resolver sobre la admisión de la demanda, determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las demás disposiciones de esta Ley y emplazará a las otras partes, en el plazo previsto por los artículos 18 y 19 de la misma, según se trate.
 Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación ante la Sala Regional en que se encuentre radicado el juicio, en el plazo previsto por el artículo 58-8 de esta Ley.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-4. Una vez admitida la demanda, se correrá traslado al demandado para que la conteste dentro del término de quince días y emplazará, en su caso, al tercero, para que en igual término, se apersone en juicio.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-4. Una vez admitida la demanda, se correrá traslado al demandado para que la conteste dentro del término de quince días y emplazará, en su caso, al tercero, para que en igual término, se apersone en juicio.
 En el mismo auto en que se admita la demanda, se fijará día para cierre de la instrucción. Dicha fecha no excederá de los sesenta días siguientes al de emisión de dicho auto.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-5. El Magistrado proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar diez días antes de la fecha prevista para el cierre de instrucción.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-5. El Magistrado proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar diez días antes de la fecha prevista para el cierre de instrucción.
 Serán aplicables, en lo conducente, las reglas contenidas en el Capítulo V de este Título, salvo por lo que se refiere a la prueba testimonial, la cual sólo podrá ser admitida cuando el oferente se comprometa a presentar a sus testigos en el día y hora señalados para la diligencia.
 Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 43 de esta Ley, con la salvedad de que todos los plazos serán de tres días, salvo el que corresponde a la rendición y ratificación del dictamen, el cual será de cinco días, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Magistrado Instructor. Cuando proceda la designación de un perito tercero, ésta correrá a cargo del propio Magistrado.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-6. El actor podrá ampliar la demanda, en los casos a que se refiere el artículo 17 de esta Ley, en un plazo de cinco días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-6. El actor podrá ampliar la demanda, en los casos a que se refiere el artículo 17 de esta Ley, en un plazo de cinco días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación.
 La parte demandada o en su caso el tercero, contestarán la ampliación a la demanda, en el plazo de cinco días siguientes a que surta efectos la notificación de su traslado.
 En caso de omisión de los documentos a que se refieren los artículos 17, último párrafo, y 21, segundo párrafo, de la Ley, las partes deberán subsanarla en el plazo de tres días siguientes a aquél en que surta efectos la notificación del requerimiento formulado por el instructor.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-7. Los incidentes a que se refieren las fracciones II y IV del artículo 29 de esta Ley, podrán promoverse dentro de los diez días siguientes a que surtió efectos la notificación del auto que tuvo por presentada la contestación de la demanda o, en su caso, la contestación a la ampliación.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-7. Los incidentes a que se refieren las fracciones II y IV del artículo 29 de esta Ley, podrán promoverse dentro de los diez días siguientes a que surtió efectos la notificación del auto que tuvo por presentada la contestación de la demanda o, en su caso, la contestación a la ampliación.
 El incidente de incompetencia sólo procederá en esta vía cuando sea hecho valer por la parte demandada o por el tercero, por lo que la Sala Regional en que se radique el juicio no podrá declararse incompetente ni enviarlo a otra diversa.
 El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitando en esta misma vía.
 Los incidentes de nulidad de notificaciones y de recusación de perito, se deberán interponer dentro del plazo de tres días siguientes a aquél en que se conoció del hecho o se tuvo por designado al perito, respectivamente, y la contraparte deberá contestar la vista en igual término.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-8. Los recursos de reclamación a que se refieren los artículos 59 y 62 de esta Ley, deberán interponerse dentro del plazo de cinco días siguientes a aquél en que surta efectos la notificación de la resolución correspondiente del Magistrado Instructor.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-8. Los recursos de reclamación a que se refieren los artículos 59 y 62 de esta Ley, deberán interponerse dentro del plazo de cinco días siguientes a aquél en que surta efectos la notificación de la resolución correspondiente del Magistrado Instructor.
 Interpuesto cualquiera de los recursos se ordenará correr traslado a la contraparte y esta última deberá expresar lo que a su derecho convenga en un término de tres días y sin más trámite, se dará cuenta a la Sala Regional en que se encuentra radicado el juicio, para que resuelva el recurso en un término de tres días.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-9. Las medidas cautelares, se tramitarán conforme a las reglas generales establecidas en el Capítulo III de esta Ley. El Magistrado Instructor estará facultado para decretar la resolución provisional o definitiva que corresponda a las medidas cautelares.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-9. Las medidas cautelares, se tramitarán conforme a las reglas generales establecidas en el Capítulo III de esta Ley. El Magistrado Instructor estará facultado para decretar la resolución provisional o definitiva que corresponda a las medidas cautelares.
 Contra la resolución del Magistrado Instructor dictada conforme al párrafo anterior procederá el recurso de reclamación ante la Sala Regional en la que se encuentre radicado el juicio.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-10. En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para el cierre de instrucción, en su caso, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-11. Las partes podrán presentar sus alegatos antes de la fecha señalada para el cierre de la instrucción.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-12. En la fecha fijada para el cierre de instrucción el Magistrado Instructor procederá a verificar si el expediente se encuentra debidamente integrado, supuesto en el que deberá declarar cerrada la instrucción; en caso contrario, fijará nueva fecha para el cierre de instrucción, dentro de un plazo máximo de diez días.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-10. En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para el cierre de instrucción, en su caso, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-11. Las partes podrán presentar sus alegatos antes de la fecha señalada para el cierre de la instrucción.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-12. En la fecha fijada para el cierre de instrucción el Magistrado Instructor procederá a verificar si el expediente se encuentra debidamente integrado, supuesto en el que deberá declarar cerrada la instrucción; en caso contrario, fijará nueva fecha para el cierre de instrucción, dentro de un plazo máximo de diez días.
 En el momento en que el Magistrado Instructor advierta que el expediente se encuentra debidamente integrado, otorgará a las partes un término de tres días para que formulen alegatos, quedando cerrada la instrucción una vez fenecido dicho plazo, con o sin la presentación de dichos alegatos.
-Párrafo adicionado DOF 13-06-2016 Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-13. Una vez cerrada la instrucción, el Magistrado pronunciará sentencia dentro de los diez días siguientes, salvo en los casos en que se haya ejercido facultad de atracción, o se actualice la competencia especial de la Sala Superior, supuestos en los cuales, deberá estarse a lo dispuesto por el artículo 48, fracción II, inciso d), de esta Ley, a efecto de que sea resuelto por el Pleno o la Sección respectiva, con los plazos y las reglas correspondientes a ello, de conformidad con esta Ley.
-Artículo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016 ARTÍCULO 58-14. Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de un mes contado a partir de que dicha sentencia haya quedado firme de conformidad con el artículo 53 de esta Ley.
-Artículo adicionado DOF 10-12-2010 ARTÍCULO 58-15. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
+Párrafo adicionado DOF 13-06-2016
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-13. Una vez cerrada la instrucción, el Magistrado pronunciará sentencia dentro de los diez días siguientes, salvo en los casos en que se haya ejercido facultad de atracción, o se actualice la competencia especial de la Sala Superior, supuestos en los cuales, deberá estarse a lo dispuesto por el artículo 48, fracción II, inciso d), de esta Ley, a efecto de que sea resuelto por el Pleno o la Sección respectiva, con los plazos y las reglas correspondientes a ello, de conformidad con esta Ley.
+Artículo adicionado DOF 10-12-2010. Reformado DOF 13-06-2016
+ARTÍCULO 58-14. Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de un mes contado a partir de que dicha sentencia haya quedado firme de conformidad con el artículo 53 de esta Ley.
+Artículo adicionado DOF 10-12-2010
+ARTÍCULO 58-15. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 Artículo adicionado DOF 10-12-2010
 
 ## CAPÍTULO XII — Del Juicio de Resolución Exclusiva de Fondo
-Capítulo adicionado DOF 27-01-2017 ARTÍCULO 58-16. El juicio de resolución exclusiva de fondo se tramitará a petición del actor, de conformidad con las disposiciones que se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones que regulan el juicio contencioso administrativo federal.
+
+Capítulo adicionado DOF 27-01-2017
+ARTÍCULO 58-16. El juicio de resolución exclusiva de fondo se tramitará a petición del actor, de conformidad con las disposiciones que se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones que regulan el juicio contencioso administrativo federal.
 En el juicio de resolución exclusiva de fondo se observarán especialmente los principios de oralidad y celeridad.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-17. El Tribunal determinará las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-17. El Tribunal determinará las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
 El juicio de resolución exclusiva de fondo no será procedente cuando se haya interpuesto recurso administrativo en contra de las resoluciones señaladas en el párrafo anterior, y dicho recurso haya sido desechado, sobreseído o se tenga por no presentado.
 El demandante sólo podrá hacer valer conceptos de impugnación que tengan por objeto resolver exclusivamente sobre el fondo de la controversia que se plantea, sin que obste para ello que la resolución que se controvierta se encuentre motivada en el incumplimiento total o parcial de requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables; siempre que el demandante acredite que no se produjo omisión en el pago de contribuciones.
 Para efectos del juicio de resolución exclusiva de fondo se entenderá por concepto de impugnación cuyo objeto sea resolver exclusivamente sobre el fondo de la controversia, entre otros, aquéllos que referidos al sujeto, objeto, base, tasa o tarifa de las obligaciones revisadas, pretendan controvertir alguno de los siguientes supuestos:
@@ -811,7 +915,8 @@ III. Los efectos que haya atribuido la autoridad emisora al incumplimiento total
 
 IV. La valoración o falta de apreciación de las pruebas relacionadas con los supuestos mencionados en las fracciones anteriores.
 En ningún caso el juicio de resolución exclusiva de fondo podrá tramitarse a través del juicio en la vía tradicional, sumaria o en línea, regulados en la presente Ley. Una vez que el demandante haya optado por el juicio regulado en el presente Capítulo, no podrá variar su elección.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-18. La demanda deberá contener, adicional a lo señalado en el artículo 14 de esta Ley, lo siguiente:
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-18. La demanda deberá contener, adicional a lo señalado en el artículo 14 de esta Ley, lo siguiente:
 
 I. La manifestación expresa de que se opta por el juicio de resolución exclusiva de fondo.
 
@@ -829,7 +934,8 @@ d) Si cualquiera de los supuestos anteriores son coincidentes.
 IV). Los conceptos de impugnación que se hagan valer en cuanto al fondo del asunto.
 Se deberá adjuntar al escrito de demanda el documento que contenga el acto impugnado y su constancia de notificación, así como las pruebas que se ofrezcan, relacionándolas expresamente en su escrito de demanda con lo que se pretenda acreditar, incluyendo el dictamen pericial que, en su caso, se ofrezca.
 Cuando se omita alguno de los requisitos señalados en el presente artículo, se requerirá al demandante para que lo subsane dentro del término de cinco días, apercibiéndolo que, de no hacerlo en tiempo, se desechará la demanda.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-19. El Magistrado Instructor determinará la procedencia del juicio de resolución exclusiva de fondo considerando lo siguiente:
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-19. El Magistrado Instructor determinará la procedencia del juicio de resolución exclusiva de fondo considerando lo siguiente:
 
 I. Analizará, en primer término, si se cumplen los requisitos señalados en el presente Capítulo.
 
@@ -838,31 +944,39 @@ II. En su caso, una vez cumplido el requerimiento a que se refiere el último p�
 III. Cuando advierta que en la demanda sólo se plantean conceptos de impugnación relativos a cuestiones de forma o procedimiento, y no a cuestiones relativas al fondo de la controversia, se remitirá a la Oficialía de Partes Común para que lo ingrese como juicio en la vía tradicional, tomando en cuenta la fecha de presentación de la demanda.
 El juicio de resolución exclusiva de fondo no procederá cuando la demanda se promueva en los términos del artículo 16 de esta Ley.
 Si el Magistrado Instructor admite la demanda, ordenará suspender de plano la ejecución del acto impugnado, sin necesidad de que el demandante garantice el interés fiscal. La suspensión así concedida operará hasta que se dicte la resolución que ponga fin al juicio exclusivo de fondo, sin perjuicio de los requisitos que para la suspensión establezcan las leyes que rijan los medios de impugnación que procedan contra la sentencia dictada en el mismo.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-20. Si el Magistrado Instructor determina que la demanda no cumple con lo señalado en el artículo 58-18 de la presente Ley y, en consecuencia, resuelve desecharla, procederá el recurso de reclamación en términos del artículo 59 de esta Ley, mismo que deberá presentarse ante el Magistrado Instructor en un plazo de diez días contados a partir de que surta efectos la notificación del acuerdo de desechamiento; una vez presentado, se ordenará correr traslado a la contraparte para que en el término de cinco días exprese lo que a su derecho convenga y sin más trámite la Sala lo resolverá de plano en un plazo de cinco días.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-21. El demandante podrá ampliar la demanda, únicamente cuando se actualice el supuesto previsto en la fracción IV del artículo 17 de esta Ley, en el plazo de diez días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación, y en su escrito deberán señalar con precisión cuál es la propuesta de litis de la controversia en la ampliación.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-20. Si el Magistrado Instructor determina que la demanda no cumple con lo señalado en el artículo 58-18 de la presente Ley y, en consecuencia, resuelve desecharla, procederá el recurso de reclamación en términos del artículo 59 de esta Ley, mismo que deberá presentarse ante el Magistrado Instructor en un plazo de diez días contados a partir de que surta efectos la notificación del acuerdo de desechamiento; una vez presentado, se ordenará correr traslado a la contraparte para que en el término de cinco días exprese lo que a su derecho convenga y sin más trámite la Sala lo resolverá de plano en un plazo de cinco días.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-21. El demandante podrá ampliar la demanda, únicamente cuando se actualice el supuesto previsto en la fracción IV del artículo 17 de esta Ley, en el plazo de diez días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación, y en su escrito deberán señalar con precisión cuál es la propuesta de litis de la controversia en la ampliación.
 La autoridad, al contestar la demanda y, en su caso, la ampliación de demanda, deberá señalar si coincide o no con la propuesta de litis del juicio, expresando en este último caso, cuál es su propuesta.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-22. Recibida la contestación de la demanda y, en su caso, la contestación a la ampliación de la misma, el Magistrado Instructor citará a las partes para audiencia de fijación de litis, la que se desahogará sin excepción de manera oral dentro de los veinte días siguientes a la recepción de la contestación respectiva. El Magistrado Instructor expondrá de forma breve en qué consiste la controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose a lo manifestado en la demanda, su ampliación o su contestación.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-22. Recibida la contestación de la demanda y, en su caso, la contestación a la ampliación de la misma, el Magistrado Instructor citará a las partes para audiencia de fijación de litis, la que se desahogará sin excepción de manera oral dentro de los veinte días siguientes a la recepción de la contestación respectiva. El Magistrado Instructor expondrá de forma breve en qué consiste la controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose a lo manifestado en la demanda, su ampliación o su contestación.
 La audiencia de fijación de litis deberá ser desahogada, sin excepción, ante la presencia del Magistrado Instructor quien podrá auxiliarse del Secretario de Acuerdos para que levante acta circunstanciada de la diligencia. Las partes podrán acudir personalmente o por conducto de sus autorizados legales. Los demás Magistrados integrantes de la Sala podrán acudir a la audiencia de fijación de litis. Cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de esta Ley, alguna no acuda a la audiencia de fijación de litis, ésta se llevará a cabo con la parte que esté presente.
 Quedará al prudente arbitrio del Magistrado Instructor, la regulación del tiempo que tengan las partes para exponer los motivos por los que estiman les asiste la razón, considerando estrictamente el principio de celeridad que rige esta vía.
 Cuando alguna de las partes no acuda a la audiencia de fijación de litis se entenderá que consiente los términos en que la misma quedó fijada por el Magistrado Instructor, precluyendo además su derecho para formular cualquier alegato posterior en el juicio, ya sea en forma verbal o escrita.
 En el caso de que se haya acordado procedente la atracción del juicio por la Sala Superior, el Magistrado Instructor reservará la celebración de las actuaciones previstas en el artículo 58-26, primer párrafo de esta Ley, para que éstas se lleven a cabo ante el Magistrado ponente que corresponda.
 Una vez celebrada la audiencia de fijación de litis, el Magistrado Instructor notificará a las partes el acuerdo a que se refiere el artículo 47 de esta Ley, salvo en los casos establecidos en el párrafo anterior.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-23. En caso de que durante la tramitación del juicio de resolución exclusiva de fondo, alguna de las partes solicite una audiencia privada con el Magistrado Instructor o con alguno de los Magistrados de la Sala Especializada, ésta deberá celebrarse invariablemente con la presencia de su contraparte; cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de esta Ley, alguna no acuda a la audiencia privada, ésta se llevará a cabo con la parte que esté presente.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-24. En el juicio de resolución exclusiva de fondo, serán admisibles únicamente las pruebas que hubieren sido ofrecidas y exhibidas, en:
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-23. En caso de que durante la tramitación del juicio de resolución exclusiva de fondo, alguna de las partes solicite una audiencia privada con el Magistrado Instructor o con alguno de los Magistrados de la Sala Especializada, ésta deberá celebrarse invariablemente con la presencia de su contraparte; cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de esta Ley, alguna no acuda a la audiencia privada, ésta se llevará a cabo con la parte que esté presente.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-24. En el juicio de resolución exclusiva de fondo, serán admisibles únicamente las pruebas que hubieren sido ofrecidas y exhibidas, en:
 
 I. El procedimiento de comprobación del que derive el acto impugnado;
 
 II. El procedimiento de Acuerdos Conclusivos regulado en el Código Fiscal de la Federación, o
 
 III. El recurso administrativo correspondiente.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-25. El desahogo de la prueba pericial en los términos del presente Capítulo, se llevará a cabo mediante la exhibición del documento que contenga el dictamen correspondiente, el cual deberá adjuntarse a la demanda, a la ampliación o a su contestación. El Magistrado Instructor tendrá la más amplia facultad para valorar no sólo la idoneidad y el alcance de los dictámenes exhibidos, sino también la idoneidad del perito que lo emite.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-25. El desahogo de la prueba pericial en los términos del presente Capítulo, se llevará a cabo mediante la exhibición del documento que contenga el dictamen correspondiente, el cual deberá adjuntarse a la demanda, a la ampliación o a su contestación. El Magistrado Instructor tendrá la más amplia facultad para valorar no sólo la idoneidad y el alcance de los dictámenes exhibidos, sino también la idoneidad del perito que lo emite.
 El Magistrado Instructor, bajo su consideración decidirá si es necesario citar a los peritos que rindieron los dictámenes a fin de que en una audiencia especial, misma que se desahogará en forma oral, respondan las dudas o cuestionamientos que aquél les formule; para tal efecto las partes deberán ser notificadas en un plazo mínimo de cinco días anteriores a la fecha fijada para dicha audiencia. El Secretario de Acuerdos auxiliará en la diligencia y levantará el acta respectiva.
 Las partes podrán acudir a la audiencia a que se refiere el párrafo anterior para efectos de ampliar el cuestionario respecto del cual se rindió el dictamen pericial, así como para formular repreguntas al perito.
 Desahogada la audiencia, el Magistrado Instructor podrá designar a un perito tercero, cuando a su juicio ninguno de los dictámenes periciales rendidos en el juicio le proporcione elementos de convicción suficientes, o bien, si éstos son contradictorios. El dictamen del perito tercero deberá versar exclusivamente sobre los puntos de discrepancia de los dictámenes de los peritos de las partes.
 Los dictámenes periciales serán valorados por el Magistrado Instructor atendiendo a la litis fijada en la audiencia correspondiente.
 La valoración del dictamen pericial atenderá únicamente a razones técnicas referentes al área de especialidad de los peritos. El valor de la prueba pericial quedará a la prudente apreciación del Magistrado Instructor, atendiendo siempre al principio de proporcionalidad.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-26. Celebrada la audiencia de fijación de litis, desahogadas las pruebas que procedan y formulados los alegatos, quedará cerrada la instrucción del juicio de resolución exclusiva de fondo, sin necesidad de una declaratoria expresa, y a partir del día siguiente empezarán a computarse los plazos previstos en el artículo 49 de esta Ley para dictar sentencia; lo anterior no aplicará para efectos de lo previsto en el artículo 58-22, sexto párrafo de la presente Ley.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-27. En las sentencias que se dicten en el juicio de resolución exclusiva de fondo se declarará la nulidad de la resolución impugnada cuando:
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-26. Celebrada la audiencia de fijación de litis, desahogadas las pruebas que procedan y formulados los alegatos, quedará cerrada la instrucción del juicio de resolución exclusiva de fondo, sin necesidad de una declaratoria expresa, y a partir del día siguiente empezarán a computarse los plazos previstos en el artículo 49 de esta Ley para dictar sentencia; lo anterior no aplicará para efectos de lo previsto en el artículo 58-22, sexto párrafo de la presente Ley.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-27. En las sentencias que se dicten en el juicio de resolución exclusiva de fondo se declarará la nulidad de la resolución impugnada cuando:
 
 I. Los hechos u omisiones que dieron origen a la controversia no se produjeron;
 
@@ -871,7 +985,8 @@ II. Los hechos u omisiones que dieron origen a la controversia fueron apreciados
 III. Las normas involucradas fueron incorrectamente interpretadas o mal aplicadas en el acto impugnado, o
 
 IV. Los efectos atribuidos por la autoridad emisora al incumplimiento total, parcial o extemporáneo, de requisitos formales o de procedimiento a cargo del contribuyente resulten excesivos o desproporcionados por no haberse producido las hipótesis de causación de las contribuciones determinadas.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-28.- La sentencia definitiva podrá:
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-28.- La sentencia definitiva podrá:
 
 I. Reconocer la validez de la resolución impugnada.
 
@@ -890,14 +1005,18 @@ c) Declarar la nulidad del acto o resolución administrativa de carácter genera
 
 d) Reconocer la existencia de un derecho subjetivo y condenar al ente público federal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
 Las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan de los mismos, debiendo enviar al Presidente del Tribunal copia de la sentencia.
-Artículo adicionado DOF 27-01-2017 ARTÍCULO 58-29. En contra de las sentencias dictadas en el juicio de resolución exclusiva de fondo, si éstas no favorecen a la autoridad demandada, podrá interponer el recurso de revisión previsto en el artículo 63 de esta Ley.
+Artículo adicionado DOF 27-01-2017
+ARTÍCULO 58-29. En contra de las sentencias dictadas en el juicio de resolución exclusiva de fondo, si éstas no favorecen a la autoridad demandada, podrá interponer el recurso de revisión previsto en el artículo 63 de esta Ley.
 Artículo adicionado DOF 27-01-2017
 
 ## TÍTULO III — De los Recursos
 
+
 ## CAPÍTULO I — De la Reclamación
+
 ARTÍCULO 59. El recurso de reclamación procederá en contra de las resoluciones del Magistrado Instructor que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquéllas que admitan o rechacen la intervención del tercero. La reclamación se interpondrá ante la Sala o Sección respectiva, dentro de los diez días siguientes a aquél en que surta efectos la notificación de que se trate.
-Artículo reformado DOF 13-06-2016 ARTÍCULO 60.- Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la Sala para que resuelva en el término de cinco días. El magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
+Artículo reformado DOF 13-06-2016
+ARTÍCULO 60.- Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la Sala para que resuelva en el término de cinco días. El magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
 ARTÍCULO 61.- Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
 ARTÍCULO 62. Las resoluciones que concedan, nieguen, modifiquen o revoquen cualquiera de las medidas cautelares previstas en esta Ley, podrán ser impugnadas mediante la interposición del recurso de reclamación ante la Sala Regional que corresponda.
 El recurso se promoverá dentro de los cinco días siguientes a aquél en que surta sus efectos la notificación respectiva. Interpuesto el recurso en la forma y términos señalados, el Magistrado ordenará correr traslado a las demás partes, por igual plazo, para que expresen lo que a su derecho convenga.
@@ -907,6 +1026,7 @@ El Pleno del Tribunal podrá ejercer de oficio la facultad de atracción para la
 Artículo reformado DOF 10-12-2010
 
 ## CAPÍTULO II — De la Revisión
+
 ARTÍCULO 63. Las resoluciones emitidas por el Pleno, las Secciones de la Sala Superior o por las Salas Regionales que decreten o nieguen el sobreseimiento, las que dicten en términos de los artículos 34 de la Ley del Servicio de Administración Tributaria y 6° de esta Ley, así como las que se dicten conforme a la Ley Federal de Responsabilidad Patrimonial del Estado y las sentencias definitivas que emitan, podrán ser impugnadas por la autoridad a través de la unidad administrativa encargada de su defensa jurídica o por la entidad federativa coordinada en ingresos federales correspondiente, interponiendo el recurso de revisión ante el Tribunal Colegiado de Circuito competente en la sede del Pleno, Sección o Sala Regional a que corresponda, mediante escrito que se presente ante la responsable, dentro de los quince días siguientes a aquél en que surta sus efectos la notificación respectiva, siempre que se refiera a cualquiera de los siguientes supuestos:
 
 I. Sea de cuantía que exceda de tres mil quinientas veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, vigente al momento de la emisión de la resolución o sentencia.
@@ -941,24 +1061,30 @@ VIII. Se resuelva sobre la condenación en costas o indemnización previstas en 
 IX. Sea una resolución dictada con motivo de las reclamaciones previstas en la Ley Federal de Responsabilidad Patrimonial del Estado.
 
 X. Que en la sentencia se haya declarado la nulidad, con motivo de la inaplicación de una norma general, en ejercicio del control difuso de la constitucionalidad y de la convencionalidad realizado por la sala, sección o pleno de la Sala Superior.
-Fracción adicionada DOF 13-06-2016 En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso podrá ser interpuesto por el Servicio de Administración Tributaria, y por las citadas entidades federativas en los juicios que intervengan como parte.
+Fracción adicionada DOF 13-06-2016
+En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso podrá ser interpuesto por el Servicio de Administración Tributaria, y por las citadas entidades federativas en los juicios que intervengan como parte.
 Con el escrito de expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que hubiesen intervenido en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del término de quince días, comparezcan ante el Tribunal Colegiado de Circuito que conozca de la revisión a defender sus derechos.
 En todos los casos a que se refiere este artículo, la parte que obtuvo resolución favorable a sus intereses puede adherirse a la revisión interpuesta por el recurrente, dentro del plazo de quince días contados a partir de la fecha en la que se le notifique la admisión del recurso, expresando los agravios correspondientes; en este caso la adhesión al recurso sigue la suerte procesal de éste.
 Este recurso de revisión deberá tramitarse en los términos previstos en la Ley de Amparo en cuanto a la regulación del recurso de revisión.
-Artículo reformado DOF 27-12-2006 ARTÍCULO 64.- Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
+Artículo reformado DOF 27-12-2006
+ARTÍCULO 64.- Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
 
 ## TÍTULO IV — Disposiciones Finales
 
+
 ## CAPÍTULO I — De las Notificaciones
+
 ARTÍCULO 65. Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
 Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Jurisdiccional, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
 Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. El Actuario o el Secretario de Acuerdos, en todos los casos, previo levantamiento de razón, entregará los traslados de ley.
 La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Jurisdiccional o al día hábil siguiente a aquél en que las partes sean notificadas personalmente en las instalaciones designadas por el Tribunal, cuando así proceda, en términos de lo establecido por el artículo 67 de esta Ley.
 Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
-Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016 ARTÍCULO 66. La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el Boletín Jurisdiccional.
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+ARTÍCULO 66. La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el Boletín Jurisdiccional.
 En el Boletín Jurisdiccional deberá indicarse la denominación de la Sala y ponencia del Magistrado que corresponda, el número de expediente, la identificación de las autoridades a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del auto, resolución o sentencia. El Boletín Jurisdiccional podrá consultarse en la página electrónica del Tribunal o en los módulos ubicados en la Sala en que estén radicados los juicios.
 La Junta de Gobierno y Administración, mediante lineamientos, establecerá el contenido de la síntesis del auto, resolución o sentencia, así como las áreas, dentro del Tribunal, en las cuales serán entregados los traslados de ley; y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución o sentencia correspondiente.
-Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016 ARTÍCULO 67. Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+ARTÍCULO 67. Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 Párrafo reformado DOF 13-06-2016
 
 I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 13, fracción III de esta Ley;
@@ -970,17 +1096,27 @@ III. Se deroga.
 Fracción derogada DOF 13-06-2016
 
 IV. Se deroga.
-Fracción derogada DOF 13-06-2016 En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
-Párrafo reformado DOF 13-06-2016 Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 14, último párrafo, de la presente Ley.
-Párrafo adicionado DOF 13-06-2016 El Magistrado Instructor podrá, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
-Párrafo adicionado DOF 13-06-2016 Artículo reformado DOF 12-06-2009, 10-12-2010 ARTÍCULO 68. El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
+Fracción derogada DOF 13-06-2016
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
+Párrafo reformado DOF 13-06-2016
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 14, último párrafo, de la presente Ley.
+Párrafo adicionado DOF 13-06-2016
+El Magistrado Instructor podrá, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
+Párrafo adicionado DOF 13-06-2016
+Artículo reformado DOF 12-06-2009, 10-12-2010
+ARTÍCULO 68. El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
 Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes, sin que exceda del 30 por ciento de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
 El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Jurisdiccional y hará la certificación que corresponda, a través de los servidores públicos competentes.
-Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016 ARTÍCULO 69. (Se deroga) Artículo reformado DOF 10-12-2010. Derogado DOF 13-06-2016 ARTÍCULO 70. Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren hechas.
-Artículo reformado DOF 10-12-2010 ARTÍCULO 71.- La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
+Artículo reformado DOF 12-06-2009, 10-12-2010, 13-06-2016
+ARTÍCULO 69. (Se deroga)
+Artículo reformado DOF 10-12-2010. Derogado DOF 13-06-2016
+ARTÍCULO 70. Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren hechas.
+Artículo reformado DOF 10-12-2010
+ARTÍCULO 71.- La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
 ARTÍCULO 72.- Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
 
 ## CAPÍTULO II — De los Exhortos
+
 ARTÍCULO 73.- Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, que deban practicarse en región distinta de la correspondiente a la sede de la Sala Regional en que se instruya el juicio, deberán encomendarse, en primer lugar, a la ubicada en aquélla y en su defecto al juez o magistrado del Poder Judicial Federal.
 Los exhortos se despacharán al día siguiente hábil a aquél en que la actuaría reciba el acuerdo que los ordene. Los que se reciban se proveerán dentro de los tres días siguientes a su recepción y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo, caso en el cual, la Sala requerida fijará el plazo que crea conveniente.
 Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá remitirlo con las constancias que acrediten el debido cumplimiento de la diligencia practicada en auxilio de la Sala requirente.
@@ -988,6 +1124,7 @@ Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, qu
 Para diligenciar el exhorto el magistrado del Tribunal podrá solicitar el auxilio de alguna Sala del propio Tribunal, de algún juez o magistrado del Poder Judicial de la Federación o de la localidad, o de algún tribunal administrativo federal o de algún otro tribunal del fuero común.
 
 ## CAPÍTULO III — Del Cómputo de los Términos
+
 ARTÍCULO 74.- El cómputo de los plazos se sujetará a las reglas siguientes:
 
 I. Empezarán a correr a partir del día siguiente a aquél en que surta efectos la notificación.
@@ -1000,14 +1137,19 @@ IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de c
 
 ## TÍTULO V — De la Jurisprudencia
 
+
 ## CAPÍTULO ÚNICO
+
 ARTÍCULO 75. Las tesis sustentadas en las sentencias pronunciadas por el Pleno de la Sala Superior, aprobadas por lo menos por siete Magistrados, constituirán precedente, una vez publicadas en la Revista del Tribunal.
-Párrafo reformado DOF 13-06-2016 También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal.
+Párrafo reformado DOF 13-06-2016
+También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal.
 Las Salas y los Magistrados Instructores de un Juicio en la vía Sumaria podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan de los mismos, debiendo enviar al Presidente del Tribunal copia de la sentencia.
-Párrafo reformado DOF 10-12-2010 ARTÍCULO 76.- Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
+Párrafo reformado DOF 10-12-2010
+ARTÍCULO 76.- Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 También se fijará jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben cinco precedentes no interrumpidos por otro en contrario.
 ARTÍCULO 77. En el caso de contradicción de sentencias, interlocutorias o definitivas, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciar tal situación ante el Presidente del Tribunal, para que éste la haga del conocimiento del Pleno el cual, con un quorum mínimo de siete Magistrados, decidirá por mayoría la que debe prevalecer, constituyendo jurisprudencia.
-Párrafo reformado DOF 10-12-2010, 13-06-2016 La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
+Párrafo reformado DOF 10-12-2010, 13-06-2016
+La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
 ARTÍCULO 78.- El Pleno podrá suspender una jurisprudencia, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario a la tesis de la jurisprudencia.
 Dicha suspensión deberá publicarse en la revista del Tribunal.
 Las Secciones de la Sala Superior podrán apartarse de su jurisprudencia, siempre que la sentencia se apruebe por lo menos por cuatro Magistrados integrantes de la Sección, expresando en ella las razones por las que se apartan y enviando al Presidente del Tribunal copia de la misma, para que la haga del conocimiento del Pleno y éste determine si procede que se suspenda su aplicación, debiendo en este caso publicarse en la revista del Tribunal.
@@ -1031,8 +1173,8 @@ Se REFORMA el artículo 63 de la Ley Federal de Procedimiento Contencioso Admini
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
-**Segundo.** Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+**Primero.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+**Segundo.-** Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
 México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip.
 Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo.
@@ -1043,8 +1185,8 @@ Se ADICIONA el párrafo sexto al artículo 50 de la Ley Federal de Procedimiento
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. vigente hasta en tanto entre en vigor el sistema procesal acusatorio a que se refiere el Decreto por el que se reforman los artículos 16, 17, 18, 19, 20, 21 y 22, las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
-**TERCERO.** Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las autoridades competentes deberán expedir las disposiciones administrativas necesarias para regular recepción, transmisión y conservación de la información derivada de las detenciones a que se refieren los Procedimientos Penales.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. vigente hasta en tanto entre en vigor el sistema procesal acusatorio a que se refiere el Decreto por el que se reforman los artículos 16, 17, 18, 19, 20, 21 y 22, las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+**TERCERO.-** Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las autoridades competentes deberán expedir las disposiciones administrativas necesarias para regular recepción, transmisión y conservación de la información derivada de las detenciones a que se refieren los Procedimientos Penales.
 México, D.F., a 9 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip.
 Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip.
 Rosa Elia Romero Guzman, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
@@ -1054,23 +1196,23 @@ Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 
 ### Artículo Primero
 Se reforman los artículos 4o., primer párrafo, 13, primero y actual segundo párrafos; 14, fracción I, segundo, tercero y quinto párrafos; 24, fracción I y el inciso a); 65, primer párrafo; 66; 67, último párrafo y 68, primer párrafo y se adicionan los artículos 1-A; 13, con los párrafos segundo y
-**tercero.** , recorriéndose los demás párrafos en su orden; 14, con un tercer párrafo, recorriéndose los demás párrafos en su orden; 31, con un párrafo segundo y el Capítulo X denominado "Del Juicio en Línea" al Título II, que comprende de los artículos 58-A al 58-S a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ……….
+**tercero.-** , recorriéndose los demás párrafos en su orden; 14, con un tercer párrafo, recorriéndose los demás párrafos en su orden; 31, con un párrafo segundo y el Capítulo X denominado "Del Juicio en Línea" al Título II, que comprende de los artículos 58-A al 58-S a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Tribunal Federal de Justicia Fiscal y Administrativa, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea a través del cual se substanciará el Juicio en Línea.
-**TERCERO.** El Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a los 18 meses contados a partir de la entrada en vigor del presente decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Tribunal Federal de Justicia Fiscal y Administrativa, a la fecha de entrada en vigor del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea a través del cual se substanciará el Juicio en Línea.
+**TERCERO.-** El Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a los 18 meses contados a partir de la entrada en vigor del presente decreto.
 El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
-**CUARTO.** Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa, a través del Sistema de Justicia en Línea, deberán tramitar su Firma Regionales, según corresponda, y registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio, en aquellos casos en los que tengan el carácter de autoridades demandadas, a partir de los seis meses de la entrada en vigor del presente Decreto, sin exceder para ello del plazo de 18 meses a que se refiere el artículo anterior.
-**QUINTO.** En el mismo plazo señalado en el artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa en los juicios contenciosos administrativos deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea del Tribunal.
-**SEXTO.** En caso de que el Tribunal Federal de Justicia Fiscal y Administrativa reciba una demanda por medio del Sistema de Justicia en Línea del Tribunal, y constate que la autoridad demandada, incumplió con lo señalado en el artículo CUARTO transitorio del presente Decreto, se le prevendrá para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o, en su caso acredite que ya la cumplió.
+**CUARTO.-** Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa, a través del Sistema de Justicia en Línea, deberán tramitar su Firma Regionales, según corresponda, y registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, para el efecto de emplazarlas electrónicamente a juicio, en aquellos casos en los que tengan el carácter de autoridades demandadas, a partir de los seis meses de la entrada en vigor del presente Decreto, sin exceder para ello del plazo de 18 meses a que se refiere el artículo anterior.
+**QUINTO.-** En el mismo plazo señalado en el artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal Federal de Justicia Fiscal y Administrativa en los juicios contenciosos administrativos deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea del Tribunal.
+**SEXTO.-** En caso de que el Tribunal Federal de Justicia Fiscal y Administrativa reciba una demanda por medio del Sistema de Justicia en Línea del Tribunal, y constate que la autoridad demandada, incumplió con lo señalado en el artículo CUARTO transitorio del presente Decreto, se le prevendrá para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o, en su caso acredite que ya la cumplió.
 En caso de no cumplir con la obligación a que se refiere el Artículo CUARTO transitorio el Tribunal le impondrá una multa de 100 a 200 veces el salario mínimo general vigente en el Distrito Federal y todas las notificaciones que deban hacérsele, incluyendo el emplazamiento, se harán a través del Boletín Procesal, hasta que se cumpla con dicha formalidad.
 Así mismo, se requerirá al superior jerárquico de aquélla para que en el plazo de 3 días hábiles, la obligue a cumplir sin demora. En caso de continuar la renuencia de la autoridad, los hechos se pondrán en conocimiento del Órgano Interno de Control que corresponda.
-**SÉPTIMO.** Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
-**OCTAVO.** El Tribunal llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea del Tribunal.
-**NOVENO.** Para la promoción, substanciación y resolución del juicio contencioso administrativo federal a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo X de la ley respecto de otras que se contrapongan a lo establecido en dicho Capítulo.
-**DÉCIMO.** Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos fiscales autorizados en el presupuesto del Ramo 32: Tribunal Federal de Justicia Fiscal y Administrativa para el presente ejercicio y los subsecuentes.
+**SÉPTIMO.-** Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+**OCTAVO.-** El Tribunal llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea del Tribunal.
+**NOVENO.-** Para la promoción, substanciación y resolución del juicio contencioso administrativo federal a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo X de la ley respecto de otras que se contrapongan a lo establecido en dicho Capítulo.
+**DÉCIMO.-** Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos fiscales autorizados en el presupuesto del Ramo 32: Tribunal Federal de Justicia Fiscal y Administrativa para el presente ejercicio y los subsecuentes.
 México, D.F., a 28 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidad Patrimonial del Estado y de la Ley Federal de Procedimiento Contencioso Administrativo.
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
@@ -1091,7 +1233,7 @@ Se reforma el artículo 5o., último párrafo de la Ley Federal de Procedimiento
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de noviembre de 2009.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen.
 Carlos Navarrete Ruiz, Presidente.- Dip. Ma. Teresa R. Ochoa Mejia, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
@@ -1100,17 +1242,17 @@ Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2010
 
 ### ARTÍCULO PRIMERO
 Se REFORMAN los artículos 1-A, fracciones III, XII, XIII y actual XV; 13, fracción I, inciso a); 14, sexto párrafo; 24; 25; 27; 28; 29, fracción I; 30; 48, primer párrafo, así como la fracción I, inciso a), segundo párrafo, fracción II, incisos a, b) y d); 52, fracción V, inciso c); 58, fracción III; 62; 65, primer párrafo; 66; 67; 68; 69; 70; 75, tercer párrafo, y 77, primer párrafo; y se ADICIONAN una fracción XIV al artículo 1-A, recorriéndose las demás en su orden; un párrafo segundo a la fracción I y un
-**séptimo.** párrafo al artículo 14; el artículo 24 Bis; el párrafo cuarto al artículo 51, recorriéndose el actual
-**cuarto.** párrafo en su orden, y el Capítulo XI denominado “Del Juicio en la Vía Sumaria” al Título II, que comprende de los artículos 58-1 a 58-15, a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ……….
+**séptimo.-** párrafo al artículo 14; el artículo 24 Bis; el párrafo cuarto al artículo 51, recorriéndose el actual
+**cuarto.-** párrafo en su orden, y el Capítulo XI denominado “Del Juicio en la Vía Sumaria” al Título II, que comprende de los artículos 58-1 a 58-15, a la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Los artículos 24, 24 Bis, 25, 27 y 28 de la Ley Federal de Procedimiento Contencioso Administrativo que se reforman o adicionan en términos del presente Decreto, entrarán en vigor a partir de los noventa días siguientes, al de la publicación del presente instrumento jurídico.
-**TERCERO.** Las disposiciones relativas al Juicio en la Vía Sumaria, previstas en el Capítulo XI del Título II que se adiciona a la Ley Federal de Procedimiento Contencioso Administrativo, y los artículos 1o, fracción III, 65, 66, 67, 68, 69 y 70 de la Ley Federal de Procedimiento Contencioso Administrativo, y 41, fracción XXX de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto, entrarán en vigor a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los artículos 24, 24 Bis, 25, 27 y 28 de la Ley Federal de Procedimiento Contencioso Administrativo que se reforman o adicionan en términos del presente Decreto, entrarán en vigor a partir de los noventa días siguientes, al de la publicación del presente instrumento jurídico.
+**TERCERO.-** Las disposiciones relativas al Juicio en la Vía Sumaria, previstas en el Capítulo XI del Título II que se adiciona a la Ley Federal de Procedimiento Contencioso Administrativo, y los artículos 1o, fracción III, 65, 66, 67, 68, 69 y 70 de la Ley Federal de Procedimiento Contencioso Administrativo, y 41, fracción XXX de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto, entrarán en vigor a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
 Asimismo, el Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
 Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor el Capítulo XI del Título II a que se refiere el párrafo anterior, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
-**CUARTO.** Los avisos que se estén tramitando conforme a los artículos 67, último párrafo y 68, primer párrafo de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma con este decreto, continuarán realizándose hasta la conclusión del juicio que corresponda, salvo que las partes manifiesten su interés de acogerse a lo dispuesto por este instrumento jurídico.
+**CUARTO.-** Los avisos que se estén tramitando conforme a los artículos 67, último párrafo y 68, primer párrafo de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma con este decreto, continuarán realizándose hasta la conclusión del juicio que corresponda, salvo que las partes manifiesten su interés de acogerse a lo dispuesto por este instrumento jurídico.
 Cualquier referencia hecha en alguna disposición jurídica al Boletín procesal o a la lista en estrados del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizada al Boletín Electrónico a partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma conforme al presente Decreto.
 El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
 México, D.F., a 18 de noviembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
@@ -1144,16 +1286,16 @@ Publicado en el Diario Oficial de la Federación el 13 de junio de 2016
 
 ### Artículo Único
 Se reforman la fracción III del artículo 1-A; la fracción III del artículo 7o.; las fracciones I y II del artículo 13; los párrafos primero y segundo de la fracción I y último párrafo del artículo 14; el párrafo primero del artículo 17; el párrafo primero del artículo 18; el párrafo primero del artículo 19; los párrafos primero, segundo y tercero del artículo 24; el párrafo primero del artículo 25; el artículo 26; el primer párrafo y se elimina el segundo párrafo del artículo 27; las fracciones III y IV y se elimina el tercer párrafo del inciso b) de la fracción II del artículo 28; el artículo 47; el párrafo segundo, inciso a), fracción I del artículo 48; el primer párrafo del artículo 49; los párrafos segundo y sexto del artículo 52; el último párrafo del artículo 53; la fracción II y se eliminan los párrafos penúltimo y último del artículo 57; el último párrafo del artículo 58; el artículo 58-J; el artículo 58-2; el artículo 58-13; el artículo 59; el artículo 65; el artículo 66; el párrafo primero, la fracción II y el párrafo segundo del artículo 67; el artículo 68; el primer párrafo del artículo 75; el primer párrafo del artículo 77. Se adicionan la fracción III Bis del artículo 1-A; el
-**segundo.** párrafo del artículo 4o, recorriéndose el subsecuente; un párrafo tercero al artículo 5o, recorriéndose los subsecuentes; el artículo 7o Bis; la fracción XVI al artículo 8o, recorriéndose la subsecuente; un cuarto párrafo al artículo 19; el artículo 28 Bis; un párrafo segundo a la fracción I y los párrafos segundo, tercero y cuarto del artículo 43; un párrafo segundo al artículo 58-12; la fracción X al artículo 63; un tercer y cuarto párrafo al artículo 67. Se derogan: la fracción X del artículo 1-A; el párrafo
-**segundo.** del artículo 27; la fracción III del artículo 52; las fracciones III y IV del artículo 67; y el artículo 69, de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ………
+**segundo.-** párrafo del artículo 4o, recorriéndose el subsecuente; un párrafo tercero al artículo 5o, recorriéndose los subsecuentes; el artículo 7o Bis; la fracción XVI al artículo 8o, recorriéndose la subsecuente; un cuarto párrafo al artículo 19; el artículo 28 Bis; un párrafo segundo a la fracción I y los párrafos segundo, tercero y cuarto del artículo 43; un párrafo segundo al artículo 58-12; la fracción X al artículo 63; un tercer y cuarto párrafo al artículo 67. Se derogan: la fracción X del artículo 1-A; el párrafo
+**segundo.-** del artículo 27; la fracción III del artículo 52; las fracciones III y IV del artículo 67; y el artículo 69, de la Ley Federal de Procedimiento Contencioso Administrativo, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente decreto entrará en vigor a partir del día siguiente a la fecha de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación de la demanda.
-**Tercero.** Para los efectos de lo dispuesto en el artículo 19, penúltimo párrafo, de esta Ley, las dependencias, organismos o autoridades contarán con un plazo de tres meses para registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, contados a partir de la entrada en vigor del presente Decreto.
-**Cuarto.** A partir de la entrada en vigor del presente Decreto, todas las referencias hechas al Boletín Electrónico, se entenderán realizadas al Boletín Jurisdiccional.
-**Quinto.** Respecto de los montos señalados en la presente Ley, para determinar la cuantía de los juicios que se tramitan en la vía sumaria, así como para fijar las multas que se impondrán en caso de no cumplimentar lo estipulado en el articulado de la presente Ley, dejará de considerarse al salario mínimo como unidad de medida una vez que entre en vigor la Ley Reglamentaria al “Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo”, publicado en el Diario Oficial de la Federación, el 7 de enero de 2016.
+**Primero.-** El presente decreto entrará en vigor a partir del día siguiente a la fecha de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación de la demanda.
+**Tercero.-** Para los efectos de lo dispuesto en el artículo 19, penúltimo párrafo, de esta Ley, las dependencias, organismos o autoridades contarán con un plazo de tres meses para registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, contados a partir de la entrada en vigor del presente Decreto.
+**Cuarto.-** A partir de la entrada en vigor del presente Decreto, todas las referencias hechas al Boletín Electrónico, se entenderán realizadas al Boletín Jurisdiccional.
+**Quinto.-** Respecto de los montos señalados en la presente Ley, para determinar la cuantía de los juicios que se tramitan en la vía sumaria, así como para fijar las multas que se impondrán en caso de no cumplimentar lo estipulado en el articulado de la presente Ley, dejará de considerarse al salario mínimo como unidad de medida una vez que entre en vigor la Ley Reglamentaria al “Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo”, publicado en el Diario Oficial de la Federación, el 7 de enero de 2016.
 Ciudad de México, a 28 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diez de junio de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo y al Código Fiscal de la Federación.
 Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
@@ -1193,12 +1335,12 @@ Quinto.- Se reforman los artículos 1o., primer párrafo; 14, penúltimo párraf
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

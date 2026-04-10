@@ -15,7 +15,9 @@ Se expide la Ley Orgánica del Poder Judicial de la Federación
 
 ## TÍTULO PRIMERO — Del Poder Judicial de la Federación
 
+
 ## CAPÍTULO ÚNICO — De los Órganos del Poder Judicial de la Federación
+
 
 ### Artículo 1
 .
@@ -39,7 +41,9 @@ VIII. El Órgano de Administración Judicial.
 
 ## TÍTULO SEGUNDO — De la Suprema Corte de Justicia de la Nación
 
+
 ## CAPÍTULO I — De su Integración y Funcionamiento
+
 
 ### Artículo 2
 .
@@ -51,7 +55,9 @@ La Suprema Corte de Justicia de la Nación tendrá cada año dos periodos de ses
 
 ## CAPÍTULO II — Del Pleno
 
+
 ## SECCIÓN 1 — a.
+
 De su Integración y Funcionamiento
 
 ### Artículo 4
@@ -118,6 +124,7 @@ La o el Presidente de la Suprema Corte de Justicia de la Nación designará a la
 Las personas secretarias de estudio y cuenta serán designadas por las y los Ministros correspondientes, de conformidad con lo que establece la ley.
 
 ## SECCIÓN 2 — a.
+
 De sus Atribuciones
 
 ### Artículo 16
@@ -204,6 +211,7 @@ XVIII. Las demás que determinen las leyes.
 
 ## CAPÍTULO III — Del Presidente o Presidenta de la Suprema Corte de Justicia de la Nación
 
+
 ### Artículo 18
 .
 La Presidencia de la Suprema Corte de Justicia de la Nación se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Presidencia a quien alcance mayor votación.
@@ -247,9 +255,11 @@ XIV. Realizar todos los actos tendientes a dar trámite al procedimiento de decl
 XV. Atender las solicitudes de resolución prioritaria a que se refiere el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, para lo cual deberá someterla a consideración del Pleno para que resuelva de forma definitiva por mayoría simple, y
 
 ## TÍTULO TERCERO
+
 De los Tribunales Colegiados de Apelación, Tribunales Colegiados de Circuito y de los Plenos Regionales
 
 ## CAPÍTULO I — Disposiciones Comunes
+
 
 ### Artículo 21
 .
@@ -315,6 +325,7 @@ Cuando se establezcan en un mismo circuito varios órganos jurisdiccionales del 
 
 ## CAPÍTULO II — De los Tribunales Colegiados de Apelación
 
+
 ### Artículo 32
 .
 Los Tribunales Colegiados de Apelación conocerán:
@@ -341,6 +352,7 @@ Los Tribunales Colegiados de Apelación que tengan asignada una competencia espe
 Cuando en un circuito se establezcan dos o más Tribunales Colegiados de Apelación con idéntica competencia y residencia en un mismo lugar, tendrán una oficina de correspondencia común, que recibirá las promociones, las registrará por orden numérico riguroso y las turnará inmediatamente al tribunal que corresponda de acuerdo con las disposiciones que dicte el Órgano de Administración Judicial.
 
 ## CAPÍTULO III — De los Tribunales Colegiados de Circuito
+
 
 ### Artículo 35
 .
@@ -385,7 +397,9 @@ Cuando se establezcan en un circuito en materia de amparo varios tribunales cole
 
 ## CAPÍTULO IV — De los Plenos Regionales
 
+
 ## SECCIÓN 1 — a.
+
 De su Integración y Funcionamiento
 
 ### Artículo 38
@@ -394,6 +408,7 @@ Los Plenos Regionales son los órganos facultados para desarrollar las funciones
 Para suplir a la Magistrada o Magistrado de Circuito designado para integrar el Pleno Regional, ocupará su lugar la persona del mismo género que haya obtenido un segundo lugar en el número de votos en la elección para ese cargo.
 
 ## SECCIÓN 2 — a.
+
 De sus Atribuciones
 
 ### Artículo 39
@@ -416,7 +431,9 @@ Cuando los conflictos competenciales a que refiere la fracción IV del precepto 
 
 ## TÍTULO CUARTO — De los Juzgados de Distrito
 
+
 ## CAPÍTULO I — De su Integración y Funcionamiento
+
 
 ### Artículo 41
 .
@@ -441,6 +458,7 @@ Los impedimentos de las y los Jueces de Distrito serán conocidos y resueltos en
 En los lugares en que no resida la o el Juez de Distrito o esta servidora o servidor público no hubiere sido suplido en los términos que establecen los artículos anteriores, las y los Jueces del orden común practicarán las diligencias que les encomienden las leyes en auxilio de la justicia federal.
 
 ## CAPÍTULO II — De sus Atribuciones
+
 
 ### Artículo 46
 .
@@ -604,7 +622,9 @@ Asimismo, las y los Jueces de Distrito en materia de amparo conocerán del incid
 
 ## TÍTULO QUINTO — De los Centros de Justicia Penal
 
+
 ## CAPÍTULO ÚNICO — De los Centros de Justicia Penal
+
 
 ### Artículo 60
 .
@@ -663,9 +683,12 @@ Las cuestiones no previstas en este Capítulo serán determinadas por el Órgano
 
 ## TÍTULO SEXTO — Del Órgano de Administración Judicial
 
+
 ## CAPÍTULO I — Del Órgano de Administración Judicial
 
+
 ## SECCIÓN 1 — a.
+
 De su Integración y Funcionamiento
 
 ### Artículo 70
@@ -713,6 +736,7 @@ El Pleno del Órgano de Administración Judicial calificará los impedimentos de
 La o el integrante que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
 ## SECCIÓN 2 — a.
+
 De sus Atribuciones
 
 ### Artículo 80
@@ -880,6 +904,7 @@ La notificación y, en su caso, la ejecución de las mismas deberá realizarse p
 Cuando el Pleno del Órgano de Administración Judicial estime que sus reglamentos, acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Diario Oficial de la Federación.
 
 ## SECCIÓN 3 — a.
+
 De las Comisiones
 
 ### Artículo 92
@@ -913,6 +938,7 @@ Las Comisiones contarán con las secretarías ejecutivas de Comisiones necesaria
 Las y los secretarios ejecutivos deberán tener título profesional legalmente expedido en derecho, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
 ## SECCIÓN 4 — a.
+
 De su Presidente o Presidenta
 
 ### Artículo 99
@@ -941,6 +967,7 @@ IX. Integrar un informe que hará del conocimiento de la opinión pública, al f
 X. Las demás que determinen las leyes y los correspondientes reglamentos interiores y acuerdos generales.
 
 ## SECCIÓN 5 — a.
+
 Del Secretariado Ejecutivo
 
 ### Artículo 100
@@ -957,9 +984,11 @@ El Secretariado Ejecutivo del Pleno, a través de la Junta de Coordinación, aux
 Corresponderá al Secretariado Ejecutivo del Pleno del Órgano de Administración Judicial presentar quejas o denuncias ante el Tribunal de Disciplina Judicial, así como proporcionarle, de oficio o cuando el Tribunal de Disciplina Judicial formalmente lo requiera, la información y documentación que pueda constituir indicio o medios de prueba en la investigación y determinación de responsabilidades administrativas de las personas trabajadoras del Poder Judicial Federal.
 
 ## CAPÍTULO II
+
 Órganos Auxiliares
 
 ## SECCIÓN 1 — a.
+
 Disposiciones Generales
 
 ### Artículo 103
@@ -975,6 +1004,7 @@ Con excepción del director o directora general del Instituto Federal de Defenso
 La estructura orgánica y el personal adscrito a los órganos auxiliares deberá determinarse con acuerdo a lo que disponga esta Ley, otras leyes aplicables y los acuerdos generales que al respecto emita el Órgano de Administración Judicial, conforme a lo que admita el presupuesto.
 
 ## SECCIÓN 2 — a.
+
 De la Contraloría de Administración Judicial
 
 ### Artículo 106
@@ -1049,6 +1079,7 @@ Cuando del resultado de las auditorías ordinarias o extraordinarias de inspecci
 El procedimiento de responsabilidad administrativa se regirá en todo lo que resulte aplicable por el Título Octavo de la presente Ley, y por los acuerdos generales que dicte para tal efecto el Pleno del Órgano de Administración Judicial.
 
 ## SECCIÓN 3 — a.
+
 De la Escuela Nacional de Formación Judicial
 
 ### Artículo 115
@@ -1068,6 +1099,7 @@ El funcionamiento de la Escuela Nacional de Formación Judicial se regirá por l
 La Escuela Nacional de Formación Judicial generará programas de capacitación y actualización permanente dirigidos a todos y cada uno de los niveles de escalafón del personal judicial. Dichos programas tendrán el carácter de obligatorios.
 
 ## SECCIÓN 4 — a.
+
 Del Instituto Federal de Defensoría Pública
 
 ### Artículo 119
@@ -1075,6 +1107,7 @@ Del Instituto Federal de Defensoría Pública
 El Instituto Federal de Defensoría Pública es el órgano auxiliar del Órgano de Administración Judicial encargado de brindar el servicio de defensoría pública en los términos que establezcan las disposiciones aplicables.
 
 ## SECCIÓN 5 — a.
+
 De la Unidad de Peritos Judiciales
 
 ### Artículo 120
@@ -1094,6 +1127,7 @@ Para ser persona perita se requiere poseer la ciudadanía mexicana, gozar de bue
 Los peritajes que deban versar sobre materias relativas a profesiones deberán encomendarse a personas autorizadas con título, que deberán satisfacer los requisitos señalados en el artículo anterior.
 
 ## SECCIÓN 6 — a.
+
 De la Unidad de Administración de la Suprema Corte de Justicia de la Nación
 
 ### Artículo 124
@@ -1141,6 +1175,7 @@ XVII. Suscribir, en términos de la normativa aplicable, los contratos y conveni
 XVIII. Aportar a la Suprema Corte de Justicia de la Nación todos los elementos necesarios para elaborar el anteproyecto de presupuesto anual de egresos de la Suprema Corte de Justicia de la Nación a efecto de que sea incluido en el proyecto de Presupuesto del Poder Judicial de la Federación.
 
 ## SECCIÓN 7 — a.
+
 De la Unidad de Administración del Tribunal Electoral del Poder Judicial de la Federación
 
 ### Artículo 126
@@ -1188,6 +1223,7 @@ XVII. Suscribir, en términos de la normativa aplicable, los contratos y conveni
 XVIII. Aportar al Tribunal Electoral todos los elementos necesarios para elaborar el anteproyecto de presupuesto anual de egresos del Tribunal Electoral a efecto de que sea incluido en el proyecto de Presupuesto del Poder Judicial de la Federación.
 
 ## SECCIÓN 8 — a.
+
 De la Unidad de Administración del Tribunal de Disciplina Judicial
 
 ### Artículo 128
@@ -1235,6 +1271,7 @@ XVII. Suscribir, en términos de la normativa aplicable, los contratos y conveni
 XVIII. Aportar al Tribunal de Disciplina Judicial todos los elementos necesarios para elaborar el anteproyecto de presupuesto anual de egresos del Tribunal de Disciplina Judicial a efecto de que sea incluido en el proyecto de Presupuesto del Poder Judicial de la Federación.
 
 ## SECCIÓN 9 — a.
+
 Del Instituto Federal de Especialistas de Concursos Mercantiles
 
 ### Artículo 130
@@ -1247,6 +1284,7 @@ La integración de la Junta Directiva será determinada por el Órgano de Admini
 La o el Director General del Instituto durará en su encargo seis años y será designada de manera directa por el Pleno del Órgano de Administración Judicial.
 
 ## SECCIÓN 10 — a.
+
 Del Centro Público de Mecanismos Alternativos de Solución de Controversias del Poder Judicial de la Federación
 
 ### Artículo 132
@@ -1259,9 +1297,12 @@ La persona titular del Centro Público de Mecanismos Alternativos de Solución d
 
 ## TÍTULO SÉPTIMO — Del Tribunal de Disciplina Judicial
 
+
 ## CAPÍTULO I — Disposiciones generales
 
+
 ## SECCIÓN 1 — a.
+
 De su conformación y funcionamiento
 
 ### Artículo 134
@@ -1308,6 +1349,7 @@ El Órgano de Investigación tendrá a su cargo la investigación de los hechos 
 El Órgano de Evaluación de Desempeño Judicial será el competente de la evaluación y seguimiento del desempeño de los órganos jurisdiccionales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, en los términos previstos en esta Ley y en los acuerdos generales que emita el propio Tribunal. En todo caso, la evaluación deberá tener en cuenta elementos cualitativos y cuantitativos relacionados con el desempeño de los órganos jurisdiccionales. La función judicial comprende tanto la actividad propiamente jurisdiccional como la administrativa relacionada directamente con la impartición de justicia.
 
 ## SECCIÓN 2 — a.
+
 De sus resoluciones
 
 ### Artículo 142
@@ -1352,7 +1394,9 @@ El sistema electrónico de precedentes de difusión será gratuito, público, ac
 
 ## CAPÍTULO II — Del Pleno
 
+
 ## SECCIÓN 1 — a.
+
 De su competencia y funcionamiento
 
 ### Artículo 152
@@ -1431,7 +1475,9 @@ Los y las Magistradas deberán conformar la estructura de sus equipos de trabajo
 
 ## CAPÍTULO III — De las Comisiones
 
+
 ## SECCIÓN 1 — a.
+
 De su competencia y funcionamiento
 
 ### Artículo 158
@@ -1449,7 +1495,9 @@ Los asuntos de su competencia serán turnados de acuerdo con el sistema respecti
 
 ## CAPÍTULO IV — Del Órgano de Evaluación de Desempeño Judicial
 
+
 ## SECCIÓN 1 — a.
+
 De su competencia y atribuciones
 
 ### Artículo 161
@@ -1527,6 +1575,7 @@ Cuando la evaluación de desempeño resulte insatisfactoria, o bien se impongan 
 
 ## CAPÍTULO V — Del Órgano de Investigación de Responsabilidades Administrativas
 
+
 ### Artículo 177
 .
 El Órgano de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal jurisdiccional del Poder Judicial de la Federación, así como la responsabilidad de aquellos a quienes se imputen las mismas.
@@ -1562,6 +1611,7 @@ X. Solicitar a la autoridad substanciadora o resolutora, en los procedimientos d
 Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los Servidores Públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
 ## CAPÍTULO VI
+
 Del procedimiento en caso de demora en la emisión de sentencias en materia tributaria y penal
 
 ### Artículo 180
@@ -1574,7 +1624,9 @@ En el ejercicio de la atribución conferida en el precepto anterior, el Pleno de
 
 ## TÍTULO OCTAVO — De las responsabilidades administrativas
 
+
 ## CAPÍTULO I — De la competencia en materia de responsabilidades administrativas
+
 
 ### Artículo 182
 .
@@ -1582,6 +1634,7 @@ El Tribunal de Disciplina Judicial tendrá a su cargo la investigación, substan
 Por su parte, el Órgano de Administración Judicial tendrá a su cargo la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa del personal administrativo del Poder Judicial de la Federación, así como la resolución del recurso de revisión en los casos que involucren presuntas faltas no graves, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Responsabilidades Administrativas, en este título y en las demás disposiciones que resulten aplicables.
 
 ## CAPÍTULO II — De las Faltas Administrativas
+
 
 ### Artículo 183
 .
@@ -1689,11 +1742,13 @@ En todo caso, el Pleno del Tribunal de Disciplina Judicial resolverá los confli
 
 ## CAPÍTULO III — De la declaración patrimonial
 
+
 ### Artículo 190
 .
 Las y los servidores públicos del Poder Judicial de la Federación estarán obligados a presentar su declaración de situación patrimonial y de intereses en los casos y conforme a lo previsto en la Ley General de Responsabilidades Administrativas y los acuerdos generales respectivos.
 
 ## CAPÍTULO IV — Del Procedimiento de Responsabilidad Administrativa
+
 
 ### Artículo 191
 .
@@ -1792,6 +1847,7 @@ b) La admisión y el desechamiento de quejas por parte de la presidencia del Tri
 
 ## CAPÍTULO V — De las Sanciones
 
+
 ### Artículo 199
 .
 Las sanciones por las faltas administrativas contempladas en el presente Título y en la Ley General de Responsabilidades Administrativas serán las siguientes:
@@ -1889,7 +1945,9 @@ Si el Tribunal de Disciplina Judicial estima que la queja fue interpuesta sin mo
 
 ## TÍTULO NOVENO — De la Facultad de Atracción en las Controversias Ordinarias
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 207
 .
@@ -1917,7 +1975,9 @@ Cuando el recurso de reclamación se interponga sin motivo, el Pleno de la Supre
 
 ## TÍTULO DÉCIMO — De las Disposiciones Generales
 
+
 ## CAPÍTULO I — De la División Territorial
+
 
 ### Artículo 210
 .
@@ -1929,6 +1989,7 @@ En cada uno de los circuitos el Órgano de Administración Judicial establecerá
 Cada uno de los circuitos a que se refiere el artículo anterior comprenderá los distritos judiciales cuyo número y límites territoriales determine el Órgano de Administración Judicial mediante acuerdos generales.
 
 ## CAPÍTULO II — De los Impedimentos
+
 
 ### Artículo 212
 .
@@ -1984,6 +2045,7 @@ Además de las y los servidores públicos previstos en el artículo 101 de la Co
 
 ## CAPÍTULO III — De la Protesta Constitucional
 
+
 ### Artículo 216
 .
 Las y los integrantes del Pleno del Órgano de Administración Judicial que fueren designados por el Poder Legislativo o por la persona titular del Poder Ejecutivo, otorgarán ante ellos la protesta constitucional, y las y los integrantes que fueren designados por el Pleno de la Suprema Corte de Justicia de la Nación la harán ante la o el presidente de dicha institución.
@@ -2010,6 +2072,7 @@ La protesta a que se refiere este capítulo se prestará en los términos siguie
 
 ## CAPÍTULO IV — De las Actuaciones Judiciales
 
+
 ### Artículo 222
 .
 Ninguna servidora ni servidor público o persona empleada podrá abandonar la residencia del Tribunal de Circuito o Juzgado de Distrito al que esté adscrito, ni dejar de desempeñar las funciones o las labores que tenga a su cargo, sin que previamente se le hubiere otorgado la autorización respectiva con arreglo a la ley.
@@ -2027,6 +2090,7 @@ Fuera de la residencia de los Juzgados de Distrito, las diligencias podrán prac
 En los asuntos del orden penal, las y los Jueces de Distrito podrán autorizar a las y los Jueces del orden común en términos del artículo 48 de esta Ley y cuando dichos Jueces y Juezas ordenen la práctica de diligencias para que resuelvan sobre la vinculación a proceso o no vinculación a proceso por falta de méritos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Nacional de Procedimientos Penales.
 
 ## CAPÍTULO V — De las Vacaciones y Días Inhábiles
+
 
 ### Artículo 225
 .
@@ -2051,6 +2115,7 @@ Las y los Magistrados de Tribunal Colegiado de Circuito, de Tribunal Colegiado d
 En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley.
 
 ## CAPÍTULO VI — De las Licencias, Ausencia y Renuncias
+
 
 ### Artículo 230
 .
@@ -2110,6 +2175,7 @@ Cuando las ausencias temporales de la misma servidora o servidor público fueren
 
 ## CAPÍTULO VII — De la Jurisprudencia
 
+
 ### Artículo 243
 .
 La jurisprudencia que establezca la Suprema Corte de Justicia de la Nación, los Plenos Regionales y los Tribunales Colegiados de Circuito en los asuntos de su competencia distintos del juicio de amparo, se regirán por las disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, salvo en los casos en que la ley de la materia contuviera disposición expresa en otro sitio.
@@ -2123,6 +2189,7 @@ La Coordinación de Compilación y Sistematización de Tesis, será el órgano c
 En términos de la fracción XV, del artículo 17 de esta Ley, la Suprema Corte de Justicia de la Nación, cuidará que las publicaciones del Semanario Judicial de la Federación se realicen con oportunidad y llevará a cabo todas aquellas tareas que fueren necesarias para la adecuada difusión de las tesis y jurisprudencias que hubieren emitido los órganos competentes del Poder Judicial de la Federación.
 
 ## CAPÍTULO VIII — Del personal del Poder Judicial de la Federación
+
 
 ### Artículo 246
 .
@@ -2147,9 +2214,11 @@ Las y los secretarios técnicos de comisión deberán tener título profesional 
 En caso de fallecimiento de las Ministras y los Ministros durante el ejercicio del cargo o después de concluido, su cónyuge y sus hijos e hijas menores o que tengan alguna incapacidad para trabajar para su subsistencia tendrán derecho a una pensión equivalente al cincuenta por ciento de la remuneración mensual que corresponda a las y los Ministros. El o la cónyuge dejará de tener derecho a este beneficio, al contraer matrimonio o al entrar en concubinato, y los hijos al cumplir la mayoría de edad.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 Del Tribunal Electoral del Poder Judicial de la Federación
 
 ## CAPÍTULO I — De su integración y funcionamiento
+
 
 ### Artículo 251
 .
@@ -2204,7 +2273,9 @@ XII. Las demás que le señalen las leyes.
 
 ## CAPÍTULO II — De la Sala Superior
 
+
 ## SECCIÓN 1 — a.
+
 De su integración y funcionamiento
 
 ### Artículo 254
@@ -2221,6 +2292,7 @@ Cuando un Magistrado o Magistrada electoral disintiere de la mayoría o su proye
 La Sala Superior nombrará a un secretario o secretaria general de acuerdos y a un subsecretario o subsecretaria general de acuerdos, a los secretarios, secretarias, actuarios, actuarias, así como al personal administrativo y técnico que se requiera para su buen funcionamiento, conforme a los lineamientos que dicte el Órgano de Administración Judicial.
 
 ## SECCIÓN 2 — a.
+
 De sus atribuciones
 
 ### Artículo 256
@@ -2288,6 +2360,7 @@ La determinación que emita la Sala Superior respecto de ejercer o no la faculta
 
 ## CAPÍTULO III — Del Presidente o Presidenta del Tribunal Electoral
 
+
 ### Artículo 258
 .
 La presidencia del Tribunal Electoral se renovará de manera rotatoria cada dos años en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a las Magistradas o Magistrados de la Sala Superior que hayan alcanzado la mayor votación.
@@ -2351,7 +2424,9 @@ XXVI. Las demás que señalen las leyes, el Reglamento Interno o aquellas que se
 
 ## CAPÍTULO IV — De las Salas Regionales
 
+
 ## SECCIÓN 1 — a.
+
 De su integración y funcionamiento
 
 ### Artículo 260
@@ -2372,6 +2447,7 @@ La ausencia temporal de un Magistrado o Magistrada de Sala Regional que no exced
 Si la ausencia de un Magistrado o Magistrada es definitiva, el Presidente o Presidenta de la Sala respectiva lo notificará de inmediato a la Presidencia de la Sala Superior, la que procederá a dar aviso al Senado de la República o, en su caso, a la Comisión Permanente para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables.
 
 ## SECCIÓN 2 — a.
+
 De sus atribuciones
 
 ### Artículo 263
@@ -2413,6 +2489,7 @@ XII. Las que les delegue la Sala Superior y las demás que señalen las leyes.
 Las facultades antes establecidas se sujetarán a los acuerdos generales que emita la Sala Superior, los que en ningún caso podrán hacerlas nugatorias de manera permanente. Los acuerdos específicos que en uso de su facultad de delegación emita la Sala Superior no establecerán jurisprudencia.
 
 ## SECCIÓN 3 — a.
+
 De sus Presidentes o Presidentas
 
 ### Artículo 264
@@ -2459,7 +2536,9 @@ XVI. Las demás que sean necesarias para el correcto funcionamiento de la Sala o
 
 ## CAPÍTULO V — De las Magistradas y Magistrados Electorales
 
+
 ## SECCIÓN 1 — a.
+
 Del procedimiento para su elección
 
 ### Artículo 266
@@ -2468,6 +2547,7 @@ Las Magistradas y Magistrados de la Sala Superior y de las Salas Regionales del 
 Las Magistradas y Magistrados que integren la Sala Superior serán elegidos por la ciudadanía a nivel nacional, mientras que quienes integren las Salas Regionales serán elegidos por circunscripciones electorales.
 
 ## SECCIÓN 2 — a.
+
 De sus atribuciones
 
 ### Artículo 267
@@ -2506,9 +2586,11 @@ XV. Las demás que les señalen las leyes o el Reglamento Interno del Tribunal E
 Cada Magistrado o Magistrada de la Sala Superior y de las Salas Regionales contará permanentemente con el apoyo de los y las secretarias instructoras y de estudio y cuenta que sean necesarias para el desahogo de los asuntos de su competencia.
 
 ## CAPÍTULO VI
+
 De la Secretaria o el Secretario General de Acuerdos y Subsecretaria o Subsecretario General de Acuerdos
 
 ## SECCIÓN 1 — a.
+
 De su integración y funcionamiento en la Sala Superior
 
 ### Artículo 268
@@ -2516,6 +2598,7 @@ De su integración y funcionamiento en la Sala Superior
 Para el ejercicio de sus funciones la Sala Superior contará con un secretario o secretaria general de acuerdos y un subsecretario o subsecretaria general de acuerdos que serán nombrados o nombradas en los términos del artículo 255 de esta Ley.
 
 ## SECCIÓN 2 — a.
+
 De sus atribuciones
 
 ### Artículo 269
@@ -2552,7 +2635,9 @@ El subsecretario o la subsecretaria general de acuerdos auxiliará y apoyará al
 
 ## CAPÍTULO VII — De las Secretarias o los Secretarios Generales de Sala Regional
 
+
 ## SECCIÓN 1 — a.
+
 De su integración y funcionamiento en las Salas Regionales
 
 ### Artículo 271
@@ -2560,6 +2645,7 @@ De su integración y funcionamiento en las Salas Regionales
 Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a un secretario o una secretaria general de acuerdos.
 
 ## SECCIÓN 2 — a.
+
 De sus atribuciones
 
 ### Artículo 272
@@ -2592,7 +2678,9 @@ XII. Las demás que les señalen las leyes.
 
 ## CAPÍTULO VIII — Disposiciones especiales
 
+
 ## SECCIÓN 1 — a.
+
 De los requisitos para ocupar el cargo
 
 ### Artículo 273
@@ -2657,6 +2745,7 @@ El presidente o la presidenta del Tribunal Electoral o el Órgano de Administrac
 Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, el Órgano de Administración Judicial podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
 
 ## SECCIÓN 2 — a.
+
 De las responsabilidades, impedimentos y excusas
 
 ### Artículo 279
@@ -2673,6 +2762,7 @@ Asimismo, a los secretarios, secretarias, actuarios y actuarias de las Salas, le
 Las excusas que por impedimento legal para conocer de un asunto presenten los Magistrados y las Magistradas electorales, serán calificadas y resueltas de inmediato por la Sala de su adscripción, en la forma y términos previstos por el Reglamento Interno.
 
 ## SECCIÓN 3 — a.
+
 De las vacaciones y días inhábiles
 
 ### Artículo 282
@@ -2693,6 +2783,7 @@ Las personas servidoras públicas y empleadas del Tribunal Electoral estarán ob
 Durante los procesos electorales, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a las y los servidores públicos y personal del Tribunal Electoral de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado.
 
 ## SECCIÓN 4 — a.
+
 De las actuaciones judiciales y del archivo jurisdiccional
 
 ### Artículo 286
@@ -2708,6 +2799,7 @@ El Tribunal Electoral deberá conservar en su archivo jurisdiccional los expedie
 Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Electoral podrá remitir los expedientes al Archivo General de la Nación, y conservará copia de los que requiera, utilizando para ello cualquier método de digitalización, reproducción o reducción.
 
 ## SECCIÓN 5 — a.
+
 De la jurisprudencia
 
 ### Artículo 289
@@ -2736,6 +2828,7 @@ La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener car
 La jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación será obligatoria para el Tribunal Electoral.
 
 ## SECCIÓN 6 — a.
+
 De las denuncias de contradicción de criterios del Tribunal Electoral
 
 ### Artículo 293
@@ -2747,6 +2840,7 @@ De conformidad con lo previsto por el artículo 99 de la Constitución Política
 Las resoluciones que dicte el Pleno de la Suprema Corte de Justicia de la Nación en los casos del artículo anterior no afectarán los asuntos ya resueltos.
 
 ## SECCIÓN 7 — a.
+
 De la protesta constitucional
 
 ### Artículo 295
@@ -2761,6 +2855,7 @@ En todos los casos, la protesta se prestará en los términos señalados en el a
 Todas las personas servidoras públicas y empleadas del Tribunal Electoral se conducirán con imparcialidad y velarán por la aplicación irrestricta de los principios de constitucionalidad y legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del Tribunal Electoral.
 
 ## SECCIÓN 8 — a.
+
 Del personal del Tribunal Electoral
 
 ### Artículo 297
@@ -2768,9 +2863,11 @@ Del personal del Tribunal Electoral
 Serán consideradas de confianza las personas servidoras públicas y personas empleadas del Tribunal Electoral adscritas a las oficinas de los Magistrados y Magistradas y aquellas personas que tengan la misma categoría o una similar a las señaladas en los artículos 246 y 247 de esta Ley, respectivamente. Todas y todos los demás serán considerados de base.
 
 ## TÍTULO DÉCIMO — SEGUNDO
+
 Del Fondo de Apoyo a la Administración de Justicia
 
 ## CAPÍTULO I — De la Organización
+
 
 ### Artículo 298
 .
@@ -2778,6 +2875,7 @@ El Poder Judicial de la Federación se auxiliará para el mejor desempeño de su
 En el ámbito del Poder Judicial de la Federación, no podrán ser creados ni mantenerse en operación otros fondos o fideicomisos adicionales al mencionado anteriormente.
 
 ## CAPÍTULO II — De la Integración
+
 
 ### Artículo 299
 .
@@ -2796,6 +2894,7 @@ IV. Los ingresos que se produzcan por la administración de valores o los depós
 Los recursos con los que se integre y opere el Fondo serán diferentes de aquellos que comprenda el presupuesto anual aprobado a favor del Poder Judicial de la Federación, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
 
 ## CAPÍTULO III — De la administración y operación
+
 
 ### Artículo 301
 .
@@ -2824,6 +2923,7 @@ IV. Las demás que señale el Comité.
 Los recursos que integren el Fondo deberán ser administrados en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
 ## CAPÍTULO IV — Del destino
+
 
 ### Artículo 305
 .
@@ -2907,16 +3007,16 @@ Se reforma el artículo 49 de la Ley Orgánica del Poder Judicial de la Federaci
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Tercero.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.-** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
-**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+**Quinto.-** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
-**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
-**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Sexto.-** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+**Séptimo.-** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.-** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+**Noveno.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Décimo.-** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

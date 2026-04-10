@@ -16,7 +16,9 @@ LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBA
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Primero
+
 Objeto de la Ley
 
 ### Artículo 1
@@ -133,6 +135,7 @@ XLIII. Instituto Metropolitano de Planeación: Organismo público descentralizad
 Fracción adicionada DOF 01-06-2021
 
 ## Capítulo Segundo
+
 Principios
 
 ### Artículo 4
@@ -162,6 +165,7 @@ X. Accesibilidad universal y movilidad. Promover una adecuada accesibilidad univ
 . Toda política pública de ordenamiento territorial, desarrollo y planeación urbana y coordinación metropolitana deberá observar los principios señalados en el artículo anterior, sin importar el orden de gobierno de donde emana.
 
 ## Capítulo Tercero
+
 Causas de Utilidad Pública
 
 ### Artículo 6
@@ -190,9 +194,11 @@ X. La delimitación de zonas de riesgo y el establecimiento de polígonos de pro
 En términos de la Constitución Política de los Estados Unidos Mexicanos, las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
 ## TÍTULO SEGUNDO — DE LA CONCURRENCIA ENTRE ÓRDENES DE GOBIERNO, COORDINACIÓN Y
+
 CONCERTACIÓN
 
 ## Capítulo Primero
+
 Concurrencia
 
 ### Artículo 7
@@ -200,6 +206,7 @@ Concurrencia
 Artículo reformado DOF 01-06-2021
 
 ## Capítulo Segundo
+
 Atribuciones de la Federación
 
 ### Artículo 8
@@ -290,6 +297,7 @@ V. La prevención y atención de contingencias en los Centros de Población para
 Mismas que deberán ser observadas por los tres órdenes de gobierno.
 
 ## Capítulo Tercero
+
 Atribuciones de las entidades federativas
 
 ### Artículo 10
@@ -354,6 +362,7 @@ XXVI. Atender las consultas que realicen los municipios sobre la apropiada congr
 XXVII. Las demás que les señalen esta Ley y otras disposiciones jurídicas federales y locales.
 
 ## Capítulo Cuarto
+
 Atribuciones de los Municipios
 
 ### Artículo 11
@@ -415,6 +424,7 @@ XXVI. Impulsar y promover un instituto municipal de planeación, cuando se encue
 Fracción adicionada DOF 01-06-2021
 
 ## Capítulo Quinto
+
 Coordinación y concertación
 
 ### Artículo 12
@@ -425,7 +435,9 @@ Coordinación y concertación
 
 ## TÍTULO TERCERO — ÓRGANOS DELIBERATIVOS Y AUXILIARES
 
+
 ## Capítulo Primero
+
 Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano
 
 ### Artículo 14
@@ -482,6 +494,7 @@ La participación en el Consejo Nacional será a título honorífico, por lo que
 . Los acuerdos del Consejo Nacional se publicarán en el Diario Oficial de la Federación y se ejecutarán de conformidad con las atribuciones que la ley establece a las distintas instancias que lo integran.
 
 ## Capítulo Segundo
+
 Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano
 
 ### Artículo 19
@@ -532,9 +545,11 @@ En todo momento será responsabilidad de la Secretaría y de los gobiernos de la
 Todas las opiniones y recomendaciones de los consejos estatales serán públicas y deberán estar disponibles en medios de comunicación electrónica.
 
 ## TÍTULO CUARTO — SISTEMA DE PLANEACIÓN DEL ORDENAMIENTO TERRITORIAL, DESARROLLO
+
 URBANO Y METROPOLITANO
 
 ## Capítulo Primero
+
 Sistema General de Planeación Territorial
 
 ### Artículo 22
@@ -558,6 +573,7 @@ La Federación y las entidades federativas podrán convenir mecanismos de planea
 Los instrumentos de planeación referidos, deberán guardar congruencia entre sí, sujetándose al orden jerárquico que establece su ámbito territorial, y contando con los dictámenes de validación y congruencia que para ese fin serán solicitados y emitidos por los diferentes órdenes de gobierno, para su aplicación y cumplimiento.
 
 ## Capítulo Segundo
+
 Estrategia Nacional de Ordenamiento Territorial
 
 ### Artículo 24
@@ -582,6 +598,7 @@ II. El proyecto de estrategia nacional de ordenamiento territorial será puesto 
 III. Una vez aprobada la estrategia nacional de ordenamiento territorial por el Ejecutivo Federal y publicada en el Diario Oficial de la Federación, las dependencias y entidades de la Administración Pública Federal, las entidades federativas y los municipios ajustarán sus procesos de planeación a lo establecido en dicha estrategia.
 
 ## Capítulo Tercero
+
 Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano
 
 ### Artículo 26
@@ -622,6 +639,7 @@ La Secretaría promoverá la participación social en la elaboración, actualiza
 La Secretaría, anualmente, presentará al Consejo Nacional un informe de ejecución y seguimiento del Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 
 ## Capítulo Cuarto
+
 Programas Estatales de Ordenamiento Territorial y Desarrollo Urbano
 
 ### Artículo 28
@@ -663,6 +681,7 @@ III. Las respuestas a los planteamientos improcedentes y las modificaciones del 
 IV. Cumplidas las formalidades para su aprobación, el plan o programa respectivo o sus modificaciones podrán ser expedidos por la autoridad competente y para su validez y obligatoriedad deberán ser publicados en el órgano de difusión oficial del gobierno del estado correspondiente. Además, la autoridad que lo expide procurará su amplia difusión pública a través de los medios que estime convenientes.
 
 ## Capítulo Quinto
+
 Programas Metropolitanos y de Zonas Conurbadas
 
 ### Artículo 31
@@ -671,7 +690,8 @@ Artículo reformado DOF 01-06-2021
 
 ### Artículo 32
 . La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales deberán convenir la delimitación y constitución de una Zona Metropolitana o conurbada cuando sea procedente el estudio y planeación conjunta de dos o más Centros de Población, situados en el territorio de una entidad federativa o en el territorio de entidades federativas vecinas.
-Párrafo reformado DOF 01-06-2021 En las zonas metropolitanas interestatales y conurbaciones interestatales se constituirá una comisión de ordenamiento, que tendrá carácter permanente y será integrada por un representante de cada entidad federativa y de cada municipio que lo integre, así como un representante de la Secretaría quien lo presidirá; funcionará como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
+Párrafo reformado DOF 01-06-2021
+En las zonas metropolitanas interestatales y conurbaciones interestatales se constituirá una comisión de ordenamiento, que tendrá carácter permanente y será integrada por un representante de cada entidad federativa y de cada municipio que lo integre, así como un representante de la Secretaría quien lo presidirá; funcionará como mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
 Dicha comisión formulará y aprobará el programa de ordenación de la Zona Metropolitana o conurbada interestatal e intermunicipal, así como gestionará y evaluará su cumplimiento.
 
 ### Artículo 33
@@ -713,6 +733,7 @@ XIV. Otras acciones que, a propuesta de la comisión de ordenamiento, se estable
 . Para efectos del artículo anterior, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con políticas, directrices y acciones de interés metropolitano, cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación.
 
 ## Capítulo Sexto
+
 Gobernanza metropolitana
 
 ### Artículo 36
@@ -770,6 +791,7 @@ Párrafo reformado DOF 01-06-2021
 La atención y resolución de problemas y necesidades urbanas comunes a Centros de Población fronterizos con relación a localidades de otros países, se sujetarán a los tratados, acuerdos y convenios internacionales en la materia. En la atención y resolución de dichos problemas y necesidades urbanas se promoverá la participación de las entidades federativas y los municipios respectivos.
 
 ## Capítulo Séptimo
+
 Planes y Programas Municipales de Desarrollo Urbano
 
 ### Artículo 40
@@ -799,7 +821,9 @@ Las autorizaciones de manifestación de impacto ambiental que otorgue la Secreta
 
 ## TÍTULO QUINTO — DE LAS REGULACIONES DE LA PROPIEDAD EN LOS CENTROS DE POBLACIÓN
 
+
 ## Capítulo Único — De las regulaciones de la Propiedad en los Centros de Población
+
 
 ### Artículo 47
 . Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de Fundación, Conservación, Mejoramiento y Crecimiento de los Centros de Población, el ejercicio del derecho de propiedad, de posesión o cualquier otro derivado de la tenencia de bienes inmuebles ubicados en dichos centros, se sujetará a las Provisiones, Reservas, Usos y Destinos que determinen las autoridades competentes, en los planes o programas de Desarrollo Urbano aplicables.
@@ -973,7 +997,9 @@ Los notarios públicos no podrán dar fe ni intervenir en ese tipo de operacione
 
 ## TÍTULO SEXTO — RESILIENCIA URBANA
 
+
 ## Capítulo Único
+
 De la Resiliencia Urbana, Prevención y Reducción de Riesgos en los Asentamientos Humanos
 
 ### Artículo 64
@@ -1012,7 +1038,9 @@ La Secretaría promoverá la emisión de las normas, lineamientos y manuales par
 
 ## TÍTULO SÉPTIMO — DE LA MOVILIDAD
 
+
 ## Capítulo Único — De la Movilidad
+
 
 ### Artículo 70
 . Para la accesibilidad universal de los habitantes a los servicios y satisfactores urbanos; las políticas de Movilidad deberán asegurar que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrecen sus Centros de Población.
@@ -1057,13 +1085,16 @@ III. La priorización, congruencia y eficacia en las inversiones públicas, cons
 
 ## TÍTULO OCTAVO — INSTRUMENTOS NORMATIVOS Y DE CONTROL
 
+
 ## Capítulo Único
+
 Regulación del Espacio Público
 
 ### Artículo 74
 . La creación, recuperación, mantenimiento y defensa del Espacio Público para todo tipo de usos y para la Movilidad, es principio de esta Ley y una alta prioridad para los diferentes órdenes de gobierno, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los Centros de Población, se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad.
 Las autoridades de los tres órdenes de gobierno, procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en los edificios que ocupan.
-Párrafo adicionado DOF 01-12-2020 Los planes o programas municipales de Desarrollo Urbano, de conurbaciones y de zonas metropolitanas definirán la dotación de Espacio Público en cantidades no menores a lo establecido por las normas oficiales mexicanas aplicables. Privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la Movilidad; igualmente, los espacios abiertos para el deporte, los parques y las plazas de manera que cada colonia, Barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
+Párrafo adicionado DOF 01-12-2020
+Los planes o programas municipales de Desarrollo Urbano, de conurbaciones y de zonas metropolitanas definirán la dotación de Espacio Público en cantidades no menores a lo establecido por las normas oficiales mexicanas aplicables. Privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la Movilidad; igualmente, los espacios abiertos para el deporte, los parques y las plazas de manera que cada colonia, Barrio y localidad cuente con la dotación igual o mayor a la establecida en las normas mencionadas.
 Los planes o programas municipales de Desarrollo Urbano incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del Espacio Público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones, para determinar las prioridades y los proyectos sobre Espacio Público y para dar seguimiento a la ejecución de obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios y entre otras acciones, las siguientes:
 
 I. Establecer las medidas para la identificación y mejor localización de los espacios públicos con relación a la función que tendrán y a la ubicación de los beneficiarios, atendiendo las normas nacionales en la materia;
@@ -1112,7 +1143,9 @@ Igualmente establecerán que los predios que con base en la normatividad aplicab
 
 ## TÍTULO NOVENO — GESTIÓN E INSTRUMENTOS DE SUELO PARA EL DESARROLLO URBANO
 
+
 ## Capítulo Primero — De las Reservas Territoriales
+
 
 ### Artículo 77
 . La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales llevarán a cabo acciones coordinadas en materia de Reservas territoriales para el Desarrollo Urbano y la vivienda, con objeto de:
@@ -1158,6 +1191,7 @@ I. La transferencia, enajenación o Destino de terrenos de propiedad federal par
 II. La asociación o cualquier otra forma de participación que determinen los núcleos agrarios, a efecto de incorporar terrenos ejidales y comunales para el Desarrollo Urbano y la vivienda y evitar su ocupación irregular, sujetándose a lo dispuesto en esta Ley.
 
 ## Capítulo Segundo
+
 Regulaciones para el Suelo Proveniente del Régimen Agrario
 
 ### Artículo 80
@@ -1175,6 +1209,7 @@ IV. Los demás que determine la Secretaría conforme a las disposiciones jurídi
 . En los casos de suelo y Reservas territoriales que tengan por objeto el desarrollo de acciones habitacionales de interés social y popular, provenientes del dominio federal, la enajenación de predios que realicen la Federación, las entidades de la Administración Pública Federal, las entidades federativas, los municipios y de las Demarcaciones Territoriales, o sus entidades paraestatales, estará sujeta a la legislación aplicable en materia de vivienda.
 
 ## Capítulo Tercero
+
 Regularización Territorial
 
 ### Artículo 82
@@ -1191,12 +1226,14 @@ III. Ninguna persona podrá resultar beneficiada por la regularización con más
 
 ## Capítulo Cuarto — Del Derecho de Preferencia
 
+
 ### Artículo 84
 . La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, tendrán en los términos de las leyes federales y locales correspondientes, el derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reserva territorial, para destinarlos preferentemente a la constitución de Espacio Público, incluyendo el suelo urbano vacante dentro de dicha reserva, señaladas en los planes o programas de Desarrollo Urbano y ordenamiento territorial aplicables, cuando éstos vayan a ser objeto de enajenación a título oneroso.
 Para tal efecto, los propietarios de los predios, los notarios públicos, los jueces y las autoridades administrativas respectivas, deberán notificarlo a la Secretaría, a la entidad federativa, al municipio y a la Demarcación Territorial correspondiente, dando a conocer el monto de la operación, a fin de que en un plazo de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
 La federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, deberán establecer mecanismos expeditos, simplificados y tiempos límite para manifestar su interés en ejercer el derecho a que alude este artículo.
 
 ## Capítulo Quinto
+
 Polígonos de Desarrollo y Construcción Prioritarios
 
 ### Artículo 85
@@ -1204,6 +1241,7 @@ Polígonos de Desarrollo y Construcción Prioritarios
 En la legislación estatal en la materia, se establecerán los mecanismos de adquisición directa por vías de derecho público o privado o mediante enajenación en subasta pública del suelo comprendido en la declaratoria, para los casos en que los propietarios no tengan capacidad o se nieguen a ejecutar las acciones urbanísticas señaladas en los plazos establecidos, asegurando el desarrollo de los proyectos.
 
 ## Capítulo Sexto
+
 Reagrupamiento Parcelario
 
 ### Artículo 86
@@ -1225,7 +1263,9 @@ V. La distribución de cargas y beneficios económicos entre los participantes s
 
 ## TÍTULO DÉCIMO — INSTRUMENTOS PARA EL FINANCIAMIENTO DEL DESARROLLO URBANO
 
+
 ## Capítulo Primero
+
 Disposición General
 
 ### Artículo 88
@@ -1241,6 +1281,7 @@ II. Apoyar o complementar a los municipios o a los organismos o asociaciones int
 III. Apoyar y desarrollar programas de adquisición, habilitación y venta de suelo para lograr zonas metropolitanas o conurbaciones más organizadas y compactas, y para atender las distintas necesidades del Desarrollo Urbano, de acuerdo con lo establecido para ello en esta Ley y bajo la normatividad vigente para los fondos públicos.
 
 ## Capítulo Segundo
+
 Programas Territoriales Operativos
 
 ### Artículo 90
@@ -1257,9 +1298,11 @@ III. Dar un seguimiento, evaluación y retroalimentación efectivos a estos prog
 Estos programas que serán formulados por la Secretaría, en coordinación con otras dependencias y entidades de la Administración Pública Federal, así como con las autoridades de las entidades federativas y de los municipios correspondientes al territorio determinado, serán la guía para la concentración de acciones e inversiones intersectoriales de los tres órdenes de gobierno.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 INSTRUMENTOS DE PARTICIPACIÓN DEMOCRÁTICA Y TRANSPARENCIA
 
 ## Capítulo Primero — De la Participación Ciudadana y Social
+
 
 ### Artículo 92
 . La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, promoverán la participación ciudadana en todas las etapas del proceso de ordenamiento territorial y la planeación del Desarrollo Urbano y Desarrollo Metropolitano.
@@ -1285,6 +1328,7 @@ VII. La prevención, control y atención de riesgos y contingencias ambientales 
 VIII. La participación en los procesos de los Observatorios ciudadanos.
 
 ## Capítulo Segundo
+
 Información Pública, Transparencia y Rendición de Cuentas
 
 ### Artículo 94
@@ -1297,6 +1341,7 @@ Por su parte, es obligación de las autoridades difundir y poner a disposición 
 Deberán privilegiar la oportunidad de la información y el impacto esperado de dichas autorizaciones, permisos y licencias. La publicación en medios físicos deberá realizarse en ámbitos de concurrencia pública, como escuelas, bibliotecas, mercados, entre otros, a fin de facilitar su conocimiento.
 
 ## Capítulo Tercero
+
 Desarrollo institucional
 
 ### Artículo 96
@@ -1307,6 +1352,7 @@ La Secretaría establecerá los lineamientos para la certificación de especiali
 Se impulsarán programas y apoyos para la mejora regulatoria en la administración y gestión del Desarrollo Urbano que propicien la uniformidad en trámites, permisos y autorizaciones en la materia, para disminuir sus costos, tiempos e incrementar la transparencia. Igualmente fomentará la adopción de tecnologías de la información y comunicación en los procesos administrativos que se relacionen con la gestión y administración territorial y los servicios urbanos.
 
 ## Capítulo Cuarto
+
 Sistema de Información Territorial y Urbano
 
 ### Artículo 97
@@ -1319,6 +1365,7 @@ Para ello, será obligatorio para todas las autoridades federales, estatales, mu
 . Las autoridades de los tres órdenes de gobierno deberán incorporar en sus informes de gobierno anuales, un rubro específico relacionado con el avance en el cumplimiento de los planes y programas de ordenamiento territorial y Desarrollo Urbano y Desarrollo Metropolitano, así como en la ejecución de los proyectos, obras, inversiones y servicios planteados en los mismos.
 
 ## Capítulo Quinto
+
 Observatorios Ciudadanos
 
 ### Artículo 99
@@ -1346,9 +1393,11 @@ VIII. Garantizar la interoperabilidad y la consulta pública remota de los siste
 Las entidades federativas establecerán las regulaciones específicas a que se sujetará la creación y operación de observatorios urbanos y para el ordenamiento territorial con base en esta Ley.
 
 ## TÍTULO DÉCIMO — SEGUNDO
+
 INSTRUMENTOS DE FOMENTO
 
 ## Capítulo Único — Del Fomento al Desarrollo Urbano
+
 
 ### Artículo 101
 . La Federación, las entidades federativas, los municipios y las Demarcaciones Territoriales, sujetos a disponibilidad presupuestaria, fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
@@ -1389,9 +1438,11 @@ Asimismo, las secretarías de Hacienda y Crédito Público y de Desarrollo Agrar
 . La planeación de las obras públicas y de los servicios relacionados con las mismas deberá ajustarse a lo dispuesto en el presente ordenamiento, así como a los planes y programas de ordenamiento territorial, de Desarrollo Urbano y Desarrollo Metropolitano.
 
 ## TÍTULO DÉCIMO — TERCERO
+
 DE LA DENUNCIA CIUDADANA Y LAS SANCIONES
 
 ## Capítulo Primero — De la Denuncia Ciudadana
+
 
 ### Artículo 104
 . Las entidades federativas, en el ámbito de sus respectivas jurisdicciones, promoverán mecanismos de contraloría o vigilancia social, donde participen los vecinos, usuarios, instituciones académicas, organizaciones sociales, colegios de profesionistas y los institutos y observatorios, en el cumplimiento y ejecución de normas oficiales mexicanas, de los planes y programas a que se refiere esta Ley, aplicando los principios establecidos en ésta, y en su caso denunciando ante la instancia de procuración de ordenamiento territorial cualquier violación a la normatividad aplicable.
@@ -1421,6 +1472,7 @@ Cuando por infracción a las disposiciones de esta Ley, las leyes estatales, las
 La legislación estatal establecerá el régimen de responsabilidades y de reparación de daños aplicable a toda persona que cause perjuicios o efectos negativos al ordenamiento territorial, a los Asentamientos Humanos, al Desarrollo Urbano o a sus infraestructuras, edificaciones e instalaciones.
 
 ## Capítulo Segundo — Del Régimen Sancionatorio y de Nulidades
+
 
 ### Artículo 109
 . La violación a esta Ley, a las leyes estatales en la materia y a los planes o programas a que se refiere este ordenamiento, por parte de cualquier servidor público, dará origen a la responsabilidad y sanciones, en los términos que establece la legislación en la materia.
@@ -1470,24 +1522,24 @@ Los certificados parcelarios otorgados por el Registro Agrario Nacional o cualqu
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
-**TERCERO.** En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+**TERCERO.-** En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y reglamentarias relacionadas con los contenidos de este instrumento.
 En el caso de la Ciudad de México, la Legislatura de la Ciudad de México, las autoridades del gobierno central y de las Demarcaciones Territoriales correspondientes, deberán efectuar las adecuaciones legislativas y reglamentarias de conformidad con lo dispuesto en el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos y con las disposiciones de la Constitución de la Ciudad de México una vez que entren en vigor.
-**CUARTO.** En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los derechos humanos vinculados al ordenamiento territorial.
-**QUINTO.** En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título Décimo Primero de la Ley que se expide.
+**CUARTO.-** En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los derechos humanos vinculados al ordenamiento territorial.
+**QUINTO.-** En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título Décimo Primero de la Ley que se expide.
 Los registros públicos de la propiedad, los catastros y el Registro Agrario Nacional estarán a lo señalado en los artículos 60, 111 y 112 del presente Decreto, una vez que sean adecuados los planes y programas mencionados en el párrafo anterior.
-**SEXTO.** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
+**SEXTO.-** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 Los gobiernos locales y municipales, convocarán en el mismo plazo a las sesiones de instalación de los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
-**SÉPTIMO.** En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y funcionamiento del Consejo Nacional.
-**OCTAVO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
-**NOVENO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
-**DÉCIMO.** En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley que se expide.
-**DÉCIMO PRIMERO.** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
-**DÉCIMO SEGUNDO.** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
-**DÉCIMO TERCERO.** En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en zonas de riesgo.
-**DÉCIMO CUARTO.** En un plazo no mayor a seis meses a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y Urbano.
-**DÉCIMO QUINTO.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+**SÉPTIMO.-** En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y funcionamiento del Consejo Nacional.
+**OCTAVO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
+**NOVENO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano, cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
+**DÉCIMO.-** En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley que se expide.
+**DÉCIMO PRIMERO.-** En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
+**DÉCIMO SEGUNDO.-** En un plazo de un año contado a partir de la entrada en vigor de este Decreto, las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
+**DÉCIMO TERCERO.-** En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en zonas de riesgo.
+**DÉCIMO CUARTO.-** En un plazo no mayor a seis meses a partir de la entrada en vigor de este Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y Urbano.
+**DÉCIMO QUINTO.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente Decreto.
 Ciudad de México, a 13 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
@@ -1519,8 +1571,8 @@ Se adiciona un segundo párrafo al artículo 74 de la Ley General de Asentamient
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las acciones que realicen las dependencias y entidades de la Administración Pública para dar cumplimiento al presente Decreto se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las acciones que realicen las dependencias y entidades de la Administración Pública para dar cumplimiento al presente Decreto se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
 Ciudad de México, a 23 de septiembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Óscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1532,7 +1584,7 @@ Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; l
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Edgar Guzmán Valdez, Secretario.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
 Publicado en el Diario Oficial de la Federación el 1 de abril de 2024

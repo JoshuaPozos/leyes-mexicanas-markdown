@@ -8,33 +8,59 @@
 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN Nueva Ley publicada en el Diario Oficial de la Federación el 26 de mayo de 1945 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E T O: "El Congreso de los Estados Unidos Mexicanos, decreta:
-LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN Denominación de la Ley reformada DOF 23-12-1974, 19-01-2018 CAPITULO I DISPOSICIONES GENERALES Denominación del Capítulo reformada DOF 02-01-1974 ARTICULO 1o.- Título profesional es el documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tenga reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y otras disposiciones aplicables.
-Artículo reformado DOF 02-01-1974 ARTICULO 2o.- Las leyes que regulen campos de acción relacionados con alguna rama o especialidad profesional, determinarán cuáles son las actividades profesionales que necesitan título y cédula para su ejercicio.
-Artículo reformado DOF 02-01-1974 ARTICULO 3o.- Toda persona a quien legalmente se le haya expedido título profesional o grado académico equivalente, podrá obtener cédula de ejercicio con efectos de patente, previo registro de dicho título o grado.
-Artículo reformado DOF 02-01-1974 ARTICULO 4o.- El Ejecutivo Federal, previo dictamen de la Dirección General de Profesiones, que lo emitirá por conducto de la Secretaría de Educación Pública y oyendo el parecer de los Colegios de Profesionistas y de las comisiones técnicas que se organicen para cada profesión, expedirá los reglamentos que delimiten los campos de acción de cada profesión, así como el de las ramas correspondientes, y los límites para el ejercicio de las mismas profesiones.
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN
+Denominación de la Ley reformada DOF 23-12-1974, 19-01-2018
+CAPITULO I DISPOSICIONES GENERALES
+Denominación del Capítulo reformada DOF 02-01-1974
+ARTICULO 1o.- Título profesional es el documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tenga reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y otras disposiciones aplicables.
+Artículo reformado DOF 02-01-1974
+ARTICULO 2o.- Las leyes que regulen campos de acción relacionados con alguna rama o especialidad profesional, determinarán cuáles son las actividades profesionales que necesitan título y cédula para su ejercicio.
+Artículo reformado DOF 02-01-1974
+ARTICULO 3o.- Toda persona a quien legalmente se le haya expedido título profesional o grado académico equivalente, podrá obtener cédula de ejercicio con efectos de patente, previo registro de dicho título o grado.
+Artículo reformado DOF 02-01-1974
+ARTICULO 4o.- El Ejecutivo Federal, previo dictamen de la Dirección General de Profesiones, que lo emitirá por conducto de la Secretaría de Educación Pública y oyendo el parecer de los Colegios de Profesionistas y de las comisiones técnicas que se organicen para cada profesión, expedirá los reglamentos que delimiten los campos de acción de cada profesión, así como el de las ramas correspondientes, y los límites para el ejercicio de las mismas profesiones.
 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN ARTICULO 5o.- Para el ejercicio de una o varias especialidades, se requiere autorización de la Dirección General de Profesiones, debiendo comprobarse previamente: 1.- Haber obtenido título relativo a una profesión en los términos de esta Ley; 2.- Comprobar, en forma idónea, haber realizado estudios especiales de perfeccionamiento técnico científico, en la ciencia o rama de la ciencia de que se trate.
 ARTICULO 6o.- En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, la presente Ley será interpretada en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a esta Ley, y a las leyes que regulen su actividad, en lo que no se oponga a este ordenamiento.
 ARTICULO 7o.- Las disposiciones de esta ley regirán en la Ciudad de México en asuntos de orden común, y en toda la República en asuntos de orden federal.
-Artículo reformado DOF 23-12-1974, 19-01-2018 CAPITULO II Condiciones que deben llenarse para obtener un título profesional ARTICULO 8o.- Para obtener título profesional es indispensable acreditar que se han cumplido los requisitos académicos previstos por las leyes aplicables.
-Artículo reformado DOF 02-01-1974 ARTICULO 9o.- Para que pueda registrarse un título profesional expedido por institución que no forme parte del sistema educativo nacional será necesario que la Secretaría de Educación Pública revalide, en su caso, los estudios correspondientes y que el interesado acredite haber prestado el servicio social.
-Artículo reformado DOF 02-01-1974 CAPITULO III Instituciones autorizadas que deben expedir los títulos profesionales SECCION I Títulos expedidos en la Ciudad de México Denominación de la Sección reformada DOF 23-12-1974, 19-01-2018 ARTICULO 10.- Las instituciones que impartan educación profesional deberán cumplir los requisitos que señalen las leyes y disposiciones reglamentarias que las rijan.
-Artículo reformado DOF 02-01-1974 ARTICULO 11.- Sólo las instituciones a que se refiere el artículo anterior están autorizadas para expedir títulos profesionales de acuerdo con sus respectivos ordenamientos.
-SECCION II Títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes Denominación de la Sección reformada DOF 19-01-2018 ARTICULO 12.- Los títulos profesionales expedidos por las autoridades de un Estado, serán registrados, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del artículo 121 de la Constitución.
+Artículo reformado DOF 23-12-1974, 19-01-2018
+CAPITULO II Condiciones que deben llenarse para obtener un título profesional ARTICULO 8o.- Para obtener título profesional es indispensable acreditar que se han cumplido los requisitos académicos previstos por las leyes aplicables.
+Artículo reformado DOF 02-01-1974
+ARTICULO 9o.- Para que pueda registrarse un título profesional expedido por institución que no forme parte del sistema educativo nacional será necesario que la Secretaría de Educación Pública revalide, en su caso, los estudios correspondientes y que el interesado acredite haber prestado el servicio social.
+Artículo reformado DOF 02-01-1974
+CAPITULO III Instituciones autorizadas que deben expedir los títulos profesionales SECCION I Títulos expedidos en la Ciudad de México
+Denominación de la Sección reformada DOF 23-12-1974, 19-01-2018
+ARTICULO 10.- Las instituciones que impartan educación profesional deberán cumplir los requisitos que señalen las leyes y disposiciones reglamentarias que las rijan.
+Artículo reformado DOF 02-01-1974
+ARTICULO 11.- Sólo las instituciones a que se refiere el artículo anterior están autorizadas para expedir títulos profesionales de acuerdo con sus respectivos ordenamientos.
+SECCION II Títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes
+Denominación de la Sección reformada DOF 19-01-2018
+ARTICULO 12.- Los títulos profesionales expedidos por las autoridades de un Estado, serán registrados, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del artículo 121 de la Constitución.
 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN ARTICULO 13.- El Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas para la unificación del registro profesional, de acuerdo con las siguientes bases:
-Párrafo reformado DOF 19-01-2018 I.- Instituir un solo servicio para el registro de títulos profesionales;
+Párrafo reformado DOF 19-01-2018
+I.- Instituir un solo servicio para el registro de títulos profesionales;
 II.- Reconocer para el ejercicio profesional en las entidades federativas, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en la Ciudad de México las cédulas expedidas por los Estados.
-Fracción reformada DOF 23-12-1974, 19-01-2018 III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
+Fracción reformada DOF 23-12-1974, 19-01-2018
+III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
 IV.- Intercambiar la información que se requiera; y V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
-Artículo reformado DOF 02-01-1974 ARTICULO 14.- Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellas entidades federativas que no tengan los planteles profesionales correspondientes.
-Artículo reformado DOF 19-01-2018 SECCION III Registro de títulos expedidos en el extranjero ARTICULO 15.- Los extranjeros podrán ejercer en la Ciudad de México las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte.
-Párrafo reformado DOF 19-01-2018 Cuando no hubiere tratado en la materia, el ejercicio profesional de los extranjeros estará sujeto a la reciprocidad en el lugar de residencia del solicitante y al cumplimiento de los demás requisitos establecidos por las leyes mexicanas.
-Artículo reformado DOF 23-12-1974, 22-12-1993 ARTICULO 16.- (Se deroga).
-Artículo reformado DOF 23-12-1974. Derogado DOF 22-12-1993 ARTICULO 17.- Los títulos expedidos en el extranjero serán registrados por la Secretaría de Educación Pública, siempre que los estudios que comprenda el título profesional, sean iguales o similares a los que se impartan en instituciones que formen parte del sistema educativo nacional.
-Párrafo reformado DOF 22-12-1993 En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes, para la comprobación de sus conocimientos.
+Artículo reformado DOF 02-01-1974
+ARTICULO 14.- Por ningún concepto se registrarán títulos ni se revalidarán estudios de aquellas entidades federativas que no tengan los planteles profesionales correspondientes.
+Artículo reformado DOF 19-01-2018
+SECCION III Registro de títulos expedidos en el extranjero ARTICULO 15.- Los extranjeros podrán ejercer en la Ciudad de México las profesiones que son objeto de esta Ley, con sujeción a lo previsto en los tratados internacionales de que México sea parte.
+Párrafo reformado DOF 19-01-2018
+Cuando no hubiere tratado en la materia, el ejercicio profesional de los extranjeros estará sujeto a la reciprocidad en el lugar de residencia del solicitante y al cumplimiento de los demás requisitos establecidos por las leyes mexicanas.
+Artículo reformado DOF 23-12-1974, 22-12-1993
+ARTICULO 16.- (Se deroga).
+Artículo reformado DOF 23-12-1974. Derogado DOF 22-12-1993
+ARTICULO 17.- Los títulos expedidos en el extranjero serán registrados por la Secretaría de Educación Pública, siempre que los estudios que comprenda el título profesional, sean iguales o similares a los que se impartan en instituciones que formen parte del sistema educativo nacional.
+Párrafo reformado DOF 22-12-1993
+En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes, para la comprobación de sus conocimientos.
 ARTICULO 18.- (Se deroga).
-Artículo derogado DOF 22-12-1993 ARTICULO 19.- (Se deroga).
-Artículo derogado DOF 22-12-1993 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN ARTICULO 20.- (Se deroga).
-Artículo derogado DOF 22-12-1993 CAPITULO IV De la Dirección General de Profesiones ARTICULO 21.- Dependiente de la Secretaría de Educación Pública se establecerá una dirección que se denominará: Dirección General de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los colegios de profesionistas.
+Artículo derogado DOF 22-12-1993
+ARTICULO 19.- (Se deroga).
+Artículo derogado DOF 22-12-1993
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN ARTICULO 20.- (Se deroga).
+Artículo derogado DOF 22-12-1993
+CAPITULO IV De la Dirección General de Profesiones ARTICULO 21.- Dependiente de la Secretaría de Educación Pública se establecerá una dirección que se denominará: Dirección General de Profesiones, que se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los colegios de profesionistas.
 ARTICULO 22.- La Dirección anterior formará comisiones técnicas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada Comisión estará integrada por un representante de la Secretaría de Educación Pública, otro de la Universidad Autónoma de México o del Instituto Politécnico Nacional en sus ramas profesionales respectivas y otro del Colegio de Profesionistas. Cuando en ambas instituciones educativas se estudie una misma profesión, cada una de ellas designará un representante.
 ARTICULO 23.- Son facultades y obligaciones de la Dirección General de Profesiones:
 I.- Registrar los títulos de profesionistas a que se refiere esta Ley, de conformidad con los artículos 14, 15 y 16 de este ordenamiento;
@@ -50,11 +76,17 @@ X.- Llevar un archivo con los datos relativos a la enseñanza preparatoria, norm
 XI.- Anotar los datos relativos a las universidades o escuelas profesionales extranjeras;
 XII.- Publicar, en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN XIII.- Proporcionar a los interesados informes en asuntos de la competencia de la Dirección;
-Fracción reformada DOF 19-08-2010 XIV.- Integrar y mantener una base de datos actualizada con la información señalada en las fracciones II, V y VII de este artículo, misma que deberá ser compartido en los términos de la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 19-08-2010 XV.- Las demás que le fijen las leyes y reglamentos.
-Fracción recorrida DOF 19-08-2010 CAPITULO V Del ejercicio profesional ARTICULO 24.- Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
+Fracción reformada DOF 19-08-2010
+XIV.- Integrar y mantener una base de datos actualizada con la información señalada en las fracciones II, V y VII de este artículo, misma que deberá ser compartido en los términos de la Ley General del Sistema Nacional de Seguridad Pública, y
+Fracción adicionada DOF 19-08-2010
+XV.- Las demás que le fijen las leyes y reglamentos.
+Fracción recorrida DOF 19-08-2010
+CAPITULO V Del ejercicio profesional ARTICULO 24.- Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
 ARTICULO 25.- Para ejercer en la Ciudad de México cualquiera de las profesiones a que se refieren los Artículos 2o. y 3o., se requiere:
-Párrafo reformado DOF 23-12-1974, 22-12-1993, 19-01-2018 I.- Estar en pleno goce y ejercicio de los derechos civiles.
-Fracción reformada DOF 22-12-1993 II.- Poseer título legalmente expedido y debidamente registrado, y III.- Obtener de la Dirección General de Profesiones patente de ejercicio.
+Párrafo reformado DOF 23-12-1974, 22-12-1993, 19-01-2018
+I.- Estar en pleno goce y ejercicio de los derechos civiles.
+Fracción reformada DOF 22-12-1993
+II.- Poseer título legalmente expedido y debidamente registrado, y III.- Obtener de la Dirección General de Profesiones patente de ejercicio.
 ARTICULO 26.- Las autoridades judiciales y las que conozcan de asuntos contenciosoadministrativos rechazarán la intervención en calidad de patronos o asesores técnico del o los interesados, de persona, que no tenga título profesional registrado.
 El mandato para asunto judicial o contencioso-administrativos determinado, sólo podrá ser otorgado en favor de profesionistas con título debidamente registrado en los términos de esta Ley.
 Se exceptúan los casos de los gestores en asuntos obreros, agrarios y cooperativos y el caso de amparos en materia penal a que se refieren los artículo 27 y 28 de esta Ley.
@@ -84,9 +116,11 @@ ARTICULO 41.- Las personas que hayan obtenido títulos de alguna de las profesio
 ARTICULO 42.- El anuncio o la publicidad que un profesionista haga de sus actividades no deberá rebasar los conceptos de ética profesional que establezca el Colegio respectivo. En todo caso, el profesionista deberá expresar la institución docente donde hubiere obtenido su título.
 ARTICULO 43.- Para los efectos a que se contrae la fracción VII del artículo 23 de esta Ley, las autoridades judiciales deberán comunicar oportunamente a la Dirección General de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hubiesen causado ejecutoria.
 CAPITULO VI De los colegios de profesionistas ARTICULO 44.- Todos los profesionales de una misma rama podrán constituir en la Ciudad de México uno o varios colegios, sin que excedan de cinco por cada rama profesional, gobernados por un Consejo compuesto por un presidente, un vicepresidente, dos secretarios propietarios y dos suplentes, un tesorero y un subtesorero, que durarán dos años en el ejercicio de su encargo.
-Artículo reformado DOF 23-12-1974, 19-01-2018 ARTICULO 45.- Para constituir y obtener el registro del Colegio Profesional respectivo, deberán reunirse los siguientes requisitos:
+Artículo reformado DOF 23-12-1974, 19-01-2018
+ARTICULO 45.- Para constituir y obtener el registro del Colegio Profesional respectivo, deberán reunirse los siguientes requisitos:
 I.- Derogada.
-Fracción derogada DOF 23-12-1974 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN II.- Que se reúnan los requisitos de los artículos 2670, 267l y 2673 del Código Civil vigente;
+Fracción derogada DOF 23-12-1974
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN II.- Que se reúnan los requisitos de los artículos 2670, 267l y 2673 del Código Civil vigente;
 III.- Ajustarse a los términos de las demás disposiciones contenidas en el título decimoprimero del Código Civil en lo relativo a los Colegios; y IV.- Para los efectos del registro del Colegio deberán exhibirse los siguientes documentos: a).- Testimonio de la escritura pública de protocolización de acta constitutiva y de los estatutos que rijan, así como una copia simple de ambos documentos; b).- Un directorio de sus miembros; y c).- Nómina de socios que integran el Consejo Directivo.
 ARTICULO 46.- Los Colegios de Profesionistas constituídos de acuerdo con los requisitos anteriores, tendrán el carácter de personas morales con todos los derechos, obligaciones y atribuciones que señala la ley.
 ARTICULO 47.- La capacidad de los Colegios para poseer, adquirir y administrar bienes raíces se ajustará a lo que previene el artículo 27 de la Constitución General de la República y sus Leyes Reglamentarias.
@@ -112,7 +146,8 @@ ARTICULO 64.- Se sancionará con multa de cincuenta pesos por primera vez y dupl
 La Dirección General de Profesiones, previa comprobación de la infracción, impondrá la multa de referencia sin perjuicio de las sanciones penales en que hubiere incurrido.
 ARTICULO 65.- A la persona que desarrolle actividad profesional cuyo ejercicio requiera título, sin haber registrado éste, se le aplicará la primera vez una multa de quinientos pesos y en los casos sucesivos se aumentará ésta, sin que pueda ser mayor de cinco mil pesos.
 Las sanciones que este artículo señala serán impuestas por la Dirección General de Profesiones, dependiente de la Secretaría de Educación Pública, previa audiencia al infractor. Para la aplicación de las sanciones se tomarán en cuenta las circunstancias en que la infracción fue cometida, la gravedad de la misma y la condición del infractor.
-Artículo reformado DOF 02-01-1974 ARTICULO 66.- La violación del artículo 52 será sancionada con la cancelación de registro del Colegio de Profesionistas que la haya cometido, y con multa hasta de cincuenta pesos que se aplicará a LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN cada uno de los miembros del Colegio, asistentes a la junta, en la que se haya contravenido la prohibición contenida en el citado precepto.
+Artículo reformado DOF 02-01-1974
+ARTICULO 66.- La violación del artículo 52 será sancionada con la cancelación de registro del Colegio de Profesionistas que la haya cometido, y con multa hasta de cincuenta pesos que se aplicará a LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN cada uno de los miembros del Colegio, asistentes a la junta, en la que se haya contravenido la prohibición contenida en el citado precepto.
 ARTICULO 67.- La Dirección General de Profesiones, a solicitud y previa audiencia de parte interesada, en sus respectivos casos cancelará las inscripciones de títulos profesionales, instituciones educativas, colegios de profesionistas o demás actos que deban registrarse, por las causas siguientes:
 I.- Error o falsedad en los documentos inscritos;
 II.- Expedición del título sin los requisitos que establece la ley;
@@ -120,8 +155,10 @@ III.- Resolución de autoridad competente;
 IV.- Desaparición de la institución educativa facultada para expedir títulos profesionales o grados académicos equivalentes; revocación de la autorización o retiro de reconocimiento oficial de estudios. La cancelación no afectará la validez de los títulos o grados otorgados con anterioridad;
 V.- Disolución del colegio de profesionistas; y VI.- Las demás que establezcan las leyes o reglamentos.
 La cancelación del registro de un título o autorización para ejercer una profesión, producirá efectos de revocación de la cédula o de la autorización.
-Artículo reformado DOF 02-01-1974 ARTICULO 68.- La persona que ejerza alguna profesión que requiera título para su ejercicio, sin la correspondiente cédula o autorización, no tendrá derecho a cobrar honorarios.
-Artículo reformado DOF 02-01-1974 ARTICULO 69.- Se exceptúan de las sanciones previstas en este capítulo a las personas que sin tener título profesional, ejerzan actividades que requieran el mismo, siempre que hayan sido autorizadas por la Dirección General de profesiones en los casos a que se refiere esta Ley.
+Artículo reformado DOF 02-01-1974
+ARTICULO 68.- La persona que ejerza alguna profesión que requiera título para su ejercicio, sin la correspondiente cédula o autorización, no tendrá derecho a cobrar honorarios.
+Artículo reformado DOF 02-01-1974
+ARTICULO 69.- Se exceptúan de las sanciones previstas en este capítulo a las personas que sin tener título profesional, ejerzan actividades que requieran el mismo, siempre que hayan sido autorizadas por la Dirección General de profesiones en los casos a que se refiere esta Ley.
 ARTICULO 70.- Queda prohibido a los profesionistas el empleo del término "Colegio", fuera de las agrupaciones expresamente autorizadas par esta Ley. La infracción de esta disposición será castigada con multa hasta de mil pesos.
 ARTICULO 71.- Los profesionistas será civilmente responsables de las contravenciones que cometan en el desempeño de trabajos profesionales, los auxiliares o empleados que estén bajo su inmediata dependencia y dirección, siempre que no hubieran dado las instrucciones adecuadas o sus instrucciones hubieren sido la causa del daño.
 ARTICULO 72.- No se sancionará a las personas que ejerzan en asuntos propios y en el caso previsto por el artículo 20 constitucional, fracción IX.
@@ -157,7 +194,8 @@ LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS
 ARTICULO 19.- El profesionista, en todo tiempo puede obtener el registro de su título, el trámite y la obtención de su cédula o Patente de Ejercicio, por sí o por medio del Colegio respectivo.
 ARTICULO 20.- Para la constitución de los Colegios de Profesionistas de cada rama, la Dirección General de Profesiones procederá a nombrar una comisión de profesionistas en cada rama que se encargue de hacerlo.
 ARTICULO 21.- (Se deroga).
-Artículo derogado DOF 22-12-1993 ARTICULO 22.- Todos los plazos que se conceden en los anteriores artículos, se contarán a partir de la fecha en que entre en vigor la Ley.
+Artículo derogado DOF 22-12-1993
+ARTICULO 22.- Todos los plazos que se conceden en los anteriores artículos, se contarán a partir de la fecha en que entre en vigor la Ley.
 Miguel Moreno Padilla, D. P.- Eugenio Prado, S. P.- Eliseo Aragón Rebolledo, D. S.- Dionisio García Leal, S. S.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, a los treinta días del mes de diciembre de mil novecientos cuarenta y cuatro.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Miguel Alemán.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Estado y del Despacho de Salubridad y Asistencia, Gustavo Baz.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Javier Rojo Gómez.- Rúbrica.- El Oficial Mayor de Relaciones Exteriores, Encargado del Despacho, Pablo Campos Ortiz.- Rúbricas.
 LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que reforma la Ley Reglamentaria de los Artículos 4o. y 5o. Constitucionales, relativos al ejercicio de las profesiones en el Distrito y Territorios Federales:

@@ -15,6 +15,7 @@ Se expide la Ley General de Cultura y Derechos Culturales.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 .- La presente Ley regula el derecho a la cultura que tiene toda persona en los términos de los artículos 4o. y 73, fracción XXIX-Ñ de la Constitución Política de los Estados Unidos Mexicanos.
 Promueve y protege el ejercicio de los derechos culturales y establece las bases de coordinación para el acceso de los bienes y servicios que presta el Estado en materia cultural. Sus disposiciones son de orden público e interés social y de observancia general en el territorio nacional.
@@ -63,9 +64,11 @@ III. Reconocimiento de la diversidad cultural del país;
 
 IV. Reconocimiento de la identidad y dignidad de las personas;
 
-V. Libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, y Fracción reformada DOF 29-11-2023, 01-04-2024
+V. Libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, y
+Fracción reformada DOF 29-11-2023, 01-04-2024
 
-VI. Igualdad de género y la igualdad sustantiva, en términos de lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, y Fracción reformada DOF 29-11-2023, 15-01-2026
+VI. Igualdad de género y la igualdad sustantiva, en términos de lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, y
+Fracción reformada DOF 29-11-2023, 15-01-2026
 
 VII. El goce efectivo de los derechos culturales de la persona adulta mayor.
 Fracción adicionada DOF 29-11-2023
@@ -74,6 +77,7 @@ Fracción adicionada DOF 29-11-2023
 .- La Secretaría de Cultura coordinará y promoverá el programa de asignación de vales de Cultura con la participación del sector social y privado, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México, para incrementar el acceso a la cultura de los sectores vulnerables.
 
 ## TÍTULO SEGUNDO — DERECHOS CULTURALES Y MECANISMOS PARA SU EJERCICIO
+
 
 ### Artículo 9
 .- Toda persona ejercerá sus derechos culturales a título individual o colectivo sin menoscabo de su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro y, por lo tanto, tendrán las mismas oportunidades de acceso.
@@ -126,7 +130,8 @@ Fracción reformada DOF 29-11-2023
 
 IX. El aprovechamiento de la infraestructura cultural, con espacios y servicios adecuados para hacer un uso intensivo de la misma;
 
-X. El acceso universal a la cultura en las diversas lenguas nacionales reconocidas para aprovechar los recursos de las tecnologías de la información y las comunicaciones, conforme a la Ley aplicable en la materia, y Fracción reformada DOF 29-12-2023
+X. El acceso universal a la cultura en las diversas lenguas nacionales reconocidas para aprovechar los recursos de las tecnologías de la información y las comunicaciones, conforme a la Ley aplicable en la materia, y
+Fracción reformada DOF 29-12-2023
 
 XI. La inclusión de personas y grupos en situación de discapacidad, en condiciones de vulnerabilidad o violencia en cualquiera de sus manifestaciones.
 
@@ -146,7 +151,9 @@ Los municipios y las alcaldías de la Ciudad de México promoverán, en el ámbi
 
 ## TÍTULO TERCERO — BASES DE COORDINACIÓN
 
+
 ## Capítulo I
+
 De los mecanismos de coordinación de acciones entre la Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México
 
 ### Artículo 17
@@ -193,7 +200,8 @@ Fracción reformada DOF 29-11-2023, 15-01-2026
 IX. Formular, impulsar y fortalecer programas de educación e investigación artística y cultural con perspectiva de género;
 Fracción adicionada DOF 29-11-2023. Reformada DOF 15-01-2026
 
-X. Coordinar la implementación de actividades culturales para niñas, niños y adolescentes que potencie su participación en su comunidad sin estereotipos de género, y Fracción adicionada DOF 15-01-2026
+X. Coordinar la implementación de actividades culturales para niñas, niños y adolescentes que potencie su participación en su comunidad sin estereotipos de género, y
+Fracción adicionada DOF 15-01-2026
 
 XI. Promover proyectos culturales comunitarios para reforzar el reconocimiento y valía de las capacidades artísticas y culturales de las mujeres, desde una perspectiva de diversidad.
 Fracción adicionada DOF 15-01-2026
@@ -263,6 +271,7 @@ III. A las donaciones, herencias y legados que se adquieran por cualquier títul
 .- Los recursos públicos federales aplicados en el cumplimiento de los objetivos de la presente Ley no perderán su carácter federal y las disposiciones de fiscalización federal se aplicarán a las entidades federativas, los municipios y a las alcaldías de la Ciudad de México, conforme a la normatividad vigente.
 
 ## Capítulo II
+
 Sistema Nacional de Información Cultural
 
 ### Artículo 27
@@ -275,6 +284,7 @@ Sistema Nacional de Información Cultural
 .- La Secretaría de Cultura como coordinadora de sector, las entidades federativas, los municipios y las alcaldías de la Ciudad de México contribuirán en la integración, actualización y funcionamiento del Sistema Nacional de Información Cultural en la forma y términos que establezcan los acuerdos de coordinación que para tal efecto se celebren y que se sujetarán al Reglamento de esta Ley.
 
 ## Capítulo III — De la Reunión Nacional de Cultura
+
 
 ### Artículo 30
 .- La Reunión Nacional de Cultura es un mecanismo de coordinación, análisis y evaluación de las políticas públicas nacionales en materia de acceso a la cultura y disfrute de los bienes y servicios culturales que presta el Estado, así como para la promoción y respeto de los derechos culturales a nivel nacional.
@@ -309,7 +319,9 @@ Artículo reformado DOF 04-05-2021
 
 ## TÍTULO CUARTO — DE LA PARTICIPACIÓN SOCIAL Y PRIVADA
 
+
 ## Capítulo I — De la participación social
+
 
 ### Artículo 37
 .- La Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México promoverán la participación corresponsable de la sociedad, de los pueblos y comunidades indígenas y afromexicanas, en la planeación y evaluación de la política pública en materia cultural.
@@ -320,6 +332,7 @@ Artículo reformado DOF 01-04-2024
 
 ## Capítulo II — De la participación del sector privado
 
+
 ### Artículo 39
 .- La Secretaría de Cultura en coordinación con las dependencias y entidades de la administración pública de los tres órdenes de gobierno competentes en la materia, promoverá y concertará con los sectores privado y social los convenios para la investigación, conservación, promoción, protección y desarrollo del Patrimonio Cultural.
 
@@ -327,6 +340,7 @@ Artículo reformado DOF 01-04-2024
 .- La Secretaría de Cultura celebrará los convenios de concertación entre las entidades federativas, los municipios, las alcaldías de la Ciudad de México y con los sectores privado y social, para promover campañas de sensibilización, difusión y fomento sobre la importancia de la participación de los diferentes sectores de la población del país en la conservación de los bienes inmateriales y materiales que constituyan el Patrimonio Cultural, conforme a los mecanismos de participación que se creen para tal efecto.
 
 ## TÍTULO QUINTO — DE LA VINCULACIÓN INTERNACIONAL
+
 
 ### Artículo 41
 .- La Secretaría de Cultura en coordinación con las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las alcaldías de la Ciudad de México, contribuirán a las acciones destinadas a fortalecer la cooperación e intercambio internacional, en materia cultural, con apego a los tratados internacionales celebrados por los Estados Unidos Mexicanos y a las demás leyes aplicables en la materia.
@@ -336,12 +350,12 @@ Artículo reformado DOF 01-04-2024
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expidan las que deban sustituirlas.
-**TERCERO.** El Ejecutivo Federal expedirá el Reglamento y las disposiciones reglamentarias que sean necesarias para la debida ejecución de la Ley en un plazo no mayor de 180 días naturales, contados a partir del día de la entrada en vigor de la presente Ley.
-**CUARTO.** El Ejecutivo Federal y las entidades federativas, en el ámbito de sus competencias promoverán la difusión de esta Ley, en las lenguas vivas de los pueblos originarios del país.
-**QUINTO.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, así como las modificaciones a las atribuciones conferidas o a la estructura orgánica de la Secretaría de Cultura, deberán cubrirse, con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes del Ramo Administrativo 48 “Cultura", debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
-**SEXTO.** Las disposiciones de esta Ley que hagan referencias a las alcaldías de la Ciudad de México se sujetarán al régimen transitorio de la Constitución de la Ciudad de México.
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expidan las que deban sustituirlas.
+**TERCERO.-** El Ejecutivo Federal expedirá el Reglamento y las disposiciones reglamentarias que sean necesarias para la debida ejecución de la Ley en un plazo no mayor de 180 días naturales, contados a partir del día de la entrada en vigor de la presente Ley.
+**CUARTO.-** El Ejecutivo Federal y las entidades federativas, en el ámbito de sus competencias promoverán la difusión de esta Ley, en las lenguas vivas de los pueblos originarios del país.
+**QUINTO.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, así como las modificaciones a las atribuciones conferidas o a la estructura orgánica de la Secretaría de Cultura, deberán cubrirse, con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes del Ramo Administrativo 48 “Cultura", debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha dependencia.
+**SEXTO.-** Las disposiciones de esta Ley que hagan referencias a las alcaldías de la Ciudad de México se sujetarán al régimen transitorio de la Constitución de la Ciudad de México.
 Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo 35 de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 4 de mayo de 2021
@@ -351,7 +365,7 @@ Se reforma el artículo 35 de la Ley General de Cultura y Derechos Culturales, p
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 6 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lilia Villafuerte Zavala, Secretaria.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de abril de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma el artículo 5 de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
@@ -413,11 +427,11 @@ Se reforman los artículos 5; 7, fracción VI; 13; 19, fracciones VIII y IX; y s
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -18,7 +18,9 @@ Se expide la Ley de Geotermia, para quedar como sigue:
 
 ## TÍTULO PRIMERO
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de los artículos 25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, y tiene por objeto regular la Exploración y la Explotación de Recursos Geotérmicos para el aprovechamiento sustentable de la energía térmica del subsuelo dentro de los límites del territorio nacional, con el fin de generar energía eléctrica o destinarla a Usos Diversos, o ambos.
@@ -136,7 +138,9 @@ XXVII. Las demás que le confieran expresamente otras disposiciones legales.
 
 ## TÍTULO SEGUNDO — DE LAS MODALIDADES PARA EL APROVECHAMIENTO DE RECURSOS GEOTÉRMICOS
 
+
 ## Capítulo I — De los Permisos de Exploración
+
 
 ### Artículo 8
 .- La realización de actividades de Exploración por parte de las personas particulares o de las Empresas Públicas del Estado, requiere de un Permiso de Exploración previo otorgado por la Secretaría, en términos de lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables. Lo anterior, sin perjuicio de las autorizaciones que la persona solicitante del Permiso de Exploración debe obtener de otras autoridades federales, estatales o municipales, en términos de las disposiciones legales aplicables.
@@ -244,6 +248,7 @@ XV. Las demás que señale la propia Ley, el Reglamento, los términos y condici
 
 ## Capítulo II — De las Concesiones de Explotación
 
+
 ### Artículo 20
 .- Las personas titulares de un Permiso de Exploración que hayan cumplido con los requisitos establecidos en esta Ley y su Reglamento y las disposiciones que al efecto se emitan, pueden solicitar ante la Secretaría la Concesión correspondiente.
 La Secretaría debe resolver sobre la procedencia o improcedencia de las solicitudes de Concesión en los plazos y conforme al procedimiento establecido en el Reglamento y las disposiciones que al efecto se emitan.
@@ -340,6 +345,7 @@ XII. Las demás que señale la propia Ley, el Reglamento, los términos y condic
 
 ## Capítulo III — De las Disposiciones aplicables a los Permisos y las Concesiones
 
+
 ### Artículo 27
 .- Los Permisos de Exploración y las Concesiones no otorgan derechos reales a sus personas titulares, sólo generan un derecho temporal de acuerdo con el objeto de cada instrumento.
 
@@ -372,6 +378,7 @@ En el título del Permiso de Exploración o de la Concesión, la Secretaría deb
 .- El Reglamento de la presente Ley debe establecer, entre otros aspectos, el procedimiento y requisitos para el otorgamiento de Permisos de Exploración, Concesiones, prórrogas, y demás situaciones particulares como los avisos de Aprovechamiento Geotérmico Exento y las demás no previstas en la presente Ley.
 
 ## Sección I — De la Terminación, Revocación y Caducidad
+
 
 ### Artículo 31
 .- Los Permisos de Exploración y las Concesiones se extinguen por:
@@ -450,6 +457,7 @@ La persona titular de un Permiso de Exploración o Concesión que respecto del c
 
 ## Sección II — Del Procedimiento de Reasignación
 
+
 ### Artículo 39
 .- Cuando la persona concesionaria dé aviso a la Secretaría de la disminución en sus capacidades técnicas, financieras o legales, de tal manera que le impida cumplir con el objeto, términos y condiciones estipulados en el título de Concesión, la Secretaría puede realizar la Reasignación de dicha Área Geotérmica.
 Asimismo, se puede realizar la Reasignación a aquellas Áreas Geotérmicas que hayan sido objeto de extinción por terminación anticipada, revocación o caducidad de los títulos de Concesión correspondientes.
@@ -461,6 +469,7 @@ Asimismo, se puede realizar la Reasignación a aquellas Áreas Geotérmicas que 
 .- La Secretaría puede ordenar a la Comisión Federal de Electricidad el resguardo de las Áreas Geotérmicas que hayan sido objeto de extinción por terminación anticipada, revocación o caducidad de los títulos de Concesión correspondientes, mientras se lleva a cabo la Reasignación, para la cual puede proporcionar los recursos que sean necesarios para el debido resguardo de dichas Áreas Geotérmicas durante el período mencionado.
 
 ## Capítulo IV — De los Permisos para Usos Diversos y los Aprovechamientos Geotérmicos Exentos
+
 
 ### Artículo 42
 .- El aprovechamiento y Explotación del Recurso Geotérmico destinado a Usos Diversos requiere de un Permiso para Usos Diversos otorgado por la Secretaría en los términos de esta Ley, su Reglamento y demás disposiciones normativas aplicables.
@@ -507,6 +516,7 @@ V. Cualquier otro previsto en el Reglamento y en las disposiciones que para tal 
 .- Los requisitos para el otorgamiento, seguimiento, reporte, terminación, revocación y caducidad de los Permisos de Usos Diversos y los avisos de Aprovechamientos Geotérmicos Exentos se deben establecer en el Reglamento de esta Ley y en las Disposiciones Administrativas de Carácter General que para tal efecto emita la Secretaría.
 
 ## Capítulo V
+
 Otras Disposiciones
 
 ### Artículo 50
@@ -535,7 +545,9 @@ La Secretaría debe entregar a la persona solicitante en el mismo acto administr
 
 ## TÍTULO TERCERO — INFORMES, VERIFICACIÓN Y MEDIDAS DE SEGURIDAD
 
+
 ## Capítulo I — De la Información del Subsuelo Nacional
+
 
 ### Artículo 55
 .- Las personas particulares y las Empresas Públicas del Estado que realizan trabajos de Exploración o Explotación de Áreas Geotérmicas, deben entregar la información geológica, geoquímica, geofísica, geohidrológica, y demás obtenida en la etapa de Exploración de áreas con posible potencial geotérmico a la Secretaría, la cual se encarga del acopio, resguardo y administración de dicha información.
@@ -566,6 +578,7 @@ VI. Los demás actos jurídicos que deban inscribirse en este registro, derivado
 
 ## Capítulo II — De las Medidas de Seguridad y Verificación
 
+
 ### Artículo 59
 .- Las personas titulares de Permisos de Exploración, Concesiones y Permisos de Usos Diversos, así como las personas que realicen Aprovechamientos Geotérmicos Exentos deben informar a la Secretaría, por escrito y en un plazo máximo de cinco días naturales, acerca de todo incidente que pudiera afectar la seguridad de sus instalaciones, personas, bienes o al medio ambiente.
 
@@ -588,7 +601,9 @@ IV. En su caso, el desmantelamiento de instalaciones y sistemas destinados a la 
 
 ## TÍTULO CUARTO — INFRACCIONES, SANCIONES Y RECURSOS
 
+
 ## Capítulo Único
+
 
 ### Artículo 63
 .- Las infracciones a esta Ley y a sus disposiciones reglamentarias deben ser sancionadas con amonestaciones, multas de cinco mil a cuarenta y cinco mil veces el valor de la Unidad de Medida y Actualización vigente, suspensión temporal de actividades o revocación de Permiso de Exploración, Concesión o Permiso para Usos Diversos de que se trate, a juicio de la Secretaría, tomando en cuenta la importancia de la falta y la extensión del Área Geotérmica permisionada o concesionada, según sea el caso.
@@ -634,6 +649,6 @@ Para dar certeza jurídica a la implementación de la presente Ley, los actos de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

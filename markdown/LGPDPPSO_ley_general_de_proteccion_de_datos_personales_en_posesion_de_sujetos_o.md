@@ -18,7 +18,9 @@ Se expide la Ley General de Protección de Datos Personales en Posesión de Suje
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo Único — Del Objeto de la Ley
+
 
 ### Artículo 1
 . La presente Ley es reglamentaria de los artículos 6o., Base A, y 16, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección de datos personales en posesión de sujetos obligados y, sus disposiciones son de orden público de interés social y de observancia general en todo el territorio nacional.
@@ -155,11 +157,15 @@ En el tratamiento de datos personales de menores de edad se deberá privilegiar 
 Para el caso de la interpretación, se podrán tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de protección de datos personales.
 
 ### Artículo 9
-. A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones Párrafo reformado DOF 14-11-2025 Las leyes de las Entidades Federativas, en el ámbito de sus respectivas competencias, deberán determinar las disposiciones que les resulten aplicables en materia supletoria a las Autoridades garantes en la aplicación e interpretación de esta Ley.
+. A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones
+Párrafo reformado DOF 14-11-2025
+Las leyes de las Entidades Federativas, en el ámbito de sus respectivas competencias, deberán determinar las disposiciones que les resulten aplicables en materia supletoria a las Autoridades garantes en la aplicación e interpretación de esta Ley.
 
 ## TÍTULO SEGUNDO — PRINCIPIOS Y DEBERES
 
+
 ## Capítulo I — De los Principios
+
 
 ### Artículo 10
 . El responsable deberá observar los principios de licitud, finalidad, lealtad, consentimiento, calidad, proporcionalidad, información y responsabilidad en el tratamiento de datos personales.
@@ -286,6 +292,7 @@ VIII. Garantizar que sus políticas públicas, programas, servicios, sistemas o 
 
 ## Capítulo II — De los Deberes
 
+
 ### Artículo 25
 . Con independencia del tipo de sistema en el que se encuentren los datos personales o el tipo de tratamiento que se efectúe, el responsable deberá establecer y mantener las medidas de seguridad de carácter administrativo, físico y técnico para la protección de los datos personales contra daño, pérdida, alteración, destrucción o su uso, acceso o tratamiento no autorizado, así como garantizar su confidencialidad, integridad y disponibilidad.
 
@@ -398,7 +405,9 @@ Lo anterior, sin menoscabo de lo establecido en las disposiciones de acceso a la
 
 ## TÍTULO TERCERO — DERECHOS DE LAS PERSONAS TITULARES Y SU EJERCICIO
 
+
 ## Capítulo I — De los Derechos de Acceso, Rectificación, Cancelación y Oposición
+
 
 ### Artículo 37
 . En todo momento la persona titular o su representante podrán solicitar al responsable, el acceso, rectificación, cancelación u oposición al tratamiento de los datos personales que le conciernen, de conformidad con lo establecido en el presente Título. El ejercicio de cualquiera de los derechos ARCO no es requisito previo, ni impide el ejercicio de otro.
@@ -420,6 +429,7 @@ I. Aun siendo lícito el tratamiento, el mismo debe cesar para evitar que su per
 II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses, derechos o libertades, y estén destinados a evaluar, sin intervención humana, determinados aspectos personales de la misma o analizar o predecir, en particular, su rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento.
 
 ## Capítulo II — Del Ejercicio de los Derechos de Acceso, Rectificación, Cancelación y Oposición
+
 
 ### Artículo 42
 . La recepción y trámite de las solicitudes para el ejercicio de los derechos ARCO que se formulen a los responsables, se sujetará al procedimiento establecido en el presente Título y demás disposiciones que resulten aplicables en la materia.
@@ -509,13 +519,16 @@ En todos los casos anteriores, el responsable deberá informar a la persona titu
 
 ## Capítulo III — De la Portabilidad de los Datos
 
+
 ### Artículo 51
 . Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente utilizado, la persona titular tendrá derecho a obtener del responsable una copia de los datos objeto de tratamiento en un formato electrónico estructurado y comúnmente utilizado que le permita seguir utilizándolos.
 Cuando la persona titular haya facilitado los datos personales y el tratamiento se base en el consentimiento o en un contrato, tendrá derecho a transmitir dichos datos personales y cualquier otra información que haya facilitado y que se conserve en un sistema de tratamiento automatizado a otro sistema en un formato electrónico comúnmente utilizado, sin impedimentos por parte del responsable del tratamiento de quien se retiren los datos personales.
 
 ## TÍTULO CUARTO — RELACIÓN DEL RESPONSABLE Y LA PERSONA ENCARGADA
 
+
 ## Capítulo Único
+
 Responsable y Persona Encargada
 
 ### Artículo 52
@@ -582,7 +595,9 @@ En cualquier caso, el responsable no podrá adherirse a servicios que no garanti
 
 ## TÍTULO QUINTO — COMUNICACIONES DE DATOS PERSONALES
 
+
 ## Capítulo Único — De las Transferencias y Remisiones de Datos Personales
+
 
 ### Artículo 59
 . Toda transferencia de datos personales, sea esta nacional o internacional, se encuentra sujeta al consentimiento de la persona titular, salvo las excepciones previstas en los artículos 16, 60 y 64 de esta Ley.
@@ -631,7 +646,9 @@ La actualización de algunas de las excepciones previstas en este artículo no e
 
 ## TÍTULO SEXTO — ACCIONES PREVENTIVAS EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
 
+
 ## Capítulo I — De las Mejores Prácticas
+
 
 ### Artículo 66
 . Para el cumplimiento de las obligaciones previstas en la presente Ley, el responsable podrá desarrollar o adoptar, en lo individual o en acuerdo con otros responsables, encargados u organizaciones, esquemas de mejores prácticas que tengan por objeto:
@@ -692,6 +709,7 @@ El plazo para la emisión de las recomendaciones a que se refiere el párrafo an
 . Cuando a juicio del sujeto obligado se puedan comprometer los efectos que se pretenden lograr con la posible puesta en operación o modificación de políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales o se trate de situaciones de emergencia o urgencia, no será necesario realizar la evaluación de impacto en la protección de datos personales.
 
 ## Capítulo II
+
 De las Bases de Datos en Posesión de Instancias de Seguridad, Procuración y Administración de Justicia
 
 ### Artículo 74
@@ -707,9 +725,11 @@ Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicia
 . Los responsables de las bases de datos a que se refiere este Capítulo deberán establecer medidas de seguridad de nivel alto, para garantizar la integridad, disponibilidad y confidencialidad de la información, que permitan proteger los datos personales contra daño, pérdida, alteración, destrucción o el uso, acceso o tratamiento no autorizado.
 
 ## TÍTULO SÉPTIMO — RESPONSABLES EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS
+
 OBLIGADOS
 
 ## Capítulo I
+
 Comité de Transparencia
 
 ### Artículo 77
@@ -737,6 +757,7 @@ VIII. Dar vista al órgano interno de control o instancia equivalente en aquello
 
 ## Capítulo II — De la Unidad de Transparencia
 
+
 ### Artículo 79
 . Cada responsable contará con una Unidad de Transparencia que se integrará y funcionará conforme a lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, que tendrá además las siguientes funciones:
 
@@ -761,7 +782,9 @@ Los sujetos obligados promoverán acuerdos con instituciones públicas especiali
 
 ## TÍTULO OCTAVO — AUTORIDADES GARANTES
 
+
 ## Capítulo I — De la Secretaría
+
 
 ### Artículo 81
 . La Secretaría tendrá las siguientes atribuciones:
@@ -832,6 +855,7 @@ XXXII. Las demás que le confiera la presente Ley y demás ordenamientos aplicab
 
 ## Capítulo II — De las Autoridades Garantes
 
+
 ### Artículo 82
 . En la integración, procedimiento de designación y funcionamiento de las Autoridades garantes se estará a lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 
@@ -870,6 +894,7 @@ XV. Emitir, en su caso, las recomendaciones no vinculantes correspondientes a la
 
 ## Capítulo III — De la Coordinación y Promoción del Derecho a la Protección de Datos Personales
 
+
 ### Artículo 84
 . Los responsables deberán colaborar con la Secretaría y las Autoridades garantes, según corresponda, para capacitar y actualizar de forma permanente a todas las personas servidoras públicas que tengan adscritas en materia de protección de datos personales, a través de la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente.
 
@@ -884,7 +909,9 @@ III. Fomentar la creación de espacios de participación social y ciudadana que 
 
 ## TÍTULO NOVENO — DEL PROCEDIMIENTO DE IMPUGNACIÓN
 
+
 ## Capítulo I — Del Recurso de Revisión
+
 
 ### Artículo 86
 . La persona titular o su representante podrá interponer un recurso de revisión ante la Secretaría o las Autoridades garantes, según corresponda, o bien, ante la Unidad de Transparencia que haya conocido de la solicitud para el ejercicio de los derechos ARCO dentro de un plazo que no podrá exceder de quince días contados a partir de la notificación de la respuesta, a través de los siguientes medios:
@@ -1109,6 +1136,7 @@ Las personas titulares podrán impugnar dichas resoluciones ante los jueces y tr
 
 ## Capítulo II — Del Recurso de Revisión en Materia de Seguridad Nacional
 
+
 ### Artículo 108
 . La persona titular de la Consejería Jurídica del Ejecutivo Federal podrá interponer recurso de revisión en materia de seguridad nacional directamente ante la Suprema Corte de Justicia de la Nación, cuando considere que las resoluciones emitidas por la Secretaría ponen en peligro la seguridad nacional.
 El recurso deberá interponerse durante los siete días siguientes a aquél en el que la Autoridad garante notifique la resolución al sujeto obligado. La Suprema Corte de Justicia de la Nación determinará de inmediato, en su caso, la suspensión de la ejecución de la resolución, y dentro de los cinco días siguientes a la interposición del recurso resolverá sobre su admisión o improcedencia.
@@ -1129,6 +1157,7 @@ En caso de que se revoque la resolución, la Secretaría deberá actuar en los t
 
 ## Capítulo III — De los Criterios de Interpretación
 
+
 ### Artículo 113
 . Una vez que hayan causado ejecutoria las resoluciones dictadas con motivo de los recursos que se sometan a su competencia, la Secretaría podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en los mismos.
 La Secretaría podrá emitir criterios de carácter orientador para las Autoridades garantes, que se establecerán por reiteración al resolver tres casos análogos de manera consecutiva en el mismo sentido, derivados de resoluciones que hayan causado estado.
@@ -1139,7 +1168,9 @@ Todo criterio que emita la Secretaría deberá contener una clave de control par
 
 ## TÍTULO DÉCIMO — FACULTAD DE VERIFICACIÓN
 
+
 ## Capítulo Único — Del Procedimiento de Verificación
+
 
 ### Artículo 115
 . La Secretaría y las Autoridades garantes, en el ámbito de sus respectivas competencias, tendrán la atribución de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley y demás disposiciones que se deriven de ésta.
@@ -1186,9 +1217,11 @@ Estas medidas sólo podrán tener una finalidad correctiva y será temporal hast
 El informe de auditoría deberá dictaminar sobre la adecuación de las medidas y controles implementados por el responsable, identificar sus deficiencias, así como proponer acciones correctivas complementarias, o bien, recomendaciones que en su caso correspondan.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 MEDIDAS DE APREMIO Y RESPONSABILIDADES
 
 ## Capítulo I — De las Medidas de Apremio
+
 
 ### Artículo 121
 . Para el cumplimiento de las resoluciones emitidas por la Secretaría o las Autoridades garantes, según corresponda, se deberá observar lo dispuesto en el Capítulo V del Título Octavo de la Ley General de Transparencia y Acceso a la Información Pública.
@@ -1239,6 +1272,7 @@ Se considerará reincidente al que habiendo incurrido en una infracción que hay
 . En contra de la imposición de medidas de apremio procede el recurso correspondiente ante los jueces y tribunales especializados en materia de datos personales establecidos por el Poder Judicial de la Federación o, en su caso, ante el Poder Judicial correspondiente en las Entidades Federativas.
 
 ## Capítulo II — De las Sanciones
+
 
 ### Artículo 132
 . Serán causas de sanción por incumplimiento de las obligaciones establecidas en la materia de la presente Ley, las siguientes:
@@ -1306,7 +1340,6 @@ y Artículo Cuarto.- ………
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
 **Segundo.-** A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
-
 I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el Diario Oficial de la Federación el 5 de julio de 2010;
 
 II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación el 4 de mayo de 2015 y sus modificaciones posteriores;
@@ -1339,7 +1372,7 @@ La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad gar
 La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
 **Décimo Cuarto.-** El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 **Décimo Quinto.-** Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y Décimo
-**Tercero.** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
+**Tercero.-** del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
 El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
 **Décimo Sexto.-** El Consejo del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno.
 Hasta en tanto las legislaturas de las entidades federativas que correspondan armonizan su marco jurídico en materia de acceso a la información pública en términos de lo previsto en el transitorio Cuarto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, la persona titular del poder ejecutivo local de que se trate será integrante del Consejo del Sistema Nacional de Acceso a la Información Pública.
@@ -1355,12 +1388,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

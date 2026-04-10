@@ -1,8 +1,9 @@
-# 🇲🇽 mx-md — Leyes mexicanas en Markdown
+# 🇲🇽 mx-md — Leyes mexicanas en Markdown y JSON canónico
 
-Las **315+ leyes federales vigentes** de México convertidas a **Markdown limpio y estructurado**, listas para usarse en agentes de IA, RAG, búsqueda semántica o cualquier herramienta que consuma texto.
+Las **315 leyes federales vigentes** de México en **Markdown estructurado** y **JSON canónico (AST)**, listas para agentes de IA, RAG, búsqueda semántica, APIs legales o cualquier herramienta que consuma texto o datos estructurados.
 
-Fuente oficial: [Cámara de Diputados — Leyes Federales Vigentes](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
+- **37,939 artículos** · **58,310 fracciones** · **35,176 notas de reforma** · **42 tablas OCR**
+- Fuente oficial: [Cámara de Diputados — Leyes Federales Vigentes](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
 
 👉 **[Ver índice completo de leyes](INDICE.md)**
 
@@ -16,26 +17,18 @@ Los PDFs de la [Cámara de Diputados](https://www.diputados.gob.mx) son la fuent
 - Marcadores de página embebidos en mitad del texto
 - Sin estructura semántica aprovechable
 
-Este repo los convierte a Markdown con jerarquía clara (`##` por Título/Capítulo, `###` por Artículo) para que tus agentes puedan trabajar con ellos sin fricción.
+Este repo los convierte a dos formatos complementarios:
+
+1. **JSON canónico (AST)** — Árbol sintáctico estructurado con IDs estables, ideal para APIs, búsquedas exactas y análisis programático.
+2. **Markdown** — Renderizado desde el JSON, con jerarquía clara (`##` por Título/Capítulo, `###` por Artículo), ideal para RAG, LLMs y lectura humana.
+
+El **JSON es la fuente de verdad**; el Markdown es una de sus vistas.
 
 ---
 
 ## � Progreso
 
-| Lote | Leyes | Estado |
-|------|-------|--------|
-| Lote 1 | 001-013 + LISR (114) | ✅ Publicado |
-| Lote 2 | 014-023 | ✅ Publicado |
-| Lote 3 | 024-033 | ✅ Publicado |
-| Lote 4 | 034-043 | ✅ Publicado |
-| Lote 5 | 044-053 | ✅ Publicado |
-| Lote 6 | 054-063 | ✅ Publicado |
-| Lote 7 | 064-073 | ✅ Publicado |
-| Lote 8 | 074-083 | ✅ Publicado |
-| Lote 9 | 084-113 | ✅ Publicado |
-| Lotes 10-12 | 115-249 | ✅ Publicado |
-| Lote 13 | 250-294 | ✅ Publicado |
-| Lote 14 | 295-315 | ✅ Publicado |
+**315/315 leyes** — catálogo completo.
 
 Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado actualizado ley por ley.
 
@@ -45,20 +38,26 @@ Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado ac
 
 ```
 mx-md/
-├── markdown/               # Markdowns generados (listos para usar)
+├── canonical/              # JSON canónico (AST) — fuente de verdad
+│   ├── CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.json
+│   ├── LISR_ley_del_impuesto_sobre_la_renta.json
+│   └── ...                 # 315 archivos, uno por ley
+├── markdown/               # Markdown renderizado desde el JSON
 │   ├── CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md
 │   ├── LISR_ley_del_impuesto_sobre_la_renta.md
-│   ├── CFF_codigo_fiscal_de_la_federacion.md
 │   └── ...                 # Convención: {ABREV}_{nombre_snake_case}.md
+├── schema/
+│   ├── law_ast.schema.json # JSON Schema del AST canónico
+│   └── example_cpeum_fragment.json
 ├── scripts/
 │   ├── download_leyes.py   # Descarga todos los PDFs desde diputados.gob.mx
-│   ├── batch_convert.py    # Convierte todos los PDFs a Markdown
+│   ├── batch_convert.py    # Convierte todos los PDFs a JSON + Markdown
 │   ├── pdf_to_md.py        # Conversión individual (CLI)
-│   └── gen_indice.py       # Genera INDICE.md
-├── origen-docs/            # PDFs descargados (no versionados, mismo slug que los .md)
+│   └── gen_indice.py       # Genera INDICE.md con stats por ley
+├── origen-docs/            # PDFs descargados (no versionados)
 ├── catalogo.json           # Catálogo de leyes (generado automáticamente)
-├── INDICE.md               # Índice navegable de todas las leyes
-├── CHANGELOG.md            # Historial de lotes publicados
+├── INDICE.md               # Índice navegable con conteo de artículos
+├── CHANGELOG.md            # Historial de cambios
 ├── requirements.txt
 └── README.md
 ```
@@ -98,14 +97,23 @@ python scripts/download_leyes.py --skip-existing
 python scripts/download_leyes.py --limit 10
 ```
 
-### 3. Convertir a Markdown
+### 3. Convertir a JSON + Markdown
 
 ```bash
-# Convertir todos los PDFs
+# Convertir todos los PDFs (JSON canónico + Markdown)
 python scripts/batch_convert.py
 
 # Solo los que no se han convertido
 python scripts/batch_convert.py --skip-existing
+
+# Solo JSON (sin Markdown)
+python scripts/batch_convert.py --format json
+
+# Solo Markdown (sin JSON)
+python scripts/batch_convert.py --format md
+
+# Convertir con validación contra schema
+python scripts/batch_convert.py --validate
 
 # Convertir un PDF específico
 python scripts/pdf_to_md.py origen-docs/LISR_ley_del_impuesto_sobre_la_renta.pdf --verbose
@@ -121,10 +129,12 @@ python scripts/gen_indice.py
 
 ## 🤖 Cómo usarlo en un agente / RAG
 
-El Markdown generado tiene esta estructura consistente:
+### Markdown
+
+El Markdown tiene esta estructura consistente:
 
 ```markdown
-# Ley del Impuesto Sobre la Renta (LISR)
+# Ley del Impuesto Sobre la Renta
 
 ## TÍTULO I
 DISPOSICIONES GENERALES
@@ -136,18 +146,58 @@ Las personas físicas y las morales están obligadas al pago...
 Para los efectos de esta Ley, se considera establecimiento permanente...
 ```
 
-Puedes chunkearlo por artículo (cada `### Artículo N` es un chunk natural), por capítulo, o cargarlo completo dependiendo del contexto de tu ventana.
+Puedes chunkearlo por artículo (cada `### Artículo N` es un chunk natural), por capítulo, o cargarlo completo.
+
+### JSON canónico (AST)
+
+Cada ley tiene un JSON estructurado con nodos tipados e IDs estables:
+
+```json
+{
+  "schema_version": "1.0.0",
+  "id": "LISR_ley_del_impuesto_sobre_la_renta",
+  "abbreviation": "LISR",
+  "name": "LEY del Impuesto Sobre la Renta",
+  "structure": [
+    {
+      "type": "titulo",
+      "id": "titulo-i",
+      "heading": "TÍTULO I",
+      "descriptor": "DISPOSICIONES GENERALES",
+      "children": [
+        {
+          "type": "articulo",
+          "id": "titulo-i.articulo-1",
+          "heading": "Artículo 1",
+          "content": [
+            { "type": "paragraph", "text": "Las personas físicas y las morales están obligadas..." },
+            { "type": "fraccion", "ordinal": "I", "text": "Las residentes en México..." }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+Los IDs son paths jerárquicos estables: `titulo-i.capitulo-ii.articulo-15`. Puedes usarlos para referencia directa, linking cruzado, y versionado.
 
 ---
 
 ## 🔧 Cómo funciona
 
+```
+PDF → extract_lines() → build_ast() → AST canónico (JSON)
+                                        ├── json.dump() → canonical/{slug}.json
+                                        └── render_markdown() → markdown/{slug}.md
+```
+
 1. **Scraping** — `download_leyes.py` parsea la tabla de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm) y descarga cada PDF.
-2. **Extracción** — `pdf_to_md.py` usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto con alta fidelidad.
-3. **Limpieza** — filtra encabezados repetitivos de cada página y marcadores de paginación (`N de 313`).
-4. **Estructuración** — detecta `TÍTULO`, `CAPÍTULO`, `SECCIÓN` y `Artículo N` para asignar niveles de encabezado Markdown.
-5. **Unión de líneas** — une líneas de continuación que el PDF partió artificialmente, incluyendo palabras con guión.
-6. **Índice** — `gen_indice.py` genera un `INDICE.md` navegable con links a cada ley disponible.
+2. **Extracción** — `extract_lines()` usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto, filtrando headers repetitivos y marcadores de página. Tablas-imagen se extraen con OCR (Tesseract).
+3. **AST** — `build_ast()` construye un árbol canónico: detecta Títulos, Capítulos, Secciones, Artículos, fracciones, incisos, notas de reforma y tablas. Asigna IDs estables jerárquicos.
+4. **JSON** — El AST se serializa como JSON. Cada archivo cumple `schema/law_ast.schema.json`.
+5. **Markdown** — `render_markdown()` recorre el AST y produce Markdown limpio. El JSON es la fuente de verdad.
+6. **Índice** — `gen_indice.py` genera un `INDICE.md` con links a cada ley y conteo de artículos.
 
 ---
 

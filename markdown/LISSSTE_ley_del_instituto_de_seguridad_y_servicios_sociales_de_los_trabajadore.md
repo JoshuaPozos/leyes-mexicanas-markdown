@@ -16,6 +16,7 @@ LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTA
 
 ## TÍTULO PRIMERO — DE LAS DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es de orden público, de interés social y de observancia en toda la República, y se aplicará a las Dependencias, Entidades, Trabajadores al servicio civil, Pensionados y Familiares Derechohabientes, de:
 
@@ -84,7 +85,8 @@ b) Servicios turísticos;
 c) Servicios funerarios;
 Inciso reformado DOF 24-03-2023
 
-d) Servicios de atención para el bienestar y desarrollo infantil, y Inciso reformado DOF 24-03-2023
+d) Servicios de atención para el bienestar y desarrollo infantil, y
+Inciso reformado DOF 24-03-2023
 
 e) Casas de día para adultos mayores jubilados y pensionados derechohabientes del Instituto;
 Inciso adicionado DOF 24-03-2023
@@ -136,7 +138,8 @@ Inciso reformado DOF 20-01-2023
 
 b) Los hijos del Trabajador menores de dieciocho años;
 
-c) Los hijos del Trabajador o Pensionado mayores de dieciocho años, cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen, lo que se comprobará mediante certificado médico, expedido por el Instituto y por medios legales procedentes; o hasta la edad de veinticinco años, previa comprobación de que están realizando estudios de nivel medio superior o superior, de cualquier rama del conocimiento en planteles oficiales o reconocidos, y que no tengan un trabajo, y Inciso reformado DOF 27-05-2011
+c) Los hijos del Trabajador o Pensionado mayores de dieciocho años, cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen, lo que se comprobará mediante certificado médico, expedido por el Instituto y por medios legales procedentes; o hasta la edad de veinticinco años, previa comprobación de que están realizando estudios de nivel medio superior o superior, de cualquier rama del conocimiento en planteles oficiales o reconocidos, y que no tengan un trabajo, y
+Inciso reformado DOF 27-05-2011
 
 d) Los ascendientes que dependan económicamente del Trabajador o Pensionado.
 Los familiares que se mencionan en esta fracción tendrán el derecho que esta Ley establece si reúnen los requisitos siguientes: 1) Que el Trabajador o el Pensionado tenga derecho a los seguros, prestaciones y servicios señalados en esta Ley, y 2) Se deroga.
@@ -182,7 +185,8 @@ XXX. Unión civil, es el acto jurídico bilateral que se constituye cuando las p
 Fracción adicionada DOF 20-01-2023
 
 XXXI. UMA, Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas, así como en las disposiciones jurídicas que emanen de dichas leyes.
-Fracción adicionada DOF 08-05-2023 Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta Ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
+Fracción adicionada DOF 08-05-2023
+Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta Ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
 Párrafo adicionado DOF 20-01-2023
 
 ### Artículo 7
@@ -207,7 +211,8 @@ Para estos efectos, las Dependencias y Entidades estarán obligadas a proporcion
 . El Instituto definirá los medios para integrar un expediente electrónico único para cada Derechohabiente.
 El expediente integrará todo lo relativo a vigencia de derechos, historial de cotización, situación jurídica, historia clínica, historia crediticia institucional, así como otros conceptos que se definan en el reglamento respectivo.
 Los datos y registros que se asienten en el expediente electrónico se harán de forma que puedan ser desagregados al menos por sexo, edad, pertenencia étnica, discapacidad o cualquier otra condición protegida, con el fin de poder generar una estadística para evaluar las brechas de género en los servicios que presta el Instituto y realizar las mejoras que permitan la consecución de la igualdad sustantiva, considerando las leyes aplicables en materia de protección de datos personales en posesión de sujetos obligados. Los datos recabados serán confidenciales y la revelación de los mismos a terceros, sin autorización expresa de las autoridades del Instituto y del Derechohabiente respectivo o sin causa legal que lo justifique, será sancionada en los términos de la legislación penal federal vigente.
-Párrafo reformado DOF 15-01-2026 El personal autorizado para el manejo de la información contenida en el expediente electrónico, así como los Derechohabientes tendrán acceso a la información de sus expedientes mediante los mecanismos y normas que establezca el Instituto.
+Párrafo reformado DOF 15-01-2026
+El personal autorizado para el manejo de la información contenida en el expediente electrónico, así como los Derechohabientes tendrán acceso a la información de sus expedientes mediante los mecanismos y normas que establezca el Instituto.
 La certificación que el Instituto emita en términos de las disposiciones aplicables, a través de la unidad administrativa competente, con base en la información que conste en el expediente electrónico a que se refiere este artículo, tendrá plenos efectos legales para fines civiles, administrativos y judiciales.
 El Trabajador y el Pensionado deberán auxiliar al Instituto a mantener al día su expediente electrónico y el de sus Familiares Derechohabientes. Para el efecto, la Junta Directiva incluirá en el reglamento respectivo, disposiciones que los incentiven a presentarse periódicamente a las instalaciones que el Instituto determine para cumplir con esta disposición.
 
@@ -235,7 +240,9 @@ Esta disposición será aplicable a los seguros de riesgos del trabajo, invalide
 
 ## TÍTULO SEGUNDO — DEL RÉGIMEN OBLIGATORIO
 
+
 ## CAPÍTULO I — SUELDOS, CUOTAS Y APORTACIONES
+
 
 ### Artículo 17
 . El Sueldo Básico que se tomará en cuenta para los efectos de esta Ley, será el sueldo del tabulador regional que para cada puesto se haya señalado.
@@ -267,10 +274,14 @@ Las Aportaciones y Cuotas a que se refiere el párrafo anterior son las señalad
 ### Artículo 20
 . Cuando no se hubieren hecho a los Trabajadores o Pensionados los Descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un treinta por ciento del sueldo o Pensión mientras el adeudo no esté cubierto. En caso de que la omisión sea atribuible al Trabajador o Pensionado, se le mandará descontar hasta un cincuenta por ciento del sueldo.
 Para el caso específico de los créditos para vivienda otorgados por el Fondo de la Vivienda, mientras el adeudo no esté cubierto y de conformidad al esquema elegido por la persona trabajadora al momento de formalizar el contrato respectivo, el Instituto podrá solicitar a la dependencia o entidad para la cual labore la persona acreditada, descontar hasta un treinta por ciento de la pensión, del Sueldo Básico o de la cantidad que resulte de sumar el Sueldo Básico y las compensaciones que en términos de las disposiciones aplicables correspondan, o bien el veinte por ciento de la pensión correspondiente cuando el crédito se haya originado como pensionado.
-Párrafo adicionado DOF 08-05-2023 La solicitud del Instituto será suficiente para que la dependencia, entidad o institución pensionaria quede obligada a realizar el descuento.
-Párrafo adicionado DOF 08-05-2023 En caso de que la omisión sea atribuible a la persona trabajadora o pensionada, se realizará el cálculo de los intereses generados, actualizaciones y capital adeudado y se reestructurará de conformidad con lo establecido en el contrato.
-Párrafo adicionado DOF 08-05-2023 Para tal efecto, el Instituto solicitará que se descuente dicho monto del sueldo básico o, de la cantidad que resulte de sumar el sueldo básico y las compensaciones, que en términos de las disposiciones aplicables correspondan, o de la pensión, de conformidad al esquema elegido por la persona trabajadora al momento de formalizar el contrato respectivo.
-Párrafo adicionado DOF 08-05-2023 Cuando el error en el cálculo de las obligaciones de pago o en el descuento correspondiente no sea atribuible a la persona trabajadora o pensionada, no le serán reclamables intereses, cargos o adeudos extraordinarios.
+Párrafo adicionado DOF 08-05-2023
+La solicitud del Instituto será suficiente para que la dependencia, entidad o institución pensionaria quede obligada a realizar el descuento.
+Párrafo adicionado DOF 08-05-2023
+En caso de que la omisión sea atribuible a la persona trabajadora o pensionada, se realizará el cálculo de los intereses generados, actualizaciones y capital adeudado y se reestructurará de conformidad con lo establecido en el contrato.
+Párrafo adicionado DOF 08-05-2023
+Para tal efecto, el Instituto solicitará que se descuente dicho monto del sueldo básico o, de la cantidad que resulte de sumar el sueldo básico y las compensaciones, que en términos de las disposiciones aplicables correspondan, o de la pensión, de conformidad al esquema elegido por la persona trabajadora al momento de formalizar el contrato respectivo.
+Párrafo adicionado DOF 08-05-2023
+Cuando el error en el cálculo de las obligaciones de pago o en el descuento correspondiente no sea atribuible a la persona trabajadora o pensionada, no le serán reclamables intereses, cargos o adeudos extraordinarios.
 Párrafo adicionado DOF 08-05-2023
 
 ### Artículo 20
@@ -296,7 +307,8 @@ El Instituto se reserva la facultad de verificar la información recibida. En ca
 Asimismo, deberán cubrir la actualización de dichas Cuotas, Aportaciones y Descuentos, en los términos establecidos en el Código Fiscal de la Federación.
 Los titulares de las Dependencias y Entidades, sus oficiales mayores o equivalentes, y los servidores públicos encargados de realizar las retenciones y Descuentos serán responsables en los términos de Ley, de los actos y omisiones que resulten en perjuicio de la Dependencia o Entidad para la que laboren, del Instituto, de los Trabajadores o Pensionados, independientemente de la responsabilidad civil, penal o administrativa en que incurran.
 La omisión de enterar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado las cuotas, aportaciones, cuotas sociales o descuentos que se realicen al salario de los trabajadores constituye una falta administrativa grave, la cual será sancionada en términos de la Ley General de Responsabilidades Administrativas.
-Párrafo adicionado DOF 22-11-2021 Las omisiones y diferencias que resultaren con motivo de los pagos efectuados, el Instituto las notificará a las Dependencias y Entidades, debiendo éstas efectuar la aclaración o el pago, dentro de los diez días hábiles siguientes a la fecha de la notificación, en caso contrario, deberán pagar la actualización y recargos a que se refiere este artículo.
+Párrafo adicionado DOF 22-11-2021
+Las omisiones y diferencias que resultaren con motivo de los pagos efectuados, el Instituto las notificará a las Dependencias y Entidades, debiendo éstas efectuar la aclaración o el pago, dentro de los diez días hábiles siguientes a la fecha de la notificación, en caso contrario, deberán pagar la actualización y recargos a que se refiere este artículo.
 Las Dependencias y Entidades mencionadas en este artículo tendrán un plazo de diez días hábiles a partir del requerimiento formulado por el Instituto, para realizar ante el Instituto las aclaraciones correspondientes.
 Posteriormente, el Instituto requerirá a la Tesorería de la Federación, los pagos correspondientes por los adeudos vencidos que tengan las Dependencias y Entidades con cargo a su presupuesto. La señalada Tesorería deberá comprobar la procedencia del adeudo y en su caso, hacer el entero correspondiente al Instituto en un plazo no mayor de cinco días hábiles.
 En el caso de los adeudos de las Entidades Federativas, de los municipios, o de sus Dependencias o Entidades, se podrá hacer el cargo directamente a las participaciones y transferencias federales de dichas Entidades Federativas.
@@ -319,7 +331,9 @@ En caso de que las Dependencias y Entidades realicen el pago de Cuotas y Aportac
 
 ## CAPÍTULO II — SEGURO DE SALUD
 
+
 ## Sección I
+
 Generalidades
 
 ### Artículo 27
@@ -350,12 +364,14 @@ Artículo adicionado DOF 12-11-2015
 
 ## Sección II — Del Comité de Evaluación y Seguimiento de los Servicios de Salud
 
+
 ### Artículo 32
 . El Instituto establecerá un plan rector para el desarrollo y mejoramiento de la infraestructura y los servicios de salud, que deberá ser aprobado y revisado periódicamente por la Junta Directiva.
 Para este efecto se establecerá un Comité de Evaluación y Seguimiento de los servicios de salud, que se integrará de manera paritaria con tres representantes de las áreas médica, administrativa y financiera del Instituto y tres representantes de las organizaciones de Trabajadores.
 El comité tendrá las funciones de evaluar los resultados y de proponer medidas para la óptima prestación de los servicios médicos; plantear recomendaciones para que las unidades prestadoras de servicios de salud tengan los recursos necesarios y aseguren el equilibrio financiero, atendiendo prioritariamente las cuestiones de equipo, infraestructura y recursos humanos; así como proponer reconocimientos por desempeño, de conformidad con lo que establezca el reglamento que para este propósito apruebe la Junta Directiva.
 
 ## Sección III
+
 Atención Médica Preventiva
 
 ### Artículo 33
@@ -393,6 +409,7 @@ XIII. Prevención y rehabilitación de pacientes con capacidades disminuidas, y
 XIV. Las demás actividades que determine como tales la Junta Directiva de acuerdo con las posibilidades financieras del seguro de salud.
 
 ## Sección IV
+
 Atención Médica Curativa y de Maternidad y Rehabilitación Física y Mental
 
 ### Artículo 35
@@ -464,15 +481,18 @@ I. Asistencia obstétrica necesaria a partir del día en que el Instituto certif
 II. A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y ayuda para la lactancia cuando, según dictamen médico, exista incapacidad física o laboral para amamantar al hijo. Esta ayuda será proporcionada en especie, hasta por un lapso de seis meses con posterioridad al nacimiento, y se entregará a la madre o, a falta de esta, a la persona encargada de alimentarlo;
 Fracción reformada DOF 02-04-2014
 
-III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y Fracción adicionada DOF 02-04-2014
+III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y
+Fracción adicionada DOF 02-04-2014
 
 IV. Con cargo al seguro de salud, una canastilla de maternidad, al nacer el hijo, cuyo costo será señalado periódicamente por el Instituto, mediante acuerdo de la Junta Directiva.
-Fracción recorrida DOF 02-04-2014 Las prestaciones a las que se refiere este artículo deberán brindarse en condiciones de igualdad y sin discriminación de ningún tipo.
+Fracción recorrida DOF 02-04-2014
+Las prestaciones a las que se refiere este artículo deberán brindarse en condiciones de igualdad y sin discriminación de ningún tipo.
 Párrafo adicionado DOF 15-01-2026
 
 ### Artículo 40
 . Para que la Trabajadora, Pensionada, cónyuge, concubina o la mujer con quien la o el Trabajador o la o el Pensionado haya suscrito una unión civil, así como la hija menor de dieciocho años y soltera, según sea el caso, tengan derecho a las prestaciones que establece el artículo previo, será necesario que, durante los seis meses anteriores al parto, se hayan mantenido vigentes sus derechos o los de la o el Trabajador o la o el Pensionado del que se deriven estas prestaciones.
-Párrafo reformado DOF 20-01-2023 En el caso de que la Trabajadora no cumpla con el requisito de seis meses de antigüedad, la Dependencia o Entidad de su adscripción, cubrirá el costo del servicio de acuerdo con el tabulador que autorice la Junta Directiva.
+Párrafo reformado DOF 20-01-2023
+En el caso de que la Trabajadora no cumpla con el requisito de seis meses de antigüedad, la Dependencia o Entidad de su adscripción, cubrirá el costo del servicio de acuerdo con el tabulador que autorice la Junta Directiva.
 
 ### Artículo 41
 . También tendrán derecho a los servicios del seguro de salud en caso de enfermedad, los Familiares Derechohabientes de la Trabajadora o del Trabajador o de la Pensionada o del Pensionado que enseguida se enumeran:
@@ -490,7 +510,8 @@ Del mismo derecho gozarán las y los mayores de dieciocho años, sobre quienes e
 Párrafo adicionado DOF 07-06-2024
 
 IV. Los hijos mayores de dieciocho años incapacitados física o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
-Del mismo derecho gozarán las y los mayores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior, y Fracción reformada DOF 07-06-2024
+Del mismo derecho gozarán las y los mayores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior, y
+Fracción reformada DOF 07-06-2024
 
 V. Los ascendientes que dependan económicamente del Trabajador o Pensionado.
 Los familiares que se mencionan en este artículo tendrán el derecho que esta disposición establece si reúnen los siguientes requisitos:
@@ -500,6 +521,7 @@ a) Que el Trabajador o el Pensionado tenga derecho a los servicios de atención 
 b) Que dichos familiares no tengan por sí mismos derecho a las prestaciones señaladas en el inciso anterior.
 
 ## Sección V
+
 Régimen Financiero
 
 ### Artículo 42
@@ -522,12 +544,14 @@ Estos porcentajes incluyen gastos específicos de administración del seguro de 
 
 ## CAPÍTULO III — CONSERVACIÓN DE DERECHOS
 
+
 ### Artículo 43
 . El Trabajador dado de baja por cese, renuncia, terminación de la obra o del tiempo para los cuales haya sido designado, así como el que disfrute de licencia sin goce de sueldo, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación, durante un mínimo de seis meses, conservará en los dos meses siguientes a la misma, el derecho a recibir los beneficios del seguro de salud establecidos en el Capítulo anterior. Del mismo derecho disfrutarán, en lo que proceda, sus Familiares Derechohabientes.
 Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir los beneficios del seguro de salud establecidos en el Capítulo anterior.
 Párrafo adicionado DOF 22-06-2018
 
 ## CAPÍTULO IV — DE LAS PENSIONES
+
 
 ### Artículo 44
 . El derecho al goce de las Pensiones de cualquier naturaleza, comenzará desde el día en que el Trabajador o sus Familiares Derechohabientes cumplan con los requisitos establecidos en esta Ley para ello.
@@ -568,7 +592,9 @@ Las Pensiones devengadas o futuras, serán inembargables y sólo podrán ser afe
 
 ## CAPÍTULO V — SEGURO DE RIESGOS DEL TRABAJO
 
+
 ## Sección I
+
 Generalidades
 
 ### Artículo 55
@@ -577,7 +603,8 @@ Generalidades
 ### Artículo 56
 . Para los efectos de esta Ley, serán reputados como riesgos del trabajo los accidentes y enfermedades a que están expuestos los Trabajadores en el ejercicio o con motivo del trabajo.
 Se considerarán accidentes del trabajo: toda lesión orgánica o perturbación funcional, inmediata o posterior, la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en el ejercicio o con motivo del trabajo, cualesquiera que sea el lugar y el tiempo en que se preste, así como aquéllos que ocurran al Trabajador al trasladarse directamente de su domicilio o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
-Párrafo reformado DOF 22-06-2018 Asimismo, se consideran riesgos del trabajo las enfermedades señaladas por las leyes del trabajo.
+Párrafo reformado DOF 22-06-2018
+Asimismo, se consideran riesgos del trabajo las enfermedades señaladas por las leyes del trabajo.
 Los riesgos del trabajo pueden producir:
 
 I. Incapacidad temporal, que es la pérdida de facultades o aptitudes que imposibilita parcial o totalmente a una persona para desempeñar su trabajo por algún tiempo;
@@ -587,7 +614,8 @@ II. Incapacidad parcial, que es la disminución de las facultades o aptitudes de
 III. Incapacidad total, que es la pérdida de facultades o aptitudes de una persona que la imposibilita para desempeñar cualquier trabajo por el resto de la vida;
 Fracción reformada DOF 22-06-2018
 
-IV. Muerte, y Fracción reformada DOF 22-06-2018
+IV. Muerte, y
+Fracción reformada DOF 22-06-2018
 
 V. Desaparición derivada de un acto delincuencial.
 Fracción adicionada DOF 22-06-2018
@@ -680,7 +708,8 @@ Párrafo adicionado DOF 22-06-2018
 
 ### Artículo 67
 . Cuando el Trabajador fallezca a consecuencia de un riesgo del trabajo o en caso de desaparición derivada de un acto delincuencial, los familiares señalados en la sección de Pensión por causa de muerte del seguro de invalidez y vida en el orden que establece, gozarán de una Pensión equivalente al cien por ciento del Sueldo Básico que hubiese percibido el Trabajador en el momento de ocurrir el fallecimiento o la desaparición y la misma gratificación anual que le hubiere correspondido al Trabajador como Pensionado por riesgos del trabajo. En este caso, el Instituto cubrirá el Monto Constitutivo a la Aseguradora, con cargo al cual se pagará la Pensión a los Familiares Derechohabientes.
-Párrafo reformado DOF 22-06-2018 Los Familiares Derechohabientes elegirán la Aseguradora con la que deseen contratar su Seguro de Pensión con los recursos relativos al Monto Constitutivo de la Pensión a que se refiere el párrafo anterior.
+Párrafo reformado DOF 22-06-2018
+Los Familiares Derechohabientes elegirán la Aseguradora con la que deseen contratar su Seguro de Pensión con los recursos relativos al Monto Constitutivo de la Pensión a que se refiere el párrafo anterior.
 Por lo que se refiere a los recursos de la Cuenta Individual del Trabajador fallecido, o desaparecido por actos delincuenciales, sus Familiares Derechohabientes podrán optar por:
 Párrafo reformado DOF 22-06-2018
 
@@ -737,6 +766,7 @@ VIII. Llevar a cabo aquellas otras acciones que se establezcan en los reglamento
 El Instituto deberá asimismo, promover la integración y funcionamiento de una Comisión Consultiva Nacional y de Comisiones Consultivas de las Entidades Federativas de Seguridad y Salud en el Trabajo del Sector Público Federal.
 
 ## Sección II
+
 Incremento Periódico de las Pensiones
 
 ### Artículo 74
@@ -744,6 +774,7 @@ Incremento Periódico de las Pensiones
 Las Pensiones a los Familiares Derechohabientes del Trabajador por riesgos del trabajo serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el párrafo anterior.
 
 ## Sección III
+
 Régimen Financiero
 
 ### Artículo 75
@@ -751,7 +782,9 @@ Régimen Financiero
 
 ## CAPÍTULO VI — SEGURO DE RETIRO, CESANTÍA EN EDAD AVANZADA Y VEJEZ
 
+
 ## Sección I
+
 Generalidades
 
 ### Artículo 76
@@ -799,6 +832,7 @@ Los recursos depositados en la Subcuenta de retiro, cesantía en edad avanzada y
 Los recursos depositados en las Subcuentas de aportaciones voluntarias, complementarias de retiro y de ahorro a largo plazo serán inembargables hasta por un monto equivalente a veinte veces el Salario Mínimo elevado al año por cada Subcuenta, por el importe excedente a esta cantidad se podrá trabar embargo.
 
 ## Sección II
+
 Pensión por Cesantía en Edad Avanzada
 
 ### Artículo 84
@@ -826,6 +860,7 @@ Ambos supuestos se sujetarán a lo establecido en esta Ley y en las disposicione
 El Pensionado que opte por la alternativa prevista en la fracción II podrá, en cualquier momento, contratar una Renta vitalicia de acuerdo con lo dispuesto en la fracción I. El Pensionado no podrá optar por la alternativa señalada si la Renta mensual vitalicia a convenirse fuera inferior a la Pensión Garantizada.
 
 ## Sección III
+
 Pensión por Vejez
 
 ### Artículo 88
@@ -852,6 +887,7 @@ Ambos supuestos se sujetarán a lo establecido en esta Ley y en las disposicione
 El Pensionado que opte por la alternativa prevista en la fracción II podrá, en cualquier momento, contratar un Seguro de Pensión que le otorgue una Renta vitalicia de acuerdo con lo dispuesto en la fracción I. El Trabajador no podrá optar por la alternativa señalada si la Renta mensual vitalicia a convenirse fuera inferior a la Pensión Garantizada.
 
 ## Sección IV — De la Pensión Garantizada
+
 
 ### Artículo 92
 . Pensión Garantizada es aquélla que el Estado asegura a quienes reúnan los requisitos señalados para obtener una Pensión por cesantía en edad avanzada o vejez y su monto mensual será la cantidad de tres mil treinta y cuatro pesos con veinte centavos, moneda nacional, misma que se actualizará anualmente, en el mes de febrero, conforme al cambio anualizado del Índice Nacional de Precios al Consumidor.
@@ -880,6 +916,7 @@ La Pensión que corresponda a los Familiares Derechohabientes del Pensionado fal
 
 ## Sección V — De la Cuenta Individual
 
+
 ### Artículo 97
 . A cada Trabajador se le abrirá una Cuenta Individual en el PENSIONISSSTE o, si así lo elije, en una Administradora. Los Trabajadores podrán solicitar el traspaso de su Cuenta Individual al PENSIONISSSTE o a una Administradora diferente a la que opere la cuenta en los casos previstos en la Ley de los Sistemas de Ahorro para el Retiro.
 
@@ -895,6 +932,7 @@ Las Dependencias y Entidades deberán informar bimestralmente a los Trabajadores
 
 ## Sección VI — Del Ahorro Solidario para el Incremento de las Pensiones
 
+
 ### Artículo 100
 . Los Trabajadores podrán optar por que se les descuente hasta el dos por ciento de su Sueldo Básico, para ser acreditado en la Subcuenta de ahorro solidario que se abra al efecto en su Cuenta Individual.
 Las Dependencias y Entidades en la que presten sus servicios los Trabajadores que opten por dicho Descuento, estarán obligados a depositar en la referida Subcuenta, tres pesos con veinticinco centavos por cada peso que ahorren los Trabajadores con un tope máximo del seis punto cinco por ciento del Sueldo Básico.
@@ -902,6 +940,7 @@ A efecto de lo anterior, las Dependencias y Entidades deberán enterar las canti
 Los recursos acumulados en la Subcuenta de ahorro solidario, estarán sujetos a las normas aplicables a la Subcuenta de retiro, cesantía en edad avanzada y vejez.
 
 ## Sección VII
+
 Régimen Financiero
 
 ### Artículo 101
@@ -919,6 +958,7 @@ Para efecto de las Cuotas y Aportaciones de los Pensionados por riesgos del trab
 Los recursos a que se refiere este artículo se depositarán en las Subcuentas de retiro, cesantía en edad avanzada y vejez.
 
 ## Sección VII Bis — De los Créditos otorgados por entidades financieras con cargo a las pensiones
+
 Sección adicionada DOF 28-05-2012
 
 ### Artículo 102
@@ -929,6 +969,7 @@ Los gastos que se generen con motivo del control, descuentos y entrega o transfe
 Artículo adicionado DOF 28-05-2012
 
 ## Sección VIII — Del PENSIONISSSTE
+
 
 ### Artículo 103
 . Se crea el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado, denominado PENSIONISSSTE, el cual será un órgano público desconcentrado del Instituto dotado de facultades ejecutivas, con competencia funcional propia en los términos de la presente Ley.
@@ -1046,7 +1087,9 @@ IX. Las demás que le señalen esta Ley y sus disposiciones reglamentarias.
 
 ## CAPÍTULO VII — SEGURO DE INVALIDEZ Y VIDA
 
+
 ## Sección I
+
 Generalidades
 
 ### Artículo 114
@@ -1063,6 +1106,7 @@ Para los efectos de este artículo, para computar los años de cotización por l
 . Si un Trabajador o sus Familiares Derechohabientes tiene derecho a cualquiera de las Pensiones de este Capítulo y también a Pensión proveniente del seguro de riesgos del trabajo, siempre y cuando se trate de una incapacidad parcial previa al estado de invalidez, percibirá ambas sin que la suma de sus cuantías exceda del cien por ciento del Sueldo Básico mayor, de los que sirvieron de base para determinar la cuantía de las Pensiones concedidas. Los ajustes para no exceder del límite señalado no afectarán la Pensión proveniente de riesgos del trabajo.
 
 ## Sección II
+
 Pensión por Invalidez
 
 ### Artículo 118
@@ -1144,12 +1188,15 @@ La revocación de la Pensión se llevará a cabo en los mismos términos que se 
 Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los términos del párrafo primero de este artículo por causa imputable a la Dependencia o Entidad en que hubiere prestado sus servicios, seguirá percibiendo el importe de la Pensión con cargo al presupuesto de ésta. Lo anterior, sin perjuicio de la responsabilidad en que incurra el titular de la Dependencia o Entidad, el cual deberá restituir los montos erogados por concepto del pago de la Pensión.
 
 ## Sección III
+
 Pensión por Causa de Muerte
 
 ### Artículo 129
 . La muerte de la o el Trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere cotizado al Instituto por tres años o más, dará origen a las Pensiones de viudez, concubinato, orfandad o ascendencia en su caso, según lo prevenido en esta Ley.
-Párrafo reformado DOF 20-01-2023 Respecto de las pensiones de viudez a que se refiere el presente artículo, estas considerarán tanto a la viuda o viudo como a quienes hubieran suscrito una unión civil con la o el trabajador.
-Párrafo adicionado DOF 20-01-2023 En este caso, las Pensiones se otorgarán por la Aseguradora que elijan los Familiares Derechohabientes para la contratación de su Seguro de Pensión. A tal efecto, se deberá integrar un Monto Constitutivo en la Aseguradora elegida, el cual deberá ser suficiente para cubrir la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo. Para ello, el Instituto cubrirá el Monto Constitutivo con cargo al cual se pagará la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo, por la Aseguradora.
+Párrafo reformado DOF 20-01-2023
+Respecto de las pensiones de viudez a que se refiere el presente artículo, estas considerarán tanto a la viuda o viudo como a quienes hubieran suscrito una unión civil con la o el trabajador.
+Párrafo adicionado DOF 20-01-2023
+En este caso, las Pensiones se otorgarán por la Aseguradora que elijan los Familiares Derechohabientes para la contratación de su Seguro de Pensión. A tal efecto, se deberá integrar un Monto Constitutivo en la Aseguradora elegida, el cual deberá ser suficiente para cubrir la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo. Para ello, el Instituto cubrirá el Monto Constitutivo con cargo al cual se pagará la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo, por la Aseguradora.
 En caso de fallecimiento de un Pensionado por riesgos del trabajo o invalidez, las Pensiones a que se refiere este artículo se cubrirán por el Instituto, mediante la entrega del Monto Constitutivo a la Aseguradora que elijan los Familiares Derechohabientes para el pago de la Renta correspondiente.
 El saldo acumulado en la Cuenta Individual del Trabajador o Pensionado por riesgos del trabajo o invalidez fallecido, podrá ser retirado por sus Familiares Derechohabientes en una sola exhibición o utilizado para contratar un Seguro de Pensión que le otorgue una Renta por una suma mayor.
 
@@ -1163,14 +1210,16 @@ I. La o el cónyuge, o quien haya suscrito una unión civil que le sobreviva, s�
 Fracción reformada DOF 20-01-2023
 
 II. A falta de cónyuge, la concubina o concubinario o quien haya suscrito una unión civil que le sobreviva, solo o en concurrencia con los hijos, o éstos solos cuando reúnan las condiciones señaladas en la fracción anterior, siempre que la concubina o el concubinario hubieren tenido hijos con la o el trabajador o con la o el pensionado o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan permanecido libres de matrimonio o de unión civil durante el concubinato. Si al morir la o el Trabajador o la o el Pensionado tuviere varias concubinas o varios concubinarios ninguno tendrá derecho a Pensión.
-Párrafo reformado DOF 20-01-2023 Para efectos de esta Ley, para considerarse como tales los concubinos deberán acreditar haber vivido en común con el Trabajador en forma constante y permanente por un periodo mínimo de cinco años que precedan inmediatamente a la generación de la Pensión o haber tenido por lo menos un hijo en común;
+Párrafo reformado DOF 20-01-2023
+Para efectos de esta Ley, para considerarse como tales los concubinos deberán acreditar haber vivido en común con el Trabajador en forma constante y permanente por un periodo mínimo de cinco años que precedan inmediatamente a la generación de la Pensión o haber tenido por lo menos un hijo en común;
 
 III. A falta de cónyuge, o de hijos, o en su caso de concubina o concubinario, o de quien haya suscrito una unión civil que le sobreviva, la Pensión se entregará a la madre o padre conjunta o separadamente y a falta de estos a los demás ascendientes, en caso de que hubiesen dependido económicamente de la o el Trabajador o de la o el Pensionado.
 Fracción reformada DOF 20-01-2023
 
 IV. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una Pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes, y
 
-V. Se deroga Fracción derogada DOF 29-11-2023
+V. Se deroga
+Fracción derogada DOF 29-11-2023
 
 ### Artículo 132
 . Los Familiares Derechohabientes del Trabajador o Pensionado fallecido, en el orden que establece la sección de Pensión por causa de muerte del seguro de invalidez y vida, tienen derecho a una Pensión equivalente al cien por ciento de la que hubiese correspondido al Trabajador por invalidez o de la Pensión que venía disfrutando el Pensionado, y a la misma gratificación anual a que tuviera derecho el Pensionado. La cuantía de este beneficio será hasta por un monto máximo de diez veces el Salario Mínimo.
@@ -1178,7 +1227,8 @@ V. Se deroga Fracción derogada DOF 29-11-2023
 ### Artículo 133
 . Si otorgada una Pensión aparecen otros familiares con derecho a la misma, se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en el Instituto, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios. A efecto de lo anterior, el Instituto deberá solicitar por escrito a la Aseguradora con la que se hubiere contratado el Seguro de Pensión, que se incluya a los beneficiarios supervenientes en el pago de la Pensión.
 En caso de que dos o más interesados reclamen derecho a Pensión como cónyuges o con quienes hayan suscrito una unión civil, la o el Trabajador o la o el Pensionado, exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho en la calidad que lo reclame.
-Párrafo reformado DOF 20-01-2023 Cuando un solicitante, ostentándose como cónyuge supérstite de la o el Trabajador o de la o el Pensionado, o como quien haya suscrito una unión civil con la o el Trabajador o con la o el Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, solo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o de la unión civil, según el caso, que sirvió de base para la concesión de la Pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá Pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
+Párrafo reformado DOF 20-01-2023
+Cuando un solicitante, ostentándose como cónyuge supérstite de la o el Trabajador o de la o el Pensionado, o como quien haya suscrito una unión civil con la o el Trabajador o con la o el Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, solo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o de la unión civil, según el caso, que sirvió de base para la concesión de la Pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá Pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
 Párrafo reformado DOF 20-01-2023
 
 ### Artículo 134
@@ -1192,7 +1242,8 @@ Párrafo reformado DOF 20-01-2023
 I. Llegar a cumplir dieciocho años de edad los hijos e hijas del Trabajador o Pensionado, salvo lo dispuesto en el artículo anterior, siempre que no estén incapacitados legalmente o imposibilitados físicamente para trabajar;
 
 II. Porque la o el Pensionado contraigan matrimonio, llegasen a vivir en concubinato o suscriban una unión civil. Al contraer matrimonio, vivir en concubinato o suscribir una unión civil, la viuda, viudo, concubina o concubinario o quien haya suscrito una unión civil y le sobreviva, recibirán como única y última prestación el importe de seis meses de la Pensión que venían disfrutando.
-La divorciada o divorciado, o las o los legalmente separados de alguna unión civil, no tendrán derecho a la Pensión de quien haya sido su cónyuge o de quien hubiese suscrito una unión civil, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no exista viuda o viudo, concubina o concubinario, sobreviviente de alguna unión civil, hijos y ascendientes con derecho a la misma. Cuando la divorciada o divorciado, o los legalmente separados de alguna unión civil disfrutasen de la Pensión en los términos de este artículo, perderán dicho derecho si contraen nuevo matrimonio o suscriben otra unión civil o si viviesen en concubinato, y Fracción reformada DOF 20-01-2023
+La divorciada o divorciado, o las o los legalmente separados de alguna unión civil, no tendrán derecho a la Pensión de quien haya sido su cónyuge o de quien hubiese suscrito una unión civil, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no exista viuda o viudo, concubina o concubinario, sobreviviente de alguna unión civil, hijos y ascendientes con derecho a la misma. Cuando la divorciada o divorciado, o los legalmente separados de alguna unión civil disfrutasen de la Pensión en los términos de este artículo, perderán dicho derecho si contraen nuevo matrimonio o suscriben otra unión civil o si viviesen en concubinato, y
+Fracción reformada DOF 20-01-2023
 
 III. Por fallecimiento.
 
@@ -1205,7 +1256,8 @@ II. Se deroga.
 Fracción derogada DOF 24-03-2023
 
 III. Se deroga.
-Fracción derogada DOF 24-03-2023 Las limitaciones que establece este artículo no regirán cuando al morir la o el Trabajador o la o el Pensionado, la o el cónyuge o quien haya suscrito una unión civil y le sobreviva compruebe tener hijos con ella o él.
+Fracción derogada DOF 24-03-2023
+Las limitaciones que establece este artículo no regirán cuando al morir la o el Trabajador o la o el Pensionado, la o el cónyuge o quien haya suscrito una unión civil y le sobreviva compruebe tener hijos con ella o él.
 Artículo reformado DOF 20-01-2023
 
 ### Artículo 137
@@ -1216,6 +1268,7 @@ Artículo reformado DOF 20-01-2023
 Si no existiesen parientes o personas que se encarguen de la inhumación, el Instituto lo hará, limitado al importe del monto señalado en el párrafo anterior, mismo que le deberá ser entregado por la Aseguradora referida.
 
 ## Sección IV
+
 Incremento Periódico de las Pensiones
 
 ### Artículo 139
@@ -1223,6 +1276,7 @@ Incremento Periódico de las Pensiones
 Las Pensiones a los Familiares Derechohabientes del Trabajador por el seguro de invalidez y vida serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el párrafo anterior.
 
 ## Sección V
+
 Régimen Financiero
 
 ### Artículo 140
@@ -1234,7 +1288,9 @@ II. A las Dependencias y Entidades les corresponde una Aportación de cero punto
 
 ## Capítulo VIII — De la Transferencia de los Derechos
 
+
 ## Sección I — De la Transferencia de Derechos entre el Instituto y el IMSS
+
 
 ### Artículo 141
 . Los Trabajadores que hubieren cotizado al Instituto y que por virtud de una nueva relación laboral se inscriban al IMSS, podrán transferir a este último los derechos de los años de cotización al Instituto. De la misma manera los Trabajadores inscritos en el IMSS que inicien una relación laboral que los sujete al régimen de esta ley podrán transferir al Instituto los derechos de sus semanas de cotización.
@@ -1269,6 +1325,7 @@ En este caso, además de sus periodos de cotización, se sumarán los recursos a
 Se entenderá por periodo de cotización simultáneo aquél en el que al mismo tiempo se enteren Cuotas y Aportaciones correspondientes al Trabajador bajo el régimen obligatorio de esta ley y el de la Ley del Seguro Social.
 
 ## Sección II
+
 De la Transferencia de Derechos al Instituto provenientes de otros Institutos de Seguridad Social
 
 ### Artículo 149
@@ -1295,6 +1352,7 @@ Para hacer equivalente la portabilidad de derechos que se menciona en el present
 . El Pensionado que goce de una Pensión equivalente a la de retiro, cesantía en edad avanzada y vejez bajo un régimen de seguridad social con el que se hubiere celebrado convenio de portabilidad, no podrá obtener una Pensión de igual naturaleza bajo el régimen de la presente ley, en ambos casos el Trabajador tendrá derecho a incrementar el monto de su Pensión de acuerdo con el procedimiento señalado en el artículo 146 de esta ley.
 
 ## Sección III
+
 De la Transferencia de Derechos entre el Instituto y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores
 
 ### Artículo 154
@@ -1310,7 +1368,9 @@ A efecto de lo anterior, el Instituto y el Instituto del Fondo Nacional de la Vi
 
 ## Capítulo IX — Del Sistema Integral de Crédito
 
+
 ## Sección I
+
 Préstamos Personales
 
 ### Artículo 157
@@ -1372,11 +1432,13 @@ Cuando las Dependencias omitan el entero de estos Descuentos al Instituto, deber
 
 ## Sección II — Del Crédito para Vivienda
 
+
 ### Artículo 167
 . El Instituto administrará el Fondo de la Vivienda que se integre con las Aportaciones que las Dependencias y Entidades realicen a favor de los Trabajadores.
 El Instituto contará con una Comisión Ejecutiva, que coadyuvará en la administración del Fondo de la Vivienda de acuerdo con el reglamento que emita la Junta Directiva.
 El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los Trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria en los casos que expresamente determine la Comisión Ejecutiva del Fondo de la Vivienda, así como recibir directamente y sin intermediarios el crédito mencionado. Estos préstamos se harán hasta por dos ocasiones, una vez que el primer crédito se encuentre totalmente liquidado.
-Párrafo reformado DOF 24-03-2016, 16-12-2020 El Instituto podrá celebrar convenios de coordinación y colaboración con las autoridades federales, Entidades Federativas y municipios, según corresponda, para el mejor cumplimiento del objeto del Fondo de la Vivienda. Asimismo, para el ejercicio de las funciones del Fondo de la Vivienda se podrá contratar cualquier tipo de servicios.
+Párrafo reformado DOF 24-03-2016, 16-12-2020
+El Instituto podrá celebrar convenios de coordinación y colaboración con las autoridades federales, Entidades Federativas y municipios, según corresponda, para el mejor cumplimiento del objeto del Fondo de la Vivienda. Asimismo, para el ejercicio de las funciones del Fondo de la Vivienda se podrá contratar cualquier tipo de servicios.
 
 ### Artículo 168
 . Los recursos para la operación del Fondo de la Vivienda se integran con:
@@ -1399,7 +1461,8 @@ b) A la reparación, ampliación o mejoramiento de sus habitaciones, y
 c) A los pasivos contraídos por cualquiera de los conceptos anteriores;
 
 d) A la adquisición de suelo destinado a la construcción de su vivienda.
-Inciso adicionado DOF 16-12-2020 Asimismo, el Instituto podrá descontar con las entidades financieras que cuenten con la respectiva autorización emitida para tal efecto por la Secretaría de Hacienda y Crédito Público, los créditos que hayan otorgado para aplicarse a los conceptos señalados en los incisos anteriores;
+Inciso adicionado DOF 16-12-2020
+Asimismo, el Instituto podrá descontar con las entidades financieras que cuenten con la respectiva autorización emitida para tal efecto por la Secretaría de Hacienda y Crédito Público, los créditos que hayan otorgado para aplicarse a los conceptos señalados en los incisos anteriores;
 
 II. Al pago de capital e intereses de la Subcuenta del Fondo de la Vivienda de los Trabajadores en los términos de ley;
 
@@ -1492,7 +1555,8 @@ Artículo reformado DOF 16-12-2020, 08-05-2023
 
 ### Artículo 179
 . Los créditos a que se refiere esta Sección se otorgarán y adjudicarán conforme a los criterios que para el efecto señale la Comisión Ejecutiva del Fondo de la Vivienda, con la aprobación de la Junta Directiva del Instituto tomando en cuenta el derecho humano a la vivienda adecuada, la oferta y demanda regional de vivienda; el costo y seguridad del suelo destinado a vivienda evitando actos de especulación; la infraestructura y equipamiento existente en la zona en que se ubica la vivienda; los saldos de la subcuenta del Fondo de la Vivienda de las personas trabajadoras de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma; si la persona trabajadora es propietaria o no de su vivienda, así como su sueldo o el ingreso conyugal si hay acuerdo de las personas interesadas.
-Párrafo reformado DOF 16-12-2020, 08-05-2023 La Junta Directiva expedirá las reglas operativas conforme a las cuales se otorgarán los créditos a que se refiere el párrafo anterior.
+Párrafo reformado DOF 16-12-2020, 08-05-2023
+La Junta Directiva expedirá las reglas operativas conforme a las cuales se otorgarán los créditos a que se refiere el párrafo anterior.
 Las personas trabajadoras podrán recibir crédito del Fondo de la Vivienda hasta por dos ocasiones.
 Para el caso del otorgamiento del segundo crédito, las personas trabajadoras deberán cubrir los mismos requisitos previstos por la Ley para el otorgamiento del primer crédito, relativos a contar con más de dieciocho meses de depósitos constituidos a su favor en las Subcuentas del Fondo de la Vivienda, además deberán demostrar que el primer crédito se encuentra totalmente liquidado y que fue pagado de manera regular. El importe de estos créditos se aplicará para los fines previstos por el artículo 169 de este ordenamiento.
 Párrafo reformado DOF 24-03-2016, 08-05-2023
@@ -1573,11 +1637,13 @@ Los servidores públicos de las Dependencias o Entidades responsables de enterar
 
 ### Artículo 192
 . Los recursos de la Subcuenta del Fondo de la Vivienda son propiedad imprescriptible de los trabajadores. En caso de que dichos recursos no hubiesen sido aplicados para otorgar créditos a favor de los Trabajadores de acuerdo con lo dispuesto en esta Sección, serán transferidos al PENSIONISSSTE, las Administradoras o Aseguradoras para la contratación de la Pensión correspondiente o su entrega en una sola exhibición, según proceda, en los términos de lo dispuesto por esta Ley.
-Párrafo reformado DOF 30-04-2024 A efecto de lo anterior, el Instituto deberá transferir los recursos de la Subcuenta del Fondo de la Vivienda al PENSIONISSSTE, las Administradoras o Aseguradoras a más tardar el segundo día hábil siguiente a que le sean requeridos.
+Párrafo reformado DOF 30-04-2024
+A efecto de lo anterior, el Instituto deberá transferir los recursos de la Subcuenta del Fondo de la Vivienda al PENSIONISSSTE, las Administradoras o Aseguradoras a más tardar el segundo día hábil siguiente a que le sean requeridos.
 En caso de que el trabajador cumpla setenta y cinco años sin que éste y, en su caso, sus beneficiarios hubieren ejercido su derecho a recibir los recursos descritos en este artículo, el Fondo de la Vivienda deberá transferirlos al Fondo de Pensiones para el Bienestar. Lo anterior no será aplicable a los recursos de las cuentas individuales de aquellos trabajadores que cuenten con una relación laboral activa ante el Instituto.
 Párrafo adicionado DOF 30-04-2024
 
 ## Sección III
+
 Régimen Financiero
 
 ### Artículo 193
@@ -1588,7 +1654,9 @@ Régimen Financiero
 
 ## CAPÍTULO X — De los Servicios Sociales y Culturales
 
+
 ## Sección I
+
 Servicios Sociales
 
 ### Artículo 195
@@ -1608,6 +1676,7 @@ IV. Servicios de atención para el bienestar y desarrollo infantil, y
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
 
 ## Sección II
+
 Servicios Culturales
 
 ### Artículo 197
@@ -1627,6 +1696,7 @@ IV. Programas de fomento deportivo, y
 V. Los demás que acuerde la Junta Directiva, siempre que no se afecte la viabilidad financiera en el corto, mediano o largo plazo.
 
 ## Sección III
+
 Régimen Financiero
 
 ### Artículo 199
@@ -1639,7 +1709,9 @@ En adición a lo anterior, para los servicios de atención para el bienestar y d
 
 ## TÍTULO TERCERO — DEL RÉGIMEN VOLUNTARIO
 
+
 ## CAPÍTULO I — CONTINUACIÓN VOLUNTARIA EN EL RÉGIMEN OBLIGATORIO
+
 
 ### Artículo 200
 . El Trabajador que deje de prestar sus servicios en alguna Dependencia o Entidad y no tenga la calidad de Pensionado, podrá solicitar la continuación voluntaria en todos o alguno de los seguros del régimen obligatorio, con excepción del seguro de riesgos del trabajo y, al efecto, cubrirá íntegramente las Cuotas y Aportaciones que correspondan conforme a lo dispuesto por el régimen financiero de los seguros en que desee continuar voluntariamente. Las Cuotas y Aportaciones se ajustarán anualmente de acuerdo con los cambios relativos que sufra el Sueldo Básico en la categoría que tenía el interesado en el puesto que hubiere ocupado en su último empleo.
@@ -1665,6 +1737,7 @@ Párrafo adicionado DOF 27-03-2024
 
 ## CAPÍTULO II — INCORPORACIÓN VOLUNTARIA AL RÉGIMEN OBLIGATORIO
 
+
 ### Artículo 204
 . El Instituto podrá celebrar convenios con los gobiernos de las Entidades Federativas o de los municipios y sus Dependencias y Entidades, a fin de que sus Trabajadores y Familiares Derechohabientes reciban los seguros, prestaciones y servicios del régimen obligatorio de esta Ley. La incorporación deberá ser total y, en ningún caso, el Instituto podrá otorgar seguros, prestaciones o servicios que no estén previstos en el convenio correspondiente.
 Las disposiciones a que deben sujetarse las Dependencias y Entidades previstas en la presente Ley también serán aplicables a las respectivas Dependencias y Entidades de las Entidades Federativas y municipios, en lo que sea conducente y en términos de los convenios referidos en el párrafo anterior que, al efecto, se celebren.
@@ -1684,6 +1757,7 @@ El incumplimiento a lo dispuesto en el presente artículo será causa de respons
 
 ## CAPÍTULO III — DISPOSICIONES ESPECIALES
 
+
 ### Artículo 206
 . El Instituto se reserva el derecho de contratar los seguros, prestaciones y servicios a que se refiere el presente Título, así como de dar por terminada la vigencia de los mismos anticipadamente, en caso de que existan causas o motivos suficientes a juicio del Instituto que pongan en peligro la adecuada y eficiente prestación de los servicios, el equilibrio financiero del propio Instituto o la preservación de los seguros, prestaciones y servicios del régimen obligatorio.
 Igual disposición se observará en lo relativo a las incorporaciones señaladas en las fracciones VII y VIII, del artículo 1o. de esta Ley.
@@ -1691,7 +1765,9 @@ Para la terminación anticipada de algún convenio de incorporación voluntaria 
 
 ## TÍTULO CUARTO — DE LAS FUNCIONES Y ORGANIZACIÓN DEL INSTITUTO
 
+
 ## CAPÍTULO I — FUNCIONES
+
 
 ### Artículo 207
 . El Instituto tendrá personalidad jurídica para celebrar toda clase de actos y contratos, así como para defender sus derechos ante los tribunales o fuera de ellos, y para ejercitar las acciones judiciales o gestiones extrajudiciales que le competen. Para desistirse de las acciones intentadas o de los recursos interpuestos, así como para dejar de interponer los que las leyes le concedan, cuando se trate de asuntos que afecten al erario federal, se deberán afectar los gastos de administración del Instituto por la cantidad correspondiente según conste en acuerdo expreso de la Junta Directiva del Instituto.
@@ -1721,12 +1797,15 @@ IX. Expedir los reglamentos para la debida prestación de los servicios y de org
 X. Realizar toda clase de actos jurídicos y celebrar los contratos que requieran los seguros, prestaciones y servicios previstos en esta Ley;
 Fracción reformada DOF 23-04-2024
 
-XI. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente, y Fracción adicionada DOF 23-04-2024
+XI. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en la prestación de los servicios y el otorgamiento de seguros y prestaciones a su cargo, en beneficio de su población derechohabiente, y
+Fracción adicionada DOF 23-04-2024
 
 XII. Las demás funciones que le confieran esta Ley y sus reglamentos.
-Fracción recorrida DOF 23-04-2024 El financiamiento de los gastos generales de administración del Instituto que no estén estrictamente relacionados con la prestación de algún seguro, prestación o servicio no deberá rebasar del equivalente a la cantidad que resultaría de la aplicación de una Aportación de uno punto cinco por ciento del Sueldo Básico al total de los Trabajadores.
+Fracción recorrida DOF 23-04-2024
+El financiamiento de los gastos generales de administración del Instituto que no estén estrictamente relacionados con la prestación de algún seguro, prestación o servicio no deberá rebasar del equivalente a la cantidad que resultaría de la aplicación de una Aportación de uno punto cinco por ciento del Sueldo Básico al total de los Trabajadores.
 
 ## CAPÍTULO II — ÓRGANOS DE GOBIERNO
+
 
 ### Artículo 209
 . Los órganos de gobierno del Instituto serán:
@@ -1746,7 +1825,8 @@ V. La Comisión de Vigilancia.
 
 I. El Director General del Instituto, el cual presidirá la Junta Directiva;
 
-II. La persona titular y dos subsecretarías de la Secretaría de Hacienda y Crédito Público, así como la persona titular de las Secretarías de Salud, de Bienestar, del Trabajo y Previsión Social, de Medio Ambiente y Recursos Naturales y de la Función Pública y la persona titular de la Dirección General del IMSS, y Fracción reformada DOF 27-03-2024
+II. La persona titular y dos subsecretarías de la Secretaría de Hacienda y Crédito Público, así como la persona titular de las Secretarías de Salud, de Bienestar, del Trabajo y Previsión Social, de Medio Ambiente y Recursos Naturales y de la Función Pública y la persona titular de la Dirección General del IMSS, y
+Fracción reformada DOF 27-03-2024
 
 III. Nueve representantes de las organizaciones de Trabajadores.
 En todo caso, para la integración de este órgano de gobierno, deberá observarse en lo máximo posible el principio de paridad de género. Por cada miembro de la Junta Directiva, se nombrará un suplente que actuará en caso de faltas temporales del propietario, debiendo tratarse de un funcionario con el rango inmediato inferior al del miembro propietario.
@@ -1965,6 +2045,7 @@ IX. Las que le fijen el estatuto orgánico del Instituto y las demás disposicio
 
 ## CAPÍTULO III — COMITÉ DE INVERSIONES
 
+
 ### Artículo 226
 . El Instituto deberá constituir un Comité de Inversiones que se compondrá por cinco miembros, de los cuales cuando menos dos serán personas independientes con experiencia mínima de cinco años en la materia. Los otros tres miembros del Comité, serán designados respectivamente por la Secretaría de Hacienda y Crédito Público, por el Banco de México y por el propio Instituto, correspondiendo a este último presidirlo.
 
@@ -1972,6 +2053,7 @@ IX. Las que le fijen el estatuto orgánico del Instituto y las demás disposicio
 . El Comité de Inversiones tendrá a su cargo analizar y hacer recomendaciones respecto de la inversión de los Fondos de las Reservas que constituya el Instituto de conformidad con las disposiciones de la presente Ley.
 
 ## CAPÍTULO IV — PATRIMONIO
+
 
 ### Artículo 228
 . El patrimonio del Instituto lo constituirán:
@@ -2009,7 +2091,9 @@ En caso de que el informe financiero y actuarial que anualmente se presente a la
 
 ## CAPÍTULO V — RESERVAS E INVERSIONES
 
+
 ## Sección I
+
 Generalidades
 
 ### Artículo 232
@@ -2033,6 +2117,7 @@ Los recursos afectos a las Reservas señaladas quedan fuera de las disposiciones
 Del manejo multianual que haga el Instituto de estos Fondos deberá informarse a la Secretaría de Hacienda y Crédito Público a más tardar el día veintiocho de febrero del año siguiente.
 
 ## Sección II — De las Reservas de los Seguros
+
 
 ### Artículo 235
 . Se establecerá una Reserva de operación, que financie las operaciones e inversiones presupuestadas para cada ejercicio en todos los seguros y servicios.
@@ -2074,6 +2159,7 @@ Los recursos destinados a financiar contingencias se deberán reintegrar con los
 
 ## Sección III — Del Programa Anual de Administración y Constitución de Reservas
 
+
 ### Artículo 243
 . A propuesta del Director General, con base en el proyecto de presupuesto para el siguiente ejercicio y en los estudios financieros y actuariales que se presenten cada año a la Junta Directiva, ésta deberá aprobar anualmente en forma previa al inicio del ejercicio fiscal un programa anual de administración y constitución de Reservas, conforme al reglamento correspondiente, el cual confirmará o adecuará en lo conducente, una vez que se conozca el presupuesto de gastos definitivo del Instituto. Este programa contendrá como mínimo los siguientes elementos:
 
@@ -2088,6 +2174,7 @@ La Junta Directiva, a propuesta del Director General, podrá modificar en cualqu
 
 ## Sección IV — De la Inversión de las Reservas y de su Uso para la Operación
 
+
 ### Artículo 244
 . El Instituto deberá contar con una unidad administrativa que de manera especializada, se encargará de la inversión de los recursos del Instituto y los mecanismos que deberá utilizar para ello, conforme al reglamento correspondiente, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional, procurando una revelación plena de información.
 Dicha unidad administrativa deberá contar con una infraestructura profesional y operativa que permita un proceso flexible, transparente y eficiente.
@@ -2101,11 +2188,13 @@ Los intereses o rendimientos que genere cada Reserva deberán aplicarse exclusiv
 
 ## Sección V — De la Contabilidad
 
+
 ### Artículo 247
 . Los ingresos y gastos de cada seguro, prestación y servicio, así como de las Reservas, se registrarán contablemente por separado. Los gastos comunes se sujetarán a las reglas de carácter general para distribución de costos, al catálogo de cuentas y al manual de contabilización y del ejercicio del gasto que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 El catálogo de cuentas y el manual de contabilización y del ejercicio del gasto deberán tomar como base los equivalentes que al efecto se establezcan por las autoridades competentes para las Entidades de la Administración Pública Federal adecuándolos, para efecto de rendición de cuentas, a las características y necesidades de una institución que cumple una función social.
 
 ## TÍTULO QUINTO — DE LA PRESCRIPCIÓN
+
 
 ### Artículo 248
 . El derecho a la Pensión es imprescriptible. Las Pensiones caídas y cualquier prestación en dinero a cargo del Instituto que no se reclame dentro de los cinco años siguientes a la fecha en que hubieren sido exigibles, prescribirán a favor del Instituto.
@@ -2129,6 +2218,7 @@ Artículo reformado DOF 30-04-2024
 
 ## TÍTULO SEXTO — DE LAS RESPONSABILIDADES Y SANCIONES
 
+
 ### Artículo 252
 . Los servidores públicos de las Dependencias y Entidades, que dejen de cumplir con alguna de las obligaciones que les impone esta Ley, serán responsables en los términos de las disposiciones aplicables.
 
@@ -2140,16 +2230,15 @@ Artículo reformado DOF 30-04-2024
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 42, 75, 101, 140, 193 y 199, los cuales entrarán en vigor el día primero de enero de dos mil ocho.
+**PRIMERO.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 42, 75, 101, 140, 193 y 199, los cuales entrarán en vigor el día primero de enero de dos mil ocho.
 Lo dispuesto en las fracciones I, V y VI del artículo décimo transitorio les será aplicable a todos los Trabajadores hasta que ejerzan el derecho previsto en el artículo quinto transitorio.
-**SEGUNDO.** A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el día veintisiete de diciembre de mil novecientos ochenta y tres con sus reformas y adiciones, con excepción de los artículos 16, 21, 25 y 90 Bis B, mismos que estarán vigentes hasta el día treinta y uno de diciembre de dos mil siete.
-**TERCERO.** Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas al presente ordenamiento.
+**SEGUNDO.-** A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el día veintisiete de diciembre de mil novecientos ochenta y tres con sus reformas y adiciones, con excepción de los artículos 16, 21, 25 y 90 Bis B, mismos que estarán vigentes hasta el día treinta y uno de diciembre de dos mil siete.
+**TERCERO.-** Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas al presente ordenamiento.
 DERECHOS DE LOS TRABAJADORES
-**CUARTO.** A los Trabajadores que se encuentren cotizando al régimen del Instituto a la fecha de entrada en vigor de la presente Ley, se les reconocen los periodos cotizados con anterioridad.
-**QUINTO.** Los Trabajadores tienen derecho a optar por el régimen que se establece en el artículo
-**décimo.** transitorio, o por la acreditación de Bonos de Pensión del ISSSTE en sus Cuentas Individuales.
-**SEXTO.** Para los efectos señalados en el artículo anterior, dentro de un plazo que no excederá del treinta y uno de diciembre de dos mil siete, se realizará lo siguiente:
-
+**CUARTO.-** A los Trabajadores que se encuentren cotizando al régimen del Instituto a la fecha de entrada en vigor de la presente Ley, se les reconocen los periodos cotizados con anterioridad.
+**QUINTO.-** Los Trabajadores tienen derecho a optar por el régimen que se establece en el artículo
+**décimo.-** transitorio, o por la acreditación de Bonos de Pensión del ISSSTE en sus Cuentas Individuales.
+**SEXTO.-** Para los efectos señalados en el artículo anterior, dentro de un plazo que no excederá del treinta y uno de diciembre de dos mil siete, se realizará lo siguiente:
 I. El Instituto acreditará el tiempo de cotización de cada Trabajador de acuerdo con la información disponible en sus registros y bases de datos, así como con la que se recabe para este fin, de conformidad con los programas y criterios que estime pertinentes;
 
 II. Con base en la información relativa al tiempo de cotización acreditado de cada Trabajador, el Instituto entregará a la Secretaría de Hacienda y Crédito Público el cálculo preliminar de los importes de los Bonos de Pensión del ISSSTE que les correspondan;
@@ -2157,55 +2246,71 @@ II. Con base en la información relativa al tiempo de cotización acreditado de 
 III. A través de los mecanismos que estimen pertinentes, la Secretaría de Hacienda y Crédito Público y el Instituto harán del conocimiento de los Trabajadores el cálculo preliminar de sus Bonos de Pensión, así como la información sobre las opciones a que tengan derecho conforme a lo dispuesto en este ordenamiento, y
 
 IV. Las Dependencias y Entidades deberán colaborar con la Secretaría de Hacienda y Crédito Público y el Instituto en todo lo necesario para integrar la documentación e información requeridas para la acreditación del tiempo de cotización, el Sueldo Básico y el cálculo del Bono de Pensión de los Trabajadores, así como para informar a éstos sobre las opciones y derechos correlativos.
-**SÉPTIMO.** A partir del día primero de enero de dos mil ocho, los Trabajadores tendrán seis meses para optar por el régimen previsto en el artículo décimo transitorio o por la acreditación de Bonos de Pensión del ISSSTE.
+**SÉPTIMO.-** A partir del día primero de enero de dos mil ocho, los Trabajadores tendrán seis meses para optar por el régimen previsto en el artículo décimo transitorio o por la acreditación de Bonos de Pensión del ISSSTE.
 Dentro de ese plazo, en caso de que el Trabajador considere que su Sueldo Básico o tiempo de cotización son diferentes a los que le sean acreditados como base para el cálculo preliminar de su Bono de Pensión, tendrá derecho a entregar al Instituto, para que realice la revisión y ajuste que en su caso correspondan, las hojas únicas de servicio que para este efecto le expidan las Dependencias y Entidades en que haya laborado, con el propósito de que los ajustes procedentes le sean reconocidos en el cálculo del Bono de Pensión, como parte de los elementos necesarios para sustentar su decisión.
 La opción adoptada por el Trabajador deberá comunicarla por escrito al Instituto a través de las Dependencias y Entidades, en los términos que se establezcan y se le hayan dado a conocer, y será definitiva, irrenunciable y no podrá modificarse. El formato que se apruebe para ejercer este derecho deberá ser publicado en el Diario Oficial de la Federación.
 Cuando el Trabajador no manifieste la opción que elige dentro del plazo previsto, se le deberá hacer saber en los términos que establezca el reglamento respectivo conforme al cual se respetará lo conducente a los Trabajadores que no manifiesten su elección.
-**OCTAVO.** Los Trabajadores que hubieran optado por el régimen del artículo décimo transitorio, en ningún caso tendrán derecho a la acreditación de Bonos de Pensión del ISSSTE.
-**NOVENO.** El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
-
+**OCTAVO.-** Los Trabajadores que hubieran optado por el régimen del artículo décimo transitorio, en ningún caso tendrán derecho a la acreditación de Bonos de Pensión del ISSSTE.
+**NOVENO.-** El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
 Años de Servicio ——
-| 16] 0.63] 1 22
-| [7 24[1.39] 2.86]
+
+| 16] 0.63] 1 22 |
+| --- |
+| [7 24[1.39] 2.86] |
+
 3.20]
-| 20/0.69]7 20 [1.22] 2.48 [2.18] 2.24]
-| te 44]
-| 16 |1-7r[ 2.40] 3.08] 3.73]
-| 12[1ri[222]296[3.61] 42/4 6.40]
-| 99 [1 [2.90] 3.54] 4.21 631 | 7.04]
+
+| 20/0.69]7 20 [1.22] 2.48 [2.18] 2.24] |
+| --- |
+| te 44] |
+| 16 | 1-7r[ 2.40] 3.08] 3.73] |
+| 12[1ri[222]296[3.61] 42/4 6.40] |
+| 99 [1 [2.90] 3.54] 4.21 631 | 7.04] |
+
 0.82[1 o7|1.64[2.23]2.86[ 3.42] 4.14] 6.21 6.94] 7.68]
-| 2e[0.52[7 05 274)2.05/3.00)464]520 601 [8.72] 7 46] 8.20] 2.26]
-| 29[0.52[1 33] 8.07[ 2.23] 9.60]
-| 30[ 0.82 [7 05 3.21] 520) 7.21 7.95] 2.70] 9.46] 10.08|
-| 05 2.62] 3.14] 60 9.93] 10.56]
-| -—aejosel 05 420] 4.92[5 [6.26] 6.96] 9.17] 9.78] 10.41] 11 04]
+
+| 2e[0.52[7 05 274)2.05/3.00)464]520 601 [8.72] 7 46] 8.20] 2.26] |
+| --- |
+| 29[0.52[1 33] 8.07[ 2.23] 9.60] |
+| 30[ 0.82 [7 05 3.21] 520) 7.21 7.95] 2.70] 9.46] 10.08 |
+| 05 2.62] 3.14] 60 9.93] 10.56] |
+| -—aejosel 05 420] 4.92[5 [6.26] 6.96] 9.17] 9.78] 10.41] 11 04] |
+
 05 157]200 2.14] 367 [ 419) 072536 6.02[¢70| 7.00) +-12/2:26) 9.47] 10.09] 10.71 [11 26] 12.00] 1 267419 472| 6.24] 620[667[ 726] 230) 11 19[11 5 | — 419) 470)524 014] 275 10.37|11.00] 11.65 1230126) aros 00252) 297) s57/1019)1022/11.00]1211)1277 13.00] £ | 38/052[7 05 [1 21e]307)419)470|524)576 620/01] 750 221] +70) 1127) 11 92) 1259) 13.25)13:02] E | 67[419] 24] eos] 262 921) oseli0.4al11.08]11 70 14.40] we | 419) [7se[ra6] $05) 9.63] 1026/1088 [11 52] 12.17[12.84[ 13.81 [14.19] 1556) 5 | atfose[ i os[1 67]2.10] 207419) 4.72[624]5.76[6.29] 6.21 [734| rae] 225) 22) 94a] 10.05] 10.88 [11.31] 11 96] 12.62[ 13.29] 13.98] 16.14| 16.22] B | 119 5.76] 620/6.01 [7ae[ ree] 226] 2.65) ool 1110/1176] [12.07] 14.91 16.08) 17.29] a
-| 570]020 621) 7.34] 7.36] +25) ess) 904] 9.43[1004[ 10.67] 11 31/11 06) 1262) 13.20/14.43) 1559)1677|17 08) 19:21
-| 05 157|200/262)216|267)419)072|526 734/7:36) 225) 565) 904) vez] 16.38) 16.50] 17 FO| 18.92
-| a6 [0.62[7 06 167|210/202)316/267)410)070|524 7.26] 226) est) 904) asa] 16.07 1622 17.02] 18.63
-| a8[o.52[1 570]620 621) +25) ess) 904] ses] 1452)15.67|16.34) 18.08
+
+| 570]020 621) 7.34] 7.36] +25) ess) 904] 9.43[1004[ 10.67] 11 31/11 06) 1262) 13.20/14.43) 1559)1677 | 17 08) 19:21 |
+| --- | --- |
+| 05 157 | 200/262)216 | 267)419)072 | 526 734/7:36) 225) 565) 904) vez] 16.38) 16.50] 17 FO | 18.92 |
+| a6 [0.62[7 06 167 | 210/202)316/267)410)070 | 524 7.26] 226) est) 904) asa] 16.07 1622 17.02] 18.63 |
+| a8[o.52[1 570]620 621) +25) ess) 904] ses] 1452)15.67 | 16.34) 18.08 |
+
 05 [1 2.14] 720/7:00) 7257 205) 904) ses] 10.61/11 40] 12.05] 18.97 [16 54) 17.72
-| 06 [1.67[2.10] 419] 4.72] 67e]620/021) 724] 726] 226) ese) 904) 79] 12.96[ 12.06 16.08 17a
-| 05 570]020/021)734/7:06) 225) es5) 904) 2437 9.63[10.22[ 01[14 40] 11 79] 12.53[ 13.66] 14.77] 15.91 [17.08
-| a2 0.82[1 05 |1.67[2.10]2.62[ 3.14] 3.67[419[ 4.72] 7.34] 7.26 +25) 255) 904) ses] 93[10.22[ 10.61/11 o1[11 40[ 11.79] 12.53[13.36| 14.46] 15 59| 1675
-| 05 [1.67[2.10]2.62[ 3.14] 3.67[419[ 4.72] 524[5.r6[629/621| 7.24] 7.26] 225) 255] 904) aca] 9.89[10.22[ 10.61/11 40] 11 79] 12.59[ 19.96] 14.15[ 14 .94[ 16.07
-| 88[0.52[7 05 570]020 734] 7.36] +25) ess) 904] ses] esa]r022/1061/11.01] 1140/11 79] 14.165] 14 94[ 1572
+
+| 06 [1.67[2.10] 419] 4.72] 67e]620/021) 724] 726] 226) ese) 904) 79] 12.96[ 12.06 16.08 17a |
+| --- |
+| 05 570]020/021)734/7:06) 225) es5) 904) 2437 9.63[10.22[ 01[14 40] 11 79] 12.53[ 13.66] 14.77] 15.91 [17.08 |
+| a2 0.82[1 05 | 1.67[2.10]2.62[ 3.14] 3.67[419[ 4.72] 7.34] 7.26 +25) 255) 904) ses] 93[10.22[ 10.61/11 o1[11 40[ 11.79] 12.53[13.36 | 14.46] 15 59 | 1675 |
+| 05 [1.67[2.10]2.62[ 3.14] 3.67[419[ 4.72] 524[5.r6[629/621 | 7.24] 7.26] 225) 255] 904) aca] 9.89[10.22[ 10.61/11 40] 11 79] 12.59[ 19.96] 14.15[ 14 .94[ 16.07 |
+| 88[0.52[7 05 570]020 734] 7.36] +25) ess) 904] ses] esa]r022/1061/11.01] 1140/11 79] 14.165] 14 94[ 1572 |
+
 [7 2.66] 3.07] 4.61] 6.12[5.63[6.18]666| 7.17] 7.68 207] 2.45) 2.24] 9.22] so) essl1037/10.76)11.1a)1152]12.29) 18.06 13.33 14.60| 15.37
-| 00 [1.60 2.00] 2.60] 3.00] 4.00[4.60/ 6.60| 7.00] 7.60] 752] 226] 262) aca] esa) 11.26 12.76) 12.60] 14.25 [16.00
-| 58[0.49[ 098 [1.46] 1 20/439] 490 537/505/620)0.33/7:22) ree] 205) eae[ 278] 015) 051) asefi025) 1061 14.64
-| 90] 476[5.25[6.71[613[6.06] 740) 75) ezo) 86] ese) 963] a1 [12.13] 12.24] 1355 [ 1427
-| 60 0.46/093|1.20[1 25 2.72] 220 270) 0.7|556 556)556 6.02)6.02/604) 720) 754) 7:00) 233] 260) vos) 937] 1250]13.19) 13.29
-| 667/6067 526)e20/675) 700) 7.43) 7,77) 210) eaa[ 278) ato] qué) 979] 1.48 1218]12.80) 12.61
-| -—eejo.saloar 121175 exs0) 720) 755) rar] e20) esa) 200] 019) e51) 13.12
-| 63[0.02[0.26[1.27[1 70] 2.97[3 40[ 3.22] 6.26[5.26[6.26]5.26[6.94] 627] eco] 7.00) 732) rea] 76) 2ze) seo] aon] ezo) a55/10.19)10+211.48]12.10) 12.73
-| 640.01 1 65] 2.08] 2.47] 2.98[ 3 5 92[5.02[6.92[5.92[6.02/ 6.17] eee] eral 7:10) rat] 771] e0el 2.0) 205) eze! 9.7) 1040/1111] 7] 124
+
+| 00 [1.60 2.00] 2.60] 3.00] 4.00[4.60/ 6.60 | 7.00] 7.60] 752] 226] 262) aca] esa) 11.26 12.76) 12.60] 14.25 [16.00 |
+| --- | --- |
+| 58[0.49[ 098 [1.46] 1 20/439] 490 537/505/620)0.33/7:22) ree] 205) eae[ 278] 015) 051) asefi025) 1061 14.64 |
+| 90] 476[5.25[6.71[613[6.06] 740) 75) ezo) 86] ese) 963] a1 [12.13] 12.24] 1355 [ 1427 |
+| 60 0.46/093 | 1.20[1 25 2.72] 220 270) 0.7 | 556 556)556 6.02)6.02/604) 720) 754) 7:00) 233] 260) vos) 937] 1250]13.19) 13.29 |
+| 667/6067 526)e20/675) 700) 7.43) 7,77) 210) eaa[ 278) ato] qué) 979] 1.48 1218]12.80) 12.61 |
+| -—eejo.saloar 121175 exs0) 720) 755) rar] e20) esa) 200] 019) e51) 13.12 |
+| 63[0.02[0.26[1.27[1 70] 2.97[3 40[ 3.22] 6.26[5.26[6.26]5.26[6.94] 627] eco] 7.00) 732) rea] 76) 2ze) seo] aon] ezo) a55/10.19)10+211.48]12.10) 12.73 |
+| 640.01 1 65] 2.08] 2.47] 2.98[ 3 5 92[5.02[6.92[5.92[6.02/ 6.17] eee] eral 7:10) rat] 771] e0el 2.0) 205) eze! 9.7) 1040/1111] 7] 124 |
+
 jes o mas | 0.40[0:20/1.19]1 59]1 99] 2.39] 270219 259) 6.97] 5.97[6.07[6.97[697[ 6.97] ear] ese] sar] 717) rar r77| sor] 936] sec] 296) 9.56] 10.16] 1075/11 3511.35) Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deb ltiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, po Ido Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo bajador al último día del año anterior a que entre en vigor esta Ley.
 REGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO DECIMO. A los Trabajadores que no opten por la acreditación de Bonos de Pensión del ISSSTE, aplicarán las siguientes modalidades:
 
 I. A partir de la entrada en vigor de esta Ley hasta el treinta y uno de diciembre de dos mil nueve:
 
 a) Los Trabajadores que hubieren cotizado treinta años o más y las Trabajadoras que hubie zado veintiocho años o más, tendrán derecho a Pensión por Jubilación equivalente al cien por cie nem marti. Ae! a PUE PU a E PA LA A mea A A A LA A
-
 del promedio del Sueldo Básico de su último año de servicio y su percepción comenzará a partir del día siguiente a aquél en que el Trabajador hubiese disfrutado el último sueldo antes de causar baja;
 
 b) Los Trabajadores que cumplan cincuenta y cinco años de edad o más y quince años o más de cotización al Instituto, tendrán derecho a una Pensión de retiro por edad y tiempo de servicios equivalente a un porcentaje del promedio del Sueldo Básico de su último año de servicio que se define en la fracción IV, de conformidad con la siguiente Tabla: 15 años de servicio........................ 50 % 16 años de servicio........................ 52.5 % 17 años de servicio........................ 55 % 18 años de servicio........................ 57.5 % 19 años de servicio........................ 60 % 20 años de servicio........................ 62.5 % 21 años de servicio........................ 65 % 22 años de servicio........................ 67.5 % 23 años de servicio........................ 70 % 24 años de servicio........................ 72.5 % 25 años de servicio........................ 75 % 26 años de servicio........................ 80 % 27 años de servicio........................ 85 % 28 años de servicio........................ 90 % 29 años de servicio........................ 95 %
@@ -2233,13 +2338,12 @@ IV. Para calcular el monto de las cantidades que correspondan por Pensión, se t
 V. Los Trabajadores a que se refiere este artículo, en caso de sufrir un riesgo del trabajo, y sus Familiares Derechohabientes, en caso de su fallecimiento a consecuencia de un riesgo del trabajo, tendrán derecho a una Pensión en los términos de lo dispuesto por el seguro de riesgos del trabajo previsto en esta Ley. Para tal efecto, el Instituto, con cargo a los recursos que a tal efecto le transfiera el Gobierno Federal, contratará una Renta vitalicia a favor del Trabajador, o en caso de fallecimiento, el Seguro de Sobrevivencia para sus Familiares Derechohabientes;
 
 VI. Los Trabajadores a que se refiere este artículo, en caso de invalidez, estarán sujetos a un periodo mínimo de cotización de quince años para tener derecho a Pensión, misma que se otorgará por un porcentaje del promedio del Sueldo Básico disfrutado en el último año inmediato anterior, conforme a lo siguiente: 15 años de servicio.......................... 50 % 16 años de servicio.......................... 52.5 % 17 años de servicio.......................... 55 % 18 años de servicio.......................... 57.5 % 19 años de servicio.......................... 60 % 20 años de servicio.......................... 62.5 % 21 años de servicio.......................... 65 % 22 años de servicio.......................... 67.5 % 23 años de servicio.......................... 70 % 24 años de servicio.......................... 72.5 % 25 años de servicio.......................... 75 % 26 años de servicio.......................... 80 % 27 años de servicio.......................... 85 % 28 años de servicio.......................... 90 % 29 años de servicio.......................... 95 % Los Familiares Derechohabientes del Trabajador fallecido, en el orden que establece la sección de Pensión por causa de muerte del seguro de invalidez y vida, tienen derecho a una Pensión equivalente al cien por ciento de la que hubiese correspondido al Trabajador, aplicándose el periodo mínimo de quince años de cotización para tener derecho a la Pensión.
-**DÉCIMO PRIMERO.** Las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez de los Trabajadores que opten por el régimen previsto en el artículo anterior serán ingresados en la tesorería del Instituto, excepto la Aportación del dos por ciento de retiro, la cual se destinará a la Subcuenta de ahorro para el retiro de las Cuentas Individuales de estos Trabajadores que serán administradas exclusivamente por el PENSIONISSSTE.
-**DÉCIMO SEGUNDO.** Estarán a cargo del Gobierno Federal las Pensiones que se otorguen a los Trabajadores que opten por el esquema establecido en el artículo décimo transitorio, así como el costo de su administración.
+**DÉCIMO PRIMERO.-** Las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez de los Trabajadores que opten por el régimen previsto en el artículo anterior serán ingresados en la tesorería del Instituto, excepto la Aportación del dos por ciento de retiro, la cual se destinará a la Subcuenta de ahorro para el retiro de las Cuentas Individuales de estos Trabajadores que serán administradas exclusivamente por el PENSIONISSSTE.
+**DÉCIMO SEGUNDO.-** Estarán a cargo del Gobierno Federal las Pensiones que se otorguen a los Trabajadores que opten por el esquema establecido en el artículo décimo transitorio, así como el costo de su administración.
 El Gobierno Federal cumplirá lo previsto en el párrafo anterior mediante los mecanismos de pago que determine a través de la Secretaría de Hacienda y Crédito Público, los que en ningún caso afectarán a los Trabajadores.
 El Instituto transferirá a la Secretaría de Hacienda y Crédito Público, los recursos a que se refiere el artículo anterior, en los términos que se convengan.
 DE LOS TRABAJADORES QUE OPTEN POR EL BONO
-**DÉCIMO TERCERO.** Para los Trabajadores que hayan elegido la acreditación de los Bonos de Pensión del ISSSTE, para el ejercicio del derecho previsto en el artículo 80 de esta Ley, durante los periodos que a continuación se indican deberán cumplir los siguientes requisitos de edad o tiempo de cotización al Instituto:
-
+**DÉCIMO TERCERO.-** Para los Trabajadores que hayan elegido la acreditación de los Bonos de Pensión del ISSSTE, para el ejercicio del derecho previsto en el artículo 80 de esta Ley, durante los periodos que a continuación se indican deberán cumplir los siguientes requisitos de edad o tiempo de cotización al Instituto:
 I. Durante el año 2008 tener cumplidos por lo menos cincuenta y cinco años de edad, o haber cotizado al Instituto durante treinta o más años;
 
 II. Durante el año 2009 tener cumplidos por lo menos cincuenta y cuatro años de edad, o haber cotizado al Instituto durante veintinueve o más años;
@@ -2250,24 +2354,23 @@ IV. Durante el año 2011 tener cumplidos por lo menos cincuenta y dos años de e
 
 V. Durante el año 2012 tener cumplidos por lo menos cincuenta y un años de edad, o haber cotizado al Instituto durante veintiséis o más años.
 A partir del año 2013, estos requisitos dejarán de ser exigibles.
-**DÉCIMO CUARTO.** Los Trabajadores que a la fecha de entrada en vigor de esta Ley tengan derecho a pensionarse conforme a la Ley que se abroga y hubieren elegido los beneficios de la presente Ley, pero que deseen seguir laborando, recibirán, en lugar de Bonos de Pensión del ISSSTE, un depósito a la vista denominado en unidades de inversión en el Banco de México, con la misma tasa de interés real anual utilizada para el cálculo de los mencionados Bonos de Pensión del ISSSTE prevista en el artículo
-**vigésimo primero.** transitorio, el cual pagará intereses mensualmente.
+**DÉCIMO CUARTO.-** Los Trabajadores que a la fecha de entrada en vigor de esta Ley tengan derecho a pensionarse conforme a la Ley que se abroga y hubieren elegido los beneficios de la presente Ley, pero que deseen seguir laborando, recibirán, en lugar de Bonos de Pensión del ISSSTE, un depósito a la vista denominado en unidades de inversión en el Banco de México, con la misma tasa de interés real anual utilizada para el cálculo de los mencionados Bonos de Pensión del ISSSTE prevista en el artículo
+**vigésimo primero.-** transitorio, el cual pagará intereses mensualmente.
 La Secretaría de Hacienda y Crédito Público determinará la forma y términos en que los recursos de dicho depósito podrán ser utilizados por el PENSIONISSSTE o, en su caso, las sociedades de inversión especializadas de fondos para el retiro que elija el Trabajador para la inversión de los recursos de su Cuenta Individual.
 El monto del depósito a que se refiere este artículo se determinará de conformidad con la tabla prevista en el artículo noveno transitorio.
 Las empresas operadoras de la Base de Datos Nacional SAR deberán llevar el registro individual de estos depósitos hasta que sea entregada la información al PENSIONISSSTE.
-**DÉCIMO QUINTO.** Los Trabajadores que habiéndoseles acreditado Bonos de Pensión del ISSSTE, estén laborando a la fecha de amortización de dichos Bonos, la cantidad liquidada por la amortización, se podrá invertir en nuevos Bonos de Pensión del ISSSTE.
-**DÉCIMO SEXTO.** Los Trabajadores que a la fecha de entrada en vigor de esta Ley se encuentren separados del servicio y posteriormente reingresaren al mismo, y quisieren que el tiempo trabajado con anterioridad se les compute para obtener los beneficios de esta Ley, deberán reintegrar, en su caso, la indemnización global que hubieren recibido. Asimismo, deberán laborar por lo menos durante un año contado a partir de su reingreso.
+**DÉCIMO QUINTO.-** Los Trabajadores que habiéndoseles acreditado Bonos de Pensión del ISSSTE, estén laborando a la fecha de amortización de dichos Bonos, la cantidad liquidada por la amortización, se podrá invertir en nuevos Bonos de Pensión del ISSSTE.
+**DÉCIMO SEXTO.-** Los Trabajadores que a la fecha de entrada en vigor de esta Ley se encuentren separados del servicio y posteriormente reingresaren al mismo, y quisieren que el tiempo trabajado con anterioridad se les compute para obtener los beneficios de esta Ley, deberán reintegrar, en su caso, la indemnización global que hubieren recibido. Asimismo, deberán laborar por lo menos durante un año contado a partir de su reingreso.
 Una vez transcurrido un año a partir del reingreso, el Trabajador deberá acreditar su antigüedad con sus hojas únicas de servicio y le serán acreditados los Bonos de Pensión del ISSSTE que le correspondan.
 Los beneficios que se les otorguen a los Trabajadores referidos en este artículo se calcularán sobre el promedio del Sueldo Básico, del año anterior a su separación del servicio público.
-**DÉCIMO SÉPTIMO.** Los ciudadanos que hubieren servido como Diputados o Senadores propietarios al Congreso de la Unión y que no se hubieren incorporado voluntariamente al régimen de la Ley que se abroga durante su mandato constitucional, tendrán derecho a solicitar al Instituto su incorporación al mismo, mediante el pago de las Cuotas y Aportaciones que estuvieren vigentes durante el periodo en que hubieren servido. Este derecho deberán ejercerlo dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+**DÉCIMO SÉPTIMO.-** Los ciudadanos que hubieren servido como Diputados o Senadores propietarios al Congreso de la Unión y que no se hubieren incorporado voluntariamente al régimen de la Ley que se abroga durante su mandato constitucional, tendrán derecho a solicitar al Instituto su incorporación al mismo, mediante el pago de las Cuotas y Aportaciones que estuvieren vigentes durante el periodo en que hubieren servido. Este derecho deberán ejercerlo dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
 El ejercicio del derecho a que se refiere este artículo dará lugar al otorgamiento de los beneficios previstos en el presente ordenamiento.
 DERECHOS DE LOS PENSIONADOS A LA FECHA DE ENTRADA EN VIGOR DE ESTA LEY
-**DÉCIMO OCTAVO.** Los Jubilados, Pensionados o sus Familiares Derechohabientes que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la Ley que se abroga, continuarán ejerciendo sus derechos en los términos y condiciones señalados en las disposiciones vigentes al momento de su otorgamiento.
-**DÉCIMO NOVENO.** Para la administración de las Pensiones en curso de pago, el Instituto deberá llevar por separado la contabilidad de los recursos que reciba para este fin. Los recursos que destine el Gobierno Federal al Instituto para cubrir dichas Pensiones no se considerarán ingresos de este último.
+**DÉCIMO OCTAVO.-** Los Jubilados, Pensionados o sus Familiares Derechohabientes que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la Ley que se abroga, continuarán ejerciendo sus derechos en los términos y condiciones señalados en las disposiciones vigentes al momento de su otorgamiento.
+**DÉCIMO NOVENO.-** Para la administración de las Pensiones en curso de pago, el Instituto deberá llevar por separado la contabilidad de los recursos que reciba para este fin. Los recursos que destine el Gobierno Federal al Instituto para cubrir dichas Pensiones no se considerarán ingresos de este último.
 Anualmente, el Instituto transferirá al Gobierno Federal, en los términos que convenga con la Secretaría de Hacienda y Crédito Público para tal efecto, los recursos de las Cuotas y Aportaciones de los seguros de riesgos del trabajo e invalidez y vida de los Trabajadores que optaron por el régimen previsto en el artículo décimo transitorio.
 CARACTERÍSTICAS DE LOS BONOS DE PENSIÓN DEL ISSSTE
-**VIGÉSIMO.** Los Bonos de Pensión del ISSSTE reunirán las siguientes características:
-
+**VIGÉSIMO.-** Los Bonos de Pensión del ISSSTE reunirán las siguientes características:
 I. Serán títulos emitidos por el Gobierno Federal en términos de las disposiciones legales aplicables, que constituirán obligaciones generales directas e incondicionales de los Estados Unidos Mexicanos;
 
 II. Tendrá, cada uno, un valor nominal de cien unidades de inversión;
@@ -2286,7 +2389,7 @@ VIII. Podrán ser amortizados previamente a su fecha de vencimiento, cuando el G
 Con base en el cálculo preliminar del importe de los Bonos de Pensión del ISSSTE que el Instituto proporcione al Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público, ésta deberá determinar el número de series, así como las demás características de los Bonos de Pensión del ISSSTE y de la emisión de los mismos.
 A más tardar el treinta de septiembre de dos mil ocho, el Instituto deberá informar a la Secretaría de Hacienda y Crédito Público el monto exacto de cada serie de Bonos de Pensión del ISSSTE, acompañando el soporte respectivo, en los términos que en su caso estén previstos en las disposiciones reglamentarias o administrativas correspondientes.
 El Banco de México tendrá a su cargo las funciones de custodia, administración y servicio de los Bonos de Pensión del ISSSTE.
-**VIGÉSIMO PRIMERO.** Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
+**VIGÉSIMO PRIMERO.-** Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
 V R t   ( 1 .
 V 0 3 N 5 ) n  * U d i t Donde: t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
 Udit = Valor de la unidad de inversión en el día t.
@@ -2294,116 +2397,128 @@ VR = Valor de redención anticipada expresado en pesos al día t.
 VN = Valor nominal de emisión del Bono de Pensión del ISSSTE, expresado en unidades de inversión. n = Número de años faltantes para el vencimiento del Bono de Pensión del ISSSTE, expresado como el número de días para el vencimiento, dividido entre trescientos sesenta y cinco.
 Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determinar el valor de los Bonos de Pensión del ISSSTE acreditados al Trabajador.
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
-
 Años de Servicio [ala sal sf el 7 se sf 43 al asf de ql asf tg) 20] af za 23) sl asf ze 27) 28) 297 30
-| 0.24
-| 16/ 0.23/ 0.49]
-| 0.23] 0.47] 0.75 | 1.05
-| 19fo.22[ 0.47] 0.74]
+
+| 0.24 |
+| --- |
+| 16/ 0.23/ 0.49] |
+| 0.23] 0.47] 0.75 | 1.05 |
+| 19fo.22[ 0.47] 0.74] |
 | 0.46] 0.72] 1.02[1 23] 1 63 |
+
 68] 2.03
-| oro] o.98 [1 2.00] 2.40]
-| 0.43/0.69/0.97|1 27/1 61]1 97/2.97/ 2.80]
-| 240.20] 0.43] 0.67] 0.95] 1.25 ]1.5¢|1.94] 233] 2.76] 3.23]
-| 25/020] 0.42] 0.68 271] 3.47] 3.66)
-| 26/019] 342) 261) 4.14]
-| 2#[o.20/0.40]0.63[0.89[118]1 50/184] 222/263] zo7| 255) 4.07 464]
-| 302) 250) am] 457) 547)
-| 297] 3.44] 2.96] 450) 5.09) 5.73]
-| 74] 210/240] 292) 338) ses] 445) 6.01] 565620!
-| 0.69] 0.92[1.15]1.38] 170] 258) 330) 3.22] 435) 494) 656/614] 6.75]
-| 2 201] 3.26] 3.76] 420 426] 5.47] 6.04] 6.65] 7.31
-| _-3/0.25] 0.49] 0.74] 275| 220| 3.63] 420] 477| 6.38| 6.95] 6.55] 7.20] 7.00]
-| 40.25] 0.51 27/1 53/1 269) 2.13] 261/ 412] 468] 6.29| 6.25| 6.45/7.00 7.78 51)
+
+| oro] o.98 [1 2.00] 2.40] |
+| --- |
+| 0.43/0.69/0.97 | 1 27/1 61]1 97/2.97/ 2.80] |
+| 240.20] 0.43] 0.67] 0.95] 1.25 ]1.5¢ | 1.94] 233] 2.76] 3.23] |
+| 25/020] 0.42] 0.68 271] 3.47] 3.66) |
+| 26/019] 342) 261) 4.14] |
+| 2#[o.20/0.40]0.63[0.89[118]1 50/184] 222/263] zo7 | 255) 4.07 464] |
+| 302) 250) am] 457) 547) |
+| 297] 3.44] 2.96] 450) 5.09) 5.73] |
+| 74] 210/240] 292) 338) ses] 445) 6.01] 565620! |
+| 0.69] 0.92[1.15]1.38] 170] 258) 330) 3.22] 435) 494) 656/614] 6.75] |
+| 2 201] 3.26] 3.76] 420 426] 5.47] 6.04] 6.65] 7.31 |
+| _-3/0.25] 0.49] 0.74] 275 | 220 | 3.63] 420] 477 | 6.38 | 6.95] 6.55] 7.20] 7.00] |
+| 40.25] 0.51 27/1 53/1 269) 2.13] 261/ 412] 468] 6.29 | 6.25 | 6.45/7.00 7.78 51) |
+
 5 [35] 0.26/0.63| 0.79[1.05]1.22| 158/124] 263) zor] 252) 404] 460) 519|576 624 6.08|7.66 228) 9.16] wo | — 100] 2.45] 273[ 3.00 3.46] 2:06) 451 5.10] 6.65[6.23/6.26] 902] 9.84]
-
 > | _37]022[0.58[0.26[112[1.41]1 68] 1 97 [226/254] 222] 310] 239] 33s) 442] e74]7 41/8.12) +so)
-
 a | — aslozojossfoes 46/175] 204/2234 263] 295 221] 350) 30) 433 4.90] 6.43[6.01[ee2|72¢| rsa] +76 asslio.m|1133 E [ en] eze) sea] css) 220) 7.26) 260) 9.40] 10.26] 11 16] 12.18]
-
 > | 250/282] 343] saa] 3.76] 407) 439] 637 7.02] 7m] 245) ez0)10.00)10.09]11.05)13:39
-
 D | 324 356] 3.89] 421) 463] 7.57] 330] 9.09] 9.92] 10.82] 11.77] 13.19] 14.72 BZ | 335) 3.69] 402] 436 469] 5.08 528)553 612 675 7.42) 215) 292) 9.75| 10.64] 11.98] 12.09)14.51 | 16.14 Do | 43/005 069/1.04]1 208 243 >77)312) 347) 341) 416) 451) 426] 5201546 570/5.08 6.60/7.27| 799) 276) 958 1278) 1429] 15.00) 17.63
-| 14.06 1666)17.37|1921
+
+| 14.06 1666)17.37 | 1921 |
+| --- | --- |
+
 259) zos) 421 soa] 539/666)6.90)6.19/6.46)7.12) 722) 259)
-| 260]207/334) 272) 446] 423) 6.20] ssr|5e5 e12]6.01/6.60 6.7] 766) 2.41) e22 10.08 10.99] 12.36] 13:23) 16.41 1710/13 00]
-| 46/022 /0.77|1.15] 1.64] 1.92[2.31/260[3.08]2a6] 335) 120 461) 500) 6.28] e77|508 7.21] 750) 224) 9.03) essfiaral12.14 1350) 15.15) 1633/13 6d)
-| —arfo.soloso]119/159]19s]230 39) 43e are] 517) 6.57] e57]6sr|7.16 7.46] 776] 208) 24) 1334) 14.20) 1655/13 34)
-| -—asfoa lose] 412) 463) 494] 635) 677) e1s]exa 117.01 772] sos 22a] 265) saslio3r]11.es/1310) 14.62) 16.27/18 03)
-| ose] 420) seal 612) 554) 697) essle71|7.03]736/7.67 7.09] eat] 263) 2.06) 11.44] 1224] 14.95] 15.98/17 72]
-| -—sulo.4/0381.201.76)221)265)3.00/353/3.97| 44i| 35) 6.20] 67a] 6.13] 8.27] eco) 2.94) 9.27] 960] 9.93] 11.20]12.68] 14.07] 15.68] 17.41
-| 0.01] 1 3 220)274)3.20|3.65/411| 457) 5.43] 54) eso) 6.05] 719|754| 7.09 8.27 8.56) soi] 9.25] 950] 9.93] 10.28] 10.96] 12.92] 13.79] 15.38] 17.08
-| 42/1 29/2.36[ 224] 473] s20) 6.67] 614) 662] 709744 700 815/51 8.06) 922] 967] 10.64] 11.34] 12.08] 13.60] 15.07| 16.76)
-| 47 3.91440] 439) cos) 587] eze) 625] 8.44 819.17) 954[ 9.91[10.27| 10.64] 11.01] 1174] 12.48| 13.21 1475 16 42)
+
+| 260]207/334) 272) 446] 423) 6.20] ssr | 5e5 e12]6.01/6.60 6.7] 766) 2.41) e22 10.08 10.99] 12.36] 13:23) 16.41 1710/13 00] |
+| --- | --- |
+| 46/022 /0.77 | 1.15] 1.64] 1.92[2.31/260[3.08]2a6] 335) 120 461) 500) 6.28] e77 | 508 7.21] 750) 224) 9.03) essfiaral12.14 1350) 15.15) 1633/13 6d) |
+| —arfo.soloso]119/159]19s]230 39) 43e are] 517) 6.57] e57]6sr | 7.16 7.46] 776] 208) 24) 1334) 14.20) 1655/13 34) |
+| -—asfoa lose] 412) 463) 494] 635) 677) e1s]exa 117.01 772] sos 22a] 265) saslio3r]11.es/1310) 14.62) 16.27/18 03) |
+| ose] 420) seal 612) 554) 697) essle71 | 7.03]736/7.67 7.09] eat] 263) 2.06) 11.44] 1224] 14.95] 15.98/17 72] |
+| -—sulo.4/0381.201.76)221)265)3.00/353/3.97 | 44i | 35) 6.20] 67a] 6.13] 8.27] eco) 2.94) 9.27] 960] 9.93] 11.20]12.68] 14.07] 15.68] 17.41 |
+| 0.01] 1 3 220)274)3.20 | 3.65/411 | 457) 5.43] 54) eso) 6.05] 719 | 754 | 7.09 8.27 8.56) soi] 9.25] 950] 9.93] 10.28] 10.96] 12.92] 13.79] 15.38] 17.08 |
+| 42/1 29/2.36[ 224] 473] s20) 6.67] 614) 662] 709744 700 815/51 8.06) 922] 967] 10.64] 11.34] 12.08] 13.60] 15.07 | 16.76) |
+| 47 3.91440] 439) cos) 587] eze) 625] 8.44 819.17) 954[ 9.91[10.27 | 10.64] 11.01] 1174] 12.48 | 13.21 1475 16 42) |
+
 [ safo.st [1 2] 4.05] 4.56] 5.06) S57] 6.08] ese] tos] 11.07 12.91 13.67] 14.05 16.07 [ 62/214] 472) 624] e7e| 620] est] 72a] 66| 9.04]/9.43[9 23] 1020] 10.61[11 01] 11 40/411 Pa[12.58] 1336) 1415/1494 16 72
-| 86] 0.61] 1 02[1 64] 206/256] 410] 461] 612] Exc els) ses) 60] 9.99] 1os7[1076] 11 14/11. 521229 13.06] 138514601637
-| s#[0.60/1.00]1 60] 2.00|2.60[3.00[8.60| 4.00] 4.60] 6.00] 6.60[ eco e50) 7.00] 750/723] 2.25] 263/900] ase] e7s|1015 10.50 10.88] 11 26[ 12.00] 12 76| 18.60] 14.26/16 00)
-| 88 3.00 4.39) 438) sar] Gao) 624] 623] 732] 961| 9.9¢[10.26| 10.61] 10.92[ 11.71] 12.44] 13.17|13.91 | 14 04
-| 0.48] 0.95] 1.43 |1 90] 3.90] 4.28] 476] 5.23] 5.71] 618) 666] 7.13] 7.49|7.85[ 6.20 856 8.02) 9.27] 9.63] 9.99/1034] 10.70] 11.41] 12.13] 12.84] 13.55] 14.27
-| 60 0.48] 0.93]1.39]1 26/221 3.24] 3.70] 4.17/ 556) 655) 6.56] 600) 64s] 694] 903] 997] 12.60] 12.19] 13.99)
-| 610.45] 0.90] 1.25] 1 20/2.25[2.70|3.15/3.60/4.05/ s.67| 6.67] 6.25] 6.30] e76/7.00|7.42 7.77 810/8.04| 278) 942] 2.46) 10.13] 10.81 [11.48] 12.16] 12.83] 13.51
-| 206] 350/3:04) 6.77] s.77[ 577 577) 612) ess|6.00 7.22] 7.55/7.47 220] 253 226) o19[ 251] 1115] 71 81 [12.47] 13.12]
-| e.) see] 5.26] 546) 6.04] 7.00] 2.28] 260) 2.01) 222) 9.65] 10.19]
-| ba fo.4t [o.22|1 23] 1.65| 270 6.92] soe 6.92] 692] 6.92] er]sas era]r 107.41 771] +02) 230) 264) 2.95[ ace] 1111/1173] 12.24)
+
+| 86] 0.61] 1 02[1 64] 206/256] 410] 461] 612] Exc els) ses) 60] 9.99] 1os7[1076] 11 14/11. 521229 13.06] 138514601637 |
+| --- |
+| s#[0.60/1.00]1 60] 2.00 | 2.60[3.00[8.60 | 4.00] 4.60] 6.00] 6.60[ eco e50) 7.00] 750/723] 2.25] 263/900] ase] e7s | 1015 10.50 10.88] 11 26[ 12.00] 12 76 | 18.60] 14.26/16 00) |
+| 88 3.00 4.39) 438) sar] Gao) 624] 623] 732] 961 | 9.9¢[10.26 | 10.61] 10.92[ 11.71] 12.44] 13.17 | 13.91 | 14 04 |
+| 0.48] 0.95] 1.43 | 1 90] 3.90] 4.28] 476] 5.23] 5.71] 618) 666] 7.13] 7.49 | 7.85[ 6.20 856 8.02) 9.27] 9.63] 9.99/1034] 10.70] 11.41] 12.13] 12.84] 13.55] 14.27 |
+| 60 0.48] 0.93]1.39]1 26/221 3.24] 3.70] 4.17/ 556) 655) 6.56] 600) 64s] 694] 903] 997] 12.60] 12.19] 13.99) |
+| 610.45] 0.90] 1.25] 1 20/2.25[2.70 | 3.15/3.60/4.05/ s.67 | 6.67] 6.25] 6.30] e76/7.00 | 7.42 7.77 810/8.04 | 278) 942] 2.46) 10.13] 10.81 [11.48] 12.16] 12.83] 13.51 |
+| 206] 350/3:04) 6.77] s.77[ 577 577) 612) ess | 6.00 7.22] 7.55/7.47 220] 253 226) o19[ 251] 1115] 71 81 [12.47] 13.12] |
+| e.) see] 5.26] 546) 6.04] 7.00] 2.28] 260) 2.01) 222) 9.65] 10.19] |
+| ba fo.4t [o.22 | 1 23] 1.65 | 270 6.92] soe 6.92] 692] 6.92] er]sas era]r 107.41 771] +02) 230) 264) 2.95[ ace] 1111/1173] 12.24) |
+
 [65 o mas] 0.40] 0.20] 119] 1 69] 1 99] 230/2709 319 3.58) sar] sar] ber] sav] sar] 297 627 657 67 7.177.47| 777| eor] 2.36] 266) ess) Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deb ltiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, po
-
 >Ido Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibier
-
 rabajador al último día del año anterior a que entre en vigor esta Ley.
 A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto yresente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crét ico, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSS como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del cré ico, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobie leral asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secret Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egre: la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a ca Gobierno Federal a que se refiere esta Ley.
 VIGESIMO SEGUNDO. Los procedimientos para acreditar en las Cuentas Individuales los Bonos sión del ISSSTE y su traspaso al PENSIONISSSTE o a las Administradoras se deberán sujetar a E E o. A A EU A e . CAE E A e. ee oe
-
 disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los estados de cuenta que expidan a los Trabajadores el valor nominal de sus Bonos de Pensión del ISSSTE en unidades de inversión y en pesos, así como el valor de pago anticipado de los Bonos en unidades de inversión y en pesos, a la fecha de corte del estado de cuenta, de conformidad con las disposiciones que emita al efecto la Comisión Nacional del Sistema de Ahorro para el Retiro.
 DEL PENSIONISSSTE
-**VIGÉSIMO TERCERO.** El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
+**VIGÉSIMO TERCERO.-** El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
 El Gobierno Federal deberá apoyar al Instituto, proveyendo los recursos necesarios, para el inicio de operaciones del PENSIONISSSTE.
-**VIGÉSIMO CUARTO.** Durante el periodo que transcurra entre la entrada en vigor de esta Ley y que el PENSIONISSSTE tome a su cargo la administración de las Cuentas Individuales de los Trabajadores, las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez se depositarán en la cuenta que lleve el Banco de México, al Instituto.
+**VIGÉSIMO CUARTO.-** Durante el periodo que transcurra entre la entrada en vigor de esta Ley y que el PENSIONISSSTE tome a su cargo la administración de las Cuentas Individuales de los Trabajadores, las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez se depositarán en la cuenta que lleve el Banco de México, al Instituto.
 Los recursos depositados en la mencionada cuenta se invertirán en valores o créditos a cargo del Gobierno Federal, y causarán intereses a una tasa de dos por ciento anual, pagaderos mensualmente mediante su reinversión. El cálculo de estos intereses se hará sobre el saldo promedio diario mensual, ajustado en una cantidad igual a la resultante de aplicar a dicho saldo, la variación porcentual del Índice Nacional de Precios al Consumidor publicado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.
 Las empresas operadoras de la Base de Datos Nacional SAR deberán llevar el registro de las Cuotas y Aportaciones enteradas y su individualización, incluyendo la relativa a las Aportaciones al Fondo de la Vivienda, para su entrega al PENSIONISSSTE.
 La Secretaría de Hacienda y Crédito Público establecerá las demás características de la cuenta que lleve el Banco de México al Instituto.
 La Comisión Nacional del Sistema de Ahorro para el Retiro deberá establecer el procedimiento para que se registre la información de las Cuotas y Aportaciones y se opere la apertura de las Cuentas Individuales en el PENSIONISSSTE.
-**VIGÉSIMO QUINTO.** El PENSIONISSSTE administrará las Cuentas Individuales de los Trabajadores afiliados o que se afilien al Instituto durante los treinta y seis meses siguientes a su creación. Los Trabajadores que ingresen al régimen a partir de la entrada en vigor de esta Ley, y tengan abierta ya una Cuenta Individual en una Administradora, podrán elegir mantenerse en ella.
+**VIGÉSIMO QUINTO.-** El PENSIONISSSTE administrará las Cuentas Individuales de los Trabajadores afiliados o que se afilien al Instituto durante los treinta y seis meses siguientes a su creación. Los Trabajadores que ingresen al régimen a partir de la entrada en vigor de esta Ley, y tengan abierta ya una Cuenta Individual en una Administradora, podrán elegir mantenerse en ella.
 Una vez concluido el plazo antes mencionado, los Trabajadores a que se refiere el párrafo anterior podrán solicitar el traspaso de su Cuenta Individual a cualquier Administradora, o permanecer en el PENSIONISSSTE sin trámite alguno. Asimismo, a partir de esa fecha, el PENSIONISSSTE podrá recibir el traspaso de Cuentas Individuales de Trabajadores afiliados al IMSS o de Trabajadores independientes.
 Los Bonos de Pensión del ISSSTE no deberán ser considerados por las Administradoras para el cálculo de las comisiones que estén autorizadas a cobrar a las Cuentas Individuales.
 Tratándose de Trabajadores que a la entrada en vigor de la presente Ley hayan elegido que su Cuenta Individual sea operada por una Administradora y opten por la acreditación de Bonos de Pensión del ISSSTE en términos del artículo quinto transitorio, dicha Cuenta Individual seguirá siendo operada por la Administradora que hubieren elegido y los Bonos de Pensión del ISSSTE deberán ser acreditados en las Cuentas Individuales operadas por dichas Administradoras.
-**VIGÉSIMO SEXTO.** Los recursos acumulados en las Cuentas Individuales abiertas bajo el sistema de ahorro para el retiro vigente a partir del primer bimestre de mil novecientos noventa y dos hasta la fecha de entrada en vigor de esta Ley, deberán ser transferidos al PENSIONISSSTE dentro del mes siguiente a que inicie operaciones, y se mantendrán invertidos en créditos a cargo del Gobierno Federal en el Banco de México.
+**VIGÉSIMO SEXTO.-** Los recursos acumulados en las Cuentas Individuales abiertas bajo el sistema de ahorro para el retiro vigente a partir del primer bimestre de mil novecientos noventa y dos hasta la fecha de entrada en vigor de esta Ley, deberán ser transferidos al PENSIONISSSTE dentro del mes siguiente a que inicie operaciones, y se mantendrán invertidos en créditos a cargo del Gobierno Federal en el Banco de México.
 A los Trabajadores que hayan elegido la acreditación de Bonos de Pensión del ISSSTE, se les abrirá la Cuenta Individual a que se refiere esta Ley, en la que acumularán los recursos a que se refiere el párrafo anterior.
-**VIGÉSIMO SÉPTIMO.** Las Cuentas Individuales del sistema de ahorro para el retiro, se transferirán y serán administradas por el PENSIONISSSTE.
+**VIGÉSIMO SÉPTIMO.-** Las Cuentas Individuales del sistema de ahorro para el retiro, se transferirán y serán administradas por el PENSIONISSSTE.
 FORTALECIMIENTO INTEGRAL DEL INSTITUTO
-**VIGÉSIMO OCTAVO.** El capital inicial de operación del Fondo de préstamos personales al primer día de la entrada en vigor de la presente Ley, se constituirá por el valor de la cartera vigente de préstamos personales, capital más intereses y el valor de los recursos disponibles de este Fondo al día anterior de la entrada en vigor de la presente Ley.
+**VIGÉSIMO OCTAVO.-** El capital inicial de operación del Fondo de préstamos personales al primer día de la entrada en vigor de la presente Ley, se constituirá por el valor de la cartera vigente de préstamos personales, capital más intereses y el valor de los recursos disponibles de este Fondo al día anterior de la entrada en vigor de la presente Ley.
 El Gobierno Federal, para el fortalecimiento del Fondo suministrará adicionalmente, por una sola vez, la cantidad de dos mil millones de pesos, dentro de los sesenta días siguientes a que entre en vigor esta Ley. El Instituto devolverá esta cantidad al Gobierno Federal, en los plazos y términos que convenga con la Secretaría de Hacienda y Crédito Público.
-**VIGÉSIMO NOVENO.** De manera extraordinaria, el Gobierno Federal deberá aportar al seguro de salud la cantidad de ocho mil millones de pesos, en los términos que convengan el Instituto y la Secretaría de Hacienda y Crédito Público.
-**TRIGÉSIMO.** La Cuota Social del seguro de salud, será cubierta por el Gobierno Federal a partir del día primero de enero del año dos mil ocho. En ese año, el Gobierno Federal aportará la cantidad que resulte suficiente para cubrir la Cuota Social del cincuenta y siete punto dos por ciento del total de los Trabajadores y Pensionados a esa fecha. El Gobierno Federal incrementará las Aportaciones por concepto de Cuota Social del seguro de salud en un catorce punto tres por ciento de los Trabajadores y Pensionados cada año a partir de dos mil nueve, hasta cubrir el cien por ciento de los Trabajadores y Pensionados en el año dos mil once.
-**TRIGÉSIMO.** PRIMERO. La Cuota por el seguro de retiro, cesantía en edad avanzada y vejez correspondiente a los Trabajadores se deberá ajustar a lo dispuesto en la tabla siguiente:
+**VIGÉSIMO NOVENO.-** De manera extraordinaria, el Gobierno Federal deberá aportar al seguro de salud la cantidad de ocho mil millones de pesos, en los términos que convengan el Instituto y la Secretaría de Hacienda y Crédito Público.
+**TRIGÉSIMO.-** La Cuota Social del seguro de salud, será cubierta por el Gobierno Federal a partir del día primero de enero del año dos mil ocho. En ese año, el Gobierno Federal aportará la cantidad que resulte suficiente para cubrir la Cuota Social del cincuenta y siete punto dos por ciento del total de los Trabajadores y Pensionados a esa fecha. El Gobierno Federal incrementará las Aportaciones por concepto de Cuota Social del seguro de salud en un catorce punto tres por ciento de los Trabajadores y Pensionados cada año a partir de dos mil nueve, hasta cubrir el cien por ciento de los Trabajadores y Pensionados en el año dos mil once.
+**TRIGÉSIMO.-** PRIMERO. La Cuota por el seguro de retiro, cesantía en edad avanzada y vejez correspondiente a los Trabajadores se deberá ajustar a lo dispuesto en la tabla siguiente:
 Años Cuota a cargo del Trabajador A la entrada en vigor de esta 3.5% Ley 2008 4.025% 2009 4.55% 2010 5.075% 2011 5.6% 2012 en adelante 6.125% DISPOSICIONES GENERALES
-**TRIGÉSIMO.** SEGUNDO. El Instituto proporcionará a los Derechohabientes el medio de identificación a que se refiere el artículo 9o. de esta Ley, dentro de un plazo de dos años a partir de la entrada en vigor de la misma, sin perjuicio de que durante dicho plazo sigan siendo válidos los medios de identificación expedidos por el Instituto a los Derechohabientes.
-**TRIGÉSIMO.** TERCERO. A efecto de instrumentar las diversas obligaciones a cargo de las Dependencias y Entidades previstas en esta Ley, se deberá crear un Comité de Oficiales Mayores o sus equivalentes en las Entidades y órganos desconcentrados, presidido por la Secretaría de Hacienda y Crédito Público dentro de un plazo de treinta días naturales contados a partir de su entrada en vigor.
+**TRIGÉSIMO.-** SEGUNDO. El Instituto proporcionará a los Derechohabientes el medio de identificación a que se refiere el artículo 9o. de esta Ley, dentro de un plazo de dos años a partir de la entrada en vigor de la misma, sin perjuicio de que durante dicho plazo sigan siendo válidos los medios de identificación expedidos por el Instituto a los Derechohabientes.
+**TRIGÉSIMO.-** TERCERO. A efecto de instrumentar las diversas obligaciones a cargo de las Dependencias y Entidades previstas en esta Ley, se deberá crear un Comité de Oficiales Mayores o sus equivalentes en las Entidades y órganos desconcentrados, presidido por la Secretaría de Hacienda y Crédito Público dentro de un plazo de treinta días naturales contados a partir de su entrada en vigor.
 El Instituto y la Comisión Nacional del Sistema de Ahorro para el Retiro deberán participar en dicho Comité como asesores en el ámbito de sus respectivas competencias.
-**TRIGÉSIMO.** CUARTO. Las Dependencias y Entidades, y el propio Instituto, a más tardar el día treinta y uno de diciembre de dos mil siete, deberán ajustar a las normas y criterios de esta Ley los mecanismos de administración, los sistemas informáticos y los formatos de sus bases de datos; los sistemas de recaudación y entero de Cuotas y Aportaciones; y los procedimientos de dispersión e intercambio de información, de tal modo que garanticen a satisfacción del Instituto la capacidad de operación para la gestión de los seguros, servicios y prestaciones.
+**TRIGÉSIMO.-** CUARTO. Las Dependencias y Entidades, y el propio Instituto, a más tardar el día treinta y uno de diciembre de dos mil siete, deberán ajustar a las normas y criterios de esta Ley los mecanismos de administración, los sistemas informáticos y los formatos de sus bases de datos; los sistemas de recaudación y entero de Cuotas y Aportaciones; y los procedimientos de dispersión e intercambio de información, de tal modo que garanticen a satisfacción del Instituto la capacidad de operación para la gestión de los seguros, servicios y prestaciones.
 Los procedimientos relativos al seguro de retiro, cesantía en edad avanzada y vejez deberán sujetarse a las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro. Hasta en tanto inicien operaciones los sistemas o programas informáticos a que se refiere esta Ley, las Dependencias y Entidades deberán enterar las Cuotas y Aportaciones del seguro de retiro, cesantía en edad avanzada y vejez a través de los medios utilizados para el pago de las Aportaciones al sistema de ahorro para el retiro previsto en la Ley que se abroga.
-**TRIGÉSIMO.** QUINTO. El cálculo del Sueldo Básico señalado en esta Ley, en ningún caso podrá dar por resultado una cantidad menor al Sueldo Básico establecido en la Ley que se abroga para el cálculo de las Cuotas y Aportaciones al Instituto.
-**TRIGÉSIMO.** SEXTO. En un plazo que no excederá de seis meses contado a partir del día primero de enero de dos mil ocho, el Instituto deberá adecuar la inversión de sus Reservas, al régimen previsto en el presente ordenamiento.
+**TRIGÉSIMO.-** QUINTO. El cálculo del Sueldo Básico señalado en esta Ley, en ningún caso podrá dar por resultado una cantidad menor al Sueldo Básico establecido en la Ley que se abroga para el cálculo de las Cuotas y Aportaciones al Instituto.
+**TRIGÉSIMO.-** SEXTO. En un plazo que no excederá de seis meses contado a partir del día primero de enero de dos mil ocho, el Instituto deberá adecuar la inversión de sus Reservas, al régimen previsto en el presente ordenamiento.
 En cuanto a la constitución de los Fondos afectos a la Reserva de operación para contingencias y financiamiento, el Instituto tendrá un plazo máximo de cinco años contados a partir de la entrada en vigor de este ordenamiento para constituir dicha Reserva.
-**TRIGÉSIMO.** SÉPTIMO. El Instituto y los gobiernos de las Entidades Federativas o municipios, así como sus Dependencias y Entidades, deberán adecuar los convenios que hubieren celebrado con anterioridad a la entrada en vigor de esta Ley, a los términos previstos en el presente ordenamiento, en un plazo que no excederá del día treinta de junio de dos mil ocho.
+**TRIGÉSIMO.-** SÉPTIMO. El Instituto y los gobiernos de las Entidades Federativas o municipios, así como sus Dependencias y Entidades, deberán adecuar los convenios que hubieren celebrado con anterioridad a la entrada en vigor de esta Ley, a los términos previstos en el presente ordenamiento, en un plazo que no excederá del día treinta de junio de dos mil ocho.
 Los convenios de incorporación parcial al régimen obligatorio celebrados antes de la entrada en vigor de esta Ley, podrán renovarse como convenios parciales, con la obligación de ajustarse al régimen de esta Ley.
 En los casos en que no se cumpla con lo previsto en los párrafos anteriores, y que los gobiernos de las Entidades Federativas o municipios, y sus Dependencias y Entidades no pudieren convenir la garantía incondicional del pago de las Cuotas y Aportaciones a su cargo, los convenios de incorporación se deberán rescindir dentro de los seis meses siguientes al término del plazo previsto en el primer párrafo de este artículo.
-**TRIGÉSIMO.** OCTAVO. El Instituto publicará en el Diario Oficial de la Federación en un plazo no mayor al día treinta y uno de julio de dos mil siete, la relación de Dependencias y Entidades que a la fecha de entrada en vigor de esta Ley, tengan adeudos por concepto de Aportaciones, Cuotas y recuperación de créditos a corto y mediano plazo a los Derechohabientes, dando a conocer los estímulos establecidos en esta Ley para el pago de sus adeudos.
+**TRIGÉSIMO.-** OCTAVO. El Instituto publicará en el Diario Oficial de la Federación en un plazo no mayor al día treinta y uno de julio de dos mil siete, la relación de Dependencias y Entidades que a la fecha de entrada en vigor de esta Ley, tengan adeudos por concepto de Aportaciones, Cuotas y recuperación de créditos a corto y mediano plazo a los Derechohabientes, dando a conocer los estímulos establecidos en esta Ley para el pago de sus adeudos.
 Las Dependencias y Entidades que voluntariamente regularicen adeudos con el Instituto, gozarán por única vez del beneficio de la condonación parcial o total de recargos, sin que ello se considere como bases específicas:
 A.
 Fecha Porcentaje de Condonación 1. Antes del 30 de junio de 2008 80% 2. 1º de julio al 31 de diciembre de 2008 60% 3. 1º de enero al 30 de junio de 2009 40% 4. 1º de julio al 31 de diciembre de 2009 30% B. Las Dependencias y Entidades que reconozcan antes del treinta de junio de dos mil ocho, el total de sus adeudos generados con anterioridad a la entrada en vigor de esta Ley, y opten por saldar sus adeudos mediante la formalización de un convenio de reconocimiento de adeudo y forma de pago a plazos, tendrán el beneficio de la condonación del veinte por ciento del total de los recargos generados.
 Estos convenios deberán someterse a la opinión de la Secretaría de Hacienda y Crédito Público previamente a su celebración.
 La regularización de adeudos operará contra el pago de quincenas vencidas completas y en ningún caso se condonará la actualización del principal omitido.
 Quedan exceptuados de cualquier condonación por la regularización de adeudos el principal, los recargos o actualización a que haya lugar por las Aportaciones del dos por ciento del sistema de ahorro para el retiro y el cinco por ciento a la Subcuenta del Fondo de la Vivienda, previstos en la Ley que se abroga.
-**TRIGÉSIMO.** NOVENO. Cuando por disposición de leyes como la de Veteranos de la Revolución o cualesquiera otras que deban aplicarse concomitantemente con la presente Ley, se establezcan beneficios superiores a favor de los Trabajadores computándoles mayor número de años de servicio o tomando como base un sueldo superior al Sueldo Básico para la determinación de la Pensión, el pago de las diferencias favorables al Trabajador será por cuenta exclusiva de la Dependencia o Entidad pública a cuyo cargo determinen esas leyes las diferencias. Sin embargo, para que puedan otorgarse esos beneficios complementarios a los Trabajadores, se requerirá que previamente se hayan cumplido los requisitos que la presente Ley señala para tener derecho a Pensión.
+**TRIGÉSIMO.-** NOVENO. Cuando por disposición de leyes como la de Veteranos de la Revolución o cualesquiera otras que deban aplicarse concomitantemente con la presente Ley, se establezcan beneficios superiores a favor de los Trabajadores computándoles mayor número de años de servicio o tomando como base un sueldo superior al Sueldo Básico para la determinación de la Pensión, el pago de las diferencias favorables al Trabajador será por cuenta exclusiva de la Dependencia o Entidad pública a cuyo cargo determinen esas leyes las diferencias. Sin embargo, para que puedan otorgarse esos beneficios complementarios a los Trabajadores, se requerirá que previamente se hayan cumplido los requisitos que la presente Ley señala para tener derecho a Pensión.
 CUADRAGÉSIMO. Para dar cumplimiento a lo establecido en el artículo 31 de la presente Ley, el Instituto contará con un año, a partir de la entrada en vigor de esta Ley para realizar los estudios que correspondan y definir las condiciones en las que podrá intercambiar seguros de salud con instituciones públicas federales y estatales del sector salud.
 CUADRAGÉSIMO PRIMERO. Los Trabajadores y Pensionados que a la fecha de entrada en vigor de esta Ley, tengan derecho a la prestación de préstamos personales, continuarán gozando de dicho beneficio de acuerdo con el programa anual que autorice la Junta Directiva y de conformidad con las reglas que establezca la misma.
 Los pensionados que opten por el régimen establecido en el Artículo Décimo Transitorio de este ordenamiento, podrán optar por solicitar préstamos a las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, dando su consentimiento expreso para que el Instituto les descuente de su pensión los importes relativos al pago del préstamo y los entregue a la institución financiera que lo otorgó, conforme al convenio que para tal efecto deberán tener celebrado ésta y el Instituto.
-Párrafo adicionado DOF 28-05-2012 El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley, y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
-Párrafo adicionado DOF 28-05-2012 Las Entidades Financieras deberán comunicar al Instituto el Costo Anual Total aplicable a los préstamos mencionados, a fin de que éste los haga del conocimiento de los pensionados, para fines informativos y de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
-Párrafo adicionado DOF 28-05-2012 Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras serán cubiertos por éstas al Instituto, en los términos que se estipule en los convenios respectivos.
-Párrafo adicionado DOF 28-05-2012 La Junta Directiva del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
-Párrafo adicionado DOF 28-05-2012 CUADRAGÉSIMO SEGUNDO. El reglamento para el otorgamiento de préstamos deberá ser expedido en un plazo máximo de un año contado a partir de la entrada en vigor de esta Ley.
+Párrafo adicionado DOF 28-05-2012
+El Instituto únicamente podrá celebrar los convenios a que se refiere el párrafo anterior, cuando en los mismos se estipule que el descuento mensual derivado de una o más transacciones, considerando otros descuentos que en términos de las disposiciones jurídicas resulten procedentes, en ningún caso excederá del treinta por ciento del monto de la pensión mensual, ni implique que la cuantía de la pensión se reduzca a una cantidad inferior a la pensión garantizada establecida en esta Ley, y que el plazo para el pago del préstamo no exceda de sesenta meses. En la aplicación de los referidos descuentos se aplicará la prelación que corresponda en términos de las disposiciones jurídicas aplicables.
+Párrafo adicionado DOF 28-05-2012
+Las Entidades Financieras deberán comunicar al Instituto el Costo Anual Total aplicable a los préstamos mencionados, a fin de que éste los haga del conocimiento de los pensionados, para fines informativos y de comparación en la elección de la Entidad Financiera a la que solicitarán el préstamo.
+Párrafo adicionado DOF 28-05-2012
+Los gastos que se generen con motivo del control, descuentos y entrega o transferencia de los importes relativos a los préstamos otorgados por las Entidades Financieras serán cubiertos por éstas al Instituto, en los términos que se estipule en los convenios respectivos.
+Párrafo adicionado DOF 28-05-2012
+La Junta Directiva del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
+Párrafo adicionado DOF 28-05-2012
+CUADRAGÉSIMO SEGUNDO. El reglamento para el otorgamiento de préstamos deberá ser expedido en un plazo máximo de un año contado a partir de la entrada en vigor de esta Ley.
 CUADRAGÉSIMO TERCERO. A las personas que presten sus servicios a las Dependencias o Entidades mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y hayan laborado por un periodo mínimo de un año, se les incorporará integralmente al régimen de seguridad social con la entrada en vigor de esta Ley.
 Asimismo, se les incorporará con los Tabuladores aplicables en la Dependencia o Entidad en que presten sus servicios mediante un programa de incorporación gradual, que iniciará a partir del primero de enero del 2008 dentro de un plazo máximo de cinco años. La Secretaría de Hacienda y Crédito Público establecerá los lineamientos para su incorporación.
 CUADRAGÉSIMO CUARTO. Las viviendas propiedad del Instituto que a la fecha de entrada en vigor de esta Ley tenga en arrendamiento se regularán por las disposiciones que, al efecto, emita la Junta Directiva del Instituto.
@@ -2415,7 +2530,8 @@ Lo dispuesto en el párrafo anterior, se establece sin perjuicio de otros benefi
 La Junta Directiva autorizará los términos y condiciones bajo los cuales procederá la reducción de adeudos.
 Los ingresos que obtenga el Instituto, durante los ejercicios fiscales 2024 y 2025, por el pago de adeudos por concepto de cuotas y aportaciones registrados al cierre de los ejercicios fiscales 2023 y 2024, en términos del párrafo primero de este Transitorio, se destinarán al Fondo de Pensiones para el Bienestar o al fortalecimiento de los seguros, prestaciones y servicios del Instituto a que se refiere esta Ley, en los términos de las disposiciones aplicables y, en su caso, de los acuerdos que determine la Junta Directiva.
 Durante los ejercicios fiscales 2024 y 2025, los ingresos netos provenientes de la enajenación de los inmuebles propiedad del Instituto que determine la Junta Directiva, en términos de las disposiciones jurídicas aplicables, serán destinados al Fondo de Pensiones para el Bienestar o al fortalecimiento de los seguros, prestaciones y servicios del Instituto a que se refiere esta Ley y, en su caso, de los acuerdos que determine la Junta Directiva.
-Artículo adicionado DOF 30-04-2024 México, D.F., 28 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Lilia Gpe. Merodio Reza, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+Artículo adicionado DOF 30-04-2024
+México, D.F., 28 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Lilia Gpe. Merodio Reza, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 6 y 134 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y 64 y 84 de la Ley del Seguro Social.
 Publicado en el Diario Oficial de la Federación el 27 de mayo de 2011
 
@@ -2444,8 +2560,8 @@ Se reforma la fracción II, y se adiciona una fracción III, recorriéndose la a
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
 México, D.F., a 20 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo 25 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2015
@@ -2455,7 +2571,7 @@ Se reforma el artículo 25 de la Ley del Instituto de Seguridad y Servicios Soci
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de octubre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley General de Salud, de la Ley del Seguro Social y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -2466,8 +2582,8 @@ Se adiciona un artículo 31 Bis a la Ley del Instituto de Seguridad y Servicios 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
 México, D.F., a 15 de octubre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman los artículos 167 y 179 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -2489,9 +2605,9 @@ Se reforman los artículos 56, párrafo segundo; 67, segundo y tercer párrafos 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+**TERCERO.-** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2019
@@ -2509,14 +2625,14 @@ Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2020
 
 ### Artículo Segundo
 Se reforman los artículos 167, párrafo tercero; 176, párrafo tercero; 179, párrafo
-**primero.** y 181; y se adicionan a los artículos 169, fracción I, un inciso d); y 178, un párrafo segundo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ………
+**primero.-** y 181; y se adicionan a los artículos 169, fracción I, un inciso d); y 178, un párrafo segundo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-**Tercero.** La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-**Cuarto.** Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+**Tercero.-** La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+**Cuarto.-** Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
 Ciudad de México, a 9 de diciembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
@@ -2524,39 +2640,39 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y de la Ley General de Responsabilidades Administrativas.
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
@@ -2566,8 +2682,8 @@ Se adiciona un párrafo tercero al artículo 22 de la Ley del Instituto de Segur
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
 Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
@@ -2576,13 +2692,13 @@ Publicado en el Diario Oficial de la Federación el 20 de enero de 2023
 
 ### Artículo Segundo
 Se reforman los artículos 6, fracciones XII, inciso a), XXVIII y XXIX; 39, párrafo
-**primero.** ; 40 párrafo primero; 41, párrafo primero y fracción I; 70; 129, párrafo primero; 131, fracciones I, II, párrafo primero y III; 133, párrafos segundo y tercero; 135, párrafo primero y fracción II; 136; y se adicionan los artículos 6, con una fracción XXX; y un último párrafo, y 129, con un segundo párrafo, recorriéndose los párrafos subsecuentes, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ……
+**primero.-** ; 40 párrafo primero; 41, párrafo primero y fracción I; 70; 129, párrafo primero; 131, fracciones I, II, párrafo primero y III; 133, párrafos segundo y tercero; 135, párrafo primero y fracción II; 136; y se adicionan los artículos 6, con una fracción XXX; y un último párrafo, y 129, con un segundo párrafo, recorriéndose los párrafos subsecuentes, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ……
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
-**Tercero.** Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+**Tercero.-** Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
 Ciudad de México, a 6 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Jessica María Guadalupe Ortega De la Cruz, Secretaria.Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se derogan las fracciones II y III del artículo 132 de la Ley del Seguro Social, y las fracciones II y III del artículo 136 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -2628,9 +2744,9 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 ### Artículo Único
 Se reforman los artículos 6, fracción XXIX; 176, párrafos primero, segundo, tercero,
-**cuarto.** , quinto y sexto; 178; 179, párrafos primero y tercero; 180, fracciones I y II, y 185, párrafos primero,
-**segundo.** , tercero y actual cuarto, que pasa a ser séptimo, y se adicionan los artículos 6, con una fracción XXXI; 20, con los párrafos segundo, tercero, cuarto y quinto; 20 Bis; 180, con una fracción III y un último párrafo; 185, con los párrafo tercero, recorriéndose los subsecuentes en su orden y los párrafos quinto,
-**sexto.** y octavo y, se deroga el párrafo séptimo del artículo 176 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ……..
+**cuarto.-** , quinto y sexto; 178; 179, párrafos primero y tercero; 180, fracciones I y II, y 185, párrafos primero,
+**segundo.-** , tercero y actual cuarto, que pasa a ser séptimo, y se adicionan los artículos 6, con una fracción XXXI; 20, con los párrafos segundo, tercero, cuarto y quinto; 20 Bis; 180, con una fracción III y un último párrafo; 185, con los párrafo tercero, recorriéndose los subsecuentes en su orden y los párrafos quinto,
+**sexto.-** y octavo y, se deroga el párrafo séptimo del artículo 176 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -2662,7 +2778,7 @@ Se adiciona un tercer párrafo al artículo 29 de la Ley del Instituto de Seguri
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Las autoridades del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la publicación del presente Decreto.
 Ciudad de México, a 17 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 29 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforma la fracción II del artículo 210 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en materia de actualización de la denominación de la Secretaría de Bienestar.
@@ -2704,17 +2820,17 @@ Se adiciona una fracción XI, recorriéndose la actual para pasar a ser fracció
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar a los institutos de seguridad social referidos, se sujetarán a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 06 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ricardo Velázquez Meza, Secretario.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, y del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, publicado en el Diario Oficial de la Federación el 29 de mayo de 2023, para la creación del Fondo de Pensiones para el Bienestar.
 Publicado en el Diario Oficial de la Federación el 30 de abril de 2024
-**TERCERO.** Se reforman el primer párrafo del artículo 192 y el artículo 251; y se adicionan un último párrafo al artículo 192; un segundo, tercer, cuarto, quinto, sexto, séptimo y octavo párrafos al artículo 251, y el artículo transitorio CUADRAGÉSIMO OCTAVO, a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: …….
+**TERCERO.-** Se reforman el primer párrafo del artículo 192 y el artículo 251; y se adicionan un último párrafo al artículo 192; un segundo, tercer, cuarto, quinto, sexto, séptimo y octavo párrafos al artículo 251, y el artículo transitorio CUADRAGÉSIMO OCTAVO, a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: …….
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
-**SEGUNDO.** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.
+**SEGUNDO.-** El Banco de México actuará como fiduciario en el fideicomiso público no considerado entidad paraestatal denominado Fondo de Pensiones para el Bienestar a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Para tal efecto, será constituido por la Secretaría de Hacienda y Crédito Público en el Banco de México, por lo que únicamente le serán aplicables las disposiciones que regulan a dicho instituto central en su carácter de órgano autónomo, así como en la realización de la encomienda fiduciaria, y en términos de lo que establezca el Decreto que el Ejecutivo Federal emita dentro de los 60 días posteriores a la entrada en vigor de este Decreto.
 El Decreto que el Ejecutivo Federal emita deberá prever, entre otros, lo siguiente:
 
 a) El Fondo de Pensiones para el Bienestar tendrá entre sus fines recibir, administrar, invertir y entregar los recursos que le sean aportados conforme a las disposiciones aplicables, pudiendo establecerse aportaciones adicionales a su patrimonio.
@@ -2724,26 +2840,26 @@ b) Los recursos del patrimonio del Fondo de Pensiones para el Bienestar deberán
 c) El Fondo de Pensiones para el Bienestar brindará a los institutos de seguridad social los recursos necesarios para procurar que los trabajadores que alcancen los sesenta y cinco años de edad y cuya pensión sea igual o menor a dieciséis mil setecientos setenta y siete pesos con sesenta y ocho centavos, que equivale al salario mensual promedio registrado en 2023 en el Instituto Mexicano del Seguro Social actualizado por la inflación estimada para el año 2024, reciban un complemento a las obligaciones del Gobierno Federal en relación con la pensión que se obtenga conforme a las disposiciones aplicables para que sea igual a su último salario hasta por el monto descrito en este párrafo. Dicho monto deberá actualizarse el primero de enero de cada año, de acuerdo con la inflación estimada para el año correspondiente. Lo anterior, siempre y cuando hayan iniciado la cotización en términos de la Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete, así como para aquellos trabajadores que se encuentren bajo el régimen de cuentas individuales que cotizan en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El complemento a que se refiere este inciso es intransferible y será exigible por los trabajadores que obtengan su dictamen o concesión de pensión, según corresponda, a partir de que transcurran 60 días de la constitución del Fondo de Pensiones para el Bienestar. Dicho complemento estará sujeto a la suficiencia del Fondo, así como a las reglas que determine la Secretaría de Hacienda y Crédito Público.
 
 d) El Fondo de Pensiones para el Bienestar contará con un Comité Técnico que deberá emitir las reglas de operación sobre la recepción, administración, inversión, entregas y rendimientos de recursos a los institutos de seguridad social.
-**TERCERO.** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
-**CUARTO.** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
-**QUINTO.** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
+**TERCERO.-** Los ingresos por los conceptos a que se refiere el artículo 19 Quater, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se hayan recibido durante el ejercicio fiscal 2024 con anterioridad a la entrada en vigor de este Decreto, se destinarán en los términos de la disposición antes señalada.
+**CUARTO.-** A partir de la constitución del Fondo de Pensiones para el Bienestar, el Instituto para Devolver al Pueblo lo Robado deberá concentrar al final de cada bimestre en la Tesorería de la Federación bajo la naturaleza de aprovechamientos el 75% de los remanente netos que obtenga derivados de la enajenación que lleve a cabo de bienes provenientes de entidades transferentes en materia aduanera y fiscal, durante el ejercicio fiscal de 2024 y los ejercicios fiscales subsecuentes, los cuales tendrán el carácter de ingresos excedentes y serán destinados por la Secretaría de Hacienda y Crédito Público, a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar. El 25% restante será administrado de conformidad con las disposiciones aplicables.
+**QUINTO.-** A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Segundo.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
-**SEXTO.** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
-**SÉPTIMO.** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
+**Vigésimo Segundo.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su objeto, así como las demás disposiciones que contravengan o se opongan a lo previsto en el presente Decreto.
+**SEXTO.-** El dictamen a que se refiere el Artículo Séptimo del Decreto por el que se extingue el organismo público descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, y se abroga su Ley Orgánica, deberá ser emitido por el Instituto para Devolver al Pueblo lo Robado en un plazo máximo de 15 días posteriores a la entrada en vigor de este Decreto.
+**SÉPTIMO.-** A partir de la fecha de entrada en vigor de este Decreto, queda sin efecto lo previsto en el
 
 ## transitorio
 
-**Vigésimo Cuarto.** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
-**OCTAVO.** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+**Vigésimo Cuarto.-** de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los ingresos propios de las entidades paraestatales sectorizadas en las secretarías de la Defensa Nacional y de Marina, mismos que serán destinados por la Secretaría de Hacienda y Crédito Público en un 75 por ciento al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y en un 25 por ciento a través de la unidad competente en materia de seguros, pensiones y seguridad social al Fondo de Pensiones para el Bienestar.
+**OCTAVO.-** El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores emitirá las disposiciones de carácter general a que se refiere el artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
 Los intereses correspondientes al ejercicio fiscal 2024 que deberán pagarse a las subcuentas de vivienda se calcularán, aprobarán y abonarán conforme a las disposiciones vigentes con anterioridad a la aprobación del presente Decreto.
-**NOVENO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
+**NOVENO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, las Administradoras de Fondos para el Retiro, las administradoras prestadoras de servicio, el Fondo de la Vivienda a que hace referencia la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y las instituciones que realicen funciones similares de naturaleza pública deberán transferir al Fondo de Pensiones para el Bienestar, en un plazo de hasta 60 días naturales contados a partir de su constitución, los recursos correspondientes a las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, subcuenta de Vivienda conforme a lo establecido en las leyes de seguridad social que correspondan, o aquellos recursos que formen parte de sus respectivas reservas relacionados con las subcuentas referidas y que hayan sido constituidas previo a la entrada en vigor de este Decreto, según corresponda.
 Para lo anterior, una vez que alguno de los Institutos transfiera al Fondo de Pensiones para el Bienestar los recursos de la subcuenta bajo su administración, incluyendo la de los trabajadores a que se refiere este Decreto que hubieran llegado a cumplir setenta o setenta y cinco años, según corresponda, lo deberá comunicar al resto de participantes del Sistema de Ahorro para el Retiro para que, en su caso, transfieran la otra subcuenta, a efecto de consolidar el ahorro de los titulares de las cuentas individuales en el referido fideicomiso.
-**DÉCIMO.** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
+**DÉCIMO.-** El Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en el ámbito de sus competencias, deberán garantizar el establecimiento de una ventanilla única para el cálculo y pago de los recursos provenientes del Fondo de Pensiones para el Bienestar en los términos del Decreto que para tales efectos emita el Ejecutivo Federal.
 Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a efecto de que éstos realicen los pagos correspondientes en términos de la normativa aplicable, por lo que el Fondo no responderá ni se subrogará en las obligaciones a cargo de dichos institutos, ni respecto del destino que los mismos den a los recursos.
-**DÉCIMO PRIMERO.** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
+**DÉCIMO PRIMERO.-** Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
 Ciudad de México, a 25 de abril de 2024.- Dip. Karla Yuritzi Almazán Burgos, Vicepresidenta en funciones de Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Seguro Social y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -2751,12 +2867,12 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 
 ### Artículo Segundo
 Se reforman y adicionan las fracciones II, con un segundo párrafo, III, con un
-**segundo.** párrafo y IV del artículo 41 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ………..
+**segundo.-** párrafo y IV del artículo 41 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para quedar como sigue: ………..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
@@ -2766,11 +2882,11 @@ Se reforman los artículos 10, tercer párrafo; 29, tercer párrafo y 208, fracc
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

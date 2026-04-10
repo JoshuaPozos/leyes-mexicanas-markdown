@@ -15,7 +15,9 @@ Se expide la Ley Federal de Seguridad Privada.
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo Único
+
 Prevenciones Generales
 
 ### Artículo 1
@@ -87,7 +89,9 @@ Artículo reformado DOF 27-01-2011
 
 ## TÍTULO SEGUNDO — De la Secretaría de Seguridad Pública y la Coordinación Interinstitucional
 
+
 ## Capítulo I — De sus Atribuciones
+
 
 ### Artículo 5
 .- La Secretaría a través de la Dirección General, tendrá las siguientes facultades en materia de seguridad privada:
@@ -122,6 +126,7 @@ La licencia que otorga la Secretaría de la Defensa Nacional para la portación 
 
 ## Capítulo II — De la Coordinación Interinstitucional
 
+
 ### Artículo 7
 .- La Secretaría, con la intervención que corresponda al Sistema Nacional de Seguridad Pública, podrá suscribir convenios o acuerdos con las autoridades competentes de los Estados, Distrito Federal y Municipios, con el objeto de establecer lineamientos, acuerdos y mecanismos relacionados con los servicios de seguridad privada, que faciliten:
 
@@ -136,6 +141,7 @@ IV. La verificación del cumplimiento a la normatividad federal, y
 V. La homologación de los criterios, requisitos, obligaciones y sanciones en esta materia, respetando la distribución de competencias que prevé la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, entre la Federación y las entidades federativas, con el fin de garantizar que los servicios de seguridad privada se realicen en las mejores condiciones de eficiencia y certeza en beneficio del prestatario, evitando que el prestador de servicios multiplique sus obligaciones al desarrollar sus actividades en dos o más entidades federativas.
 
 ## Capítulo III — Del Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada
+
 
 ### Artículo 8
 .- La Secretaría, a través de la Dirección General, implementará y mantendrá actualizado un Registro Nacional con la información necesaria para la supervisión, control, vigilancia y evaluación de los prestadores de servicios, su personal, armamento y equipo, mismo que constituirá un sistema de consulta y acopio de información integrado por un banco de datos suministrado por el prestador de servicios y las autoridades competentes de las entidades federativas y los Municipios.
@@ -184,7 +190,9 @@ XII. Los demás actos y constancias que prevea esta Ley y su Reglamento.
 
 ## TÍTULO TERCERO — De los Servicios de Seguridad Privada
 
+
 ## Capítulo I — De las Modalidades en los Servicios de Seguridad Privada
+
 
 ### Artículo 15
 .- Es competencia de la Secretaría, por conducto de la Dirección General, autorizar los servicios de Seguridad Privada, cuando estos se presten en dos o más entidades federativas y de acuerdo a las modalidades siguientes:
@@ -201,12 +209,14 @@ Fracción adicionada DOF 05-08-2011
 V. Seguridad de la información. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia;
 Fracción reformada y recorrida DOF 05-08-2011
 
-VI. Sistemas de prevención y responsabilidades. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas, y Fracción reformada y recorrida DOF 05-08-2011
+VI. Sistemas de prevención y responsabilidades. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas, y
+Fracción reformada y recorrida DOF 05-08-2011
 
 VII. Actividad vinculada con servicios de seguridad privada. Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados.
 Fracción reformada y recorrida DOF 05-08-2011
 
 ## Capítulo II — De la Autorización, Revalidación y Modificación
+
 
 ### Artículo 16
 .- Para prestar servicios de seguridad privada en dos o más entidades federativas, se requiere autorización previa de la Dirección General, para lo cual el prestador de servicios, deberá ser persona física o moral de nacionalidad mexicana y cumplir con los requisitos establecidos en el título tercero de esta Ley.
@@ -242,6 +252,7 @@ La portación de armas de fuego por parte del personal que preste servicios de s
 
 ## Capítulo III — De los Requisitos para Prestar Servicios de Seguridad Privada
 
+
 ### Artículo 25
 .- Para obtener autorización para prestar servicios de seguridad privada en dos o más entidades federativas, los prestadores de servicios deberán presentar su solicitud ante la Dirección General, señalando la modalidad y ámbito territorial en que pretendan prestar el servicio, además de reunir los siguientes requisitos:
 
@@ -254,7 +265,8 @@ III. Exhibir original del comprobante de pago de derechos por el estudio y trám
 IV. Presentar copia simple, acompañada del original y comprobante del pago de derechos para su cotejo, o en su caso, copia certificada, de los siguientes documentos: a). Acta de nacimiento, para el caso de personas físicas; b). Escritura en la que se contenga el Acta Constitutiva y modificaciones, si las tuviere, para el caso de las personas morales;
 Inciso reformado DOF 05-08-2011
 
-c) En su caso, poder notarial en el que se acredite la personalidad del solicitante, y Inciso reformado DOF 05-08-2011
+c) En su caso, poder notarial en el que se acredite la personalidad del solicitante, y
+Inciso reformado DOF 05-08-2011
 
 d) Copia de la cédula del registro federal de contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público;
 Inciso adicionado DOF 05-08-2011
@@ -315,6 +327,7 @@ IV. Original del comprobante de pago de derechos por la expedición de la autori
 
 ## Capítulo IV — Del Personal Directivo, Administrativo y Operativo
 
+
 ### Artículo 27
 .- Para el desempeño de sus funciones, los directores, administradores, gerentes y personal administrativo de los prestadores de servicios deberán reunir los siguientes requisitos:
 
@@ -341,9 +354,11 @@ VI. No ser miembros en activo de alguna institución de seguridad pública feder
 
 ## Capítulo V — De la Capacitación
 
+
 ### Artículo 29
 . Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en las instituciones educativas de la Secretaría, en las academias estatales o en los centros de capacitación privados, que deberán ser verificados, autorizados y revalidados anualmente por la Dirección General. El Reglamento establecerá los tiempos, formas y plazos para ello.
-Párrafo reformado DOF 27-01-2011 La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, eficiencia, profesionalismo y honradez señalados en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Párrafo reformado DOF 27-01-2011
+La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, eficiencia, profesionalismo y honradez señalados en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
 ### Artículo 30
 . La Dirección General podrá concertar acuerdos con los prestadores de servicios para colaborar en la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento.
@@ -353,9 +368,11 @@ Artículo reformado DOF 27-01-2011
 .- El prestador de servicios deberá registrar ante la Secretaría del Trabajo y Previsión Social los planes y programas de los cursos de capacitación, actualización o adiestramiento para el personal operativo; posteriormente deberá entregar un ejemplar a la Secretaría para su seguimiento.
 
 ## TÍTULO CUARTO
+
 Obligaciones
 
 ## Capítulo Único — De las Obligaciones de los Prestadores de Servicios de Seguridad Privada
+
 
 ### Artículo 32
 . Son obligaciones de los prestadores de servicios:
@@ -425,10 +442,13 @@ XXX. Registrar ante la Dirección General los animales con que operen y sujetar 
 Fracción reformada DOF 27-01-2011
 
 XXXI. Evitar la utilización de medios materiales o técnicos cuando pudieran causar daño o perjuicios a terceros o poner en peligro a la sociedad;
-Fracción adicionada DOF 27-01-2011. Reformada DOF 05-08-2011 XXXI Bis. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción IV del artículo 15, deberán cumplir con lo previsto en el Título Séptimo de la presente ley, y Fracción adicionada DOF 05-08-2011
+Fracción adicionada DOF 27-01-2011. Reformada DOF 05-08-2011
+XXXI Bis. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción IV del artículo 15, deberán cumplir con lo previsto en el Título Séptimo de la presente ley, y
+Fracción adicionada DOF 05-08-2011
 
 XXXII. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción VI del artículo 15 de la presente Ley, deberán crear y mantener un registro de compradores y usuarios, el cual deberá contener datos personales del usuario y la persona o empresa que suministró el equipo.
-Fracción adicionada DOF 27-01-2011 Dicho registro de compradores y usuarios deberá presentarse semestralmente ante la Dirección General y se aplicarán las disposiciones relativas al Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada contenidas en el Título Segundo, capítulo III de la presente Ley.
+Fracción adicionada DOF 27-01-2011
+Dicho registro de compradores y usuarios deberá presentarse semestralmente ante la Dirección General y se aplicarán las disposiciones relativas al Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada contenidas en el Título Segundo, capítulo III de la presente Ley.
 Párrafo adicionado DOF 27-01-2011
 
 ### Artículo 33
@@ -459,7 +479,9 @@ VIII. En caso de hacer uso de vehículos automotores, cumplir con las especifica
 
 ## TÍTULO QUINTO — De las Visitas de Verificación
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 36
 . La Dirección General podrá ordenar en cualquier momento la práctica de visitas de verificación, inclusive de manera previa para otorgar una autorización con el fin de comprobar que se cuenta con los medios humanos, de formación, técnicos, financieros y materiales para brindar los servicios de forma adecuada.
@@ -474,9 +496,11 @@ La verificación será física cuando se practique sobre los bienes muebles o in
 .- Para la práctica de las visitas de verificación se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO SEXTO
+
 Medidas de Seguridad, Sanciones y Medios de Impugnación
 
 ## Capítulo I — De las Medidas de Seguridad
+
 
 ### Artículo 39
 .- La Dirección General de conformidad con las disposiciones de la presente Ley y su Reglamento, con el fin de salvaguardar a las personas, sus bienes, entorno, así como para proteger la salud y seguridad pública, podrán adoptar como medida de seguridad, la suspensión temporal, parcial o total de las actividades de prestación de servicios de seguridad privada.
@@ -488,6 +512,7 @@ b) Señalando un plazo razonable para subsanar la irregularidad, sin perjuicio d
 Asimismo, la Secretaría, por conducto de la Dirección General, podrá promover ante la autoridad competente, que se ordene la inmovilización y aseguramiento precautorio de los bienes y objetos utilizados para la prestación de servicios de seguridad privada, cuando estos sean utilizados en sitios públicos, sin acreditar su legal posesión y registro, así como la vigencia de la autorización o su revalidación para la prestación de servicios de seguridad privada.
 
 ## Capítulo II — De las Sanciones
+
 
 ### Artículo 40
 .- Las resoluciones de la Secretaría, que apliquen sanciones administrativas, deberán estar debidamente fundadas y motivadas, tomando en consideración:
@@ -559,8 +584,10 @@ l) Suspender sin causa justificada, la actividad por un término de noventa día
 m) No iniciar la prestación de servicios o realización de actividades sin causa justificada, en un plazo de treinta días hábiles contados a partir de la fecha en que se hubiere recibido el permiso o autorización correspondiente, y
 
 n) Haber obtenido la autorización mediante documentos, declaraciones, datos falsos o bien con dolo o mala fe.
-Fracción reformada DOF 27-01-2011 La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores y, en su caso, tendrá interés jurídico para acudir a otras instancias legales en asuntos relacionados con la prestación del servicio de seguridad privada, derivado de omisiones o transgresiones a esta Ley.
-Párrafo reformado DOF 27-01-2011 En todos los casos se dará difusión pública a las sanciones, la cual se hará a costa del infractor, en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación nacional, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso.
+Fracción reformada DOF 27-01-2011
+La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores y, en su caso, tendrá interés jurídico para acudir a otras instancias legales en asuntos relacionados con la prestación del servicio de seguridad privada, derivado de omisiones o transgresiones a esta Ley.
+Párrafo reformado DOF 27-01-2011
+En todos los casos se dará difusión pública a las sanciones, la cual se hará a costa del infractor, en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación nacional, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso.
 En caso de que el prestador de servicios no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere la fracción III del artículo 26 de esta Ley.
 
 ### Artículo 43
@@ -568,11 +595,15 @@ En caso de que el prestador de servicios no dé cumplimiento a las resoluciones 
 
 ## Capítulo III — Del Recurso
 
+
 ### Artículo 44
 .- Los afectados por los actos o resoluciones de la Secretaría, podrán interponer el Recurso de Revisión, el cual se tramitará y resolverá de acuerdo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO SÉPTIMO
-Título adicionado DOF 05-08-2011 Capitulo Único De los prestadores de servicio de alarma y monitoreo Capítulo adicionado DOF 05-08-2011
+
+Título adicionado DOF 05-08-2011
+Capitulo Único De los prestadores de servicio de alarma y monitoreo
+Capítulo adicionado DOF 05-08-2011
 
 ### Artículo 45
 . Los prestadores de servicios deberán colocar en lugar visible y de acceso al público, en los inmuebles de los prestatarios y en los propios, de manera clara y permanente, la siguiente información:
@@ -650,20 +681,20 @@ Se reforman los artículos 2, fracción XII; 4; 16, segundo párrafo; 19; 25, fr
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste.
-**Tercero.** El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor.
+**Primero.-** El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste.
+**Tercero.-** El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor.
 México, D.F., a 28 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Seguridad Privada.
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 
 ### Artículo Único
 Se adicionan las fracciones XIV, XV, XVI y XVII del artículo 2; una fracción IV recorriéndose la numeración de las fracciones al artículo 15; se adiciona el inciso d) a la fracción IV y se reforma la fracción V del artículo 25; se adiciona al artículo 32 una fracción XXXI bis; se adiciona el Título
-**Séptimo.** , con Capítulo Único denominado De los prestadores de servicios de alarma y monitoreo, artículos 45, 46, 47, 48, 49 y 50 de la Ley Federal de Seguridad Privada, para quedar como sigue: ……….
+**Séptimo.-** , con Capítulo Único denominado De los prestadores de servicios de alarma y monitoreo, artículos 45, 46, 47, 48, 49 y 50 de la Ley Federal de Seguridad Privada, para quedar como sigue: ……….
 
 ## Transitorio
 
-**ÚNICO.** El presente decreto entrará en vigor a los quince días de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor a los quince días de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de ABRIL de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen.
 Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al artículo 25 de la Ley Federal de Seguridad Privada.

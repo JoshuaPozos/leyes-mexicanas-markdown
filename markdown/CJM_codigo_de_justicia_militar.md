@@ -12,26 +12,40 @@ Que en uso de la facultad que fue conferida al Ejecutivo Federal, por el H. Cong
 ### Artículo 1o
 .- La administración de la justicia militar corresponde a:
 I.- El Tribunal Superior Militar;
-Fracción reformada DOF 16-07-2025 II.- (Se deroga).
-Fracción derogada DOF 16-05-2016 II Bis.- Los Tribunales Militares de Juicio Oral;
+Fracción reformada DOF 16-07-2025
+II.- (Se deroga).
+Fracción derogada DOF 16-05-2016
+II Bis.- Los Tribunales Militares de Juicio Oral;
 Fracción adicionada DOF 16-05-2016
 
 III. (Se deroga).
-Fracción derogada DOF 16-05-2016 III Bis.- Los Juzgados Militares de Control;
+Fracción derogada DOF 16-05-2016
+III Bis.- Los Juzgados Militares de Control;
 Fracción adicionada DOF 16-05-2016. Reformada DOF 16-07-2025
 
 IV. (Se deroga).
-Fracción derogada DOF 16-05-2016 V.- Los Juzgados Militares de Ejecución de Sentencia.
-Fracción reformada DOF 16-07-2025 Artículo reformado DOF 13-06-2014
+Fracción derogada DOF 16-05-2016
+V.- Los Juzgados Militares de Ejecución de Sentencia.
+Fracción reformada DOF 16-07-2025
+Artículo reformado DOF 13-06-2014
 
 ### Artículo 2o
 .- Son auxiliares de la administración de justicia militar:
-Párrafo reformado DOF 16-07-2025 I.- Las personas Juzgadoras de Control del orden común o federal;
-Fracción reformada DOF 16-05-2016, 16-07-2025 II.- La Policía Ministerial Militar, Policía Militar, Policía Naval y la Guardia Nacional;
-Fracción reformada DOF 13-06-2014, 16-05-2016, 16-07-2025 III.- (Se deroga).
-Fracción derogada DOF 16-05-2016 III Bis.- La Coordinación de Servicios Periciales y Ciencias Forenses;
-Fracción adicionada DOF 16-05-2016 IV.- La persona titular del archivo judicial y biblioteca, y Fracción reformada DOF 16-05-2016, 16-07-2025 V.- Los demás a quienes las leyes les atribuyan ese carácter.
-Fracción reformada DOF 16-05-2016 CAPITULO II Del Tribunal Superior Militar Denominación del Capítulo reformada DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
+I.- Las personas Juzgadoras de Control del orden común o federal;
+Fracción reformada DOF 16-05-2016, 16-07-2025
+II.- La Policía Ministerial Militar, Policía Militar, Policía Naval y la Guardia Nacional;
+Fracción reformada DOF 13-06-2014, 16-05-2016, 16-07-2025
+III.- (Se deroga).
+Fracción derogada DOF 16-05-2016
+III Bis.- La Coordinación de Servicios Periciales y Ciencias Forenses;
+Fracción adicionada DOF 16-05-2016
+IV.- La persona titular del archivo judicial y biblioteca, y
+Fracción reformada DOF 16-05-2016, 16-07-2025
+V.- Los demás a quienes las leyes les atribuyan ese carácter.
+Fracción reformada DOF 16-05-2016
+CAPITULO II Del Tribunal Superior Militar
+Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 3o
 .- El Tribunal Superior Militar se compondrá de un presidente, General de División procedente de arma de Estado Mayor y cuatro magistrados, Generales de Brigada del servicio de Justicia Militar.
@@ -40,9 +54,14 @@ Artículo reformado DOF 16-05-2016, 16-07-2025
 ### Artículo 4o
 .- Para ser magistrado, se requiere:
 I.- Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-Fracción reformada DOF 23-01-1998 II.- Ser mayor de treinta años;
-Fracción reformada DOF 16-05-2016 III.- Ser abogado con título oficial expedido por autoridad legalmente facultada para ello;
-Fracción reformada DOF 16-05-2016 IV.- Acreditar, cuando menos, diez años de práctica profesional en el servicio de Justicia Militar o Naval, y Fracción reformada DOF 16-05-2016 V.- Ser de notoria honorabilidad.
+Fracción reformada DOF 23-01-1998
+II.- Ser mayor de treinta años;
+Fracción reformada DOF 16-05-2016
+III.- Ser abogado con título oficial expedido por autoridad legalmente facultada para ello;
+Fracción reformada DOF 16-05-2016
+IV.- Acreditar, cuando menos, diez años de práctica profesional en el servicio de Justicia Militar o Naval, y
+Fracción reformada DOF 16-05-2016
+V.- Ser de notoria honorabilidad.
 Fracción reformada DOF 16-05-2016
 
 ### Artículo 5o
@@ -63,15 +82,22 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 9o
 .- El Tribunal Superior Militar funcionará en pleno y en salas unitarias. En pleno bastará la presencia de tres de sus miembros para que pueda constituirse. En el caso de que accidentalmente faltaren más de dos magistrados, se integrará con uno de los jueces que conformen el Tribunal de Juicio Oral, que no haya conocido el asunto en alguna etapa anterior del proceso, designado por el Presidente del Tribunal Superior Militar.
-Artículo reformado DOF 16-05-2016 CAPITULO II BIS De los Tribunales Militares de Juicio Oral Capítulo adicionado DOF 16-05-2016
+Artículo reformado DOF 16-05-2016
+CAPITULO II BIS De los Tribunales Militares de Juicio Oral
+Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 9o
 . Bis.- Habrá un Tribunal Militar de Juicio Oral, cuando menos en cada una de las plazas en que se encuentre establecida una prisión militar, con la jurisdicción que determine la Secretaría de la Defensa Nacional, cuya integración será de la forma siguiente:
-Párrafo reformado DOF 16-07-2025 I.- Dos Personas Juzgadoras pertenecientes al Servicio de Justicia Militar o Naval Licenciados en Derecho, fungiendo como Presidente el de mayor jerarquía y en caso de igualdad, el de mayor antigüedad.
-Fracción reformada DOF 16-07-2025 II.- Una Persona Juzgadora de Arma del Ejército o Fuerza Aérea o su equivalente en la Armada.
-Fracción reformada DOF 16-07-2025 III.- Las personas secretarias que las necesidades del servicio requieran.
-Fracción reformada DOF 16-07-2025 IV.- Una persona administradora de la sala de audiencias.
-Fracción reformada DOF 16-07-2025 V.- El personal subalterno que las necesidades del servicio requieran.
+Párrafo reformado DOF 16-07-2025
+I.- Dos Personas Juzgadoras pertenecientes al Servicio de Justicia Militar o Naval Licenciados en Derecho, fungiendo como Presidente el de mayor jerarquía y en caso de igualdad, el de mayor antigüedad.
+Fracción reformada DOF 16-07-2025
+II.- Una Persona Juzgadora de Arma del Ejército o Fuerza Aérea o su equivalente en la Armada.
+Fracción reformada DOF 16-07-2025
+III.- Las personas secretarias que las necesidades del servicio requieran.
+Fracción reformada DOF 16-07-2025
+IV.- Una persona administradora de la sala de audiencias.
+Fracción reformada DOF 16-07-2025
+V.- El personal subalterno que las necesidades del servicio requieran.
 En los lugares en que existan dos o más órganos de administración de la Justicia Militar que compartan una única Sala, se podrá designar un administrador común de Sala de audiencias y un administrador auxiliar.
 Artículo adicionado DOF 16-05-2016
 
@@ -95,7 +121,9 @@ b) Contar con siete años de experiencia en el ejercicio del mando en Unidades d
 c) Ser de notoria moralidad, y
 
 d) Aprobar el curso de capacitación en la función jurisdiccional que disponga la Secretaría de la Defensa Nacional.
-Artículo adicionado DOF 16-05-2016 CAPITULO III De los consejos de guerra ordinarios (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo adicionado DOF 16-05-2016
+CAPITULO III De los consejos de guerra ordinarios (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 10
 . (Se deroga).
@@ -119,7 +147,9 @@ Artículo reformado DOF 09-04-2012, 13-06-2014. Derogado DOF 16-05-2016
 
 ### Artículo 15
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV De los consejos de guerra extraordinarios (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV De los consejos de guerra extraordinarios (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 16
 . (Se deroga).
@@ -151,7 +181,8 @@ Artículo reformado DOF 09-04-2012, 13-06-2014. Derogado DOF 16-05-2016
 
 ### Artículo 23
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO V De los jueces
+Artículo derogado DOF 16-05-2016
+CAPITULO V De los jueces
 
 ### Artículo 24
 . (Se deroga).
@@ -183,7 +214,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 30
 Bis. (Se deroga).
-Artículo adicionado DOF 13-06-2014. Derogado DOF 16-05-2016 CAPITULO V BIS De los Juzgados Militares de Control Capítulo adicionado DOF 16-05-2016
+Artículo adicionado DOF 13-06-2014. Derogado DOF 16-05-2016
+CAPITULO V BIS De los Juzgados Militares de Control
+Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Ter.- Habrá el número de Juzgados Militares de Control que sean necesarios para la administración de la Justicia, con la Jurisdicción que determine la Secretaría de la Defensa Nacional y se integrarán con:
@@ -201,8 +234,10 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Quáter.- Para ser titular de un Juzgado Militar de Control será indispensable reunir los requisitos siguientes:
-Párrafo reformado DOF 16-07-2025 I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
-Fracción reformada DOF 16-07-2025 II.- Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+Párrafo reformado DOF 16-07-2025
+I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
+Fracción reformada DOF 16-07-2025
+II.- Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
 III.- Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
 Artículo adicionado DOF 16-05-2016
 
@@ -214,7 +249,9 @@ I. Ostentar la jerarquía de Mayor o Capitán del servicio de Justicia Militar o
 II. Contar con cinco años de experiencia profesional en el Servicio de Justicia Militar o Naval.
 
 III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
-Artículo adicionado DOF 16-05-2016 CAPITULO V TER De los Juzgados Militares de Ejecución de Sentencias Capítulo adicionado DOF 16-05-2016
+Artículo adicionado DOF 16-05-2016
+CAPITULO V TER De los Juzgados Militares de Ejecución de Sentencias
+Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Sextus.- Habrá un Juzgado Militar de Ejecución de Sentencias, cuando menos, en cada una de las plazas en que se encuentre establecida una prisión militar, debiendo la Secretaría acordar la creación de los demás que sean necesarios para la administración de la justicia, a propuesta del Tribunal, con la jurisdicción que éste determine y se integrarán con:
@@ -232,17 +269,22 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Séptimus.- Para ser titular de un Juzgado Militar de Ejecución de Sentencias, será indispensable reunir los requisitos siguientes:
-Párrafo reformado DOF 16-07-2025 I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
+Párrafo reformado DOF 16-07-2025
+I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
 Fracción reformada DOF 16-07-2025
 
 II. Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
 
 III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
-Artículo adicionado DOF 16-05-2016 TITULO SEGUNDO De los auxiliares de la administración de justicia militar CAPITULO I De los jueces penales del orden común (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo adicionado DOF 16-05-2016
+TITULO SEGUNDO De los auxiliares de la administración de justicia militar CAPITULO I De los jueces penales del orden común (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 31
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO II Del Cuerpo Médico Legal Militar (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO II Del Cuerpo Médico Legal Militar (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 32
 . (Se deroga).
@@ -250,7 +292,8 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 33
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO III Del archivo judicial y biblioteca
+Artículo derogado DOF 16-05-2016
+CAPITULO III Del archivo judicial y biblioteca
 
 ### Artículo 34
 .- El archivo judicial constituye parte integrante de la Dirección General de Archivo e Historia, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de la Defensa Nacional por conducto de la persona titular de la presidencia del Tribunal Superior Militar, cuerpo al que el mencionado archivo quedará adscrito.
@@ -258,7 +301,8 @@ Artículo reformado DOF 09-04-2012, 13-06-2014, 16-07-2025
 
 ### Artículo 35
 .- La biblioteca se formará, esencialmente, de todas las leyes, jurisprudencia, decretos y circulares relacionados con el fuero militar, así como de las obras, folletos y demás publicaciones que se editen con referencia a asuntos militares y generales; y de los periódicos oficiales.
-Artículo reformado DOF 16-05-2016 CAPITULO III BIS De la Coordinación de Servicios Periciales y Ciencias Forenses.
+Artículo reformado DOF 16-05-2016
+CAPITULO III BIS De la Coordinación de Servicios Periciales y Ciencias Forenses.
 Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 35
@@ -287,7 +331,8 @@ VI. Obtener y mantener actualizada su certificación como perito de conformidad 
 VII. Acudir en forma oportuna a la audiencia de vinculación a proceso o de juicio cuando sea citado para ello, salvo que tenga impedimento debidamente justificado, y
 
 VIII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
-Artículo adicionado DOF 16-05-2016 TITULO TERCERO De la organización del Ministerio Público CAPITULO I Disposiciones preliminares
+Artículo adicionado DOF 16-05-2016
+TITULO TERCERO De la organización del Ministerio Público CAPITULO I Disposiciones preliminares
 
 ### Artículo 36
 .- El Ministerio Público es el único capacitado para ejercitar la acción penal, y no podrá retirarla o desistirse de ella, sino cuando lo estime procedente o por orden firmada por el Secretario de Guerra y Marina o por quien en su ausencia lo substituya; orden que podrá darse cuando así lo demande el interés social, oyendo, previamente, el parecer del Procurador General de Justicia Militar.
@@ -295,12 +340,14 @@ Fe de erratas al artículo DOF 27-09-1933
 
 ### Artículo 37
 .- Toda denuncia o querella, sobre hechos que la ley señale como delito de la competencia de los Tribunales Militares, se presentará en los términos, instituidos en el Código Militar de Procedimientos Penales.
-Párrafo reformado DOF 16-05-2016 Cuando de las diligencias practicadas en la investigación de un delito se desprenda que éste no atenta contra la disciplina militar, en términos del artículo 57 de este Código, inmediatamente y bajo su más estricta responsabilidad del Ministerio Público Militar deberá remitir la indagatoria a la autoridad civil que corresponda, absteniéndose de ordenar ulteriores actuaciones, sin perjuicio de seguir actuando en la investigación de aquellos delitos del orden militar que resulten de los mismos hechos.
+Párrafo reformado DOF 16-05-2016
+Cuando de las diligencias practicadas en la investigación de un delito se desprenda que éste no atenta contra la disciplina militar, en términos del artículo 57 de este Código, inmediatamente y bajo su más estricta responsabilidad del Ministerio Público Militar deberá remitir la indagatoria a la autoridad civil que corresponda, absteniéndose de ordenar ulteriores actuaciones, sin perjuicio de seguir actuando en la investigación de aquellos delitos del orden militar que resulten de los mismos hechos.
 Párrafo adicionado DOF 13-06-2014
 
 ### Artículo 38
 .- Todas las personas que deban suministrar datos para la averiguación de los delitos, están obligadas a comparecer ante el Ministerio Público, cuando sean citadas para ello por el Fiscal General de Justicia Militar o sus agentes. Quedan exceptuados de esta regla, el Presidente de la República, los secretarios del despacho, los subsecretarios y oficiales mayores, los generales de división en el activo, los comandantes militares y los miembros de un Tribunal Superior, a quienes se les examinará en sus respectivas oficinas. Los miembros del cuerpo diplomático serán examinados en la forma que indique la Secretaría de Relaciones Exteriores.
-Artículo reformado DOF 16-05-2016 CAPITULO II Del Ministerio Público
+Artículo reformado DOF 16-05-2016
+CAPITULO II Del Ministerio Público
 
 ### Artículo 39
 .- El Ministerio Público se compondrá:
@@ -350,19 +397,27 @@ Artículo reformado DOF 09-04-2012, 16-05-2016
 I. Las del Fiscal General de Justicia Militar, por los Fiscales en el orden que señala el artículo 39 de éste Código.
 
 II. Las de los Fiscales Militares Adjunto y Especiales y las de los agentes del Ministerio Público Militar, por designación del Fiscal General.
-Artículo reformado DOF 16-05-2016 CAPITULO III Del Laboratorio Científico de Investigaciones (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 16-05-2016
+CAPITULO III Del Laboratorio Científico de Investigaciones (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 46
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV Policía Ministerial Militar Denominación del Capítulo reformada DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV Policía Ministerial Militar
+Denominación del Capítulo reformada DOF 16-05-2016
 
 ### Artículo 47
 .- En el ejercicio de la investigación de los delitos que sean competencia de la jurisdicción militar, la Policía Ministerial Militar y en su caso, las Policías Militar, Naval y la Guardia Nacional, actuarán bajo la conducción y mando del Ministerio Público Militar.
-Párrafo reformado DOF 22-07-1994, 13-06-2014, 16-07-2025 La Policía Ministerial Militar, se compondrá:
+Párrafo reformado DOF 22-07-1994, 13-06-2014, 16-07-2025
+La Policía Ministerial Militar, se compondrá:
 Párrafo adicionado DOF 16-07-2025
 
 I. (Se deroga).
-Fracción derogada DOF 22-07-1994 II.- De un cuerpo permanente, y Fracción reformada DOF 16-07-2025 III.- Del personal militar que, en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de Policía Ministerial Militar.
+Fracción derogada DOF 22-07-1994
+II.- De un cuerpo permanente, y
+Fracción reformada DOF 16-07-2025
+III.- Del personal militar que, en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de Policía Ministerial Militar.
 Fracción reformada DOF 13-06-2014, 16-07-2025
 
 ### Artículo 48
@@ -380,7 +435,8 @@ Artículo reformado DOF 29-09-1937, 13-06-2014, 16-07-2025
 Bis.- La Policía Ministerial Militar permanente, actuará bajo la conducción y el mando del Ministerio Público en la investigación de los delitos, tendrá las facultades y obligaciones siguientes:
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito, incluso anónimas e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas para que este coordine la investigación;
-Fracción reformada DOF 16-05-2016 II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
+Fracción reformada DOF 16-05-2016
+II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
 
 III. Prestar el auxilio que requieran los ofendidos y las víctimas de los delitos de la competencia de la Jurisdicción Militar, y proteger a los testigos del delito. Para tal efecto, deberá:
 
@@ -397,10 +453,12 @@ IV. Realizar detenciones en los supuestos que autoriza la Constitución Federal 
 Fracción reformada DOF 16-05-2016
 
 V. Elaborar un inventario de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo que se pretendan asegurar, firmado por el imputado o la persona con quien se atienda el acto de investigación, iniciando el procedimiento de la cadena de custodia conforme a los protocolos que para el efecto se emitan, poniéndolos a disposición del Agente del Ministerio Público Militar;
-Fracción reformada DOF 16-05-2016 VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
+Fracción reformada DOF 16-05-2016
+VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
 
 VII. Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan la Policía Ministerial Militar especializada en la escena del delito o los peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo, conforme a los protocolos que se emitan al respecto;
-Fracción reformada DOF 16-05-2016 VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
+Fracción reformada DOF 16-05-2016
+VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
 IX.- Practicar las diligencias orientadas a conocer los hechos y en su caso la individualización física de los autores y partícipes del hecho;
 
 X. Recabar los datos personales que sirvan para la identificación del imputado;
@@ -425,12 +483,17 @@ Fracción adicionada DOF 16-05-2016
 XVI. Cumplir los mandatos del Fiscal General y de los Agentes del Ministerio Público, para apoyar a las autoridades civiles en la investigación de delitos;
 Fracción adicionada DOF 16-05-2016
 
-XVII. Realizar acciones de entrega vigilada y las operaciones encubiertas con autorización del Fiscal General de Justicia Militar o el funcionario en quien delegue la función, y Fracción adicionada DOF 16-05-2016
+XVII. Realizar acciones de entrega vigilada y las operaciones encubiertas con autorización del Fiscal General de Justicia Militar o el funcionario en quien delegue la función, y
+Fracción adicionada DOF 16-05-2016
 
 XVIII. Someterse a los procesos de evaluación de su desempeño, de conformidad con las disposiciones legalmente aplicables.
-Fracción adicionada DOF 16-05-2016 La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
+Fracción adicionada DOF 16-05-2016
+La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
 Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
-Artículo adicionado DOF 13-06-2014 TITULO CUARTO De la organización de la Defensoría de Oficio Militar Denominación del Título reformada DOF 16-05-2016 CAPITULO I Disposiciones preliminares
+Artículo adicionado DOF 13-06-2014
+TITULO CUARTO De la organización de la Defensoría de Oficio Militar
+Denominación del Título reformada DOF 16-05-2016
+CAPITULO I Disposiciones preliminares
 
 ### Artículo 50
 .- La defensa pública de calidad a que se refiere el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a los imputados por delitos de la competencia del fuero militar, estará a cargo de la Defensoría de Oficio Militar.
@@ -440,7 +503,9 @@ Artículo reformado DOF 16-05-2016
 .- La acción de la Defensoría de Oficio Militar, en favor de las personas militares imputadas quienes deban prestar sus servicios, no se limitará a los tribunales militares, sino se extenderá a los del orden común y federal, cuando los hechos tengan relación con actos del servicio.
 La defensa es un derecho fundamental e irrenunciable que asiste al personal militar imputado.
 Se entenderá por una defensa técnica la que debe realizar la Defensoría de Oficio Militar a favor de la persona imputada desde su detención y a lo largo de todo su proceso, sin perjuicio de los actos de defensa material que el propio imputado pueda llevar a cabo.
-Artículo reformado DOF 16-05-2016, 16-07-2025 CAPITULO II De la Defensoría de Oficio Militar Denominación del Capítulo reformada DOF 16-05-2016
+Artículo reformado DOF 16-05-2016, 16-07-2025
+CAPITULO II De la Defensoría de Oficio Militar
+Denominación del Capítulo reformada DOF 16-05-2016
 
 ### Artículo 52
 .- La Defensoría de Oficio Militar se compondrá:
@@ -467,20 +532,30 @@ Artículo reformado DOF 09-04-2012, 13-06-2014, 16-05-2016
 
 ### Artículo 56
 .- En las ausencias temporales del Defensor General de la Defensoría de Oficio Militar, será suplido por el Defensor General Adjunto. Los defensores serán suplidos por quienes determine el Defensor General.
-Artículo reformado DOF 22-07-1994, 16-05-2016 TITULO QUINTO De la competencia CAPITULO I Disposiciones preliminares
+Artículo reformado DOF 22-07-1994, 16-05-2016
+TITULO QUINTO De la competencia CAPITULO I Disposiciones preliminares
 
 ### Artículo 57
 .- Son delitos contra la disciplina militar:
 I.- Los especificados en el Libro Segundo de este Código, con las excepciones previstas en el artículo 337 Bis;
-Fracción reformada DOF 13-06-2014 II.- Los del orden común o federal, siempre y cuando no tenga la condición de civil el sujeto pasivo que resiente sobre su persona la afectación producida por la conducta delictiva o la persona titular del bien jurídico tutelado o puesto en peligro por la acción u omisión prevista en ley penal como delito, en los siguientes supuestos:
-Párrafo reformado DOF 13-06-2014 a).- Que fueren cometidos por el personal militar, en los momentos de estar en servicio o con motivo de actos del mismo;
-Inciso reformado DOF 16-07-2025 b).- Que fueren cometidos por el personal militar en un buque de guerra o en edificio o punto militar u ocupado militarmente o siempre que, como consecuencia, se produzca tumulto o desorden en la tropa que se encuentre en el sitio donde el delito se haya cometido o se interrumpa o perjudique el servicio militar;
-Inciso reformado DOF 13-06-2014, 16-07-2025 c).- Se deroga.
-Inciso derogado DOF 13-06-2014 d).- Que fueren cometidos por personal militar frente a tropa formada o ante la bandera;
-Inciso reformado DOF 13-06-2014, 16-07-2025 e).- Que el delito fuere cometido por personal militar en conexión con otro de aquellos a que se refiere la fracción I.
-Inciso reformado DOF 13-06-2014, 16-07-2025 Los delitos del orden común o federal que fueren cometidos por personal militar en tiempo de guerra, territorio declarado en ley marcial, o cualquiera de los supuestos previstos en la Constitución, corresponderán a la jurisdicción militar siempre y cuando el sujeto pasivo no tenga la condición de civil.
-Párrafo adicionado DOF 13-06-2014. Reformado DOF 16-07-2025 En todos los casos, cuando concurran personal militar y civiles como sujetos activos, solo los primeros podrán ser juzgados por la justicia militar.
-Párrafo reformado DOF 13-06-2014, 16-07-2025 Los delitos del orden común que exijan querella, necesaria para su averiguación y sanción, no serán de la competencia de los tribunales militares, sino en los casos previstos en el inciso e) de la fracción II.
+Fracción reformada DOF 13-06-2014
+II.- Los del orden común o federal, siempre y cuando no tenga la condición de civil el sujeto pasivo que resiente sobre su persona la afectación producida por la conducta delictiva o la persona titular del bien jurídico tutelado o puesto en peligro por la acción u omisión prevista en ley penal como delito, en los siguientes supuestos:
+Párrafo reformado DOF 13-06-2014
+a).- Que fueren cometidos por el personal militar, en los momentos de estar en servicio o con motivo de actos del mismo;
+Inciso reformado DOF 16-07-2025
+b).- Que fueren cometidos por el personal militar en un buque de guerra o en edificio o punto militar u ocupado militarmente o siempre que, como consecuencia, se produzca tumulto o desorden en la tropa que se encuentre en el sitio donde el delito se haya cometido o se interrumpa o perjudique el servicio militar;
+Inciso reformado DOF 13-06-2014, 16-07-2025
+c).- Se deroga.
+Inciso derogado DOF 13-06-2014
+d).- Que fueren cometidos por personal militar frente a tropa formada o ante la bandera;
+Inciso reformado DOF 13-06-2014, 16-07-2025
+e).- Que el delito fuere cometido por personal militar en conexión con otro de aquellos a que se refiere la fracción I.
+Inciso reformado DOF 13-06-2014, 16-07-2025
+Los delitos del orden común o federal que fueren cometidos por personal militar en tiempo de guerra, territorio declarado en ley marcial, o cualquiera de los supuestos previstos en la Constitución, corresponderán a la jurisdicción militar siempre y cuando el sujeto pasivo no tenga la condición de civil.
+Párrafo adicionado DOF 13-06-2014. Reformado DOF 16-07-2025
+En todos los casos, cuando concurran personal militar y civiles como sujetos activos, solo los primeros podrán ser juzgados por la justicia militar.
+Párrafo reformado DOF 13-06-2014, 16-07-2025
+Los delitos del orden común que exijan querella, necesaria para su averiguación y sanción, no serán de la competencia de los tribunales militares, sino en los casos previstos en el inciso e) de la fracción II.
 Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 13-06-2014, 16-07-2025
 
 ### Artículo 58
@@ -514,7 +589,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 66
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO II Tribunal Superior Militar y secretarios Denominación del Capítulo reformada DOF 16-07-2025
+Artículo derogado DOF 16-05-2016
+CAPITULO II Tribunal Superior Militar y secretarios
+Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 67
 . Corresponde al pleno del Tribunal Superior Militar conocer:
@@ -524,16 +601,21 @@ I. De las competencias de jurisdicción que se susciten entre los órganos Juris
 Fracción reformada DOF 16-05-2016
 
 II. De las excusas que sus miembros presenten para conocer de determinados negocios, las de los jueces y las recusaciones que se promuevan en contra de magistrados y jueces.
-Fracción reformada DOF 16-05-2016 III.- de los recursos de su competencia;
+Fracción reformada DOF 16-05-2016
+III.- de los recursos de su competencia;
 
 IV. Del recurso de revocación interpuesto en contra de sus resoluciones de trámite que se resuelvan sin sustanciación.
 Fracción reformada DOF 16-05-2016
 
 V. (Se deroga).
-Fracción derogada DOF 16-05-2016 VI.- Se deroga.
-Fracción derogada DOF 13-06-2014 VII.- Se deroga.
-Fracción derogada DOF 13-06-2014 VIII.- Se deroga.
-Fracción reformada DOF 29-06-2005. Derogada DOF 13-06-2014 IX.- de consultas sobre dudas de ley que le dirijan los jueces;
+Fracción derogada DOF 16-05-2016
+VI.- Se deroga.
+Fracción derogada DOF 13-06-2014
+VII.- Se deroga.
+Fracción derogada DOF 13-06-2014
+VIII.- Se deroga.
+Fracción reformada DOF 29-06-2005. Derogada DOF 13-06-2014
+IX.- de consultas sobre dudas de ley que le dirijan los jueces;
 X.- de la designación del magistrado que deberá practicar las visitas de cárceles y juzgados, dando las instrucciones que estime convenientes;
 XI.- de lo demás que determinen las leyes y reglamentos.
 
@@ -564,17 +646,25 @@ Fracción adicionada DOF 16-05-2016
 
 ### Artículo 68
 .- Son atribuciones del Tribunal Superior Militar:
-Párrafo reformado DOF 16-07-2025 I.- Conceder licencias a las personas magistradas, jueces, secretarias y demás empleadas subalternas del tribunal, hasta por ocho días, dando aviso a la Secretaría de la Defensa Nacional;
-Fracción reformada DOF 09-04-2012, 16-07-2025, 16-07-2025 II.- Resolver las reclamaciones de los jueces contra excitativas de justicia y demás providencias y acuerdos del presidente del Tribunal Superior Militar, en ejercicio de sus atribuciones;
+Párrafo reformado DOF 16-07-2025
+I.- Conceder licencias a las personas magistradas, jueces, secretarias y demás empleadas subalternas del tribunal, hasta por ocho días, dando aviso a la Secretaría de la Defensa Nacional;
+Fracción reformada DOF 09-04-2012, 16-07-2025, 16-07-2025
+II.- Resolver las reclamaciones de los jueces contra excitativas de justicia y demás providencias y acuerdos del presidente del Tribunal Superior Militar, en ejercicio de sus atribuciones;
 Fracción reformada DOF 16-07-2025
 
 III. Proponer a la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
-Fracción reformada DOF 09-04-2012, 16-05-2016 IV.- Expedir acuerdos y circulares, dando instrucciones a las personas funcionarias de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
-Fracción reformada DOF 16-05-2016, 16-07-2025 V.- Formular el reglamento del mismo Tribunal Superior Militar y someterlo a la aprobación de la Secretaría de la Defensa Nacional;
-Fracción reformada DOF 09-04-2012, 16-07-2025 VI.- Proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de personas funcionarias y empleadas de justicia militar, según lo exijan las necesidades del servicio;
-Fracción reformada DOF 09-04-2012, 16-07-2025 VII.- Suministrar a la Fiscalía General de Justicia Militar, los datos necesarios para la formación de la estadística criminal militar;
-Fracción reformada DOF 16-05-2016, 16-07-2025 VII Bis. Resolver las apelaciones cuya competencia no esté señalada para las salas unitarias;
-Fracción adicionada DOF 16-05-2016 VIII.- Las demás que determinen las leyes y reglamentos.
+Fracción reformada DOF 09-04-2012, 16-05-2016
+IV.- Expedir acuerdos y circulares, dando instrucciones a las personas funcionarias de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
+Fracción reformada DOF 16-05-2016, 16-07-2025
+V.- Formular el reglamento del mismo Tribunal Superior Militar y someterlo a la aprobación de la Secretaría de la Defensa Nacional;
+Fracción reformada DOF 09-04-2012, 16-07-2025
+VI.- Proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de personas funcionarias y empleadas de justicia militar, según lo exijan las necesidades del servicio;
+Fracción reformada DOF 09-04-2012, 16-07-2025
+VII.- Suministrar a la Fiscalía General de Justicia Militar, los datos necesarios para la formación de la estadística criminal militar;
+Fracción reformada DOF 16-05-2016, 16-07-2025
+VII Bis. Resolver las apelaciones cuya competencia no esté señalada para las salas unitarias;
+Fracción adicionada DOF 16-05-2016
+VIII.- Las demás que determinen las leyes y reglamentos.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 69
@@ -582,15 +672,25 @@ Fracción reformada DOF 16-07-2025
 Párrafo reformado DOF 16-07-2025
 
 I. Presidir las audiencias y dirigir los debates;
-Fracción reformada DOF 16-05-2016 II.- Recibir quejas e informes sobre demoras, excesos o faltas en el despacho de los negocios.
+Fracción reformada DOF 16-05-2016
+II.- Recibir quejas e informes sobre demoras, excesos o faltas en el despacho de los negocios.
 Si las faltas fueren leves, dictará las providencias oportunas para su corrección; pero si fueren graves, dará cuenta al Tribunal Superior Militar para que resuelva;
-Fracción reformada DOF 16-07-2025 III.- Comunicar a la Secretaría de la Defensa Nacional, las faltas absolutas o temporales de las personas magistradas, jueces, secretarias y demás personal subalterno de la administración de justicia militar;
-Fracción reformada DOF 09-04-2012, 16-07-2025 IV.- Conceder licencias económicas hasta por tres días al personal a que se refiere la fracción anterior;
-Fracción reformada DOF 16-07-2025 V.- Llevar la correspondencia oficial, dictando los acuerdos económicos conforme al reglamento interior;
-Fracción reformada DOF 16-07-2025 VI.- Despachar excitativas de justicia, a petición de parte, contra las personas juzgadoras militares;
-Fracción reformada DOF 16-07-2025 VII.- Glosar y llevar las cuentas de los gastos de oficio;
-Fracción reformada DOF 16-07-2025 VIII.- Llevar con toda escrupulosidad, por duplicado, las hojas de actuación de todas las personas funcionarias y empleadas que dependen del Tribunal Superior Militar, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se remitirá a la Secretaría de la Defensa Nacional;
-Fracción reformada DOF 09-04-2012, 16-07-2025 IX.- Dictar las medidas que estime convenientes, en lo tocante al archivo judicial y biblioteca, de acuerdo con lo expresado en el artículo 34, y Fracción reformada DOF 16-07-2025 X.- Lo demás que determinen las leyes y reglamentos.
+Fracción reformada DOF 16-07-2025
+III.- Comunicar a la Secretaría de la Defensa Nacional, las faltas absolutas o temporales de las personas magistradas, jueces, secretarias y demás personal subalterno de la administración de justicia militar;
+Fracción reformada DOF 09-04-2012, 16-07-2025
+IV.- Conceder licencias económicas hasta por tres días al personal a que se refiere la fracción anterior;
+Fracción reformada DOF 16-07-2025
+V.- Llevar la correspondencia oficial, dictando los acuerdos económicos conforme al reglamento interior;
+Fracción reformada DOF 16-07-2025
+VI.- Despachar excitativas de justicia, a petición de parte, contra las personas juzgadoras militares;
+Fracción reformada DOF 16-07-2025
+VII.- Glosar y llevar las cuentas de los gastos de oficio;
+Fracción reformada DOF 16-07-2025
+VIII.- Llevar con toda escrupulosidad, por duplicado, las hojas de actuación de todas las personas funcionarias y empleadas que dependen del Tribunal Superior Militar, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se remitirá a la Secretaría de la Defensa Nacional;
+Fracción reformada DOF 09-04-2012, 16-07-2025
+IX.- Dictar las medidas que estime convenientes, en lo tocante al archivo judicial y biblioteca, de acuerdo con lo expresado en el artículo 34, y
+Fracción reformada DOF 16-07-2025
+X.- Lo demás que determinen las leyes y reglamentos.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 70
@@ -613,7 +713,9 @@ Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 16-05-2016
 
 ### Artículo 71
 .- El secretario auxiliar del Tribunal Superior Militar, desempeñará las labores que le encomiende la persona secretaria de acuerdos y las mismas que éste, cuando lo supla.
-Artículo reformado DOF 16-07-2025 CAPITULO II BIS Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias Capítulo adicionado DOF 16-05-2016
+Artículo reformado DOF 16-07-2025
+CAPITULO II BIS Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias
+Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 71
 Bis. Los Tribunales Militares de Juicio Oral, presenciaran en su totalidad la audiencia de juicio oral y en su caso la de individualización de sanciones, deliberando para emitir la sentencia respectiva, explicando su contenido y alcances.
@@ -646,7 +748,9 @@ X. Resolver respecto a la suspensión del proceso y sobreseimiento al cierre de 
 XI. Resolver sobre todas aquellas peticiones e incidentes que le promuevan las partes en las etapas de investigación e intermedia, y
 
 XII. Las demás que le otorgue la ley.
-Artículo adicionado DOF 16-05-2016 CAPITULO III Consejos de guerra (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo adicionado DOF 16-05-2016
+CAPITULO III Consejos de guerra (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 72
 . (Se deroga).
@@ -685,12 +789,19 @@ IV.- Realizar el cómputo de la duración de las penas o medidas de seguridad, t
 Fracción reformada DOF 16-07-2025
 
 V. Resolver en audiencia oral, sobre las peticiones o planteamientos de las partes, relativos a las materias siguientes: a).- La revocación de cualquier beneficio y sustitutivos concedidos a las personas sentenciadas o de aquellas que por su naturaleza e importancia requieran ofrecimiento, admisión, desahogo y debate de medios de pruebas.
-Inciso reformado DOF 16-07-2025 b).- La libertad preparatoria y la reducción de las penas;
-Inciso reformado DOF 16-07-2025 VI.- Decretar como medida de seguridad, a petición de la persona Directora de la prisión, el externamiento y la custodia de la persona sentenciada, al tenerse conocimiento, previo examen médico correspondiente, de que padezca alguna enfermedad mental de tipo crónico, continuo e irreversible, a cargo de una institución del sector salud, de la persona representante legal o tutora debidamente acreditada, para que se le brinde atención y tratamiento médico o de tipo asilar;
-Fracción reformada DOF 16-07-2025 VII.- Ordenar el traslado de las personas sentenciadas a los diversos Centros Penitenciarios;
-Fracción reformada DOF 16-07-2025 VIII.- Rehabilitar los derechos de las personas sentenciadas, una vez que se cumpla con el término de la suspensión señalada en la sentencia, en los casos de indulto o de reconocimiento de inocencia;
-Fracción reformada DOF 16-07-2025 IX.- Entregar a la persona sentenciada su constancia de libertad definitiva;
-Fracción reformada DOF 16-07-2025 X.- Informar a las autoridades correspondientes, cuando las personas sentenciadas cumplan con las penas impuestas, y Fracción reformada DOF 16-07-2025
+Inciso reformado DOF 16-07-2025
+b).- La libertad preparatoria y la reducción de las penas;
+Inciso reformado DOF 16-07-2025
+VI.- Decretar como medida de seguridad, a petición de la persona Directora de la prisión, el externamiento y la custodia de la persona sentenciada, al tenerse conocimiento, previo examen médico correspondiente, de que padezca alguna enfermedad mental de tipo crónico, continuo e irreversible, a cargo de una institución del sector salud, de la persona representante legal o tutora debidamente acreditada, para que se le brinde atención y tratamiento médico o de tipo asilar;
+Fracción reformada DOF 16-07-2025
+VII.- Ordenar el traslado de las personas sentenciadas a los diversos Centros Penitenciarios;
+Fracción reformada DOF 16-07-2025
+VIII.- Rehabilitar los derechos de las personas sentenciadas, una vez que se cumpla con el término de la suspensión señalada en la sentencia, en los casos de indulto o de reconocimiento de inocencia;
+Fracción reformada DOF 16-07-2025
+IX.- Entregar a la persona sentenciada su constancia de libertad definitiva;
+Fracción reformada DOF 16-07-2025
+X.- Informar a las autoridades correspondientes, cuando las personas sentenciadas cumplan con las penas impuestas, y
+Fracción reformada DOF 16-07-2025
 
 XI. Las demás atribuciones que este Código y otros ordenamientos le asignen.
 Artículo adicionado DOF 13-06-2014. Reformado DOF 16-05-2016
@@ -715,7 +826,8 @@ VII. Expedir y autorizar las copias de las resoluciones y constancias, contenida
 VIII. Llevar los libros de gobierno, correspondencia, y demás necesarios para el servicio;
 
 IX. Las demás que le otorgue la ley.
-Artículo reformado DOF 16-05-2016 CAPITULO V Ministerio Público
+Artículo reformado DOF 16-05-2016
+CAPITULO V Ministerio Público
 
 ### Artículo 78
 . El Ministerio Público al recibir una denuncia o querella recabará con toda oportunidad y eficacia los datos necesarios, para acreditar que se cometió un hecho que la ley señale como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión a fin de formular la imputación correspondiente, solicitando la aprehensión, comparecencia o presentación de los imputados, si no hubieren sido detenidos en flagrante delito o en casos urgentes.
@@ -872,9 +984,12 @@ IX. Instruir a la Policía Ministerial Militar sobre la legalidad, pertinencia, 
 
 X. Requerir informes o documentación a otras autoridades y a particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba;
 XI.- Solicitar a la o al Fiscal General o Fiscal General Adjunto, que requiera a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan, probablemente cometidos por personal militar exclusivamente en el ámbito de competencia de la Jurisdicción Militar;
-Fracción reformada DOF 16-07-2025 XII.- Gestionar en coordinación con la Policía Ministerial Militar la autorización de la o del Fiscal General o Fiscal General Adjunto, para realizar dentro de la investigación la entrega vigilada y las operaciones encubiertas;
-Fracción reformada DOF 16-07-2025 XIII.- Solicitar a la o al Fiscal General o Fiscal General Adjunto, que requiera a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan, probablemente cometidos por personal militar, exclusivamente en el ámbito de competencia de la justicia militar;
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 Fracción reformada DOF 16-07-2025
+Fracción reformada DOF 16-07-2025
+XII.- Gestionar en coordinación con la Policía Ministerial Militar la autorización de la o del Fiscal General o Fiscal General Adjunto, para realizar dentro de la investigación la entrega vigilada y las operaciones encubiertas;
+Fracción reformada DOF 16-07-2025
+XIII.- Solicitar a la o al Fiscal General o Fiscal General Adjunto, que requiera a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan, probablemente cometidos por personal militar, exclusivamente en el ámbito de competencia de la justicia militar;
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023
+Fracción reformada DOF 16-07-2025
 
 XIV. Solicitar al Órgano jurisdiccional militar la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
 XV.- Proporcionar información veraz sobre los hechos, sobre los hallazgos en la investigación al personal militar imputado o su defensa y la víctima u ofendido, sin ocultar elemento alguno que pudiera resultar favorable para la posición que ellos asuman, salvo aquellos que deban mantenerse en reserva previa autorización de la Persona Juzgadora Militar de Control y en su caso efectuar el descubrimiento probatorio en el momento procesal oportuno;
@@ -882,10 +997,14 @@ Fracción reformada DOF 16-07-2025
 
 XVI. Realizar una investigación objetiva que contemple tanto a los elementos de cargo como de descargo a efecto de garantizar el respeto de los derechos de las partes y el debido proceso, al grado de que, si al concluir la investigación complementaria, solicite el sobreseimiento del proceso, o bien, en la audiencia de juicio solicite la absolución o una condena más leve, que aquella que sugiere la acusación, si estas son procedentes;
 XVII.- Ordenar la detención y la retención de las personas militares imputadas cuando resulte procedente en los términos que establece este Código;
-Fracción reformada DOF 16-07-2025 XVIII.- Solicitar al personal militar la aportación voluntaria de muestras de fluido corporal, vello o cabello, exámenes corporales de carácter biológico, extracciones de sangre u otros análogos, así como que se le permita obtener imágenes internas o externas de alguna parte del cuerpo, siempre que no implique riesgos para la salud y la dignidad de la persona, debiendo constar el registro correspondiente de su consentimiento y en caso de negativa solicitar a la Persona Juzgadora Militar de Control la autorización para su obtención;
-Fracción reformada DOF 16-07-2025 XIX.- Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del personal militar imputado, sin riesgo para ellos;
-Fracción reformada DOF 16-07-2025 XX.- Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por el Código Militar de Procedimientos Penales, sometiéndola a consideración de la o del Fiscal General;
-Fracción reformada DOF 16-07-2025 XXI.- Aplicar los criterios de oportunidad con autorización de la o del Fiscal General o Fiscal General Adjunto;
+Fracción reformada DOF 16-07-2025
+XVIII.- Solicitar al personal militar la aportación voluntaria de muestras de fluido corporal, vello o cabello, exámenes corporales de carácter biológico, extracciones de sangre u otros análogos, así como que se le permita obtener imágenes internas o externas de alguna parte del cuerpo, siempre que no implique riesgos para la salud y la dignidad de la persona, debiendo constar el registro correspondiente de su consentimiento y en caso de negativa solicitar a la Persona Juzgadora Militar de Control la autorización para su obtención;
+Fracción reformada DOF 16-07-2025
+XIX.- Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del personal militar imputado, sin riesgo para ellos;
+Fracción reformada DOF 16-07-2025
+XX.- Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por el Código Militar de Procedimientos Penales, sometiéndola a consideración de la o del Fiscal General;
+Fracción reformada DOF 16-07-2025
+XXI.- Aplicar los criterios de oportunidad con autorización de la o del Fiscal General o Fiscal General Adjunto;
 Fracción reformada DOF 16-07-2025
 
 XXII. Asistir en forma oportuna a todas las audiencias relativas a la investigación que práctica, realizando las peticiones en base a los datos y medios de prueba que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
@@ -896,7 +1015,8 @@ Fracción reformada DOF 16-07-2025
 
 XXV. Ejercer la acción penal cuando proceda;
 XXVI.- Desistirse de la acción penal, con autorización de la o del Fiscal General o Fiscal General Adjunto;
-Fracción reformada DOF 16-07-2025 XXVII.- Solicitar a la Persona Juzgadora Militar de Control las órdenes de aprehensión, comparecencia o citatorio cuando pretenda formular la imputación;
+Fracción reformada DOF 16-07-2025
+XXVII.- Solicitar a la Persona Juzgadora Militar de Control las órdenes de aprehensión, comparecencia o citatorio cuando pretenda formular la imputación;
 Fracción reformada DOF 16-07-2025
 
 XXVIII. Solicitar las órdenes para efectuar un cateo, en los términos y condiciones que señala la ley;
@@ -911,8 +1031,10 @@ XXXII. Promover las formas anticipadas de terminación del proceso penal, de con
 
 XXXIII. Solicitar la reclasificación de la conducta o hecho por los cuales se hubiese ejercido la acción penal;
 XXXIV.- Solicitar a la Persona Juzgadora Militar de Control las providencias precautorias;
-Fracción reformada DOF 16-07-2025 XXXV.- Decretar las medidas de protección y solicitar su ratificación ante la Persona Juzgadora Militar de Control;
-Fracción reformada DOF 16-07-2025 XXXVI.- Solicitar las medidas cautelares aplicables al personal militar imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
+Fracción reformada DOF 16-07-2025
+XXXV.- Decretar las medidas de protección y solicitar su ratificación ante la Persona Juzgadora Militar de Control;
+Fracción reformada DOF 16-07-2025
+XXXVI.- Solicitar las medidas cautelares aplicables al personal militar imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
 Fracción reformada DOF 16-07-2025
 
 XXXVII. Autorizar la dispensa de la necropsia previa solicitud de los familiares;
@@ -941,17 +1063,22 @@ Fracción reformada DOF 16-07-2025
 
 XLIX. Mantener la secrecía de la investigación, permitiendo el acceso de ella sólo al personal autorizado por la ley,
 
-L. Interponer los recursos legales en contra de autos y sentencias, así como las excepciones, incidentes, nulidad, saneamiento y convalidación de actos en términos del Código Militar de Procedimientos Penales, LI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante la Persona Juzgadora de Ejecución, y Fracción reformada DOF 16-07-2025
+L. Interponer los recursos legales en contra de autos y sentencias, así como las excepciones, incidentes, nulidad, saneamiento y convalidación de actos en términos del Código Militar de Procedimientos Penales, LI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante la Persona Juzgadora de Ejecución, y
+Fracción reformada DOF 16-07-2025
 
 LII. Las demás que las leyes determinen.
 Artículo reformado DOF 22-07-1994, 18-05-1999, 13-06-2014, 16-05-2016
 
 ### Artículo 84
-. (Se deroga) Artículo derogado DOF 16-05-2016 CAPITULO VI Defensoría de Oficio Militar Denominación del Capítulo reformada DOF 16-05-2016
+. (Se deroga)
+Artículo derogado DOF 16-05-2016
+CAPITULO VI Defensoría de Oficio Militar
+Denominación del Capítulo reformada DOF 16-05-2016
 
 ### Artículo 85
 .- Son facultades y deberes de la persona Titular de la Defensoría de Oficio Militar:
-Párrafo reformado DOF 16-07-2025 I.- Disponer que las o los defensores, en los asuntos de la Jurisdicción Militar brinden una asesoría legal y defensa técnica adecuada al personal militar durante el procedimiento penal, cuando los requiera el Agente del Ministerio Público Militar o el Órgano jurisdiccional militar según sea el caso;
+Párrafo reformado DOF 16-07-2025
+I.- Disponer que las o los defensores, en los asuntos de la Jurisdicción Militar brinden una asesoría legal y defensa técnica adecuada al personal militar durante el procedimiento penal, cuando los requiera el Agente del Ministerio Público Militar o el Órgano jurisdiccional militar según sea el caso;
 Fracción reformada DOF 16-07-2025
 
 II. Tratándose de asuntos de defensa en el procedimiento penal ante tribunales del orden común y federal, el Defensor General, previa solicitud del interesado, podrá autorizar la defensa, siempre y cuando se trate de hechos que estén vinculados con actos del servicio y no cuente con defensor;
@@ -985,7 +1112,8 @@ Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 22-07-1994, 0
 
 ### Artículo 86
 .- Son obligaciones comunes de la defensa:
-Párrafo reformado DOF 16-07-2025 I.- Asistir jurídicamente a la persona militar imputada, acusada o sentenciada desde el momento de su designación ante el Órgano investigador o Jurisdiccional, en la práctica de diligencias, así como en todas las audiencias que establezca la ley, siempre que no tengan impedimento legal para dichos efectos, presentando los argumentos y ofreciendo los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una defensa adecuada;
+Párrafo reformado DOF 16-07-2025
+I.- Asistir jurídicamente a la persona militar imputada, acusada o sentenciada desde el momento de su designación ante el Órgano investigador o Jurisdiccional, en la práctica de diligencias, así como en todas las audiencias que establezca la ley, siempre que no tengan impedimento legal para dichos efectos, presentando los argumentos y ofreciendo los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una defensa adecuada;
 Fracción reformada DOF 16-07-2025
 
 II. Abrir un expediente de control de cada uno de los asuntos a su cargo, que se integrará con las promociones y escritos derivados del caso;
@@ -994,14 +1122,18 @@ III. Realizar las acciones necesarias que tengan por objeto la impugnación, mod
 
 IV. Formular sus promociones en forma clara y precisa, con consideraciones de hecho y de derecho, fundamentándolas tanto en la legislación nacional como en los instrumentos internacionales;
 V.- Promover a favor de su representada o representado la aplicación de soluciones alternas o formas de terminación anticipada del procedimiento penal;
-Fracción reformada DOF 16-07-2025 VI.- Asesorar a la persona militar imputada para la celebración de los acuerdos que permitan salidas alternas y terminación anticipada en el procedimiento penal;
-Fracción reformada DOF 16-07-2025 VII.- Consultar a la Jefa o Jefe o Subjefa o Subjefe de la Defensoría, o bien a la Jefa o Jefe de la Sección Técnica o Subsección de Defensores, en todos los asuntos que estime necesario, exponiéndole el caso de que se trate y la opinión que de él se haya formado;
+Fracción reformada DOF 16-07-2025
+VI.- Asesorar a la persona militar imputada para la celebración de los acuerdos que permitan salidas alternas y terminación anticipada en el procedimiento penal;
+Fracción reformada DOF 16-07-2025
+VII.- Consultar a la Jefa o Jefe o Subjefa o Subjefe de la Defensoría, o bien a la Jefa o Jefe de la Sección Técnica o Subsección de Defensores, en todos los asuntos que estime necesario, exponiéndole el caso de que se trate y la opinión que de él se haya formado;
 Fracción reformada DOF 16-07-2025
 
 VIII. Mantener informados a sus representados del estado de sus procesos;
 IX.- Informar y presentar por escrito a la persona titular de la Defensoría General, los motivos de excusa que tuvieren para intervenir en los asuntos en que se consideren impedidas o impedidos;
-Fracción reformada DOF 16-07-2025 X.- Rendir los informes mensuales de los procesos a su cargo y los demás que les ordene la persona titular de la Defensoría General;
-Fracción reformada DOF 16-07-2025 XI.- Cumplir con la asignación que les haga la persona titular de la Defensoría General para intervenir en los asuntos del orden común o federal, ejerciendo sus facultades y obligaciones al respecto;
+Fracción reformada DOF 16-07-2025
+X.- Rendir los informes mensuales de los procesos a su cargo y los demás que les ordene la persona titular de la Defensoría General;
+Fracción reformada DOF 16-07-2025
+XI.- Cumplir con la asignación que les haga la persona titular de la Defensoría General para intervenir en los asuntos del orden común o federal, ejerciendo sus facultades y obligaciones al respecto;
 Fracción reformada DOF 16-07-2025
 
 XII. Solicitar al Centro Militar de Ciencias Forenses su intervención para recabar peritajes que resulten necesarios para respaldar la defensa instrumentada;
@@ -1069,7 +1201,8 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 98
 . (Se deroga).
-Artículo derogado DOF 16-05-2016 LIBRO SEGUNDO De los delitos, faltas, delincuentes y penas TITULO PRELIMINAR
+Artículo derogado DOF 16-05-2016
+LIBRO SEGUNDO De los delitos, faltas, delincuentes y penas TITULO PRELIMINAR
 
 ### Artículo 99
 .- Todo delito del orden militar produce responsabilidad criminal, esto es, sujeta a una pena al que lo comete aunque sólo haya obrado con imprudencia y no con dañada intención.
@@ -1077,7 +1210,8 @@ Artículo derogado DOF 16-05-2016 LIBRO SEGUNDO De los delitos, faltas, delincue
 ### Artículo 100
 .- El personal militar, que descubra o tenga noticia de cualquier modo, de la comisión de algún delito de la competencia de la Jurisdicción Militar, está obligado a ponerlo inmediatamente en conocimiento del Ministerio Público, por los conductos debidos.
 La infracción de este precepto no será punible cuando quien lo descubra o tenga noticia del delito esté ligado con el delincuente, por vínculos de parentesco de consanguinidad en línea recta sin limitación de grado, y en la colateral hasta el cuarto, o de afinidad hasta el segundo, inclusive.
-Artículo reformado DOF 16-07-2025 TITULO PRIMERO De los delitos y de los responsables CAPITULO I Clasificación de delitos
+Artículo reformado DOF 16-07-2025
+TITULO PRIMERO De los delitos y de los responsables CAPITULO I Clasificación de delitos
 
 ### Artículo 101
 .- Los delitos del orden militar pueden ser:
@@ -1088,15 +1222,18 @@ Es de imprudencia el que se comete por imprevisión, negligencia, impericia, fal
 
 ### Artículo 102
 .- La inocencia de todo imputado se presumirá mientras no se declare su responsabilidad mediante sentencia firme, emitida por el juez de la causa y conforme a las reglas establecidas en este Código.
-Artículo reformado DOF 13-06-2014 Reforma DOF 13-06-2014: Derogó del artículo el entonces párrafo segundo con sus fracciones I a VII
+Artículo reformado DOF 13-06-2014
+Reforma DOF 13-06-2014: Derogó del artículo el entonces párrafo segundo con sus fracciones I a VII
 
 ### Artículo 103
 .- Para que la imprudencia sea punible, se necesita que se consume, y que no sea tan leve que, si fuere delito intencional, sólo se penalizaría con prisión de un mes.
-Artículo reformado DOF 16-07-2025 CAPITULO II De las faltas
+Artículo reformado DOF 16-07-2025
+CAPITULO II De las faltas
 
 ### Artículo 104
 .- Las infracciones que solamente constituyan faltas, serán sancionadas de acuerdo con lo que prevenga la Ordenanza o leyes que la substituyan.
-Artículo reformado DOF 16-07-2025 CAPITULO III Grados del delito intencional
+Artículo reformado DOF 16-07-2025
+CAPITULO III Grados del delito intencional
 
 ### Artículo 105
 .- Los delitos serán punibles en todos sus grados de ejecución.
@@ -1118,10 +1255,16 @@ CAPITULO V Autores
 .- Son autores de un delito:
 I.- Los que lo conciben, resuelven cometerlo, lo preparan y ejecutan, ya sea por sí mismos o por medio de otros a quienes compelen o inducen a delinquir, abusando aquéllos de su autoridad o poder, o valiéndose de amagos o amenazas graves, de la fuerza física, de dádivas, de promesas o de culpables maquinaciones o artificios;
 II.- Los que son la causa determinante del delito, aunque no lo ejecuten por sí ni hayan preparado la ejecución, y se valgan de otros medios diversos de los enumerados en la fracción anterior para hacer que otros los cometan;
-Fracción reformada DOF 16-07-2025 III.- Los que con carteles dirigidos al pueblo o a la Fuerza Armada Permanente o haciendo circular manuscritos o impresos, o por medio de discursos estimulen a cometer un delito determinado, si éste llega a ejecutarse, aunque sólo se designen genéricamente las víctimas;
-Fracción reformada DOF 16-07-2025 IV.- Los que ejecuten materialmente el acto en que el delito queda consumado, exceptuando el caso del artículo siguiente;
-Fracción reformada DOF 16-07-2025 V.- Los que ejecutan hechos que son la causa impulsiva del delito, o que se encaminan inmediata y directamente a su ejecución, o que son tan necesarios en los actos de verificarse ésta, que sin ellos no puede consumarse;
-Fracción reformada DOF 16-07-2025 VI.- Los que ejecutan hechos que, aunque a primera vista parecen secundarios, son de los más peligrosos, o requieren mayor audacia en el agente, y Fracción reformada DOF 16-07-2025 VII.- Los que teniendo por su empleo o comisión el deber de impedir o de castigar un delito, se obligan con el delincuente a no estorbarle que lo cometa, o a procurarle la impunidad en el caso de ser acusado.
+Fracción reformada DOF 16-07-2025
+III.- Los que con carteles dirigidos al pueblo o a la Fuerza Armada Permanente o haciendo circular manuscritos o impresos, o por medio de discursos estimulen a cometer un delito determinado, si éste llega a ejecutarse, aunque sólo se designen genéricamente las víctimas;
+Fracción reformada DOF 16-07-2025
+IV.- Los que ejecuten materialmente el acto en que el delito queda consumado, exceptuando el caso del artículo siguiente;
+Fracción reformada DOF 16-07-2025
+V.- Los que ejecutan hechos que son la causa impulsiva del delito, o que se encaminan inmediata y directamente a su ejecución, o que son tan necesarios en los actos de verificarse ésta, que sin ellos no puede consumarse;
+Fracción reformada DOF 16-07-2025
+VI.- Los que ejecutan hechos que, aunque a primera vista parecen secundarios, son de los más peligrosos, o requieren mayor audacia en el agente, y
+Fracción reformada DOF 16-07-2025
+VII.- Los que teniendo por su empleo o comisión el deber de impedir o de castigar un delito, se obligan con el delincuente a no estorbarle que lo cometa, o a procurarle la impunidad en el caso de ser acusado.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 110
@@ -1167,7 +1310,8 @@ II.- procurando por cualquier medio impedir que se averigüe el delito o que se 
 
 ### Artículo 118
 .- Son encubridores de tercera clase: Quienes teniendo por su empleo o comisión el deber de impedir o sancionar un delito, favorecen a los delincuentes sin previo acuerdo con ellos, ejecutando alguno de los hechos enumerados en las fracciones I y II del artículo 116 u ocultando a los culpables.
-Artículo reformado DOF 16-07-2025 CAPITULO VIII Circunstancias excluyentes de responsabilidad
+Artículo reformado DOF 16-07-2025
+CAPITULO VIII Circunstancias excluyentes de responsabilidad
 
 ### Artículo 119
 .- Son excluyentes:
@@ -1181,7 +1325,8 @@ VII.- Infringir una Ley Penal dejando de hacer lo que mande por un impedimento l
 VIII.- Causar daño por mero accidente sin intención ni imprudencia alguna, ejecutando un hecho lícito con todas las precauciones debidas;
 IX.- Obrar impulsado por una fuerza física irresistible, y X.- Obrar violentado por el temor fundado e irresistible de un mal inminente y grave en la persona del infractor.
 Las dos últimas excluyentes no procederán en los delitos cometidos por infracción de los deberes que las disposiciones legales impongan al personal militar, según su jerarquía o el cargo o comisión que desempeñe.
-Artículo reformado DOF 16-07-2025 CAPITULO IX Circunstancias que atenúan o agravan la responsabilidad
+Artículo reformado DOF 16-07-2025
+CAPITULO IX Circunstancias que atenúan o agravan la responsabilidad
 
 ### Artículo 120
 .- Las circunstancias que disminuyan o aumenten la responsabilidad criminal del acusado serán establecidas y calificadas por el juez, a su arbitrio.
@@ -1203,7 +1348,8 @@ Fracción reformada DOF 29-06-2005
 II. (Se deroga).
 Fracción derogada DOF 29-06-2005
 
-III. Suspensión de empleo o comisión militar, y Fracción reformada DOF 29-06-2005
+III. Suspensión de empleo o comisión militar, y
+Fracción reformada DOF 29-06-2005
 
 IV. Destitución de empleo.
 Fracción reformada DOF 29-06-2005
@@ -1244,7 +1390,8 @@ Artículo reformado DOF 29-06-2005, 13-06-2014, 16-07-2025
 
 ### Artículo 130
 .- (Se deroga).
-Artículo derogado DOF 29-06-2005 CAPITULO III De la suspensión de empleo o comisión
+Artículo derogado DOF 29-06-2005
+CAPITULO III De la suspensión de empleo o comisión
 
 ### Artículo 131
 .- La pena de suspensión de empleo consiste en la privación temporal que hubiere estado desempeñando la persona sentenciada, y de la remuneración, honores, consideraciones e insignias correspondientes a aquél, así como del uso de condecoraciones, de distintivos para el personal de tropa y del uniforme para los oficiales.
@@ -1264,7 +1411,8 @@ Artículo reformado DOF 13-06-2014
 ### Artículo 135
 .- El Personal de sargentos y cabos suspensos en sus empleos, continuarán sirviendo como soldados y percibirán el haber de éstos en cualquier cuerpo o dependencia diferente de aquel de que formaban parte, salvo que no lo hubiere en el lugar donde deban extinguir su condena, sin abonárseles en uno ni en otro caso el tiempo de la suspensión, en el de servicios o de enganche.
 Respecto de los oficiales, tampoco se computará el tiempo que dure la suspensión de empleo, en el de servicios, haciéndose constar así en la hoja respectiva.
-Artículo reformado DOF 16-07-2025 CAPITULO IV De la destitución de empleo
+Artículo reformado DOF 16-07-2025
+CAPITULO IV De la destitución de empleo
 
 ### Artículo 136
 .- La destitución de empleo consiste en la privación absoluta del empleo militar que estuviere desempeñando la persona sentenciada, importando, además, las consecuencias legales expresadas en los artículos siguientes.
@@ -1289,11 +1437,14 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 141
 .- El Juez de Ejecución de Sentencias podrá conceder por una sola vez la rehabilitación siempre que el sentenciado justifique que ha transcurrido la mitad del tiempo por el que hubiese sido impuesta la inhabilitación y observado buena conducta.
 La rehabilitación devuelve al sentenciado la capacidad legal para volver a servir en las Fuerzas Armadas.
-Artículo reformado DOF 09-04-2012, 13-06-2014 CAPITULO V De la pena de muerte Capítulo derogado DOF 29-06-2005
+Artículo reformado DOF 09-04-2012, 13-06-2014
+CAPITULO V De la pena de muerte
+Capítulo derogado DOF 29-06-2005
 
 ### Artículo 142
 .- (Se deroga).
-Artículo derogado DOF 29-06-2005 CAPITULO VI De las consecuencias legales de las penas privativas de libertad
+Artículo derogado DOF 29-06-2005
+CAPITULO VI De las consecuencias legales de las penas privativas de libertad
 
 ### Artículo 143
 .- Es consecuencia necesaria de las penas privativas de libertad, interrumpir por todo el tiempo de su duración el de servicios o enganche; y si debieren durar más de dos años, la destitución del empleo de cabo en adelante, a no ser que en el precepto legal donde se fije la penalidad se disponga lo contrario.
@@ -1305,16 +1456,21 @@ Párrafo reformado DOF 13-06-2014
 A los sargentos, cabos y soldados procesados por el delito de deserción simple o condenados a sufrir una pena sin perjuicio del servicio, cualquiera que sea el lugar señalado para unos y otros, se considerarán como soldados; prestarán los servicios que se les designen y estarán sujetos en todo a las prevenciones de la ordenanza o leyes que la substituyan, y a las del presente Código.
 
 ## TÍTULO TERCERO
-Aplicación, Substitución y Reducción de las Penas Denominación del Título reformada DOF 29-06-2005 CAPITULO I Reglas generales
+
+Aplicación, Substitución y Reducción de las Penas
+Denominación del Título reformada DOF 29-06-2005
+CAPITULO I Reglas generales
 
 ### Artículo 145
 .- Se prohíbe imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada en una ley aplicable exactamente al delito de que se trate, y que estuviere vigente cuando éste se cometió. Se exceptúan en favor del sentenciado los casos siguientes:
-Párrafo reformado DOF 13-06-2014 I.- Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgasen una o más leyes que disminuyan la pena establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley;
+Párrafo reformado DOF 13-06-2014
+I.- Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgasen una o más leyes que disminuyan la pena establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley;
 II.- Cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena privativa de libertad, se dictare una ley que sólo disminuya la duración de la pena, si el sentenciado lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
 Fracción reformada DOF 29-06-2005, 13-06-2014
 
 III. (Se deroga).
-Fracción derogada DOF 29-06-2005 IV.- cuando una ley quite a un hecho u omisión el carácter de delito que otra anterior le daba, se pondrá en absoluta libertad a quienes se estuviere juzgando, así como a los sentenciados que se hallen cumpliendo sus condenas y cesarán de pleno derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
+Fracción derogada DOF 29-06-2005
+IV.- cuando una ley quite a un hecho u omisión el carácter de delito que otra anterior le daba, se pondrá en absoluta libertad a quienes se estuviere juzgando, así como a los sentenciados que se hallen cumpliendo sus condenas y cesarán de pleno derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
 ### Artículo 146
 .- Siempre que con un hecho ejecutado en un solo acto o con una omisión, se violen varias disposiciones penales que señalen penas diversas, se aplicará la del delito que merezca pena mayor, tomándose en cuenta las otras violaciones como circunstancias agravantes.
@@ -1338,7 +1494,8 @@ Artículo reformado DOF 13-06-2014, 16-07-2025
 Párrafo reformado DOF 29-06-2005, 13-06-2014, 16-07-2025
 
 I. (Se deroga).
-Fracción derogada DOF 29-06-2005 II.- Si la pena fuere la de suspensión de empleo o comisión o la de destitución de empleo, se aplicará proporcionalmente la de prisión, computada conforme a la mitad de la duración que hubieren debido tener la suspensión o la inhabilitación para volver a pertenecer a la Fuerza Armada Permanente.
+Fracción derogada DOF 29-06-2005
+II.- Si la pena fuere la de suspensión de empleo o comisión o la de destitución de empleo, se aplicará proporcionalmente la de prisión, computada conforme a la mitad de la duración que hubieren debido tener la suspensión o la inhabilitación para volver a pertenecer a la Fuerza Armada Permanente.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 152
@@ -1348,7 +1505,8 @@ Artículo reformado DOF 17-10-1944
 
 ### Artículo 152
 bis.- Para la fijación de sanciones que resulten aplicables según este Código, los importes establecidos se calcularán de acuerdo a la Unidad de Medida y Actualización, que es la referencia económica para determinar la cuantía del pago al momento de la realización del delito.
-Artículo adicionado DOF 22-07-1994. Reformado DOF 16-07-2025 CAPITULO II Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
+Artículo adicionado DOF 22-07-1994. Reformado DOF 16-07-2025
+CAPITULO II Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
 
 ### Artículo 153
 .- En caso de que algún alumno de los establecimientos de educación militar menor de dieciocho años de edad, cometa una conducta tipificada como delito en las leyes penales, será puesto a disposición de las autoridades del sistema integral de justicia para adolescentes que corresponda.
@@ -1370,7 +1528,8 @@ Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 16-07-2025 CAPITULO III
 .- Los delitos de imprudencia, cuando este Código no señale pena determinada, se castigarán:
 
 I. Con tres años de prisión cuando el delito, de ser intencional, tuviere señalada pena de treinta a sesenta años;
-Fracción reformada DOF 29-06-2005 II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
+Fracción reformada DOF 29-06-2005
+II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
 III.- con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y IV.- en cualquier otro caso con prisión de dieciséis días a dos años al arbitrio del juez, quien tomará en cuenta para la fijación de la pena, la mayor o menor facilidad de prever y evitar el daño causado; si bastaban para esto una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia; si los acusados han delinquido anteriormente en circunstancias semejantes, y si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 Tratándose de exceso en la defensa, tomará en consideración además, el grado de agitación y sobresalto del agredido, la hora y lugar de la agresión, la edad, la constitución física y demás circunstancias corporales del agresor y del agredido, el número de atacantes y defensores y las armas empleadas en el ataque y en la defensa.
 En ningún caso la pena que se imponga excederá de las tres cuartas partes de la que correspondería si el delito fuera intencional.
@@ -1382,9 +1541,11 @@ Artículo reformado DOF 13-06-2014, 16-07-2025
 
 ### Artículo 159
 .- El delito frustrado se sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Cuando el delito no se consume por tratarse de un delito irrealizable, porque es imposible o porque son evidentemente inadecuados los medios empleados, con un tercio a dos quintos de la pena que se impondría si el delito se hubiera consumado, y II.- Cuando el delito no se consume por causas extrañas a la voluntad del agente diversas de las que se expresan en la fracción anterior, con dos quintos a dos tercios de la que se aplicaría si se hubiera consumado el delito.
+Párrafo reformado DOF 16-07-2025
+I.- Cuando el delito no se consume por tratarse de un delito irrealizable, porque es imposible o porque son evidentemente inadecuados los medios empleados, con un tercio a dos quintos de la pena que se impondría si el delito se hubiera consumado, y II.- Cuando el delito no se consume por causas extrañas a la voluntad del agente diversas de las que se expresan en la fracción anterior, con dos quintos a dos tercios de la que se aplicaría si se hubiera consumado el delito.
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 La Persona Juzgadora tendrá en cuenta lo dispuesto en los artículos 146 y 147.
-Párrafo reformado DOF 16-07-2025 CAPITULO V Aplicación de penas en caso de acumulación y reincidencia
+Párrafo reformado DOF 16-07-2025
+CAPITULO V Aplicación de penas en caso de acumulación y reincidencia
 
 ### Artículo 160
 .- Si se acumularen diversos delitos que tengan señalada pena de prisión, se impondrá la más grave, la que podrá aumentarse hasta una tercera parte del tiempo de su duración. Si las penas fueren de distinta naturaleza, se impondrán todas.
@@ -1405,7 +1566,8 @@ I.- Hasta de una sexta parte si el último delito fuere menos grave que el anter
 II.- hasta de una cuarta, si ambos fueren de igual gravedad;
 III.- hasta de una tercia, si el último fuere más grave que el anterior.
 Si el sentenciado hubiere sido indultado por gracia en el delito anterior o su reincidencia no fuere la primera, se podrá duplicar el aumento de que hablan las reglas anteriores.
-Párrafo reformado DOF 13-06-2014 Para los efectos de este artículo queda al arbitrio judicial la calificación de la gravedad de los delitos.
+Párrafo reformado DOF 13-06-2014
+Para los efectos de este artículo queda al arbitrio judicial la calificación de la gravedad de los delitos.
 CAPITULO VI Aplicación de penas a los cómplices y encubridores
 
 ### Artículo 165
@@ -1434,6 +1596,7 @@ CAPITULO VII Aplicación de penas cuando se estimen atenuantes y agravantes
 .- Si la ley fijare los extremos, la autoridad judicial impondrá la que estime justa, debiendo tomar en cuenta las circunstancias que atenúen o agraven la responsabilidad del acusado, si algunas concurren.
 
 ## CAPÍTULO VIII — De la Substitución de Penas
+
 Denominación del Capítulo reformada DOF 29-06-2005
 
 ### Artículo 173
@@ -1442,7 +1605,8 @@ Denominación del Capítulo reformada DOF 29-06-2005
 ### Artículo 174
 .- La substitución podrá hacerse en los casos siguientes:
 I.- (Se deroga).
-Fracción derogada DOF 29-06-2005 II.- cuando se trate de un delito que no haya causado daño ni escándalo, y la pena señalada no pase de seis meses de prisión, si es la primera vez que delinque el acusado, ha sido antes de buena conducta y median otras circunstancias dignas de tomarse en cuenta, y III.- cuando la ley lo determine expresamente.
+Fracción derogada DOF 29-06-2005
+II.- cuando se trate de un delito que no haya causado daño ni escándalo, y la pena señalada no pase de seis meses de prisión, si es la primera vez que delinque el acusado, ha sido antes de buena conducta y median otras circunstancias dignas de tomarse en cuenta, y III.- cuando la ley lo determine expresamente.
 
 ### Artículo 175
 .- En los casos de la fracción II del artículo anterior, no se ejecutará la sentencia, pero sí se amonestará al sentenciado.
@@ -1458,7 +1622,8 @@ Artículo derogado DOF 29-06-2005
 
 ### Artículo 178
 .- (Se deroga).
-Artículo derogado DOF 29-06-2005 TITULO CUARTO Ejecución de las sentencias, retención y libertad preparatoria CAPITULO I Ejecución de sentencias
+Artículo derogado DOF 29-06-2005
+TITULO CUARTO Ejecución de las sentencias, retención y libertad preparatoria CAPITULO I Ejecución de sentencias
 
 ### Artículo 179
 .- Corresponde al Juez de Ejecución de Sentencias, vigilar el cumplimiento de las penas y medidas de seguridad, impuestas por los Tribunales Militares, quienes deberán remitirle las constancias necesarias.
@@ -1478,7 +1643,8 @@ Artículo reformado DOF 29-06-2005
 
 ### Artículo 183
 .- La retención se hará efectiva cuando la persona condenada con esa calidad, tuviere mala conducta durante el último tercio de su condena incurriendo en faltas de disciplina o en infracciones del reglamento de la prisión, siempre que tengan el carácter de graves a juicio del Tribunal Superior Militar.
-Artículo reformado DOF 16-07-2025 CAPITULO III De la libertad preparatoria
+Artículo reformado DOF 16-07-2025
+CAPITULO III De la libertad preparatoria
 
 ### Artículo 184
 .- Los sentenciados condenados a sufrir una pena privativa de libertad por delito cuyo término medio no sea menor de dos años, tendrán derecho a que se les conceda el beneficio de libertad preparatoria, dispensándoles el tiempo restante, cuando hayan observado buena conducta durante la mitad de su condena.
@@ -1486,7 +1652,8 @@ Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 13-06-2014
 
 ### Artículo 185
 .- Al sentenciado a cumplir una pena privativa de libertad de treinta a sesenta años, sólo se le otorgará la libertad preparatoria, cuando haya tenido buena conducta por un tiempo igual a los dos tercios de su pena.
-Artículo reformado DOF 29-06-2005 TITULO QUINTO De la extinción de la acción penal y de la pena CAPITULO I De la extinción de la acción penal
+Artículo reformado DOF 29-06-2005
+TITULO QUINTO De la extinción de la acción penal y de la pena CAPITULO I De la extinción de la acción penal
 
 ### Artículo 186
 .- La acción penal se extingue:
@@ -1544,8 +1711,11 @@ Artículo reformado DOF 13-06-2014
 I. (Se deroga).
 Fracción derogada DOF 29-06-2005
 
-II. En un término igual al de su duración, más una cuarta parte de la pena impuesta, y Fracción reformada DOF 29-06-2005 III.- En un tiempo igual al que falte de la condena, más una cuarta parte, cuando el sentenciado hubiere cumplido parcialmente aquélla.
-Fracción reformada DOF 13-06-2014 Reforma DOF 29-06-2005: Derogó del artículo el entonces último párrafo
+II. En un término igual al de su duración, más una cuarta parte de la pena impuesta, y
+Fracción reformada DOF 29-06-2005
+III.- En un tiempo igual al que falte de la condena, más una cuarta parte, cuando el sentenciado hubiere cumplido parcialmente aquélla.
+Fracción reformada DOF 13-06-2014
+Reforma DOF 29-06-2005: Derogó del artículo el entonces último párrafo
 
 ### Artículo 198
 .- La prescripción de las penas privativas de libertad, sólo se interrumpe con la aprehensión del sentenciado aunque ésta se ejecute por otro delito diverso.
@@ -1561,37 +1731,62 @@ Artículo reformado DOF 13-06-2014
 .- Se concederá indulto cualquiera que sea la pena impuesta y se otorgará la rehabilitación cuando aparezca que el condenado es inocente.
 Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad o seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, delitos contra el Derecho de Gentes, rebelión, insubordinación causando la muerte al superior, asonada, abandono de puesto a que se refieren las fracciones II y III del artículo 312, abandono de buque o convoy en los casos de las fracciones VI del artículo 318, I del 319 y artículo 321, extralimitación y usurpación de mando o comisión en el caso de la fracción III del artículo 323, infracción de deberes militares correspondientes a cada militar según su comisión o empleo a que se refiere el artículo 385, ni reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
 I.- Cuando haya prestado servicios importantes a la Nación, o II.- Cuando existan circunstancias especiales en su favor.
-Párrafo reformado DOF 24-06-1993 No se aplicará lo dispuesto en el párrafo anterior, al indulto a que se refiere la fracción V del artículo 176 de este Código.
-Párrafo adicionado DOF 24-06-1993 El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación0 de reparar el daño causado.
+Párrafo reformado DOF 24-06-1993
+No se aplicará lo dispuesto en el párrafo anterior, al indulto a que se refiere la fracción V del artículo 176 de este Código.
+Párrafo adicionado DOF 24-06-1993
+El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación0 de reparar el daño causado.
 Párrafo adicionado DOF 24-06-1993
 
 ### Artículo 202
 .- En el caso de reconocimiento de inocencia, se relevará de toda pena a la persona sentenciada y si está recluida, se le pondrá en inmediata libertad.
-Artículo reformado DOF 24-06-1993, 29-06-2005, 16-07-2025 TITULO SEXTO Delitos contra la seguridad exterior de la Nación CAPITULO I Traición a la patria
+Artículo reformado DOF 24-06-1993, 29-06-2005, 16-07-2025
+TITULO SEXTO Delitos contra la seguridad exterior de la Nación CAPITULO I Traición a la patria
 
 ### Artículo 203
 .- Se impondrá pena de treinta a sesenta años de prisión, a quien:
-Párrafo reformado DOF 29-06-2005 I.- Induzca a una potencia extranjera a declarar la guerra a México, o se concierte con ella para el mismo fin;
+Párrafo reformado DOF 29-06-2005
+I.- Induzca a una potencia extranjera a declarar la guerra a México, o se concierte con ella para el mismo fin;
 II.- Se pase al enemigo;
-Fracción reformada DOF 16-07-2025 III.- Se levante en armas para desmembrar el territorio nacional. El personal de tropa que incurra en este delito, no siendo jefes o promovedores del movimiento, sufrirán la pena de quince años de prisión;
-Fracción reformada DOF 16-07-2025 IV.- Entregue al enemigo, la fuerza, barco, aeronave, o cualquier otra unidad de combate, que tenga a sus órdenes, la plaza o puesto confiado a su cargo, la bandera, las provisiones de boca o guerra, o le proporcione cualquier otro recurso o medios de ofensa o defensa;
-Fracción reformada DOF 16-07-2025 V.- Induzca a tropas mexicanas, o que se hallen al servicio de México, para que se pasen a la fuerza enemiga, o reclute gente para el servicio del enemigo;
-Fracción reformada DOF 16-07-2025 VI.- Comunique al enemigo el estado o la situación de las tropas mexicanas, o de las que estuvieren al servicio de México, de barcos, aeronaves, armas, municiones o víveres de que disponga, algún plan de operaciones, itinerarios militares, o entregue planos de fuertes, bahías, fondeaderos, campamentos, posiciones o terrenos, y en general, cualquier informe que pueda favorecer sus operaciones de guerra o perjudicar las de la Fuerza Armada Permanente;
-Fracción reformada DOF 16-07-2025 VII.- Excite una revuelta entre las tropas o a bordo de un buque o aeronave al servicio de la nación, al frente del enemigo;
-Fracción reformada DOF 16-07-2025 VIII.- Haga señales militares al frente del enemigo u otras indicaciones propias y conducentes para inquietar a las tropas nacionales, o para engañarlas, excitarlas a la fuga, causar su pérdida o la de los barcos o aeronaves o impedir la reunión de unas y otros, si estuvieren divididos;
-Fracción reformada DOF 16-07-2025 IX.- Entable o facilite con personas que estén al servicio del enemigo y sin la autorización competente, relaciones verbales o por escrito, acerca de asuntos concernientes a las operaciones de guerra. Lo anterior no comprende los tratados y convenios militares que puedan negociarse con los jefes de fuerzas enemigas, para celebrar armisticio, capitulación, canje de prisioneros o para otros fines lícitos;
-Fracción reformada DOF 16-07-2025 X.- Circule o haga circular dolosamente entre las tropas o tripulaciones, proclamas, manifiestos u otras publicaciones del enemigo desfavorables a las fuerzas nacionales;
-Fracción reformada DOF 16-07-2025 XI.- Trasmita al enemigo algún libro o apuntes de señales, las combinaciones de los toques u otros signos convencionales para comunicarse;
-Fracción reformada DOF 16-07-2025 XII.- Fatigue o canse intencionalmente a las tropas, tripulaciones, extravíe el rumbo de buques o aeronaves o imposibilite por cualquier medio a la tripulación o a las tropas para la maniobra, o al buque o aeronave para el combate;
-Fracción reformada DOF 16-07-2025 XIII.- No ejecute, en todo o en parte, una orden del servicio o la modifique de propia autoridad para favorecer los designios del enemigo;
-Fracción reformada DOF 16-07-2025 XIV.- Malverse caudales o efectos de la Fuerza Armada Permanente en campaña y con daño de las operaciones de guerra o de las tropas;
-Fracción reformada DOF 16-07-2025 XV.- Falsifique o altere un documento relativo al servicio militar, o haga a sabiendas uso de él, siempre que se emplee para causar perturbaciones o quebrantos en las operaciones de la guerra u ocasione la entrega de una plaza o puesto militar;
-Fracción reformada DOF 16-07-2025 XVI.- Dé a sus superiores noticias contrarias a lo que supiere acerca de las operaciones de guerra, o no les comunique los datos que tenga sobre dichas operaciones y de los proyectos o movimientos del enemigo;
-Fracción reformada DOF 16-07-2025 XVII.- En campaña o en territorio declarado en estado de sitio o de guerra, inutilice de propósito caminos, vías férreas, comunicaciones telegráficas o de otra clase y sus aparatos, o cause averías que interrumpan el servicio, destruya canales, puentes, obras de defensa, barcos, aeronaves, armas, municiones o cualquier otro material de guerra o víveres para el aprovisionamiento de la Fuerza Armada Permanente, o intercepte convoyes o correspondencia, o de cualquier otro modo entorpezca dolosamente las operaciones de las fuerzas nacionales o facilite las del enemigo;
-Fracción reformada DOF 16-07-2025 XVIII.- Trasmita falsamente al frente del enemigo, órdenes, avisos o comunicaciones relativos al servicio de guerra o al especial de la marina y aviación, o deje de trasmitirlos con entera exactitud, para favorecer los intereses o propósitos de aquel;
-Fracción reformada DOF 16-07-2025 XIX.- Sirva como guía o conductor para una empresa de guerra, o de piloto, práctico o de cualquiera otra manera en una naval o de aviación, contra las tropas de la República, o sus barcos de guerra o corsarios o aeronaves, o siendo guía o conductor de dichas tropas, las extravíe dolosamente, o les cambie rumbo a los barcos o aeronaves nacionales, o procure por cualquier medio su pérdida;
-Fracción reformada DOF 16-07-2025 XX.- Ponga en libertad a los prisioneros de guerra o de cualquier otro modo proteja su fuga al frente del enemigo, en el combate o durante la retirada;
-Fracción reformada DOF 16-07-2025 XXI.- Sea cómplice o encubridor de los espías o exploradores del enemigo, y Fracción reformada DOF 16-07-2025 XXII.- Esté de acuerdo con el gobierno o súbdito de una potencia extranjera, para ocasionar cualquier daño o perjuicio a la patria.
+Fracción reformada DOF 16-07-2025
+III.- Se levante en armas para desmembrar el territorio nacional. El personal de tropa que incurra en este delito, no siendo jefes o promovedores del movimiento, sufrirán la pena de quince años de prisión;
+Fracción reformada DOF 16-07-2025
+IV.- Entregue al enemigo, la fuerza, barco, aeronave, o cualquier otra unidad de combate, que tenga a sus órdenes, la plaza o puesto confiado a su cargo, la bandera, las provisiones de boca o guerra, o le proporcione cualquier otro recurso o medios de ofensa o defensa;
+Fracción reformada DOF 16-07-2025
+V.- Induzca a tropas mexicanas, o que se hallen al servicio de México, para que se pasen a la fuerza enemiga, o reclute gente para el servicio del enemigo;
+Fracción reformada DOF 16-07-2025
+VI.- Comunique al enemigo el estado o la situación de las tropas mexicanas, o de las que estuvieren al servicio de México, de barcos, aeronaves, armas, municiones o víveres de que disponga, algún plan de operaciones, itinerarios militares, o entregue planos de fuertes, bahías, fondeaderos, campamentos, posiciones o terrenos, y en general, cualquier informe que pueda favorecer sus operaciones de guerra o perjudicar las de la Fuerza Armada Permanente;
+Fracción reformada DOF 16-07-2025
+VII.- Excite una revuelta entre las tropas o a bordo de un buque o aeronave al servicio de la nación, al frente del enemigo;
+Fracción reformada DOF 16-07-2025
+VIII.- Haga señales militares al frente del enemigo u otras indicaciones propias y conducentes para inquietar a las tropas nacionales, o para engañarlas, excitarlas a la fuga, causar su pérdida o la de los barcos o aeronaves o impedir la reunión de unas y otros, si estuvieren divididos;
+Fracción reformada DOF 16-07-2025
+IX.- Entable o facilite con personas que estén al servicio del enemigo y sin la autorización competente, relaciones verbales o por escrito, acerca de asuntos concernientes a las operaciones de guerra. Lo anterior no comprende los tratados y convenios militares que puedan negociarse con los jefes de fuerzas enemigas, para celebrar armisticio, capitulación, canje de prisioneros o para otros fines lícitos;
+Fracción reformada DOF 16-07-2025
+X.- Circule o haga circular dolosamente entre las tropas o tripulaciones, proclamas, manifiestos u otras publicaciones del enemigo desfavorables a las fuerzas nacionales;
+Fracción reformada DOF 16-07-2025
+XI.- Trasmita al enemigo algún libro o apuntes de señales, las combinaciones de los toques u otros signos convencionales para comunicarse;
+Fracción reformada DOF 16-07-2025
+XII.- Fatigue o canse intencionalmente a las tropas, tripulaciones, extravíe el rumbo de buques o aeronaves o imposibilite por cualquier medio a la tripulación o a las tropas para la maniobra, o al buque o aeronave para el combate;
+Fracción reformada DOF 16-07-2025
+XIII.- No ejecute, en todo o en parte, una orden del servicio o la modifique de propia autoridad para favorecer los designios del enemigo;
+Fracción reformada DOF 16-07-2025
+XIV.- Malverse caudales o efectos de la Fuerza Armada Permanente en campaña y con daño de las operaciones de guerra o de las tropas;
+Fracción reformada DOF 16-07-2025
+XV.- Falsifique o altere un documento relativo al servicio militar, o haga a sabiendas uso de él, siempre que se emplee para causar perturbaciones o quebrantos en las operaciones de la guerra u ocasione la entrega de una plaza o puesto militar;
+Fracción reformada DOF 16-07-2025
+XVI.- Dé a sus superiores noticias contrarias a lo que supiere acerca de las operaciones de guerra, o no les comunique los datos que tenga sobre dichas operaciones y de los proyectos o movimientos del enemigo;
+Fracción reformada DOF 16-07-2025
+XVII.- En campaña o en territorio declarado en estado de sitio o de guerra, inutilice de propósito caminos, vías férreas, comunicaciones telegráficas o de otra clase y sus aparatos, o cause averías que interrumpan el servicio, destruya canales, puentes, obras de defensa, barcos, aeronaves, armas, municiones o cualquier otro material de guerra o víveres para el aprovisionamiento de la Fuerza Armada Permanente, o intercepte convoyes o correspondencia, o de cualquier otro modo entorpezca dolosamente las operaciones de las fuerzas nacionales o facilite las del enemigo;
+Fracción reformada DOF 16-07-2025
+XVIII.- Trasmita falsamente al frente del enemigo, órdenes, avisos o comunicaciones relativos al servicio de guerra o al especial de la marina y aviación, o deje de trasmitirlos con entera exactitud, para favorecer los intereses o propósitos de aquel;
+Fracción reformada DOF 16-07-2025
+XIX.- Sirva como guía o conductor para una empresa de guerra, o de piloto, práctico o de cualquiera otra manera en una naval o de aviación, contra las tropas de la República, o sus barcos de guerra o corsarios o aeronaves, o siendo guía o conductor de dichas tropas, las extravíe dolosamente, o les cambie rumbo a los barcos o aeronaves nacionales, o procure por cualquier medio su pérdida;
+Fracción reformada DOF 16-07-2025
+XX.- Ponga en libertad a los prisioneros de guerra o de cualquier otro modo proteja su fuga al frente del enemigo, en el combate o durante la retirada;
+Fracción reformada DOF 16-07-2025
+XXI.- Sea cómplice o encubridor de los espías o exploradores del enemigo, y
+Fracción reformada DOF 16-07-2025
+XXII.- Esté de acuerdo con el gobierno o súbdito de una potencia extranjera, para ocasionar cualquier daño o perjuicio a la patria.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 204
@@ -1600,7 +1795,8 @@ Artículo reformado DOF 29-06-2005, 13-06-2014, 16-07-2025
 
 ### Artículo 205
 .- Se impondrá la pena de cinco años de prisión al personal militar que conspire para cometer el delito de traición.
-Párrafo reformado DOF 16-07-2025 Hay conspiración siempre que dos o más personas resuelven de concierto cometer el delito acordando los medios de llevar a efecto su determinación.
+Párrafo reformado DOF 16-07-2025
+Hay conspiración siempre que dos o más personas resuelven de concierto cometer el delito acordando los medios de llevar a efecto su determinación.
 CAPITULO II Espionaje
 
 ### Artículo 206
@@ -1609,14 +1805,18 @@ Artículo reformado DOF 29-06-2005
 
 ### Artículo 207
 .- El espía que habiendo logrado su objeto se hubiere incorporado a su Ejército y fuere aprehendido después, no será sancionado por su anterior delito de espionaje, sino que será considerado como prisionero de guerra.
-Artículo reformado DOF 16-07-2025 CAPITULO III Delitos contra el derecho de gentes
+Artículo reformado DOF 16-07-2025
+CAPITULO III Delitos contra el derecho de gentes
 
 ### Artículo 208
 .- Se impondrá pena de treinta a sesenta años de prisión, a quien sin motivo justificado:
-Párrafo reformado DOF 29-06-2005, 16-07-2025 I.- Ejecute actos de hostilidad contra fuerzas, barcos, aeronaves, personas o bienes de una nación extranjera, si por su actitud sobreviniese una declaración de guerra o se produjesen violencias o represalias;
+Párrafo reformado DOF 29-06-2005, 16-07-2025
+I.- Ejecute actos de hostilidad contra fuerzas, barcos, aeronaves, personas o bienes de una nación extranjera, si por su actitud sobreviniese una declaración de guerra o se produjesen violencias o represalias;
 II.- Viole tregua, armisticio, capitulación u otro convenio celebrado con el enemigo, si por su conducta se reanudaran las hostilidades.
-Párrafo reformado DOF 16-07-2025 En los casos previstos en las fracciones anteriores, si no hubiese declaración de guerra o reanudación de hostilidades, la pena será de ocho años de prisión, y III.- Prolongue las hostilidades o un bloqueo después de haber recibido el aviso oficial de la paz.
-Fracción reformada DOF 16-07-2025 En los casos previstos en las fracciones I y II, si no hubiese declaración de guerra o reanudación de hostilidades, la pena será de ocho años de prisión.
+Párrafo reformado DOF 16-07-2025
+En los casos previstos en las fracciones anteriores, si no hubiese declaración de guerra o reanudación de hostilidades, la pena será de ocho años de prisión, y III.- Prolongue las hostilidades o un bloqueo después de haber recibido el aviso oficial de la paz.
+Fracción reformada DOF 16-07-2025
+En los casos previstos en las fracciones I y II, si no hubiese declaración de guerra o reanudación de hostilidades, la pena será de ocho años de prisión.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 209
@@ -1633,11 +1833,13 @@ Artículo reformado DOF 29-06-2005
 Artículo reformado DOF 21-06-2018
 
 ### Artículo 212
-.- Se deroga Artículo derogado DOF 21-06-2018
+.- Se deroga
+Artículo derogado DOF 21-06-2018
 
 ### Artículo 213
 .- Se impondrá la pena de diez años de prisión, a los miembros de la tripulación de un buque de guerra mexicano, que utilicen su embarcación y elementos para cometer violencias y robos en las costas o en otras embarcaciones.
-Párrafo reformado DOF 21-06-2018 Si al apresar una embarcación cometieren innecesariamente homicidios, lesiones graves u otras violencias, o dejaren a las personas sin medios de salvarse, se les impondrá pena de treinta a sesenta años de prisión.
+Párrafo reformado DOF 21-06-2018
+Si al apresar una embarcación cometieren innecesariamente homicidios, lesiones graves u otras violencias, o dejaren a las personas sin medios de salvarse, se les impondrá pena de treinta a sesenta años de prisión.
 Párrafo reformado DOF 29-06-2005
 
 ### Artículo 214
@@ -1646,7 +1848,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 215
 .- Será sancionado con cinco años de prisión a quien sin estar autorizado exija el pago de alguna contribución de guerra, o servicios personales; haga requisición de víveres, o elementos de transporte, tome rehenes, o ejecute cualquiera otra clase de vejaciones en la población civil de país enemigo.
-Artículo reformado DOF 16-07-2025 CAPITULO IV Violación de neutralidad o de inmunidad diplomática
+Artículo reformado DOF 16-07-2025
+CAPITULO IV Violación de neutralidad o de inmunidad diplomática
 
 ### Artículo 216
 .- Será sancionado con cinco años de prisión:
@@ -1656,21 +1859,30 @@ Artículo reformado DOF 21-06-2018, 16-07-2025
 
 ### Artículo 217
 .- Quien violare la inmunidad personal o real de algún diplomático, será sancionado con la pena de tres años de prisión.
-Artículo reformado DOF 16-07-2025 TITULO SEPTIMO Delitos contra la seguridad interior de la nación CAPITULO I Rebelión
+Artículo reformado DOF 16-07-2025
+TITULO SEPTIMO Delitos contra la seguridad interior de la nación CAPITULO I Rebelión
 
 ### Artículo 218
 .- Se comete el delito de rebelión militar, cuando se alzan en armas integrantes de la Fuerza Armada Permanente contra el gobierno de la República, para:
-Párrafo reformado DOF 16-07-2025 I.- Abolir o reformar la Constitución Federal;
+Párrafo reformado DOF 16-07-2025
+I.- Abolir o reformar la Constitución Federal;
 II.- Impedir la elección de los Supremos Poderes de la Federación, su integración, o el libre ejercicio de sus funciones, o usurpar éstas;
-Fracción reformada DOF 16-07-2025 III.- Separar de su cargo a la persona titular de la Presidencia de la República, las personas titulares de las Secretarías de Estado, ministras y ministros de la Suprema Corte o persona titular de la Fiscalía General de la República, y Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 IV.- Abolir o reformar la Constitución Política de alguno de los Estados de la Federación, las instituciones que de ella emanen, impedir la integración de éstas o la elección correspondiente; o para lograr la separación de las gobernadoras y gobernadores, miembros del Tribunal Superior o persona titular de la Fiscalía General de Justicia; todo ello, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Federal, los alzados no depongan, sin resistencia, las armas.
+Fracción reformada DOF 16-07-2025
+III.- Separar de su cargo a la persona titular de la Presidencia de la República, las personas titulares de las Secretarías de Estado, ministras y ministros de la Suprema Corte o persona titular de la Fiscalía General de la República, y Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 IV.- Abolir o reformar la Constitución Política de alguno de los Estados de la Federación, las instituciones que de ella emanen, impedir la integración de éstas o la elección correspondiente; o para lograr la separación de las gobernadoras y gobernadores, miembros del Tribunal Superior o persona titular de la Fiscalía General de Justicia; todo ello, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Federal, los alzados no depongan, sin resistencia, las armas.
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025
 
 ### Artículo 219
 .- Se impondrá pena de treinta a sesenta años de prisión:
-Párrafo reformado DOF 29-06-2005 I.- Quien promueva o dirija una rebelión;
-Fracción reformada DOF 16-07-2025 II.- Quien ejerza mando en una región o plaza que se adhiera a la rebelión;
-Fracción reformada DOF 16-07-2025 III.- Quien mandando una corporación utilice sus fuerzas para rebelarse; y al jefe de una dependencia que emplee los elementos a su disposición para el mismo objeto, y Fracción reformada DOF 16-07-2025 IV.- Al personal de oficiales que utilice las fuerzas de su mando, para rebelarse o adherirse a la rebelión cuando no se encuentre en conexión inmediata con la corporación a que pertenezca.
-Fracción reformada DOF 16-07-2025 La pena será de seis años de prisión cuando las personas a quienes se refieren las cuatro fracciones anteriores, se rindan con todos sus elementos, antes de efectuarse alguna acción armada con fuerzas del gobierno de la República.
+Párrafo reformado DOF 29-06-2005
+I.- Quien promueva o dirija una rebelión;
+Fracción reformada DOF 16-07-2025
+II.- Quien ejerza mando en una región o plaza que se adhiera a la rebelión;
+Fracción reformada DOF 16-07-2025
+III.- Quien mandando una corporación utilice sus fuerzas para rebelarse; y al jefe de una dependencia que emplee los elementos a su disposición para el mismo objeto, y
+Fracción reformada DOF 16-07-2025
+IV.- Al personal de oficiales que utilice las fuerzas de su mando, para rebelarse o adherirse a la rebelión cuando no se encuentre en conexión inmediata con la corporación a que pertenezca.
+Fracción reformada DOF 16-07-2025
+La pena será de seis años de prisión cuando las personas a quienes se refieren las cuatro fracciones anteriores, se rindan con todos sus elementos, antes de efectuarse alguna acción armada con fuerzas del gobierno de la República.
 El personal de tropa que se rindiere con sus pertrechos de guerra no sufrirá sanción alguna.
 Párrafo reformado DOF 16-07-2025
 
@@ -1688,33 +1900,47 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 223
 .- Se sancionará con prisión de tres años a los que conspiren para cometer el delito de rebelión.
-Artículo reformado DOF 16-07-2025 CAPITULO II Sedición
+Artículo reformado DOF 16-07-2025
+CAPITULO II Sedición
 
 ### Artículo 224
 .- Cometen el delito de sedición quienes, reunidos tumultuariamente, en número de diez o más, resistan a una autoridad o la ataquen con alguno de los objetos siguientes:
-Párrafo reformado DOF 16-07-2025 I.- De impedir la promulgación o la ejecución de una ley o la celebración de una elección popular que no sea de las que menciona la fracción II del artículo 218;
+Párrafo reformado DOF 16-07-2025
+I.- De impedir la promulgación o la ejecución de una ley o la celebración de una elección popular que no sea de las que menciona la fracción II del artículo 218;
 II.- De impedir el libre ejercicio de sus funciones, o el cumplimiento de una providencia judicial o administrativa.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 225
 .- La sedición se sancionará cuando no se causare daño en las personas o en la propiedad:
-Párrafo reformado DOF 16-07-2025 I.- Con cuatro años de prisión a los promovedores o directores;
-II.- Con dos años a los demás si fueren oficiales, y Fracción reformada DOF 16-07-2025 III.- Con seis meses a la tropa.
-Fracción reformada DOF 16-07-2025 En caso de que se causare daño se impondrá la pena que corresponda, según las reglas de acumulación.
+Párrafo reformado DOF 16-07-2025
+I.- Con cuatro años de prisión a los promovedores o directores;
+II.- Con dos años a los demás si fueren oficiales, y
+Fracción reformada DOF 16-07-2025
+III.- Con seis meses a la tropa.
+Fracción reformada DOF 16-07-2025
+En caso de que se causare daño se impondrá la pena que corresponda, según las reglas de acumulación.
 
 ### Artículo 226
 .- Cuando los sediciosos se disolvieren o sometieren a la autoridad legítima antes de la intimación, a consecuencia de ella, o a la presencia de la fuerza pública, no se impondrá pena a los ejecutores; pero a los inductores, promovedores y jefes de la sedición se les aplicará la pena de un año de prisión.
 
 ### Artículo 227
 .- Se sancionará con prisión de seis meses a los que conspiren para cometer el delito de sedición.
-Artículo reformado DOF 16-07-2025 TITULO OCTAVO Delitos contra la existencia y seguridad de la Fuerza Armada Permanente Denominación del Título reformada DOF 16-07-2025 CAPITULO I Falsificación
+Artículo reformado DOF 16-07-2025
+TITULO OCTAVO Delitos contra la existencia y seguridad de la Fuerza Armada Permanente
+Denominación del Título reformada DOF 16-07-2025
+CAPITULO I Falsificación
 
 ### Artículo 228
 .- Será sancionado con la pena de tres años de prisión al personal militar que fraudulentamente y con el objeto de obtener algún provecho para sí o para otro, o con el de causar algún perjuicio:
-Párrafo reformado DOF 16-07-2025 I.- Ponga una firma o rúbrica falsas, aunque sean imaginarias, o altere una verdadera, en algún documento militar;
+Párrafo reformado DOF 16-07-2025
+I.- Ponga una firma o rúbrica falsas, aunque sean imaginarias, o altere una verdadera, en algún documento militar;
 II.- Aproveche indebidamente una firma o rúbrica en blanco, ajenas, extendiendo algún despacho, patente, orden de pago o cualquiera otro documento relativo a la posición o servicios militares, suyos o de otra persona;
-Fracción reformada DOF 16-07-2025 III.- Altere el texto de algún documento militar verdadero después de concluido y firmado, variando en él nombres, empleos o grados, fechas, cantidades o cualquiera otra circunstancia o punto substancial, ya sea añadiendo, enmendando o borrando, en todo o en parte, una o más palabras o variando la puntuación;
-Fracción reformada DOF 16-07-2025 IV.- Expida o extienda testimonio o copia certificada supuestos de documentos militares que no existan, o de los existentes que carezcan de los requisitos legales, suponiendo falsamente que los tienen o agregando o suprimiendo en la copia, algo que importe una variación substancial, y Fracción reformada DOF 16-07-2025 V.- Se atribuya o atribuya a la persona a cuyo nombre extienda el documento, un nombre o una investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto.
+Fracción reformada DOF 16-07-2025
+III.- Altere el texto de algún documento militar verdadero después de concluido y firmado, variando en él nombres, empleos o grados, fechas, cantidades o cualquiera otra circunstancia o punto substancial, ya sea añadiendo, enmendando o borrando, en todo o en parte, una o más palabras o variando la puntuación;
+Fracción reformada DOF 16-07-2025
+IV.- Expida o extienda testimonio o copia certificada supuestos de documentos militares que no existan, o de los existentes que carezcan de los requisitos legales, suponiendo falsamente que los tienen o agregando o suprimiendo en la copia, algo que importe una variación substancial, y
+Fracción reformada DOF 16-07-2025
+V.- Se atribuya o atribuya a la persona a cuyo nombre extienda el documento, un nombre o una investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 229
@@ -1754,7 +1980,8 @@ Artículo reformado DOF 29-06-2005, 16-07-2025
 
 ### Artículo 238
 .- Quien altere o cambie los planos o modelos de alguna construcción naval, o la construcción misma, destinada al servicio de la Armada, sufrirá la pena de un año de prisión, y si por esta causa se originare algún daño, la pena será de seis años.
-Artículo reformado DOF 16-07-2025 CAPITULO II Fraude, malversación y retención de haberes
+Artículo reformado DOF 16-07-2025
+CAPITULO II Fraude, malversación y retención de haberes
 
 ### Artículo 239
 .- Se le impondrá la pena de tres años de prisión:
@@ -1768,10 +1995,16 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 241
 .- Quien malverse dinero, valores o cualesquiera otros efectos pertenecientes a la Fuerza Armada Permanente o al personal que la compone, que hubiere recibido en virtud de su empleo o de su comisión fija o accidental, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con prisión de ocho meses si el valor de lo sustraído no excediere de veinte Unidades de Medida y Actualización;
-Fracción reformada DOF 16-07-2025 II.- Con prisión de dos años, si el valor de lo sustraído pasare de veinte Unidades de Medida y Actualización y no excediere de doscientos, y Fracción reformada DOF 16-07-2025 III.- Cuando excediere de doscientas Unidades de Medida y Actualización se impondrá la pena de la fracción anterior, aumentada en un mes por cada veinte Unidades de Medida y Actualización, pero sin que pueda exceder de doce años de prisión.
-Fracción reformada DOF 16-07-2025 En los casos de las fracciones anteriores, además de las penas privativas de libertad señaladas, se impondrá la destitución de empleo con inhabilitación de diez años para el servicio.
-Párrafo reformado DOF 13-06-2014 Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 22-07-1994
+Párrafo reformado DOF 16-07-2025
+I.- Con prisión de ocho meses si el valor de lo sustraído no excediere de veinte Unidades de Medida y Actualización;
+Fracción reformada DOF 16-07-2025
+II.- Con prisión de dos años, si el valor de lo sustraído pasare de veinte Unidades de Medida y Actualización y no excediere de doscientos, y
+Fracción reformada DOF 16-07-2025
+III.- Cuando excediere de doscientas Unidades de Medida y Actualización se impondrá la pena de la fracción anterior, aumentada en un mes por cada veinte Unidades de Medida y Actualización, pero sin que pueda exceder de doce años de prisión.
+Fracción reformada DOF 16-07-2025
+En los casos de las fracciones anteriores, además de las penas privativas de libertad señaladas, se impondrá la destitución de empleo con inhabilitación de diez años para el servicio.
+Párrafo reformado DOF 13-06-2014
+Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 22-07-1994
 
 ### Artículo 242
 .- Las penas mencionadas en el artículo anterior se duplicarán cuando la persona infractora se fugue para substraerse a la sanción.
@@ -1780,9 +2013,14 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 243
 .- Las penas establecidas en el artículo 241, se reducirán, si lo que se hubiere sustraído fuere devuelto antes de tres días, contados desde que hubiere sido descubierto el delito en la corporación o dependencia:
 I.- A dos meses de prisión si el valor de lo sustraído no excediere de veinte Unidades de Medida y Actualización;
-Fracción reformada DOF 16-07-2025 II.- A cuatro meses de prisión, si ese valor excediere de veinte Unidades de Medida y Actualización y no pasare de doscientas, y Fracción reformada DOF 16-07-2025 III.- A un año de prisión en los demás casos, aumentando quince días por cada veinte Unidades de Medida y Actualización o fracción de exceso, sobre doscientas, pero sin que la pena pueda exceder de ocho años de prisión.
-Fracción reformada DOF 16-07-2025 Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la privativa de libertad correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
-Párrafo reformado DOF 13-06-2014 Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 22-07-1994
+Fracción reformada DOF 16-07-2025
+II.- A cuatro meses de prisión, si ese valor excediere de veinte Unidades de Medida y Actualización y no pasare de doscientas, y
+Fracción reformada DOF 16-07-2025
+III.- A un año de prisión en los demás casos, aumentando quince días por cada veinte Unidades de Medida y Actualización o fracción de exceso, sobre doscientas, pero sin que la pena pueda exceder de ocho años de prisión.
+Fracción reformada DOF 16-07-2025
+Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la privativa de libertad correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
+Párrafo reformado DOF 13-06-2014
+Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 22-07-1994
 
 ### Artículo 244
 .- En los casos de conato de malversación de fondos o efectos, además de la pena privativa de libertad que corresponda, se impondrá la de destitución de empleo, con inhabilitación para desempeñar cualquier otro en la Fuerza Armada Permanente durante cinco años.
@@ -1790,8 +2028,11 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 245
 .- Quien indebidamente retuviere los haberes, raciones o prendas que por razón de sus funciones estuviere obligado a entregar o distribuir, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Si esa retención la efectuare en provecho propio o en el de otro, conforme a lo prevenido en el artículo 241 y según el valor de los objetos substraídos, y II.- Si dicha retención la hiciere sin aprovechar para sí o para otros, los haberes, raciones o prendas, con la mitad de la pena que corresponda, conforme a las reglas establecidas en el mismo precepto.
-Fracción reformada DOF 16-07-2025 CAPITULO III Extravío, enajenación, robo y destrucción de lo perteneciente a la Fuerza Armada Permanente Denominación del Capítulo reformada DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
+I.- Si esa retención la efectuare en provecho propio o en el de otro, conforme a lo prevenido en el artículo 241 y según el valor de los objetos substraídos, y II.- Si dicha retención la hiciere sin aprovechar para sí o para otros, los haberes, raciones o prendas, con la mitad de la pena que corresponda, conforme a las reglas establecidas en el mismo precepto.
+Fracción reformada DOF 16-07-2025
+CAPITULO III Extravío, enajenación, robo y destrucción de lo perteneciente a la Fuerza Armada Permanente
+Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 246
 .- Al personal de tropa que enajene o empeñe las prendas de vestuario o equipo de uso personal, se le impondrá la pena de seis meses de prisión. El mismo personal que enajene o empeñe caballos, acémilas, armas, municiones u otros objetos destinados para el servicio, sufrirán en los términos expresados, de uno a cinco años de prisión en tiempo de paz, y de tres a diez años, en campaña. Quien sin estar comprendido en cualquiera de los casos previstos en el artículo 241, enajene o dé en prenda los objetos o efectos destinados al uso de la Fuerza Armada Permanente que tuviese bajo su inmediata vigilancia y cuya enajenación no haya sido autorizada, será sancionado con la pena de dos años de prisión, y la de destitución de empleo, siempre que pudiere serle aplicable y ya sea que proceda o no como consecuencia de la anterior.
@@ -1810,13 +2051,20 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 249
 .- A la persona militar que cometa el delito de robo de valores o efectos pertenecientes a la Fuerza Armada Permanente, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- Con cuatro meses de prisión si el valor de lo robado no excediere de diez Unidades de Medida y Actualización;
-Fracción reformada DOF 16-07-2025 II.- Con seis meses de prisión si el valor de lo robado es mayor a diez Unidades de Medida y Actualización sin exceder de veinte;
-Fracción reformada DOF 16-07-2025 III.- Con un año y seis meses de prisión, si el valor de lo robado es mayor a veinte Unidades de Medida y Actualización sin exceder de doscientas;
-Fracción reformada DOF 16-07-2025 IV.- Con un mes de aumento a la pena señalada en la fracción anterior, por cada veinte Unidades de Medida y Actualización o fracción que excediere de doscientas;
-Fracción reformada DOF 16-07-2025 V.- Con un año de aumento a las penas que fijan las fracciones que anteceden:
-Párrafo reformado DOF 16-07-2025 a).- Si el delito se comete en un lugar cerrado o en edificio que esté habitado o destinado para habitación, y b).- Si el delincuente es obrero y el delito se comete en el taller en que aquél preste sus servicios.
-Inciso reformado DOF 16-07-2025 Se entenderá por el delito de robo quien se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella.
+Párrafo reformado DOF 16-07-2025
+I.- Con cuatro meses de prisión si el valor de lo robado no excediere de diez Unidades de Medida y Actualización;
+Fracción reformada DOF 16-07-2025
+II.- Con seis meses de prisión si el valor de lo robado es mayor a diez Unidades de Medida y Actualización sin exceder de veinte;
+Fracción reformada DOF 16-07-2025
+III.- Con un año y seis meses de prisión, si el valor de lo robado es mayor a veinte Unidades de Medida y Actualización sin exceder de doscientas;
+Fracción reformada DOF 16-07-2025
+IV.- Con un mes de aumento a la pena señalada en la fracción anterior, por cada veinte Unidades de Medida y Actualización o fracción que excediere de doscientas;
+Fracción reformada DOF 16-07-2025
+V.- Con un año de aumento a las penas que fijan las fracciones que anteceden:
+Párrafo reformado DOF 16-07-2025
+a).- Si el delito se comete en un lugar cerrado o en edificio que esté habitado o destinado para habitación, y b).- Si el delincuente es obrero y el delito se comete en el taller en que aquél preste sus servicios.
+Inciso reformado DOF 16-07-2025
+Se entenderá por el delito de robo quien se apodera de una cosa ajena mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 250
@@ -1837,13 +2085,19 @@ Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 29-06-2005, 16-07-2025 S
 
 ### Artículo 254
 .- La misma pena de ocho años de prisión se impondrá a quien dolosamente destruya, queme o inutilice los libros, cartas náuticas, planos, actas, archivos o instrumentos científicos pertenecientes a la Fuerza Armada Permanente.
-Artículo reformado DOF 16-07-2025 CAPITULO IV Deserción e insumisión Denominación del Capítulo reformada DOF 17-10-1944
+Artículo reformado DOF 16-07-2025
+CAPITULO IV Deserción e insumisión
+Denominación del Capítulo reformada DOF 17-10-1944
 
 ### Artículo 255
 .- La deserción del personal de tropa que no estuviere en servicio, se entenderá realizada, a falta de cualquier otro hecho que la demuestre:
-Párrafo reformado DOF 16-07-2025 I.- Cuando faltaren sin motivo legítimo a la revista de administración y no se presenten a justificar, dentro de las veinticuatro horas siguientes;
+Párrafo reformado DOF 16-07-2025
+I.- Cuando faltaren sin motivo legítimo a la revista de administración y no se presenten a justificar, dentro de las veinticuatro horas siguientes;
 II.- Cuando faltare sin impedimento justificado por tres días consecutivos a las listas de diana y retreta de las fuerzas a que pertenezcan o a las dependencias de que formen parte;
-Fracción reformada DOF 16-07-2025 III.- Cuando tratándose de marineros, se quedaren en tierra a la salida del buque a que pertenezcan, siempre que tuvieren oportuno conocimiento de ella, o faltaren por tres días consecutivos a bordo del barco, y Fracción reformada DOF 16-07-2025 IV.- Cuando se separen sin permiso del superior que tenga facultad para concederlo, una noche del campamento o guarnición en que se hallen, o se separen en tiempo de paz, a más de veinte kilómetros de distancia del campamento, cuarenta de la guarnición, o quince del puerto en donde esté el barco a que pertenezcan; y en campaña, a cualquiera distancia de la plaza, buque o punto militar.
+Fracción reformada DOF 16-07-2025
+III.- Cuando tratándose de marineros, se quedaren en tierra a la salida del buque a que pertenezcan, siempre que tuvieren oportuno conocimiento de ella, o faltaren por tres días consecutivos a bordo del barco, y
+Fracción reformada DOF 16-07-2025
+IV.- Cuando se separen sin permiso del superior que tenga facultad para concederlo, una noche del campamento o guarnición en que se hallen, o se separen en tiempo de paz, a más de veinte kilómetros de distancia del campamento, cuarenta de la guarnición, o quince del puerto en donde esté el barco a que pertenezcan; y en campaña, a cualquiera distancia de la plaza, buque o punto militar.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 256
@@ -1854,8 +2108,11 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 257
 .- El personal de tropa que debiere ser condenado al mismo tiempo por varios de los delitos a que se refiere el artículo anterior o por uno solo de ellos cuando lo hubieren sido ya por otro de ese mismo género, en sentencia irrevocable pronunciada con anterioridad, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de cuatro meses de prisión en un cuartel o buque, sin perjuicio del servicio, si se presentaren voluntariamente dentro del término de ocho días contados desde aquel en que hubieren realizado su separación ilegal del servicio militar;
-II.- Con la de seis meses de prisión en un cuartel o buque, sin perjuicio del servicio, si esa presentación la hicieren después del plazo mencionado, y Fracción reformada DOF 16-07-2025 III.- Con la de ocho meses de prisión en un cuartel o buque, sin perjuicio del servicio, y destinados al de policía u obras militares, si fueren aprehendidos.
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de cuatro meses de prisión en un cuartel o buque, sin perjuicio del servicio, si se presentaren voluntariamente dentro del término de ocho días contados desde aquel en que hubieren realizado su separación ilegal del servicio militar;
+II.- Con la de seis meses de prisión en un cuartel o buque, sin perjuicio del servicio, si esa presentación la hicieren después del plazo mencionado, y
+Fracción reformada DOF 16-07-2025
+III.- Con la de ocho meses de prisión en un cuartel o buque, sin perjuicio del servicio, y destinados al de policía u obras militares, si fueren aprehendidos.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 258
@@ -1872,12 +2129,19 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 261
 .- Al personal de tropa que desertare en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se prevén en seguida, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
+Párrafo reformado DOF 16-07-2025
+I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
 II.- El que deserte estando de guardia, o de la escolta de municiones, o llevándose el caballo, mula o montura, o la persona integrante de la Armada que deserte llevándose un bote o usando de él exclusivamente para ese objeto, con la de cuatro años;
-Fracción reformada DOF 16-07-2025 III.- El que deserte llevándose el fusil, carabina, pistola o sable, o tratándose de clases y marinería, cualquiera otra arma u objeto, que hubiere recibido para su uso en el servicio de mar y con la obligación de devolverlo, con la de cinco años;
-Fracción reformada DOF 16-07-2025 IV.- El que deserte estando de centinela, con la de seis años;
-Fracción reformada DOF 16-07-2025 V.- El que deserte escalando u horadando los muros o tapias del cuartel o puesto militar u ocupado militarmente o saliendo de a bordo por cualquier medio que no sea de los autorizados para el desembarco, con la de tres años, y Fracción reformada DOF 16-07-2025 VI.- El que deserte estando en una fortaleza o plaza fuerte, con la de cuatro años.
-Fracción reformada DOF 16-07-2025 A las clases a quienes se hubiere de aplicar alguna de las penas señaladas en las fracciones anteriores, se les impondrá también la destitución de empleo, ya sea que proceda o no como consecuencia de la privativa de libertad.
+Fracción reformada DOF 16-07-2025
+III.- El que deserte llevándose el fusil, carabina, pistola o sable, o tratándose de clases y marinería, cualquiera otra arma u objeto, que hubiere recibido para su uso en el servicio de mar y con la obligación de devolverlo, con la de cinco años;
+Fracción reformada DOF 16-07-2025
+IV.- El que deserte estando de centinela, con la de seis años;
+Fracción reformada DOF 16-07-2025
+V.- El que deserte escalando u horadando los muros o tapias del cuartel o puesto militar u ocupado militarmente o saliendo de a bordo por cualquier medio que no sea de los autorizados para el desembarco, con la de tres años, y
+Fracción reformada DOF 16-07-2025
+VI.- El que deserte estando en una fortaleza o plaza fuerte, con la de cuatro años.
+Fracción reformada DOF 16-07-2025
+A las clases a quienes se hubiere de aplicar alguna de las penas señaladas en las fracciones anteriores, se les impondrá también la destitución de empleo, ya sea que proceda o no como consecuencia de la privativa de libertad.
 Fe de erratas al párrafo DOF 27-09-1933
 
 ### Artículo 262
@@ -1889,16 +2153,23 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 264
 .- Cuando la deserción del personal de tropa se efectuare en campaña, se observarán las siguientes reglas:
-Párrafo reformado DOF 16-07-2025 I.- En los casos a que se refiere los artículos 256, 257 y 263, se impondrá la penalidad establecida en esos preceptos, duplicándose los términos señalados en ellos para la prisión.
+Párrafo reformado DOF 16-07-2025
+I.- En los casos a que se refiere los artículos 256, 257 y 263, se impondrá la penalidad establecida en esos preceptos, duplicándose los términos señalados en ellos para la prisión.
 El personal de sargentos y cabos será además destituido de su empleo.
-Párrafo reformado DOF 16-07-2025 II.- En los casos previstos en los artículo (sic DOF 13-06-2014) 260, 261 y 262, se aumentarán en dos años, las penas privativas de libertad respectivamente señaladas en esos preceptos.
-Fracción reformada DOF 13-06-2014 Artículo reformado DOF 17-10-1944
+Párrafo reformado DOF 16-07-2025
+II.- En los casos previstos en los artículo (sic DOF 13-06-2014) 260, 261 y 262, se aumentarán en dos años, las penas privativas de libertad respectivamente señaladas en esos preceptos.
+Fracción reformada DOF 13-06-2014
+Artículo reformado DOF 17-10-1944
 
 ### Artículo 265
 .- El personal de tropa que después de haber desertado dentro de la República, hayan salido de los límites de ésta, o que desertaren estando fuera de ella, será sancionado con arreglo a las disposiciones siguientes:
-Párrafo reformado DOF 16-07-2025 I.- Si el delito fuere cometido en tiempo de paz, la pena será de cuatro años de prisión;
+Párrafo reformado DOF 16-07-2025
+I.- Si el delito fuere cometido en tiempo de paz, la pena será de cuatro años de prisión;
 II.- Si fuere cometido en campaña, será la de siete años de prisión;
-Fracción reformada DOF 16-07-2025 III.- Si fuere cometido en tiempo de paz, pero llevándose el que lo perpetrare, el caballo, mula o montura, o el fusil, carabina, pistola o sable, o bote u otro objeto destinado al servicio de la Armada, la pena será la de ocho años de prisión, y Fracción reformada DOF 16-07-2025 IV.- Si fuere cometido en campaña, llevándose el culpable algo de lo expresado en la fracción anterior la pena será la de diez años de prisión.
+Fracción reformada DOF 16-07-2025
+III.- Si fuere cometido en tiempo de paz, pero llevándose el que lo perpetrare, el caballo, mula o montura, o el fusil, carabina, pistola o sable, o bote u otro objeto destinado al servicio de la Armada, la pena será la de ocho años de prisión, y
+Fracción reformada DOF 16-07-2025
+IV.- Si fuere cometido en campaña, llevándose el culpable algo de lo expresado en la fracción anterior la pena será la de diez años de prisión.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 266
@@ -1907,10 +2178,13 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 267
 .- El personal de Oficiales que desertaren en tiempo de paz y en alguno de los casos enumerados en el presente artículo, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- El que deserte desempeñando cualquiera comisión distinta de las que se especifican en las fracciones posteriores, si el servicio de que se trate fuere de armas, con la pena de tres años de prisión; con la de un año y seis meses, si aquél fuere económico de cuartel o buque o cualquiera otro que no sea de armas; y en ambos casos, con la de destitución, ya sea que proceda o no como consecuencia de las anteriores;
+Párrafo reformado DOF 16-07-2025
+I.- El que deserte desempeñando cualquiera comisión distinta de las que se especifican en las fracciones posteriores, si el servicio de que se trate fuere de armas, con la pena de tres años de prisión; con la de un año y seis meses, si aquél fuere económico de cuartel o buque o cualquiera otro que no sea de armas; y en ambos casos, con la de destitución, ya sea que proceda o no como consecuencia de las anteriores;
 II.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la de cinco años de prisión o con la de cuatro, según que el que desertare fuere o no el comandante de la escolta;
-Fracción reformada DOF 16-07-2025 III.- El que desertare estando de guardia, o de la escolta de municiones, con la de ocho años de prisión, o con la de seis, según que el que desertare fuere o no comandante de la guardia o de la escolta;
-Fracción reformada DOF 16-07-2025 IV.- El que sin estar desempeñando servicio de armas desertare al extranjero, con la de siete años de prisión; si estuviere desempeñando ese servicio, con la de nueve años, y si fuere el comandante de un punto, fuerza o buque, con la de once;
+Fracción reformada DOF 16-07-2025
+III.- El que desertare estando de guardia, o de la escolta de municiones, con la de ocho años de prisión, o con la de seis, según que el que desertare fuere o no comandante de la guardia o de la escolta;
+Fracción reformada DOF 16-07-2025
+IV.- El que sin estar desempeñando servicio de armas desertare al extranjero, con la de siete años de prisión; si estuviere desempeñando ese servicio, con la de nueve años, y si fuere el comandante de un punto, fuerza o buque, con la de once;
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 268
@@ -1931,8 +2205,11 @@ IX.- Que disfrutando de licencia temporal dejen de presentarse cuando hubieren s
 
 ### Artículo 270
 .- Los comprendidos en el artículo anterior, serán sancionados:
-Párrafo reformado DOF 16-07-2025 I.- En los casos de las fracciones I y II, con un año de prisión y destitución de empleo;
-II.- En los casos de las fracciones III a VII, con seis meses de prisión, y Fracción reformada DOF 16-07-2025 III.- En los casos de las fracciones VIII a X, con destitución de empleo.
+Párrafo reformado DOF 16-07-2025
+I.- En los casos de las fracciones I y II, con un año de prisión y destitución de empleo;
+II.- En los casos de las fracciones III a VII, con seis meses de prisión, y
+Fracción reformada DOF 16-07-2025
+III.- En los casos de las fracciones VIII a X, con destitución de empleo.
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025
 
 ### Artículo 271
@@ -1952,18 +2229,27 @@ Artículo reformado DOF 16-07-2025
 Párrafo reformado DOF 16-07-2025
 
 I. A los que en el caso de haber cometido el delito aisladamente, hubiere debido aplicársele pena de treinta a sesenta años de prisión, se les impondrá ésta;
-Fracción reformada DOF 29-06-2005 II.- A los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y Fracción reformada DOF 16-07-2025
+Fracción reformada DOF 29-06-2005
+II.- A los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y
+Fracción reformada DOF 16-07-2025
 
 III. Al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere imponérsele pena de treinta a sesenta años de prisión; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 275
 .- Los que por causa legítima se hubieren dispersado del cuerpo de tropas o buque a que pertenezcan, serán sancionados como desertores, según las circunstancias que hayan intervenido en su separación, si tan luego como les fuera posible, no se presentaren a su mismo cuerpo de tropas o buque o a otras fuerzas o buques de guerra nacionales o a la autoridad militar, marítima o consular más próxima.
-Párrafo reformado DOF 16-07-2025 Las mismas reglas se observarán respecto de las personas militares que habiendo caído prisioneros de guerra, no se presenten oportunamente a quien corresponda después de recobrar su libertad.
-Párrafo reformado DOF 16-07-2025 Se impondrá la pena de un mes de prisión al miembro de las reservas de la Fuerza Armada Permanente, que, sin impedimento justificado, no se presente al lugar que se le designe en el llamamiento, dentro del plazo correspondiente.
-Párrafo reformado DOF 16-07-2025 Comete el delito de insumisión el conscripto que por virtud del sorteo le corresponda prestar servicio activo, no se presente a la autoridad respectiva dentro del plazo señalado para ser encuadrado en las unidades de la Fuerza Armada Permanente.
-Párrafo reformado DOF 16-07-2025 A los infractores se les impondrá la pena de un mes de prisión. La pena privativa de libertad no releva de la obligación de prestar el servicio.
-Párrafo reformado DOF 13-06-2014 Artículo reformado DOF 17-10-1944 CAPITULO IV BIS Traición a las Fuerzas Armadas Mexicanas Capítulo adicionado DOF 16-11-2011
+Párrafo reformado DOF 16-07-2025
+Las mismas reglas se observarán respecto de las personas militares que habiendo caído prisioneros de guerra, no se presenten oportunamente a quien corresponda después de recobrar su libertad.
+Párrafo reformado DOF 16-07-2025
+Se impondrá la pena de un mes de prisión al miembro de las reservas de la Fuerza Armada Permanente, que, sin impedimento justificado, no se presente al lugar que se le designe en el llamamiento, dentro del plazo correspondiente.
+Párrafo reformado DOF 16-07-2025
+Comete el delito de insumisión el conscripto que por virtud del sorteo le corresponda prestar servicio activo, no se presente a la autoridad respectiva dentro del plazo señalado para ser encuadrado en las unidades de la Fuerza Armada Permanente.
+Párrafo reformado DOF 16-07-2025
+A los infractores se les impondrá la pena de un mes de prisión. La pena privativa de libertad no releva de la obligación de prestar el servicio.
+Párrafo reformado DOF 13-06-2014
+Artículo reformado DOF 17-10-1944
+CAPITULO IV BIS Traición a las Fuerzas Armadas Mexicanas
+Capítulo adicionado DOF 16-11-2011
 
 ### Artículo 275
 Bis.- A la persona militar que se incorpore a la delincuencia organizada se le aplicará pena de prisión de treinta a sesenta años y baja de la Fuerza Armada Permanente.
@@ -1996,15 +2282,20 @@ X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia orga
 XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
 Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada, Fuerza Aérea y Guardia Nacional.
-Párrafo reformado DOF 16-07-2025 Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el Artículo adicionado DOF 16-11-2011 CAPITULO V Inutilización voluntaria para el servicio
+Párrafo reformado DOF 16-07-2025
+Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el
+Artículo adicionado DOF 16-11-2011
+CAPITULO V Inutilización voluntaria para el servicio
 
 ### Artículo 276
 .- La persona militar que lesionándose o de cualquiera otra manera se inutilice voluntariamente, por sí o por medio de otra, para el servicio, será sancionada con un año y seis meses de prisión y destitución de empleo.
-Párrafo reformado DOF 16-07-2025 Las mismas penas se impondrán al que a petición de otro, lo inutilice con el objeto indicado.
+Párrafo reformado DOF 16-07-2025
+Las mismas penas se impondrán al que a petición de otro, lo inutilice con el objeto indicado.
 
 ### Artículo 277
 .- Se impondrá la pena de ocho meses de prisión, a quien se valga de recursos o medios fraudulentos que lo imposibiliten para el cumplimiento de alguna obligación militar.
-CAPITULO VI Insultos, amenazas o violencias contra Centinelas, Guardias, Tropa formada, Salvaguardias, Seguridad Física a Instalaciones o Personas, Bandera y Fuerza Armada Permanente Denominación del Capítulo reformada DOF 16-07-2025
+CAPITULO VI Insultos, amenazas o violencias contra Centinelas, Guardias, Tropa formada, Salvaguardias, Seguridad Física a Instalaciones o Personas, Bandera y Fuerza Armada Permanente
+Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 278
 .- Quien ofenda o amenace a un centinela, a un miembro de una guardia, a un vigilante, serviola, guardián o salvaguardia y el que destruya ésta si fuere escrita, será sancionada con la pena de un año de prisión.
@@ -2014,25 +2305,32 @@ Artículo reformado DOF 16-07-2025
 .- Quien cometa violencia contra cualquiera de los individuos mencionados en el artículo anterior, será sancionado:
 Párrafo reformado DOF 29-06-2005, 16-07-2025
 
-I. Con pena de treinta a sesenta años de prisión si hiciere uso de armas, y Fracción reformada DOF 29-06-2005 II.- Con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
+I. Con pena de treinta a sesenta años de prisión si hiciere uso de armas, y
+Fracción reformada DOF 29-06-2005
+II.- Con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 280
 .- Quien injurie, difame o calumnie a la Fuerza Armada Permanente o a las instituciones que de ésta dependan, armas, cuerpos, guardias o tropa formada, será sancionado con un año de prisión.
-Párrafo reformado DOF 16-07-2025 Se impondrá la pena de un año seis meses de prisión, al que ultraje la bandera nacional.
+Párrafo reformado DOF 16-07-2025
+Se impondrá la pena de un año seis meses de prisión, al que ultraje la bandera nacional.
 CAPITULO VII Ultrajes y violencias contra la policía
 
 ### Artículo 281
 .- Quien injurie o ultraje a un miembro de la policía que esté en ejercicio de sus funciones, será sancionado con nueve meses de prisión; y si lo desobedece o resiste a la orden que le haya intimado en uso de sus facultades o ejerza violencia contra él, la pena será de un año y seis meses de prisión.
-Artículo reformado DOF 16-07-2025 CAPITULO VIII Falsa Alarma
+Artículo reformado DOF 16-07-2025
+CAPITULO VIII Falsa Alarma
 
 ### Artículo 282
 .- Quien intencionalmente ocasione una falsa alarma, o que en marcha o en campamento, guarnición, cuartel o dependencia cause intencionalmente una confusión o desorden en la tropa y sus equivalentes en la Armada o en las formaciones de los buques, o aeronaves, en las dotaciones o en la población donde las fuerzas estuvieren, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con seis meses de prisión en tiempo de paz;
-II.- Con un año de prisión estando en campaña, y Fracción reformada DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
+I.- Con seis meses de prisión en tiempo de paz;
+II.- Con un año de prisión estando en campaña, y
+Fracción reformada DOF 16-07-2025
 
 III. Con pena de treinta a sesenta años de prisión, si estando frente al enemigo, se hubiere causado daño a las tropas, embarcaciones o aeronaves.
-Fracción reformada DOF 29-06-2005 TITULO NOVENO Delitos contra la jerarquía y la autoridad CAPITULO I Insubordinación
+Fracción reformada DOF 29-06-2005
+TITULO NOVENO Delitos contra la jerarquía y la autoridad CAPITULO I Insubordinación
 
 ### Artículo 283
 .- Comete el delito de insubordinación el militar que con palabras, ademanes, señas, gestos o de cualquier otra manera, falte al respeto o sujeción debidos a un superior que porte sus insignias o a quien conozca o deba conocer.
@@ -2045,17 +2343,26 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 285
 .- La insubordinación en servicio, se sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de un año seis meses de prisión si se hiciere por medio de palabras o ademanes, por escrito o de cualquiera otra manera que no constituya una vía de hecho;
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de un año seis meses de prisión si se hiciere por medio de palabras o ademanes, por escrito o de cualquiera otra manera que no constituya una vía de hecho;
 II.- Con la pena de tres años de prisión si el delito consistiere en alguna amenaza;
-Fracción reformada DOF 16-07-2025 III.- Con cinco años de prisión cuando se llegue a las vías de hecho, pero sin causar lesión;
-Fracción reformada DOF 16-07-2025 IV.- Con seis años de prisión si causare una o varias lesiones que por su naturaleza ordinaria no tarden en curar más de quince días;
-Fracción reformada DOF 16-07-2025 V.- Con siete años de prisión cuando la enfermedad pase de quince días y sea temporal;
-Fracción reformada DOF 16-07-2025 VI.- Con ocho años de prisión cuando quede al ofendido una cicatriz en la cara perpetuamente notable, o se le disminuya la facultad de oír, se le debilite para siempre la vista, o se le entorpezca o debilite permanentemente una mano, un pie, un brazo o una pierna o cualquier otro órgano, el uso de la palabra o alguna de las facultades mentales;
-Fracción reformada DOF 16-07-2025 VII.- Con nueve años de prisión, cuando resulte una enfermedad seguramente incurable, la inutilización completa o la pérdida de un ojo o de la facultad de oír, de un brazo, de una mano, de una pierna, de un pie, o de cualquier otro órgano, o cuando el individuo quede con una deformidad perpetuamente notable en parte visible. Si la deformidad fuere en la cara, se tendrá esta circunstancia como agravante;
-Fracción reformada DOF 16-07-2025 VIII.- Con diez años de prisión cuando resulte incapacidad permanente para trabajar, enajenación mental, pérdida de la vista, o del habla, o de las funciones sexuales, y Fracción reformada DOF 16-07-2025
+Fracción reformada DOF 16-07-2025
+III.- Con cinco años de prisión cuando se llegue a las vías de hecho, pero sin causar lesión;
+Fracción reformada DOF 16-07-2025
+IV.- Con seis años de prisión si causare una o varias lesiones que por su naturaleza ordinaria no tarden en curar más de quince días;
+Fracción reformada DOF 16-07-2025
+V.- Con siete años de prisión cuando la enfermedad pase de quince días y sea temporal;
+Fracción reformada DOF 16-07-2025
+VI.- Con ocho años de prisión cuando quede al ofendido una cicatriz en la cara perpetuamente notable, o se le disminuya la facultad de oír, se le debilite para siempre la vista, o se le entorpezca o debilite permanentemente una mano, un pie, un brazo o una pierna o cualquier otro órgano, el uso de la palabra o alguna de las facultades mentales;
+Fracción reformada DOF 16-07-2025
+VII.- Con nueve años de prisión, cuando resulte una enfermedad seguramente incurable, la inutilización completa o la pérdida de un ojo o de la facultad de oír, de un brazo, de una mano, de una pierna, de un pie, o de cualquier otro órgano, o cuando el individuo quede con una deformidad perpetuamente notable en parte visible. Si la deformidad fuere en la cara, se tendrá esta circunstancia como agravante;
+Fracción reformada DOF 16-07-2025
+VIII.- Con diez años de prisión cuando resulte incapacidad permanente para trabajar, enajenación mental, pérdida de la vista, o del habla, o de las funciones sexuales, y
+Fracción reformada DOF 16-07-2025
 
 IX. Con pena de treinta a sesenta años de prisión cuando se causare la muerte del superior.
-Fracción reformada DOF 29-06-2005 Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones IV a VIII.
+Fracción reformada DOF 29-06-2005
+Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones IV a VIII.
 
 ### Artículo 286
 .- La insubordinación fuera del servicio, cuando se cometa de cualquiera de las maneras previstas en los artículos anteriores, será sancionada con la mitad de las penas que en ellos se establecen, pero si la insubordinación provocara la muerte del superior, se le impondrá pena de treinta a sesenta años de prisión.
@@ -2075,7 +2382,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 290
 .- Quien por violencia o amenaza intentara impedir la ejecución de una orden del servicio dada por un superior u obligar a éste a que la ejecute o a que la dé o se abstenga de darla, será castigado con la pena de diez años de prisión.
-Párrafo reformado DOF 16-07-2025 Si el delito de que se trata en este artículo fuere cometido sobre las armas o delante de la bandera o tropa formada o durante zafarrancho de combate con armas, se impondrá pena de treinta a sesenta años de prisión.
+Párrafo reformado DOF 16-07-2025
+Si el delito de que se trata en este artículo fuere cometido sobre las armas o delante de la bandera o tropa formada o durante zafarrancho de combate con armas, se impondrá pena de treinta a sesenta años de prisión.
 Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 29-06-2005
 
 ### Artículo 291
@@ -2111,20 +2419,28 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 299
 .- Quien infiera alguna lesión al personal subordinado será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con un año de prisión si fuere de las comprendidas en la fracción IV del artículo 285;
+Párrafo reformado DOF 16-07-2025
+I.- Con un año de prisión si fuere de las comprendidas en la fracción IV del artículo 285;
 II.- Con dos años de prisión, si fuere de las clasificadas en la fracción V;
-Fracción reformada DOF 16-07-2025 III.- Con cuatro años de prisión, si fuere de las mencionadas en la fracción VI;
-Fracción reformada DOF 16-07-2025 IV.- Con seis años y seis meses de prisión, si se tratare de las que cita la fracción VII;
-Fracción reformada DOF 16-07-2025 V.- Con ocho años de prisión, si fuere de las expresadas en la fracción VIII;
-Fracción reformada DOF 16-07-2025 VI.- Con diez años y seis meses de prisión, si resultare homicidio simple, y Fracción reformada DOF 16-07-2025
+Fracción reformada DOF 16-07-2025
+III.- Con cuatro años de prisión, si fuere de las mencionadas en la fracción VI;
+Fracción reformada DOF 16-07-2025
+IV.- Con seis años y seis meses de prisión, si se tratare de las que cita la fracción VII;
+Fracción reformada DOF 16-07-2025
+V.- Con ocho años de prisión, si fuere de las expresadas en la fracción VIII;
+Fracción reformada DOF 16-07-2025
+VI.- Con diez años y seis meses de prisión, si resultare homicidio simple, y
+Fracción reformada DOF 16-07-2025
 
 VII. Con pena de treinta a sesenta años de prisión si resultare homicidio calificado.
-Fracción reformada DOF 29-06-2005 Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones I a V.
+Fracción reformada DOF 29-06-2005
+Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones I a V.
 Fe de erratas al párrafo DOF 27-09-1933
 
 ### Artículo 300
 .- Quien indebidamente haga que una fuerza armada le preste auxilio en una riña o pendencia, que por esa causa tome mayores proporciones, se le impondrá la pena de dos años de prisión, sin perjuicio de que, conforme a las reglas generales de aplicación de penas, se le imponga la que corresponda, en virtud de los demás delitos que con esos actos hubiere cometido.
-Artículo reformado DOF 16-07-2025 CAPITULO III Desobediencia
+Artículo reformado DOF 16-07-2025
+CAPITULO III Desobediencia
 
 ### Artículo 301
 .- Comete el delito de desobediencia el personal subordinado que no ejecute o respete una orden del superior, la modifique de propia autoridad o se extralimite al ejecutarla. Lo anterior se entiende salvo el caso de la necesidad impuesta al subalterno, para proceder como fuere conveniente, por circunstancias imprevistas que puedan constituir un peligro justificado, para la fuerza de que dependa o que tuviese a sus órdenes.
@@ -2136,22 +2452,31 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 303
 .- La desobediencia en actos del servicio será sancionada con un año de prisión, excepto en los casos siguientes:
-Párrafo reformado DOF 16-07-2025 I.- Cuando ocasione un mal grave que se sancionará con dos años de prisión;
-Fracción reformada DOF 16-07-2025 II.- Cuando fuere cometida en campaña, que se sancionará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y Fracción reformada DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
+I.- Cuando ocasione un mal grave que se sancionará con dos años de prisión;
+Fracción reformada DOF 16-07-2025
+II.- Cuando fuere cometida en campaña, que se sancionará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y
+Fracción reformada DOF 16-07-2025
 
 III. Cuando se efectúe frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, persiguiéndolo o durante la retirada, se impondrá pena de treinta a sesenta años de prisión.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 304
 .- El personal de la Armada de México que cometa a bordo el delito de desobediencia, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con un año y seis meses de prisión si el barco fuere convoyando buques mercantes que no conduzcan tropas, armas, pertrechos, víveres, o cualquier otro elemento de guerra;
+Párrafo reformado DOF 16-07-2025
+I.- Con un año y seis meses de prisión si el barco fuere convoyando buques mercantes que no conduzcan tropas, armas, pertrechos, víveres, o cualquier otro elemento de guerra;
 II.- Con dos años de prisión si se ocasionare un daño grave, encontrándose el barco en situación peligrosa o convoyando buques mercantes que no conduzcan tropas o cualquiera de los efectos a que se refiere la fracción anterior;
-Fracción reformada DOF 16-07-2025 III.- Con cuatro años de prisión si el daño grave fuere causado a los buques convoyados, y con ocho años de prisión si se perdieren alguno o algunos de éstos por esa causa, y Fracción reformada DOF 16-07-2025 IV.- Con cuatro años de prisión en tiempo de paz y cinco en campaña, si la desobediencia fuere cometida formando parte el barco de una escuadra, y con la de cinco años de prisión, en tiempo de paz y diez en campaña, si de esa desobediencia resultare algún daño a las operaciones navales.
-Fracción reformada DOF 16-07-2025 CAPITULO IV Asonada
+Fracción reformada DOF 16-07-2025
+III.- Con cuatro años de prisión si el daño grave fuere causado a los buques convoyados, y con ocho años de prisión si se perdieren alguno o algunos de éstos por esa causa, y
+Fracción reformada DOF 16-07-2025
+IV.- Con cuatro años de prisión en tiempo de paz y cinco en campaña, si la desobediencia fuere cometida formando parte el barco de una escuadra, y con la de cinco años de prisión, en tiempo de paz y diez en campaña, si de esa desobediencia resultare algún daño a las operaciones navales.
+Fracción reformada DOF 16-07-2025
+CAPITULO IV Asonada
 
 ### Artículo 305
 .- El personal militar que, en grupo de cinco, por lo menos, o sin llegar a ese número cuando forme la mitad o más de una fuerza aislada, rehúse obedecer las órdenes de un superior, las resista o recurra a vías de hecho para impedirlas, serán sancionados:
-Párrafo reformado DOF 16-07-2025 I.- Con diez años de prisión los promovedores, instigadores o cabecillas del delito y con cinco años de prisión, los que hubieren secundado a los anteriores, si el delito se cometiere en tiempo de paz, y
+Párrafo reformado DOF 16-07-2025
+I.- Con diez años de prisión los promovedores, instigadores o cabecillas del delito y con cinco años de prisión, los que hubieren secundado a los anteriores, si el delito se cometiere en tiempo de paz, y
 
 II. Con pena de treinta a sesenta años de prisión, a todos los promovedores, instigadores o cabecillas de la asonada, de cabos en adelante, y con doce años de prisión los soldados, si el delito se cometiere en campaña.
 Fracción reformada DOF 29-06-2005
@@ -2172,7 +2497,8 @@ En este caso, los soldados que justifiquen los extremos del artículo anterior, 
 
 ### Artículo 309
 .- La conspiración para cometer el delito de asonada, se sancionará con un año de prisión en tiempo de paz y con tres años de prisión, en campaña.
-Artículo reformado DOF 16-07-2025 TITULO DECIMO Delitos cometidos en ejercicio de las funciones militares o con motivo de ellas CAPITULO I Abandono de servicio
+Artículo reformado DOF 16-07-2025
+TITULO DECIMO Delitos cometidos en ejercicio de las funciones militares o con motivo de ellas CAPITULO I Abandono de servicio
 
 ### Artículo 310
 .- El delito de abandono de comisión o de puesto, consiste en la separación del lugar o punto, en el que conforme a disposición legal o por orden superior se debe permanecer, para desempeñar las funciones del encargo recibido.
@@ -2180,25 +2506,35 @@ El de abandono de mando, consiste en la abstención para tomar el que por ley u 
 
 ### Artículo 311
 .- El personal de oficiales que cometan el delito de abandono en tiempo de paz, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de dos años de prisión el que abandone un servicio de armas y con un año de prisión si el servicio no fuere de armas;
-II.- Con tres años de prisión el que abandone la custodia o la escolta de prisioneros, detenidos o presos. Al comandante de la escolta se le impondrá la pena de cuatro años de prisión, y Fracción reformada DOF 16-07-2025 III.- Con cuatro años y seis meses de prisión al que abandone la guardia o una escolta de municiones. Al comandante de la guardia o de la escolta se le aplicará la pena de seis años de prisión.
-Fracción reformada DOF 16-07-2025 Las penas señaladas se aumentarán con un año de prisión, si el delito se cometiere en campaña; si se cometiere frente al enemigo la pena será de treinta a sesenta años de prisión.
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de dos años de prisión el que abandone un servicio de armas y con un año de prisión si el servicio no fuere de armas;
+II.- Con tres años de prisión el que abandone la custodia o la escolta de prisioneros, detenidos o presos. Al comandante de la escolta se le impondrá la pena de cuatro años de prisión, y
+Fracción reformada DOF 16-07-2025
+III.- Con cuatro años y seis meses de prisión al que abandone la guardia o una escolta de municiones. Al comandante de la guardia o de la escolta se le aplicará la pena de seis años de prisión.
+Fracción reformada DOF 16-07-2025
+Las penas señaladas se aumentarán con un año de prisión, si el delito se cometiere en campaña; si se cometiere frente al enemigo la pena será de treinta a sesenta años de prisión.
 Párrafo reformado DOF 29-06-2005
 
 ### Artículo 312
 .- El abandono de puesto se sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de doce años de prisión cuando el comandante de un buque o encargado de un puesto, defendiéndose en cualquiera de ellos, lo abandone o pierda, sin haber hecho todo lo posible para conservarlo y mantener el honor de las armas;
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de doce años de prisión cuando el comandante de un buque o encargado de un puesto, defendiéndose en cualquiera de ellos, lo abandone o pierda, sin haber hecho todo lo posible para conservarlo y mantener el honor de las armas;
 
-II. Con pena de treinta a sesenta años de prisión, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y Fracción reformada DOF 29-06-2005
+II. Con pena de treinta a sesenta años de prisión, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y
+Fracción reformada DOF 29-06-2005
 
 III. Con pena de treinta a sesenta años de prisión, cuando el militar abandone el puesto que tuviere señalado para defenderlo o para observar al enemigo.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 313
 .- El personal de tropa que cometa el delito de abandono en tiempo de paz, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de dos años de prisión si abandonaren la custodia o escolta de prisioneros, detenidos o presos. Al comandante de la escolta se le impondrá la pena de tres años de prisión;
-II.- Con tres años de prisión el que abandone la guardia o la escolta de municiones. Al comandante de la guardia o escolta se le aplicará la pena de cuatro años y seis meses de prisión, y Fracción reformada DOF 16-07-2025 III.- Con cuatro años y seis meses de prisión al que abandone el puesto de centinela.
-Fracción reformada DOF 16-07-2025 Las penas señaladas se aumentarán en un año de prisión, cuando el delito se cometa en campaña; si se efectuare frente al enemigo, se impondrá pena de treinta a sesenta años de prisión.
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de dos años de prisión si abandonaren la custodia o escolta de prisioneros, detenidos o presos. Al comandante de la escolta se le impondrá la pena de tres años de prisión;
+II.- Con tres años de prisión el que abandone la guardia o la escolta de municiones. Al comandante de la guardia o escolta se le aplicará la pena de cuatro años y seis meses de prisión, y
+Fracción reformada DOF 16-07-2025
+III.- Con cuatro años y seis meses de prisión al que abandone el puesto de centinela.
+Fracción reformada DOF 16-07-2025
+Las penas señaladas se aumentarán en un año de prisión, cuando el delito se cometa en campaña; si se efectuare frente al enemigo, se impondrá pena de treinta a sesenta años de prisión.
 Párrafo reformado DOF 29-06-2005
 
 ### Artículo 314
@@ -2219,12 +2555,17 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 318
 .- El personal de la Armada de México que abandone su buque, sin motivo legítimo para ello o sin permiso de sus superiores, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con dos meses de prisión si el buque estuviere anclado en un puerto de la República o en aguas territoriales de ella;
+Párrafo reformado DOF 16-07-2025
+I.- Con dos meses de prisión si el buque estuviere anclado en un puerto de la República o en aguas territoriales de ella;
 II.- Con tres meses de prisión, si el buque estuviere anclado en puerto extranjero o en aguas territoriales de potencia amiga o neutral;
-Fracción reformada DOF 16-07-2025 III.- Con la pena de un año y seis meses de prisión en los casos de las dos fracciones anteriores, si el abandono se efectúa en campaña. Al comandante de buque, si fuere el delincuente, se le impondrá además la pena de suspensión de empleo o comisión por cinco años;
-Fracción reformada DOF 16-07-2025 IV.- Con diez años de prisión si el abandono se realiza a la vista del enemigo;
-Fracción reformada DOF 16-07-2025 V.- Con seis años de prisión cuando el abandono se cometa en ocasión de peligro para la seguridad del buque y en tiempo de paz; en tiempo de guerra, se le impondrá la pena de doce años de prisión;
-Fracción reformada DOF 16-07-2025 VI.- Con la pena de treinta a sesenta años de prisión al personal de oficiales y de doce años de prisión a los marineros, si el abandono se comete cuando el buque esté varado o acosado por el enemigo y su comandante hubiere dispuesto salvarlo o defenderlo.
+Fracción reformada DOF 16-07-2025
+III.- Con la pena de un año y seis meses de prisión en los casos de las dos fracciones anteriores, si el abandono se efectúa en campaña. Al comandante de buque, si fuere el delincuente, se le impondrá además la pena de suspensión de empleo o comisión por cinco años;
+Fracción reformada DOF 16-07-2025
+IV.- Con diez años de prisión si el abandono se realiza a la vista del enemigo;
+Fracción reformada DOF 16-07-2025
+V.- Con seis años de prisión cuando el abandono se cometa en ocasión de peligro para la seguridad del buque y en tiempo de paz; en tiempo de guerra, se le impondrá la pena de doce años de prisión;
+Fracción reformada DOF 16-07-2025
+VI.- Con la pena de treinta a sesenta años de prisión al personal de oficiales y de doce años de prisión a los marineros, si el abandono se comete cuando el buque esté varado o acosado por el enemigo y su comandante hubiere dispuesto salvarlo o defenderlo.
 Fracción reformada DOF 29-06-2005, 16-07-2025
 
 ### Artículo 319
@@ -2233,7 +2574,10 @@ Párrafo reformado DOF 16-07-2025
 
 I. De treinta a sesenta años de prisión, si el escoltado fuere buque de la armada o convoy o buque mercante que transporte tropas, efectos militares, víveres, combustible, pertrechos de guerra o caudales del Estado, y si por el abandono fueren apresados o destruidos por el enemigo, alguno o todos los buques;
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 29-06-2005 II.- De diez años de prisión si no fuere apresado ni destruido por el enemigo ningún buque de los convoyados, o si no transportare tropas ni efectos de los que expresa la fracción anterior;
-Fracción reformada DOF 16-07-2025 III.- De once años de prisión, si por el abandono resultare naufragio, y la pérdida de toda o parte de la tripulación, tropas o efectos, y Fracción reformada DOF 16-07-2025 IV.- De siete meses de prisión y destitución de empleo, en todos los demás casos.
+Fracción reformada DOF 16-07-2025
+III.- De once años de prisión, si por el abandono resultare naufragio, y la pérdida de toda o parte de la tripulación, tropas o efectos, y
+Fracción reformada DOF 16-07-2025
+IV.- De siete meses de prisión y destitución de empleo, en todos los demás casos.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 320
@@ -2245,23 +2589,32 @@ Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 29-06-2005
 
 ### Artículo 322
 .- El personal de la Armada de México que formando parte de la tripulación de un bote, abandone éste sin permiso del superior, será sancionado con prisión de dos meses.
-Artículo reformado DOF 16-07-2025 CAPITULO II Extralimitación y usurpación de mando o comisión
+Artículo reformado DOF 16-07-2025
+CAPITULO II Extralimitación y usurpación de mando o comisión
 
 ### Artículo 323
 .- Quien indebidamente asuma o retenga un mando o comisión del servicio o ejerza funciones de éste que no le correspondan, será sancionado:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de tres años y seis meses de prisión, si no se ocasionare perjuicio grave en el servicio;
-II.- Con la pena de siete años de prisión si causa perjuicio grave, y Fracción reformada DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de tres años y seis meses de prisión, si no se ocasionare perjuicio grave en el servicio;
+II.- Con la pena de siete años de prisión si causa perjuicio grave, y
+Fracción reformada DOF 16-07-2025
 
 III. Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
-Fracción reformada DOF 29-06-2005 CAPITULO III Maltrato a prisioneros, detenidos o presos y heridos
+Fracción reformada DOF 29-06-2005
+CAPITULO III Maltrato a prisioneros, detenidos o presos y heridos
 
 ### Artículo 324
 .- Las violencias contra los prisioneros, detenidos, presos o heridos o algún miembro de su familia, que estuviese en unión o en presencia de ellos, se sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Con seis meses de prisión cuando el maltrato sea de palabra;
+Párrafo reformado DOF 16-07-2025
+I.- Con seis meses de prisión cuando el maltrato sea de palabra;
 II.- Con la pena que corresponda a la lesión causada, cuando el maltrato sea de obra, teniéndose como circunstancia agravante la condición del ofendido;
-Fracción reformada DOF 16-07-2025 III.- Con dos años de prisión, si el maltrato no causa lesión, pero implica padecimientos físicos y crueles, o priva al herido, prisionero, detenido o preso, de la curación o del alimento necesarios;
-Fracción reformada DOF 16-07-2025 IV.- Con seis años de prisión, cuando al prisionero, detenido o preso que se fugue o intente fugarse, se le haga fuego, hiriéndolo, sin que haya habido necesidad absolutamente indispensable para usar de ese recurso extremo. Si resultare la muerte del ofendido se impondrá la pena de quince años de prisión;
-Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 V.- Con dos años de prisión cuando se obligue al prisionero a combatir contra su bandera, y Fracción reformada DOF 16-07-2025 VI.- Con un año de prisión cuando se despoje de sus vestidos u otros objetos, al herido, prisionero, detenido o preso, para apropiárselos.
+Fracción reformada DOF 16-07-2025
+III.- Con dos años de prisión, si el maltrato no causa lesión, pero implica padecimientos físicos y crueles, o priva al herido, prisionero, detenido o preso, de la curación o del alimento necesarios;
+Fracción reformada DOF 16-07-2025
+IV.- Con seis años de prisión, cuando al prisionero, detenido o preso que se fugue o intente fugarse, se le haga fuego, hiriéndolo, sin que haya habido necesidad absolutamente indispensable para usar de ese recurso extremo. Si resultare la muerte del ofendido se impondrá la pena de quince años de prisión;
+Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 V.- Con dos años de prisión cuando se obligue al prisionero a combatir contra su bandera, y
+Fracción reformada DOF 16-07-2025
+VI.- Con un año de prisión cuando se despoje de sus vestidos u otros objetos, al herido, prisionero, detenido o preso, para apropiárselos.
 CAPITULO IV Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
 
 ### Artículo 325
@@ -2299,7 +2652,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 334
 .- Quien, sin exigirlo las operaciones militares, y valiéndose de su propia autoridad o de la fuerza armada, destruyere maliciosa y arbitrariamente los víveres, mercancías u otros objetos de propiedad ajena, será sancionado con prisión de tres años.
-Párrafo reformado DOF 16-07-2025 En caso de devastación de fincas, plantíos, sembrados, bosques o vías de comunicación pública, o saqueo de pueblos y caseríos, la pena será la de siete años de prisión.
+Párrafo reformado DOF 16-07-2025
+En caso de devastación de fincas, plantíos, sembrados, bosques o vías de comunicación pública, o saqueo de pueblos y caseríos, la pena será la de siete años de prisión.
 
 ### Artículo 335
 .- Quien yendo en marcha con una fuerza se apodere, sin autorización, de objetos de propiedad particular, será sancionado con las penas de tres años de prisión y destitución.
@@ -2307,7 +2661,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 336
 .- Se impondrán las penas de dos años de prisión y destitución:
-Párrafo reformado DOF 16-07-2025 I.- A quien se apodere indebidamente, de objetos pertenecientes al botín de guerra o presas marítimas, y II.- Quien sin necesidad apremiante abra las escotillas, rompa los sellos que las aseguren o disponga de objetos o útiles que pertenezcan a las presas, y al que destruya o altere los roles, conocimientos, facturas y demás documentos que amparen la carga que transporte la referida presa.
+Párrafo reformado DOF 16-07-2025
+I.- A quien se apodere indebidamente, de objetos pertenecientes al botín de guerra o presas marítimas, y II.- Quien sin necesidad apremiante abra las escotillas, rompa los sellos que las aseguren o disponga de objetos o útiles que pertenezcan a las presas, y al que destruya o altere los roles, conocimientos, facturas y demás documentos que amparen la carga que transporte la referida presa.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 337
@@ -2316,19 +2671,26 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 337
 Bis. Las conductas descritas en los capítulos III y IV de este Título sólo serán consideradas como delitos contra la disciplina militar cuando se cometan en campaña. Fuera de este supuesto, las conductas que resulten en delitos del orden común o federal serán juzgados por tribunales federales ordinarios.
-Artículo adicionado DOF 13-06-2014 TITULO DECIMOPRIMERO Delitos contra el deber y decoro militares CAPITULO I Infracción de deberes comunes a todos los que están obligados a servir en la Fuerza Armada Permanente Denominación del Capítulo reformada DOF 16-07-2025
+Artículo adicionado DOF 13-06-2014
+TITULO DECIMOPRIMERO Delitos contra el deber y decoro militares CAPITULO I Infracción de deberes comunes a todos los que están obligados a servir en la Fuerza Armada Permanente
+Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 338
 .- Quien revele un asunto que se le hubiere confiado como del servicio, y que por su propia naturaleza o por circunstancias especiales deba tener el carácter de reservado, o sobre el cual se le tuviere prevenido reserva, o que encargado de llevar una orden por escrito u otra comunicación recomendadas especialmente a su vigilancia, las extravíe por no haber cuidado escrupulosamente de ellas, o no las entregue a la persona a quien fueren dirigidas o no intentare destruirlas de cualquier modo y a cualquiera costa cuando estuviere en peligro de caer prisionero o ser sorprendido, se le sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Si se hubiere cometido en tiempo de paz, con la pena de dos años de prisión; en el caso de revelación de asuntos militares y en el de extravío o falta de entrega de una orden o comunicación, con la de tres meses de prisión, y Fe de erratas a la fracción DOF 27-09-1933
+Párrafo reformado DOF 16-07-2025
+I.- Si se hubiere cometido en tiempo de paz, con la pena de dos años de prisión; en el caso de revelación de asuntos militares y en el de extravío o falta de entrega de una orden o comunicación, con la de tres meses de prisión, y Fe de erratas a la fracción DOF 27-09-1933
 
 II. Si el delito se hubiere efectuado en campaña y con este motivo hubiere resultado grave daño al Ejército, a una parte de él, a un buque o aeronave, con pena de treinta a sesenta años de prisión.
-Fracción reformada DOF 29-06-2005 Si no hubiere resultado grave daño, con la de cuatro años de prisión.
+Fracción reformada DOF 29-06-2005
+Si no hubiere resultado grave daño, con la de cuatro años de prisión.
 
 ### Artículo 339
 .- Quienes deliberen en grupo sobre actos de un superior, en términos que exciten a la desobediencia, o a la falta de respeto hacia él, serán sancionados:
-Párrafo reformado DOF 16-07-2025 I.- Con un año de prisión en tiempo de paz;
-II.- Con dos años de prisión estando en campaña, y Fracción reformada DOF 16-07-2025 III.- Con diez años de prisión estando frente al enemigo, o esperándolo a la defensiva, marchando a encontrarlo, bajo la persecución o durante la retirada.
+Párrafo reformado DOF 16-07-2025
+I.- Con un año de prisión en tiempo de paz;
+II.- Con dos años de prisión estando en campaña, y
+Fracción reformada DOF 16-07-2025
+III.- Con diez años de prisión estando frente al enemigo, o esperándolo a la defensiva, marchando a encontrarlo, bajo la persecución o durante la retirada.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 340
@@ -2341,19 +2703,30 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 342
 .- Quienes eleven o hagan llegar a sus superiores, por escrito o de palabra, recursos, peticiones, quejas o reclamaciones sobre asuntos relativos al servicio, o a la posición militar o de interés personal de los recurrentes, serán sancionados:
-Párrafo reformado DOF 16-07-2025 I.- Si lo hicieren con fundamento de datos o aseveraciones falsas, con la pena de once meses de prisión;
-II.- Si lo hicieren en voz de cuerpo, ya sea uno en representación de otros, o dos o más reunidos, con la de cuatro meses de prisión, y Fracción reformada DOF 16-07-2025 III.- Si lo hicieren salvando conductos, siempre que esto no fuere necesario o permitido por la misma ley, con dieciséis días de prisión.
-Fracción reformada DOF 16-07-2025 Las penas señaladas en este artículo serán aplicables también, en sus respectivos casos, al superior que conociendo la falsedad de los fundamentos en que se apoye una queja o petición, oculte la verdad al darle curso o al informar acerca de ella, o que diere curso a cualquiera de las instancias a que se refieren las fracciones II y III.
+Párrafo reformado DOF 16-07-2025
+I.- Si lo hicieren con fundamento de datos o aseveraciones falsas, con la pena de once meses de prisión;
+II.- Si lo hicieren en voz de cuerpo, ya sea uno en representación de otros, o dos o más reunidos, con la de cuatro meses de prisión, y
+Fracción reformada DOF 16-07-2025
+III.- Si lo hicieren salvando conductos, siempre que esto no fuere necesario o permitido por la misma ley, con dieciséis días de prisión.
+Fracción reformada DOF 16-07-2025
+Las penas señaladas en este artículo serán aplicables también, en sus respectivos casos, al superior que conociendo la falsedad de los fundamentos en que se apoye una queja o petición, oculte la verdad al darle curso o al informar acerca de ella, o que diere curso a cualquiera de las instancias a que se refieren las fracciones II y III.
 
 ### Artículo 343
 .- Será sancionado con la pena de dos años de prisión:
-Párrafo reformado DOF 16-07-2025 I.- Quien sobre cualquier asunto del servicio dé a sus superiores, por escrito o de palabra, informe o parte contrario a lo que sepa;
-Párrafo reformado DOF 16-07-2025 Si del parte falso resultare grave perjuicio a la tropa o embarcación, se aplicará el doble de la pena.
+Párrafo reformado DOF 16-07-2025
+I.- Quien sobre cualquier asunto del servicio dé a sus superiores, por escrito o de palabra, informe o parte contrario a lo que sepa;
+Párrafo reformado DOF 16-07-2025
+Si del parte falso resultare grave perjuicio a la tropa o embarcación, se aplicará el doble de la pena.
 Queda excluido de esta prevención, el caso previsto en la fracción XVI del artículo 203;
 II.- Quien interrogado por el superior sobre asuntos del servicio o puntos relacionados con él, oculte a sabiendas la verdad;
-Fracción reformada DOF 16-07-2025 III.- Quien expida certificado o suscriba cualquier otro documento con objeto de comprobar servicios militares, antigüedad de ellos, campañas o acciones de guerra, alcances u otros créditos y en general hechos relativos al servicio, sabiendo que es falso lo que certifica, refiere o asegura;
-Fracción reformada DOF 16-07-2025 IV.- La persona interesada que presente dichos documentos o certificados falsos, ante los tribunales u oficinas militares;
-Fracción reformada DOF 16-07-2025 V.- Quien en el ejercicio de sus funciones, y con objeto de favorecer a algún individuo del Ejército, certifique con falsedad la existencia de males o enfermedades, encubra u oculte éstos, y Fracción reformada DOF 16-07-2025 VI.- Quien sustraiga dolosamente, oculte o destruya expedientes o documentos o parte de ellos, correspondientes a oficinas militares.
+Fracción reformada DOF 16-07-2025
+III.- Quien expida certificado o suscriba cualquier otro documento con objeto de comprobar servicios militares, antigüedad de ellos, campañas o acciones de guerra, alcances u otros créditos y en general hechos relativos al servicio, sabiendo que es falso lo que certifica, refiere o asegura;
+Fracción reformada DOF 16-07-2025
+IV.- La persona interesada que presente dichos documentos o certificados falsos, ante los tribunales u oficinas militares;
+Fracción reformada DOF 16-07-2025
+V.- Quien en el ejercicio de sus funciones, y con objeto de favorecer a algún individuo del Ejército, certifique con falsedad la existencia de males o enfermedades, encubra u oculte éstos, y
+Fracción reformada DOF 16-07-2025
+VI.- Quien sustraiga dolosamente, oculte o destruya expedientes o documentos o parte de ellos, correspondientes a oficinas militares.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 344
@@ -2389,18 +2762,25 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 351
 .- Quien para asuntos del servicio o con motivo de él hiciere uso del nombre de un superior sin autorización de éste y sin causa justificada ni extrema necesidad para obrar de esa manera, será sancionado con la pena de un año y seis meses de prisión.
-Artículo reformado DOF 16-07-2025 CAPITULO II Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
+Artículo reformado DOF 16-07-2025
+CAPITULO II Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
 
 ### Artículo 352
 .- A la persona militar que realice el servicio de centinela que se le encuentre con cualquiera perturbación transitoria de las facultades mentales procurada voluntariamente, se le sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Con tres meses de prisión en tiempo de paz;
-II.- Con nueve meses de prisión, en campaña, y Fracción reformada DOF 16-07-2025 III.- Con tres años y seis meses de prisión, frente al enemigo.
-Fracción reformada DOF 16-07-2025 Si se le encuentra dormido sin la perturbación a que antes se hace referencia, se le impondrá la mitad de las penas señaladas.
+Párrafo reformado DOF 16-07-2025
+I.- Con tres meses de prisión en tiempo de paz;
+II.- Con nueve meses de prisión, en campaña, y
+Fracción reformada DOF 16-07-2025
+III.- Con tres años y seis meses de prisión, frente al enemigo.
+Fracción reformada DOF 16-07-2025
+Si se le encuentra dormido sin la perturbación a que antes se hace referencia, se le impondrá la mitad de las penas señaladas.
 
 ### Artículo 353
 .- A la persona militar que realice el servicio de vigilante, serviola, tope o timonel de cuarto, que se hallare con alguna perturbación transitoria de sus facultades mentales procurada voluntariamente, incurrirá en la pena:
-Párrafo reformado DOF 16-07-2025 I.- De ocho meses de prisión en campaña de guerra; de tres años de prisión si el buque sufriere averías graves, y de cuatro años y seis meses de prisión, si se ocasionare la pérdida del barco, y Fe de erratas a la fracción DOF 27-09-1933 II.- De seis años de prisión frente al enemigo; de nueve años de prisión si se produjeren averías graves en el buque, y de once años y seis meses de prisión si se pierde el barco.
-Fracción reformada DOF 16-07-2025 Si se encuentra dormido sin la perturbación que antes se menciona, sufrirá la mitad de las penas señaladas.
+Párrafo reformado DOF 16-07-2025
+I.- De ocho meses de prisión en campaña de guerra; de tres años de prisión si el buque sufriere averías graves, y de cuatro años y seis meses de prisión, si se ocasionare la pérdida del barco, y Fe de erratas a la fracción DOF 27-09-1933 II.- De seis años de prisión frente al enemigo; de nueve años de prisión si se produjeren averías graves en el buque, y de once años y seis meses de prisión si se pierde el barco.
+Fracción reformada DOF 16-07-2025
+Si se encuentra dormido sin la perturbación que antes se menciona, sufrirá la mitad de las penas señaladas.
 
 ### Artículo 354
 .- A la persona militar que realice el servicio de centinela, vigilante, serviola o tope que no esté en su puesto con suma vigilancia o deje de cumplir cualquiera de los demás deberes que expresamente le imponen las leyes o los reglamentos, y cuya infracción no esté especialmente prevista en este Capítulo, se le impondrá la pena de dos meses de prisión.
@@ -2408,8 +2788,11 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 355
 .- A la persona militar que realice el servicio de centinela, vigilante, serviola o tope que no dé aviso de las novedades que advierta o no cumpla o ejecute exactamente la consigna que se le haya dado, o que fuera del caso previsto en la fracción XI del artículo 203, la revele, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de seis años de prisión, si estuviere frente al enemigo;
-II.- Con la de cuatro años de prisión, si estuviere en campaña; pero no frente al enemigo, y Fracción reformada DOF 16-07-2025 III.- Con prisión de cinco meses, en los demás casos del servicio ordinario.
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de seis años de prisión, si estuviere frente al enemigo;
+II.- Con la de cuatro años de prisión, si estuviere en campaña; pero no frente al enemigo, y
+Fracción reformada DOF 16-07-2025
+III.- Con prisión de cinco meses, en los demás casos del servicio ordinario.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 356
@@ -2422,7 +2805,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 358
 .- A la persona militar que realice el servicio de centinela, vigilante, serviola o tope, que no diere aviso oportuno de la proximidad de una embarcación que se dirija al buque donde aquél desempeñe su servicio, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- En tiempo de paz, con dos meses de prisión;
+Párrafo reformado DOF 16-07-2025
+I.- En tiempo de paz, con dos meses de prisión;
 II.- En campaña de guerra, con un año y seis meses de prisión, y Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 III.- Al frente del enemigo, con la pena de siete años de prisión, y si resultare perjuicio al barco o a las operaciones de guerra, con la de ocho años.
 Fracción reformada DOF 16-07-2025
 
@@ -2440,9 +2824,12 @@ Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 16-07-2025 CAPITULO III
 
 ### Artículo 362
 .- Será sancionada con pena de treinta a sesenta años de prisión:
-Párrafo reformado DOF 29-06-2005, 16-07-2025 I.- La persona comandante u oficial de guardia que deliberadamente perdiere su buque;
-Fracción reformada DOF 16-07-2025 II.- La persona integrante de la Armada que causare daño en buque del Estado, o a su servicio, con propósito de ocasionar su pérdida o impedir la expedición a que estuviere destinado, estando el buque empeñado en combate, o en situación peligrosa para su seguridad;
-Párrafo reformado DOF 16-07-2025 Si el buque no estuviere en esa situación y se realizase su pérdida o se impidiese la expedición, la pena será de trece años de prisión, y de diez años en cualquier otro caso, y III.- La persona integrante de la Armada que rehusare situarse o permanecer en el punto que se le hubiere señalado en el combate o que se ocultare o volviere la espalda al enemigo durante aquél.
+Párrafo reformado DOF 29-06-2005, 16-07-2025
+I.- La persona comandante u oficial de guardia que deliberadamente perdiere su buque;
+Fracción reformada DOF 16-07-2025
+II.- La persona integrante de la Armada que causare daño en buque del Estado, o a su servicio, con propósito de ocasionar su pérdida o impedir la expedición a que estuviere destinado, estando el buque empeñado en combate, o en situación peligrosa para su seguridad;
+Párrafo reformado DOF 16-07-2025
+Si el buque no estuviere en esa situación y se realizase su pérdida o se impidiese la expedición, la pena será de trece años de prisión, y de diez años en cualquier otro caso, y III.- La persona integrante de la Armada que rehusare situarse o permanecer en el punto que se le hubiere señalado en el combate o que se ocultare o volviere la espalda al enemigo durante aquél.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 363
@@ -2453,20 +2840,25 @@ Artículo reformado DOF 29-06-2005, 16-07-2025
 .- La persona comandante de buque subordinado o cualquier oficial que se separe maliciosamente con su embarcación del grupo, escuadra o división a que pertenezca, será sancionada:
 Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 16-07-2025 I.- Con destitución o suspensión de empleo o comisión por cinco años en tiempo de paz, si no resultare algún daño al grupo, escuadra o división o a sus tripulantes; en caso contrario se impondrá la pena de seis años de prisión;
 Fe de erratas a la fracción DOF 27-09-1933 II.- Con siete años de prisión, en campaña de guerra;
-Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 III.- Con trece años de prisión, frente al enemigo, y Fracción reformada DOF 16-07-2025
+Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 III.- Con trece años de prisión, frente al enemigo, y
+Fracción reformada DOF 16-07-2025
 
 IV. Con pena de treinta a sesenta años de prisión cuando en los casos de estas dos últimas fracciones resultare algún daño al grupo, escuadra o división o a sus tripulantes, o si se ocasionare la pérdida del combate.
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 29-06-2005
 
 ### Artículo 365
 .- Quien sin motivo justificado variare o mandare variar el rumbo dado por el comandante, será sancionado con la pena:
-Párrafo reformado DOF 16-07-2025 I.- De trece años de prisión si se perdiere el buque, o en campaña de guerra se malograse la expedición o se retardase con grave perjuicio del servicio;
-Fe de erratas a la fracción DOF 27-09-1933 II.- De nueve años de prisión si en tiempo de paz se malograse la expedición o se retardase con grave perjuicio del servicio, y Fracción reformada DOF 16-07-2025 III.- De tres años de prisión en cualquier otro caso.
+Párrafo reformado DOF 16-07-2025
+I.- De trece años de prisión si se perdiere el buque, o en campaña de guerra se malograse la expedición o se retardase con grave perjuicio del servicio;
+Fe de erratas a la fracción DOF 27-09-1933 II.- De nueve años de prisión si en tiempo de paz se malograse la expedición o se retardase con grave perjuicio del servicio, y
+Fracción reformada DOF 16-07-2025
+III.- De tres años de prisión en cualquier otro caso.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 366
 .- La persona integrante de la Armada que por negligencia diere lugar a que sean conocidas la seña o contraseña o las señales secretas de reconocimiento, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- En campaña de guerra u ocasionándose perjuicio, con la pena de siete años de prisión, y Fe de erratas a la fracción DOF 27-09-1933 II.- En cualquier otro caso, con la pena de suspensión de empleo o comisión, por un año, siendo oficial y no siéndolo, con la de seis meses de prisión.
+Párrafo reformado DOF 16-07-2025
+I.- En campaña de guerra u ocasionándose perjuicio, con la pena de siete años de prisión, y Fe de erratas a la fracción DOF 27-09-1933 II.- En cualquier otro caso, con la pena de suspensión de empleo o comisión, por un año, siendo oficial y no siéndolo, con la de seis meses de prisión.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 367
@@ -2484,19 +2876,24 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 370
 .- La persona integrante de la Armada que sin la debida autorización introduzca o permita introducir luces o materiales inflamables en pañoles o almacenes que contengan efectos de fácil combustión, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- Con un año y seis meses de prisión, si el culpable fuese el centinela, vigilante, pañolero o encargado de almacén, y II.- Con nueve meses de prisión si el culpable no fuese de los expresados en la fracción anterior.
+Párrafo reformado DOF 16-07-2025
+I.- Con un año y seis meses de prisión, si el culpable fuese el centinela, vigilante, pañolero o encargado de almacén, y II.- Con nueve meses de prisión si el culpable no fuese de los expresados en la fracción anterior.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 371
 .- La persona integrante de la Armada o tropa que, prestando servicio de armas o marinero, no siendo de centinela, vigilante, tope o serviola, se hallare dormido, sin autorización, ebrio, o con cualquiera perturbación transitoria de las facultades mentales, procurada voluntariamente, será sancionada con la pena de:
-Párrafo reformado DOF 16-07-2025 I.- Un año de prisión, si el hecho ocurriese al frente o proximidad del enemigo;
+Párrafo reformado DOF 16-07-2025
+I.- Un año de prisión, si el hecho ocurriese al frente o proximidad del enemigo;
 II.- Seis meses de prisión si el hecho se efectuare en campaña de guerra o en tiempo de paz, si hubiere peligro para la seguridad del buque, y Fe de erratas a la fracción DOF 27-09-1933 III.- Cuatro meses de prisión en los demás casos.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 372
 .- La persona que desempeñe el servicio de oficial de guardia que se durmiere, embriagare o se procure voluntariamente cualquiera perturbación transitoria de sus facultades mentales, o se ocupare en cualquiera distracción que lo separe de la constante vigilancia que debe observar en su servicio, conforme a la Ordenanza sufrirá la pena:
-Párrafo reformado DOF 16-07-2025 I.- De nueve años de prisión, si por esta causa se perdiere el buque por apresamiento, varada o naufragio, o se causare el naufragio de otro, por abordaje o se verificare el hecho al frente del enemigo;
-II.- De tres años y seis meses de prisión, si por esta causa sin perderse el buque, se ocasionaren en él averías graves o se causaren a otro buque por abordaje, o se perdiere el puesto, y Fracción reformada DOF 16-07-2025 III.- De cuatro meses de prisión, en cualquier otro caso.
+Párrafo reformado DOF 16-07-2025
+I.- De nueve años de prisión, si por esta causa se perdiere el buque por apresamiento, varada o naufragio, o se causare el naufragio de otro, por abordaje o se verificare el hecho al frente del enemigo;
+II.- De tres años y seis meses de prisión, si por esta causa sin perderse el buque, se ocasionaren en él averías graves o se causaren a otro buque por abordaje, o se perdiere el puesto, y
+Fracción reformada DOF 16-07-2025
+III.- De cuatro meses de prisión, en cualquier otro caso.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 373
@@ -2509,7 +2906,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 375
 .- Será sancionado con la pena de un año de prisión, quien en cualquiera otra forma faltare a los deberes referentes al servicio de guardia de mar o puerto, si no resultare daño o pérdida de embarcación.
-Párrafo reformado DOF 16-07-2025 Si resultare daño o pérdida, la pena será de cuatro años de prisión.
+Párrafo reformado DOF 16-07-2025
+Si resultare daño o pérdida, la pena será de cuatro años de prisión.
 CAPITULO IV Infracción de deberes especiales de aviadores
 
 ### Artículo 376
@@ -2523,12 +2921,14 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 378
 .- La persona aviadora que sin motivo justificado, según dictamen de peritos, variare o mandare variar el rumbo que se le haya señalado, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- Con la pena de diez años de prisión si se destruyese la aeronave, o en campaña se malograsen las operaciones o se retardasen con grave perjuicio para el servicio, y II.- Con la de tres años de prisión si el hecho tuviere lugar en tiempo de paz.
+Párrafo reformado DOF 16-07-2025
+I.- Con la pena de diez años de prisión si se destruyese la aeronave, o en campaña se malograsen las operaciones o se retardasen con grave perjuicio para el servicio, y II.- Con la de tres años de prisión si el hecho tuviere lugar en tiempo de paz.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 379
 .- La persona aviadora que por descuido o negligencia diere lugar a que sean conocidas la seña y contraseña o las señales secretas de reconocimiento, será sancionada:
-Párrafo reformado DOF 16-07-2025 I.- En campaña u ocasionándose perjuicio, con la pena de siete años de prisión, y II.- En cualquiera otro caso, con la pena de suspensión de empleo por un año.
+Párrafo reformado DOF 16-07-2025
+I.- En campaña u ocasionándose perjuicio, con la pena de siete años de prisión, y II.- En cualquiera otro caso, con la pena de suspensión de empleo por un año.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 380
@@ -2538,7 +2938,8 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 381
 .- Se sancionará con nueve meses de prisión, a la persona aviadora:
 I.- Que en tiempo de paz, habiendo recibido órdenes de salida, incumpla con la hora fijada, o que no llegue al lugar de su destino, en el tiempo regularmente calculado, sin motivo justificado, y II.- Que cometa cualquiera otra infracción grave a los reglamentos del arma, no prevista en este Capítulo.
-Artículo reformado DOF 16-07-2025 CAPITULO V Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
+Artículo reformado DOF 16-07-2025
+CAPITULO V Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
 
 ### Artículo 382
 .- Quien infrinja alguno de los deberes que le corresponden, según su comisión o empleo, o deje de cumplirlo sin causa justificada, y el hecho u omisión no constituyere un delito especialmente previsto por este Código, será sancionado con la pena de un año de prisión. Cuando la infracción sea debida a torpeza o descuido, la pena será de cuatro meses de prisión.
@@ -2554,7 +2955,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 385
 .- Si de la infracción resultare la derrota de las tropas, o la pérdida de un buque o aeronave, estando en campaña, la pena será de treinta a sesenta años de prisión.
-Artículo reformado DOF 29-06-2005 CAPITULO VI Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
+Artículo reformado DOF 29-06-2005
+CAPITULO VI Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
 
 ### Artículo 386
 .- La persona prisionera que vuelva a tomar las armas en contra de la Nación, después de haberse comprometido bajo su palabra de honor a no hacerlo, y que en estas condiciones fuere capturado, se le impondrá pena de treinta a sesenta años de prisión.
@@ -2605,7 +3007,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 396
 .- Siempre que se evadan uno o más prisioneros, presos o detenidos, se hará efectiva la responsabilidad del que mandare la escolta o fuerza encargado directamente de la custodia de él o de los que se hubieren evadido, sin perjuicio de exigirla también a todos los demás individuos de esa misma escolta o fuerza, que con sus actos u omisiones apareciere que hubieren favorecido la evasión.
-CAPITULO VI BIS Delitos especiales del personal integrante de la Guardia Nacional Capítulo adicionado DOF 16-07-2025
+CAPITULO VI BIS Delitos especiales del personal integrante de la Guardia Nacional
+Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 396
 Bis.- La persona integrante de la Guardia Nacional que haga uso, proporcione o permita el empleo de armas, identificaciones, uniformes, insignias, vehículos o cualquier otro bien de la Institución, para la comisión de un delito, será sancionada con prisión de seis a diez años.
@@ -2628,19 +3031,26 @@ Artículo adicionado DOF 16-07-2025
 
 ### Artículo 396
 Sexies.- Quien simule el robo o extravío de armamento o municiones que tenga de cargo o bajo su resguardo, será sancionado de uno a siete años de prisión.
-Artículo adicionado DOF 16-07-2025 CAPITULO VII Contra el honor militar
+Artículo adicionado DOF 16-07-2025
+CAPITULO VII Contra el honor militar
 
 ### Artículo 397
 .- Se le impondrá la sanción de treinta a sesenta años de prisión:
-Párrafo reformado DOF 29-06-2005, 16-07-2025 I.- Quien por cobardía sea el primero en huir en una acción de guerra, al frente del enemigo, marchando a encontrarlo o esperándolo a la defensiva;
-Fracción reformada DOF 16-07-2025 II.- Quien custodiando una bandera o estandarte, no lo defienda en un combate, hasta perder la vida si fuere necesario;
-Fracción reformada DOF 16-07-2025 III.- La persona comandante de tropas o de un buque o fuerzas navales o de aeronave, que contraviniendo las disposiciones disciplinarias, se rinda o capitule, el primero en campo raso y los segundos sin que sea como consecuencia de combate o bloqueo, o antes de haber agotado los medios de defensa de que pudieren disponer;
-Párrafo reformado DOF 16-07-2025 En los demás casos de rendición o capitulación en contra de las prescripciones disciplinarias, la pena aplicable, será la de destitución de empleo e inhabilitación por diez años para volver al servicio; y IV.- Las personas subalternas que obliguen a sus superiores por medio de la fuerza, a capitular.
-Fracción reformada DOF 16-07-2025 No servirá de excusa al comandante de una plaza, fuerza, buque o aeronave, el haber sido violentado por sus subordinados para rendirse o capitular.
+Párrafo reformado DOF 29-06-2005, 16-07-2025
+I.- Quien por cobardía sea el primero en huir en una acción de guerra, al frente del enemigo, marchando a encontrarlo o esperándolo a la defensiva;
+Fracción reformada DOF 16-07-2025
+II.- Quien custodiando una bandera o estandarte, no lo defienda en un combate, hasta perder la vida si fuere necesario;
+Fracción reformada DOF 16-07-2025
+III.- La persona comandante de tropas o de un buque o fuerzas navales o de aeronave, que contraviniendo las disposiciones disciplinarias, se rinda o capitule, el primero en campo raso y los segundos sin que sea como consecuencia de combate o bloqueo, o antes de haber agotado los medios de defensa de que pudieren disponer;
+Párrafo reformado DOF 16-07-2025
+En los demás casos de rendición o capitulación en contra de las prescripciones disciplinarias, la pena aplicable, será la de destitución de empleo e inhabilitación por diez años para volver al servicio; y IV.- Las personas subalternas que obliguen a sus superiores por medio de la fuerza, a capitular.
+Fracción reformada DOF 16-07-2025
+No servirá de excusa al comandante de una plaza, fuerza, buque o aeronave, el haber sido violentado por sus subordinados para rendirse o capitular.
 
 ### Artículo 398
 .- Quien convoque, en contravención a prescripciones disciplinarias, a una junta para deliberar sobre la capitulación, sufrirá por ese solo hecho la pena de destitución de empleo e inhabilitación por diez años para servir al Ejército; pero si se celebrare la junta, y de ella resultare la rendición o capitulación, se le impondrá pena de treinta a sesenta años de prisión.
-Párrafo reformado DOF 29-06-2005, 16-07-2025 El hecho de concurrir a una junta convocada con el fin y condiciones expresados, aunque se votare en sentido diverso al de la capitulación, será castigado con suspensión de empleo por cinco años.
+Párrafo reformado DOF 29-06-2005, 16-07-2025
+El hecho de concurrir a una junta convocada con el fin y condiciones expresados, aunque se votare en sentido diverso al de la capitulación, será castigado con suspensión de empleo por cinco años.
 Si el voto es en pro de la capitulación indebida, se impondrá pena de treinta a sesenta años de prisión o la de destitución, de acuerdo con lo prescrito en la fracción III del artículo 397.
 Párrafo reformado DOF 29-06-2005
 
@@ -2678,26 +3088,40 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 407
 .- Se impondrá la pena de cuatro meses de prisión, al personal de oficiales que cometa alguno de los hechos o alguna de las omisiones que a continuación se expresan:
-Párrafo reformado DOF 16-07-2025 I.- Excusarse de hacer la fatiga que le toque, por enfermedades supuestas;
+Párrafo reformado DOF 16-07-2025
+I.- Excusarse de hacer la fatiga que le toque, por enfermedades supuestas;
 II.- La asistencia a mancebías, portando uniforme o distintivo militar;
-Fracción reformada DOF 16-07-2025 III.- Presentarse públicamente en estado de embriaguez, portando uniforme o distintivo militar.
+Fracción reformada DOF 16-07-2025
+III.- Presentarse públicamente en estado de embriaguez, portando uniforme o distintivo militar.
 Los sargentos y cabos sufrirán en este caso dos meses de prisión;
-Fracción reformada DOF 16-07-2025 IV.- Verter especies que puedan causar tibieza o desagrado en el servicio;
-Fracción reformada DOF 16-07-2025 V.- Murmurar con motivo de las disposiciones superiores, o censurarlas;
-Fracción reformada DOF 16-07-2025 VI.- No reprimir o comunicar al personal superior inmediato las murmuraciones o censuras de su personal subordinado, y Fracción reformada DOF 16-07-2025 VII.- Hacer préstamos usurarios a la clase de tropa, y exigir dádivas o préstamos de las personas subordinadas.
-Fracción reformada DOF 16-07-2025 En caso de que se cometan dos infracciones de las enumeradas en este precepto, dentro del período de un año, por el nuevo delito, se impondrá la pena de prisión señalado y la de destitución de empleo, fijándose el término de inhabilitación para volver al servicio, en dos años.
+Fracción reformada DOF 16-07-2025
+IV.- Verter especies que puedan causar tibieza o desagrado en el servicio;
+Fracción reformada DOF 16-07-2025
+V.- Murmurar con motivo de las disposiciones superiores, o censurarlas;
+Fracción reformada DOF 16-07-2025
+VI.- No reprimir o comunicar al personal superior inmediato las murmuraciones o censuras de su personal subordinado, y
+Fracción reformada DOF 16-07-2025
+VII.- Hacer préstamos usurarios a la clase de tropa, y exigir dádivas o préstamos de las personas subordinadas.
+Fracción reformada DOF 16-07-2025
+En caso de que se cometan dos infracciones de las enumeradas en este precepto, dentro del período de un año, por el nuevo delito, se impondrá la pena de prisión señalado y la de destitución de empleo, fijándose el término de inhabilitación para volver al servicio, en dos años.
 
 ### Artículo 408
 .- Se le impondrá la pena de tres meses de suspensión de empleo al personal de oficiales que:
-Párrafo reformado DOF 16-07-2025 I.- Acostumbre no pagar las deudas contraídas;
+Párrafo reformado DOF 16-07-2025
+I.- Acostumbre no pagar las deudas contraídas;
 II.- Viole la palabra de honor empeñada;
-Fracción reformada DOF 16-07-2025 III.- Venda o dé en prenda condecoraciones, despachos, diplomas o documentos de identificación, y Fracción reformada DOF 16-07-2025 IV.- Promueva colectas, haga suscripciones o lleve a cabo otras exacciones, sin autorización de la Secretaría de la Defensa Nacional o de Marina según corresponda.
-Fracción reformada DOF 09-04-2012, 13-06-2014 En caso de reincidencia, se impondrá la pena de destitución, fijándose en dos años el término de inhabilitación para volver al servicio.
+Fracción reformada DOF 16-07-2025
+III.- Venda o dé en prenda condecoraciones, despachos, diplomas o documentos de identificación, y
+Fracción reformada DOF 16-07-2025
+IV.- Promueva colectas, haga suscripciones o lleve a cabo otras exacciones, sin autorización de la Secretaría de la Defensa Nacional o de Marina según corresponda.
+Fracción reformada DOF 09-04-2012, 13-06-2014
+En caso de reincidencia, se impondrá la pena de destitución, fijándose en dos años el término de inhabilitación para volver al servicio.
 Para los efectos de este artículo, se entenderá que hay reincidencia, cuando se cometan dos infracciones de las antes enumeradas, dentro del período de un año.
 
 ### Artículo 409
 .- Se impondrán las penas de seis meses de prisión y destitución de empleo, al personal de sargentos y cabos que después de haber incurrido en dos correcciones disciplinarias, dentro del período de un año, persistieren en su mala conducta.
-Artículo reformado DOF 16-07-2025 CAPITULO VIII Duelo
+Artículo reformado DOF 16-07-2025
+CAPITULO VIII Duelo
 
 ### Artículo 410
 .- Cualquier militar que desafíe a otro, será castigado de la manera que en seguida se expresa:
@@ -2749,22 +3173,37 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 422
 .- Será sancionada con la pena de seis meses de suspensión de empleo, la persona servidora pública que cometa alguno de los delitos siguientes:
-Párrafo reformado DOF 16-07-2025 I.- Conocer de asunto para el que tenga impedimento legal, o abstenerse de conocer del que le corresponda, sin tener dicho impedimento;
+Párrafo reformado DOF 16-07-2025
+I.- Conocer de asunto para el que tenga impedimento legal, o abstenerse de conocer del que le corresponda, sin tener dicho impedimento;
 II.- Apremiar o violentar a la persona imputada, procesada y sentenciada para que declaren en determinado sentido;
-Fracción reformada DOF 22-07-1994, 16-07-2025 III.- Retardar o entorpecer maliciosamente, o por negligencia, la Administración de Justicia;
-Fracción reformada DOF 16-07-2025 IV.- Dictar u omitir una resolución violando algún precepto terminante de la ley, o contrario a las actuaciones de un juicio, siempre que se obre por motivos inmorales y no por simple error de opinión;
-Fracción reformada DOF 16-07-2025 V.- Tratándose del Ministerio Público, cuando deje de interponer los recursos legales o de promover las diligencias conducentes al esclarecimiento de la verdad, o a la rectitud de los procedimientos;
-Fracción reformada DOF 16-07-2025 VI.- Hacer entrega indebida de un expediente, y Fracción reformada DOF 16-07-2025 VII.- Tratar en el ejercicio de su cargo, con ofensa, a las personas que asistan a su oficina.
-Fracción reformada DOF 16-07-2025 La reincidencia será sancionada con destitución.
+Fracción reformada DOF 22-07-1994, 16-07-2025
+III.- Retardar o entorpecer maliciosamente, o por negligencia, la Administración de Justicia;
+Fracción reformada DOF 16-07-2025
+IV.- Dictar u omitir una resolución violando algún precepto terminante de la ley, o contrario a las actuaciones de un juicio, siempre que se obre por motivos inmorales y no por simple error de opinión;
+Fracción reformada DOF 16-07-2025
+V.- Tratándose del Ministerio Público, cuando deje de interponer los recursos legales o de promover las diligencias conducentes al esclarecimiento de la verdad, o a la rectitud de los procedimientos;
+Fracción reformada DOF 16-07-2025
+VI.- Hacer entrega indebida de un expediente, y
+Fracción reformada DOF 16-07-2025
+VII.- Tratar en el ejercicio de su cargo, con ofensa, a las personas que asistan a su oficina.
+Fracción reformada DOF 16-07-2025
+La reincidencia será sancionada con destitución.
 Párrafo reformado DOF 16-07-2025
 
 ### Artículo 423
 .- Se sancionará con un año y seis meses de prisión:
-Párrafo reformado DOF 16-07-2025 I.- A la persona servidora pública que dicte una sentencia con violación de algún precepto terminante de la ley o manifiestamente contraria a las constancias procesales, cuando se obre por motivos inmorales y no por simple error de opinión;
-Fracción reformada DOF 16-07-2025 II.- A la persona integrante de un Consejo de Guerra que, sin causa justificada, se rehúse a desempeñar sus funciones;
-Fracción reformada DOF 16-07-2025 III.- A la persona integrante de un Consejo de Guerra que maliciosamente vote un interrogatorio, condenando o absolviendo en contra de las constancias procesales;
-Fracción reformada DOF 16-07-2025 IV.- A la persona servidora pública que arbitrariamente decrete o ejecute la aprehensión de alguna persona, catee habitaciones, o cometa cualquier otro abuso de sus facultades, y Fracción reformada DOF 16-07-2025 V.- A la persona servidora pública que detenga a una persona indiciada sin ponerla a disposición de manera inmediata ante la autoridad correspondiente.
-Fracción adicionada DOF 22-07-1994. Reformada DOF 16-07-2025 Si el acto importare la comisión de otro delito, se observarán las reglas de acumulación.
+Párrafo reformado DOF 16-07-2025
+I.- A la persona servidora pública que dicte una sentencia con violación de algún precepto terminante de la ley o manifiestamente contraria a las constancias procesales, cuando se obre por motivos inmorales y no por simple error de opinión;
+Fracción reformada DOF 16-07-2025
+II.- A la persona integrante de un Consejo de Guerra que, sin causa justificada, se rehúse a desempeñar sus funciones;
+Fracción reformada DOF 16-07-2025
+III.- A la persona integrante de un Consejo de Guerra que maliciosamente vote un interrogatorio, condenando o absolviendo en contra de las constancias procesales;
+Fracción reformada DOF 16-07-2025
+IV.- A la persona servidora pública que arbitrariamente decrete o ejecute la aprehensión de alguna persona, catee habitaciones, o cometa cualquier otro abuso de sus facultades, y
+Fracción reformada DOF 16-07-2025
+V.- A la persona servidora pública que detenga a una persona indiciada sin ponerla a disposición de manera inmediata ante la autoridad correspondiente.
+Fracción adicionada DOF 22-07-1994. Reformada DOF 16-07-2025
+Si el acto importare la comisión de otro delito, se observarán las reglas de acumulación.
 
 ### Artículo 424
 .- Se sancionará con la pena de tres años de prisión y destitución de empleo a la persona servidora pública que substraiga, oculte o destruya expedientes de carpetas de investigación o constancias procesales, objetos, instrumentos o productos del delito.
@@ -2776,7 +3215,8 @@ Artículo reformado DOF 22-07-1994, 16-07-2025
 
 ### Artículo 426
 .- Será destituida de su empleo e inhabilitada por dos años para volver al servicio, la persona servidora pública que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquiera otra dádiva, para hacer o dejar de hacer algo relacionado con sus funciones.
-Artículo reformado DOF 16-07-2025 CAPITULO II Delitos con motivo de la administración de justicia
+Artículo reformado DOF 16-07-2025
+CAPITULO II Delitos con motivo de la administración de justicia
 
 ### Artículo 427
 .- Quien ejerza arbitrariamente una influencia ilegal en los procedimientos, para que den por resultado la absolución o la condenación de los acusados, será sancionado con la pena de tres años de prisión.
@@ -2805,7 +3245,8 @@ Artículo reformado DOF 22-07-1994, 16-07-2025
 
 ### Artículo 433
 .- El personal a cargo de las prisiones militares que maltraten indebidamente, de palabra o de obra a las personas privadas de su libertad, se le iniciará la investigación correspondiente.
-Artículo reformado DOF 16-07-2025 TITULO DECIMOTERCERO Definiciones
+Artículo reformado DOF 16-07-2025
+TITULO DECIMOTERCERO Definiciones
 
 ### Artículo 434
 . Para los efectos de este Libro Segundo se entenderá:
@@ -2864,7 +3305,11 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 441
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO SEGUNDO De los procedimientos previos al juicio (Se deroga) Título derogado DOF 16-05-2016 CAPITULO I De las denuncias, querellas y acusaciones (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO SEGUNDO De los procedimientos previos al juicio (Se deroga)
+Título derogado DOF 16-05-2016
+CAPITULO I De las denuncias, querellas y acusaciones (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 442
 .- (Se deroga).
@@ -2900,7 +3345,9 @@ Artículo reformado DOF 09-04-2012. Derogado DOF 16-05-2016
 
 ### Artículo 450
 .- (Se deroga).
-Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016 CAPITULO II De la incoación del procedimiento (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
+CAPITULO II De la incoación del procedimiento (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 451
 .- (Se deroga).
@@ -2908,7 +3355,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 452
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO III Comprobación del cuerpo del delito y de la probable responsabilidad (Se deroga) Denominación del Capítulo reformada DOF 22-07-1994, 18-05-1999. Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO III Comprobación del cuerpo del delito y de la probable responsabilidad (Se deroga)
+Denominación del Capítulo reformada DOF 22-07-1994, 18-05-1999. Capítulo derogado DOF 16-05-2016
 
 ### Artículo 453
 .- (Se deroga).
@@ -3024,7 +3473,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 481
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV De los cateos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV De los cateos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 482
 .- (Se deroga).
@@ -3060,7 +3511,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 490
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO V De la declaración preparatoria y del nombramiento de defensor (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO V De la declaración preparatoria y del nombramiento de defensor (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 491
 .- (Se deroga).
@@ -3116,7 +3569,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 504
 .- (Se deroga).
-Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016 CAPITULO VI De la aprehensión, detención y prisión preventiva (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016
+CAPITULO VI De la aprehensión, detención y prisión preventiva (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 505
 .- (Se deroga).
@@ -3172,7 +3627,9 @@ Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 22-07-1994. D
 
 ### Artículo 518
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO VII De la libertad por falta de méritos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO VII De la libertad por falta de méritos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 519
 .- (Se deroga).
@@ -3184,11 +3641,15 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 521
 .- (Se deroga).
-Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016 CAPITULO VIII De las pruebas (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
+CAPITULO VIII De las pruebas (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 522
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IX De la confesión judicial (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IX De la confesión judicial (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 523
 .- (Se deroga).
@@ -3200,7 +3661,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 525
 .- (Se deroga).
-Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016 CAPITULO X De los documentos públicos y privados (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016
+CAPITULO X De los documentos públicos y privados (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 526
 .- (Se deroga).
@@ -3228,7 +3691,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 532
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XI De los peritos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XI De los peritos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 533
 .- (Se deroga).
@@ -3316,7 +3781,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 554
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XII De la inspección judicial y reconstrucción de hechos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XII De la inspección judicial y reconstrucción de hechos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 555
 .- (Se deroga).
@@ -3336,7 +3803,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 559
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XIII De los testigos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XIII De los testigos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 560
 .- (Se deroga).
@@ -3440,7 +3909,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 585
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XIV De los careos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XIV De los careos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 586
 .- (Se deroga).
@@ -3460,7 +3931,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 590
 .- (Se deroga).
-Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016 CAPITULO XV De la confrontación (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016
+CAPITULO XV De la confrontación (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 591
 .- (Se deroga).
@@ -3488,11 +3961,15 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 597
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XVI De las presunciones (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XVI De las presunciones (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 598
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XVII Del valor jurídico de la prueba (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XVII Del valor jurídico de la prueba (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 599
 .- (Se deroga).
@@ -3560,7 +4037,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 615
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XVIII De las determinaciones que deben dictarse cuando a juicio del juez, la instrucción estuviere concluida (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XVIII De las determinaciones que deben dictarse cuando a juicio del juez, la instrucción estuviere concluida (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 616
 .- (Se deroga).
@@ -3588,7 +4067,11 @@ Fe de erratas al artículo DOF 27-09-1933. Artículo derogado DOF 16-05-2016
 
 ### Artículo 622
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO TERCERO Del juicio (Se deroga) Título derogado DOF 16-05-2016 CAPITULO I Del procedimiento ante el juez (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO TERCERO Del juicio (Se deroga)
+Título derogado DOF 16-05-2016
+CAPITULO I Del procedimiento ante el juez (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 623
 .- (Se deroga).
@@ -3604,7 +4087,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 626
 .- (Se deroga).
-Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016 CAPITULO II Del procedimiento previo al juicio ante el Consejo de Guerra Ordinario (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 22-07-1994. Derogado DOF 16-05-2016
+CAPITULO II Del procedimiento previo al juicio ante el Consejo de Guerra Ordinario (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 627
 .- (Se deroga).
@@ -3636,7 +4121,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 634
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO III Del juicio ante el Consejo de Guerra Ordinario (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO III Del juicio ante el Consejo de Guerra Ordinario (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 635
 .- (Se deroga).
@@ -3848,7 +4335,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 687
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV De la policía de la audiencia (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV De la policía de la audiencia (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 688
 .- (Se deroga).
@@ -3892,7 +4381,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 698
 .- (Se deroga).
-Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016 CAPITULO V Del juicio ante el consejo de guerra extraordinario (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
+CAPITULO V Del juicio ante el consejo de guerra extraordinario (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 699
 .- (Se deroga).
@@ -3968,7 +4459,11 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 717
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO CUARTO De los incidentes (Se deroga) Título derogado DOF 16-05-2016 CAPITULO I De los incidentes en general (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO CUARTO De los incidentes (Se deroga)
+Título derogado DOF 16-05-2016
+CAPITULO I De los incidentes en general (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 718
 .- (Se deroga).
@@ -3996,7 +4491,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 724
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO II De la competencia (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO II De la competencia (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 725
 .- (Se deroga).
@@ -4072,7 +4569,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 743
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO III De la acumulación y separación (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO III De la acumulación y separación (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 744
 .- (Se deroga).
@@ -4160,7 +4659,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 765
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV De la suspensión del procedimiento (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV De la suspensión del procedimiento (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 766
 .- (Se deroga).
@@ -4188,7 +4689,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 772
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO V De las recusaciones (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO V De las recusaciones (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 773
 .- (Se deroga).
@@ -4208,7 +4711,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 777
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO VI De las excusas (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO VI De las excusas (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 778
 .- (Se deroga).
@@ -4248,7 +4753,8 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 787
 .- (Se deroga).
-Fe de erratas al artículo DOF 27-09-1933. Artículo derogado DOF 16-05-2016 CAPITULO VII De los impedimentos (Se deroga) Capítulo derogado DOF 16-05-2016
+Fe de erratas al artículo DOF 27-09-1933. Artículo derogado DOF 16-05-2016 CAPITULO VII De los impedimentos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 788
 .- (Se deroga).
@@ -4256,11 +4762,15 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 789
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO VIII De la libertad absoluta (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO VIII De la libertad absoluta (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 790
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IX De la libertad por desvanecimiento de datos (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IX De la libertad por desvanecimiento de datos (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 791
 .- (Se deroga).
@@ -4276,7 +4786,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 794
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO X Libertad provisional bajo protesta (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO X Libertad provisional bajo protesta (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 795
 .- (Se deroga).
@@ -4292,7 +4804,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 798
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO XI De la libertad provisional bajo caución (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO XI De la libertad provisional bajo caución (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 799
 .- (Se deroga).
@@ -4372,7 +4886,11 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 816
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO QUINTO De los recursos (Se deroga) Título derogado DOF 16-05-2016 CAPITULO I Reglas generales (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO QUINTO De los recursos (Se deroga)
+Título derogado DOF 16-05-2016
+CAPITULO I Reglas generales (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 817
 .- (Se deroga).
@@ -4384,7 +4902,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 819
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO II De la revocación (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO II De la revocación (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 820
 .- (Se deroga).
@@ -4392,7 +4912,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 821
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO III De la apelación (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO III De la apelación (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 822
 .- (Se deroga).
@@ -4464,7 +4986,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 839
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 CAPITULO IV De la denegada apelación (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+CAPITULO IV De la denegada apelación (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 840
 .- (Se deroga).
@@ -4492,7 +5016,11 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 846
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO SEXTO De la ejecución de sentencia (Se deroga) Título derogado DOF 16-05-2016 CAPITULO I De la ejecución (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO SEXTO De la ejecución de sentencia (Se deroga)
+Título derogado DOF 16-05-2016
+CAPITULO I De la ejecución (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 847
 .- (Se deroga).
@@ -4520,7 +5048,9 @@ Artículo derogado DOF 29-06-2005
 
 ### Artículo 853
 . (Se deroga).
-Artículo reformado DOF 09-04-2012, 13-06-2014. Derogado DOF 16-05-2016 CAPITULO II De la libertad preparatoria y retención (Se deroga) Capítulo derogado DOF 16-05-2016
+Artículo reformado DOF 09-04-2012, 13-06-2014. Derogado DOF 16-05-2016
+CAPITULO II De la libertad preparatoria y retención (Se deroga)
+Capítulo derogado DOF 16-05-2016
 
 ### Artículo 854
 .- (Se deroga).
@@ -4583,7 +5113,9 @@ Artículo derogado DOF 16-05-2016
 Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
 
 ## CAPÍTULO III — De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
-(Se deroga) Denominación del Capítulo reformada DOF 24-06-1993, 29-06-2005. Capítulo derogado DOF 16-05-2016
+
+(Se deroga)
+Denominación del Capítulo reformada DOF 24-06-1993, 29-06-2005. Capítulo derogado DOF 16-05-2016
 
 ### Artículo 869
 .- (Se deroga).
@@ -4635,7 +5167,9 @@ Artículo reformado DOF 24-06-1993. Derogado DOF 16-05-2016
 
 ### Artículo 881
 .- (Se deroga).
-Artículo reformado DOF 24-06-1993. Derogado DOF 16-05-2016 TITULO SEPTIMO De los juicios de responsabilidad de los funcionarios y empleados del orden judicial (Se deroga) Título derogado DOF 16-05-2016
+Artículo reformado DOF 24-06-1993. Derogado DOF 16-05-2016
+TITULO SEPTIMO De los juicios de responsabilidad de los funcionarios y empleados del orden judicial (Se deroga)
+Título derogado DOF 16-05-2016
 
 ### Artículo 882
 .- (Se deroga).
@@ -4671,7 +5205,9 @@ Artículo derogado DOF 16-05-2016
 
 ### Artículo 890
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 TITULO OCTAVO Prevenciones generales (Se deroga) Título derogado DOF 16-05-2016
+Artículo derogado DOF 16-05-2016
+TITULO OCTAVO Prevenciones generales (Se deroga)
+Título derogado DOF 16-05-2016
 
 ### Artículo 891
 .- (Se deroga).
@@ -4803,7 +5339,8 @@ Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
 
 ### Artículo 923
 .- (Se deroga).
-Artículo derogado DOF 16-05-2016 ARTICULOS TRANSITORIOS 1o.- El presente Código comenzará a regir el día primero de enero de mil novecientos treinta y cuatro, quedando derogadas, desde esa fecha, todas las disposiciones relativas a las materias que este mismo Código comprende. 2o.- Los procesos y recursos que en cualquiera instancia estén pendientes al entrar en vigor el presente Código, se sujetarán a las disposiciones del mismo. 3o.- Los recursos interpuestos antes de la vigencia de este Código y que aún no hubieren sido admitidos o desechados se admitirán, siempre que este mismo Código o en las leyes anteriores se conceptuarán procedentes, se substanciarán conforme a este mismo ordenamiento. 4o.- Los términos que para interponer algún recurso estén corriendo al comenzar a regir este Código, se computarán conforme al mismo o al anterior, si fueren mayores los que en éste se concedan.
+Artículo derogado DOF 16-05-2016
+ARTICULOS TRANSITORIOS 1o.- El presente Código comenzará a regir el día primero de enero de mil novecientos treinta y cuatro, quedando derogadas, desde esa fecha, todas las disposiciones relativas a las materias que este mismo Código comprende. 2o.- Los procesos y recursos que en cualquiera instancia estén pendientes al entrar en vigor el presente Código, se sujetarán a las disposiciones del mismo. 3o.- Los recursos interpuestos antes de la vigencia de este Código y que aún no hubieren sido admitidos o desechados se admitirán, siempre que este mismo Código o en las leyes anteriores se conceptuarán procedentes, se substanciarán conforme a este mismo ordenamiento. 4o.- Los términos que para interponer algún recurso estén corriendo al comenzar a regir este Código, se computarán conforme al mismo o al anterior, si fueren mayores los que en éste se concedan.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo Federal, en México, D.F., a los veintiocho días del mes de agosto de mil novecientos treinta y tres.- A. L. Rodríguez.- Rúbrica.- El General de División, Secretario de Estado y del Despacho de Guerra y Marina.- P. Quiroga.- Rúbrica.- Al C. Secretario de Gobernación.Presente." Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
@@ -4843,7 +5380,7 @@ Manríquez Guluarte, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintrés días del mes de junio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código de Justicia Militar.
 Publicado en el Diario Oficial de la Federación el 22 de julio de 1994 ARTICULO UNICO.- SE REFORMAN los artículos 47 primer párrafo, 52 fracción III, 56, 78, 80, 83 fracción I, 85 fracción I y VI, 241, 243, 422 fracción II, 424, 425, 432, 446, 453, 454, 492 fracciones II a IV, 498, 504, 507, 509, 513, 514, 515 fracciones III, IV, VI, VII, VIII y IX, 517, 523, 525, 530, 586, 590, 603 fracción IV, 616, 626, 636, 643, 656, 660 segundo párrafo, 665 fracción VI, 799, 803 fracción III, 805 fracciones I a III, y 809 fracciones I, III y V, la denominación del Capítulo III, del Título Segundo del Libro
-**Tercero.** ; SE ADICIONAN la fracción XIV al artículo 83, recorriéndose la actual XIV para ser XV, el artículo 152 Bis, una fracción V al artículo 423, un último párrafo al artículo 439, el artículo 439 Bis, la fracción V al artículo 492, un último párrafo al artículo 803, y un último párrafo al artículo 804; y SE DEROGA la fracción I del artículo 47, del Código de Justicia Militar, para quedar como sigue: ..........
+**Tercero.-** ; SE ADICIONAN la fracción XIV al artículo 83, recorriéndose la actual XIV para ser XV, el artículo 152 Bis, una fracción V al artículo 423, un último párrafo al artículo 439, el artículo 439 Bis, la fracción V al artículo 492, un último párrafo al artículo 803, y un último párrafo al artículo 804; y SE DEROGA la fracción I del artículo 47, del Código de Justicia Militar, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -4875,7 +5412,7 @@ Publicado en el Diario Oficial de la Federación el 29 de junio de 2005
 
 ### Artículo Único
 Se Reforman los Artículos 67, fracción VIII; 73, primer párrafo; 74; 122, fracciones I, III y IV; 128; 129; 145, fracción II; 151, primer párrafo; 157, fracción I; 175; 182; 185; 190, fracción III; 197, fracción II; 202; 203, primer párrafo; 204; 206; 208, primer párrafo; 209, último párrafo; 210; 213, último párrafo; 219, primer párrafo; 237; 251; 252; 253, primer párrafo; 272; 274, fracciones I y III; 279, primer párrafo y fracción I; 282, fracción III; 285, fracción IX; 286; 288; 290, último párrafo; 292; 299, fracción VII; 303, fracción III; 305, fracción II; 311, último párrafo; 312, fracciones II y III; 313, último párrafo; 315; 318, fracción VI; 319, fracción I; 321; 323, fracción III; 338, fracción II; 356; 359; 362, primer párrafo; 363; 364, fracción IV; 376, primer párrafo; 385; 386, primer párrafo; 389; 390; 391; 392, fracción I; 397, primer párrafo; 398, primero y último párrafos; 430; 872 y la denominación del Título Tercero y de su Capítulo VIII, ambos del Libro Segundo, así como la denominación del Capítulo III, del Título Sexto del Libro
-**Tercero.** ; y se Derogan los Artículos 122, fracciones II y V; 130; 142; 145, fracción III; 151, fracción I; 174, fracción I; 176; 177; 178; 190, fracción IV; 197, fracción I y último párrafo; 431; 712; 713; 850, fracción II; 851; 852; 869; 870, y el Capítulo V, del Título Segundo del Libro Segundo, todos del Código de Justicia Militar, para quedar como sigue: ..........
+**Tercero.-** ; y se Derogan los Artículos 122, fracciones II y V; 130; 142; 145, fracción III; 151, fracción I; 174, fracción I; 176; 177; 178; 190, fracción IV; 197, fracción I y último párrafo; 431; 712; 713; 850, fracción II; 851; 852; 869; 870, y el Capítulo V, del Título Segundo del Libro Segundo, todos del Código de Justicia Militar, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -4893,7 +5430,7 @@ Se adiciona el Capítulo IV Bis denominado “Traición a las Fuerzas Armadas Me
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 6 de octubre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
@@ -4903,16 +5440,16 @@ Se reforman los artículos 7o; 12, primer párrafo; 13; 14; 22; 27; 28; 34; 39, 
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, derogan y adicionan diversas disposiciones del Establece las Normas Mínimas sobre Readaptación Social de Sentenciados.
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2014
 
 ### Artículo Primero
 Se reforman los artículos 1o., párrafo primero y fracción IV; 2o., fracción II; 14; 18; 22; 34; 42; 43; 47, párrafo primero y fracción III; 48; 49, párrafo primero y fracciones II y IV; 55; 57, fracciones I y II; 62, párrafos primero y segundo; 76, párrafo primero y fracción II; 80, párrafos primero,
-**tercero.** y cuarto; 81, fracciones III, IV, V, X, XII, XV, XVI, XVIII y XIX; 83, fracción XV; 85, fracciones VII y XV; 86, fracción VI; 92; 102, primer párrafo; 125; 126; 129; 134; 139; 141; 143; 145, primer párrafo y fracción II; 150; 151, primer párrafo; 153; 154; 158; 164, párrafo segundo; 175; 179; 180; 184; 191,
-**segundo.** párrafo; 196; 197, fracción III; 198; 204; 236; 239, fracción II; 241, último párrafo; 243, último párrafo; 247, último párrafo; 264, fracción II; 268; 275, último párrafo; 402, segundo párrafo; 408, fracción IV; 429, segundo párrafo; 430; 434, fracción X, numeral 1o. y segundo párrafo; 435, primer párrafo; 444, primer párrafo; 450, primer párrafo; 465, primer párrafo; 482; 484, párrafo primero y fracción III; 510; 516; 521; 572, primer párrafo; 603, fracción II; 637; 638; 680; 688; 690; 693; 694; 698; 709; 715; 732; 737; 808; 809, fracción IV; 810, fracción II; 811; 814; 826, párrafo tercero, fracción III; 833; 847; 849; 853; 854; 855; 856; 857, fracción I; 858, primer párrafo; 859; 862; 864; 868; 871; 875; 876; 877; 882, segundo párrafo; 887; 909; y 922, fracción III; se derogan el inciso c), fracción II del artículo 57; las fracciones VI, VII y VIII del artículo 67; las fracciones I a VII del último párrafo del artículo 102, y el artículo 865; y se adicionan la fracción V, al artículo 1o.; los artículos 30 Bis; 37, con un segundo párrafo; 49 Bis; 57, párrafos segundo y tercero; 62, último párrafo; 76 Bis; 76 Ter; 80, último párrafo; 83, fracciones XVI y XVII; 86, último párrafo de la fracción VI; 122 Bis; 129, párrafos segundo y tercero; 337 Bis; 444, último párrafo; 450, párrafos segundo, tercero, cuarto y quinto; 482, segundo párrafo del Código de Justicia Militar, para quedar como sigue: ……….
+**tercero.-** y cuarto; 81, fracciones III, IV, V, X, XII, XV, XVI, XVIII y XIX; 83, fracción XV; 85, fracciones VII y XV; 86, fracción VI; 92; 102, primer párrafo; 125; 126; 129; 134; 139; 141; 143; 145, primer párrafo y fracción II; 150; 151, primer párrafo; 153; 154; 158; 164, párrafo segundo; 175; 179; 180; 184; 191,
+**segundo.-** párrafo; 196; 197, fracción III; 198; 204; 236; 239, fracción II; 241, último párrafo; 243, último párrafo; 247, último párrafo; 264, fracción II; 268; 275, último párrafo; 402, segundo párrafo; 408, fracción IV; 429, segundo párrafo; 430; 434, fracción X, numeral 1o. y segundo párrafo; 435, primer párrafo; 444, primer párrafo; 450, primer párrafo; 465, primer párrafo; 482; 484, párrafo primero y fracción III; 510; 516; 521; 572, primer párrafo; 603, fracción II; 637; 638; 680; 688; 690; 693; 694; 698; 709; 715; 732; 737; 808; 809, fracción IV; 810, fracción II; 811; 814; 826, párrafo tercero, fracción III; 833; 847; 849; 853; 854; 855; 856; 857, fracción I; 858, primer párrafo; 859; 862; 864; 868; 871; 875; 876; 877; 882, segundo párrafo; 887; 909; y 922, fracción III; se derogan el inciso c), fracción II del artículo 57; las fracciones VI, VII y VIII del artículo 67; las fracciones I a VII del último párrafo del artículo 102, y el artículo 865; y se adicionan la fracción V, al artículo 1o.; los artículos 30 Bis; 37, con un segundo párrafo; 49 Bis; 57, párrafos segundo y tercero; 62, último párrafo; 76 Bis; 76 Ter; 80, último párrafo; 83, fracciones XVI y XVII; 86, último párrafo de la fracción VI; 122 Bis; 129, párrafos segundo y tercero; 337 Bis; 444, último párrafo; 450, párrafos segundo, tercero, cuarto y quinto; 482, segundo párrafo del Código de Justicia Militar, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -4927,10 +5464,10 @@ Publicado en el Diario Oficial de la Federación el 16 de mayo de 2016
 
 ### ARTÍCULO PRIMERO
 Se REFORMAN los artículos 2o., fracciones I, II, IV y V; 3o.; 4o., fracciones II, III, IV y V; 5o.; 6o.; 9o.; 27; 35; 37, primer párrafo; 38; 39; 40; 41; 42; 43; 44; 45; 48; 49 Bis, fracciones I, IV, V y VII; la denominación del Título Cuarto del Libro Primero titulado “De la organización de la Defensoría de Oficio Militar”; 50; 51; la denominación del Capítulo II, del Título Cuarto del Libro Primero titulado “De la Defensoría de Oficio Militar”; 52; 53; 54; 55; 56; 60; 67, fracciones I, II y IV; 68, fracciones III, IV y VII; 69 fracción I; 70; 76 Ter; 77; 78; 79; 81; 82; 83; la denominación del Capítulo VI, del Título
-**Quinto.** , del Libro Primero titulado “Defensoría de Oficio Militar”; 85; 86; 89 y 96; se ADICIONAN los artículos 1o. con las fracciones II bis y III bis; 2o. con la fracción III Bis; un nuevo Capítulo II Bis del Título
-**Primero.** del Libro Primero titulado “De los Tribunales Militares de Juicio Oral”, que comprende los artículos 9o. Bis y 9o. Ter; un nuevo Capítulo V Bis del Título Primero del Libro Primero titulado “De los Juzgados Militares de Control”, que comprende los artículos 30 Ter, 30 Quáter y 30 Quintus; un nuevo Capítulo V Ter del Título Primero del Libro Primero titulado “De los Juzgados Militares de Ejecución de Sentencias”, que comprende los artículos 30 Sextus y 30 Septimus; un nuevo Capítulo III Bis del Título
-**Segundo.** del Libro Primero titulado “De la Coordinación de Servicios Periciales y Ciencias Forenses” conformado por los artículos 35 bis, 35 ter y 35 Quáter; 49 Bis, fracción III con los incisos a)., b)., c). y d)., y fracciones XII a XVIII; 67 Bis; 68 con la fracción VII Bis; un nuevo Capítulo II Bis al Título Quinto del Libro Primero titulado “Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias” conformado por los artículos 71 Bis y 71 Ter; 81 bis; se DEROGAN los artículos 1o. fracciones II, III y IV; 2o. fracción III; el Capítulo III, del Título Primero del Libro Primero denominado “De los consejos de guerra ordinarios” que comprende los artículos 10, 11, 12, 13, 14 y 15; el Capítulo IV del Título Primero del Libro Primero denominado “De los consejos de guerra extraordinarios”, que comprende los artículos 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 28; 29; 30 y 30 Bis del Capítulo V, del Título
-**Primero.** del Libro Primero; el Capítulo I del Título Segundo del Libro Primero “De los Jueces Penales del orden común” que comprende el artículo 31; el Capítulo II del Título Segundo del Libro Primero “Del Cuerpo Médico Legal Militar”, que comprende los artículos 32 y 33; el Capítulo III del Título Tercero del Libro Primero “Del Laboratorio Científico de Investigaciones” que comprende los artículos 46; 62; 63; 64; 65; 66; 67, fracción V; 72; 73; 74; 75; 76; 80; 84; 87; 88; 90; 91; 92; 93; 94; 95; 97; y 98; el Libro Tercero que comprende los Títulos Primero a Octavo y los artículos 435 a 923 del Código de Justicia Militar, para quedar como sigue: ……… Disposiciones transitorias
+**Quinto.-** , del Libro Primero titulado “Defensoría de Oficio Militar”; 85; 86; 89 y 96; se ADICIONAN los artículos 1o. con las fracciones II bis y III bis; 2o. con la fracción III Bis; un nuevo Capítulo II Bis del Título
+**Primero.-** del Libro Primero titulado “De los Tribunales Militares de Juicio Oral”, que comprende los artículos 9o. Bis y 9o. Ter; un nuevo Capítulo V Bis del Título Primero del Libro Primero titulado “De los Juzgados Militares de Control”, que comprende los artículos 30 Ter, 30 Quáter y 30 Quintus; un nuevo Capítulo V Ter del Título Primero del Libro Primero titulado “De los Juzgados Militares de Ejecución de Sentencias”, que comprende los artículos 30 Sextus y 30 Septimus; un nuevo Capítulo III Bis del Título
+**Segundo.-** del Libro Primero titulado “De la Coordinación de Servicios Periciales y Ciencias Forenses” conformado por los artículos 35 bis, 35 ter y 35 Quáter; 49 Bis, fracción III con los incisos a)., b)., c). y d)., y fracciones XII a XVIII; 67 Bis; 68 con la fracción VII Bis; un nuevo Capítulo II Bis al Título Quinto del Libro Primero titulado “Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias” conformado por los artículos 71 Bis y 71 Ter; 81 bis; se DEROGAN los artículos 1o. fracciones II, III y IV; 2o. fracción III; el Capítulo III, del Título Primero del Libro Primero denominado “De los consejos de guerra ordinarios” que comprende los artículos 10, 11, 12, 13, 14 y 15; el Capítulo IV del Título Primero del Libro Primero denominado “De los consejos de guerra extraordinarios”, que comprende los artículos 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 28; 29; 30 y 30 Bis del Capítulo V, del Título
+**Primero.-** del Libro Primero; el Capítulo I del Título Segundo del Libro Primero “De los Jueces Penales del orden común” que comprende el artículo 31; el Capítulo II del Título Segundo del Libro Primero “Del Cuerpo Médico Legal Militar”, que comprende los artículos 32 y 33; el Capítulo III del Título Tercero del Libro Primero “Del Laboratorio Científico de Investigaciones” que comprende los artículos 46; 62; 63; 64; 65; 66; 67, fracción V; 72; 73; 74; 75; 76; 80; 84; 87; 88; 90; 91; 92; 93; 94; 95; 97; y 98; el Libro Tercero que comprende los Títulos Primero a Octavo y los artículos 435 a 923 del Código de Justicia Militar, para quedar como sigue: ……… Disposiciones transitorias
 
 ### ARTÍCULO SEGUNDO
 En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
@@ -4993,30 +5530,30 @@ Se reforman los artículos 211, 213, primer párrafo y 216, fracción I; y se de
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 19 de abril de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/HMS/146/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION P R E S E N T E El Tribunal Pleno, en su sesión celebrada el diecisiete de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-**TERCERO.** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a los particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-**CUARTO.** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83 fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**QUINTO.** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los artículos 10, párrafo segundo y 43, párrafos del primero al
-**cuarto.** y sexto, del Código Militar de Procedimientos Penales, a los doce meses siguientes a la citada notificación, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**TERCERO.-** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a los particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**CUARTO.-** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83 fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**QUINTO.-** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los artículos 10, párrafo segundo y 43, párrafos del primero al
+**cuarto.-** y sexto, del Código Militar de Procedimientos Penales, a los doce meses siguientes a la citada notificación, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 17 de abril de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 19 de abril de 2023 a las 11:50 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, así como los Votos Particulares de la señora Ministra Presidenta Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales, Particular, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá, Concurrentes de la señora Ministra Yasmín Esquivel Mossa y del señor Ministro Alfredo Gutiérrez Ortiz Mena, Concurrente, Particular y Aclaratorio del señor Ministro Arturo Zaldívar Lelo de Larrea y Aclaratorio y Particular de la señora Ministra Loretta Ortiz Ahlf.
 Publicada en el Diario Oficial de la Federación el 5 de septiembre de 2023 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 46/2016 PROMOVENTE: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES SECRETARIO: OLIVER CHAIM CAMACHO Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al diecisiete de abril de dos mil veintitrés.
 VISTOS; para resolver los autos de la acción de inconstitucionalidad promovida por la Comisión Nacional de los Derechos Humanos; y, RESULTANDO: …….. 449. DÉCIMO CUARTO. EFECTOS. Se precisa que los efectos de la invalidez decretada respecto de las normas especificadas en este fallo surtirán a partir de que se notifiquen los puntos resolutivos del presente fallo al Congreso de la Unión, sin perjuicio de que se apliquen los principios en materia penal, de conformidad con los artículos 105 constitucional y 45 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. 450. Ahora bien, en relación con los efectos específicos de invalidez, se precisa que atendiendo a la facultad de esta Suprema Corte de Justicia de la Nación para determinar los efectos de las sentencias estimatorias que emite, conforme a lo dispuesto en los citados artículos 41 y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y que conforme a jurisprudencia P./J. 84/2007, cuyo rubro es: “ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS.” 451. En esa jurisprudencia se sostiene que los efectos que este Tribunal Constitucional imprima a sus sentencias estimatorias en la vía de acción de inconstitucionalidad deben, de manera prioritaria, salvaguardar de manera eficaz la norma constitucional violada, aunque al mismo tiempo se debe evitar generar una situación de mayor incertidumbre jurídica que la ocasionada por las normas impugnadas, así como afectar injustificadamente el ámbito decisorio establecido constitucionalmente a favor de otros poderes públicos (federales, estatales y/o municipales). 452. Lo anterior determina que este Tribunal Pleno cuenta con un amplio margen de apreciación para salvaguardar eficazmente la norma constitucional o convencional violada. Por ello, este Tribunal Pleno ha tomado decisiones en que el efecto consistió únicamente en la expulsión de las porciones normativas que presentaban vicios de inconstitucionalidad; en otros casos, el efecto ha consistido en la expulsión de todo un conjunto armónico de normas dentro del ordenamiento legal impugnado; e, inclusive, se han expulsado del orden jurídico nacional leyes u ordenamientos completos por existir violaciones muy graves a las normas que rigen el procedimiento para su creación. Asimismo, en ocasiones, el efecto de la sentencia se ha postergado por un lapso razonable y, en otros casos, el efecto ha consistido en la reviviscencia de las normas vigentes con anterioridad a las que han sido expulsadas del ordenamiento jurídico, para garantizar un mínimo indispensable de certeza jurídica. 453. En esos términos, por tratarse de normas en materia penal, la invalidez decretada surtirá efectos retroactivos al diecisiete de mayo de dos mil dieciséis; fecha en que entró en vigor el Decreto impugnado. 454. Corresponderá a los operadores jurídicos competentes decidir y resolver, en cada caso concreto sujeto a su conocimiento, de acuerdo con los principios generales y disposiciones legales aplicables en esta materia. 455. Por su parte, por cuanto hace específicamente a la declaración de invalidez de los artículos 10, párrafo segundo, y 43, párrafos primero al cuarto y sexto, del Código Militar de Procedimientos Penales, por las razones precisadas en el Considerando Quinto, cabe puntualizar que en diversos precedentes, esta Suprema Corte de Justicia de la Nación ha establecido un plazo de seis meses para que se dé cumplimiento a las declaraciones de invalidez derivadas de la falta de consulta de los pueblos y comunidades indígenas, o de doce meses, tal como se determinó en las acciones de inconstitucionalidad 84/2016, 81/2018 y 201/2020, e incluso, de ciento ochenta días naturales para el surtimiento de efectos de la declaración de invalidez de actos legislativos respecto de los cuales se omitió la consulta previa a las personas con discapacidad, en tanto que, al resolver la acción de inconstitucionalidad 212/2020, el Pleno otorgó un plazo de dieciocho meses, ante las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, de lo que se deduce que el plazo depende de las circunstancias específicas de cada caso. 456. De esta manera, con fundamento en lo previsto en el artículo 45, párrafo primero, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, la declaración de invalidez debe postergarse por doce meses con el objeto de que la regulación respectiva continúe vigente en tanto el Congreso de la Unión cumple con los efectos vinculatorios precisados en el apartado respectivo, lo que permitirá, incluso, la eficacia de los derechos humanos a la consulta de las personas con discapacidad y a las personas indígenas y afromexicanas. Asimismo, se precisa que la declaración de invalidez de los referidos preceptos no se limita a su expulsión del orden jurídico, sino que conlleva la obligación constitucional de que el órgano legislativo desarrolle la consulta correspondiente, cumpliendo con los parámetros establecidos en esta determinación y, dentro del plazo de postergación de los efectos de invalidez antes precisado, con base en los resultados de dicha consulta, emita la regulación que corresponda. 457. Por lo expuesto, se vincula al Congreso de la Unión para que, dentro de los doce meses siguientes a la notificación que se le haga de los puntos resolutivos de esta resolución lleve a cabo, conforme a los parámetros fijados en esta decisión, la consulta a las personas con discapacidad y personas indígenas y afromexicanas, dentro del mismo plazo, emita la regulación correspondiente. Lo anterior, en el entendido de que la consulta no debe limitarse a los preceptos declarados inconstitucionales, sino que deberá tener un carácter abierto, a efecto de otorgar la posibilidad de que se facilite el diálogo democrático y busque la participación del grupo involucrado, en relación con cualquier aspecto regulado en el Código Militar de Procedimientos Penales. 458. El plazo establecido, además, permite que no se prive a los grupos vulnerables involucrados, de los posibles efectos benéficos de las normas, y al mismo tiempo permitir al Congreso de la Unión atender a lo resuelto en la presente ejecutoria; sin perjuicio de que, en un tiempo menor, se pudiera legislar en relación con los preceptos declarados inconstitucionales, bajo el presupuesto ineludible de que efectivamente se realice la consulta en los términos fijados por esta Suprema Corte de Justicia de la Nación. 459. Por lo expuesto y fundado, se RESUELVE:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-**TERCERO.** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-**CUARTO.** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83, fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-**QUINTO.** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al
-**cuarto.** y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**TERCERO.-** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**CUARTO.-** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83, fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**QUINTO.-** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al
+**cuarto.-** y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; con testimonio de la presente resolución, devuélvanse los autos a su lugar de origen y, en su oportunidad, archívese el presente toca como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 La señora Ministra Presidenta Norma Lucía Piña Hernández declaró que el asunto se resolvió en los términos precisados.
@@ -5029,15 +5566,15 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Octavo
 Se reforman los artículos 1, fracciones I, III Bis y V; 2, párrafo primero, fracciones I, II y IV; 3; 7; 8; 9 Bis párrafo primero, fracciones I, II, III y IV; 30 Quáter, párrafo primero, fracción I; 30 Septimus, párrafo primero, fracción I; 34; 47, párrafo primero, fracciones II y III; 49; 51; 57, del párrafo
-**primero.** , de la fracción II, incisos a), b), d), y e), párrafo segundo, tercero y cuarto; 60; 68, párrafo primero, fracciones I, II, IV, V, VI, VII y VIII; 69, párrafo primero, fracciones II, III, IV, V, VI, VII, VIII, IX y X; 71; 76 Bis; 76 Ter, párrafo primero, fracciones IV, V, en los incisos a) y b), VI, VII, VIII, IX y X; 81 Bis, párrafo
-**primero.** y fracciones III, VI y VIII; 83, párrafo primero, fracciones XI, XII, XIII, XV, XVII, XVIII, XIX, XX, XXI, XXIV, XXVI, XXVII, XXIX, XXXI, XXXIV, XXXV, XXXVI, XXXVIII, XLVIII y LI; 85, párrafo primero y fracciones I, III, VI, IX y XI; 86, párrafo primero, fracciones I, V, VI, VII, IX, X, XI, XVI y XVIII; 100; 103; 104; 109, fracciones II, III, IV, V, VI y VII; 113; 118; 119; 129; 131; 133; 135; 136; 137; 138; 140; 148; 150; 151, párrafo primero, fracción II; 152 Bis; 155; 156; 158; 159, párrafo primero, fracción II y párrafo
-**segundo.** ; 183; 187; 202; 203, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII; 204; 205, párrafo primero; 207; 208, párrafo primero, fracciones II y III; 209, párrafo primero; 214; 215; 216; 217; 218, párrafo primero, fracciones II, III y IV; 219, del párrafo primero, las fracciones I, II, III y IV, párrafo tercero; 220; 221; 223; 224, párrafo primero, fracción II; 225, párrafo
-**primero.** , fracciones II y III; 227; 228, párrafo primero, fracciones II, III, IV y V; 229; 230; 231; 232; 233; 234; 237; 238; 239; 240; 241, párrafo primero, fracciones I, II y III; 242; 243, del párrafo primero, las fracciones I, II y III; 244; 245, párrafo primero, fracción II; 246; 247; 248; 249, párrafo primero, fracciones I, II, III, IV y V, inciso b); 250, párrafo primero; 253, párrafo primero; 254; 255, párrafo primero, fracciones II, III y IV; 256; 257, párrafo primero, fracciones II y III; 258; 259; 260; 261, párrafo primero, fracciones II, III, IV, V y VI; 263; 264, párrafo primero, de la fracción I, párrafo segundo; 265, párrafo primero, fracciones II, III y IV; 266; 267, párrafo primero, fracciones II, III, y IV; 270, párrafo primero, fracciones II y III; 271; 272; 273; 274, párrafo primero, fracción II; 275, párrafos primero, segundo, tercero y cuarto; 275 Bis; 275 Ter, párrafos primero y tercero; 276, párrafo primero; 278; 279, párrafo primero, fracción II; 280, párrafo primero; 281; 282, párrafo primero, fracción II; 284; 285, párrafo primero, fracciones II, III, IV, V, VI, VII y VIII; 286; 288; 289; 290, párrafo primero; 293; 294; 295; 297; 298; 299, párrafo primero, fracciones II, III, IV, V y VI; 300; 301; 302; 303, párrafo primero, fracciones I y II; 304, párrafo primero, fracciones II, III y IV; 305, párrafo primero; 306; 307; 309; 311, párrafo primero, fracciones II y III; 312, párrafo primero; 313, párrafo primero, fracciones II y III; 314; 316; 318, párrafo primero, fracciones II, III, IV, V y VI; 319, párrafo primero, fracciones II, III y IV; 322; 323, párrafo primero, fracción II; 324, párrafo
-**primero.** , fracciones II, III, IV y V; 325; 327; 330; 331; 333; 334, párrafo primero; 335; 336, del párrafo
-**primero.** , fracción II; 337; 338, párrafo primero; 339, párrafo primero, fracciones II y III; 340; 341; 342, párrafo primero, fracciones II y III; 343, párrafo primero, fracciones I, II, III, IV, V y VI; 344; 345; 346; 347; 348; 349; 350; 351; 352, párrafo primero, fracciones II y III; 353, párrafo primero, fracción II; 354; 355, párrafo primero, fracciones II y III; 356; 357; 358, párrafo primero, fracciones II y III; 359; 360; 361; 362, párrafo primero, fracciones I, II, en su párrafo primero, fracción III; 363; 364, párrafo primero, fracciones II y III; 365, párrafo primero, fracciones II y III; 366, párrafo primero, fracción II; 367; 368; 369; 370, párrafo
-**primero.** , fracción II; 371, párrafo primero, fracción III; 372, párrafo primero, fracciones II y III; 373; 374; 375, párrafo primero; 376; 377; 378, párrafo primero, fracción II; 379, párrafo primero, fracción II; 380; 381; 382; 384; 386; 387; 388; 389; 390; 391; 392; 393; 394; 395; 397, párrafo primero, fracciones I, II, III, párrafo primero y IV, párrafo primero; 398, párrafo primero; 399; 400; 401; 402; 403; 404; 405; 406; 407, párrafo primero, fracciones II, III, IV, V, VI y VII; 408, párrafo primero, fracciones II y III; 409; 421; 422, párrafos primero y segundo, fracciones II, III, IV, V, VI y VII; 423, párrafo primero, fracciones I, II, III, IV y V; 424; 425; 426; 427; 428; 429; 430; 432; 433; 434, de su primer párrafo las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI; así como las denominaciones del Libro Primero, Título Primero Capítulo II; Título
-**Quinto.** , Capítulo II; del Libro Segundo, Título Octavo y sus Capítulos III y VI; Título Decimoprimero, Capítulo I, y se adicionan a los artículos 47, el párrafo segundo; 208, párrafo segundo; 249, párrafo
-**segundo.** ; 396 Bis; 396 Ter; 396 Quáter; 396 Quinquies; 396 Sexies; 434, fracciones XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII así como en el Libro Segundo del Título Decimoprimero, un Capítulo VI Bis, del Código de Justicia Militar, para quedar como sigue: ……..
+**primero.-** , de la fracción II, incisos a), b), d), y e), párrafo segundo, tercero y cuarto; 60; 68, párrafo primero, fracciones I, II, IV, V, VI, VII y VIII; 69, párrafo primero, fracciones II, III, IV, V, VI, VII, VIII, IX y X; 71; 76 Bis; 76 Ter, párrafo primero, fracciones IV, V, en los incisos a) y b), VI, VII, VIII, IX y X; 81 Bis, párrafo
+**primero.-** y fracciones III, VI y VIII; 83, párrafo primero, fracciones XI, XII, XIII, XV, XVII, XVIII, XIX, XX, XXI, XXIV, XXVI, XXVII, XXIX, XXXI, XXXIV, XXXV, XXXVI, XXXVIII, XLVIII y LI; 85, párrafo primero y fracciones I, III, VI, IX y XI; 86, párrafo primero, fracciones I, V, VI, VII, IX, X, XI, XVI y XVIII; 100; 103; 104; 109, fracciones II, III, IV, V, VI y VII; 113; 118; 119; 129; 131; 133; 135; 136; 137; 138; 140; 148; 150; 151, párrafo primero, fracción II; 152 Bis; 155; 156; 158; 159, párrafo primero, fracción II y párrafo
+**segundo.-** ; 183; 187; 202; 203, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII; 204; 205, párrafo primero; 207; 208, párrafo primero, fracciones II y III; 209, párrafo primero; 214; 215; 216; 217; 218, párrafo primero, fracciones II, III y IV; 219, del párrafo primero, las fracciones I, II, III y IV, párrafo tercero; 220; 221; 223; 224, párrafo primero, fracción II; 225, párrafo
+**primero.-** , fracciones II y III; 227; 228, párrafo primero, fracciones II, III, IV y V; 229; 230; 231; 232; 233; 234; 237; 238; 239; 240; 241, párrafo primero, fracciones I, II y III; 242; 243, del párrafo primero, las fracciones I, II y III; 244; 245, párrafo primero, fracción II; 246; 247; 248; 249, párrafo primero, fracciones I, II, III, IV y V, inciso b); 250, párrafo primero; 253, párrafo primero; 254; 255, párrafo primero, fracciones II, III y IV; 256; 257, párrafo primero, fracciones II y III; 258; 259; 260; 261, párrafo primero, fracciones II, III, IV, V y VI; 263; 264, párrafo primero, de la fracción I, párrafo segundo; 265, párrafo primero, fracciones II, III y IV; 266; 267, párrafo primero, fracciones II, III, y IV; 270, párrafo primero, fracciones II y III; 271; 272; 273; 274, párrafo primero, fracción II; 275, párrafos primero, segundo, tercero y cuarto; 275 Bis; 275 Ter, párrafos primero y tercero; 276, párrafo primero; 278; 279, párrafo primero, fracción II; 280, párrafo primero; 281; 282, párrafo primero, fracción II; 284; 285, párrafo primero, fracciones II, III, IV, V, VI, VII y VIII; 286; 288; 289; 290, párrafo primero; 293; 294; 295; 297; 298; 299, párrafo primero, fracciones II, III, IV, V y VI; 300; 301; 302; 303, párrafo primero, fracciones I y II; 304, párrafo primero, fracciones II, III y IV; 305, párrafo primero; 306; 307; 309; 311, párrafo primero, fracciones II y III; 312, párrafo primero; 313, párrafo primero, fracciones II y III; 314; 316; 318, párrafo primero, fracciones II, III, IV, V y VI; 319, párrafo primero, fracciones II, III y IV; 322; 323, párrafo primero, fracción II; 324, párrafo
+**primero.-** , fracciones II, III, IV y V; 325; 327; 330; 331; 333; 334, párrafo primero; 335; 336, del párrafo
+**primero.-** , fracción II; 337; 338, párrafo primero; 339, párrafo primero, fracciones II y III; 340; 341; 342, párrafo primero, fracciones II y III; 343, párrafo primero, fracciones I, II, III, IV, V y VI; 344; 345; 346; 347; 348; 349; 350; 351; 352, párrafo primero, fracciones II y III; 353, párrafo primero, fracción II; 354; 355, párrafo primero, fracciones II y III; 356; 357; 358, párrafo primero, fracciones II y III; 359; 360; 361; 362, párrafo primero, fracciones I, II, en su párrafo primero, fracción III; 363; 364, párrafo primero, fracciones II y III; 365, párrafo primero, fracciones II y III; 366, párrafo primero, fracción II; 367; 368; 369; 370, párrafo
+**primero.-** , fracción II; 371, párrafo primero, fracción III; 372, párrafo primero, fracciones II y III; 373; 374; 375, párrafo primero; 376; 377; 378, párrafo primero, fracción II; 379, párrafo primero, fracción II; 380; 381; 382; 384; 386; 387; 388; 389; 390; 391; 392; 393; 394; 395; 397, párrafo primero, fracciones I, II, III, párrafo primero y IV, párrafo primero; 398, párrafo primero; 399; 400; 401; 402; 403; 404; 405; 406; 407, párrafo primero, fracciones II, III, IV, V, VI y VII; 408, párrafo primero, fracciones II y III; 409; 421; 422, párrafos primero y segundo, fracciones II, III, IV, V, VI y VII; 423, párrafo primero, fracciones I, II, III, IV y V; 424; 425; 426; 427; 428; 429; 430; 432; 433; 434, de su primer párrafo las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI; así como las denominaciones del Libro Primero, Título Primero Capítulo II; Título
+**Quinto.-** , Capítulo II; del Libro Segundo, Título Octavo y sus Capítulos III y VI; Título Decimoprimero, Capítulo I, y se adicionan a los artículos 47, el párrafo segundo; 208, párrafo segundo; 249, párrafo
+**segundo.-** ; 396 Bis; 396 Ter; 396 Quáter; 396 Quinquies; 396 Sexies; 434, fracciones XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII así como en el Libro Segundo del Título Decimoprimero, un Capítulo VI Bis, del Código de Justicia Militar, para quedar como sigue: ……..
 
 ## Transitorios
 

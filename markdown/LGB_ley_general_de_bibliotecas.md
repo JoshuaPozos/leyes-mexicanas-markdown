@@ -15,6 +15,7 @@ Se expide la Ley General de Bibliotecas.
 
 ## CAPÍTULO I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de observancia general en toda la República, sus disposiciones son de orden público e interés social y tiene por objeto:
 
@@ -127,6 +128,7 @@ Para fines estadísticos o de reconocimiento al trabajo de la institución a car
 
 ## CAPÍTULO II — De la Red Nacional de Bibliotecas Públicas
 
+
 ### Artículo 10
 . Se integra la Red Nacional de Bibliotecas Públicas con:
 
@@ -193,6 +195,7 @@ XV. Realizar las demás funciones que sean análogas o complementarias a las ant
 
 ## CAPÍTULO III — De las Redes de Bibliotecas Públicas en las Entidades Federativas
 
+
 ### Artículo 16
 . Corresponderá a los gobiernos de las entidades federativas, en los términos de las disposiciones aplicables y los acuerdos de coordinación que se celebren:
 
@@ -233,10 +236,12 @@ b) Con una acreditación o certificación de la Dirección General, que garantic
 
 ## CAPÍTULO IV — De la Adhesión a las Redes Nacional y de las Entidades Federativas
 
+
 ### Artículo 20
 . Las bibliotecas de los sectores social y privado que presten servicios con características de biblioteca pública en los términos de la presente Ley y que manifiesten su disposición a incorporarse a la Red nacional o a una de alguna entidad federativa, celebrarán con la Secretaría o con el gobierno de la entidad federativa un convenio de adhesión. En su caso, podrán solicitar que luego de su adhesión, les sean aportados materiales de los mencionados en el artículo 15 de esta Ley.
 
 ## CAPÍTULO V — De la Biblioteca de México
+
 
 ### Artículo 21
 . La Secretaría, a través de la Dirección General, organizará la Biblioteca de México.
@@ -245,6 +250,7 @@ b) Con una acreditación o certificación de la Dirección General, que garantic
 . La Biblioteca de México tiene el carácter de biblioteca central en la Red y de las bibliotecas del orden federal de gobierno.
 
 ## CAPÍTULO VI — Del Sistema Nacional de Bibliotecas
+
 
 ### Artículo 23
 . El Sistema Nacional de Bibliotecas es una instancia de colaboración, integrado por las bibliotecas escolares, públicas, especializadas y cualquier otra que, de manera voluntaria, se integre al mecanismo, incluidas las bibliotecas de personas físicas o morales de los sectores social y privado.
@@ -284,10 +290,12 @@ VII. Las demás que sean análogas a las anteriores que le permitan alcanzar sus
 
 ## CAPÍTULO VII — De la Participación Ciudadana
 
+
 ### Artículo 28
 . El Sistema contará con un Consejo Consultivo, integrado por la representación de los sistemas bibliotecarios y bibliotecas cuyos acervos y colecciones constituyan un patrimonio bibliográfico de gran relevancia para el país, la representación del sector editorial y de especialistas en bibliotecología y biblioteconomía, el cual operará con base en un estatuto aprobado por sus miembros. La persona titular de la Secretaría de Cultura presidirá el Consejo y será suplida por la persona titular de la Dirección General.
 
 ## CAPÍTULO VIII
+
 Personal y Usuarios de los Servicios Bibliotecarios
 
 ### Artículo 29
@@ -308,6 +316,7 @@ III. Que el personal destinado a la operación de una biblioteca no lo discrimin
 IV. Que la biblioteca pública conserve el patrimonio cultural oral de su comunidad.
 
 ## CAPÍTULO IX
+
 Descarte
 
 ### Artículo 32
@@ -410,10 +419,10 @@ Artículo reformado DOF 29-11-2023
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el 21 de enero de 1988.
-**Tercero.** Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991.
-**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes, y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el 21 de enero de 1988.
+**Tercero.-** Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991.
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes, y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda.
 Ciudad de México, a 30 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

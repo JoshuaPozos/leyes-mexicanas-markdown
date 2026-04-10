@@ -16,6 +16,7 @@ LEY PARA EL USO Y PROTECCIÓN DE LA DENOMINACIÓN Y DEL EMBLEMA DE LA CRUZ ROJA 
 
 ## CAPÍTULO ÚNICO
 
+
 ### Artículo 1
 .- La presente Ley es de orden público y de observancia general en toda la República. Su objeto es regular el uso y la protección del emblema de la cruz roja así como la denominación "Cruz Roja" y las demás señales distintivas establecidas para su identificación, de conformidad con lo previsto por los cuatro Convenios de Ginebra de 1949 y, cuando sean aplicables, de sus Protocolos Adicionales, así como de la demás legislación vigente en el país.
 Siempre que en esta Ley se diga "Cruz Roja", para referirse al emblema o a la denominación, se entiende de manera análoga el emblema de la media luna roja y la denominación "Media Luna Roja", y demás emblemas o denominaciones que comprendan los ordenamientos jurídicos internacionales, de los que México sea Parte contratante y que cumplan los mismos usos, funciones y propósitos, previstos y regulados por el derecho internacional humanitario. Lo anterior sin detrimento a lo establecido en la presente Ley.
@@ -52,12 +53,14 @@ XII. Misión Médica: Comprende el conjunto de personas, unidades, medios de tra
 TITULO SEGUNDO DEFINICIÓN Y USO DEL EMBLEMA DE LA CRUZ ROJA
 
 ## CAPÍTULO I
+
 Emblema de la Cruz Roja
 
 ### Artículo 4
 .- El emblema de la cruz roja, conforme a lo establecido en el artículo 38 del I Convenio de Ginebra de 1949, está constituido por una cruz de color rojo, o una media luna de color rojo en posición vertical, ambas sobre fondo blanco. La cruz roja estará formada por dos fajas de color rojo de iguales dimensiones, que se cortan en el centro de manera perpendicular, conformando la imagen de cinco cuadros iguales. En ningún caso el emblema tocará los bordes de la bandera o escudo.
 
 ## CAPÍTULO II
+
 Usos del Emblema de la Cruz Roja
 
 ### Artículo 5
@@ -67,6 +70,7 @@ Usos del Emblema de la Cruz Roja
 .- El emblema de la cruz roja, conforme a los Convenios de Ginebra de 1949, tendrá dos usos: el uso protector y el uso indicativo.
 
 ## CAPÍTULO III
+
 Uso Protector del Emblema de la Cruz Roja
 
 ### Artículo 7
@@ -104,6 +108,7 @@ La Cruz Roja Mexicana, previa autorización de la Secretaría de la Defensa Naci
 Si la Cruz Roja Mexicana, en caso de conflicto armado, continúa desplegando sus actividades de tiempo de paz, tomará todas las oportunas medidas para que se considere al emblema que a título indicativo figure, en personas o en bienes únicamente como indicador de la relación con esta Sociedad Nacional y no como garante de la protección particular del Derecho Internacional Humanitario.
 
 ## CAPÍTULO IV
+
 Uso Indicativo del Emblema de la Cruz Roja
 
 ### Artículo 12
@@ -128,6 +133,7 @@ En caso del emblema utilizado con este uso por la Cruz Roja Mexicana, deberá ir
 Asimismo la Cruz Roja Mexicana podrá autorizar a las demás Sociedades Nacionales de la Cruz Roja el uso del emblema a título indicativo, cuando éstas se hallen en territorio nacional y siempre que tal uso se avenga con las disposiciones de la presente Ley.
 
 ## CAPÍTULO V
+
 Uso del Emblema de Manera Indicativa por Organizaciones Distintas a las Pertenecientes al Movimiento Internacional de la Cruz Roja
 
 ### Artículo 18
@@ -135,6 +141,7 @@ Uso del Emblema de Manera Indicativa por Organizaciones Distintas a las Pertenec
 TITULO TERCERO MEDIDAS DE CONTROL Y SANCIONES
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 19
 .- Compete a la Secretaría de Gobernación vigilar el estricto cumplimiento de esta Ley y, en su caso, sancionar administrativamente el uso del emblema o del término "Cruz Roja" por personas o entidades que, según lo dispuesto por esta Ley, no tienen derecho ni están autorizadas para su uso.

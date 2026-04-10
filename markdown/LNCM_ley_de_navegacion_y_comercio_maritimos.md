@@ -15,17 +15,21 @@ Se expide la Ley de Navegación y Comercio Marítimos.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO I — ÁMBITO DE APLICACIÓN DE LA LEY
+
 
 ### Artículo 1
 .- Esta ley es de orden público y tiene por objeto regular las vías generales de comunicación por agua, la navegación, su protección y los servicios que en ellas se prestan, la marina mercante mexicana, así como los actos, hechos y bienes relacionados con el comercio marítimo.
-Párrafo reformado DOF 26-12-2013 Quedan exceptuadas de las disposiciones de esta Ley las embarcaciones y artefactos navales de uso militar, pertenecientes a la Secretaría de Marina.
+Párrafo reformado DOF 26-12-2013
+Quedan exceptuadas de las disposiciones de esta Ley las embarcaciones y artefactos navales de uso militar, pertenecientes a la Secretaría de Marina.
 
 ### Artículo 2
 .- Para efectos de esta Ley se entenderá por:
 
 I. Secretaría: La Secretaría de Marina;
-Fracción reformada DOF 07-12-2020 I Bis. Se deroga.
+Fracción reformada DOF 07-12-2020
+I Bis. Se deroga.
 Fracción adicionada DOF 26-12-2013. Derogada DOF 07-12-2020
 
 II. Navegación: La actividad que realiza una embarcación, para trasladarse por vías navegables de un punto a otro, con dirección y fines determinados.
@@ -40,7 +44,8 @@ VI. Marina Mercante: El conjunto formado por las personas físicas o morales, em
 
 VII. Contaminación Marina: La introducción por el hombre, directa o indirectamente de substancias o de energía en el medio marino que produzcan o puedan producir efectos nocivos a la vida y recursos marinos, a la salud humana, o la utilización legítima de las vías generales de comunicación por agua en cualquier tipo de actividad, de conformidad con los Tratados Internacionales.
 VII Bis. Protección Marítima y Portuaria: El conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar al puerto, recinto portuario, terminales, marinas e instalaciones portuarias, así como a las embarcaciones, artefactos navales, personas, carga, unidades de transporte y provisiones a bordo de las mismas;
-Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020 VII Ter. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria establecido en la Ley de Puertos;
+Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020
+VII Ter. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria establecido en la Ley de Puertos;
 Fracción adicionada DOF 26-12-2013
 
 VIII. Propietario: la persona física o moral titular del derecho real de propiedad de una o varias embarcaciones, y/o artefactos navales, bajo cualquier título legal.
@@ -84,18 +89,22 @@ III. Ley de Puertos;
 V. La Ley Federal de Competencia Económica;
 
 VI. La Ley Federal de Procedimiento Administrativo;
-Fracción reformada DOF 14-11-2025 Seguros;
+Fracción reformada DOF 14-11-2025
+Seguros;
 
 IX. La Ley Federal del Trabajo; y
 
 X. Los usos y las costumbres marítimas internacionales.
 
 ## CAPÍTULO II
-Autoridad Marítima Nacional Denominación del Capítulo reformada DOF 07-12-2020
+
+Autoridad Marítima Nacional
+Denominación del Capítulo reformada DOF 07-12-2020
 
 ### Artículo 7
 . La Autoridad Marítima Nacional la ejerce el Ejecutivo Federal a través de la Secretaría, para el ejercicio de la soberanía, protección y seguridad marítima y portuaria, así como el mantenimiento del estado de derecho en las zonas marinas mexicanas, costas, puertos, recintos portuarios, terminales, marinas e instalaciones portuarias nacionales, sin perjuicio de las atribuciones que correspondan a otras dependencias.
-Párrafo reformado DOF 07-12-2020 En materia de marina mercante serán autoridades conforme a lo previsto en esta Ley:
+Párrafo reformado DOF 07-12-2020
+En materia de marina mercante serán autoridades conforme a lo previsto en esta Ley:
 
 I. La Secretaría, por sí o por conducto de las capitanías de puerto;
 Fracción reformada DOF 07-12-2020
@@ -184,10 +193,12 @@ Fracción adicionada DOF 07-12-2020
 XXVIII. Integrar la información estadística de los accidentes en las zonas marinas mexicanas;
 Fracción adicionada DOF 07-12-2020
 
-XXIX. Administrar los registros nacionales de la gente de mar y de embarcaciones, conforme a lo dispuesto en el reglamento respectivo, y Fracción adicionada DOF 07-12-2020
+XXIX. Administrar los registros nacionales de la gente de mar y de embarcaciones, conforme a lo dispuesto en el reglamento respectivo, y
+Fracción adicionada DOF 07-12-2020
 
 XXX. Las demás que señalen otras disposiciones jurídicas aplicables.
-Fracción adicionada DOF 07-12-2020 Artículo reformado DOF 23-01-2014, 19-12-2016
+Fracción adicionada DOF 07-12-2020
+Artículo reformado DOF 23-01-2014, 19-12-2016
 
 ### Artículo 8
 Bis. Se deroga.
@@ -232,10 +243,12 @@ Fracción adicionada DOF 07-12-2020
 XIII. Coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones en las aguas de su jurisdicción;
 Fracción adicionada DOF 07-12-2020
 
-XIV. Dirigir el cuerpo de vigilancia, seguridad y auxilio para la navegación interior, y Fracción adicionada DOF 07-12-2020
+XIV. Dirigir el cuerpo de vigilancia, seguridad y auxilio para la navegación interior, y
+Fracción adicionada DOF 07-12-2020
 
 XV. Las demás que le confieran otras disposiciones jurídicas aplicables.
-Fracción adicionada DOF 07-12-2020 Artículo reformado DOF 26-12-2013, 19-12-2016
+Fracción adicionada DOF 07-12-2020
+Artículo reformado DOF 26-12-2013, 19-12-2016
 
 ### Artículo 9
 Bis. Se deroga.
@@ -247,12 +260,15 @@ Artículo adicionado DOF 19-12-2016. Reformado DOF 07-12-2020
 
 ## TÍTULO SEGUNDO — DE LA MARINA MERCANTE
 
+
 ## CAPÍTULO I — ABANDERAMIENTO Y MATRÍCULA DE EMBARCACIONES
+
 
 ### Artículo 10
 .- Son embarcaciones y artefactos navales mexicanos, los abanderados y matriculados en alguna capitanía de puerto, a solicitud de su propietario o naviero, previa verificación de las condiciones de seguridad del mismo y presentación de la dimisión de bandera del país de origen, de acuerdo con el reglamento respectivo.
 La embarcación o artefacto naval se inscribirá en el Registro Nacional de Embarcaciones y se le expedirá un certificado de matrícula, cuyo original deberá permanecer a bordo como documento probatorio de su nacionalidad mexicana.
-Párrafo reformado DOF 19-12-2016 Para su matriculación, las embarcaciones y artefactos navales se clasifican:
+Párrafo reformado DOF 19-12-2016
+Para su matriculación, las embarcaciones y artefactos navales se clasifican:
 I.- Por su uso, en embarcaciones:
 
 a) De transporte de pasajeros;
@@ -278,11 +294,13 @@ I. Cuando sean de su propiedad; y
 
 II. Cuando se encuentren bajo su posesión mediante contrato de arrendamiento financiero celebrado con una institución de crédito mexicana, o bien con una extranjera autorizada para actuar como tal conforme a las leyes nacionales.
 Autorizado el abanderamiento, la Secretaría hará del conocimiento de la autoridad fiscal competente, el negocio jurídico que tenga como consecuencia la propiedad o posesión de la embarcación.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 En el abanderamiento y matriculación, las embarcaciones y los artefactos navales deberán cumplir con los Tratados Internacionales y con los requisitos establecidos en el reglamento respectivo.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+En el abanderamiento y matriculación, las embarcaciones y los artefactos navales deberán cumplir con los Tratados Internacionales y con los requisitos establecidos en el reglamento respectivo.
 
 ### Artículo 12
 . La Secretaría, a solicitud del propietario o naviero, abanderará embarcaciones como mexicanas, previo cumplimiento de las normas de inspección y certificación correspondientes. La Secretaría deberá además expedir un pasavante de navegación mientras se tramita la matrícula mexicana, de conformidad con los requisitos que establezca el reglamento respectivo.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 En el extranjero, la autoridad consular mexicana, a solicitud del propietario o naviero, abanderará provisionalmente embarcaciones como mexicanas y, mediante la expedición de un pasavante autorizará la navegación para un solo viaje con destino a puerto mexicano, donde tramitará la matrícula.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+En el extranjero, la autoridad consular mexicana, a solicitud del propietario o naviero, abanderará provisionalmente embarcaciones como mexicanas y, mediante la expedición de un pasavante autorizará la navegación para un solo viaje con destino a puerto mexicano, donde tramitará la matrícula.
 
 ### Artículo 13
 .- Se considerarán embarcaciones de nacionalidad mexicana:
@@ -294,7 +312,8 @@ Las embarcaciones comprendidas en las fracciones II a V de este artículo, será
 
 ### Artículo 14
 . El certificado de matrícula de una embarcación mexicana tendrá vigencia indefinida y será cancelado por la Secretaría en los casos siguientes:
-Párrafo reformado DOF 19-12-2016, 07-12-2020 I.- Por no reunir las condiciones de seguridad para la navegación y prevención de la contaminación del medio marino;
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+I.- Por no reunir las condiciones de seguridad para la navegación y prevención de la contaminación del medio marino;
 II.- Por naufragio, incendio o cualquier otro accidente que la imposibilite para navegar por más de un año;
 III.- Por su destrucción o pérdida total;
 IV.- Cuando su propietario o poseedor deje de ser mexicano, excepto para el caso de las embarcaciones de recreo o deportivas para uso particular;
@@ -304,13 +323,16 @@ VI.- Por captura hecha por el enemigo, si la embarcación fue declarada buena pr
 VII. Por resolución judicial;
 Fracción reformada DOF 07-12-2020
 
-VIII. Por dimisión de bandera, hecha por el propietario o titular del certificado de matrícula, y Fracción reformada DOF 07-12-2020
+VIII. Por dimisión de bandera, hecha por el propietario o titular del certificado de matrícula, y
+Fracción reformada DOF 07-12-2020
 
 IX. Por no acreditar su legal estancia en territorio nacional, tratándose de embarcaciones o artefactos navales bajo el régimen de importación temporal, conforme a lo establecido en la legislación de la materia.
-Fracción adicionada DOF 07-12-2020 La Secretaría a petición del propietario o naviero, sólo autorizará la dimisión de bandera y la cancelación de matrícula y registro de una embarcación, cuando esté cubierto o garantizado el pago de los créditos laborales y fiscales y exista constancia de libertad de gravámenes expedida por el Registro Público Marítimo Nacional, salvo pacto en contrario entre las partes, con excepción de la causal contenida en la fracción VII del presente artículo.
+Fracción adicionada DOF 07-12-2020
+La Secretaría a petición del propietario o naviero, sólo autorizará la dimisión de bandera y la cancelación de matrícula y registro de una embarcación, cuando esté cubierto o garantizado el pago de los créditos laborales y fiscales y exista constancia de libertad de gravámenes expedida por el Registro Público Marítimo Nacional, salvo pacto en contrario entre las partes, con excepción de la causal contenida en la fracción VII del presente artículo.
 Párrafo reformado DOF 19-12-2016, 07-12-2020
 
 ## CAPÍTULO II — REGISTRO PÚBLICO MARÍTIMO NACIONAL
+
 
 ### Artículo 15
 .- La Secretaría tendrá a su cargo el Registro Público Marítimo Nacional.
@@ -337,6 +359,7 @@ V.- Las resoluciones judiciales y administrativas que consten de manera auténti
 
 ## CAPÍTULO III — EMPRESAS NAVIERAS
 
+
 ### Artículo 20
 .- Para actuar como naviero mexicano se requiere:
 
@@ -352,10 +375,12 @@ El requisito señalado en la fracción IV, no será exigible a quienes manifiest
 ### Artículo 21
 .- Se presume que el propietario o los copropietarios de la embarcación son sus armadores o navieros, salvo prueba en contrario.
 El naviero que asuma la operación o explotación de una embarcación que no sea de su propiedad, deberá hacer declaración de armador ante la capitanía de puerto, del puerto de su matrícula, de conformidad con las disposiciones reglamentarias al respecto.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 Dicha declaración se anotará al margen de su inscripción en el Registro Público Marítimo Nacional y cuando cese esa calidad, deberá solicitarse la cancelación de la anotación. Esta declaración la podrá hacer también el propietario de la embarcación.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+Dicha declaración se anotará al margen de su inscripción en el Registro Público Marítimo Nacional y cuando cese esa calidad, deberá solicitarse la cancelación de la anotación. Esta declaración la podrá hacer también el propietario de la embarcación.
 Si no se hiciere esa declaración, el propietario y el naviero responderán solidariamente de las obligaciones derivadas de la explotación de la embarcación.
 
 ## CAPÍTULO IV — AGENTES NAVIEROS
+
 
 ### Artículo 22
 .- El agente naviero es la persona física o moral que está facultada para que en nombre del naviero u operador, bajo el carácter de mandatario o comisionista mercantil, actúe en su nombre o representación como:
@@ -390,6 +415,7 @@ Párrafo reformado DOF 19-12-2016, 07-12-2020
 
 ## CAPÍTULO V — TRIPULACIÓN
 
+
 ### Artículo 25
 .- Las personas que presten un servicio a bordo de las embarcaciones y artefactos navales mexicanos, se considerarán para efectos de esta Ley como tripulantes de los mismos.
 El reglamento respectivo establecerá la dotación mínima de tripulantes para cada tipo de embarcación pesquera, así como los requisitos de los certificados de competencia necesarios de conformidad con la legislación pesquera y los tratados internacionales aplicables.
@@ -422,6 +448,7 @@ Artículo reformado DOF 19-12-2016, 07-12-2020
 
 ## CAPÍTULO VI — EDUCACIÓN MARÍTIMA MERCANTE
 
+
 ### Artículo 31
 .- La Educación Náutica, es de interés público, por lo que la Secretaría organizará e impartirá directamente la formación y capacitación del personal de la Marina Mercante, con planes y programas de estudios registrados ante la Secretaría de Educación Pública, deberá contar con un buque escuela con la tecnología didáctica necesaria y actualizada para el cumplimiento de sus objetivos.
 Las instituciones educativas de estudios superiores que autorice la Secretaría y la de Educación Pública, podrán ofrecer estudios de posgrado a los oficiales de la Marina Mercante Nacional, de conformidad con lo establecido en la Ley General de Educación, para lo cual deberán contar con los bienes muebles, equipos y sistemas adecuados para la enseñanza práctica y con planes y programas de estudios que ambas Secretarías determinen.
@@ -432,9 +459,11 @@ Párrafo reformado DOF 19-12-2016
 .- Los planes y programas de estudio para la formación y capacitación de los diversos niveles de profesionales y subalternos de las tripulaciones de las embarcaciones y artefactos navales mexicanos, serán autorizados por la Secretaría, de acuerdo con el desarrollo y necesidades de la marina mercante mexicana. En la integración de tales planes y programas se valorarán las opiniones de los propietarios, navieros, colegios de marinos y demás entidades vinculadas al sector marítimo.
 La Secretaría, coadyuvará con la autoridad en materia de pesca, al desarrollo de planes y programas de capacitación acordes con la actividad del sector; en la integración de estos, deberán valorar las opiniones de las asociaciones sectoriales, los centros de investigación pesquera y, demás entidades vinculadas, todo ello con apego a las disposiciones aplicables.
 Los documentos que establece el Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar y los demás Tratados Internacionales, serán expedidos por la Secretaría de conformidad con el reglamento respectivo.
-Párrafo reformado DOF 19-12-2016 A quienes obtengan los títulos de Piloto Naval y de Maquinista Naval, en los términos del reglamento correspondiente, la Secretaría les expedirá conjuntamente los títulos de Ingeniero Geógrafo e Hidrógrafo, y de Ingeniero Mecánico Naval, respectivamente.
+Párrafo reformado DOF 19-12-2016
+A quienes obtengan los títulos de Piloto Naval y de Maquinista Naval, en los términos del reglamento correspondiente, la Secretaría les expedirá conjuntamente los títulos de Ingeniero Geógrafo e Hidrógrafo, y de Ingeniero Mecánico Naval, respectivamente.
 
 ## CAPÍTULO VII — De la Coordinación Administrativa en Materia de Desatención de Tripulaciones
+
 Denominación del Capítulo reformada DOF 07-12-2020
 
 ### Artículo 33
@@ -463,9 +492,11 @@ Artículo reformado DOF 07-12-2020
 
 ### Artículo 35
 . Cualquier autoridad que tenga conocimiento del abandono de tripulantes nacionales o extranjeros en embarcaciones o artefactos navales, tanto nacionales como extranjeros, que se encuentren en vías navegables mexicanas, deberá informarlo a la Secretaría para que se lleve a cabo el procedimiento establecido en el artículo anterior.
-Artículo reformado DOF 19-12-2016, 07-12-2020 TITULO TERCERO DE LA NAVEGACIÓN
+Artículo reformado DOF 19-12-2016, 07-12-2020
+TITULO TERCERO DE LA NAVEGACIÓN
 
 ## CAPÍTULO I — RÉGIMEN DE NAVEGACIÓN
+
 
 ### Artículo 36
 . La navegación en zonas marinas mexicanas y el arribo a puertos mexicanos estarán abiertos, en tiempos de paz a las embarcaciones de todos los Estados, conforme al principio de reciprocidad internacional. Cuando existan razones de seguridad nacional o interés público, la Secretaría podrá negar la navegación en zonas marinas mexicanas y el arribo a puertos mexicanos.
@@ -491,15 +522,19 @@ Párrafo reformado DOF 19-12-2016, 07-12-2020
 .- La libertad en la utilización de embarcaciones en navegación de altura, cabotaje y la regulación de tarifas en la prestación de servicios marítimos, se sujetarán a lo siguiente:
 A. La utilización de embarcaciones en navegación de altura de conformidad con lo dispuesto en el artículo precedente, misma que incluye el transporte y el remolque internacional estará abierta para los navieros y las embarcaciones de todos los Estados, cuando haya reciprocidad en los términos de los Tratados Internacionales.
 La Secretaría, previa opinión de la Comisión Federal de Competencia Económica, que declare la ausencia de condiciones de competencia efectiva en un mercado relevante en términos de la Ley Federal de Competencia Económica estará facultada para reservar, total o parcialmente determinado transporte internacional de carga de altura o cabotaje, para que sólo esté permitido realizarse a propietarios o navieros mexicanos con embarcaciones mexicanas cuando no se cumplan con las disposiciones sobre competencia y libre concurrencia de conformidad con la legislación de la materia.
-Párrafo reformado DOF 19-12-2016 La reserva total o parcial señalada en el párrafo anterior se mantendrá únicamente mientras subsista la falta de condiciones de concurrencia y competencia efectiva. Para ello, deberá mediar la opinión de la Comisión Federal de Competencia Económica sobre la subsistencia de tales condiciones, procedimiento que dará inicio a solicitud de la Secretaría, de parte interesada o de oficio.
-Párrafo reformado DOF 19-12-2016 B. De conformidad con el artículo 8, fracción XI de esta Ley, cuando en opinión de la Comisión Federal de Competencia Económica, haya dejado de existir el estado de falta de competencia efectiva, la regulación de tarifas establecida deberá suprimirse o modificarse en el sentido correspondiente dentro de los treinta días hábiles siguientes a la expedición de la opinión.
-Párrafo reformado DOF 19-12-2016 Asimismo, la Secretaría solicitará la opinión de la citada Comisión con el objeto de determinar la aplicación de los lineamientos de regulación de tarifas que deberán permitir la prestación del servicio en condiciones satisfactorias de calidad y eficiencia.
+Párrafo reformado DOF 19-12-2016
+La reserva total o parcial señalada en el párrafo anterior se mantendrá únicamente mientras subsista la falta de condiciones de concurrencia y competencia efectiva. Para ello, deberá mediar la opinión de la Comisión Federal de Competencia Económica sobre la subsistencia de tales condiciones, procedimiento que dará inicio a solicitud de la Secretaría, de parte interesada o de oficio.
+Párrafo reformado DOF 19-12-2016
+B. De conformidad con el artículo 8, fracción XI de esta Ley, cuando en opinión de la Comisión Federal de Competencia Económica, haya dejado de existir el estado de falta de competencia efectiva, la regulación de tarifas establecida deberá suprimirse o modificarse en el sentido correspondiente dentro de los treinta días hábiles siguientes a la expedición de la opinión.
+Párrafo reformado DOF 19-12-2016
+Asimismo, la Secretaría solicitará la opinión de la citada Comisión con el objeto de determinar la aplicación de los lineamientos de regulación de tarifas que deberán permitir la prestación del servicio en condiciones satisfactorias de calidad y eficiencia.
 
 ### Artículo 40
 .- Sin perjuicio de lo previsto en los Tratados Internacionales, la operación y explotación de embarcaciones en navegación interior y de cabotaje estará reservada a navieros mexicanos con embarcaciones mexicanas.
 Salvo lo previsto en el artículo 42 de esta Ley, la operación y explotación de embarcaciones mexicanas por navieros mexicanos no requerirá permiso de navegación de la Secretaría.
 La operación y explotación de embarcaciones en navegación interior y de cabotaje, destinadas a servicios turísticos, deportivos y recreativos, así como la operación y explotación de aquellas destinadas a la construcción y mantenimiento portuario, y el dragado podría realizarse por navieros mexicanos o extranjeros con embarcaciones mexicanas o extranjeras, previa autorización de la Secretaría, y siempre y cuando exista reciprocidad con el país de que se trate, procurando dar prioridad a las empresas nacionales y cumpliendo con las disposiciones legales aplicables.
-Párrafo reformado DOF 07-12-2020 Salvo lo previsto en el artículo siguiente, en los supuestos señalados en el párrafo anterior, no se requerirá permiso de navegación de la Secretaría.
+Párrafo reformado DOF 07-12-2020
+Salvo lo previsto en el artículo siguiente, en los supuestos señalados en el párrafo anterior, no se requerirá permiso de navegación de la Secretaría.
 En caso de no existir embarcaciones mexicanas disponibles en igualdad de condiciones técnicas o bien cuando impere una causa de interés público, la Secretaría estará facultada para otorgar permisos temporales para navegación de cabotaje, de acuerdo con la siguiente prelación:
 
 I. Naviero mexicano con embarcación extranjera, bajo contrato de arrendamiento o fletamento a casco desnudo; y
@@ -523,13 +558,15 @@ a) Transporte de pasajeros y cruceros turísticos;
 
 b) Remolque, maniobra y lanchaje en puerto, excepto cuando tengan celebrado contrato con la administración portuaria, conforme lo establezca la Ley de Puertos;
 
-c) Dragado, y Inciso reformado DOF 07-12-2020
+c) Dragado, y
+Inciso reformado DOF 07-12-2020
 
 d) Las embarcaciones extranjeras para prestar el servicio de cabotaje, siempre y cuando no exista una nacional que lo haga en igualdad de condiciones;
 
 II. Requerirán permiso de la capitanía de puerto para prestar los servicios de:
 
-a) Transporte de pasajeros y turismo náutico, con embarcaciones de recreo y deportivas mexicanas o extranjeras, y Inciso reformado DOF 07-12-2020
+a) Transporte de pasajeros y turismo náutico, con embarcaciones de recreo y deportivas mexicanas o extranjeras, y
+Inciso reformado DOF 07-12-2020
 
 b) Seguridad, salvamento y auxilio a la navegación, y
 
@@ -555,8 +592,10 @@ Párrafo reformado DOF 19-12-2016
 ### Artículo 44
 .- Los permisos materia de esta Ley, se otorgarán a todas aquellas personas que cumplan con los requisitos aplicables según lo señalado en el artículo precedente.
 La resolución correspondiente en materia de permisos, deberá emitirse en un plazo que no exceda de diez días hábiles, contado a partir del día en que se hubiere presentado la solicitud debidamente requisitada.
-Párrafo reformado DOF 19-12-2016 Cuando a criterio justificado de la Secretaría, las características de lo solicitado lo ameriten, o bien cuando la información se considere insatisfactoria, ésta requerirá al solicitante información complementaria. De no acreditarse la misma en un plazo de cinco días hábiles, la solicitud se tendrá por no formulada.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 El incumplimiento de lo dispuesto en este artículo, dará lugar a la aplicación de las sanciones y responsabilidades que establece la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Párrafo reformado DOF 19-12-2016
+Cuando a criterio justificado de la Secretaría, las características de lo solicitado lo ameriten, o bien cuando la información se considere insatisfactoria, ésta requerirá al solicitante información complementaria. De no acreditarse la misma en un plazo de cinco días hábiles, la solicitud se tendrá por no formulada.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+El incumplimiento de lo dispuesto en este artículo, dará lugar a la aplicación de las sanciones y responsabilidades que establece la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 Los plazos señalados en este artículo no serán aplicables al otorgamiento de permisos temporales de navegación, los cuales serán regulados exclusivamente por lo dispuesto en el artículo 40 de esta Ley.
 Reforma DOF 07-12-2020: Derogó del artículo el entonces párrafo cuarto (antes reformado DOF 19-12-2016) CAPITULO II ARRIBO Y DESPACHO DE EMBARCACIONES
 
@@ -589,7 +628,8 @@ Fracción reformada DOF 19-12-2016
 II. Se expedirán antes de la hora de zarpe, una vez que haya finalizado la carga y las operaciones complementarias realizadas en puerto; y
 
 III. Quedarán sin efecto si no se hiciese uso de ellos, dentro de las cuarenta y ocho horas siguientes a su expedición, salvo autorización justificada que expresamente emita la capitanía de puerto.
-Fracción reformada DOF 19-12-2016 No se considerará despacho de salida, la autorización otorgada por la capitanía de puerto cuando por razones de fuerza mayor, las embarcaciones deban salir del puerto por razón de seguridad.
+Fracción reformada DOF 19-12-2016
+No se considerará despacho de salida, la autorización otorgada por la capitanía de puerto cuando por razones de fuerza mayor, las embarcaciones deban salir del puerto por razón de seguridad.
 Párrafo reformado DOF 19-12-2016
 
 ### Artículo 49
@@ -606,7 +646,8 @@ IV. Por la existencia justificada de un riesgo inminente en materia de seguridad
 
 V. Por falta del número, calificación o certificación de los tripulantes según el certificado de dotación mínima;
 
-VI. Por tener conocimiento de algún accidente, incidente o situación de riesgo de importancia para la seguridad de los tripulantes, sucedida a la embarcación y de conformidad con las disposiciones de esta Ley en materia de investigación de accidentes marítimos, a menos que se haya acreditado fehacientemente la compostura correspondiente a la embarcación, de acuerdo con el criterio de la capitanía de puerto, cuando la reparación no sea de importancia y mediante la certificación de la casa clasificadora cuando la reparación sea mayor, y Fracción reformada DOF 19-12-2016
+VI. Por tener conocimiento de algún accidente, incidente o situación de riesgo de importancia para la seguridad de los tripulantes, sucedida a la embarcación y de conformidad con las disposiciones de esta Ley en materia de investigación de accidentes marítimos, a menos que se haya acreditado fehacientemente la compostura correspondiente a la embarcación, de acuerdo con el criterio de la capitanía de puerto, cuando la reparación no sea de importancia y mediante la certificación de la casa clasificadora cuando la reparación sea mayor, y
+Fracción reformada DOF 19-12-2016
 
 VII. En el caso de las embarcaciones extranjeras, por lo dispuesto en el artículo 264 de esta Ley.
 
@@ -618,19 +659,23 @@ Artículo adicionado DOF 26-12-2013. Reformado DOF 19-12-2016
 .- Las embarcaciones de recreo y deportivas de uso particular extranjeras registrarán su arribo únicamente ante la capitanía del primer puerto que toquen en territorio mexicano. Estas embarcaciones, mexicanas o extranjeras, sólo requerirán despacho cuando pretendan realizar navegación de altura, sin embargo, deberán registrar cada entrada y salida en alguna marina autorizada.
 Toda marina turística, deportiva o de recreo deberá llevar una bitácora de arribo y despacho de las embarcaciones que pertenezcan a la misma, así como de las que arriben de visita.
 La Secretaría estará facultada para habilitar a un delegado honorario de la capitanía de puerto, como responsable de controlar el arribo y despacho de las embarcaciones turísticas o de recreo. El delegado honorario estará facultado para negar el despacho de salida a las embarcaciones de las citadas categorías que, por causas de seguridad en la navegación y de la vida humana en el mar de conformidad con las disposiciones internacionales, legales y reglamentarias, se consideren faltas de aptitud para hacerse a la mar.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 En todo caso, el despacho de embarcaciones para navegación de altura, deberá ser expedido por la capitanía de puerto respectiva.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+En todo caso, el despacho de embarcaciones para navegación de altura, deberá ser expedido por la capitanía de puerto respectiva.
 
 ### Artículo 51
 .- Se entiende por despacho vía la pesca, la autorización a una embarcación para que se haga a la mar con el objeto de realizar actividades pesqueras.
 La capitanía de puerto estará obligada a expedir un despacho por cada embarcación pesquera. El plazo de vigencia del despacho será el mismo que se establezca para la vigencia de las concesiones o permisos que emita la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la actividad pesquera que se haya solicitado en dicho despacho.
-Párrafo reformado DOF 19-12-2016 La capitanía de puerto deberá suspender el despacho vía la pesca cuando:
+Párrafo reformado DOF 19-12-2016
+La capitanía de puerto deberá suspender el despacho vía la pesca cuando:
 
-I. La dependencia competente tenga pruebas del incumplimiento de las normas de seguridad aplicables, y Fracción reformada DOF 19-12-2016
+I. La dependencia competente tenga pruebas del incumplimiento de las normas de seguridad aplicables, y
+Fracción reformada DOF 19-12-2016
 
 II. Exista orden de un órgano jurisdiccional o administrativo competente.
 La cancelación de la autorización, permiso o concesión de pesca, extinguirá la vigencia del despacho vía la pesca respectivo.
 El naviero estará obligado a dar aviso de entrada y salida, cada vez que entre o salga al puerto. Para ello, deberá presentar por escrito a la capitanía de puerto la documentación que establezca el reglamento respectivo.
-Párrafo reformado DOF 19-12-2016 La capitanía de puerto, en su ámbito de competencia, estará obligada a verificar que en la expedición del despacho vía la pesca, así como en los avisos de entrada y salida y en la información a ser presentada por el naviero, se respeten las normas aplicables en materia de seguridad en la navegación y la vida humana en el mar, prevención de la contaminación marina, así como las demás que establezcan los Tratados Internacionales.
+Párrafo reformado DOF 19-12-2016
+La capitanía de puerto, en su ámbito de competencia, estará obligada a verificar que en la expedición del despacho vía la pesca, así como en los avisos de entrada y salida y en la información a ser presentada por el naviero, se respeten las normas aplicables en materia de seguridad en la navegación y la vida humana en el mar, prevención de la contaminación marina, así como las demás que establezcan los Tratados Internacionales.
 Párrafo reformado DOF 19-12-2016
 
 ### Artículo 52
@@ -639,20 +684,26 @@ Párrafo reformado DOF 19-12-2016
 ### Artículo 53
 .- El capitán de puerto estará obligado a que no se prolongue la permanencia de embarcaciones en el puerto sin causa justificada, cuando esto ponga en riesgo la vida o la integridad corporal de los tripulantes.
 Durante su permanencia en la zona portuaria, las embarcaciones deberán contar con el personal necesario para ejecutar cualquier movimiento que ordene la capitanía de puerto, o que proceda para la seguridad del puerto y de las demás embarcaciones.
-Párrafo reformado DOF 19-12-2016 En el supuesto de que una embarcación que no sea de turismo náutico, recreo o deportiva se encuentre fondeada más allá de la jurisdicción del puerto, el capitán de puerto ya sea de oficio o a petición de parte, aplicará las normas de esta Ley relativas al amarre y abandono.
+Párrafo reformado DOF 19-12-2016
+En el supuesto de que una embarcación que no sea de turismo náutico, recreo o deportiva se encuentre fondeada más allá de la jurisdicción del puerto, el capitán de puerto ya sea de oficio o a petición de parte, aplicará las normas de esta Ley relativas al amarre y abandono.
 
 ### Artículo 54
 .- Las embarcaciones cargadas con substancias explosivas o inflamables, ejecutarán sus operaciones de carga y alijo en el lugar que determinen las reglas de operación del puerto y en estricto cumplimiento a las indicaciones que por razones de seguridad ordene la capitanía de puerto.
 
 ## CAPÍTULO III — PILOTAJE
 
+
 ### Artículo 55
 .- El servicio de pilotaje o practicaje es de interés público. La Secretaría determinará la asignación de pilotos de puerto, con base en el reglamento correspondiente, las reglas de pilotaje, las reglas de operación de cada puerto y de acuerdo con las necesidades del tráfico.
-Párrafo reformado DOF 23-01-2014 El servicio de practicaje o de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto o zona de pilotaje y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten y cuando a juicio de la Secretaría se ponga en riesgo la seguridad en la navegación y la salvaguarda de la vida humana en la mar.
-Párrafo reformado DOF 23-01-2014, 07-12-2020 El pago por la prestación del servicio de pilotaje será el que se indique en la tarifa respectiva autorizada por la Secretaría.
+Párrafo reformado DOF 23-01-2014
+El servicio de practicaje o de pilotaje, se prestará a toda embarcación mayor que arribe o zarpe de un puerto o zona de pilotaje y que esté legalmente obligada a utilizarlo, así como a las demás que sin estar obligadas, lo soliciten y cuando a juicio de la Secretaría se ponga en riesgo la seguridad en la navegación y la salvaguarda de la vida humana en la mar.
+Párrafo reformado DOF 23-01-2014, 07-12-2020
+El pago por la prestación del servicio de pilotaje será el que se indique en la tarifa respectiva autorizada por la Secretaría.
 La Secretaría determinará, con base en criterios de seguridad, economía y eficiencia, los puertos, zonas de pilotaje, áreas de fondeo, áreas de seguridad y vías navegables en las cuales sea obligatoria la utilización del servicio de pilotaje, mismos que será prestado en la forma que prevenga el Reglamento correspondiente y las reglas de pilotaje de cada puerto. Asimismo, la Secretaría estará facultada de acuerdo a dichos criterios, a establecer las reglas de pilotaje de cada puerto, los supuestos mediante los cuales se exima de la obligatoriedad del servicio de pilotaje.
-Párrafo reformado DOF 23-01-2014 En el ámbito de sus atribuciones y responsabilidad, corresponderá sólo a los pilotos de puerto tomar decisiones técnicas tendientes a la seguridad de la navegación y la vida humana en el mar, así como la protección del ambiente marino.
-Párrafo reformado DOF 23-01-2014 El servicio público de pilotaje o practicaje se prestará en forma continua, permanente, uniforme, regular y por turnos durante todo el año, las veinticuatro horas del día, exceptuado los periodos en que el estado del tiempo, las marejadas o corrientes y la saturación del puerto impidan prestar ininterrumpidamente el servicio de pilotaje, y cuando el servicio sea alterado por causas de interés público o cuando así lo determine la autoridad competente. Los pilotos de puerto podrán tener las embarcaciones que juzguen necesarias para el ejercicio de sus servicios, las que utilizarán exclusivamente para el desempeño de los mismos o, en su caso, podrán escoger la embarcación que sea la más adecuada para prestar sus servicios de aquellas que se encuentren autorizadas en el puerto para el servicio de lanchaje. Los gastos que originen las embarcaciones destinadas al servicio de pilotaje serán por cuenta de los armadores, consignatarios, agentes o capitanes conforme a la tarifa que autorice la Secretaría.
+Párrafo reformado DOF 23-01-2014
+En el ámbito de sus atribuciones y responsabilidad, corresponderá sólo a los pilotos de puerto tomar decisiones técnicas tendientes a la seguridad de la navegación y la vida humana en el mar, así como la protección del ambiente marino.
+Párrafo reformado DOF 23-01-2014
+El servicio público de pilotaje o practicaje se prestará en forma continua, permanente, uniforme, regular y por turnos durante todo el año, las veinticuatro horas del día, exceptuado los periodos en que el estado del tiempo, las marejadas o corrientes y la saturación del puerto impidan prestar ininterrumpidamente el servicio de pilotaje, y cuando el servicio sea alterado por causas de interés público o cuando así lo determine la autoridad competente. Los pilotos de puerto podrán tener las embarcaciones que juzguen necesarias para el ejercicio de sus servicios, las que utilizarán exclusivamente para el desempeño de los mismos o, en su caso, podrán escoger la embarcación que sea la más adecuada para prestar sus servicios de aquellas que se encuentren autorizadas en el puerto para el servicio de lanchaje. Los gastos que originen las embarcaciones destinadas al servicio de pilotaje serán por cuenta de los armadores, consignatarios, agentes o capitanes conforme a la tarifa que autorice la Secretaría.
 Párrafo adicionado DOF 23-01-2014. Reformado DOF 19-12-2016
 
 ### Artículo 56
@@ -666,11 +717,14 @@ I. Ser mexicano por nacimiento y no adquirir otra nacionalidad;
 
 II. Contar con título profesional de una escuela náutica acreditada ante la Secretaría;
 
-III. Contar con el certificado de competencia y la autorización para prestar el servicio de pilotaje para el puerto respectivo y zona de pilotaje, expedido por la Secretaría, y Fracción reformada DOF 23-01-2014
+III. Contar con el certificado de competencia y la autorización para prestar el servicio de pilotaje para el puerto respectivo y zona de pilotaje, expedido por la Secretaría, y
+Fracción reformada DOF 23-01-2014
 
 IV. Realizar prácticas obligatorias en el puerto y zona de pilotaje donde se aspire a prestar el servicio.
-Fracción reformada DOF 23-01-2014 La Secretaría estará facultada para implementar programas de certificación continua de pilotos de puerto, quienes estarán obligados a cumplirlos durante el tiempo que se mantengan activos, sujetos únicamente a mantener aprobada su capacidad física y técnica como pilotos de puerto, sin restricción de edad.
-Párrafo reformado DOF 19-12-2016 El cargo de piloto de puerto será incompatible con cualquier empleo, cargo o comisión, directo o indirecto, en las empresas de navieros o agencias navieras usuarias del servicio de pilotaje, así como en sus empresas filiales o subsidiarias.
+Fracción reformada DOF 23-01-2014
+La Secretaría estará facultada para implementar programas de certificación continua de pilotos de puerto, quienes estarán obligados a cumplirlos durante el tiempo que se mantengan activos, sujetos únicamente a mantener aprobada su capacidad física y técnica como pilotos de puerto, sin restricción de edad.
+Párrafo reformado DOF 19-12-2016
+El cargo de piloto de puerto será incompatible con cualquier empleo, cargo o comisión, directo o indirecto, en las empresas de navieros o agencias navieras usuarias del servicio de pilotaje, así como en sus empresas filiales o subsidiarias.
 
 ### Artículo 58
 .- Además de las estipulaciones de carácter contractual existentes entre los pilotos de puerto y sus usuarios, en el servicio de pilotaje se atenderá a las siguientes normas relativas a la responsabilidad:
@@ -680,11 +734,13 @@ I. La presencia de un piloto de puerto a bordo de una embarcación, no exime al 
 II. El capitán tendrá la obligación de atender las indicaciones del piloto de puerto si a su criterio no expone la seguridad de la embarcación o de las instalaciones portuarias. En caso contrario, deberá relevar de su cometido al piloto de puerto, quien quedará autorizado para dejar el puente de mando de la embarcación, debiendo dar ambos cuenta de lo sucedido a la capitanía de puerto para los efectos que proceda. Deberá sustituirse el piloto de puerto, si las condiciones de la maniobra lo permiten;
 Fracción reformada DOF 19-12-2016
 
-III. El piloto de puerto será responsable de los daños y perjuicios que cause a las embarcaciones e instalaciones marítimas portuarias, debido a la impericia, negligencia, descuido, temeridad, mala fe, culpa o dolo en sus indicaciones cuando se encuentre dirigiendo la maniobra. La capitanía de puerto deberá realizar las investigaciones necesarias conforme a lo dispuesto en esta Ley, para determinar la responsabilidad del piloto de puerto, y Fracción reformada DOF 19-12-2016
+III. El piloto de puerto será responsable de los daños y perjuicios que cause a las embarcaciones e instalaciones marítimas portuarias, debido a la impericia, negligencia, descuido, temeridad, mala fe, culpa o dolo en sus indicaciones cuando se encuentre dirigiendo la maniobra. La capitanía de puerto deberá realizar las investigaciones necesarias conforme a lo dispuesto en esta Ley, para determinar la responsabilidad del piloto de puerto, y
+Fracción reformada DOF 19-12-2016
 
 IV. Los pilotos de puerto estarán eximidos de cualquier responsabilidad en caso de siniestros ocurridos a causa de caso fortuito o fuerza mayor.
 
 ## CAPÍTULO IV — REMOLQUE MANIOBRA EN PUERTO
+
 
 ### Artículo 59
 .- Además de las estipulaciones de carácter contractual existentes entre los prestadores del servicio público de remolque maniobra en puerto y sus usuarios, en este servicio se atenderá a las siguientes disposiciones y al reglamento respectivo:
@@ -704,6 +760,7 @@ VI. Para la prestación de este servicio se estará a lo dispuesto en la Ley de 
 
 ## CAPÍTULO V — SEÑALAMIENTO MARÍTIMO, Y AYUDAS A LA NAVEGACIÓN
 
+
 ### Artículo 60
 . La Secretaría estará obligada a disponer de los recursos humanos y materiales necesarios para garantizar el funcionamiento y conocimiento público adecuados sobre el señalamiento marítimo y las ayudas a la navegación en las vías navegables.
 La Secretaría realizará las labores de señalamiento marítimo y ayudas a la navegación con el propósito de prevenir o solucionar problemas de seguridad en la misma.
@@ -712,8 +769,10 @@ Artículo reformado DOF 19-12-2016, 07-12-2020
 ### Artículo 61
 .- La Secretaría determinará los puertos o vías navegables donde deban establecerse los servicios de control de la navegación de conformidad con el reglamento respectivo.
 La Secretaría realizará directamente las labores de dragado de mantenimiento en los puertos donde lo considere de interés para la seguridad nacional o para solucionar problemas de contaminación marina; así como las obras marítimas y de dragado que requiera el país y, en su caso, las autorizará cuando sobrepasen sus capacidades técnicas y operativas.
-Párrafo reformado DOF 07-12-2020 En caso de ser necesario, la Secretaría autorizará las obras marítimas y las operaciones de dragado en los puertos, debiendo observar las normas aplicables en materia ambiental, el Reglamento de esta Ley, así como las reglas de operación de cada puerto.
-Párrafo adicionado DOF 07-12-2020 Artículo reformado DOF 19-12-2016
+Párrafo reformado DOF 07-12-2020
+En caso de ser necesario, la Secretaría autorizará las obras marítimas y las operaciones de dragado en los puertos, debiendo observar las normas aplicables en materia ambiental, el Reglamento de esta Ley, así como las reglas de operación de cada puerto.
+Párrafo adicionado DOF 07-12-2020
+Artículo reformado DOF 19-12-2016
 
 ### Artículo 62
 .- Con apego al reglamento respectivo y a las reglas de operación de cada puerto, la Secretaría determinará las áreas marítimas para los fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes en los puertos, y en las instalaciones y áreas de exploración y explotación de recursos naturales en las zonas marinas mexicanas, con el fin de preservar la seguridad en la navegación, recalada y salida de las embarcaciones que operen en las mismas.
@@ -726,6 +785,7 @@ Artículo reformado DOF 19-12-2016, 07-12-2020
 .- Los capitanes de las embarcaciones y quienes dirijan las operaciones en los artefactos navales, están obligados a informar por cualquier medio de comunicación desde el momento de su avistamiento a la capitanía de puerto más próxima, sobre las interrupciones o deficiencias que se adviertan en las materias reguladas en este capítulo. La capitanía de puerto a su vez, estará obligada a informar a todas las embarcaciones que se encuentren en la misma área sobre tales interrupciones o deficiencias. A su arribo a puerto, el capitán deberá informar lo señalado en este artículo por escrito a la capitanía de puerto, quien deberá tomar de inmediato las medidas necesarias para eliminar las interrupciones o las deficiencias.
 
 ## CAPÍTULO VI — DE LAS INSPECCIONES
+
 
 ### Artículo 65
 . El servicio de inspección es de interés público. La Secretaría inspeccionará y certificará que las embarcaciones y artefactos navales mexicanos, así como las instalaciones de servicios y receptoras de desechos, cumplan con la legislación nacional y con los Tratados Internacionales en materia de seguridad en la navegación y de la vida humana en el mar, así como de prevención de la contaminación marina por embarcaciones.
@@ -748,7 +808,8 @@ Fracción reformada DOF 19-12-2016, 07-12-2020
 V. Para ser autorizado por la Secretaría para prestar el servicio de inspección deberán cumplirse los requisitos señalados en el reglamento respectivo;
 Fracción reformada DOF 19-12-2016, 07-12-2020
 
-VI. La Secretaría estará facultada para implementar programas de certificación continua de inspectores, de conformidad con el reglamento respectivo, y Fracción reformada DOF 19-12-2016, 07-12-2020
+VI. La Secretaría estará facultada para implementar programas de certificación continua de inspectores, de conformidad con el reglamento respectivo, y
+Fracción reformada DOF 19-12-2016, 07-12-2020
 
 VII. El cargo de inspector será incompatible con cualquier empleo, comisión o figura similar directa o indirectamente en empresas navieras, agentes navieros, así como en cualquier entidad relacionada con éstas en la prestación de servicios marítimos o portuarios.
 
@@ -790,12 +851,14 @@ Fracción reformada DOF 19-12-2016, 07-12-2020
 III. Durante los trabajos, la embarcación en construcción o reparación estará sujeta a las pruebas, inspecciones y verificaciones correspondientes; y
 
 IV. Al término de los trabajos, la embarcación requerirá de los certificados de seguridad marítima y de arqueo que expida la Secretaría directamente o bien un inspector autorizado por ésta.
-Fracción reformada DOF 19-12-2016, 07-12-2020 Se entenderá por reparación o modificación significativa de embarcaciones, aquéllas que conlleven la alteración de sus dimensiones o su capacidad de transporte, o que provoquen que cambie el tipo de la embarcación, así como las que se efectúen con la intención de prolongar la vida útil de la embarcación.
+Fracción reformada DOF 19-12-2016, 07-12-2020
+Se entenderá por reparación o modificación significativa de embarcaciones, aquéllas que conlleven la alteración de sus dimensiones o su capacidad de transporte, o que provoquen que cambie el tipo de la embarcación, así como las que se efectúen con la intención de prolongar la vida útil de la embarcación.
 
 ### Artículo 75
 .- Las personas físicas o morales que se dediquen a dar mantenimiento a balsas salvavidas, dispositivos de salvamento, equipos contra incendio y material similar, deberán cumplir con los requisitos internacionales y con las normas oficiales mexicanas que se emitan de conformidad con el reglamento respectivo. Asimismo serán, sujetos de la certificación e inspección en los términos de este capítulo.
 
 ## CAPÍTULO VII — PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN MARINA
+
 
 ### Artículo 76
 .- De conformidad con lo que establecen los tratados internacionales, se prohíbe derramar hidrocarburos persistentes que se transporten como carga, o que se lleven en los tanques de consumo de las embarcaciones. Asimismo, se prohíbe descargar, derramar, arrojar o cualquier acto equivalente, lastre, escombros, basura, aguas residuales, así como cualquier elemento en cualquier estado de la materia o energía que cause o pueda causar un daño a la vida, ecosistemas y recursos marinos, a la salud humana o a la utilización legítima de las vías navegables y al altamar que rodea a las zonas marinas mexicanas identificadas en la Ley Federal del Mar.
@@ -806,12 +869,16 @@ A las sanciones administrativas derivadas de las infracciones a lo señalado en 
 .- La distribución de competencias de las dependencias de la Administración Pública Federal en materia de prevención y control de la contaminación marina, se basará en las siguientes normas, para lo cual dichas dependencias estarán obligadas a celebrar los convenios de coordinación necesarios que garanticen la efectiva prevención y control bajo la responsabilidad de sus titulares, quienes deberán además dar seguimiento estricto de su aplicación:
 A. La Secretaría certificará e inspeccionará en el ámbito portuario que las embarcaciones cumplan con lo establecido en el presente Capítulo y reportará inmediatamente a las demás dependencias competentes cualquier contingencia en materia de contaminación marina.
 Deberá asimismo sancionar a los infractores en el ámbito de su competencia;
-Apartado reformado DOF 19-12-2016, 07-12-2020 B. La Secretaría, en las zonas marinas mexicanas establecidas en la Ley Federal del Mar, vigilará el cumplimiento de lo establecido en el presente Capítulo. De igual manera, verificará las posibles afectaciones por contaminación en dichas zonas y sancionará a los infractores responsables cuando sean identificados de conformidad con el reglamento respectivo. Además, aplicará de acuerdo con sus ordenamientos el Plan Nacional de Contingencias para combatir y controlar derrames de hidrocarburos y otras sustancias nocivas en el mar, en coordinación con otras dependencias de la Administración Pública Federal involucradas, y Apartado reformado DOF 19-12-2016, 07-12-2020 C. La Secretaría de Medio Ambiente y Recursos Naturales, coordinará con la Secretaría, los programas de prevención y control de la contaminación marina, así como el Plan Nacional de Contingencias en el ámbito marítimo. Deberá asimismo sancionar a los infractores en el ámbito de su competencia.
+Apartado reformado DOF 19-12-2016, 07-12-2020
+B. La Secretaría, en las zonas marinas mexicanas establecidas en la Ley Federal del Mar, vigilará el cumplimiento de lo establecido en el presente Capítulo. De igual manera, verificará las posibles afectaciones por contaminación en dichas zonas y sancionará a los infractores responsables cuando sean identificados de conformidad con el reglamento respectivo. Además, aplicará de acuerdo con sus ordenamientos el Plan Nacional de Contingencias para combatir y controlar derrames de hidrocarburos y otras sustancias nocivas en el mar, en coordinación con otras dependencias de la Administración Pública Federal involucradas, y
+Apartado reformado DOF 19-12-2016, 07-12-2020
+C. La Secretaría de Medio Ambiente y Recursos Naturales, coordinará con la Secretaría, los programas de prevención y control de la contaminación marina, así como el Plan Nacional de Contingencias en el ámbito marítimo. Deberá asimismo sancionar a los infractores en el ámbito de su competencia.
 Apartado reformado DOF 19-12-2016, 07-12-2020
 
 ### Artículo 77
 BIS. Toda persona física o moral que ocasione directa o indirectamente un daño a los ecosistemas marinos o sus componentes estará obligada a la reparación de los daños, o bien, a la compensación ambiental que proceda de conformidad con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
-Artículo adicionado DOF 07-06-2013 TITULO CUARTO DE LA PROPIEDAD DE LAS EMBARCACIONES CAPITULO I DISPOSICIONES GENERALES
+Artículo adicionado DOF 07-06-2013
+TITULO CUARTO DE LA PROPIEDAD DE LAS EMBARCACIONES CAPITULO I DISPOSICIONES GENERALES
 
 ### Artículo 78
 .- La embarcación y los artefactos navales son bienes muebles sujetos a lo establecido en La embarcación comprende tanto el casco como la maquinaria, sus equipos y accesorios fijos o móviles destinados de manera permanente a la navegación y al ornato, lo que constituye una universalidad de hecho.
@@ -852,6 +919,7 @@ II. De obra, cuando se establezca que el naviero aporte los materiales para la c
 
 ## CAPÍTULO III — COPROPIEDAD MARÍTIMA
 
+
 ### Artículo 84
 .- Para facilitar la copropiedad de una embarcación, el derecho de propiedad sobre la misma se considerará dividido en cien quirates. Sin perder su unidad ni su proporcionalidad, los quirates podrán ser objeto a su vez de copropiedad. Las deliberaciones de los copropietarios de una embarcación se resolverán por mayoría de quirates. En caso de empate, resolverá el Juez competente. Las decisiones de la mayoría podrán ser impugnadas en juicio por la minoría.
 
@@ -864,15 +932,18 @@ Las decisiones de venta de la embarcación deberán ser tomadas por unanimidad d
 
 ## CAPÍTULO IV — AMARRE, ABANDONO Y DESGUACE DE EMBARCACIONES
 
+
 ### Artículo 87
 .- Se entiende por amarre temporal de embarcaciones el acto por el cual la capitanía de puerto autoriza o declara la estadía de una embarcación en puerto, fuera de operación comercial. Las autorizaciones y declaraciones referidas, se regularán conforme a las reglas siguientes:
 Párrafo reformado DOF 19-12-2016
 
-I. La capitanía de puerto autorizará el amarre temporal, designando el lugar y tiempo de permanencia, si no perjudica los servicios portuarios, previa opinión favorable del administrador portuario, cuando la embarcación no cuente con tripulación de servicio a bordo y previa garantía otorgada por el propietario o naviero que solicite el amarre temporal, suficiente a criterio de la Secretaría para cubrir los daños o perjuicios que pudieren ocasionarse durante el tiempo del amarre y el que siga al vencimiento de éste si no se pusiese en servicio la embarcación, así como la documentación laboral que acredite que están cubiertas las indemnizaciones y demás prestaciones que legalmente deba pagar el propietario o naviero a la tripulación, y Fracción reformada DOF 19-12-2016, 07-12-2020
+I. La capitanía de puerto autorizará el amarre temporal, designando el lugar y tiempo de permanencia, si no perjudica los servicios portuarios, previa opinión favorable del administrador portuario, cuando la embarcación no cuente con tripulación de servicio a bordo y previa garantía otorgada por el propietario o naviero que solicite el amarre temporal, suficiente a criterio de la Secretaría para cubrir los daños o perjuicios que pudieren ocasionarse durante el tiempo del amarre y el que siga al vencimiento de éste si no se pusiese en servicio la embarcación, así como la documentación laboral que acredite que están cubiertas las indemnizaciones y demás prestaciones que legalmente deba pagar el propietario o naviero a la tripulación, y
+Fracción reformada DOF 19-12-2016, 07-12-2020
 
 II. La capitanía de puerto declarará el amarre temporal, designando el lugar y tiempo de permanencia, en el supuesto de que una embarcación que no sea de turismo náutico, recreo o deportiva permanezca en puerto durante un lapso superior a diez días hábiles desde su atraque, cuando se ponga en riesgo la seguridad de los tripulantes, de la embarcación o del puerto.
 En los casos de embarcaciones de pabellón extranjero, la Secretaría notificará al cónsul del país de la bandera de la embarcación para su conocimiento, así como a la autoridad migratoria para que garanticen las condiciones de la tripulación de conformidad con el Convenio sobre Repatriación de Gente de Mar, así como los demás Tratados Internacionales en la materia. En su caso, será aplicable el Capítulo VII del Título Segundo de esta Ley.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 En caso de que el amarre ocurriere en un área de operación concesionada del puerto, el propietario o el naviero otorgará la garantía por daños y perjuicios a favor del administrador portuario.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+En caso de que el amarre ocurriere en un área de operación concesionada del puerto, el propietario o el naviero otorgará la garantía por daños y perjuicios a favor del administrador portuario.
 
 ### Artículo 88
 .- El plazo de amarre temporal no podrá ser mayor de treinta días hábiles contados a partir de la notificación de la autorización o la declaración del mismo, pudiendo renovarse éste en una única ocasión. Transcurrido este plazo si no se pusiere en servicio la embarcación; o bien cuando antes de este término estuviere en peligro de hundimiento o constituya un estorbo para la navegación u operación portuaria, la capitanía de puerto por sí misma o a solicitud de la Administración Portuaria, ordenará su remolque al lugar que convenga a esta última.
@@ -954,6 +1025,7 @@ Los créditos privilegiados marítimos darán lugar a la ejecución por su impor
 
 ## CAPÍTULO VI — DE LA HIPOTECA MARÍTIMA
 
+
 ### Artículo 101
 .- Se podrá constituir hipoteca sobre embarcaciones construidas o en proceso de construcción. La hipoteca marítima podrá ser constituida tanto por el propietario de la embarcación como por un tercero a su favor.
 Para la constitución de las hipotecas marítimas se estará a lo establecido por esta Ley y a falta de La constitución de la hipoteca deberá constar en instrumento otorgado ante notario o corredor públicos, o cualquier otro fedatario público de acuerdo con la legislación del Estado extranjero en que se haya constituido.
@@ -993,6 +1065,7 @@ Artículo reformado DOF 14-11-2025
 TITULO QUINTO DE LOS CONTRATOS DE UTILIZACIÓN DE EMBARCACIONES
 
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 107
 .- Cuando en los contratos regulados por el presente título, las partes se refieran a nombres de pólizas tipo internacionalmente reconocidas y aceptadas, se entenderá que el contrato celebrado corresponde al clausulado de dichas pólizas, tal y como se conozcan en el ámbito internacional, salvo que parte de dicho clausulado se hubiere modificado mediante convenio por correspondencia de cualquier medio de transmisión de datos, cruzada entre las partes; se entenderá que dichas pólizas fueron modificadas en los términos de la referida correspondencia.
@@ -1035,6 +1108,7 @@ II. La gestión comercial comprenderá todas las actividades de carácter mercan
 
 ## CAPÍTULO II — CONTRATO DE ARRENDAMIENTO A CASCO DESNUDO
 
+
 ### Artículo 114
 .- En virtud del contrato de arrendamiento a casco desnudo, el arrendador se obliga a poner por un tiempo determinado a disposición del arrendatario, una embarcación determinada en estado de navegabilidad, sin armamento y sin tripulación, a cambio del pago de una renta. Para efectos de esta Ley, el contrato de arrendamiento y el contrato de fletamento a casco desnudo, serán considerados sinónimos y su regulación será la misma.
 
@@ -1065,6 +1139,7 @@ VII. La facultad o no de subarrendar o ceder determinados derechos.
 .- En el contrato de arrendamiento a casco desnudo se podrá pactar la opción de compra, así como otras cláusulas especiales que atiendan a la especialidad de la operación que a través de él se llevará a cabo.
 
 ## CAPÍTULO III — CONTRATOS DE FLETAMENTO
+
 
 ### Artículo 119
 .- En virtud del contrato de fletamento, el fletante se obliga a poner una embarcación en estado de navegabilidad, a disposición de un fletador, quien a su vez deberá realizar el pago de un flete.
@@ -1122,6 +1197,7 @@ VII. La facultad o no de subfletar o ceder determinados derechos.
 
 ## CAPÍTULO IV — CONTRATO DE TRANSPORTE MARÍTIMO DE MERCANCÍAS
 
+
 ### Artículo 128
 .- En virtud del contrato de transporte marítimo de mercancías, el naviero o el operador se obligan ante el embarcador o cargador mediante el pago de un flete, a trasladar la mercancía de un punto a otro y entregarla a su destinatario o consignatario.
 
@@ -1133,8 +1209,10 @@ En los servicios de transporte multimodal en que un segmento sea de transporte m
 .- Las tarifas de fletes para los servicios regulares en navegación de altura y los recargos serán libremente pactados por los transportistas y los usuarios de conformidad con lo dispuesto en la Convención sobre un Código de Conducta de las Conferencias Marítimas.
 Los fletes correspondientes a otros servicios de transporte marítimo de mercancías, serán pactados libremente por los transportistas y los usuarios del servicio.
 La Secretaría estará facultada para establecer la base de regulación de tarifas en la prestación de los servicios de transporte marítimo de mercancías cuando en opinión de la Comisión Federal de Competencia Económica no existan condiciones de competencia efectiva.
-Párrafo reformado DOF 19-12-2016 La regulación tarifaria se suprimirá cuando la Comisión Federal de Competencia Económica, a solicitud de la Secretaría, de parte interesada o de oficio, opine que las condiciones que le dieron origen han dejado de existir.
-Párrafo reformado DOF 19-12-2016 La Secretaría estará facultada para solicitar la opinión de la Comisión Federal de Competencia Económica, con el objeto de determinar la aplicación de los lineamientos de regulación de tarifas que deberá permitir la prestación del servicio en condiciones satisfactorias de calidad y eficiencia.
+Párrafo reformado DOF 19-12-2016
+La regulación tarifaria se suprimirá cuando la Comisión Federal de Competencia Económica, a solicitud de la Secretaría, de parte interesada o de oficio, opine que las condiciones que le dieron origen han dejado de existir.
+Párrafo reformado DOF 19-12-2016
+La Secretaría estará facultada para solicitar la opinión de la Comisión Federal de Competencia Económica, con el objeto de determinar la aplicación de los lineamientos de regulación de tarifas que deberá permitir la prestación del servicio en condiciones satisfactorias de calidad y eficiencia.
 Párrafo reformado DOF 19-12-2016
 
 ### Artículo 131
@@ -1189,6 +1267,7 @@ Si tales pérdidas o daños no son aparentes, el aviso deberá darse en los tres
 .- Las acciones derivadas del transporte marítimo mediante conocimiento de embarque prescribirán en un año, contado a partir de que la mercancía fue puesta a disposición del destinatario o de que la embarcación llegó a su destino sin la mercancía de referencia.
 
 ## CAPÍTULO V — CONTRATO DE TRANSPORTE MARÍTIMO DE PASAJEROS
+
 
 ### Artículo 138
 .- Salvo las normas de naturaleza dispositiva que se establezcan en este capítulo, los contenidos del mismo tendrán carácter imperativo, por lo que los derechos a favor de los pasajeros en él consignados serán irrenunciables.
@@ -1255,6 +1334,7 @@ El transportista estará impedido de beneficiarse de la limitación de responsab
 
 ## CAPÍTULO VI — CONTRATOS DE REMOLQUE TRANSPORTE
 
+
 ### Artículo 148
 .- El contrato de remolque transporte, regula la operación de trasladar por agua una embarcación u otro objeto de un lugar a otro, bajo la dirección del capitán de la embarcación remolcadora, mediante el suministro por ésta de toda o parte de la fuerza de tracción.
 
@@ -1273,7 +1353,9 @@ Artículo reformado DOF 19-12-2016
 
 ## TÍTULO SEXTO — DE LOS RIESGOS Y ACCIDENTES DE LA NAVEGACIÓN
 
+
 ## CAPÍTULO I — ABORDAJES
+
 
 ### Artículo 152
 .- Se entiende por abordaje a la colisión ocurrida entre dos o más embarcaciones o entre éstas y artefactos navales flotantes.
@@ -1293,6 +1375,7 @@ Las disposiciones del presente capítulo se aplicarán aun cuando el abordaje oc
 .- Las acciones derivadas del abordaje prescribirán en dos años contados a partir de la fecha del accidente. En caso de que se tenga derecho de repetir en razón de haberse pagado por otras personas también responsables, éste prescribirá al cabo de un año contado a partir de la fecha del pago.
 
 ## CAPÍTULO II — AVERIAS
+
 
 ### Artículo 157
 .- Se entiende por avería todo daño o menoscabo que sufra la embarcación en puerto o durante la navegación, o que afecte a la carga desde que es embarcada hasta su desembarque en el lugar de destino; así como todo gasto extraordinario en que se incurra durante la expedición para la conservación de la embarcación, de la carga o ambos.
@@ -1320,6 +1403,7 @@ V. La declaración de avería común no afecta las acciones particulares que pue
 .- Las acciones derivadas de la avería común prescribirán en un año, contado a partir de la fecha de llegada al primer puerto de arribo, después del suceso que haya dado lugar a la declaración de avería común. Cuando se haya firmado un compromiso de avería común, la prescripción operará al término de cuatro años contados a partir de la fecha de su firma.
 
 ## CAPÍTULO III — BÚSQUEDA, RESCATE Y SALVAMENTO
+
 
 ### Artículo 161
 .- Por operación de salvamento se entenderá toda actividad realizada con el propósito de auxiliar a una embarcación, o bien para salvaguardar otros bienes que se encuentran en peligro en vías navegables o en otras zonas marinas, en términos de lo dispuesto por el Convenio de Salvamento Marítimo de 1989.
@@ -1349,6 +1433,7 @@ Artículo reformado DOF 26-12-2013
 Las partes de una operación de salvamento estarán legitimadas para celebrar contratos de salvamento mediante pólizas internacionales estandarizadas, mismas que serán reconocidas por las autoridades competentes en tanto no se viole lo dispuesto por el tratado internacional de referencia.
 
 ## CAPÍTULO IV — REMOCIONES Y DERELICTOS O RESTOS DE NAUFRAGIO
+
 
 ### Artículo 167
 . Cuando una embarcación, aeronave, artefacto naval, carga o cualquier otro objeto se encuentre a la deriva, en peligro de hundimiento, hundido o varado y a juicio de la Secretaría, pueda constituir un peligro o un obstáculo para la navegación, la operación portuaria, la pesca u otras actividades marítimas relacionadas con las vías navegables, o bien para la preservación del ambiente, conforme al Convenio de Limitación de Responsabilidad de 1976, deberá llevarse a cabo lo siguiente:
@@ -1387,6 +1472,7 @@ Artículo reformado DOF 19-12-2016, 07-12-2020
 
 ## CAPÍTULO V — RESPONSABILIDAD CIVIL DERIVADA DE SINIESTROS MARÍTIMOS
 
+
 ### Artículo 175
 .- De conformidad con lo dispuesto por este capítulo, el propietario de una embarcación o artefacto naval, al ocurrir un siniestro será responsable de todos los daños que le sean imputables causados a terceros por la explotación del mismo o por su carga, así como de las medidas tomadas para prevenir o minimizar esos daños.
 
@@ -1404,6 +1490,7 @@ Con objeto de cubrir la indemnización suplementaria por daños producidos por d
 .- El reglamento respectivo establecerá un sistema de coordinación entre las autoridades que cuenten con facultades concurrentes en la materia de prevención de la contaminación marina, de forma tal que se garantice el cumplimiento de lo dispuesto por los Tratados Internacionales.
 
 ## CAPÍTULO VI — INVESTIGACIÓN DE ACCIDENTES O INCIDENTES MARÍTIMOS
+
 
 ### Artículo 180
 . La Secretaría estará facultada para investigar todo accidente o incidente marítimo que tenga lugar en cualquier vía navegable.
@@ -1453,13 +1540,17 @@ I. Revisar el expediente con el fin de determinar si está debidamente integrado
 
 II. Emitir dictamen, fundado y motivado en el que se establezca si se incurrió en infracción administrativa.
 Cuando se trate de operaciones de salvamento, el dictamen emitido por la Secretaría determinará también el monto probable o estimado de la remuneración, la cual deberá calcularse en los términos del Convenio Internacional sobre Salvamento Marítimo. Lo dispuesto en este artículo no obsta para que en cualquier momento las partes involucradas en las operaciones de salvamento hagan valer sus derechos ante los tribunales competentes y en la vía en que proceda.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 El valor del dictamen emitido por la Secretaría quedará a la prudente apreciación de la autoridad jurisdiccional, y Párrafo reformado DOF 19-12-2016, 07-12-2020
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+El valor del dictamen emitido por la Secretaría quedará a la prudente apreciación de la autoridad jurisdiccional, y
+Párrafo reformado DOF 19-12-2016, 07-12-2020
 
 III. Imponer en su caso, las sanciones administrativas que correspondan y de considerarlo procedente, turnar las actuaciones al Ministerio Público de la Federación, para el ejercicio de las funciones que le competan.
 
 ## TÍTULO SÉPTIMO — DEL SEGURO MARÍTIMO
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES
+
 
 ### Artículo 186
 .- Los contratos de seguro marítimo podrán comprender todo interés asegurable legítimo y recaerán sobre:
@@ -1587,6 +1678,7 @@ III. Si dentro del término prefijado no manifestare su resolución, se entender
 
 ## CAPÍTULO II — SEGURO DE MERCANCÍAS
 
+
 ### Artículo 211
 .- El asegurador responderá, salvo pacto en contrario, de los daños y pérdidas ocasionados por vicios ocultos de la mercancía objeto del contrato.
 
@@ -1687,6 +1779,7 @@ Los servicios de auxilio o salvamento que se proporcionen a una embarcación ase
 
 ## CAPÍTULO IV — SEGURO DE FLETES
 
+
 ### Artículo 240
 .- El seguro sobre renta o flete podrá hacerse por el cargador, por el arrendador, el fletante o el capitán; pero éstos no podrán asegurar el anticipo que hubieren recibido a cuenta de su renta o flete, sino cuando hayan pactado expresamente que en caso de no devengarse aquel por naufragio o pérdida de la carga devolverán la cantidad recibida.
 
@@ -1695,11 +1788,13 @@ Los servicios de auxilio o salvamento que se proporcionen a una embarcación ase
 
 ## CAPÍTULO V — SEGURO DE RESPONSABILIDAD CIVIL
 
+
 ### Artículo 242
 .- El seguro de la responsabilidad civil del propietario de una embarcación, del naviero o del fletador de ésta, cubrirá todos los daños que le sean imputables causados a otras personas o a sus bienes, por la utilización u operación de dicha embarcación o por la carga, combustible o basura derramados, vertidos o descargados.
 De conformidad con las disposiciones de este título sobre reglas y cláusulas internacionalmente aceptadas, las coberturas de protección e indemnización de los seguros de responsabilidad contratadas con clubes de protección e indemnización o con aseguradores de prima fija, deberán ser lo suficientemente amplias como para indemnizar a los terceros afectados por cualquier siniestro o concepto de reclamación regulada por esta Ley o por los tratados internacionales.
 
 ## CAPÍTULO VI — DEJACIÓN DE BIENES ASEGURADOS
+
 
 ### Artículo 243
 .- El daño o menoscabo será considerado avería, pero si el asegurado opta por reclamar la pérdida total, real o implícita, deberá comunicar al asegurador su intención de hacer dejación. Si no lo hiciera, se entenderá que sólo podrá ejercer la acción de avería de conformidad con los Tratados Internacionales en la materia.
@@ -1760,7 +1855,9 @@ IV. Si no se hiciera por el mismo propietario o persona especialmente autorizada
 
 ## TÍTULO OCTAVO — DE LAS COMPRAVENTAS MARÍTIMAS
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 254
 .- Se considerarán como modalidades marítimas del contrato de compraventa internacional aquellas en que al menos un tramo del transporte se realice por vía marítima.
@@ -1791,19 +1888,25 @@ IV. Si no se hiciera por el mismo propietario o persona especialmente autorizada
 
 ## TÍTULO NOVENO — DISPOSICIONES PROCESALES MARÍTIMAS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 264
 .- Salvo lo dispuesto expresamente en esta Ley, a los procesos y procedimientos de naturaleza marítima regulados en este título se les aplicarán de modo supletorio, las normas del Código de Comercio, y, en su defecto, las del Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Los tribunales federales y la Secretaría, en sus respectivos ámbitos de competencia, serán los facultados para conocer de los procesos y procedimientos regulados por esta Ley, y por lo dispuesto en los Tratados Internacionales, sin perjuicio de que, en los términos de las normas aplicables, las partes sometan sus diferencias a decisión arbitral. La elección de la ley aplicable será reconocida de acuerdo a orden.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 En la interpretación de los tratados internacionales y de las reglas internacionales referidas por esta Ley, las autoridades judiciales y administrativas deberán fundar sus resoluciones y actos administrativos tomando en consideración el carácter uniforme del derecho marítimo. De igual manera lo harán, en la interpretación de contratos o cláusulas tipo internacionalmente aceptados, las resoluciones y actos administrativos tomarán en consideración que el contrato o cláusula pactados, correspondan al contenido obligacional, tal y como se acepten en el ámbito internacional.
+Párrafo reformado DOF 14-11-2025
+Los tribunales federales y la Secretaría, en sus respectivos ámbitos de competencia, serán los facultados para conocer de los procesos y procedimientos regulados por esta Ley, y por lo dispuesto en los Tratados Internacionales, sin perjuicio de que, en los términos de las normas aplicables, las partes sometan sus diferencias a decisión arbitral. La elección de la ley aplicable será reconocida de acuerdo a orden.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+En la interpretación de los tratados internacionales y de las reglas internacionales referidas por esta Ley, las autoridades judiciales y administrativas deberán fundar sus resoluciones y actos administrativos tomando en consideración el carácter uniforme del derecho marítimo. De igual manera lo harán, en la interpretación de contratos o cláusulas tipo internacionalmente aceptados, las resoluciones y actos administrativos tomarán en consideración que el contrato o cláusula pactados, correspondan al contenido obligacional, tal y como se acepten en el ámbito internacional.
 Para la interpretación de cualquier fuente de derecho marítimo, tanto las autoridades judiciales y administrativas, como las partes interesadas en el asunto en trámite, podrán libremente aportar dictámenes jurídicos no vinculantes de asociaciones del ramo, ya sean nacionales o extranjeras. El valor de los dictámenes jurídicos aportados por las partes quedará a la prudente apreciación de la autoridad.
 Salvo lo previsto expresamente en esta Ley, los plazos en ella señalados serán computados en días hábiles.
 
 ### Artículo 265
 .- Para el emplazamiento a un juicio en materia marítima, cuando el demandado tenga su domicilio en el extranjero, el mismo se efectuará mediante carta rogatoria, o bien, a través de su agente naviero en el domicilio registrado por éste ante la Secretaría. Sólo podrá practicarse el emplazamiento por conducto de agentes navieros que hayan reunido los requisitos establecidos en el artículo 23 de esta Ley.
-Párrafo reformado DOF 19-12-2016 Si el demandado tiene su domicilio dentro de la jurisdicción del Juez de Distrito que conozca del juicio, deberá contestar la demanda dentro de los nueve días hábiles siguientes a la fecha en que haya surtido efectos el emplazamiento. Si reside fuera de la jurisdicción aludida y hubiera sido emplazado a través de su agente naviero, deberá producir su contestación dentro del término de noventa días hábiles siguientes en que el emplazamiento se haya practicado en el domicilio registrado ante la Secretaría por el agente.
-Párrafo reformado DOF 19-12-2016 En los procedimientos judiciales o administrativos en que sea embargada una embarcación, antes de procederse a su avalúo y remate, deberá exhibirse el certificado de folio de inscripción y gravámenes de ésta en el Registro Público Marítimo Nacional, cuando la embarcación se encuentre matriculada en el país, y se citará a los acreedores que aparezcan en el mismo para que ejerzan los derechos que les confiere la presente Ley.
+Párrafo reformado DOF 19-12-2016
+Si el demandado tiene su domicilio dentro de la jurisdicción del Juez de Distrito que conozca del juicio, deberá contestar la demanda dentro de los nueve días hábiles siguientes a la fecha en que haya surtido efectos el emplazamiento. Si reside fuera de la jurisdicción aludida y hubiera sido emplazado a través de su agente naviero, deberá producir su contestación dentro del término de noventa días hábiles siguientes en que el emplazamiento se haya practicado en el domicilio registrado ante la Secretaría por el agente.
+Párrafo reformado DOF 19-12-2016
+En los procedimientos judiciales o administrativos en que sea embargada una embarcación, antes de procederse a su avalúo y remate, deberá exhibirse el certificado de folio de inscripción y gravámenes de ésta en el Registro Público Marítimo Nacional, cuando la embarcación se encuentre matriculada en el país, y se citará a los acreedores que aparezcan en el mismo para que ejerzan los derechos que les confiere la presente Ley.
 
 ### Artículo 266
 .- La inspección del libro de navegación o de los certificados de una embarcación se harán a bordo de ésta, o bien en las oficinas de la capitanía de puerto en donde se encuentre la embarcación. Cuando la inspección se realice en la capitanía de puerto, al término de la misma, los objetos materia de ésta, se devolverán de inmediato a la embarcación, sin que puedan ser trasladados a otro lugar.
@@ -1812,6 +1915,7 @@ Párrafo reformado DOF 19-12-2016 En los procedimientos judiciales o administrat
 .- Cuando en este título se establezca la obligación del propietario, naviero o entidad relacionada a ellos, de otorgar una garantía, será suficiente la presentación de una carta de garantía del club de protección e indemnización respectiva, cuando éste sea miembro de la Asociación Internacional de Clubes de Protección e Indemnización, siempre y cuando cumpla con los requisitos establecidos en el reglamento respectivo.
 
 ## CAPÍTULO II — EMBARGO O RETENCIÓN DE EMBARCACIONES O CARGA
+
 
 ### Artículo 268
 .- El acreedor o el titular de derechos de retención de una embarcación o artefacto naval que hubiere promovido, o fuere a promover juicio, podrá solicitar como medida precautoria el embargo de la embarcación o de la carga relacionadas con su pretensión, para lo cual deberá exhibir los originales de los documentos en que consten sus créditos, precisar el importe de éstos, o el de la demanda, si ya estuviere presentada; describir los bienes objeto de la medida, así como exponer las razones por las cuales estima necesaria dicha medida.
@@ -1885,6 +1989,7 @@ Será competente para conocer del embargo precautorio el Juez de Distrito del lu
 
 ## CAPÍTULO III — EJECUCIÓN DE LA HIPOTECA MARÍTIMA
 
+
 ### Artículo 275
 .- Es competente para conocer del proceso hipotecario marítimo, el Juez de Distrito con jurisdicción en el domicilio del deudor o en el del puerto de matrícula de la embarcación, a elección del actor, y para su tramitación, se observarán las reglas del Juicio hipotecario del Código Nacional de Procedimientos Civiles y Familiares, en lo no previsto en las fracciones siguientes:
 Párrafo reformado DOF 14-11-2025
@@ -1899,6 +2004,7 @@ En todo caso, antes de proceder al remate, deberá exhibirse el certificado de f
 
 ## CAPÍTULO IV — RECLAMACIÓN POR ABORDAJE
 
+
 ### Artículo 276
 .- Las cuestiones de competencia en materia de abordaje, serán resueltas de conformidad con los tratados internacionales, así como por lo dispuesto en el Título Noveno, Capítulo I de esta Ley. Conocerá de los procedimientos de abordaje el Juez de Distrito con jurisdicción en el primer puerto de arribo de cualquiera de las embarcaciones en que sea presentada la demanda.
 
@@ -1912,6 +2018,7 @@ En todo caso, antes de proceder al remate, deberá exhibirse el certificado de f
 .- La apertura de una indagatoria de carácter penal o la tramitación de cualquier proceso de la misma naturaleza, no impedirán que se dé curso a un proceso mercantil o civil de reclamación por abordaje. La sentencia que se dicte en el ámbito penal no prejuzgará respecto de la responsabilidad que se establezca en la sentencia mercantil o civil.
 
 ## CAPÍTULO V — DECLARACIÓN, COMPROMISO Y LIQUIDACIÓN POR AVERÍA COMÚN
+
 
 ### Artículo 280
 .- Cuando se haya producido un acto de avería común, el capitán deberá asentarlo en los libros oficiales de navegación, indicando la fecha, hora y lugar del suceso; las razones y motivos de sus decisiones, así como las medidas tomadas sobre tales hechos.
@@ -1984,12 +2091,14 @@ Si el Juez de Distrito encontrare fundadas las objeciones formuladas, concederá
 
 ### Artículo 298
 . Cualquier interesado podrá solicitar ante el Juez de Distrito competente, la inexistencia de la declaración de avería común declarada ante la Secretaría. Dicha pretensión se ventilará de conformidad con el procedimiento establecido en los artículos 287 a 291 de la presente Ley.
-Párrafo reformado DOF 19-12-2016, 07-12-2020 El auto que admita a trámite la demanda deberá notificarse personalmente al propietario o naviero.
+Párrafo reformado DOF 19-12-2016, 07-12-2020
+El auto que admita a trámite la demanda deberá notificarse personalmente al propietario o naviero.
 
 ### Artículo 299
 .- Cuando se ventile un procedimiento extrajudicial de avería común y las partes no se pusieren de acuerdo en el nombramiento del ajustador, podrán acudir ante el Juez de Distrito competente para solicitar su designación. El procedimiento se tramitará conforme a lo establecido en los artículos 293 a 297 de la presente Ley.
 
 ## CAPÍTULO VI — REMUNERACIÓN POR SALVAMENTO
+
 
 ### Artículo 300
 .- El proceso de salvamento tiene por objeto que se declare la existencia del mismo, el derecho a la recompensa a favor de los salvadores, así como su remuneración y distribución entre éstos.
@@ -2008,6 +2117,7 @@ En todo procedimiento de salvamento, el Juez ordenará la publicación del auto 
 .- Salvo lo dispuesto en el presente capítulo, el procedimiento de salvamento se ventilará conforme a las reglas de los juicios ordinarios mercantiles y en la sentencia definitiva el Juez resolverá sobre el derecho de los salvadores para el cobro de la recompensa, y en su caso, el monto de la misma y su distribución entre éstos.
 
 ## CAPÍTULO VII — LIMITACIÓN DE LA RESPONSABILIDAD CIVIL
+
 
 ### Artículo 304
 .- El proceso de limitación de responsabilidad tiene por objeto que se declare la existencia del derecho a ella y que se determine la suma total que, en caso de ser condenado, deba pagar el propietario, naviero o sujeto legitimado, de conformidad con los Tratados Internacionales que en este capítulo se señalan, a un conjunto de acreedores, así como que se establezca la manera en que dicha suma debe ser distribuida entre éstos.
@@ -2095,7 +2205,9 @@ Podrán asistir a la audiencia, los acreedores cuyas demandas de reconocimiento 
 
 ## TÍTULO DÉCIMO — SANCIONES
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 323
 . Para la imposición de las sanciones previstas en esta Ley, así como la interposición del recurso administrativo procedente, la Secretaría observará lo previsto en la Ley Federal de Procedimiento Administrativo.
@@ -2132,7 +2244,8 @@ I. Los capitanes de embarcaciones por no cumplir con lo dispuesto por el artícu
 II. Los patrones de embarcaciones o quien dirija la operación en los artefactos navales, por no cumplir con lo dispuesto por el artículo 30;
 III Los capitanes o patrones de embarcaciones por:
 
-a) Hacerse a la mar, cuando por mal tiempo o previsión de éste, la capitanía de puerto prohíba salir, y Inciso reformado DOF 19-12-2016
+a) Hacerse a la mar, cuando por mal tiempo o previsión de éste, la capitanía de puerto prohíba salir, y
+Inciso reformado DOF 19-12-2016
 
 b) No justificar ante la capitanía de puerto las arribadas forzosas de las embarcaciones;
 Inciso reformado DOF 19-12-2016
@@ -2146,7 +2259,8 @@ Fracción derogada DOF 19-12-2016
 
 VII. Los pilotos de puerto, por infracción al artículo 58 y cuando debiendo estar en la embarcación no lo hagan;
 
-VIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones graves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma o bien, en coordinación con otras dependencias, y Fracción reformada DOF 19-12-2016, 07-12-2020
+VIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones graves a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma o bien, en coordinación con otras dependencias, y
+Fracción reformada DOF 19-12-2016, 07-12-2020
 
 IX. Derogada.
 Fracción derogada DOF 19-12-2016
@@ -2189,10 +2303,12 @@ Fracción adicionada DOF 07-12-2020
 XI. Los concesionarios, por incumplimiento de lo establecido en el artículo 63 de esta Ley;
 Fracción adicionada DOF 07-12-2020
 
-XII. Los agentes navieros y, en su caso, los propietarios de la embarcación que incumplan con lo dispuesto en la fracción III del artículo 269 de esta Ley, y Fracción adicionada DOF 07-12-2020
+XII. Los agentes navieros y, en su caso, los propietarios de la embarcación que incumplan con lo dispuesto en la fracción III del artículo 269 de esta Ley, y
+Fracción adicionada DOF 07-12-2020
 
 XIII. Los propietarios y navieros de embarcaciones nacionales o extranjeras que incurran en infracciones gravísimas a la presente Ley, cuando éstas sean conocidas mediante los mecanismos de inspección que realice la Secretaría por sí misma, o bien, en coordinación con otras dependencias.
-Fracción adicionada DOF 07-12-2020 Artículo reformado DOF 26-05-2011, 19-12-2016
+Fracción adicionada DOF 07-12-2020
+Artículo reformado DOF 26-05-2011, 19-12-2016
 
 ### Artículo 328
 Bis. Se deroga.
@@ -2268,27 +2384,27 @@ Se reforman el párrafo primero del artículo 1; el artículo 163, el artículo 
 ## TRANSITORIOS
 
 **PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
-**TERCERO.** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
+**SEGUNDO.-** El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+**TERCERO.-** Las acciones que deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación.
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 2014
 
 ### Artículo Primero
 Se reforman los artículos 8, fracción VI; 55, párrafos primero, segundo, cuarto y
-**quinto.** ; 56; 57, fracciones III y IV, y se adicionan las fracciones XIV y XV al artículo 2; un párrafo sexto al artículo 55 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
+**quinto.-** ; 56; 57, fracciones III y IV, y se adicionan las fracciones XIV y XV al artículo 2; un párrafo sexto al artículo 55 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
 
 ### Artículo Segundo
 Se REFORMAN los artículos 7; 8; 8 Bis; 9; 10, segundo párrafo; 11, segundo párrafo; 12, primer párrafo; 14, primer y último párrafos; 21, segundo párrafo; 23, primer párrafo; 24, último párrafo; 30; 31, último párrafo; 32, penúltimo párrafo; 33; 35, fracciones III, IV, V y VI; 36, primer párrafo; 37; 38, último párrafo; 39, incisos A, párrafos segundo y tercero, B, primer párrafo; 42; 43, último párrafo; 44, párrafos segundo, tercero y cuarto; 45, último párrafo; 46; 48, párrafos primero, fracciones I y III y segundo; 49, párrafo primero y su fracción VI; 49 Bis; 50, segundo párrafo; 51, párrafos segundo,
-**tercero.** , fracción I, quinto y sexto; 53, segundo párrafo; 55, sexto párrafo; 57 penúltimo párrafo; 58, fracciones II y III; 59, fracción II; 60; 61; 63; 65; 66, fracciones I, II, IV, V y VI; 69; 73; 74, fracciones II y IV; 77, incisos A, B y C; 87, párrafos primero, fracción I y segundo; 130, párrafos tercero, cuarto y quinto; 140; 151; 159, fracción II; 161, último párrafo; 163; 167; 170; 180; 181; 183; 185, párrafo primero, fracción II, párrafos segundo y tercero; 264, segundo párrafo; 265, párrafos primero y segundo; 281; 298, primer párrafo; 323; 324; 326, párrafo primero y su fracción V; 327, párrafo primero, fracciones III, incisos a y b, y VIII, y 328; se ADICIONAN los artículos 9 Bis, 9 Ter y 328 Bis; y se DEROGAN las fracciones VI y IX del artículo 327 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
+**tercero.-** , fracción I, quinto y sexto; 53, segundo párrafo; 55, sexto párrafo; 57 penúltimo párrafo; 58, fracciones II y III; 59, fracción II; 60; 61; 63; 65; 66, fracciones I, II, IV, V y VI; 69; 73; 74, fracciones II y IV; 77, incisos A, B y C; 87, párrafos primero, fracción I y segundo; 130, párrafos tercero, cuarto y quinto; 140; 151; 159, fracción II; 161, último párrafo; 163; 167; 170; 180; 181; 183; 185, párrafo primero, fracción II, párrafos segundo y tercero; 264, segundo párrafo; 265, párrafos primero y segundo; 281; 298, primer párrafo; 323; 324; 326, párrafo primero y su fracción V; 327, párrafo primero, fracciones III, incisos a y b, y VIII, y 328; se ADICIONAN los artículos 9 Bis, 9 Ter y 328 Bis; y se DEROGAN las fracciones VI y IX del artículo 327 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ……….
 
 ## Transitorios
 
@@ -2325,21 +2441,21 @@ Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2020
 
 ### Artículo Segundo
 Se reforman los artículos 2, fracciones I y VII Bis; la denominación del Capítulo II del Título Primero, para quedar como “Autoridad Marítima Nacional”; 7, párrafo primero, y la fracción I del
-**segundo.** párrafo; 8, fracciones II, V, VI, IX, X y XIV; 9, en su encabezado, y las fracciones II, III, V, VIII, IX; 9 Ter; 11, fracción II, y el párrafo segundo; 12, párrafo primero; 14, en su encabezado, y sus fracciones VII y VIII, y el último párrafo; 21, párrafo segundo; 24, párrafo tercero; 30; la denominación del Capítulo VII del Título Segundo, para quedar como “De la coordinación administrativa en materia de desatención de tripulaciones”; 33; 34; 35; 36; 37; 38, último párrafo; 40, párrafo tercero; 42, fracción I, inciso c), fracción II, inciso a); 44, párrafo tercero; 50, párrafo segundo; 55, párrafo segundo; 60; 61, párrafo segundo; 63; 65; 66, fracciones I, II, IV, V y VI; 69; 70; 73; 74, fracciones II y IV; 77, apartados A, B y C; 87, fracción I y penúltimo párrafo; 159, fracción II; 161, último párrafo; 163; 167; 170; 180; 181; 183; 185, en su encabezado, y los párrafos segundo y tercero de la fracción II; 264, párrafo segundo; 270; 275, fracción I; 281; 298, párrafo primero; 323; 326, fracción V; 327, en su encabezado, y la fracción VIII; 328, fracciones VII y VIII; se adicionan los artículos 8, fracciones XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XXX; 9, fracciones X, XI, XII, XIII, XIV, XV; 14, fracción IX; 61, con un último párrafo; 162, con un último párrafo; 328, fracciones IX, X, XI, XII y XIII, y se derogan los artículos 2, en su fracción I Bis; 8 Bis; 9 Bis; 42, fracción III, inciso c); 44, último párrafo; 328 Bis, de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ………
+**segundo.-** párrafo; 8, fracciones II, V, VI, IX, X y XIV; 9, en su encabezado, y las fracciones II, III, V, VIII, IX; 9 Ter; 11, fracción II, y el párrafo segundo; 12, párrafo primero; 14, en su encabezado, y sus fracciones VII y VIII, y el último párrafo; 21, párrafo segundo; 24, párrafo tercero; 30; la denominación del Capítulo VII del Título Segundo, para quedar como “De la coordinación administrativa en materia de desatención de tripulaciones”; 33; 34; 35; 36; 37; 38, último párrafo; 40, párrafo tercero; 42, fracción I, inciso c), fracción II, inciso a); 44, párrafo tercero; 50, párrafo segundo; 55, párrafo segundo; 60; 61, párrafo segundo; 63; 65; 66, fracciones I, II, IV, V y VI; 69; 70; 73; 74, fracciones II y IV; 77, apartados A, B y C; 87, fracción I y penúltimo párrafo; 159, fracción II; 161, último párrafo; 163; 167; 170; 180; 181; 183; 185, en su encabezado, y los párrafos segundo y tercero de la fracción II; 264, párrafo segundo; 270; 275, fracción I; 281; 298, párrafo primero; 323; 326, fracción V; 327, en su encabezado, y la fracción VIII; 328, fracciones VII y VIII; se adicionan los artículos 8, fracciones XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XXX; 9, fracciones X, XI, XII, XIII, XIV, XV; 14, fracción IX; 61, con un último párrafo; 162, con un último párrafo; 328, fracciones IX, X, XI, XII y XIII, y se derogan los artículos 2, en su fracción I Bis; 8 Bis; 9 Bis; 42, fracción III, inciso c); 44, último párrafo; 328 Bis, de la Ley de Navegación y Comercio Marítimos, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 En tanto el Ejecutivo Federal o la Secretaría de Marina expidan las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
-**Cuarto.** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+**Cuarto.-** Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes, respecto a la Coordinación General de Puertos y Marina Mercante, incluidas las Administraciones Portuarias Integrales y en general, todos aquellos recursos necesarios para la ejecución de las atribuciones que por virtud de este Decreto serán trasladadas a la Secretaría de Marina, tales como dragado, puertos, y educación náutica, se transferirán a esta última dependencia a más tardar en la fecha de entrada en vigor del mismo.
 La transferencia señalada en el párrafo anterior incluirá la administración y los recursos humanos, materiales y financieros pertenecientes al Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante, así como lo concerniente al Fideicomiso del Fondo para el Fortalecimiento a la Infraestructura Portuaria y en general todos aquellos Fideicomisos y Entidades del Sector relacionados con la transferencia de atribuciones señaladas en el presente Decreto.
 Las Secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la administración pública federal.
 Las Secretarías de Hacienda y Crédito Público y de la Función Pública establecerán los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
-**Quinto.** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
-**Sexto.** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
-**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
+**Quinto.-** Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán conforme a la legislación aplicable.
+**Sexto.-** Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionen con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última, conforme a las disposiciones jurídicas aplicables.
+**Séptimo.-** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de la Secretaría de Comunicaciones y Transportes cuyas atribuciones se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
 Ciudad de México, a 28 de octubre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de diciembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
@@ -2350,12 +2466,12 @@ Se reforman los artículos 6, fracción VII; 105; 264, primer párrafo y, 275, p
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -15,6 +15,7 @@ Se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
 
 ## Capítulo Primero — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de observancia obligatoria en todo el territorio nacional; sus disposiciones son de orden público e interés general; su aplicación y vigilancia está a cargo del Ejecutivo Federal por conducto de las dependencias que conforme a la Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento.
 
@@ -39,6 +40,7 @@ V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al c
 
 ## Capítulo Segundo — Del Horario Estacional en la Frontera Norte
 
+
 ### Artículo 5
 . Únicamente en la frontera norte del territorio nacional se aplicará un horario estacional conforme a las siguientes reglas:
 
@@ -48,9 +50,11 @@ II. Para los municipios de Coyame del Sotol, Ojinaga y Manuel Benavides, del Est
 Fracción reformada DOF 29-11-2022
 
 III. Para el Estado de Baja California, así como para los municipios de Janos, Ascensión, Juárez, Praxedis G. Guerrero y Guadalupe, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 105 grados al oeste de Greenwich.
-Fracción adicionada DOF 29-11-2022 El horario estacional fronterizo norte surtirá efecto desde las dos horas del segundo domingo de marzo, y concluirá a las dos horas del primer domingo de noviembre.
+Fracción adicionada DOF 29-11-2022
+El horario estacional fronterizo norte surtirá efecto desde las dos horas del segundo domingo de marzo, y concluirá a las dos horas del primer domingo de noviembre.
 
 ## Capítulo Tercero
+
 De las modificaciones a los husos horarios en las Entidades Federativas y Municipios
 
 ### Artículo 6
@@ -81,6 +85,6 @@ Se reforma la fracción II y se adiciona una fracción III al artículo 5 de la 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 24 de noviembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Dip.
 Karla Yuritzi Almazán Burgos, Vicepresidenta en Funciones de Presidenta.- Sen. José Narro Céspedes, Secretario.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

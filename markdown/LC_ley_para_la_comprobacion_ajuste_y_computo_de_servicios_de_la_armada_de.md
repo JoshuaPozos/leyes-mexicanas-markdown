@@ -11,6 +11,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 LEY PARA LA COMPROBACIÓN, AJUSTE Y CÓMPUTO DE SERVICIOS DE LA ARMADA DE MÉXICO
 
 ## Capítulo I
+
 Generalidades ARTÍCULO 1.- Para los efectos de la presente Ley se entenderá por:
 I.- Tiempo de servicio efectivo, aquel que se le contará al personal a partir del día de su ingreso a la Armada de México hasta su separación definitiva de la misma, haciéndole las deducciones establecidas en esta Ley, y II.- Tiempo de servicios, aquel que comprende el tiempo del servicio efectivo del personal más los abonos de tiempo establecidos en esta Ley.
 ARTÍCULO 2.- Los servicios prestados por el personal de la Armada de México serán comprobados, ajustados y computados de conformidad con la documentación que obre en los expedientes respectivos, formados en el Archivo General de la Armada, y a falta de éstos, con los documentos certificados que aporten los interesados.
@@ -32,6 +33,7 @@ ARTÍCULO 7.- Cuando el personal naval desee conocer o consultar los datos y con
 ARTÍCULO 8.- Al personal de la Armada de México se le harán los abonos y deducciones de tiempo conforme a lo dispuesto en los artículos 21 y 22 de la presente Ley, respectivamente.
 
 ## Capítulo II
+
 Comprobación y Ajuste de Servicios ARTÍCULO 9.- En la hoja de servicios se anotará:
 I.- Síntesis biográfica;
 II.- Jerarquías y fechas en que las obtuvo;
@@ -69,6 +71,7 @@ ARTÍCULO 17.- Al cerrarse las hojas de actuación y memoriales de servicio, el 
 ARTÍCULO 18.- Los procedimientos para formular, calificar y tramitar las hojas de actuación y memoriales de servicios se especificarán en el reglamento correspondiente.
 
 ## Capítulo III
+
 Cómputo de Servicios ARTÍCULO 19.- Los abonos y las deducciones de tiempo a que se refiere esta Ley, se anotarán en las hojas de servicios y extractos de antecedentes al cerrarse estos documentos.
 ARTÍCULO 20.- De acuerdo a lo dispuesto en este Capítulo, el tiempo de servicios puede estar sujeto a deducciones o abonos; la antigüedad en la jerarquía sólo lo será en deducciones.
 ARTÍCULO 21.- El tiempo de servicios prestado por un elemento de la Armada de México, se abonará de la forma siguiente:
@@ -105,7 +108,8 @@ V.- A los que hayan estado sujetos a proceso en el que se dicte resolución de s
 VI.- A los que hayan estado sujetos a proceso, en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo, se les deducirá en la antigüedad y tiempo de servicios; en el primer caso, el tiempo marcado para la prescripción del delito; y en el segundo, todo el tiempo requerido para realizar esa prescripción, más el que transcurra en presentarse, y VII.- A los que hubieren disfrutado de licencia extraordinaria para asuntos particulares.
 ARTÍCULO 23.- No se deducirán del tiempo de servicios, ni de la antigüedad en la jerarquía, el de la duración de un proceso cuando haya recaído sentencia absolutoria.
 ARTÍCULO 24.- A quien se le hubiere concedido licencia extraordinaria para el desempeño de algún cargo de elección popular, licencia por edad límite o pasare a situación de depósito, no se le deducirá del tiempo de servicios ni de la antigüedad en la jerarquía.
-Artículo reformado DOF 12-06-2009 ARTÍCULO 25.- El tiempo de servicios se perderá totalmente:
+Artículo reformado DOF 12-06-2009
+ARTÍCULO 25.- El tiempo de servicios se perderá totalmente:
 I.- Por sentencia del juez competente que imponga como pena la destitución de empleo e inhabilitación para volver al servicio, y II.- Por baja que haya sido motivada por resolución de organismo disciplinario.
 
 ## TRANSITORIO

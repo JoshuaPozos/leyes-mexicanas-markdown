@@ -43,7 +43,7 @@ III. El valor anual será el producto de multiplicar el valor mensual de la UMA 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor de esta Ley, será el publicado por el Instituto Nacional de Estadística y Geografía el 28 de enero de 2016, en el Diario Oficial de la Federación, mismo que permanecerá vigente hasta en tanto se emita otra publicación en términos del artículo 5 de la presente Ley.
-**Tercero.** El valor a que se refiere el transitorio anterior se actualizará conforme al procedimiento establecido en el artículo 4 de la presente Ley.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor de esta Ley, será el publicado por el Instituto Nacional de Estadística y Geografía el 28 de enero de 2016, en el Diario Oficial de la Federación, mismo que permanecerá vigente hasta en tanto se emita otra publicación en términos del artículo 5 de la presente Ley.
+**Tercero.-** El valor a que se refiere el transitorio anterior se actualizará conforme al procedimiento establecido en el artículo 4 de la presente Ley.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.

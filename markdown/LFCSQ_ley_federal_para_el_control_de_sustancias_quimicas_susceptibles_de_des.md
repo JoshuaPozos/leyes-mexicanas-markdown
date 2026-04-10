@@ -13,7 +13,9 @@ LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO — OBJETO Y ÁMBITO DE APLICACIÓN
+
 
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general en el territorio de la República y áreas bajo la jurisdicción del Estado mexicano, y tiene por objeto establecer medidas de control a los sujetos obligados que realicen Actividades Reguladas relacionadas con las sustancias químicas susceptibles de desvío, así como respecto de las instalaciones, tecnología, equipo especializado y corriente utilizado para dichas actividades.
@@ -127,7 +129,8 @@ VIII. La Secretaría de Agricultura y Desarrollo Rural;
 Fracción reformada DOF 14-06-2024
 
 IX. La Secretaría de Infraestructura, Comunicaciones y Transportes;
-Fracción reformada DOF 14-06-2024 DE ARMAS QUÍMICAS
+Fracción reformada DOF 14-06-2024
+DE ARMAS QUÍMICAS
 
 X. La Secretaría de Salud;
 
@@ -135,22 +138,28 @@ XI. Derogada.
 Fracción derogada DOF 14-06-2024
 
 XII. El Servicio de Administración Tributaria;
-Fracción reformada DOF 14-06-2024 XII Bis. La Agencia Nacional de Aduanas de México, y Fracción adicionada DOF 14-06-2024
+Fracción reformada DOF 14-06-2024
+XII Bis. La Agencia Nacional de Aduanas de México, y
+Fracción adicionada DOF 14-06-2024
 
 XIII. La Autoridad Nacional.
 Asimismo, participará en su implementación la Fiscalía General de la República.
-Párrafo adicionado DOF 14-06-2024 Las autoridades a que se refiere el presente artículo, actuarán en el ámbito de sus respectivas competencias en términos de las disposiciones aplicables, en lo que se refiere al control de las importaciones, exportaciones y demás trámites administrativos respecto de las sustancias químicas del Listado Nacional, así como en la coordinación interinstitucional derivada de la aplicación de la presente Ley y el ejercicio de las demás facultades que les correspondan.
+Párrafo adicionado DOF 14-06-2024
+Las autoridades a que se refiere el presente artículo, actuarán en el ámbito de sus respectivas competencias en términos de las disposiciones aplicables, en lo que se refiere al control de las importaciones, exportaciones y demás trámites administrativos respecto de las sustancias químicas del Listado Nacional, así como en la coordinación interinstitucional derivada de la aplicación de la presente Ley y el ejercicio de las demás facultades que les correspondan.
 Las dependencias, instituciones y órganos cuyos titulares sean integrantes del Consejo, serán autoridades competentes para aplicar la presente Ley de acuerdo con sus atribuciones legales y demás disposiciones jurídicas, en el marco del esquema de coordinación de acciones previsto en la Ley de Seguridad Nacional y sus disposiciones reglamentarias.
 La persona Titular de la Secretaría de Seguridad y Protección Ciudadana, previa opinión de la Autoridad Nacional, determinará mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación, la adición o supresión de sustancias químicas que se sujetarán o excluirán del Listado Nacional (Apéndice Uno), y actualizará la relación de Estados Parte y No Parte de la Convención (Apéndice Dos).
 Párrafo adicionado DOF 14-06-2024
 
 ### Artículo 4
 . A falta de previsión expresa en la presente Ley, se aplicará supletoriamente la Ley de Seguridad Nacional y el Código Nacional de Procedimientos Civiles y Familiares, sin perjuicio de lo que establezca la Convención y otros tratados internacionales en la materia, de los que el Estado mexicano sea parte. En las notificaciones, requerimientos, inspecciones, revisiones y consultas previstas en esta Ley, se aplicará de manera supletoria lo establecido en el Código Fiscal de la Federación.
-Párrafo reformado DOF 14-11-2025 No será aplicable a la materia regulada por la presente Ley, la Ley Federal de Procedimiento Administrativo.
+Párrafo reformado DOF 14-11-2025
+No será aplicable a la materia regulada por la presente Ley, la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO SEGUNDO — DE LAS OBLIGACIONES Y EL EJERCICIO DE ATRIBUCIONES
 
+
 ## CAPÍTULO PRIMERO — SUJETOS OBLIGADOS
+
 
 ### Artículo 5
 . Los sujetos obligados deberán:
@@ -233,6 +242,7 @@ c) El nombre y la dirección del Usuario Final.
 Para los efectos de la fracción III de este artículo, las autorizaciones para la exportación de las sustancias químicas del Grupo 3 del Listado Nacional, sólo se emitirán cuando los sujetos obligados acrediten que cuentan con el certificado de Uso Final a que se refiere dicha fracción.
 
 ## CAPÍTULO SEGUNDO — DE ARMAS QUÍMICAS
+
 DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
 ### Artículo 9
@@ -278,10 +288,13 @@ V. Omitan presentar su declaración Inicial, Anual o complementaria.
 
 ## CAPÍTULO TERCERO — AUTORIDAD NACIONAL
 
+
 ### Artículo 12
 . La Autoridad Nacional estará presidida por la Secretaría de Seguridad y Protección Ciudadana e integrada por representantes de las secretarías de Gobernación; Infraestructura, Comunicaciones y Transportes; de la Defensa Nacional; Hacienda y Crédito Público; Marina; Relaciones Exteriores; así como del Centro. Dichos representantes deberán tener como mínimo el nivel de subsecretaría de Estado o su equivalente, y podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior.
-Párrafo reformado DOF 20-05-2021, 14-06-2024 DE ARMAS QUÍMICAS Para un mejor conocimiento, por parte de sus integrantes, de los asuntos que se sometan a consideración de la Autoridad Nacional, podrán asistir a sus sesiones, en carácter de invitados, representantes de las secretarías de Agricultura y Desarrollo Rural; Economía; Medio Ambiente y Recursos Naturales, y Salud, así como representantes de otras dependencias o entidades de la Administración Pública Federal, del Servicio de Administración Tributaria, de la Agencia Nacional de Aduanas de México, de la Fiscalía General de la República o de algún otro organismo público o privado, cuando los asuntos a tratar así lo requieran, a propuesta de cualquiera de sus integrantes.
-Párrafo reformado DOF 20-05-2021, 14-06-2024 Para efectos de la presente Ley, la Autoridad Nacional tendrá las siguientes funciones:
+Párrafo reformado DOF 20-05-2021, 14-06-2024
+DE ARMAS QUÍMICAS Para un mejor conocimiento, por parte de sus integrantes, de los asuntos que se sometan a consideración de la Autoridad Nacional, podrán asistir a sus sesiones, en carácter de invitados, representantes de las secretarías de Agricultura y Desarrollo Rural; Economía; Medio Ambiente y Recursos Naturales, y Salud, así como representantes de otras dependencias o entidades de la Administración Pública Federal, del Servicio de Administración Tributaria, de la Agencia Nacional de Aduanas de México, de la Fiscalía General de la República o de algún otro organismo público o privado, cuando los asuntos a tratar así lo requieran, a propuesta de cualquiera de sus integrantes.
+Párrafo reformado DOF 20-05-2021, 14-06-2024
+Para efectos de la presente Ley, la Autoridad Nacional tendrá las siguientes funciones:
 
 I. Coordinar las actividades de las dependencias y entidades de la Administración Pública Federal en la aplicación de la presente Ley y en el cumplimiento de las obligaciones previstas en los instrumentos internacionales de los que el Estado mexicano es parte, en materia de no proliferación de armas químicas;
 
@@ -371,7 +384,9 @@ IV. En los casos de pérdida, robo o extravío de sustancias químicas del Lista
 
 ## TÍTULO TERCERO — DE LAS MEDIDAS DE CONTROL
 
+
 ## CAPÍTULO PRIMERO — REGISTRO NACIONAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS
+
 
 ### Artículo 17
 . La Secretaría integrará y administrará el Registro, en donde obrarán los datos relativos a las Actividades Reguladas y obligaciones previstas en la presente Ley.
@@ -395,6 +410,7 @@ La Secretaría, podrá verificar la veracidad de la información aportada y, en 
 La constancia de inscripción constituye un requisito previo a la presentación de la declaración inicial ante la Secretaría por parte de los sujetos obligados.
 
 ## CAPÍTULO SEGUNDO — DECLARACIONES
+
 
 ### Artículo 19
 . Por cada declaración, la Secretaría expedirá, previo cumplimiento de todos los requisitos que en esta Ley se establecen, una constancia de declaración inicial, anual o complementaria, según corresponda. Las constancias de declaración estarán vigentes hasta en tanto concluya el plazo para presentar la declaración siguiente, en términos de lo dispuesto en el artículo 21 de la presente Ley.
@@ -460,6 +476,7 @@ Los sujetos obligados estarán exentos de presentar las declaraciones a que se r
 Los sujetos obligados deberán realizar las declaraciones a que se refiere la presente Ley, respecto de las sustancias químicas del Grupo 5 del Listado Nacional, cuando hayan producido por síntesis más de doscientas toneladas anuales en los complejos industriales o más de treinta toneladas anuales en una o más plantas, en este caso cuando las sustancias químicas contengan fósforo, azufre o flúor.
 
 ## CAPÍTULO TERCERO — INSPECCIONES NACIONALES
+
 
 ### Artículo 23
 . La Secretaría podrá ordenar que se practiquen visitas de inspección y revisiones para verificar el cumplimiento de la presente Ley y para comprobar la exactitud de los datos contenidos en las declaraciones de los sujetos obligados.
@@ -529,6 +546,7 @@ La destrucción de las sustancias químicas del Listado Nacional aseguradas o de
 
 ## CAPÍTULO CUARTO — INSPECCIONES INTERNACIONALES
 
+
 ### Artículo 35
 . La Secretaría, en coordinación con la Secretaría de Relaciones Exteriores, podrá concertar o negociar con la OPAQ acuerdos de instalación de conformidad con la parte VI del Anexo de Verificación de la Convención.
 
@@ -579,7 +597,9 @@ En caso de que el Grupo Nacional de Acompañamiento concluya en su informe de re
 
 ## TÍTULO CUARTO — DE LAS SANCIONES
 
+
 ## CAPÍTULO ÚNICO — DELITOS
+
 
 ### Artículo 48
 . Se impondrá pena de prisión de dos a seis años y de cien a trescientos días multa:
@@ -616,7 +636,9 @@ VII. A quien ordene o solicite el diseño, construcción, equipamiento, financia
 
 ## TÍTULO QUINTO — DEL PROCEDIMIENTO ADMINISTRATIVO
 
+
 ## CAPÍTULO PRIMERO — REGLAS GENERALES DEL PROCEDIMIENTO
+
 
 ### Artículo 52
 . Toda solicitud presentada a la Secretaría por los sujetos obligados, con motivo de lo dispuesto en esta Ley y su Reglamento, podrán realizarla por sí o a través de representante legal debidamente autorizado, por escrito redactado en idioma español y, en su caso, acompañando los documentos que acrediten su personalidad. El escrito deberá estar firmado por el Sujeto Obligado o su representante legal.
@@ -664,6 +686,7 @@ La Secretaría remitirá la recusación interpuesta ante la Autoridad Nacional, 
 . Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaciones no procederá recurso alguno, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso previsto en la presente Ley, contra la resolución o acto administrativo de que se trate.
 
 ## CAPÍTULO SEGUNDO — DEL RECURSO DE RECONSIDERACIÓN
+
 
 ### Artículo 61
 . En contra de los actos o resoluciones administrativas que emita la Secretaría, con motivo de la aplicación de la presente Ley, los sujetos obligados podrán interponer el recurso de reconsideración ante la Secretaría, dentro de los quince días hábiles siguientes a la fecha en que tenga conocimiento del acto o resolución impugnado, observándose las formalidades establecidas en el presente Título.
@@ -752,6 +775,7 @@ Si resuelve que la notificación fue legalmente practicada y, como consecuencia 
 
 ## CAPÍTULO TERCERO — DEL TRÁMITE Y RESOLUCIÓN DEL RECURSO
 
+
 ### Artículo 70
 . El recurso de reconsideración se iniciará a petición de los Sujetos Obligados, de conformidad con lo establecido en la presente Ley, mediante escrito que deberá presentarse ante la Secretaría, de conformidad con lo establecido en el Capítulo Primero del presente Título.
 
@@ -805,17 +829,17 @@ Fe de erratas al Apéndice DOF 03-07-2009. Apéndice Uno reformado en su totalid
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas las disposiciones que contravengan o se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** El Ejecutivo Federal deberá emitir y publicar en el Diario Oficial de la Federación, el Reglamento de la presente Ley.
-**Cuarto.** Las autoridades competentes deberán emitir y publicar en el Diario Oficial de la Federación, las sustancias químicas del Listado Nacional, con sus respectivas fracciones arancelarias y nomenclatura, dentro del plazo de noventa días naturales siguientes a la publicación del presente Decreto.
-**Quinto.** Las autoridades competentes deberán expedir las disposiciones administrativas correspondientes para su publicación en el Diario Oficial de la Federación, de los procedimientos respectivos para la obtención de autorizaciones y permisos a la importación y exportación, dentro del plazo de noventa días naturales siguientes a la publicación de las fracciones arancelarias y nomenclatura a que se refiere el artículo anterior.
-**Sexto.** El Registro estará en funcionamiento a más tardar dentro de los noventa días naturales siguientes a la fecha de vencimiento del plazo a que se refiere el artículo Tercero Transitorio, plazo que podrá ser prorrogado en el caso de que las autoridades competentes no hubieran expedido las DE ARMAS QUÍMICAS disposiciones administrativas correspondientes; mismo plazo en el que la Autoridad Nacional, por conducto de la Secretaría, deberá expedir las disposiciones administrativas que regulen su integración, funcionamiento, así como las reglas de procedimiento para los trámites.
-**Séptimo.** Las erogaciones derivadas de la implementación del presente Decreto, se cubrirán con estructuras organizacionales y los presupuestos autorizados de las dependencias que, en función de su competencia, deban llevar a cabo las acciones correspondientes. En caso de que la aplicación de esta Ley genere una obligación que exceda la capacidad presupuestaria de las dependencias competentes, se gestionarán los recursos correspondientes en los términos de la legislación aplicable.
-**Octavo.** Los sujetos obligados que operen con anterioridad a la entrada en vigor del presente Decreto y aquellos que se constituyan antes de que entre en funcionamiento el Registro, presentarán su solicitud de inscripción al Registro a más tardar dentro de los noventa días naturales siguientes a la entrada en funcionamiento del Registro y su declaración inicial a más tardar dentro de los noventa días naturales siguientes a la inscripción en el Registro.
-**Noveno.** En los trámites respectivos, además de las disposiciones legales y administrativas que a la entrada en vigor del presente Decreto, establezcan requisitos para el otorgamiento de autorizaciones, permisos o licencias, relacionadas con la elaboración, producción, consumo y Transferencia de sustancias químicas enunciadas en el Listado Nacional, deberán observarse los requisitos de presentación de constancias de inscripción y de declaración, previstos en este Decreto.
-**Décimo.** Para la realización de las funciones de la Autoridad Nacional y el ejercicio de las atribuciones de la Secretaría, se utilizarán los recursos materiales, humanos y financieros asignados a las dependencias, instituciones, órganos y unidades administrativas que los componen, de conformidad con las responsabilidades que les correspondan, por lo que no requerirán recursos adicionales para tal fin.
-**Décimo Primero.** Para estar en condiciones de presentar las declaraciones iniciales previstas en el artículo 20 de la Ley Federal para el control de Sustancias Químicas susceptibles de Desvío para la Fabricación de Armas Químicas, los sujetos obligados que a la fecha de entrada en vigor del presente Decreto, realicen cualquiera de las Actividades Reguladas, deberán manifestar, en su caso, el tipo, cantidad, nombre químico, nombre común o comercial, fórmula estructural, número de registro CAS, si lo tuviere asignado, fracción arancelaria, Uso Final, Destino Final y Usuario Final de sustancias químicas y precursores relacionados en el Listado Nacional, de las que tenga posesión o sea propietario, así como los documentos que acrediten esta información.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que contravengan o se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** El Ejecutivo Federal deberá emitir y publicar en el Diario Oficial de la Federación, el Reglamento de la presente Ley.
+**Cuarto.-** Las autoridades competentes deberán emitir y publicar en el Diario Oficial de la Federación, las sustancias químicas del Listado Nacional, con sus respectivas fracciones arancelarias y nomenclatura, dentro del plazo de noventa días naturales siguientes a la publicación del presente Decreto.
+**Quinto.-** Las autoridades competentes deberán expedir las disposiciones administrativas correspondientes para su publicación en el Diario Oficial de la Federación, de los procedimientos respectivos para la obtención de autorizaciones y permisos a la importación y exportación, dentro del plazo de noventa días naturales siguientes a la publicación de las fracciones arancelarias y nomenclatura a que se refiere el artículo anterior.
+**Sexto.-** El Registro estará en funcionamiento a más tardar dentro de los noventa días naturales siguientes a la fecha de vencimiento del plazo a que se refiere el artículo Tercero Transitorio, plazo que podrá ser prorrogado en el caso de que las autoridades competentes no hubieran expedido las DE ARMAS QUÍMICAS disposiciones administrativas correspondientes; mismo plazo en el que la Autoridad Nacional, por conducto de la Secretaría, deberá expedir las disposiciones administrativas que regulen su integración, funcionamiento, así como las reglas de procedimiento para los trámites.
+**Séptimo.-** Las erogaciones derivadas de la implementación del presente Decreto, se cubrirán con estructuras organizacionales y los presupuestos autorizados de las dependencias que, en función de su competencia, deban llevar a cabo las acciones correspondientes. En caso de que la aplicación de esta Ley genere una obligación que exceda la capacidad presupuestaria de las dependencias competentes, se gestionarán los recursos correspondientes en los términos de la legislación aplicable.
+**Octavo.-** Los sujetos obligados que operen con anterioridad a la entrada en vigor del presente Decreto y aquellos que se constituyan antes de que entre en funcionamiento el Registro, presentarán su solicitud de inscripción al Registro a más tardar dentro de los noventa días naturales siguientes a la entrada en funcionamiento del Registro y su declaración inicial a más tardar dentro de los noventa días naturales siguientes a la inscripción en el Registro.
+**Noveno.-** En los trámites respectivos, además de las disposiciones legales y administrativas que a la entrada en vigor del presente Decreto, establezcan requisitos para el otorgamiento de autorizaciones, permisos o licencias, relacionadas con la elaboración, producción, consumo y Transferencia de sustancias químicas enunciadas en el Listado Nacional, deberán observarse los requisitos de presentación de constancias de inscripción y de declaración, previstos en este Decreto.
+**Décimo.-** Para la realización de las funciones de la Autoridad Nacional y el ejercicio de las atribuciones de la Secretaría, se utilizarán los recursos materiales, humanos y financieros asignados a las dependencias, instituciones, órganos y unidades administrativas que los componen, de conformidad con las responsabilidades que les correspondan, por lo que no requerirán recursos adicionales para tal fin.
+**Décimo Primero.-** Para estar en condiciones de presentar las declaraciones iniciales previstas en el artículo 20 de la Ley Federal para el control de Sustancias Químicas susceptibles de Desvío para la Fabricación de Armas Químicas, los sujetos obligados que a la fecha de entrada en vigor del presente Decreto, realicen cualquiera de las Actividades Reguladas, deberán manifestar, en su caso, el tipo, cantidad, nombre químico, nombre común o comercial, fórmula estructural, número de registro CAS, si lo tuviere asignado, fracción arancelaria, Uso Final, Destino Final y Usuario Final de sustancias químicas y precursores relacionados en el Listado Nacional, de las que tenga posesión o sea propietario, así como los documentos que acrediten esta información.
 De igual manera, los sujetos obligados deberán manifestar, en su caso, el inventario detallado del equipo que tengan en propiedad, posesión o tenencia y que utilicen para la producción, elaboración o consumo de las sustancias químicas y precursores relacionados en el Listado Nacional.
 México, D.F., a 24 de febrero de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Manuel Portilla Diéguez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DE ARMAS QUÍMICAS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas al Decreto por el que se expide la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas; y adiciona una 9 de junio de 2009.
@@ -831,39 +855,39 @@ Se reforman los párrafos primero y segundo del artículo 12 de la Ley Federal p
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 DE ARMAS QUÍMICAS Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor DE ARMAS QUÍMICAS de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor DE ARMAS QUÍMICAS de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 DE ARMAS QUÍMICAS Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DE ARMAS QUÍMICAS DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2024
@@ -874,21 +898,21 @@ Grupo 2B, numerales 2B.1, 2B.2, 2B.3, 2B.4, 2B.5, 2B.6, 2B.7, 2B.8, 2B.9, 2B.10,
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
 Ciudad de México, a 29 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Navor Alberto Rojas Mancera, Secretario.- Dip. Vania Roxana Ávila García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DE ARMAS QUÍMICAS DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Cuadragésimo Tercero.- Se reforman los artículos 4, primer párrafo; 63 y 71, cuarto párrafo, de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, para quedar como sigue: …….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia DE ARMAS QUÍMICAS Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

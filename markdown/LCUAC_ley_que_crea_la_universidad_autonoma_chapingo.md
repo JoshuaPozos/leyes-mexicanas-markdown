@@ -39,14 +39,16 @@ Para ser Rector de la Universidad se requiere:
 I.- Ser mexicano;
 II.- Tener menos de sesenta y cinco años de edad el día de la elección;
 III.- Poseer título a nivel licenciatura, tener cuando menos cinco años de experiencia profesional, tres de los cuales deberá ser de experiencia académica en la Escuela Nacional de Agricultura o en la Universidad Autónoma Chapingo.
-Fracción reformada DOF 30-12-1977 IV.- Ser persona honorable y de reconocido prestigio y competencia profesional.
+Fracción reformada DOF 30-12-1977
+IV.- Ser persona honorable y de reconocido prestigio y competencia profesional.
 ARTICULO 11.- Serán facultades y obligaciones del Rector:
 I.- Cumplir y hacer cumplir las disposiciones de esta ley y las reglamentarias de la Universidad.
 II.- Proponer a los Cuerpos Colegiados correspondientes candidatos a funcionarios y empleados administrativos;
 III.- Coordinar las actividades de las distintas unidades de la Universidad, y IV.- Las demás que le señale este ordenamiento y sus disposiciones reglamentarias.
 CAPITULO III Del Patrimonio de la Universidad ARTICULO 12.- El patrimonio de la Universidad estará constituido por:
 I.- Los bienes que asigne el Gobierno Federal y que se encuentren al servicio de la Escuela Nacional de Agricultura.
-Fracción reformada DOF 30-12-1977 II.- Los subsidios que le otorguen los gobiernos de la Federación, de los Estados y de los Municipios;
+Fracción reformada DOF 30-12-1977
+II.- Los subsidios que le otorguen los gobiernos de la Federación, de los Estados y de los Municipios;
 III.- Los ingresos que obtenga por los servicios que preste, y IV.- Los bienes, derechos y demás ingresos que adquiera por cualquier título legal.
 CAPITULO IV Disposiciones Diversas ARTICULO 13.- Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos a impuestos ni derechos federales. Tampoco estarán gravados los actos o contratos en que ella intervenga, si los impuestos, conforme a la ley respectiva debiesen estar a cargo de esta Institución.
 ARTICULO 14.- Las relaciones de trabajo entre la Universidad Autónoma Chapingo y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.

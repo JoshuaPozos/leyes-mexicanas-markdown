@@ -12,7 +12,9 @@ SE CREA LA
 
 ## TÍTULO PRIMERO
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 1o
 . La presente Ley es de orden público, de interés social y de observancia general en los Estados Unidos Mexicanos. Tiene por objeto garantizar el ejercicio de los derechos de las personas adultas mayores, así como establecer las bases y disposiciones para su cumplimiento, mediante la regulación de:
@@ -58,7 +60,8 @@ IX. Atención integral. Satisfacción de las necesidades físicas, materiales, b
 X. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 Fracción reformada DOF 12-07-2018
 
-XI. Instituto. Instituto Nacional de las Personas Adultas Mayores, y Fracción reformada DOF 12-07-2018
+XI. Instituto. Instituto Nacional de las Personas Adultas Mayores, y
+Fracción reformada DOF 12-07-2018
 
 XII. Violencia Contra las Personas Adultas Mayores. Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 Fracción adicionada DOF 12-07-2018
@@ -82,7 +85,9 @@ Artículo adicionado DOF 12-07-2018
 
 ## TÍTULO SEGUNDO — DE LOS PRINCIPIOS Y LOS DERECHOS
 
+
 ## CAPÍTULO I — DE LOS PRINCIPIOS
+
 
 ### Artículo 4o
 . Son principios rectores en la observación y aplicación de esta Ley:
@@ -97,12 +102,14 @@ III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y di
 IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
 Fracción reformada DOF 30-03-2022
 
-V. Atención preferente. Es aquella que obliga a las instituciones federales, estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, y Fracción reformada DOF 30-03-2022
+V. Atención preferente. Es aquella que obliga a las instituciones federales, estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, y
+Fracción reformada DOF 30-03-2022
 
 VI. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 Fracción adicionada DOF 30-03-2022
 
 ## CAPÍTULO II — DE LOS DERECHOS
+
 
 ### Artículo 5o
 . De manera enunciativa y no limitativa, esta Ley tiene por objeto garantizar a las personas adultas mayores los siguientes derechos:
@@ -112,14 +119,17 @@ I. De la integridad, dignidad y preferencia: a. A una vida con calidad. Es oblig
 II. De la certeza jurídica: a. A recibir un trato digno y apropiado en cualquier procedimiento judicial que los involucre, ya sea en calidad de agraviados, indiciados o sentenciados. b. A recibir el apoyo de las instituciones federales, estatales y municipales en el ejercicio y respeto de sus derechos. c. A recibir asesoría jurídica en forma gratuita en los procedimientos administrativos o judiciales en que sea parte y contar con un representante legal cuando lo considere necesario. d. En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia.
 
 III. De la protección de la salud, la alimentación y la familia:
-Párrafo reformado DOF 12-07-2018 a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral. b. A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. Constitucional y en los términos que señala el artículo 18 de esta Ley, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional. c. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal. d. A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
-Inciso adicionado DOF 12-07-2018 Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores.
+Párrafo reformado DOF 12-07-2018
+a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral. b. A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. Constitucional y en los términos que señala el artículo 18 de esta Ley, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional. c. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal. d. A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
+Inciso adicionado DOF 12-07-2018
+Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores.
 
 IV. De la educación: a. A recibir de manera preferente el derecho a la educación que señala el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el artículo 17 de esta Ley. b. Las instituciones educativas, públicas y privadas, deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo los libros de texto gratuitos y todo material educativo autorizado y supervisado por la Secretaría de Educación Pública, incorporarán información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
 Inciso reformado DOF 26-01-2005
 
 V. Del trabajo y sus capacidades económicas:
-Párrafo reformado DOF 12-07-2018 A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+Párrafo reformado DOF 12-07-2018
+A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
 A ser sujetos de acciones y políticas públicas de parte de las instituciones federales, estatales y municipales, a efecto de fortalecer su plena integración social.
 Párrafo adicionado DOF 12-07-2018
 
@@ -138,7 +148,9 @@ Fracción adicionada DOF 10-05-2022
 
 ## TÍTULO TERCERO — DE LOS DEBERES DEL ESTADO, LA SOCIEDAD Y LA FAMILIA
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 6o
 . El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores con el fin de lograr plena calidad de vida para su vejez. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
@@ -168,14 +180,17 @@ I. Otorgar alimentos de conformidad con lo establecido en el Código Civil;
 II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 Fracción reformada DOF 24-01-2020
 
-III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos, y Fracción reformada DOF 24-01-2020
+III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos, y
+Fracción reformada DOF 24-01-2020
 
 IV. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 Fracción adicionada DOF 24-01-2020
 
 ## TÍTULO CUARTO — DE LA POLÍTICA PÚBLICA NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
+
 ## CAPÍTULO I — DE LOS OBJETIVOS
+
 
 ### Artículo 10
 . Son objetivos de la Política Nacional sobre personas adultas mayores los siguientes:
@@ -224,12 +239,14 @@ Fracción reformada DOF 14-11-2016
 XX. Fomentar la creación de espacios de expresión para las personas adultas mayores;
 Fracción reformada DOF 26-01-2005, 14-11-2016, 24-01-2020
 
-XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica, y Fracción adicionada DOF 14-11-2016. Reformada DOF 24-01-2020
+XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gerontológica, y
+Fracción adicionada DOF 14-11-2016. Reformada DOF 24-01-2020
 
 XXII. Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores.
 Fracción adicionada DOF 24-01-2020
 
 ## CAPÍTULO II — DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS
+
 MUNICIPIOS
 
 ### Artículo 11
@@ -253,6 +270,7 @@ Artículo reformado DOF 14-11-2016
 
 ## CAPÍTULO III — DE LOS PROGRAMAS Y LAS OBLIGACIONES DE LAS INSTITUCIONES PÚBLICAS
 
+
 ### Artículo 15
 .- En su formulación y ejecución, el Plan Nacional de Desarrollo, particularmente de su Capítulo de Desarrollo Social, deberá ser congruente con los principios, objetivos e instrumentos de los programas de atención a las personas adultas mayores, integrados en la política nacional respectiva.
 Artículo reformado DOF 26-01-2005
@@ -263,7 +281,8 @@ Artículo reformado DOF 26-01-2005
 I. Fomentar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores;
 Fracción reformada DOF 26-01-2005
 
-II. Promover en coadyuvancia con la Secretaría de Relaciones Exteriores, la suscripción de Convenios Internacionales en materia de atención a las personas adultas mayores, y Fracción reformada DOF 26-01-2005
+II. Promover en coadyuvancia con la Secretaría de Relaciones Exteriores, la suscripción de Convenios Internacionales en materia de atención a las personas adultas mayores, y
+Fracción reformada DOF 26-01-2005
 
 III. Establecer convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores.
 
@@ -326,7 +345,8 @@ VII. El apoyo a las unidades médicas y organizaciones civiles dedicadas a la at
 
 VIII. Convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de las personas adultas mayores en las unidades geriátricas y/o domicilio;
 
-IX. Gestiones para apoyar y proteger a los grupos de personas adultas mayores en situación de vulnerabilidad social o familiar, y Fracción reformada DOF 26-01-2005
+IX. Gestiones para apoyar y proteger a los grupos de personas adultas mayores en situación de vulnerabilidad social o familiar, y
+Fracción reformada DOF 26-01-2005
 
 X. Los cuidados proporcionados a las personas adultas mayores por la familia, por los responsables de su atención y cuidado, o en su caso por las instituciones públicas o privadas que tengan a su cargo a estas personas, comprenderán los siguientes aspectos: a. Las personas adultas mayores tendrán el derecho de ser examinados cuando menos una vez al año, para el mantenimiento de su salud y recibir los tratamientos que requieran en caso de enfermedad. b. Serán sujetos de la confidencialidad y participarán en las decisiones que sobre su estado de salud se generen. c. Tendrán derecho a una nutrición adecuada y apropiada.
 
@@ -365,7 +385,8 @@ V. El establecimiento de convenios de colaboración con las instituciones públi
 ### Artículo 21
 . Corresponde a las instituciones públicas de vivienda de interés social, garantizar:
 
-I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o bien, remodelarla o adaptarla en caso de ya contar con ella, y Fracción reformada DOF 14-06-2024
+I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o bien, remodelarla o adaptarla en caso de ya contar con ella, y
+Fracción reformada DOF 14-06-2024
 
 II. El acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia.
 
@@ -401,7 +422,9 @@ Fracción reformada DOF 17-12-2015
 
 ## TÍTULO QUINTO — DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
+
 ## CAPÍTULO I — DE SU NATURALEZA, OBJETO Y ATRIBUCIONES
+
 
 ### Artículo 24
 . Se crea el Instituto Nacional de las Personas Adultas Mayores como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
@@ -494,7 +517,8 @@ Fracción reformada DOF 26-01-2005
 XXVII. Promover, fomentar y difundir en las actuales y nuevas generaciones, una cultura de protección, comprensión, cariño y respeto a las personas adultas mayores en un clima de interrelación generacional, a través de los medios masivos de comunicación;
 Fracción reformada DOF 26-01-2005
 
-XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y Fracción reformada DOF 26-01-2005
+XXVIII. Elaborar y proponer al titular del Poder Ejecutivo Federal, los proyectos legislativos en materia de personas adultas mayores, que contribuyan a su desarrollo humano integral, y
+Fracción reformada DOF 26-01-2005
 
 XXIX. Expedir su Estatuto Orgánico.
 XXX.- Crear un registro único obligatorio de todas las instituciones públicas y privadas de casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores.
@@ -502,18 +526,25 @@ Fracción adicionada DOF 24-06-2009
 
 ## CAPÍTULO II — DE SU GOBIERNO, ADMINISTRACIÓN Y VIGILANCIA
 
+
 ### Artículo 29
 . Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto contará con un Consejo Directivo y una Dirección General y las estructuras administrativas que establezca el Estatuto Orgánico.
 
 ### Artículo 30
 . El Consejo Directivo es el órgano de gobierno del Instituto y responsable de la planeación y el diseño específico de las políticas públicas anuales que permitan la ejecución transversal a favor de las personas adultas mayores. Estará integrado por los titulares de las siguientes dependencias: a. Secretaría de Desarrollo Social, quien fungirá como Presidente. b. Secretaría de Gobernación. c. Secretaría de Hacienda y Crédito Público. d. Secretaría de Educación Pública. e. Secretaría de Salud. f. Secretaría del Trabajo y Previsión Social. g. Sistema Nacional para el Desarrollo Integral de la Familia. h. Instituto Mexicano del Seguro Social. i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-Inciso reformado DOF 17-12-2015 j. Secretaría de Infraestructura, Comunicaciones y Transportes;
-Inciso adicionado DOF 25-04-2012. Reformado DOF 17-12-2015, 14-06-2024 k. Secretaría de Cultura, y Inciso adicionado DOF 17-12-2015. Reformado DOF 14-06-2024 l. Comisión Nacional de Vivienda.
-Inciso adicionado DOF 14-06-2024 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
+Inciso reformado DOF 17-12-2015
+j. Secretaría de Infraestructura, Comunicaciones y Transportes;
+Inciso adicionado DOF 25-04-2012. Reformado DOF 17-12-2015, 14-06-2024
+k. Secretaría de Cultura, y
+Inciso adicionado DOF 17-12-2015. Reformado DOF 14-06-2024
+l. Comisión Nacional de Vivienda.
+Inciso adicionado DOF 14-06-2024
+Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
 ### Artículo 31
 .- Se invitará como miembros del órgano de gobierno hasta cinco representantes de los sectores social y privado que sean personas adultas mayores, y que por su experiencia en la materia, puedan contribuir con el objeto del Instituto. Dichos representantes tendrán derecho a voz y voto. La convocatoria será formulada por el Director General del Instituto.
-Párrafo reformado DOF 26-01-2005 Se podrá invitar también, con la aprobación de la mayoría de sus asistentes, a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
+Párrafo reformado DOF 26-01-2005
+Se podrá invitar también, con la aprobación de la mayoría de sus asistentes, a los representantes de otras dependencias e instituciones públicas federales, estatales o municipales, los que tendrán derecho a voz y no a voto en la sesión o sesiones correspondientes.
 
 ### Artículo 32
 . El Consejo Directivo se reunirá con la periodicidad que señale el Estatuto Orgánico, sin que pueda ser menos de cuatro veces al año, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria de su ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
@@ -545,14 +576,18 @@ El Director General tendrá la representación legal del organismo, con todas la
 . El Director General tendrá las atribuciones a que se refieren los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales.
 
 ## CAPÍTULO III — DEL CONSEJO CIUDADANO DE PERSONAS ADULTAS MAYORES
+
 Denominación del Capítulo reformada DOF 26-01-2005
 
 ### Artículo 38
 .- El Instituto contará con un Consejo Ciudadano de personas adultas mayores, que tendrá por objeto conocer el seguimiento dado a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a las personas adultas mayores y presentarlas al Consejo Directivo.
-Párrafo reformado DOF 26-01-2005 Este Consejo se integrará con diez personas adultas mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas o privadas.
-Párrafo reformado DOF 26-01-2005 El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones y funcionamiento del Consejo se establecerán en las disposiciones orgánicas del Instituto.
+Párrafo reformado DOF 26-01-2005
+Este Consejo se integrará con diez personas adultas mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas o privadas.
+Párrafo reformado DOF 26-01-2005
+El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones y funcionamiento del Consejo se establecerán en las disposiciones orgánicas del Instituto.
 
 ## CAPÍTULO IV — DEL PATRIMONIO DEL INSTITUTO
+
 
 ### Artículo 39
 . El patrimonio del Instituto se integrará con:
@@ -571,13 +606,17 @@ VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, d
 
 ## CAPÍTULO V — DE LA CONTRALORÍA INTERNA
 
+
 ### Artículo 40
 . El Instituto Nacional de las Personas Adultas Mayores contará con una Contraloría Interna, órgano interno de control, al frente del cual su titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
-Párrafo reformado DOF 09-04-2012 Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
-Párrafo reformado DOF 09-04-2012 El Instituto proporcionará al titular del órgano interno de control, los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus funciones.
+Párrafo reformado DOF 09-04-2012
+Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+Párrafo reformado DOF 09-04-2012
+El Instituto proporcionará al titular del órgano interno de control, los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus funciones.
 
 ## CAPÍTULO VI — RÉGIMEN LABORAL
+
 
 ### Artículo 41
 . Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -587,7 +626,9 @@ Párrafo reformado DOF 09-04-2012 El Instituto proporcionará al titular del ór
 
 ## TÍTULO SEXTO — DE LAS RESPONSABILIDADES Y SANCIONES
 
+
 ## CAPÍTULO I — DE LA DENUNCIA POPULAR
+
 
 ### Artículo 43
 . La denuncia a que se refiere la fracción VIII del artículo 5o. de este ordenamiento, podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
@@ -614,6 +655,7 @@ IV. Las pruebas que en su caso ofrezca el denunciante.
 
 ## CAPÍTULO II — DE LAS RESPONSABILIDADES Y SANCIONES
 
+
 ### Artículo 48
 .- Las instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a las personas adultas mayores, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto.
 Artículo reformado DOF 26-01-2005
@@ -626,12 +668,12 @@ Artículo reformado DOF 26-01-2005
 
 ## TRANSITORIOS
 
-**PRIMERO.** Esta Ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El patrimonio y los bienes del actual Instituto Nacional de Adultos en Plenitud, pasarán a formar parte del patrimonio del Instituto Nacional de las Personas Adultas Mayores. Asimismo, sus trabajadores seguirán siéndolo de este último, sin afectación alguna de sus derechos laborales.
-**TERCERO.** Se abroga el Decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación de fecha 22 de agosto de 1979, por el que se crea el Instituto Nacional de la Senectud.
-**CUARTO.** Se abroga el Decreto del Ejecutivo Federal de fecha 17 de enero de 2002, por el que se regula el organismo descentralizado Instituto Nacional de Adultos en Plenitud.
-**QUINTO.** La expedición del Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores se dará dentro de los ciento veinte días posteriores a la entrada en vigor de la presente Ley.
-**SEXTO.** Cualquier referencia al Instituto Nacional de Adultos en Plenitud o al Instituto Nacional de la Senectud, en otras disposiciones jurídicas, se entenderá hecha al Instituto Nacional de las Personas Adultas Mayores.
+**PRIMERO.-** Esta Ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El patrimonio y los bienes del actual Instituto Nacional de Adultos en Plenitud, pasarán a formar parte del patrimonio del Instituto Nacional de las Personas Adultas Mayores. Asimismo, sus trabajadores seguirán siéndolo de este último, sin afectación alguna de sus derechos laborales.
+**TERCERO.-** Se abroga el Decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación de fecha 22 de agosto de 1979, por el que se crea el Instituto Nacional de la Senectud.
+**CUARTO.-** Se abroga el Decreto del Ejecutivo Federal de fecha 17 de enero de 2002, por el que se regula el organismo descentralizado Instituto Nacional de Adultos en Plenitud.
+**QUINTO.-** La expedición del Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores se dará dentro de los ciento veinte días posteriores a la entrada en vigor de la presente Ley.
+**SEXTO.-** Cualquier referencia al Instituto Nacional de Adultos en Plenitud o al Instituto Nacional de la Senectud, en otras disposiciones jurídicas, se entenderá hecha al Instituto Nacional de las Personas Adultas Mayores.
 México, D.F., a 30 de abril de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Beatriz Elena Paredes Rangel, Presidenta.- Sen. María Lucero Saldaña Pérez, Secretario.-Dip. Martha Silvia Sánchez González, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
@@ -677,8 +719,8 @@ Se reforma el artículo 40, segundo y tercer párrafo, de la Ley de los Derechos
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se adiciona un inciso j al artículo 30 de la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 25 de abril de 2012
@@ -697,19 +739,19 @@ Se REFORMAN los artículos 23, fracción III y 30, incisos i. y j., se ADICIONAN
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona la fracción XXI al artículo 10 y la fracción III al artículo 14 de la Ley de los Derechos de las Personas Adultas Mayores.
@@ -733,7 +775,7 @@ Se reforma la fracción III del artículo 17 de la Ley de los Derechos de las Pe
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 6 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen.
 Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el artículo 8o. de la Ley de los Derechos de las Personas Adultas Mayores.
@@ -751,7 +793,7 @@ Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma la fracción V y adiciona un segundo párrafo a dicha fracción del artículo 5o. de la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
@@ -761,7 +803,7 @@ Se reforma la fracción V y se adiciona un segundo párrafo a dicha fracción de
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma la fracción III del artículo 5o., y se adiciona el inciso d al artículo 5o. a la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 12 de julio de 2018
@@ -791,38 +833,38 @@ Primero.- Se reforma la fracción III del artículo 22 de la Ley de los Derechos
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo tercero del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, de la Ley General para la Igualdad entre Mujeres y Hombres y de la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022
@@ -832,7 +874,7 @@ Se reforma la fracción II del artículo 18 y se adiciona una fracción VI al ar
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de febrero de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 Jessica María Guadalupe Ortega De la Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

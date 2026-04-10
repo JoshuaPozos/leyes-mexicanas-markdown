@@ -14,10 +14,12 @@ ARTICULO 2o.- Las sociedades de solidaridad social tendrán por objeto:
 I.- La creación de fuentes de trabajo.
 II.- La práctica de medidas que tiendan a la conservación y mejoramiento de la ecología.
 III.- La explotación sustentable de los recursos naturales.
-Fracción reformada DOF 24-04-2018 IV.- La producción, industrialización y comercialización de bienes y servicios que sean necesarios.
+Fracción reformada DOF 24-04-2018
+IV.- La producción, industrialización y comercialización de bienes y servicios que sean necesarios.
 V.- La educación de los socios y de sus familiares en la práctica de la solidaridad social, la afirmación de los valores cívicos nacionales, la defensa de la independencia política, cultural y económica del país y el fomento de las medidas que tiendan a elevar el nivel de vida de los miembros de la comunidad.
 ARTICULO 3o.- La denominación de la sociedad se formará libremente, pero será distinta de la de cualquier otra sociedad; al emplearse irá siempre seguida de las palabras "Sociedad de Solidaridad Social" o sus abreviaturas "S. de S. S." ARTICULO 4o.- Para la constitución de la sociedad se requiere un mínimo de cinco socios.
-Artículo reformado DOF 24-04-2018 ARTICULO 5o.- Las sociedades de solidaridad social se constituirán mediante asamblea general que celebren los interesados, de la que se levantará acta por quintuplicado y en la cual, además de las generales de los mismos, se asentarán los nombres de las personas que hayan resultado electas para integrar, por primera vez, los comités ejecutivos, de vigilancia, de admisión de socios, así como el texto de las bases constitutivas.
+Artículo reformado DOF 24-04-2018
+ARTICULO 5o.- Las sociedades de solidaridad social se constituirán mediante asamblea general que celebren los interesados, de la que se levantará acta por quintuplicado y en la cual, además de las generales de los mismos, se asentarán los nombres de las personas que hayan resultado electas para integrar, por primera vez, los comités ejecutivos, de vigilancia, de admisión de socios, así como el texto de las bases constitutivas.
 La autenticidad de las firmas de los otorgantes será certificada por Notario Público, por la primera autoridad municipal, o a falta de ellos por un funcionario local o federal con jurisdicción en el domicilio social. La nacionalidad de los otorgantes será comprobada con el acta de nacimiento respectiva.
 ARTICULO 6o.- El acta constitutiva de la sociedad deberá contener:
 I.- Denominación.
@@ -31,7 +33,8 @@ VIII.- Normas de vigilancia;
 IX.- Reglas para aplicación de los beneficios, pérdidas e integración del fondo de solidaridad social, procurándose que el beneficio sea repartido equitativamente.
 X.- Liquidación de la sociedad cuando sea revocada la autorización de funcionamiento, y XI.- Las demás estipulaciones que se consideren necesarias para la realización de los objetivos sociales.
 ARTICULO 7o.- Para el funcionamiento de la sociedad se requerirá autorización previa del Ejecutivo Federal, a través de la Secretaría de Desarrollo Agrario, Territorial y Urbano, cuando se trate de las industrias rurales y de la Secretaría del Trabajo y Previsión Social en los demás casos.
-Párrafo reformado DOF 24-04-2018 Dicha autorización sólo procederá si las bases constitutivas no contravienen lo dispuesto en la presente ley.
+Párrafo reformado DOF 24-04-2018
+Dicha autorización sólo procederá si las bases constitutivas no contravienen lo dispuesto en la presente ley.
 ARTICULO 8o.- El acta y bases constitutivas, así como la autorización, deberán inscribirse en el registro que para tal efecto lleven las Secretarías mencionadas en el artículo anterior.
 La sociedad de solidaridad social tendrá personalidad jurídica a partir de su inscripción en el registro previsto en el párrafo anterior.
 CAPITULO II De los Socios ARTICULO 9o.- Para ingresar a la sociedad, se requieren:
@@ -84,7 +87,8 @@ ARTICULO 19.- De no reunirse el quórum de la primera asamblea general, se convo
 ARTICULO 20.- Las convocatorias a las asambleas generales, deberán expedirse por el Comité Ejecutivo o, si éste no lo hiciere, por el comité financiero y de vigilancia.
 Las convocatorias se expedirán en el término previsto en las bases constitutivas y cuando el comité ejecutivo lo considere conveniente. También deberán expedirse cuando el veinticinco por ciento de los socios lo requiera a dicho comité.
 La Secretaría de Desarrollo Agrario, Territorial y Urbano o la Secretaría del Trabajo y Previsión Social, en su caso, podrá convocar a asamblea general cuando lo considere necesario para regular el funcionamiento de la sociedad o cuando no hubiesen expedido la convocatoria el comité ejecutivo o el financiero y de vigilancia, en los casos previstos en el párrafo anterior.
-Párrafo reformado DOF 24-04-2018 ARTICULO 21.- Además de la asamblea general podrá establecerse en las bases constitutivas que se celebrarán asambleas específicas por líneas de producción. Estas asambleas podrán tener las atribuciones consignadas en la fracción V del artículo 17.
+Párrafo reformado DOF 24-04-2018
+ARTICULO 21.- Además de la asamblea general podrá establecerse en las bases constitutivas que se celebrarán asambleas específicas por líneas de producción. Estas asambleas podrán tener las atribuciones consignadas en la fracción V del artículo 17.
 Las convocatorias a estas asambleas serán expedidas por el Delegado de la línea de producción correspondiente, acreditado con ese carácter, conforme al Reglamento de esta Ley, y al Comité Ejecutivo.
 Los acuerdos de las asambleas específicas serán válidos si son convocados con tres días de anticipación por lo menos y concurren el sesenta por ciento de los socios de la línea de producción de que se trate.
 ARTICULO 22.- La administración de la sociedad estará a cargo de un comité ejecutivo compuesto, cuando menos, de tres miembros propietarios, quienes deberán ser socios. Por cada propietario se designará un suplente, que ocupará el cargo de aquél únicamente durante sus ausencias temporales o definitivas.
@@ -118,7 +122,8 @@ ARTICULO 26.- Los acuerdos del Comité Ejecutivo y del Comité Financiero y de V
 CAPITULO V De la Comisión de Educación ARTICULO 27.- La Comisión de Educación se compondrá de tres miembros, que serán designados por el Comité Ejecutivo, y que podrán auxiliarse de las personas que crean necesarias para sus actividades ejecutivas.
 ARTICULO 28.- La Comisión de Educación, tendrá los siguientes objetivos:
 I.- Procurar la educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley General de Educación.
-Fracción reformada DOF 24-04-2018 II.- La formación de los socios con sentido de la solidaridad social, de la conducta responsable y con espíritu de disciplina e iniciativa.
+Fracción reformada DOF 24-04-2018
+II.- La formación de los socios con sentido de la solidaridad social, de la conducta responsable y con espíritu de disciplina e iniciativa.
 III.- Proporcionar orientaciones claras y precisas a todos los miembros de la sociedad para alcanzar su formación intelectual, moral y social.
 ARTICULO 29.- La Comisión de Educación tendrá las siguientes obligaciones:
 I.- Cumplir, con todos los medios a su alcance, los objetivos mencionados en el Artículo anterior.
@@ -137,7 +142,8 @@ IV.- Al pago de cuotas de retiro, jubilación e incapacidad temporal o permanent
 V.- Servicios médicos y educativos para los socios, siempre que se reúnan los requisitos a que se refiere la fracción anterior.
 ARTICULO 33.- En caso de pérdidas y previo acuerdo de la asamblea general o de representantes, podrá disponerse del fondo de solidaridad social para evitar perjuicios económicos a la sociedad o a los socios y, en todo caso, las cantidades obtenidas de dicho fondo deberán ser reintegradas al mismo, en los términos y proporción que acuerde la asamblea.
 CAPITULO VII De las Autoridades Competentes ARTICULO 34.- La Secretaría de Desarrollo Agrario, Territorial y Urbano y la Secretaría del Trabajo y Previsión Social, tendrán, además de las facultades que deriven de otros artículos de la presente ley, las siguientes:
-Párrafo reformado DOF 24-04-2018 I.- Obtener del comité ejecutivo o del financiero y de vigilancia toda clase de informes y datos relativos al funcionamiento de la sociedad o de sus actividades;
+Párrafo reformado DOF 24-04-2018
+I.- Obtener del comité ejecutivo o del financiero y de vigilancia toda clase de informes y datos relativos al funcionamiento de la sociedad o de sus actividades;
 II.- Vigilar que el patrimonio social y el fondo de solidaridad social se manejen y apliquen en los términos de la presente ley, y demás disposiciones derivadas de ella, y conforme a las bases constitutivas;
 III.- Revocar la autorización de funcionamiento de la sociedad, en los siguientes casos:
 
@@ -155,10 +161,13 @@ ARTICULO 35.- Las sociedades de solidaridad social podrán estar exentas del ré
 En cada declaratoria de exención, que será en todo caso intransferible, se fijará el monto, la duración y demás características de la misma.
 Cuando las sociedades de Solidaridad Social sean autosuficientes, deberán incorporarse al régimen del Seguro Social Obligatorio.
 ARTICULO 36.- El Ejecutivo Federal, a través de sus dependencias y mediante disposiciones de carácter concreto para cada sociedad, podrá otorgar, discrecionalmente, los estímulos, franquicias o subsidios necesarios para su eficaz funcionamiento, dichos apoyos, podrán ser revocados o cancelados cuando las causas que los motivaron desaparezcan, a juicio fundado de los otorgantes.
-Párrafo reformado DOF 24-04-2018 Las autoridades federales y los organismos creados por la Federación para la promoción y fomento de la industrialización, transformación y comercialización, deberán asesorar gratuitamente a las sociedades de solidaridad social, cuando sean requeridos para ello.
+Párrafo reformado DOF 24-04-2018
+Las autoridades federales y los organismos creados por la Federación para la promoción y fomento de la industrialización, transformación y comercialización, deberán asesorar gratuitamente a las sociedades de solidaridad social, cuando sean requeridos para ello.
 En caso, de recibir estímulos, franquicias o subsidios las sociedades deben sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia, así como informar sobre su uso y resultados derivados de los mismos a la Secretaría de Desarrollo Agrario, Territorial y Urbano, la cual llevará para estos fines un registro de las sociedades constituidas y de aquellas que reciban estímulos, franquicias o subsidios públicos para el fomento de sus actividades, garantizando así la transparencia y rendición de cuentas sobre acciones y recursos públicos.
-Párrafo adicionado DOF 24-04-2018 Para dichos fines la Secretaría de Desarrollo Agrario, Territorial y Urbano se allegará del Registro Agrario Nacional.
-Párrafo adicionado DOF 24-04-2018 ARTICULO 37.- Las sociedades de solidaridad social serán sujetos de crédito de las instituciones nacionales de crédito y tendrán preferencia en el otorgamiento del mismo, a fin de que gocen de las máximas facilidades.
+Párrafo adicionado DOF 24-04-2018
+Para dichos fines la Secretaría de Desarrollo Agrario, Territorial y Urbano se allegará del Registro Agrario Nacional.
+Párrafo adicionado DOF 24-04-2018
+ARTICULO 37.- Las sociedades de solidaridad social serán sujetos de crédito de las instituciones nacionales de crédito y tendrán preferencia en el otorgamiento del mismo, a fin de que gocen de las máximas facilidades.
 CAPITULO VIII De la Liquidación ARTICULO 38.- Revocada la autorización de funcionamiento, se iniciará el procedimiento de liquidación, bajo la vigilancia de la Secretaría que corresponda.
 La Secretaría respectiva integrará un comité liquidador compuesto de tres miembros: uno de ellos por parte de la sociedad; otro por los acreedores y, el tercero, por parte de la Secretaría.
 ARTICULO 39.- El comité liquidador tendrá las facultades siguientes:
@@ -166,7 +175,8 @@ I.- Concluir las operaciones sociales que hubieren quedado pendiente en el momen
 II.- Formular un inventario de los activos y pasivos de la sociedad;
 III.- Cobrar lo que se deba a la sociedad y pagar lo que ésta adeude;
 IV.- Formular el balance final de liquidación, que deberá someterse a la aprobación de la Secretaría de Desarrollo Agrario, Territorial y Urbano o de la Secretaría del Trabajo y Previsión Social en sus respectivos casos;
-Fracción reformada DOF 24-04-2018 V.- Inscribir de inmediato en el registro nacional de la Secretaría que corresponda que la sociedad de solidaridad social entra en período de liquidación;
+Fracción reformada DOF 24-04-2018
+V.- Inscribir de inmediato en el registro nacional de la Secretaría que corresponda que la sociedad de solidaridad social entra en período de liquidación;
 VI.- Las demás inherentes a la liquidación.
 ARTICULO 40.- Una vez aprobado el balance final de liquidación, se inscribirá en el registro nacional que la Secretaría competente lleve de las sociedades de solidaridad social.
 El activo integrado por el patrimonio y el fondo de solidaridad social quedará a disposición de la Secretaría que corresponda para su ulterior aplicación a otra sociedad similar o a falta de éstas a la asistencia pública.
@@ -190,5 +200,5 @@ Se reforman los artículos 2o., fracción III; 4o.; 7o., primer párrafo; 20, te
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecisiete de abril de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.

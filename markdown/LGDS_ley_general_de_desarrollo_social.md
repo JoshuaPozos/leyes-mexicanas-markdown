@@ -14,7 +14,9 @@ Se crea la Ley General de Desarrollo Social.
 
 ## TÍTULO PRIMERO — DE LAS DISPOSICIONES GENERALES
 
+
 ## Capítulo I — Del Objeto
+
 
 ### Artículo 1
 . La presente Ley es de orden público e interés social y de observancia general en todo el territorio nacional, y tiene por objeto:
@@ -67,7 +69,8 @@ Fracción reformada DOF 01-06-2012, 01-04-2024
 IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 Fracción reformada DOF 01-06-2012, 22-06-2018
 
-X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social, y Fracción adicionada DOF 01-06-2012. Reformada DOF 22-06-2018
+X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social, y
+Fracción adicionada DOF 01-06-2012. Reformada DOF 22-06-2018
 
 XI. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte.
 Fracción adicionada DOF 22-06-2018
@@ -85,7 +88,8 @@ Fracción reformada DOF 16-07-2025
 
 II. Consejo Consultivo: Consejo Consultivo de Desarrollo Social;
 
-III. Derogada Fracción derogada DOF 16-07-2025
+III. Derogada
+Fracción derogada DOF 16-07-2025
 
 IV. Comisión Intersecretarial: Comisión Intersecretarial de Desarrollo Social;
 
@@ -103,15 +107,18 @@ VIII. Sistema Nacional: Sistema Nacional de Desarrollo Social;
 IX. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 Fracción reformada DOF 16-07-2025
 
-X. Padrón: Relación oficial de personas beneficiarias que incluye a las personas atendidas por los programas federales de desarrollo social cuyo perfil socioeconómico se establece en la normativa correspondiente, y Fracción reformada DOF 16-07-2025
+X. Padrón: Relación oficial de personas beneficiarias que incluye a las personas atendidas por los programas federales de desarrollo social cuyo perfil socioeconómico se establece en la normativa correspondiente, y
+Fracción reformada DOF 16-07-2025
 
 XI. Política de Desarrollo Social: Conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, rezago social y exclusión social, que potencian y garantizan el desarrollo sostenible y con equidad.
 Fracción adicionada DOF 16-07-2025
 
 ## TÍTULO SEGUNDO — DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO
+
 SOCIAL
 
 ## Capítulo Único
+
 
 ### Artículo 6
 .- Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación y la igualdad sustantiva entre mujeres y hombres, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
@@ -152,7 +159,9 @@ IX. Cumplir la normatividad de los programas de desarrollo social.
 
 ## TÍTULO TERCERO — DE LA POLÍTICA NACIONAL DE DESARROLLO SOCIAL
 
+
 ## Capítulo I — De los Objetivos
+
 
 ### Artículo 11
 . La Política Nacional de Desarrollo Social tiene los siguientes objetivos:
@@ -166,14 +175,17 @@ Fracción reformada DOF 15-01-2026
 III. Fortalecer el desarrollo regional equilibrado;
 Fracción reformada DOF 26-01-2018
 
-IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social, y Fracción reformada DOF 26-01-2018
+IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social, y
+Fracción reformada DOF 26-01-2018
 
-V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales, y Fracción adicionada DOF 26-01-2018. Reformada DOF 15-01-2026
+V. Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales, y
+Fracción adicionada DOF 26-01-2018. Reformada DOF 15-01-2026
 
 VI. Garantizar la transversalidad de la perspectiva de género y de derechos humanos en el diseño, implementación y evaluación de los programas de desarrollo social.
 Fracción adicionada DOF 15-01-2026
 
 ## Capítulo II — De la Planeación y la Programación
+
 
 ### Artículo 12
 . En la planeación del desarrollo se deberá incorporar la Política Nacional de Desarrollo Social de conformidad con esta Ley y las demás disposiciones en la materia.
@@ -205,6 +217,7 @@ V. Fomento del sector social de la economía.
 . Los municipios serán los principales ejecutores de los programas, recursos y acciones federales de desarrollo social, de acuerdo a las reglas de operación que para el efecto emita el Ejecutivo Federal, excepto en los casos expresamente asignados, legal o administrativamente, a una dependencia, entidad u organismo federal, estatal o del Distrito Federal.
 
 ## Capítulo III — Del Financiamiento y el Gasto
+
 
 ### Artículo 18
 . Los programas, proyectos y acciones, incluidos los recursos, que conforman la Política de Desarrollo Social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y evaluación de acuerdo con esta Ley y la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y no podrán sufrir disminuciones en sus montos presupuestales.
@@ -273,6 +286,7 @@ IV. En el caso de los presupuestos federales descentralizados, las entidades fed
 
 ## Capítulo IV — De las Zonas de Atención Prioritaria
 
+
 ### Artículo 29
 . Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios técnicos que para tal efecto defina el Instituto y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política de Desarrollo Social.
 Artículo reformado DOF 16-07-2025
@@ -289,6 +303,7 @@ Artículo reformado DOF 08-04-2013, 16-07-2025
 
 ## Capítulo V — Del Fomento del Sector Social de la Economía
 
+
 ### Artículo 33
 . Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas.
 
@@ -300,6 +315,7 @@ Artículo reformado DOF 01-04-2024
 . El Gobierno Federal y los gobiernos de las entidades federativas podrán aportar recursos como capital de riesgo para dar viabilidad a las empresas sociales y destinar recursos para apoyar a personas, familias y organizaciones sociales cuyo objeto sea el financiamiento de proyectos de desarrollo social.
 
 ## Capítulo VI — De la Definición y Medición de la Pobreza
+
 
 ### Artículo 36
 . Los lineamientos y criterios técnicos que establezca el Instituto para la definición, identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias públicas que participen en la ejecución de los programas de desarrollo social. Asimismo, el Instituto debe procurar la generación de información de al menos los siguientes indicadores:
@@ -322,7 +338,8 @@ Fracción reformada DOF 22-06-2018
 VII. Acceso a la alimentación nutritiva y de calidad;
 Fracción reformada DOF 07-11-2013, 01-06-2016
 
-VIII. Grado de cohesión social, y Fracción reformada DOF 07-11-2013
+VIII. Grado de cohesión social, y
+Fracción reformada DOF 07-11-2013
 
 IX. Grado de Accesibilidad a carretera pavimentada.
 Fracción adicionada DOF 07-11-2013
@@ -337,7 +354,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## TÍTULO CUARTO — DEL SISTEMA NACIONAL DE DESARROLLO SOCIAL
 
+
 ## Capítulo I — Del Objeto e Integración
+
 
 ### Artículo 38
 . El Sistema Nacional es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación de los gobiernos; federal, los de las entidades federativas y los municipales, así como los sectores social y privado, que tiene por objeto:
@@ -355,6 +374,7 @@ V. Coordinar las acciones orientadas a la consecución de los objetivos, estrate
 VI. Impulsar la desconcentración y descentralización de los recursos y acciones para el desarrollo social, la rendición de cuentas y el fortalecimiento del pacto federal.
 
 ## Capítulo II — De las Competencias
+
 
 ### Artículo 39
 . La coordinación del Sistema Nacional compete a la Secretaría, con la concurrencia de las dependencias, entidades y organismos federales, de los gobiernos municipales y de las entidades federativas, así como de las organizaciones. La Secretaría diseñará y ejecutará las políticas generales de desarrollo social. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de desarrollo social.
@@ -442,6 +462,7 @@ IX. Las demás que le señala la Ley, su reglamento y demás disposiciones aplic
 
 ## Capítulo III — De la Comisión Nacional de Desarrollo Social
 
+
 ### Artículo 47
 . La Comisión Nacional es un instrumento de coordinación de los programas, acciones e inversiones que para el cumplimiento de los objetivos, estrategias y prioridades de la Política Nacional de Desarrollo Social lleven a cabo, en el ámbito de sus competencias, las dependencias y entidades federales, ya sea de manera directa o en concurrencia con gobiernos de las entidades federativas y de los municipios o en concertación con los sectores social y privado.
 
@@ -493,6 +514,7 @@ XIII. Las demás que le señale esta Ley.
 
 ## Capítulo IV — De la Comisión Intersecretarial de Desarrollo Social
 
+
 ### Artículo 51
 . La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por las personas titulares de las secretarías de Bienestar, quien la presidirá; de Gobernación; de Hacienda y Crédito Público; de Educación Pública; de Salud; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Agricultura y Desarrollo Rural; de Infraestructura, Comunicaciones y Transportes; Anticorrupción y Buen Gobierno; del Trabajo y Previsión Social; de Desarrollo Agrario, Territorial y Urbano, y de Turismo, así como del Instituto Nacional de los Pueblos Indígenas. Podrá invitarse a participar, con derecho a voz, a las personas titulares de otras dependencias y entidades de la Administración Pública Federal. La subsecretaría que designe la persona titular de la Secretaría será la Secretaría Técnica. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 Artículo reformado DOF 25-06-2018, 01-04-2024, 16-07-2025
@@ -517,6 +539,7 @@ V. Revisar los términos de los convenios de coordinación entre el Gobierno Fed
 . Los acuerdos de la Comisión Intersecretarial serán publicados en el Diario Oficial de la Federación.
 
 ## Capítulo V
+
 Consejo Consultivo de Desarrollo Social
 
 ### Artículo 55
@@ -566,6 +589,7 @@ Artículo reformado DOF 16-07-2025
 . El Consejo podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, de organizaciones civiles y de particulares.
 
 ## Capítulo VI
+
 Participación Social
 
 ### Artículo 61
@@ -591,6 +615,7 @@ Artículo reformado DOF 16-07-2025
 
 ## Capítulo VII — De la Denuncia Popular
 
+
 ### Artículo 67
 . Toda persona u organización podrá presentar denuncia ante la autoridad competente sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el desarrollo social.
 
@@ -605,10 +630,12 @@ II. Los actos, hechos u omisiones denunciados;
 III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
 IV. Las pruebas que en su caso ofrezca quien denuncia.
-Fracción reformada DOF 16-07-2025 La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
+Fracción reformada DOF 16-07-2025
+La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 Párrafo adicionado DOF 25-06-2018
 
 ## Capítulo VIII — De la Contraloría Social
+
 
 ### Artículo 69
 . Se reconoce a la Contraloría Social como el mecanismo de las personas beneficiarias, de manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social.
@@ -632,7 +659,9 @@ V. Presentar ante la autoridad competente las quejas y denuncias que puedan dar 
 
 ## TÍTULO QUINTO — DE LA EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
+
 ## Capítulo I — De la Evaluación
+
 
 ### Artículo 72
 . La evaluación integral de la Política de Desarrollo Social está a cargo del Instituto que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, proyectos y acciones, incluidos los recursos, que se requieren para la implementación de la Política de Desarrollo Social.
@@ -651,13 +680,16 @@ Artículo reformado DOF 16-07-2025
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 75
-. Derogado Artículo derogado DOF 16-07-2025
+. Derogado
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 76
-. Derogado Artículo derogado DOF 16-07-2025
+. Derogado
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 77
-. Derogado Artículo derogado DOF 16-07-2025
+. Derogado
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 78
 . La evaluación será anual, definiendo como periodo del primero de mayo al treinta de abril y podrá también ser multianual en los casos que así se determine.
@@ -671,6 +703,7 @@ El Instituto pondrá a disposición del público la evaluación integral de la P
 Artículo reformado DOF 16-07-2025
 
 ## Capítulo II — Del Instituto Nacional de Estadística y Geografía
+
 Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 81
@@ -717,7 +750,8 @@ V. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 85
-. Derogado Artículo derogado DOF 16-07-2025
+. Derogado
+Artículo derogado DOF 16-07-2025
 
 ## TRANSITORIOS
 
@@ -738,7 +772,7 @@ Se adiciona una fracción X al artículo 3 de la Ley General de Desarrollo Socia
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 19 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma el artículo 30 de la Ley General de Desarrollo Social.
 Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
@@ -748,7 +782,7 @@ Se reforma el artículo 30 de la Ley General de Desarrollo Social, para quedar c
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 7 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Fernando Bribiesca Sahagun, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se adiciona la fracción IX al artículo 36 de la Ley General de Desarrollo Social.
 Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2013
@@ -823,7 +857,7 @@ Se adiciona una fracción XI al artículo 3 de la Ley General de Desarrollo Soci
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma el artículo 51 de la Ley General de Desarrollo Social.
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
@@ -833,7 +867,7 @@ Se reforma el artículo 51 de la Ley General de Desarrollo Social, para quedar c
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se adiciona un segundo párrafo al artículo 68 de la Ley General de Desarrollo Social.
 Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
@@ -843,7 +877,7 @@ Se adiciona un segundo párrafo al artículo 68 de la Ley General de Desarrollo 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
@@ -853,9 +887,9 @@ Se reforma el artículo 83 de la Ley General de Desarrollo Social, para quedar c
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -871,9 +905,10 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Primero
 Se reforman los artículos 5, fracciones I, VII y X; 10, en su párrafo; 18; 19, en su párrafo; 29; 30; 36, en su párrafo; 37; 43, fracciones VII y IX; 49; 51; 57; 58; 61; 64; 65; 68, párrafo
-**primero.** , fracciones I y IV; 69; 72; 73; 74; 80; 81; 82; 83 y 84, así como la denominación del Capítulo II del
+**primero.-** , fracciones I y IV; 69; 72; 73; 74; 80; 81; 82; 83 y 84, así como la denominación del Capítulo II del
 
 ## Título Quinto — ; se adicionan los artículos 4, con un segundo párrafo; 5, con las fracciones VI Bis y XI; 37
+
 Bis y 72 Bis, y se derogan los artículos 5, la fracción III; 75; 76; 77 y 85, de la Ley General de Desarrollo Social, para quedar como sigue: …….
 
 ## Transitorios
@@ -909,11 +944,11 @@ Se reforman los artículos 1, fracción I; 3, fracción VII; 6; 9; 10, fracción
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

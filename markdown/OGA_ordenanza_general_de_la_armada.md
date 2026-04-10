@@ -4020,39 +4020,48 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,115.- (Se deroga).
-Artículo derogado DOF 19-10-2000 INSIGNIAS Presidente de la República
+Artículo derogado DOF 19-10-2000
+INSIGNIAS Presidente de la República
 
 ### Artículo 1
 ,116.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Vicepresidente de la República
+Artículo derogado DOF 19-10-2000
+Vicepresidente de la República
 
 ### Artículo 1
 ,117.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Secretario de Guerra y Marina
+Artículo derogado DOF 19-10-2000
+Secretario de Guerra y Marina
 
 ### Artículo 1
 ,118.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Jefe del Departamento de Marina
+Artículo derogado DOF 19-10-2000
+Jefe del Departamento de Marina
 
 ### Artículo 1
 ,119.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante con mando en Jefe
+Artículo derogado DOF 19-10-2000
+Contraalmirante con mando en Jefe
 
 ### Artículo 1
 ,120.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante Subordinado
+Artículo derogado DOF 19-10-2000
+Contraalmirante Subordinado
 
 ### Artículo 1
 ,121.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comodoro con mando en Jefe
+Artículo derogado DOF 19-10-2000
+Comodoro con mando en Jefe
 
 ### Artículo 1
 ,122.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comodoro Subordinado
+Artículo derogado DOF 19-10-2000
+Comodoro Subordinado
 
 ### Artículo 1
 ,123.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Capitán de Navío con mando de División
+Artículo derogado DOF 19-10-2000
+Capitán de Navío con mando de División
 
 ### Artículo 1
 ,124.- (Se deroga).
@@ -4060,15 +4069,18 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,125.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Capitán de fragata con mando de División
+Artículo derogado DOF 19-10-2000
+Capitán de fragata con mando de División
 
 ### Artículo 1
 ,126.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comandante de buque
+Artículo derogado DOF 19-10-2000
+Comandante de buque
 
 ### Artículo 1
 ,127.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comandante más antiguo en reunión de buques
+Artículo derogado DOF 19-10-2000
+Comandante más antiguo en reunión de buques
 
 ### Artículo 1
 ,128.- (Se deroga).
@@ -4094,15 +4106,18 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,134.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Secretarios de Estado. (Menos el de Guerra y Marina)
+Artículo derogado DOF 19-10-2000
+Secretarios de Estado. (Menos el de Guerra y Marina)
 
 ### Artículo 1
 ,135.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Gobernadores de los Estados
+Artículo derogado DOF 19-10-2000
+Gobernadores de los Estados
 
 ### Artículo 1
 ,136.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Subsecretarios de Estado
+Artículo derogado DOF 19-10-2000
+Subsecretarios de Estado
 
 ### Artículo 1
 ,137.- (Se deroga).
@@ -4110,7 +4125,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,138.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Cónsules Generales y Cónsules
+Artículo derogado DOF 19-10-2000
+Cónsules Generales y Cónsules
 
 ### Artículo 1
 ,139.- (Se deroga).
@@ -4118,7 +4134,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,140.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Honores a la Bandera
+Artículo derogado DOF 19-10-2000
+Honores a la Bandera
 
 ### Artículo 1
 ,141.- Estando en puerto, la bandera se izará en los buques de la Armada en servicio activo, todos los días a las 8 a. m. y se arriará a la puesta aparente del sol, con excepción de los casos de engalanado en que la bandera deberá izarse y arriarse con él, a la salida y puesta del sol, y los que se previenen en los Honores Fúnebres.
@@ -4597,7 +4614,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,271.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Vicepresidente de la República
+Artículo derogado DOF 19-10-2000
+Vicepresidente de la República
 
 ### Artículo 1
 ,272.- (Se deroga).
@@ -4605,15 +4623,18 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,273.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Secretario de Guerra y Marina
+Artículo derogado DOF 19-10-2000
+Secretario de Guerra y Marina
 
 ### Artículo 1
 ,274.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Jefe del Departamento de Marina
+Artículo derogado DOF 19-10-2000
+Jefe del Departamento de Marina
 
 ### Artículo 1
 ,275.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante con mando en Jefe
+Artículo derogado DOF 19-10-2000
+Contraalmirante con mando en Jefe
 
 ### Artículo 1
 ,276.- (Se deroga).
@@ -4621,19 +4642,23 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,277.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante Subordinado
+Artículo derogado DOF 19-10-2000
+Contraalmirante Subordinado
 
 ### Artículo 1
 ,278.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comodoro con Mando en Jefe
+Artículo derogado DOF 19-10-2000
+Comodoro con Mando en Jefe
 
 ### Artículo 1
 ,279.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comodoro Subordinado
+Artículo derogado DOF 19-10-2000
+Comodoro Subordinado
 
 ### Artículo 1
 ,280.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Capitán de Navío con mando de Buques
+Artículo derogado DOF 19-10-2000
+Capitán de Navío con mando de Buques
 
 ### Artículo 1
 ,281.- (Se deroga).
@@ -4645,15 +4670,18 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,283.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Capitán de Fragata con Mando de Buques
+Artículo derogado DOF 19-10-2000
+Capitán de Fragata con Mando de Buques
 
 ### Artículo 1
 ,284.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comandante de Buque
+Artículo derogado DOF 19-10-2000
+Comandante de Buque
 
 ### Artículo 1
 ,285.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Oficial General del Ejército, con Mando
+Artículo derogado DOF 19-10-2000
+Oficial General del Ejército, con Mando
 
 ### Artículo 1
 ,286.- (Se deroga).
@@ -4676,43 +4704,53 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,291.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Secretarios de Estado, menos el de Guerra y Marina
+Artículo derogado DOF 19-10-2000
+Secretarios de Estado, menos el de Guerra y Marina
 
 ### Artículo 1
 ,292.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Gobernadores de los Estados
+Artículo derogado DOF 19-10-2000
+Gobernadores de los Estados
 
 ### Artículo 1
 ,293.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Subsecretarios de Estado
+Artículo derogado DOF 19-10-2000
+Subsecretarios de Estado
 
 ### Artículo 1
 ,294.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Embajadores Extraordinarios
+Artículo derogado DOF 19-10-2000
+Embajadores Extraordinarios
 
 ### Artículo 1
 ,295.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Enviados Extraordinarios y Ministros Plenipotenciarios
+Artículo derogado DOF 19-10-2000
+Enviados Extraordinarios y Ministros Plenipotenciarios
 
 ### Artículo 1
 ,296.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Ministros Residentes
+Artículo derogado DOF 19-10-2000
+Ministros Residentes
 
 ### Artículo 1
 ,297.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Encargados de Negocios
+Artículo derogado DOF 19-10-2000
+Encargados de Negocios
 
 ### Artículo 1
 ,298.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Cónsules Generales
+Artículo derogado DOF 19-10-2000
+Cónsules Generales
 
 ### Artículo 1
 ,299.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Primeros Secretarios y Cónsules
+Artículo derogado DOF 19-10-2000
+Primeros Secretarios y Cónsules
 
 ### Artículo 1
 ,300.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Segundos Secretarios
+Artículo derogado DOF 19-10-2000
+Segundos Secretarios
 
 ### Artículo 1
 ,301.- (Se deroga).
@@ -4724,7 +4762,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,303.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Presidentes de Repúblicas, Soberanos reinantes y Príncipes Herederos
+Artículo derogado DOF 19-10-2000
+Presidentes de Repúblicas, Soberanos reinantes y Príncipes Herederos
 
 ### Artículo 1
 ,304.- Cuando un Jefe de Estado extranjero visite un buque de guerra mexicano, en puertos extranjeros o nacionales, se le tributarán los mismos honores que se han prescrito para el Presidente de la República; pero la bandera que debe saludarse y mantenerse izada al tope mayor, el himno que se tocará, serán los de la nación cuyo Jefe es el visitante. Las voces serán substituídas por las de Hurra, que serán iniciadas por el Oficial con tres gritos de Hip.
@@ -4818,15 +4857,18 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,328.- (Se deroga).
-Artículo derogado DOF 19-10-2000 HONORES FUNEBRES Presidente de la República
+Artículo derogado DOF 19-10-2000
+HONORES FUNEBRES Presidente de la República
 
 ### Artículo 1
 ,329.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Vicepresidente de la República
+Artículo derogado DOF 19-10-2000
+Vicepresidente de la República
 
 ### Artículo 1
 ,330.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Secretario de Guerra y Marina
+Artículo derogado DOF 19-10-2000
+Secretario de Guerra y Marina
 
 ### Artículo 1
 ,331.- (Se deroga).
@@ -4834,7 +4876,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,332.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante con mando
+Artículo derogado DOF 19-10-2000
+Contraalmirante con mando
 
 ### Artículo 1
 ,333.- (Se deroga).
@@ -4846,7 +4889,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,335.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Contraalmirante subordinado, Comodoro con mando, Comodoro subordinado, Capitán de Navío con mando de División, Capitán de Fragata con mando de División
+Artículo derogado DOF 19-10-2000
+Contraalmirante subordinado, Comodoro con mando, Comodoro subordinado, Capitán de Navío con mando de División, Capitán de Fragata con mando de División
 
 ### Artículo 1
 ,336.- (Se deroga).
@@ -4854,7 +4898,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,337.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Comandante de buque
+Artículo derogado DOF 19-10-2000
+Comandante de buque
 
 ### Artículo 1
 ,338.- (Se deroga).
@@ -4870,7 +4915,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,341.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Jefes y Oficiales
+Artículo derogado DOF 19-10-2000
+Jefes y Oficiales
 
 ### Artículo 1
 ,342.- (Se deroga).
@@ -4882,7 +4928,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,344.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Clases y Marinería
+Artículo derogado DOF 19-10-2000
+Clases y Marinería
 
 ### Artículo 1
 ,345.- (Se deroga).
@@ -4894,7 +4941,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,347.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Generales, Jefes, Oficiales y Tropa del Ejército
+Artículo derogado DOF 19-10-2000
+Generales, Jefes, Oficiales y Tropa del Ejército
 
 ### Artículo 1
 ,348.- (Se deroga).
@@ -4902,7 +4950,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,349.- (Se deroga).
-Artículo derogado DOF 19-10-2000 Disposiciones generales
+Artículo derogado DOF 19-10-2000
+Disposiciones generales
 
 ### Artículo 1
 ,350.- (Se deroga).
@@ -5006,7 +5055,8 @@ Artículo derogado DOF 19-10-2000
 
 ### Artículo 1
 ,377.- Salvo el caso previsto en el artículo anterior, ningún cadáver será arrojado al agua antes de transcurrir las veinticuatro horas. Si el buque estuviere próximo a puerto, el cadáver podrá conservarse a bordo por un período mayor de veinticuatro horas, para ser sepultado en tierra.
-TRATADO IV TITULO PRIMERO Ascensos Título derogado DOF 14-01-1985
+TRATADO IV TITULO PRIMERO Ascensos
+Título derogado DOF 14-01-1985
 
 ### Artículo 1
 ,378.- (Se deroga).
@@ -5118,7 +5168,9 @@ Artículo derogado DOF 14-01-1985
 
 ### Artículo 1
 ,405.- (Se deroga).
-Artículo derogado DOF 14-01-1985 TITULO SEGUNDO Posterga Título derogado DOF 14-01-1985
+Artículo derogado DOF 14-01-1985
+TITULO SEGUNDO Posterga
+Título derogado DOF 14-01-1985
 
 ### Artículo 1
 ,406.- (Se deroga).
@@ -5158,7 +5210,8 @@ Artículo derogado DOF 14-01-1985
 
 ### Artículo 1
 ,415.- (Se deroga).
-Artículo derogado DOF 14-01-1985 TITULO TERCERO Licencias
+Artículo derogado DOF 14-01-1985
+TITULO TERCERO Licencias
 
 ### Artículo 1
 ,416.- Las licencias que se podrán conceder a los individuos de la Armada, serán de tres clases: temporal, ilimitada y absoluta.

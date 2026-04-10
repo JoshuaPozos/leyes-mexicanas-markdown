@@ -15,7 +15,9 @@ Se expide la Ley Federal de Sanidad Animal.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I — Del Objeto de la Ley
+
 
 ### Artículo 1
 .- La presente Ley es de observancia general en todo el territorio nacional y tiene por objeto fijar las bases para: el diagnóstico, prevención, control y erradicación de las enfermedades y plagas que afectan a los animales; procurar el bienestar animal; regular las buenas prácticas pecuarias aplicables en la producción primaria, en los establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, tales como rastros y unidades de sacrificio y en los establecimientos Tipo Inspección Federal; fomentar la certificación en establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal para consumo humano, coordinadamente con la Secretaría de Salud de acuerdo al ámbito de competencia de cada secretaría; regular los establecimientos, productos y el desarrollo de actividades de sanidad animal y prestación de servicios veterinarios; regular los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos.
@@ -24,9 +26,11 @@ Artículo reformado DOF 07-06-2012
 
 ### Artículo 2
 .- Las actividades de sanidad animal tienen como finalidad: diagnosticar y prevenir la introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los animales; procurar el bienestar animal; así como establecer las buenas prácticas pecuarias en la producción primaria y en los establecimientos Tipo Inspección Federal dedicados al sacrificio de animales y procesamiento de los bienes de origen animal para consumo humano; así como en los rastros, en las unidades de sacrificio y en los demás establecimientos dedicados al procesamiento de origen animal para consumo humano.
-Párrafo reformado DOF 07-06-2012 La regulación, verificación, inspección y certificación del procesamiento de bienes de origen animal para consumo humano en establecimientos Tipo Inspección Federal se deberán llevar a cabo respecto a la atención de riesgos sanitarios por parte de la Secretaría, de conformidad con lo que establezca la Secretaría de Salud.
+Párrafo reformado DOF 07-06-2012
+La regulación, verificación, inspección y certificación del procesamiento de bienes de origen animal para consumo humano en establecimientos Tipo Inspección Federal se deberán llevar a cabo respecto a la atención de riesgos sanitarios por parte de la Secretaría, de conformidad con lo que establezca la Secretaría de Salud.
 La inspección, verificación y supervisión del debido cumplimiento de las disposiciones aplicables en establecimientos, dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia municipal, estatal o del Distrito Federal, se realizará a través de la Secretaría o la Secretaría de Salud, de acuerdo a su ámbito de competencia.
-Párrafo adicionado DOF 07-06-2012 La certificación de establecimientos, dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia municipal, estatal o del Distrito Federal, se realizará a través de la Secretaría, a petición de los ayuntamientos, de los gobiernos del los estados y del gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 108 de la presente ley.
+Párrafo adicionado DOF 07-06-2012
+La certificación de establecimientos, dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia municipal, estatal o del Distrito Federal, se realizará a través de la Secretaría, a petición de los ayuntamientos, de los gobiernos del los estados y del gobierno del Distrito Federal, de conformidad con lo dispuesto en el artículo 108 de la presente ley.
 Párrafo adicionado DOF 07-06-2012
 
 ### Artículo 3
@@ -34,18 +38,21 @@ Párrafo adicionado DOF 07-06-2012
 Artículo reformado DOF 07-06-2012
 
 ## Capítulo II
+
 Definiciones
 
 ### Artículo 4
 .- Para los efectos de la ley se entiende por:
-Párrafo reformado DOF 07-06-2012 Acreditación: El acto por el cual una entidad de acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación para la evaluación de la conformidad;
+Párrafo reformado DOF 07-06-2012
+Acreditación: El acto por el cual una entidad de acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación para la evaluación de la conformidad;
 Acta: Documento oficial en el que se hace constar los resultados de la inspección que realiza la Secretaría para verificar el cumplimiento de las disposiciones establecidas en esta Ley y otras figuras normativas que de esta derivan;
 Actividades de sanidad animal: Aquéllas sujetas a los procedimientos establecidos en las disposiciones de sanidad animal, que desarrollan la Secretaría o las personas físicas o morales, en términos de lo establecido en esta Ley;
 Aditivo: Todo ingrediente sustancia o mezcla de éstas que normalmente no se consume como alimento por sí mismo, con o sin valor nutrimental y que influye en las características fisicoquímicas del producto alimenticio o favorece la presentación, preservación, ingestión, aprovechamiento, profilaxis o pigmentación en los animales y sus productos;
 Agentes involucrados: Las dependencias del sector oficial o las personas físicas o morales del sector privado que integran la cadena de valor de los bienes de origen animal;
 Análisis de riesgo: La evaluación de la probabilidad de entrada, establecimiento y difusión de enfermedades o plagas de los animales en el territorio nacional o en una zona del país, de conformidad con las medidas zoosanitarias que pudieran aplicarse, así como las posibles consecuencias biológicas, económicas y ambientales. Incluye la evaluación de los posibles efectos perjudiciales para la sanidad animal provenientes de aditivos, productos para uso o consumo animal, contaminantes físicos, químicos y biológicos, toxinas u organismos patógenos en bienes de origen animal, bebidas y forrajes, el manejo o gestión y su comunicación a los agentes involucrados directa e indirectamente;
 Análisis de peligros y control de puntos críticos: Sistema de reducción de riesgos de contaminación que se aplica en la producción primaria, en los establecimientos tipo inspección federal dedicados al sacrifico de animales y procesamiento de bienes de origen animal y demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano que permite identificar y prevenir peligros y riesgos de contaminación de tipo biológico, químico o físico; que pueden afectar la integridad de los bienes de origen animal y/o a la salud humana;
-Párrafo reformado DOF 07-06-2012 Animales vivos: Todas las especies de animales vivos con excepción de las provenientes del medio acuático ya sea marítimo, fluvial, lacustre o de cualquier cuerpo de agua natural o artificial;
+Párrafo reformado DOF 07-06-2012
+Animales vivos: Todas las especies de animales vivos con excepción de las provenientes del medio acuático ya sea marítimo, fluvial, lacustre o de cualquier cuerpo de agua natural o artificial;
 Aprobación: El acto mediante el cual la Secretaría aprueba a organismos de certificación, unidades de verificación y laboratorios de pruebas acreditados en términos de la Ley Federal sobre Metrología y Normalización para llevar a cabo actividades de evaluación de la conformidad en las normas oficiales mexicanas expedidas en las materias a las que se refiere esta Ley;
 Bienes de origen animal: Todo aquel producto o subproducto que es obtenido o extraído de los animales incluyendo aquellos que han estado sujetos a procesamiento y que puedan constituirse en un riesgo zoosanitario;
 Bienestar animal: Conjunto de actividades encaminadas a proporcionar comodidad, tranquilidad, protección y seguridad a los animales durante su crianza, mantenimiento, explotación, transporte y sacrificio;
@@ -53,7 +60,8 @@ Biodisponibilidad: La proporción del fármaco que se absorbe a la circulación 
 Bioequivalencia: Productos en los que no existen diferencias significativas en la velocidad y cantidad absorbida del fármaco en comparación con la sustancia de referencia;
 Brote: Presencia de uno o más focos de la misma enfermedad, en un área geográfica determinada en el mismo periodo de tiempo y que guardan una relación epidemiológica entre sí;
 Buenas prácticas de manufactura: Conjunto de procedimientos, actividades, condiciones, controles de tipo general que se aplican en los establecimientos que elaboran productos químicos, farmacéuticos, biológicos, aditivos o alimenticios para uso en animales o consumo por éstos; así como en los establecimientos Tipo Inspección Federal, en los rastros y en los demás establecimientos dedicados al sacrificio de animales, y procesamiento de bienes de origen animal para consumo humano, con el objeto de disminuir los riesgos de contaminación física, química o biológica; sin perjuicio de otras disposiciones legales aplicables en materia de salud pública;
-Párrafo reformado DOF 07-06-2012 Buenas Prácticas Pecuarias: Conjunto de procedimientos actividades, condiciones y controles que se aplican en las unidades de producción de animales y en los establecimientos Tipo Inspección Federal, con el objeto de disminuir los peligros asociados a agentes físicos, químicos o biológicos, así como los riesgos zoosanitarios en los bienes de origen animal para consumo animal; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
+Párrafo reformado DOF 07-06-2012
+Buenas Prácticas Pecuarias: Conjunto de procedimientos actividades, condiciones y controles que se aplican en las unidades de producción de animales y en los establecimientos Tipo Inspección Federal, con el objeto de disminuir los peligros asociados a agentes físicos, químicos o biológicos, así como los riesgos zoosanitarios en los bienes de origen animal para consumo animal; sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública;
 Cadena de valor: El conjunto de elementos y agentes involucrados en los procesos productivos de las mercancías reguladas en esta Ley, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 Campañas: Conjunto de medidas zoosanitarias que se aplican en una fase y un área geográfica determinada, para la prevención, control o erradicación de enfermedades o plagas de los animales;
 Centro de certificación zoosanitaria: Instalación que depende de un organismo de certificación para fines de la expedición del certificado zoosanitario para movilización de mercancías reguladas;
@@ -75,7 +83,8 @@ Enfermedad o plaga de Notificación Obligatoria: Aquella enfermedad o plaga exó
 Enfermedad o plaga exótica de los animales: Aquella de la que no existen casos, ni comprobación de la presencia del agente etiológico en el territorio nacional o en una región del mismo;
 Erradicación: Eliminación total de un agente etiológico de una enfermedad o plaga en la población animal susceptible doméstica y silvestre en cautiverio y dentro de una área geográfica determinada;
 Establecimientos: Las instalaciones ubicadas en territorio nacional en donde se desarrollan actividades de sanidad animal; que prestan servicios veterinarios; así como aquellas instalaciones en las que se sacrifican animales o procesan bienes de origen animal, incluidos aquellos donde se procesan, manejan, acopian, envasan, empacan, refrigeran o industrializan bienes de origen animal, sujetos a regulación zoosanitaria o de buenas prácticas pecuarias en términos de esta ley y su reglamento;
-Párrafo reformado DOF 07-06-2012 Establecimientos Tipo Inspección Federal (TIF): Las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal y están sujetas a regulación de la Secretaría en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría y cuya certificación es a petición de parte;
+Párrafo reformado DOF 07-06-2012
+Establecimientos Tipo Inspección Federal (TIF): Las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal y están sujetas a regulación de la Secretaría en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría y cuya certificación es a petición de parte;
 Estación cuarentenaria: Establecimientos que instala y opera, autoriza o habilita la Secretaría, especializados para el aislamiento temporal de animales en donde se aplican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades o plagas que los afecten;
 Estatus zoosanitario: Condición que guarda un país o una zona o área geográfica respecto de una enfermedad o plaga de los animales;
 Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales, especificaciones o disposiciones de sanidad animal o de buenas prácticas pecuarias;
@@ -136,7 +145,8 @@ Riesgo zoosanitario: La probabilidad de introducción, establecimiento o disemin
 Sanidad animal: La que tiene por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales;
 Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 Sistemas de reducción de riesgos de contaminación: Medidas y procedimientos establecidos por la secretaría para garantizar que los bienes de origen animal se obtienen durante su producción primaria y procesamiento en establecimientos Tipo Inspección Federal y sacrificio en rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano en óptimas condiciones zoosanitarias, y de reducción de peligros de contaminación, física, química y microbiológica a través de la aplicación de Buenas Prácticas de Producción y Buenas Prácticas de Manufactura;
-Párrafo reformado DOF 07-06-2012 Tercero especialista autorizado: Persona moral o médico veterinario autorizado por la Secretaría para auxiliar a la misma o a las personas aprobadas por ésta, como coadyuvantes en la verificación y certificación de las disposiciones contenidas en esta Ley y de las que de ella deriven mediante un dictamen. Tratándose de buenas prácticas pecuarias aplicadas a la producción primaria y procesamiento de los bienes de origen animal, los terceros especialistas, también podrán ser profesionistas de carreras afines a la medicina veterinaria;
+Párrafo reformado DOF 07-06-2012
+Tercero especialista autorizado: Persona moral o médico veterinario autorizado por la Secretaría para auxiliar a la misma o a las personas aprobadas por ésta, como coadyuvantes en la verificación y certificación de las disposiciones contenidas en esta Ley y de las que de ella deriven mediante un dictamen. Tratándose de buenas prácticas pecuarias aplicadas a la producción primaria y procesamiento de los bienes de origen animal, los terceros especialistas, también podrán ser profesionistas de carreras afines a la medicina veterinaria;
 TIF: Establecimiento Tipo Inspección Federal;
 Tratamiento: Procedimiento de naturaleza química, física o de otra índole, para eliminar, remover o inactivar a los agentes que causan las enfermedades o plaga que afectan a los animales o para erradicar cualquier fuente de contaminación alimentaria;
 Trazabilidad: Serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con el nacimiento, crianza, engorda, reproducción, sacrificio y procesamiento de un animal, los bienes de origen animal, así como de los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumo por éstos hasta su consumo final, identificando en cada etapa su ubicación espacial y en su caso los factores de riesgo zoosanitarios y de contaminación que pueden estar presentes en cada una de las actividades;
@@ -150,6 +160,7 @@ Zona en control: Estatus zoosanitario que asigna la Secretaría a un área geogr
 Zona en erradicación: Estatus zoosanitario que asigna la Secretaría a un área geográfica determinada, en la que se operan medidas zoosanitarias tendientes a la eliminación total del agente etiológico de una enfermedad o plaga de animales, donde se realizan estudios epidemiológicos con el objeto de comprobar la ausencia del agente etiológico en un período de tiempo y especie animal específicos, de conformidad con las normas oficiales y las medidas zoosanitarias que la Secretaría establezca; y Zona libre: Estatus zoosanitario que asigna la Secretaría a un área geográfica determinada por la Secretaría que puede abarcar la totalidad del país o una región específica, en la que no existe evidencia de una determinada plaga o enfermedad;
 
 ## Capítulo III — De la Autoridad Competente
+
 
 ### Artículo 5
 .- La aplicación de esta Ley corresponde al Ejecutivo Federal por conducto de la Secretaría.
@@ -328,9 +339,11 @@ Los acuerdos o convenios que suscriba la Secretaría con los gobiernos estatales
 .- La Secretaría de Economía deberá consultar a la Secretaría previo a la negociación de tratados comerciales internacionales, cuando estos involucren aspectos en materia de sanidad animal.
 
 ## TÍTULO SEGUNDO — DE LA PROTECCIÓN A LA SANIDAD ANIMAL Y DE LA APLICACIÓN DE BUENAS
+
 PRÁCTICAS PECUARIAS EN LOS BIENES DE ORIGEN ANIMAL
 
 ## Capítulo I — De las Medidas Zoosanitarias
+
 
 ### Artículo 14
 .- Las medidas zoosanitarias tienen por objeto proteger la vida, salud y bienestar de los animales incluyendo su impacto sobre la salud humana, así como asegurar el nivel adecuado de protección zoosanitaria en todo el territorio nacional.
@@ -384,11 +397,13 @@ XX. La suspensión temporal, definitiva, parcial o total de las actividades o se
 XXI. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.
 
 ## Capítulo II — De las Medidas en materia de buenas prácticas pecuarias en los Bienes de Origen
+
 Animal.
 
 ### Artículo 17
 .- La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias de la administración pública federal, determinará las medidas en materia de buenas prácticas pecuarias mediante la emisión de disposiciones, que habrán de aplicarse en la producción primaria en el procesamiento de bienes de origen animal en establecimientos TIF; en los rastros y en los demás establecimientos dedicados al procesamiento de bienes de origen animal para consumo humano, para reducir los contaminantes o riesgos zoosanitarios que puedan estar presentes en éstos.
-Párrafo reformado DOF 07-06-2012 Las medidas en materia de buenas prácticas pecuarias estarán basadas en principios científicos o en recomendaciones internacionales y, en su caso, en análisis de riesgo según corresponda.
+Párrafo reformado DOF 07-06-2012
+Las medidas en materia de buenas prácticas pecuarias estarán basadas en principios científicos o en recomendaciones internacionales y, en su caso, en análisis de riesgo según corresponda.
 
 ### Artículo 18
 .- Las medidas a las que refiere este Capítulo, se determinarán en disposiciones de reducción de riesgos de contaminación las cuales podrán comprender los requisitos, especificaciones, criterios o procedimientos sin perjuicio de otras disposiciones legales aplicables en materia de Salud Pública para:
@@ -410,9 +425,11 @@ VII. Establecer los límites máximos de residuos permitidos de antibióticos, c
 VIII. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.
 
 ## TÍTULO TERCERO — DEL BIENESTAR DE LOS ANIMALES, IMPORTACIÓN, TRÁNSITO INTERNACIONAL Y
+
 EXPORTACIÓN
 
 ## Capítulo I — Del Bienestar de los Animales
+
 
 ### Artículo 19
 .- La Secretaría establecerá mediante disposiciones de sanidad animal, las características y especificaciones que deberán observarse para procurar el bienestar que todo propietario o poseedor de animales debe proporcionarles, a fin de que los inmunice contra las enfermedades y plagas transmisibles que los afecten y les proporcione la alimentación, higiene, transporte y albergue y en su caso entrenamiento apropiados conforme a las características de cada especie animal, con el objeto de evitar su estrés y asegurar su vida y su salud.
@@ -443,6 +460,7 @@ El sacrificio de animales destinados para abasto, se realizará conforme a las t
 Las disposiciones de sanidad animal, establecerán las medidas, condiciones y procedimientos necesarios para la insensibilización y el sacrificio de animales.
 
 ## Capítulo II — De la Importación, Tránsito Internacional y Exportación
+
 
 ### Artículo 24
 .- La importación de las mercancías que se enlistan a continuación, queda sujeta a la inspección de acuerdo a las disposiciones de sanidad animal aplicables y a la expedición del certificado zoosanitario para importación en el punto de ingreso al país:
@@ -618,7 +636,9 @@ Cuando la Secretaría tenga la sospecha o evidencia de la existencia de riesgo z
 
 ## TÍTULO CUARTO — DE LAS CAMPAÑAS, CUARENTENAS Y MOVILIZACIÓN
 
+
 ## Capítulo I — De las Campañas Zoosanitarias
+
 
 ### Artículo 54
 .- Con el objeto de prevenir, controlar o erradicar la presencia de enfermedades y plagas de los animales y a efecto de mejorar y mantener la condición zoosanitaria en el país, la Secretaría establecerá campañas zoosanitarias nacionales considerando el riesgo zoosanitario y el impacto económico y social de la enfermedad o plaga.
@@ -682,6 +702,7 @@ VI. Los mecanismos de evaluación y financiamiento.
 
 ## Capítulo II — De las Cuarentenas
 
+
 ### Artículo 63
 .- Cuando exista un riesgo zoosanitario, las unidades de producción, y los establecimientos estarán sujetos a la aplicación de medidas zoosanitarias o cuarentenas, estas últimas podrán ser precautorias, internas, condicionadas o definitivas de acuerdo con lo establecido en las disposiciones de sanidad animal correspondientes.
 
@@ -710,6 +731,7 @@ La cuarentena de bienes de origen animal y productos para uso o consumo animal, 
 .- Para la aplicación de cuarentenas de bienes de origen animal, animales, productos para uso o consumo animal, la Secretaría tomará las muestras correspondientes, sujetándose, en lo conducente, a lo establecido por la Ley Federal sobre Metrología y Normalización.
 
 ## Capítulo III — De la Movilización
+
 
 ### Artículo 67
 .- Corresponde a la Federación por conducto de la Secretaría, ejercer de manera exclusiva la atribución de determinar los requisitos zoosanitarios que deben observar los interesados en movilizar mercancías reguladas en el territorio nacional, por lo que las autoridades estatales o municipales no podrán exigir mayores requisitos que los establecidos por la propia Secretaría.
@@ -770,9 +792,11 @@ La movilización de los productos para uso o consumo animal afectados por contam
 .- Las disposiciones de sanidad animal determinarán aquellas mercancías que requieran certificado zoosanitario de movilización de acuerdo al riesgo que representen.
 
 ## TÍTULO QUINTO — DEL DISPOSITIVO NACIONAL DE EMERGENCIA DE SANIDAD ANIMAL, RECURSO DE
+
 OPERACIÓN Y FONDO DE CONTINGENCIA Y TRAZABILIDAD
 
 ## Capítulo I — Del Dispositivo Nacional de Emergencia de Sanidad Animal
+
 
 ### Artículo 78
 .- Cuando se detecte o se tenga evidencia científica sobre la presencia o entrada inminente de enfermedades y plagas exóticas y de notificación obligatoria, erradicadas, desconocidas o inexistentes en el país, que pongan en situación de emergencia zoosanitaria a una o varias especies o poblaciones de animales en todo o en parte del territorio nacional, o cuando en una enfermedad endémica se rebase el número de casos esperados, la Secretaría activará, integrará y operará el Dispositivo Nacional de Emergencia de Salud Animal que implicará la publicación inmediata mediante acuerdo en el Diario Oficial de la Federación y en su caso, expedirá las disposiciones de sanidad animal, que establezcan las medidas de prevención, control y erradicación que deberán aplicarse al caso particular.
@@ -788,6 +812,7 @@ Para la operación del Dispositivo Nacional de Emergencia de Salud Animal, la Se
 
 ## Capítulo II — Del Recurso de Operación y Fondo de Contingencia
 
+
 ### Artículo 81
 .- Para el desarrollo de infraestructura y operación de los programas, servicios y actividades de sanidad animal y de buenas prácticas pecuarias, la Secretaría podrá acordar y convenir con los gobiernos de los Estados, del Distrito Federal y los municipios, órganos de coadyuvancia, sectores organizados de productores, importadores, exportadores, industriales, profesionales y demás particulares interesados, asignando en cada caso las aportaciones, compromisos y obligaciones de las partes involucradas.
 
@@ -798,6 +823,7 @@ Para la operación del Dispositivo Nacional de Emergencia de Salud Animal, la Se
 .- Cuando se requiera despoblar una unidad de producción, por la presencia de un brote de enfermedad o plaga que se encuentre en campaña zoosanitaria y si se comprueba que el brote se originó por falta de cumplimiento de las disposiciones zoosanitarias que la Secretaría expida para tal efecto, el responsable será sancionado y cubrirá los costos que se originen por esta actividad.
 
 ## Capítulo III — De la Trazabilidad
+
 
 ### Artículo 84
 .- La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad en animales, bienes de origen animal o productos para uso o consumo animal. Los sistemas serán coordinados, supervisados y vigilados por la misma.
@@ -835,9 +861,11 @@ VI. La identificación individual o en grupo de acuerdo a la especie de los anim
 .- Las disposiciones de sanidad animal y las relativas a buenas prácticas pecuarias que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de las mercancías reguladas para efectos de trazabilidad.
 
 ## TÍTULO SEXTO — DEL CONTROL DE PRODUCTOS PARA USO O CONSUMO ANIMAL, ESTABLECIMIENTOS
+
 Y ACTIVIDADES Y SERVICIOS
 
 ## Capítulo I — Del Control de Productos para Uso o Consumo Animal
+
 
 ### Artículo 91
 .- La Secretaría estará facultada para determinar, evaluar, dictaminar, registrar, autorizar o certificar:
@@ -906,6 +934,7 @@ Cuando se compruebe que la calidad en las formulaciones o las recomendaciones de
 
 ## Capítulo II — De los Establecimientos
 
+
 ### Artículo 105
 .- La Secretaría expedirá las disposiciones de sanidad animal, que establezcan las características, condiciones, procedimientos, operación y especificaciones zoosanitarias o las relativas a buenas prácticas pecuarias, que deberán reunir y conforme a las cuales se instalarán y funcionarán los siguientes establecimientos:
 
@@ -943,7 +972,8 @@ Las disposiciones de sanidad animal y las relativas a las buenas prácticas pecu
 
 ### Artículo 106
 .- Los propietarios, el administrador único, los responsables de la administración o poseedores de los establecimientos a los que hace referencia el artículo anterior, y los médicos veterinarios responsables autorizados o un médico veterinario oficial en su caso, serán responsables del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias que por el tipo de establecimiento les sean aplicables. Asimismo dichas personas estarán obligadas a proporcionar las facilidades necesarias a la Secretaría cuando ejerza sus atribuciones de inspección del cumplimiento de las disposiciones de sanidad animal y de buenas prácticas pecuarias de los bienes de origen animal.
-Párrafo reformado DOF 16-02-2018 Dichas personas estarán obligadas a establecer las medidas de control necesarias e informar inmediata y expresamente a la Secretaría, en el supuesto de que detecten o tengan la sospecha de una enfermedad o plaga de notificación obligatoria, enfermedad o plaga exótica o una posible fuente de contaminación de los bienes de origen animal.
+Párrafo reformado DOF 16-02-2018
+Dichas personas estarán obligadas a establecer las medidas de control necesarias e informar inmediata y expresamente a la Secretaría, en el supuesto de que detecten o tengan la sospecha de una enfermedad o plaga de notificación obligatoria, enfermedad o plaga exótica o una posible fuente de contaminación de los bienes de origen animal.
 
 ### Artículo 106
 Bis. La Secretaría determinará, en disposiciones de salud animal y de inocuidad de bienes de origen animal, aquellas buenas prácticas pecuarias, buenas prácticas de manufactura y actividades de sanidad y bienestar animal, que deberán observar los establecimientos de sacrificios de animales y de procesamiento de bienes de origen animal.
@@ -960,12 +990,14 @@ La certificación TIF tendrá validez y surtirá sus efectos en toda la Repúbli
 ### Artículo 108
 .- La Secretaría promoverá que los centros de sacrificio de animales y establecimientos de procesamiento de bienes de origen animal obtengan el carácter de Tipo Inspección Federal una vez que se cumpla con lo dispuesto en esta Ley y su Reglamento.
 Los establecimientos TIF de sacrificio de animales y de procesamiento de bienes de origen animal, deberán tener a su servicio durante las horas laborables, cuando menos un médico veterinario oficial o médico veterinario responsable autorizado para fines de control de bienestar animal, de vigilancia epidemiológica, otras medidas zoosanitarias y de buenas prácticas pecuarias.
-Párrafo reformado DOF 16-02-2018 Asimismo, la Secretaría autorizará la instalación y funcionamiento de las plantas de rendimiento o beneficio, en las cuales también ejercerá la inspección, verificación y vigilancia por personal oficial, unidad de verificación u organismo de certificación.
+Párrafo reformado DOF 16-02-2018
+Asimismo, la Secretaría autorizará la instalación y funcionamiento de las plantas de rendimiento o beneficio, en las cuales también ejercerá la inspección, verificación y vigilancia por personal oficial, unidad de verificación u organismo de certificación.
 
 ### Artículo 109
 .- Los propietarios o poseedores de los establecimientos a que hace referencia este Capítulo, estarán obligados a proporcionar las facilidades necesarias para llevar a cabo los servicios de inspección, verificación o certificación.
 
 ## Capítulo III — De las Actividades y Servicios
+
 
 ### Artículo 110
 .- Las personas físicas o morales encargadas de los establecimientos a que se refiere esta Ley, deberán solicitar autorización o dar aviso de inicio de funcionamiento a la Secretaría, señalando la actividad o servicio de sanidad animal que pretenda realizar. Los procedimientos y requisitos para la autorización, vigencia, presentación de los avisos, modificación de la actividad, ampliación del giro o reanudación de la actividad regulada, se ajustarán a lo dispuesto por el Reglamento de esta Ley.
@@ -987,7 +1019,9 @@ Los Servicios Veterinarios de Asesoría o servicios en salud animal señalados e
 
 ## TÍTULO SÉPTIMO — DE LA EVALUACIÓN DE LA CONFORMIDAD, CERTIFICACIÓN Y VERIFICACIÓN
 
+
 ## Capítulo I — De la Evaluación de la Conformidad
+
 
 ### Artículo 113
 .- La Secretaría, los organismos de certificación, unidades de verificación o laboratorios de pruebas aprobados determinarán el grado de cumplimiento de las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales y otras especificaciones en materia de sanidad animal o de buenas prácticas pecuarias de reducción de riesgos de contaminación, mediante el procedimiento de la evaluación de la conformidad.
@@ -1007,6 +1041,7 @@ La Secretaría podrá promover ante la Secretaría de Economía, la suscripción
 
 ## Capítulo II — De la Certificación
 
+
 ### Artículo 118
 .- La certificación es el procedimiento mediante el cual la Secretaría o un organismo de certificación aprobado por la misma, asegura que un producto, proceso, sistema, servicio o establecimiento cumple con lo señalado en las normas oficiales mexicanas.
 
@@ -1022,6 +1057,7 @@ Los diferentes tipos de certificados, su contenido, los requisitos, condiciones,
 
 ## Capítulo III — De la Verificación
 
+
 ### Artículo 122
 .- La verificación es el procedimiento mediante el cual la Secretaría o una unidad de verificación aprobada por la misma, realizan en un momento determinado la constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio, o examen de documentos a procesos, productos, sistemas y establecimientos.
 Para la verificación, la Secretaría o unidades de verificación podrán auxiliarse de terceros especialistas autorizados por la misma.
@@ -1035,9 +1071,11 @@ La Secretaría publicará en el Diario Oficial de la Federación, a las unidades
 .- Las unidades de verificación aprobadas y los terceros especialistas autorizados sólo podrán realizar verificaciones a solicitud de la Secretaría o a petición de parte y sobre las materias en las que fueron aprobadas y autorizados en términos del Reglamento de esta Ley; los dictámenes de verificación que formulen serán reconocidos por la Secretaría y por los organismos de certificación.
 
 ## TÍTULO OCTAVO — DE LA INSPECCIÓN, MEDIDAS DE SEGURIDAD Y SERVICIO OFICIAL DE SEGURIDAD
+
 ZOOSANITARIA
 
 ## Capítulo I — De la Inspección
+
 
 ### Artículo 125
 .- La Secretaría podrá realizar, por conducto de personal oficial, visitas de inspección ordinarias o extraordinarias, en términos de la Ley Federal de Procedimiento Administrativo, sin perjuicio de otras medidas previstas en esta Ley que puedan llevar a cabo, para verificar el cumplimiento de este ordenamiento y de las disposiciones que de ella deriven.
@@ -1097,6 +1135,7 @@ Cuando exista concurrencia de competencia, las dependencias involucradas deberá
 
 ## Capítulo II — De las Medidas de Seguridad
 
+
 ### Artículo 136
 .- Cuando exista riesgo inminente de daño, afectación a la salud animal, o diseminación de una enfermedad o plaga por notificación oficial, diagnóstico u otro mecanismo científicamente sustentado, la Secretaría, fundada y motivadamente, ordenará la aplicación de una o más de las siguientes medidas:
 
@@ -1115,6 +1154,7 @@ V. La realización de las acciones necesarias para evitar que se continúen pres
 
 ## Capítulo III — Del Servicio Oficial de Seguridad Zoosanitaria
 
+
 ### Artículo 138
 .- La Secretaría, instrumentará, organizará y operará el Servicio Oficial de Seguridad Zoosanitaria en el país, bajo el cual cumplirá las siguientes responsabilidades:
 
@@ -1132,7 +1172,9 @@ La instalación y operación integral de los puntos de verificación e inspecci�
 
 ## TÍTULO NOVENO — DE LOS ÓRGANOS DE COADYUVANCIA
 
+
 ## Capítulo I — Del Consejo Técnico Consultivo Nacional de Sanidad Animal
+
 
 ### Artículo 140
 .- El Consejo Técnico Consultivo Nacional de Sanidad Animal será el órgano nacional de consulta en materia de sanidad animal, que apoyará al Estado y a la sociedad mexicana para el mejoramiento continuo de las condiciones de la sanidad animal, lo que incluye la formulación, desarrollo y evaluación de las medidas zoosanitarias y de las buenas prácticas pecuarias aplicadas a los bienes de origen animal en términos del Reglamento de esta Ley.
@@ -1157,12 +1199,14 @@ La organización, estructura y funciones del Consejo Técnico Consultivo Naciona
 
 ## Capítulo II — De los Organismos Auxiliares de Sanidad Animal
 
+
 ### Artículo 143
 .- Para la coordinación y ejecución de las campañas zoosanitarias o los programas sobre buenas prácticas pecuarias, la Secretaría autorizará a las organizaciones de los sectores involucrados de la cadena sistema producto en los lugares en que el riesgo zoosanitario o de contaminación de los bienes de origen animal lo justifique, como organismos auxiliares de cooperación en materia de sanidad animal.
 Los requisitos y procedimientos para la integración y operación de los organismos auxiliares de sanidad animal se establecerán en las disposiciones de sanidad animal respectivas.
 La Secretaría en todo caso estará facultada para revocar la autorización otorgada a algún organismo auxiliar, cuando determine que desapareció la causa que justificó su otorgamiento o que no cumple con su función.
 
 ## Capítulo III — De las Personas Aprobadas y Autorizadas
+
 
 ### Artículo 144
 .- Las personas físicas o morales interesadas en operar como órganos de coadyuvancia, deberán solicitar y obtener de la Secretaría la aprobación o autorización correspondiente conforme a los siguientes términos:
@@ -1221,9 +1265,11 @@ VIII. Coadyuvar en el servicio de vigilancia e investigación epidemiológica en
 IX. Cumplir con las demás obligaciones a su cargo, reguladas en esta Ley y en las disposiciones que de ella deriven.
 
 ## TÍTULO DÉCIMO — DE LOS INCENTIVOS, CONTRASEÑAS, SISTEMA DE VIGILANCIA DE SANIDAD ANIMAL,
+
 DE LA VIGILANCIA EPIDEMIOLÓGICA Y ANÁLISIS DE RIESGO
 
 ## Capítulo I — De los Incentivos
+
 
 ### Artículo 152
 .- Se instituye el Premio Nacional de Sanidad Animal, con el objeto de reconocer y premiar anualmente el esfuerzo de quienes se destaquen en la prevención, control y erradicación de las enfermedades y plagas que afecten la vida o la sanidad de los animales, así como en las acciones orientadas a las buenas prácticas pecuarias de los bienes de origen animal.
@@ -1232,6 +1278,7 @@ DE LA VIGILANCIA EPIDEMIOLÓGICA Y ANÁLISIS DE RIESGO
 .- El procedimiento para la selección de los acreedores al premio señalado en el artículo anterior y las demás previsiones que sean necesarias, se establecerán en el Reglamento de esta Ley.
 
 ## Capítulo II — De las Contraseñas
+
 
 ### Artículo 154
 .- La Secretaría promoverá o en su caso hará obligatorio que los establecimientos de procesamiento de bienes de origen animal, obtengan el carácter de Tipo Inspección Federal y la contraseña correspondiente de conformidad con lo señalado en el artículo 2 de esta Ley una vez que hayan cumplido con lo dispuesto en el Reglamento de esta Ley y con el procedimiento de evaluación de la conformidad por parte de la Secretaría o por un organismo de certificación aprobado sin menoscabo de las atribuciones de la Secretaría de Salud. Las instalaciones o productos provenientes de ellas podrán ostentar la contraseña Tipo Inspección Federal.
@@ -1249,6 +1296,7 @@ Párrafo adicionado DOF 07-06-2012
 
 ## Capítulo III — Del Sistema de Vigilancia de Sanidad Animal
 
+
 ### Artículo 158
 .- La Secretaría integrará y administrará el Sistema de Vigilancia de Sanidad Animal, el cual consistirá en un registro público en donde se asentará la información básica sobre los certificados zoosanitarios; aprobaciones y autorizaciones que se expidan y los avisos presentados por quienes desarrollan actividades de sanidad animal o presten servicios veterinarios sujetos a los procesos de certificación y verificación, así como de los establecimientos obligados al uso de contraseñas y marcas registradas que cumplen con las disposiciones de sanidad animal que por su tipo les son aplicables.
 El registro que se haga del otorgamiento y renovación de aprobaciones y autorizaciones que expida la Secretaría en términos de esta Ley y su Reglamento, tendrá efectos constitutivos. El asiento que se haga de los certificados zoosanitarios que se expidan, de la información que aporte el Sistema Nacional de Vigilancia Epidemiológica y de los avisos presentados para el desarrollo de actividades de sanidad animal o prestación de servicios veterinarios tendrá efectos declarativos.
@@ -1258,6 +1306,7 @@ El registro que se haga del otorgamiento y renovación de aprobaciones y autoriz
 La integración y organización del Sistema Nacional de Vigilancia Epidemiológica y del Directorio, los actos que se inscribirán, la información que se asentará, y los requisitos y procedimientos para realizar los asientos y las cancelaciones procedentes, así como la actualización y difusión de la información, se harán en los términos del Reglamento correspondiente de esta Ley.
 
 ## Capítulo IV — De la Vigilancia Epidemiológica y Del Análisis de Riesgo
+
 
 ### Artículo 160
 .- La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal en materia de Sanidad Animal, operará el Sistema Nacional de Vigilancia Epidemiológica para que, realice la vigilancia, observación, seguimiento, control o evaluación permanente sobre la sospecha o presencia, así como sobre el comportamiento de las enfermedades y plagas endémicas y exóticas en los animales y sus productos, así como aquellas de carácter toxicológico y de residuos tóxicos, para orientar la aplicación de medidas tendientes a la reducción y administración de riesgos zoosanitarios y de contaminación y para avalar la situación zoosanitaria nacional, constituyéndose este Sistema en la fuente oficial de información zoosanitaria en el ámbito nacional e internacional.
@@ -1284,6 +1333,7 @@ VII. Aportar la información necesaria para el análisis de riesgo y la toma de 
 
 ## Capítulo V — Del Análisis de Riesgo
 
+
 ### Artículo 163
 .- El análisis de riesgo es un estudio científico que tiene por objeto la evaluación de la probabilidad de entrada, establecimiento o difusión de enfermedades o plagas o de contaminación de los bienes de origen animal y la estimación de su impacto económico y de ser el caso las consecuencias para la salud humana; es un indicador cualitativo o cuantitativo de la probabilidad de la presencia de una enfermedad o plaga en un país, región o zona determinada.
 
@@ -1292,9 +1342,11 @@ VII. Aportar la información necesaria para el análisis de riesgo y la toma de 
 El análisis de riesgo deberá ser presentado con la documentación del proceso o fuentes de información utilizadas.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 DE LA DENUNCIA CIUDADANA, RECURSO DE REVISIÓN, INFRACCIONES Y DELITOS
 
 ## Capítulo I — De la Denuncia Ciudadana
+
 
 ### Artículo 165
 .- Toda persona podrá denunciar ante la Secretaría, los hechos, actos u omisiones que atenten contra la sanidad animal o que causen la contaminación de los bienes de origen animal.
@@ -1305,11 +1357,13 @@ Cuando del incumplimiento o violación a los preceptos de esta Ley se desprenda 
 
 ## Capítulo II — Del Recurso de Revisión
 
+
 ### Artículo 166
 .- Los interesados afectados por los actos y resoluciones de las autoridades administrativas, podrán interponer el recurso de revisión en términos del Título Sexto, Capítulo Primero de la Ley Federal de Procedimiento Administrativo.
 La ejecución de la resolución impugnada podrá suspenderse bajo los mismos términos y condiciones que establece la Ley Federal de Procedimiento Administrativo o el Código Fiscal de la Federación, respectivamente.
 
 ## Capítulo III — De las Infracciones
+
 
 ### Artículo 167
 .- Las infracciones a lo dispuesto por esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -1429,10 +1483,14 @@ Para los efectos del párrafo anterior, se establecen cinco tipos de sanciones c
 ### Artículo 169
 .- La Secretaría impondrá las multas teniendo en cuenta la gravedad de la falta y las condiciones económicas del infractor, conforme a la tabla del artículo siguiente y de acuerdo con el tabulador que se indica.
 A. De 20 a 1000 veces el valor diario de la Unidad de Medida y Actualización.
-Inciso reformado DOF 21-05-2024 B. De 1000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización.
-Inciso reformado DOF 21-05-2024 C. De 10,000 a 50,000 veces el valor diario de la Unidad de Medida y Actualización.
-Inciso reformado DOF 21-05-2024 D. De 50,000 a 100,000 veces el valor diario de la Unidad de Medida y Actualización.
-Inciso reformado DOF 21-05-2024 Para los efectos de esta Ley, se entenderá por el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la conducta sancionada.
+Inciso reformado DOF 21-05-2024
+B. De 1000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización.
+Inciso reformado DOF 21-05-2024
+C. De 10,000 a 50,000 veces el valor diario de la Unidad de Medida y Actualización.
+Inciso reformado DOF 21-05-2024
+D. De 50,000 a 100,000 veces el valor diario de la Unidad de Medida y Actualización.
+Inciso reformado DOF 21-05-2024
+Para los efectos de esta Ley, se entenderá por el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la conducta sancionada.
 Párrafo reformado DOF 21-05-2024
 
 ### Artículo 170
@@ -1447,6 +1505,7 @@ La clausura temporal por la clausura definitiva.
 La suspensión temporal por la revocación.
 
 ## Capítulo IV — De los Delitos
+
 
 ### Artículo 171
 .- Al que ingrese al territorio nacional animales, bienes de origen animal, así como productos para uso o consumo animal y por cualquier medio evada un punto de inspección en materia zoosanitaria y puso en peligro o en riesgo la situación zoosanitaria del país incumpliendo el carácter normativo respectivo, se le impondrá la pena de dos a diez años de prisión y multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización.
@@ -1528,7 +1587,8 @@ Artículo adicionado DOF 21-05-2024
 
 ### Artículo 173
 .- Al que sin autorización de las autoridades zoosanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, transporte, almacene, comercialice o en general realice actos con cualquier sustancia cuyo uso esté prohibido conforme a los artículos 93 y 172 Bis de esta Ley para alimentación de animales en las disposiciones de sanidad animal o de buenas prácticas pecuarias emitidas por la Secretaría, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientas hasta tres mil veces el valor diario de la Unidad de Medida y Actualización y en caso de reincidencia se duplicará la pena y la multa, siempre y cuando esos actos sean con la finalidad de adicionarlas a los alimentos o bebidas de animales cuyos productos o subproductos estén destinados al consumo humano.
-Párrafo reformado DOF 21-05-2024 Se presumirá que existe esa finalidad, cuando las sustancias a que se refiere ese artículo se encuentren en el interior de establecimientos dedicados a la producción animal o a la fabricación y expendio de alimentos para ganado.
+Párrafo reformado DOF 21-05-2024
+Se presumirá que existe esa finalidad, cuando las sustancias a que se refiere ese artículo se encuentren en el interior de establecimientos dedicados a la producción animal o a la fabricación y expendio de alimentos para ganado.
 
 ### Artículo 174
 .- Al que distribuya, ordene el suministro o suministre a animales destinados al abasto alguna sustancia o alimento prohibidos conforme a los artículos 93 y 172 Bis de esta Ley, y demás disposiciones de salud animal, será sancionado con tres a siete años de prisión y de diez mil a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización.
@@ -1536,7 +1596,8 @@ Artículo reformado DOF 21-05-2024
 
 ### Artículo 175
 .- Se sancionará con penalidad de uno a cinco años de prisión y multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones administrativas que pudieran generarse.
-Párrafo reformado DOF 21-05-2024 Al que emita documentos en materia zoosanitaria sin observar los procedimientos establecidos para su expedición.
+Párrafo reformado DOF 21-05-2024
+Al que emita documentos en materia zoosanitaria sin observar los procedimientos establecidos para su expedición.
 A quien extorsione o agreda, verbal, moral o físicamente a una autoridad oficial en el ejercicio de sus funciones en un establecimiento Tipo Inspección Federal, sin detrimento de lo que establezcan otras disposiciones legales.
 
 ## TRANSITORIOS
@@ -1587,9 +1648,9 @@ Se adiciona un segundo párrafo al artículo 141 de la Ley Federal de Sanidad An
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -1601,5 +1662,5 @@ Se reforman los artículos 169, apartados A, B, C, D y segundo párrafo; 171, 17
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 3 de abril de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de mayo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.

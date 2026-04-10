@@ -15,7 +15,9 @@ Se expide la Ley Nacional de Extinción de Dominio
 
 ## TÍTULO PRIMERO
 
+
 ## CAPÍTULO PRIMERO — Disposiciones Preliminares
+
 
 ### Artículo 1
 . La presente Ley Nacional es reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, en materia de extinción de dominio, acorde con la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional, la Convención de las Naciones Unidas Contra la Corrupción, la Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas y demás instrumentos internacionales que regulan el decomiso, en su vertiente civil que es la materia de esta Ley, vinculatorios para el Estado Mexicano. Sus disposiciones son de orden público e interés social y tiene por objeto regular:
@@ -147,7 +149,9 @@ f) La relación de asuntos motivo de desistimiento.
 
 ## TÍTULO SEGUNDO — DEL PROCESO ANTE LA AUTORIDAD JUDICIAL
 
+
 ## CAPÍTULO PRIMERO — De la Acción de Extinción de Dominio
+
 
 ### Artículo 7
 . La acción de extinción de dominio procederá sobre aquellos Bienes de carácter patrimonial cuya Legítima Procedencia no pueda acreditarse, en particular, Bienes que sean instrumento, objeto o producto de los hechos ilícitos, sin perjuicio del lugar de su realización, tales como:
@@ -232,6 +236,7 @@ Para el caso de que durante la etapa de preparación de la acción de extinción
 
 ## CAPÍTULO SEGUNDO — De la Competencia
 
+
 ### Artículo 17
 . Es autoridad competente por materia para conocer, substanciar y resolver en primera instancia los procesos de extinción de dominio, la persona titular del juzgado competente en materia de extinción de dominio, ya sea de la Federación o de las Entidades Federativas.
 Será Juez competente, aquel que corresponda al del lugar donde sucedieron los hechos ilícitos o el que corresponda a la ubicación de los Bienes, a falta de ubicación de los Bienes será Juez competente el del lugar del domicilio de la Parte Demandada, a elección del Ministerio Público.
@@ -253,9 +258,11 @@ No influyen sobre la competencia los hechos que se susciten con posterioridad a 
 . Para lo referente a los impedimentos, excusas, recusaciones, facultades y obligaciones de los funcionarios judiciales, y formalidades escritas, acumulación de autos e incidentes con tramitación escrita, deberá estarse a lo dispuesto en el artículo 4, párrafo segundo, fracción I, de esta Ley.
 
 ## CAPÍTULO TERCERO
+
 Litigio
 
 ## SECCIÓN PRIMERA
+
 Garantías Procesales
 
 ### Artículo 21
@@ -283,6 +290,7 @@ VIII. Formular alegatos, y
 IX. Los demás que la Constitución o esta Ley les otorguen.
 
 ## SECCIÓN SEGUNDA
+
 Formalidades Generales del Proceso
 
 ### Artículo 23
@@ -382,6 +390,7 @@ El Juez podrá imponer cualquiera de estas medidas de apremio sin que sea necesa
 Si fuere insuficiente el apremio, se procederá contra la persona que incurra en rebeldía por el delito de desobediencia.
 
 ## SECCIÓN TERCERA
+
 Tiempo y Lugar en que han de Efectuarse los Actos Judiciales
 
 ### Artículo 45
@@ -440,6 +449,7 @@ Si fuere imposible el desahogo de la diligencia o medio de prueba encomendado en
 . Para ser diligenciados los exhortos de los tribunales de la República, no se requiere la previa legalización de las firmas del tribunal que los expida.
 
 ## SECCIÓN CUARTA
+
 Formalidades en Audiencias
 
 ### Artículo 61
@@ -470,7 +480,8 @@ Cuando a solicitud fundada de la persona con discapacidad, o a juicio de la auto
 
 ### Artículo 67
 . En el caso de las personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura indígenas, aun cuando hablen el español, si así lo solicitan.
-Párrafo reformado DOF 01-04-2024 El órgano jurisdiccional garantizará el acceso a traductores e intérpretes que coadyuvarán en el proceso según se requiera.
+Párrafo reformado DOF 01-04-2024
+El órgano jurisdiccional garantizará el acceso a traductores e intérpretes que coadyuvarán en el proceso según se requiera.
 Las personas serán interrogadas en idioma español, mediante la asistencia de un traductor o intérprete. En ningún caso las partes o los testigos podrán ser intérpretes.
 
 ### Artículo 68
@@ -556,6 +567,7 @@ En las audiencias se presume la actuación legal de las partes y del órgano jur
 . El Juez dictará la sentencia una vez concluida la fase de alegatos o en continuación de audiencia en el término de ocho días hábiles. A continuación, el Juez emitirá una constancia con los puntos resolutivos de la sentencia y expedirá en el acto copias de la misma para cada una de las partes.
 
 ## SECCIÓN QUINTA
+
 Notificaciones
 
 ### Artículo 83
@@ -645,7 +657,9 @@ Los actuarios o quienes hagan sus funciones en los términos de las disposicione
 
 ## CAPÍTULO CUARTO — De las Pruebas
 
+
 ## SECCIÓN PRIMERA
+
 Reglas Generales
 
 ### Artículo 99
@@ -740,6 +754,7 @@ IX. Demás medios que produzcan convicción en el juzgador.
 
 ## SECCIÓN SEGUNDA — Del Ofrecimiento de Pruebas
 
+
 ### Artículo 116
 . Las pruebas sólo podrán ser ofrecidas en la demanda y en la contestación y se admitirán o desecharán, se ordenará su preparación en la audiencia inicial, y se desahogarán en la audiencia principal las que se refieran a los temas materia de la misma.
 La ausencia de cualquiera de las partes no impedirá la celebración de la audiencia.
@@ -803,6 +818,7 @@ Su incorporación a juicio será mediante su exhibición y explicación.
 
 ## SECCIÓN TERCERA — De la Admisión de Pruebas
 
+
 ### Artículo 126
 . En la audiencia inicial, previa oportunidad de debate sobre la legalidad, pertinencia y conducencia de las pruebas la admisibilidad, el Juez procederá a dictar auto decisorio de pruebas.
 Aquellos que los cumplan, serán admitidos, de lo contrario, serán desechados de plano.
@@ -814,6 +830,7 @@ El Juez deberá cerciorarse respecto a que los datos o medios de prueba ofrecido
 El Juez podrá ordenar que las constancias admitidas sean resguardadas, fuera del expediente, para preservar su secrecía, pero en todo caso garantizará que las partes tengan acceso a las mismas.
 
 ## SECCIÓN CUARTA
+
 Declaración de Parte Desahogo
 
 ### Artículo 127
@@ -827,12 +844,14 @@ III. Previo el apercibimiento correspondiente, en caso de que la persona que deb
 No se admitirá la declaración de parte a cargo del Ministerio Público.
 
 ## SECCIÓN QUINTA
+
 Documentos Desahogo
 
 ### Artículo 128
 . La incorporación de los documentos al juicio se hará mediante relación de ellos y lectura de los datos esenciales y conducentes al hecho que se pretende acreditar con ellos en la audiencia principal.
 
 ## SECCIÓN SEXTA
+
 Prueba Pericial Preparación y Desahogo
 
 ### Artículo 129
@@ -870,6 +889,7 @@ III. Los peritos darán su dictamen en la audiencia, siempre que sea materialmen
 . Los honorarios de cada perito serán pagados por la parte que lo nombró.
 
 ## SECCIÓN SÉPTIMA
+
 Reconocimiento o Inspección Judicial Preparación y Desahogo
 
 ### Artículo 137
@@ -888,6 +908,7 @@ A juicio del Juez o a petición de parte, se levantarán planos o se tomarán fo
 . La incorporación del reconocimiento o inspección judicial se hará mediante relación de los registros obtenidos en el acto de producción de la prueba, y la reproducción de las partes esenciales y conducentes al hecho que se pretende acreditar con ellos en la audiencia principal.
 
 ## SECCIÓN OCTAVA
+
 Prueba de Testigos Preparación y Desahogo
 
 ### Artículo 141
@@ -903,6 +924,7 @@ La prueba se declarará desierta si, aplicados los medios de apremio señalados 
 . Las partes interrogarán y contrainterrogarán oralmente a los testigos. Las preguntas estarán concebidas en términos claros y precisos, limitándose a los hechos o puntos controvertidos objeto de esta prueba, debiendo el Juez impedir preguntas contrarias a estos requisitos, así como aquellas que resulten ociosas o impertinentes. Para conocer la verdad sobre los puntos controvertidos, el Juez también puede, de oficio, interrogar ampliamente a los testigos.
 
 ## SECCIÓN NOVENA
+
 Fotografías, Escritos o Notas Taquigráficas y, en general, todos aquellos elementos aportados por los Descubrimientos de la Ciencia Preparación y Desahogo
 
 ### Artículo 144
@@ -917,6 +939,7 @@ La parte que ofrezca los medios de prueba a que se refiere esta sección, deber�
 . Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
 ## SECCIÓN DÉCIMA
+
 Desahogo y Valoración de los Medios de Prueba
 
 ### Artículo 147
@@ -935,12 +958,14 @@ c) El Juez conducirá el desahogo de las pruebas, de conformidad con los princip
 . Las pruebas serán apreciadas en conjunto, de manera libre y de acuerdo con las reglas de la sana crítica y las reglas de la lógica.
 
 ## CAPÍTULO QUINTO
+
 Alegatos
 
 ### Artículo 150
 . Los alegatos son las argumentaciones que formulan las partes, en un plazo máximo de treinta minutos cada una, una vez concluidas las fases postulatoria y probatoria, mediante las cuales se exponen las razones de hecho y de derecho en defensa de sus intereses jurídicos, pretendiendo demostrar al juzgador que las pruebas desahogadas confirman su derecho y no así los argumentos y probanzas de su contraparte.
 
 ## CAPÍTULO SEXTO
+
 Resoluciones Judiciales
 
 ### Artículo 151
@@ -969,6 +994,7 @@ La interposición de la aclaración interrumpe el término para la apelación.
 . La aclaración interrumpe el plazo para interponer el recurso de apelación.
 
 ## CAPÍTULO SÉPTIMO
+
 Medio de Impugnación
 
 ### Artículo 157
@@ -1065,6 +1091,7 @@ En caso de modificar el o los fallos sujetos a su revisión, determinará claram
 En todo caso, el tribunal se concretará en su fallo, a apreciar los hechos tal como hubieren sido probados en la primera instancia.
 
 ## CAPÍTULO OCTAVO
+
 Gastos y Costas Judiciales
 
 ### Artículo 170
@@ -1076,6 +1103,7 @@ En ningún caso habrá condena en costas judiciales, sin perjuicio del resultado
 
 ## TÍTULO TERCERO — DEL PROCESO ESPECIAL DE EXTINCIÓN DE DOMINIO
 
+
 ### Artículo 172
 . El procedimiento constará de dos etapas:
 
@@ -1084,6 +1112,7 @@ I. Una preparatoria, que estará a cargo del Ministerio Público para la investi
 II. Una Judicial, que comprende las fases de admisión, notificación, contestación de la demanda, audiencia inicial, audiencia principal, recursos y ejecución de la sentencia.
 
 ## CAPÍTULO PRIMERO — De las Medidas Cautelares
+
 
 ### Artículo 173
 . El Juez, a solicitud del Ministerio Público, podrá dictar la medida cautelar consistente en el aseguramiento de Bienes, con el objeto de evitar que los Bienes en que deba ejercitarse la acción de extinción de dominio, se oculten, alteren o dilapiden, sufran menoscabo o deterioro económico, sean mezclados o que se realice cualquier acto traslativo de dominio, incluso previo a la presentación de la demanda, garantizando en todo momento su conservación.
@@ -1168,6 +1197,7 @@ IV. La solicitud de la administradora en aquellos casos en que el aseguramiento 
 . Todas las autoridades, instituciones, dependencias y en general, cualquier instancia que deba ejecutar algún mandamiento judicial decretado en términos del presente Capítulo, deberá cumplimentarlo dentro del plazo de veinticuatro horas y, dentro de tres días, deberá rendir un informe detallado y justificado sobre el cumplimiento otorgado y sobre la situación jurídica respecto de los Bienes objeto de la medida cautelar.
 
 ## CAPÍTULO SEGUNDO
+
 Etapa Preparatoria Preparación de la Acción de Extinción de Dominio
 
 ### Artículo 190
@@ -1188,6 +1218,7 @@ III. Aportar datos, elementos, indicios y pruebas con las que cuenten para el ej
 Una vez que el Ministerio Público considere que cuenta con los elementos suficientes para ejercitar la acción de extinción de dominio y previo a la presentación de la demanda, deberá citar al titular del bien sobre el que se pretenda aplicar, con la finalidad de que pueda comparecer para justificar su Legítima Procedencia del bien, en un plazo que no excederá de diez días hábiles para ello, apercibido que de no hacerlo se tendrá por precluido su derecho en esta etapa de preparación, sin perjuicio de su defensa en el juicio.
 
 ## CAPÍTULO TERCERO
+
 Fases Procesales
 
 ### Artículo 191
@@ -1388,7 +1419,9 @@ II. Las consentidas expresamente por las partes, sus representantes legítimos o
 
 ## TÍTULO CUARTO
 
+
 ## CAPÍTULO ÚNICO — De la Caducidad
+
 
 ### Artículo 222
 . El proceso caducará cuando cualquiera que sea el estado del procedimiento, no se haya efectuado algún acto procesal ni promoción durante un término mayor de un año, así sea con el solo fin de pedir el dictado de la resolución pendiente.
@@ -1398,7 +1431,9 @@ El abandono de la segunda instancia solo da lugar a la pérdida del recurso y a 
 
 ## TÍTULO QUINTO
 
+
 ## CAPÍTULO PRIMERO — De la Transferencia, Administración y Destino de Bienes
+
 
 ### Artículo 223
 . Los Bienes a que se refiere esta Ley serán transferidos a la Autoridad Administradora de conformidad con lo establecido en la legislación aplicable.
@@ -1507,6 +1542,7 @@ Asimismo, de los recursos obtenidos de la venta de Bienes extintos, la Autoridad
 
 ## CAPÍTULO SEGUNDO — De la Cuenta Especial
 
+
 ### Artículo 239
 . Los remanentes del valor de los Bienes, así como los productos, rendimientos, frutos y accesorios que se hayan generado, que le corresponden al Gobierno Federal, conforme a la presente Ley, se depositarán por la Autoridad Administradora en una Cuenta Especial, administrada por esta, hasta en tanto se determine su destino final por el Gabinete Social de la Presidencia de la República.
 En el ámbito local, la Cuenta Especial será regulada conforme lo determinen las disposiciones estatales aplicables.
@@ -1514,7 +1550,9 @@ En ningún caso los recursos a que se refiere este artículo podrán ser utiliza
 
 ## TÍTULO SEXTO
 
+
 ## CAPÍTULO ÚNICO — De las Unidades
+
 
 ### Artículo 240
 . Las fiscalías contarán con unidades especializadas en materia de extinción de dominio, con el objeto de lograr una mayor eficiencia en los procedimientos de extinción de dominio de los Bienes destinados a estos.
@@ -1559,14 +1597,18 @@ Las operaciones relevantes en las que se detecte la intervención de miembros de
 
 ## TÍTULO SÉPTIMO
 
+
 ## CAPÍTULO ÚNICO — Del Registro Nacional de Extinción de Dominio
+
 
 ### Artículo 243
 . Existirá una base de datos que contendrá el Registro Nacional de Extinción de Dominio administrado por la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia en el que las fiscalías inscribirán las demandas de extinción de dominio y las sentencias, así como los Bienes que comprenden, y en el que podrán consultar los Bienes afectos a los procedimientos de extinción de dominio en el país, las sentencias y su cumplimiento.
 
 ## TÍTULO OCTAVO
 
+
 ## CAPÍTULO ÚNICO — De la Cooperación Internacional
+
 
 ### Artículo 244
 . Cuando los Bienes se encuentren en el extranjero o sujetos a la jurisdicción de un estado extranjero, la medida cautelar y la ejecución de la sentencia que se dicte con motivo del procedimiento de extinción de dominio, se substanciarán por vía de asistencia jurídica internacional en términos de los tratados e instrumentos internacionales de los que los Estados Unidos Mexicanos sea parte o, en su defecto, con base en la reciprocidad internacional.
@@ -1618,25 +1660,25 @@ La entrega de los Bienes se hará previa deducción de los gastos propios de su 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
-**Cuarto.** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
-**Quinto.** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+**Cuarto.-** Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+**Quinto.-** Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
 El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
 Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo
 
 ## Transitorio
 
 del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
-**Sexto.** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
-**Séptimo.** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+**Sexto.-** El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+**Séptimo.-** Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto para Devolver al Pueblo lo Robado a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
 Artículo reformado DOF 22-01-2020
-**Octavo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-**Noveno.** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
-**Décimo.** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
-**Décimo Primero.** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
-**Décimo Segundo.** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+**Octavo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Noveno.-** El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+**Décimo.-** El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+**Décimo Primero.-** El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+**Décimo Segundo.-** Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
 Ciudad de México, a 25 de julio de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. María de los Dolores Padierna Luna, Vicepresidenta en funciones de Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.
 Publicado en el Diario Oficial de la Federación el 22 de enero de 2020
@@ -1646,17 +1688,17 @@ Se reforma el artículo Séptimo transitorio del "Decreto por el que se expide l
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Todas las referencias que hagan mención al Instituto de Administración de Bienes y Activos en las leyes y demás normatividad vigente, se entenderán realizadas al Instituto para Devolver al Pueblo lo Robado.
 Ciudad de México, a 10 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Jesús Carlos Vidal Peniche, Secretario.- Sen.
 Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 100/2019, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 22 de junio de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/228/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintiuno de junio de dos mil veintiuno, resolvió la acción de inconstitucionalidad 100/2019, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo
-**primero.** , en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos ilícitos’, 15 —con la salvedad precisada en el punto resolutivo tercero—, 16, párrafo primero, fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve, así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el considerando sexto de esta decisión.
-**TERCERO.** Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g), párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV, en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’, 5, párrafo segundo, en su porción normativa ‘La información obtenida por el Ministerio Público para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que la misma sea presentada ante la autoridad judicial’, 7, párrafo primero, fracciones II, en su porción normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9, 11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas, debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a), de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta”.
+**SEGUNDO.-** Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo
+**primero.-** , en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos ilícitos’, 15 —con la salvedad precisada en el punto resolutivo tercero—, 16, párrafo primero, fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve, así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el considerando sexto de esta decisión.
+**TERCERO.-** Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g), párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV, en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’, 5, párrafo segundo, en su porción normativa ‘La información obtenida por el Ministerio Público para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que la misma sea presentada ante la autoridad judicial’, 7, párrafo primero, fracciones II, en su porción normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9, 11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas, debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a), de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta”.
 Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive, al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 21 de junio de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
@@ -1668,12 +1710,12 @@ PONENTE: MINISTRA NORMA LUCÍA PIÑA HERNÁNDEZ.
 SECRETARIO DE ESTUDIO Y CUENTA ADJUNTO: MELESIO RAMOS MARTÍNEZ.
 Vo. Bo.
 Ministra Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente a la sesión del día veintiuno de junio de dos mil veintiuno. ……… Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo primero, en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos ilícitos’, 15 —con la salvedad precisada en el punto resolutivo
-**tercero.** —, 16, párrafo primero, fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve, así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el considerando sexto de esta decisión.
-**TERCERO.** Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g), párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV, en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’, 5, párrafo
-**segundo.** , en su porción normativa ‘La información obtenida por el Ministerio Público para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que la misma sea presentada ante la autoridad judicial.’, 7, párrafo primero, fracciones II, en su porción normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9, 11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas, debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a), de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación.
-**CUARTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez de los artículos 7, párrafo primero, fracciones I, II, en sus porciones normativas ‘Bienes’ y ‘utilizados para ocultar otros Bienes de origen ilícito, o mezclados material o jurídicamente con Bienes de ilícita procedencia’ y V, en su porción normativa ‘Bienes utilizados para la comisión de hechos ilícitos por un tercero’, 11, párrafo primero, en su porción normativa ‘Para el caso de Bienes de destinación ilícita, la acción prescribirá en veinte años, contados a partir de que el bien se haya destinado a realizar hechos ilícitos’, 15 —con la salvedad precisada en el punto resolutivo
+**tercero.-** —, 16, párrafo primero, fracción II, y 177, párrafo último, de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve, así como del artículo transitorio sexto de dicho decreto, por las razones expuestas en el considerando sexto de esta decisión.
+**TERCERO.-** Se declara la invalidez de los artículos 1, fracción V, incisos f), párrafo segundo, g), párrafo segundo, h), párrafo segundo, i), párrafo segundo, y j), párrafo segundo, 2, fracción XIV, en su porción normativa ‘o bien, el uso o destino lícito de los Bienes vinculados al Hecho Ilícito’, 5, párrafo
+**segundo.-** , en su porción normativa ‘La información obtenida por el Ministerio Público para la preparación de la acción de extinción de dominio, será estrictamente reservada hasta que la misma sea presentada ante la autoridad judicial.’, 7, párrafo primero, fracciones II, en su porción normativa ‘de procedencia lícita’, IV y V, en su porción normativa ‘si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad por cualquier medio o tampoco hizo algo para impedirlo’, 9, 11, párrafo primero, en su porción normativa ‘La acción de extinción de dominio es imprescriptible en el caso de Bienes que sean de origen ilícito’, 15, párrafo primero, en su porción normativa ‘y destino’, y fracciones V y VI, 173, párrafo segundo, en su porción normativa ‘En caso de urgencia u otra necesidad debidamente fundamentada, el Ministerio Público podrá adoptar tales medidas, debiendo someterlas a control judicial posterior tan pronto sea posible’, 190, párrafo quinto, en su porción normativa ‘En los casos en los cuales no se pueda recabar la autorización respectiva, por razón de la hora, del día, de la distancia o del peligro en la demora, se deberá informar y justificar dentro de los cinco días siguientes, ante el órgano jurisdiccional’, y 228, párrafo primero, inciso a), de la Ley Nacional de Extinción de Dominio, expedida mediante el Decreto publicado en el Diario Oficial de la Federación el nueve de agosto de dos mil diecinueve y, por extensión, la de sus artículos 126, párrafo cuarto, en su porción normativa ‘De igual manera, podrá ofrecer pruebas que permitan establecer la actuación de mala fe de la Parte Demandada y, en su caso, que tuvo conocimiento de la utilización ilícita de los Bienes y que, no obstante, no lo notificó a la autoridad o hizo algo para impedirlo’, y 214, párrafo primero, en su porción normativa ‘si se prueba que su titular conocía la causa que dio origen a la acción de extinción de dominio’, las cuales surtirán sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en los términos precisados en los considerandos sexto y séptimo de esta determinación.
+**CUARTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; con testimonio de la presente resolución, y en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados, dejando a salvo el derecho de las señoras Ministras y de los señores Ministros de formular los votos que consideren pertinentes.
@@ -1698,16 +1740,16 @@ Se reforma el segundo párrafo del inciso k) del segundo párrafo de la fracció
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Tercero.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.-** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
-**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+**Quinto.-** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
-**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
-**Noveno.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-**Décimo.** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Sexto.-** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+**Séptimo.-** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.-** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+**Noveno.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Décimo.-** En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 25 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Simey Olvera Bautista, Secretaria.- Dip. Nayeli Arlen Fernández Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

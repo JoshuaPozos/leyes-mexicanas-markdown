@@ -19,7 +19,9 @@ LIBRO PRIMERO DISPOSICIONES SUSTANTIVAS
 
 ## TÍTULO PRIMERO
 
+
 ## Capítulo I
+
 Objeto, ámbito de aplicación y sujetos de la ley
 
 ### Artículo 1
@@ -123,6 +125,7 @@ IV. El monto de los honorarios que se cubran por su participación en los órgan
 V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables a los consejeros independientes de las empresas productivas del Estado. En todo caso, serán responsables por los daños y perjuicios que llegaren a causar a la entidad, derivados de los actos, hechos u omisiones en que incurran, incluyendo el incumplimiento a dichos deberes.
 
 ## Capítulo II
+
 Principios y directrices que rigen la actuación de los Servidores Públicos
 
 ### Artículo 6
@@ -159,13 +162,16 @@ Fracción adicionada DOF 19-11-2019
 XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;
 Fracción adicionada DOF 19-11-2019
 
-XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y Fracción adicionada DOF 19-11-2019
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y
+Fracción adicionada DOF 19-11-2019
 
 XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
-Fracción recorrida DOF 19-11-2019 La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
+Fracción recorrida DOF 19-11-2019
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
 Párrafo adicionado DOF 19-11-2019
 
 ## Capítulo III
+
 Autoridades competentes para aplicar la presente Ley
 
 ### Artículo 8
@@ -188,7 +194,8 @@ V. Tratándose de las responsabilidades administrativas de las Personas Servidor
 a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.
 
 b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.
-Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y Fracción reformada DOF 02-01-2025
+Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y
+Fracción reformada DOF 02-01-2025
 
 VI. Las unidades de responsabilidades de las empresas productivas del Estado, de conformidad con las leyes que las regulan. Para tal efecto, contarán exclusivamente con las siguientes atribuciones:
 
@@ -227,7 +234,9 @@ La atribución del Tribunal para imponer sanciones a particulares en términos d
 
 ## TÍTULO SEGUNDO — MECANISMOS DE PREVENCIÓN E INSTRUMENTOS DE RENDICIÓN DE CUENTAS
 
+
 ## Capítulo I
+
 Mecanismos Generales de Prevención
 
 ### Artículo 15
@@ -265,6 +274,7 @@ Artículo reformado DOF 02-01-2025
 
 ## Capítulo II — De la integridad de las personas morales
 
+
 ### Artículo 24
 . Las personas morales serán sancionadas en los términos de esta Ley cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a su nombre o representación de la persona moral y pretendan obtener mediante tales conductas beneficios para dicha persona moral.
 
@@ -287,7 +297,9 @@ VII. Mecanismos que aseguren en todo momento la transparencia y publicidad de su
 
 ## Capítulo III — De los instrumentos de rendición de cuentas
 
+
 ## Sección Primera
+
 Del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal
 
 ### Artículo 26
@@ -313,6 +325,7 @@ Los entes públicos, previo al nombramiento, designación o contratación de qui
 . Las Secretarías, así como los Órganos internos de control de los entes públicos, según corresponda, serán responsables de inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, la información correspondiente a los Declarantes a su cargo. Asimismo, verificarán la situación o posible actualización de algún Conflicto de Interés, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos Declarantes, en los términos de la presente Ley. Para tales efectos, las Secretarías podrán firmar convenios con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declarada por los Servidores Públicos.
 
 ## Sección Segunda — De los sujetos obligados a presentar declaración patrimonial y de intereses
+
 
 ### Artículo 32
 . Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad y ante las Secretarías o su respectivo Órgano interno de control, todos los Servidores Públicos, en los términos previstos en la presente Ley. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
@@ -405,9 +418,11 @@ La declaración de intereses tendrá por objeto informar y determinar el conjunt
 La declaración de intereses deberá presentarse en los plazos a que se refiere el artículo 33 de esta Ley y de la misma manera le serán aplicables los procedimientos establecidos en dicho artículo para el incumplimiento de dichos plazos. También deberá presentar la declaración en cualquier momento en que el servidor público, en el ejercicio de sus funciones, considere que se puede actualizar un posible Conflicto de Interés.
 
 ## TÍTULO TERCERO — DE LAS FALTAS ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y ACTOS DE
+
 PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
 ## Capítulo I — De las Faltas administrativas no graves de los Servidores Públicos
+
 
 ### Artículo 49
 . Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
@@ -433,9 +448,15 @@ VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las nor
 VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 Fracción reformada DOF 19-11-2019
 
-IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y] Fracción reformada DOF 19-11-2019, 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
+IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y]
+Fracción reformada DOF 19-11-2019, 27-12-2022
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
 
-X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.] Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023 [XI. Suprimida] Fracción adicionada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
+X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.]
+Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023 [XI. Suprimida]
+Fracción adicionada DOF 27-12-2022
+Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
 ### Artículo 50
 . También se considerará Falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves señaladas en el Capítulo siguiente, cause un servidor público a la Hacienda Pública o al patrimonio de un Ente público.
@@ -444,6 +465,7 @@ En caso de que no se realice el reintegro de los recursos señalados en el párr
 La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda conforme al artículo 75 de esta Ley, cuando el daño o perjuicio a la Hacienda Pública o al patrimonio de los entes públicos no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización y el daño haya sido resarcido o recuperado.
 
 ## Capítulo II — De las faltas administrativas graves de los Servidores Públicos
+
 
 ### Artículo 51
 . Las conductas previstas en el presente Capítulo constituyen Faltas administrativas graves de los Servidores Públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
@@ -529,6 +551,7 @@ Artículo adicionado DOF 15-12-2025
 
 ## Capítulo III — De los actos de particulares vinculados con faltas administrativas graves
 
+
 ### Artículo 65
 . Los actos de particulares previstos en el presente Capítulo se consideran vinculados a faltas administrativas graves, por lo que su comisión será sancionada en términos de esta Ley.
 
@@ -562,11 +585,15 @@ También se considera uso indebido de recursos públicos la omisión de rendir c
 
 ## Capítulo IV — De las Faltas de particulares en situación especial
 
+
 ### Artículo 73
 . [Se consideran Faltas de particulares en situación especial, aquéllas realizadas por candidatos a cargos de elección popular, miembros de equipos de campaña electoral o de transición entre administraciones del sector público, y líderes de sindicatos del sector público, que impliquen exigir, solicitar, aceptar, recibir o pretender recibir alguno de los beneficios a que se refiere el artículo 52 de esta Ley, ya sea para sí, para su campaña electoral o para alguna de las personas a las que se refiere el citado artículo, a cambio de otorgar u ofrecer una ventaja indebida en el futuro en caso de obtener el carácter de Servidor Público.
-A los particulares que se encuentren en situación especial conforme al presente Capítulo, incluidos los directivos y empleados de los sindicatos, podrán ser sancionados cuando incurran en las conductas a que se refiere el Capítulo anterior.] Artículo reformado (publicado íntegro sin cambios) DOF 27-12-2022 Artículo declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Artículo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
+A los particulares que se encuentren en situación especial conforme al presente Capítulo, incluidos los directivos y empleados de los sindicatos, podrán ser sancionados cuando incurran en las conductas a que se refiere el Capítulo anterior.]
+Artículo reformado (publicado íntegro sin cambios) DOF 27-12-2022
+Artículo declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Artículo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
 
 ## Capítulo V — De la prescripción de la responsabilidad administrativa
+
 
 ### Artículo 74
 . Para el caso de Faltas administrativas no graves, las facultades de las Secretarías o de los Órganos internos de control para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
@@ -578,7 +605,9 @@ Los plazos a los que se refiere el presente artículo se computarán en días na
 
 ## TÍTULO CUARTO — SANCIONES
 
+
 ## Capítulo I
+
 Sanciones por faltas administrativas no graves
 
 ### Artículo 75
@@ -615,6 +644,7 @@ II. No haya actuado de forma dolosa.
 Las secretarías o los órganos internos de control dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
 
 ## Capítulo II
+
 Sanciones para los Servidores Públicos por Faltas Graves
 
 ### Artículo 78
@@ -656,6 +686,7 @@ Bis. Si el beneficio indebidamente obtenido u otorgado a que hacen referencia lo
 Artículo adicionado DOF 12-04-2019
 
 ## Capítulo III
+
 Sanciones por Faltas de particulares
 
 ### Artículo 81
@@ -704,6 +735,7 @@ V. El monto del beneficio, lucro, o del daño o perjuicio derivado de la infracc
 Las personas morales serán sancionadas por la comisión de Faltas de particulares, con independencia de la responsabilidad a la que sean sujetos a este tipo de procedimientos las personas físicas que actúen a nombre o representación de la persona moral o en beneficio de ella.
 
 ## Capítulo IV
+
 Disposiciones comunes para la imposición de sanciones por faltas administrativas graves y Faltas de particulares
 
 ### Artículo 84
@@ -748,7 +780,9 @@ LIBRO SEGUNDO DISPOSICIONES ADJETIVAS
 
 ## TÍTULO PRIMERO — DE LA INVESTIGACIÓN Y CALIFICACIÓN DE LAS FALTAS GRAVES Y NO GRAVES
 
+
 ## Capítulo I
+
 Inicio de la investigación
 
 ### Artículo 90
@@ -767,6 +801,7 @@ Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras 
 . La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de Faltas administrativas, y podrán ser presentadas de manera electrónica a través de los mecanismos que para tal efecto establezcan las Autoridades investigadoras, lo anterior sin menoscabo de la plataforma digital que determine, para tal efecto, el Sistema Nacional Anticorrupción.
 
 ## Capítulo II — De la Investigación
+
 
 ### Artículo 94
 . Para el cumplimiento de sus atribuciones, las Autoridades investigadoras llevarán de oficio las auditorías o investigaciones debidamente fundadas y motivadas respecto de las conductas de los Servidores Públicos y particulares que puedan constituir responsabilidades administrativas en el ámbito de su competencia. Lo anterior sin menoscabo de las investigaciones que se deriven de las denuncias a que se hace referencia en el Capítulo anterior.
@@ -801,6 +836,7 @@ III. Arresto hasta por treinta y seis horas.
 
 ## Capítulo III — De la calificación de Faltas administrativas
 
+
 ### Artículo 100
 . Concluidas las diligencias de investigación, las autoridades investigadoras procederán al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y, en su caso, calificarla como grave o no grave.
 Una vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el Informe de Presunta Responsabilidad Administrativa y este se presentará ante la autoridad substanciadora a efecto de iniciar el procedimiento de responsabilidad administrativa.
@@ -815,6 +851,7 @@ II. Que el acto u omisión fue corregido o subsanado de manera espontánea por e
 La autoridad investigadora o el denunciante, podrán impugnar la abstención, en los términos de lo dispuesto por el siguiente Capítulo.
 
 ## Capítulo IV
+
 Impugnación de la calificación de faltas no graves
 
 ### Artículo 102
@@ -861,9 +898,12 @@ II. Dejar sin efectos la calificación o abstención, para lo cual la autoridad 
 
 ## TÍTULO SEGUNDO — DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
+
 ## Capítulo I — Disposiciones comunes al procedimiento de responsabilidad administrativa
 
+
 ## Sección Primera
+
 Principios, interrupción de la prescripción, partes y autorizaciones
 
 ### Artículo 111
@@ -907,6 +947,7 @@ Tratándose de personas morales estas deberán comparecer en todo momento a trav
 . En los procedimientos de responsabilidad administrativa se estimarán como días hábiles todos los del año, con excepción de aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil, durante los que no se practicará actuación alguna. Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas. Las autoridades substanciadoras o resolución del asunto, podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
 
 ## Sección Segunda
+
 Medios de apremio
 
 ### Artículo 120
@@ -925,6 +966,7 @@ III. Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, 
 . En caso de que pese a la aplicación de las medidas de apremio no se logre el cumplimiento de las determinaciones ordenadas, se dará vista a la autoridad penal competente para que proceda en los términos de la legislación aplicable.
 
 ## Sección Tercera
+
 Medidas cautelares
 
 ### Artículo 123
@@ -969,6 +1011,7 @@ V. Las que sean necesarias para evitar un daño irreparable a la Hacienda Públi
 
 ## Sección Cuarta — De las pruebas
 
+
 ### Artículo 130
 . Para conocer la verdad de los hechos las autoridades resolutoras podrán valerse de cualquier persona o documento, ya sea que pertenezca a las partes o a terceros, sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, y con pleno respeto a los derechos humanos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones.
 
@@ -1012,6 +1055,7 @@ V. Las que sean necesarias para evitar un daño irreparable a la Hacienda Públi
 . Cuando la preparación o desahogo de las pruebas deba tener lugar fuera del ámbito jurisdiccional de la Autoridad resolutora del asunto, podrá solicitar, mediante exhorto o carta rogatoria, la colaboración de las autoridades competentes del lugar. Tratándose de cartas rogatorias se estará a lo dispuesto en los tratados y convenciones de los que México sea parte.
 
 ## Sección Quinta — De las pruebas en particular
+
 
 ### Artículo 144
 . La prueba testimonial estará a cargo de todo aquél que tenga conocimiento de los hechos que las partes deban probar, quienes, por ese hecho, se encuentran obligados a rendir testimonio.
@@ -1142,6 +1186,7 @@ Cuando la ley requiera que un documento sea conservado y presentado en su forma 
 
 ## Sección Sexta — De los incidentes
 
+
 ### Artículo 182
 . Aquellos incidentes que no tengan señalado una tramitación especial se promoverán mediante un escrito de cada parte, y tres días para resolver. En caso de que se ofrezcan pruebas, se hará en el escrito de presentación respectivo. Si tales pruebas no tienen relación con los hechos controvertidos en el incidente, o bien, si la materia del incidente solo versa sobre puntos de derecho, la Autoridad substanciadora o resolutora del asunto, según sea el caso, desechará las pruebas ofrecidas.
 En caso de admitir las pruebas se fijará una audiencia dentro de los diez días hábiles siguientes a la admisión del incidente donde se recibirán las pruebas, se escucharán los alegatos de las partes y se les citará para oír la resolución que corresponda.
@@ -1154,6 +1199,7 @@ En caso de admitir las pruebas se fijará una audiencia dentro de los diez días
 
 ## Sección Séptima — De la acumulación
 
+
 ### Artículo 185
 . La acumulación será procedente:
 
@@ -1165,6 +1211,7 @@ II. Cuando se trate de procedimientos de responsabilidad administrativa donde se
 . Cuando sea procedente la acumulación, será competente para conocer del asunto aquella Autoridad substanciadora que tenga conocimiento de la falta cuya sanción sea mayor. Si la Falta administrativa amerita la misma sanción, será competente la autoridad encargada de substanciar el asunto que primero haya admitido el Informe de Presunta Responsabilidad Administrativa.
 
 ## Sección Octava — De las notificaciones
+
 
 ### Artículo 187
 . Las notificaciones se tendrán por hechas a partir del día hábil siguiente en que surtan sus efectos.
@@ -1203,6 +1250,7 @@ VII. Las demás que así se determinen en la ley, o que las autoridades substanc
 
 ## Sección Novena — De los Informes de Presunta Responsabilidad Administrativa
 
+
 ### Artículo 194
 . El Informe de Presunta Responsabilidad Administrativa será emitido por las Autoridades investigadoras, el cual deberá contener los siguientes elementos:
 
@@ -1229,6 +1277,7 @@ IX. Firma autógrafa de Autoridad investigadora.
 
 ## Sección Décima — De la improcedencia y el sobreseimiento
 
+
 ### Artículo 196
 . Son causas de improcedencia del procedimiento de responsabilidad administrativa, las siguientes:
 
@@ -1253,6 +1302,7 @@ III. Cuando el señalado como presunto responsable muera durante el procedimient
 Cuando las partes tengan conocimiento de alguna causa de sobreseimiento, la comunicarán de inmediato a la Autoridad substanciadora o resolutora, según corresponda, y de ser posible, acompañarán las constancias que la acrediten.
 
 ## Sección Décimo — Primera
+
 De las audiencias
 
 ### Artículo 198
@@ -1269,6 +1319,7 @@ III. Quienes actúen como secretarios, bajo la responsabilidad de la autoridad e
 Cuando la infracción llegare a tipificar un delito, se procederá contra quienes lo cometieren, con arreglo a lo dispuesto en la legislación penal.
 
 ## Sección Décimo — Segunda
+
 De las actuaciones y resoluciones
 
 ### Artículo 200
@@ -1336,6 +1387,7 @@ IX. La existencia o inexistencia que en términos de esta Ley constituyen Faltas
 X. Los puntos resolutivos, donde deberá precisarse la forma en que deberá cumplirse la resolución.
 
 ## Capítulo II
+
 Del procedimiento de responsabilidad administrativa ante las Secretarías y Órganos internos de control
 
 ### Artículo 208
@@ -1364,6 +1416,7 @@ X. Una vez trascurrido el periodo de alegatos, la Autoridad resolutora del asunt
 XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
 ## Capítulo III
+
 Del procedimiento de responsabilidad administrativa cuya resolución corresponda a los Tribunales
 
 ### Artículo 209
@@ -1384,6 +1437,7 @@ IV. Una vez trascurrido el periodo de alegatos, el Tribunal, de oficio, declarar
 V. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
 
 ## Sección Primera — De la revocación
+
 
 ### Artículo 210
 . Los Servidores Públicos que resulten responsables por la comisión de Faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por las Secretarías o los Órganos internos de control, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
@@ -1413,6 +1467,7 @@ La autoridad deberá de acordar en un plazo no mayor de veinticuatro horas respe
 
 ## Sección Segunda — De la Reclamación
 
+
 ### Artículo 213
 . El recurso de reclamación procederá en contra de las resoluciones de las autoridades substanciadoras o resolutoras que admitan, desechen o tengan por no presentado el Informe de Presunta Responsabilidad Administrativa, la contestación o alguna prueba; las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción; y aquéllas que admitan o rechacen la intervención del tercero interesado.
 
@@ -1423,6 +1478,7 @@ De la reclamación conocerá la Autoridad substanciadora o resolutora que haya e
 La resolución de la reclamación no admitirá recurso legal alguno.
 
 ## Sección Tercera — De la Apelación
+
 
 ### Artículo 215
 . Las resoluciones emitidas por los Tribunales, podrán ser impugnadas por los responsables o por los terceros, mediante el recurso de apelación, ante la instancia y conforme a los medios que determinen las leyes orgánicas de los Tribunales.
@@ -1452,6 +1508,7 @@ Párrafo reformado DOF 20-05-2021
 
 ## Sección Cuarta — De la Revisión
 
+
 ### Artículo 220
 . Las resoluciones definitivas que emita el Tribunal Federal de Justicia Administrativa, podrán ser impugnadas por la Secretaría de la Función Pública, los Órganos internos de control de los entes públicos federales o la Auditoría Superior de la Federación, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
 La tramitación del recurso de revisión se sujetará a lo establecido en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, para la substanciación de la revisión en amparo indirecto, y en contra de la resolución dictada por el Tribunal Colegiado de Circuito no procederá juicio ni recurso alguno.
@@ -1461,7 +1518,9 @@ La tramitación del recurso de revisión se sujetará a lo establecido en la Ley
 
 ## Capítulo IV — De la Ejecución
 
+
 ## Sección Primera
+
 Cumplimiento y ejecución de sanciones por Faltas administrativas no graves
 
 ### Artículo 222
@@ -1471,6 +1530,7 @@ Cumplimiento y ejecución de sanciones por Faltas administrativas no graves
 . Tratándose de los Servidores Públicos de base, la suspensión y la destitución se ejecutarán por el titular del Ente público correspondiente.
 
 ## Sección Segunda
+
 Cumplimiento y ejecución de sanciones por Faltas administrativas graves y Faltas de particulares
 
 ### Artículo 224
@@ -1510,22 +1570,22 @@ Mientras no se dicte sentencia definitiva el Magistrado que hubiere conocido del
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-**Segundo.** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
-**Tercero.** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
+**Segundo.-** Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+**Tercero.-** La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
 El cumplimiento de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
 Los procedimientos administrativos iniciados por las autoridades federales y locales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos previstas en las leyes federales y locales así como en cualquier disposición jurídica, se entenderán referidas a la Ley General de Responsabilidades Administrativas.
 Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno presentarán sus declaraciones en los formatos que a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
 Con la entrada en vigor de la Ley General de Responsabilidades Administrativas quedarán abrogadas Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
-**Cuarto.** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Cuarto.-** La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de Senadores, deberá designar a los integrantes de la Comisión de Selección.
 La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes: a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador. b. Un integrante que durará en su encargo dos años. c. Un integrante que durará en su encargo tres años. d. Un integrante que durará en su encargo cuatro años. e. Un integrante que durará en su encargo cinco años.
 Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
 La sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción, se llevará a cabo dentro del plazo de sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
-**Quinto.** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
+**Quinto.-** La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.
 El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de la Ley.
 Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que la Junta de Gobierno y Administración acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
@@ -1533,7 +1593,7 @@ Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que a l
 Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y aquellos que se verifiquen antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 En los casos de nombramientos de Magistrados que integren la Tercera Sección, y las Salas Especializadas en materia de Responsabilidades Administrativas, el Titular del Ejecutivo Federal deberá enviar sus propuestas al Senado, a más tardar en el periodo ordinario de Sesiones del Congreso de la Unión inmediato anterior a la entrada en vigor de la Ley General de Responsabilidades Administrativas.
 Los Magistrados a que se refiere el párrafo anterior, mantendrán su adscripción a la Sección Tercera y a las Salas Especializadas en materia de Responsabilidades Administrativas, al menos durante los
-**primero.** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+**primero.-** s cinco años del ejercicio de su encargo. Lo anterior, sin perjuicio de que los Magistrados podrán permanecer en dichas adscripciones durante todo su encargo, de conformidad con lo previsto en la fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del Tribunal Federal de Justicia Administrativa en el periodo inmediato al que concluye.
 Todas las referencias que en las leyes se haga al Tribunal Federal de Justicia Fiscal y Administrativa, se entenderán referidas al Tribunal Federal de Justicia Administrativa.
@@ -1557,20 +1617,20 @@ Se adicionan los artículos 7, con las fracciones X, XI y XII, recorriéndose la
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
-**Tercero.** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
-**Cuarto.** Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
-**Quinto.** Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
+**Tercero.-** Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
+**Cuarto.-** Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
+**Quinto.-** Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
 Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
 La eliminación de las plazas de Dirección General Adjunta creadas a partir del ejercicio fiscal 2001, y que no cumplan con lo dispuesto en la fracción III del artículo 12 de la Ley Federal de Austeridad Republicana estará sujeta a lo previsto en el artículo transitorio segundo.
-**Sexto.** Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
+**Sexto.-** Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
 Asimismo, queda prohibida la asignación a extitulares del Ejecutivo Federal, de cualquier tipo de servidores públicos, personal civil o de las fuerzas armadas, cuyos costos sean cubiertos con recursos del Estado, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio federal. Por lo que a partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
-**Séptimo.** Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
+**Séptimo.-** Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
 La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda y Crédito Público y de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
-**Octavo.** En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
-**Noveno.** La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
-**Décimo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Octavo.-** En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
+**Noveno.-** La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
+**Décimo.-** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
 Ciudad de México, a 8 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2020
@@ -1588,43 +1648,43 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 
 ### Artículo Vigésimo Cuarto
 Se reforma la fracción X del artículo 3; el artículo 158, y el párrafo
-**segundo.** del artículo 219, de la Ley General de Responsabilidades Administrativas, para quedar como sigue: ………
+**segundo.-** del artículo 219, de la Ley General de Responsabilidades Administrativas, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y de la Ley General de Responsabilidades Administrativas.
 Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
@@ -1634,8 +1694,8 @@ Se adiciona un artículo 64 Ter a la Ley General de Responsabilidades Administra
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
 Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica. [DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas.] Decreto declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023, con Engrose notificado a su vez el 31-05-2023 y publicado DOF 24-11-2023 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2022 [Artículo Segundo.- Se reforman las fracciones IX y X del párrafo primero del artículo 49, y el artículo 73, y se adiciona la fracción XI al párrafo primero del artículo 49, de la Ley General de Responsabilidades Administrativas, para quedar como sigue:] …….. [Transitorios] [Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.] [Segundo. La persona titular del Ejecutivo Federal debe realizar las adecuaciones reglamentarias correspondientes en un plazo no mayor a 180 días hábiles a partir de la publicación del presente Decreto.
@@ -1644,8 +1704,8 @@ En los ordenamientos locales se establecerán las disposiciones transitorias con
 Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas."] [En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de diciembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.] PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovida por los Partidos Políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos diputados y diversos senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos.
 Notificados al Congreso de la Unión para efectos legales el 8 de mayo de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/172/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el ocho de mayo de dos mil veintitrés, resolvió la acción de inconstitucionalidad 29/2023 y sus acumuladas 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 y 47/2023, promovida por los Partidos Políticos de la Revolución Democrática, Acción Nacional, Revolucionario Institucional, diversos diputados y diversos senadores integrantes de la Sexagésima Quinta Legislatura del Congreso de la Unión, Partido Político Movimiento Ciudadano y Partido Político del Estado de Jalisco denominado Hagamos, en los términos siguientes: “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
-**SEGUNDO.** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se declara la invalidez del DECRETO por el que se reforman, adicionan y derogan Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 8 de mayo de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el lunes 8 de mayo de 2023 a las 16:40 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -1659,9 +1719,9 @@ EDITH GUADALUPE ESQUIVEL ADAME VALERIA PALMA LIMÓN Y AUREA HERNÁNDEZ MEZA …�
 VI. EFECTOS 252. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 253. Así, de acuerdo con la parte considerativa de este fallo, se declara la invalidez de la totalidad del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación de veintisiete de diciembre de dos mil veintidós. 254. Toda vez que se determinó la invalidez del Decreto arriba precisado, éste deja de tener eficacia y, en consecuencia, las normas vinculadas por él, recuperan su vigencia con el texto que tenían al veintisiete de diciembre de dos mil veintidós. 255. Ello es así, en virtud de que con este fallo no se invalidaron disposiciones legales en lo específico, sino el Decreto que las modificó, en su integridad. 256. La presente resolución surtirá sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión.
 
 VII. DECISIÓN 257. Por lo antes expuesto, este Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
-**SEGUNDO.** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+**SEGUNDO.-** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 La señora Ministra Presidenta Piña Hernández declaró que el asunto se resolvió en los términos precisados. Doy fe.
@@ -1680,9 +1740,9 @@ SENTENCIA ……..
 VI. EFECTOS 252. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Federal, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 253. Así, de acuerdo con la parte considerativa de este fallo, se declara la invalidez de la totalidad del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación de veintisiete de diciembre de dos mil veintidós. 254. Toda vez que se determinó la invalidez del Decreto arriba precisado, éste deja de tener eficacia y, en consecuencia, las normas vinculadas por él, recuperan su vigencia con el texto que tenían al veintisiete de diciembre de dos mil veintidós. 255. Ello es así, en virtud de que con este fallo no se invalidaron disposiciones legales en lo específico, sino el Decreto que las modificó, en su integridad. 256. La presente resolución surtirá sus efectos a partir de la notificación de sus puntos resolutivos al Congreso de la Unión.
 
 VII. DECISIÓN 257. Por lo antes expuesto, este Pleno de la Suprema Corte de Justicia de la Nación resuelve:
-**PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
-**SEGUNDO.** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
-**TERCERO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y fundada la presente acción de inconstitucionalidad y sus acumuladas.
+**SEGUNDO.-** Se declara la invalidez del Decreto por el que se reforman, adicionan y derogan diversas Administrativas, publicado en el Diario Oficial de la Federación el veintisiete de diciembre de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, de conformidad con los apartados V y VI de esta decisión.
+**TERCERO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo primero:
@@ -1722,7 +1782,7 @@ Se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Admini
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Dentro de los 45 días siguientes a la entrada en vigor del presente Decreto y de conformidad con lo previsto en el mismo, las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas correspondientes.
 Ciudad de México, a 26 de noviembre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip.
 Kenia López Rabadán, Presidenta.- Sen. Lizeth Sánchez García, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

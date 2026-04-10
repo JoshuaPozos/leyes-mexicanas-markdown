@@ -17,7 +17,8 @@ IV.- Organizar trabajos de investigación y de análisis en forma de seminario, 
 V.- Servir de órgano de consulta a la Secretaría de Educación Pública;
 VI.- Colaborar con la Secretaría de Educación Pública, con otras dependencias oficiales, con instituciones descentralizadas y privadas, en actividades culturales.
 ARTICULO 3o.- El Seminario de Cultura Mexicana estará conformado por veinticinco personas integrantes titulares, cuyo conjunto formará el Consejo, autoridad suprema de la institución. Su integración se realizará conforme al principio de paridad de género.
-Artículo reformado DOF 11-05-2022 ARTICULO 4o.- El puesto de miembro titular del Seminario será otorgado a mexicanos por nacimiento que se hayan distinguido en labores de creación e investigación científicas o artísticas y que hayan demostrado capacidad y empeño en trabajos de difusión cultural.
+Artículo reformado DOF 11-05-2022
+ARTICULO 4o.- El puesto de miembro titular del Seminario será otorgado a mexicanos por nacimiento que se hayan distinguido en labores de creación e investigación científicas o artísticas y que hayan demostrado capacidad y empeño en trabajos de difusión cultural.
 ARTICULO 5o.- Las vacantes de miembros titulares serán cubiertas por elección que reúna como mínimo el sufragio de las dos terceras partes de los miembros titulares en ejercicio.
 ARTICULO 6o.- El carácter de miembro titular del Seminario es vitalicio y sólo podrá perderse:
 I.- Por renuncia del cargo;
@@ -47,9 +48,9 @@ Se reforma el artículo 3o. de la Ley Orgánica del Seminario de Cultura Mexican
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

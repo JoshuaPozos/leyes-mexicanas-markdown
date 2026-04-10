@@ -15,7 +15,9 @@ Se expide la Ley General del Sistema Nacional de Seguridad Pública, para quedar
 
 ## TÍTULO PRIMERO — BASES Y DISPOSICIONES GENERALES
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 . La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional. Tiene por objeto regular la integración, organización y el funcionamiento del Sistema Nacional de Seguridad Pública, así como la distribución de competencias, la coordinación y cooperación entre las instituciones de los tres órdenes de gobierno que lo integran, de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -98,9 +100,11 @@ XII. Establecer mecanismos de distribución, evaluación, vigilancia y fiscaliza
 Para el caso de lo dispuesto en las fracciones VI y VIII se estará a lo establecido en el artículo 48 de la presente Ley.
 
 ## TÍTULO SEGUNDO — DE LA DISTRIBUCIÓN DE COMPETENCIAS EN
+
 LOS TRES ÓRDENES DE GOBIERNO
 
 ## Capítulo I — De la competencia federal y concurrente en materia de seguridad pública
+
 
 ### Artículo 9
 . Corresponde a la Federación, a través de las instituciones competentes:
@@ -163,6 +167,7 @@ XIV. Establecer instancias colegiadas en las que participen representantes de la
 XV. Las demás atribuciones que se establezcan en esta Ley y en otras disposiciones aplicables.
 
 ## Capítulo II
+
 Competencia de las entidades federativas en materia de seguridad pública
 
 ### Artículo 11
@@ -189,6 +194,7 @@ IX. Establecer el mando único o coordinado con los municipios o las demarcacion
 X. Las demás atribuciones que se establezcan en la Constitución Política de los Estados Unidos Mexicanos, en esta Ley y en otras disposiciones aplicables.
 
 ## Capítulo III
+
 Competencia de los municipios en materia de seguridad pública
 
 ### Artículo 12
@@ -205,9 +211,11 @@ IV. En caso de no contar con policía, coordinarse con el Poder Ejecutivo de su 
 V. Impulsar la justicia cívica para la atención a las faltas administrativas conforme a los estándares que establezca el Secretariado Ejecutivo para tal fin.
 
 ## TÍTULO TERCERO — DE LOS ÓRGANOS DE DIRECCIÓN, COORDINACIÓN Y EJECUCIÓN DEL SISTEMA NACIONAL DE
+
 SEGURIDAD PÚBLICA
 
 ## Capítulo I
+
 Integración y mecanismos de coordinación del Sistema Nacional de Seguridad Pública
 
 ### Artículo 13
@@ -241,6 +249,7 @@ Los órganos y las demás instancias que integran el Sistema observarán lo disp
 . El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas colaborarán con las instancias que integran el Sistema en la formulación de estudios y en la implementación de acciones para el cumplimiento de los fines de la seguridad pública.
 
 ## Capítulo II
+
 Consejo Nacional de Seguridad Pública
 
 ### Artículo 16
@@ -320,6 +329,7 @@ XVIII. Las demás que se establezcan en esta Ley, otras disposiciones y las que 
 En las comisiones podrán participar personas expertas de instituciones académicas, de investigación y agrupaciones de los sectores social y privado relacionadas con su objeto.
 
 ## Capítulo III
+
 Gabinete Federal de Seguridad Pública
 
 ### Artículo 20
@@ -368,6 +378,7 @@ VIII. Recibir informes y dar seguimiento a las acciones de coordinación entre l
 IX. Las demás necesarias para su funcionamiento.
 
 ## Capítulo IV
+
 Conferencias Nacionales
 
 ### Artículo 22
@@ -423,6 +434,7 @@ XVIII. Las demás que se establezcan en otras disposiciones normativas y las que
 . Las Conferencias Nacionales podrán celebrar sesiones conjuntas a través de sus presidencias o mediante las personas representantes designadas para tales efectos, con la finalidad de proponer acuerdos, formular peticiones, recomendaciones y exhortos, en el ámbito de sus competencias.
 
 ## Sección I
+
 Conferencia Nacional de Secretarías de Seguridad Pública
 
 ### Artículo 25
@@ -475,6 +487,7 @@ XIX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 . La Conferencia Nacional de Secretarías de Seguridad Pública sesionará de forma ordinaria una vez al año y, de forma extraordinaria, cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes.
 
 ## Sección II
+
 Conferencia Nacional de Procuración de Justicia
 
 ### Artículo 28
@@ -537,6 +550,7 @@ XXIV. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 . La Conferencia Nacional de Procuración de Justicia sesionará de forma ordinaria una vez al año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes.
 
 ## Sección III
+
 Conferencia Nacional del Sistema Penitenciario
 
 ### Artículo 31
@@ -570,6 +584,7 @@ X. Las demás que establezcan las disposiciones legales aplicables y el Consejo 
 . La Conferencia Nacional del Sistema Penitenciario sesionará de forma ordinaria una vez al año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes.
 
 ## Sección IV
+
 Conferencia Nacional de Seguridad Pública Municipal
 
 ### Artículo 34
@@ -604,9 +619,11 @@ X. Las demás que establezcan otras disposiciones legales o el Consejo Nacional.
 . La Conferencia Nacional de Seguridad Pública Municipal sesionará de forma ordinaria una vez al año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes a través de la persona que designe como secretaria técnica.
 
 ## Capítulo V
+
 Consejos locales, mesas de paz e instancias de coordinación
 
 ## Sección I — Disposiciones generales
+
 
 ### Artículo 37
 . Las mesas de paz son las instancias de decisión ejecutiva y de coordinación inmediata de las instituciones de las entidades federativas en materia de seguridad pública.
@@ -614,6 +631,7 @@ Los consejos locales de seguridad pública son las instancias de definición de 
 Las y los secretarios ejecutivos u homólogos de la entidad federativa serán las personas servidoras públicas encargadas de dar seguimiento a las acciones realizadas para dar cumplimiento a los acuerdos emitidos por el consejo local, asegurando la coordinación efectiva del Sistema.
 
 ## Sección II
+
 Consejos locales
 
 ### Artículo 38
@@ -642,6 +660,7 @@ VII. Las que determinen las leyes locales y demás normativa local aplicable.
 El Secretariado Ejecutivo podrá informar a las personas titulares de los poderes ejecutivos de las entidades federativas sobre el desempeño de las personas servidoras públicas designadas en términos de este artículo.
 
 ## Sección III
+
 Mesas de paz
 
 ### Artículo 40
@@ -693,6 +712,7 @@ VIII. Coordinar acciones con la Fiscalía General de Justicia y el poder judicia
 IX. Las demás necesarias para su funcionamiento.
 
 ## Sección IV
+
 Modelos e instancias de coordinación
 
 ### Artículo 42
@@ -723,6 +743,7 @@ Las instancias de coordinación deberán designar una persona como enlace con el
 Las instancias de coordinación podrán solicitar el apoyo de la Federación y las entidades federativas, con las que procurarán coordinarse y cooperar para realizar acciones de prevención de las violencias y del delito, la persecución de este, operativos, tareas de proximidad, investigación y las demás necesarias para el cumplimiento de los fines de la seguridad pública, en el ámbito de sus competencias.
 
 ## Capítulo VI
+
 Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública
 
 ### Artículo 45
@@ -807,9 +828,11 @@ XXVI. Impulsar programas y acciones para el fortalecimiento institucional de la 
 XXVII. Las demás que se establezcan en esta y otras leyes, el reglamento del Secretariado Ejecutivo y demás disposiciones aplicables.
 
 ## TÍTULO CUARTO — DE LAS FUNCIONES, COMPOSICIÓN Y PERSONAS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD
+
 PÚBLICA
 
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 48
 . Las Instituciones de Seguridad Pública de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los fines de la seguridad pública, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, en la presente Ley y en las disposiciones generales que resulten aplicables.
@@ -817,6 +840,7 @@ La estructura orgánica, jerárquica y de dirección, la operación y el régime
 El reclutamiento, selección, ingreso y la permanencia de esta fuerza de seguridad pública estará a cargo de la Secretaría de la Defensa Nacional conforme a su legislación y, en lo aplicable, a los lineamientos que para tal fin emita el Secretariado Ejecutivo. La profesionalización, formación y capacitación del personal que la integra estará a cargo de la Secretaría de la Defensa Nacional, conforme a lo que resulte aplicable del Programa Rector de Profesionalización emitido por el Secretariado Ejecutivo.
 
 ## Capítulo II
+
 Instituciones Policiales
 
 ### Artículo 49
@@ -933,6 +957,7 @@ Las policías que presten sus servicios en instituciones penitenciarias se sujet
 La certificación institucional de los centros penitenciarios, así como la certificación individual de sus integrantes se regirá por lo establecido en la Ley Nacional de Ejecución Penal y por el Secretariado Ejecutivo.
 
 ## Capítulo III
+
 Instituciones complementarias, auxiliares u homólogas
 
 ### Artículo 56
@@ -940,6 +965,7 @@ Instituciones complementarias, auxiliares u homólogas
 Sus integrantes podrán realizar acciones de policía de proximidad, tales como atención a víctimas u ofendidos, protección y auxilio inmediato, y recepción de denuncias sobre hechos que puedan ser constitutivos de delito e informar de ello a la persona Ministerio Público por cualquier medio. De igual forma, coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o, cuando así lo soliciten, con las autoridades competentes de la Federación o las entidades federativas. La realización de estas tareas estará sujeta a la certificación individual de las personas integrantes de estos cuerpos policiales conforme a lo dispuesto en el Título Quinto.
 
 ## Capítulo IV
+
 Instituciones de Procuración de Justicia
 
 ### Artículo 57
@@ -987,6 +1013,7 @@ XI. Academia o Instituto.
 . Las Instituciones de Procuración de Justicia se coordinarán en todo momento con las Instituciones Policiales para el ejercicio de sus funciones. Las obligaciones de las Instituciones de Procuración de Justicia que se deriven de la coordinación y rendición de cuentas o de su pertenencia a los sistemas nacionales que determinen las leyes aplicables no implican una afectación a su autonomía.
 
 ## Capítulo V
+
 Relaciones jurídicas entre las Instituciones de Seguridad Pública y sus integrantes
 
 ### Artículo 60
@@ -1004,7 +1031,9 @@ Tratándose del personal militar de la Guardia Nacional, se estará a lo previst
 
 ## TÍTULO QUINTO — DEL DESARROLLO DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA Y SUS INTEGRANTES
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 62
 . El desarrollo de las Instituciones de Seguridad Pública es el conjunto de procesos dirigidos a su fortalecimiento y eficiencia de forma sostenible, con la finalidad de que prevengan, investiguen y persigan los delitos de forma efectiva y que, de esta manera, cumplan con su misión de proteger a la ciudadanía y garantizar el Estado de derecho.
@@ -1020,6 +1049,7 @@ II. Reglamento del régimen disciplinario, que incluya el catálogo de faltas di
 Asimismo, las Instituciones de Seguridad Pública deberán desarrollar un expediente electrónico en donde se registren todos los datos e incidencias relacionadas con el servicio profesional de carrera de sus integrantes.
 
 ## Capítulo II
+
 Servicio Profesional de Carrera
 
 ### Artículo 64
@@ -1048,6 +1078,7 @@ I. Antigüedad en el servicio, a partir de la fecha de su ingreso a la instituci
 II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
 
 ## Sección I
+
 Reclutamiento, selección e ingreso
 
 ### Artículo 67
@@ -1062,6 +1093,7 @@ Dicho proceso comprende el periodo de los cursos de formación o capacitación y
 Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo 48 de esta Ley.
 
 ## Sección II
+
 Promociones de grado, condecoraciones y reconocimientos
 
 ### Artículo 70
@@ -1077,6 +1109,7 @@ Para ocupar un grado o rango dentro de las Instituciones de Seguridad Pública, 
 Todo estímulo otorgado por las Instituciones de Seguridad Pública será acompañado de una constancia que acredite su otorgamiento, la que deberá ser integrada al expediente de la persona integrante y, en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
 ## Sección III
+
 Organización jerárquica de las Instituciones de Seguridad Pública
 
 ### Artículo 72
@@ -1141,12 +1174,14 @@ Las personas titulares de las categorías jerárquicas estarán facultadas para 
 . Los niveles escalafonarios y procedimientos de ascenso dentro del servicio profesional de carrera de las Instituciones de Procuración de Justicia y de la Guardia Nacional se deberán establecer en sus propias leyes.
 
 ## Sección IV
+
 Permanencia
 
 ### Artículo 77
 . La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones de Seguridad Pública. Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo 48 de esta Ley.
 
 ## Sección V
+
 Terminación del Servicio Profesional de Carrera
 
 ### Artículo 78
@@ -1185,6 +1220,7 @@ Las legislaciones correspondientes establecerán la forma para calcular la cuant
 . Las solicitudes de reingreso al servicio profesional de carrera se analizarán y, en su caso, se concederán siempre y cuando el motivo de la baja haya sido por renuncia. En el caso de que el personal haya renunciado, la existencia de sanciones posteriores que resulten de procedimientos iniciados durante el tiempo que prestaba sus servicios no será impedimento para registrarlas en su expediente personal. Las Instituciones de Seguridad Pública deberán establecer su propia normativa para tal efecto la que deberá considerar al menos los requisitos de ingreso establecidos en el artículo 95.
 
 ## Capítulo III
+
 Profesionalización
 
 ### Artículo 83
@@ -1203,9 +1239,11 @@ Además, incluirá programas específicos en formación cívica y ética, respon
 El Secretariado Ejecutivo emitirá los estándares para el establecimiento y certificación de las Academias o Institutos, y para la conformación del registro de su personal docente.
 
 ## Capítulo IV
+
 Política Nacional de Acreditación y Certificación de las Instituciones de Seguridad Pública y sus integrantes
 
 ## Sección I
+
 Acreditación y Certificación de las Instituciones de Seguridad Pública y sus integrantes
 
 ### Artículo 86
@@ -1227,6 +1265,7 @@ El Secretariado Ejecutivo será responsable de emitir y publicar, tanto los perf
 Las Instituciones de Seguridad Pública reconocerán la vigencia y validez de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En todos los casos, se deberán realizar las inscripciones en el registro nacional correspondiente.
 
 ## Sección II
+
 Evaluaciones de control de confianza
 
 ### Artículo 90
@@ -1279,6 +1318,7 @@ En cualquiera de los supuestos anteriores deberá actualizarse el registro nacio
 Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente Ley.
 
 ## Capítulo V
+
 Perfiles y requisitos para formar parte de las Instituciones Policiales
 
 ### Artículo 94
@@ -1376,6 +1416,7 @@ Las determinaciones que se tomen por no cumplir con alguno de los requisitos de 
 . Las instancias responsables del Servicio Profesional de Carrera de las Instituciones Policiales fomentarán la vocación de servicio mediante la promoción y reconocimiento para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
 ## Capítulo VI
+
 Perfiles y requisitos para formar parte de las Instituciones de Procuración de Justicia
 
 ### Artículo 97
@@ -1474,9 +1515,11 @@ Las determinaciones que se tomen por no cumplir con alguno de los requisitos de 
 Lo dispuesto en este artículo aplicará sin perjuicio de otros requisitos que establezcan las leyes respectivas.
 
 ## TÍTULO SEXTO — DEL SISTEMA NACIONAL DE INFORMACIÓN
+
 Y LOS REGISTROS NACIONALES
 
 ## Capítulo I
+
 Sistema Nacional de Información
 
 ### Artículo 100
@@ -1531,6 +1574,7 @@ V. Evaluar la calidad, oportunidad y completitud de la información contenida en
 VI. Las demás que determinen las normativas aplicables.
 
 ## Capítulo II
+
 Registros nacionales y bases de datos
 
 ### Artículo 105
@@ -1584,7 +1628,9 @@ El suministro de esta información se realizará bajo los principios de objetivi
 
 ## TÍTULO SÉPTIMO — CENTROS DE COMANDO Y CONTROL
 
+
 ## Capítulo Único
+
 
 ### Artículo 108
 . Los Centros de Comando y Control son instalaciones de seguridad pública y atención de emergencias que integran tecnologías de videovigilancia, identificación vehicular, análisis de datos y coordinación operativa destinadas a la coordinación y supervisión operativa en tiempo real de las actividades de prevención, vigilancia y atención de emergencias. Su función principal es centralizar el monitoreo de cámaras de videovigilancia, sistemas de comunicación y alertas ciudadanas, entre otras, permitiendo la toma de decisiones inmediata para responder a situaciones de riesgo o incidencia delictiva, así como mejorar la capacidad de reacción ante emergencias y apoyar la investigación criminal, a través de la centralización de información y la colaboración interinstitucional entre Instituciones de Seguridad Pública, de protección civil, servicios médicos y dependencias de los tres órdenes de gobierno.
@@ -1623,7 +1669,9 @@ Los sistemas de monitoreo, videovigilancia y reconocimiento biométrico que util
 
 ## TÍTULO OCTAVO — DE LOS FONDOS DE AYUDA FEDERAL
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 114
 . Los Fondos de Ayuda Federal para la seguridad pública a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, se componen con los recursos destinados a la seguridad pública previstos en la Ley de Coordinación Fiscal y el Presupuesto de Egresos de la Federación para tal objeto.
@@ -1641,6 +1689,7 @@ Para la aprobación de estos proyectos de inversión, el Secretariado Ejecutivo 
 . Corresponde a la Auditoría Superior de la Federación auditar y fiscalizar los recursos federales que ejerzan la federación, las entidades federativas y los municipios en materia de seguridad pública, en términos de las disposiciones aplicables.
 
 ## Capítulo II
+
 Visitas de verificación y revisiones de gabinete
 
 ### Artículo 117
@@ -1656,7 +1705,9 @@ Lo anterior, con independencia de las responsabilidades que otras leyes establez
 
 ## TÍTULO NOVENO — DE LAS INSTALACIONES ESTRATÉGICAS
 
+
 ## Capítulo Único
+
 
 ### Artículo 119
 . Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado mexicano, en términos de la Ley de Seguridad Nacional.
@@ -1674,7 +1725,9 @@ Las decisiones que en ese sentido emita el Consejo Nacional, deberán ser ejecut
 
 ## TÍTULO DÉCIMO — DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+
 ## Capítulo Único
+
 
 ### Artículo 122
 . Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, las personas físicas o morales que presten servicios de seguridad privada bajo las modalidades y submodalidades previstas en la normativa que regula la materia, deberán obtener la autorización correspondiente, acorde a lo siguiente:
@@ -1692,9 +1745,11 @@ Para la obtención de las autorizaciones, ya sean de carácter local o federal, 
 La normativa en la materia establecerá la forma en la que las prestadoras de servicios de seguridad privada acreditarán las evaluaciones y, de ser el caso, los controles de confianza aplicados a su personal operativo.
 
 ## TÍTULO DÉCIMO — PRIMERO
+
 DE LAS RESPONSABILIDADES, OBLIGACIONES Y SANCIONES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 125
 . Las responsabilidades administrativas de las personas servidoras públicas de las Instituciones de Seguridad Pública por los actos y omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia y el respeto a los derechos humanos que deben observar en el desempeño de sus empleos, cargos y comisiones, serán investigadas, determinadas y aplicadas en los términos indicados por la Ley General de Responsabilidades Administrativas.
@@ -1703,6 +1758,7 @@ DE LAS RESPONSABILIDADES, OBLIGACIONES Y SANCIONES DE LAS PERSONAS SERVIDORAS P�
 . Las responsabilidades civiles y penales en que incurran las personas servidoras públicas de las Instituciones de Seguridad Pública por el incumplimiento de lo dispuesto en la presente Ley serán determinadas y sancionadas conforme las disposiciones legales aplicables y por las autoridades competentes.
 
 ## Capítulo II
+
 Régimen Disciplinario
 
 ### Artículo 127
@@ -1717,6 +1773,7 @@ La actuación de los integrantes de las Instituciones de Seguridad Pública se s
 Las legislaciones de la Federación y las entidades federativas establecerán sus regímenes disciplinarios, sobre las bases mínimas previstas en el presente capítulo.
 
 ## Sección I
+
 Obligaciones de las personas servidoras públicas de las Instituciones de Seguridad Pública
 
 ### Artículo 129
@@ -1780,6 +1837,7 @@ El incumplimiento de los requisitos de permanencia a que se refiere la fracción
 Las legislaciones emitidas por las entidades federativas deberán observar lo dispuesto en esta Ley, sin perjuicio de que puedan establecer un catálogo de conductas sancionables que amplíe lo previsto en esta.
 
 ## Sección II
+
 Correctivos disciplinarios y sanciones
 
 ### Artículo 131
@@ -1855,6 +1913,7 @@ II. Siete años, tratándose de conductas clasificadas como graves.
 La prescripción se interrumpirá por cualquier actuación de la autoridad encaminada a investigar, sustanciar o resolver el procedimiento disciplinario, siempre que dicha actuación sea formalmente notificada a la persona sujeta al procedimiento.
 
 ## Sección III
+
 Autoridades a cargo del régimen disciplinario
 
 ### Artículo 140
@@ -1878,6 +1937,7 @@ IV. Evitar un daño al patrimonio de la Institución de Seguridad Pública de qu
 . La autoridad encargada de sustanciar el procedimiento administrativo será distinta de aquella que investigue y de la que resuelva. Será responsable de dictar el acuerdo de inicio, así como de realizar el emplazamiento correspondiente, de la recepción, admisión o desechamiento, preparación y desahogo de pruebas, y de la conducción de la audiencia única y el cierre de instrucción. La autoridad sustanciadora del procedimiento disciplinario sancionador será distinta de aquella que tramite la separación del cargo por incumplimiento de requisitos de permanencia, la que estará a cargo de las instancias responsables del servicio profesional de carrera.
 
 ## Capítulo III
+
 Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública
 
 ### Artículo 144

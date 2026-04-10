@@ -13,18 +13,27 @@ Denominación de la Ley reformada DOF 15-01-2026
 
 ### Artículo Único
 Se expide la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-Denominación de la Ley reformada DOF 15-01-2026 .
-Denominación de la Ley reformada DOF 15-01-2026 TITULO PRIMERO
+Denominación de la Ley reformada DOF 15-01-2026
+.
+Denominación de la Ley reformada DOF 15-01-2026
+TITULO PRIMERO
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 ARTÍCULO 1.- La presente ley es reglamentaria del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de protección del derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y los deberes reforzados del Estado, sus disposiciones son de orden público y de observancia general en toda la República, y tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022, 16-12-2024 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
+Párrafo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022, 16-12-2024
+Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 ARTÍCULO 2.- La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencias, a través de acciones reforzadas de protección de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
-Párrafo reformado DOF 15-01-2026 La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
+Párrafo reformado DOF 15-01-2026
+La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
 La Federación y las entidades federativas deberán contar con fiscalías especializadas para atender los delitos relacionados con las violencias de género en contra de las mujeres y Centros de Justicia para las Mujeres.
-Párrafo adicionado DOF 25-04-2023. Reformado DOF 16-12-2024 Para garantizar el derecho a una vida libre de violencias se crea el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños; como un instrumento de política pública tendiente a la erradicación de las violencias en contra de las mujeres, adolescentes, niñas y niños.
-Párrafo adicionado DOF 16-12-2024 Artículo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022 ARTÍCULO 3.- Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos y modalidades de violencias contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
-Artículo reformado DOF 15-01-2026 ARTÍCULO 4.- Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
+Párrafo adicionado DOF 25-04-2023. Reformado DOF 16-12-2024
+Para garantizar el derecho a una vida libre de violencias se crea el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños; como un instrumento de política pública tendiente a la erradicación de las violencias en contra de las mujeres, adolescentes, niñas y niños.
+Párrafo adicionado DOF 16-12-2024
+Artículo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022
+ARTÍCULO 3.- Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos y modalidades de violencias contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+Artículo reformado DOF 15-01-2026
+ARTÍCULO 4.- Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
 Párrafo reformado DOF 29-04-2022
 
 I. La igualdad jurídica, sustantiva, de resultados y estructural;
@@ -50,10 +59,12 @@ Fracción adicionada DOF 29-04-2022
 VIII. La interseccionalidad;
 Fracción adicionada DOF 29-04-2022
 
-IX. La interculturalidad, y Fracción adicionada DOF 29-04-2022
+IX. La interculturalidad, y
+Fracción adicionada DOF 29-04-2022
 
 X. El enfoque diferencial.
-Fracción adicionada DOF 29-04-2022 ARTÍCULO 5.- Para los efectos de la presente ley se entenderá por:
+Fracción adicionada DOF 29-04-2022
+ARTÍCULO 5.- Para los efectos de la presente ley se entenderá por:
 
 I. Ley: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
 Fracción reformada DOF 15-01-2026
@@ -95,7 +106,8 @@ Fracción adicionada DOF 29-04-2022
 XIV. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 Fracción adicionada DOF 29-04-2022
 
-XV. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas, y Fracción adicionada DOF 29-04-2022
+XV. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas, y
+Fracción adicionada DOF 29-04-2022
 
 XVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 Fracción adicionada DOF 29-04-2022
@@ -114,7 +126,8 @@ Fracción adicionada DOF 16-12-2024. Reformada DOF 15-01-2026
 
 XXI. Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños:
 Obligación constitucional prevista en el penúltimo párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía.
-Fracción adicionada DOF 15-01-2026 ARTÍCULO 6.- Los tipos de violencias contra las mujeres son:
+Fracción adicionada DOF 15-01-2026
+ARTÍCULO 6.- Los tipos de violencias contra las mujeres son:
 Párrafo reformado DOF 20-01-2009, 15-01-2026
 
 I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
@@ -128,7 +141,8 @@ Se manifiesta en: la transformación, sustracción, destrucción, retención o d
 
 IV. Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y Fracción reformada DOF 26-01-2024
+V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+Fracción reformada DOF 26-01-2024
 
 VI. Violencia a través de interpósita persona.- Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
 Se manifiesta a través de diversas conductas, entre otras:
@@ -151,12 +165,16 @@ h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y 
 Fracción adicionada DOF 17-01-2024
 
 VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
-Fracción recorrida DOF 17-01-2024 TITULO II MODALIDADES DE LAS VIOLENCIAS Denominación del Título reformada DOF 15-01-2026
+Fracción recorrida DOF 17-01-2024
+TITULO II MODALIDADES DE LAS VIOLENCIAS
+Denominación del Título reformada DOF 15-01-2026
 
 ## CAPÍTULO I — DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
+
 ARTÍCULO 7.- Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
-Artículo reformado DOF 08-05-2023 ARTÍCULO 8.- Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+Artículo reformado DOF 08-05-2023
+ARTÍCULO 8.- Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 Párrafo reformado DOF 20-01-2009, 11-01-2021, 08-05-2023, 17-01-2024, 15-01-2026
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan, en su caso, su autonomía, empoderamiento y reparen el daño causado por dichas violencias;
@@ -170,11 +188,13 @@ Fracción reformada DOF 17-01-2024
 IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
 Fracción reformada DOF 17-01-2024
 
-V. Garantizar la separación y alejamiento del Agresor con respecto a la Víctima o víctimas directas e indirectas, atendiendo lo dispuesto en las fracciones IX y IX Bis del artículo 34 Ter de la presente ley, y Fracción reformada DOF 15-01-2026
+V. Garantizar la separación y alejamiento del Agresor con respecto a la Víctima o víctimas directas e indirectas, atendiendo lo dispuesto en las fracciones IX y IX Bis del artículo 34 Ter de la presente ley, y
+Fracción reformada DOF 15-01-2026
 
 VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
-Párrafo adicionado DOF 08-05-2023 ARTÍCULO 9.- Con el objeto de contribuir a la erradicación de las violencias contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
+Párrafo adicionado DOF 08-05-2023
+ARTÍCULO 9.- Con el objeto de contribuir a la erradicación de las violencias contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
 Párrafo reformado DOF 17-01-2024
 
 I. Tipificar el delito de violencia familiar, que incluya como elementos del tipo los contenidos en la definición prevista en el artículo 7 de esta ley;
@@ -188,17 +208,20 @@ Fracción reformada y recorrida DOF 17-01-2024
 IV. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar, violencia a través de interpósita persona y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma;
 Fracción reformada y recorrida DOF 17-01-2024
 
-V. Incluir como parte de la sentencia, la condena a la persona agresora a participar en servicios reeducativos integrales, especializados, con perspectiva de género y gratuitos, y Fracción reformada y recorrida DOF 17-01-2024
+V. Incluir como parte de la sentencia, la condena a la persona agresora a participar en servicios reeducativos integrales, especializados, con perspectiva de género y gratuitos, y
+Fracción reformada y recorrida DOF 17-01-2024
 
 VI. La violencia a través de interpósita persona se sancionará con independencia de los delitos en los que haya incurrido la persona agresora.
 Fracción adicionada DOF 17-01-2024
 
 ## CAPÍTULO II — DE LA VIOLENCIA LABORAL Y DOCENTE
+
 ARTÍCULO 10.- Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño.
 También incluye el acoso o el hostigamiento sexual.
 ARTÍCULO 11.- Constituye violencia laboral: la negativa ilegal a contratar a la Víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
-Artículo reformado DOF 02-04-2014, 13-04-2018 ARTÍCULO 12.- Constituyen violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
+Artículo reformado DOF 02-04-2014, 13-04-2018
+ARTÍCULO 12.- Constituyen violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
 ARTÍCULO 13.- El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 ARTÍCULO 14.- Las entidades federativas, en función de sus atribuciones, tomarán en consideración:
@@ -212,10 +235,12 @@ II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostig
 III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son expresiones de violencia y delitos, y pueden constituir causas de rescisión laboral y faltas administrativas;
 Fracción reformada DOF 15-01-2026
 
-IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores, y Fracción reformada DOF 15-01-2026
+IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores, y
+Fracción reformada DOF 15-01-2026
 
 V. Promover acciones de cambio cultural en la sociedad para identificar, promover la denuncia y combatir el hostigamiento sexual y acoso sexual en todos los ámbitos y promover relaciones respetuosas, igualitarias y no sexistas entre mujeres y hombres.
-Fracción adicionada DOF 15-01-2026 ARTÍCULO 15.- Para efectos del hostigamiento o el acoso sexual, los tres órdenes de gobierno deberán:
+Fracción adicionada DOF 15-01-2026
+ARTÍCULO 15.- Para efectos del hostigamiento o el acoso sexual, los tres órdenes de gobierno deberán:
 
 I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
@@ -232,33 +257,42 @@ VI. Proporcionar atención psicológica y legal, especializada y gratuita a quie
 VII. Implementar sanciones administrativas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
 
 ## CAPÍTULO III — DE LA VIOLENCIA EN LA COMUNIDAD
+
 ARTÍCULO 16.- Violencia en la Comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 ARTÍCULO 16 Bis.- Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
-Artículo adicionado DOF 26-01-2024 ARTÍCULO 17.- El Estado mexicano debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+Artículo adicionado DOF 26-01-2024
+ARTÍCULO 17.- El Estado mexicano debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
 
 I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
 II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
 Fracción reformada DOF 26-01-2024
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias, y Fracción reformada DOF 26-01-2024
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias, y
+Fracción reformada DOF 26-01-2024
 
 IV. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 Fracción adicionada DOF 26-01-2024
 
 ## CAPÍTULO IV — DE LA VIOLENCIA INSTITUCIONAL
+
 ARTÍCULO 18.- Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
-Artículo reformado DOF 25-04-2023 ARTÍCULO 18 Bis.- El Estado mexicano tendrá la misma responsabilidad de promover, respetar, proteger y garantizar, desde una perspectiva de género, los derechos humanos de las mujeres, sus hijas e hijos, que se encuentren o residan fuera del país, con base en los mecanismos legales del Servicio Exterior Mexicano.
+Artículo reformado DOF 25-04-2023
+ARTÍCULO 18 Bis.- El Estado mexicano tendrá la misma responsabilidad de promover, respetar, proteger y garantizar, desde una perspectiva de género, los derechos humanos de las mujeres, sus hijas e hijos, que se encuentren o residan fuera del país, con base en los mecanismos legales del Servicio Exterior Mexicano.
 Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres víctimas deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
-Artículo adicionado DOF 17-01-2024 ARTÍCULO 19.- Los tres órdenes de gobierno, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
+Artículo adicionado DOF 17-01-2024
+ARTÍCULO 19.- Los tres órdenes de gobierno, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
 ARTÍCULO 20.- Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencias, los tres órdenes de gobierno deben reforzar las acciones de prevención, atención, investigación, sanción y reparación del daño respecto a mujeres, adolescentes, niñas y niños.
 Artículo reformado DOF 15-01-2026
 
 ## CAPÍTULO IV BIS — DE LA VIOLENCIA POLÍTICA
-Capítulo adicionado DOF 13-04-2020 ARTÍCULO 20 Bis.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Capítulo adicionado DOF 13-04-2020
+ARTÍCULO 20 Bis.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
-Artículo adicionado DOF 13-04-2020 ARTÍCULO 20 Ter.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+Artículo adicionado DOF 13-04-2020
+ARTÍCULO 20 Ter.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
 I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
@@ -307,12 +341,16 @@ La violencia política contra las mujeres en razón de género se sancionará en
 Artículo adicionado DOF 13-04-2020
 
 ## CAPÍTULO IV TER — DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
-Capítulo adicionado DOF 01-06-2021 ARTÍCULO 20 Quáter.- Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Capítulo adicionado DOF 01-06-2021
+ARTÍCULO 20 Quáter.- Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
 Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 Para efectos del presente Capítulo se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
-Artículo adicionado DOF 01-06-2021 ARTÍCULO 20 Quinquies.- Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+Artículo adicionado DOF 01-06-2021
+ARTÍCULO 20 Quinquies.- Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
-Artículo adicionado DOF 01-06-2021 ARTÍCULO 20 Sexies.- Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+Artículo adicionado DOF 01-06-2021
+ARTÍCULO 20 Sexies.- Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
 En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
 La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
 Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
@@ -320,11 +358,14 @@ Dentro de los cinco días siguientes a la imposición de las medidas de protecci
 Artículo adicionado DOF 01-06-2021
 
 ## CAPÍTULO V — DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA
+
 LAS MUJERES ARTÍCULO 21.- Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
-Artículo reformado DOF 14-06-2012, 29-04-2022 ARTÍCULO 22.- Alerta de Violencia de Género contra las mujeres: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
+Artículo reformado DOF 14-06-2012, 29-04-2022
+ARTÍCULO 22.- Alerta de Violencia de Género contra las mujeres: Es el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
 El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia.
-Artículo reformado DOF 29-04-2022 ARTÍCULO 23.- La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
+Artículo reformado DOF 29-04-2022
+ARTÍCULO 23.- La Alerta de Violencia de Género contra las mujeres tendrá como objetivos:
 
 I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
 
@@ -341,24 +382,30 @@ a) El motivo de la Alerta de Violencia de Género contra las mujeres;
 b) Las acciones que deberán desempeñar para hacer frente a la violencia feminicida o al agravio comparado, la ruta de acción, los plazos para su ejecución y la asignación de responsabilidades definidas para cada uno de los poderes y órdenes de gobierno, según corresponda;
 
 c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México;
-D. Elaborar informes, con la temporalidad que en su caso determine el Sistema Nacional, para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y Apartado reformado DOF 15-01-2026 E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Cámara de Diputados y los Congresos Estatales deberán aprobar una partida presupuestal para este fin y darán seguimiento a su ejercicio efectivo.
+D. Elaborar informes, con la temporalidad que en su caso determine el Sistema Nacional, para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+Apartado reformado DOF 15-01-2026
+E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Cámara de Diputados y los Congresos Estatales deberán aprobar una partida presupuestal para este fin y darán seguimiento a su ejercicio efectivo.
 El procedimiento de la Alerta de Violencia de Género contra las mujeres deberá observar en todo momento los principios de transparencia, máxima publicidad y acceso a la información, así como la protección de datos personales, durante la totalidad de las etapas del procedimiento.
-Artículo reformado DOF 29-04-2022 ARTÍCULO 24.- La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
+Artículo reformado DOF 29-04-2022
+ARTÍCULO 24.- La Alerta de Violencia de Género contra las mujeres, se emitirá cuando:
 
 I. Exista un contexto de violencia feminicida caracterizado por el incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, la libertad, la integridad y la seguridad de las mujeres, adolescentes y niñas en un territorio determinado;
 
 II. Existan omisiones documentadas y reiteradas por parte de las autoridades gubernamentales del cumplimiento de sus obligaciones en materia de prevención, atención, sanción, y acceso a la justicia para las mujeres, adolescentes y niñas, de conformidad con lo establecido en esta ley, y
 
 III. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, adolescentes y niñas.
-Artículo reformado DOF 29-04-2022 ARTÍCULO 24 Bis.- La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
+Artículo reformado DOF 29-04-2022
+ARTÍCULO 24 Bis.- La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
 
 I. A solicitud de organismos públicos autónomos de derechos humanos u organismos internacionales de protección de los derechos humanos;
 
 II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante, o
 
 III. A partir de la identificación por parte de la Secretaría de las Mujeres, del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
-Fracción reformada DOF 15-01-2026 A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
-Artículo adicionado DOF 29-04-2022 ARTÍCULO 24 Ter.- La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
+Fracción reformada DOF 15-01-2026
+A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 24 Ter.- La solicitud de Alerta de Violencia de Género contra las mujeres deberá contener al menos lo siguiente:
 
 I. Narración de los hechos de violencia cometidos contra las mujeres, adolescentes y niñas, sustentados con información documentada, datos estadísticos oficiales, testimonios u otra información que sustente las afirmaciones señaladas en la solicitud;
 
@@ -367,8 +414,10 @@ II. Territorio específico sobre el cual se señalan los hechos de violencia;
 III. Las autoridades responsables de atender la violencia señalada, y
 
 IV. Los demás requisitos de forma que se establezcan en el Reglamento.
-Artículo adicionado DOF 29-04-2022 ARTÍCULO 24 Quáter.- Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría de las Mujeres, el Mecanismo para el adelanto de las mujeres de la entidad federativa sobre la cual se presenta la solicitud de Alerta de Violencia de Género contra las mujeres, la Comisión Nacional de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
-Párrafo reformado DOF 15-01-2026 El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 24 Quáter.- Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría de las Mujeres, el Mecanismo para el adelanto de las mujeres de la entidad federativa sobre la cual se presenta la solicitud de Alerta de Violencia de Género contra las mujeres, la Comisión Nacional de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+Párrafo reformado DOF 15-01-2026
+El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
 
 a) Proponer a la Secretaría de las Mujeres las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
 Inciso reformado DOF 15-01-2026
@@ -379,17 +428,21 @@ c) Analizar y dictaminar los informes periódicos presentados por las autoridade
 
 d) Realizar reuniones de trabajo con las autoridades responsables de la implementación de las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
 
-e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría de las Mujeres emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y Inciso reformado DOF 15-01-2026
+e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría de las Mujeres emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
+Inciso reformado DOF 15-01-2026
 
 f) Proponer la modificación, actualización y levantamiento parcial o total de medidas establecidas en la Alerta de Violencia de Género contra las mujeres.
 Se deberán realizar las medidas necesarias para garantizar que el Grupo Interinstitucional y Multidisciplinario se integre de conformidad con lo señalado en el presente artículo.
-Artículo adicionado DOF 29-04-2022 ARTÍCULO 24 Quinquies.- El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda. Y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 24 Quinquies.- El Grupo Interinstitucional y Multidisciplinario tendrá 30 días naturales para realizar un análisis sobre los hechos de violencia señalados en la solicitud; cuando del análisis realizado se desprenda la procedencia de la Alerta de Violencia de Género contra las mujeres, se deberán elaborar conclusiones que incluyan propuestas de acciones y medidas preventivas, correctivas, de atención, de seguridad, de procuración e impartición de justicia y de reparación del daño, según corresponda. Y, en su caso, las propuestas de adecuaciones legislativas y normativas necesarias.
 El Grupo Interinstitucional y Multidisciplinario deberá escuchar a las víctimas de los casos de violencia contra las mujeres que se analizan, a fin de incorporar en las conclusiones y medidas a adoptar, sus necesidades y propuestas.
 En caso de considerar la improcedencia de la Alerta de Violencia de Género contra las mujeres, se presentarán por escrito los argumentos que sustenten dicha determinación.
 El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
-Artículo adicionado DOF 29-04-2022 ARTÍCULO 24 Sexies.- En los casos donde la Secretaría de las Mujeres identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 24 Sexies.- En los casos donde la Secretaría de las Mujeres identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
 En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de las Mujeres realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
-Artículo adicionado DOF 29-04-2022. Reformado DOF 15-01-2026 ARTÍCULO 24 Septies.- La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
+Artículo adicionado DOF 29-04-2022. Reformado DOF 15-01-2026
+ARTÍCULO 24 Septies.- La Declaratoria de Alerta de Violencia de Género contra las mujeres, deberá incluir lo siguiente:
 
 I. El motivo de la misma;
 
@@ -400,9 +453,12 @@ III. Las acciones y medidas preventivas, correctivas, de seguridad, de procuraci
 IV. La solicitud a las autoridades responsables, de la asignación o reorientación de recursos presupuestales, humanos y materiales necesarios para hacer frente a la misma, y
 
 V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
-Artículo adicionado DOF 29-04-2022 ARTÍCULO 25.- Corresponderá al gobierno federal, a través de la Secretaría de las Mujeres, declarar la Alerta de Violencia de Género contra las mujeres.
-Párrafo reformado DOF 15-01-2026 La persona titular de la Secretaría de las Mujeres notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
-Párrafo reformado DOF 15-01-2026 Una vez notificada la Alerta, las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 25.- Corresponderá al gobierno federal, a través de la Secretaría de las Mujeres, declarar la Alerta de Violencia de Género contra las mujeres.
+Párrafo reformado DOF 15-01-2026
+La persona titular de la Secretaría de las Mujeres notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
+Párrafo reformado DOF 15-01-2026
+Una vez notificada la Alerta, las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
 El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
 
 I. Estar alineado a la política integral y programas locales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
@@ -418,9 +474,13 @@ V. Los recursos presupuestales destinados para dichas actividades;
 VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, o
 
 VII. La estrategia de difusión en la entidad federativa de los resultados alcanzados.
-Artículo reformado DOF 29-04-2022 ARTÍCULO 25 Bis.- La Secretaría de las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
-Párrafo reformado DOF 15-01-2026 Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de las violencias identificadas en la Declaratoria de la Alerta de Violencia de Género contra las mujeres, de acuerdo a lo establecido en el Reglamento de la presente ley.
-Párrafo reformado DOF 16-12-2024 Artículo adicionado DOF 29-04-2022 ARTÍCULO 26.- Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la Ley General de Víctimas y considerar como reparación:
+Artículo reformado DOF 29-04-2022
+ARTÍCULO 25 Bis.- La Secretaría de las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
+Párrafo reformado DOF 15-01-2026
+Para el levantamiento de medidas, atendiendo a la naturaleza de las mismas, se tendrá que acreditar fehacientemente su cumplimento, a través de la incorporación en las políticas públicas o legislación, y/o de la disminución sostenida de las violencias identificadas en la Declaratoria de la Alerta de Violencia de Género contra las mujeres, de acuerdo a lo establecido en el Reglamento de la presente ley.
+Párrafo reformado DOF 16-12-2024
+Artículo adicionado DOF 29-04-2022
+ARTÍCULO 26.- Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en los Tratados Internacionales en materia de derechos humanos en los que el Estado mexicano sea parte, y en la Ley General de Víctimas y considerar como reparación:
 Párrafo reformado DOF 29-04-2022
 
 I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar todas las violaciones a derechos humanos vinculadas a la violencia feminicida, sancionar a las personas responsables y reparar el daño;
@@ -437,26 +497,35 @@ a) La aceptación del Estado de su responsabilidad ante el daño causado y su co
 b) La investigación de las personas servidoras públicas cuyas acciones u omisiones conllevaron a la violación de los derechos humanos de las víctimas y la impunidad, para sancionarlos conforme a la normatividad correspondiente;
 Inciso reformado DOF 29-04-2022
 
-c) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres. Asimismo, las relativas a garantizar los derechos de los familiares a ser informados de manera oportuna de las acciones que las autoridades realicen tendientes a sancionar a los presuntos responsables, y Inciso reformado DOF 29-04-2022
+c) El diseño e instrumentación de políticas públicas enfocadas a la prevención, persecución, y seguimiento de la comisión de delitos cometidos contra las mujeres. Asimismo, las relativas a garantizar los derechos de los familiares a ser informados de manera oportuna de las acciones que las autoridades realicen tendientes a sancionar a los presuntos responsables, y
+Inciso reformado DOF 29-04-2022
 
 d) La verificación de los hechos y la publicidad de la verdad.
 Toda medida reparatoria deberá tener un enfoque transformador del contexto y cultura discriminatoria, siempre con el objetivo de erradicarla.
 Párrafo adicionado DOF 29-04-2022
 
 ## CAPÍTULO VI — DE LAS MEDIDAS U ÓRDENES DE PROTECCIÓN
-Denominación del Capítulo reformada DOF 16-12-2024 ARTÍCULO 27.- Las medidas u órdenes de protección, son actos de urgente aplicación, en función del interés superior de la víctima; son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
-Párrafo reformado DOF 18-03-2021, 16-12-2024 Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
-Párrafo adicionado DOF 16-12-2024 En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Poder Judicial de la Federación, el Instituto Nacional Electoral, los Organismos Públicos Locales Electorales y los órganos jurisdiccionales electorales locales podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
-Párrafo adicionado DOF 13-04-2020 ARTÍCULO 28.- Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
 
-I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas y/o dictadas de forma directa por cualquier autoridad policial, y Fracción reformada DOF 16-12-2024
+Denominación del Capítulo reformada DOF 16-12-2024
+ARTÍCULO 27.- Las medidas u órdenes de protección, son actos de urgente aplicación, en función del interés superior de la víctima; son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Párrafo reformado DOF 18-03-2021, 16-12-2024
+Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
+Párrafo adicionado DOF 16-12-2024
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Poder Judicial de la Federación, el Instituto Nacional Electoral, los Organismos Públicos Locales Electorales y los órganos jurisdiccionales electorales locales podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+Párrafo adicionado DOF 13-04-2020
+ARTÍCULO 28.- Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+
+I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas y/o dictadas de forma directa por cualquier autoridad policial, y
+Fracción reformada DOF 16-12-2024
 
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
 Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
-Artículo reformado DOF 15-01-2013, 18-03-2021 ARTÍCULO 29.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubieren sido detenida en flagrancia.
+Artículo reformado DOF 15-01-2013, 18-03-2021
+ARTÍCULO 29.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubieren sido detenida en flagrancia.
 Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
-Artículo reformado DOF 15-01-2013, 18-03-2021 ARTÍCULO 30.- Las medidas u órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+Artículo reformado DOF 15-01-2013, 18-03-2021
+ARTÍCULO 30.- Las medidas u órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
 Párrafo reformado DOF 16-12-2024
 
 I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
@@ -472,11 +541,14 @@ V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo pa
 VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
 
 VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
-Artículo reformado DOF 18-03-2021 ARTÍCULO 31.- Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar de inmediato toda la información disponible sobre el procedimiento relacionado con la propia orden.
-Párrafo reformado DOF 15-01-2026 La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+Artículo reformado DOF 18-03-2021
+ARTÍCULO 31.- Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar de inmediato toda la información disponible sobre el procedimiento relacionado con la propia orden.
+Párrafo reformado DOF 15-01-2026
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
 La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
 Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
-Artículo reformado DOF 11-01-2021, 18-03-2021 ARTÍCULO 32.- Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+Artículo reformado DOF 11-01-2021, 18-03-2021
+ARTÍCULO 32.- Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
 
 I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
 
@@ -489,7 +561,8 @@ IV. Las necesidades que se deriven de su situación particular analizando su ide
 V. La persistencia del riesgo aún después de su salida de un refugio temporal, y
 
 VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
-Artículo reformado DOF 18-03-2021 ARTÍCULO 33.- Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+Artículo reformado DOF 18-03-2021
+ARTÍCULO 33.- Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
 
 I. Los principios establecidos en esta ley;
 
@@ -501,11 +574,16 @@ IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por r
 
 V. Las necesidades expresadas por la mujer o niña solicitante.
 Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
-Artículo reformado DOF 18-03-2021 ARTÍCULO 34.- Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
-Artículo reformado DOF 18-03-2021 ARTÍCULO 34 Bis.- Las medidas u órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
-Párrafo reformado DOF 16-12-2024 Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
-Párrafo reformado DOF 16-12-2024 Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Ter.- Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+Artículo reformado DOF 18-03-2021
+ARTÍCULO 34.- Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizará las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
+Artículo reformado DOF 18-03-2021
+ARTÍCULO 34 Bis.- Las medidas u órdenes de protección podrán solicitarse en cualquier entidad federativa distinta a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+Párrafo reformado DOF 16-12-2024
+Para efectos del párrafo anterior, las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
+Párrafo reformado DOF 16-12-2024
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Ter.- Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
 Párrafo reformado DOF 16-12-2024
 
 I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
@@ -560,13 +638,17 @@ Fracción reformada DOF 15-01-2026
 XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 Fracción reformada DOF 08-05-2023
 
-XX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y Fracción adicionada DOF 08-05-2023
+XX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
+Fracción adicionada DOF 08-05-2023
 
-XXI. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6, fracción VI de la presente ley, y Fracción adicionada DOF 17-01-2024
+XXI. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6, fracción VI de la presente ley, y
+Fracción adicionada DOF 17-01-2024
 
 XXII. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
-Fracción reformada y recorrida DOF 08-05-2023. Recorrida DOF 17-01-2024 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Quáter.- Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+Fracción reformada y recorrida DOF 08-05-2023. Recorrida DOF 17-01-2024
+Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Quáter.- Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
 
 I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
 
@@ -594,40 +676,62 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 Fracción reformada DOF 08-05-2023
 
-XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y Fracción adicionada DOF 08-05-2023
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
+Fracción adicionada DOF 08-05-2023
 
 XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
 Fracción adicionada DOF 17-01-2024
 
-XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y Fracción adicionada DOF 17-01-2024
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+Fracción adicionada DOF 17-01-2024
 
 XVI. Las demás que se requieran para brindar una protección integral a la víctima.
-Fracción recorrida DOF 08-05-2023. Reformada y recorrida DOF 17-01-2024 Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Quinquies.- Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
+Fracción recorrida DOF 08-05-2023. Reformada y recorrida DOF 17-01-2024
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Quinquies.- Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
 En los casos donde presuntamente exista conexidad con delitos de competencia federal, las órdenes de protección deberán ser otorgadas por la Fiscalía General de la República y en caso de que lo amerite por una jueza o juez federal.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Sexies.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Septies.- Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Sexies.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Septies.- Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
 Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Octies.- En los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o de cualquier otra que tenga registrada.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Nonies.- Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Octies.- En los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o de cualquier otra que tenga registrada.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Nonies.- Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
 Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Decies.- Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Decies.- Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
 Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Undecies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Duodecies.- La información contenida en el Registro Nacional deberá ser integrada y compartida con la Secretaría de las Mujeres, para su incorporación en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
-Artículo adicionado DOF 18-03-2021. Reformado DOF 15-01-2026 ARTÍCULO 34 Terdecies.- La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y sus homólogas en las entidades federativas, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
-Artículo adicionado DOF 18-03-2021 ARTÍCULO 34 Quaterdecies.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Undecies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Duodecies.- La información contenida en el Registro Nacional deberá ser integrada y compartida con la Secretaría de las Mujeres, para su incorporación en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
+Artículo adicionado DOF 18-03-2021. Reformado DOF 15-01-2026
+ARTÍCULO 34 Terdecies.- La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y sus homólogas en las entidades federativas, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+Artículo adicionado DOF 18-03-2021
+ARTÍCULO 34 Quaterdecies.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 Artículo adicionado DOF 18-03-2021
 
 ## CAPÍTULO VII — DEL REGISTRO NACIONAL DE MEDIDAS U ÓRDENES DE PROTECCIÓN DE LAS
-MUJERES, ADOLESCENTES, NIÑAS Y NIÑOS Capítulo adicionado DOF 16-12-2024 ARTÍCULO 34 A.- El Registro Nacional es un mecanismo institucional de coordinación y colaboración entre los tres órdenes de gobierno de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de seguridad, procuración y administración de justicia. Tiene por objeto garantizar la trazabilidad, estado y efectividad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales; en éste se organiza y concentra la información sobre las medidas u órdenes de protección ordenadas por las autoridades competentes de los tres órdenes de gobierno.
+
+MUJERES, ADOLESCENTES, NIÑAS Y NIÑOS
+Capítulo adicionado DOF 16-12-2024
+ARTÍCULO 34 A.- El Registro Nacional es un mecanismo institucional de coordinación y colaboración entre los tres órdenes de gobierno de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de seguridad, procuración y administración de justicia. Tiene por objeto garantizar la trazabilidad, estado y efectividad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales; en éste se organiza y concentra la información sobre las medidas u órdenes de protección ordenadas por las autoridades competentes de los tres órdenes de gobierno.
 El Registro Nacional se conforma con los datos e información que se genera e integra a partir de las medidas u órdenes de protección, ordenadas, implementadas o ejecutadas por las autoridades competentes de forma originaria o en colaboración, previstas en el Código Nacional de Procedimientos Penales y la presente Ley General que aportan las autoridades administrativas y jurisdiccionales competentes de los tres órdenes de gobierno.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 B.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana administrar y coordinar la operación del Registro Nacional. Es obligación de las autoridades de las entidades federativas y de la Federación integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 C.- Corresponde a la Secretaría de las Mujeres crear indicadores, dar seguimiento y evaluar el Registro Nacional.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 D.- La integración y funcionamiento del Registro Nacional deberá garantizar el acceso a las autoridades competentes que ordenen, soliciten, verifiquen o den seguimiento al cumplimiento de las medidas u órdenes de protección determinadas.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 E.- La base de datos del Registro Nacional, formará parte del Sistema Nacional de Información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 F.- Las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales tendrán acceso a la plataforma del Registro Nacional, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
-Artículo adicionado DOF 16-12-2024 ARTÍCULO 34 G.- El Registro Nacional contendrá al menos, los siguientes rubros:
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 B.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana administrar y coordinar la operación del Registro Nacional. Es obligación de las autoridades de las entidades federativas y de la Federación integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes.
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 C.- Corresponde a la Secretaría de las Mujeres crear indicadores, dar seguimiento y evaluar el Registro Nacional.
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 D.- La integración y funcionamiento del Registro Nacional deberá garantizar el acceso a las autoridades competentes que ordenen, soliciten, verifiquen o den seguimiento al cumplimiento de las medidas u órdenes de protección determinadas.
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 E.- La base de datos del Registro Nacional, formará parte del Sistema Nacional de Información a que se refiere la Ley General del Sistema Nacional de Seguridad Pública.
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 F.- Las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales tendrán acceso a la plataforma del Registro Nacional, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
+Artículo adicionado DOF 16-12-2024
+ARTÍCULO 34 G.- El Registro Nacional contendrá al menos, los siguientes rubros:
 
 I. Datos de la autoridad que ordena las medidas u órdenes de protección y de la autoridad o autoridades destinatarias;
 
@@ -646,13 +750,18 @@ VII. Nivel de riesgo, y
 VIII. Plazo o término para que la autoridad o autoridades requeridas cumplimenten y den contestación a la autoridad emisora, el cual no podrá exceder de 48 horas.
 La información contenida en el Registro Nacional permitirá entre otras acciones, la verificación de antecedentes de violencia a víctimas por el mismo agresor.
 La información y datos contenidos en el Registro Nacional se clasifica como reservada para todos los efectos legales, su posesión, uso y transmisión tendrá como único objetivo, el plasmado en la presente ley y las autoridades deberán dar cumplimiento a las responsabilidades establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-Artículo adicionado DOF 16-12-2024 TITULO III
+Artículo adicionado DOF 16-12-2024
+TITULO III
 
 ## CAPÍTULO I — DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS
-VIOLENCIAS CONTRA LAS MUJERES Denominación del Capítulo reformada DOF 15-01-2026 ARTÍCULO 35.- La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+VIOLENCIAS CONTRA LAS MUJERES
+Denominación del Capítulo reformada DOF 15-01-2026
+ARTÍCULO 35.- La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 El Sistema Nacional, ante la situación de emergencia identificada a partir de las declaratorias de Alerta de Violencia de Género contra las mujeres, constituirá una Comisión Especial con el objetivo de verificar y promover que existan en las entidades federativas los elementos institucionales, normativos y estructurales de prevención, atención, sanción y erradicación con el fin de prever la posible contingencia generada por la violencia feminicida o el agravio comparado.
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará la etnia, el idioma, edad, condición social, de salud, de discapacidad, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
-Artículo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022 ARTÍCULO 36.- El Sistema Nacional se conformará por las personas titulares de:
+Artículo reformado DOF 20-01-2009, 11-01-2021, 29-04-2022
+ARTÍCULO 36.- El Sistema Nacional se conformará por las personas titulares de:
 
 I. El Ejecutivo Federal, quien lo presidirá;
 
@@ -690,11 +799,15 @@ XVII. El Instituto Nacional Electoral.
 En caso de ausencia de la persona titular del Ejecutivo Federal, la persona titular de la Secretaría de las Mujeres presidirá la sesión y designará a la persona servidora pública de nivel jerárquico inferior que fungirá como Secretaria Ejecutiva del Sistema Nacional.
 En caso de ausencia de la persona titular del Gobierno de la entidad federativa que corresponda, ésta será suplida por la persona titular del Mecanismo para el Adelanto de las Mujeres respectiva.
 Las demás personas titulares integrantes del Sistema Nacional deberán ser suplidas en sus ausencias por la persona servidora pública que para tal efecto designen, la cual deberá tener un nivel jerárquico inmediato inferior a éstas.
-Artículo reformado DOF 18-05-2012, 04-06-2015, 17-12-2015, 22-06-2017, 13-04-2020, 20-05-2021, 15-01-2026 ARTÍCULO 37.- La Secretaría Ejecutiva del Sistema Nacional, elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+Artículo reformado DOF 18-05-2012, 04-06-2015, 17-12-2015, 22-06-2017, 13-04-2020, 20-05-2021, 15-01-2026
+ARTÍCULO 37.- La Secretaría Ejecutiva del Sistema Nacional, elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 Artículo reformado DOF 15-01-2026
 
 ## CAPÍTULO II — DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR
-LAS VIOLENCIAS CONTRA LAS MUJERES Denominación del Capítulo reformada DOF 15-01-2026 ARTÍCULO 38.- El Programa contendrá las acciones con perspectiva de género para:
+
+LAS VIOLENCIAS CONTRA LAS MUJERES
+Denominación del Capítulo reformada DOF 15-01-2026
+ARTÍCULO 38.- El Programa contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
@@ -734,15 +847,22 @@ Fracción reformada DOF 08-05-2023
 XIV. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
 Fracción adicionada DOF 08-05-2023
 
-XV. Promover el desarrollo, implementación y evaluación de los proyectos de las entidades federativas para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y Fracción adicionada DOF 08-05-2023
+XV. Promover el desarrollo, implementación y evaluación de los proyectos de las entidades federativas para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y
+Fracción adicionada DOF 08-05-2023
 
 XVI. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres en las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
-Fracción adicionada DOF 08-05-2023 ARTÍCULO 39.- El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
+Fracción adicionada DOF 08-05-2023
+ARTÍCULO 39.- El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
 ## CAPÍTULO III — DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN,
-SANCIÓN Y ERRADICACIÓN DE LAS VIOLENCIAS CONTRA LAS MUJERES Denominación del Capítulo reformada DOF 15-01-2026 ARTÍCULO 40. La Federación, las entidades federativas, la Ciudad de México y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+
+SANCIÓN Y ERRADICACIÓN DE LAS VIOLENCIAS CONTRA LAS MUJERES
+Denominación del Capítulo reformada DOF 15-01-2026
+ARTÍCULO 40. La Federación, las entidades federativas, la Ciudad de México y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 De conformidad con lo dispuesto en el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, las autoridades federales podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos de fuero común relacionados con las violencias de género contra las mujeres, en los términos que establezcan las leyes aplicables en la materia.
-Párrafo adicionado DOF 15-01-2026 Artículo reformado DOF 20-01-2009, 11-01-2021 Sección Primera. De la Federación ARTÍCULO 41. Son facultades y obligaciones de la Federación:
+Párrafo adicionado DOF 15-01-2026
+Artículo reformado DOF 20-01-2009, 11-01-2021
+Sección Primera. De la Federación ARTÍCULO 41. Son facultades y obligaciones de la Federación:
 
 I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencias;
 Fracción reformada DOF 15-01-2026
@@ -788,10 +908,14 @@ XVIII. Vigilar que los medios de comunicación no promuevan imágenes estereotip
 XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente ley;
 Fracción reformada DOF 08-05-2023
 
-XX. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, y Fracción adicionada DOF 08-05-2023
+XX. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, y
+Fracción adicionada DOF 08-05-2023
 
 XXI. Las demás que le confieran esta ley u otros ordenamientos aplicables.
-Fracción recorrida DOF 08-05-2023 Sección Segunda. De la Secretaría de las Mujeres Denominación de la Sección reformada DOF 15-01-2026 ARTÍCULO 42.- Corresponde a la Secretaría de las Mujeres:
+Fracción recorrida DOF 08-05-2023
+Sección Segunda. De la Secretaría de las Mujeres
+Denominación de la Sección reformada DOF 15-01-2026
+ARTÍCULO 42.- Corresponde a la Secretaría de las Mujeres:
 
 I. Fungir como Secretaria Ejecutiva del Sistema Nacional;
 
@@ -879,8 +1003,12 @@ XLII. Las demás previstas para el cumplimiento de la Ley.
 Artículo reformado DOF 20-01-2009, 28-01-2011, 11-01-2021, 29-04-2022, 08-05-2023, 15-01-2026
 
 ## Sección Segunda — Bis. De la Comisión Nacional Para Prevenir y Erradicar la Violencia
-Contra las Mujeres Derogada Sección adicionada DOF 29-04-2022. Derogada DOF 15-01-2026 ARTÍCULO 42 Bis.- Derogado.
-Artículo adicionado DOF 29-04-2022. Derogado DOF 15-01-2026 Sección Tercera. De la Secretaría de Desarrollo Social ARTÍCULO 43.- Corresponde a la Secretaría de Desarrollo Social:
+
+Contra las Mujeres Derogada
+Sección adicionada DOF 29-04-2022. Derogada DOF 15-01-2026
+ARTÍCULO 42 Bis.- Derogado.
+Artículo adicionado DOF 29-04-2022. Derogado DOF 15-01-2026
+Sección Tercera. De la Secretaría de Desarrollo Social ARTÍCULO 43.- Corresponde a la Secretaría de Desarrollo Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -899,7 +1027,9 @@ VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
-Sección Cuarta. De la Secretaría de Seguridad y Protección Ciudadana Denominación de la Sección reformada DOF 08-05-2023 ARTÍCULO 44.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
+Sección Cuarta. De la Secretaría de Seguridad y Protección Ciudadana
+Denominación de la Sección reformada DOF 08-05-2023
+ARTÍCULO 44.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
 Párrafo reformado DOF 08-05-2023
 
 I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres, desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
@@ -957,10 +1087,12 @@ Fracción adicionada DOF 16-12-2024
 XX. Solicitar información a las autoridades administrativas y jurisdiccionales competentes sobre la atención, seguimiento y ejecución de las medidas u órdenes de protección que forman parte del Registro Nacional;
 Fracción adicionada DOF 16-12-2024
 
-XXI. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional, y Fracción adicionada DOF 16-12-2024
+XXI. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional, y
+Fracción adicionada DOF 16-12-2024
 
 XXII. Las demás previstas para el cumplimiento de la presente ley.
-Fracción recorrida DOF 14-06-2012, 08-05-2023, 16-12-2024 Sección Quinta. De la Secretaría de Educación Pública ARTÍCULO 45.- Corresponde a la Secretaría de Educación Pública:
+Fracción recorrida DOF 14-06-2012, 08-05-2023, 16-12-2024
+Sección Quinta. De la Secretaría de Educación Pública ARTÍCULO 45.- Corresponde a la Secretaría de Educación Pública:
 
 I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
@@ -1038,7 +1170,9 @@ e) Los recursos erogados en la atención de las víctimas.
 XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 XIV. Las demás previstas para el cumplimiento de la presente ley.
-Sección Séptima. De la Secretaría del Trabajo y Previsión Social Sección adicionada DOF 04-06-2015 ARTÍCULO 46 Bis. Corresponde a la Secretaría del Trabajo y Previsión Social:
+Sección Séptima. De la Secretaría del Trabajo y Previsión Social
+Sección adicionada DOF 04-06-2015
+ARTÍCULO 46 Bis. Corresponde a la Secretaría del Trabajo y Previsión Social:
 
 I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 
@@ -1058,7 +1192,10 @@ VII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
-Artículo adicionado DOF 18-05-2012 Sección Octava. De la Secretaría de Desarrollo Agrario, Territorial y Urbano Sección adicionada DOF 04-06-2015 ARTÍCULO 46 Ter. Corresponde a la Secretaría de Desarrollo Agrario, Territorial y Urbano:
+Artículo adicionado DOF 18-05-2012
+Sección Octava. De la Secretaría de Desarrollo Agrario, Territorial y Urbano
+Sección adicionada DOF 04-06-2015
+ARTÍCULO 46 Ter. Corresponde a la Secretaría de Desarrollo Agrario, Territorial y Urbano:
 
 I. Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia agraria;
 
@@ -1075,7 +1212,10 @@ VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las q
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
 
 VIII. Las demás previstas para el cumplimiento de la presente ley.
-Artículo adicionado DOF 04-06-2015 Sección Novena. De la Fiscalía General de la República Sección recorrida (antes Sección Séptima) DOF 04-06-2015. Denominación reformada DOF 20-05-2021 ARTÍCULO 47.- Corresponde a la Fiscalía General de la República:
+Artículo adicionado DOF 04-06-2015
+Sección Novena. De la Fiscalía General de la República
+Sección recorrida (antes Sección Séptima) DOF 04-06-2015. Denominación reformada DOF 20-05-2021
+ARTÍCULO 47.- Corresponde a la Fiscalía General de la República:
 Párrafo reformado DOF 20-05-2021
 
 I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
@@ -1112,10 +1252,15 @@ X. Elaborar y aplicar protocolos especializados con perspectiva de género en la
 XI. Crear una base nacional de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel nacional; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
 La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
 
-XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
+Fracción adicionada DOF 16-12-2024
 
 XIII. Las demás previstas para el cumplimiento de la presente ley.
-Fracción recorrida DOF 16-12-2024 Artículo reformado DOF 14-06-2012. Publicado íntegro DOF 04-06-2015 Sección Décima. De la Secretaría de Gobernación Sección recorrida (antes Sección Octava) DOF 04-06-2015. Denominación reformada DOF 15-01-2026 ARTÍCULO 48.- Corresponde a la Secretaría de Gobernación:
+Fracción recorrida DOF 16-12-2024
+Artículo reformado DOF 14-06-2012. Publicado íntegro DOF 04-06-2015
+Sección Décima. De la Secretaría de Gobernación
+Sección recorrida (antes Sección Octava) DOF 04-06-2015. Denominación reformada DOF 15-01-2026
+ARTÍCULO 48.- Corresponde a la Secretaría de Gobernación:
 
 I. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Nacional y del Programa;
 
@@ -1139,7 +1284,10 @@ X. Las demás previstas para el cumplimiento de la presente ley, en el ámbito d
 Artículo reformado DOF 20-01-2009. Publicado íntegro DOF 04-06-2015. Reformado DOF 11-01-2021, 16-12-2024, 15-01-2026
 
 ## Sección Décima — Bis. Del Instituto Nacional Electoral y los Organismos Públicos Locales
-Electorales Sección adicionada DOF 13-04-2020 ARTÍCULO 48 Bis.- Corresponde al Instituto Nacional Electoral y a los Organismos Públicos Locales Electorales, en el ámbito de sus competencias:
+
+Electorales
+Sección adicionada DOF 13-04-2020
+ARTÍCULO 48 Bis.- Corresponde al Instituto Nacional Electoral y a los Organismos Públicos Locales Electorales, en el ámbito de sus competencias:
 
 I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
 
@@ -1149,11 +1297,14 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 Artículo adicionado DOF 13-04-2020
 
 ## Sección Décima — Primera. De las Entidades Federativas
-Sección recorrida (antes Sección Novena) DOF 04-06-2015 ARTÍCULO 49.- Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta ley y los ordenamientos aplicables en la materia:
+
+Sección recorrida (antes Sección Novena) DOF 04-06-2015
+ARTÍCULO 49.- Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta ley y los ordenamientos aplicables en la materia:
 Párrafo reformado DOF 11-01-2021, 08-05-2023
 
 I. Instrumentar y articular sus políticas públicas y acciones en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-Fracción reformada DOF 29-04-2022 I Bis. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
+Fracción reformada DOF 29-04-2022
+I Bis. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
 Fracción adicionada DOF 26-01-2024
 
 II. Ejercer sus facultades reglamentarias para la aplicación de la presente ley;
@@ -1216,14 +1367,19 @@ Fracción reformada DOF 29-04-2022, 08-05-2023
 XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de las Mujeres;
 Fracción adicionada DOF 29-04-2022. Reformada DOF 08-05-2023, 16-12-2024, 15-01-2026
 
-XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
+Fracción adicionada DOF 16-12-2024
 
 XXVII. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
-Fracción recorrida DOF 29-04-2022. Publicada íntegra sin cambios DOF 08-05-2023. Recorrida DOF 16-12-2024 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
+Fracción recorrida DOF 29-04-2022. Publicada íntegra sin cambios DOF 08-05-2023. Recorrida DOF 16-12-2024
+Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 Artículo reformado DOF 20-01-2009, 28-01-2011, 14-06-2012. Reformado y publicado íntegro DOF 04-06-2015
 
 ## Sección Décima — Segunda. De los Municipios y Demarcaciones Territoriales de la Ciudad
-de México Sección recorrida (antes Sección Décima) DOF 04-06-2015. Denominación reformada DOF 29-04-2022 ARTÍCULO 50.- Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
+
+de México
+Sección recorrida (antes Sección Décima) DOF 04-06-2015. Denominación reformada DOF 29-04-2022
+ARTÍCULO 50.- Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de México, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
 Párrafo reformado DOF 29-04-2022
 
 I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
@@ -1253,12 +1409,15 @@ Fracción reformada DOF 29-04-2022
 XI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
 Fracción adicionada DOF 29-04-2022. Reformada DOF 16-12-2024
 
-XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
+XII. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y
+Fracción adicionada DOF 16-12-2024
 
 XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
-Fracción recorrida DOF 29-04-2022, 16-12-2024 Artículo publicado íntegro DOF 04-06-2015
+Fracción recorrida DOF 29-04-2022, 16-12-2024
+Artículo publicado íntegro DOF 04-06-2015
 
 ## CAPÍTULO IV — DE LA ATENCIÓN A LAS VÍCTIMAS
+
 ARTÍCULO 51.- Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
 
 I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
@@ -1288,15 +1447,21 @@ VI. Contar con un refugio, mientras lo necesite;
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 Fracción reformada DOF 28-01-2011
 
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos, y Fracción reformada DOF 28-01-2011
+VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos, y
+Fracción reformada DOF 28-01-2011
 
 IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
-Fracción adicionada DOF 28-01-2011 Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
-Párrafo adicionado DOF 28-01-2011. Reformado DOF 08-05-2023 Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
-Párrafo adicionado DOF 08-05-2023 Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
-Párrafo adicionado DOF 08-05-2023 ARTÍCULO 53.- El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+Fracción adicionada DOF 28-01-2011
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
+Párrafo adicionado DOF 28-01-2011. Reformado DOF 08-05-2023
+Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
+Párrafo adicionado DOF 08-05-2023
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
+Párrafo adicionado DOF 08-05-2023
+ARTÍCULO 53.- El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
 ## CAPÍTULO V — DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
+
 ARTÍCULO 54.- Corresponde a los refugios, desde la perspectiva de género, interseccionalidad y enfoque diferenciado:
 Párrafo reformado DOF 08-05-2023
 
@@ -1311,11 +1476,13 @@ Fracción reformada DOF 08-05-2023
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional, y Fracción reformada DOF 08-05-2023
+VI. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional, y
+Fracción reformada DOF 08-05-2023
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
-Párrafo adicionado DOF 08-05-2023 ARTÍCULO 55.- Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
+Párrafo adicionado DOF 08-05-2023
+ARTÍCULO 55.- Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 ARTÍCULO 56.- Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
 
 I. Hospedaje;
@@ -1340,7 +1507,9 @@ ARTÍCULO 58.- Para efectos del artículo anterior, el personal médico, psicol�
 ARTÍCULO 59.- En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ## CAPÍTULO VI — DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
-Capítulo adicionado DOF 08-05-2023 ARTÍCULO 59 Bis.- Corresponde a los Centros de Justicia para las Mujeres, con base en los principios establecidos en la presente ley:
+
+Capítulo adicionado DOF 08-05-2023
+ARTÍCULO 59 Bis.- Corresponde a los Centros de Justicia para las Mujeres, con base en los principios establecidos en la presente ley:
 
 I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
 
@@ -1370,7 +1539,8 @@ XII. Gestionar ante autoridades públicas e instituciones privadas los apoyos ne
 XIII. Realizar visitas domiciliarias en hogares, instituciones públicas o privadas, donde se encuentren mujeres con discapacidad que probablemente estén siendo víctimas de violencia, así como gestionar los apoyos y medidas de protección necesarias para salvaguardar su integridad personal. Se podrán realizar estas visitas cuando exista información suficiente sobre la ocurrencia de los hechos, incluso mediante denuncia anónima. Las mujeres con discapacidad pueden rehusarse a la entrevista durante estas visitas cuando estén en condiciones de manifestarlo, y
 
 XIV. Las demás que le confieran los ordenamientos legales aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades en el ámbito de sus competencias.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Ter.- Los Centros de Justicia para las Mujeres deberán proporcionar, de manera gratuita, como mínimo los siguientes servicios:
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Ter.- Los Centros de Justicia para las Mujeres deberán proporcionar, de manera gratuita, como mínimo los siguientes servicios:
 
 I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
 
@@ -1399,8 +1569,10 @@ XII. Programas de incorporación de las mujeres víctimas de violencia al mercad
 XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
 Los Centros de Justicia para las Mujeres facilitarán el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
 Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Quáter.- Los servicios que brinden los Centros de Justicia para las Mujeres deberán ejecutarse bajo los principios previstos en el artículo 4 de esta ley.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Quinquies.- La atención brindada por los Centros de Justicia para las Mujeres se realizará a través de la participación coordinada de las secretarías y dependencias públicas estatales cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Quáter.- Los servicios que brinden los Centros de Justicia para las Mujeres deberán ejecutarse bajo los principios previstos en el artículo 4 de esta ley.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Quinquies.- La atención brindada por los Centros de Justicia para las Mujeres se realizará a través de la participación coordinada de las secretarías y dependencias públicas estatales cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
 Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, como mínimo, son las siguientes o sus equivalentes en las entidades federativas:
 
 I. Secretaría de Gobierno;
@@ -1430,7 +1602,8 @@ XII. Instituto de Pueblos Indígenas, y
 XIII. Consejos o institutos para personas con discapacidad.
 Se celebrarán convenios de colaboración con Fiscalías, los Poderes Judiciales estatales, otros órganos autónomos estatales y organizaciones de la sociedad civil, a fin de brindar servicios interinstitucionales, especializados y de calidad, desde los enfoques de género, intercultural, diferencial e interseccional.
 Para el debido cumplimiento de este artículo las secretarías, dependencias y entidades gubernamentales de la entidad, comisionarán personal especializado a los Centros de Justicia para las Mujeres conforme a las normas específicas y a esta ley.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Sexies.- La persona que ocupe la Dirección del Centro, deberá reunir los siguientes requisitos:
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Sexies.- La persona que ocupe la Dirección del Centro, deberá reunir los siguientes requisitos:
 
 I. Tener pleno goce de sus derechos;
 
@@ -1445,7 +1618,8 @@ V. No estar condenada por delito relacionado con violencia contra las mujeres en
 VI. No estar inhabilitada para el ejercicio de un cargo público a nivel estatal o federal, y
 
 VII. Los demás que establezcan otras disposiciones legales aplicables.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Septies.- La persona titular de la Dirección General tendrá las siguientes atribuciones:
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Septies.- La persona titular de la Dirección General tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Centro de Justicia para las Mujeres;
 
@@ -1462,18 +1636,25 @@ VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia p
 VII. Rendir a la persona titular del Poder Ejecutivo estatal y al Congreso de la entidad federativa, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
 
 VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de las Mujeres.
-Fracción reformada DOF 15-01-2026 Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Octies.- Todo el personal adscrito y designado en un Centro de Justicia para las Mujeres deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
+Fracción reformada DOF 15-01-2026
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Octies.- Todo el personal adscrito y designado en un Centro de Justicia para las Mujeres deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
 El personal adscrito y designado a cada Centro de Justicia para las Mujeres mantendrá su vínculo jerárquico y laboral con cada una de las dependencias de donde procedan, deberán ajustar su desempeño a los reglamentos, lineamientos y demás reglas de operación que se emitan para sus funciones dentro del Centro de Justicia para las Mujeres. El personal adscrito y designado a cada Centro de Justicia para las Mujeres regirá su relación laboral conforme a las disposiciones legales aplicables, según sea el caso.
 El personal adscrito y designado a cada Centro de Justicia para las Mujeres deberá contar con el perfil requerido para el puesto y deberá ser evaluado y capacitado periódicamente.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Nonies.- Para el funcionamiento de los Centros de Justicia para las Mujeres, las Entidades Federativas contarán con los recursos derivados de los convenios que en su caso suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que asignen en sus Presupuestos de Egresos, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
-Artículo adicionado DOF 08-05-2023 ARTÍCULO 59 Decies.- Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Nonies.- Para el funcionamiento de los Centros de Justicia para las Mujeres, las Entidades Federativas contarán con los recursos derivados de los convenios que en su caso suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que asignen en sus Presupuestos de Egresos, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
+Artículo adicionado DOF 08-05-2023
+ARTÍCULO 59 Decies.- Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
 Artículo adicionado DOF 08-05-2023
 
 ## Título IV — De las Responsabilidades y Sanciones
+
 Título adicionado DOF 28-01-2011
 
 ## Capítulo Único — De las Responsabilidades y Sanciones
-Capítulo adicionado DOF 28-01-2011 ARTÍCULO 60. Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+
+Capítulo adicionado DOF 28-01-2011
+ARTÍCULO 60. Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
 Artículo adicionado DOF 28-01-2011
 
 ## TRANSITORIOS
@@ -1511,7 +1692,7 @@ Se reforman los artículos 1, primer párrafo, 2, 6, fracción I, 8, primer pár
 
 ## Transitorio
 
-**Único.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 2 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen.
 Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
@@ -1521,7 +1702,7 @@ Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 14 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen.
 Manlio Fabio Beltrones Rivera, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se adiciona una fracción VII al artículo 36, recorriéndose las demás en su orden y un artículo 46 Bis, todos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
@@ -1532,8 +1713,8 @@ Se adicionan una fracción VII al artículo 36, recorriéndose las demás en su 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El titular del Ejecutivo Federal, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las reformas que sean necesarias al reglamento de la ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El titular del Ejecutivo Federal, dentro de los 30 días siguientes a la entrada en vigor del presente Decreto, deberá llevar a cabo las reformas que sean necesarias al reglamento de la ley.
 México, D.F., a 28 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
@@ -1543,8 +1724,8 @@ Se reforman la fracción X del artículo 44, las fracciones I, VIII y IX del art
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman los artículos 28 y 29 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2013
@@ -1554,7 +1735,7 @@ Se reforman los artículos 28, párrafo segundo y 29, fracciones I y II de la Le
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 19 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Angel Cedillo Hernandez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
@@ -1564,8 +1745,8 @@ Se reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
 México, D.F., a 20 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2015
@@ -1585,19 +1766,19 @@ Se REFORMAN los artículos 36, párrafo primero y 45, fracción VII, y se ADICIO
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
-**TERCERO.** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
-**CUARTO.** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+**TERCERO.-** Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+**CUARTO.-** El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
-**QUINTO.** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
-**SEXTO.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
-**SÉPTIMO.** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+**QUINTO.-** La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+**SEXTO.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+**SÉPTIMO.-** Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
-**OCTAVO.** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-**NOVENO.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
-**DÉCIMO.** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**OCTAVO.-** Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+**NOVENO.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+**DÉCIMO.-** Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
@@ -1618,7 +1799,7 @@ Se adiciona una fracción XII, recorriéndose la subsecuente al artículo 36 de 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Lorena Cuéllar Cisneros, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el artículo 11 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
@@ -1650,8 +1831,8 @@ Se reforman los artículos 1, primer párrafo; 2, primer párrafo; 8, primer pá
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedarán derogadas todas las disposiciones normativas que contravengan a este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedarán derogadas todas las disposiciones normativas que contravengan a este Decreto.
 Ciudad de México, a 27 de noviembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1678,39 +1859,39 @@ Se reforma la fracción IV, del artículo 36, la fracción III, del artículo 38
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
 
@@ -1718,12 +1899,13 @@ DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acces
 Se adiciona un Capítulo IV Ter denominado "De la Violencia Digital y Mediática" al
 
 ## Título II — , compuesto por los artículos 20 Quáter, 20 Quinquies y 20 Sexies a la Ley General de Acceso de
+
 las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ……….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
 Ciudad de México, a 29 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Lilia Villafuerte Zavala, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de alerta de violencia de género contra las mujeres.
@@ -1734,10 +1916,10 @@ Se reforman los artículos 1, primer párrafo; 2, primer párrafo; 4, primer pá
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Quedará sin efecto cualquier disposición que se oponga al presente ordenamiento.
-**Tercero.** El Ejecutivo Federal, en un plazo que no exceda de sesenta días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la ley en aquellas partes que resulten necesarias para la implantación de este ordenamiento a través de un proceso participativo, tomando en cuenta la experiencia de quienes han participado en las alertas solicitadas.
-**Cuarto.** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedará sin efecto cualquier disposición que se oponga al presente ordenamiento.
+**Tercero.-** El Ejecutivo Federal, en un plazo que no exceda de sesenta días naturales después de publicado el presente Decreto, deberá reformar el Reglamento de la ley en aquellas partes que resulten necesarias para la implantación de este ordenamiento a través de un proceso participativo, tomando en cuenta la experiencia de quienes han participado en las alertas solicitadas.
+**Cuarto.-** Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
 Ciudad de México, a 8 de marzo de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 Karen Michel González Márquez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -1772,8 +1954,8 @@ Se reforma el artículo 18 y se adiciona un tercer párrafo al artículo 2, de l
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de Centros de Justicia para las Mujeres.
@@ -1781,7 +1963,7 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 ### Artículo Único
 Se reforma el artículo 7; artículo 8, párrafo único; artículo 34 Ter, fracciones XIX y XX; artículo 34 Quáter, fracción XII; artículo 38, fracciones IX, X, XII y XIII; artículo 41, fracciones V y XIX; artículo 42, fracción XIV, el título de la Sección Cuarta del Capítulo III del Título III; artículo 44, párrafo
-**único.** fracciones I, IV y XI; artículo 47, fracción IX; artículo 49, párrafo único, fracciones XXIII y XXIV; artículo 52, fracción III y el último párrafo vigente; artículo 54, párrafo único y fracciones IV y VI. Se adiciona una fracción XVII al artículo 5; párrafo segundo al artículo 8; fracción XX, al artículo 34 Ter, recorriéndose la subsecuente, fracción XIII al artículo 34 Quáter, recorriéndose la subsecuente; fracciones XIV, XV y XVI al artículo 38; fracción XX, al artículo 41, recorriéndose la subsecuente; fracciones XV, XVI, XVII, XVIII y XIX al artículo 42, recorriéndose la subsecuente; fracciones XII y XIII, al artículo 44 y se recorre la subsecuente; fracción XXV, al artículo 49, recorriéndose la subsecuente; dos últimos párrafos al artículo 52; un último párrafo al artículo 54; Capítulo VI, denominado De los Centros de Justicia para las Mujeres al Título III, con los artículos 59 Bis, 59 Ter, 59 Quáter, 59 Quinquies, 59 Sexies, 59 Septies, 59 Octies, 59 Nonies y 59 Decies. Se deroga la fracción III del artículo 44 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ……..
+**único.-** fracciones I, IV y XI; artículo 47, fracción IX; artículo 49, párrafo único, fracciones XXIII y XXIV; artículo 52, fracción III y el último párrafo vigente; artículo 54, párrafo único y fracciones IV y VI. Se adiciona una fracción XVII al artículo 5; párrafo segundo al artículo 8; fracción XX, al artículo 34 Ter, recorriéndose la subsecuente, fracción XIII al artículo 34 Quáter, recorriéndose la subsecuente; fracciones XIV, XV y XVI al artículo 38; fracción XX, al artículo 41, recorriéndose la subsecuente; fracciones XV, XVI, XVII, XVIII y XIX al artículo 42, recorriéndose la subsecuente; fracciones XII y XIII, al artículo 44 y se recorre la subsecuente; fracción XXV, al artículo 49, recorriéndose la subsecuente; dos últimos párrafos al artículo 52; un último párrafo al artículo 54; Capítulo VI, denominado De los Centros de Justicia para las Mujeres al Título III, con los artículos 59 Bis, 59 Ter, 59 Quáter, 59 Quinquies, 59 Sexies, 59 Septies, 59 Octies, 59 Nonies y 59 Decies. Se deroga la fracción III del artículo 44 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ……..
 
 ## Transitorios
 
@@ -1811,12 +1993,12 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 
 ### Artículo Primero
 Se reforman los artículos 8, párrafo primero y fracciones I, III y IV; 9, párrafo
-**primero.** y actuales fracciones II, III y IV; 34 Quáter, actual fracción XIV y se adicionan los artículos 6, fracción VI, recorriéndose en su orden la subsecuente; 9, fracciones II, recorriéndose en su orden las subsecuentes y VI; 18 Bis; 34 Ter, fracción XXI, recorriéndose en su orden la subsecuente; 34 Quáter, fracciones XIV y XV, recorriéndose la subsecuente en su orden, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ………
+**primero.-** y actuales fracciones II, III y IV; 34 Quáter, actual fracción XIV y se adicionan los artículos 6, fracción VI, recorriéndose en su orden la subsecuente; 9, fracciones II, recorriéndose en su orden las subsecuentes y VI; 18 Bis; 34 Ter, fracción XXI, recorriéndose en su orden la subsecuente; 34 Quáter, fracciones XIV y XV, recorriéndose la subsecuente en su orden, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
@@ -1827,8 +2009,8 @@ Se reforma la fracción V del artículo 6; y se adicionan una fracción XVIII al
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 06 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 24 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares.
@@ -1840,7 +2022,7 @@ Se reforman los artículos 1, primer párrafo; 2, tercer párrafo; 25 Bis, segun
 ## Transitorios
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+**Segundo.-** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
 **Tercero.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
@@ -1849,15 +2031,15 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Segundo
 Se reforman la denominación de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; los artículos 2, primer párrafo; 3; 5, fracciones I, II, III, IV, V, IX y XX; 6, en su párrafo; la denominación del Título II; 8, primer párrafo, fracciones I y V; 14, en su párrafo, fracciones I, III y IV; 20; 23, párrafo segundo, apartado D; 24 Bis, fracción III; 24 Quáter, primer párrafo e incisos a) y e) del segundo párrafo; 24 Sexies; 25, primer y segundo párrafos; 25 Bis, primer párrafo; 31, primer párrafo; 34 Ter, fracciones XIV y XVIII; 34 Duodecies; la denominación del Capítulo I del Título III; 36; 37; la denominación del Capítulo II del Título III; 38, fracciones II, III, VIII y X; la denominación del Capítulo III del Título III; 41, fracción I, II y X; la denominación de la Sección Segunda del Título III; 42; la denominación de la Sección Décima del Capítulo III del Título III; 48; 49, fracción XXV; 59 Bis, fracción X, y 59 Septies, fracción VIII; se adicionan la fracción XXI al artículo 5; la fracción V al artículo 14; un
-**segundo.** párrafo al artículo 40; y se derogan la Sección Segunda Bis del Capítulo III del Título III y el artículo 42 Bis, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ……..
+**segundo.-** párrafo al artículo 40; y se derogan la Sección Segunda Bis del Capítulo III del Título III y el artículo 42 Bis, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

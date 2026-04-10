@@ -21,23 +21,29 @@ I. Enajenen automóviles nuevos. Se entiende por automóvil nuevo el que se enaj
 Fracción reformada DOF 26-12-2005
 
 II. Importen en definitiva al país automóviles, siempre que se trate de personas distintas al fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos.
-Fracción reformada DOF 26-12-2005 Para los efectos de lo dispuesto en las fracciones anteriores, los automóviles importados por los que se cause el impuesto establecido en esta Ley, son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
+Fracción reformada DOF 26-12-2005
+Para los efectos de lo dispuesto en las fracciones anteriores, los automóviles importados por los que se cause el impuesto establecido en esta Ley, son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 Párrafo adicionado DOF 26-12-2005
 
 ### Artículo 2o
 .- El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador, distribuidores autorizados o comerciantes en el ramo de vehículos, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
-Párrafo reformado DOF 29-12-1997, 31-12-2003, 12-11-2021 No formará parte del precio a que se refiere este artículo, el impuesto al valor agregado que se cause por tal enajenación.
-Párrafo adicionado DOF 29-12-1997 En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el primer párrafo de este artículo, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-Párrafo reformado DOF 29-12-1997, 31-12-2003 El valor a que se refiere el párrafo anterior, se aplicará aun en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
+Párrafo reformado DOF 29-12-1997, 31-12-2003, 12-11-2021
+No formará parte del precio a que se refiere este artículo, el impuesto al valor agregado que se cause por tal enajenación.
+Párrafo adicionado DOF 29-12-1997
+En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el primer párrafo de este artículo, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+Párrafo reformado DOF 29-12-1997, 31-12-2003
+El valor a que se refiere el párrafo anterior, se aplicará aun en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
 En el caso de vehículos a que se refiere la fracción II del artículo 3o. de esta Ley, el impuesto se calculará aplicando la tasa señalada en esa fracción al precio de enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o importador.
 Reforma DOF 26-12-2005: Derogó del artículo el entonces penúltimo párrafo (antes reformado por DOF 31-12-2003) Reforma DOF 12-11-2021: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 29-12-1997)
 
 ### Artículo 3o
 .- Para los efectos del artículo 2o. de esta Ley, se estará a lo siguiente:
 I.- Tratándose de automóviles con capacidad hasta de quince pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
-Párrafo reformado DOF 29-12-1997 TARIFA Límite Inferior Límite Superior Cuota fija Por ciento para aplicarse sobre el excedente del Límite inferior $ $ $ % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93.
+Párrafo reformado DOF 29-12-1997
+TARIFA Límite Inferior Límite Superior Cuota fija Por ciento para aplicarse sobre el excedente del Límite inferior $ $ $ % 0.01 383,940.35 0.00 2.0 383,940.36 460,728.35 7,678.67 5.0 460,728.36 537,516.64 11,518.25 10.0 537,516.65 691,092.34 19,197.04 15.0 691,092.35 En adelante 42,233.35 17.0 Cantidades de la Tabla actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024. Fe de erratas DOF 10-01-2025. Cantidades actualizadas DOF 28-12-2025 Si el precio del automóvil es superior a $1,060,189.93, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $1,060,189.93.
 Cantidades del párrafo actualizadas por resolución miscelánea fiscal DOF 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de noviembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
-Párrafo reformado DOF 31-12-2003 II.- Tratándose de camiones con capacidad de carga hasta de 4,250 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros y remolques y semirremolques tipo vivienda, al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
+Párrafo reformado DOF 31-12-2003
+II.- Tratándose de camiones con capacidad de carga hasta de 4,250 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros y remolques y semirremolques tipo vivienda, al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
 Fracción reformada DOF 29-12-1997
 
 ### Artículo 4o
@@ -48,7 +54,8 @@ Si un contribuyente tuviera uno o varios establecimientos ubicados en entidad fe
 
 ### Artículo 5o
 .- Para efectos de esta Ley, se entiende por: a).- Automóviles, los de transporte hasta de quince pasajeros, los camiones con capacidad de carga hasta de 4,250 kilogramos incluyendo los de tipo panel, así como los remolques y semirremolques tipo vivienda.
-Inciso reformado DOF 29-12-1997 b).- Franja fronteriza norte del país, a la comprendida entre la línea divisoria internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del país, en el tramo comprendido entre el límite de la región parcial del Estado de Sonora y el Golfo de México, así como el Municipio Fronterizo de Cananea, en el Estado de Sonora. c).- Región parcial del Estado de Sonora, a la comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste de Sonoita, de ese punto, una línea recta hasta llegar al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
+Inciso reformado DOF 29-12-1997
+b).- Franja fronteriza norte del país, a la comprendida entre la línea divisoria internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del país, en el tramo comprendido entre el límite de la región parcial del Estado de Sonora y el Golfo de México, así como el Municipio Fronterizo de Cananea, en el Estado de Sonora. c).- Región parcial del Estado de Sonora, a la comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste de Sonoita, de ese punto, una línea recta hasta llegar al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
 
 d) Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la enajenación de vehículos nuevos o usados.
 Inciso adicionado DOF 31-12-2003. Reformado DOF 26-12-2005
@@ -56,7 +63,8 @@ Inciso adicionado DOF 31-12-2003. Reformado DOF 26-12-2005
 ### Artículo 6o
 . Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, la incorporación del automóvil al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados y comerciantes en el ramo de vehículos, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto a que esta Ley se refiere.
 En estos casos, el impuesto se calculará en los términos del artículo 2o. de esta Ley, según proceda.
-Párrafo reformado DOF 31-12-2003 Se entiende que los automóviles se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
+Párrafo reformado DOF 31-12-2003
+Se entiende que los automóviles se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
 Artículo reformado DOF 29-12-1997
 
 ### Artículo 7o
@@ -67,8 +75,10 @@ Artículo reformado DOF 29-12-1997
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $356,934.05. En el precio mencionado no se considerará el impuesto al valor agregado.
-Párrafo reformado DOF 26-12-2005, 12-11-2021 Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 27-12-2006, 07-11-2007, 09-01-2008, 02-07-2008, 26-12-2008, 17-08-2009, 28-12-2009, 09-12-2010, 31-12-2010, 15-07-2011, 05-01-2012, 03-01-2013, 09-01-2014, 13-01-2015, 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $356,934.06 y hasta $452,116.48, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
-Párrafo reformado DOF 26-12-2005, 12-11-2021 Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 27-12-2006, 07-11-2007, 09-01-2008, 02-07-2008, 26-12-2008, 17-08-2009, 28-12-2009, 09-12-2010, 31-12-2010, 15-07-2011, 05-01-2012, 03-01-2013, 09-01-2014, 13-01-2015, 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el articulo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+Párrafo reformado DOF 26-12-2005, 12-11-2021
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 27-12-2006, 07-11-2007, 09-01-2008, 02-07-2008, 26-12-2008, 17-08-2009, 28-12-2009, 09-12-2010, 31-12-2010, 15-07-2011, 05-01-2012, 03-01-2013, 09-01-2014, 13-01-2015, 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $356,934.06 y hasta $452,116.48, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Párrafo reformado DOF 26-12-2005, 12-11-2021
+Cantidad del párrafo actualizada por resolución miscelánea fiscal DOF 27-12-2006, 07-11-2007, 09-01-2008, 02-07-2008, 26-12-2008, 17-08-2009, 28-12-2009, 09-12-2010, 31-12-2010, 15-07-2011, 05-01-2012, 03-01-2013, 09-01-2014, 13-01-2015, 13-01-2016, 12-01-2017, 19-01-2018, 26-12-2018, 06-05-2019, 14-01-2020, 19-01-2021, 28-12-2021, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el articulo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 III.- En la importación de vehículos en franquicia, de conformidad con el artículo 62, fracción I, de la Ley Aduanera, o con los tratados o acuerdos internacionales suscritos por México, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 Fracción adicionada DOF 29-12-1997
 
@@ -89,7 +99,8 @@ Artículo reformado DOF 31-12-2003
 ### Artículo 11
 .- No procederá la devolución ni compensación del impuesto establecido en esta Ley, aun cuando el automóvil se devuelva al enajenante.
 Para los efectos de esta Ley, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado el impuesto establecido en esta Ley, incluyendo los que se devuelvan al enajenante.
-Párrafo reformado DOF 26-12-2005 Los fabricantes, ensambladores, distribuidores autorizados de automóviles o comerciantes en el ramo de vehículos, no harán la separación del monto de este impuesto en el documento que ampare la enajenación.
+Párrafo reformado DOF 26-12-2005
+Los fabricantes, ensambladores, distribuidores autorizados de automóviles o comerciantes en el ramo de vehículos, no harán la separación del monto de este impuesto en el documento que ampare la enajenación.
 Párrafo adicionado DOF 29-12-1997. Reformado DOF 26-12-2005
 
 ### Artículo 12
@@ -97,11 +108,13 @@ Párrafo adicionado DOF 29-12-1997. Reformado DOF 26-12-2005
 
 ### Artículo 13
 .- Los fabricantes, ensambladores o distribuidores autorizados de automóviles nuevos, así como aquellos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, deberán incluir en el documento que ampare la enajenación correspondiente, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Hacienda y Crédito Público establecerá la forma en que deberá integrarse la citada clave, mediante reglas de carácter general.
-El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.” Artículo reformado DOF 29-12-1997
+El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.”
+Artículo reformado DOF 29-12-1997
 
 ### Artículo 14
 . Se crea un Fondo de Compensación del Impuesto sobre Automóviles Nuevos, para resarcir a las entidades adheridas al Sistema Nacional de Coordinación Fiscal y que tengan celebrado con la Federación convenio de colaboración administrativa en materia del impuesto sobre automóviles nuevos, de la disminución de ingresos derivada de la ampliación de la exención de este impuesto que se otorga mediante el Artículo Octavo del Decreto por el que se establecen las condiciones para la importación definitiva de vehículos automotores usados, publicado en el Diario Oficial de la Federación del 22 de agosto de 2005, equivalente a $1,589,492,298.00.
-Párrafo reformado DOF 27-12-2006 Mensualmente se distribuirá la cantidad que resulte de dividir el monto establecido en el primer párrafo de este artículo entre 12 a las Entidades Federativas, de acuerdo a los coeficientes de distribución de la siguiente tabla:
+Párrafo reformado DOF 27-12-2006
+Mensualmente se distribuirá la cantidad que resulte de dividir el monto establecido en el primer párrafo de este artículo entre 12 a las Entidades Federativas, de acuerdo a los coeficientes de distribución de la siguiente tabla:
 Entidad Coeficiente Aguascalientes 0.010201 Baja California 0.024732 Baja California Sur 0.004627 Campeche 0.005038 Coahuila 0.032702 Colima 0.005974 Chiapas 0.015838 Chihuahua 0.033976 Distrito Federal 0.229286 Durango 0.007617 Guanajuato 0.032040 Guerrero 0.008630 Hidalgo 0.009030 Jalisco 0.078613 México 0.108289 Michoacán 0.028170 Morelos 0.009869 Nayarit 0.003937 Nuevo León 0.070119 Oaxaca 0.012463 Puebla 0.044415 Querétaro 0.014387 Quintana Roo 0.021638 San Luis Potosí 0.017531 Sinaloa 0.027518 Sonora 0.026867 Tabasco 0.016162 Tamaulipas 0.040972 Tlaxcala 0.003656 Veracruz 0.037974 Yucatán 0.013333 Zacatecas 0.004396 Total 1.000000 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá los recursos del fondo a que se refiere el segundo párrafo de este artículo, dentro de los primeros 25 días de cada mes y se considerará como pago definitivo. La entidad federativa de que se trate deberá distribuir cuando menos el 20% de los recursos que reciba de este fondo a los municipios de la entidad, que se distribuirá entre estos últimos, en la forma en que determine la legislatura respectiva.
 El monto del fondo a que se refiere el primer párrafo de este artículo se determinará anualmente en el Presupuesto de Egresos de la Federación, el cual se actualizará cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de julio del penúltimo año hasta el mes de julio inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
 Artículo adicionado DOF 23-12-2005
@@ -142,7 +155,7 @@ Se REFORMAN los artículos 2o., primer, cuarto y sexto párrafos; 3o., fracción
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
+**PRIMERO.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2004.
 Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.
 México, D.F., a 28 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones fiscales.
@@ -157,14 +170,14 @@ El monto del fondo a que se refiere el primer párrafo del artículo 14 de la Le
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el 1o. de enero de 2006.
+**ÚNICO.-** El presente Decreto entrará en vigor el 1o. de enero de 2006.
 México, D.F., a 17 de noviembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Impuesto sobre Automóviles Nuevos.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2005
 
 ### Artículo Único
 Se reforman los artículos 1o., fracciones I y II; 5o., inciso d); 8o., fracción II, primer y
-**segundo.** párrafos, y 11, segundo y tercer párrafos; se adiciona el artículo 1o., con un último párrafo, y se deroga el penúltimo párrafo del artículo 2o., de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue: ..........
+**segundo.-** párrafos, y 11, segundo y tercer párrafos; se adiciona el artículo 1o., con un último párrafo, y se deroga el penúltimo párrafo del artículo 2o., de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -181,8 +194,8 @@ Publicada en el Diario Oficial de la Federación el 27 de diciembre de 2006
 
 ## Transitorios
 
-**Primero.** La presente Resolución entrará en vigor al día 1 de enero de 2007.
-**Segundo.** La modificación al Anexo 7 de la Resolución Miscelánea Fiscal para 2006, entrará en vigor al día siguiente de su publicación.
+**Primero.-** La presente Resolución entrará en vigor al día 1 de enero de 2007.
+**Segundo.-** La modificación al Anexo 7 de la Resolución Miscelánea Fiscal para 2006, entrará en vigor al día siguiente de su publicación.
 Atentamente México, D.F., a 20 de diciembre de 2006.- El Jefe del Servicio de Administración Tributaria, José María Zubiría Maqueo.- Rúbrica.
 Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2006
 
@@ -209,8 +222,8 @@ Para los efectos de lo dispuesto por los párrafos primero y cuarto del artícul
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
-**Segundo.** Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+**Primero.-** El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+**Segundo.-** Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
 México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 ANEXO 15 de la Segunda Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2007, publicada el 26 de octubre de 2007.
 Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2007 Anexo 15 de la Resolución Miscelánea Fiscal para 2007 F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2007.
@@ -259,9 +272,8 @@ Publicada en el Diario Oficial de la Federación el 28 de diciembre de 2009
 
 ## Transitorios
 
-**Primero.** La presente Resolución entrará en vigor el 1 de enero de 2010.
-**Segundo.** Los contribuyentes que de conformidad con el contenido de las reglas 2.10.19., vigente en la Resolución Miscelánea Fiscal para 2001 y 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y 2005, que hubieran efectuado el pago, provisional, definitivo o del ejercicio, del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo del crédito al salario, incluyendo retenciones, mediante transferencia electrónica de fondos, sin haber presentado a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia, podrán asignar el pago realizado respecto de las obligaciones fiscales que corresponda.
-
+**Primero.-** La presente Resolución entrará en vigor el 1 de enero de 2010.
+**Segundo.-** Los contribuyentes que de conformidad con el contenido de las reglas 2.10.19., vigente en la Resolución Miscelánea Fiscal para 2001 y 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y 2005, que hubieran efectuado el pago, provisional, definitivo o del ejercicio, del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo del crédito al salario, incluyendo retenciones, mediante transferencia electrónica de fondos, sin haber presentado a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia, podrán asignar el pago realizado respecto de las obligaciones fiscales que corresponda.
 I. Para tal efecto, los contribuyentes a que se refiere el párrafo anterior deberán cumplir con lo siguiente:
 
 a) Que las obligaciones fiscales a las cuales se asignará el pago realizado mediante transferencia electrónica de fondos, correspondan al mismo periodo por el que se hizo originalmente dicha transferencia.
@@ -283,7 +295,7 @@ La asignación de transferencias electrónicas de fondos que se efectúe de conf
 III. La forma oficial en la cual se hace la asignación de pagos a que se refiere la fracción anterior, se deberá presentar ante la ALSC que corresponda al domicilio fiscal del contribuyente.
 Lo dispuesto en este artículo, también será aplicable a los contribuyentes que estando obligados a realizar pagos provisionales o definitivos de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, publicada en el DOF el 29 de agosto de 2005 y de los ejercicios de 2002, 2003 y 2004 del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo de crédito al salario, incluyendo retenciones, según corresponda de conformidad con lo dispuesto en los Capítulos 2.14. a 2.19., lo hubieran efectuado mediante transferencia electrónica de fondos en los términos de la regla 2.9.8., vigente hasta el 29 de agosto de 2005, sin haber presentado, a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia.
 Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
-**Tercero.** Los contribuyentes que de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, hubieran efectuado indebidamente el pago de alguna de sus obligaciones fiscales correspondientes a dicho periodo o a los ejercicios de 2002, 2003 o 2004, mediante transferencia electrónica de fondos de conformidad con la regla 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y hasta el 29 de agosto de 2005 y que hubieran presentado declaración complementaria a través de los desarrollos electrónicos a que se refieren los Capítulos 2.14. a 2.19., podrán asignar el pago realizado mediante dicha transferencia, siempre que lo realicen de conformidad con lo dispuesto en el Artículo Transitorio anteriormente señalado.
+**Tercero.-** Los contribuyentes que de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, hubieran efectuado indebidamente el pago de alguna de sus obligaciones fiscales correspondientes a dicho periodo o a los ejercicios de 2002, 2003 o 2004, mediante transferencia electrónica de fondos de conformidad con la regla 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y hasta el 29 de agosto de 2005 y que hubieran presentado declaración complementaria a través de los desarrollos electrónicos a que se refieren los Capítulos 2.14. a 2.19., podrán asignar el pago realizado mediante dicha transferencia, siempre que lo realicen de conformidad con lo dispuesto en el Artículo Transitorio anteriormente señalado.
 Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
 Atentamente.
 México, D. F., a 21 de diciembre de 2009.- En ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en el artículo 8 del Reglamento Interior del Servicio de Administración Tributaria, firma Jesús Rojas Ibañez, Administrador General Jurídico.- Rúbrica. ……….
@@ -380,7 +392,7 @@ Se adiciona el artículo 8o., con una fracción IV de la Ley Federal del Impuest
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2017.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2017.
 Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ANEXO 15 de la Resolución Miscelánea Fiscal para 2017, publicada el 23 de diciembre de 2016.
 Publicado en el Diario Oficial de la Federación el 12 de enero de 2017 Anexo 15 de la Resolución Miscelánea Fiscal para 2017 A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2017.
@@ -453,7 +465,7 @@ Para los efectos del artículo 8o., fracción II, primer y segundo párrafos de 
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+**Único.-** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

@@ -15,7 +15,9 @@ Se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación.
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo Único
+
 
 ### Artículo 1
 .- La presente Ley es de orden público y tiene por objeto reglamentar los artículos 73 fracción XXIV, 74, fracciones II y VI, y 79 de la Constitución Política de los Estados Unidos Mexicanos en materia de revisión y fiscalización de:
@@ -164,7 +166,9 @@ La Auditoría Superior de la Federación realizará un análisis del Informe de 
 
 ## TÍTULO SEGUNDO — De la Fiscalización de la Cuenta Pública
 
+
 ## Capítulo I — De la Fiscalización de la Cuenta Pública
+
 
 ### Artículo 13
 .- La Cuenta Pública será presentada en el plazo previsto en el artículo 74, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y, conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental.
@@ -359,6 +363,7 @@ No se podrán contratar trabajos de auditoría externos o cualquier otro servici
 
 ## Capítulo II — Del contenido del Informe General y su análisis
 
+
 ### Artículo 33
 .- La Auditoría Superior de la Federación tendrá un plazo que vence el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, para rendir el Informe General correspondiente a la Cámara, por conducto de la Comisión, mismo que tendrá carácter público.
 La Cámara remitirá copia del Informe General al Comité Coordinador del Sistema Nacional Anticorrupción y al Comité de Participación Ciudadana.
@@ -383,6 +388,7 @@ VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas
 VII. La demás información que se considere necesaria.
 
 ## Capítulo III — De los Informes Individuales
+
 
 ### Artículo 35
 .- Los informes individuales de auditoría que concluyan durante el periodo respectivo deberán ser entregados a la Cámara, por conducto de la Comisión, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública.
@@ -416,6 +422,7 @@ Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el
 En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o las autoridades competentes, en dicho informe la Auditoría Superior de la Federación dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
 
 ## Capítulo IV — De las Acciones y Recomendaciones derivadas de la Fiscalización
+
 
 ### Artículo 39
 .- El Titular de la Auditoría Superior de la Federación enviará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado a la Cámara, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
@@ -452,6 +459,7 @@ Dentro de los 30 días posteriores a la conclusión del plazo a que se refiere e
 
 ## Capítulo V — De la conclusión de la revisión de la Cuenta Pública
 
+
 ### Artículo 44
 .- La Comisión realizará un análisis de los informes individuales, en su caso, de los informes específicos, y del Informe General y lo enviará a la Comisión de Presupuesto. A este efecto y a juicio de la Comisión, se podrá solicitar a las comisiones ordinarias de la Cámara una opinión sobre aspectos o contenidos específicos de dichos informes, en términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento Interior de la Cámara de Diputados.
 El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho la Auditoría Superior de la Federación, para modificar disposiciones legales que pretendan mejorar la gestión financiera y el desempeño de las entidades fiscalizadas.
@@ -466,9 +474,11 @@ El dictamen deberá contar con el análisis pormenorizado de su contenido y esta
 La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior de la Federación, mismas que seguirán el procedimiento previsto en esta Ley.
 
 ## TÍTULO TERCERO
+
 De la fiscalización de recursos federales administrados o ejercidos por órdenes de gobierno locales y por particulares, así como de las participaciones federales
 
 ## Capítulo I — De la Fiscalización del Gasto Federalizado
+
 
 ### Artículo 47
 .- La Auditoría Superior de la Federación fiscalizará, conforme al programa anual de auditoría que deberá aprobar y publicar en el Diario Oficial de la Federación, directamente los recursos federales que administren o ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México; asimismo, fiscalizará directamente los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
@@ -482,6 +492,7 @@ La Auditoría Superior de la Federación revisará el origen de los recursos con
 Asimismo, en los casos en que sea procedente en términos del Título Quinto de esta Ley, la unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación promoverá el informe de presunta responsabilidad administrativa para la imposición de las sanciones correspondientes.
 
 ## Capítulo II — De la Fiscalización de las Participaciones Federales
+
 
 ### Artículo 50
 .- La Auditoría Superior de la Federación fiscalizará las participaciones federales conforme a la facultad establecida en el artículo 79, fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
@@ -514,6 +525,7 @@ Lo anterior sin perjuicio de que la Auditoría Superior de la Federación podrá
 Sin perjuicio de lo establecido en el presente Capítulo, la Auditoría Superior de la Federación podrá, en los términos previstos en el Título Cuarto de esta Ley, fiscalizar la gestión financiera correspondiente al ejercicio fiscal en curso o respecto a años anteriores.
 
 ## Capítulo III — De la Fiscalización Superior de la Deuda Pública de las Entidades Federativas y
+
 Municipios que cuenten con Garantía del Gobierno Federal.
 
 ### Artículo 52
@@ -553,6 +565,7 @@ b) Contrataron los financiamientos y otras obligaciones por los conceptos y hast
 .- La Auditoría Superior de la Federación, verificará y fiscalizará la instrumentación, ejecución y resultados de las estrategias de ajuste convenidas para fortalecer las finanzas públicas de las Entidades Federativas y los municipios, con base en la Ley de la matería y en los convenios que para ese efecto se suscriban con las Entidades Federativas y los municipios, para la obtención de la garantía del Gobierno Federal.
 
 ## Capítulo IV
+
 De la Fiscalización del Cumplimiento de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios
 
 ### Artículo 58
@@ -565,6 +578,7 @@ II. La contratación de los financiamientos y otras obligaciones de acuerdo a la
 III. El cumplimiento de inscribir y publicar la totalidad de sus financiamientos y otras obligaciones en el registro público único establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ## TÍTULO CUARTO
+
 De la Fiscalización durante el Ejercicio Fiscal en Curso o de Ejercicios Anteriores
 
 ### Artículo 59
@@ -614,9 +628,11 @@ La Auditoría Superior de la Federación, deberá reportar en los informes corre
 .- Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley General de Responsabilidades Administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
 
 ## TÍTULO QUINTO
+
 De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
 
 ## Capítulo I
+
 De la Determinación de Daños y Perjuicios contra la Hacienda Pública Federal o al patrimonio de los entes públicos
 
 ### Artículo 67
@@ -666,6 +682,7 @@ Asimismo, los órganos internos de control deberán informar a la Auditoría Sup
 
 ## Capítulo II — Del Recurso de Reconsideración
 
+
 ### Artículo 75
 .- La tramitación del recurso de reconsideración, en contra de las multas impuestas por la Auditoría Superior de la Federación, se sujetará a las disposiciones siguientes:
 
@@ -687,6 +704,7 @@ Una vez desahogada la prevención, la Auditoría Superior de la Federación, en 
 
 ## Capítulo III — De la Prescripción de Responsabilidades
 
+
 ### Artículo 78
 .- La acción para fincar responsabilidades e imponer las sanciones por faltas administrativas graves prescribirá en siete años.
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
@@ -696,9 +714,11 @@ En todos los casos, la prescripción a que alude este precepto se interrumpirá 
 .- Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
 ## TÍTULO SEXTO
+
 De las Funciones de la Cámara de Diputados en la Fiscalización de la Cuenta Pública
 
 ## Capítulo Único — De la Comisión
+
 
 ### Artículo 80
 .- Para los efectos de lo dispuesto en la fracción II y en el último párrafo de la fracción VI, del artículo 74 constitucional, la Cámara contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquélla y la Auditoría Superior de la Federación; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
@@ -746,9 +766,11 @@ XVII. Las demás que establezcan esta Ley y demás disposiciones legales aplicab
 .- La Comisión presentará directamente a la Auditoría Superior de la Federación un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el 30 de mayo del año en que presente el Informe General. La Auditoría Superior de la Federación dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
 
 ## TÍTULO SÉPTIMO
+
 Organización de la Auditoría Superior de la Federación
 
 ## Capítulo I
+
 Integración y Organización
 
 ### Artículo 83
@@ -940,6 +962,7 @@ Son trabajadores de base los que desempeñan labores en puestos no incluidos en 
 
 ## Capítulo II — De la vigilancia de la Auditoría Superior de la Federación
 
+
 ### Artículo 102
 .- La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior de la Federación, los auditores especiales y los demás servidores públicos de la Auditoría Superior de la Federación en el desempeño de sus funciones, se sujetarán a lo establecido en la Ley General de Responsabilidades Administrativas y a las demás disposiciones legales aplicables.
 
@@ -1013,7 +1036,9 @@ El ingreso a la Unidad será mediante concurso público.
 
 ## TÍTULO OCTAVO — De la Contraloría Social
 
+
 ## Capítulo Único
+
 
 ### Artículo 110
 .- La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior de la Federación en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción, debiendo el Auditor Superior de la Federación informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
@@ -1049,14 +1074,14 @@ Publicado en el Diario Oficial de la Federación el 11 de enero de 2021
 
 ### Artículo Único
 Se reforman la fracción III del artículo 4; la fracción XI del artículo 17; el segundo párrafo del artículo 60 y se adicionan los artículos 17 Bis; 17 Ter; un tercer párrafo al artículo 61 y, un
-**segundo.** párrafo a la fracción VIII del artículo 89 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, para quedar como sigue: ……..
+**segundo.-** párrafo a la fracción VIII del artículo 89 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes, a fin de poner en funcionamiento la herramienta electrónica a que hace referencia el artículo 17 Bis de la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**Tercero.** Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
-**Cuarto.** El Congreso de la Unión homologará y armonizará la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y la Cámara de Diputados hará lo conducente respecto al Reglamento de la Cámara de Diputados, a fin de permitir la recepción, por medios electrónicos de las denuncias a que se refiere la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes, a fin de poner en funcionamiento la herramienta electrónica a que hace referencia el artículo 17 Bis de la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Tercero.-** Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
+**Cuarto.-** El Congreso de la Unión homologará y armonizará la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y la Cámara de Diputados hará lo conducente respecto al Reglamento de la Cámara de Diputados, a fin de permitir la recepción, por medios electrónicos de las denuncias a que se refiere la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
 Ciudad de México, a 10 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1068,37 +1093,37 @@ Se reforma la fracción IX del artículo 4 de la Ley de Fiscalización y Rendici
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

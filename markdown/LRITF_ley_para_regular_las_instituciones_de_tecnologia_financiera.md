@@ -15,6 +15,7 @@ Se EXPIDE la Ley para Regular las Instituciones de Tecnología Financiera:
 
 ## TÍTULO I — Disposiciones Preliminares
 
+
 ### Artículo 1
 .- La presente Ley es de orden público y observancia general en los Estados Unidos Mexicanos y tiene por objeto regular los servicios financieros que prestan las instituciones de tecnología financiera, así como su organización, operación y funcionamiento y los servicios financieros sujetos a alguna normatividad especial que sean ofrecidos o realizados por medios innovadores.
 
@@ -127,6 +128,7 @@ Los procedimientos y formas de cumplimiento a que se refiere este artículo debe
 
 ## TÍTULO II — De las ITF y sus Operaciones
 
+
 ### Artículo 11
 .- Para organizarse y operar como ITF se requiere obtener una autorización que será otorgada por la CNBV, previo acuerdo del Comité Interinstitucional, en términos del Capítulo I del Título III de la presente Ley.
 Las ITF, además de cumplir con las obligaciones establecidas en esta Ley y en las disposiciones que de ella emanen, deberán tomar medidas para evitar que se difunda información falsa o engañosa a través de ellas. Adicionalmente, las ITF deberán difundir la información que permita a sus Clientes identificar los riesgos de las Operaciones que celebren con o a través de ellas, conforme a lo previsto en esta Ley.
@@ -152,6 +154,7 @@ El estado de cuenta certificado a que se refiere este artículo deberá contener
 Asimismo, deberá comprender los movimientos realizados desde un año anterior contado a partir del momento en el que se verifique el último incumplimiento de pago.
 
 ## CAPÍTULO I — De las Instituciones de Financiamiento Colectivo
+
 
 ### Artículo 15
 .- Las actividades destinadas a poner en contacto a personas del público en general, con el fin de que entre ellas se otorguen financiamientos mediante alguna de las Operaciones señaladas en el siguiente artículo, realizadas de manera habitual y profesional, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán llevarse a cabo por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de financiamiento colectivo.
@@ -238,6 +241,7 @@ Podrán ser inversionistas a través de instituciones de financiamiento colectiv
 Las instituciones de financiamiento colectivo deberán abstenerse de enajenar o ceder a las Personas Relacionadas y personas que tengan Poder de Mando en las respectivas instituciones de financiamiento colectivo, bajo cualquier título, los créditos, préstamos, mutuos o demás financiamientos celebrados entre los respectivos Clientes a través de dichas instituciones. Asimismo, las Entidades Financieras deberán abstenerse de enajenar o ceder bajo cualquier título, por medio de las instituciones de financiamiento colectivo, los créditos, préstamos, mutuos o demás financiamientos que dichas Entidades Financieras hayan otorgado previamente a sus respectivos clientes.
 
 ## CAPÍTULO II — De las Instituciones de Fondos de Pago Electrónico
+
 
 ### Artículo 22
 .- Los servicios realizados con el público de manera habitual y profesional, consistentes en la emisión, administración, redención y transmisión de fondos de pago electrónico, por medio de los actos que a continuación se señalan, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán prestarse por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de fondos de pago electrónico:
@@ -344,6 +348,7 @@ Si no se hubiesen designado beneficiarios, el importe correspondiente a los fond
 
 ## CAPÍTULO III — De las Operaciones con Activos Virtuales
 
+
 ### Artículo 30
 .- Para efectos de la presente Ley, se considera activo virtual la representación de valor registrada electrónicamente y utilizada entre el público como medio de pago para todo tipo de actos jurídicos y cuya transferencia únicamente puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo denominado en moneda de curso legal o en divisas.
 Las ITF solo podrán operar con los activos virtuales que sean determinados por el Banco de México mediante disposiciones de carácter general. En dichas disposiciones, el Banco de México podrá establecer plazos, términos y condiciones que deberán observar las ITF para los casos en que los activos virtuales que este haya determinado se transformen en otros tipos o modifiquen sus características.
@@ -377,7 +382,9 @@ IV. Los riesgos tecnológicos, cibernéticos y de fraude inherentes a los activo
 
 ## TÍTULO III — Disposiciones Generales
 
+
 ## CAPÍTULO I — De la Autorización
+
 
 ### Artículo 35
 .- Las personas que pretendan realizar las actividades atribuidas a las instituciones de financiamiento colectivo o de fondos de pago electrónico en el Título II de esta Ley en territorio nacional deberán solicitar su autorización como ITF ante la CNBV, quien la otorgará cuando a su juicio se cumpla adecuadamente con los requisitos legales y normativos, previo acuerdo del Comité Interinstitucional.
@@ -482,6 +489,7 @@ Lo anterior, sin perjuicio de la inhabilitación a las personas físicas que con
 .- La CNBV o el Banco de México, según su competencia, podrán corroborar la veracidad de la documentación e información proporcionada con la solicitud de autorización y, en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales, incluidos los organismos con autonomía constitucional, entregarán la información relacionada, incluida aquella que contenga datos personales. Asimismo, para los mismos efectos, la CNBV o el Banco de México podrán solicitar a organismos extranjeros con funciones de supervisión o regulación similares corroborar la información que al efecto se le proporcione.
 
 ## CAPÍTULO II — De la Operación de las ITF
+
 
 ### Artículo 44
 .- La CNBV, respecto de instituciones de financiamiento colectivo, y el Banco de México, respecto de las instituciones de fondos de pago electrónico, previa opinión del Comité Interinstitucional, deberán establecer mediante disposiciones de carácter general los límites de recursos que las respectivas ITF podrán mantener a nombre de sus Clientes o de los que un Cliente podrá disponer a través de dichas ITF.
@@ -702,6 +710,7 @@ En el evento de que la escisión produzca la extinción de la ITF escindente, la
 
 ## CAPÍTULO III — De la Suspensión y la Revocación de la Autorización para operar como ITF
 
+
 ### Artículo 68
 .- La CNBV, siguiendo el procedimiento previsto en el artículo 98, fracciones I y II de esta Ley, podrá suspender o limitar de manera parcial a las ITF la realización de sus actividades o celebración de Operaciones, cuando se ubiquen en cualquiera de los supuestos siguientes:
 
@@ -742,13 +751,18 @@ VIII. Cometer alguna de las conductas calificadas como graves en esta Ley, y
 
 IX. Si la ITF de que se trate, por conducto de su representante legal, así lo solicita, siempre que no existan Operaciones pendientes de liquidar entre sus Clientes o, en caso de Operaciones pendientes, que haya cedido su administración, cumpliendo con las disposiciones legales y contractuales aplicables. En este caso, la sociedad deberá modificar sus estatutos para no contemplar su operación como ITF.
 La Comisión otorgará el derecho de audiencia a la ITF interesada a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere el párrafo anterior y, en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la ITF la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para obtener la aprobación del Comité Interinstitucional y emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la ITF de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la CNBV.
-Párrafo adicionado DOF 24-01-2024 La revocación incapacitará a la ITF para realizar nuevas Operaciones a partir de la fecha en que se notifique la resolución correspondiente y salvo por el caso establecido en la fracción IX de este artículo, pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo anterior y, en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la ITF la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para obtener la aprobación del Comité Interinstitucional y emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la ITF de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la CNBV.
+Párrafo adicionado DOF 24-01-2024
+La revocación incapacitará a la ITF para realizar nuevas Operaciones a partir de la fecha en que se notifique la resolución correspondiente y salvo por el caso establecido en la fracción IX de este artículo, pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas.
 Párrafo reformado DOF 24-01-2024
 
 ## CAPÍTULO IV — De la Inspección, Vigilancia e Intercambio de Información
+
 
 ### Artículo 70
 .- Las ITF estarán obligadas a proporcionar a la CNBV y al Banco de México, en el ámbito de sus respectivas competencias, la información que dichas Autoridades Financieras les requieran sobre sus Operaciones y aquellas realizadas entre sus Clientes, incluso respecto de alguna o algunas de ellas en lo individual, los datos que permitan estimar su situación financiera y, en general, aquella que sea útil a la CNBV o al Banco de México para proveer el adecuado cumplimiento de sus funciones, en la forma y términos que las propias Autoridades determinen.
@@ -872,6 +886,7 @@ Al efecto, las entidades deberán pactar en los contratos mediante los cuales se
 .- El intercambio de información a que se refiere el artículo anterior no se entenderá como violación a las obligaciones de confidencialidad impuestas a las entidades mencionadas en dicho artículo, en esta y demás leyes aplicables.
 
 ## CAPÍTULO V
+
 Asociaciones Gremiales
 
 ### Artículo 78
@@ -890,7 +905,9 @@ Las mejores prácticas que se expidan en términos de lo previsto en este artíc
 
 ## TÍTULO IV — De las Autorizaciones Temporales y Operación con Activos Virtuales
 
+
 ## CAPÍTULO I — De la Autorización de Modelos Novedosos
+
 
 ### Artículo 80
 .- Las personas morales constituidas de conformidad con la legislación mercantil mexicana, distintas a las ITF, a las Entidades Financieras y a otros sujetos supervisados por alguna Comisión Supervisora o por el Banco de México, deberán obtener autorización para que mediante Modelos Novedosos lleven a cabo alguna actividad cuya realización requiere de una autorización, registro o concesión de conformidad con esta Ley o por otra ley financiera.
@@ -957,6 +974,7 @@ Cada Autoridad Financiera deberá publicar las autorizaciones temporales que oto
 
 ## CAPÍTULO II — De los Modelos Novedosos en Entidades Reguladas
 
+
 ### Artículo 86
 .- Las Autoridades Financieras podrán autorizar discrecionalmente, con la debida fundamentación y motivación, a las Entidades Financieras, ITF o demás personas sujetas a su supervisión, llevar a cabo temporalmente operaciones o actividades de su objeto social a través de Modelos Novedosos cuando en su realización se requiera de excepciones o condicionantes a lo contenido en las disposiciones de carácter general aplicables, emitidas por las propias Autoridades.
 Las autorizaciones temporales a que se refiere este artículo deberán ser otorgadas previo acuerdo de la Junta de Gobierno de las respectivas Comisiones Supervisoras. En caso de actividades reguladas por disposiciones de carácter general emitidas por la Secretaría o el Banco de México, las autorizaciones temporales serán otorgadas por dichas Autoridades.
@@ -989,10 +1007,12 @@ La presentación de la solicitud de autorización a que se refiere este Capítul
 
 ## CAPÍTULO III — De la Operación de Entidades Financieras con Activos Virtuales
 
+
 ### Artículo 88
 .- Las instituciones de crédito podrán, con la previa autorización del Banco de México, realizar operaciones con los activos virtuales que sean determinados por el propio Banco de México mediante disposiciones de carácter general, de entre aquellos que cumplan las características mencionadas en el último párrafo del artículo 30 de esta Ley. Dichas operaciones estarán sujetas en cuanto a sus condiciones y restricciones, a las disposiciones de carácter general que para tal efecto emita el Banco de México.
 
 ## CAPÍTULO IV
+
 Otras Obligaciones y de la Revocación de las Autorizaciones Temporales
 
 ### Artículo 89
@@ -1026,12 +1046,16 @@ IV. Si realiza operaciones, actividades o servicios distintos de los contemplado
 
 V. Si así lo solicita, siempre que no existan operaciones pendientes de liquidar entre sus Clientes.
 Las Comisiones Supervisoras, otorgarán el derecho de audiencia previsto en este artículo a la sociedad interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. A petición de parte, dichas Autoridades podrán ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen.
-Párrafo adicionado DOF 24-01-2024 Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, las Comisiones Supervisoras, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión Supervisora notificará a la ITF de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
-Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión Supervisora contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
-Párrafo adicionado DOF 24-01-2024 La revocación de las autorizaciones temporales otorgadas conforme al artículo 80 de esta Ley, deberán anotarse en el Registro previsto por el artículo 83, e incapacitará a la sociedad cuya autorización le fue revocada para continuar realizando las actividades u operaciones cuya realización requiere de una autorización, registro o concesión de conformidad con esta Ley o por otra ley financiera, a partir de la fecha en que se notifique la resolución correspondiente.
+Párrafo adicionado DOF 24-01-2024
+Concluido el plazo a que se refiere el párrafo anterior, y en su caso el de su ampliación, las Comisiones Supervisoras, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Transcurrido el plazo para el desahogo de las pruebas, la Comisión Supervisora notificará a la ITF de que se trate la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine.
+Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión Supervisora contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo.
+Párrafo adicionado DOF 24-01-2024
+La revocación de las autorizaciones temporales otorgadas conforme al artículo 80 de esta Ley, deberán anotarse en el Registro previsto por el artículo 83, e incapacitará a la sociedad cuya autorización le fue revocada para continuar realizando las actividades u operaciones cuya realización requiere de una autorización, registro o concesión de conformidad con esta Ley o por otra ley financiera, a partir de la fecha en que se notifique la resolución correspondiente.
 Párrafo adicionado DOF 24-01-2024
 
 ## TÍTULO V
+
 Grupo de Innovación Financiera
 
 ### Artículo 93
@@ -1045,9 +1069,11 @@ Grupo de Innovación Financiera
 En caso de que así lo requiera la naturaleza de los asuntos a tratar, podrán ser invitados a participar en las sesiones del Grupo de Innovación Financiera, con voz pero sin voto, representantes de las dependencias y entidades de la Administración Pública Federal o de organizaciones, públicas o privadas.
 
 ## TÍTULO VI
+
 Sanciones y Delitos
 
 ## CAPÍTULO I
+
 Sanciones Administrativas
 
 ### Artículo 96
@@ -1098,8 +1124,10 @@ g) Los riesgos por la celebración de las Operaciones que hayan dado lugar a la 
 
 h) Las demás circunstancias que las Comisiones Supervisoras o el Banco de México estime aplicables para tales efectos.
 Concluido el plazo a que se refiere la fracción I de este artículo y en su caso el de su ampliación, las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas.
-Párrafo adicionado DOF 24-01-2024 Una vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda de las señaladas en el párrafo anterior notificará al mismo la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos que así lo determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, imponiendo, en su caso, las sanciones que conforme a derecho procedan.
-Párrafo adicionado DOF 24-01-2024 Reforma DOF 24-01-2024: Derogó del artículo el entonces párrafo segundo
+Párrafo adicionado DOF 24-01-2024
+Una vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda de las señaladas en el párrafo anterior notificará al mismo la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos que así lo determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, imponiendo, en su caso, las sanciones que conforme a derecho procedan.
+Párrafo adicionado DOF 24-01-2024
+Reforma DOF 24-01-2024: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 99
 .- Las Comisiones Supervisoras o el Banco de México considerarán como atenuante en la imposición de sanciones administrativas, cuando el presunto infractor le acredite haber resarcido el daño causado, así como el hecho de que aporte información que coadyuve en el ejercicio de las atribuciones de las Comisiones Supervisoras o el Banco de México en materia de inspección y vigilancia, a efecto de deslindar responsabilidades.
@@ -1320,7 +1348,9 @@ Si como resultado de los informes de quien ejerza las funciones de vigilancia en
 
 ## CAPÍTULO II — De los Delitos
 
+
 ## Sección Primera — Del Requisito de Procedibilidad y la Prescripción
+
 
 ### Artículo 118
 .- Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que la Secretaría formule petición, previa opinión de la CNBV; también se procederá a petición de las personas reguladas en esta Ley o de quien tenga interés jurídico. Los delitos contenidos en esta Ley solo admitirán comisión dolosa. La acción penal en los casos previstos en esta Ley perseguibles por petición de la Secretaría, por las personas reguladas en esta Ley o por quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, la persona regulada en esta Ley o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable y, si no tiene ese conocimiento, en cinco años que se computarán conforme a lo establecido en el artículo 102 del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción seguirá corriendo según las Cuando se haya procedido por petición de la Secretaría de conformidad con este artículo, esta tendrá el carácter de víctima u ofendido en los procedimientos penales y juicios relacionados con los delitos previstos en esta Ley. Los abogados hacendarios designados por la peticionaria podrán actuar como asesores jurídicos dentro de dichos procedimientos y juicios.
@@ -1348,6 +1378,7 @@ III. Cuando el monto del quebranto o perjuicio patrimonial según corresponda, e
 .- Serán sancionados con prisión de dos a seis años y multa de 1,000 a 50,000 UMA, a quienes utilicen o divulguen la información financiera o confidencial de los Clientes para cualquier fin distinto al de la realización de las Operaciones, sin contar con autorización previa y expresa del Cliente.
 
 ## Sección Tercera
+
 Delitos contra la adecuada operación de las ITF, o de las Empresas Autorizadas para operar con Modelos Novedosos.
 
 ### Artículo 123
@@ -1377,6 +1408,7 @@ La misma sanción resultará aplicable a los solicitantes de financiamiento cole
 .- Será sancionado con prisión de uno a seis años, y multa de 5,000 a 150,000 UMA a quien se ostente frente al público en general como una ITF o sociedad o Entidad Financiera u otro sujeto supervisado por alguna Comisión Supervisora o por el Banco de México, autorizado para operar con Modelos Novedosos en términos de esta Ley, sin contar con la autorización que corresponda.
 
 ## Sección Cuarta
+
 Delitos para la Protección del Patrimonio de las ITF y de las Sociedades Autorizadas para operar con Modelos Novedosos.
 
 ### Artículo 130
@@ -1399,6 +1431,7 @@ II. Cuando el monto de los recursos o el valor de los fondos de pago electrónic
 III. Cuando el monto de los recursos o el valor de los fondos de pago electrónicos o activos virtuales en el momento en que se cometa la conducta a que se refiere el presente artículo, según corresponda, exceda de 400,000 UMA, se sancionará con prisión de seis a doce años y multa de 10,000 a 250,000 UMA.
 
 ## TÍTULO VII — De las Notificaciones
+
 
 ### Artículo 134
 .- Las notificaciones de los requerimientos, visitas de inspección, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorización a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere la presente Ley y las resoluciones administrativas que le recaigan a los recursos de revisión interpuestos conforme a las leyes aplicables, se podrán realizar de las maneras siguientes:
@@ -1514,39 +1547,39 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas leyes financieras en materia de procedimiento administrativo.
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
@@ -1568,12 +1601,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

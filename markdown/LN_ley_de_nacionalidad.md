@@ -11,6 +11,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1o
 .- La presente Ley es reglamentaria de los artículos 30, 32 y 37, apartados A y B, de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son de orden público y de observancia general en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Relaciones Exteriores.
 
@@ -77,6 +78,7 @@ En cualquier caso, cuando la Secretaría lo estime conveniente, el interesado de
 
 ## CAPÍTULO II — DE LA NACIONALIDAD MEXICANA POR NACIMIENTO
 
+
 ### Artículo 12
 .- Los mexicanos por nacimiento que salgan del territorio nacional o ingresen a él, deberán hacerlo sin excepción, ostentándose como nacionales, aun cuando posean o hayan adquirido otra nacionalidad.
 
@@ -113,6 +115,7 @@ El certificado de nacionalidad mexicana se expedirá una vez que el interesado h
 La declaratoria de nulidad fijará la fecha a partir de la cual el certificado será nulo. En todo caso, se dejarán a salvo las situaciones jurídicas creadas durante la vigencia del certificado a favor de terceros de buena fe.
 
 ## CAPÍTULO III — DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
+
 
 ### Artículo 19
 .- El extranjero que pretenda naturalizarse mexicano deberá:
@@ -178,6 +181,7 @@ La declaratoria de nulidad fijará la fecha a partir de la cual dicha carta ser�
 
 ## CAPÍTULO IV — DE LA PÉRDIDA DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
 
+
 ### Artículo 27
 .- La nacionalidad mexicana por naturalización, previa audiencia del interesado, se pierde de conformidad con lo que establece el artículo 37, apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -198,6 +202,7 @@ Dicho aviso deberá realizarse dentro de los cuarenta días hábiles siguientes,
 .- Cuando se den los supuestos de pérdida de la nacionalidad mexicana, la Secretaría, previa audiencia del interesado, revocará la carta de naturalización.
 
 ## CAPÍTULO V — DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
 
 ### Artículo 33
 .- Las infracciones administrativas previstas en la presente Ley, se sancionarán con lo siguiente:
@@ -233,7 +238,6 @@ III. Se impondrá multa de quinientos a dos mil salarios, a quien contraiga matr
 **SEGUNDO.-** Se abroga la Ley de Nacionalidad publicada en el Diario Oficial de la Federación el 21 de junio de 1993 y se derogan todas las disposiciones que se opongan a la presente Ley.
 **TERCERO.-** Las cartas y declaratorias de naturalización, los certificados de nacionalidad mexicana por nacimiento, así como los de recuperación de nacionalidad, expedidos por la Secretaría de Relaciones Exteriores con anterioridad a la entrada en vigor de esta Ley, seguirán surtiendo sus efectos jurídicos.
 **CUARTO.-** Para beneficiarse de lo dispuesto por el artículo 37, apartado A de la Constitución Política de los Estados Unidos Mexicanos, el interesado deberá:
-
 I. Presentar solicitud por escrito a la Secretaría de Relaciones Exteriores, Embajadas o Consulados Mexicanos, en cualquier tiempo;
 Fracción reformada DOF 02-12-2004
 

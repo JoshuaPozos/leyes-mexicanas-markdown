@@ -15,7 +15,9 @@ Se expide la Ley General de Aguas, para quedar como sigue:
 
 ## TÍTULO PRIMERO — DISPOSICIONES PRELIMINARES
 
+
 ## Capítulo Único
+
 Objeto de la Ley y Disposiciones Generales
 
 ### Artículo 1
@@ -79,6 +81,7 @@ XVI. Soluciones basadas en la naturaleza: Serie de procesos infundidos en la nat
 
 ## TÍTULO SEGUNDO — DERECHO HUMANO AL AGUA Y SU INTERDEPENDENCIA CON OTROS DERECHOS
 
+
 ### Artículo 5
 . Toda persona gozará del derecho humano al agua conforme a lo establecido en la Constitución y a los tratados e instrumentos internacionales de los que el Estado mexicano sea parte.
 Todas las autoridades, en el ámbito de su competencia tienen la obligación de promover, respetar, proteger y garantizar el derecho humano al agua.
@@ -109,6 +112,7 @@ X. Universalidad: Todas las personas sin excepción alguna son titulares del der
 
 ## Capítulo Primero — Del derecho humano al agua
 
+
 ### Artículo 7
 . Para garantizar el derecho humano al agua se deberán asegurar los siguientes elementos:
 
@@ -133,18 +137,21 @@ Mientras que el saneamiento, como parte del derecho al agua, consiste en acceder
 Los organismos operadores no podrán suspender totalmente el suministro de agua potable y el servicio de saneamiento por falta de pago; en todo caso, deben suministrar la cantidad mínima para el consumo humano básico.
 
 ## Capítulo Segundo
+
 Interdependencia del derecho humano al agua y saneamiento con otros derechos
 
 ### Artículo 10
 . En la aplicación de esta Ley se debe considerar el acceso, disposición y saneamiento del agua para uso personal y doméstico como derechos humanos interdependientes e indispensables para el ejercicio de otros derechos, por lo que se debe garantizar su disfrute a toda persona, con especial atención a la niñez, personas adultas mayores, personas con discapacidad, mujeres, personas en situación de vulnerabilidad, personas desplazadas, refugiadas o solicitantes de asilo, en privación de su libertad y víctimas de desastres.
 
 ## Sección Primera
+
 Derecho a un medio ambiente sano
 
 ### Artículo 11
 . El goce del derecho humano al agua, se encuentra vinculado con el respeto, protección y garantía del derecho humano a un medio ambiente sano para el bienestar y desarrollo de las personas y la calidad del entorno como una determinante en la salud de la población.
 
 ## Sección Segunda
+
 Vinculación con el derecho a la salud
 
 ### Artículo 12
@@ -157,6 +164,7 @@ Vinculación con el derecho a la salud
 . Las políticas públicas en materia hídrica y sanitaria deberán fortalecer los sistemas de vigilancia de la salud pública, saneamiento e higiene y contribuir a la construcción de comunidades ambientalmente saludables a través de un manejo de los riesgos ambientales a la salud asociados con el agua, saneamiento e higiene.
 
 ## Sección Tercera
+
 Vinculación con la igualdad sustantiva y de género
 
 ### Artículo 15
@@ -175,6 +183,7 @@ V. Proteger de forma efectiva las aguas que usan las mujeres en las actividades 
 VI. Garantizar que la falta de agua potable, en las instituciones educativas o en los hogares, no limite ni impida a niñas, niños y adolescentes el pleno ejercicio de sus derechos humanos, asegurando en todo momento condiciones de higiene, salud y dignidad. En el caso de niñas, adolescentes y personas menstruantes se deberá garantizar de manera prioritaria el acceso suficiente y adecuado al agua para el ejercicio del derecho a una menstruación digna.
 
 ## Sección Cuarta
+
 Vinculación con el derecho humano al saneamiento
 
 ### Artículo 16
@@ -191,7 +200,9 @@ Vinculación con el derecho humano al saneamiento
 
 ## TÍTULO TERCERO — ATRIBUCIONES Y COMPETENCIAS
 
+
 ## Capítulo Primero — Disposiciones comunes
+
 
 ### Artículo 20
 . Las instancias de los tres órdenes de gobierno, en el ámbito de sus competencias, adoptarán las medidas necesarias para proteger frente a terceros el disfrute de los derechos humanos asociados al acceso, disposición y saneamiento de agua en el territorio nacional.
@@ -209,6 +220,7 @@ Vinculación con el derecho humano al saneamiento
 . La Federación, las entidades federativas y los municipios son responsables de la planeación, buen manejo y administración de los recursos hídricos propiedad de la Nación, por medio de las instituciones y sistemas comunitarios de agua y saneamiento, acorde con lo establecido en la presente Ley.
 
 ## Capítulo Segundo
+
 Facultades de la Federación en materia de garantía del derecho humano al agua
 
 ### Artículo 25
@@ -235,6 +247,7 @@ VIII. Las demás que el presente ordenamiento u otras disposiciones legales otor
 En el supuesto consignado en el presente artículo, las acciones objeto de coordinación deberán ejecutarse con enfoque basado en derechos humanos, perspectiva de género, interculturalidad, interseccionalidad, equidad intergeneracional, discapacidad y considerar el interés superior de la niñez y adolescencia.
 
 ## Capítulo Tercero
+
 Facultades de las Entidades Federativas en materia de garantía del derecho humano al agua
 
 ### Artículo 27
@@ -255,6 +268,7 @@ VI. Promover la participación de todos los sectores en las entidades para coady
 VII. Las demás que le confiera esta Ley y otros ordenamientos jurídicos en la materia.
 
 ## Capítulo Cuarto
+
 Facultades de los municipios en materia de garantía del derecho humano al agua para consumo personal y doméstico
 
 ### Artículo 28
@@ -278,7 +292,9 @@ VIII. Las que le encomienden las leyes federales y locales en la materia.
 
 ## TÍTULO CUARTO — INSTRUMENTOS PARA GARANTIZAR EL DERECHO HUMANO AL AGUA
 
+
 ## Capítulo Primero — De los Instrumentos de la Política Pública
+
 
 ### Artículo 29
 . La política para garantizar el derecho humano al agua y saneamiento se integra con los siguientes instrumentos:
@@ -300,6 +316,7 @@ VII. El Sistema Financiero del Agua, regulado en la Ley de Aguas Nacionales, y
 VIII. Las demás disposiciones legales aplicables de los tres órdenes de gobierno.
 
 ## Capítulo Segundo
+
 Estrategia Nacional Hídrica
 
 ### Artículo 30
@@ -343,7 +360,9 @@ En ningún caso las revisiones y actualizaciones se harán en menoscabo de las m
 
 ## TÍTULO QUINTO — CAPTACIÓN DE AGUA PLUVIAL
 
+
 ## Capítulo Único
+
 Sistemas de Captación de Agua Pluvial para consumo personal y doméstico
 
 ### Artículo 32
@@ -360,7 +379,9 @@ Las entidades federativas fomentarán la inclusión en los códigos de construcc
 
 ## TÍTULO SEXTO — CULTURA DEL AGUA
 
+
 ## Capítulo Primero
+
 Objetivos
 
 ### Artículo 35
@@ -397,6 +418,7 @@ IX. Fomentar en todas las personas una conciencia sobre la corresponsabilidad en
 
 ## Capítulo Segundo — De la Participación Social y Ciudadana
 
+
 ### Artículo 37
 . La Federación, las entidades federativas y los municipios, en al ámbito de sus competencias, promoverán la participación de todos los sectores sociales involucrados en el manejo y cuidado del agua, principalmente a través de:
 
@@ -413,6 +435,7 @@ III. Convenios con instituciones de educación superior, con el objeto de foment
 . Las autoridades de los tres órdenes de gobierno proporcionarán de manera oportuna, accesible, completa, gratuita y comprensible, la información necesaria para hacer efectivo el derecho a participar en la toma de decisiones en materia de gestión y manejo del agua; facilitarán el diálogo y las condiciones equitativas en los procedimientos de deliberación considerando las características sociales, económicas, culturales y geográficas de todas las personas.
 
 ## Capítulo Tercero
+
 Sistemas Comunitarios de Agua y Saneamiento
 
 ### Artículo 40
@@ -429,7 +452,9 @@ Sistemas Comunitarios de Agua y Saneamiento
 
 ## TÍTULO SÉPTIMO
 
+
 ## Capítulo Único
+
 Los Organismos Operadores de Agua
 
 ### Artículo 44
@@ -449,7 +474,7 @@ Dichos ordenamientos promoverán la capacitación y profesionalización necesari
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la expedición del presente Decreto, se realizarán con cargo a los recursos aprobados por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el ejercicio fiscal correspondiente.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+**Tercero.-** Las erogaciones que se generen con motivo de la expedición del presente Decreto, se realizarán con cargo a los recursos aprobados por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el ejercicio fiscal correspondiente.
 Ciudad de México, a 4 de diciembre de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Vicepresidente en funciones de Presidente.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. Simey Olvera Bautista, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

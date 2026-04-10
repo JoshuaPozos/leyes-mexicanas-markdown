@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto fijar las bases y procedimientos para la protección de los derechos de los obtentores de variedades vegetales. Su aplicación e interpretación, para efectos administrativos, corresponderá al Ejecutivo Federal a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
@@ -26,7 +28,8 @@ IV.- Obtentor: Persona física o moral que mediante un proceso de mejoramiento h
 V.- Proceso de mejoramiento: Técnica o conjunto de técnicas y procedimientos que permiten desarrollar una variedad vegetal y que hacen posible su protección por ser nueva, distinta, estable y homogénea;
 VI.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo 33 de esta ley;
 VII.- Secretaría; La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Fracción reformada DOF 09-04-2012 VIII.- Título de obtentor: Documento expedido por la Secretaría en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal, nueva, distinta, estable y homogénea, y IX.- Variedad vegetal: Subdivisión de una especie que incluye a un grupo de individuos con características similares y que se considera estable y homogénea.
+Fracción reformada DOF 09-04-2012
+VIII.- Título de obtentor: Documento expedido por la Secretaría en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal, nueva, distinta, estable y homogénea, y IX.- Variedad vegetal: Subdivisión de una especie que incluye a un grupo de individuos con características similares y que se considera estable y homogénea.
 
 ### Artículo 3o
 .- La Secretaría tendrá las siguientes atribuciones:
@@ -44,7 +47,9 @@ XI.- Proteger la Biodiversidad de las variedades vegetales que son de dominio p�
 
 ## TÍTULO SEGUNDO — PROTECCIÓN DE LOS DERECHOS DEL OBTENTOR DE VARIEDADES VEGETALES
 
+
 ## CAPÍTULO I — DE LOS DERECHOS Y OBLIGACIONES DEL OBTENTOR
+
 
 ### Artículo 4o
 .- Los derechos que esta ley otorga a los obtentores de variedades vegetales son los siguientes:
@@ -76,6 +81,7 @@ II.- Distinta. Tendrá esta característica la variedad vegetal que se distinga 
 III.- Estable. Tendrá esta característica la variedad vegetal que conserve inalterados sus caracteres pertinentes después de reproducciones o propagaciones sucesivas, y IV.- Homogénea. Tendrá esta característica la variedad vegetal que sea suficientemente uniforme en sus caracteres pertinentes, a reserva de la variación previsible por su reproducción sexuada o multiplicación vegetativa.
 
 ## CAPÍTULO II — DE LA SOLICITUD Y OTORGAMIENTO DEL TÍTULO DE OBTENTOR
+
 
 ### Artículo 8o
 .- La Secretaría recibirá y tramitará las solicitudes de expedición de los títulos de obtentor.
@@ -125,6 +131,7 @@ La denominación aprobada, cuando se utilice junto con una marca, nombre comerci
 
 ## CAPÍTULO III — DE LA TRANSMISIÓN DE DERECHOS
 
+
 ### Artículo 19
 .- Los derechos que confiere el título de obtentor, con excepción del derecho a que se refiere la fracción I del artículo 4o. de esta ley, podrán gravarse y transmitirse total o parcialmente, mediante cualquier título legal, ante fedatario público.
 
@@ -148,6 +155,7 @@ Procederá la inscripción en el Registro de las transmisiones de derechos, cuan
 
 ## CAPÍTULO IV — DE LAS LICENCIAS DE EMERGENCIA
 
+
 ### Artículo 25
 .- Para los efectos de esta ley, se entiende que hay circunstancias de emergencia, cuando la explotación de una variedad vegetal se considere indispensable para satisfacer las necesidades básicas de un sector de la población y exista deficiencia en la oferta o abasto.
 En caso de que la variedad vegetal no se hubiere explotado en un plazo de tres años contados a partir de la fecha de expedición del título de obtentor, se procederá como si fuere emergencia.
@@ -166,7 +174,9 @@ III.- El derecho a cubrir la emergencia se otorgará mediante una licencia, por 
 
 ## TÍTULO TERCERO — DEL COMITÉ CALIFICADOR DE VARIEDADES VEGETALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 29
 .- El Comité se integrará garantizando el principio de paridad de género con las siguientes personas integrantes propietarias:
@@ -191,7 +201,9 @@ III.- Dar su opinión para la formulación de normas oficiales mexicanas, relati
 
 ## TÍTULO CUARTO — DEL REGISTRO NACIONAL DE VARIEDADES VEGETALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 33
 .- La Secretaría establecerá un Registro que será público y en el que deberán inscribirse, cuando menos:
@@ -230,7 +242,9 @@ III.- Por orden judicial, y IV.- En los demás casos que se prevean en esta ley 
 
 ## TÍTULO QUINTO — PROCEDIMIENTOS ADMINISTRATIVOS
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 38
 .- Los procedimientos administrativos de nulidad, revocación e imposición de sanciones que establece esta ley, se substanciarán y resolverán con apego a esta ley y, en lo no previsto, en la Ley Federal de Procedimiento Administrativo.
@@ -276,7 +290,9 @@ I.- La resolución definitiva que hubiese quedado firme sobre el fondo de la con
 
 ## TÍTULO SEXTO — DE LAS INFRACCIONES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 48
 .- La Secretaría impondrá, con arreglo a la Ley Federal de Procedimiento Administrativo, por las infracciones que a continuación se indican, las multas siguientes:
@@ -322,8 +338,8 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
@@ -333,9 +349,9 @@ Se reforma el artículo 29 de la Ley Federal de Variedades Vegetales, para queda
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

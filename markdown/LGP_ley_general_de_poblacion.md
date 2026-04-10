@@ -24,12 +24,24 @@ II.- Realizar programas de planeación familiar a través de los servicios educa
 III.- Disminuir la mortalidad;
 IV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan;
 V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural;
-Fracción adicionada DOF 31-12-1974 VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;
-Fracción recorrida DOF 31-12-1974 VII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011 VIII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011 IX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran;
-Fracción recorrida DOF 31-12-1974 X.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados;
-Fracción recorrida DOF 31-12-1974 XI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población;
-Fracción recorrida DOF 31-12-1974 XII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados;
-Fracción recorrida DOF 31-12-1974 XIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y Fracción reformada y recorrida DOF 31-12-1974 XIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen.
+Fracción adicionada DOF 31-12-1974
+VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;
+Fracción recorrida DOF 31-12-1974
+VII.- (Se deroga)
+Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011
+VIII.- (Se deroga)
+Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011
+IX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran;
+Fracción recorrida DOF 31-12-1974
+X.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados;
+Fracción recorrida DOF 31-12-1974
+XI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población;
+Fracción recorrida DOF 31-12-1974
+XII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados;
+Fracción recorrida DOF 31-12-1974
+XIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y
+Fracción reformada y recorrida DOF 31-12-1974
+XIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen.
 Fracción recorrida DOF 31-12-1974
 
 ### Artículo 4o
@@ -43,216 +55,287 @@ Fracción recorrida DOF 31-12-1974
 Cuando se trate de asuntos vinculados a los de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos.
 De la misma manera, cuando el Consejo lo considere procedente, podrá invitar a los titulares de las comisiones legislativas correspondientes del Congreso de la Unión, quienes participarán con voz pero sin voto.
 El Consejo podrá contar con el auxilio de consultorías técnicas e integrar las unidades interdisciplinarias de asesoramiento que estime pertinentes, con especialistas en problemas de desarrollo y demográfica.
-Artículo reformado DOF 03-01-1975, 17-07-1990, 17-04-2009 CAPITULO II Migración
+Artículo reformado DOF 03-01-1975, 17-07-1990, 17-04-2009
+CAPITULO II Migración
 
 ### Artículo 7o
-.- (Se deroga) Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
 
 ### Artículo 8o
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 9o
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 10
 .- Es facultad exclusiva de la Secretaría de Gobernación fijar los lugares destinados al tránsito de personas y regular el mismo, por puertos marítimos, aéreos y fronteras, previa opinión de las Secretarías de Hacienda y Crédito Público, Comunicaciones y Transportes, Salud, Relaciones Exteriores, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y en su caso la de Marina; asimismo consultará a las demás dependencias y organismos que juzgue conveniente.
-Artículo derogado DOF 25-05-2011. Adicionado DOF 09-04-2012 Nota: El artículo 10 de esta Ley fue derogado por Decreto DOF 25-05-2011. Sin embargo, el Decreto posterior del DOF 09-04-2012 estableció que “se reforma el artículo 10, primer párrafo”, con lo cual el artículo 10 se adicionó nuevamente a la Ley, para quedar con un párrafo tal como aquí aparece.
+Artículo derogado DOF 25-05-2011. Adicionado DOF 09-04-2012
+Nota: El artículo 10 de esta Ley fue derogado por Decreto DOF 25-05-2011. Sin embargo, el Decreto posterior del DOF 09-04-2012 estableció que “se reforma el artículo 10, primer párrafo”, con lo cual el artículo 10 se adicionó nuevamente a la Ley, para quedar con un párrafo tal como aquí aparece.
 
 ### Artículo 11
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 12
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 13
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 14
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 15
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 16
-.- (Se deroga) Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011
 
 ### Artículo 17
-.- (Se deroga) Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 04-01-1999. Derogado DOF 25-05-2011
 
 ### Artículo 18
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 19
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 20
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 21
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 22
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 23
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 24
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 25
-.- (Se deroga) Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 26
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 27
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 28
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 29
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 30
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 31
-.- (Se deroga) Artículo derogado DOF 25-05-2011 CAPITULO III Inmigración
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
+CAPITULO III Inmigración
 
 ### Artículo 32
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 33
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 34
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 35
 .- (Se deroga).
 Artículo reformado DOF 17-07-1990. Derogado DOF 27-01-2011
 
 ### Artículo 36
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 37
-.- (Se deroga) Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 38
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 39
-.- (Se deroga) Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 40
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 41
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 42
-.- (Se deroga) Artículo reformado DOF 17-07-1990, 08-11-1996, 02-07-2010, 27-01-2011. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990, 08-11-1996, 02-07-2010, 27-01-2011. Derogado DOF 25-05-2011
 
 ### Artículo 43
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 44
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 45
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 46
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 47
-.- (Se deroga) Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
 
 ### Artículo 48
-.- (Se deroga) Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 49
-.- (Se deroga) Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 50
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 51
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 52
-.- (Se deroga) Artículo reformado DOF 27-01-2011. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 27-01-2011. Derogado DOF 25-05-2011
 
 ### Artículo 53
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 54
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 55
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 56
-.- (Se deroga) Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
 
 ### Artículo 57
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 58
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 59
-.- (Se deroga) Artículo reformado DOF 31-12-1979, 31-12-1981. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 31-12-1979, 31-12-1981. Derogado DOF 25-05-2011
 
 ### Artículo 60
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 61
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 62
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 63
-.- (Se deroga) Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990, 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 64
-.- (Se deroga) Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
 
 ### Artículo 65
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 66
-.- (Se deroga) Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990. Derogado DOF 25-05-2011
 
 ### Artículo 67
-.- (Se deroga) Artículo reformado DOF 17-07-1990, 22-11-2010. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 17-07-1990, 22-11-2010. Derogado DOF 25-05-2011
 
 ### Artículo 68
-.- (Se deroga) Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 69
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 70
-.- (Se deroga) Artículo reformado DOF 31-12-1979. Derogado DOF 31-12-1981. Adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo reformado DOF 31-12-1979. Derogado DOF 31-12-1981. Adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 71
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 72
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 73
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 74
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 75
-.- (Se deroga) Artículo derogado DOF 25-05-2011 CAPITULO IV Emigración
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
+CAPITULO IV Emigración
 
 ### Artículo 76
 .- Por lo que se refiere a emigración, a la Secretaría de Gobernación corresponde:
@@ -260,7 +343,8 @@ Artículo reformado DOF 17-07-1990. Derogado DOF 27-01-2011
 I. Investigar las causas que den o puedan dar origen a la emigración de nacionales y dictar medidas para regularla;
 Fracción reformada DOF 25-05-2011
 
-II. Dictar medidas en colaboración con la Secretaría de Relaciones Exteriores, tendientes a la protección de los emigrantes mexicanos, y Fracción reformada DOF 25-05-2011
+II. Dictar medidas en colaboración con la Secretaría de Relaciones Exteriores, tendientes a la protección de los emigrantes mexicanos, y
+Fracción reformada DOF 25-05-2011
 
 III. Promover en coordinación con las dependencias competentes, la celebración de acuerdos con los gobiernos de otros países, para que la emigración se realice por canales legales, seguros y ordenados, a través de programas de trabajadores temporales u otras formas de migración.
 Fracción adicionada DOF 25-05-2011
@@ -270,13 +354,16 @@ Fracción adicionada DOF 25-05-2011
 Artículo reformado DOF 25-05-2011
 
 ### Artículo 78
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 79
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 80
-.- (Se deroga) Artículo derogado DOF 25-05-2011
+.- (Se deroga)
+Artículo derogado DOF 25-05-2011
 
 ### Artículo 80
 bis. El Gobierno Federal, en coordinación con los Gobiernos de las Entidades Federativas y Municipales deberá:
@@ -284,7 +371,8 @@ bis. El Gobierno Federal, en coordinación con los Gobiernos de las Entidades Fe
 I. Promover el desarrollo y fomentar el arraigo de los mexicanos al territorio nacional;
 
 II. Crear programas para atender los impactos de la emigración en las comunidades de origen, especialmente en lo relacionado con la problemática de la desintegración familiar y con la atención de personas en situación de vulnerabilidad.
-Artículo adicionado DOF 25-05-2011 CAPITULO V Repatriación
+Artículo adicionado DOF 25-05-2011
+CAPITULO V Repatriación
 
 ### Artículo 81
 .- Se consideran como repatriados a los emigrantes nacionales que regresan al país.
@@ -319,8 +407,12 @@ VII. Que se cuente con espacios separados para niñas, niños y adolescentes rep
 VIII. Que en las instalaciones se evite el hacinamiento, y
 
 IX. Recibir un trato digno y humano.
-Párrafo reformado DOF 19-05-2014 Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción.
-Párrafo reformado DOF 19-05-2014 Artículo reformado DOF 25-05-2011 CAPITULO VI Registro Nacional de Población Denominación del Capítulo reformada DOF 22-07-1992
+Párrafo reformado DOF 19-05-2014
+Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción.
+Párrafo reformado DOF 19-05-2014
+Artículo reformado DOF 25-05-2011
+CAPITULO VI Registro Nacional de Población
+Denominación del Capítulo reformada DOF 22-07-1992
 
 ### Artículo 85
 .- La Secretaría de Gobernación tiene a su cargo el registro y la acreditación de la identidad de todas las personas residentes en el país y de los nacionales que residan en el extranjero.
@@ -363,7 +455,8 @@ III. Sexo o género;
 IV. Lugar de nacimiento, y
 
 V. Nacionalidad.
-Párrafo con fracciones adicionado DOF 16-07-2025 Artículo reformado DOF 22-07-1992
+Párrafo con fracciones adicionado DOF 16-07-2025
+Artículo reformado DOF 22-07-1992
 
 ### Artículo 91
 Bis.- La Clave Única de Registro de Población que, además de los datos previstos en el artículo 91 de esta Ley, contenga huellas dactilares y fotografía, será el documento nacional de identificación obligatorio, de aceptación universal y obligatoria en todo el territorio nacional, y estará disponible en formato físico y digital.
@@ -403,7 +496,8 @@ Al efecto, la Secretaría de Gobernación celebrará con ellas, convenios con lo
 
 I. Adoptar la normatividad a que se refiere el artículo anterior;
 
-II. Recabar la información relativa a los nacimientos, discapacidad y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y Fracción reformada DOF 12-07-2018
+II. Recabar la información relativa a los nacimientos, discapacidad y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y
+Fracción reformada DOF 12-07-2018
 
 III. Incluir en el acta correspondiente la Clave Unica de Registro de Población al registrar el nacimiento de las personas.
 Artículo adicionado DOF 22-07-1992
@@ -418,7 +512,9 @@ Artículo adicionado DOF 22-07-1992
 
 ### Artículo 96
 .- La Secretaría de Relaciones Exteriores informará a la de Gobernación, sobre la expedición y cancelación de cartas de naturalización, certificados de nacionalidad y renuncias a la nacionalidad que reciba. De igual manera, proporcionará la información necesaria para que los mexicanos residentes en el extranjero, queden incorporados al Registro Nacional de Población, en los términos establecidos por el reglamento.
-Artículo adicionado DOF 22-07-1992 CAPITULO VII Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana Capítulo adicionado DOF 22-07-1992
+Artículo adicionado DOF 22-07-1992
+CAPITULO VII Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana
+Capítulo adicionado DOF 22-07-1992
 
 ### Artículo 97
 .- El Registro Nacional de Ciudadanos y la expedición de la Cédula de Identidad Ciudadana son servicios de interés público que presta el Estado, a través de la Secretaría de Gobernación.
@@ -448,7 +544,8 @@ Artículo adicionado DOF 22-07-1992
 
 ### Artículo 102
 .- Cuando la Secretaría de Gobernación encuentre alguna irregularidad en los documentos presentados por el interesado, suspenderá el registro correspondiente e informará por escrito las causas por las cuales no procede su trámite.
-Los ciudadanos que estén en el supuesto anterior, podrán solicitar ante la Secretaría de Gobernación la aclaración respectiva, en los términos establecidos en el reglamento correspondiente Artículo adicionado DOF 22-07-1992
+Los ciudadanos que estén en el supuesto anterior, podrán solicitar ante la Secretaría de Gobernación la aclaración respectiva, en los términos establecidos en el reglamento correspondiente
+Artículo adicionado DOF 22-07-1992
 
 ### Artículo 103
 .- Una vez cumplidos los requisitos establecidos, la Secretaría de Gobernación deberá expedir y poner a disposición del ciudadano la respectiva Cédula de Identidad Ciudadana.
@@ -507,7 +604,9 @@ Artículo adicionado DOF 22-07-1992
 
 ### Artículo 112
 .- La Secretaría de Gobernación proporcionará al Instituto Nacional Electoral, la información del Registro Nacional de Ciudadanos que sea necesaria para la integración de los instrumentos electorales, en los términos previstos por la ley. Igualmente podrá proporcionarla a las demás dependencias y entidades públicas que la requieran para el ejercicio de sus atribuciones.
-Artículo adicionado DOF 22-07-1992. Reformado DOF 01-12-2015 CAPITULO VIII Sanciones Capítulo recorrido (antes Capítulo VII) DOF 22-07-1992
+Artículo adicionado DOF 22-07-1992. Reformado DOF 01-12-2015
+CAPITULO VIII Sanciones
+Capítulo recorrido (antes Capítulo VII) DOF 22-07-1992
 
 ### Artículo 113
 .- Los empleados de la Secretaría de Gobernación serán sancionados con suspensión de empleo hasta por treinta días o destitución en caso grave, cuando:
@@ -527,7 +626,8 @@ V. (Se deroga).
 Fracción reformada DOF 22-11-2010. Derogada DOF 25-05-2011
 
 VI. Cometan actos u omisiones que violen los derechos humanos de las personas que se encuentran sujetas a esta ley.
-Fracción adicionada DOF 22-11-2010 Artículo recorrido (antes artículo 93) DOF 22-07-1992
+Fracción adicionada DOF 22-11-2010
+Artículo recorrido (antes artículo 93) DOF 22-07-1992
 
 ### Artículo 114
 .- Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia.
@@ -664,6 +764,7 @@ Artículo recorrido (antes artículo 123) DOF 22-07-1992. Reformado DOF 02-07-20
 Artículo adicionado DOF 26-12-1990. Recorrido (antes artículo 124) DOF 22-07-1992. Derogado DOF 25-05-2011
 
 ## CAPÍTULO IX — DEL PROCEDIMIENTO MIGRATORIO
+
 Capítulo adicionado DOF 08-11-1996
 
 ### Artículo 145
@@ -691,6 +792,7 @@ Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
 Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ## CAPÍTULO X — DEL PROCEDIMIENTO DE VERIFICACIÓN Y VIGILANCIA
+
 Capítulo adicionado DOF 08-11-1996
 
 ### Artículo 151
@@ -719,7 +821,8 @@ Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
 
 ### Artículo 157
 .- (Se deroga).
-Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011 ARTICULOS TRANSITORIOS
+Artículo adicionado DOF 08-11-1996. Derogado DOF 25-05-2011
+ARTICULOS TRANSITORIOS
 
 ### Artículo Primero
 Se abroga la Ley General de Población de veintitrés de diciembre de mil novecientos cuarenta y siete y sus reformas de veinticuatro de diciembre de mil novecientos cuarenta y nueve, derogándose todas las demás disposiciones que se opongan a la presente Ley.
@@ -818,7 +921,7 @@ Se reforma el inciso f) del artículo 118; se adiciona un segundo párrafo al ar
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 9 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011
@@ -829,19 +932,19 @@ Se reforma el artículo 77, el artículo 81, los artículos 83 y 84; se derogan 
 ## TRANSITORIOS
 
 DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.-** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO QUINCUAGÉSIMO NOVENO. Se reforma el artículo 10, primer párrafo de la Ley General de Población, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma el artículo 84 de la Ley General de Población.
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2014
@@ -887,14 +990,14 @@ Se adicionan los artículos 91, párrafo segundo; 91 Bis; 91 Ter; 91 Quater; 91 
 
 ## Transitorios
 
-**Primero.** La Secretaría de Gobernación, con el apoyo técnico de la Agencia de Transformación Digital y Telecomunicaciones, desarrollará la Plataforma Única de Identidad en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto.
-**Segundo.** Para los efectos del último párrafo del artículo 91 Bis del ordenamiento que se adiciona, las autoridades de los tres órdenes de gobierno habilitarán en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto los mecanismos necesarios que permitan la consulta, transferencia y validación de la información correspondiente para su integración a la Clave Única de Registro de Población mediante la Plataforma Única de Identidad.
-**Tercero.** A la entrada en operación del Registro del Sistema Nacional de Salud que prevé la Ley General de Salud, la Secretaría de Gobernación, a través del Registro Nacional de Población, y en coordinación con las autoridades competentes en materia de salud, adoptará las medidas necesarias para su integración con la Clave Única de Registro de Población.
-**Cuarto.** Para los efectos del artículo 91 Sexies de este ordenamiento, en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, todos los entes públicos y privados adoptarán las medidas necesarias para incluir la Clave Única de Registro de Población como requisito en los trámites y servicios que tengan a su cargo.
-**Quinto.** La Secretaría de Gobernación, en un plazo no mayor a 120 días naturales siguientes a la entrada en vigor del presente Decreto, establecerá el Programa de Integración al Registro Nacional de Población de los datos biométricos de niñas, niños y adolescentes, determinando la coordinación y colaboración con aquellas autoridades de cualquier orden de gobierno que correspondan, las cuales contribuirán de manera efectiva y obligatoria a la integración de la Clave Única de Registro de Población.
+**Primero.-** La Secretaría de Gobernación, con el apoyo técnico de la Agencia de Transformación Digital y Telecomunicaciones, desarrollará la Plataforma Única de Identidad en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+**Segundo.-** Para los efectos del último párrafo del artículo 91 Bis del ordenamiento que se adiciona, las autoridades de los tres órdenes de gobierno habilitarán en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto los mecanismos necesarios que permitan la consulta, transferencia y validación de la información correspondiente para su integración a la Clave Única de Registro de Población mediante la Plataforma Única de Identidad.
+**Tercero.-** A la entrada en operación del Registro del Sistema Nacional de Salud que prevé la Ley General de Salud, la Secretaría de Gobernación, a través del Registro Nacional de Población, y en coordinación con las autoridades competentes en materia de salud, adoptará las medidas necesarias para su integración con la Clave Única de Registro de Población.
+**Cuarto.-** Para los efectos del artículo 91 Sexies de este ordenamiento, en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, todos los entes públicos y privados adoptarán las medidas necesarias para incluir la Clave Única de Registro de Población como requisito en los trámites y servicios que tengan a su cargo.
+**Quinto.-** La Secretaría de Gobernación, en un plazo no mayor a 120 días naturales siguientes a la entrada en vigor del presente Decreto, establecerá el Programa de Integración al Registro Nacional de Población de los datos biométricos de niñas, niños y adolescentes, determinando la coordinación y colaboración con aquellas autoridades de cualquier orden de gobierno que correspondan, las cuales contribuirán de manera efectiva y obligatoria a la integración de la Clave Única de Registro de Población.
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

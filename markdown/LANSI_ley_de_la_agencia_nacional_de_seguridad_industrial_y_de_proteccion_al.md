@@ -17,7 +17,9 @@ LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMB
 
 ## TÍTULO PRIMERO — Disposiciones Generales
 
+
 ## Capítulo Único
+
 Naturaleza y Objeto
 
 ### Artículo 1o
@@ -76,9 +78,11 @@ XVI. Supervisión: Acto de autoridad mediante el cual la Agencia verifica, inspe
 .- En lo no previsto por la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Bioseguridad de Organismos Genéticamente Modificados, y la Ley Federal de Procedimiento Administrativo.
 
 ## TÍTULO SEGUNDO
+
 Atribuciones de la Agencia y Bases de Coordinación
 
 ## Capítulo I
+
 Atribuciones de la Agencia
 
 ### Artículo 5o
@@ -204,6 +208,7 @@ VII. Autorizaciones de cambio de uso del suelo en terrenos forestales, en térmi
 VIII. Permisos para la realización de actividades de liberación al ambiente de organismos genéticamente modificados para bioremediación de sitios contaminados con hidrocarburos, así como establecer y dar seguimiento a las condiciones y medidas a las que se deberán sujetar dichas actividades, conforme a la Ley de Bioseguridad de Organismos Genéticamente Modificados y de su Reglamento.
 
 ## Capítulo II
+
 Coordinación con otras Autoridades
 
 ### Artículo 8o
@@ -223,6 +228,7 @@ La Agencia está obligada a denunciar ante la Fiscalía General de la República
 Párrafo reformado DOF 20-05-2021
 
 ## Capítulo III
+
 Sistema de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente
 
 ### Artículo 12
@@ -313,6 +319,7 @@ SECTOR HIDROCARBUROS
 .- El auditor externo estará obligado a conservar la documentación, información y demás elementos utilizados para elaborar su dictamen, informe u opinión, por lo menos, durante un plazo de diez años. Para tales efectos, se podrán utilizar medios automatizados o digitalizados.
 
 ## Capítulo IV
+
 Medidas de Seguridad
 
 ### Artículo 22
@@ -336,6 +343,7 @@ Al ejercer cualquiera de las medidas de seguridad previstas en el presente artí
 .- Contra los actos de la Agencia podrá interponerse opcionalmente el recurso de revisión, conforme a la Ley Federal de Procedimiento Administrativo, o el juicio de nulidad conforme a la Ley Federal del Procedimiento Contencioso Administrativo.
 
 ## Capítulo V
+
 Infracciones y Sanciones
 
 ### Artículo 25
@@ -369,13 +377,16 @@ V. El beneficio directamente obtenido por el infractor por los actos relacionado
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Agencia imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida.
 
 ## TÍTULO TERCERO
+
 Integración y Funcionamiento de la Agencia
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 27
 .- La Agencia estará a cargo de la persona Titular de la Dirección Ejecutiva, quien será designada y removida libremente por el Ejecutivo Federal.
-Párrafo reformado DOF 11-05-2022 La Agencia contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, conforme se establezca en su Reglamento Interior.
+Párrafo reformado DOF 11-05-2022
+La Agencia contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, conforme se establezca en su Reglamento Interior.
 
 ### Artículo 28
 .- Los servidores públicos de la Agencia sujetarán sus actividades a un código de conducta que será público, el cual establecerá como mínimo:
@@ -394,6 +405,7 @@ Lo dispuesto en el presente artículo será sin perjuicio de la participación d
 El Director Ejecutivo de la Agencia, mediante acuerdo administrativo interno, emitirá los lineamientos que regulen el desarrollo de las audiencias previstas en el presente artículo.
 
 ## Capítulo II — Del Director Ejecutivo
+
 SECTOR HIDROCARBUROS
 
 ### Artículo 30
@@ -458,16 +470,19 @@ VI. Las demás que se señalen en el Reglamento Interior y las necesarias para e
 ### Artículo 34
 .- La persona Titular de la Dirección Ejecutiva se apoyará de un Comité Científico, órgano de consulta, que tendrá como objeto proporcionar elementos técnicos para la toma de decisiones sobre los temas que por su complejidad requieran el sustento de especialistas en la materia de que se trate.
 Dicho Comité estará integrado de manera paritaria por cinco vocalías, nombradas por la persona Titular de la Dirección Ejecutiva. Su desempeño será honorífico y tendrán las facultades que se establezcan en el Reglamento Interior.
-Artículo reformado DOF 11-05-2022 SECTOR HIDROCARBUROS
+Artículo reformado DOF 11-05-2022
+SECTOR HIDROCARBUROS
 
 ### Artículo 35
 .- Los servidores públicos de la Agencia podrán contar con un seguro de responsabilidad civil y asistencia legal, el cual no formará parte de las prestaciones que por norma les corresponden.
 Para tal fin, la Agencia creará anualmente las provisiones presupuestarias correspondientes en su presupuesto de gasto de operación.
 
 ## TÍTULO CUARTO
+
 Ingresos y Presupuesto
 
 ## Capítulo Único
+
 
 ### Artículo 36
 .- La Agencia podrá disponer de los ingresos derivados de los derechos y aprovechamientos que se establezcan por los servicios que correspondan conforme a sus atribuciones para financiar su presupuesto total.
@@ -493,27 +508,27 @@ VI. Estará sujeto a las obligaciones en materia de transparencia conforme a la 
 ## TRANSITORIOS
 
 SECTOR HIDROCARBUROS
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Director Ejecutivo de la Agencia, será designado por el Titular del Ejecutivo Federal en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente Ley.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Director Ejecutivo de la Agencia, será designado por el Titular del Ejecutivo Federal en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente Ley.
 Para efecto de designar por primera vez al Director Ejecutivo de la Agencia, no será aplicable, por única ocasión, la fracción V del artículo 30 de esta Ley.
-**Tercero.** El Ejecutivo Federal expedirá el Reglamento Interior de la Agencia dentro de los siguientes ciento ochenta días naturales contados a partir del nombramiento del Director Ejecutivo.
-**Cuarto.** La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán despachando los asuntos que les competen, con base en las disposiciones legales aplicables, hasta la entrada en vigor del Reglamento Interior de la Agencia.
+**Tercero.-** El Ejecutivo Federal expedirá el Reglamento Interior de la Agencia dentro de los siguientes ciento ochenta días naturales contados a partir del nombramiento del Director Ejecutivo.
+**Cuarto.-** La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán despachando los asuntos que les competen, con base en las disposiciones legales aplicables, hasta la entrada en vigor del Reglamento Interior de la Agencia.
 En los asuntos que se encuentren en trámite a la entrada en vigor del Reglamento Interior de la Agencia, la autoridad que los tenga a su cargo decretará una suspensión del procedimiento y los remitirá a la Agencia en un plazo que no exceda de quince días hábiles.
 La Agencia reanudará los procedimientos correspondientes en un plazo máximo de diez días hábiles posteriores a su recepción.
 Los recursos de revisión en contra de los actos emitidos por las unidades administrativas de la Secretaría antes de la entrada en vigor de la Agencia, continuarán su trámite y serán resueltos por dicha dependencia del Ejecutivo Federal.
-**Quinto.** En tanto no entren en vigor las disposiciones administrativas de carácter general y normas oficiales mexicanas que expida la Agencia, continuarán vigentes y serán obligatorias para todos los Regulados, los lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como normas oficiales mexicanas, emitidas por la Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, que regulen las actividades objeto de la presente Ley, y que hayan sido publicadas en el Diario Oficial de la Federación o en los portales de internet de dichas dependencias u órganos reguladores.
-**Sexto.** La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos, la Comisión Reguladora de Energía y Petróleos Mexicanos deberán instaurar un procedimiento de coordinación con la Agencia, a fin de transmitir toda la información, procedimientos, expedientes, estadística y cualquier otra documentación que tengan en su poder, correspondiente a las atribuciones, competencias y facultades de la Agencia.
-**Séptimo.** La Cámara de Diputados realizará las previsiones presupuestales necesarias para el efecto de que la Agencia cuente con el presupuesto necesario para iniciar sus funciones.
+**Quinto.-** En tanto no entren en vigor las disposiciones administrativas de carácter general y normas oficiales mexicanas que expida la Agencia, continuarán vigentes y serán obligatorias para todos los Regulados, los lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como normas oficiales mexicanas, emitidas por la Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, que regulen las actividades objeto de la presente Ley, y que hayan sido publicadas en el Diario Oficial de la Federación o en los portales de internet de dichas dependencias u órganos reguladores.
+**Sexto.-** La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos, la Comisión Reguladora de Energía y Petróleos Mexicanos deberán instaurar un procedimiento de coordinación con la Agencia, a fin de transmitir toda la información, procedimientos, expedientes, estadística y cualquier otra documentación que tengan en su poder, correspondiente a las atribuciones, competencias y facultades de la Agencia.
+**Séptimo.-** La Cámara de Diputados realizará las previsiones presupuestales necesarias para el efecto de que la Agencia cuente con el presupuesto necesario para iniciar sus funciones.
 Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de las dependencias y entidades que estén relacionadas con las funciones que se transfieren o asignan a la Agencia por virtud de este Decreto, se le traspasarán a fin de apoyar el cumplimiento de sus funciones.
 Los oficiales mayores o equivalentes serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimiento al presente Decreto.
-**Octavo.** Se derogan todas aquellas disposiciones que contravengan a la presente Ley.
+**Octavo.-** Se derogan todas aquellas disposiciones que contravengan a la presente Ley.
 SECTOR HIDROCARBUROS
-**Noveno.** Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de esta Ley, continuarán vigentes en los términos y condiciones en que fueron expedidas.
+**Noveno.-** Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de esta Ley, continuarán vigentes en los términos y condiciones en que fueron expedidas.
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 México, D.F., a 31 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 SECTOR HIDROCARBUROS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
@@ -523,40 +538,40 @@ Se reforma el tercer párrafo del artículo 11; y la fracción IV del artículo 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que SECTOR HIDROCARBUROS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que SECTOR HIDROCARBUROS pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
 SECTOR HIDROCARBUROS
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 SECTOR HIDROCARBUROS Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 SECTOR HIDROCARBUROS DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
@@ -566,9 +581,9 @@ Se reforman los artículos 27, primer párrafo, y 34 de la Ley de la Agencia Nac
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 SECTOR HIDROCARBUROS Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

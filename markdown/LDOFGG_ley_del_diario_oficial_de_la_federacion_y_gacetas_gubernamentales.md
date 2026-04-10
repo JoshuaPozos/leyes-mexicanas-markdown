@@ -9,27 +9,44 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 24 de diciembre de
 MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "El Congreso de los Estados Unidos Mexicanos, Decreta:
 LEY DEL DIARIO OFICIAL DE LA FEDERACION Y GACETAS GUBERNAMENTALES CAPITULO PRIMERO Del Diario Oficial de la Federación ARTICULO 1o.- La presente ley tiene por objeto reglamentar la publicación del Diario Oficial de la Federación para favorecer su máxima publicidad, accesibilidad y disponibilidad; así como establecer las bases generales para la creación de las gacetas gubernamentales sectoriales.
-Artículo reformado DOF 31-05-2019 ARTICULO 2o.- El Diario Oficial de la Federación es el órgano del Gobierno Constitucional de los Estados Unidos Mexicanos, de carácter permanente e interés público, cuya función consiste en publicar en el territorio nacional, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos, expedidos por los Poderes de la Federación y los Órganos Constitucionales Autónomos, en sus respectivos ámbitos de competencia, a fin de que éstos sean aplicados y observados debidamente.
-Artículo reformado DOF 31-05-2019 ARTICULO 3o.- Serán materia de publicación en el Diario Oficial de la Federación:
+Artículo reformado DOF 31-05-2019
+ARTICULO 2o.- El Diario Oficial de la Federación es el órgano del Gobierno Constitucional de los Estados Unidos Mexicanos, de carácter permanente e interés público, cuya función consiste en publicar en el territorio nacional, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos, expedidos por los Poderes de la Federación y los Órganos Constitucionales Autónomos, en sus respectivos ámbitos de competencia, a fin de que éstos sean aplicados y observados debidamente.
+Artículo reformado DOF 31-05-2019
+ARTICULO 3o.- Serán materia de publicación en el Diario Oficial de la Federación:
 I.- Las leyes y decretos expedidos por el Congreso de la Unión, así como cualquier otro acto o resolución relativos a la actividad parlamentaria que sean de interés general;
-Fracción reformada DOF 31-05-2019 general;
+Fracción reformada DOF 31-05-2019
+general;
 III.- Los acuerdos, circulares y órdenes de las Dependencias del Ejecutivo Federal, que sean de interés general;
 IV.- Los Tratados celebrados por el Gobierno de los Estados Unidos Mexicanos;
 V.- Los acuerdos y resoluciones de interés general emitidos por el Pleno de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
-Fracción reformada DOF 31-05-2019 VI.- Las disposiciones jurídicas que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial;
-Fracción reformada DOF 05-06-2012, 31-05-2019 VII.- Los acuerdos y resoluciones de carácter general que emitan los Órganos Constitucionales Autónomos que sean de interés general;
-Fracción adicionada DOF 31-05-2019 VIII.- Aquellos actos o resoluciones que por propia importancia así lo determine el Presidente de la República, y Fracción reformada DOF 05-06-2012. Recorrida DOF 31-05-2019 IX.- Las fe de erratas que la autoridad estime necesarias.
-Fracción adicionada DOF 05-06-2012. Recorrida DOF 31-05-2019 ARTICULO 4o.- Es obligación del Ejecutivo Federal publicar en el Diario Oficial de la Federación, los ordenamientos y disposiciones a que se refiere el artículo anterior, así como asegurar su adecuada divulgación, en condiciones de accesibilidad, inclusión, asequibilidad, adaptabilidad, universalidad, interoperabilidad y simplificación en su consulta.
-Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 5o.- El Diario Oficial de la Federación se publicará en forma electrónica y su edición tendrá carácter oficial.
+Fracción reformada DOF 31-05-2019
+VI.- Las disposiciones jurídicas que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial;
+Fracción reformada DOF 05-06-2012, 31-05-2019
+VII.- Los acuerdos y resoluciones de carácter general que emitan los Órganos Constitucionales Autónomos que sean de interés general;
+Fracción adicionada DOF 31-05-2019
+VIII.- Aquellos actos o resoluciones que por propia importancia así lo determine el Presidente de la República, y
+Fracción reformada DOF 05-06-2012. Recorrida DOF 31-05-2019
+IX.- Las fe de erratas que la autoridad estime necesarias.
+Fracción adicionada DOF 05-06-2012. Recorrida DOF 31-05-2019
+ARTICULO 4o.- Es obligación del Ejecutivo Federal publicar en el Diario Oficial de la Federación, los ordenamientos y disposiciones a que se refiere el artículo anterior, así como asegurar su adecuada divulgación, en condiciones de accesibilidad, inclusión, asequibilidad, adaptabilidad, universalidad, interoperabilidad y simplificación en su consulta.
+Artículo reformado DOF 05-06-2012, 31-05-2019
+ARTICULO 5o.- El Diario Oficial de la Federación se publicará en forma electrónica y su edición tendrá carácter oficial.
 Además de la edición electrónica, se imprimirá un ejemplar, con idénticas características y contenido, para efectos de evidencia documental física, así como para garantizar la publicación del Diario Oficial de la Federación en los casos en que resulte imposible por causas de fuerza mayor, acceder a su edición electrónica. El ejemplar impreso quedará en custodia en la hemeroteca del propio organismo.
 Adicionalmente se expedirán 6 copias certificadas que serán remitidas a las siguientes instituciones: la hemeroteca de la Universidad Nacional Autónoma de México, en el Archivo General de la Nación, en la Presidencia de la Mesa Directiva de la Cámara de Diputados, en la Presidencia de la Mesa Directiva del Senado de la República, en la Presidencia de la Suprema Corte de Justicia de la Nación y en la oficina de la Presidencia de la República. En caso de solicitarlo, los órganos con autonomía constitucional podrán así mismo contar con una copia certificada del ejemplar impreso del Diario Oficial de la Federación.
-Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 6o.- El Diario Oficial de la Federación deberá contener por lo menos los siguientes datos:
+Artículo reformado DOF 05-06-2012, 31-05-2019
+ARTICULO 6o.- El Diario Oficial de la Federación deberá contener por lo menos los siguientes datos:
 
 I. El nombre Diario Oficial de la Federación, y la leyenda “Órgano del Gobierno Constitucional de los Estados Unidos Mexicanos”;
 II.- Fecha y número de publicación;
-Fracción reformada DOF 31-05-2019 III.- Índice de Contenido, y Fracción reformada DOF 31-05-2019 IV.- Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición.
-Fracción adicionada DOF 31-05-2019 Artículo reformado DOF 05-06-2012 ARTICULO 7o.- El Diario Oficial de la Federación podrá ser publicado todos los días del año y, en caso de así requerirse, la autoridad podrá ordenar más de una edición por día.
-Artículo reformado DOF 05-06-2012 ARTICULO 7o. Bis.- Corresponde a la autoridad competente:
+Fracción reformada DOF 31-05-2019
+III.- Índice de Contenido, y
+Fracción reformada DOF 31-05-2019
+IV.- Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición.
+Fracción adicionada DOF 31-05-2019
+Artículo reformado DOF 05-06-2012
+ARTICULO 7o.- El Diario Oficial de la Federación podrá ser publicado todos los días del año y, en caso de así requerirse, la autoridad podrá ordenar más de una edición por día.
+Artículo reformado DOF 05-06-2012
+ARTICULO 7o. Bis.- Corresponde a la autoridad competente:
 I.- Difundir la edición electrónica del Diario Oficial de la Federación, el mismo día de su edición, salvo que ello resulte imposible por causas de fuerza mayor;
 Fracción reformada DOF 31-05-2019. Fe de erratas DOF 10-06-2019
 
@@ -38,14 +55,22 @@ III.- Custodiar, conservar y preservar la edición electrónica e impresa del Di
 Fracción reformada DOF 31-05-2019
 
 IV. Velar por la accesibilidad de la edición electrónica, en los términos que determine la autoridad; y V.- Incorporar el desarrollo y la innovación tecnológica a los procesos de edición y difusión del Diario Oficial de la Federación.
-Fracción reformada DOF 31-05-2019 Artículo adicionado DOF 05-06-2012 ARTICULO 8o.- El acceso a la edición electrónica del Diario Oficial de la Federación será gratuito.
+Fracción reformada DOF 31-05-2019
+Artículo adicionado DOF 05-06-2012
+ARTICULO 8o.- El acceso a la edición electrónica del Diario Oficial de la Federación será gratuito.
 La autoridad competente determinará las condiciones de acceso a la edición electrónica del Diario Oficial de la Federación y señalará los domicilios de las oficinas en las Entidades Federativas en las que se brindarán facilidades para la consulta del Diario Oficial de la Federación a las personas que no tengan posibilidad de acceder a tecnologías de la información y comunicación.
-Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 9o.- La autoridad competente podrá expedir copias certificadas de la edición impresa del Diario Oficial de la Federación. El costo de las mismas será el que se determine en la legislación aplicable.
-Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 10.- La autoridad competente deberá adoptar las medidas de índole técnicoadministrativas, ambientales y tecnológicas, para la adecuada custodia y preservación de las ediciones del Diario Oficial de la Federación y documentos de archivo, tanto en su formato electrónico como impreso.
-Artículo reformado DOF 31-05-2019 ARTICULO 10 Bis.- Se deroga.
-Artículo adicionado DOF 05-06-2012. Derogado DOF 31-05-2019 ARTICULO 11.- Se deroga.
-Artículo reformado DOF 05-06-2012. Derogado DOF 31-05-2019 ARTICULO 12. Se deroga.
-Artículo derogado DOF 05-06-2012 CAPITULO SEGUNDO De las Gacetas Gubernamentales ARTICULO 13.- Para los efectos de esta ley se entiende por gaceta gubernamental, el órgano de publicación de los acuerdos, órdenes, resoluciones, circulares, notificaciones, avisos y en general todos aquellos comunicados emitidos por las dependencias del Ejecutivo Federal que no corresponda publicar en el Diario Oficial de la Federación.
+Artículo reformado DOF 05-06-2012, 31-05-2019
+ARTICULO 9o.- La autoridad competente podrá expedir copias certificadas de la edición impresa del Diario Oficial de la Federación. El costo de las mismas será el que se determine en la legislación aplicable.
+Artículo reformado DOF 05-06-2012, 31-05-2019
+ARTICULO 10.- La autoridad competente deberá adoptar las medidas de índole técnicoadministrativas, ambientales y tecnológicas, para la adecuada custodia y preservación de las ediciones del Diario Oficial de la Federación y documentos de archivo, tanto en su formato electrónico como impreso.
+Artículo reformado DOF 31-05-2019
+ARTICULO 10 Bis.- Se deroga.
+Artículo adicionado DOF 05-06-2012. Derogado DOF 31-05-2019
+ARTICULO 11.- Se deroga.
+Artículo reformado DOF 05-06-2012. Derogado DOF 31-05-2019
+ARTICULO 12. Se deroga.
+Artículo derogado DOF 05-06-2012
+CAPITULO SEGUNDO De las Gacetas Gubernamentales ARTICULO 13.- Para los efectos de esta ley se entiende por gaceta gubernamental, el órgano de publicación de los acuerdos, órdenes, resoluciones, circulares, notificaciones, avisos y en general todos aquellos comunicados emitidos por las dependencias del Ejecutivo Federal que no corresponda publicar en el Diario Oficial de la Federación.
 ARTICULO 14.- El Titular del Ejecutivo Federal, mediante acuerdo, autorizará la edición de las gacetas gubernamentales que se hagan necesarias, por sectores o materias, atendiendo a la esfera de competencia de las dependencias del propio Ejecutivo.
 ARTICULO 15.- Cuando conforme a las leyes se deba dar publicidad a actos, documentos o avisos por parte de las entidades paraestatales de la Administración Pública Federal, o de los particulares, salvo que la misma deba llevarse a cabo específicamente en el Diario Oficial de la Federación o en otro instrumento, su publicación se podrá realizar en la gaceta gubernamental del sector o área con el que guarden relación.
 ARTICULO 16.- Las publicaciones se denominarán "Gaceta", complementándose su denominación con el agregado que distinga al sector o área correspondiente.
@@ -65,9 +90,9 @@ Se reforman los artículos 4o.; 5o., 6o., 7o., 8o., 9o. y 11; se adicionan los a
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente decreto.
-**Tercero.** La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
+**Primero.-** El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente decreto.
+**Tercero.-** La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
 México, D.F., a 24 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales.
 Publicado en el Diario Oficial de la Federación el 31 de mayo de 2019
@@ -77,10 +102,10 @@ Se reforman los artículos 1o.; 2o.; 3o., fracciones I, V y VI; 4o.; 5o.; 7o. Bi
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el 1o. de julio de 2019.
-**Segundo.** La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento.
-**Tercero.** Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
-**Cuarto.** La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de julio de 2019.
+**Segundo.-** La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento.
+**Tercero.-** Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+**Cuarto.-** La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
 Ciudad de México, a 29 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mónica Bautista Rodríguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 FE de erratas al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales, publicado en la edición matutina del 31 de mayo de 2019.
 Publicada en el Diario Oficial de la Federación el 10 de junio de 2019 En la Primera Sección, página 3, segundo párrafo del ARTÍCULO 7o. Bis, dice:

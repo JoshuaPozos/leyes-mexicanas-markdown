@@ -13,7 +13,9 @@ Denominación de la Ley reformada DOF 15-01-2026
 
 ## TÍTULO I
 
+
 ## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
+
 
 ### Artículo 1
 .- La presente Ley tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten a la Nación hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, la paridad de género y la lucha contra toda discriminación basada en el sexo o género. Sus disposiciones son de orden público e interés social y de observancia general en todo el Territorio Nacional.
@@ -36,7 +38,8 @@ Artículo reformado DOF 21-10-2021, 15-01-2026
 .- Para los efectos de esta Ley se entenderá por:
 
 I. Acciones Afirmativas. Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
-Fracción reformada DOF 14-11-2013 I Bis. Brecha salarial de género. Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+Fracción reformada DOF 14-11-2013
+I Bis. Brecha salarial de género. Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
 Fracción adicionada DOF 16-12-2024
 
 II. Discriminación. Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
@@ -47,7 +50,8 @@ III. Discriminación contra la Mujer. Toda distinción, exclusión o restricció
 Fracción adicionada DOF 14-11-2013
 
 IV. Igualdad de Género. Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar;
-Fracción adicionada DOF 14-11-2013. Reformada DOF 30-03-2022 IV Bis. Igualdad salarial. Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
+Fracción adicionada DOF 14-11-2013. Reformada DOF 30-03-2022
+IV Bis. Igualdad salarial. Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 Fracción adicionada DOF 16-12-2024
 
 V. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
@@ -73,7 +77,9 @@ Fracción adicionada DOF 15-01-2026
 
 ## TÍTULO II — DE LAS AUTORIDADES E INSTITUCIONES
 
+
 ## CAPÍTULO PRIMERO — DE LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
+
 
 ### Artículo 7
 .- La Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, ejercerán sus atribuciones en materia de esta Ley de conformidad con la distribución de competencias previstas en la misma y en otros ordenamientos aplicables a los tres órdenes de gobierno.
@@ -95,7 +101,8 @@ II. Establecer mecanismos de coordinación para lograr la transversalidad de la 
 III. Impulsar la vinculación interinstitucional en el marco del Sistema Nacional;
 Fracción reformada DOF 15-01-2026
 
-IV. Coordinar las tareas en materia de igualdad sustantiva entre mujeres y hombres mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia nacional, y Fracción reformada DOF 15-01-2026
+IV. Coordinar las tareas en materia de igualdad sustantiva entre mujeres y hombres mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia nacional, y
+Fracción reformada DOF 15-01-2026
 
 V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida familiar, de salud, de cuidados, social, laboral, política, deportiva, cultural y civil.
 Fracción reformada DOF 23-04-2018, 16-12-2024, 15-01-2026
@@ -107,6 +114,7 @@ Fracción reformada DOF 23-04-2018, 16-12-2024, 15-01-2026
 .- Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capítulo, intervenga el área responsable de la Comisión Nacional de los Derechos Humanos de acuerdo con las atribuciones que su propia ley le confiere.
 
 ## CAPÍTULO SEGUNDO — DEL GOBIERNO FEDERAL
+
 
 ### Artículo 12
 .- Corresponde al Gobierno Federal:
@@ -127,7 +135,8 @@ V. Garantizar la igualdad de oportunidades, mediante la adopción de políticas,
 
 VI. Celebrar acuerdos nacionales e internacionales de coordinación, cooperación y concertación en materia de igualdad de género;
 
-VII. Incorporar en los Presupuestos de Egresos de la Federación la asignación de recursos para el cumplimiento de la Política Nacional, y Fracción reformada DOF 15-01-2026
+VII. Incorporar en los Presupuestos de Egresos de la Federación la asignación de recursos para el cumplimiento de la Política Nacional, y
+Fracción reformada DOF 15-01-2026
 
 VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
@@ -135,6 +144,7 @@ VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 .- Las autoridades de los tres órdenes de gobierno tendrán a su cargo la aplicación de la presente Ley, sin perjuicio de las atribuciones que les correspondan.
 
 ## CAPÍTULO TERCERO — DE LAS ENTIDADES FEDERATIVAS
+
 Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 14
@@ -146,7 +156,8 @@ Artículo reformado DOF 15-01-2026
 Párrafo reformado DOF 15-01-2026
 
 I. Conducir la política local en materia de igualdad sustantiva entre mujeres y hombres;
-Fracción reformada DOF 15-01-2026 I Bis. Incorporar en los presupuestos de egresos de las Entidades Federativas, la asignación de recursos para el cumplimiento de la política local en materia de igualdad;
+Fracción reformada DOF 15-01-2026
+I Bis. Incorporar en los presupuestos de egresos de las Entidades Federativas, la asignación de recursos para el cumplimiento de la política local en materia de igualdad;
 Fracción adicionada DOF 06-03-2012. Reformada DOF 15-01-2026
 
 II. Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad sustantiva entre mujeres y hombres, mediante las instancias administrativas que se ocupen del adelanto de las mujeres en las Entidades Federativas;
@@ -157,7 +168,9 @@ III. Elaborar las políticas públicas locales, con una proyección de mediano y
 IV. Promover, en coordinación con las dependencias de la Administración Pública Federal la aplicación de la presente Ley.
 
 ## CAPÍTULO CUARTO — DE LOS MUNICIPIOS Y DE LAS DEMARCACIONES TERRITORIALES DE LA CIUDAD DE
-MÉXICO Denominación del Capítulo reformada DOF 15-01-2026
+
+MÉXICO
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 16
 .- De conformidad con lo dispuesto en la presente Ley y las leyes locales de la materia, corresponde a los Municipios y a las demarcaciones territoriales de la Ciudad de México:
@@ -170,18 +183,23 @@ II. Coadyuvar con el Gobierno Federal y con el gobierno de la entidad federativa
 III. Proponer al Poder Ejecutivo de la entidad correspondiente, sus necesidades presupuestarias para la ejecución de los programas de igualdad;
 
 IV. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere.
-El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas, y Fracción reformada DOF 04-06-2015
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas, y
+Fracción reformada DOF 04-06-2015
 
 V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
 ## TÍTULO III
 
+
 ## CAPÍTULO PRIMERO — DE LA POLÍTICA NACIONAL EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES
-Y HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+Y HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 17
 .- La Política Nacional deberá establecer las acciones conducentes para lograr la igualdad sustantiva entre mujeres y hombres en los ámbitos familiar, de cuidados, económico, político, de salud, social, laboral y cultural, entre otros.
-Párrafo reformado DOF 30-03-2022, 16-12-2024, 15-01-2026 La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los siguientes lineamientos:
+Párrafo reformado DOF 30-03-2022, 16-12-2024, 15-01-2026
+La Política Nacional que desarrolle el Ejecutivo Federal deberá considerar los siguientes lineamientos:
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
 Fracción reformada DOF 30-03-2022, 16-12-2024
@@ -204,7 +222,8 @@ VII. Adoptar las medidas necesarias para la erradicación de las violencias cont
 Fracción adicionada DOF 14-11-2013. Reformada DOF 15-01-2026
 
 VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
-Fracción adicionada DOF 14-11-2013 VIII Bis. El establecimiento de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
+Fracción adicionada DOF 14-11-2013
+VIII Bis. El establecimiento de medidas tendientes a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género;
 Fracción adicionada DOF 16-12-2024
 
 IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
@@ -228,13 +247,16 @@ Fracción adicionada DOF 29-04-2022. Reformada DOF 15-01-2026
 XV. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las artes y la cultura;
 Fracción adicionada DOF 15-01-2026
 
-XVI. Fortalecer la participación de las mujeres en el desarrollo sostenible de las comunidades rurales, potenciando el ejercicio pleno de sus derechos en materia agraria y de acceso a los recursos naturales, reconociéndolas como actoras estratégicas en los procesos de planeación, organización y toma de decisiones comunitarias, y Fracción adicionada DOF 15-01-2026
+XVI. Fortalecer la participación de las mujeres en el desarrollo sostenible de las comunidades rurales, potenciando el ejercicio pleno de sus derechos en materia agraria y de acceso a los recursos naturales, reconociéndolas como actoras estratégicas en los procesos de planeación, organización y toma de decisiones comunitarias, y
+Fracción adicionada DOF 15-01-2026
 
 XVII. Fomentar, en coordinación con los tres órdenes de gobierno, mecanismos que garanticen el derecho a un medio ambiente sano para el desarrollo y bienestar de las mujeres, adolescentes, niñas, niños, con especial atención en el acceso al agua y saneamiento.
 Fracción adicionada DOF 15-01-2026
 
 ## CAPÍTULO SEGUNDO — DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE
-MUJERES Y HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+MUJERES Y HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 18
 .- Son instrumentos de la Política Nacional en Materia de Igualdad Sustantiva entre Mujeres y Hombres, los siguientes:
@@ -260,7 +282,9 @@ Artículo reformado DOF 15-01-2026
 .- De acuerdo con lo establecido por el Artículo 6, Fracción XIV Bis de la Ley de la Comisión Nacional de los Derechos Humanos, ésta es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la Política Nacional en Materia de Igualdad entre mujeres y hombres.
 
 ## CAPÍTULO TERCERO — DEL SISTEMA NACIONAL PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y
-HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 23
 .- El Sistema Nacional es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública Federal entre sí, con las organizaciones de los diversos grupos sociales y con las autoridades de las Entidades Federativas, los Municipios, y las demarcaciones territoriales de la Ciudad de México, a fin de efectuar acciones de común acuerdo orientadas a la promoción, respeto, protección y garantía de la igualdad sustantiva entre mujeres y hombres.
@@ -345,7 +369,8 @@ II. Contribuir al adelanto de las mujeres;
 III. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género;
 Fracción reformada DOF 28-04-2022
 
-IV. Promover el desarrollo de programas y servicios que fomenten la igualdad sustantiva entre mujeres y hombres, y Fracción reformada DOF 28-04-2022, 15-01-2026
+IV. Promover el desarrollo de programas y servicios que fomenten la igualdad sustantiva entre mujeres y hombres, y
+Fracción reformada DOF 28-04-2022, 15-01-2026
 
 V. Dar seguimiento a la implementación del principio constitucional de paridad de género; y en tal virtud deberá presentar un informe anual de los avances en la materia.
 Fracción adicionada DOF 28-04-2022
@@ -363,7 +388,9 @@ I. Definición de las responsabilidades que asuman las y los integrantes de los 
 II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
 
 ## CAPÍTULO CUARTO — DEL PROGRAMA NACIONAL DE PROYECTOS ESTRATÉGICOS PARA LA IGUALDAD
-SUSTANTIVA ENTRE MUJERES Y HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+SUSTANTIVA ENTRE MUJERES Y HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 29
 .- El Programa Nacional de Proyectos Estratégicos para la Igualdad Sustantiva entre Mujeres y Hombres será propuesto por la Secretaría de las Mujeres y tomará en cuenta las necesidades de las mujeres, las adolescentes y las niñas; así mismo considerará las brechas de desigualdad entre mujeres y hombres en las Entidades Federativas, en los Municipios, y en las demarcaciones territoriales de la Ciudad de México, incorporando las particularidades territoriales y culturales, con énfasis en los grupos de población con mayor rezago social y económico. Este Programa Nacional deberá estar alineado al Plan Nacional de Desarrollo, así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación.
@@ -379,14 +406,18 @@ Artículo reformado DOF 15-01-2026
 
 ## TÍTULO IV
 
+
 ## CAPÍTULO PRIMERO — DE LOS OBJETIVOS Y ACCIONES DE LA POLÍTICA NACIONAL DE IGUALDAD
-SUSTANTIVA ENTRE MUJERES Y HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+SUSTANTIVA ENTRE MUJERES Y HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 32
 .- La Política Nacional a que se refiere el Título III de la presente Ley, definida en el Programa Nacional y encauzada a través del Sistema Nacional, deberá desarrollar acciones interrelacionadas para alcanzar los objetivos que deben marcar el rumbo de la igualdad sustantiva entre mujeres y hombres, conforme a los objetivos operativos y acciones específicas a que se refiere este Título.
 Artículo reformado DOF 15-01-2026
 
 ## CAPÍTULO SEGUNDO — DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA NACIONAL
+
 
 ### Artículo 33
 .- Será objetivo de la Política Nacional el fortalecimiento de la igualdad en materia de:
@@ -399,7 +430,8 @@ Fracción reformada DOF 14-11-2013
 III. Impulsar liderazgos igualitarios;
 Fracción reformada DOF 14-11-2013, 14-06-2018
 
-IV. Diseño, implementación, ejecución y evaluación de políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social, y Fracción adicionada DOF 14-11-2013. Reformada DOF 14-06-2018, 16-12-2024
+IV. Diseño, implementación, ejecución y evaluación de políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social, y
+Fracción adicionada DOF 14-11-2013. Reformada DOF 14-06-2018, 16-12-2024
 
 V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 Fracción adicionada DOF 14-06-2018
@@ -430,7 +462,8 @@ Fracción reformada DOF 16-12-2024
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
-Fracción reformada DOF 14-11-2013 X Bis. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
+Fracción reformada DOF 14-11-2013
+X Bis. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
 Fracción adicionada DOF 31-10-2022
 
 XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
@@ -442,16 +475,21 @@ b) La integración de la plantilla laboral cuando ésta se componga de al menos 
 c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
 
 d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
-Inciso reformado DOF 14-06-2018 Fracción reformada DOF 14-11-2013, 10-11-2014 XI Bis. Expedir Certificados de Igualdad Laboral de Género y No Discriminación y operar un padrón nacional de centros de trabajo certificados en materia de igualdad laboral y no discriminación, en los términos de la normatividad aplicable;
+Inciso reformado DOF 14-06-2018
+Fracción reformada DOF 14-11-2013, 10-11-2014
+XI Bis. Expedir Certificados de Igualdad Laboral de Género y No Discriminación y operar un padrón nacional de centros de trabajo certificados en materia de igualdad laboral y no discriminación, en los términos de la normatividad aplicable;
 Fracción adicionada DOF 16-12-2024
 
-XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, y Fracción adicionada DOF 14-11-2013. Reformada DOF 14-06-2018
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, y
+Fracción adicionada DOF 14-11-2013. Reformada DOF 14-06-2018
 
 XIII. Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
 Fracción adicionada DOF 14-06-2018
 
 ## CAPÍTULO TERCERO — DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y
-LOS HOMBRES Denominación del Capítulo reformada DOF 18-05-2022
+
+LOS HOMBRES
+Denominación del Capítulo reformada DOF 18-05-2022
 
 ### Artículo 35
 .- La Política Nacional propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
@@ -479,6 +517,7 @@ VII. Fomentar la participación paritaria y sin discriminación de mujeres y hom
 Fracción reformada DOF 18-05-2022
 
 ## CAPÍTULO CUARTO — DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES
+
 PARA LAS MUJERES Y LOS HOMBRES
 
 ### Artículo 37
@@ -489,7 +528,8 @@ I. Mejorar el conocimiento y la aplicación de la legislación existente en el �
 II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
 Fracción reformada DOF 14-11-2013
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y Fracción reformada DOF 14-11-2013
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género, y
+Fracción reformada DOF 14-11-2013
 
 IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 Fracción adicionada DOF 14-11-2013
@@ -509,6 +549,7 @@ El contenido de la publicidad gubernamental o institucional a través de la cual
 Fracción reformada DOF 04-06-2015, 15-01-2026
 
 ## CAPÍTULO QUINTO — DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
+
 
 ### Artículo 39
 .- Con el fin de promover y procurar la igualdad en la vida civil de mujeres y hombres, será objetivo de la Política Nacional:
@@ -533,10 +574,14 @@ IV. Apoyar las actividades de interlocución ciudadana respecto a la legislació
 V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres con organizaciones no gubernamentales y organizaciones internacionales de cooperación para el desarrollo;
 VIII (sic DOF 02-08-2006). Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar en los ámbitos público y privado;
 IX (sic DOF 14-11-2013). Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
-Fracción reformada DOF 14-11-2013 X (sic DOF 14-11-2013). Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y Fracción reformada DOF 14-11-2013 XI (sic DOF 24-03-2016). Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción el derecho a un permiso y a una prestación por paternidad, en términos de la Ley Federal del Trabajo.
+Fracción reformada DOF 14-11-2013
+X (sic DOF 14-11-2013). Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
+Fracción reformada DOF 14-11-2013
+XI (sic DOF 24-03-2016). Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción el derecho a un permiso y a una prestación por paternidad, en términos de la Ley Federal del Trabajo.
 Fracción adicionada DOF 14-11-2013. Reformada DOF 24-03-2016
 
 ## CAPÍTULO SEXTO — DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
+
 
 ### Artículo 41
 .- Será objetivo de la Política Nacional la eliminación de los estereotipos de género que fomentan la discriminación y las violencias hacia las mujeres.
@@ -556,12 +601,14 @@ Fracción reformada DOF 14-11-2013
 IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
 Fracción adicionada DOF 14-11-2013. Reformada DOF 04-06-2015
 
-V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y Fracción adicionada DOF 14-11-2013. Reformada DOF 04-06-2015
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y
+Fracción adicionada DOF 14-11-2013. Reformada DOF 04-06-2015
 
 VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos de género que refuercen o naturalicen la distinción, exclusión o restricción de derechos o libertades.
 Fracción adicionada DOF 04-06-2015. Reformada DOF 15-01-2026
 
 ## CAPÍTULO SÉPTIMO — DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE
+
 IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ### Artículo 43
@@ -576,8 +623,11 @@ Artículo reformado DOF 15-01-2026
 
 ## TÍTULO V
 
+
 ## CAPÍTULO PRIMERO — DE LA OBSERVANCIA EN MATERIA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y
-HOMBRES Denominación del Capítulo reformada DOF 15-01-2026
+
+HOMBRES
+Denominación del Capítulo reformada DOF 15-01-2026
 
 ### Artículo 46
 .- De acuerdo con lo establecido en el artículo 22 de esta Ley, la Comisión Nacional de los Derechos Humanos es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la Política Nacional.
@@ -600,7 +650,8 @@ Fracción reformada DOF 15-01-2026
 III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad sustantiva;
 Fracción reformada DOF 15-01-2026
 
-IV. Difundir información sobre los diversos aspectos relacionados con la igualdad sustantiva entre mujeres y hombres, y Fracción reformada DOF 15-01-2026
+IV. Difundir información sobre los diversos aspectos relacionados con la igualdad sustantiva entre mujeres y hombres, y
+Fracción reformada DOF 15-01-2026
 
 V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
@@ -634,7 +685,7 @@ Se adiciona la fracción I Bis al artículo 15 de la Ley General para la Igualda
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 1 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Gloria Romero León, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica DECRETO por el que se reforman diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2013
 
@@ -704,7 +755,7 @@ Se adicionan una fracción V al artículo 33 y una fracción XIII al artículo 3
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma el artículo 4 de la Ley General para la Igualdad entre Mujeres y Hombres.
 Publicado en el Diario Oficial de la Federación el 21 de octubre de 2021
@@ -714,7 +765,7 @@ Se reforma el artículo 4 de la Ley General para la Igualdad entre Mujeres y Hom
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, de la Ley General para la Igualdad entre Mujeres y Hombres y de la Ley de los Derechos de las Personas Adultas Mayores.
 Publicado en el Diario Oficial de la Federación el 30 de marzo de 2022
@@ -724,7 +775,7 @@ Se reforman los artículos 5, fracción IV; 17, párrafo primero y fracción I y
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de febrero de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 Jessica María Guadalupe Ortega De la Cruz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
@@ -736,10 +787,10 @@ Se reforma el artículo 1; las fracciones II y III del artículo 17; la fracció
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-**Cuarto.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
+**Cuarto.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de abril de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -799,7 +850,7 @@ Se reforman los artículos 5, fracción II; 9, fracción V; 17, párrafo primero
 ## Transitorios
 
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
+**Segundo.-** Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
 **Tercero.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 Ciudad de México, a 11 de diciembre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de diciembre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
@@ -808,18 +859,19 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Primero
 Se reforman la denominación de la Ley General para la Igualdad entre Mujeres y Hombres, los artículos 1; 2; 4; 5, fracciones VIII y actual IX; 7; 8; 9, primer párrafo y fracciones I, III, IV y V; 12, fracciones I, II, III, IV y VII; la denominación del Capítulo Tercero del Título II; 14; 15, primer párrafo y fracciones I, I Bis y II; la denominación del Capítulo Cuarto del Título II; 16, primer párrafo; la denominación del Capítulo Primero del Título III; 17, primer párrafo y, segundo párrafo, fracciones VII, XI, XIII y XIV; la denominación del Capítulo Segundo del Título III; 18; 21; la denominación del Capítulo
-**Tercero.** del Título III; 23; 24; 25, en su párrafo y fracciones I y III; 26, fracciones I y IV; 27; la denominación del Capítulo Cuarto del Título III; 29; 30; la denominación del Capítulo Primero del Título IV; 32; 38, fracción VII y último párrafo; 41; 42, fracción VI; 44; la denominación del Capítulo Primero del
+**Tercero.-** del Título III; 23; 24; 25, en su párrafo y fracciones I y III; 26, fracciones I y IV; 27; la denominación del Capítulo Cuarto del Título III; 29; 30; la denominación del Capítulo Primero del Título IV; 32; 38, fracción VII y último párrafo; 41; 42, fracción VI; 44; la denominación del Capítulo Primero del
 
 ## Título V — ; 46 y 48, párrafo primero y fracciones I, II, III y IV; y se adicionan una fracción X al artículo 5; las
+
 fracciones XV, XVI y XVII al artículo 17 y los artículos 24 Bis; 24 Ter y 24 Quáter, de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue: …….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

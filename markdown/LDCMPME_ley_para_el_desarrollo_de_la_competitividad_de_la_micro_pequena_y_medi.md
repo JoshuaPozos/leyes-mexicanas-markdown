@@ -12,6 +12,7 @@ LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPR
 
 ## Capítulo Primero — Del Ámbito de Aplicación y Objeto de la Ley
 
+
 ### Artículo 1
 .- La presente Ley tiene por objeto promover el desarrollo económico nacional a través del fomento a la creación de micro, pequeñas y medianas empresas y el apoyo para su viabilidad, productividad, competitividad y sustentabilidad. Asimismo incrementar su participación en los mercados, en un marco de crecientes encadenamientos productivos que generen mayor valor agregado nacional.
 Lo anterior, con la finalidad de fomentar el empleo y el bienestar social y económico de todos los participantes en la micro, pequeña y mediana empresa.
@@ -19,7 +20,8 @@ La Ley es de observancia general en toda la República y sus disposiciones son d
 
 ### Artículo 2
 .- La autoridad encargada de la aplicación de esta Ley es la Secretaría de Economía quien, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las Autoridades Federales, Estatales, Municipales y las demarcaciones territoriales de la Ciudad de México, para propiciar la planeación del desarrollo integral de cada Entidad Federativa, de los Municipios y las demarcaciones territoriales de la Ciudad de México, en congruencia con la planeación nacional.
-Párrafo reformado DOF 19-05-2017 La Secretaría de Economía en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
+Párrafo reformado DOF 19-05-2017
+La Secretaría de Economía en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
 El presupuesto de egresos de la Federación que se destina para apoyar a la micro, pequeña y mediana empresa no podrá ser inferior, en términos reales, al presupuesto autorizado en el ejercicio fiscal anterior.
 Párrafo adicionado DOF 05-08-2011
 
@@ -61,9 +63,11 @@ XIV. Sistema: El Sistema Nacional para el Desarrollo de la Competitividad de la 
 
 XV. Consejo: El Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y Fracción reformada DOF 01-12-2016, 19-05-2017
+XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa se establezca para la Competitividad de la Micro, Pequeña y Mediana Empresa, y
+Fracción reformada DOF 01-12-2016, 19-05-2017
 
-XVII. Reglamento: El Reglamento de esta Ley, y Fracción reformada DOF 01-12-2016
+XVII. Reglamento: El Reglamento de esta Ley, y
+Fracción reformada DOF 01-12-2016
 
 XVIII. Derogada.
 Fracción adicionada DOF 01-12-2016. Derogada DOF 13-08-2019
@@ -102,6 +106,7 @@ i) La cooperación y asociación de las MIPYMES, a través de sus Organizaciones
 
 ## Capítulo Segundo — Del Desarrollo para la Competitividad de la Micro, Pequeña y Mediana Empresa
 
+
 ### Artículo 5
 .- La Secretaría elaborará los programas sectoriales correspondientes en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley, así como los acuerdos que tome el Consejo.
 
@@ -126,7 +131,8 @@ II. Las líneas estratégicas para el desarrollo empresarial;
 III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;
 Fracción reformada DOF 21-01-2015
 
-IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley, y Fracción reformada DOF 21-01-2015
+IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley, y
+Fracción reformada DOF 21-01-2015
 
 V. Perspectiva de género.
 Fracción adicionada DOF 21-01-2015
@@ -154,10 +160,12 @@ VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tende
 VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES;
 Fracción reformada DOF 20-10-2023
 
-IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable, y Fracción reformada DOF 19-05-2017, 20-10-2023
+IX. Promover que las dependencias y entidades de la Administración Pública Federal y sus delegaciones en las Entidades Federativas realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la normativa aplicable, y
+Fracción reformada DOF 19-05-2017, 20-10-2023
 
 X. Fomentar la inserción de las actividades productivas y servicios de los pueblos y comunidades indígenas y afromexicanas a nivel regional, estatal y municipal.
-Fracción adicionada DOF 20-10-2023 Con el objeto de lograr la coordinación efectiva de los Programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, en las Entidades Federativas donde exista el Consejo Estatal, todos los convenios serán firmados por el gobierno estatal o de la Ciudad de México, en donde no existan, la Secretaría podrá firmar los convenios de manera directa con los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores.
+Fracción adicionada DOF 20-10-2023
+Con el objeto de lograr la coordinación efectiva de los Programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, en las Entidades Federativas donde exista el Consejo Estatal, todos los convenios serán firmados por el gobierno estatal o de la Ciudad de México, en donde no existan, la Secretaría podrá firmar los convenios de manera directa con los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores.
 Párrafo reformado DOF 19-05-2017
 
 ### Artículo 11
@@ -221,7 +229,8 @@ III. Participar en el desarrollo de un sistema general de información y consult
 IV. El diseño de esquemas que fomenten el desarrollo de proveedores y distribuidores locales del sector público y de los Sectores;
 Fracción reformada DOF 18-01-2012
 
-V. La generación de políticas y Programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia, y Fracción reformada DOF 18-01-2012
+V. La generación de políticas y Programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia, y
+Fracción reformada DOF 18-01-2012
 
 VI. Impulsar la creación, desarrollo y crecimiento de MIPYMES localizadas en regiones turísticas, a fin de incrementar su productividad y competitividad.
 Fracción adicionada DOF 18-01-2012
@@ -257,6 +266,7 @@ XII. El acceso a la información con el propósito de fortalecer las oportunidad
 XIII. La ejecución y evaluación de una estrategia para generar las condiciones que permitan una oferta exportable.
 
 ## Capítulo Tercero
+
 Del Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa
 
 ### Artículo 15
@@ -266,6 +276,7 @@ Del Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Peque�
 .- El Sistema comprende el conjunto de acciones que realice el Sector Público y los Sectores que participen en los objetivos de esta Ley, para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia.
 
 ## Capítulo Cuarto
+
 Del Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa
 
 ### Artículo 17
@@ -366,22 +377,27 @@ X. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y
 XI. Instituir los premios nacionales que reconozcan la competitividad de las MIPYMES en los términos que él mismo determine.
 
 ## Capítulo Quinto — De los Consejos Estatales para la Competitividad de la Micro, Pequeña y Mediana
+
 Empresa
 
 ### Artículo 23
 .- En cada Entidad Federativa se podrá conformar un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, que estudiará y propondrá en el ámbito regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, medidas de apoyo para el desarrollo de la competitividad de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores.
-Párrafo reformado DOF 19-05-2017 El Consejo Estatal estará sujeto a los lineamientos que emita el Consejo.
+Párrafo reformado DOF 19-05-2017
+El Consejo Estatal estará sujeto a los lineamientos que emita el Consejo.
 
 ### Artículo 24
 .- El Consejo Estatal será presidido por el secretario de desarrollo económico o su equivalente en cada Entidad Federativa, quien informará periódicamente al Consejo los resultados obtenidos en el desarrollo de sus actividades.
-Párrafo reformado DOF 19-05-2017 Para que sesione válidamente, el Consejo Estatal deberá contar con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se cuente con la asistencia del secretario técnico del Consejo Estatal, o su suplente. Dicho Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
+Párrafo reformado DOF 19-05-2017
+Para que sesione válidamente, el Consejo Estatal deberá contar con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se cuente con la asistencia del secretario técnico del Consejo Estatal, o su suplente. Dicho Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
 El Consejo Estatal contará con un secretario técnico, que será designado por la persona titular de la Secretaría en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal.
-Párrafo reformado DOF 19-05-2017, 13-08-2019 Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno de las Entidades Federativas, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario.
+Párrafo reformado DOF 19-05-2017, 13-08-2019
+Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno de las Entidades Federativas, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario.
 Párrafo reformado DOF 19-05-2017
 
 ### Artículo 25
 .- El Consejo Estatal deberá integrarse por un número no mayor al establecido para el Consejo, debiendo estar representados cada uno de los Sectores, representantes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal que tengan Programas para las MIPYMES.
-Párrafo reformado DOF 13-08-2019 El Consejo Estatal podrá invitar a participar en las sesiones, con voz pero sin voto, a las distintas dependencias, entidades, Municipios y a las demarcaciones territoriales de la Ciudad de México, así como también a especialistas en los temas a discusión.
+Párrafo reformado DOF 13-08-2019
+El Consejo Estatal podrá invitar a participar en las sesiones, con voz pero sin voto, a las distintas dependencias, entidades, Municipios y a las demarcaciones territoriales de la Ciudad de México, así como también a especialistas en los temas a discusión.
 Párrafo reformado DOF 19-05-2017
 
 ### Artículo 26
@@ -457,7 +473,7 @@ Se reforman los artículos 7; 10, fracción III; 11, último párrafo y 14, frac
 
 ## TRANSITORIO
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 4 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 3, 18 y 19 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2016
@@ -467,9 +483,9 @@ Se reforman los artículos 18, fracción X y párrafo cuarto; 19; y se adiciona 
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Dentro del término de 180 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
-**TERCERO.** En tanto no sea modificado el Reglamento a que se refiere el transitorio segundo, respecto a las facultades y obligaciones de la Subsecretaría para la Pequeña y Mediana Empresa, continuarán aplicándose las normas vigentes al Instituto Nacional del Emprendedor.
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Dentro del término de 180 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+**TERCERO.-** En tanto no sea modificado el Reglamento a que se refiere el transitorio segundo, respecto a las facultades y obligaciones de la Subsecretaría para la Pequeña y Mediana Empresa, continuarán aplicándose las normas vigentes al Instituto Nacional del Emprendedor.
 Ciudad de México, a 18 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2017
@@ -492,8 +508,8 @@ Se reforman los artículos 18, primer párrafo, fracciones V y XIV, y párrafo c
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Dentro del término de 180 días posterior a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las reformas que se requieran al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Dentro del término de 180 días posterior a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las reformas que se requieran al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 En tanto no se realicen las modificaciones a las que se refiere el párrafo anterior, respecto a las facultades y obligaciones del Instituto Nacional del Emprendedor, continuarán aplicándose las mismas en lo que no contravengan al presente Decreto.
 Ciudad de México, a 20 de junio de 2019.- Dip. Porfirio Muñoz Ledo, Presidente, Sen. Martí Batres Guadarrama, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas.
 DECRETO por el que se adiciona una fracción X al artículo 10 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.

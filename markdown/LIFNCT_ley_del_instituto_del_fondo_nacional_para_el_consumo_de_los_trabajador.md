@@ -13,6 +13,7 @@ Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores
 
 ## CAPÍTULO I — Disposiciones Generales
 
+
 ### Artículo 1
 . Se crea el Instituto del Fondo Nacional para el Consumo de los Trabajadores como un organismo público descentralizado de interés social, con personalidad jurídica y patrimonio propio, así como con autosuficiencia presupuestal y sectorizado en la Secretaría del Trabajo y Previsión Social.
 
@@ -55,6 +56,7 @@ El presupuesto del Instituto se ejercerá en términos de las disposiciones apli
 .- Las relaciones de trabajo entre el Instituto y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## CAPÍTULO II — De las Atribuciones del Instituto
+
 
 ### Artículo 8
 .- Para el cumplimiento de su objeto, el Instituto contará con las siguientes atribuciones:
@@ -103,6 +105,7 @@ Párrafo reformado DOF 10-01-2014
 
 ## CAPÍTULO III — Del Patrimonio del Instituto
 
+
 ### Artículo 10
 .- El patrimonio del Instituto se integra por:
 
@@ -124,10 +127,12 @@ V. Los demás bienes, derechos y recursos que adquiera por cualquier título leg
 
 ## CAPÍTULO IV — De la Administración del Instituto
 
+
 ### Artículo 13
 .- La administración del Instituto estará encomendada a un Consejo Directivo y a un Director General, quienes se auxiliarán para el ejercicio de sus funciones de los comités previstos en esta Ley y en los demás que constituya el propio Consejo, así como de los servidores públicos que prevea el Estatuto Orgánico.
 
 ## Sección I — Del Consejo Directivo
+
 
 ### Artículo 14
 .- El Consejo se integrará en forma tripartita por los siguientes consejeros:
@@ -194,6 +199,7 @@ XIV. Las demás previstas en la presente Ley.
 
 ## Sección II — De los Comités de Apoyo del Instituto
 
+
 ### Artículo 19
 .- El Instituto contará con los siguientes comités de apoyo:
 
@@ -245,6 +251,7 @@ Salvo el caso del profesional independiente, los demás miembros del Comité con
 
 ## Sección III — Del Director General
 
+
 ### Artículo 27
 .- El Director General del Instituto será designado por el titular del Ejecutivo Federal, a propuesta del Secretario del Trabajo y Previsión Social. El nombramiento deberá recaer en persona que reúna los requisitos que establece la Ley Federal de las Entidades Paraestatales y quien, además, deberá contar con una experiencia mínima de cinco años en puestos de alto nivel decisorio en materia financiera dentro del sistema financiero mexicano.
 
@@ -294,6 +301,7 @@ Asimismo, dicho Estatuto determinará al servidor público que suplirá al Direc
 
 ## CAPÍTULO V — Del Control, Vigilancia y Evaluación del Instituto
 
+
 ### Artículo 30
 .- El Instituto contará con un órgano interno de control, en los términos de la Ley Federal de las Entidades Paraestatales. Al frente de dicho órgano de control y de las áreas de Auditoría Interna, Auditoría de Control y Evaluación, de Quejas y Responsabilidades, estarán los servidores públicos que sean designados por la Secretaría de la Función Pública, en términos de la Ley Orgánica de la Administración Pública Federal y quienes contarán con las facultades que respectivamente les otorga el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -341,8 +349,7 @@ Se REFORMA el artículo 9, último párrafo; de la Ley del Instituto del Fondo N
 
 ### ARTÍCULO QUINTO
 En relación con las modificaciones a que se refieren los Artículos Primero,
-**Segundo.** , Tercero y Cuarto de este Decreto, se estará a lo siguiente:
-
+**Segundo.-** , Tercero y Cuarto de este Decreto, se estará a lo siguiente:
 I. La Comisión Federal de Competencia Económica contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para llevar a cabo una investigación sobre las condiciones de competencia en el sistema financiero y sus mercados, para lo cual deberá escuchar la opinión no vinculante de la Secretaría de Hacienda y Crédito Público. Como resultado de dicha investigación la Comisión Federal de Competencia Económica podrá, en su caso, formular recomendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.
 
 II. Las obligaciones derivadas del presente Decreto a cargo de las Instituciones Financieras entrarán en vigor a los noventa días naturales siguientes a su entrada en vigor.
@@ -364,7 +371,7 @@ IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
 México, D.F., a 26 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman las fracciones VIII del artículo 8 y VIII del artículo 18 de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores.
 Publicado en el Diario Oficial de la Federación el 3 de enero de 2024

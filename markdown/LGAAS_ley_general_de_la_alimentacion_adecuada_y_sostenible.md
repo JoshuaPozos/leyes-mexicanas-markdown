@@ -15,7 +15,9 @@ Se expide la Ley General de la Alimentación Adecuada y Sostenible.
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I
+
 Objeto y ámbito de aplicación de la Ley
 
 ### Artículo 1
@@ -86,6 +88,7 @@ XXIII. Soberanía alimentaria: La capacidad del pueblo de México para establece
 
 ## Capítulo II — Del contenido del Derecho a la Alimentación Adecuada
 
+
 ### Artículo 3
 . Todas las personas, de manera individual o colectiva, tienen derecho a una alimentación adecuada en todo momento, y a disponer de alimentos para su consumo diario, así como el acceso físico y económico para una alimentación inocua, de calidad nutricional y en cantidad suficiente para satisfacer sus necesidades fisiológicas en todas las etapas de su ciclo vital que le posibilite su desarrollo integral y una vida digna, de acuerdo con su contexto cultural y sus necesidades específicas, sin poner en riesgo la satisfacción de las otras necesidades básicas y sin que ello dificulte el goce de otros derechos humanos.
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto o por efecto impedir, anular o menoscabar el ejercicio de este derecho a las personas o a los grupos en que éstas se organicen.
@@ -144,7 +147,9 @@ Es obligación de los gobiernos municipales y las alcaldías, con apoyo de los g
 
 ## TÍTULO SEGUNDO — DE LA PROMOCIÓN Y CONSUMO DE ALIMENTOS ADECUADOS
 
+
 ## Capítulo I — De la lactancia materna y la alimentación complementaria adecuada
+
 
 ### Artículo 14
 . Los gobiernos de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales, en sus respectivos ámbitos de competencia, desarrollarán políticas integrales para garantizar una alimentación adecuada de la niñez y mujeres embarazadas y en periodo de lactancia, con atención inmediata y prioritaria en situaciones y zonas de alta y muy alta marginación.
@@ -165,6 +170,7 @@ V. Capacitar al personal de salud y de administración de servicios de salud par
 Las personas titulares de los centros de trabajo deben generar entornos favorables para la lactancia materna.
 
 ## Capítulo II — De la alimentación adecuada y educación nutricional escolar
+
 
 ### Artículo 16
 . Las niñas, niños y adolescentes que cursan la educación básica tienen derecho a recibir alimentación adecuada en los establecimientos escolares, de forma gratuita o a precios asequibles para sus familias, de acuerdo con sus condiciones de vulnerabilidad y tomando en cuenta la situación económica de la zona geográfica en la que se encuentren.
@@ -198,6 +204,7 @@ VIII. La importancia de la educación y activación física para el logro de una
 
 ## Capítulo III — Del derecho a la información nutricional saludable
 
+
 ### Artículo 19
 . Todas las personas tienen derecho a acceder a la información nutricional con pertinencia cultural, veraz, oportuna, comprensible, accesible y de calidad para la toma de decisiones alimentarias saludables que fomenten su sano desarrollo y permitan prevenir enfermedades en cada etapa de la vida.
 El Estado, a través de la Secretaría de Salud y las autoridades educativas, en el ámbito de sus atribuciones y demás sectores de la sociedad deberán promover campañas educativas permanentes para población abierta; en materia de información nutricional sana y de calidad, que promuevan la alimentación adecuada y tomen en cuenta la perspectiva etaria, género e intercultural.
@@ -215,6 +222,7 @@ Las autoridades competentes, utilizarán los mecanismos que brinden información
 
 ## Capítulo IV — De las canastas normativas
 
+
 ### Artículo 23
 . Todas las personas tienen derecho a un consumo diario y suficiente de los alimentos que constituyen las canastas normativas regionales.
 
@@ -229,6 +237,7 @@ Las canastas normativas privilegiarán alimentos que no contengan productos alim
 . En ningún caso podrá condicionarse el suministro, la disponibilidad o distribución de los componentes que constituyen la canasta normativa motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana.
 
 ## Capítulo V — De las acciones para garantizar un consumo de alimentos adecuados
+
 
 ### Artículo 27
 . Los gobiernos de la Federación, de las entidades federativas, así como de los municipios y demarcaciones territoriales, establecerán programas coordinados o individuales para fomentar el consumo de agua potable simple, alimentos locales frescos y saludables.
@@ -256,7 +265,9 @@ VI. Ofrezcan opciones de alimentos y preparaciones saludables, nutritivas y apro
 
 ## TÍTULO TERCERO — DEL ABASTECIMIENTO Y DISTRIBUCIÓN DE ALIMENTOS
 
+
 ## Capítulo I — De la distribución de alimentos
+
 
 ### Artículo 30
 . El Estado establecerá las medidas necesarias para procurar el abasto suficiente y oportuno de los componentes de las canastas normativas, así como de cualquier otro alimento adecuado, sano, inocuo y nutritivo que no contradiga la canasta normativa y esté sustentado en la canasta regional.
@@ -300,6 +311,7 @@ Las empresas o comercios en cuyas instalaciones se distribuyan alimentos o bebid
 
 ## Capítulo II — De las compras públicas
 
+
 ### Artículo 37
 . Las dependencias que integran la Administración Pública Federal, de las entidades federativas, así como de los municipios y demarcaciones territoriales, en el ámbito de sus competencias, incorporarán, al menos, un 15% de sus compras gubernamentales de alimentos e insumos primarios, directamente de los productores de pequeña y mediana escala, en los sectores agrícola, pecuario, forestal, acuícola y pesquero; que cumplan con las condiciones y requisitos para el abastecimiento de una alimentación adecuada, y dentro de los límites presupuestales para compras gubernamentales que cada dependencia o entidad disponga.
 Para el cumplimiento de lo dispuesto en el párrafo anterior, los gobiernos de la Federación, entidades federativas, municipios y demarcaciones territoriales, en sus respectivos ámbitos de competencia, deberán contar con las políticas públicas y reglas de operación necesarias.
@@ -312,6 +324,7 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, los gobiernos de l
 
 ## Capítulo III — De las reservas estratégicas
 
+
 ### Artículo 40
 . La Secretaría de Agricultura y Desarrollo Rural será la autoridad responsable de operar un programa de almacenamiento de reservas estratégicas de granos básicos y semillas, que permitan superar el desabasto y dar continuidad a la actividad productiva, en los términos del Reglamento de esta Ley, y conforme a los recursos aprobados expresamente para esos fines en su presupuesto de egresos.
 
@@ -320,7 +333,9 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, los gobiernos de l
 
 ## TÍTULO CUARTO — DE LA PRODUCCIÓN ALIMENTARIA
 
+
 ## Capítulo I — De los principios de la producción alimentaria
+
 
 ### Artículo 42
 . Todas las personas tienen el derecho de contar con las condiciones apropiadas para la producción de alimentos y participar de un desarrollo rural integral y sustentable en las comunidades, de conformidad con lo dispuesto en la Ley de Desarrollo Rural Sustentable.
@@ -340,6 +355,7 @@ Se reconoce a los residuos orgánicos como elementos esenciales para la regenera
 Las autoridades de los tres niveles de gobierno, en sus respectivos ámbitos de competencia, establecerán, en términos de las disposiciones aplicables, los mecanismos para el manejo y aprovechamiento de esos recursos en beneficio de la producción sostenible de alimentos.
 
 ## Capítulo II — De las disposiciones generales para la producción alimentaria
+
 
 ### Artículo 47
 . Las políticas de los tres niveles de gobierno, en materia de producción de alimentos, deberán tener como principales objetivos los siguientes:
@@ -378,6 +394,7 @@ Los consejos intersectoriales correspondientes deberán ser notificados de todas
 
 ## Capítulo III — De la pérdida y desperdicio de alimentos
 
+
 ### Artículo 52
 . Los gobiernos de las entidades federativas en coordinación con los municipios y demarcaciones territoriales, promoverán políticas y acciones para la reducción de pérdidas y desperdicio de alimentos en su territorio.
 
@@ -391,9 +408,11 @@ Los consejos intersectoriales correspondientes deberán ser notificados de todas
 . Se prohíbe que los establecimientos comerciales desechen alimentos que se encuentren en condiciones de ser consumidos por los seres humanos, de acuerdo con lo dispuesto en el Reglamento de esta Ley.
 
 ## TÍTULO QUINTO — DEL SISTEMA INTERSECTORIAL NACIONAL DE SALUD, ALIMENTACION, MEDIO
+
 AMBIENTE Y COMPETITIVIDAD
 
 ## Capítulo I — De la estructura del Sistema
+
 
 ### Artículo 56
 . Se crea el SINSAMAC, que será la instancia de colaboración entre los tres órdenes de gobierno, la ciudadanía y los Comités de Alimentación, para promover políticas y medidas tendientes a promover, respetar, proteger y garantizar el derecho a la alimentación adecuada, en términos de esta Ley.
@@ -447,6 +466,7 @@ En el SINSAMAC podrán participar todas aquellas instituciones que quisieren con
 La participación en cualquiera de los órganos del SINSAMAC, incluyendo el Secretariado Técnico, es honorífica por lo que los integrantes no tendrán derecho a remuneración alguna por las funciones que desempeñen en dicho sistema.
 
 ## Capítulo II — Del Consejo Intersectorial Nacional
+
 
 ### Artículo 60
 . El Consejo Intersectorial Nacional será presidido directamente por la persona titular del Poder Ejecutivo Federal, quien podrá delegar esta función en la Dirección del SINSAMAC, y se integrará con el fin de asegurar la discusión y atención transversal de políticas públicas en la materia. Los cargos de las personas que lo integran son honoríficos, por lo que los integrantes no tendrán derecho a remuneración alguna por las funciones que desempeñen en dicho Consejo.
@@ -532,6 +552,7 @@ El Consejo Intersectorial Nacional sesionará y tomará sus acuerdos necesarios 
 
 ## Sección Primera — De la Junta Directiva del Consejo Intersectorial Nacional
 
+
 ### Artículo 65
 . La Junta Directiva es el órgano del Consejo Intersectorial Nacional responsable de establecer mecanismos de coordinación entre los integrantes del SINSAMAC, incluidos los consejos intersectoriales de las entidades federativas y de los municipios y demarcaciones territoriales.
 La Junta Directiva estará presidida por la persona que ocupe la Dirección del SINSAMAC, quien propondrá su reglamento o lineamientos de trabajo.
@@ -563,6 +584,7 @@ X. Las demás que se determinen en el reglamento interno del Consejo Intersector
 
 ## Sección Segunda — Del Secretariado Técnico del Consejo Intersectorial Nacional
 
+
 ### Artículo 67
 . El Consejo Intersectorial Nacional contará con un Secretariado Técnico, el cual será el órgano que servirá como enlace intersectorial con las diferentes dependencias y entidades públicas, así como representantes del sector social y privado.
 El Secretariado Técnico tendrá las siguientes facultades:
@@ -587,6 +609,7 @@ IX. Las demás que señale el reglamento interno del Consejo Intersectorial Naci
 
 ## Sección Tercera — De las Comisiones de Trabajo y Comités Técnicos
 
+
 ### Artículo 68
 . Las Comisiones de Trabajo serán los grupos de trabajo del Consejo Intersectorial Nacional encargados de realizar trabajos de investigación y de propuestas, con objetivos específicos que contribuyan a lograr un sistema agroalimentario saludable, justo, sostenible y competitivo.
 Las Comisiones tendrán un coordinador y podrán estar conformadas por representantes de los sectores público y social.
@@ -605,6 +628,7 @@ III. Las demás que sean propuestas a la Junta Directiva y aprobadas por la mism
 
 ## Capítulo III — De los Consejos Intersectoriales Estatales y de la Ciudad de México
 
+
 ### Artículo 71
 . En cada entidad federativa se crearán Consejos Intersectoriales Estatales o de la Ciudad de México. Las decisiones de la política del sistema alimentario en las entidades federativas serán acordadas, implementadas, supervisadas y evaluadas al interior de estos Consejos. Los cargos de estos representantes serán de carácter honorífico.
 
@@ -618,6 +642,7 @@ II. Deberán garantizar e incluir en su integración a miembros del sector socia
 III. Las recomendaciones, políticas públicas e informes que emitan deberán enviarse al Secretariado Técnico del Consejo Intersectorial Nacional para su seguimiento.
 
 ## Capítulo IV — De los Consejos Intersectoriales Municipales y de Demarcación Territorial
+
 
 ### Artículo 73
 . Por cada municipio o demarcación territorial, habrá un Consejo de Alimentación Municipal o de Demarcación Territorial. Serán las instancias de discusión pública en las que cualquier persona estará en posibilidad de realizar propuestas, opinar, formular dudas o participar en las decisiones que se tomen en beneficio de la mejora en el ejercicio del derecho a la alimentación adecuada en la localidad.
@@ -641,7 +666,9 @@ VI. Las demás establecidas en la presente Ley, su Reglamento, o en la respectiv
 
 ## TÍTULO SEXTO — DE LA PARTICIPACIÓN SOCIAL
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 75
 . Todas las personas tienen derecho a participar en el apoyo a las acciones del Estado para garantizar el derecho a la alimentación adecuada.
@@ -652,6 +679,7 @@ Lo anterior, por medio del diseño, implementación y acompañamiento de los mec
 . Los Comités de Alimentación podrán constituirse con el objeto de incidir en la producción, la distribución o el consumo final de alimentos o en cualquier otro elemento de las cadenas alimentarias.
 
 ## Capítulo II — De los Comités de Alimentación
+
 
 ### Artículo 77
 . Se reconoce a los Comités de Alimentación como uno de los medios esenciales de participación social a nivel local, los cuales deberán ser de carácter honorífico y avalados por el Comité de Prevención de Conflicto de Interés del Consejo Intersectorial Nacional. El número de Comités en cada localidad no podrá ser restringido.
@@ -682,7 +710,9 @@ III. Las demás establecidas en la presente Ley.
 
 ## TÍTULO SÉPTIMO — DE LA PLANEACIÓN
 
+
 ## Capítulo I — De la Política Nacional Alimentaria
+
 
 ### Artículo 84
 . Los Poderes Ejecutivo y Legislativo de la Federación, en los términos de la Ley de Planeación, establecerán, dentro del Plan Nacional de Desarrollo, los ejes generales de la Política Nacional Alimentaria que sentarán las bases del Programa Especial del Sistema Agroalimentario en consonancia con la Estrategia Nacional de Alimentación, para lograr el objetivo de que el sistema agroalimentario, desde la producción hasta el consumo, contribuya a hacer efectivo el ejercicio del derecho a la alimentación adecuada, en todas sus dimensiones, incluidas la producción, distribución y consumo.
@@ -725,6 +755,7 @@ La población interesada también podrá registrar, en la plataforma del SINSAMA
 . El Consejo Intersectorial Nacional establecerá, con apoyo de instituciones académicas o públicas especializadas, indicadores de impacto, resultado y proceso de las políticas alimentarias a nivel nacional y local, con el fin de detectar problemas sistemáticos o casos de éxito en la implementación de estas políticas, con base en el Plan Nacional de Desarrollo y la Estrategia Nacional de Alimentación.
 
 ## Capítulo II — De la Estrategia Nacional de Alimentación y Programa Especial del Sistema
+
 Agroalimentario
 
 ### Artículo 89
@@ -740,6 +771,7 @@ Agroalimentario
 . El Programa Especial del Sistema Agroalimentario se sustentará en un enfoque de derechos humanos orientado por los principios a que se refiere el artículo 5 de esta Ley y su elaboración deberá prever mecanismos de coordinación entre los distintos órdenes de gobierno y los sectores social y privado. Considerará además las particularidades de las distintas regiones del país.
 
 ## Capítulo III
+
 Coordinación Interestatal
 
 ### Artículo 93
@@ -760,7 +792,9 @@ Para efectos del párrafo anterior, los municipios o demarcaciones contarán con
 
 ## TÍTULO OCTAVO — DE LAS EMERGENCIAS ALIMENTARIAS
 
+
 ## Capítulo I — De la Declaratoria de actuación para la seguridad alimentaria en situaciones de
+
 emergencia
 
 ### Artículo 97
@@ -833,6 +867,7 @@ En caso de que los planes a los que se refiere la fracción I de este mismo art�
 
 ## Capítulo II — De la conclusión de la emergencia y su prevención
 
+
 ### Artículo 104
 . Concluida la emergencia alimentaria, la autoridad que la declaró elaborará un informe público pormenorizado de los problemas enfrentados, las acciones realizadas, los resultados, las recomendaciones, los recursos empleados y las personas atendidas.
 Este informe se presentará en un plazo no mayor a sesenta días naturales desde que finaliza la emergencia. El informe será entregado a los órganos de fiscalización, a los institutos de transparencia y acceso a la información pública respectivos y a los consejos alimentarios que correspondan.
@@ -843,6 +878,7 @@ En su caso, la información deberá incluirse en el Portal de Transparencia Pres
 Las personas que cuenten con conocimientos especiales e información que puedan servir para prevenir o atender emergencias alimentarias tendrán el deber ciudadano de comunicarlos a las autoridades correspondientes. Dichas autoridades tienen la obligación de atenderlos y valorarlos.
 
 ## TÍTULO NOVENO — DE LAS INFRACCIONES Y SANCIONES
+
 Capítulo único Infracciones y sanciones administrativas
 
 ### Artículo 106

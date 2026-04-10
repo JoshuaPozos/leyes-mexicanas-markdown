@@ -16,14 +16,17 @@ LEY DE MIGRACION
 
 ## TÍTULO PRIMERO — DISPOSICIONES PRELIMINARES
 
+
 ## CAPÍTULO ÚNICO — DISPOSICIONES PRELIMINARES
+
 
 ### Artículo 1
 . Las disposiciones de esta Ley son de orden público y de observancia general en toda la República y tienen por objeto regular lo relativo al ingreso y salida de mexicanos y extranjeros al territorio de los Estados Unidos Mexicanos y el tránsito y la estancia de los extranjeros en el mismo, en un marco de respeto, protección y salvaguarda de los derechos humanos, de contribución al desarrollo nacional, así como de preservación de la soberanía y de la seguridad nacionales.
 
 ### Artículo 2
 . La política migratoria del Estado Mexicano es el conjunto de decisiones estratégicas para alcanzar objetivos determinados que con fundamento en los principios generales y demás preceptos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenios internacionales en los que el Estado Mexicano sea parte y la presente Ley, se plasman en el Reglamento, normas secundarias, diversos programas y acciones concretas para atender el fenómeno migratorio de México de manera integral, como país de origen, tránsito, destino y retorno de migrantes.
-Párrafo reformado DOF 04-05-2021 Son principios en los que debe sustentarse la política migratoria del Estado mexicano los siguientes:
+Párrafo reformado DOF 04-05-2021
+Son principios en los que debe sustentarse la política migratoria del Estado mexicano los siguientes:
 Respeto irrestricto de los derechos humanos de los migrantes, nacionales y extranjeros, sea cual fuere su origen, nacionalidad, género, etnia, edad y situación migratoria, con especial atención a grupos vulnerables como menores de edad, mujeres, indígenas, adolescentes y personas de la tercera edad, así como a víctimas del delito. En ningún caso una situación migratoria irregular preconfigurará por sí misma la comisión de un delito ni se prejuzgará la comisión de ilícitos por parte de un migrante por el hecho de encontrarse en condición no documentada.
 Congruencia de manera que el Estado mexicano garantice la vigencia de los derechos que reclama para sus connacionales en el exterior, en la admisión, ingreso, permanencia, tránsito, deportación y retorno asistido de extranjeros en su territorio.
 Enfoque integral acorde con la complejidad de la movilidad internacional de personas, que atienda las diversas manifestaciones de migración en México como país de origen, tránsito, destino y retorno de migrantes, considerando sus causas estructurales y sus consecuencias inmediatas y futuras.
@@ -37,9 +40,12 @@ Unidad familiar e interés superior de la niña, niño y adolescente, como crite
 Integración social y cultural entre nacionales y extranjeros residentes en el país con base en el multiculturalismo y la libertad de elección y el pleno respeto de las culturas y costumbres de sus comunidades de origen, siempre que no contravengan las leyes del país.
 Facilitar el retorno al territorio nacional y la reinserción social de los emigrantes mexicanos y sus familias, a través de programas interinstitucionales y de reforzar los vínculos entre las comunidades de origen y destino de la emigración mexicana, en provecho del bienestar familiar y del desarrollo regional y nacional.
 Interés superior de la niña, niño o adolescente.
-Párrafo adicionado DOF 04-05-2021. Reformado DOF 15-01-2026 Perspectiva de género, igualdad sustantiva entre mujeres y hombres y deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-Párrafo adicionado DOF 15-01-2026 Convencionalidad, en términos de lo dispuesto por el párrafo tercero del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
-Párrafo adicionado DOF 04-05-2021 El Poder Ejecutivo determinará la política migratoria del país en su parte operativa, para lo cual deberá recoger las demandas y posicionamientos de los otros Poderes de la Unión, de los gobiernos de las entidades federativas y de la sociedad civil organizada, tomando en consideración la tradición humanitaria de México y su compromiso indeclinable con los derechos humanos, el desarrollo y la seguridad nacional, pública y fronteriza.
+Párrafo adicionado DOF 04-05-2021. Reformado DOF 15-01-2026
+Perspectiva de género, igualdad sustantiva entre mujeres y hombres y deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+Párrafo adicionado DOF 15-01-2026
+Convencionalidad, en términos de lo dispuesto por el párrafo tercero del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.
+Párrafo adicionado DOF 04-05-2021
+El Poder Ejecutivo determinará la política migratoria del país en su parte operativa, para lo cual deberá recoger las demandas y posicionamientos de los otros Poderes de la Unión, de los gobiernos de las entidades federativas y de la sociedad civil organizada, tomando en consideración la tradición humanitaria de México y su compromiso indeclinable con los derechos humanos, el desarrollo y la seguridad nacional, pública y fronteriza.
 
 ### Artículo 3
 . Para efectos de la presente Ley se entenderá por:
@@ -144,7 +150,8 @@ Fracción recorrida DOF 07-06-2013. Reformada DOF 12-07-2018. Recorrida DOF 11-1
 XXXIV. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
 Fracción recorrida DOF 07-06-2013, 11-11-2020
 
-XXXV. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y Fracción recorrida DOF 07-06-2013, 11-11-2020
+XXXV. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y
+Fracción recorrida DOF 07-06-2013, 11-11-2020
 
 XXXVI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
 Fracción recorrida DOF 07-06-2013, 11-11-2020
@@ -158,7 +165,9 @@ Los extranjeros que concluyan su encargo oficial en los Estados Unidos Mexicanos
 
 ## TÍTULO SEGUNDO — DERECHOS Y OBLIGACIONES DE LOS MIGRANTES
 
+
 ## CAPÍTULO ÚNICO — DERECHOS Y OBLIGACIONES
+
 
 ### Artículo 6
 . El Estado mexicano garantizará a toda persona extranjera el ejercicio de los derechos y libertades reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y en las disposiciones jurídicas aplicables, con independencia de su situación migratoria.
@@ -223,7 +232,9 @@ IV. Las demás obligaciones establecidas en la Constitución, en la presente Ley
 
 ## TÍTULO TERCERO — DE LAS AUTORIDADES EN MATERIA MIGRATORIA
 
+
 ## CAPÍTULO I — DE LA AUTORIDADES MIGRATORIAS
+
 
 ### Artículo 18
 . La Secretaría tendrá las siguientes atribuciones en materia migratoria:
@@ -277,7 +288,8 @@ Fracción adicionada DOF 11-11-2020
 XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente;
 Fracción adicionada DOF 11-11-2020. Reformada DOF 15-01-2026
 
-XII. Garantizar los deberes reforzados del Estado de protección con las mujeres, adolescentes, niñas y niños en materia migratoria, y Fracción adicionada DOF 15-01-2026
+XII. Garantizar los deberes reforzados del Estado de protección con las mujeres, adolescentes, niñas y niños en materia migratoria, y
+Fracción adicionada DOF 15-01-2026
 
 XIII. Las demás que le señale esta Ley, su Reglamento y las disposiciones jurídicas aplicables.
 Fracción recorrida DOF 11-11-2020. Reformada y recorrida DOF 15-01-2026
@@ -296,6 +308,7 @@ IV. En los casos previstos en esta Ley, tramitar y resolver la expedición de vi
 V. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ## CAPÍTULO II — DE LA PROFESIONALIZACIÓN Y CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
+
 
 ### Artículo 22
 . La actuación de los servidores públicos del Instituto se sujetará, invariablemente, a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución y en la presente Ley.
@@ -329,6 +342,7 @@ Para la eficiencia y eficacia de la gestión migratoria, los procedimientos para
 Artículo reformado DOF 07-06-2013
 
 ## CAPÍTULO III — DE LAS AUTORIDADES AUXILIARES EN MATERIA MIGRATORIA
+
 
 ### Artículo 26
 . Corresponde a la Secretaría de Turismo:
@@ -397,14 +411,17 @@ Fracción reformada DOF 25-06-2018, 15-01-2026
 II. Promover acciones dirigidas a mejorar la condición social de las mujeres, adolescentes, niñas y niños migrantes, para garantizar su derecho a una vida libre de violencias y la erradicación de todas las formas de discriminación en su contra;
 Fracción reformada DOF 15-01-2026
 
-III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en la atención con perspectiva de género, prevención y erradicación de violencias de género, así como respeto y protección de los derechos humanos de las migrantes, y Fracción reformada DOF 15-01-2026
+III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en la atención con perspectiva de género, prevención y erradicación de violencias de género, así como respeto y protección de los derechos humanos de las migrantes, y
+Fracción reformada DOF 15-01-2026
 
 IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ## TÍTULO CUARTO — DEL MOVIMIENTO INTERNACIONAL DE PERSONAS Y LA ESTANCIA DE EXTRANJEROS
+
 EN TERRITORIO NACIONAL
 
 ## CAPÍTULO I — DE LA ENTRADA Y SALIDA DEL TERRITORIO NACIONAL
+
 
 ### Artículo 31
 . Es facultad exclusiva de la Secretaría fijar y suprimir los lugares destinados al tránsito internacional de personas por tierra, mar y aire, previa opinión de las Secretarías de Hacienda y Crédito Público; de Comunicaciones y Transportes; de Salud; de Relaciones Exteriores; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y en su caso, de Marina. Asimismo, consultará a las dependencias que juzgue conveniente.
@@ -444,9 +461,12 @@ VI. Certificado de Nacionalidad Mexicana.
 En su caso, podrá identificarse con credencial para votar con fotografía, expedida por la autoridad electoral nacional, o cualquier otro documento expedido por la autoridad en el ejercicio de sus funciones.
 A falta de los documentos probatorios mencionados en las fracciones anteriores, para los efectos de lo dispuesto en este artículo, se podrá acreditar la nacionalidad mexicana mediante cualquier otro elemento objetivo de convicción que permita al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
 En los casos en que el Instituto cuente con elementos suficientes para presumir la falta de autenticidad de los documentos o de veracidad de los elementos aportados para acreditar la nacionalidad mexicana, determinará el ingreso o rechazo de la persona de que se trate, después de realizar la investigación respectiva. Este procedimiento deberá ser racional y en ningún caso excederá de 4 horas, mismo que sólo podrá ampliarse a solicitud expresa de la persona que se ostenta como de nacionalidad mexicana. En ningún caso el plazo podrá ser mayor a veinticuatro horas.
-Párrafo reformado DOF 26-03-2024 Durante el tiempo que dure el proceso de revisión, la autoridad migratoria deberá brindar todas las facilidades de comunicación que tenga al alcance en sus instalaciones, para que las personas que al momento de solicitar su internación al territorio nacional se ostenten como mexicanos, puedan aportar elementos objetivos de convicción que permitan al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
-Párrafo adicionado DOF 26-03-2024 Durante el tiempo que perduren los procedimientos de revisión, el Instituto está obligado a preservar la seguridad e integridad física de los solicitantes, mismos que pueden permanecer en las instalaciones del Instituto.
-Párrafo adicionado DOF 26-03-2024 De igual forma, al ingresar al país, los mexicanos estarán obligados a proporcionar la información y los datos personales que, en el ámbito de sus atribuciones, les sea solicitada por las autoridades competentes y tendrán derecho a ser informados sobre los requerimientos legales establecidos para su ingreso y salida del territorio nacional.
+Párrafo reformado DOF 26-03-2024
+Durante el tiempo que dure el proceso de revisión, la autoridad migratoria deberá brindar todas las facilidades de comunicación que tenga al alcance en sus instalaciones, para que las personas que al momento de solicitar su internación al territorio nacional se ostenten como mexicanos, puedan aportar elementos objetivos de convicción que permitan al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
+Párrafo adicionado DOF 26-03-2024
+Durante el tiempo que perduren los procedimientos de revisión, el Instituto está obligado a preservar la seguridad e integridad física de los solicitantes, mismos que pueden permanecer en las instalaciones del Instituto.
+Párrafo adicionado DOF 26-03-2024
+De igual forma, al ingresar al país, los mexicanos estarán obligados a proporcionar la información y los datos personales que, en el ámbito de sus atribuciones, les sea solicitada por las autoridades competentes y tendrán derecho a ser informados sobre los requerimientos legales establecidos para su ingreso y salida del territorio nacional.
 
 ### Artículo 37
 . Para internarse al país, los extranjeros deberán:
@@ -567,10 +587,12 @@ III. Que goce de libertad preparatoria o condicional, salvo con permiso de la au
 IV. Por razones de seguridad nacional, de conformidad con las disposiciones jurídicas aplicables;
 Fracción reformada DOF 21-04-2016
 
-V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, y Fracción reformada DOF 21-04-2016
+V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, y
+Fracción reformada DOF 21-04-2016
 
 VI. Las personas que, en su carácter de deudoras alimentarias, dejen de cumplir con las obligaciones que impone la legislación civil en materia de alimentos por un período mayor de sesenta días, previa solicitud de la autoridad judicial competente, sin perjuicio de las excepciones previstas por la legislación civil aplicable, así como de aquellas conductas consideradas como delitos por las leyes penales correspondientes. Para efectos de esta fracción y tratándose de extranjeros, el Instituto definirá su situación migratoria y resolverá con base en lo que se establezca en otros ordenamientos y en el reglamento de esta Ley.
-Fracción adicionada DOF 21-04-2016 El Instituto contará con los medios adecuados para verificar los supuestos anteriores, de conformidad con lo dispuesto en el Reglamento.
+Fracción adicionada DOF 21-04-2016
+El Instituto contará con los medios adecuados para verificar los supuestos anteriores, de conformidad con lo dispuesto en el Reglamento.
 
 ### Artículo 49
 . La salida del país de niñas, niños y adolescentes o de personas bajo tutela jurídica en términos de la legislación civil, sean mexicanos o extranjeros, se sujetará además a las siguientes reglas:
@@ -587,6 +609,7 @@ II. En el caso de que vayan acompañados por un tercero mayor de edad o viajen s
 
 ## CAPÍTULO II — DE LA ESTANCIA DE EXTRANJEROS EN EL TERRITORIO NACIONAL
 
+
 ### Artículo 52
 . Los extranjeros podrán permanecer en el territorio nacional en las condiciones de estancia de visitante, residente temporal y residente permanente, siempre que cumplan con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, de conformidad con lo siguiente:
 
@@ -595,7 +618,8 @@ I. VISITANTE SIN PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extr
 II. VISITANTE CON PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extranjero que cuente con una oferta de empleo, con una invitación por parte de alguna autoridad o institución académica, artística, deportiva o cultural por la cual perciba una remuneración en el país, o venga a desempeñar una actividad remunerada por temporada estacional en virtud de acuerdos interinstitucionales celebrados con entidades extranjeras, para permanecer en territorio nacional por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada.
 
 III. VISITANTE REGIONAL. Autoriza al extranjero nacional o residente de los países vecinos para ingresar a las regiones fronterizas con derecho a entrar y salir de las mismas cuantas veces lo deseen, sin que su permanencia exceda de siete días y sin permiso para recibir remuneración en el país.
-Párrafo reformado DOF 19-05-2017 Mediante disposiciones de carácter administrativo, la Secretaría establecerá la vigencia de las autorizaciones y los municipios y entidades federativas que conforman las regiones fronterizas, para efectos del otorgamiento de la condición de estancia de visitante regional.
+Párrafo reformado DOF 19-05-2017
+Mediante disposiciones de carácter administrativo, la Secretaría establecerá la vigencia de las autorizaciones y los municipios y entidades federativas que conforman las regiones fronterizas, para efectos del otorgamiento de la condición de estancia de visitante regional.
 
 IV. VISITANTE TRABAJADOR FRONTERIZO. Autoriza al extranjero que sea nacional de los países con los cuales los Estados Unidos Mexicanos comparten límites territoriales, para permanecer hasta por un año en las entidades federativas que determine la Secretaría. El visitante trabajador fronterizo contará con permiso para trabajar a cambio de una remuneración en el país, en la actividad relacionada con la oferta de empleo con que cuente y con derecho a entrar y salir del territorio nacional cuantas veces lo desee.
 
@@ -742,9 +766,11 @@ Fracción reformada DOF 07-01-2021
 De conformidad con lo dispuesto en el artículo 27 de la Constitución, la Ley de Inversión Extranjera y demás leyes y disposiciones aplicables, los extranjeros deberán formular las renuncias correspondientes.
 
 ## TÍTULO QUINTO — DE LA PROTECCIÓN A LOS MIGRANTES QUE TRANSITAN POR EL TERRITORIO
+
 NACIONAL
 
 ## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
+
 
 ### Artículo 66
 . La situación migratoria de un migrante no impedirá el ejercicio de sus derechos y libertades reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, así como en la presente Ley.
@@ -782,7 +808,8 @@ Párrafo adicionado DOF 15-01-2026
 
 ### Artículo 71
 . La Secretaría creará grupos de protección a migrantes que se encuentren en territorio nacional, los que tendrán por objeto la promoción, protección y defensa de sus derechos con enfoque diferenciado y perspectiva de género, con independencia de su nacionalidad o situación migratoria.
-Párrafo reformado DOF 15-01-2026 La Secretaría celebrará convenios de colaboración y concertación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios, con las organizaciones de la sociedad civil o con los particulares, con el objeto de que participen en la instalación y funcionamiento de los grupos de protección a migrantes.
+Párrafo reformado DOF 15-01-2026
+La Secretaría celebrará convenios de colaboración y concertación con las dependencias y entidades de la Administración Pública Federal, de las entidades federativas o municipios, con las organizaciones de la sociedad civil o con los particulares, con el objeto de que participen en la instalación y funcionamiento de los grupos de protección a migrantes.
 En el caso de niñas, niños y adolescentes migrantes los convenios deberán regirse por lo establecido en la presente Ley, la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones aplicables.
 Artículo reformado DOF 11-11-2020
 
@@ -791,7 +818,8 @@ Artículo reformado DOF 11-11-2020
 
 ### Artículo 73
 . La Secretaría deberá implementar acciones con perspectiva de género y de derechos humanos, que permitan brindar atención adecuada y protección reforzada a las personas migrantes que, por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad como son las niñas, niños y adolescentes, las mujeres, los grupos y comunidades indígenas y afrodescendientes, las víctimas de delitos, las personas con discapacidad y las adultas mayores.
-Párrafo reformado DOF 15-01-2026 Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios o demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
+Párrafo reformado DOF 15-01-2026
+Para tal efecto, la Secretaría podrá establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios o demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas en la atención de personas en situación de vulnerabilidad.
 En el caso de las niñas, niños y adolescentes migrantes, la atención diferenciada se prestará con independencia de su situación migratoria, y no podrá condicionarse o restringirse al inicio, suspensión o continuidad de trámite administrativo o judicial alguno. Dicha atención deberá prestarse de conformidad con lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás disposiciones aplicables.
 Artículo reformado DOF 11-11-2020
 
@@ -811,7 +839,9 @@ Artículo reformado DOF 15-01-2026
 
 ## TÍTULO SEXTO — DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO
 
+
 ## CAPÍTULO I — DISPOSICIONES COMUNES EN MATERIA DE VERIFICACIÓN Y REGULACIÓN
+
 MIGRATORIA
 
 ### Artículo 77
@@ -830,6 +860,7 @@ Artículo reformado DOF 11-11-2020
 . Al ejercer sus facultades de control, verificación y revisión migratoria, el Instituto deberá consultar e informar a las autoridades responsables de la Seguridad Nacional sobre la presentación o identificación de sujetos que tengan vínculos con el terrorismo o la delincuencia organizada, o cualquier otra actividad que ponga en riesgo la Seguridad Nacional y deberá, adicionalmente, coadyuvar en las investigaciones que dichas autoridades le requieran.
 
 ## CAPÍTULO II — DEL CONTROL MIGRATORIO
+
 
 ### Artículo 81
 . Son acciones de control migratorio, la revisión de documentación de personas que pretendan internarse o salir del país, así como la inspección de los medios de transporte utilizados para tales fines. En dichas acciones, la Policía Federal actuará en auxilio y coordinación con el Instituto.
@@ -870,6 +901,7 @@ En el caso de transporte marítimo, cuando se determine el rechazo del extranjer
 
 ## CAPÍTULO III — DE LA VERIFICACIÓN MIGRATORIA
 
+
 ### Artículo 92
 . El Instituto realizará visitas de verificación para comprobar que los extranjeros que se encuentren en territorio nacional cumplan con las obligaciones previstas en esta Ley y su Reglamento.
 Los supuestos para que el Instituto lleve a cabo una visita de verificación son los siguientes:
@@ -894,14 +926,17 @@ Artículo reformado DOF 13-04-2020
 . Si con motivo de la visita de verificación se detecta que algún extranjero no cuenta con documentos que acrediten su situación migratoria regular en el país, se pondrá al extranjero a disposición del Instituto para que resuelva su situación migratoria, en los términos previstos en el Capítulo V del presente Título.
 Fuera de los casos a que se refiere el párrafo anterior, el acta que al efecto se levante deberá contener los datos necesarios para que se proceda a citar al extranjero para continuar el procedimiento de que se trate.
 En caso de detectar niñas, niños o adolescentes migrantes, la autoridad migratoria deberá, en coadyuvancia, notificar inmediatamente a la Procuraduría de Protección y hacer la canalización al Sistema DIF correspondiente. En ningún caso se llevará a cabo la presentación de una niña, niño o adolescente ni se iniciará el Procedimiento Administrativo Migratorio previo a dicha notificación. El Instituto emitirá un acta de canalización en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF.
-Párrafo adicionado DOF 11-11-2020 La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, niños o adolescentes presentes durante la verificación, se pospondrá hasta el momento en que se apersone la Procuraduría de Protección y se levante el correspondiente oficio de canalización del caso de las niñas, niños o adolescentes de que se trate a la Procuraduría.
-Párrafo adicionado DOF 11-11-2020 Si de la visita de verificación se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Párrafo adicionado DOF 11-11-2020
+La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, niños o adolescentes presentes durante la verificación, se pospondrá hasta el momento en que se apersone la Procuraduría de Protección y se levante el correspondiente oficio de canalización del caso de las niñas, niños o adolescentes de que se trate a la Procuraduría.
+Párrafo adicionado DOF 11-11-2020
+Si de la visita de verificación se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Párrafo adicionado DOF 11-11-2020
 
 ### Artículo 96
 . Las autoridades colaborarán con el Instituto para el ejercicio de sus funciones, cuando éste así lo solicite, sin que ello implique que puedan realizar de forma independiente funciones de control, verificación y revisión migratoria.
 
 ## CAPÍTULO IV — DE LA REVISIÓN MIGRATORIA
+
 
 ### Artículo 97
 . Además de los lugares destinados al tránsito internacional de personas establecidos, el Instituto podrá llevar a cabo revisiones de carácter migratorio dentro del territorio nacional a efecto de comprobar la situación migratoria de los extranjeros.
@@ -915,6 +950,7 @@ Si de la revisión migratoria se determina la presentación de una persona extra
 Artículo reformado DOF 11-11-2020
 
 ## CAPÍTULO V — DE LA PRESENTACIÓN DE EXTRANJEROS
+
 
 ### Artículo 99
 . Es de orden público la presentación de los extranjeros adultos en estaciones migratorias o en lugares habilitados para ello, en tanto se determina su situación migratoria en territorio nacional.
@@ -953,6 +989,7 @@ En el caso del auto de vinculación a proceso y la sentencia firme condenatoria 
 
 ## CAPÍTULO VI — DE LOS DERECHOS DE LOS ALOJADOS EN LAS ESTACIONES MIGRATORIAS
 
+
 ### Artículo 106
 . Para la presentación de migrantes, el Instituto establecerá estaciones migratorias o habilitará estancias provisionales en los lugares de la República que estime convenientes.
 No se alojará a un número de migrantes que supere la capacidad física de la estación migratoria asignada. En ningún caso se podrán habilitar como estaciones migratorias los centros de encarcelamiento, de reclusión preventiva o de ejecución de sentencias, o cualquier otro inmueble que no cumpla con las características, ni preste los servicios descritos en el artículo siguiente.
@@ -963,7 +1000,8 @@ No se alojará a un número de migrantes que supere la capacidad física de la e
 I. Prestar servicios de asistencia médica, psicológica y jurídica;
 
 II. Atender los requerimientos alimentarios del extranjero presentado, ofreciéndole tres alimentos al día. El Instituto deberá supervisar que la calidad de los alimentos sea adecuada. Las personas con necesidades especiales de nutrición, como personas de la tercera edad y mujeres embarazadas, recibirán una dieta adecuada, con el fin de que su salud no se vea afectada en tanto se define su situación migratoria.
-Párrafo reformado DOF 11-11-2020 Asimismo, cuando así lo requiera el tratamiento médico que se haya; prescrito al alojado, se autorizarán dietas especiales de alimentación. De igual manera se procederá con las personas que por cuestiones religiosas así lo soliciten;
+Párrafo reformado DOF 11-11-2020
+Asimismo, cuando así lo requiera el tratamiento médico que se haya; prescrito al alojado, se autorizarán dietas especiales de alimentación. De igual manera se procederá con las personas que por cuestiones religiosas así lo soliciten;
 
 III. Mantener en lugares separados y con medidas que aseguran la integridad física de las personas extranjeras, a hombres y mujeres;
 Fracción reformada DOF 11-11-2020
@@ -1014,10 +1052,12 @@ XI. No ser discriminado por las autoridades a causa de su origen étnico o nacio
 
 XII. Recibir un trato digno y humano durante toda su estancia en la Estación Migratoria;
 
-XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, y Fracción reformada DOF 11-11-2020
+XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, y
+Fracción reformada DOF 11-11-2020
 
 XIV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
-Fracción reformada DOF 03-07-2019. Reformada y recorrida DOF 11-11-2020 Reforma DOF 11-11-2020: Suprimió del artículo la entonces fracción XIV
+Fracción reformada DOF 03-07-2019. Reformada y recorrida DOF 11-11-2020
+Reforma DOF 11-11-2020: Suprimió del artículo la entonces fracción XIV
 
 ### Artículo 110
 . El personal de seguridad, vigilancia y custodia que realice sus funciones en los dormitorios de mujeres, será exclusivamente del sexo femenino, deberá recibir capacitación continua en igualdad sustantiva, derechos humanos de las mujeres y perspectiva de género, así como acreditar su cumplimiento.
@@ -1025,7 +1065,8 @@ Artículo reformado DOF 15-01-2026
 
 ### Artículo 111
 . El Instituto resolverá la situación migratoria de los extranjeros presentados en un plazo no mayor de 15 días hábiles, contados a partir de su presentación.
-Párrafo reformado DOF 12-07-2018 El alojamiento en las estaciones migratorias únicamente podrá exceder de los 15 días hábiles a que se refiere el párrafo anterior cuando se actualicen cualquiera de los siguientes supuestos:
+Párrafo reformado DOF 12-07-2018
+El alojamiento en las estaciones migratorias únicamente podrá exceder de los 15 días hábiles a que se refiere el párrafo anterior cuando se actualicen cualquiera de los siguientes supuestos:
 
 I. Que no exista información fehaciente sobre su identidad y/o nacionalidad, o exista dificultad para la obtención de los documentos de identidad y viaje;
 
@@ -1040,6 +1081,7 @@ En los supuestos de las fracciones I, II, III y IV de este artículo el alojamie
 Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia de visitante con permiso para recibir una remuneración en el país, mientras subsista el supuesto por el que se les otorgó dicha condición de estancia. Agotado el mismo, el Instituto deberá determinar la situación migratoria del extranjero.
 
 ## CAPÍTULO VII — DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE
+
 VULNERABILIDAD
 
 ### Artículo 112
@@ -1070,10 +1112,12 @@ Artículo reformado DOF 04-06-2013, 09-11-2017, 11-11-2020
 
 ### Artículo 113
 . En el caso de que los extranjeros sean mujeres embarazadas, adultos mayores, personas con discapacidad, e indígenas. O bien, víctimas o testigos de delitos graves cometidos en territorio nacional cuyo estado emocional no les permita tomar una decisión respecto a si desean retornar a su país de origen o permanecer en territorio nacional, el Instituto tomará las medidas pertinentes a fin de que si así lo requieren se privilegie su estancia en instituciones públicas o privadas especializadas que puedan brindarles la atención integral con enfoque diferenciado, con perspectiva de género y de derechos humanos que requieran, salvaguardando en todo momento su integridad.
-Párrafo reformado DOF 15-01-2026 En el caso de que los extranjeros víctimas de delito tengan situación migratoria regular en el país o hayan sido regularizados por el Instituto en términos de lo dispuesto por la presente Ley, el Instituto podrá canalizarlos a las instancias especializadas para su debida atención.
+Párrafo reformado DOF 15-01-2026
+En el caso de que los extranjeros víctimas de delito tengan situación migratoria regular en el país o hayan sido regularizados por el Instituto en términos de lo dispuesto por la presente Ley, el Instituto podrá canalizarlos a las instancias especializadas para su debida atención.
 El procedimiento que deberá seguir el Instituto para la detección, identificación y atención de extranjeros víctimas del delito se regulará en el Reglamento.
 
 ## CAPÍTULO VIII — DEL RETORNO ASISTIDO Y LA DEPORTACIÓN DE EXTRANJEROS QUE SE
+
 ENCUENTREN IRREGULARMENTE EN TERRITORIO NACIONAL
 
 ### Artículo 114
@@ -1122,10 +1166,12 @@ En el caso de niñas, niños y adolescentes, mujeres embarazadas, víctimas o te
 I. El interés superior de niñas, niños y adolescentes para garantizar su mayor protección;
 Fracción reformada DOF 15-01-2026
 
-II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen, y Fracción reformada DOF 15-01-2026
+II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen, y
+Fracción reformada DOF 15-01-2026
 
 III. La perspectiva de género y el derecho a una vida libre de violencias.
-Fracción adicionada DOF 15-01-2026 En el caso de niñas, niños y adolescentes y el de víctimas o testigos de delitos cometidos en territorio nacional, no serán deportados y atendiendo a su voluntad o al interés superior para garantizar su mayor protección, podrán sujetarse al procedimiento de retorno asistido o de regularización de su situación migratoria.
+Fracción adicionada DOF 15-01-2026
+En el caso de niñas, niños y adolescentes y el de víctimas o testigos de delitos cometidos en territorio nacional, no serán deportados y atendiendo a su voluntad o al interés superior para garantizar su mayor protección, podrán sujetarse al procedimiento de retorno asistido o de regularización de su situación migratoria.
 Artículo reformado DOF 11-11-2020
 
 ### Artículo 121
@@ -1158,6 +1204,7 @@ En los mecanismos contenidos en este capítulo, los extranjeros deberán estar a
 . Sólo por caso fortuito o fuerza mayor podrá suspenderse temporalmente el traslado de extranjeros que soliciten el retorno asistido, reanudándose una vez que sea superada la causa que originó la suspensión.
 
 ## CAPÍTULO IX — DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO EN MATERIA DE REGULACIÓN
+
 MIGRATORIA
 
 ### Artículo 126
@@ -1243,7 +1290,9 @@ En estos casos, el extranjero deberá abandonar el territorio nacional en el pla
 
 ## TÍTULO SÉPTIMO — DE LAS SANCIONES
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES RELATIVAS A LAS SANCIONES
+
 
 ### Artículo 138
 . El Instituto impondrá las sanciones a que se refiere esta Ley, dentro de los límites señalados para cada infracción, con base en la gravedad de la misma y el grado de responsabilidad del infractor, tomando en cuenta:
@@ -1262,6 +1311,7 @@ V. El nivel jerárquico del infractor y su antigüedad en el servicio, tratándo
 . Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán al Instituto para mejorar los servicios que en materia migratoria proporciona.
 
 ## CAPÍTULO II — DE LAS CAUSAS PARA SANCIONAR A LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+
 
 ### Artículo 140
 . Los servidores públicos del Instituto serán sancionados por las siguientes conductas:
@@ -1289,6 +1339,7 @@ Párrafo reformado DOF 03-07-2019
 . Se impondrá multa de cien a un mil días de salario mínimo general vigente en el Distrito Federal, al que sin permiso del Instituto autorice u ordene el despacho de un transporte que haya de salir del territorio nacional.
 
 ## CAPÍTULO III — DE LAS SANCIONES A LAS PERSONAS FÍSICAS Y MORALES
+
 
 ### Artículo 143
 . La aplicación de las sanciones a las personas físicas y morales se regirá por las disposiciones contenidas en este capítulo y en forma supletoria por la Ley Federal de Procedimiento Administrativo. En su sustanciación se respetarán plenamente los derechos humanos de los migrantes.
@@ -1363,7 +1414,9 @@ Igual sanción podrá imponerse para el caso de que la transmisión electrónica
 
 ## TÍTULO OCTAVO — DE LOS DELITOS EN MATERIA MIGRATORIA
 
+
 ## CAPÍTULO ÚNICO — DE LOS DELITOS
+
 
 ### Artículo 159
 . Se impondrá pena de ocho a dieciséis años de prisión y multa de cinco mil a quince mil días de salario mínimo general vigente en el Distrito Federal, a quien:
@@ -1393,14 +1446,13 @@ III. Cuando el autor material o intelectual sea servidor público.
 
 ## TRANSITORIOS
 
-**PRIMERO.** La Ley de Migración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las disposiciones que están sujetas a la vacancia prevista en el artículo
-**Segundo.** Transitorio.
-**SEGUNDO.** El artículo 10; las fracciones I, II, III y VI del artículo 18; el artículo 21; los Capítulos I y II del Título Cuarto; el último párrafo del artículo 74; los artículos 101 y 102; el artículo 117; el último párrafo del artículo 112; los artículos 126 y 127, y los artículos 149, 157 y 158 de la Ley de Migración, entrarán en vigor hasta que se encuentre vigente el Reglamento de la misma Ley.
-**TERCERO.** Dentro del término de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Federal deberá expedir el Reglamento de la Ley de Migración, en tanto,
-**CUARTO.** Las disposiciones administrativas de carácter general en materia migratoria emitidas con anterioridad a la entrada en vigor de la Ley de Migración, continuarán vigentes en todo lo que no se le opongan, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
-**QUINTO.** Las erogaciones que las dependencias y entidades de la Administración Pública Federal, así como la Procuraduría General de la República, deban realizar para dar cumplimiento a las acciones establecidas en la Ley de Migración, se sujetarán a su disponibilidad presupuestaria aprobada para ese fin por la Cámara de Diputados en el Decreto de Presupuesto de Egresos de la Federación.
-**SEXTO.** Para efectos de la aplicación de la Ley de Migración, se deberá tener en cuenta lo siguiente:
-
+**PRIMERO.-** La Ley de Migración entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las disposiciones que están sujetas a la vacancia prevista en el artículo
+**Segundo.-** Transitorio.
+**SEGUNDO.-** El artículo 10; las fracciones I, II, III y VI del artículo 18; el artículo 21; los Capítulos I y II del Título Cuarto; el último párrafo del artículo 74; los artículos 101 y 102; el artículo 117; el último párrafo del artículo 112; los artículos 126 y 127, y los artículos 149, 157 y 158 de la Ley de Migración, entrarán en vigor hasta que se encuentre vigente el Reglamento de la misma Ley.
+**TERCERO.-** Dentro del término de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Federal deberá expedir el Reglamento de la Ley de Migración, en tanto,
+**CUARTO.-** Las disposiciones administrativas de carácter general en materia migratoria emitidas con anterioridad a la entrada en vigor de la Ley de Migración, continuarán vigentes en todo lo que no se le opongan, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
+**QUINTO.-** Las erogaciones que las dependencias y entidades de la Administración Pública Federal, así como la Procuraduría General de la República, deban realizar para dar cumplimiento a las acciones establecidas en la Ley de Migración, se sujetarán a su disponibilidad presupuestaria aprobada para ese fin por la Cámara de Diputados en el Decreto de Presupuesto de Egresos de la Federación.
+**SEXTO.-** Para efectos de la aplicación de la Ley de Migración, se deberá tener en cuenta lo siguiente:
 I. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante, dentro de las características de turista, transmigrante, visitante en todas sus modalidades excepto los extranjeros que hayan obtenido la calidad migratoria de No inmigrante dentro de la característica de Visitante Local, otorgada a los nacionales de los países vecinos para su visita a las poblaciones fronterizas de los Estados Unidos Mexicanos, ministro de culto, visitante distinguido, visitante provisional y corresponsal, se equipararán al Visitante sin permiso para realizar actividades remuneradas;
 
 II. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante dentro de la característica de Visitante Local, otorgada a los nacionales de los países vecinos para su visita a las poblaciones fronterizas de los Estados Unidos Mexicanos, se equipararán al Visitante Regional;
@@ -1412,20 +1464,20 @@ IV. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante, d
 V. Los extranjeros que hayan obtenido la calidad migratoria de Inmigrante, dentro las características de rentista, inversionista, profesional, cargo de confianza, científico, técnico, familiar, artista y deportista o asimilados, se equipararán al Residente temporal, y
 
 VI. Los extranjeros que hayan obtenido la calidad migratoria de inmigrado, se equipararán al Residente permanente.
-**SÉPTIMO.** Las referencias realizadas en la Ley de Migración al auto de vinculación a proceso, quedarán entendidas al término vigente de auto de formal prisión, toda vez que con este Decreto no entra en vigor el artículo 19 constitucional sujeto a la vacancia prevista en el artículo Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
-**OCTAVO.** La Secretaría de Gobernación publicará en el Diario Oficial de la Federación, las reglas relativas al Sistema de Puntos previsto en la Ley de Migración, dentro del término de ciento ochenta días contados a partir de su entrada en vigor.
-**NOVENO.** Los trámites migratorios que se encuentren en proceso o pendientes de resolución a la fecha de entrada en vigor de la Ley de Migración, deberán concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
-**DÉCIMO.** Los procedimientos penales iniciados antes de la entrada en vigor de la Ley de Migración, por el delito previsto en el artículo 138 de la Ley General de Población, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+**SÉPTIMO.-** Las referencias realizadas en la Ley de Migración al auto de vinculación a proceso, quedarán entendidas al término vigente de auto de formal prisión, toda vez que con este Decreto no entra en vigor el artículo 19 constitucional sujeto a la vacancia prevista en el artículo Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+**OCTAVO.-** La Secretaría de Gobernación publicará en el Diario Oficial de la Federación, las reglas relativas al Sistema de Puntos previsto en la Ley de Migración, dentro del término de ciento ochenta días contados a partir de su entrada en vigor.
+**NOVENO.-** Los trámites migratorios que se encuentren en proceso o pendientes de resolución a la fecha de entrada en vigor de la Ley de Migración, deberán concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
+**DÉCIMO.-** Los procedimientos penales iniciados antes de la entrada en vigor de la Ley de Migración, por el delito previsto en el artículo 138 de la Ley General de Población, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 ARTÍCULOS SEGUNDO A NOVENO. ……….
 
 ## TRANSITORIOS
 
 DEL DECRETO POR EL QUE EXPIDE LA   Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
 Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
-**TERCERO.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
-**CUARTO.** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+**TERCERO.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+**CUARTO.-** Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma y adiciona el artículo 112 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2013
@@ -1445,8 +1497,8 @@ Se adiciona una fracción XXVII, recorriéndose las subsecuentes en su orden, al
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Dentro de un plazo de noventa días naturales, contados a partir de la vigencia de este Decreto, el Ejecutivo Federal publicará las modificaciones que sean necesarias.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Dentro de un plazo de noventa días naturales, contados a partir de la vigencia de este Decreto, el Ejecutivo Federal publicará las modificaciones que sean necesarias.
 México, D.F., a 29 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones, así como la denominación de la Ley sobre Refugiados y Protección Complementaria; y se reforman y adicionan diversos artículos de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 30 de octubre de 2014
@@ -1456,10 +1508,10 @@ Se reforman los artículos 3, fracción III; y 55, segundo párrafo de la Ley de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
-**Tercero.** La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
-**Cuarto.** Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de conformidad con lo establecido en la Ley de Migración.
+**Tercero.-** La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+**Cuarto.-** Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
 México, D.F., a 25 de septiembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se adiciona una fracción VI al artículo 48 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 21 de abril de 2016
@@ -1490,7 +1542,7 @@ Publicado en el Diario Oficial de la Federación el 9 de noviembre de 2017
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de septiembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Alejandra Noemi Reynoso Sánchez, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma la fracción I del artículo 30 de la Ley de Migración.
@@ -1511,7 +1563,7 @@ Se reforma la fracción XXVIII del artículo 3 y el primer párrafo del artícul
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de julio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman los artículos 109 y 140 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 3 de julio de 2019
@@ -1521,7 +1573,7 @@ Se reforman la fracción XV del artículo 109 y el segundo párrafo del artícul
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 3 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de julio de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma el artículo 93 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 13 de abril de 2020
@@ -1531,20 +1583,20 @@ Se reforma el artículo 93 de la Ley de Migración, para quedar como sigue: …�
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 27 de febrero de 2020.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman diversos artículos de la Ley de Migración y de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, en materia de Infancia Migrante.
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2020
 
 ### Artículo Primero
 Se adicionan las fracciones V, XX, XXI, XXII y XXV, recorriendo en su numeración a las subsecuentes del artículo 3; un segundo párrafo al artículo 6; las fracciones X y XI, recorriendo en su numeración a las subsecuentes del artículo 20; un párrafo tercero al artículo 71; un párrafo segundo al artículo 79; los párrafos tercero, cuarto y quinto al artículo 95; los párrafos segundo,
-**tercero.** y cuarto al artículo 98; se reforman la fracción XIX recorrida del artículo 3; el primer párrafo del artículo 6; el segundo párrafo del artículo 11; las fracciones IV, VII y IX del artículo 20; el artículo 29; el inciso b) de la fracción V del artículo 52; el párrafo segundo del artículo 68; el primer párrafo del artículo 71; los artículos 73 y 74; el artículo 99; las fracciones II y III del artículo 107; la fracción XIII del artículo 109; el artículo 112; el párrafo segundo y sus fracciones I y II y el párrafo tercero del artículo 120; se suprime la fracción XIV, recorriendo en su numeración las subsecuentes del artículo 109; de la Ley de Migración, para quedar como sigue: ……..
+**tercero.-** y cuarto al artículo 98; se reforman la fracción XIX recorrida del artículo 3; el primer párrafo del artículo 6; el segundo párrafo del artículo 11; las fracciones IV, VII y IX del artículo 20; el artículo 29; el inciso b) de la fracción V del artículo 52; el párrafo segundo del artículo 68; el primer párrafo del artículo 71; los artículos 73 y 74; el artículo 99; las fracciones II y III del artículo 107; la fracción XIII del artículo 109; el artículo 112; el párrafo segundo y sus fracciones I y II y el párrafo tercero del artículo 120; se suprime la fracción XIV, recorriendo en su numeración las subsecuentes del artículo 109; de la Ley de Migración, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
-**Tercero.** El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
+**Primero.-** El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá las reformas reglamentarias correspondientes.
+**Tercero.-** El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente Decreto y en los presupuestos sucesivos.
 Ciudad de México, a 29 de septiembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1580,39 +1632,39 @@ Cuarto.- Se reforma el párrafo primero y las fracciones II y III del artículo 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma el segundo párrafo del artículo 35 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2022
@@ -1633,7 +1685,7 @@ Se reforma el párrafo quinto, y se adicionan los párrafos sexto y séptimo, re
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforma el artículo 3 de la Ley de Migración.
 Publicado en el Diario Oficial de la Federación el 27 de mayo de 2024
@@ -1650,16 +1702,16 @@ Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
 
 ### Artículo Noveno
 Se reforman los artículos 2, párrafo décimo quinto; 20, actual fracción XII; 30, en su párrafo y fracciones I, II y III; 67; 71, párrafo primero; 73, párrafo primero; 75; 108; 110; 113, párrafo
-**primero.** , y se adicionan un párrafo décimo sexto, y se recorren en su orden los subsecuentes para quedar como décimo séptimo y décimo octavo, al artículo 2; una fracción XII al artículo 20; un párrafo
-**tercero.** al artículo 70 y la fracción III al artículo 120, de la Ley de Migración, para quedar como sigue: ………
+**primero.-** , y se adicionan un párrafo décimo sexto, y se recorren en su orden los subsecuentes para quedar como décimo séptimo y décimo octavo, al artículo 2; una fracción XII al artículo 20; un párrafo
+**tercero.-** al artículo 70 y la fracción III al artículo 120, de la Ley de Migración, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -15,7 +15,9 @@ Se expide la Ley General de Educación.
 
 ## Título Primero — Del derecho a la educación
 
+
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 1
 . La presente Ley garantiza el derecho a la educación reconocido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio es necesario para alcanzar el bienestar de todas las personas.
@@ -45,6 +47,7 @@ IV. Autoridades escolares, al personal que lleva a cabo funciones de dirección 
 V. Estado, a la Federación, los Estados, la Ciudad de México y los municipios.
 
 ## Capítulo II — Del ejercicio del derecho a la educación
+
 
 ### Artículo 5
 . Toda persona tiene derecho a la educación, el cual es un medio para adquirir, actualizar, completar y ampliar sus conocimientos, capacidades, habilidades y aptitudes que le permitan alcanzar su desarrollo personal y profesional; como consecuencia de ello, contribuir a su bienestar, a la transformación y el mejoramiento de la sociedad de la que forma parte.
@@ -98,6 +101,7 @@ La educación impartida por los particulares con autorización o con reconocimie
 
 ## Capítulo III — De la equidad y la excelencia educativa
 
+
 ### Artículo 8
 . El Estado está obligado a prestar servicios educativos con equidad y excelencia.
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con estereotipos de género, orientación sexual o prácticas culturales que constituyan barreras para acceder a servicios educativos.
@@ -142,7 +146,9 @@ XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanza
 
 ## Título Segundo — De la nueva escuela mexicana
 
+
 ## Capítulo I — De la función de la nueva escuela mexicana
+
 
 ### Artículo 11
 . El Estado, a través de la nueva escuela mexicana, buscará la equidad, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Tendrá como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Nacional, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
@@ -156,7 +162,8 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencias en las diferentes regiones del país, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres, de conformidad con los deberes reforzados del Estado de protección de este sector de la población, y Fracción reformada DOF 15-01-2026
+IV. Combatir las causas de discriminación y violencias en las diferentes regiones del país, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres, de conformidad con los deberes reforzados del Estado de protección de este sector de la población, y
+Fracción reformada DOF 15-01-2026
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -170,7 +177,8 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 Fracción reformada DOF 15-01-2026
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de las personas con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad y participación para la ejecución de acciones que garanticen su preservación y restauración, y que adopten y promuevan estilos de vida sostenibles, y Fracción reformada DOF 15-01-2026
+IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de las personas con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad y participación para la ejecución de acciones que garanticen su preservación y restauración, y que adopten y promuevan estilos de vida sostenibles, y
+Fracción reformada DOF 15-01-2026
 
 V. La igualdad sustantiva entre mujeres y hombres, a través de la incorporación transversal de la perspectiva de género.
 Fracción adicionada DOF 15-01-2026
@@ -188,10 +196,12 @@ III. Revalorizar a las maestras y los maestros como agentes fundamentales del pr
 IV. Dimensionar la prioridad de los planes y programas de estudio en la orientación integral del educando y la necesidad de reflejar los contextos locales y regionales, y
 
 V. Promover la participación de los pueblos y comunidades indígenas y afromexicanas en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación.
-Fracción reformada DOF 01-04-2024 La Secretaría, en coordinación con las autoridades educativas de los Estados y de la Ciudad México, realizarán las revisiones del Acuerdo al que se refiere este artículo, con la finalidad de adecuarlo con las realidades y contextos en los que se imparta la educación.
+Fracción reformada DOF 01-04-2024
+La Secretaría, en coordinación con las autoridades educativas de los Estados y de la Ciudad México, realizarán las revisiones del Acuerdo al que se refiere este artículo, con la finalidad de adecuarlo con las realidades y contextos en los que se imparta la educación.
 Los municipios que, en términos del artículo 116 de esta Ley, presten servicios educativos de cualquier tipo o modalidad, participarán en este proceso a través de las autoridades educativas de las entidades federativas.
 
 ## Capítulo II — De los fines de la educación
+
 
 ### Artículo 15
 . La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, persigue los siguientes fines:
@@ -218,6 +228,7 @@ X. Todos aquellos que contribuyan al bienestar y desarrollo del país.
 
 ## Capítulo III — De los criterios de la educación
 
+
 ### Artículo 16
 . La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en los tres órdenes de gobierno.
 Además, responderá a los siguientes criterios:
@@ -243,6 +254,7 @@ IX. Será integral porque educará para la vida y estará enfocada a las capacid
 X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
 
 ## Capítulo IV — De la orientación integral
+
 
 ### Artículo 17
 . La orientación integral en la nueva escuela mexicana comprende la formación para la vida de los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
@@ -283,6 +295,7 @@ XI. Los valores para la responsabilidad ciudadana y social, como el respeto por 
 Las instituciones deberán informar periódicamente a los educandos y a las madres y padres de familia o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de los educandos que les permitan lograr un mejor aprovechamiento.
 
 ## Capítulo V — De los planes y programas de estudio
+
 
 ### Artículo 22
 . Los planes y programas a los que se refiere este Capítulo favorecerán el desarrollo integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
@@ -391,7 +404,9 @@ XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la e
 
 ## Título Tercero — Del Sistema Educativo Nacional
 
+
 ## Capítulo I — De la naturaleza del Sistema Educativo Nacional
+
 
 ### Artículo 31
 . El Sistema Educativo Nacional es el conjunto de actores, instituciones y procesos para la prestación del servicio público de la educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, desde la educación básica hasta la superior, así como por las relaciones institucionales de dichas estructuras y su vinculación con la sociedad mexicana, sus organizaciones, comunidades, pueblos, sectores y familias.
@@ -454,6 +469,7 @@ De acuerdo con las necesidades educativas específicas de la población, podrá 
 
 ## Capítulo II — Del tipo de educación básica
 
+
 ### Artículo 37
 . La educación básica está compuesta por el nivel inicial, preescolar, primaria y secundaria.
 Los servicios que comprende este tipo de educación, entre otros, son:
@@ -502,6 +518,7 @@ IV. Promover las condiciones pedagógicas, administrativas, de recursos didácti
 
 ## Capítulo III — Del tipo de educación media superior
 
+
 ### Artículo 44
 . La educación media superior comprende los niveles de bachillerato, de profesional técnico bachiller y los equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes. Se organizará a través de un sistema que establezca un marco curricular común a nivel nacional y garantice el reconocimiento de estudios entre las opciones que ofrece este tipo educativo.
 En educación media superior, se ofrece una formación en la que el aprendizaje involucre un proceso de reflexión, búsqueda de información y apropiación del conocimiento, en múltiples espacios de desarrollo.
@@ -534,6 +551,7 @@ De igual forma, implementarán un programa de capacitación y evaluación para l
 
 ## Capítulo IV — Del tipo de educación superior
 
+
 ### Artículo 47
 . La educación superior, como parte del Sistema Educativo Nacional y último esquema de la prestación de los servicios educativos para la cobertura universal prevista en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, es el servicio que se imparte en sus distintos niveles, después del tipo medio superior. Está compuesta por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende también la educación normal en todos sus niveles y especialidades.
 Las autoridades educativas, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en los jóvenes, y determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
@@ -555,6 +573,7 @@ La Secretaría propondrá directrices generales para la educación superior y ac
 . Se apoyará el desarrollo de un espacio común de educación superior que permita el intercambio académico, la movilidad nacional e internacional de estudiantes, profesores e investigadores, así como el reconocimiento de créditos y la colaboración interinstitucional. La Ley General de Educación Superior determinará la integración y los principios para la operación de este sistema.
 
 ## Capítulo V
+
 Del fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación
 
 ### Artículo 52
@@ -580,6 +599,7 @@ El Estado apoyará la difusión e investigación científica, humanística y tec
 . La Secretaría, en coordinación con los organismos y autoridades correspondientes, y de acuerdo con lo dispuesto en las leyes en la materia, establecerá los mecanismos de colaboración para impulsar programas de investigación e innovación tecnológica en las distintas instituciones públicas de educación superior.
 
 ## Capítulo VI — De la educación indígena, intercultural y plurilingüe
+
 Capítulo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Capítulo y denominación reformados DOF 07-06-2024
 
 ### Artículo 56
@@ -604,7 +624,8 @@ VII. Promover la conectividad y el acceso a las tecnologías de la información 
 VIII. Integrar y actualizar la información de la estadística educativa y el padrón de migración indígena, a fin de garantizar la pertinencia de la misma.
 
 IX. Establecer esquemas de coordinación entre las diferentes instancias de los tres niveles de gobierno para asegurar que existan programas de movilidad nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas y afromexicanas en un marco de inclusión y enriquecimiento de las culturas.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 57
 . El Estado garantizará y promoverá el uso de las lenguas indígenas en el sistema de educación indígena, intercultural y plurilingüe. Nunca podrá justificarse la eliminación de esta garantía por motivo del bajo número de hablantes. Para lograr lo anterior se deberá cumplir con lo siguiente:
@@ -622,7 +643,8 @@ V. Promover la interculturalidad a través del intercambio de conocimientos cult
 VI. Diseñar contenido multimedia que podrá vincularse con los contenidos en papel que se encuentren en los libros de textos. Esta vinculación se puede hacer de acuerdo con la planeación correspondiente y recurriendo a recursos y herramientas como los códigos de respuesta rápida, páginas de Internet y aplicaciones móviles.
 Para las lenguas indígenas que no cuenten con ningún tipo de presencia, se deben realizar acciones afirmativas para incluirlas en los programas de estudio. Las lenguas indígenas que ya tengan presencia en el sistema actual de educación, se deben fortalecer y consolidar su uso.
 La educación indígena, intercultural y plurilingüe deberá ser considerada prioritaria en el Plan Nacional de Desarrollo como parte de las obligaciones establecidas por el artículo 20 Bis de la Ley de Planeación.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 57
 Bis. El Estado está obligado a documentar, investigar y difundir la tradición oral, escrita y los conocimientos ancestrales de cada comunidad indígena y afromexicana. En el cumplimiento de dicho deber, la comunidad participará y tendrá un papel central en la identificación de dichas tradiciones orales, escritas y de conocimientos ancestrales. Estas tradiciones no deberán estar limitadas a una lengua indígena.
@@ -633,9 +655,11 @@ Artículo adicionado DOF 07-06-2024
 . Las autoridades educativas consultarán de manera previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo con las disposiciones legales nacionales e internacionales vigentes en la materia, cada vez que se adopten medidas susceptibles de afectar a los pueblos y comunidades indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 Para el cumplimiento de lo establecido en el párrafo anterior, la Secretaría se coordinará con el Instituto Nacional de los Pueblos Indígenas, el Instituto Nacional de las Lenguas Indígenas, la Comisión para la Mejora Continua de la Educación, así como sus homólogas en las entidades federativas para coadyuvar en los procesos de consulta relativas a las acciones que afecten a los pueblos y comunidades indígenas y afromexicanas.
 Será obligación del Estado, constituir un comité de seguimiento de la Consulta, conformado por los 68 pueblos indígenas y uno afromexicano.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ## Capítulo VII — De la educación humanista
+
 
 ### Artículo 59
 . En la educación que imparta el Estado se promoverá un enfoque humanista, el cual favorecerá en el educando sus habilidades socioemocionales que le permitan adquirir y generar conocimientos, fortalecer la capacidad para aprender a pensar, sentir, actuar y desarrollarse como persona integrante de una comunidad y en armonía con la naturaleza.
@@ -647,12 +671,15 @@ Las autoridades educativas impulsarán medidas para el cumplimiento de este art�
 Se adoptarán medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
 ## Capítulo VIII — De la educación inclusiva
-Capítulo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Capítulo reformado DOF 07-06-2024
+
+Capítulo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Capítulo reformado DOF 07-06-2024
 
 ### Artículo 61
 . La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir, reducir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de todas las y los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 La educación inclusiva se basa en el reconocimiento y la valoración de la diversidad, adaptando el Sistema Educativo Nacional para responder con equidad a las características, necesidades, intereses, capacidades, habilidades, ritmos y estilos de aprendizaje de todos y cada uno de las y los educandos.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 62
 . El Estado asegurará la educación inclusiva en todos los tipos, niveles, modalidades y opciones del Sistema Educativo Nacional, con el fin de favorecer el aprendizaje de todas las y los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
@@ -668,11 +695,13 @@ IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Ed
 V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación integral, y
 
 VI. Supervisar periódicamente las acciones implementadas en favor de la educación inclusiva, con la intervención de todos los actores que conforman el Sistema Educativo Nacional, de acuerdo con los lineamientos que emita la Secretaría.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 63
 . El Estado proporcionará a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, reconociendo las características, circunstancias, necesidades, intereses, capacidades, habilidades, estilos y ritmos de aprendizaje de las y los educandos, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 64
 . En la aplicación de esta Ley, se garantizará el derecho a la educación de las y los educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
@@ -692,7 +721,8 @@ VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de la
 
 VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras para el aprendizaje y la participación en todos los actores sociales involucrados en educación.
 La Secretaría emitirá lineamientos en los cuales se determinen los criterios orientadores para la prestación de los servicios de educación especial a los que se refiere el presente artículo y se cumpla con el principio de inclusión.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 65
 . Para garantizar la educación inclusiva, las autoridades educativas, en el ámbito de su competencia, ofrecerán las medidas pertinentes, entre ellas:
@@ -708,22 +738,27 @@ IV. Asegurar que se realicen ajustes razonables para las personas que lo requier
 V. Fortalecer los aprendizajes de las y los educandos con aptitudes sobresalientes con estrategias diversas de acuerdo con sus necesidades, capacidades, ritmos e intereses, y
 
 VI. Fomentar la enseñanza de modelos pedagógicos en la formación docente, para brindar la educación que las y los educandos requieran.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 66
 . La autoridad educativa federal, con base en sus facultades, establecerá los lineamientos necesarios para la acreditación, promoción y certificación del personal que preste educación especial.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 67
 . Para la identificación y atención educativa de las y los educandos con aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, así como la educación media superior y superior en el ámbito de su competencia. Las instituciones que integran el Sistema Educativo Nacional se sujetarán a dichos lineamientos.
 Las instituciones de educación superior autónomas por ley podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a las y los educandos con aptitudes sobresalientes.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ### Artículo 68
 . En el Sistema Educativo Nacional, se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023 Artículo reformado DOF 07-06-2024
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
+Artículo reformado DOF 07-06-2024
 
 ## Capítulo IX — De la educación para personas adultas
+
 
 ### Artículo 69
 . El Estado ofrecerá acceso a programas y servicios educativos para personas adultas en distintas modalidades que consideren sus contextos familiares, comunitarios, laborales y sociales.
@@ -739,6 +774,7 @@ El Estado y sus entidades organizarán servicios permanentes de promoción y ase
 Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
 ## Capítulo X — Del educando como prioridad en el Sistema Educativo Nacional
+
 
 ### Artículo 72
 . Los educandos son los sujetos más valiosos de la educación con pleno derecho a desarrollar todas sus potencialidades de forma activa, transformadora y autónoma.
@@ -767,12 +803,14 @@ El Estado establecerá los mecanismos que contribuyan a su formación integral, 
 
 ### Artículo 73
 . En la impartición de educación para menores de dieciocho años se tomarán medidas reforzadas de protección para las y los educandos que aseguren el cuidado necesario para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, la igualdad sustantiva entre mujeres y hombres y el respeto a su derecho a una vida libre de violencias, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
-Párrafo reformado DOF 15-01-2026 Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+Párrafo reformado DOF 15-01-2026
+Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ### Artículo 74
 . Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y el derecho a una vida libre de violencias, para generar una convivencia democrática basada en el respeto a la dignidad de las personas, con perspectiva de género y de derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
-Párrafo reformado DOF 15-01-2026 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
+Párrafo reformado DOF 15-01-2026
+Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
 I. Diseñar y aplicar estrategias educativas que generen ambientes basados en una cultura de la paz, para fortalecer la cohesión comunitaria y una convivencia democrática;
 
@@ -789,7 +827,8 @@ VI. Celebrar convenios de cooperación, coordinación y concertación con los se
 VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencias en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
 Fracción reformada DOF 15-01-2026
 
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencias o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y Fracción reformada DOF 15-01-2026
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencias o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+Fracción reformada DOF 15-01-2026
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
 Las autoridades educativas, en el ámbito de sus respectivas competencias y, en observancia de sus deberes reforzados de protección con las mujeres, adolescentes, niñas y niños emitirán los lineamientos para los protocolos de actuación que sean necesarios para el cumplimiento de este artículo, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo, con énfasis en la prevención, atención y sanción de casos de hostigamiento sexual y acoso sexual. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
@@ -797,12 +836,16 @@ Párrafo reformado DOF 15-01-2026
 
 ### Artículo 75
 . La Secretaría, mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación y sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, establecerá los lineamientos a que deberán sujetarse la preparación, distribución y expendio de los alimentos y bebidas preparados, procesados y a granel, dentro de toda escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud, mismos que se deberán evaluar y actualizar al menos cada cinco años.
-Párrafo reformado DOF 20-12-2023 Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta y publicidad de alimentos y bebidas con bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia de los planteles escolares y sus inmediaciones.
-Párrafo reformado DOF 20-12-2023 La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas que al efecto emita la Secretaría de Salud.
+Párrafo reformado DOF 20-12-2023
+Las autoridades educativas promoverán ante las autoridades correspondientes, la prohibición de la venta y publicidad de alimentos y bebidas con bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia de los planteles escolares y sus inmediaciones.
+Párrafo reformado DOF 20-12-2023
+La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas que al efecto emita la Secretaría de Salud.
 Las personas responsables de la aplicación y vigilancia de las disposiciones señaladas en el presente artículo al interior de las escuelas, serán las que ejerzan los cargos directivos y las autoridades escolares.
 Las autoridades educativas y sanitarias vigilarán y sancionarán en el ámbito de sus competencias el incumplimiento de estas disposiciones.
-Párrafo adicionado DOF 20-12-2023 Las cooperativas, establecimientos de consumo escolar, comedores y máquinas expendedoras o sus equivalentes, que funcionen con la participación de la comunidad educativa o sin ella, tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y a las demás disposiciones aplicables.
-Párrafo reformado DOF 20-12-2023 Reforma DOF 20-12-2023: Derogó del artículo el entonces párrafo segundo
+Párrafo adicionado DOF 20-12-2023
+Las cooperativas, establecimientos de consumo escolar, comedores y máquinas expendedoras o sus equivalentes, que funcionen con la participación de la comunidad educativa o sin ella, tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y a las demás disposiciones aplicables.
+Párrafo reformado DOF 20-12-2023
+Reforma DOF 20-12-2023: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 75
 Bis. Estas disposiciones de carácter general a que se refiere el artículo anterior comprenderán en su contenido y proceso de elaboración, de manera enunciativa más no limitativa, lo siguiente:
@@ -846,6 +889,7 @@ La Secretaría, conjuntamente con las demás autoridades federales competentes, 
 Podrán celebrarse convenios para que la formación para el trabajo se imparta por las autoridades locales, los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Capítulo XI
+
 De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital para la formación con orientación integral del educando
 
 ### Artículo 84
@@ -873,6 +917,7 @@ Asimismo, fortalecerán los sistemas de educación a distancia, mediante el apro
 
 ## Capítulo XII — Del calendario escolar
 
+
 ### Artículo 87
 . La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos.
 Las autoridades escolares, previa autorización de la autoridad educativa local y de conformidad con los lineamientos que expida la Secretaría, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
@@ -888,7 +933,9 @@ La autoridad educativa de cada entidad federativa publicará en el órgano infor
 
 ## Título Cuarto — De la revalorización de las maestras y los maestros
 
+
 ## Capítulo I — Del magisterio como agente fundamental en el proceso educativo
+
 
 ### Artículo 90
 . Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social.
@@ -932,6 +979,7 @@ En las actividades de supervisión las autoridades educativas darán prioridad, 
 
 ## Capítulo II — Del fortalecimiento de la formación docente
 
+
 ### Artículo 95
 . El Estado fortalecerá a las instituciones públicas de formación docente, para lo cual, las autoridades educativas en el ámbito de sus competencias, tendrán a su cargo:
 
@@ -960,7 +1008,9 @@ En los planes y programas de estudio de las instituciones de formación docente,
 
 ## Título Quinto — De los Planteles Educativos
 
+
 ## Capítulo I
+
 De las condiciones de los planteles educativos para garantizar su idoneidad y la seguridad de las niñas, niños, adolescentes y jóvenes
 
 ### Artículo 98
@@ -985,7 +1035,8 @@ En la educación que impartan los particulares con autorización o con reconocim
 
 ### Artículo 102
 . Las autoridades educativas atenderán de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y afromexicanas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
-Párrafo reformado DOF 01-04-2024 En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
+Párrafo reformado DOF 01-04-2024
+En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 A partir de los programas que emita la Federación, se garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Secretaría de Salud en coordinación con la Secretaría, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.
 
 ### Artículo 103
@@ -1024,6 +1075,7 @@ Sus integrantes serán electos al inicio de cada año lectivo mediante asamblea 
 
 ## Capítulo II — De la mejora escolar
 
+
 ### Artículo 107
 . Las autoridades educativas, en el ámbito de sus respectivas competencias, emitirán una Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior, el cual será un documento de carácter operativo y normativo que tendrá la finalidad de apoyar la planeación, organización y ejecución de las actividades docentes, pedagógicas, directivas, administrativas y de supervisión de cada plantel educativo enfocadas a la mejora escolar, atendiendo al contexto regional de la prestación de los servicios educativos.
 Su elaboración se apegará a las disposiciones y lineamientos de carácter general que emita la Secretaría. En dicha Guía se establecerán los elementos de normalidad mínima de la operación escolar, cuyo objetivo es dar a conocer las normas y los procedimientos institucionales y, con ello, facilitar la toma de decisiones para fortalecer la mejora escolar.
@@ -1040,7 +1092,9 @@ La Secretaría, en los lineamientos que emita para la integración de los Consej
 
 ## Título Sexto — De la mejora continua de la educación
 
+
 ## Capítulo Único — De los instrumentos para la mejora continua de la educación
+
 
 ### Artículo 110
 . La educación tendrá un proceso de mejora continua, el cual implica el desarrollo permanente del Sistema Educativo Nacional para el incremento del logro académico de los educandos.
@@ -1055,7 +1109,9 @@ En el proceso de mejora continua, se promoverá la inclusión de las institucion
 
 ## Título Séptimo — Del Federalismo educativo
 
+
 ## Capítulo Único — De la distribución de la función social en educación
+
 
 ### Artículo 113
 . Corresponden de manera exclusiva a la autoridad educativa federal las atribuciones siguientes:
@@ -1215,7 +1271,9 @@ El Consejo será presidido por la Secretaría, la cual propondrá los lineamient
 
 ## Título Octavo — Del financiamiento a la educación
 
+
 ## Capítulo Único — Del financiamiento a la educación
+
 
 ### Artículo 119
 . El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos. El monto anual en términos de la ley que el Estado destine al financiamiento en educación pública y en los servicios educativos garantizando la accesibilidad y la gratuidad en la educación, no podrá ser menor al equivalente del 8% del producto interno bruto del país. De este monto, se destinará al menos el 1% del producto interno bruto al gasto para la educación superior y la investigación científica y humanística, así como al desarrollo tecnológico y la innovación en las instituciones públicas de educación superior.
@@ -1255,7 +1313,9 @@ III. Administrar en forma transparente y eficiente los recursos que reciba para 
 
 ## Título Noveno — De la corresponsabilidad social en el proceso educativo
 
+
 ## Capítulo I — De la participación de los actores sociales
+
 
 ### Artículo 126
 . Las autoridades educativas, fomentarán la participación de los actores sociales involucrados en el proceso de enseñanza aprendizaje, para el logro de una educación democrática, de alcance nacional, inclusiva, intercultural, integral y plurilingüe que propicie el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, el fortalecimiento de los lazos entre escuela y comunidad.
@@ -1267,6 +1327,7 @@ Párrafo adicionado DOF 07-06-2024
 Las acciones que se deriven de la aplicación del párrafo anterior, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
 ## Capítulo II — De la participación de madres y padres de familia o tutores
+
 
 ### Artículo 128
 . Son derechos de quienes ejercen la patria potestad o la tutela:
@@ -1336,6 +1397,7 @@ La organización y el funcionamiento de las asociaciones de madres y padres de f
 
 ## Capítulo III — De los Consejos de Participación Escolar
 
+
 ### Artículo 131
 . Las autoridades educativas podrán promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
 En las escuelas públicas de educación básica y media superior que se ubiquen en municipios o demarcaciones territoriales con población indígena y/o afromexicana, se deberá procurar la representación de los hablantes de lengua indígena o de personas afromexicanas en estas actividades.
@@ -1400,6 +1462,7 @@ Este consejo, podrá promover y apoyar actividades extraescolares de carácter c
 
 ## Capítulo IV — Del servicio social
 
+
 ### Artículo 137
 . Las personas beneficiadas directamente por los servicios educativos de instituciones de los tipos de educación superior y, en su caso, de media superior que así lo establezcan, deberán prestar servicio social o sus equivalentes, en los casos y términos que señalen las disposiciones legales. En éstas se preverá la prestación del servicio social o sus equivalentes como requisito previo para obtener título o grado académico correspondiente.
 Las autoridades educativas, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
@@ -1409,6 +1472,7 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 
 ## Capítulo V — De la participación de los medios de comunicación
 
+
 ### Artículo 139
 . Los medios de comunicación masiva, de conformidad con el marco jurídico que les rige, en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el artículo 15, conforme a los criterios establecidos en el artículo 16 de la presente Ley.
 
@@ -1417,7 +1481,9 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 
 ## Título Décimo — De la validez de estudios y certificación de conocimientos
 
+
 ## Capítulo Único
+
 De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
 
 ### Artículo 141
@@ -1446,9 +1512,11 @@ Las autoridades educativas podrán revocar las referidas autorizaciones, cuando 
 Los acuerdos secretariales respectivos señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
 ## Título Décimo — Primero
+
 De la educación impartida por particulares
 
 ## Capítulo I — Disposiciones generales
+
 
 ### Artículo 146
 . Los particulares podrán impartir educación considerada como servicio público en términos de esta Ley, en todos sus tipos y modalidades, con la autorización o reconocimiento de validez oficial de estudios que otorgue el Estado, en los términos dispuestos por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones jurídicas aplicables.
@@ -1498,6 +1566,7 @@ IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde p
 . Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
 ## Capítulo II
+
 De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
 
 ### Artículo 151
@@ -1789,6 +1858,7 @@ El acta a que se refiere el presente artículo deberá ser levantada en el momen
 
 ## Capítulo III — Del recurso administrativo
 
+
 ### Artículo 180
 . En contra de las resoluciones emitidas por las autoridades educativas en materia de autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudir a la autoridad jurisdiccional que corresponda.
 También podrá interponerse el recurso cuando la autoridad no dé respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
@@ -1798,13 +1868,12 @@ También podrá interponerse el recurso cuando la autoridad no dé respuesta en 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y Decreto.
-**Tercero.** Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de 2008 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes contrarias a este Decreto.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y Decreto.
+**Tercero.-** Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de 2008 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes contrarias a este Decreto.
 Hasta que se expidan los lineamientos previstos en el artículo 103 de la Ley General de Educación y se realicen las adecuaciones normativas en esta materia de infraestructura educativa, seguirán en vigor aquellas disposiciones que se hayan emitido con anterioridad, en lo que no contravengan al presente Decreto.
 En tanto se lleva el proceso de extinción referido en el Artículo Transitorio Cuarto de este Decreto, el Instituto Nacional de la Infraestructura Física Educativa se encargará de llevar a cabo el cierre de programas y obligaciones contractuales en proceso, así como la atención y seguimiento de asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva.
-**Cuarto.** A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la extinción del organismo descentralizado denominado Instituto Nacional de la Infraestructura Física Educativa, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación y de lo señalado en el Artículo Transitorio Tercero de este Decreto, bajo las siguientes disposiciones:
-
+**Cuarto.-** A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la extinción del organismo descentralizado denominado Instituto Nacional de la Infraestructura Física Educativa, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación y de lo señalado en el Artículo Transitorio Tercero de este Decreto, bajo las siguientes disposiciones:
 I. La Secretaría de Educación Pública, en su carácter de dependencia coordinadora del sector, establecerá las bases para llevar a cabo la liquidación del Instituto Nacional de la Infraestructura Física Educativa, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público;
 
 II. La liquidación del Instituto Nacional de la Infraestructura Física Educativa estará a cargo de la persona titular de la Coordinación de Órganos Desconcentrados y del Sector Paraestatal de la Secretaría de Educación Pública, para lo cual tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquéllas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación;
@@ -1814,32 +1883,32 @@ III. Las asignaciones presupuestales, así como los recursos humanos, financiero
 IV. El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Instituto Nacional de la Infraestructura Física Educativa, pasarán a formar parte de la Secretaría de Educación Pública, y
 
 V. Se respetarán los derechos laborales de los trabajadores del Instituto Nacional de la Infraestructura Física Educativa conforme a lo dispuesto por el Contrato Colectivo de Trabajo, la Ley Federal del Trabajo y demás ordenamientos aplicables.
-**Quinto.** La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+**Quinto.-** La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
 Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
-**Sexto.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las Legislaturas de los Estados, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el presente Decreto.
-**Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
-**Octavo.** La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, la educación especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+**Sexto.-** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las Legislaturas de los Estados, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el presente Decreto.
+**Séptimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+**Octavo.-** La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, la educación especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
 La Secretaría de Educación Pública, hasta que no se lleve a cabo el proceso de descentralización referido en el párrafo anterior, realizará las actividades en materia de infraestructura educativa que le correspondan a la Ciudad de México en términos del Capítulo I del Título Quinto de la Ley General de Educación.
-**Noveno.** Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
-**Décimo.** La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación, realizará las modificaciones a los planes y programas de estudio para adecuar su contenido conforme a lo establecido en referida norma, con la finalidad de que, para el inicio del ciclo escolar de 2021-2022, los libros de texto cumplan con lo establecido por la ley en la materia. De igual forma, instrumentará las acciones necesarias para instrumentar lo señalado en esta disposición.
-**Décimo Primero.** La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
-**Décimo Segundo.** Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+**Noveno.-** Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+**Décimo.-** La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación, realizará las modificaciones a los planes y programas de estudio para adecuar su contenido conforme a lo establecido en referida norma, con la finalidad de que, para el inicio del ciclo escolar de 2021-2022, los libros de texto cumplan con lo establecido por la ley en la materia. De igual forma, instrumentará las acciones necesarias para instrumentar lo señalado en esta disposición.
+**Décimo Primero.-** La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+**Décimo Segundo.-** Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
 En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la prestación de servicios de educación inicial, a niñas y niños en condiciones de vulnerabilidad y en riesgo de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o tutores.
-**Décimo Tercero.** En un plazo de ciento veinte días contados a partir de la entrada en vigor de este Decreto, la Secretaría presentará la Agenda Educativa Digital para el aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.
-**Décimo Cuarto.** La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su operación y funcionamiento.
-**Décimo Quinto.** Lo dispuesto en el artículo 146, párrafo tercero de la Ley General de Educación, no será aplicado respecto de aquellos trámites iniciados con anterioridad a la entrada en vigor de la misma.
-**Décimo Sexto.** Las autoridades educativas, en el ámbito de sus competencias, realizarán las acciones necesarias a efecto de que, la educación multigrado que impartan en términos del artículo 43 de la Ley General de Educación, sea superada de manera gradual.
-**Décimo Séptimo.** En el supuesto de que se ejerza la atribución a que se refiere el artículo 113, fracción XXI de la Ley General de Educación, la entidad federativa deberá celebrar un convenio con la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público, en el cual se indique la gradualidad en el cumplimiento de esa atribución; el porcentaje o monto de recursos que la entidad federativa deberá aportar y, en su caso, la Federación; las participaciones que se podrían afectar como fuente de pago de obligaciones contraídas por la entidad federativa; los tipos y grados educativos, así como la temporalidad del ejercicio de esa facultad, entre otros aspectos.
+**Décimo Tercero.-** En un plazo de ciento veinte días contados a partir de la entrada en vigor de este Decreto, la Secretaría presentará la Agenda Educativa Digital para el aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.
+**Décimo Cuarto.-** La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su operación y funcionamiento.
+**Décimo Quinto.-** Lo dispuesto en el artículo 146, párrafo tercero de la Ley General de Educación, no será aplicado respecto de aquellos trámites iniciados con anterioridad a la entrada en vigor de la misma.
+**Décimo Sexto.-** Las autoridades educativas, en el ámbito de sus competencias, realizarán las acciones necesarias a efecto de que, la educación multigrado que impartan en términos del artículo 43 de la Ley General de Educación, sea superada de manera gradual.
+**Décimo Séptimo.-** En el supuesto de que se ejerza la atribución a que se refiere el artículo 113, fracción XXI de la Ley General de Educación, la entidad federativa deberá celebrar un convenio con la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público, en el cual se indique la gradualidad en el cumplimiento de esa atribución; el porcentaje o monto de recursos que la entidad federativa deberá aportar y, en su caso, la Federación; las participaciones que se podrían afectar como fuente de pago de obligaciones contraídas por la entidad federativa; los tipos y grados educativos, así como la temporalidad del ejercicio de esa facultad, entre otros aspectos.
 Conforme a lo que se establezca en los convenios a que se refiere el párrafo anterior, la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público podrán constituir un fondo para la administración de los recursos respectivos.
 Ciudad de México, a 25 de septiembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen.
 Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de septiembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 121/2019, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 30 de junio de 2021 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/MOKM/242/2021 MAESTRA CARMINA CORTÉS RODRÍGUEZ SECRETARIA DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN P R E S E N T E El Tribunal Pleno, en su sesión celebrada el veintinueve de junio de dos mil veintiuno, resolvió la acción de inconstitucionalidad 121/2019, promovida por la Comisión Nacional de los Derechos humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa ‘a partir del 4o. grado de primaria’, y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
-**TERCERO.** Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI ‘De la educación indígena’–, así como del 61 al 68 –Capítulo VIII ‘De la educación inclusiva’– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
-**CUARTO.** La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando octavo de esta sentencia.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive, al titular del Poder Ejecutivo Federal.
+**SEGUNDO.-** Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa ‘a partir del 4o. grado de primaria’, y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
+**TERCERO.-** Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI ‘De la educación indígena’–, así como del 61 al 68 –Capítulo VIII ‘De la educación inclusiva’– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
+**CUARTO.-** La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando octavo de esta sentencia.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive, al titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 29 de junio de 2021 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 30 de junio de 2021 a las 12:02 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
@@ -1848,23 +1917,23 @@ Publicada en el Diario Oficial de la Federación el 13 de marzo de 2023 y notifi
 MINISTRO ALBERTO PÉREZ DAYÁN SECRETARIA:
 IVETH LÓPEZ VERGARA Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día veintinueve de junio de dos mil veintiuno.
 VISTOS, para resolver el expediente relativo a la acción de inconstitucionalidad identificada al rubro; y RESULTANDO: ……..
-**OCTAVO.** Decisión y declaración de invalidez. En la acción de inconstitucionalidad 212/2020 fallada el uno de marzo de dos mil veintiuno, este Tribunal Pleno destacó una evolución de criterio en cuanto a que la determinación de si el vicio de ausencia de consulta tiene el potencial de invalidar toda la ley o solamente determinados preceptos legales dependerá de si las normas que regulan a las comunidades indígenas y afromexicanas y personas con discapacidad tienen un impacto en el ordenamiento en su integridad –porque la ley tiene como objeto específico su regulación– o no.
+**OCTAVO.-** Decisión y declaración de invalidez. En la acción de inconstitucionalidad 212/2020 fallada el uno de marzo de dos mil veintiuno, este Tribunal Pleno destacó una evolución de criterio en cuanto a que la determinación de si el vicio de ausencia de consulta tiene el potencial de invalidar toda la ley o solamente determinados preceptos legales dependerá de si las normas que regulan a las comunidades indígenas y afromexicanas y personas con discapacidad tienen un impacto en el ordenamiento en su integridad –porque la ley tiene como objeto específico su regulación– o no.
 Esta determinación que, se insiste, constituye una evolución en el criterio de esta Suprema Corte de Justicia de la Nación, precisa que en el supuesto de que una norma o un ordenamiento general no esté específicamente relacionado con los grupos vulnerables que deben ser privilegiados con una consulta, esto es, que no se refieran única y exclusivamente a ellos, sino que, en el contexto general, estén inmiscuidos, las normas por invalidar son precisamente las que les afecten, pero sin alcanzar a invalidar toda la norma. Por el contrario, cuando las normas se dirijan específicamente a estos grupos vulnerables, la falta de consulta invalida todo ese ordenamiento.
 En el asunto que se resuelve, sólo se impugnaron los artículos 56, 57 y 58 contenidos en el Capítulo VI, y 61 a 68 contenidos en el Capítulo VIII, en los que el legislador federal reguló la educación indígena y la inclusiva; de ahí que la determinación de cómo invalidar la ley impugnada debe sustentarse en una consideración sustantiva y relevante, a saber, que la ley tiene un ámbito material y personal más amplio que desborda la regulación de comunidades originarias y personas con discapacidad, puesto que, aunque las atañe, esta ley no tiene por objeto central o específico una regulación que les sea exclusiva.
 Efectivamente, la Ley General de Educación se emitió en cumplimiento al deber impuesto en el
-**artículo séptimo.** transitorio del decreto de reforma constitucional en materia educativa publicado en el Diario Oficial de la Federación el quince de mayo de dos mil diecinueve, a efecto de garantizar el derecho a la educación que reconoce el artículo 3 de la Constitución general y los tratados internacionales de los que México es parte.
+**artículo séptimo.-** transitorio del decreto de reforma constitucional en materia educativa publicado en el Diario Oficial de la Federación el quince de mayo de dos mil diecinueve, a efecto de garantizar el derecho a la educación que reconoce el artículo 3 de la Constitución general y los tratados internacionales de los que México es parte.
 Así, el vicio de la falta de consultas como etapa del proceso legislativo que dio origen a la ley impugnada no tiene un impacto en toda la Ley General de Educación, ya que ésta no tiene como objeto específico y exclusivo la regulación de la educación indígena y afromexicana y la inclusiva, sino diversos aspectos vinculados con todo el sistema educativo nacional.
 Por tanto, dada la facultad de este Tribunal Pleno de establecer y fijar los alcances de sus sentencias para, por una parte, lograr la mayor efectividad de sus decisiones y, por otra, evitar que se generen daños a la sociedad mayores que la permanencia de la inconstitucionalidad decretada; y en atención a que, en la especie, una declaratoria de invalidez total generaría un vacío normativo con daños graves a la sociedad mayores que los generados con la permanencia de los preceptos declarados inconstitucionales, porque dejaría al país sin Ley General de Educación, impactando en los derechos de toda la sociedad; con fundamento en los artículos 41, fracción IV, y 42, párrafos primero y tercero, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, se declara la invalidez de la Ley General de Educación publicada en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, únicamente en sus artículos 56, 57 y 58 –contenidos en el Capítulo VI "De la educación indígena"–, y 61 a 68 –contenidos en el Capítulo VIII "De la educación inclusiva"–.
 Al respecto, tomando en consideración las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, y el desarrollo de las elecciones que se han celebrado en el país y que, consecuentemente, tendrán implicaciones en el relevo de las autoridades, con fundamento en el artículo 45 de la propia Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como con apoyo en la jurisprudencia del Tribunal Pleno P./J. 84/2007 de rubro: "ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS", la invalidez declarada no tendrá efectos retroactivos, pero surtirá efectos a partir de los dieciocho meses siguientes a la notificación que se haga al Congreso de la Unión de los puntos resolutivos de esta resolución, a efecto de que, por una parte, no se provoque un vacío legislativo en relación con la materia del artículo 3 de la Constitución Federal y, por otra, no se prive a los grupos indígenas y a las personas con discapacidad de los posibles efectos benéficos de las normas que se declaran inválidas.
 Invalidez que no se limita a la expulsión del orden jurídico de las normas declaradas inconstitucionales, sino que conlleva la obligación constitucional de que el referido órgano legislativo desarrolle las consultas correspondientes –cumpliendo con los parámetros establecidos en el considerando sexto de esta determinación– y, dentro del plazo de postergación de los efectos de invalidez antes precisado, con base en los resultados de dichas consultas, emita la regulación que corresponda en materia de educación indígena y afromexicana, así como de educación inclusiva.
 En el entendido de que las consultas no deben limitarse a los preceptos declarados inconstitucionales, sino que deberán tener un carácter abierto, a efecto de otorgar la posibilidad de que se facilite el diálogo democrático y busque la participación de los grupos involucrados en relación con cualquier aspecto regulado en la Ley General de Educación que esté relacionado directamente con su condición indígena y afromexicana o de discapacidad.
 Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-**SEGUNDO.** Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a partir del 4o. grado de primaria", y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
-**TERCERO.** Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación indígena"–, así como del 61 al 68 –Capítulo VIII "De la educación inclusiva"– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
-**CUARTO.** La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando
-**octavo.** de esta sentencia.
-**QUINTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a partir del 4o. grado de primaria", y 109 de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del considerando séptimo de esta decisión.
+**TERCERO.-** Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación indígena"–, así como del 61 al 68 –Capítulo VIII "De la educación inclusiva"– de la Ley General de Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
+**CUARTO.-** La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando
+**octavo.-** de esta sentencia.
+**QUINTO.-** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
@@ -1903,10 +1972,10 @@ Se reforma el Capítulo VIII, denominado "De la educación inclusiva", y los art
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los Congresos de las entidades federativas deberán legislar en materia de educación inclusiva en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a personas con discapacidad.
-**Tercero.** La Secretaría de Educación Pública deberá emitir los lineamientos correspondientes establecidos en el presente Decreto, en un plazo no mayor a 180 días a partir de su publicación en el Diario Oficial de la Federación.
-**Cuarto.** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los Congresos de las entidades federativas deberán legislar en materia de educación inclusiva en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a personas con discapacidad.
+**Tercero.-** La Secretaría de Educación Pública deberá emitir los lineamientos correspondientes establecidos en el presente Decreto, en un plazo no mayor a 180 días a partir de su publicación en el Diario Oficial de la Federación.
+**Cuarto.-** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Educación, en materia de educación inclusiva y humanista a pueblos y comunidades indígenas y afromexicanas, migrantes y jornaleros agrícolas.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
@@ -1916,10 +1985,10 @@ Se reforman los artículos 3; el Capítulo VI, denominado "De la educación ind�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Los Congresos de las entidades federativas deberán legislar en materia de educación indígena, intercultural y plurilingüe en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a pueblos y comunidades indígenas y afromexicanas.
-**Tercero.** La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo no mayor a 365 días a partir de la publicación del presente Decreto.
-**Cuarto.** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los Congresos de las entidades federativas deberán legislar en materia de educación indígena, intercultural y plurilingüe en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a pueblos y comunidades indígenas y afromexicanas.
+**Tercero.-** La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo no mayor a 365 días a partir de la publicación del presente Decreto.
+**Cuarto.-** Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
@@ -1929,11 +1998,11 @@ Se reforman los artículos 7, fracción II; 8 segundo párrafo; 9, primer párra
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-**Tercero.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
-**Cuarto.** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-**Quinto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-**Sexto.** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-**Séptimo.** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+**Primero.-** El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Tercero.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+**Cuarto.-** Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+**Sexto.-** Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+**Séptimo.-** Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

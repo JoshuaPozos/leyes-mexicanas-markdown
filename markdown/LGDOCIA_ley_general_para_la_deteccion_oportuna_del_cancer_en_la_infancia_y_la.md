@@ -17,6 +17,7 @@ TITULO PRIMERO DISPOSICIONES GENERALES
 
 ## Capítulo Único
 
+
 ### Artículo 1
 .- La presente Ley es de orden público, interés social y observancia general en el territorio nacional, tiene por objeto establecer, dentro de las dependencias de la Administración Pública del Sistema Nacional de Salud, las medidas necesarias para la atención integral y universal de las niñas, niños y adolescentes menores de 18 años con sospecha o diagnóstico de cáncer.
 
@@ -104,7 +105,9 @@ VIII. Recibir cuidados paliativos cuando sea necesario.
 
 ## TÍTULO SEGUNDO — DE LAS AUTORIDADES
 
+
 ## Capítulo I — De la Coordinación
+
 
 ### Artículo 8
 .- La Secretaría será la encargada de coordinar y ejecutar las atribuciones conferidas por esta Ley en materia de cáncer en la infancia y adolescencia, para tales efectos, el Centro funcionará como órgano desconcentrado de carácter técnico y el Consejo, como órgano preponderantemente consultivo, en términos de las atribuciones que les otorgan éste y otros ordenamientos.
@@ -122,6 +125,7 @@ III. El Registro Nacional de Cáncer en la Infancia y Adolescencia.
 .- La Secretaría promoverá convenios de coordinación con la Secretaría de Educación Pública, a fin de que en las UMAS se cuente con la presencia de tutores con el propósito de que brinden especial apoyo académico a los sujetos de derechos en esta Ley, para que las ausencias escolares por motivo del tratamiento y consecuencias de la enfermedad no afecten de manera significativa su rendimiento académico.
 
 ## Capítulo II — Del Centro Nacional para la Salud de la Infancia y la Adolescencia
+
 
 ### Artículo 11
 .- El Centro es un órgano administrativo desconcentrado, con autonomía operativa, técnica y administrativa, encargado de establecer, difundir y evaluar las políticas nacionales, estrategias, lineamientos y procedimientos en materia de atención a la salud de la infancia y la adolescencia, en términos del reglamento interior de la Secretaría.
@@ -160,6 +164,7 @@ XIV. Emitir su reglamento y los manuales necesarios para su funcionamiento, y
 XV. Las demás que le asigne el Secretario de Salud para el adecuado desempeño de las anteriores y las que señalen otros ordenamientos y que no se opongan con lo establecido en la presente Ley.
 
 ## Capítulo III
+
 Del Consejo Nacional para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia
 
 ### Artículo 13
@@ -217,6 +222,7 @@ Cada uno de los vocales que el Presidente del Consejo invite a integrarse a dich
 
 ## Capítulo IV — De la Red Nacional de Apoyo Contra el Cáncer en la Infancia y Adolescencia
 
+
 ### Artículo 17
 .- La Secretaría en coordinación con las entidades federativas, harán uso de la infraestructura y personal existente a fin de que en todas las unidades médicas de primer nivel se cuente con los mecanismos para la integración de la Red Nacional de Apoyo Contra el Cáncer en la Infancia y Adolescencia.
 
@@ -248,7 +254,9 @@ V. Inscribir a los sujetos de derechos en esta Ley con presunción de cáncer en
 
 ## TÍTULO TERCERO — DIAGNÓSTICO OPORTUNO Y REFERENCIA TEMPRANA
 
+
 ## Capítulo I — Del diagnóstico oportuno
+
 
 ### Artículo 20
 .- Es obligación de las autoridades señaladas en el Título Segundo de esta Ley establecer programas de capacitación continua con el objetivo de que los médicos pasantes del servicio social, así como médicos generales de primer contacto, pediatras y equipo de enfermería, cuenten con las herramientas necesarias para lograr identificar oportunamente signos y síntomas de cáncer en la infancia y la adolescencia.
@@ -283,6 +291,7 @@ En caso de que la Unidad en la que se realizó el diagnóstico no cuente con los
 
 ## Capítulo II — Del Registro Nacional de Cáncer en la Infancia y Adolescencia
 
+
 ### Artículo 29
 .- Se crea el Registro Nacional de Cáncer en la Infancia y Adolescencia como un rubro específico dentro del Registro Nacional de Cáncer a que se refiere la Ley General de Salud, con el propósito de llevar en tiempo real, el registro sobre el diagnóstico, seguimiento y evolución del tratamiento del paciente a que se refiere esta Ley, con la información que permita una atención de calidad y la realización de estudios científicos.
 
@@ -312,20 +321,20 @@ El Centro integrará la información demográfica del Registro Nacional de todo 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** En un término de seis meses, a partir del inicio de vigencia del presente Decreto, el Ejecutivo Federal deberá emitir los reglamentos necesarios y elaborará las guías de atención para el correcto funcionamiento de este ordenamiento.
-**Tercero.** En un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Salud, en coordinación con los demás miembros del Sistema Nacional de Salud, deberán emitir las disposiciones de carácter general para la operación de los mecanismos de la Red de Apoyo contra el Cáncer en la Infancia y la Adolescencia.
-**Cuarto.** La Secretaría establecerá los mecanismos para garantizar los traslados y otras prestaciones médicas necesarias para la atención de las personas sujetas de derecho a las que se refiere esta Ley.
-**Quinto.** La Secretaría realizará las modificaciones necesarias al Reglamento del Registro Nacional de Cáncer para los efectos de este Decreto en los noventa días posteriores al inicio de su vigencia.
-**Sexto.** La Secretaría realizará las modificaciones a la Norma Oficial Mexicana y demás disposiciones administrativas relativas al Sistema Nacional de Información Básica en Materia de Salud que permitan la recopilación, integración y disposición de la información necesaria para los efectos de este Decreto, garantizando la protección de datos personales de los pacientes de conformidad con la normatividad aplicable.
-**Séptimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de manera progresiva con cargo a los presupuestos autorizados para el presente ejercicio fiscal y los subsecuentes.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** En un término de seis meses, a partir del inicio de vigencia del presente Decreto, el Ejecutivo Federal deberá emitir los reglamentos necesarios y elaborará las guías de atención para el correcto funcionamiento de este ordenamiento.
+**Tercero.-** En un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Salud, en coordinación con los demás miembros del Sistema Nacional de Salud, deberán emitir las disposiciones de carácter general para la operación de los mecanismos de la Red de Apoyo contra el Cáncer en la Infancia y la Adolescencia.
+**Cuarto.-** La Secretaría establecerá los mecanismos para garantizar los traslados y otras prestaciones médicas necesarias para la atención de las personas sujetas de derecho a las que se refiere esta Ley.
+**Quinto.-** La Secretaría realizará las modificaciones necesarias al Reglamento del Registro Nacional de Cáncer para los efectos de este Decreto en los noventa días posteriores al inicio de su vigencia.
+**Sexto.-** La Secretaría realizará las modificaciones a la Norma Oficial Mexicana y demás disposiciones administrativas relativas al Sistema Nacional de Información Básica en Materia de Salud que permitan la recopilación, integración y disposición de la información necesaria para los efectos de este Decreto, garantizando la protección de datos personales de los pacientes de conformidad con la normatividad aplicable.
+**Séptimo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de manera progresiva con cargo a los presupuestos autorizados para el presente ejercicio fiscal y los subsecuentes.
 
 ### Artículo Segundo
 ……….
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 18 de noviembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

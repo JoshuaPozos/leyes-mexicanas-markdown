@@ -16,6 +16,7 @@ LIBRO PRIMERO DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
 ## TÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . La presente Ley es reglamentaria del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos en materia de libre concurrencia, competencia económica, monopolios, prácticas monopólicas y concentraciones, es de orden público e interés social, aplicable a todas las áreas de la actividad económica y de observancia general en toda la República.
 
@@ -42,7 +43,8 @@ Fracción reformada DOF 16-07-2025
 VI. CRT: Comisión Reguladora de Telecomunicaciones;
 Fracción reformada DOF 16-07-2025
 
-VII. Se deroga Fracción reformada DOF 27-01-2017. Derogada DOF 16-07-2025
+VII. Se deroga
+Fracción reformada DOF 27-01-2017. Derogada DOF 16-07-2025
 
 VIII. Disposiciones Regulatorias: Las disposiciones administrativas de carácter general que emita la Comisión para el cumplimiento de sus funciones en términos de esta Ley;
 Fracción reformada DOF 16-07-2025
@@ -70,7 +72,8 @@ XV. Secretaría: La Secretaría de Economía.
 . Están sujetos a lo dispuesto por esta Ley todos los Agentes Económicos. Serán responsables solidarios los Agentes Económicos que hayan tomado o adoptado la decisión, así como instruido o ejercido influencia decisiva en la toma de decisión, y el directamente involucrado en la realización de la conducta prohibida por esta Ley.
 
 ### Artículo 5
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 6
 . No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas determinadas en la Constitución Política de los Estados Unidos Mexicanos, así como las actividades que realicen las empresas públicas del Estado y las que expresamente señalen las leyes que expida el Congreso de la Unión.
@@ -106,11 +109,14 @@ La Secretaría podrá concertar y coordinar con los productores o distribuidores
 La Procuraduría, bajo la coordinación de la Secretaría, será responsable de la inspección, vigilancia y sanción, respecto de los precios que se determinen conforme a este artículo, de acuerdo con lo que dispone la Ley Federal de Protección al Consumidor.
 
 ## TÍTULO II — DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
+
 Denominación del Título reformada DOF 16-07-2025
 
 ## Capítulo I — De la Comisión
 
+
 ## Sección I — De su Naturaleza, Objeto y Domicilio
+
 
 ### Artículo 10
 . La Comisión es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la Secretaría, con personalidad jurídica y patrimonio propio, autonomía de gestión y dotado de independencia técnica y operativa en sus decisiones, organización y funcionamiento; que tiene por objeto garantizar la libre concurrencia y competencia económica en todos los mercados del país, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, para lo cual debe desempeñarse de manera profesional e imparcial en sus actuaciones.
@@ -121,6 +127,7 @@ Artículo reformado DOF 16-07-2025
 Artículo reformado DOF 16-07-2025
 
 ## Sección II — De las Atribuciones de la Comisión
+
 
 ### Artículo 12
 . La Comisión tendrá las siguientes atribuciones:
@@ -150,14 +157,17 @@ X. Resolver sobre los asuntos de su competencia y sancionar administrativamente 
 
 XI. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica a que hacen referencia ésta u otras leyes y reglamentos;
 
-XII. Se deroga Fracción derogada DOF 16-07-2025
+XII. Se deroga
+Fracción derogada DOF 16-07-2025
 
 XIII. Emitir opinión, a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, respecto de los anteproyectos de leyes, disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes;
 Fracción reformada DOF 16-07-2025
 
-XIV. Se deroga Fracción derogada DOF 16-07-2025
+XIV. Se deroga
+Fracción derogada DOF 16-07-2025
 
-XV. Se deroga Fracción derogada DOF 16-07-2025
+XV. Se deroga
+Fracción derogada DOF 16-07-2025
 
 XVI. Resolver sobre las solicitudes de opinión formal, y emitir orientaciones generales en materia de libre concurrencia y competencia económica que le sean formuladas de conformidad con los artículos 104 a 110 de esta Ley;
 
@@ -173,7 +183,8 @@ XX. Promover, en coordinación con las Autoridades Públicas, que sus actos admi
 
 XXI. Promover el estudio, la divulgación y la aplicación de los principios de libre concurrencia y competencia económica, así como participar en los foros y organismos nacionales e internacionales que tengan ese fin;
 
-XXII. Se deroga Fracción derogada DOF 16-07-2025
+XXII. Se deroga
+Fracción derogada DOF 16-07-2025
 
 XXIII. Realizar u ordenar la realización de estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica, en su caso, con propuestas de liberalización, desregulación o modificación normativa, cuando detecte riesgos al proceso de libre concurrencia y competencia económica, identifique un problema de competencia o así se lo soliciten otras Autoridades Públicas;
 
@@ -211,14 +222,17 @@ Fracción adicionada DOF 16-07-2025
 XXXVI. Analizar, evaluar y, en su caso, autorizar los planes de separación estructural que le representen los Agentes Económicos Preponderantes a efecto de reducir su participación nacional por debajo del cincuenta por ciento en el sector donde hayan sido determinados como preponderantes;
 Fracción adicionada DOF 16-07-2025
 
-XXXVII. Fijar y ajustar, con la aprobación de la Secretaría de Hacienda y Crédito Público, las tarifas por los servicios que preste, mismas que deberán publicarse en el Diario Oficial de la Federación, y Fracción adicionada DOF 16-07-2025
+XXXVII. Fijar y ajustar, con la aprobación de la Secretaría de Hacienda y Crédito Público, las tarifas por los servicios que preste, mismas que deberán publicarse en el Diario Oficial de la Federación, y
+Fracción adicionada DOF 16-07-2025
 
 XXXVIII. Las demás que le confieran ésta y otras leyes.
 Fracción recorrida DOF 16-07-2025
 
 ## Capítulo II — De la Integración y Atribuciones del Pleno
 
+
 ## Sección I — De la Integración del Pleno
+
 Denominación de la Sección reformada DOF 16-07-2025
 
 ### Artículo 13
@@ -260,28 +274,36 @@ Quáter. Las Personas Comisionadas se abstendrán de desempeñar cualquier otro 
 Artículo adicionado DOF 16-07-2025
 
 ### Artículo 14
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 15
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 16
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 17
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ## Sección II — De las Atribuciones del Pleno
+
 
 ### Artículo 18
 . El Pleno deliberará de forma colegiada y decidirá los casos por mayoría de votos, salvo las decisiones que requieran una mayoría calificada en los términos de esta Ley.
 Las deliberaciones del Pleno deberán contar con los votos de todos los Comisionados. Los Comisionados no podrán abstenerse de votar. Los Comisionados que se encuentren ausentes durante las sesiones del Pleno deberán emitir su voto por escrito antes de la sesión o dentro de los cinco días siguientes a la sesión respectiva.
 En los casos en que los Comisionados no puedan ejercer su voto por causas debidamente justificadas o estén impedidos para ello, y exista empate en la votación del Pleno, el Comisionado Presidente contará con voto de calidad para decidir estos casos.
 Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública.
-Párrafo reformado DOF 16-07-2025 La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta.
-Párrafo reformado DOF 16-07-2025 Los acuerdos y resoluciones del Pleno también serán de carácter público y sólo se reservarán las partes que contengan Información Confidencial o Reservada, en los términos establecidos en esta Ley y demás disposiciones aplicables.
+Párrafo reformado DOF 16-07-2025
+La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta.
+Párrafo reformado DOF 16-07-2025
+Los acuerdos y resoluciones del Pleno también serán de carácter público y sólo se reservarán las partes que contengan Información Confidencial o Reservada, en los términos establecidos en esta Ley y demás disposiciones aplicables.
 Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas.
-Párrafo reformado DOF 16-07-2025 El Pleno determinará en el estatuto orgánico el ejercicio directo o por delegación de las atribuciones previstas en el artículo 12 de esta Ley que no estén comprendidas en los supuestos señalados en el párrafo anterior.
+Párrafo reformado DOF 16-07-2025
+El Pleno determinará en el estatuto orgánico el ejercicio directo o por delegación de las atribuciones previstas en el artículo 12 de esta Ley que no estén comprendidas en los supuestos señalados en el párrafo anterior.
 En el estatuto orgánico de la Comisión se establecerán las facultades que ejercerán las diversas unidades de la misma, las cuales estarán bajo el mando y supervisión del Pleno o del Comisionado Presidente, según se trate.
 
 ### Artículo 19
@@ -325,6 +347,7 @@ XII. Las demás que le confieran esta Ley, el estatuto orgánico, el Pleno y las
 
 ## Sección III — De las Causas de Remoción
 
+
 ### Artículo 22
 . Los Comisionados serán sujetos de juicio político en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Segundo de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
@@ -348,13 +371,16 @@ VII. Someter a sabiendas, a la consideración del Pleno, información falsa o al
 
 VIII. No excusarse de conocer y votar los asuntos en que tenga algún interés directo o indirecto.
 La remoción requerirá del voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente.
-Párrafo reformado DOF 16-07-2025 Reforma DOF 16-07-2025: Derogó del artículo los entonces párrafos segundo (antes reformado DOF 27-01-2017) y tercero
+Párrafo reformado DOF 16-07-2025
+Reforma DOF 16-07-2025: Derogó del artículo los entonces párrafos segundo (antes reformado DOF 27-01-2017) y tercero
 
 ## Sección IV — De las Prohibiciones
 
+
 ### Artículo 24
 . Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto.
-Párrafo reformado DOF 16-07-2025 Se considerará que existe interés directo o indirecto cuando una Persona Comisionada:
+Párrafo reformado DOF 16-07-2025
+Se considerará que existe interés directo o indirecto cuando una Persona Comisionada:
 Párrafo reformado DOF 16-07-2025
 
 I. Tenga parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados o sus representantes;
@@ -377,14 +403,20 @@ Párrafo reformado DOF 16-07-2025
 Para tal efecto, deberá convocarse a todos los Comisionados, pero la entrevista podrá celebrarse con la presencia de uno solo de ellos.
 De cada entrevista se llevará un registro que al menos deberá contener el lugar, la fecha, la hora de inicio y la hora de conclusión de la entrevista; los nombres completos de todas las personas que estuvieron presentes en la misma y los temas tratados.
 Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, las demás Personas Comisionadas, la persona titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de una Persona Comisionada.
-Párrafo reformado DOF 16-07-2025 La grabación de cada entrevista deberá estar a disposición de las demás Personas Comisionadas.
-Párrafo reformado DOF 27-01-2017, 16-07-2025 Las Personas Comisionadas no podrán ser recusadas por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
-Párrafo reformado DOF 16-07-2025 Lo dispuesto en este artículo será sin perjuicio de la participación de las Personas Comisionadas en foros y eventos públicos.
-Párrafo reformado DOF 16-07-2025 El Pleno emitirá las demás reglas de contacto aplicables a la Autoridad Investigadora en el estatuto orgánico.
+Párrafo reformado DOF 16-07-2025
+La grabación de cada entrevista deberá estar a disposición de las demás Personas Comisionadas.
+Párrafo reformado DOF 27-01-2017, 16-07-2025
+Las Personas Comisionadas no podrán ser recusadas por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
+Párrafo reformado DOF 16-07-2025
+Lo dispuesto en este artículo será sin perjuicio de la participación de las Personas Comisionadas en foros y eventos públicos.
+Párrafo reformado DOF 16-07-2025
+El Pleno emitirá las demás reglas de contacto aplicables a la Autoridad Investigadora en el estatuto orgánico.
 
 ## TÍTULO III — DE LA AUTORIDAD INVESTIGADORA
 
+
 ## Capítulo I — De su Integración y Funcionamiento
+
 
 ### Artículo 26
 . La Autoridad Investigadora es el órgano de la Comisión encargado de desahogar la etapa de investigación y es parte en el procedimiento seguido en forma de juicio. En el ejercicio de sus atribuciones, la Autoridad Investigadora estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
@@ -394,6 +426,7 @@ Párrafo reformado DOF 16-07-2025 El Pleno emitirá las demás reglas de contact
 
 ## Capítulo II — De sus Atribuciones
 
+
 ### Artículo 28
 . La Autoridad Investigadora tendrá las siguientes atribuciones:
 
@@ -401,8 +434,10 @@ I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes
 Fracción reformada DOF 16-07-2025
 
 II. Conducir las investigaciones sobre probables violaciones a esta Ley, así como los procedimientos previstos en los artículos 94 y 96 de esta Ley, para lo cual podrá requerir informes y documentos necesarios, realizar diligencias de inspección, realizar encuestas o recolectar datos a través de cualquier herramienta, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;
-Fracción reformada DOF 16-07-2025 II Bis. Participar en el procedimiento seguido en forma de juicio, en términos de esta Ley y su Reglamento;
-Fracción adicionada DOF 16-07-2025 II Bis 1. Tramitar las etapas que le correspondan del procedimiento previsto en el artículo 141 de esta Ley, de conformidad con lo establecido en el estatuto orgánico;
+Fracción reformada DOF 16-07-2025
+II Bis. Participar en el procedimiento seguido en forma de juicio, en términos de esta Ley y su Reglamento;
+Fracción adicionada DOF 16-07-2025
+II Bis 1. Tramitar las etapas que le correspondan del procedimiento previsto en el artículo 141 de esta Ley, de conformidad con lo establecido en el estatuto orgánico;
 Fracción adicionada DOF 16-07-2025
 
 III. Solicitar a cualquier Autoridad Pública o autoridad en el extranjero la información y documentación que requiera para indagar sobre posibles violaciones a esta Ley;
@@ -429,7 +464,8 @@ Fracción reformada DOF 16-07-2025
 XII. Tramitar los procedimientos previstos en los artículos 100, 102 y 103 de esta Ley, en el ámbito de sus atribuciones;
 Fracción adicionada DOF 16-07-2025
 
-XIII. Tramitar incidentes que puedan derivarse del ejercicio de sus atribuciones, en términos de lo previsto en la presente Ley y su Reglamento, y Fracción adicionada DOF 16-07-2025
+XIII. Tramitar incidentes que puedan derivarse del ejercicio de sus atribuciones, en términos de lo previsto en la presente Ley y su Reglamento, y
+Fracción adicionada DOF 16-07-2025
 
 XIV. Ejercer las demás atribuciones que se establezcan en la presente Ley, su Reglamento, las Disposiciones Regulatorias y en el estatuto orgánico de la Comisión.
 Fracción adicionada DOF 16-07-2025
@@ -440,13 +476,15 @@ Artículo reformado DOF 16-07-2025
 
 ## Capítulo III — De su Designación y Remoción
 
+
 ### Artículo 30
 . La persona titular de la Autoridad Investigadora será designada y removida por el Pleno de la Comisión por mayoría de tres Personas Comisionadas, siendo necesario el voto favorable de la Persona Comisionada Presidente.
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 31
 . La persona titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño.
-Párrafo reformado DOF 16-07-2025 Para ser titular de la Autoridad Investigadora se deberán cumplir los siguientes requisitos:
+Párrafo reformado DOF 16-07-2025
+Para ser titular de la Autoridad Investigadora se deberán cumplir los siguientes requisitos:
 
 I. Ser persona ciudadana mexicana, en pleno goce de sus derechos civiles y políticos;
 Fracción reformada DOF 16-07-2025
@@ -488,6 +526,7 @@ Lo anterior con independencia de las responsabilidades a que se refiere el Títu
 Artículo reformado DOF 16-07-2025
 
 ## Capítulo IV — De la Responsabilidad de la Persona Titular de la Autoridad Investigadora
+
 Denominación del Capítulo reformada DOF 16-07-2025
 
 ### Artículo 34
@@ -508,6 +547,7 @@ IV. Contravenir, a sabiendas, las disposiciones del Pleno sobre las reglas de co
 
 ## Capítulo V — De las Prohibiciones
 
+
 ### Artículo 36
 . La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
 Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las Personas Comisionadas en esta Ley.
@@ -515,63 +555,88 @@ En caso de impedimento de la persona titular de la Autoridad Investigadora para 
 Artículo reformado DOF 16-07-2025
 
 ## TÍTULO IV — DEL ÓRGANO INTERNO DE CONTROL DE LA COMISIÓN FEDERAL DE COMPETENCIA
-ECONÓMICA Se deroga Denominación del Título reformada DOF 27-01-2017. Título derogado DOF 16-07-2025
+
+ECONÓMICA Se deroga
+Denominación del Título reformada DOF 27-01-2017. Título derogado DOF 16-07-2025
 
 ## Capítulo I — De su Integración y Funcionamiento
-Se deroga Capítulo derogado DOF 16-07-2025
+
+Se deroga
+Capítulo derogado DOF 16-07-2025
 
 ### Artículo 37
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ### Artículo 38
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ## Capítulo II — De sus Atribuciones
-Se deroga Capítulo derogado DOF 16-07-2025
+
+Se deroga
+Capítulo derogado DOF 16-07-2025
 
 ### Artículo 39
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ## Capítulo III — De su Designación
-Se deroga Capítulo derogado DOF 16-07-2025
+
+Se deroga
+Capítulo derogado DOF 16-07-2025
 
 ### Artículo 40
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ### Artículo 41
-. Se deroga Artículo reformado DOF 27-01-2017, 20-05-2021. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017, 20-05-2021. Derogado DOF 16-07-2025
 
 ### Artículo 42
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ### Artículo 43
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ## Capítulo IV — De la Responsabilidad del Titular del Órgano Interno de Control
-Se deroga Denominación del Capítulo reformada DOF 27-01-2017. Capítulo derogado DOF 16-07-2025
+
+Se deroga
+Denominación del Capítulo reformada DOF 27-01-2017. Capítulo derogado DOF 16-07-2025
 
 ### Artículo 44
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ### Artículo 45
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ## Capítulo V — De las Prohibiciones
-Se deroga Capítulo derogado DOF 16-07-2025
+
+Se deroga
+Capítulo derogado DOF 16-07-2025
 
 ### Artículo 46
-. Se deroga Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
+. Se deroga
+Artículo reformado DOF 27-01-2017. Derogado DOF 16-07-2025
 
 ## TÍTULO V — DE LA ADMINISTRACIÓN DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
+
 Denominación del Título reformada DOF 16-07-2025
 
 ## Capítulo I — Del Presupuesto
+
 
 ### Artículo 47
 . La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.
 Artículo reformado DOF 16-07-2025
 
 ## Capítulo II — Del Patrimonio
+
 
 ### Artículo 48
 . El patrimonio de la Comisión se integra con:
@@ -587,6 +652,7 @@ La Comisión no podrá tener más bienes inmuebles que los estrictamente necesar
 
 ## Capítulo III — De la Transparencia y Rendición de Cuentas
 
+
 ### Artículo 49
 . La Comisión deberá publicar la versión estenográfica de sus sesiones, y los acuerdos y resoluciones del pleno en su sitio de internet y, en el Diario Oficial de la Federación cuando así lo determine esta Ley, preservando en todo caso la secrecía de las investigaciones y procedimientos, la Información Confidencial y la Información Reservada.
 El Comisionado Presidente deberá comparecer anualmente ante la Cámara de Senadores del Congreso de la Unión, de conformidad con lo dispuesto en el artículo 93 de la Constitución Política de los Estados Unidos Mexicanos. De igual forma, deberá presentar a los Poderes Ejecutivo y Legislativo Federal el programa anual de trabajo y un informe trimestral de los avances de las actividades de la Comisión que deberán entregarse dentro de los treinta días naturales después de terminado el trimestre de que se trate. El programa anual de trabajo y el informe trimestral de actividades deberán hacer referencia, cuando menos, a los siguientes elementos:
@@ -597,7 +663,8 @@ II. Desempeño de la Comisión en relación con sus objetivos y metas estratégi
 
 III. Un resumen de las opiniones emitidas por la Comisión, así como de las consultas planteadas ante ésta;
 
-IV. Reporte del gasto correspondiente al ejercicio inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el Órgano Interno de Control, y Fracción reformada DOF 27-01-2017
+IV. Reporte del gasto correspondiente al ejercicio inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el Órgano Interno de Control, y
+Fracción reformada DOF 27-01-2017
 
 V. Reporte, resumen, justificación y efectos de los procedimientos y resoluciones emitidas de conformidad con el artículo 94 de esta Ley.
 El programa anual de trabajo a que hace referencia este artículo deberá presentarse a más tardar el 31 de enero de cada año.
@@ -606,25 +673,31 @@ Lo dispuesto en este artículo se realizará sin perjuicio de los datos e inform
 
 ## Capítulo IV — Del Régimen Laboral
 
+
 ### Artículo 50
 . El personal que preste sus servicios en la Comisión se regirá por las disposiciones del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal de los Trabajadores al Servicio del Estado. Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 Todos los servidores públicos que integran la plantilla laboral de la Comisión, serán considerados trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
 
 ## Capítulo V — Del Régimen de Responsabilidades
 
+
 ### Artículo 51
 . Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y será sujeto a las sanciones establecidas en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en la materia.
-Párrafo reformado DOF 16-07-2025 Los servidores públicos de la Comisión estarán sujetos a las reglas de contacto que determine la Comisión en su estatuto orgánico.
+Párrafo reformado DOF 16-07-2025
+Los servidores públicos de la Comisión estarán sujetos a las reglas de contacto que determine la Comisión en su estatuto orgánico.
 LIBRO SEGUNDO DE LAS CONDUCTAS ANTICOMPETITIVAS
 
 ## TÍTULO ÚNICO — DE LAS CONDUCTAS ANTICOMPETITIVAS
 
+
 ## Capítulo I — De la Prohibición de Conductas Anticompetitivas
+
 
 ### Artículo 52
 . Están prohibidos los monopolios, las prácticas monopólicas, las concentraciones ilícitas y las barreras que, en términos de esta Ley, disminuyan, dañen, impidan o condicionen de cualquier forma la libre concurrencia o la competencia económica en la producción, procesamiento, distribución o comercialización de bienes o servicios.
 
 ## Capítulo II — De las Prácticas Monopólicas Absolutas
+
 
 ### Artículo 53
 . Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes:
@@ -638,9 +711,12 @@ III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado 
 
 IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
 
-V. Se deroga Fracción reformada DOF 16-07-2025 Las prácticas monopólicas absolutas serán nulas de pleno derecho, y en consecuencia, no producirán efecto jurídico alguno y los Agentes Económicos que incurran en ellas se harán acreedores a las sanciones establecidas en esta Ley, sin perjuicio de la responsabilidad civil y penal que, en su caso, pudiere resultar.
+V. Se deroga
+Fracción reformada DOF 16-07-2025
+Las prácticas monopólicas absolutas serán nulas de pleno derecho, y en consecuencia, no producirán efecto jurídico alguno y los Agentes Económicos que incurran en ellas se harán acreedores a las sanciones establecidas en esta Ley, sin perjuicio de la responsabilidad civil y penal que, en su caso, pudiere resultar.
 
 ## Capítulo III — De las Prácticas Monopólicas Relativas
+
 
 ### Artículo 54
 . Se consideran prácticas monopólicas relativas, las consistentes en cualquier acto, contrato, convenio, procedimiento o combinación que:
@@ -649,9 +725,7 @@ I. Encuadre en alguno de los supuestos a que se refiere el artículo 56 de esta 
 
 II. Lleve a cabo uno o más Agentes Económicos que individual o conjuntamente tengan poder sustancial en el mismo mercado relevante en que se realiza la práctica, y
 
-III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado:
-
-a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados.
+III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado: a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 55
@@ -702,15 +776,18 @@ XIII. El estrechamiento de márgenes, consistente en reducir el margen existente
 Para efectos de investigar y en su caso sancionar las prácticas a que se refieren las fracciones XII y XIII de este artículo, la Comisión podrá determinar la existencia de insumos esenciales sin acudir al procedimiento previsto en el artículo 94 de esta Ley.
 
 ## Capítulo IV
+
 De la Prohibición de Barreras a la Libre Concurrencia y la Competencia Económica
 
 ### Artículo 57
 . La Comisión proveerá lo conducente para prevenir y eliminar las barreras a la libre concurrencia y la competencia económica, en las proporciones necesarias para eliminar los efectos anticompetitivos, a través de los procedimientos previstos en esta Ley.
 
 ## Capítulo V
+
 De la Determinación del Mercado Relevante, del Poder Sustancial y del Insumo Esencial
 
 ## Sección I — De la Determinación del Mercado Relevante
+
 
 ### Artículo 58
 . Para la determinación del mercado relevante, deberán considerarse los siguientes criterios:
@@ -726,6 +803,7 @@ IV. Las restricciones normativas de carácter federal, local o internacional que
 V. Los demás que se establezcan en las Disposiciones Regulatorias, así como los criterios técnicos que para tal efecto emita la Comisión.
 
 ## Sección II — De la Determinación del Poder Sustancial o Poder Sustancial Conjunto
+
 Denominación de la Sección reformada DOF 16-07-2025
 
 ### Artículo 59
@@ -743,12 +821,14 @@ IV. Las posibilidades de acceso del o de los Agentes Económicos y sus competido
 
 V. El comportamiento reciente del o los Agentes Económicos que participan en dicho mercado, y
 
-VI. Se deroga Fracción derogada DOF 16-07-2025
+VI. Se deroga
+Fracción derogada DOF 16-07-2025
 
 VII. El grado de posicionamiento de los bienes o servicios en el mercado relevante;
 Fracción adicionada DOF 16-07-2025
 
-VIII. La falta de acceso a importaciones o la existencia de costos elevados de internación, y Fracción adicionada DOF 16-07-2025
+VIII. La falta de acceso a importaciones o la existencia de costos elevados de internación, y
+Fracción adicionada DOF 16-07-2025
 
 IX. La existencia de diferenciales elevados en costos que pudieran enfrentar los consumidores al acudir a otros proveedores.
 Fracción adicionada DOF 16-07-2025
@@ -762,6 +842,7 @@ II. Que dichos Agentes Económicos muestren un comportamiento similar.
 Artículo adicionado DOF 16-07-2025
 
 ## Sección III — De la Determinación del Insumo Esencial
+
 
 ### Artículo 60
 . Para determinar la existencia de insumo esencial, la Comisión deberá considerar:
@@ -779,18 +860,22 @@ V. Los demás criterios que, en su caso, se establezcan en las Disposiciones Reg
 
 ## Capítulo VI — De las Concentraciones
 
+
 ## Sección I — De la Definición de Concentración
+
 
 ### Artículo 61
 . Para los efectos de esta Ley, se entiende por concentración la fusión, adquisición del control o cualquier acto por virtud del cual se unan sociedades, asociaciones, acciones, partes sociales, fideicomisos o activos en general que se realice entre competidores, proveedores, clientes o cualesquiera otros agentes económicos. La Comisión no autorizará o en su caso investigará y sancionará aquellas concentraciones cuyo objeto o efecto sea disminuir, dañar o impedir la competencia y la libre concurrencia respecto de bienes o servicios iguales, similares o sustancialmente relacionados.
 
 ## Sección II — .
+
 De las Concentraciones Ilícitas
 
 ### Artículo 62
 . Se consideran ilícitas aquellas concentraciones que tengan por objeto o efecto obstaculizar, disminuir, dañar o impedir la libre concurrencia o la competencia económica.
 
 ## Sección III — De la Evaluación de las Concentraciones
+
 
 ### Artículo 63
 . Para determinar si la concentración no debe ser autorizada o debe ser sancionada en los términos de esta Ley, se considerarán los siguientes elementos:
@@ -804,7 +889,8 @@ III. Los efectos de la concentración en el mercado relevante con respecto a los
 IV. La participación de los involucrados en la concentración en otros agentes económicos y la participación de otros agentes económicos en los involucrados en la concentración, siempre que dichos agentes económicos participen directa o indirectamente en el mercado relevante o en mercados relacionados. Cuando no sea posible identificar dicha participación, esta circunstancia deberá quedar plenamente justificada;
 
 V. Los elementos que aporten los Agentes Económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia.
-Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y Fracción reformada DOF 16-07-2025
+Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y
+Fracción reformada DOF 16-07-2025
 
 VI. Los demás criterios e instrumentos analíticos que se establezcan en las Disposiciones Regulatorias y los criterios técnicos.
 
@@ -816,23 +902,29 @@ I. Confiera o pueda conferir al fusionante, al adquirente o Agente Económico re
 II. Tenga o pueda tener por objeto o efecto establecer barreras a la entrada, impedir a terceros el acceso al mercado relevante, a mercados relacionados o a insumos esenciales, o desplazar a otros Agentes Económicos;
 Fracción reformada DOF 16-07-2025
 
-III. Tenga o pueda tener por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas, o Fracción reformada DOF 16-07-2025
+III. Tenga o pueda tener por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas, o
+Fracción reformada DOF 16-07-2025
 
 IV. Tenga o pueda tener por objeto o efecto afectar sustancialmente las condiciones de competencia y libre concurrencia en el mercado relevante o mercados relacionados.
 Fracción adicionada DOF 16-07-2025
 
 ## Sección IV — De las Concentraciones que No Pueden ser Investigadas
 
+
 ### Artículo 65
 . No podrán ser investigadas con fundamento en esta Ley, las concentraciones que hayan obtenido resolución favorable por parte de la Comisión, excepto cuando dicha resolución se haya obtenido con base en información falsa o bien cuando la resolución haya quedado sujeta a condiciones posteriores y las mismas no se hayan cumplido en el plazo establecido para tal efecto.
 Tampoco podrán ser investigadas las concentraciones que no requieran ser previamente notificadas a la Comisión, una vez transcurridos tres años a partir de su realización.
-Párrafo reformado DOF 16-07-2025 LIBRO TERCERO DE LOS PROCEDIMIENTOS
+Párrafo reformado DOF 16-07-2025
+LIBRO TERCERO DE LOS PROCEDIMIENTOS
 
 ## TÍTULO I — DE LA INVESTIGACIÓN
 
+
 ## Capítulo Único — De la Investigación
 
+
 ## Sección I — Del Inicio de la Investigación
+
 
 ### Artículo 66
 . La investigación de la Comisión iniciará de oficio, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, de la Procuraduría o a petición de parte y estará a cargo de la Autoridad Investigadora.
@@ -870,7 +962,8 @@ Transcurrido el plazo sin que se desahogue la prevención o sin que se cumplan c
 El acuerdo de la Autoridad Investigadora que tenga por no presentada la denuncia se deberá notificar al denunciante dentro de los quince días siguientes a aquél en que haya vencido el plazo para el desahogo de la prevención, sin perjuicio de que el denunciante pueda presentar nuevamente su denuncia.
 Si no se emite acuerdo alguno dentro de los plazos antes señalados, la investigación se entenderá iniciada. En este caso, la Autoridad Investigadora, a solicitud del denunciante o de oficio, deberá emitir el acuerdo de admisión.
 Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el artículo 68 de esta Ley, se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio por prácticas monopólicas o concentraciones ilícitas.
-Párrafo adicionado DOF 16-07-2025 Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existe una causa objetiva en términos del artículo 71 de esta Ley, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
+Párrafo adicionado DOF 16-07-2025
+Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existe una causa objetiva en términos del artículo 71 de esta Ley, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 70
@@ -888,6 +981,7 @@ V. Los hechos denunciados se refieran a una concentración notificada en términ
 
 ## Sección II — Del Desahogo de la Investigación
 
+
 ### Artículo 71
 . Para iniciar una investigación por prácticas monopólicas o concentraciones ilícitas se requerirá de una causa objetiva.
 Es causa objetiva cualquier indicio de la existencia de prácticas monopólicas o concentraciones ilícitas.
@@ -900,7 +994,8 @@ Párrafo reformado DOF 16-07-2025
 
 ### Artículo 73
 . La Autoridad Investigadora podrá requerir de cualquier persona, los informes y documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante; citar a declarar a quienes tengan relación con los hechos de que se trate; ordenar y practicar visitas de verificación en donde se presuma que existen elementos para la debida integración de la investigación, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, con el fin de allegarse de información para sus investigaciones.
-Párrafo reformado DOF 16-07-2025 Las personas y las Autoridades Públicas tendrán un plazo de diez días para presentar los informes y documentos requeridos por la Autoridad Investigadora, que a petición de las personas y las Autoridades Públicas requeridas, podrá ampliarse por una sola ocasión hasta por diez días más, si así lo amerita la complejidad o volumen de la información requerida.
+Párrafo reformado DOF 16-07-2025
+Las personas y las Autoridades Públicas tendrán un plazo de diez días para presentar los informes y documentos requeridos por la Autoridad Investigadora, que a petición de las personas y las Autoridades Públicas requeridas, podrá ampliarse por una sola ocasión hasta por diez días más, si así lo amerita la complejidad o volumen de la información requerida.
 En ningún caso lo dispuesto por este artículo implica la obligación de la Comisión de revelar las líneas de investigación o cualquier otra información relacionada con la investigación. El carácter de la persona requerida o compareciente, no prejuzga sobre el carácter que tendrá con posterioridad en la investigación o el procedimiento seguido en forma de juicio.
 Párrafo adicionado DOF 16-07-2025
 
@@ -976,11 +1071,15 @@ Del acta levantada se dejará copia a la persona con quien se entendió la dilig
 
 ### Artículo 77
 . En cualquier momento la Autoridad Investigadora podrá presentar denuncia o querella ante la Fiscalía General de la República respecto de probables conductas delictivas en materia de libre concurrencia y competencia económica y, en su caso, ser coadyuvante en el curso de las investigaciones que deriven de la citada denuncia o querella.
-Párrafo reformado DOF 20-05-2021 Si de la investigación se desprenden medios de convicción que presuman una afectación que provoca daños y perjuicios a los consumidores, se dará vista del dictamen de probable responsabilidad a la Procuraduría para los efectos a que haya lugar.
-Una vez que se emita el dictamen de probable responsabilidad, se considera que la Autoridad Investigadora tiene conocimiento de las probables conductas violatorias y de quienes probablemente las Párrafo adicionado DOF 16-07-2025 La Comisión deberá emitir Disposiciones Regulatorias que detallen los criterios y supuestos en los que Fiscalía General de la República.
+Párrafo reformado DOF 20-05-2021
+Si de la investigación se desprenden medios de convicción que presuman una afectación que provoca daños y perjuicios a los consumidores, se dará vista del dictamen de probable responsabilidad a la Procuraduría para los efectos a que haya lugar.
+Una vez que se emita el dictamen de probable responsabilidad, se considera que la Autoridad Investigadora tiene conocimiento de las probables conductas violatorias y de quienes probablemente las
+Párrafo adicionado DOF 16-07-2025
+La Comisión deberá emitir Disposiciones Regulatorias que detallen los criterios y supuestos en los que Fiscalía General de la República.
 Párrafo adicionado DOF 16-07-2025
 
 ## Sección II Bis — Del Procedimiento de Calificación
+
 Sección adicionada DOF 16-07-2025
 
 ### Artículo 77
@@ -1008,6 +1107,7 @@ Artículo adicionado DOF 16-07-2025
 
 ## Sección III — De la Conclusión de la Investigación
 
+
 ### Artículo 78
 . Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de treinta días, presentará al Pleno un dictamen que proponga:
 Párrafo reformado DOF 16-07-2025
@@ -1016,7 +1116,8 @@ I. El inicio del procedimiento en forma de juicio, por existir elementos objetiv
 
 II. El cierre del expediente en caso de que no se desprendan elementos para iniciar el procedimiento en forma de juicio.
 En el supuesto previsto en la fracción I, dentro del plazo de diez días siguientes a la fecha en que la Autoridad Investigadora haya presentado el dictamen correspondiente, el Pleno ordenará el inicio del procedimiento seguido en forma de juicio mediante el emplazamiento a los probables responsables.
-Párrafo reformado DOF 16-07-2025 En el caso de la fracción II, el Pleno decretará el cierre del expediente dentro del plazo de diez días siguientes a la fecha en la que la Autoridad Investigadora haya presentado el dictamen respectivo.
+Párrafo reformado DOF 16-07-2025
+En el caso de la fracción II, el Pleno decretará el cierre del expediente dentro del plazo de diez días siguientes a la fecha en la que la Autoridad Investigadora haya presentado el dictamen respectivo.
 Párrafo reformado DOF 16-07-2025
 
 ### Artículo 79
@@ -1032,9 +1133,12 @@ IV. Los elementos que sustenten el sentido del dictamen y, en su caso, las dispo
 
 ## TÍTULO II — DEL PROCEDIMIENTO SEGUIDO EN FORMA DE JUICIO
 
+
 ## Capítulo I — Del Procedimiento
 
+
 ## Sección I — Del Emplazamiento
+
 
 ### Artículo 80
 . El procedimiento iniciará con el emplazamiento al o los probables responsables, con el dictamen de probable responsabilidad a que se refiere el artículo 79 de esta Ley.
@@ -1046,6 +1150,7 @@ IV. Los elementos que sustenten el sentido del dictamen y, en su caso, las dispo
 . Quien haya presentado la denuncia que dio inicio a la investigación será coadyuvante de la Autoridad Investigadora en el procedimiento seguido en forma de juicio, en los términos que determine el estatuto orgánico.
 
 ## Sección II — Del Desahogo del Procedimiento
+
 
 ### Artículo 83
 . El procedimiento seguido en forma de juicio se tramitará conforme a lo siguiente:
@@ -1062,20 +1167,25 @@ Párrafo reformado DOF 16-07-2025
 
 IV. Una vez desahogadas las pruebas y dentro de los diez días siguientes, la Comisión podrá allegarse y ordenar el desahogo de pruebas para mejor proveer o citar para alegatos, en los términos de la siguiente fracción;
 
-V. Concluido el desahogo de pruebas, la Comisión citará a las partes a la audiencia oral final, para que, en su caso, realicen las manifestaciones que estimen pertinentes y formulen los alegatos que correspondan ante el Pleno, y Fracción reformada DOF 16-07-2025
+V. Concluido el desahogo de pruebas, la Comisión citará a las partes a la audiencia oral final, para que, en su caso, realicen las manifestaciones que estimen pertinentes y formulen los alegatos que correspondan ante el Pleno, y
+Fracción reformada DOF 16-07-2025
 
 VI. El expediente se entenderá integrado al día siguiente en que se celebre la audiencia oral final referida en la fracción anterior. Una vez integrado el expediente, se turnará por acuerdo de la Persona Comisionada Presidente a la Persona Comisionada ponente, de manera rotatoria, siguiendo rigurosamente el orden de designación de las Personas Comisionadas, así como el orden cronológico en que se integró el expediente, quien tendrá la obligación de presentar el proyecto de resolución al Pleno para su aprobación o modificación.
-Párrafo reformado DOF 16-07-2025 En este último caso el Comisionado ponente incorporará al proyecto las modificaciones o correcciones sugeridas por el Pleno.
+Párrafo reformado DOF 16-07-2025
+En este último caso el Comisionado ponente incorporará al proyecto las modificaciones o correcciones sugeridas por el Pleno.
 La Comisión dictará resolución en un plazo que no excederá de treinta días.
-Párrafo reformado DOF 16-07-2025 Reforma DOF 16-07-2025: Derogó de la fracción el entonces párrafo tercero
+Párrafo reformado DOF 16-07-2025
+Reforma DOF 16-07-2025: Derogó de la fracción el entonces párrafo tercero
 
 ## Sección III — De la Valoración de las Pruebas
+
 
 ### Artículo 84
 . La Comisión goza de la más amplia libertad para hacer el análisis de las pruebas, para determinar el valor de las mismas, unas enfrente de las otras, y para fijar el resultado final de dicha valoración.
 La valoración de las pruebas por parte de la Comisión deberá basarse en la apreciación en su conjunto de los elementos probatorios directos, indirectos e indiciarios que aparezcan en el proceso.
 
 ## Capítulo II — De la Resolución Definitiva
+
 
 ### Artículo 85
 . La resolución definitiva deberá contener al menos lo siguiente:
@@ -1090,7 +1200,9 @@ IV. La determinación sobre imposición de sanciones.
 
 ## TÍTULO III — DEL PROCEDIMIENTO EN LA NOTIFICACIÓN DE CONCENTRACIONES
 
+
 ## Capítulo I — Del Procedimiento de Notificación de Concentraciones
+
 
 ### Artículo 86
 . Las siguientes concentraciones deberán ser autorizadas por la Comisión antes de que se lleven a cabo:
@@ -1098,10 +1210,12 @@ IV. La determinación sobre imposición de sanciones.
 I. Cuando el acto o sucesión de actos que les den origen, independientemente del lugar de su celebración, importen en el territorio nacional, directa o indirectamente, un monto superior al equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente;
 Fracción reformada DOF 16-07-2025
 
-II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente, o Fracción reformada DOF 16-07-2025
+II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente, o
+Fracción reformada DOF 16-07-2025
 
 III. Cuando el acto o sucesión de actos que les den origen impliquen una acumulación en el territorio nacional de activos o capital social superior al equivalente a siete millones cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización vigente y en la concentración participen dos o más Agentes Económicos cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional conjunta o separadamente, importen más de cuarenta millones de veces el valor diario de la Unidad de Medida y Actualización vigente.
-Fracción reformada DOF 16-07-2025 Los actos realizados en contravención a este artículo no producirán efectos jurídicos, sin perjuicio de la responsabilidad administrativa, civil o penal de los Agentes Económicos y de las personas que ordenaron o coadyuvaron en la ejecución, así como de los fedatarios públicos que hayan intervenido en los mismos.
+Fracción reformada DOF 16-07-2025
+Los actos realizados en contravención a este artículo no producirán efectos jurídicos, sin perjuicio de la responsabilidad administrativa, civil o penal de los Agentes Económicos y de las personas que ordenaron o coadyuvaron en la ejecución, así como de los fedatarios públicos que hayan intervenido en los mismos.
 Los actos relativos a una concentración no podrán registrarse en los libros corporativos, formalizarse en instrumento público ni inscribirse en el Registro Público de Comercio hasta que se obtenga la autorización favorable de la Comisión o haya transcurrido el plazo a que se refiere el artículo 90, fracción V, sin que el Pleno haya emitido resolución.
 Los Agentes Económicos involucrados que no se encuentren en los supuestos establecidos en las fracciones I, II y III de este artículo podrán notificarla voluntariamente a la Comisión.
 
@@ -1166,7 +1280,8 @@ Los requerimientos señalados en el párrafo anterior no suspenderán los plazos
 IV. Transcurridos los términos a que se refieren las fracciones I y III anteriores, sin que la Comisión emita y notifique el acuerdo que tenga por no notificada una concentración, el procedimiento continuará su trámite;
 
 V. Para emitir su resolución, la Comisión tendrá un plazo de treinta días, contado a partir de la recepción de la notificación o, en su caso, de la documentación adicional solicitada. Concluido el plazo sin que se emita resolución, se entenderá que la Comisión no tiene objeción en la concentración notificada.
-Párrafo reformado DOF 16-07-2025 En las concentraciones en que la Comisión considere que existen posibles riesgos al proceso de competencia y libre concurrencia, ésta lo comunicará a los notificantes, al menos con diez días de anticipación a la fecha en que se liste el asunto a efecto de que éstos pudieren presentar condiciones que permitan corregir los riesgos señalados.
+Párrafo reformado DOF 16-07-2025
+En las concentraciones en que la Comisión considere que existen posibles riesgos al proceso de competencia y libre concurrencia, ésta lo comunicará a los notificantes, al menos con diez días de anticipación a la fecha en que se liste el asunto a efecto de que éstos pudieren presentar condiciones que permitan corregir los riesgos señalados.
 La resolución de la Comisión podrá autorizar, objetar o sujetar la autorización de la concentración al cumplimiento de condiciones destinadas a la prevención de posibles efectos contrarios a la libre concurrencia y al proceso de competencia que pudieran derivar de la concentración notificada;
 Tratándose de una sucesión de actos, la Comisión realizará el análisis de toda la sucesión de los actos que originan la concentración y, en caso de objetarse, podrá ordenar las medidas necesarias para garantizar la protección de la libre competencia y concurrencia económica, incluyendo la restitución de las cosas al estado en que se encontraban antes de la realización de la sucesión de actos.
 Párrafo adicionado DOF 16-07-2025
@@ -1185,7 +1300,8 @@ VIII. La resolución favorable de la Comisión no prejuzgará sobre la realizaci
 La resolución favorable de la Comisión tendrá una vigencia de seis meses, prorrogables por una sola ocasión por causas justificadas.
 Los notificantes podrán presentar, desde su escrito de notificación y hasta un día después de que se liste el asunto para sesión del Pleno, propuestas de condiciones para evitar que como resultado de la concentración se disminuya, dañe o se impida el proceso de competencia y libre concurrencia.
 En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido el día en que los notificantes presenten su propuesta de condiciones o cualquier modificación a las mismas y volverá a contar desde su inicio. Los notificantes pueden realizar modificaciones o adiciones a su propuesta inicial de condiciones hasta un día después de que se liste el asunto para sesión del Pleno.
-Párrafo reformado DOF 16-07-2025 Los Agentes Económicos notificantes pueden desistirse del procedimiento hasta antes de que inicie el plazo establecido en la fracción V de este artículo. Emitida la resolución que autorice la concentración notificada o sujete la autorización al cumplimiento de condiciones, puede renunciar al derecho derivado de la misma. En ambos casos, se requerirá ratificación ante la Comisión por el representante común o quien tenga las facultades legales para hacerlo.
+Párrafo reformado DOF 16-07-2025
+Los Agentes Económicos notificantes pueden desistirse del procedimiento hasta antes de que inicie el plazo establecido en la fracción V de este artículo. Emitida la resolución que autorice la concentración notificada o sujete la autorización al cumplimiento de condiciones, puede renunciar al derecho derivado de la misma. En ambos casos, se requerirá ratificación ante la Comisión por el representante común o quien tenga las facultades legales para hacerlo.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 91
@@ -1221,6 +1337,7 @@ Cuando a juicio de la Comisión la concentración no se ubique en los supuestos 
 
 ## Capítulo II — De los Casos de Excepciones a la Obligación de Autorización Previa
 
+
 ### Artículo 93
 . No se requerirá la autorización de concentraciones a que se refiere el artículo 86 de esta Ley en los casos siguientes:
 
@@ -1230,7 +1347,8 @@ II. Cuando el titular de acciones, partes sociales o unidades de participación 
 
 III. Cuando se trate de la constitución de fideicomisos de administración, garantía o de cualquier otra clase en la que un Agente Económico aporte sus activos, acciones, partes sociales o unidades de participación sin que la finalidad o consecuencia necesaria sea la transferencia de dichos activos, acciones, partes sociales o unidades de participación a una sociedad distinta tanto del fideicomitente como de la institución fiduciaria correspondiente. Sin embargo, en caso de ejecución del fideicomiso de garantía se deberá de notificar si se actualiza alguno de los umbrales referidos en el artículo 86 de esta Ley;
 
-IV. Se deroga Fracción derogada DOF 16-07-2025
+IV. Se deroga
+Fracción derogada DOF 16-07-2025
 
 V. Cuando el adquirente sea una sociedad de inversión de renta variable y la operación tenga por objeto la adquisición de acciones, obligaciones, valores, títulos o documentos con recursos provenientes de la colocación de las acciones representativas del capital social de la sociedad de inversión entre el público inversionista, salvo que como resultado o con motivo de las operaciones la sociedad de inversión pueda tener una influencia significativa en las decisiones del Agente Económico concentrado;
 
@@ -1244,7 +1362,8 @@ c) Mantener la titularidad de derechos que permitan, directa o indirectamente, e
 
 d) Dirigir o influenciar directa o indirectamente la administración, operación, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma;
 
-VII. Se deroga Fracción derogada DOF 16-07-2025
+VII. Se deroga
+Fracción derogada DOF 16-07-2025
 
 VIII. En los demás casos que establezcan las Disposiciones Regulatorias.
 
@@ -1261,7 +1380,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## TÍTULO IV — DE LOS PROCEDIMIENTOS ESPECIALES
 
+
 ## Capítulo I
+
 De las Investigaciones para Determinar Insumos Esenciales o Barreras a la Competencia
 
 ### Artículo 94
@@ -1272,7 +1393,8 @@ I. La Autoridad Investigadora dictará el acuerdo de inicio y publicará en el D
 II. La Autoridad Investigadora contará con todas las facultades de investigación que se prevén en esta Ley, incluyendo requerir los informes y documentos necesarios, citar a declarar a quienes tengan relación con el caso de que se trate, realizar visitas de verificación y ordenar cualquier diligencia que considere pertinente. Tratándose de insumos esenciales, la Autoridad Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el artículo 60 de esta Ley;
 
 III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente. En este último caso, el Pleno emitirá la resolución de cierre dentro del plazo de quince días contados a partir de que se haya presentado la propuesta correspondiente.
-Párrafo reformado DOF 16-07-2025 Al emitir el dictamen preliminar, se deberán proponer las medidas correctivas que se consideren necesarias para eliminar las restricciones al funcionamiento eficiente del mercado investigado, para lo cual podrá solicitar, en su caso, una opinión técnica no vinculatoria a la dependencia coordinadora del sector o a la Autoridad Pública que corresponda respecto de dichas medidas correctivas.
+Párrafo reformado DOF 16-07-2025
+Al emitir el dictamen preliminar, se deberán proponer las medidas correctivas que se consideren necesarias para eliminar las restricciones al funcionamiento eficiente del mercado investigado, para lo cual podrá solicitar, en su caso, una opinión técnica no vinculatoria a la dependencia coordinadora del sector o a la Autoridad Pública que corresponda respecto de dichas medidas correctivas.
 En su caso, el dictamen preliminar se deberá notificar a los Agentes Económicos que pudieran verse afectados por las medidas correctivas propuestas, entre ellas las posibles barreras a la competencia o por la regulación para el acceso al insumo esencial, así como, en su caso, a la dependencia coordinadora del sector o a la Autoridad Pública que corresponda;
 
 IV. Los Agentes Económicos que demuestren tener interés jurídico en el asunto podrán manifestar lo que a su derecho convenga y ofrecer los elementos de convicción que estimen pertinentes ante la Comisión, dentro de los cuarenta y cinco días siguientes a aquel en que surta efectos la notificación correspondiente. Transcurrido dicho término, se acordará, en su caso, el desechamiento o la admisión de pruebas y se fijará el lugar, día y hora para su desahogo;
@@ -1285,7 +1407,8 @@ VII. El expediente se entenderá integrado a la fecha de vencimiento del plazo p
 Dentro de los cinco días siguientes a la recepción del escrito de propuesta de medidas al que se refiere el párrafo anterior, la Comisión podrá prevenir al Agente Económico para que, en su caso, presente las aclaraciones correspondientes en un plazo de cinco días. Dentro de los diez días siguientes a la recepción del escrito de propuesta o de aclaraciones, según el caso, se presentará un dictamen ante el Pleno, quien deberá resolver sobre la pretensión del Agente Económico solicitante dentro de los veinte días siguientes.
 En caso de que el Pleno no acepte la propuesta presentada por el Agente Económico solicitante, deberá justificar los motivos de la negativa y la Comisión emitirá en un plazo de cinco días el acuerdo de reanudación del procedimiento.
 Una vez integrado el expediente, el Pleno emitirá la resolución que corresponda en un plazo no mayor a cuarenta días.
-Párrafo reformado DOF 16-07-2025 La resolución de la Comisión podrá incluir:
+Párrafo reformado DOF 16-07-2025
+La resolución de la Comisión podrá incluir:
 
 a) Recomendaciones para las Autoridades Públicas.
 Las resoluciones en las que la Comisión determine la existencia de disposiciones jurídicas que indebidamente impidan o distorsionen la libre concurrencia y competencia en el mercado, deberán notificarse a las autoridades competentes para que, en el ámbito de su competencia y conforme los procedimientos previstos por la legislación vigente, determinen lo conducente. Estas resoluciones deberán publicitarse;
@@ -1301,9 +1424,12 @@ Si la Comisión determina que el bien o servicio no reúne los requisitos para s
 La resolución relativa a la desincorporación de activos a que se refiere el presente artículo no constituye la sanción a que se refiere el artículo 131 de esta Ley.
 En todos los casos, la Comisión deberá verificar que las medidas propuestas generarán incrementos en eficiencia en los mercados, por lo que no se impondrán éstas cuando el Agente Económico con interés jurídico en el procedimiento demuestre, en su oportunidad, que las barreras a la competencia y los insumos esenciales generan ganancias en eficiencia e inciden favorablemente en el proceso de competencia económica y libre concurrencia superando sus posibles efectos anticompetitivos, y resultan en una mejora del bienestar del consumidor. Entre las ganancias en eficiencia se podrán contemplar las que sean resultado de la innovación en la producción, distribución y comercialización de bienes y servicios.
 El Reglamento establecerá los requisitos que deben cumplir las solicitudes relativas a este artículo.
-Párrafo adicionado DOF 16-07-2025 Cuando la solicitud no reúna los requisitos a que se refiere este artículo, dentro de los diez días siguientes al de la presentación del escrito, la Comisión debe prevenir al solicitante para que, en un término que no exceda de quince días prorrogables, presente la información faltante.
-Párrafo adicionado DOF 16-07-2025 Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el Reglamento se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio.
-Párrafo adicionado DOF 16-07-2025 Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existen elementos para iniciar una investigación, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
+Párrafo adicionado DOF 16-07-2025
+Cuando la solicitud no reúna los requisitos a que se refiere este artículo, dentro de los diez días siguientes al de la presentación del escrito, la Comisión debe prevenir al solicitante para que, en un término que no exceda de quince días prorrogables, presente la información faltante.
+Párrafo adicionado DOF 16-07-2025
+Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el Reglamento se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio.
+Párrafo adicionado DOF 16-07-2025
+Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existen elementos para iniciar una investigación, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 95
@@ -1311,6 +1437,7 @@ Párrafo adicionado DOF 16-07-2025
 Reforma DOF 16-07-2025: Derogó del artículo los entonces párrafos segundo a quinto
 
 ## Capítulo II — Del Procedimiento para Resolver sobre Condiciones de Mercado
+
 
 ### Artículo 96
 . Cuando las disposiciones legales o reglamentarias prevengan expresamente que deba resolverse u opinar sobre cuestiones de competencia efectiva, existencia de poder sustancial en el mercado relevante u otros términos análogos, o cuando así lo determine el Ejecutivo Federal mediante acuerdos o decretos, la Comisión emitirá de oficio, a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, a solicitud de la dependencia coordinadora del sector correspondiente o a petición de parte afectada la resolución u opinión que corresponda, para lo cual se estará al siguiente procedimiento:
@@ -1341,6 +1468,7 @@ La Comisión podrá prorrogar los plazos señalados en las fracciones IV, VIII y
 . En el caso del artículo 9 de esta Ley, la Comisión podrá emitir opinión a petición del Ejecutivo Federal, misma que deberá sustanciarse en términos del artículo anterior, salvo que se solicite atención preferente, en cuyo caso la Comisión la emitirá en el menor tiempo posible, considerando los términos previstos en esta Ley.
 
 ## Capítulo III
+
 Del Procedimiento para la Emisión de Opiniones o Resoluciones en el Otorgamiento de Licencias, Concesiones, Permisos y Análogos
 
 ### Artículo 98
@@ -1370,6 +1498,7 @@ IV. La Comisión deberá acordar con la convocante las fechas en que los interes
 
 ## Capítulo IV — De los Procedimientos de Dispensa y Reducción del Importe de Multas
 
+
 ### Artículo 100
 . El Agente Económico sujeto a una investigación por práctica monopólica relativa o concentración ilícita podrá, por una sola ocasión, manifestar por escrito su voluntad de acogerse al beneficio de dispensa o reducción del importe de las multas establecidas en esta Ley, siempre y cuando solicite acogerse a este beneficio y presente a la Comisión:
 Párrafo reformado DOF 16-07-2025
@@ -1377,24 +1506,32 @@ Párrafo reformado DOF 16-07-2025
 I. Su compromiso para suspender, suprimir o corregir la práctica o concentración correspondiente, a fin de restaurar el proceso de libre concurrencia y competencia económica, y
 
 II. Los medios propuestos para suspender, suprimir o corregir la práctica monopólica relativa o concentración ilícita objeto de la investigación, que deben ser jurídica y económicamente viables e idóneos para tal efecto, señalando los plazos y términos para su comprobación.
-Fracción reformada DOF 16-07-2025 El Agente Económico que presente la solicitud a la que hace referencia este artículo antes de que la Autoridad Investigadora amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley, podrá obtener la totalidad del beneficio por lo que podrá cerrar el expediente sin imputar responsabilidad alguna.
-Párrafo adicionado DOF 16-07-2025 Transcurrido el plazo establecido en el párrafo anterior, el Agente Económico correspondiente solo podrá presentar su solicitud durante el procedimiento seguido en forma de juicio y hasta antes de la integración del expediente. En caso de que se acepten los compromisos en esta etapa, la Comisión podrá imputar responsabilidad y el Agente Económico se hará acreedor a una reducción de hasta el cincuenta por ciento de la multa que, en su caso, le hubiera correspondido.
-Párrafo adicionado DOF 16-07-2025 En el supuesto previsto en el párrafo anterior, el Agente Económico deberá incluir en su solicitud, además de lo señalado en esta Ley, el Reglamento y las Disposiciones Regulatorias, el reconocimiento de la práctica monopólica o la concentración ilícita que le haya sido imputada en el dictamen de probable responsabilidad correspondiente.
-Párrafo adicionado DOF 16-07-2025 El Reglamento establecerá el procedimiento conforme al cual se desahogará el procedimiento para el otorgamiento del beneficio a que hace referencia este artículo.
+Fracción reformada DOF 16-07-2025
+El Agente Económico que presente la solicitud a la que hace referencia este artículo antes de que la Autoridad Investigadora amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley, podrá obtener la totalidad del beneficio por lo que podrá cerrar el expediente sin imputar responsabilidad alguna.
+Párrafo adicionado DOF 16-07-2025
+Transcurrido el plazo establecido en el párrafo anterior, el Agente Económico correspondiente solo podrá presentar su solicitud durante el procedimiento seguido en forma de juicio y hasta antes de la integración del expediente. En caso de que se acepten los compromisos en esta etapa, la Comisión podrá imputar responsabilidad y el Agente Económico se hará acreedor a una reducción de hasta el cincuenta por ciento de la multa que, en su caso, le hubiera correspondido.
+Párrafo adicionado DOF 16-07-2025
+En el supuesto previsto en el párrafo anterior, el Agente Económico deberá incluir en su solicitud, además de lo señalado en esta Ley, el Reglamento y las Disposiciones Regulatorias, el reconocimiento de la práctica monopólica o la concentración ilícita que le haya sido imputada en el dictamen de probable responsabilidad correspondiente.
+Párrafo adicionado DOF 16-07-2025
+El Reglamento establecerá el procedimiento conforme al cual se desahogará el procedimiento para el otorgamiento del beneficio a que hace referencia este artículo.
 Párrafo adicionado DOF 16-07-2025
 
 ### Artículo 101
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ### Artículo 102
 . La resolución a la que se refiere el artículo anterior, podrá decretar:
 
-I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según corresponda, en términos del artículo 100 de esta Ley, y Fracción reformada DOF 16-07-2025
+I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según corresponda, en términos del artículo 100 de esta Ley, y
+Fracción reformada DOF 16-07-2025
 
 II. Las medidas para restaurar el proceso de libre concurrencia y de competencia económica.
 El Pleno podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo 100 de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia.
-Párrafo adicionado DOF 16-07-2025 Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado.
-Párrafo reformado DOF 16-07-2025 En el evento de que el Agente Económico de que se trate no acepte expresamente la resolución, los procedimientos que hayan sido suspendidos serán reanudados.
+Párrafo adicionado DOF 16-07-2025
+Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado.
+Párrafo reformado DOF 16-07-2025
+En el evento de que el Agente Económico de que se trate no acepte expresamente la resolución, los procedimientos que hayan sido suspendidos serán reanudados.
 Los Agentes Económicos sólo podrán acogerse a los beneficios previstos en este artículo, una vez cada cinco años. Este período se computará a partir de la aceptación de la resolución de la Comisión.
 La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión.
 Párrafo reformado DOF 16-07-2025
@@ -1417,6 +1554,7 @@ Los Agentes Económicos e individuos que reciban cualquiera de los beneficios es
 Artículo reformado DOF 16-07-2025
 
 ## Capítulo V — Del Procedimiento de Solicitudes de Opinión Formal y Orientaciones Generales en
+
 Materia de Libre Concurrencia y Competencia Económica
 
 ### Artículo 104
@@ -1493,6 +1631,7 @@ Las opiniones formales pueden limitarse a tratar una parte de las cuestiones pla
 . Sin perjuicio del procedimiento para la emisión de opiniones formales, la Comisión deberá ofrecer orientación general a cualquier persona física o moral, así como a cualquier Autoridad Pública, en relación con la aplicación de esta ley, en los términos señalados en las Disposiciones Regulatorias.
 
 ## Capítulo VI — Del Procedimiento de Aviso del Ejecutivo Federal
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 110
@@ -1502,7 +1641,9 @@ Artículo adicionado DOF 16-07-2025
 
 ## TÍTULO V — DE LAS REGLAS GENERALES APLICABLES A LOS PROCEDIMIENTOS
 
+
 ## Capítulo I — De la Representación
+
 
 ### Artículo 111
 . La representación de los Agentes Económicos ante la Comisión deberá acreditarse mediante testimonio notarial o copia certificada del documento o instrumento que contenga las facultades para ello, de conformidad con las formalidades establecidas en la legislación aplicable, el cual podrá presentarse con el primer escrito o inscribirse en el registro de personas acreditadas que, en su caso, establezca la Comisión.
@@ -1512,6 +1653,7 @@ Cuando en su promoción, los Agentes Económicos no especifiquen para qué efect
 No podrá tener acceso al expediente persona alguna que no se encuentre autorizada o tenga acreditada su personalidad en el expediente y haya sido acordada en ese sentido por la Comisión, ni fuera del horario establecido para la oficialía de partes.
 
 ## Capítulo II — De los Requisitos de las Promociones ante la Comisión
+
 
 ### Artículo 112
 . Las actuaciones y promociones se deben presentar en idioma español y estar firmadas por quienes intervienen en ellas. Cuando alguno de los promoventes o personas que intervengan en una actuación no supieren o no pudieren firmar, pondrán su huella digital en presencia de dos testigos, quienes deberán firmarlas.
@@ -1527,16 +1669,19 @@ En lo no previsto, se estará a lo dispuesto en las Disposiciones Regulatorias.
 
 ## Capítulo III — De los Plazos
 
+
 ### Artículo 114
 . Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
-Párrafo reformado DOF 16-07-2025 Cuando no se especifique plazo, se entenderán cinco días para cualquier actuación.
+Párrafo reformado DOF 16-07-2025
+Cuando no se especifique plazo, se entenderán cinco días para cualquier actuación.
 
 ### Artículo 115
 . Las actuaciones se practicarán en días y horas hábiles.
 Son días hábiles todos los del año, menos los sábados y domingos, y aquellos que se declaren inhábiles conforme al calendario anual correspondiente, publicado en el Diario Oficial de la Federación.
 Los días en que se suspendan labores o cuando las oficinas de la autoridad permanezcan cerradas, serán considerados como inhábiles para todos los efectos legales, salvo en los casos de habilitación expresa para la realización o práctica de diligencias.
 Se entienden horas hábiles para notificar y realizar diligencias las que median desde las siete hasta las diecinueve horas. En los procedimientos o trámites sustanciados por medios electrónicos, así como para las promociones presentadas por correo electrónico, y para la emisión de actuaciones con firma electrónica se entenderán hábiles las veinticuatro horas del día.
-Párrafo reformado DOF 16-07-2025 Se podrán habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias y notificaciones, cuando hubiere causa que lo justifique, expresando cuál es ésta y especificando además las diligencias que hayan de practicarse.
+Párrafo reformado DOF 16-07-2025
+Se podrán habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias y notificaciones, cuando hubiere causa que lo justifique, expresando cuál es ésta y especificando además las diligencias que hayan de practicarse.
 Si la diligencia se inició en día y hora hábiles, puede llevarse hasta su fin, sin interrupción y sin necesidad de habilitación expresa.
 
 ### Artículo 116
@@ -1549,14 +1694,18 @@ En el evento de que la promoción y documentos presentados por transmisión elec
 
 ## Capítulo IV — De las Notificaciones
 
+
 ### Artículo 117
 . Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que intervenga, deberá designar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, en el domicilio de la oficina de representación de la Comisión que corresponda, si en ella se tramita alguno de los procedimientos de esta Ley.
-Párrafo reformado DOF 16-07-2025 Igualmente deberá señalar el domicilio en que ha de hacerse la primera notificación a la persona que le interese que se notifique por la intervención que deban tener en el asunto. No es necesario señalar el domicilio de los servidores públicos, estos siempre serán notificados en su residencia oficial.
+Párrafo reformado DOF 16-07-2025
+Igualmente deberá señalar el domicilio en que ha de hacerse la primera notificación a la persona que le interese que se notifique por la intervención que deban tener en el asunto. No es necesario señalar el domicilio de los servidores públicos, estos siempre serán notificados en su residencia oficial.
 Las notificaciones se realizarán en términos del Reglamento y de las Disposiciones Regulatorias.
-Párrafo reformado DOF 16-07-2025 Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que se practiquen.
+Párrafo reformado DOF 16-07-2025
+Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que se practiquen.
 Párrafo adicionado DOF 16-07-2025
 
 ## Capítulo V — De los Procedimientos ante la Comisión por Medios Electrónicos
+
 
 ### Artículo 118
 . Todos los procedimientos a que se refiere esta Ley, así como cualquier solicitud se podrán sustanciar por medios electrónicos conforme a las Disposiciones Regulatorias, observando en todo caso los principios de gobierno digital y datos abiertos, así como las disposiciones aplicables en materia de firma electrónica.
@@ -1564,13 +1713,16 @@ La Comisión, para los efectos de la substanciación de los actos relativos a la
 
 ## Capítulo VI — De la Obligación de Cooperar con la Comisión
 
+
 ### Artículo 119
 . Toda persona que tenga conocimiento o relación con algún hecho que investigue la Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el término de diez días la información, cosas y documentos que obren en su poder en el medio que le sean requeridos; de presentarse a declarar en el lugar, fecha y hora en que sea citada, contestando todas las preguntas que le sean formuladas; así como de permitir que se realicen las visitas de verificación.
-Párrafo reformado DOF 16-07-2025 Para el caso de documentos originales o en copia certificada, la persona requerida podrá optar por exhibir dichas documentales para que le sean devueltas una vez que la Comisión lleve a cabo su reproducción y certificación.
+Párrafo reformado DOF 16-07-2025
+Para el caso de documentos originales o en copia certificada, la persona requerida podrá optar por exhibir dichas documentales para que le sean devueltas una vez que la Comisión lleve a cabo su reproducción y certificación.
 Para el debido desahogo de los procedimientos a su cargo, la Comisión puede hacer las prevenciones y reiteraciones que estime pertinentes, salvo disposición en contrario.
 Párrafo adicionado DOF 16-07-2025
 
 ## Capítulo VII — De las Resoluciones de la Comisión
+
 
 ### Artículo 120
 . La Comisión adoptará sus resoluciones con base en los hechos que tenga conocimiento, la información y medios de convicción disponibles, cuando el Agente Económico emplazado o aquél cuyos hechos sean materia de investigación, así como las personas relacionadas con éstos, se nieguen a proporcionar información o documentos, declarar, facilitar la práctica de las diligencias que hayan sido ordenadas o entorpezcan la investigación o el procedimiento respectivo.
@@ -1579,11 +1731,13 @@ Todas las resoluciones definitivas de la Comisión adoptadas bajo cualquiera de 
 
 ## Capítulo VIII — De la Supletoriedad de esta Ley
 
+
 ### Artículo 121
 . En lo no previsto por esta Ley, su Reglamento o en las Disposiciones Regulatorias, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 Artículo reformado DOF 16-07-2025, 14-11-2025
 
 ## Capítulo IX — De las Disposiciones Finales
+
 
 ### Artículo 122
 . La Comisión cuidará que los procedimientos no se suspendan ni se interrumpan, para lo cual proveerá lo necesario para que concluyan con la respectiva resolución. Asimismo, dictará todas las medidas necesarias para encauzar legalmente el procedimiento. De oficio o a petición de parte, podrá regularizar el procedimiento.
@@ -1593,7 +1747,9 @@ Artículo reformado DOF 16-07-2025, 14-11-2025
 
 ## TÍTULO VI — DE LA INFORMACIÓN
 
+
 ## Capítulo Único
+
 Clasificación de la Información
 
 ### Artículo 124
@@ -1604,13 +1760,16 @@ Los servidores públicos estarán sujetos a responsabilidad en los casos de divu
 ### Artículo 125
 . Para efectos de esta Ley, la Información Confidencial sólo tendrá tal carácter cuando el Agente Económico así lo solicite, acredite que tiene tal carácter y presente un resumen de la información, a satisfacción de la Comisión, para que sea glosado al expediente o bien, las razones por las que no puede realizar dicho resumen, en cuyo caso la Comisión podrá hacer el resumen correspondiente.
 La Comisión en ningún caso estará obligada a proporcionar la Información Confidencial o Reservada, en términos de esta Ley, ni podrá publicarla y deberá guardarla en el seguro que para tal efecto tenga.
-Párrafo reformado DOF 16-07-2025 Los servidores públicos de la Comisión deberán abstenerse de pronunciarse públicamente o revelar información relacionada con los expedientes o procedimientos ante la Comisión y que cause daño o perjuicio directo a los involucrados, hasta que se haya notificado al Agente Económico investigado la resolución del Pleno, preservando en todo momento las obligaciones derivadas del presente artículo.
+Párrafo reformado DOF 16-07-2025
+Los servidores públicos de la Comisión deberán abstenerse de pronunciarse públicamente o revelar información relacionada con los expedientes o procedimientos ante la Comisión y que cause daño o perjuicio directo a los involucrados, hasta que se haya notificado al Agente Económico investigado la resolución del Pleno, preservando en todo momento las obligaciones derivadas del presente artículo.
 Al efecto, lo dispuesto por el artículo 10 de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones.
 Párrafo adicionado DOF 16-07-2025
 
 ## TÍTULO VII — DE LAS MEDIDAS DE APREMIO Y SANCIONES
 
+
 ## Capítulo I — De las Medidas de Apremio
+
 
 ### Artículo 126
 . La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá aplicar separada o indistintamente las siguientes medidas de apremio:
@@ -1619,18 +1778,23 @@ Párrafo reformado DOF 16-07-2025
 I. Apercibimiento;
 
 II. Multa hasta por el importe del equivalente a ocho mil veces el valor diario de la Unidad de Medida y Actualización, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
-Fracción reformada DOF 16-07-2025 II Bis. Multa hasta por el importe equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización por no asistir a una comparecencia, sin causa justificada, por no contestar las preguntas o posiciones realizadas, o por contestar con ambigüedades o evasivas;
-Fracción adicionada DOF 16-07-2025 II Bis 1. Multa hasta por el importe equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización al Agente Económico que impida u obstaculice el desarrollo de una visita de verificación en los términos que señala el artículo 75 de esta Ley;
-Fracción adicionada DOF 16-07-2025 II Bis 2. Multa hasta por el importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización por incumplir una orden de inhabilitación en términos de la fracción X del artículo 127, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
+Fracción reformada DOF 16-07-2025
+II Bis. Multa hasta por el importe equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización por no asistir a una comparecencia, sin causa justificada, por no contestar las preguntas o posiciones realizadas, o por contestar con ambigüedades o evasivas;
+Fracción adicionada DOF 16-07-2025
+II Bis 1. Multa hasta por el importe equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización al Agente Económico que impida u obstaculice el desarrollo de una visita de verificación en los términos que señala el artículo 75 de esta Ley;
+Fracción adicionada DOF 16-07-2025
+II Bis 2. Multa hasta por el importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización por incumplir una orden de inhabilitación en términos de la fracción X del artículo 127, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
 Fracción adicionada DOF 16-07-2025
 
 III. El auxilio de la fuerza pública o de otras Autoridades Públicas, y
 
 IV. Arresto administrativo hasta por 36 horas.
-Fracción reformada DOF 16-07-2025 La Comisión podrá aplicar las medidas de apremio establecidas en este artículo de manera independiente a las sanciones penales y administrativas correspondientes. En tal caso, no será requerido agotar previamente las medidas de apremio contempladas en este mismo artículo.
+Fracción reformada DOF 16-07-2025
+La Comisión podrá aplicar las medidas de apremio establecidas en este artículo de manera independiente a las sanciones penales y administrativas correspondientes. En tal caso, no será requerido agotar previamente las medidas de apremio contempladas en este mismo artículo.
 Párrafo adicionado DOF 16-07-2025
 
 ## Capítulo II — De las Multas y Sanciones
+
 
 ### Artículo 127
 . La Comisión podrá aplicar las siguientes sanciones:
@@ -1669,7 +1833,8 @@ XI. Multa de una a trescientas mil veces el valor diario de la Unidad de Medida 
 Fracción reformada DOF 16-07-2025
 
 XII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido la resolución emitida en términos del artículo 102 de esta Ley;
-Fracción reformada DOF 16-07-2025 XII Bis. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente a diez por ciento de los ingresos del Agente Económico, por incumplir con lo establecido en las fracciones I, II y VIII, párrafo tercero, de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;
+Fracción reformada DOF 16-07-2025
+XII Bis. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente a diez por ciento de los ingresos del Agente Económico, por incumplir con lo establecido en las fracciones I, II y VIII, párrafo tercero, de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;
 Fracción adicionada DOF 16-07-2025
 
 XIII. Multas de una y hasta por el equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, a los fedatarios públicos que intervengan en los actos relativos a una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente;
@@ -1681,10 +1846,12 @@ Fracción reformada DOF 16-07-2025
 XV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por incumplir la orden cautelar a la que se refiere esta Ley;
 Fracción reformada DOF 16-07-2025
 
-XVI. Inhabilitación temporal para participar, de manera directa o por interpósita persona, en procedimientos de contratación pública por un periodo que no será menor de seis meses ni mayor a cinco años, por haber incurrido en una práctica monopólica absoluta en términos del artículo 53, fracción IV, del presente ordenamiento, con independencia de la responsabilidad administrativa, civil y penal en que se incurra y lo previsto en otros ordenamientos, y Fracción adicionada DOF 16-07-2025
+XVI. Inhabilitación temporal para participar, de manera directa o por interpósita persona, en procedimientos de contratación pública por un periodo que no será menor de seis meses ni mayor a cinco años, por haber incurrido en una práctica monopólica absoluta en términos del artículo 53, fracción IV, del presente ordenamiento, con independencia de la responsabilidad administrativa, civil y penal en que se incurra y lo previsto en otros ordenamientos, y
+Fracción adicionada DOF 16-07-2025
 
 XVII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incumplido con alguna de las medidas específicas impuestas en virtud de su determinación como preponderante o con las medidas establecidas en el artículo 142 de esta Ley.
-Fracción adicionada DOF 16-07-2025 Los ingresos a los que se refieren las fracciones anteriores serán los acumulables para el Agente Económico involucrado en la conducta ilícita, excluyendo los obtenidos de una fuente de riqueza ubicada en el extranjero, así como los gravables si éstos se encuentran sujetos a un régimen fiscal preferente, para los efectos del Impuesto Sobre la Renta del último ejercicio fiscal en que se haya incurrido en la infracción respectiva. De no estar disponible, se utilizará la base de cálculo correspondiente al ejercicio fiscal anterior.
+Fracción adicionada DOF 16-07-2025
+Los ingresos a los que se refieren las fracciones anteriores serán los acumulables para el Agente Económico involucrado en la conducta ilícita, excluyendo los obtenidos de una fuente de riqueza ubicada en el extranjero, así como los gravables si éstos se encuentran sujetos a un régimen fiscal preferente, para los efectos del Impuesto Sobre la Renta del último ejercicio fiscal en que se haya incurrido en la infracción respectiva. De no estar disponible, se utilizará la base de cálculo correspondiente al ejercicio fiscal anterior.
 La Comisión podrá solicitar a los Agentes Económicos o a la autoridad competente la información fiscal necesaria para determinar el monto de las multas a que se refiere el párrafo anterior, pudiendo utilizar para el supuesto de que el requerido sea el Agente Económico, los medios de apremio que esta Ley establece.
 En caso de reincidencia, se podrá imponer una multa hasta por el doble de la que se hubiera determinado por la Comisión.
 Se considerará reincidente al que:
@@ -1692,10 +1859,12 @@ Se considerará reincidente al que:
 a) Habiendo incurrido en una infracción que haya sido sancionada en sede administrativa, realice otra conducta prohibida por esta Ley, independientemente de su mismo tipo o naturaleza;
 Inciso reformado DOF 16-07-2025
 
-b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y Inciso reformado DOF 16-07-2025
+b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y
+Inciso reformado DOF 16-07-2025
 
 c) Que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.
-Inciso reformado DOF 16-07-2025 En el caso de violaciones a esta Ley por servidores públicos, la Comisión deberá enviar oficio debidamente fundado y motivado a la autoridad competente para que, de ser procedente, se inicie el procedimiento de responsabilidad administrativa a que hubiere lugar, sin perjuicio de la responsabilidad penal en que incurra el servidor público.
+Inciso reformado DOF 16-07-2025
+En el caso de violaciones a esta Ley por servidores públicos, la Comisión deberá enviar oficio debidamente fundado y motivado a la autoridad competente para que, de ser procedente, se inicie el procedimiento de responsabilidad administrativa a que hubiere lugar, sin perjuicio de la responsabilidad penal en que incurra el servidor público.
 El Ejecutivo Federal ejecutará las multas previstas por este artículo, así como las previstas en el artículo 126 de esta Ley.
 En ningún caso la Comisión administrará ni dispondrá de los fondos a que se refiere este artículo.
 
@@ -1711,6 +1880,7 @@ Artículo reformado DOF 16-07-2025
 
 ## Capítulo III — De la Imposición de Sanciones
 
+
 ### Artículo 129
 . La Comisión deberá garantizar que las multas impuestas en términos de esta Ley tengan carácter disuasivo.
 La Comisión deberá emitir Disposiciones Regulatorias que establezcan de manera clara, transparente y predecible la metodología y los criterios para la imposición de multas.
@@ -1723,24 +1893,29 @@ Artículo reformado DOF 16-07-2025
 
 ## Capítulo IV — De la Sanción de Desincorporación
 
+
 ### Artículo 131
 . Cuando la infracción sea cometida por quien haya sido sancionado previamente por la realización de prácticas monopólicas o concentraciones ilícitas, la Comisión considerará los elementos a que hace referencia el artículo 130 de esta Ley y en lugar de la sanción que corresponda, podrá resolver la desincorporación o enajenación de activos, derechos, partes sociales o acciones de los Agentes Económicos, en las porciones necesarias para eliminar efectos anticompetitivos.
 Para los efectos del párrafo anterior, en su resolución, la Comisión deberá incluir un análisis económico que justifique la imposición de dicha medida, señalando los beneficios al consumidor.
 Para efectos de lo dispuesto en este artículo, se entenderá que el infractor ha sido sancionado previamente cuando:
 
-I. Las resoluciones que impongan sanciones hayan causado estado en sede administrativa, y Fracción reformada DOF 16-07-2025
+I. Las resoluciones que impongan sanciones hayan causado estado en sede administrativa, y
+Fracción reformada DOF 16-07-2025
 
 II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.
-Fracción reformada DOF 16-07-2025 Para efectos de este artículo, las sanciones impuestas por una pluralidad de prácticas monopólicas o concentraciones ilícitas en un mismo procedimiento se entenderán como una sola sanción.
+Fracción reformada DOF 16-07-2025
+Para efectos de este artículo, las sanciones impuestas por una pluralidad de prácticas monopólicas o concentraciones ilícitas en un mismo procedimiento se entenderán como una sola sanción.
 No se considerará como sanción, para efectos de este artículo, las resoluciones emitidas por la Comisión, conforme a lo dispuesto por el artículo 101 de esta Ley.
 Los Agentes Económicos tendrán derecho a presentar programas alternativos de desincorporación antes de que la Comisión dicte la resolución respectiva.
 Cuando la Comisión ordene la desincorporación o enajenación de activos, derechos, partes sociales o acciones de los Agentes Económicos, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
 
 ## Capítulo V — Del Cumplimiento y Ejecución de las Resoluciones
 
+
 ### Artículo 132
 . Los incidentes relativos a la verificación del cumplimiento y ejecución de las resoluciones de la Comisión, la imposición de sanciones relacionadas con el incumplimiento a las medidas específicas impuestas a los Agentes Económicos Preponderantes, la recusación, el otorgamiento de medidas cautelares y la reposición de autos, así como cualquier cuestión procesal accesoria al procedimiento principal se desahogarán de conformidad con el procedimiento incidental previsto en esta Ley y en términos de lo establecido en el Reglamento. En lo no previsto se aplicará lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Previo y durante el desahogo del procedimiento incidental establecido, la Comisión puede allegarse y requerir la información y documentos que estime convenientes a los sujetos obligados por la resolución y a cualquier persona que pueda aportar información relevante para la verificación de su cumplimiento, quienes deben presentar la información requerida en un plazo de diez días, mismos que pueden prorrogarse por una sola ocasión.
+Párrafo reformado DOF 14-11-2025
+Previo y durante el desahogo del procedimiento incidental establecido, la Comisión puede allegarse y requerir la información y documentos que estime convenientes a los sujetos obligados por la resolución y a cualquier persona que pueda aportar información relevante para la verificación de su cumplimiento, quienes deben presentar la información requerida en un plazo de diez días, mismos que pueden prorrogarse por una sola ocasión.
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 133
@@ -1749,7 +1924,9 @@ Tras los alegatos, la Comisión declarará integrado el expediente incidental y 
 
 ## TÍTULO VIII — DE LA REPARACIÓN
 
+
 ## Capítulo Único — De la Reparación de los Daños y Perjuicios
+
 
 ### Artículo 134
 . Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración ilícita, así como la Comisión, cuando corresponda, podrán interponer las acciones judiciales individuales o colectivas en defensa de sus derechos ante los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones una vez que la Comisión haya emitido la resolución correspondiente.
@@ -1759,7 +1936,9 @@ Artículo reformado DOF 16-07-2025
 
 ## TÍTULO IX — DE LA PRESCRIPCIÓN Y MEDIDAS CAUTELARES
 
+
 ## Capítulo I — De las Medidas Cautelares
+
 
 ### Artículo 135
 . En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a:
@@ -1774,18 +1953,22 @@ III. Procurar la conservación de la información y documentación, y
 IV. Las demás que se consideren necesarias o convenientes.
 
 ### Artículo 136
-. Se deroga Artículo derogado DOF 16-07-2025
+. Se deroga
+Artículo derogado DOF 16-07-2025
 
 ## Capítulo II — De la Prescripción
+
 
 ### Artículo 137
 . Las facultades de la Comisión para iniciar los procedimientos que pudieran derivar en responsabilidad e imposición de sanciones de conformidad con esta Ley, se extinguen en un plazo de diez años contados a partir de la fecha en que se realizó la concentración ilícita o no autorizada, o en otros casos, a partir de que cesó la conducta prohibida por esta Ley.
 Artículo reformado DOF 16-07-2025
 
 ## TÍTULO X — DE LA ELABORACIÓN DE DIRECTRICES, GUÍAS, LINEAMIENTOS Y CRITERIOS
+
 TÉCNICOS
 
 ## Capítulo Único
+
 Del Procedimiento para la Elaboración de Directrices, Guías, Lineamientos y Criterios Técnicos
 
 ### Artículo 138
@@ -1802,12 +1985,16 @@ Las directrices, guías, lineamientos y criterios técnicos referidos en este ar
 . La Comisión podrá certificar, en términos del Reglamento y las Disposiciones Regulatorias que al efecto emita, previo pago de derechos, aquellos programas de cumplimiento que implementen los Agentes Económicos en materia de prevención y detección de actos violatorios de esta Ley.
 La certificación emitida por la Comisión en términos de este artículo tendrá una vigencia de tres años.
 La Comisión podrá valorar la existencia de un programa de cumplimiento debidamente certificado como atenuante, en los términos que establezca el Reglamento.
-Artículo adicionado DOF 16-07-2025 LIBRO CUARTO DE LAS TELECOMUNICACIONES Y RADIODIFUSIÓN Libro adicionado DOF 16-07-2025
+Artículo adicionado DOF 16-07-2025
+LIBRO CUARTO DE LAS TELECOMUNICACIONES Y RADIODIFUSIÓN Libro adicionado DOF 16-07-2025
 
 ## TÍTULO ÚNICO — De los Procedimientos y Facultades de la Comisión en los sectores de
-Telecomunicaciones y Radiodifusión Título adicionado DOF 16-07-2025
+
+Telecomunicaciones y Radiodifusión
+Título adicionado DOF 16-07-2025
 
 ## Capítulo I — De la Preponderancia y Regulación Asimétrica
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 140
@@ -1846,6 +2033,7 @@ La CRT y, en su caso, la Agencia proporcionarán la información y documentos co
 Artículo adicionado DOF 16-07-2025
 
 ## Capítulo II — De la Propiedad Cruzada
+
 Capítulo adicionado DOF 16-07-2025
 
 ### Artículo 142
@@ -1890,14 +2078,14 @@ Artículo adicionado DOF 16-07-2025
 
 ## TRANSITORIOS
 
-**Primero.** El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
+**Primero.-** El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
 Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
-**Tercero.** Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
-**Cuarto.** El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
-**Quinto.** Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
-**Sexto.** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
-**Séptimo.** Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución.
+**Tercero.-** Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
+**Cuarto.-** El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
+**Quinto.-** Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
+**Sexto.-** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
+**Séptimo.-** Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución.
 Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia Económica.
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
@@ -1905,120 +2093,120 @@ Publicado en el Diario Oficial de la Federación el 27 de enero de 2017
 
 ### Artículo Primero
 Se reforman los artículos 3, fracción VII; 20, fracciones VII y X; 23, párrafo
-**segundo.** ; 25, párrafo quinto; 34; la denominación del Título IV para quedar como "Del Órgano Interno de Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII, X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
+**segundo.-** ; 25, párrafo quinto; 34; la denominación del Título IV para quedar como "Del Órgano Interno de Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII, X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
-**Tercero.** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
-**Cuarto.** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
-**Quinto.** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
-**Sexto.** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
-**Séptimo.** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
+**Tercero.-** Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+**Cuarto.-** Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+**Quinto.-** Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+**Sexto.-** Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+**Séptimo.-** El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Quincuagésimo Primero.- Se reforman la fracción VII del artículo 28; la fracción IX del artículo 41; y el párrafo primero del artículo 77 de la Ley Federal de Competencia Económica, para quedar como sigue: ………
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 
 ### Artículo Primero
 Se reforman los artículos 3, fracciones III, V, VI, VIII y XIII; 6, párrafo primero; 9, párrafo primero; la denominación del Título II del Libro Primero; 10; 11; 12, fracciones III, VII, IX, XIII y XVII; la denominación de la Sección I del Capítulo II del Título II del Libro Primero; 13, párrafo primero; 18, párrafos cuarto, quinto y séptimo; 19; 20, párrafo primero y sus fracciones II, VII y VIII; 23, párrafos
-**primero.** y actual; 24, párrafos primero, segundo y sus fracciones II y III y cuarto; 25, párrafos cuarto,
-**quinto.** , sexto y séptimo; 28, fracciones I, II, X y XI; 29; 30; 31, párrafo primero, fracciones I, II, III, V y VI; 32, párrafo primero; 33; la denominación del Capítulo IV del Título III del Libro Primero; 34; 35, párrafo
-**primero.** ; 36; la denominación del Título V del Libro Primero; 47, párrafo primero; 51, párrafo primero; 53, párrafo primero; 54, fracción III; la denominación de la Sección II del Capítulo V del Título Único del Libro
-**Segundo.** ; 59, párrafo primero; 60, fracción I; 63, fracción V; 64, fracciones II y III; 65, párrafo segundo; 71, párrafo cuarto; 73, párrafo primero; 78, párrafos primero, segundo y tercero; 83, fracciones II, III, párrafo
-**segundo.** , V y VI, párrafos primero y cuarto; 86, fracciones I, II y III; 90, fracciones V, párrafo primero, VI y párrafo cuarto; 94, fracciones III, párrafo primero, y VII, párrafo cuarto; 100, párrafo primero y fracción II; 102, fracción I, y los párrafos actuales segundo y quinto; 103, fracciones I, II y III y los párrafos segundo y
-**tercero.** ; 114, párrafo primero; 115, párrafo tercero; 117, párrafos primero y tercero; 119, párrafo primero; 121; 125, párrafo segundo; 126, párrafo primero y sus fracciones II y IV; 127, fracciones I, III, IV, V, VII, VIII, IX, X, XI, XII, XIII, XIV y XV, y párrafo quinto, incisos a), b) y c); 128; 129; 130; 131, fracciones I y II; 132; 134; 135, párrafo primero, y 137, se adicionan los artículos 3, las fracciones I Bis, XI Bis y XIV Bis; 12, las fracciones XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y se recorre en su orden las subsecuentes; 13 Bis; 13 Ter; 13 Quáter; 28, las fracciones II Bis, II Bis 1, XII, XIII y XIV; 59, las fracciones VII, VIII y IX; 59 Bis; 63, fracción V, un segundo párrafo; 64, la fracción IV; 69, los párrafos
-**cuarto.** y quinto; 73, el párrafo tercero; 77, los párrafos tercero y cuarto; la Sección II Bis al Capítulo Único del Título I del Libro Tercero, el cual comprende los artículos 77 Bis y 77 Bis 1; 90, fracción V, el párrafo
-**cuarto.** , fracción VI, el párrafo segundo y el párrafo quinto; 93 Bis; 94, los párrafos séptimo, octavo,
-**noveno.** y décimo; 100, los párrafos segundo, tercero, cuarto y quinto; 102, el párrafo segundo, y se recorren en su orden los subsecuentes; 103, los párrafos cuarto, quinto, sexto, séptimo y octavo; un Capítulo VI del Título IV del Libro Tercero con el artículo 110 Bis; 117, el párrafo cuarto; 119, el párrafo
-**tercero.** ; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las fracciones VIII, los párrafos segundo y tercero y XII Bis, XVI y XVII; 130, el párrafo segundo; 132, el párrafo segundo; y el Libro Cuarto, con el Título Único, el cual comprende los Capítulos I con sus artículos 140, 141 y II con sus artículos 142, 143, 144 y 145 y, se derogan la fracción VII al artículo 3; 5; párrafo segundo al artículo 6; las fracciones XII, XIV, XV y XXII al artículo 12; un párrafo segundo al artículo 13; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero, incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo 59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos
-**segundo.** , tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica, para quedar como sigue: ……..
+**primero.-** y actual; 24, párrafos primero, segundo y sus fracciones II y III y cuarto; 25, párrafos cuarto,
+**quinto.-** , sexto y séptimo; 28, fracciones I, II, X y XI; 29; 30; 31, párrafo primero, fracciones I, II, III, V y VI; 32, párrafo primero; 33; la denominación del Capítulo IV del Título III del Libro Primero; 34; 35, párrafo
+**primero.-** ; 36; la denominación del Título V del Libro Primero; 47, párrafo primero; 51, párrafo primero; 53, párrafo primero; 54, fracción III; la denominación de la Sección II del Capítulo V del Título Único del Libro
+**Segundo.-** ; 59, párrafo primero; 60, fracción I; 63, fracción V; 64, fracciones II y III; 65, párrafo segundo; 71, párrafo cuarto; 73, párrafo primero; 78, párrafos primero, segundo y tercero; 83, fracciones II, III, párrafo
+**segundo.-** , V y VI, párrafos primero y cuarto; 86, fracciones I, II y III; 90, fracciones V, párrafo primero, VI y párrafo cuarto; 94, fracciones III, párrafo primero, y VII, párrafo cuarto; 100, párrafo primero y fracción II; 102, fracción I, y los párrafos actuales segundo y quinto; 103, fracciones I, II y III y los párrafos segundo y
+**tercero.-** ; 114, párrafo primero; 115, párrafo tercero; 117, párrafos primero y tercero; 119, párrafo primero; 121; 125, párrafo segundo; 126, párrafo primero y sus fracciones II y IV; 127, fracciones I, III, IV, V, VII, VIII, IX, X, XI, XII, XIII, XIV y XV, y párrafo quinto, incisos a), b) y c); 128; 129; 130; 131, fracciones I y II; 132; 134; 135, párrafo primero, y 137, se adicionan los artículos 3, las fracciones I Bis, XI Bis y XIV Bis; 12, las fracciones XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII y se recorre en su orden las subsecuentes; 13 Bis; 13 Ter; 13 Quáter; 28, las fracciones II Bis, II Bis 1, XII, XIII y XIV; 59, las fracciones VII, VIII y IX; 59 Bis; 63, fracción V, un segundo párrafo; 64, la fracción IV; 69, los párrafos
+**cuarto.-** y quinto; 73, el párrafo tercero; 77, los párrafos tercero y cuarto; la Sección II Bis al Capítulo Único del Título I del Libro Tercero, el cual comprende los artículos 77 Bis y 77 Bis 1; 90, fracción V, el párrafo
+**cuarto.-** , fracción VI, el párrafo segundo y el párrafo quinto; 93 Bis; 94, los párrafos séptimo, octavo,
+**noveno.-** y décimo; 100, los párrafos segundo, tercero, cuarto y quinto; 102, el párrafo segundo, y se recorren en su orden los subsecuentes; 103, los párrafos cuarto, quinto, sexto, séptimo y octavo; un Capítulo VI del Título IV del Libro Tercero con el artículo 110 Bis; 117, el párrafo cuarto; 119, el párrafo
+**tercero.-** ; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las fracciones VIII, los párrafos segundo y tercero y XII Bis, XVI y XVII; 130, el párrafo segundo; 132, el párrafo segundo; y el Libro Cuarto, con el Título Único, el cual comprende los Capítulos I con sus artículos 140, 141 y II con sus artículos 142, 143, 144 y 145 y, se derogan la fracción VII al artículo 3; 5; párrafo segundo al artículo 6; las fracciones XII, XIV, XV y XXII al artículo 12; un párrafo segundo al artículo 13; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero, incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo 59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos
+**segundo.-** , tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica, para quedar como sigue: ……..
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, conforme a los siguientes párrafos.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, conforme a los siguientes párrafos.
 Las reformas a los párrafos Décimo Quinto a Vigésimo del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
-**Segundo.** En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo
-**Tercero.** Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en sus funciones conforme al marco jurídico previo a la entrada en vigor del presente Decreto.
+**Segundo.-** En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo
+**Tercero.-** Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en sus funciones conforme al marco jurídico previo a la entrada en vigor del presente Decreto.
 Los procedimientos iniciados por la Comisión Federal de Competencia Económica y por el Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada, con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán su trámite conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el Estatuto Orgánico que al efecto se emita conforme al artículo Noveno Transitorio.
-**Tercero.** El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el Pleno de la Comisión Nacional Antimonopolio deberá realizarse en términos del artículo 13 Bis de la Ley Federal de Competencia Económica contenida en este Decreto.
+**Tercero.-** El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el Pleno de la Comisión Nacional Antimonopolio deberá realizarse en términos del artículo 13 Bis de la Ley Federal de Competencia Económica contenida en este Decreto.
 Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la Comisión Nacional Antimonopolio, las primeras Personas Comisionadas concluirán su encargo el mismo día y mes en que hayan entrado en funciones de los años 2028, 2029, 2030, 2031 y 2032, respectivamente.
 La persona titular del Ejecutivo Federal, al someter los nombramientos a la Cámara de Senadores, señalará los periodos respectivos.
 Una vez designadas las primeras personas integrantes del Pleno de la Comisión Nacional Antimonopolio, la persona titular del Ejecutivo Federal designará a la primera Persona Comisionada Presidenta de la Comisión Nacional Antimonopolio en un plazo no mayor a diez días naturales.
 El Pleno de la Comisión Nacional Antimonopolio se entenderá integrado una vez que se encuentren nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya designado a quien fungirá como Persona Comisionada Presidenta.
 El procedimiento previsto en este artículo Tercero Transitorio deberá iniciarse al momento en que entre en vigor el presente Decreto.
-**Cuarto.** A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los procedimientos de investigación sustanciados por la Autoridad Investigadora de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones de conformidad con los artículos 66 a 79, 94, fracciones I a III, y 96, fracciones I a V, de la Ley Federal de Competencia Económica vigente previo a la entrada en vigor del presente Decreto.
+**Cuarto.-** A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los procedimientos de investigación sustanciados por la Autoridad Investigadora de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones de conformidad con los artículos 66 a 79, 94, fracciones I a III, y 96, fracciones I a V, de la Ley Federal de Competencia Económica vigente previo a la entrada en vigor del presente Decreto.
 En un plazo no mayor a diez días naturales a partir de que entre en vigor el presente Decreto, las Autoridades Investigadoras de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones deberán emitir un acuerdo donde identifiquen los expedientes cuya tramitación se suspende, mismo que deberá ser publicado en el Diario Oficial de la Federación.
 Dichos procedimientos se reanudarán al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
-**Quinto.** A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia Económica, la Secretaría de Economía y demás dependencias de la Administración Pública Federal iniciarán los trámites administrativos correspondientes para que la Comisión Nacional Antimonopolio se encuentre plenamente funcional una vez que se integre su Pleno.
-**Sexto.** A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+**Quinto.-** A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia Económica, la Secretaría de Economía y demás dependencias de la Administración Pública Federal iniciarán los trámites administrativos correspondientes para que la Comisión Nacional Antimonopolio se encuentre plenamente funcional una vez que se integre su Pleno.
+**Sexto.-** A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, cualquier referencia en la normativa federal o local a la Comisión Federal de Competencia Económica se entenderá como a la Comisión Nacional Antimonopolio.
-**Séptimo.** Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido con anterioridad al día siguiente a la integración del Pleno de la Comisión Nacional Antimonopolio, así como cualquier acto o autorización emitida por el Pleno de la Comisión Federal de Competencia Económica, continuarán surtiendo todos sus efectos legales.
+**Séptimo.-** Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido con anterioridad al día siguiente a la integración del Pleno de la Comisión Nacional Antimonopolio, así como cualquier acto o autorización emitida por el Pleno de la Comisión Federal de Competencia Económica, continuarán surtiendo todos sus efectos legales.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades de la Comisión Federal de Competencia Económica respecto de cualquier procedimiento en curso que ésta tramite o del que sea parte, sea de naturaleza civil, penal, administrativa o de otro tipo.
 En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes celebrados por la Comisión Federal de Competencia Económica, se entenderán como vigentes y obligarán en sus términos a la Comisión Nacional Antimonopolio, sin perjuicio del derecho de las partes a ratificar, modificar o rescindir posteriormente los que, en su caso, correspondan.
-**Octavo.** Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán surtiendo todos sus efectos legales, incluyendo, más no limitado a, las medidas y obligaciones asimétricas impuestas a los Agentes Económicos Preponderantes.
+**Octavo.-** Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán surtiendo todos sus efectos legales, incluyendo, más no limitado a, las medidas y obligaciones asimétricas impuestas a los Agentes Económicos Preponderantes.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades del Instituto Federal de Telecomunicaciones, únicamente respecto de cualquier procedimiento en curso en materia de competencia económica, de preponderancia y de participación cruzada.
-**Noveno.** El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley Federal de Competencia Económica se deberán emitir en un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio.
-**Décimo.** En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se expiden las disposiciones reglamentarias de esta Ley, se continuará aplicando el Estatuto Orgánico, las Disposiciones Regulatorias, Criterios, Lineamientos y demás normativa emitida por la Comisión Federal de Competencia Económica, en lo que no se oponga al presente Decreto.
-**Décimo Primero.** Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán aplicables respecto de actos emitidos por la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada.
-**Décimo Segundo.** Una vez que sea designada la Persona Comisionada Presidente deberá realizar el registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados, de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa aplicable.
-**Décimo Tercero.** El titular de la Autoridad Investigadora de la Comisión Federal de Competencia Económica continuará en su encargo como titular de la Autoridad Investigadora de la Comisión Nacional Antimonopolio.
+**Noveno.-** El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley Federal de Competencia Económica se deberán emitir en un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio.
+**Décimo.-** En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se expiden las disposiciones reglamentarias de esta Ley, se continuará aplicando el Estatuto Orgánico, las Disposiciones Regulatorias, Criterios, Lineamientos y demás normativa emitida por la Comisión Federal de Competencia Económica, en lo que no se oponga al presente Decreto.
+**Décimo Primero.-** Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán aplicables respecto de actos emitidos por la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada.
+**Décimo Segundo.-** Una vez que sea designada la Persona Comisionada Presidente deberá realizar el registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados, de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa aplicable.
+**Décimo Tercero.-** El titular de la Autoridad Investigadora de la Comisión Federal de Competencia Económica continuará en su encargo como titular de la Autoridad Investigadora de la Comisión Nacional Antimonopolio.
 Para efectos de lo anterior, se tomará en consideración el plazo que haya durado en su encargo en la Comisión Federal de Competencia Económica para determinar el plazo restante de su encargo de conformidad con el artículo 31 de la Ley Federal de Competencia Económica.
-**Décimo Cuarto.** La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente para cumplir cabalmente con su mandato y desempeñar sus atribuciones durante el resto del ejercicio fiscal de 2025, conforme a lo dispuesto en el artículo Décimo Primero Transitorio del Presupuesto de Egresos de la Federación para el ejercicio Fiscal de 2025.
+**Décimo Cuarto.-** La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente para cumplir cabalmente con su mandato y desempeñar sus atribuciones durante el resto del ejercicio fiscal de 2025, conforme a lo dispuesto en el artículo Décimo Primero Transitorio del Presupuesto de Egresos de la Federación para el ejercicio Fiscal de 2025.
 La Cámara de Diputados o, en su caso, la Secretaría de Hacienda y Crédito Público, asignará el presupuesto necesario para garantizar el cumplimiento de las atribuciones de la Comisión Nacional Antimonopolio durante el ejercicio fiscal de 2026 y subsecuentes, a partir de la propuesta que presente la Comisión Nacional Antimonopolio, en los plazos y términos previstos en la legislación aplicable.
-**Décimo Quinto.** Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier sistema electrónico, de la Comisión Federal de Competencia Económica y aquellos del Instituto Federal de Telecomunicaciones, exclusivamente relacionados con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada, pasarán a la Comisión Nacional Antimonopolio y continuarán su funcionamiento y obligatoriedad en los términos de las disposiciones que los regulan hasta en tanto se emita la normativa que refiere el artículo Noveno Transitorio del presente Decreto.
+**Décimo Quinto.-** Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier sistema electrónico, de la Comisión Federal de Competencia Económica y aquellos del Instituto Federal de Telecomunicaciones, exclusivamente relacionados con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada, pasarán a la Comisión Nacional Antimonopolio y continuarán su funcionamiento y obligatoriedad en los términos de las disposiciones que los regulan hasta en tanto se emita la normativa que refiere el artículo Noveno Transitorio del presente Decreto.
 La Comisión Nacional Antimonopolio garantizará la confidencialidad, resguardo e integridad de la información confidencial que reciba, misma que deberá ser resguardada de manera independiente y a la que no tendrá acceso ningún otro órgano, entidad o dependencia.
-**Décimo Sexto.** La Comisión Federal de Competencia Económica dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en sus fideicomisos, para el pago de indemnizaciones que incluyan sueldos y salarios de conformidad con la normativa aplicable para el personal que no se transfiera a la Comisión Nacional Antimonopolio, siempre y cuando dichos recursos no se encuentren comprometidos para el cumplimiento de fines de los fideicomisos.
+**Décimo Sexto.-** La Comisión Federal de Competencia Económica dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en sus fideicomisos, para el pago de indemnizaciones que incluyan sueldos y salarios de conformidad con la normativa aplicable para el personal que no se transfiera a la Comisión Nacional Antimonopolio, siempre y cuando dichos recursos no se encuentren comprometidos para el cumplimiento de fines de los fideicomisos.
 La Comisión Nacional Antimonopolio integrará únicamente la estructura del Instituto Federal de Telecomunicaciones relacionada con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada.
 Las personas servidoras públicas de la Comisión Federal de Competencia Económica que dejen de prestar sus servicios en esta y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas habilitados para tales efectos o en los medios que se determinen y conforme a la normativa aplicable a la Administración Pública Federal. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en la Comisión Federal de Competencia Económica que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
 Las personas que dentro de los diez días naturales previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas de la Comisión Federal de Competencia Económica, incluyendo a los Comisionados, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la autoridad competente designe o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Federal, en los sistemas habilitados para tales efectos, en el entendido de que la entrega que se realice, no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
-**Décimo Séptimo.** A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la Comisión Federal de Competencia Económica deberá enterar la totalidad de los recursos presupuestales y financieros disponibles con los que cuente, a la Tesorería de la Federación, incluyendo los derivados de la extinción de sus fideicomisos, mandatos o contratos análogos, así como los productos y aprovechamientos derivados de los mismos, de conformidad con las disposiciones jurídicas aplicables.
+**Décimo Séptimo.-** A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la Comisión Federal de Competencia Económica deberá enterar la totalidad de los recursos presupuestales y financieros disponibles con los que cuente, a la Tesorería de la Federación, incluyendo los derivados de la extinción de sus fideicomisos, mandatos o contratos análogos, así como los productos y aprovechamientos derivados de los mismos, de conformidad con las disposiciones jurídicas aplicables.
 Asimismo, la Comisión Federal de Competencia Económica deberá entregar a la Comisión Nacional Antimonopolio la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes, de conformidad con las disposiciones jurídicas aplicables.
 La Comisión Federal de Competencia Económica llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos. Para estos efectos, determinarán las obligaciones de pago que deberán liquidarse con cargo al patrimonio de dichos fideicomisos, previo a su extinción, así como los recursos remanentes que deberán reintegrarse a la Tesorería de la Federación por la institución que actúe como fiduciaria.
 Los recursos federales a que se refiere el párrafo primero de este artículo Transitorio deberán ser concentrados por concepto de aprovechamientos en la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público a cubrir las asignaciones presupuestales necesarias para el funcionamiento de la Comisión Nacional Antimonopolio.
-**Décimo Octavo.** El Órgano Interno de Control de la Comisión Federal de Competencia Económica queda extinto a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio. Los asuntos y procedimientos que estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control en la Secretaría de Economía y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-**Décimo Noveno.** A partir de la entrada en vigor del presente Decreto, las personas titulares de las Unidades de Administración y Finanzas o sus equivalentes de la Comisión Federal de Competencia Económica, el Instituto Federal de Telecomunicaciones y la Secretaría de Economía, en el ámbito de sus respectivas competencias, deberán coordinar el proceso de transferencia de los recursos humanos, materiales, financieros, presupuestales, sistemas tecnológicos e informáticos en materia administrativa correspondientes. Lo anterior, sin perjuicio de la coordinación que pudiera existir de manera simultánea entre las unidades administrativas con funciones sustantivas concerniente a los sistemas informáticos, bases de datos, expedientes, entre otros.
-**Vigésimo.** En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre su Pleno, previa autorización de la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Antimonopolio deberá fijar las tarifas o determinar las contraprestaciones derivadas de aprovechamientos por los bienes y servicios que preste, mediante Acuerdo que emita el Pleno.
+**Décimo Octavo.-** El Órgano Interno de Control de la Comisión Federal de Competencia Económica queda extinto a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio. Los asuntos y procedimientos que estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control en la Secretaría de Economía y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+**Décimo Noveno.-** A partir de la entrada en vigor del presente Decreto, las personas titulares de las Unidades de Administración y Finanzas o sus equivalentes de la Comisión Federal de Competencia Económica, el Instituto Federal de Telecomunicaciones y la Secretaría de Economía, en el ámbito de sus respectivas competencias, deberán coordinar el proceso de transferencia de los recursos humanos, materiales, financieros, presupuestales, sistemas tecnológicos e informáticos en materia administrativa correspondientes. Lo anterior, sin perjuicio de la coordinación que pudiera existir de manera simultánea entre las unidades administrativas con funciones sustantivas concerniente a los sistemas informáticos, bases de datos, expedientes, entre otros.
+**Vigésimo.-** En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre su Pleno, previa autorización de la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Antimonopolio deberá fijar las tarifas o determinar las contraprestaciones derivadas de aprovechamientos por los bienes y servicios que preste, mediante Acuerdo que emita el Pleno.
 Los ingresos propios que sean captados por la Comisión Nacional Antimonopolio por concepto de derechos, así como aquellos derivados de aprovechamientos por la fijación y ajuste de tarifas por los bienes y servicios que preste, deberán contribuir a incrementar su capacidad económica y financiar su operación, reduciendo gradualmente la necesidad de recursos presupuestales.
 Para fines de lo anterior, la Comisión Nacional Antimonopolio deberá considerar la cantidad de ingresos propios que recaude durante los ejercicios fiscales correspondientes y solicitar, en su caso, durante el proceso de integración del Presupuesto de Egresos de la Federación de cada año, el importe complementario que resulte necesario para el cabal cumplimiento de su mandato.
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
@@ -2030,12 +2218,12 @@ Segundo.- Se reforman los artículos 12, fracción XXVIII; 121 y 132 de la Ley F
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

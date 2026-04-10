@@ -15,6 +15,7 @@ Se expide la Ley Nacional del Registro de Detenciones
 
 ## Capítulo I — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general en todo el territorio nacional. Tiene por objeto regular la integración y funcionamiento del Registro Nacional de Detenciones, estableciendo los procedimientos que garanticen el control y seguimiento sobre la forma en que se efectuó la detención de personas por la autoridad.
 
@@ -51,6 +52,7 @@ Las bases de datos contenidas en el Registro podrán ser utilizadas por las inst
 . El número de registro de la detención que otorgue el Sistema de Consulta tendrá la finalidad de establecer el seguimiento a la persona detenida, hasta que es puesta en libertad por parte de la autoridad competente en cualquiera de las etapas del proceso penal o administrativo.
 
 ## Capítulo II
+
 Principios que rigen el Registro Nacional de Detenciones
 
 ### Artículo 7
@@ -60,6 +62,7 @@ Principios que rigen el Registro Nacional de Detenciones
 . Las disposiciones de esta Ley se interpretarán de modo que no restrinjan ni menoscaben los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los Tratados Internacionales en la materia de los que el Estado mexicano sea parte.
 
 ## Capítulo III
+
 Tratamiento de los Datos Personales de la Persona Detenida
 
 ### Artículo 9
@@ -69,6 +72,7 @@ Tratamiento de los Datos Personales de la Persona Detenida
 . El sujeto obligado que intervenga en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberá adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión. Se presume que son ciertos los datos personales cuando estos son proporcionados directamente por la persona detenida hasta en tanto se acredite lo contrario.
 
 ## Capítulo IV
+
 Administración y Operación del Registro
 
 ### Artículo 11
@@ -96,6 +100,7 @@ IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 . El Centro Nacional de Información emitirá los lineamientos para el adecuado funcionamiento, operación y conservación del Registro, para su uso homologado entre las instituciones de seguridad pública; asimismo, podrá utilizar la información para realizar estudios especializados y para la integración de la estadística nacional en materia de seguridad pública. Los lineamientos deberán contener procedimientos para diferenciar el registro de detenciones entre hechos delictivos y faltas administrativas, así como para la administración, resguardo e implementación del Sistema de Consulta.
 
 ## Capítulo V
+
 Niveles de Acceso a la Información del Registro
 
 ### Artículo 13
@@ -122,6 +127,7 @@ V. Enlace Estatal o Institucional: perfil orientado al personal que realiza las 
 La plataforma del Registro emitirá alertas y bloqueos respectivos cuando los sujetos obligados manipulen de manera inusual los datos del registro o se violenten los privilegios de acceso.
 
 ## Capítulo VI
+
 Procedimiento para el Suministro, Intercambio y Actualización de Información del Registro
 
 ### Artículo 17
@@ -216,6 +222,7 @@ IX. Los demás datos que determine el Centro Nacional de Información conforme a
 . Las instituciones de seguridad pública están obligadas a actualizar el Registro con la información de las personas detenidas que ingresen al sistema penitenciario, con base en el número de registro de la detención de origen. La actualización deberá vincularse con la base de datos a cargo de las autoridades penitenciarias que contengan la información de las personas privadas de su libertad.
 
 ## Capítulo VII
+
 Consulta de Información
 
 ### Artículo 26
@@ -236,6 +243,7 @@ La plataforma tecnológica del Sistema de Consulta también emitirá certificado
 . La persona privada de la libertad y su representante legal, tendrán acceso a la información contenida en el Registro, de conformidad con los lineamientos que al efecto emita la Secretaría.
 
 ## Capítulo VIII
+
 Sistema de Consulta del Registro Nacional de Detenciones
 
 ### Artículo 31
@@ -274,20 +282,19 @@ El Registro no genera antecedentes penales.
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública deberá emitir las disposiciones jurídicas a que se refiere el artículo 13 de esta Ley, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto.
-**Tercero.** La Secretaría deberá integrar el Registro Nacional de Detenciones e instalar el Sistema de Consulta, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. Los datos y demás elementos del Registro Administrativo de Detenciones pasarán a formar parte del Registro Nacional de Detenciones.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública deberá emitir las disposiciones jurídicas a que se refiere el artículo 13 de esta Ley, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+**Tercero.-** La Secretaría deberá integrar el Registro Nacional de Detenciones e instalar el Sistema de Consulta, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. Los datos y demás elementos del Registro Administrativo de Detenciones pasarán a formar parte del Registro Nacional de Detenciones.
 En tanto no esté en operación el Registro Nacional de Detenciones, seguirá en funcionamiento el Registro Administrativo a cargo del Sistema Nacional de Seguridad Pública.
-**Cuarto.** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de la Secretaría y sus órganos administrativos desconcentrados vinculados a la materia de la presente Ley.
-**Quinto.** De conformidad con el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, la Fuerza Armada permanente que realice tareas de seguridad pública estará sujeta a lo dispuesto en la presente Ley; en este caso, no será aplicable lo dispuesto en el artículo 19.
-**Sexto.** En el Sistema Nacional de Seguridad Pública se deberán establecer programas para la debida instrumentación del Registro, en los cuales se deberá considerar la implementación gradual de acuerdo a lo siguiente:
-
+**Cuarto.-** Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de la Secretaría y sus órganos administrativos desconcentrados vinculados a la materia de la presente Ley.
+**Quinto.-** De conformidad con el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, la Fuerza Armada permanente que realice tareas de seguridad pública estará sujeta a lo dispuesto en la presente Ley; en este caso, no será aplicable lo dispuesto en el artículo 19.
+**Sexto.-** En el Sistema Nacional de Seguridad Pública se deberán establecer programas para la debida instrumentación del Registro, en los cuales se deberá considerar la implementación gradual de acuerdo a lo siguiente:
 a) Para el caso de la información referente a los registros de detenciones en materia de delitos federales, en un plazo no mayor a 180 días, contados a partir de la entrada en vigor del presente Decreto.
 
 b) Para el caso de la información referente a los registros de detenciones en materia de delitos del fuero común, a más tardar al 1 de abril del año 2020.
 
 c) Para el caso de la información referente a los registros de detenciones de carácter administrativo, a más tardar al 1 de abril del año 2021.
 La Federación, las entidades federativas y los municipios, dentro de los plazos señalados en este artículo, harán las previsiones necesarias para lograr la compatibilidad de los servicios de telecomunicaciones para un eficaz funcionamiento del Registro.
-**Séptimo.** Las instituciones de seguridad pública procurarán contar con dispositivos de geolocalización para registrar la ruta de traslado de las personas detenidas en medida de sus posibilidades y su disponibilidad presupuestaria.
-**Octavo.** El Congreso de la Unión contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para realizar las reformas necesarias a la Ley de Migración con el objetivo de crear un registro de personas migrantes detenidas que cuente con las mismas garantías procesales, de protección y de seguridad que las previstas en la presente Ley.
+**Séptimo.-** Las instituciones de seguridad pública procurarán contar con dispositivos de geolocalización para registrar la ruta de traslado de las personas detenidas en medida de sus posibilidades y su disponibilidad presupuestaria.
+**Octavo.-** El Congreso de la Unión contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para realizar las reformas necesarias a la Ley de Migración con el objetivo de crear un registro de personas migrantes detenidas que cuente con las mismas garantías procesales, de protección y de seguridad que las previstas en la presente Ley.
 Ciudad de México, a 23 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

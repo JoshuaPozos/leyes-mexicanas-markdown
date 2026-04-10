@@ -14,9 +14,11 @@ SE EXPIDE LA  .
 Se expide la Ley de Fomento a la Industria Vitivinícola.
 
 ## Título I
+
 Objeto y Definiciones de la Ley
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 1
 . La presente Ley es de orden público e interés general y tiene por objeto impulsar, fomentar, promover y difundir las actividades relacionadas al Sector, en concordancia con la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, la Ley Federal sobre Metrología y Normalización y la Ley de Desarrollo Rural Sustentable, y demás ordenamientos legales aplicables, para impulsar una mayor productividad y competitividad de la actividad. Además de establecer las bases para el impulso y desarrollo de la industria vitivinícola mexicana.
@@ -94,7 +96,9 @@ III. La tecnificación de los procesos de producción, así como el empleo de nu
 
 ## Título II — De la Comisión
 
+
 ## Capítulo I — De la Integración de la Comisión
+
 
 ### Artículo 9
 . Se crea la Comisión Intersecretarial de Fomento a la Industria Vitivinícola, como órgano de consulta y coordinación de la Administración Pública Federal, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
@@ -141,6 +145,7 @@ IX. Las demás que establezcan las disposiciones legales aplicables.
 
 ## Capítulo II — De los Órganos de la Comisión
 
+
 ### Artículo 16
 . El Presidente y Secretario Ejecutivo de la Comisión tendrán las siguientes facultades:
 
@@ -170,6 +175,7 @@ Asimismo, las entidades federativas que así lo requieran podrán crear subcomis
 . Los funcionarios de las secretarías de estado, de los gobiernos de las entidades federativas, Diputados Federales y Senadores de la República, así como los miembros o representantes de las diferentes cámaras empresariales, y los presidentes de los Comités Nacional y Estatales de los Sistemas Producto Vid, las asociaciones, y los consejos constituidos podrán ser invitados con voz pero sin voto a las sesiones de la Comisión con objeto de impulsar, difundir, promover y distribuir el Vino Mexicano.
 
 ## Capítulo III
+
 De la Coordinación entre la Comisión y las Dependencias de la Administración Pública Federal
 
 ### Artículo 20
@@ -239,9 +245,11 @@ II. Promover las energías renovables utilizadas en la vitivinicultura, en apego
 . El Ejecutivo Federal y las entidades federativas, a través de sus dependencias y entidades, en el ámbito de sus respectivas competencias, podrán celebrar convenios de colaboración entre los sectores público, social, académico y privado para impulsar la investigación científica y tecnológica, así como la capacitación en materia de Viticultura, vinicultura, vitivinicultura, Enología y las demás ramas derivadas del Sector.
 
 ## Título III
+
 De la Normatividad, la Certificación, las Energías Renovables en la Vinicultura y los Mecanismos de Cooperación Nacional e Internacional
 
 ## Capítulo I — De la Normatividad
+
 
 ### Artículo 30
 . Los productores y envasadores de Vino deben cumplir con los sistemas de control de calidad, especificaciones fisicoquímicas, envase, embalaje e información comercial establecidas en las disposiciones sanitarias y normas oficiales mexicanas del Sector que le sean aplicables.
@@ -251,7 +259,9 @@ De la Normatividad, la Certificación, las Energías Renovables en la Vinicultur
 
 ## Título IV — De la Promoción del Vino Mexicano
 
+
 ## Capítulo I — Del Fomento, Difusión y Distribución
+
 
 ### Artículo 32
 . Corresponden a la Comisión la promoción y difusión de los productos vitivinícolas, la cual podrá:
@@ -283,7 +293,7 @@ V. Informar y difundir la calidad, los beneficios, propiedades, cualidades y la 
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal expedirá dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, el Reglamento. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas de la Administración Pública Federal, para el ejercicio fiscal que corresponda a la entrada en vigor de esta Ley y los subsecuentes que correspondan.
+**Primero.-** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal expedirá dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, el Reglamento. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas de la Administración Pública Federal, para el ejercicio fiscal que corresponda a la entrada en vigor de esta Ley y los subsecuentes que correspondan.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia expido el presente Decreto en Villahermosa, Tabasco, a veintidós de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.

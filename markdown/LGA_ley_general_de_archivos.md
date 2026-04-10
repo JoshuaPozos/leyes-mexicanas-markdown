@@ -15,7 +15,9 @@ Se expide la Ley General de Archivos LIBRO PRIMERO DE LA ORGANIZACIÓN Y ADMINIS
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general en todo el territorio nacional, y tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad de la federación, las entidades federativas y los municipios.
@@ -187,7 +189,9 @@ V. Accesibilidad: Garantizar el acceso a la consulta de los archivos de acuerdo 
 
 ## TÍTULO SEGUNDO — DE LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS
 
+
 ## CAPÍTULO I — DE LOS DOCUMENTOS PÚBLICOS
+
 
 ### Artículo 6
 . Toda la información contenida en los documentos de archivo producidos, obtenidos, adquiridos, transformados o en posesión de los sujetos obligados, será pública y accesible a cualquier persona en los términos y condiciones que establece la legislación en materia de transparencia y acceso a la información pública y de protección de datos personales.
@@ -203,6 +207,7 @@ El Estado mexicano deberá garantizar la organización, conservación y preserva
 . Los documentos públicos de los sujetos obligados tendrán un doble carácter: son bienes nacionales con la categoría de bienes muebles, de acuerdo con la Ley General de Bienes Nacionales; y son Monumentos históricos con la categoría de bien patrimonial documental en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y de las demás disposiciones locales aplicables.
 
 ## CAPÍTULO II — DE LAS OBLIGACIONES
+
 
 ### Artículo 10
 . Cada sujeto obligado es responsable de organizar y conservar sus archivos; de la operación de su sistema institucional; del cumplimiento de lo dispuesto por esta Ley; las correspondientes de las entidades federativas y las determinaciones que emita el Consejo Nacional o el Consejo Local, según corresponda; y deberán garantizar que no se sustraigan, dañen o eliminen documentos de archivo y la información a su cargo.
@@ -263,6 +268,7 @@ Artículo reformado DOF 19-01-2023
 
 ## CAPÍTULO III — DE LOS PROCESOS DE ENTREGA Y RECEPCIÓN DE ARCHIVOS
 
+
 ### Artículo 17
 . Los servidores públicos que deban elaborar un acta de entrega-recepción al separarse de su empleo, cargo o comisión, en los términos de las disposiciones jurídicas aplicables, deberán entregar los archivos que se encuentren bajo su custodia, así como los instrumentos de control y consulta archivísticos actualizados, señalando los documentos con posible valor histórico de acuerdo con el catálogo de disposición documental.
 
@@ -275,6 +281,7 @@ Las leyes locales y los instrumentos jurídicos en que se sustenten los procesos
 Tratándose de la liquidación o extinción de un sujeto obligado de los gobiernos estatales, será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará, a los respectivos archivos generales o entes especializados en materia de archivos a nivel local.
 
 ## CAPÍTULO IV — DEL SISTEMA INSTITUCIONAL DE ARCHIVOS
+
 
 ### Artículo 20
 . El Sistema Institucional es el conjunto de registros, procesos, procedimientos, criterios, estructuras, herramientas y funciones que desarrolla cada sujeto obligado y sustenta la actividad archivística, de acuerdo con los procesos de gestión documental.
@@ -304,6 +311,7 @@ Los sujetos obligados que cuenten con oficinas regionales podrán habilitar unid
 
 ## CAPÍTULO V — DE LA PLANEACIÓN EN MATERIA ARCHIVÍSTICA
 
+
 ### Artículo 23
 . Los sujetos obligados que cuenten con un sistema institucional de archivos, deberán elaborar un programa anual y publicarlo en su portal electrónico en los primeros treinta días naturales del ejercicio fiscal correspondiente.
 
@@ -317,6 +325,7 @@ Los sujetos obligados que cuenten con oficinas regionales podrán habilitar unid
 . Los sujetos obligados deberán elaborar un informe anual detallando el cumplimiento del programa anual y publicarlo en su portal electrónico, a más tardar el último día del mes de enero del siguiente año de la ejecución de dicho programa.
 
 ## CAPÍTULO VI — DEL ÁREA COORDINADORA DE ARCHIVOS
+
 
 ### Artículo 27
 . El área coordinadora de archivos promoverá que las áreas operativas lleven a cabo las acciones de gestión documental y administración de los archivos, de manera conjunta con las unidades administrativas o áreas competentes de cada sujeto obligado.
@@ -348,6 +357,7 @@ X. Autorizar la transferencia de los archivos cuando un área o unidad del sujet
 XI. Las que establezcan las demás disposiciones jurídicas aplicables.
 
 ## CAPÍTULO VII — DE LAS ÁREAS OPERATIVAS
+
 
 ### Artículo 29
 . Las áreas de correspondencia son responsables de la recepción, registro, seguimiento y despacho de la documentación para la integración de los expedientes de los archivos de trámite.
@@ -398,6 +408,7 @@ XI. Las que establezca el Consejo Nacional y las disposiciones jurídicas aplica
 Los responsables de los archivos de concentración deben contar con los conocimientos, habilidades, competencias y experiencia acordes a su responsabilidad; de no ser así, los titulares de los sujetos obligados tienen la obligación de establecer las condiciones que permitan la capacitación de los responsables para el buen funcionamiento de los archivos.
 
 ## CAPÍTULO VIII — DE LOS ARCHIVOS HISTÓRICOS Y SUS DOCUMENTOS
+
 
 ### Artículo 32
 . Los sujetos obligados podrán contar con un archivo histórico que tendrá las siguientes funciones:
@@ -465,6 +476,7 @@ VI. Divulgar instrumentos de consulta, boletines informativos y cualquier otro t
 
 ## CAPÍTULO IX — DE LOS DOCUMENTOS DE ARCHIVO ELECTRÓNICOS
 
+
 ### Artículo 41
 . Además de los procesos de gestión previstos en el artículo 12 de esta Ley, se deberá contemplar para la gestión documental electrónica la incorporación, asignación de acceso, seguridad, almacenamiento, uso y trazabilidad.
 
@@ -508,7 +520,9 @@ VI. Permitir adecuaciones y actualizaciones a los sistemas a que se refiere este
 
 ## TÍTULO TERCERO — DE LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS
 
+
 ## CAPÍTULO I — DE LA VALORACIÓN
+
 
 ### Artículo 50
 . En cada sujeto obligado deberá existir un grupo interdisciplinario, que es un equipo de profesionales de la misma institución, integrado por los titulares de:
@@ -607,6 +621,7 @@ Los sujetos obligados distintos del Poder Ejecutivo Federal transferirán a los 
 
 ## CAPÍTULO II — DE LA CONSERVACIÓN
 
+
 ### Artículo 60
 . Los sujetos obligados deberán adoptar las medidas y procedimientos que garanticen la conservación de la información, independientemente del soporte documental en que se encuentre, observando al menos lo siguiente:
 
@@ -643,7 +658,9 @@ IX. Reflejar en el sistema, de manera coherente y auditable, la política de ges
 
 ## TÍTULO CUARTO — DEL SISTEMA NACIONAL DE ARCHIVOS
 
+
 ## CAPÍTULO I — DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
+
 
 ### Artículo 64
 . El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de la organización y administración homogénea de los archivos de los sujetos obligados.
@@ -651,6 +668,7 @@ Las instancias del Sistema Nacional observarán lo dispuesto en las resoluciones
 El Sistema Nacional y los sistemas locales se coordinarán en un marco de respeto de las atribuciones de la federación, las entidades federativas, los municipios, así como las alcaldías de la Ciudad de México.
 
 ## CAPÍTULO II — DEL CONSEJO NACIONAL DE ARCHIVOS
+
 
 ### Artículo 65
 . El Consejo Nacional es el órgano de coordinación del Sistema Nacional, que estará integrado por:
@@ -742,6 +760,7 @@ Los miembros de las comisiones no recibirán emolumento, ni remuneración alguna
 
 ## CAPÍTULO III — DE LOS SISTEMAS LOCALES DE ARCHIVOS
 
+
 ### Artículo 70
 . Cada entidad federativa contará con un Sistema Local, el cual será el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de la organización y conservación homogénea de los archivos de los sujetos obligados dentro de su jurisdicción.
 
@@ -776,6 +795,7 @@ VII. Fomentar la generación, uso y distribución de datos en formatos abiertos,
 VIII. Las demás establecidas en esta Ley.
 
 ## CAPÍTULO IV — DE LA COORDINACIÓN CON EL SISTEMA NACIONAL DE TRANSPARENCIA, ACCESO A
+
 LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES Y EL SISTEMA NACIONAL ANTICORRUPCIÓN
 
 ### Artículo 74
@@ -790,6 +810,7 @@ III. Promover acciones coordinadas de protección del patrimonio documental y de
 IV. Promover la digitalización de la información generada con motivo del ejercicio de las funciones y atribuciones de los sujetos obligados, que se encuentre previamente organizada, así como garantizar el cumplimiento de los lineamientos que para el efecto se emitan.
 
 ## CAPÍTULO V — DE LOS ARCHIVOS PRIVADOS
+
 
 ### Artículo 75
 . Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, y aquellos declarados como Monumentos históricos, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberán inscribirlos en el Registro Nacional, de conformidad con el Capítulo VI del presente Título.
@@ -807,6 +828,7 @@ La omisión en la notificación por parte del particular será causa de nulidad 
 
 ## CAPÍTULO VI — DEL REGISTRO NACIONAL DE ARCHIVOS
 
+
 ### Artículo 78
 . El Sistema Nacional contará con el Registro Nacional, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General.
 
@@ -822,6 +844,7 @@ La información del Registro Nacional será de acceso público y de consulta gra
 
 ## CAPÍTULO VII — DE LOS FONDOS DE APOYO ECONÓMICO PARA LOS ARCHIVOS
 
+
 ### Artículo 82
 . Cada entidad federativa podrá prever la creación y administración de un Fondo de Apoyo Económico para los archivos locales, cuya finalidad será promover la capacitación, equipamiento y sistematización de los archivos en poder de los sujetos obligados en sus respectivos ámbitos territoriales de competencia.
 
@@ -830,7 +853,9 @@ La información del Registro Nacional será de acceso público y de consulta gra
 
 ## TÍTULO QUINTO — DEL PATRIMONIO DOCUMENTAL DE LA NACIÓN Y LA CULTURA ARCHIVÍSTICA
 
+
 ## CAPÍTULO I — DEL PATRIMONIO DOCUMENTAL DE LA NACIÓN
+
 
 ### Artículo 84
 . El patrimonio documental de la Nación es propiedad del Estado mexicano, de dominio e interés público y, por lo tanto, inalienable, imprescriptible, inembargable y no está sujeto a ningún gravamen o afectación de dominio, en términos de la Ley General de Bienes Nacionales y de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
@@ -850,6 +875,7 @@ Los organismos a los que la Constitución les otorga autonomía, en coordinació
 . Todos los documentos de archivo con valor histórico y cultural son bienes muebles y formarán parte del patrimonio documental de la Nación.
 
 ## CAPÍTULO II — DE LA PROTECCIÓN DEL PATRIMONIO DOCUMENTAL DE LA NACIÓN
+
 
 ### Artículo 89
 . Para los efectos de la protección del patrimonio documental de la Nación se deberá:
@@ -882,6 +908,7 @@ Para efectos de lo establecido en el párrafo anterior, deberá conformarse un C
 
 ## CAPÍTULO III — DEL PATRIMONIO DOCUMENTAL DE LA NACIÓN EN POSESIÓN DE PARTICULARES
 
+
 ### Artículo 95
 . Los particulares en posesión de documentos de archivo que constituyan patrimonio documental de la Nación, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme a los criterios que emita el Archivo General y el Consejo Nacional.
 
@@ -895,6 +922,7 @@ Para efectos de lo establecido en el párrafo anterior, deberá conformarse un C
 . Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General, así como los archivos generales o entes especializados en materia de archivos a nivel local, podrán efectuar visitas de verificación, en los términos establecidos en las disposiciones jurídicas aplicables.
 
 ## CAPÍTULO IV — DE LA CAPACITACIÓN Y CULTURA ARCHIVÍSTICA
+
 
 ### Artículo 99
 . Los sujetos obligados deberán promover la capacitación en las competencias laborales en la materia y la profesionalización de los responsables de las áreas de archivo.
@@ -922,7 +950,9 @@ LIBRO SEGUNDO DEL ARCHIVO GENERAL DE LA NACIÓN
 
 ## TÍTULO PRIMERO — DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
+
 ## CAPÍTULO I — DE LA ORGANIZACIÓN
+
 
 ### Artículo 104
 . El Archivo General es un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines; su domicilio legal es en la Ciudad de México.
@@ -1022,6 +1052,7 @@ El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano
 
 ## CAPÍTULO II — DEL ÓRGANO DE GOBIERNO
 
+
 ### Artículo 109
 . El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General que, además de lo previsto en la Ley Federal de las Entidades Paraestatales y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
 
@@ -1051,6 +1082,7 @@ Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de S
 El presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto. Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
 
 ## CAPÍTULO III — DEL DIRECTOR GENERAL
+
 
 ### Artículo 111
 . El Director General será nombrado por el Presidente de la República y deberá cubrir los siguientes requisitos:
@@ -1083,10 +1115,12 @@ V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicabl
 
 ## CAPÍTULO IV — DEL ÓRGANO DE VIGILANCIA
 
+
 ### Artículo 113
 . El Archivo General contará con un Comisario Público y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
 
 ## CAPÍTULO V — DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
+
 
 ### Artículo 114
 . El Archivo General contará con un Consejo Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
@@ -1095,7 +1129,9 @@ Los integrantes del Consejo Técnico no obtendrán remuneración, compensación 
 
 ## TÍTULO SEGUNDO — DEL PATRIMONIO DEL ARCHIVO GENERAL DE LA NACIÓN
 
+
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 115
 . El patrimonio del Archivo General estará integrado por:
@@ -1108,6 +1144,7 @@ III. Los demás ingresos, bienes, derechos y obligaciones que adquiera, se le as
 LIBRO TERCERO DE LAS INFRACCIONES ADMINISTRATIVAS Y DELITOS EN MATERIA DE ARCHIVOS
 
 ## TÍTULO PRIMERO — DE LAS INFRACCIONES ADMINISTRATIVAS
+
 
 ### Artículo 116
 . Se consideran infracciones a la presente Ley, las siguientes:
@@ -1151,6 +1188,7 @@ En caso de que existan hechos que pudieran ser constitutivos de algún delito, l
 
 ## TÍTULO SEGUNDO — DE LOS DELITOS CONTRA LOS ARCHIVOS
 
+
 ### Artículo 121
 . Será sancionado con pena de tres a diez años de prisión y multa de tres mil a cinco mil veces la unidad de medida y actualización a la persona que:
 
@@ -1175,29 +1213,29 @@ Será sancionado con pena de tres a diez años de prisión y multa de tres mil v
 
 ## Transitorios
 
-**Primero.** La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la entrada en vigor de la Ley se abroga la Ley Federal de Archivos y se derogan todas aquellas disposiciones que contravengan la presente Ley.
-**Tercero.** En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
-**Cuarto.** En un plazo de un año, a partir de la entrada en vigor de la presente Ley, las legislaturas de cada entidad federativa, deberán armonizar sus ordenamientos relacionados con la presente Ley.
+**Primero.-** La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor de la Ley se abroga la Ley Federal de Archivos y se derogan todas aquellas disposiciones que contravengan la presente Ley.
+**Tercero.-** En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+**Cuarto.-** En un plazo de un año, a partir de la entrada en vigor de la presente Ley, las legislaturas de cada entidad federativa, deberán armonizar sus ordenamientos relacionados con la presente Ley.
 El Consejo Nacional emitirá lineamientos, mecanismos y criterios para la conservación y resguardo de documentos de acuerdo a las características económicas, culturales y sociales de cada región en los municipios que no tengan condiciones presupuestarias ni técnicas y cuenten con una población menor a 70,000 habitantes.
-**Quinto.** Las Secretarías de Gobernación, de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General.
-**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+**Quinto.-** Las Secretarías de Gobernación, de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
-**Séptimo.** El Órgano de Gobierno del Archivo General, deberá expedir y publicar en el Diario Oficial de la Federación en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General.
-**Octavo.** El Archivo General de la Nación permanecerá sectorizado a la Secretaría de Gobernación hasta el 31 de diciembre de 2018.
+**Séptimo.-** El Órgano de Gobierno del Archivo General, deberá expedir y publicar en el Diario Oficial de la Federación en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General.
+**Octavo.-** El Archivo General de la Nación permanecerá sectorizado a la Secretaría de Gobernación hasta el 31 de diciembre de 2018.
 A partir del 1 de enero de 2019, se incluirá dentro de la relación de Entidades Paraestatales de la Administración Pública Paraestatal como no sectorizado.
-**Noveno.** La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento, hasta el 31 de diciembre de 2018.
-**Décimo.** Los Consejos Locales, deberán empezar a sesionar dentro de los seis meses posteriores a la adecuación de sus leyes locales.
-**Décimo Primero.** Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
-**Décimo Segundo.** El Consejo Nacional deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
-**Décimo Tercero.** El Archivo General pondrá en operación la plataforma del Registro Nacional de Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
-**Décimo Cuarto.** Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+**Noveno.-** La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento, hasta el 31 de diciembre de 2018.
+**Décimo.-** Los Consejos Locales, deberán empezar a sesionar dentro de los seis meses posteriores a la adecuación de sus leyes locales.
+**Décimo Primero.-** Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+**Décimo Segundo.-** El Consejo Nacional deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
+**Décimo Tercero.-** El Archivo General pondrá en operación la plataforma del Registro Nacional de Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+**Décimo Cuarto.-** Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
 Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
-**Décimo Quinto.** Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+**Décimo Quinto.-** Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
 Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
 Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
-**Décimo Sexto.** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-**Décimo Séptimo.** En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+**Décimo Sexto.-** Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+**Décimo Séptimo.-** En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de Archivos.
 Publicado en el Diario Oficial de la Federación el 5 de abril de 2022
@@ -1230,12 +1268,12 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Art�
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.-** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
-**artículo Sexto.** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.-** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+**artículo Sexto.-** Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

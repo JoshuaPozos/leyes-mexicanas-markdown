@@ -35,16 +35,20 @@ def load_catalog() -> dict[str, dict]:
 
 
 def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool,
-                canonical_dir: Path | None = None) -> bool:
+                canonical_dir: Path | None = None, fmt: str = "both",
+                validate: bool = False) -> bool:
     """Runs pdf_to_md.py on a single PDF. Returns True on success."""
     cmd = [
         sys.executable, str(PDF_TO_MD),
         str(pdf_path),
         "--output", str(output_path),
         "--title", title,
+        "--format", fmt,
     ]
     if canonical_dir:
         cmd.extend(["--canonical-dir", str(canonical_dir)])
+    if validate:
+        cmd.append("--validate")
     if verbose:
         cmd.append("--verbose")
 
@@ -71,6 +75,17 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--verbose", "-v", action="store_true",
         help="Muestra progreso detallado por página.",
+    )
+    parser.add_argument(
+        "--format", "-f",
+        choices=["json", "md", "both"],
+        default="both",
+        help="Formato de salida: json, md, o both (default: both).",
+    )
+    parser.add_argument(
+        "--validate",
+        action="store_true",
+        help="Valida cada JSON contra el schema.",
     )
     return parser.parse_args()
 
@@ -110,7 +125,8 @@ def main() -> None:
             continue
 
         print(f"  📄 {label} → {md_path.name}...", flush=True)
-        if convert_pdf(pdf_path, md_path, title, args.verbose, CANONICAL_DIR):
+        if convert_pdf(pdf_path, md_path, title, args.verbose, CANONICAL_DIR,
+                       fmt=args.format, validate=args.validate):
             print(f"     ✅ Listo")
             converted += 1
         else:

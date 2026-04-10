@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## TÍTULO PRIMERO — Disposiciones generales
 
+
 ## Capítulo Único
+
 ARTÍCULO 1. La presente ley tiene por objeto regular la organización y funcionamiento de los Institutos Nacionales de Salud, así como fomentar la investigación, enseñanza y prestación de servicios que se realice en ellos.
 ARTÍCULO 2. Para los efectos de esta ley se entenderá por:
 
@@ -40,9 +42,11 @@ ARTÍCULO 3. La Ley Federal de las Entidades Paraestatales y sus disposiciones r
 ARTÍCULO 4. En caso de duda sobre la interpretación de las disposiciones de esta ley, se estará a lo que resuelva, para efectos administrativos, el Ejecutivo Federal, por conducto de la Secretaría.
 
 ## TÍTULO SEGUNDO
+
 Organización de los Institutos
 
 ## Capítulo I
+
 Funciones ARTÍCULO 5. Los organismos descentralizados que serán considerados como Institutos Nacionales de Salud, son cada uno de los siguientes, para las áreas que se indican:
 
 I. Instituto Nacional de Cancerología, para la especialidad de las neoplasias;
@@ -52,7 +56,8 @@ II. Instituto Nacional de Cardiología Ignacio Chávez, para los padecimientos c
 III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para las disciplinas biomédicas vinculadas con la medicina interna de alta especialidad en adultos y las relacionadas con la nutrición;
 
 IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio;
-Fracción reformada DOF 22-06-2006 IV Bis. Instituto Nacional de Geriatría, para la formación de recursos humanos y la investigación del envejecimiento, de las enfermedades y cuidados del adulto mayor;
+Fracción reformada DOF 22-06-2006
+IV Bis. Instituto Nacional de Geriatría, para la formación de recursos humanos y la investigación del envejecimiento, de las enfermedades y cuidados del adulto mayor;
 Fracción adicionada DOF 30-05-2012
 
 V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
@@ -127,14 +132,16 @@ IV. Impulsar en forma decidida la vinculación con instituciones nacionales para
 V. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico, fármaco-genómica y terapia génica, y
 
 VI. Ser el Centro Nacional de Referencia para asuntos relacionados con estudios sobre el genoma humano y sus aplicaciones.
-Artículo adicionado DOF 20-07-2004 ARTÍCULO 7 Ter. El Instituto Nacional de Geriatría tendrá, además de las funciones señaladas en el artículo 6 de esta ley, las siguientes:
+Artículo adicionado DOF 20-07-2004
+ARTÍCULO 7 Ter. El Instituto Nacional de Geriatría tendrá, además de las funciones señaladas en el artículo 6 de esta ley, las siguientes:
 
 I. Apoyar a la Secretaría, en su carácter de dependencia coordinadora de sector, para la elaboración y ejecución de los programas anuales, sectoriales, especiales y regionales de salud en el ámbito de sus funciones, así como promover la concertación de acciones con los sectores social y privado en su ámbito de competencia;
 
 II. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico y tratamiento; y
 
 III. Ser el centro nacional de referencia para asuntos relacionados con estudios sobre el envejecimiento poblacional y sus aplicaciones.
-Artículo adicionado DOF 30-05-2012 ARTÍCULO 8. El domicilio legal de cada uno de los Institutos Nacionales de Salud será la Ciudad de México, Distrito Federal, con excepción del Instituto Nacional de Salud Pública, cuyo domicilio legal será la ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de que, en su caso, se puedan establecer en cualquier parte del territorio nacional.
+Artículo adicionado DOF 30-05-2012
+ARTÍCULO 8. El domicilio legal de cada uno de los Institutos Nacionales de Salud será la Ciudad de México, Distrito Federal, con excepción del Instituto Nacional de Salud Pública, cuyo domicilio legal será la ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de que, en su caso, se puedan establecer en cualquier parte del territorio nacional.
 ARTÍCULO 9. El patrimonio de cada uno de los Institutos Nacionales de Salud se integrará con:
 
 I. Los bienes muebles e inmuebles y derechos que les transfiera o haya transferido el Gobierno Federal;
@@ -150,6 +157,7 @@ V. Los recursos de origen externo, y
 VI. Los demás bienes, derechos y recursos que por cualquier título adquieran.
 
 ## Capítulo II
+
 Autonomía ARTÍCULO 10. Los Institutos Nacionales de Salud gozarán de autonomía técnica, operativa y administrativa en los términos de esta ley, sin perjuicio de las relaciones de coordinación sectorial que correspondan.
 ARTÍCULO 11. Los ingresos de los Institutos Nacionales de Salud derivados de servicios, bienes o productos que presten o produzcan serán destinados para atender las necesidades previamente determinadas por sus órganos de gobierno, que las fijarán conforme a lo dispuesto por el Presupuesto de Egresos de la Federación.
 ARTÍCULO 12. Los Institutos Nacionales de Salud contarán con un sistema integral de profesionalización, que comprenderá, cuando menos, catálogo de puestos, mecanismos de acceso y promociones, tabulador de sueldos, programas de desarrollo profesional y actualización permanente de su personal científico, tecnológico, académico, administrativo y de apoyo en general, así como las obligaciones e incentivos al desempeño y productividad.
@@ -158,11 +166,13 @@ ARTÍCULO 13. La Coordinadora de Sector y las Secretarías de Hacienda y Crédit
 Artículo reformado DOF 09-04-2012
 
 ## Capítulo III
+
 Órganos de administración ARTÍCULO 14. La administración de cada uno de los Institutos Nacionales de Salud estará a cargo de una junta de gobierno y de un director general.
 ARTÍCULO 15. Las juntas de gobierno de cada uno de los Institutos Nacionales de Salud se integrarán conforme al principio de paridad de género, por la persona titular de la Secretaría de Salud, quien las presidirá; por la servidora o el servidor público de la Secretaría que tenga a su cargo la coordinación sectorial de estos organismos descentralizados; por una persona representante de la Secretaría de Hacienda y Crédito Público; otra persona representante del patronato del Instituto, y otra persona que, a invitación de la Presidencia de la Junta, designe una institución del sector educativo vinculado con la investigación, así como por cuatro vocales, designadas por la persona titular de la Secretaría de Salud, quienes serán personas ajenas laboralmente al Instituto y de reconocida calidad moral, méritos, prestigio y experiencia en su campo de especialidad. Estas últimas durarán en su cargo cuatro años y se podrán ratificar por una sola ocasión.
 La persona que presida cada una de las juntas de gobierno será suplida en sus ausencias por la servidora o servidor público de la Secretaría que tenga a su cargo la coordinación sectorial de los Institutos Nacionales de Salud. Las demás personas integrantes de las juntas de gobierno designarán a quien los supla respectivamente.
 Las juntas de gobierno contarán con una Secretaría y una Prosecretaría.
-Artículo reformado DOF 11-05-2022 ARTÍCULO 16. Las juntas de gobierno de los Institutos Nacionales de Salud tendrán, adicionalmente a las facultades que les confiere la Ley Federal de las Entidades Paraestatales, las atribuciones indelegables siguientes:
+Artículo reformado DOF 11-05-2022
+ARTÍCULO 16. Las juntas de gobierno de los Institutos Nacionales de Salud tendrán, adicionalmente a las facultades que les confiere la Ley Federal de las Entidades Paraestatales, las atribuciones indelegables siguientes:
 
 I. Aprobar la distribución del presupuesto anual definitivo de la entidad y el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
 
@@ -194,10 +204,12 @@ Fracción reformada DOF 14-07-2008
 III. Tener una trayectoria reconocida en la Medicina y reconocidos méritos académicos;
 Fracción reformada DOF 14-07-2008
 
-IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008
+IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y
+Fracción reformada DOF 14-07-2008
 
 V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa.
-Fracción adicionada DOF 14-07-2008 ARTÍCULO 19. Los directores generales de los Institutos Nacionales de Salud tendrán, además de las facultades y obligaciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes:
+Fracción adicionada DOF 14-07-2008
+ARTÍCULO 19. Los directores generales de los Institutos Nacionales de Salud tendrán, además de las facultades y obligaciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes:
 
 I. Celebrar y otorgar toda clase de actos, convenios, contratos y documentos inherentes al objeto del Instituto;
 
@@ -225,6 +237,7 @@ ARTÍCULO 20. Los directores generales de los Institutos Nacionales de Salud dur
 Los estatutos orgánicos de los Institutos prevendrán la forma en que los directores generales serán suplidos en sus ausencias.
 
 ## Capítulo IV
+
 Órganos de apoyo ARTÍCULO 21. Cada uno de los Institutos Nacionales de Salud contará con un patronato, con un consejo asesor externo y con un consejo técnico de administración y programación, como órganos de apoyo y consulta.
 ARTÍCULO 22. Los patronatos tendrán el encargo de apoyar las labores de investigación, enseñanza y atención médica de los Institutos, principalmente con la obtención de recursos de origen externo. Serán también órganos asesores y de consulta.
 ARTÍCULO 23. Los patronatos se integrarán por un presidente, un secretario, un tesorero y los vocales que designen las juntas de gobierno entre personas de reconocida honorabilidad, pertenecientes a los sectores social y privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por los directores generales de los Institutos o por cualquier miembro de éstos.
@@ -265,9 +278,12 @@ ARTÍCULO 31. La designación como investigador emérito será una distinción v
 Los investigadores eméritos recibirán el estímulo económico y las prestaciones que determine la Junta de Gobierno respectiva.
 
 ## Capítulo V
+
 Órgano de vigilancia ARTÍCULO 32. Cada uno de los Institutos Nacionales de Salud contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente designados por la Secretaría de la Función Pública, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales.
-Artículo reformado DOF 09-04-2012 ARTÍCULO 33. Cada uno de los Institutos Nacionales de Salud contará con un órgano interno de control, denominado Contraloría Interna, cuyo titular y los de las áreas de auditoría, quejas y responsabilidades que auxiliarán a éste, dependerán de la Secretaría de la Función Pública.
-Artículo reformado DOF 09-04-2012 ARTÍCULO 34. Los servidores públicos a que se refiere el artículo anterior desarrollarán sus funciones conforme a las siguientes bases:
+Artículo reformado DOF 09-04-2012
+ARTÍCULO 33. Cada uno de los Institutos Nacionales de Salud contará con un órgano interno de control, denominado Contraloría Interna, cuyo titular y los de las áreas de auditoría, quejas y responsabilidades que auxiliarán a éste, dependerán de la Secretaría de la Función Pública.
+Artículo reformado DOF 09-04-2012
+ARTÍCULO 34. Los servidores públicos a que se refiere el artículo anterior desarrollarán sus funciones conforme a las siguientes bases:
 
 I. Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia y dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas. Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan, ante los diversos tribunales federales;
 
@@ -282,13 +298,16 @@ V. Vigilarán que el manejo y aplicación de los recursos se efectúe conforme a
 VI. Ejercerán las demás facultades que otras disposiciones legales y reglamentarias les confieran.
 
 ## Capítulo VI
+
 Régimen laboral ARTÍCULO 35. Las relaciones laborales entre los Institutos Nacionales de Salud y sus trabajadores se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional. El personal continuará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 ARTÍCULO 36. Serán trabajadores de confianza los directores generales, directores, subdirectores, jefes de división, jefes de departamento, jefe de servicios y los demás que desempeñen las funciones a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
 
 ## TÍTULO TERCERO
+
 Ámbito de los Institutos
 
 ## Capítulo I
+
 Investigación ARTÍCULO 37. La investigación que lleven a cabo los Institutos Nacionales de Salud será básica y aplicada y tendrá como propósito contribuir al avance del conocimiento científico, así como a la satisfacción de las necesidades de salud del país, mediante el desarrollo científico y tecnológico, en áreas biomédicas, clínicas, sociomédicas y epidemiológicas.
 ARTÍCULO 38. En la elaboración de sus programas de investigación, los Institutos Nacionales de Salud tomarán en cuenta los lineamientos programáticos y presupuestales que al efecto establezca el Ejecutivo Federal en estas materias.
 ARTÍCULO 39. La investigación que realicen los Institutos Nacionales de Salud podrá financiarse por las siguientes fuentes:
@@ -366,6 +385,7 @@ ARTÍCULO 49. Los Institutos Nacionales de Salud elaborarán y actualizarán los
 ARTÍCULO 50. Los Institutos Nacionales de Salud asegurarán la participación de sus investigadores en actividades de enseñanza.
 
 ## Capítulo II
+
 Enseñanza ARTÍCULO 51. Los Institutos Nacionales de Salud podrán impartir estudios de pregrado, especialidades, subespecialidades, maestrías y doctorados, así como diplomados y educación continua, en los diversos campos de la ciencia médica.
 Asimismo, podrán participar en la capacitación y actualización de recursos humanos, a través de cursos, conferencias, seminarios y otros similares, en los temas que consideren necesarios.
 ARTÍCULO 52. En los planes y programas de estudios, los Institutos Nacionales de Salud, además de lo señalado en la ley en materia de educación, deberán:
@@ -380,6 +400,7 @@ IV. Propiciar el desarrollo y actualización del personal con base en las necesi
 ARTÍCULO 53. Las constancias, diplomas, reconocimientos, certificados y títulos que, en su caso, expidan los Institutos Nacionales de Salud tendrán la validez correspondiente a los estudios realizados.
 
 ## Capítulo III
+
 Atención médica ARTÍCULO 54. Los Institutos Nacionales de Salud prestarán los servicios de atención médica, conforme a lo siguiente:
 
 I. Atenderán padecimientos de alta complejidad diagnóstica y de tratamiento, así como urgencias.
@@ -405,15 +426,14 @@ Artículo adicionado DOF 29-11-2019
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** Se abrogan:
-
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abrogan:
 I. Las leyes del Instituto Nacional de Cancerología; del Instituto Nacional de Cardiología Ignacio Chávez; del Instituto Nacional de la Nutrición Salvador Zubirán, y del Hospital Infantil de México Federico Gómez, publicadas en el Diario Oficial de la Federación el 3 de diciembre de 1987, y
 
 II. Los decretos presidenciales del Instituto Nacional de Salud Pública; del Instituto Nacional de Pediatría; del Instituto Nacional de Neurología y Neurocirugía; del Instituto Nacional de Perinatología; del Instituto Nacional de Enfermedades Respiratorias, y del Instituto Mexicano de Psiquiatría, publicados en el Diario Oficial de la Federación los días 26 de enero de 1987, 1, 2 y 4 de agosto y 7 de septiembre de 1988, respectivamente, así como el decreto por el que se reforma el diverso del Instituto Nacional de Neurología y Neurocirugía, publicado en el mismo órgano informativo el 3 de junio de 1994.
-**TERCERO.** Las instituciones de salud que utilicen en su denominación las palabras "Instituto Nacional" tendrán un plazo de seis meses, contados a partir de la entrada en vigor de la presente ley, para promover las modificaciones necesarias para cambiar su denominación.
-**CUARTO.** Las juntas de gobierno expedirán los nuevos estatutos orgánicos de los Institutos Nacionales de Salud en un plazo de sesenta días, a partir de la entrada en vigor de la presente ley.
-**QUINTO.** En la ejecución de la presente ley se respetarán los derechos laborales adquiridos por los trabajadores de los Institutos Nacionales de Salud.
+**TERCERO.-** Las instituciones de salud que utilicen en su denominación las palabras "Instituto Nacional" tendrán un plazo de seis meses, contados a partir de la entrada en vigor de la presente ley, para promover las modificaciones necesarias para cambiar su denominación.
+**CUARTO.-** Las juntas de gobierno expedirán los nuevos estatutos orgánicos de los Institutos Nacionales de Salud en un plazo de sesenta días, a partir de la entrada en vigor de la presente ley.
+**QUINTO.-** En la ejecución de la presente ley se respetarán los derechos laborales adquiridos por los trabajadores de los Institutos Nacionales de Salud.
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen.
 Raúl Juárez Valencia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
@@ -464,7 +484,7 @@ México, D.F., a 28 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presi
 Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud.
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
-**ÚNICO.** Se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue: ..........
+**ÚNICO.-** Se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue: ..........
 
 ## TRANSITORIO
 
@@ -490,8 +510,8 @@ Se reforman los artículos 13, 32 y 33 de la Ley de los Institutos Nacionales de
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se adiciona una fracción IV Bis al artículo 5 y el artículo 7 Ter a la Ley de los Institutos Nacionales de Salud, en materia de Geriatría.
 Publicado en el Diario Oficial de la Federación 30 de mayo de 2012
@@ -501,13 +521,13 @@ Se adiciona una fracción IV Bis al artículo 5 y el artículo 7 Ter a la Ley de
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La creación del organismo público descentralizado de la Administración Pública Federal, Instituto Nacional de Geriatría, deberá sujetarse a los recursos humanos, financieros y materiales con los que cuenta actualmente el órgano desconcentrado Instituto de Geriatría.
-**Tercero.** Las relaciones entre el Instituto Nacional de Geriatría y sus trabajadores se sujetarán a lo dispuesto en el apartado B) del artículo 123 Constitucional.
-**Cuarto.** Dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberá celebrarse la sesión de instalación de la junta de gobierno, en la cual se deberá expedir su estatuto orgánico, y se podrá designar un Director General.
-**Quinto.** En tanto se haga la designación del Director General, la representación del Instituto Nacional de Geriatría recaerá en el servidor público que a la fecha de entrada en vigor del presente Decreto ocupa el cargo de Director General del órgano desconcentrado creado por el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
-**Sexto.** Por única vez, dos de los cuatro vocales de la Honorable Junta de Gobierno del Instituto durarán en su encargo 2 años.
-**Séptimo.** Se abroga el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La creación del organismo público descentralizado de la Administración Pública Federal, Instituto Nacional de Geriatría, deberá sujetarse a los recursos humanos, financieros y materiales con los que cuenta actualmente el órgano desconcentrado Instituto de Geriatría.
+**Tercero.-** Las relaciones entre el Instituto Nacional de Geriatría y sus trabajadores se sujetarán a lo dispuesto en el apartado B) del artículo 123 Constitucional.
+**Cuarto.-** Dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberá celebrarse la sesión de instalación de la junta de gobierno, en la cual se deberá expedir su estatuto orgánico, y se podrá designar un Director General.
+**Quinto.-** En tanto se haga la designación del Director General, la representación del Instituto Nacional de Geriatría recaerá en el servidor público que a la fecha de entrada en vigor del presente Decreto ocupa el cargo de Director General del órgano desconcentrado creado por el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
+**Sexto.-** Por única vez, dos de los cuatro vocales de la Honorable Junta de Gobierno del Instituto durarán en su encargo 2 años.
+**Séptimo.-** Se abroga el Decreto por el que se crea el Instituto de Geriatría, publicado en el Diario Oficial de la Federación del 29 de julio de 2008.
 México, D.F., a 17 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Mariano Quihuis Fragoso, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma la fracción VIII Bis del artículo 5 de la Ley de los Institutos Nacionales de Salud.
 Publicado en el Diario Oficial de la Federación 27 de enero de 2015
@@ -517,7 +537,7 @@ Se reforma la fracción VIII Bis del artículo 5 de la Ley de los Institutos Nac
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 10 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma la fracción II del artículo 6 de la Ley de los Institutos Nacionales de Salud.
 Publicado en el Diario Oficial de la Federación 16 de febrero de 2018
@@ -527,7 +547,7 @@ Se reforma la fracción II del artículo 6 de la Ley de los Institutos Nacionale
 
 ## Transitorio
 
-**Único.** : El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** : El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 12 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G.
 Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de febrero de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
@@ -539,29 +559,29 @@ Se adiciona el artículo 58 de la Ley de los Institutos Nacionales de Salud, par
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2020, excepto por lo que se establece en los artículos Sexto, Octavo, Noveno y Décimo transitorios.
-**Segundo.** El Ejecutivo Federal deberá emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor el 1o. de enero de 2020, excepto por lo que se establece en los artículos Sexto, Octavo, Noveno y Décimo transitorios.
+**Segundo.-** El Ejecutivo Federal deberá emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
 En el mismo plazo, el Reglamento Interior de la Secretaría de Salud deberá ser modificado a fin adecuarlo a lo previsto en el presente Decreto.
 Una vez cumplido lo anterior, las disposiciones que se opongan al mismo estarán derogadas.
-**Tercero.** Los recursos humanos, financieros y materiales con que cuente la Comisión Nacional de Protección Social en Salud serán transferidos al Instituto de Salud para el Bienestar, en términos de las disposiciones aplicables.
+**Tercero.-** Los recursos humanos, financieros y materiales con que cuente la Comisión Nacional de Protección Social en Salud serán transferidos al Instituto de Salud para el Bienestar, en términos de las disposiciones aplicables.
 El titular de la Unidad de Administración y Finanzas de la Secretaría de Salud será responsable del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerá y acordará lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
 Las secretarías de Hacienda y Crédito Público y de la Función Pública emitirán, en sus respectivos ámbitos de competencia, los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
-**Cuarto.** Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto cambie de adscripción, se respetarán conforme a la ley de la materia.
-**Quinto.** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán concluidos por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables y de conformidad con lo previsto en el presente Decreto.
-**Sexto.** Las modificaciones al Capítulo VIII del Título Tercero Bis entrarán en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación. La Junta de Gobierno del Instituto de Salud para el Bienestar se instalará en un periodo no mayor a los 30 días naturales siguientes.
+**Cuarto.-** Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto cambie de adscripción, se respetarán conforme a la ley de la materia.
+**Quinto.-** Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán concluidos por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables y de conformidad con lo previsto en el presente Decreto.
+**Sexto.-** Las modificaciones al Capítulo VIII del Título Tercero Bis entrarán en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación. La Junta de Gobierno del Instituto de Salud para el Bienestar se instalará en un periodo no mayor a los 30 días naturales siguientes.
 La Junta de Gobierno del Instituto de Salud para el Bienestar emitirá el Estatuto Orgánico de la entidad, en un plazo no mayor a 60 días naturales contados a partir de su instalación.
-**Séptimo.** Las entidades federativas tendrán un plazo de hasta 180 días naturales, contados a partir de la fecha de entrada en vigor del presente Decreto para armonizar sus leyes respectivas y demás disposiciones normativas vigentes en la materia.
-**Octavo.** Durante el ejercicio fiscal 2019, los gobiernos de las entidades federativas continuarán prestando los servicios de atención médica a que se refiere el Título Tercero Bis de la Ley General de Salud con los recursos asignados al Sistema de Protección Social en Salud para dicho ejercicio.
+**Séptimo.-** Las entidades federativas tendrán un plazo de hasta 180 días naturales, contados a partir de la fecha de entrada en vigor del presente Decreto para armonizar sus leyes respectivas y demás disposiciones normativas vigentes en la materia.
+**Octavo.-** Durante el ejercicio fiscal 2019, los gobiernos de las entidades federativas continuarán prestando los servicios de atención médica a que se refiere el Título Tercero Bis de la Ley General de Salud con los recursos asignados al Sistema de Protección Social en Salud para dicho ejercicio.
 Para tales efectos, dichos gobiernos locales podrán ejercer los recursos correspondientes al ejercicio fiscal 2019 a través de la totalidad de las unidades médicas de sus redes de servicios de salud.
-**Noveno.** Para efectos de lo previsto en el artículo 77 bis 9 de este Decreto, los dictámenes de acreditación de la calidad expedidos antes de su entrada en vigor, permanecerán vigentes hasta la fecha establecida en los mismos.
-**Décimo.** A partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, el Instituto de Salud para el Bienestar deberá llevar a cabo los actos necesarios para dar cumplimiento a lo previsto en el artículo 77 bis 29 de la Ley, para lo cual, con la participación que, en su caso, corresponda a las secretarías de Hacienda y Crédito Público y de Salud, procederá a modificar el contrato del Fideicomiso del Sistema de Protección Social en Salud. A partir de la celebración del convenio correspondiente, todas las referencias al Fideicomiso del Sistema de Protección Social en Salud se entenderán hechas al Fondo de Salud para el Bienestar.
+**Noveno.-** Para efectos de lo previsto en el artículo 77 bis 9 de este Decreto, los dictámenes de acreditación de la calidad expedidos antes de su entrada en vigor, permanecerán vigentes hasta la fecha establecida en los mismos.
+**Décimo.-** A partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, el Instituto de Salud para el Bienestar deberá llevar a cabo los actos necesarios para dar cumplimiento a lo previsto en el artículo 77 bis 29 de la Ley, para lo cual, con la participación que, en su caso, corresponda a las secretarías de Hacienda y Crédito Público y de Salud, procederá a modificar el contrato del Fideicomiso del Sistema de Protección Social en Salud. A partir de la celebración del convenio correspondiente, todas las referencias al Fideicomiso del Sistema de Protección Social en Salud se entenderán hechas al Fondo de Salud para el Bienestar.
 Sin perjuicio de lo anterior, se instruye a la institución fiduciaria del Fideicomiso del Sistema de Protección Social en Salud para que transfiera al Instituto de Salud para el Bienestar hasta cuarenta mil millones de pesos del patrimonio de dicho Fideicomiso, conforme al calendario que para tal efecto le notifique dicha entidad paraestatal. Los recursos señalados deberán destinarse a los fines que en materia de salud determine el Instituto de Salud para el Bienestar, en términos de las disposiciones aplicables.
 Dicha entidad paraestatal deberá informar al Congreso de la Unión sobre el uso y destino de los referidos recursos; dicha información será pública en términos de las disposiciones aplicables.
 Las obligaciones asumidas previamente a la publicación del presente Decreto y las pendientes que se tengan con terceros con cargo al Fideicomiso del Sistema de Protección Social en Salud, se continuarán atendiendo en términos de las disposiciones que lo regían.
-**Décimo Primero.** Las personas que, a la entrada en vigor del presente Decreto cuenten con afiliación vigente al Sistema de Protección Social en Salud, continuarán en pleno goce de los derechos que les correspondan.
-**Décimo Segundo.** Hasta en tanto se dé cumplimiento en su totalidad a las obligaciones establecidas en los acuerdos de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas deberán establecer y operar un sistema en los mismos términos de la fracción XI del artículo 77 bis 35 de la misma Ley.
+**Décimo Primero.-** Las personas que, a la entrada en vigor del presente Decreto cuenten con afiliación vigente al Sistema de Protección Social en Salud, continuarán en pleno goce de los derechos que les correspondan.
+**Décimo Segundo.-** Hasta en tanto se dé cumplimiento en su totalidad a las obligaciones establecidas en los acuerdos de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas deberán establecer y operar un sistema en los mismos términos de la fracción XI del artículo 77 bis 35 de la misma Ley.
 El Instituto de Salud para el Bienestar deberá actualizar, como parte del análisis técnico a que se refiere el cuarto párrafo del artículo 77 bis 16 A de la Ley General de Salud, la plantilla ocupada de los trabajadores que participan en la prestación de los servicios, a que se refiere la fracción XI del artículo 77 bis 35 de la misma Ley.
-**Décimo Tercero.** En un periodo de tres años contados a partir de la entrada en vigor del presente Decreto el Instituto de Salud para el Bienestar deberá presentar al Congreso de la Unión un informe del cumplimiento de cobertura de la prestación gratuita de servicios de salud, medicamentos y demás insumos, especificando la cobertura de atención a los grupos vulnerables y marginación social.
+**Décimo Tercero.-** En un periodo de tres años contados a partir de la entrada en vigor del presente Decreto el Instituto de Salud para el Bienestar deberá presentar al Congreso de la Unión un informe del cumplimiento de cobertura de la prestación gratuita de servicios de salud, medicamentos y demás insumos, especificando la cobertura de atención a los grupos vulnerables y marginación social.
 Ciudad de México, a 14 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Maribel Martínez Ruiz, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
@@ -571,9 +591,9 @@ Se reforman los artículos 15 y 16, fracción V de la Ley de los Institutos Naci
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.-** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
 Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.

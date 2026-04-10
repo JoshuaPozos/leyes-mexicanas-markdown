@@ -12,7 +12,9 @@ SE EXPIDE LA  ; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁ
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## Capítulo I
+
 Objeto, Ámbito de Aplicación y Supletoriedad de la Ley
 
 ### Artículo 1
@@ -126,6 +128,7 @@ La Autoridad Penitenciaria y las autoridades corresponsables podrán implementar
 . Supletoriedad En todo lo no previsto por la presente Ley se atenderá en lo conducente a lo dispuesto por el Código Nacional de Procedimientos Penales, a la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y a las leyes penales aplicables.
 
 ## Capítulo II
+
 Derechos y Obligaciones de las personas
 
 ### Artículo 9
@@ -239,6 +242,7 @@ V. Presentar los documentos que le sean requeridos por el Juez de Ejecución;
 VI. Las demás que establezcan esta Ley, u otras disposiciones aplicables.
 
 ## Capítulo III
+
 Autoridades en la Ejecución Penal
 
 ### Artículo 14
@@ -434,7 +438,9 @@ La autoridad para la supervisión de libertad podrá celebrar convenios de colab
 
 ## TÍTULO SEGUNDO
 
+
 ## Capítulo I — De la Información en el Sistema Penitenciario
+
 
 ### Artículo 27
 . Bases de datos de personas privadas de la libertad La Autoridad Penitenciaria estará obligada a mantener una base de datos de personas privadas de la libertad con la información de cada persona que ingrese al sistema penitenciario, de conformidad con lo establecido en el Sistema Único de Información Criminal, definido en la Ley General del Sistema Nacional de Seguridad Pública. La Autoridad Penitenciaria deberá mantener también un expediente médico y un expediente único de ejecución penal para cada persona que ingrese al sistema penitenciario, de acuerdo con lo siguiente:
@@ -533,6 +539,7 @@ Para el caso de los Censos Nacionales de Gobierno, Seguridad Pública y Sistema 
 Por su parte, la Encuesta Nacional de Población Privada de la Libertad tendrá como finalidad generar información estadística que permita conocer las condiciones de procesamiento e internamiento de las Personas privadas de su libertad, su perfil demográfico y socioeconómico, los delitos por los que fueron procesados o sentenciados, entre otras características. Dicha encuesta se levantará de manera periódica y conforme a criterios estadísticos y técnicos, será de tipo probabilística, incluirá a población privada de la libertad tanto del fuero común como federal y será representativa a nivel nacional y estatal. El Instituto Nacional de Estadística y Geografía realizará dicha Encuesta conforme a su presupuesto. Asimismo, los Centros Penitenciarios seleccionados en la muestra determinada para la Encuesta deberán brindar todas las facilidades al Instituto para realizar entrevistas directas a la población privada de la libertad.
 
 ## Capítulo II
+
 Régimen de Internamiento
 
 ### Artículo 30
@@ -613,7 +620,8 @@ Los servicios de atención psicológica o psiquiátrica se prestarán por person
 . Personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad.
 Para determinar el Centro Penitenciario en el que tendrá lugar la privación de la libertad de las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas se ponderará la importancia que para la persona tenga la pertenencia a su comunidad.
 Párrafo y epígrafe del artículo reformados DOF 01-04-2024 La Autoridad Penitenciaria debe adoptar los medios necesarios para que las personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad puedan conservar sus usos y costumbres, dentro de las limitaciones naturales que impone el régimen de disciplina del Centro y que no padezcan formas de asimilación forzada, se menoscabe su cultura, o se les segregue. La educación básica que reciban será bilingüe.
-Párrafo reformado DOF 01-04-2024 Se deberá contar con un intérprete certificado por el Instituto Nacional de Lenguas Indígenas que hable y entienda la lengua madre de la persona privada de su libertad para asegurar que entienda todo el proceso que se sigue en su contra, así como sus obligaciones y derechos.
+Párrafo reformado DOF 01-04-2024
+Se deberá contar con un intérprete certificado por el Instituto Nacional de Lenguas Indígenas que hable y entienda la lengua madre de la persona privada de su libertad para asegurar que entienda todo el proceso que se sigue en su contra, así como sus obligaciones y derechos.
 
 ### Artículo 36
 . Mujeres privadas de la libertad con hijas o hijos Las mujeres privadas de la libertad embarazadas deberán contar con atención médica obstétricoginecológica y pediátrica, durante el embarazo, el parto y el puerperio, el cual deberá realizarse en hospitales o lugares específicos establecidos en el Centro Penitenciario cuando cuenten con las instalaciones y el personal de salud especializado. En caso de no contar con las instalaciones o con personal médico y que la condición de salud de la mujer o del producto de la concepción requieran de atención, ésta se garantizará en instituciones públicas del Sector Salud.
@@ -665,6 +673,7 @@ Sin menoscabo de lo anterior, la Autoridad Penitenciaria podrá decretar en cual
 En caso de declaratoria de alerta, el Director del Centro Penitenciario deberá solicitar el apoyo a las fuerzas de seguridad pública, así como dar vista al Ministerio Público y al organismo público de protección de derechos humanos competentes.
 
 ## Capítulo III
+
 Régimen Disciplinario
 
 ### Artículo 38
@@ -737,6 +746,7 @@ En el caso de mujeres embarazadas y de las madres que conviven con sus hijas e h
 
 ## Capítulo IV — De la Imposición de Sanciones Disciplinarias
 
+
 ### Artículo 46
 . Debido proceso Los procedimientos disciplinarios garantizarán el derecho a la defensa, de audiencia y la oportunidad de allegarse de medios de prueba en favor de la persona privada de la libertad.
 
@@ -747,6 +757,7 @@ En el caso de mujeres embarazadas y de las madres que conviven con sus hijas e h
 . Impugnación de resoluciones Las resoluciones del Comité Técnico se impugnarán dentro de los tres días siguientes a su notificación y procederá su revisión ante el Juez de Ejecución. Cuando se impugne resoluciones administrativas por faltas disciplinarias, se dejará en suspenso la aplicación de las sanciones impuestas, hasta que el Juez de Ejecución resuelva en definitiva, sin perjuicio de que se adopten las medidas administrativas necesarias que salvaguarden la seguridad y orden en el Centro Penitenciario.
 
 ## Capítulo V
+
 Traslados
 
 ### Artículo 49
@@ -814,6 +825,7 @@ En el caso de traslados internacionales, será competente el Juez de Ejecución 
 Las mismas reglas de competencia se observarán en relación con las personas inimputables sujetas a medidas de seguridad en los establecimientos previstos en la ley.
 
 ## Capítulo VI
+
 Ingresos, Visitas, Revisiones Personales y Entrevistas en los Centros Penitenciarios
 
 ### Artículo 58
@@ -868,6 +880,7 @@ III. Cuando la comisión de un hecho delictivo realizado o evidenciado en una re
 IV. La persona detenida o resguardada de conformidad con este artículo deberá ser custodiada por el personal del Centro Penitenciario y tendrá derecho a ser acompañada por la persona que realiza su defensa.
 
 ## Capítulo VII
+
 Revisiones a los Centros Penitenciarios
 
 ### Artículo 64
@@ -902,7 +915,9 @@ Los organismos públicos de protección de los derechos humanos deberán hacer d
 
 ## TÍTULO TERCERO
 
+
 ## Capítulo I
+
 Bases de Organización del Sistema Penitenciario
 
 ### Artículo 72
@@ -914,6 +929,7 @@ Estas bases serán elementos esenciales del Plan de Actividades diseñado para l
 De igual forma, se deberán de establecer programas específicos de derechos humanos tendientes a sensibilizar y concientizar a las personas privadas de la libertad de su importancia en la sociedad.
 
 ## Capítulo II
+
 Salud
 
 ### Artículo 74
@@ -952,6 +968,7 @@ Si la persona privada de su libertad no se encuentra en condiciones de otorgar s
 . Convenios con instituciones del sector salud Se deberán celebrar convenios con instituciones públicas y privadas del sector salud en los ámbitos federal y local, a efecto de atender las urgencias médico-quirúrgicas cuya intervención no se pueda llevar a cabo en los Centros Penitenciarios, así como para la designación del personal médico que proporcione servicios de salud de manera continua y permanentemente en el Sistema Penitenciario Nacional.
 
 ## Capítulo III
+
 Actividades Físicas y Deportivas
 
 ### Artículo 81
@@ -962,6 +979,7 @@ Actividades Físicas y Deportivas
 Se celebrarán los convenios con instituciones y organizaciones que apoyen y amplíen las actividades deportivas de las personas privadas de su libertad.
 
 ## Capítulo IV
+
 Educación
 
 ### Artículo 83
@@ -981,6 +999,7 @@ Párrafo reformado DOF 01-04-2024
 La Autoridad Penitenciaria deberá celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional en materia educativa para ampliar la oferta educativa y su calidad.
 
 ## Capítulo V
+
 Capacitación para el Trabajo
 
 ### Artículo 87
@@ -1003,6 +1022,7 @@ III. El desarrollo de aptitudes, habilidades y competencias laborales.
 . Planificación para la capacitación del trabajo Para realizar una adecuada capacitación para el trabajo, se planificarán, regularán, organizarán y establecerán métodos, horarios y medidas preventivas de ingreso y seguridad.
 
 ## Capítulo VI
+
 Trabajo
 
 ### Artículo 91
@@ -1074,7 +1094,9 @@ En la normatividad respectiva se establecerá el sistema de rotaciones semanales
 
 ## TÍTULO CUARTO — Del Procedimiento de Ejecución
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 100
 . Ejecución de la sentencia El Juez de Ejecución dará trámite a los procedimientos que correspondan a la Ejecución de Sentencia, para dar cumplimiento al fallo emitido por el Juez de Control o Tribunal de Enjuiciamiento en los términos establecidos por esta Ley, por el Código y demás leyes penales aplicables.
@@ -1089,6 +1111,7 @@ Si el sentenciado se encuentra en libertad y se dicta una sentencia condenatoria
 En caso de que el sentenciado se encuentre en libertad y se dicte una sentencia condenatoria con otorgamiento de sustitutivo penal, el Juez de Ejecución lo prevendrá para que en un plazo de tres días manifieste si se acoge a dicho beneficio, bajo el apercibimiento que de no pronunciarse se ordenará su reaprehensión.
 
 ## Capítulo II
+
 Trámite de Ejecución
 
 ### Artículo 103
@@ -1137,6 +1160,7 @@ El Ministerio Público, la víctima o el ofendido podrán oponerse al cómputo d
 Una vez cumplida la sentencia, el Juez de Ejecución a través del auto respectivo, determinará tal circunstancia.
 
 ## Capítulo III
+
 Procedimiento Administrativo
 
 ### Artículo 107
@@ -1191,6 +1215,7 @@ En este caso, el Juez de Ejecución, de oficio, suspenderá de inmediato el hech
 Cuando los jueces de ejecución reciban promociones que por su naturaleza no sean casos urgentes, las turnarán al centro para su tramitación, recabando registro de su entrega.
 
 ## Capítulo IV
+
 Controversias ante el Juez de Ejecución
 
 ### Artículo 116
@@ -1245,6 +1270,7 @@ La víctima o su asesor jurídico, sólo podrán participar en los procedimiento
 . Controversias sobre medidas de seguridad Las controversias sobre la modificación, extinción o cesación de las medidas de seguridad, se resolverán de acuerdo con las normas previstas en el Código para personas imputables con los ajustes razonables que en el caso concreto acuerde el Juez de Ejecución, para garantizar su derecho a la defensa.
 
 ## Capítulo V
+
 Procedimiento Jurisdiccional
 
 ### Artículo 120
@@ -1332,6 +1358,7 @@ Cuando la Autoridad Penitenciaria alegue imposibilidad material o económica par
 Cuando la Autoridad Penitenciaria responsable del Centro no cumpliere dentro del plazo establecido, el juez requerirá a sus superiores jerárquicos por su cumplimiento aplicando, en su caso, las medidas de apremio conducentes.
 
 ## Capítulo VI
+
 Recursos
 
 ### Artículo 130
@@ -1377,9 +1404,11 @@ Si fuese necesario el desahogo de una audiencia, el tribunal de alzada en el aut
 En caso de no darse el supuesto a que se refiere el párrafo anterior el tribunal de alzada resolverá el recurso de apelación dentro de los tres días siguientes a la notificación del auto que tuvo por recibidas las actuaciones.
 
 ## TÍTULO QUINTO
+
 Beneficios Preliberacionales y Sanciones no Privativas de la Libertad
 
 ## Capítulo I
+
 Libertad Condicionada
 
 ### Artículo 136
@@ -1419,6 +1448,7 @@ Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstituci
 . Cancelación de la libertad condicionada La medida de libertad condicionada terminará por revocación en los casos de violación reiterada a los términos establecidos por el Juez de Ejecución, por sustitución, por la extinción de la pena en su totalidad o por el otorgamiento de la libertad anticipada, o cometa un nuevo delito en el plazo que resta para el cumplimiento de la pena originalmente impuesta.
 
 ## Capítulo II
+
 Libertad Anticipada
 
 ### Artículo 141
@@ -1443,6 +1473,7 @@ VII. Que hayan cumplido el setenta por ciento de la pena impuesta en los delitos
 No gozarán de la libertad anticipada los sentenciados por delitos en materia de delincuencia organizada, secuestro y trata de personas.
 
 ## Capítulo III
+
 Sustitución y Suspensión Temporal de las Penas
 
 ### Artículo 142
@@ -1466,6 +1497,7 @@ Sólo podrán aplicarse los sustitutivos descritos en las fracciones anteriores 
 No procederá la sustitución de pena por delitos en materia de delincuencia organizada, secuestro y trata de personas.
 
 ## Capítulo IV
+
 Permisos Humanitarios
 
 ### Artículo 145
@@ -1478,6 +1510,7 @@ El Juez de Ejecución establecerá las condiciones, obligaciones de la persona p
 La violación a las condiciones u obligaciones por parte de la persona privada de su libertad tendrá como consecuencia su revocación y reaprehensión inmediata, sin menoscabo de las sanciones a las que se haga acreedor en términos de las disposiciones disciplinarias aplicables.
 
 ## Capítulo V
+
 Preliberación por Criterios de Política Penitenciaria
 
 ### Artículo 146
@@ -1518,6 +1551,7 @@ La aplicación de la medida podrá beneficiar a cualquier persona sentenciada al
 En ningún caso, una persona sentenciada potencialmente beneficiaria de la determinación de preliberación podrá permanecer en prisión por escasez de recursos económicos, para lo cual podrán aplicarse los Mecanismos Alternativos o procedimientos de justicia restaurativa que correspondan. Los defensores deberán velar en todo momento para hacer efectivo este derecho.
 
 ## Capítulo VI
+
 Sanciones y Medidas Penales no Privativas de la Libertad
 
 ### Artículo 152
@@ -1612,6 +1646,7 @@ Por ningún concepto se desarrollará este trabajo en forma que resulte degradan
 Asimismo, será recluido en el Centro Penitenciario durante un tiempo igual al de la pena de prisión que haya sido sustituida y que haya quedado pendiente de compurgarse, descontándose únicamente las jornadas que haya efectivamente laborado, correspondiendo un día de reclusión por cada jornada laborada.
 
 ## Capítulo VII
+
 Medidas de Seguridad
 
 ### Artículo 168
@@ -1620,9 +1655,11 @@ La ejecución de la vigilancia de la autoridad no deberá exceder de la correspo
 Cuando el Juez de Ejecución conforme a lo previsto por la Ley Penal aplicable, imponga una medida de seguridad consistente en la vigilancia personal o monitoreo del sentenciado corresponderá aplicarla a la autoridad de seguridad pública competente.
 
 ## Capítulo VIII
+
 Justicia Terapéutica
 
 ## Sección Primera
+
 Generalidades
 
 ### Artículo 169
@@ -1671,6 +1708,7 @@ IX. Integralidad. Considerar a cada persona de forma integral y abordar la probl
 X. Diversificación. Utilizar diferentes estrategias y métodos, abriendo nuevos campos de investigación y evaluación en las diferentes etapas del procedimiento.
 
 ## Sección Segunda
+
 Tratamiento
 
 ### Artículo 172
@@ -1720,6 +1758,7 @@ IV. La rehabilitación e integración comunitaria, y
 V. La evaluación y seguimiento.
 
 ## Sección Tercera
+
 Centros de Tratamiento
 
 ### Artículo 176
@@ -1751,6 +1790,7 @@ X. Asistir a reuniones de trabajo con los distintos operadores del procedimiento
 XI. Integrar recursos familiares que sirvan de apoyo al mismo.
 
 ## Sección Cuarta — Del Procedimiento
+
 
 ### Artículo 178
 . Admisión Para ser admitida al programa la persona sentenciada debe:
@@ -1816,6 +1856,7 @@ IV. Cualquier otra que pudiera beneficiar a la persona sentenciada en su proceso
 . Audiencia de egreso En la audiencia de egreso, el Juez de Ejecución, evaluará los informes del Centro de Tratamiento y se pronunciará respecto a la conclusión del programa, así como el pago que la persona sentenciada haya realizado para reparar el daño a la víctima u ofendido, concluido el programa y pagada la reparación del daño, el Juez de Ejecución dará por cumplida la sentencia.
 
 ## Sección Quinta
+
 Incentivos y Medidas Disciplinarias
 
 ### Artículo 187
@@ -1866,6 +1907,7 @@ Para efecto de lo anterior, la reiteración debe entenderse como aquella conduct
 
 ## Capítulo IX — De las Medidas de Seguridad para Personas Inimputables
 
+
 ### Artículo 190
 . Disposición general Las disposiciones de la presente Ley serán aplicables, en lo conducente, a las personas inimputables privadas de la libertad con motivo de la ejecución de una medida de seguridad, impuesta de acuerdo a la legislación penal y procesal penal vigente.
 
@@ -1891,6 +1933,7 @@ Para efecto de lo anterior, la reiteración debe entenderse como aquella conduct
 . Determinación de lugar de internamiento Cuando una misma persona esté sujeta a medidas de seguridad y la pena de prisión o prisión preventiva en razón de procesos distintos, se atenderá a lo dispuesto en este Capítulo respecto al lugar y condiciones de internamiento.
 
 ## Capítulo X
+
 Reglas Comunes
 
 ### Artículo 198
@@ -1904,7 +1947,9 @@ La inobservancia del requisito anterior será causa de responsabilidad administr
 
 ## TÍTULO SEXTO
 
+
 ## Capítulo I
+
 Justicia Restaurativa
 
 ### Artículo 200
@@ -1940,6 +1985,7 @@ El facilitador, sobre la base de las propuestas planteadas por los Interviniente
 . Mediación penitenciaria En todos los conflictos inter-personales entre personas privadas de la libertad o entre ellas y el personal penitenciario derivado del régimen de convivencia, procederá la Mediación Penitenciaria entendida como el proceso de diálogo, auto responsabilización, reconciliación y acuerdo que promueve el entendimiento y encuentro entre las personas involucradas en un conflicto generando la pacificación de las relaciones y la reducción de la tensión derivada de los conflictos cotidianos que la convivencia en prisión genera. Para su aplicación, se seguirán las disposiciones contenidas en esta Ley, el Protocolo correspondiente y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
 ## Capítulo II
+
 Servicios Postpenales
 
 ### Artículo 207
@@ -1950,37 +1996,36 @@ Para el cumplimiento de su objetivo, a nivel local y federal, la Autoridad Penit
 
 ## TRANSITORIOS
 
-**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo a los artículos transitorios siguientes.
-**Segundo.** Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
+**Segundo.-** Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
 Los artículos 31, 32, 33, 34, 35, 36, 59, 60, 61, 75, 77, 78, 80, 82, 83, 86, 91, 92, 93, 94, 95, 96, 97, 98, 99, 128, 136, 145, 153, 165, 166, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 192, 193, 194, 195, 200, 201, 202, 203, 204, 205, 206 y 207 entrarán en vigor a más tardar dos años después de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2018.
 En el orden Federal, el Congreso de la Unión emitirá la Declaratoria, previa solicitud conjunta del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal o la instancia que, en su caso, quede encargada de coordinar la consolidación del Sistema de Justicia Penal, y la Conferencia Nacional del Sistema Penitenciario.
 En el caso de las entidades federativas, el órgano legislativo correspondiente, emitirá la Declaratoria previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal en cada una de ellas.
 En las entidades federativas donde esté vigente el nuevo Sistema de Justicia Penal, el órgano legislativo correspondiente deberá emitir dentro de los siguientes diez días el anexo a la Declaratoria para el inicio de vigencia de la presente Ley.
-**Tercero.** A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
+**Tercero.-** A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
 Los procedimientos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la presente Ley, de acuerdo con el principio pro persona establecido en el artículo 1o. Constitucional.
 A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones normativas que contravengan la misma.
-**Cuarto.** A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el libertad preparatoria y sustitución de la pena durante la ejecución.
+**Cuarto.-** A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el libertad preparatoria y sustitución de la pena durante la ejecución.
 Las entidades federativas deberán adecuar su legislación a efecto de derogar las normas relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución, en el ámbito de sus respectivas competencias.
 Las entidades federativas deberán legislar en sus códigos penales sobre las responsabilidades de los supervisores de libertad.
-**Quinto.** En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
+**Quinto.-** En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
 A la entrada en vigor de la presente Ley, en aquellos lugares donde se determine su inicio, tanto en el ámbito federal como local, se deberá contar con las disposiciones administrativas de carácter general correspondientes, pudiendo preverse la homologación de criterios metodológicos, técnicos y procedimentales, para lo cual podrán coordinarse las autoridades involucradas.
-**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-**Séptimo.** El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
-**Octavo.** El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
+**Séptimo.-** El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
+**Octavo.-** El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
 La Autoridad Penitenciaria contará con un plazo de cuatro años, a partir de la publicación de este Decreto, para capacitar, adecuar los establecimientos penitenciarios y su capacidad instalada, equipar, desarrollar tecnologías de la información y comunicaciones, así como adecuar su estructura organizacional. Todo ello de conformidad con los planes de actividades registrados ante el Comité al que se refiere el párrafo anterior.
 El Consejo de Coordinación presentará anualmente ante las Cámaras del Congreso de la Unión, un informe anual del seguimiento a la implementación del Sistema de Ejecución Penal.
-**Noveno.** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
-**Décimo.** A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
-
+**Noveno.-** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
+**Décimo.-** A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
 I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o
 
 II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
 Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenciaria el informe sobre el cumplimiento de los requisitos a que alude el párrafo anterior.
-**Décimo Primero.** Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio
-**décimo.** Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
-**Décimo Segundo.** El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
+**Décimo Primero.-** Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio
+**décimo.-** Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
+**Décimo Segundo.-** El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
 
 ### Artículo Segundo
 ………
@@ -1991,12 +2036,12 @@ Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenci
 Ciudad de México, a 14 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 61/2016, así como los Votos Particular del Ministro Arturo Zaldívar Lelo de Larrea y Concurrente del Ministro Javier Laynez Potisek.
 Publicada en el Diario Oficial de la Federación el 9 de mayo de 2018 ACCIÓN DE INCONSTITUCIONALIDAD 61/2016 PROMOVENTE: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MINISTRO PONENTE: ARTURO ZALDÍVAR LELO DE LARREA SECRETARIAS: ANA MARIA IBARRA OLGUÍN FABIANA ESTRADA TENA COLABORADOR: RICARDO LATAPIE ALDANA Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al cuatro de abril de dos mil diecisiete. ……… Por lo expuesto y fundado, se resuelve:
-**PRIMERO.** Es procedente y parcialmente fundada la acción de inconstitucionalidad 61/2016.
-**SEGUNDO.** Se desestima la acción de inconstitucionalidad respecto de la impugnación de los artículos 137, párrafo segundo, en la porción normativa “Excepcionalmente, cuando las condiciones económicas y familiares del beneficiario lo permitan, éste cubrirá a la Autoridad Penitenciaria el costo del dispositivo”, y 144, fracción I, en las porciones normativas “de doce años de edad” y de “discapacidad”, de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la federación el dieciséis de junio de dos mil dieciséis.
-**TERCERO.** Se reconoce la validez de los artículos 36, párrafo tercero y 141, fracción VII, de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el dieciséis de junio de dos mil dieciséis.
-**CUARTO.** Se declara la invalidez del artículo 139 en la porción normativa “de forma exclusiva” de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el dieciséis de junio de dos mil dieciséis, en los términos precisados en el considerando quinto de esta sentencia.
-**QUINTO.** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión, para los efectos precisados en su considerando sexto.
-**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+**PRIMERO.-** Es procedente y parcialmente fundada la acción de inconstitucionalidad 61/2016.
+**SEGUNDO.-** Se desestima la acción de inconstitucionalidad respecto de la impugnación de los artículos 137, párrafo segundo, en la porción normativa “Excepcionalmente, cuando las condiciones económicas y familiares del beneficiario lo permitan, éste cubrirá a la Autoridad Penitenciaria el costo del dispositivo”, y 144, fracción I, en las porciones normativas “de doce años de edad” y de “discapacidad”, de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la federación el dieciséis de junio de dos mil dieciséis.
+**TERCERO.-** Se reconoce la validez de los artículos 36, párrafo tercero y 141, fracción VII, de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el dieciséis de junio de dos mil dieciséis.
+**CUARTO.-** Se declara la invalidez del artículo 139 en la porción normativa “de forma exclusiva” de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el dieciséis de junio de dos mil dieciséis, en los términos precisados en el considerando quinto de esta sentencia.
+**QUINTO.-** La declaración de invalidez decretada en este fallo surtirá sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión, para los efectos precisados en su considerando sexto.
+**SEXTO.-** Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……… Firman el señor Ministro Presidente y el señor Ministro Ponente, con el Secretario General de Acuerdos que autoriza y da fe.
 El Presidente, Ministro Luis María Aguilar Morales.- Rúbrica.- El Ponente, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
@@ -2006,7 +2051,7 @@ Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
 
 ### Artículo Trigésimo
 Quinto.- Se reforman los artículos 33, fracción XV; 35, párrafos primero y
-**segundo.** y 83, tercer párrafo, de la Ley Nacional de Ejecución Penal, para quedar como sigue: …….
+**segundo.-** y 83, tercer párrafo, de la Ley Nacional de Ejecución Penal, para quedar como sigue: …….
 
 ## Transitorio
 

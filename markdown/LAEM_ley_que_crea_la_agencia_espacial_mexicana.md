@@ -15,6 +15,7 @@ Se expide la Ley que crea la Agencia Espacial Mexicana.
 
 ## CAPÍTULO I — Disposiciones Generales
 
+
 ### Artículo 1
 . Se crea la Agencia Espacial Mexicana como organismo público descentralizado, con personalidad jurídica y patrimonio propio y con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
 El organismo formará parte del sector coordinado por la Secretaría de Comunicaciones y Transportes.
@@ -121,6 +122,7 @@ VIII. Realizar y participar en acciones y eventos científicos y tecnológicos e
 IX. Ejecutar todos los demás actos análogos que impliquen la realización de sus atribuciones.
 
 ## CAPÍTULO II
+
 Organización y Funcionamiento
 
 ### Artículo 6
@@ -256,6 +258,7 @@ Tendrá a su cargo las atribuciones que le confieren los artículos correspondie
 . Las relaciones laborales entre la Agencia Espacial Mexicana y sus trabajadores se regirán por lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y reglamentarias de la misma.
 
 ## CAPÍTULO III — Del Presupuesto y Patrimonio
+
 
 ### Artículo 16
 . La Agencia administrará su patrimonio conforme a las disposiciones legales aplicables y a los programas y presupuestos que formule anualmente y que apruebe su Junta de Gobierno.

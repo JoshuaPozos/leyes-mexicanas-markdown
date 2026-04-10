@@ -14,6 +14,7 @@ SE EXPIDE LA LEY GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIA
 Se expide la Ley General de Mecanismos Alternativos de Solución de Controversias, para quedar como sigue:
 
 ## Capítulo I
+
 Naturaleza y Objeto
 
 ### Artículo 1
@@ -130,7 +131,9 @@ El mecanismo alternativo de solución de controversias será admisible siempre q
 
 ## Capítulo II — De la Competencia
 
+
 ## Sección Primera — Del Consejo Nacional de Mecanismos Alternativos de Solución de Controversias
+
 
 ### Artículo 9
 . El Consejo, es el máximo órgano colegiado, honorífico, rector en materia de políticas públicas respecto de los mecanismos alternativos de solución de controversias.
@@ -212,6 +215,7 @@ En caso de que la persona facilitadora pretenda implementar, dirigir o participa
 
 ## Sección Segunda — De los Centros de Mecanismos Alternativos de Solución de Controversias
 
+
 ### Artículo 22
 . Los Centros de Mecanismos Alternativos de Solución de Controversias, como órganos auxiliares de los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia, podrán ser Públicos o Privados. Los Centros Públicos, contarán con independencia técnica, operativa y de gestión.
 
@@ -248,6 +252,7 @@ X. Las demás que les atribuyan las leyes, según corresponda.
 . Los Centros Públicos de Mecanismos Alternativos de Solución de Controversias, deberán mantener actualizada la información respecto del ejercicio de sus funciones y remitir al Sistema Nacional de Información de Convenios, la información correlativa a los convenios y a la Plataforma Nacional de Personas Facilitadoras la información que corresponda, de conformidad con los Lineamientos que al efecto emita el Consejo.
 
 ## Sección Tercera — De las Personas Titulares de los Centros Públicos
+
 
 ### Artículo 27
 . Para ser Titular de un Centro Público de Mecanismos Alternativos de Solución de Controversias, se requieren los mismos requisitos previstos para las personas facilitadoras, además de acreditar experiencia profesional de al menos cinco años en la materia y contar con Título y Cédula de Licenciatura en Derecho o en Abogacía.
@@ -286,7 +291,9 @@ XIII. Las demás atribuciones contempladas en las leyes locales y federales para
 
 ## Capítulo III — De las Personas Facilitadoras y su Certificación
 
+
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 30
 . Corresponde a las personas facilitadoras, los siguientes deberes y obligaciones:
@@ -350,6 +357,7 @@ Cualquier contravención será sancionada en los términos previstos en esta Ley
 
 ## Sección Segunda — De la Certificación
 
+
 ### Artículo 38
 . Corresponde al Poder Judicial Federal o de las entidades federativas en sus respectivos ámbitos competenciales, otorgar, negar, suspender, revocar o renovar la certificación de las personas facilitadoras y de las personas abogadas colaborativas, de conformidad con lo que establece esta Ley, las equivalentes en el ámbito local, los Lineamientos que expida al efecto el Consejo Nacional y los acuerdos generales que emitan los Consejos de la Judicatura Federal o locales.
 
@@ -402,6 +410,7 @@ El monto de la garantía será determinado por el Poder Judicial Federal o de la
 
 ## Sección Tercera — De la Suspensión y Revocación de la Certificación
 
+
 ### Artículo 47
 . Son causas de suspensión de la certificación de las personas facilitadoras, al menos, las siguientes:
 
@@ -431,7 +440,9 @@ V. Las demás señaladas en esta Ley, así como aquellas que se determinen en la
 
 ## Capítulo IV — De los Registros y la Plataforma Nacional
 
+
 ## Sección Primera — Del Registro de Personas Facilitadoras
+
 
 ### Artículo 49
 . El Poder Judicial de la Federación y los Poderes Judiciales de las entidades federativas contarán con un Registro de Personas Facilitadoras, de conformidad con lo dispuesto en sus Leyes Orgánicas y demás ordenamientos legales aplicables.
@@ -444,6 +455,7 @@ V. Las demás señaladas en esta Ley, así como aquellas que se determinen en la
 Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable.
 
 ## Sección Segunda — De la Cancelación de la Inscripción
+
 
 ### Artículo 52
 . Procede la cancelación de la inscripción al Registro de Personas Facilitadoras:
@@ -462,6 +474,7 @@ V. En caso de imposición de pena privativa de la libertad, hasta por el mismo p
 . El Registro de Personas Facilitadoras, en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos, deberá dar aviso a la Plataforma Nacional de Personas Facilitadoras de las sanciones impuestas a las mismas.
 
 ## Sección Tercera — De la Plataforma Nacional de Personas Facilitadoras
+
 
 ### Artículo 54
 . La Plataforma Nacional de Personas Facilitadoras concentra la información correlativa, su diseño y actualización corresponde a la instancia que determine el Consejo de la Judicatura Federal y se integra con la información remitida por los Centros Públicos, correspondiente al Registro de Personas Facilitadoras en el ámbito federal o de las entidades federativas, de conformidad con los Lineamientos emitidos por el Consejo.
@@ -490,6 +503,7 @@ VIII. Los demás que determine el Consejo.
 Asimismo, deberán remitir cualquier modificación al respecto, de conformidad con la legislación aplicable.
 
 ## Capítulo V — De las Partes
+
 
 ### Artículo 57
 . Las partes tendrán al menos, los siguientes derechos:
@@ -529,7 +543,9 @@ VII. Los demás previstos por esta Ley y disposiciones aplicables.
 
 ## Capítulo VI — De la Tramitación de los Mecanismos Alternativos de Solución de Controversias
 
+
 ## Sección Primera — Del Procedimiento
+
 
 ### Artículo 61
 . Cualquier persona podrá solicitar la atención y acceso al trámite de los mecanismos alternativos de solución de controversias de manera verbal, escrita o en línea ante los Centros Públicos o Privados. En el caso de estos últimos, se estará a los honorarios que las personas facilitadoras privadas acuerden con ambas partes, sin que resulten excesivos o desproporcionales, ni se advierta en su cuantificación un daño o lesión. De las solicitudes de atención deberá quedar registro físico o electrónico.
@@ -623,6 +639,7 @@ VII. En los demás casos en que proceda dar por concluido el trámite del mecani
 
 ## Sección Segunda — De la Justicia Restaurativa y sus Procesos
 
+
 ### Artículo 81
 . Las prácticas o procesos restaurativos tendrán por objeto atender las necesidades y responsabilidades individuales y colectivas de las partes involucradas en un conflicto, buscando lograr la integración de las mismas en su entorno de desarrollo bajo los principios de esta Ley, teniendo los siguientes objetivos:
 
@@ -653,6 +670,7 @@ En los procesos restaurativos se podrá contar con la participación de equipos 
 Los Poderes Judiciales Federal o de las entidades federativas, en sus respectivos ámbitos de competencia y mediante acuerdos generales, regularán sus alcances y la metodología adecuada para acceder a estos procesos y a una atención integral, ello acorde a la materia del conflicto a tratar.
 
 ## Sección Tercera — De la Solución de Controversias en Línea
+
 
 ### Artículo 86
 . La Solución de Controversias en Línea se regirá por lo dispuesto en la presente Sección.
@@ -725,7 +743,9 @@ III. A través de sistemas híbridos.
 
 ## Capítulo VII — Del Convenio
 
+
 ## Sección Primera — De los Requisitos del Convenio
+
 
 ### Artículo 94
 . El Convenio deberá contener al menos lo siguiente:
@@ -759,6 +779,7 @@ Lo anterior sin perjuicio de la revisión oficiosa que la autoridad competente r
 . Concluido el mecanismo alternativo de solución de controversias, la persona facilitadora deberá dejar constancia electrónica o escrita del Convenio en el expediente de conformidad con las leyes de archivos que corresponda y expedirá en copia certificada un tanto para cada una de las partes.
 
 ## Sección Segunda — De los Efectos del Convenio
+
 
 ### Artículo 97
 . Los convenios firmados por las partes y suscritos por las personas facilitadoras privadas, en los que se involucren derechos de niñas, niños y adolescentes, derechos de terceros, derechos de personas víctimas de violencia o personas que se encuentran en situación de vulnerabilidad, deberán además ser presentados ante el Centro Público de Mecanismos Alternativos de Solución de Controversias, para su revisión y validación, en los términos de esta Ley y demás que resulten aplicables.
@@ -802,6 +823,7 @@ Transcurrido dicho plazo sin que se dé cumplimiento a lo anterior y sin que med
 
 ## Sección Tercera — Del Sistema de Convenios
 
+
 ### Artículo 108
 . El Centro Público de los Poderes Judiciales Federal o de las entidades federativas contará con un Sistema de Convenios, el cual contendrá la información relativa y los convenios que al efecto se hayan suscrito por las personas facilitadoras públicas y privadas.
 
@@ -820,6 +842,7 @@ Ante dicha omisión, se procederá de conformidad con la Ley General de Responsa
 
 ## Sección Cuarta — Del Sistema Nacional de Información de Convenios
 
+
 ### Artículo 113
 . El Sistema Nacional de Información de Convenios, se encontrará disponible para su consulta a través de la página oficial del Consejo de la Judicatura Federal, de conformidad con lo dispuesto por las leyes en materia de transparencia y protección de datos personales.
 
@@ -837,9 +860,11 @@ IV. Materia, y
 V. El estado que guarda la última actuación en el convenio.
 
 ## Capítulo VIII
+
 De los Centros de Mecanismos Alternativos de Solución de Controversias en el ámbito administrativo
 
 ## Sección Primera — De los Mecanismos Alternativos de Solución de Controversias en el ámbito
+
 administrativo
 
 ### Artículo 115
@@ -900,6 +925,7 @@ Las dependencias y entidades de la Administración Pública Federal, o las que c
 
 ## Sección Segunda — Del Consejo de Justicia Administrativa
 
+
 ### Artículo 119
 . El Consejo Nacional de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa es el máximo órgano de autoridad en la materia y se integrará por la persona titular del Centro Público de Mecanismos Alternativos de Solución de Controversias del Tribunal Federal de Justicia Administrativa y las personas titulares de los Centros homólogos de los Tribunales de Justicia Administrativa de las entidades federativas.
 El Consejo será presidido por uno de los integrantes que será designado por el voto de las dos terceras partes de quienes lo integran. El encargo será por el periodo de tres años con posibilidad de reelegirse hasta por un periodo adicional.
@@ -920,6 +946,7 @@ III. Crear y mantener actualizado el Registro de Personas Facilitadoras en mater
 IV. Fungir como órgano consultivo.
 
 ## Sección Tercera — De las Personas Facilitadoras
+
 
 ### Artículo 122
 . Son requisitos para las personas facilitadoras en materia administrativa:
@@ -965,6 +992,7 @@ Las personas facilitadoras privadas, podrán intervenir en los procedimientos de
 Para garantizar la agilidad de los mecanismos alternativos de solución de controversias, las personas facilitadoras podrán formular requerimientos mediante el uso de tecnologías de la información y comunicación o sistemas en línea. La omisión en la entrega de la información requerida se considera falta administrativa no grave para efectos de la Ley General de Responsabilidades Administrativas.
 
 ## Sección Cuarta
+
 De la Tramitación de los Mecanismos Alternativos de Solución de Controversias en el ámbito administrativo
 
 ### Artículo 127
@@ -1052,6 +1080,7 @@ En todos los casos, se deberá informar en un plazo máximo de tres días hábil
 
 ## Sección Quinta — Del Convenio
 
+
 ### Artículo 135
 . Los convenios firmados y suscritos por las partes y la persona facilitadora, deberán contener el detalle de los procesos jurisdiccionales vinculados a la misma controversia, además de los requisitos previstos en esta Ley. Se entiende que se trata de la misma controversia cuando exista identidad en las partes, materia del conflicto, tiempo y territorio donde se verifica.
 Las partes preservarán sus derechos y demás acciones legales que les asistan, en caso de no lograr la celebración del Convenio.
@@ -1075,6 +1104,7 @@ Los convenios que se celebren en relación con el cumplimiento de sentencias ten
 . No procederá el juicio de lesividad en contra de los convenios señalados en esta Sección.
 
 ## Capítulo IX
+
 Régimen de Responsabilidades y Sanciones
 
 ### Artículo 139

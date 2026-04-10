@@ -18,9 +18,11 @@ Se expide la Ley de los Impuestos Generales de Importación y de Exportación
 TARIFA
 
 ## Sección I — ANIMALES VIVOS Y PRODUCTOS DEL REINO ANIMAL
+
 Notas. 1. En esta Sección, cualquier referencia a un género o a una especie determinada de un animal se aplica también, salvo disposición en contrario, a los animales jóvenes de ese género o de esa especie. 2. Salvo disposición en contrario, cualquier referencia en la Nomenclatura a productos secos o desecados alcanza también a los productos deshidratados, evaporados o liofilizados.
 
 ## Capítulo 01
+
 Animales vivos Nota. 1. Este Capítulo comprende todos los animales vivos, excepto:
 
 a) los peces, los crustáceos, moluscos y demás invertebrados acuáticos, de las partidas 03.01, 03.06, 03.07 o 03.08;
@@ -58,6 +60,7 @@ Avestruces; emúes (Dromaius 0106.33 -novaehollandiae).
 Avestruces; emúes (Dromaius 0106.33.01 Cbza 20 Ex. novaehollandiae). 0106.39 -- Las demás. 0106.39.99 Las demás. Cbza 20 Ex. - Insectos: 0106.41 -- Abejas. 0106.41.01 Abejas. Kg 10 Ex. 0106.49 -- Los demás. 0106.49.99 Los demás. Kg 20 Ex. 0106.90 - Los demás. 0106.90.02 Lombriz Rebellus (Lumbricus rubellus). Kg 10 Ex. 0106.90.03 Lombriz acuática. Kg Ex. Ex. 0106.90.04 Ácaros Phytoseiulus persimilis. Kg Ex. Ex. 0106.90.99 Los demás. Pza 20 Ex. _______________
 
 ## Capítulo 02
+
 Carne y despojos comestibles Nota. 1. Este Capítulo no comprende:
 
 a) respecto de las partidas 02.01 a 02.08 y 02.10, los productos impropios para la alimentación humana;
@@ -156,6 +159,7 @@ De reptiles (incluidas las serpientes y 0210.93.01 Kg 10 Ex. tortugas de mar). 0
 Pieles de cerdo ahumadas, enteras o en 0210.99.02 Kg 15 Ex. recortes. 0210.99.99 Los demás. Kg 10 Ex. _________________
 
 ## Capítulo 03
+
 Pescados y crustáceos, moluscos y demás invertebrados acuáticos Notas. 1. Este Capítulo no comprende:
 
 a) los mamíferos de la partida 01.06;
@@ -235,11 +239,15 @@ Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.). 0302.7
 Los demás pescados, excepto los - despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99: 0302.81 -- Cazones y demás escualos. 0302.81.01 Cazones y demás escualos. Kg 15 Ex. 0302.82 -- Rayas (Rajidae). 0302.82.01 Rayas (Rajidae). Kg 15 Ex.
 Austromerluzas antárticas y 0302.83 -- austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).
 Austromerluzas antárticas y austromerluzas negras (merluzas 0302.83.01 Kg 15 Ex. negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.). 0302.84 -- Róbalos (Dicentrarchus spp.). 0302.84.01 Róbalos (Dicentrarchus spp.). Kg 15 Ex. 0302.85 -- Sargos (Doradas, Espáridos) (Sparidae). 0302.85.01 Sargos (Doradas, Espáridos) (Sparidae). Kg 15 Ex. 0302.89 -- Los demás.
-Totoabas en vida libre. 0302.89.01 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0302.89.02 Totoabas de manejo intensivo Kg 15 Ex Fracción adicionada DOF 21-07-2025 0302.89.99 Los demás. Kg 15 Ex.
+Totoabas en vida libre. 0302.89.01 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0302.89.02 Totoabas de manejo intensivo Kg 15 Ex
+Fracción adicionada DOF 21-07-2025
+0302.89.99 Los demás. Kg 15 Ex.
 Hígados, huevas, lechas, aletas, cabezas, colas, vejigas natatorias y demás despojos comestibles de pescado: 0302.91 -- Hígados, huevas y lechas. 0302.91.01 Hígados, huevas y lechas. Kg 15 Ex. 0302.92 -- Aletas de tiburón. 0302.92.01 Aletas de tiburón. Kg 15 Ex. 0302.99 -- Los demás.
 De Atunes (del género Thunnus), 0302.99.01 listados o bonitos de vientre rayado Kg Ex. Ex. (Euthynnus (Katsuwonus) pelamis).
 De Merluzas (Merluccius spp., Urophycis 0302.99.02 Kg 10 Ex. spp.).
-De Totoabas en vida libre. 0302.99.03 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0302.99.04 Totoabas de manejo intensivo Kg 15 Ex (excluyendo huevas y lechas) Fracción adicionada DOF 21-07-2025 0302.99.99 Los demás. Kg 15 Ex.
+De Totoabas en vida libre. 0302.99.03 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0302.99.04 Totoabas de manejo intensivo Kg 15 Ex (excluyendo huevas y lechas)
+Fracción adicionada DOF 21-07-2025
+0302.99.99 Los demás. Kg 15 Ex.
 Pescado congelado, excepto los 03.03 filetes y demás carne de pescado de la partida 03.04.
 Salmónidos, excepto los despojos - comestibles de pescado de las subpartidas 0303.91 a 0303.99: 0303.11 -- Salmones rojos (Oncorhynchus nerka). 0303.11.01 Salmones rojos (Oncorhynchus nerka). Kg 15 Ex.
 Los demás salmones del Pacífico (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus 0303.12 -tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus).
@@ -290,11 +298,15 @@ Bacaladillas (Micromesistius poutassou, 0303.68.01 Kg 15 Ex.
 Micromesistius australis). 0303.69 -- Los demás. 0303.69.99 Los demás. Kg 15 Ex.
 Los demás pescados, excepto los - despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99: 0303.81 -- Cazones y demás escualos. 0303.81.01 Cazones y demás escualos. Kg 15 Ex. 0303.82 -- Rayas (Rajidae). 0303.82.01 Rayas (Rajidae). Kg 15 Ex.
 Austromerluzas antárticas y austromerluzas negras (merluzas 0303.83 -negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).
-Austromerluzas antárticas y austromerluzas negras (merluzas 0303.83.01 Kg 15 Ex. negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.). 0303.84 -- Róbalos (Dicentrarchus spp.). 0303.84.01 Róbalos (Dicentrarchus spp.). Kg 15 Ex. 0303.89 -- Los demás. 0303.89.01 Totoabas en vida libre. Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0303.89.02 Totoabas de manejo intensivo Kg 15 Ex Fracción adicionada DOF 21-07-2025 0303.89.99 Los demás. Kg 15 Ex.
+Austromerluzas antárticas y austromerluzas negras (merluzas 0303.83.01 Kg 15 Ex. negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.). 0303.84 -- Róbalos (Dicentrarchus spp.). 0303.84.01 Róbalos (Dicentrarchus spp.). Kg 15 Ex. 0303.89 -- Los demás. 0303.89.01 Totoabas en vida libre. Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0303.89.02 Totoabas de manejo intensivo Kg 15 Ex
+Fracción adicionada DOF 21-07-2025
+0303.89.99 Los demás. Kg 15 Ex.
 Hígados, huevas, lechas, aletas, cabezas, colas, vejigas natatorias y demás despojos comestibles de pescado: 0303.91 -- Hígados, huevas y lechas. 0303.91.01 Hígados, huevas y lechas. Kg 15 Ex. 0303.92 -- Aletas de tiburón. 0303.92.01 Aletas de tiburón. Kg 15 Ex. 0303.99 -- Los demás.
 De Atunes (del género Thunnus), 0303.99.01 listados o bonitos de vientre rayado Kg Ex. Ex. (Euthynnus (Katsuwonus) pelamis).
 De Merluzas (Merluccius spp., Urophycis 0303.99.02 Kg 10 Ex. spp.) y de Anguilas.
-De Totoabas en vida libre. 0303.99.03 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0303.99.04 De Totoabas de manejo intensivo Kg 15 Ex (excluyendo huevas y lechas) Fracción adicionada DOF 21-07-2025 0303.99.99 Los demás. Kg 15 Ex.
+De Totoabas en vida libre. 0303.99.03 Kg 15 Prohibida Descripción de la fracción reformada DOF 21-07-2025 0303.99.04 De Totoabas de manejo intensivo Kg 15 Ex (excluyendo huevas y lechas)
+Fracción adicionada DOF 21-07-2025
+0303.99.99 Los demás. Kg 15 Ex.
 Filetes y demás carne de pescado 03.04 (incluso picada), frescos, refrigerados o congelados.
 Filetes frescos o refrigerados de tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., - Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y de peces cabeza de serpiente (Channa spp.): 0304.31 -- Tilapias (Oreochromis spp.).
 Tilapias (Oreochromis spp.).
@@ -354,7 +366,11 @@ Arenques (Clupea harengus, Clupea 0304.86.01 Kg 15 Ex. pallasii).
 Atunes (del género Thunnus), listados 0304.87 -- (bonitos de vientre rayado) (Katsuwonus pelamis).
 Atunes (del género Thunnus), listados (bonitos de vientre rayado) (Katsuwonus pelamis). 0304.87.01 Kg 15 Ex.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 15) Modificación DOF 18-11-2022 abrogada por DOF 06-01-2023 (antes Imp. Ex., en consecuencia se restablece Imp. 15) Cazones, demás escualos y rayas 0304.88 -(Rajidae).
-Cazones, demás escualos y rayas 0304.88.01 Kg 15 Ex. (Rajidae). 0304.89 -- Los demás. 0304.89.01 -- Totoabas en vida libre Kg 15 Prohibida Fracción adicionada DOF 21-07-2025 0304.89.02 -- Totoabas de manejo intensivo Kg 15 Ex Fracción adicionada DOF 21-07-2025 0304.89.99 Los demás. Kg 15 Ex. - Los demás, congelados: 0304.91 -- Peces espada (Xiphias gladius). 0304.91.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+Cazones, demás escualos y rayas 0304.88.01 Kg 15 Ex. (Rajidae). 0304.89 -- Los demás. 0304.89.01 -- Totoabas en vida libre Kg 15 Prohibida
+Fracción adicionada DOF 21-07-2025
+0304.89.02 -- Totoabas de manejo intensivo Kg 15 Ex
+Fracción adicionada DOF 21-07-2025
+0304.89.99 Los demás. Kg 15 Ex. - Los demás, congelados: 0304.91 -- Peces espada (Xiphias gladius). 0304.91.01 Peces espada (Xiphias gladius). Kg 15 Ex.
 Austromerluzas antárticas y austromerluzas negras (merluzas 0304.92 -negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).
 Austromerluzas antárticas y austromerluzas negras (merluzas 0304.92.01 Kg 15 Ex. negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).
 Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., 0304.93 -Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.).
@@ -451,6 +467,7 @@ Erizos de mar (Strongylocentrotus spp., - Paracentrotus lividus, Loxechinus albu
 Harina, polvo y “pellets” de pescado, crustáceos, moluscos y demás 03.09 invertebrados acuáticos, aptos para la alimentación humana. 0309.10 - De pescado. 0309.10.01 De pescado. Kg 15 Ex. 0309.90 - Los demás. 0309.90.99 Los demás. Kg 15 Ex. ______________
 
 ## Capítulo 04
+
 Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal, no expresados ni comprendidos en otra parte Notas. 1. Se considera leche, la leche entera y la leche desnatada (descremada) total o parcialmente. 2. En la partida 04.03, el yogur puede estar concentrado o aromatizado o con adición de azúcar u otro edulcorante, con frutas u otros frutos, cacao, chocolate, especias, café o extractos de café, plantas, partes de plantas, cereales o productos de panadería, siempre que cualquier sustancia añadida no se utilice para sustituir, en todo o en parte, cualquier componente de la leche, y el producto conserve el carácter esencial de yogur. 3. En la partida 04.05:
 
 a) Se entiende por mantequilla (manteca), la mantequilla (manteca) natural, la mantequilla (manteca) del lactosuero o la mantequilla (manteca) “recombinada” (fresca, salada o rancia, incluso en recipientes herméticamente cerrados) que provengan exclusivamente de la leche, con un contenido de materias grasas de la leche que sea superior o igual al 80% pero inferior o igual al 95%, en peso, de materias sólidas de la leche, inferior o igual al 2% en peso y, de agua, inferior o igual al 16%en peso. La mantequilla (manteca) no debe contener emulsionantes añadidos pero puede contener cloruro sódico, colorantes alimentarios, sales de neutralización y cultivos de bacterias lácticas inocuas.
@@ -532,6 +549,7 @@ Arancel modificado con vigencia temporal y acotación “Únicamente de gallina�
 Insectos y demás productos comestibles de origen animal, no 04.10 expresados ni comprendidos en otra parte. 0410.10 - Insectos. 0410.10.01 Insectos. Kg 10 Ex. 0410.90 - Los demás. 0410.90.01 Huevos de tortuga de cualquier clase. Kg 20 Prohibida 0410.90.99 Los demás. Kg 20 Ex. _________________
 
 ## Capítulo 05
+
 Los demás productos de origen animal no expresados ni comprendidos en otra parte Notas. 1. Este Capítulo no comprende:
 
 a) los productos comestibles, excepto las tripas, vejigas y estómagos de animales, enteros o en trozos, y la sangre animal (líquida o desecada);
@@ -569,9 +587,11 @@ Huevas fecundadas, semillas, larvas y 0511.99.04 embriones de especies acuática
 Embriones de las especies de ganado 0511.99.05 Pza Ex. Ex. bovino, equino, porcino, ovino y caprino. 0511.99.08 Esponjas naturales de origen animal. Kg 20 Ex. 0511.99.99 Los demás. Kg 10 Ex. _______________
 
 ## Sección II — PRODUCTOS DEL REINO VEGETAL
+
 Nota. 1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso. _______________
 
 ## Capítulo 06
+
 Plantas vivas y productos de la floricultura Notas. 1. Salvo lo dispuesto en la segunda parte de la partida 06.01, este Capítulo comprende únicamente los productos suministrados habitualmente por los horticultores, viveristas o floristas para la plantación o la ornamentación. Sin embargo, se excluyen de este Capítulo las papas (patatas), cebollas hortenses, chalotes, ajos y demás productos del Capítulo 07. 2. Los ramos, cestas, coronas y artículos similares se asimilan a las flores o follajes de las partidas 06.03 o 06.04, sin tener en cuenta los accesorios de otras materias. Sin embargo, estas partidas no comprenden los collages y cuadros similares de la partida 97.01.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Bulbos, cebollas, tubérculos, raíces y bulbos tuberosos, turiones y rizomas, 06.01 en reposo vegetativo, en vegetación o en flor; plantas y raíces de achicoria, excepto las raíces de la partida 12.12.
@@ -587,6 +607,7 @@ Flores y capullos, cortados para ramos o adornos, frescos, secos, 06.03 blanquea
 Follaje, hojas, ramas y demás partes de plantas, sin flores ni capullos, y hierbas, musgos y líquenes, para ramos 06.04 o adornos, frescos, secos, blanqueados, teñidos, impregnados o preparados de otra forma. 0604.20 - Frescos. 0604.20.01 Musgo del género Sphagnum. Kg Ex. Ex. 0604.20.99 Los demás. Kg 20 Ex. 0604.90 - Los demás. 0604.90.01 Musgo del género Sphagnum. Kg Ex. Ex. 0604.90.99 Los demás. Kg 20 Ex. _________________
 
 ## Capítulo 07
+
 Hortalizas, plantas, raíces y tubérculos alimenticios Notas. 1. Este Capítulo no comprende los productos forrajeros de la partida 12.14. 2. En las partidas 07.09, 07.10, 07.11 y 07.12, la expresión hortalizas alcanza también a los hongos comestibles, trufas, aceitunas, alcaparras, calabacines (zapallitos), calabazas (zapallos), berenjenas, maíz dulce (Zea mays var. saccharata), frutos de los géneros Capsicum o Pimenta, hinojo y plantas como el perejil, perifollo, estragón, berro y mejorana cultivada (Majorana hortensis u Origanum majorana). 3. La partida 07.12 comprende todas las hortalizas secas de las especies clasificadas en las partidas 07.01 a 07.11, excepto:
 
 a) las hortalizas de vaina secas desvainadas (partida 07.13);
@@ -676,6 +697,7 @@ Chícharos (guisantes, arvejas) de palo, 0713.60.01 Kg 10 Ex. gandú o gandul (C
 Raíces de yuca (mandioca), arrurruz o salep, aguaturmas (patacas), camotes (boniatos, batatas) y raíces y 07.14 tubérculos similares ricos en fécula o inulina, frescos, refrigerados, congelados o secos, incluso troceados o en "pellets"; médula de sagú. 0714.10 - Raíces de yuca (mandioca). 0714.10.01 Congeladas. Kg 20 Ex. 0714.10.99 Las demás. Kg 10 Ex. 0714.20 - Camotes (boniatos, batatas). 0714.20.01 Congelados. Kg 20 Ex. 0714.20.99 Los demás. Kg 10 Ex. 0714.30 - Ñame (Dioscorea spp.). 0714.30.01 Congelados. Kg 20 Ex. 0714.30.99 Los demás. Kg 10 Ex. 0714.40 - Taro (Colocasia spp.). 0714.40.01 Congelados. Kg 20 Ex. 0714.40.99 Los demás. Kg 10 Ex. 0714.50 - Yautía (malanga) (Xanthosoma spp.). 0714.50.01 Congelados. Kg 20 Ex. 0714.50.99 Los demás. Kg 10 Ex. 0714.90 - Los demás. 0714.90.02 Congelados. Kg 20 Ex. 0714.90.99 Los demás. Kg 10 Ex. _________________
 
 ## Capítulo 08
+
 Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías Notas. 1. Este Capítulo no comprende los frutos no comestibles. 2. Las frutas y otros frutos refrigerados se clasifican en las mismas partidas que las frutas y frutos frescos correspondientes. 3. Las frutas y otros frutos secos de este Capítulo pueden estar parcialmente rehidratados o tratados para los fines siguientes:
 
 a) mejorar su conservación o estabilidad (por ejemplo: mediante tratamiento térmico moderado, sulfurado, adición de ácido sórbico o de sorbato de potasio);
@@ -726,6 +748,7 @@ Cortezas de agrios (cítricos), melones o sandías, frescas, congeladas, secas o
 Cortezas de agrios (cítricos), melones o sandías, frescas, congeladas, secas o 0814.00.01 presentadas en agua salada, sulfurosa o Kg 15 Ex. adicionada de otras sustancias para su conservación provisional. _________________
 
 ## Capítulo 09
+
 Café, té, yerba mate y especias Notas. 1. Las mezclas entre sí de los productos de las partidas 09.04 a 09.10 se clasifican como sigue:
 
 a) las mezclas entre sí de productos de una misma partida se clasifican en dicha partida;
@@ -760,6 +783,7 @@ Mezclas previstas en la Nota 1 b) de este 0910.91.01 Kg 20 Ex.
 Capítulo. 0910.99 -- Las demás. 0910.99.99 Las demás. Kg 20 Ex. _________________
 
 ## Capítulo 10
+
 Cereales Notas. 1. A) Los productos citados en los textos de las partidas de este Capítulo se clasifican en dichas partidas solo si están presentes los granos, incluso en espigas o con los tallos.
 B) Este Capítulo no comprende los granos mondados o trabajados de otra forma. Sin embargo, el arroz descascarillado, blanqueado, pulido, glaseado, escaldado o partido se clasifica en la partida 10.06. Asimismo, la quinoa (quinua) a la cual se le ha eliminado total o parcialmente el pericarpio a fin de separar la saponina, pero que no haya sido sometida a ningún otro trabajo, permanece clasificada en la partida 10.08. 2. La partida 10.05 no comprende el maíz dulce (Capítulo 07).
 Nota de subpartida. 1. Se considera trigo duro el de la especie Triticum durum y los híbridos derivados del cruce interespecífico del Triticum durum que tengan 28 cromosomas como aquél.
@@ -789,6 +813,7 @@ Arancel con facilidades de importación de vigencia temporal DOF 06-01-2023 Cuan
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 06-01-2023 (se mantiene Imp. Ex.) Alforfón, mijo y alpiste; los demás 10.08 cereales. 1008.10 - Alforfón. 1008.10.01 Alforfón. Kg Ex. Ex. - Mijo: 1008.21 -- Para siembra. 1008.21.01 Para siembra. Kg 15 Ex. 1008.29 -- Los demás. 1008.29.99 Los demás. Kg 15 Ex. 1008.30 - Alpiste. 1008.30.01 Alpiste. Kg Ex. Ex. 1008.40 - Fonio (Digitaria spp.). 1008.40.01 Fonio (Digitaria spp.). Kg Ex. Ex. 1008.50 - Quinua (quinoa) (Chenopodium quinoa). 1008.50.01 Quinua (quinoa) (Chenopodium quinoa). Kg Ex. Ex. 1008.60 - Triticale. 1008.60.01 Triticale. Kg Ex. Ex. 1008.90 - Los demás cereales. 1008.90.91 Los demás cereales. Kg Ex. Ex. _______________
 
 ## Capítulo 11
+
 Productos de la molinería; malta; almidón y fécula; inulina; gluten de trigo Notas. 1. Este Capítulo no comprende:
 
 a) la malta tostada acondicionada como sucedáneo del café (partidas 09.01 o 21.01, según los casos);
@@ -834,6 +859,7 @@ Almidón de maíz.
 Arancel modificado con vigencia temporal DOF 06-01-2023 1108.12.01 Kg 10 Ex. (antes Imp. 10) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 10) 1108.13 -- Fécula de papa (patata). 1108.13.01 Fécula de papa (patata). Kg 10 Ex. 1108.14 -- Fécula de yuca (mandioca). 1108.14.01 Fécula de yuca (mandioca). Kg 10 Ex. 1108.19 -- Los demás almidones y féculas. 1108.19.91 Los demás almidones y féculas. Kg 10 Ex. 1108.20 - Inulina. 1108.20.01 Inulina. Kg 10 Ex. 11.09 Gluten de trigo, incluso seco. 1109.00 Gluten de trigo, incluso seco. 1109.00.01 Gluten de trigo, incluso seco. Kg 10 Ex. _______________
 
 ## Capítulo 12
+
 Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje Notas. 1. La nuez y la almendra de palma (palmiste), las semillas de algodón, ricino, sésamo (ajonjolí), mostaza, cártamo, amapola (adormidera) y “karité”, entre otras, se consideran semillas oleaginosas de la partida 12.07. Por el contrario, se excluyen de dicha partida los productos de las partidas 08.01 o 08.02, así como las aceitunas (Capítulos 07 o 20). 2. La partida 12.08 comprende no solo la harina sin desgrasar, sino también la desgrasada parcialmente o la que ha sido desgrasada y después total o parcialmente reengrasada con su propio aceite. Por el contrario, se excluyen los residuos de las partidas 23.04 a 23.06. 3. Las semillas de remolacha, las pratenses (de prados), las de flores ornamentales, de hortalizas, de árboles forestales o frutales, de vezas (excepto las de la especie Vicia faba) o de altramuces, se consideran semillas para siembra de la partida 12.09.
 Por el contrario, se excluyen de esta partida, aunque se destinen a la siembra:
 
@@ -902,6 +928,7 @@ Paja y cascabillo de cereales, en bruto, 1213.00.01 incluso picados, molidos, pr
 Nabos forrajeros, remolachas forrajeras, raíces forrajeras, heno, alfalfa, trébol, esparceta, coles 12.14 forrajeras, altramuces, vezas y productos forrajeros similares, incluso en "pellets". 1214.10 - Harina y "pellets" de alfalfa. 1214.10.01 Harina y "pellets" de alfalfa. Kg 15 Ex. 1214.90 - Los demás. 1214.90.01 Alfalfa. Kg 10 Ex. 1214.90.99 Los demás. Kg 15 Ex. _______________
 
 ## Capítulo 13
+
 Gomas, resinas y demás jugos y extractos vegetales Nota. 1. La partida 13.02 comprende, entre otros, los extractos de regaliz, piretro (pelitre), lúpulo o áloe, y el opio.
 Por el contrario, se excluyen:
 
@@ -936,16 +963,19 @@ Mucílagos y espesativos de la algarroba o de sus semillas o de las 1302.32 -sem
 Derivados de la marihuana (Género 1302.39.04 Prohibida Prohibida Prohibida Cannabis). 1302.39.99 Los demás. Kg 15 Ex. _______________
 
 ## Capítulo 14
+
 Materias trenzables y demás productos de origen vegetal, no expresados ni comprendidos en otra parte Notas. 1. Se excluyen de este Capítulo y se clasifican en la Sección XI, las materias y fibras vegetales de las especies principalmente utilizadas para la fabricación de textiles, cualquiera que sea su preparación, así como las materias vegetales trabajadas especialmente para su utilización exclusiva como materia textil. 2. La partida 14.01 comprende, entre otras, el bambú (incluso hendido, aserrado longitudinalmente o cortado en longitudes determinadas, con los extremos redondeados, blanqueado, ignifugado, pulido o teñido), los trozos de mimbre, de caña y similares, la médula de ratán (roten) y el ratán (roten) hilado. No se clasifican en esta partida las tablillas, láminas o cintas de madera (partida 44.04). 3. La partida 14.04 no comprende la lana de madera (partida 44.05) ni las cabezas preparadas para artículos de cepillería (partida 96.03).
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Materias vegetales de las especies utilizadas principalmente en cestería o espartería (por ejemplo: bambú, ratán 14.01 (roten), caña, junco, mimbre, rafia, paja de cereales limpiada, blanqueada o teñida, corteza de tilo). 1401.10 - Bambú. 1401.10.01 Bambú. Kg 10 Ex. 1401.20 - Ratán (roten). 1401.20.01 Ratán (roten). Kg Ex. Ex. 1401.90 - Las demás. 1401.90.99 Las demás. Kg 10 Ex.
 Productos vegetales no expresados ni 14.04 comprendidos en otra parte. 1404.20 - Línteres de algodón. 1404.20.01 Línteres de algodón. Kg 10 Ex. 1404.90 - Los demás. 1404.90.99 Los demás. Kg 10 Ex. _______________
 
 ## Sección III — GRASAS Y ACEITES, ANIMALES, VEGETALES O DE ORIGEN MICROBIANO, Y
+
 PRODUCTOS DE SU DESDOBLAMIENTO; GRASAS ALIMENTICIAS ELABORADAS;
 CERAS DE ORIGEN ANIMAL O VEGETAL _______________
 
 ## Capítulo 15
+
 Grasas y aceites, animales, vegetales o de origen microbiano, y productos de su desdoblamiento; grasas alimenticias elaboradas; ceras de origen animal o vegetal Notas. 1. Este Capítulo no comprende:
 
 a) el tocino y grasa de cerdo o de ave, de la partida 02.09;
@@ -1016,10 +1046,12 @@ Degrás; residuos procedentes del 1522.00 tratamiento de grasas o ceras, animale
 Degrás; residuos procedentes del 1522.00.01 tratamiento de grasas o ceras, animales o Kg 10 Ex. vegetales. _______________
 
 ## Sección IV — PRODUCTOS DE LAS INDUSTRIAS ALIMENTARIAS; BEBIDAS, LÍQUIDOS ALCOHÓLICOS
+
 Y VINAGRE; TABACO Y SUCEDÁNEOS DEL TABACO ELABORADOS; PRODUCTOS, INCLUSO CON NICOTINA, DESTINADOS PARA LA INHALACIÓN SIN COMBUSTIÓN;
 OTROS PRODUCTOS QUE CONTENGAN NICOTINA DESTINADOS PARA LA ABSORCIÓN DE NICOTINA EN EL CUERPO HUMANO Nota. 1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso. _______________
 
 ## Capítulo 16
+
 Preparaciones de carne, pescado, crustáceos, moluscos o demás invertebrados acuáticos, o de insectos Notas. 1. Este Capítulo no comprende la carne, despojos, pescado, crustáceos, moluscos y demás invertebrados acuáticos, así como los insectos, preparados o conservados por los procedimientos citados en los Capítulos 02 y 03, en la Nota 6 del Capítulo 04 o en la partida 05.04. 2. Las preparaciones alimenticias se clasifican en este Capítulo siempre que contengan una proporción superior al 20% en peso de embutidos, carne, despojos, sangre, insectos, pescado o de crustáceos, moluscos o demás invertebrados acuáticos, o de una combinación de estos productos. Cuando estas preparaciones contengan dos o más productos de los mencionados, se clasifican en la partida del Capítulo 16 que corresponda al componente que predomine en peso.
 Estas disposiciones no se aplican a los productos rellenos de la partida 19.02 ni a las preparaciones de las partidas 21.03 o 21.04.
 Notas de subpartida. 1. En la subpartida 1602.10, se entiende por preparaciones homogeneizadas, las preparaciones de carne, despojos, sangre o de insectos, finamente homogeneizadas, acondicionadas para la venta al por menor como alimento para lactantes o niños de corta edad o para uso dietético en recipientes con un contenido de peso neto inferior o igual a 250 g. Para la aplicación de esta definición se hará abstracción, en su caso, de los diversos ingredientes añadidos a la preparación en pequeña cantidad para sazonar, conservar u otros fines. Estas preparaciones pueden contener pequeñas cantidades de fragmentos visibles de carne, despojos o de insectos. La subpartida 1602.10 tendrá prioridad sobre las demás subpartidas de la partida 16.02. 2. Los pescados, crustáceos, moluscos y demás invertebrados acuáticos citados en las subpartidas de las partidas 16.04 y 16.05 solo con los nombres vulgares corresponden a las mismas especies mencionadas en el Capítulo 03 con el mismo nombre.
@@ -1047,6 +1079,7 @@ Sepias (jibias), globitos, calamares y 1605.54 -potas.
 Sepias (jibias), globitos, calamares y 1605.54.01 Kg 20 Ex. potas. 1605.55 -- Pulpos. 1605.55.01 Pulpos. Kg 20 Ex. 1605.56 -- Almejas, berberechos y arcas. 1605.56.01 Almejas, berberechos y arcas. Kg 20 Ex. 1605.57 -- Abulones u orejas de mar. 1605.57.01 Abulones u orejas de mar. Kg 20 Ex. 1605.58 -- Caracoles, excepto los de mar. 1605.58.01 Caracoles, excepto los de mar. Kg 20 Ex. 1605.59 -- Los demás. 1605.59.99 Los demás. Kg 20 Ex. - Los demás invertebrados acuáticos: 1605.61 -- Pepinos de mar. 1605.61.01 Pepinos de mar. Kg 20 Ex. 1605.62 -- Erizos de mar. 1605.62.01 Erizos de mar. Kg 20 Ex. 1605.63 -- Medusas. 1605.63.01 Medusas. Kg 20 Ex. 1605.69 -- Los demás. 1605.69.99 Los demás. Kg 20 Ex. _______________
 
 ## Capítulo 17
+
 Azúcares y artículos de confitería Nota. 1. Este Capítulo no comprende:
 
 a) los artículos de confitería que contengan cacao (partida 18.06);
@@ -1087,6 +1120,7 @@ AMX (20%+0.36 1704.90.99 Los demás. Kg Ex.
 Dls por Kg de azúcar) _______________
 
 ## Capítulo 18
+
 Cacao y sus preparaciones Notas. 1. Este Capítulo no comprende:
 
 a) las preparaciones alimenticias que contengan una proporción superior al 20% en peso de embutidos, carne, despojos, sangre, insectos, pescado o de crustáceos, moluscos o demás invertebrados acuáticos, o de una combinación de estos productos (Capítulo 16);
@@ -1115,6 +1149,7 @@ AMX (20%+0.36 1806.90.99 Los demás. Kg Ex.
 Dls por Kg de azúcar) _______________
 
 ## Capítulo 19
+
 Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería Notas. 1. Este Capítulo no comprende:
 
 a) las preparaciones alimenticias que contengan una proporción superior al 20% en peso de embutidos, carne, despojos, sangre, insectos, pescado o de crustáceos, moluscos o demás invertebrados acuáticos, o de una combinación de estos productos (Capítulo 16), excepto los productos rellenos de la partida 19.02;
@@ -1169,6 +1204,7 @@ Arancel modificado con vigencia temporal y acotación 1905.90.99 “Únicamente:
 Arancel modificado con vigencia temporal y acotación “Únicamente pan de caja” DOF 06-01-2023 (se mantiene Imp. Ex.) _______________
 
 ## Capítulo 20
+
 Preparaciones de hortalizas, frutas u otros frutos o demás partes de plantas Notas. 1. Este Capítulo no comprende:
 
 a) las hortalizas y frutas u otros frutos preparados o conservados por los procedimientos citados en los Capítulos 07, 08 u 11;
@@ -1182,6 +1218,7 @@ d) los productos de panadería, pastelería o galletería y los demás productos
 e) las preparaciones alimenticias compuestas homogeneizadas de la partida 21.04. 2. Las partidas 20.07 y 20.08 no comprenden las jaleas y pastas de frutas u otros frutos, las almendras confitadas y los productos similares presentados como artículos de confitería (partida 17.04) ni los artículos de chocolate (partida 18.06). 3. Las partidas 20.01, 20.04 y 20.05 comprenden, según los casos, solo los productos del Capítulo 07 o de las partidas 11.05 u 11.06 (excepto la harina, sémola y polvo de los productos del
 
 ## Capítulo 08 — ), preparados o conservados por procedimientos distintos de los mencionados en la
+
 Nota 1 a). 4. El jugo de tomate con un contenido de extracto seco superior o igual al 7% en peso, se clasifica en la partida 20.02. 5. En la partida 20.07, la expresión obtenidos por cocción significa obtenidos por tratamiento térmico a presión atmosférica o bajo presión reducida con el fin de aumentar la viscosidad del producto por reducción de su contenido de agua u otros medios. 6. En la partida 20.09, se entiende por jugos sin fermentar y sin adición de alcohol, los jugos cuyo grado alcohólico volumétrico sea inferior o igual al 0.5% vol. (véase la Nota 2 del Capítulo 22).
 Notas de subpartida. 1. En la subpartida 2005.10, se entiende por hortalizas homogeneizadas, las preparaciones de hortalizas, finamente homogeneizadas, acondicionadas para la venta al por menor como alimento para lactantes o niños de corta edad o para uso dietético en recipientes con un contenido de peso neto inferior o igual a 250 g. Para la aplicación de esta definición se hará abstracción, en su caso, de los diversos ingredientes añadidos a la preparación en pequeña cantidad para sazonar, conservar u otros fines. Estas preparaciones pueden contener pequeñas cantidades de fragmentos visibles de hortalizas. La subpartida 2005.10 tendrá prioridad sobre las demás subpartidas de la partida 20.05. 2. En la subpartida 2007.10, se entiende por preparaciones homogeneizadas, las preparaciones de frutas u otros frutos finamente homogeneizadas, acondicionadas para la venta al por menor como alimento para lactantes o niños de corta edad o para uso dietético en recipientes con un contenido de peso neto inferior o igual a 250 g. Para la aplicación de esta definición se hará abstracción, en su caso, de los diversos ingredientes añadidos a la preparación en pequeña cantidad para sazonar, conservar u otros fines. Estas preparaciones pueden contener pequeñas cantidades de fragmentos visibles de frutas u otros frutos. La subpartida 2007.10 tendrá prioridad sobre las demás subpartidas de la partida 20.07. 3. En las subpartidas 2009.12, 2009.21, 2009.31, 2009.41, 2009.61 y 2009.71, se entiende por valor Brix los grados Brix leídos directamente en la escala de un hidrómetro Brix o el índice de refracción expresado en porcentaje del contenido de sacarosa medido en refractómetro, a una temperatura de 20ºC o corregido para una temperatura de 20ºC cuando la lectura se realice a una temperatura diferente.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
@@ -1227,6 +1264,7 @@ Jugo de arándanos agrios, trepadores o palustres (Vaccinium macrocarpon, 2009.8
 Jugo de arándanos agrios, trepadores o palustres (Vaccinium macrocarpon, 2009.81.01 Vaccinium oxycoccos); jugo de arándanos L 20 Ex. rojos o encarnados (Vaccinium vitisidaea). 2009.89 -- Los demás. 2009.89.99 Los demás. L 20 Ex. 2009.90 - Mezclas de jugos. 2009.90.02 Mezclas de jugos. L 20 Ex. _______________
 
 ## Capítulo 21
+
 Preparaciones alimenticias diversas Notas. 1. Este Capítulo no comprende:
 
 a) las mezclas de hortalizas de la partida 07.12;
@@ -1280,6 +1318,7 @@ AMX (15%+0.36 2106.90.99 Las demás. Kg Ex.
 Dls por Kg de azúcar) _______________
 
 ## Capítulo 22
+
 Bebidas, líquidos alcohólicos y vinagre Notas. 1. Este Capítulo no comprende:
 
 a) los productos de este Capítulo (excepto los de la partida 22.09) preparados para uso culinario de tal forma que resulten impropios para el consumo como bebida (generalmente, partida 21.03);
@@ -1330,6 +1369,7 @@ Vinagre y sucedáneos del vinagre obtenidos 2209.00 a partir del ácido acético
 Vinagre y sucedáneos del vinagre obtenidos 2209.00.01 L 20 Ex. a partir del ácido acético. _______________
 
 ## Capítulo 23
+
 Residuos y desperdicios de las industrias alimentarias; alimentos preparados para animales Nota. 1. Se incluyen en la partida 23.09 los productos de los tipos utilizados para la alimentación de los animales, no expresados ni comprendidos en otra parte, obtenidos por tratamiento de materias vegetales o animales y que, por este hecho, hayan perdido las características esenciales de la materia originaria, excepto los desperdicios vegetales, residuos y subproductos vegetales procedentes de estos tratamientos.
 Nota de subpartida. 1. En la subpartida 2306.41, se entiende por de semillas de nabo (nabina) o de colza con bajo contenido de ácido erúcico las semillas definidas en la Nota 1 de subpartida del Capítulo 12.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
@@ -1366,6 +1406,7 @@ Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 10) Arancel 
 Mezclas, preparaciones o productos de 2309.90.04 origen orgánico para la alimentación de Kg 20 Ex. peces de ornato. 2309.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 24
+
 Tabaco y sucedáneos del tabaco elaborados; productos, incluso con nicotina, destinados para la inhalación sin combustión; otros productos que contengan nicotina destinados para la absorción de nicotina en el cuerpo humano Notas. 1. Este Capítulo no comprende los cigarrillos medicinales (Capítulo 30). 2. Cualquier producto susceptible de clasificarse en la partida 24.04 y en otra partida de este Capítulo, se clasifica en la partida 24.04. 3. En la partida 24.04, se entiende por inhalación sin combustión, la inhalación a través de calentamiento u otros medios, sin combustión.
 Nota de subpartida. 1. En la subpartida 2403.11, se considera tabaco para pipa de agua el tabaco destinado a ser fumado en una pipa de agua y que está constituido por una mezcla de tabaco y glicerol, incluso con aceites y extractos aromáticos, melaza o azúcar, e incluso aromatizado o saborizado con frutas. Sin embargo, los productos para pipa de agua, que no contengan tabaco, se excluyen de esta subpartida.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
@@ -1392,7 +1433,9 @@ Para administrarse por vía 2404.92.01 Kg 5 Ex. transdérmica. 2404.99 -- Los de
 
 ## Sección V — PRODUCTOS MINERALES
 
+
 ## Capítulo 25
+
 Sal; azufre; tierras y piedras; yesos, cales y cementos Notas. 1. Salvo disposición en contrario y a reserva de lo previsto en la Nota 4 siguiente, solo se clasifican en las partidas de este Capítulo los productos en bruto o los productos lavados (incluso con sustancias químicas que eliminen las impurezas sin cambiar la estructura del producto), quebrantados, triturados, molidos, pulverizados, levigados, cribados, tamizados, enriquecidos por flotación, separación magnética u otros procedimientos mecánicos o físicos (excepto la cristalización), pero no los productos tostados, calcinados, los obtenidos por mezcla o los sometidos a un tratamiento que supere al indicado en cada partida.
 Se puede añadir a los productos de este Capítulo una sustancia antipolvo, siempre que no haga al producto más apto para usos determinados que para uso general. 2. Este Capítulo no comprende:
 
@@ -1485,6 +1528,7 @@ Kieserita, epsomita (sulfatos de magnesio 2530.20 naturales).
 Kieserita, epsomita (sulfatos de magnesio 2530.20.01 Kg Ex. Ex. naturales). 2530.90 - Las demás. 2530.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 26
+
 Minerales metalíferos, escorias y cenizas Notas. 1. Este Capítulo no comprende:
 
 a) las escorias y desechos industriales similares preparados en forma de macadán (partida 25.17);
@@ -1543,6 +1587,7 @@ Cenizas y residuos procedentes de la 2621.10 incineración de desechos municipal
 Cenizas y residuos procedentes de la 2621.10.01 Kg Ex. Ex. incineración de desechos municipales. 2621.90 - Las demás. 2621.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 27
+
 Combustibles minerales, aceites minerales y productos de su destilación; materias bituminosas; ceras minerales Notas. 1. Este Capítulo no comprende:
 
 a) los productos orgánicos de constitución química definida presentados aisladamente; esta exclusión no afecta al metano ni al propano puros, que se clasifican en la partida 27.11;
@@ -1607,6 +1652,7 @@ Mezclas bituminosas a base de asfalto o de betún naturales, de betún de petró
 Betunes fluidificados; mezclas bituminosas a base de asfalto acondicionadas para su 2715.00.01 Kg Ex. Ex. venta en envases con capacidad inferior o igual a 200 l. 2715.00.99 Los demás. Kg Ex. 25 27.16 Energía eléctrica. 2716.00 Energía eléctrica. 2716.00.01 Energía eléctrica. KWH Ex. Ex. _______________
 
 ## Sección VI — PRODUCTOS DE LAS INDUSTRIAS QUÍMICAS O DE LAS INDUSTRIAS CONEXAS
+
 Notas. 1. A) Cualquier producto que responda al texto específico de una de las partidas 28.44 o 28.45, se clasifica en dicha partida y no en otra de la Nomenclatura, excepto los minerales de metales radiactivos.
 B) Salvo lo dispuesto en el apartado A) anterior, cualquier producto que responda al texto específico de una de las partidas 28.43, 28.46 o 28.52, se clasifica en dicha partida y no en otra de esta Sección. 2. Sin perjuicio de las disposiciones de la Nota 1 anterior, cualquier producto que, por su presentación en forma de dosis o por su acondicionamiento para la venta al por menor, pueda incluirse en una de las partidas 30.04, 30.05, 30.06, 32.12, 33.03, 33.04, 33.05, 33.06, 33.07, 35.06, 37.07 o 38.08, se clasifica en dicha partida y no en otra de la Nomenclatura. 3. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
@@ -1617,6 +1663,7 @@ b) presentados simultáneamente;
 c) identificables, por su naturaleza o por sus cantidades respectivas, como complementarios unos de otros. 4. Cuando un producto responda a las especificaciones de una o más de las partidas de la Sección VI, por el hecho de que en ellas se mencione su nombre o función y también responda a las especificaciones de la partida 38.27, se clasifica en la partida cuyo texto mencione su nombre o función y no en la partida 38.27. __________
 
 ## Capítulo 28
+
 Productos químicos inorgánicos; compuestos inorgánicos u orgánicos de metal precioso, de elementos radiactivos, de metales de las tierras raras o de isótopos Notas. 1. Salvo disposición en contrario, las partidas de este Capítulo comprenden solamente:
 
 a) los elementos químicos aislados y los compuestos de constitución química definida presentados aisladamente, aunque contengan impurezas;
@@ -1642,6 +1689,7 @@ e) el peróxido de hidrógeno solidificado con urea (partida 28.47), el oxisulfu
 a) el cloruro de sodio y el óxido de magnesio, incluso puros, y los demás productos de la
 
 ## Sección V — ;
+
 b) los compuestos órgano-inorgánicos, excepto los mencionados en la Nota 2 anterior;
 
 c) los productos citados en las Notas 2, 3, 4 o 5 del Capítulo 31;
@@ -1655,6 +1703,7 @@ f) las piedras preciosas o semipreciosas (naturales, sintéticas o reconstituida
 g) los metales, incluso puros, las aleaciones metálicas o los cermets, incluidos los carburos metálicos sinterizados (es decir, carburos metálicos sinterizados con un metal), de la
 
 ## Sección XV — ;
+
 h) los elementos de óptica, por ejemplo, los de sales halogenadas de metales alcalinos o alcalinotérreos (partida 90.01). 4. Los ácidos complejos de constitución química definida constituidos por un ácido de elementos no metálicos del Subcapítulo II y un ácido que contenga un elemento metálico del Subcapítulo IV, se clasifican en la partida 28.11. 5. Las partidas 28.26 a 28.42 comprenden solamente las sales y peroxosales de metales y las de amonio.
 Salvo disposición en contrario, las sales dobles o complejas se clasifican en la partida 28.42. 6. La partida 28.44 comprende solamente:
 
@@ -1781,6 +1830,7 @@ Compuestos inorgánicos u orgánicos de mercurio, aunque no sean de 28.52 consti
 Fosfuros, aunque no sean de constitución química definida, excepto los ferrofósforos; los demás compuestos inorgánicos (incluida el 28.53 agua destilada, de conductividad o del mismo grado de pureza); aire líquido, aunque se le hayan eliminado los gases nobles; aire comprimido; amalgamas, excepto las de metal precioso. 2853.10 - Cloruro de cianógeno ("chlorcyan"). 2853.10.01 Cloruro de cianógeno ("chlorcyan"). Kg Ex. Ex. 2853.90 - Los demás. 2853.90.99 Los demás. Kg Ex. Ex. _______________
 
 ## Capítulo 29
+
 Productos químicos orgánicos Notas. 1. Salvo disposición en contrario, las partidas de este Capítulo comprenden solamente:
 
 a) los compuestos orgánicos de constitución química definida presentados aisladamente, aunque contengan impurezas;
@@ -2241,6 +2291,7 @@ Eritromicina y sus derivados; sales 2941.50.02 Kg Ex. Ex. de estos productos. 29
 Los demás compuestos 29.42 orgánicos. 2942.00 Los demás compuestos orgánicos. 2942.00.91 Los demás compuestos orgánicos. Kg Ex. Ex. _______________
 
 ## Capítulo 30
+
 Productos farmacéuticos Notas. 1. Este Capítulo no comprende:
 
 a) los alimentos dietéticos, alimentos enriquecidos, alimentos para diabéticos, complementos alimenticios, bebidas tónicas y el agua mineral (Sección IV), excepto las preparaciones nutritivas para administración por vía intravenosa;
@@ -2442,6 +2493,7 @@ Dls por Kg de base de azúcar. azúcar) AMX (20%+0.36 3006.93.03 En forma líqui
 Dls por Kg de azúcar) En forma de kit que contengan 3006.93.04 Kg 10 Ex. medicamentos. 3006.93.99 Los demás. Kg 5 Ex. _______________
 
 ## Capítulo 31
+
 Abonos Notas. 1. Este Capítulo no comprende:
 
 a) la sangre animal de la partida 05.11;
@@ -2519,6 +2571,7 @@ Abonos minerales o químicos con los dos elementos fertilizantes: fósforo y 310
 Arancel con facilidades de importación de vigencia temporal DOF 06-01-2023 3105.90 - Los demás. 3105.90.99 Los demás. Kg Ex. Ex. _______________
 
 ## Capítulo 32
+
 Extractos curtientes o tintóreos; taninos y sus derivados; pigmentos y demás materias colorantes; pinturas y barnices; mástiques; tintas Notas. 1. Este Capítulo no comprende:
 
 a) los productos de constitución química definida presentados aisladamente, excepto los que respondan a las especificaciones de las partidas 32.03 o 32.04, los productos inorgánicos de los tipos utilizados como luminóforos (partida 32.06), los vidrios procedentes del cuarzo o demás sílices, fundidos, en las formas previstas en la partida 32.07 y los tintes y demás materias colorantes presentados en formas o en envases para la venta al por menor de la partida 32.12;
@@ -2621,6 +2674,7 @@ Tintas de imprimir, tintas de escribir o 32.15 de dibujar y demás tintas, inclu
 Tintas a base de mezclas de parafinas o 3215.90.02 Kg 5 Ex. grasas con materias colorantes. 3215.90.03 Pastas a base de gelatina. Kg 5 Ex. 3215.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 33
+
 Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética Notas. 1. Este Capítulo no comprende:
 
 a) las oleorresinas naturales o extractos vegetales de las partidas 13.01 o 13.02;
@@ -2639,47 +2693,68 @@ De los tipos utilizados en las industrias 3302.10 alimentarias o de bebidas.
 Extractos y concentrados de los tipos utilizados en la elaboración de bebidas que 3302.10.01 L Ex. Ex. contengan alcohol, a base de sustancias odoríferas.
 Las demás preparaciones de los tipos utilizados en la elaboración de bebidas que 3302.10.91 L 15 Ex. contengan alcohol, a base de sustancias odoríferas. 3302.10.99 Los demás. Kg 10 Ex. 3302.90 - Las demás. 3302.90.99 Las demás. Kg 5 Ex. 33.03 Perfumes y aguas de tocador. 3303.00 Perfumes y aguas de tocador.
 Aguas de tocador. 3303.00.01 L 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 3303.00.99 L 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones de belleza, maquillaje y para el cuidado de la piel, excepto los medicamentos, incluidas las 33.04 preparaciones antisolares y las bronceadoras; preparaciones para manicuras o pedicuros.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 3303.00.99 L 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones de belleza, maquillaje y para el cuidado de la piel, excepto los medicamentos, incluidas las 33.04 preparaciones antisolares y las bronceadoras; preparaciones para manicuras o pedicuros.
 Preparaciones para el maquillaje de los 3304.10 labios.
 Preparaciones para el maquillaje de los 3304.10.01 labios. Kg 36 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones para el maquillaje de los 3304.20 ojos. 3304.20.01 Preparaciones para el maquillaje de los Kg 25 Ex. ojos.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3304.30 - Preparaciones para manicuras o pedicuros.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones para el maquillaje de los 3304.20 ojos. 3304.20.01 Preparaciones para el maquillaje de los Kg 25 Ex. ojos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3304.30 - Preparaciones para manicuras o pedicuros.
 Preparaciones para manicuras o pedicuros. 3304.30.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Las demás: 3304.91 -- Polvos, incluidos los compactos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Las demás: 3304.91 -- Polvos, incluidos los compactos.
 Polvos, incluidos los compactos. 3304.91.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3304.99 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3304.99 -- Las demás.
 Leches cutáneas. 3304.99.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Las demás. 3304.99.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 33.05 Preparaciones capilares. 3305.10 - Champúes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Las demás. 3304.99.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+33.05 Preparaciones capilares. 3305.10 - Champúes.
 Champúes. 3305.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones para ondulación o desrizado 3305.20 permanentes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones para ondulación o desrizado 3305.20 permanentes.
 Preparaciones para ondulación o desrizado 3305.20.01 permanentes. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3305.30 - Lacas para el cabello.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3305.30 - Lacas para el cabello.
 Lacas para el cabello. 3305.30.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3305.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3305.90 - Las demás.
 Las demás. 3305.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones para higiene bucal o dental, incluidos los polvos y cremas para la adherencia de las dentaduras; 33.06 hilo utilizado para limpieza de los espacios interdentales (hilo dental), en envases individuales para la venta al por menor. 3306.10 - Dentífricos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones para higiene bucal o dental, incluidos los polvos y cremas para la adherencia de las dentaduras; 33.06 hilo utilizado para limpieza de los espacios interdentales (hilo dental), en envases individuales para la venta al por menor. 3306.10 - Dentífricos.
 Dentífricos. 3306.10.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilo utilizado para limpieza de los espacios 3306.20 interdentales (hilo dental).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilo utilizado para limpieza de los espacios 3306.20 interdentales (hilo dental).
 Hilo utilizado para limpieza de los espacios 3306.20.02 interdentales (hilo dental). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3306.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3306.90 - Los demás.
 Los demás. 3306.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones para afeitar o para antes o después del afeitado, desodorantes 33.07 corporales, preparaciones para el baño, depilatorios y demás preparaciones de perfumería, de tocador o de cosmética, no expresadas ni comprendidas en otra parte; preparaciones desodorantes de locales, incluso sin perfumar, aunque tengan propiedades desinfectantes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones para afeitar o para antes o después del afeitado, desodorantes 33.07 corporales, preparaciones para el baño, depilatorios y demás preparaciones de perfumería, de tocador o de cosmética, no expresadas ni comprendidas en otra parte; preparaciones desodorantes de locales, incluso sin perfumar, aunque tengan propiedades desinfectantes.
 Preparaciones para afeitar o para antes o 3307.10 después del afeitado.
 Preparaciones para afeitar o para antes o 3307.10.01 después del afeitado. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3307.20 - Desodorantes corporales y antitraspirantes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3307.20 - Desodorantes corporales y antitraspirantes.
 Desodorantes corporales y antitraspirantes. 3307.20.01 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 10) Sales perfumadas y demás preparaciones 3307.30 para el baño.
 Sales perfumadas y demás preparaciones 3307.30.01 para el baño. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones para perfumar o desodorizar - locales, incluidas las preparaciones odoríferas para ceremonias religiosas: "Agarbatti" y demás preparaciones 3307.41 -odoríferas que actúan por combustión. "Agarbatti" y demás preparaciones 3307.41.01 odoríferas que actúan por combustión. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3307.49 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones para perfumar o desodorizar - locales, incluidas las preparaciones odoríferas para ceremonias religiosas: "Agarbatti" y demás preparaciones 3307.41 -odoríferas que actúan por combustión. "Agarbatti" y demás preparaciones 3307.41.01 odoríferas que actúan por combustión. Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3307.49 -- Las demás.
 Las demás. 3307.49.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3307.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3307.90 - Los demás.
 Los demás. 3307.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 34
+
 Jabón, agentes de superficie orgánicos, preparaciones para lavar, preparaciones lubricantes, ceras artificiales, ceras preparadas, productos de limpieza, velas y artículos similares, pastas para modelar, ceras para odontología y preparaciones para odontología a base de yeso fraguable Notas. 1. Este Capítulo no comprende:
 
 a) las mezclas o preparaciones alimenticias de grasas o de aceites, animales, vegetales o de origen microbiano, de los tipos utilizados como preparaciones de desmoldeo (partida 15.17);
@@ -2711,11 +2786,14 @@ Jabón, productos y preparaciones orgánicos tensoactivos, en barras, panes, tro
 De tocador (incluso los medicinales).
 Arancel modificado con vigencia temporal DOF 18-11-2022 3401.11.01 Kg Ex. Ex. (antes Imp. 15) Arancel modificado con vigencia temporal y acotación “Excepto medicinales” DOF 06-01-2023 (se mantiene Imp. Ex.) 3401.19 -- Los demás.
 Los demás. 3401.19.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3401.20 - Jabón en otras formas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3401.20 - Jabón en otras formas.
 Jabón en otras formas. 3401.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Productos y preparaciones orgánicos tensoactivos para el lavado de la piel, 3401.30 - líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Productos y preparaciones orgánicos tensoactivos para el lavado de la piel, 3401.30 - líquidos o en crema, acondicionados para la venta al por menor, aunque contengan jabón.
 Productos y preparaciones orgánicos tensoactivos para el lavado de la piel, líquidos o en crema, acondicionados 3401.30.01 Kg 25 Ex. para la venta al por menor, aunque contengan jabón.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Agentes de superficie orgánicos (excepto el jabón); preparaciones tensoactivas, preparaciones para lavar 34.02 (incluidas las preparaciones auxiliares de lavado) y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 34.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Agentes de superficie orgánicos (excepto el jabón); preparaciones tensoactivas, preparaciones para lavar 34.02 (incluidas las preparaciones auxiliares de lavado) y preparaciones de limpieza, aunque contengan jabón, excepto las de la partida 34.01.
 Agentes de superficie orgánicos - aniónicos, incluso acondicionados para la venta al por menor:
 Ácidos alquilbenceno sulfónicos lineales 3402.31 -y sus sales. 3402.31.01 Ácidos alquilbenceno sulfónicos lineales Kg Ex. Ex. y sus sales. 3402.39 -- Los demás.
 Sulfonatos sódicos de octenos y de 3402.39.01 Kg 5 Ex. isooctenos. 3402.39.99 Los demás. Kg Ex. Ex.
@@ -2746,7 +2824,8 @@ Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel 
 Abrillantadores (lustres) y preparaciones 3405.30.01 similares para carrocerías, excepto las Kg 15 Ex. preparaciones para lustrar metal.
 Pastas, polvos y demás preparaciones 3405.40 para fregar.
 Pastas, polvos y demás preparaciones 3405.40.01 para fregar. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3405.90 - Las demás. 3405.90.01 Lustres para metal. Kg 15 Ex. 3405.90.99 Las demás. Kg 15 Ex. 34.06 Velas, cirios y artículos similares. 3406.00 Velas, cirios y artículos similares. 3406.00.01 Velas, cirios y artículos similares. Kg 20 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3405.90 - Las demás. 3405.90.01 Lustres para metal. Kg 15 Ex. 3405.90.99 Las demás. Kg 15 Ex. 34.06 Velas, cirios y artículos similares. 3406.00 Velas, cirios y artículos similares. 3406.00.01 Velas, cirios y artículos similares. Kg 20 Ex.
 Pastas para modelar, incluidas las presentadas para entretenimiento de 34.07 los niños; preparaciones llamadas "ceras para odontología" o "compuestos para impresión dental", presentadas en juegos o surtidos, en envases para la venta al por menor o en plaquitas, herraduras, barritas o formas similares; las demás preparaciones para odontología a base de yeso fraguable.
 Pastas para modelar, incluidas las presentadas para entretenimiento de los niños; preparaciones llamadas "ceras para odontología" o "compuestos para impresión dental", presentadas en juegos 3407.00 o surtidos, en envases para la venta al por menor o en plaquitas, herraduras, barritas o formas similares; las demás preparaciones para odontología a base de yeso fraguable.
 Estuco o yeso preparado en polvo o en 3407.00.03 Kg Ex. Ex. pasta para trabajos dentales.
@@ -2754,6 +2833,7 @@ Conjunto para impresiones dentales, conteniendo principalmente una pasta a base 
 Preparaciones denominadas "ceras para 3407.00.05 Kg Ex. Ex. odontología". 3407.00.99 Los demás. Kg 5 Ex. _______________
 
 ## Capítulo 35
+
 Materias albuminoideas; productos a base de almidón o de fécula modificados; colas; enzimas Notas. 1. Este Capítulo no comprende:
 
 a) las levaduras (partida 21.02);
@@ -2795,6 +2875,7 @@ Preparación de enzima proteolítica 3507.90.09 obtenida por fermentación sumer
 Bacillus subtilis y/o Bacillus licheniformis. 3507.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 36
+
 Pólvora y explosivos; artículos de pirotecnia; fósforos (cerillas); aleaciones pirofóricas; materias inflamables Notas. 1. Este Capítulo no comprende los productos de constitución química definida presentados aisladamente, excepto los citados en las Notas 2 a) o 2 b) siguientes. 2. En la partida 36.06, se entiende por artículos de materias inflamables, exclusivamente:
 
 a) el metaldehído, la hexametilentetramina y productos similares, en tabletas, barritas o formas análogas, que impliquen su utilización como combustibles, así como los combustibles a base de alcohol y los combustibles preparados similares, sólidos o en pasta;
@@ -2817,6 +2898,7 @@ Combustibles líquidos y gases combustibles licuados en recipientes de 3606.10.0
 Ferrocerio y otras aleaciones pirofóricas, 3606.90.02 cualquiera que sea su forma de Kg Ex. Ex. presentación. 3606.90.99 Los demás. Kg 10 Ex. _______________
 
 ## Capítulo 37
+
 Productos fotográficos o cinematográficos Notas. 1. Este Capítulo no comprende los desperdicios ni los materiales de desecho. 2. En este Capítulo, el término fotográfico se refiere al procedimiento mediante el cual se forman imágenes visibles sobre superficies fotosensibles, incluidas las termosensibles, directa o indirectamente, por la acción de la luz o de otras formas de radiación.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Placas y películas planas, fotográficas, sensibilizadas, sin impresionar, excepto las de papel, cartón o textiles; 37.01 películas fotográficas planas autorrevelables, sensibilizadas, sin impresionar, incluso en cargadores. 3701.10 - Para rayos X.
@@ -2865,6 +2947,7 @@ Películas cinematográficas educativas, 3706.90.01 aun cuando tengan impresión
 Preparaciones químicas para uso fotográfico, excepto los barnices, colas, adhesivos y preparaciones 37.07 similares; productos sin mezclar para uso fotográfico, dosificados o acondicionados para la venta al por menor listos para su empleo. 3707.10 - Emulsiones para sensibilizar superficies. 3707.10.01 Emulsiones para sensibilizar superficies. Kg Ex. Ex. 3707.90 - Los demás. 3707.90.02 Los demás. Kg Ex. Ex. _______________
 
 ## Capítulo 38
+
 Productos diversos de las industrias químicas Notas. 1. Este Capítulo no comprende:
 
 a) los productos de constitución química definida presentados aisladamente, excepto los siguientes: 1) el grafito artificial (partida 38.01); 2) los insecticidas, raticidas y demás antirroedores, fungicidas, herbicidas, inhibidores de germinación y reguladores del crecimiento de las plantas, desinfectantes y productos similares, presentados en las formas o envases previstos en la partida 38.08; 3) los productos extintores presentados como cargas para aparatos extintores o en granadas o bombas extintoras (partida 38.13); 4) los materiales de referencia certificados especificados en la Nota 2 siguiente; 5) los productos citados en las Notas 3 a) o 3 c) siguientes;
@@ -3164,6 +3247,7 @@ Las demás, no comprendidas en subpartidas anteriores, que 3827.68 -contengan su
 Las demás, no comprendidas en subpartidas anteriores, que 3827.68.91 Kg Ex. Ex. contengan sustancias de las subpartidas 2903.41 a 2903.48. 3827.69 -- Las demás. 3827.69.99 Las demás. Kg Ex. Ex. 3827.90 - Las demás. 3827.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Sección VII — PLÁSTICO Y SUS MANUFACTURAS; CAUCHO Y SUS MANUFACTURAS
+
 Notas. 1. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
 a) por su acondicionamiento, netamente identificables como destinados a utilizarse juntos sin previo reacondicionamiento;
@@ -3173,6 +3257,7 @@ b) presentados simultáneamente;
 c) identificables, por su naturaleza o por sus cantidades respectivas, como complementarios unos de otros. 2. El plástico, el caucho y las manufacturas de estas materias, con impresiones o ilustraciones que no tengan un carácter accesorio en relación con su utilización principal, corresponden al Capítulo 49, excepto los artículos de las partidas 39.18 o 39.19. _______________
 
 ## Capítulo 39
+
 Plástico y sus manufacturas Notas. 1. En la Nomenclatura, se entiende por plástico las materias de las partidas 39.01 a 39.14 que, sometidas a una influencia exterior (generalmente el calor y la presión y, en su caso, la acción de un disolvente o de un plastificante), son o han sido susceptibles de adquirir una forma por moldeo, colada, extrusión, laminado o cualquier otro procedimiento, en el momento de la polimerización o en una etapa posterior, forma que conservan cuando esta influencia ha dejado de ejercerse.
 En la Nomenclatura, el término plástico comprende también la fibra vulcanizada. Sin embargo, dicho término no se aplica a las materias textiles de la Sección XI. 2. Este Capítulo no comprende:
 
@@ -3375,156 +3460,242 @@ MANUFACTURAS Desechos, desperdicios y recortes, de 39.15 plástico. 3915.10 - De
 De manufacturas de polimetacrilato de 3915.90.01 Kg 15 Ex. metilo. 3915.90.99 Los demás. Kg 10 Ex.
 Monofilamentos cuya mayor dimensión de la sección transversal sea superior a 39.16 1 mm, barras, varillas y perfiles, incluso trabajados en la superficie pero sin otra labor, de plástico. 3916.10 - De polímeros de etileno.
 De polímeros de etileno. 3916.10.02 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3916.20 - De polímeros de cloruro de vinilo.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3916.20 - De polímeros de cloruro de vinilo.
 De polímeros de cloruro de vinilo. 3916.20.03 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3916.90 - De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3916.90 - De los demás plásticos.
 De los demás plásticos. 3916.90.91 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Tubos y accesorios de tubería (por 39.17 ejemplo: juntas, codos, empalmes (racores)), de plástico.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Tubos y accesorios de tubería (por 39.17 ejemplo: juntas, codos, empalmes (racores)), de plástico.
 Tripas artificiales de proteínas endurecidas 3917.10 o de plásticos celulósicos.
 Tripas artificiales de proteínas endurecidas 3917.10.05 o de plásticos celulósicos. Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Tubos rígidos: 3917.21 -- De polímeros de etileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Tubos rígidos: 3917.21 -- De polímeros de etileno.
 De polímeros de etileno. 3917.21.03 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3917.22 -- De polímeros de propileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3917.22 -- De polímeros de propileno.
 De polímeros de propileno. 3917.22.03 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3917.23 -- De polímeros de cloruro de vinilo.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3917.23 -- De polímeros de cloruro de vinilo.
 De polímeros de cloruro de vinilo. 3917.23.04 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3917.29 -- De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3917.29 -- De los demás plásticos.
 De los demás plásticos. 3917.29.91 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Los demás tubos:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Los demás tubos:
 Tubos flexibles para una presión superior o 3917.31 -igual a 27.6 MPa.
 Tubos flexibles para una presión superior o 3917.31.01 igual a 27.6 MPa. Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás, sin reforzar ni combinar con 3917.32 -otras materias, sin accesorios.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás, sin reforzar ni combinar con 3917.32 -otras materias, sin accesorios.
 Los demás, sin reforzar ni combinar con 3917.32.91 otras materias, sin accesorios. Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás, sin reforzar ni combinar con 3917.33 -otras materias, con accesorios.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás, sin reforzar ni combinar con 3917.33 -otras materias, con accesorios.
 Tubería de materias plásticas artificiales, hasta de 20 mm de diámetro exterior, con 3917.33.01 Kg 25 Ex. goteras integradas, para riego agrícola.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 3917.33.99 Kg 15 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3917.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 3917.33.99 Kg 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3917.39 -- Los demás.
 Los demás. 3917.39.99 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3917.40 - Accesorios.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3917.40 - Accesorios.
 Accesorios. 3917.40.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Revestimientos de plástico para suelos, incluso autoadhesivos, en rollos o 39.18 losetas; revestimientos de plástico para paredes o techos, definidos en la Nota 9 de este Capítulo. 3918.10 - De polímeros de cloruro de vinilo.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Revestimientos de plástico para suelos, incluso autoadhesivos, en rollos o 39.18 losetas; revestimientos de plástico para paredes o techos, definidos en la Nota 9 de este Capítulo. 3918.10 - De polímeros de cloruro de vinilo.
 De polímeros de cloruro de vinilo. 3918.10.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3918.90 - De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3918.90 - De los demás plásticos.
 De los demás plásticos. 3918.90.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Placas, láminas, hojas, cintas, tiras y 39.19 demás formas planas, autoadhesivas, de plástico, incluso en rollos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Placas, láminas, hojas, cintas, tiras y 39.19 demás formas planas, autoadhesivas, de plástico, incluso en rollos.
 En rollos de anchura inferior o igual a 20 3919.10 cm.
 En rollos de anchura inferior o igual a 20 3919.10.01 cm. Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3919.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3919.90 - Las demás.
 Las demás. 3919.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás placas, láminas, hojas y tiras, de plástico no celular y sin refuerzo, 39.20 estratificación ni soporte o combinación similar con otras materias. 3920.10 - De polímeros de etileno.
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás placas, láminas, hojas y tiras, de plástico no celular y sin refuerzo, 39.20 estratificación ni soporte o combinación similar con otras materias. 3920.10 - De polímeros de etileno.
 De polímeros de etileno. 3920.10.05 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.20 - De polímeros de propileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.20 - De polímeros de propileno.
 De polímeros de propileno. 3920.20.05 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.30 - De polímeros de estireno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.30 - De polímeros de estireno.
 De polímeros de estireno. 3920.30.04 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - De polímeros de cloruro de vinilo:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- De polímeros de cloruro de vinilo:
 Con un contenido de plastificantes superior 3920.43 -o igual al 6% en peso.
 Con un contenido de plastificantes superior 3920.43.03 o igual al 6% en peso. Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.49 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.49 -- Las demás.
 Las demás. 3920.49.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - De polímeros acrílicos: 3920.51 -- De poli(metacrilato de metilo).
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- De polímeros acrílicos: 3920.51 -- De poli(metacrilato de metilo).
 De poli(metacrilato de metilo). 3920.51.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.59 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.59 -- Las demás.
 Las demás. 3920.59.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De policarbonatos, resinas alcídicas, poliésteres alílicos o demás poliésteres: 3920.61 -- De policarbonatos.
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De policarbonatos, resinas alcídicas, poliésteres alílicos o demás poliésteres: 3920.61 -- De policarbonatos.
 De policarbonatos. 3920.61.01 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.62 -- De poli(tereftalato de etileno).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.62 -- De poli(tereftalato de etileno).
 Películas de poliéster biorientado. 3920.62.02 Kg 18 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 7) Las demás. 3920.62.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 25 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 3920.63 -- De poliésteres no saturados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 7)
+Las demás. 3920.62.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 25 Ex.
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+3920.63 -- De poliésteres no saturados.
 De poliésteres no saturados. 3920.63.03 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.69 -- De los demás poliésteres.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.69 -- De los demás poliésteres.
 De los demás poliésteres. 3920.69.91 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - De celulosa o de sus derivados químicos: 3920.71 -- De celulosa regenerada.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- De celulosa o de sus derivados químicos: 3920.71 -- De celulosa regenerada.
 De celulosa regenerada. 3920.71.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.73 -- De acetato de celulosa.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.73 -- De acetato de celulosa.
 De acetato de celulosa. 3920.73.02 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.79 -- De los demás derivados de la celulosa.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.79 -- De los demás derivados de la celulosa.
 De los demás derivados de la celulosa. 3920.79.91 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - De los demás plásticos: 3920.91 -- De poli(vinilbutiral).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- De los demás plásticos: 3920.91 -- De poli(vinilbutiral).
 De poli(vinilbutiral). 3920.91.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.92 -- De poliamidas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.92 -- De poliamidas.
 De poliamidas. 3920.92.02 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.93 -- De resinas amínicas. 3920.93.01 De resinas amínicas. Kg Ex. Ex. 3920.94 -- De resinas fenólicas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.93 -- De resinas amínicas. 3920.93.01 De resinas amínicas. Kg Ex. Ex. 3920.94 -- De resinas fenólicas.
 De resinas fenólicas. 3920.94.01 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3920.99 -- De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3920.99 -- De los demás plásticos.
 De los demás plásticos. 3920.99.91 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás placas, láminas, hojas y tiras, 39.21 de plástico. - Productos celulares: 3921.11 -- De polímeros de estireno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás placas, láminas, hojas y tiras, 39.21 de plástico. - Productos celulares: 3921.11 -- De polímeros de estireno.
 De polímeros de estireno. 3921.11.01 Kg 15 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 3921.12 -- De polímeros de cloruro de vinilo.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+3921.12 -- De polímeros de cloruro de vinilo.
 De polímeros de cloruro de vinilo. 3921.12.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3921.13 -- De poliuretanos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3921.13 -- De poliuretanos.
 De poliuretanos. 3921.13.02 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3921.14 -- De celulosa regenerada.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3921.14 -- De celulosa regenerada.
 De celulosa regenerada. 3921.14.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3921.19 -- De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3921.19 -- De los demás plásticos.
 De los demás plásticos. 3921.19.91 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3921.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3921.90 - Las demás.
 De poliéster metalizados con anchura superior o igual a 35 mm, con un espesor 3921.90.09 Kg 25 Ex. inferior a 100 micrones.
-Fracción reformada DOF 29-12-2025 (antes Imp. 7) Las demás. 3921.90.99 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bañeras, duchas, fregaderos, lavabos, bidés, inodoros y sus asientos y tapas, 39.22 cisternas (depósitos de agua) para inodoros y artículos sanitarios e higiénicos similares, de plástico. 3922.10 - Bañeras, duchas, fregaderos y lavabos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 7)
+Las demás. 3921.90.99 Kg 7 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bañeras, duchas, fregaderos, lavabos, bidés, inodoros y sus asientos y tapas, 39.22 cisternas (depósitos de agua) para inodoros y artículos sanitarios e higiénicos similares, de plástico. 3922.10 - Bañeras, duchas, fregaderos y lavabos.
 Bañeras, duchas, fregaderos y lavabos. 3922.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3922.20 - Asientos y tapas de inodoros.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3922.20 - Asientos y tapas de inodoros.
 Asientos y tapas de inodoros. 3922.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3922.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3922.90 - Los demás.
 Los demás. 3922.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Artículos para el transporte o envasado, de plástico; tapones, tapas, cápsulas y 39.23 demás dispositivos de cierre, de plástico. 3923.10 - Cajas, cajones, jaulas y artículos similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Artículos para el transporte o envasado, de plástico; tapones, tapas, cápsulas y 39.23 demás dispositivos de cierre, de plástico. 3923.10 - Cajas, cajones, jaulas y artículos similares.
 Cajas, cajones, jaulas y artículos similares. 3923.10.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Sacos (bolsas), bolsitas y cucuruchos: 3923.21 -- De polímeros de etileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Sacos (bolsas), bolsitas y cucuruchos: 3923.21 -- De polímeros de etileno.
 De polímeros de etileno. 3923.21.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 3923.29 -- De los demás plásticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+3923.29 -- De los demás plásticos.
 De los demás plásticos. 3923.29.91 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bombonas (damajuanas), botellas, frascos 3923.30 y artículos similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bombonas (damajuanas), botellas, frascos 3923.30 y artículos similares.
 Bombonas (damajuanas), botellas, frascos y artículos similares.
-Arancel modificado con vigencia temporal DOF 15-08-2023 3923.30.02 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Bobinas, carretes, canillas y soportes 3923.40 similares. "Casetes" o cartuchos para embobinar cintas magnéticas o cintas para máquinas 3923.40.01 Kg Ex. Ex. de escribir, excepto para cintas de sonido de anchura inferior a 13 mm. "Casetes" o cartuchos para embobinar cintas magnéticas de sonido de anchura 3923.40.02 Kg 7 Ex. inferior a 13 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 3923.40.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Tapones, tapas, cápsulas y demás 3923.50 dispositivos de cierre.
+Arancel modificado con vigencia temporal DOF 15-08-2023 3923.30.02 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Bobinas, carretes, canillas y soportes 3923.40 similares. "Casetes" o cartuchos para embobinar cintas magnéticas o cintas para máquinas 3923.40.01 Kg Ex. Ex. de escribir, excepto para cintas de sonido de anchura inferior a 13 mm. "Casetes" o cartuchos para embobinar cintas magnéticas de sonido de anchura 3923.40.02 Kg 7 Ex. inferior a 13 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 3923.40.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Tapones, tapas, cápsulas y demás 3923.50 dispositivos de cierre.
 Tapones, tapas, cápsulas y demás 3923.50.01 dispositivos de cierre. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3923.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3923.90 - Los demás.
 Los demás. 3923.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Vajilla, artículos de cocina o de uso 39.24 doméstico y artículos de higiene o tocador, de plástico. 3924.10 - Vajilla y demás artículos para el servicio de mesa o de cocina.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Vajilla, artículos de cocina o de uso 39.24 doméstico y artículos de higiene o tocador, de plástico. 3924.10 - Vajilla y demás artículos para el servicio de mesa o de cocina.
 Vajilla y demás artículos para el servicio de 3924.10.01 mesa o de cocina. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3924.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3924.90 - Los demás.
 Mangos para maquinillas de afeitar. 3924.90.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 3924.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Artículos para la construcción, de 39.25 plástico, no expresados ni comprendidos en otra parte.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 3924.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Artículos para la construcción, de 39.25 plástico, no expresados ni comprendidos en otra parte.
 Depósitos, cisternas, cubas y recipientes 3925.10 análogos, de capacidad superior a 300 l.
 Depósitos, cisternas, cubas y recipientes 3925.10.01 análogos, de capacidad superior a 300 l. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Puertas, ventanas, y sus marcos, 3925.20 contramarcos y umbrales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Puertas, ventanas, y sus marcos, 3925.20 contramarcos y umbrales.
 Puertas, ventanas, y sus marcos, 3925.20.01 contramarcos y umbrales. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Contraventanas, persianas (incluidas las 3925.30 - venecianas) y artículos similares, y sus partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Contraventanas, persianas (incluidas las 3925.30 - venecianas) y artículos similares, y sus partes.
 Contraventanas, persianas (incluidas las venecianas) y artículos similares, y sus 3925.30.01 Kg 25 Ex. partes.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3925.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3925.90 - Los demás.
 Los demás. 3925.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Las demás manufacturas de plástico y 39.26 manufacturas de las demás materias de las partidas 39.01 a 39.14. 3926.10 - Artículos de oficina y artículos escolares.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Las demás manufacturas de plástico y 39.26 manufacturas de las demás materias de las partidas 39.01 a 39.14. 3926.10 - Artículos de oficina y artículos escolares.
 Artículos de oficina y artículos escolares. 3926.10.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Prendas y complementos (accesorios), de 3926.20 - vestir, incluidos los guantes, mitones y manoplas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Prendas y complementos (accesorios), de 3926.20 - vestir, incluidos los guantes, mitones y manoplas.
 Prendas de vestir, sus accesorios y 3926.20.01 dispositivos, para protección contra Kg Ex. Ex. radiaciones.
 Los demás. 3926.20.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Guarniciones para muebles, carrocerías o 3926.30 similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Guarniciones para muebles, carrocerías o 3926.30 similares.
 Guarniciones para muebles, carrocerías o 3926.30.02 Kg 15 Ex. similares. 3926.40 - Estatuillas y demás artículos de adorno. 3926.40.01 Estatuillas y demás artículos de adorno. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3926.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3926.90 - Las demás.
 Mangos para herramientas de mano. 3926.90.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Salvavidas. 3926.90.04 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Flotadores o boyas para redes de pesca. 3926.90.05 Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Salvavidas. 3926.90.04 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Flotadores o boyas para redes de pesca. 3926.90.05 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 31-12-2024 (antes Imp. 15) Loncheras; cantimploras.
 Arancel modificado con vigencia temporal DOF 15-08-2023 3926.90.06 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Modelos o patrones. 3926.90.07 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Hormas para calzado. 3926.90.08 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Protectores para el sentido auditivo. 3926.90.11 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Letras, números o signos. 3926.90.13 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Cinchos fijadores o abrazaderas, excepto lo reconocible como diseñados 3926.90.14 Kg 25 Ex. exclusivamente para uso automotriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Almácigas, con oquedades perforadas. 3926.90.15 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Marcas para asfalto, postes reflejantes y/o dispositivos de advertencia (triángulos de 3926.90.18 seguridad), de resina plástica, para la Kg 25 Ex. señalización vial.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Abanicos o sus partes. 3926.90.19 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 3926.90.20 Emblemas, para vehículos automóviles. Kg 15 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Modelos o patrones. 3926.90.07 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Hormas para calzado. 3926.90.08 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Protectores para el sentido auditivo. 3926.90.11 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Letras, números o signos. 3926.90.13 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Cinchos fijadores o abrazaderas, excepto lo reconocible como diseñados 3926.90.14 Kg 25 Ex. exclusivamente para uso automotriz.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Almácigas, con oquedades perforadas. 3926.90.15 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Marcas para asfalto, postes reflejantes y/o dispositivos de advertencia (triángulos de 3926.90.18 seguridad), de resina plástica, para la Kg 25 Ex. señalización vial.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Abanicos o sus partes. 3926.90.19 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+3926.90.20 Emblemas, para vehículos automóviles. Kg 15 Ex.
 Diablos o tacos (pigs) de poliuretanos con diámetro hasta de 122 cm, para la limpieza interior de tuberías, aun cuando estén 3926.90.24 Kg 15 Ex. recubiertos con banda de caucho, con incrustaciones de carburo de tungsteno o cerdas de acero.
 Láminas perforadas o troqueladas de poli(etileno) y/o poli(propileno), aun cuando 3926.90.27 Kg 25 Ex. estén coloreadas, metalizadas o laqueadas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Embudos. 3926.90.29 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Las demás. 3926.90.99 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Embudos. 3926.90.29 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Las demás. 3926.90.99 Kg 7 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+_______________
 
 ## Capítulo 40
+
 Caucho y sus manufacturas Notas. 1. En la Nomenclatura, salvo disposición en contrario, la denominación caucho comprende los productos siguientes, incluso vulcanizados o endurecidos: caucho natural, balata, gutapercha, guayule, chicle y gomas naturales análogas, caucho sintético, caucho facticio derivado de los aceites y todos estos productos regenerados. 2. Este Capítulo no comprende:
 
 a) los productos de la Sección XI (materias textiles y sus manufacturas);
@@ -3613,17 +3784,25 @@ Correas de transmisión sin fin, con 4010.36.02 muescas (sincrónicas), de circu
 Neumáticos (llantas neumáticas) 40.11 nuevos de caucho.
 De los tipos utilizados en automóviles de turismo (incluidos los del tipo familiar 4011.10 ("break" o "station wagon") y los de carreras).
 De los tipos utilizados en automóviles de turismo (incluidos los del tipo familiar ("break" o "station wagon") y los de carreras). 4011.10.10 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De los tipos utilizados en autobuses o 4011.20 camiones.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De los tipos utilizados en autobuses o 4011.20 camiones.
 Con diámetro interior superior a 44.45 cm, 4011.20.04 de construcción radial. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Con diámetro interior superior a 44.45 cm, 4011.20.05 de construcción diagonal. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con diámetro interior inferior o igual a 44.45 cm.
-Arancel modificado con vigencia temporal DOF 15-08-2023 4011.20.06 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 4011.30 - De los tipos utilizados en aeronaves. 4011.30.01 De los tipos utilizados en aeronaves. Pza Ex. Ex. 4011.40 - De los tipos utilizados en motocicletas. 4011.40.01 De los tipos utilizados en motocicletas. Pza Ex. Ex. 4011.50 - De los tipos utilizados en bicicletas. 4011.50.01 De los tipos utilizados en bicicletas. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Con diámetro interior superior a 44.45 cm, 4011.20.05 de construcción diagonal. Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con diámetro interior inferior o igual a 44.45 cm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 4011.20.06 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+4011.30 - De los tipos utilizados en aeronaves. 4011.30.01 De los tipos utilizados en aeronaves. Pza Ex. Ex. 4011.40 - De los tipos utilizados en motocicletas. 4011.40.01 De los tipos utilizados en motocicletas. Pza Ex. Ex. 4011.50 - De los tipos utilizados en bicicletas. 4011.50.01 De los tipos utilizados en bicicletas. Pza Ex. Ex.
 De los tipos utilizados en vehículos y 4011.70 máquinas agrícolas o forestales.
 Con altos relieves en forma de taco, ángulo o similar, para maquinaria y tractores agrícolas, cuyos números de medida sean: 8.25-15; 10.00-15; 6.00-16; 6.50-16; 7.50-16; 5.00-16; 7.50-18; 6.004011.70.01 Pza Ex. Ex. 19; 13.00-24; 16.00-25; 17.50-25; 18.0025; 18.40-26; 23.1-26; 11.25-28; 13.6-28; 14.9-28; 16.9-30; 18.4-30; 24.5-32; 18.434; 20.8-34; 23.1-34; 12.4-36; 13.6-38; 14.9-38; 15.5-38; 18.4-38.
 Con altos relieves en forma de taco, 4011.70.02 ángulo o similar, para maquinaria y Pza Ex. Ex. tractores agrícolas, excepto lo comprendido en la fracción arancelaria 4011.70.01.
 De diámetro interior superior a 35 cm. 4011.70.03 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 4011.70.99 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) De los tipos utilizados en vehículos y 4011.80 - máquinas para la construcción, minería o mantenimiento industrial.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 4011.70.99 Pza 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+De los tipos utilizados en vehículos y 4011.80 - máquinas para la construcción, minería o mantenimiento industrial.
 Para maquinaria y tractores industriales, con altos relieves en forma de taco, 4011.80.01 Pza Ex. Ex. ángulo o similar, para rines de diámetro inferior o igual a 61 cm.
 Para maquinaria y tractores industriales, cuyos números de medida sean: 8.25-15; 10.00-15; 6.50-16; 7.50-16, con altos 4011.80.02 Pza Ex. Ex. relieves en forma de taco, ángulo o similar, para rines de diámetro superior a 61 cm.
 Para vehículos fuera de carretera, con diámetro exterior superior a 2.20 m, con 4011.80.03 altos relieves en forma de taco, ángulo o Pza Ex. Ex. similar, para rines de diámetro superior a 61 cm.
@@ -3650,16 +3829,19 @@ Prendas de vestir y sus accesorios, para 4015.90.03 Kg Ex. Ex. protección contr
 Las demás manufacturas de caucho 40.16 vulcanizado sin endurecer. 4016.10 - De caucho celular. 4016.10.01 De caucho celular. Kg Ex. Ex. - Las demás: 4016.91 -- Revestimientos para el suelo y alfombras. 4016.91.01 Revestimientos para el suelo y alfombras. M² 10 Ex. 4016.92 -- Gomas de borrar.
 Cilíndricas de diámetro inferior o igual a 1 4016.92.01 Kg Ex. Ex. cm. 4016.92.99 Las demás. Kg 10 Ex. 4016.93 -- Juntas o empaquetaduras.
 Juntas o empaquetaduras. 4016.93.04 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Defensas, incluso inflables, para el 4016.94 -atraque de los barcos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Defensas, incluso inflables, para el 4016.94 -atraque de los barcos.
 Defensas para muelles portuarios, flotantes (rellenas de espuma flotante) o 4016.94.02 Kg Ex. Ex. giratorias (llantas de caucho flexible no inflable). 4016.94.99 Los demás. Kg 5 Ex. 4016.95 -- Los demás artículos inflables. 4016.95.01 Salvavidas. Kg Ex. Ex. 4016.95.02 Diques. Pza Ex. Ex. 4016.95.99 Los demás. Kg 10 Ex. 4016.99 -- Las demás.
 Arandelas, válvulas u otras piezas de uso 4016.99.01 Kg 5 Ex. técnico, excepto artículos reconocibles como diseñados exclusivamente para ser utilizados en el moldeo de neumáticos nuevos ("Bladers"). 4016.99.04 Dedales. Kg 10 Ex. 4016.99.99 Las demás. Kg Ex. Ex.
 Caucho endurecido (por ejemplo, ebonita) en cualquier forma, incluidos 40.17 los desechos y desperdicios; manufacturas de caucho endurecido.
 Caucho endurecido (por ejemplo, ebonita) en cualquier forma, incluidos los desechos 4017.00 y desperdicios; manufacturas de caucho endurecido. 4017.00.03 Desperdicios y desechos. Kg 5 Ex. 4017.00.99 Los demás. Kg Ex. Ex. _______________
 
 ## Sección VIII — PIELES, CUEROS, PELETERÍA Y MANUFACTURAS DE ESTAS MATERIAS; ARTÍCULOS
+
 DE TALABARTERÍA O GUARNICIONERÍA; ARTÍCULOS DE VIAJE, BOLSOS DE MANO (CARTERAS) Y CONTINENTES SIMILARES; MANUFACTURAS DE TRIPA _______________
 
 ## Capítulo 41
+
 Pieles (excepto la peletería) y cueros Notas. 1. Este Capítulo no comprende:
 
 a) los recortes y desperdicios similares de cueros y pieles en bruto (partida 05.11);
@@ -3710,6 +3892,7 @@ Recortes y demás desperdicios de cuero o piel, preparados, o de cuero 4115.20 -
 Recortes y demás desperdicios de cuero o piel, preparados, o de cuero 4115.20.01 regenerado, no utilizables para la Kg Ex. Ex. fabricación de manufacturas de cuero; aserrín, polvo y harina de cuero. _______________
 
 ## Capítulo 42
+
 Manufacturas de cuero; artículos de talabartería o guarnicionería; artículos de viaje, bolsos de mano (carteras) y continentes similares; manufacturas de tripa Notas. 1. En este Capítulo, la expresión cuero natural comprende también los cueros y pieles agamuzados (incluido el agamuzado combinado al aceite), los cueros y pieles charolados y sus imitaciones de cueros o pieles chapados y los cueros y pieles metalizados. 2. Este Capítulo no comprende:
 
 a) los catguts estériles y las ligaduras estériles similares para suturas quirúrgicas (partida 30.06);
@@ -3742,52 +3925,71 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Artículos de talabartería o guarnicionería para todos los animales (incluidos los tiros, traíllas, rodilleras, 42.01 bozales, sudaderos, alforjas, abrigos para perros y artículos similares), de cualquier materia.
 Artículos de talabartería o guarnicionería 4201.00 para todos los animales (incluidos los tiros, traíllas, rodilleras, bozales, sudaderos, alforjas, abrigos para perros y artículos similares), de cualquier materia.
 Artículos de talabartería o guarnicionería para todos los animales (incluidos los tiros, traíllas, rodilleras, bozales, 4201.00.01 Pza 25 Ex. sudaderos, alforjas, abrigos para perros y artículos similares), de cualquier materia.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Baúles, maletas (valijas), maletines, incluidos los de aseo y los portadocumentos, portafolios (carteras de mano), cartapacios, fundas y estuches para gafas (anteojos), binoculares, cámaras fotográficas o cinematográficas, instrumentos musicales o armas y continentes similares; sacos de viaje, bolsas (sacos) aislantes para alimentos y bebidas, bolsas de aseo, mochilas, bolsos de mano (carteras), bolsas para 42.02 la compra, billeteras, portamonedas, portamapas, petacas, pitilleras y bolsas para tabaco, bolsas para herramientas y para artículos de deporte, estuches para frascos y botellas, estuches para joyas, polveras, estuches para orfebrería y continentes similares, de cuero natural o regenerado, hojas de plástico, materia textil, fibra vulcanizada o cartón, o recubiertos totalmente o en su mayor parte con esas materias o papel.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Baúles, maletas (valijas), maletines, incluidos los de aseo y los portadocumentos, portafolios (carteras de mano), cartapacios, fundas y estuches para gafas (anteojos), binoculares, cámaras fotográficas o cinematográficas, instrumentos musicales o armas y continentes similares; sacos de viaje, bolsas (sacos) aislantes para alimentos y bebidas, bolsas de aseo, mochilas, bolsos de mano (carteras), bolsas para 42.02 la compra, billeteras, portamonedas, portamapas, petacas, pitilleras y bolsas para tabaco, bolsas para herramientas y para artículos de deporte, estuches para frascos y botellas, estuches para joyas, polveras, estuches para orfebrería y continentes similares, de cuero natural o regenerado, hojas de plástico, materia textil, fibra vulcanizada o cartón, o recubiertos totalmente o en su mayor parte con esas materias o papel.
 Baúles, maletas (valijas) y maletines, incluidos los de aseo y los - portadocumentos, portafolios (carteras de mano), cartapacios y continentes similares:
 Con la superficie exterior de cuero natural 4202.11 -o cuero regenerado.
 Con la superficie exterior de cuero natural 4202.11.01 o cuero regenerado. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con la superficie exterior de plástico o 4202.12 -materia textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con la superficie exterior de plástico o 4202.12 -materia textil.
 Con la superficie exterior de plástico o 4202.12.03 materia textil. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4202.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4202.19 -- Los demás.
 Los demás. 4202.19.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Bolsos de mano (carteras), incluso con bandolera o sin asas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Bolsos de mano (carteras), incluso con bandolera o sin asas:
 Con la superficie exterior de cuero natural 4202.21 -o cuero regenerado.
 Con la superficie exterior de cuero natural 4202.21.01 o cuero regenerado. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con la superficie exterior de hojas de 4202.22 -plástico o materia textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con la superficie exterior de hojas de 4202.22 -plástico o materia textil.
 Con la superficie exterior de hojas de 4202.22.03 plástico o materia textil. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4202.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4202.29 -- Los demás.
 Los demás. 4202.29.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Artículos de bolsillo o de bolso de mano (cartera):
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Artículos de bolsillo o de bolso de mano (cartera):
 Con la superficie exterior de cuero natural 4202.31 -o cuero regenerado.
 Con la superficie exterior de cuero natural 4202.31.01 o cuero regenerado. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con la superficie exterior de hojas de 4202.32 -plástico o materia textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con la superficie exterior de hojas de 4202.32 -plástico o materia textil.
 Con la superficie exterior de hojas de 4202.32.03 plástico o materia textil. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4202.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4202.39 -- Los demás.
 Los demás. 4202.39.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás:
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás:
 Con la superficie exterior de cuero natural 4202.91 -o cuero regenerado.
 Con la superficie exterior de cuero natural 4202.91.01 o cuero regenerado. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con la superficie exterior de hojas de 4202.92 -plástico o materia textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con la superficie exterior de hojas de 4202.92 -plástico o materia textil.
 Con la superficie exterior de hojas de 4202.92.04 plástico o materia textil. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4202.99 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4202.99 -- Los demás.
 Los demás. 4202.99.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Prendas y complementos (accesorios), 42.03 de vestir, de cuero natural o cuero regenerado. 4203.10 - Prendas de vestir. 4203.10.01 Para protección contra radiaciones. Pza Ex. Ex. 4203.10.99 Los demás. Pza 20 Ex. - Guantes, mitones y manoplas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Prendas y complementos (accesorios), 42.03 de vestir, de cuero natural o cuero regenerado. 4203.10 - Prendas de vestir. 4203.10.01 Para protección contra radiaciones. Pza Ex. Ex. 4203.10.99 Los demás. Pza 20 Ex. - Guantes, mitones y manoplas:
 Diseñados especialmente para la práctica 4203.21 -del deporte.
 Diseñados especialmente para la práctica 4203.21.01 Pza 25 Ex. del deporte.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4203.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4203.29 -- Los demás.
 Para protección contra radiaciones. 4203.29.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 4203.29.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4203.30 - Cintos, cinturones y bandoleras.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 4203.29.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4203.30 - Cintos, cinturones y bandoleras.
 Cintos, cinturones y bandoleras. 4203.30.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás complementos (accesorios) de 4203.40 vestir. 4203.40.01 Para protección contra radiaciones. Pza Ex. Ex. 4203.40.99 Los demás. Pza 20 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás complementos (accesorios) de 4203.40 vestir. 4203.40.01 Para protección contra radiaciones. Pza Ex. Ex. 4203.40.99 Los demás. Pza 20 Ex.
 Las demás manufacturas de cuero 42.05 natural o cuero regenerado.
 Las demás manufacturas de cuero natural 4205.00 o cuero regenerado.
 Artículos para usos técnicos de cuero 4205.00.02 Kg Ex. Ex. natural o cuero regenerado.
 Las demás. 4205.00.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Manufacturas de tripa, vejigas o 42.06 tendones. 4206.00 Manufacturas de tripa, vejigas o tendones.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Manufacturas de tripa, vejigas o 42.06 tendones. 4206.00 Manufacturas de tripa, vejigas o tendones.
 Catgut, incluso cromado, con diámetro 4206.00.01 superior o igual a 0.10 mm, sin exceder de Kg Ex. Ex. 0.89 mm. 4206.00.99 Las demás. Kg 5 Ex. _______________
 
 ## Capítulo 43
+
 Peletería y confecciones de peletería; peletería facticia o artificial Notas. 1. Independientemente de la peletería en bruto de la partida 43.01, en la Nomenclatura, el término peletería abarca las pieles de todos los animales curtidas o adobadas, sin depilar. 2. Este Capítulo no comprende:
 
 a) las pieles y partes de pieles de ave con sus plumas o plumón (partidas 05.05 o 67.01, según los casos);
@@ -3827,9 +4029,11 @@ Peletería facticia o artificial y artículos de 4304.00 peletería facticia o a
 Peletería facticia o artificial y artículos de 4304.00.01 Kg 20 Ex. peletería facticia o artificial. _______________
 
 ## Sección IX — MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA; CORCHO Y SUS
+
 MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
 
 ## Capítulo 44
+
 Madera, carbón vegetal y manufacturas de madera Notas. 1. Este Capítulo no comprende:
 
 a) las virutas y astillas de madera ni la madera triturada, molida o pulverizada, de las especies utilizadas principalmente en perfumería, en medicina o para usos insecticidas, parasiticidas o similares (partida 12.11);
@@ -3998,11 +4202,13 @@ Tablas para pan, tablas para cortar y 4419.11.01 Kg 15 Ex. artículos similares.
 Marquetería y taracea; cofrecillos y estuches para joyería u orfebrería y manufacturas similares, de madera; 44.20 estatuillas y demás objetos de adorno, de madera; artículos de mobiliario, de madera, no comprendidos en el
 
 ## Capítulo 94 — .
+
 - Estatuillas y demás objetos de adorno: 4420.11 -- De maderas tropicales. 4420.11.01 De Olinalá. Kg 15 Ex. 4420.11.99 Los demás. Kg 15 Ex. 4420.19 -- Los demás. 4420.19.99 Los demás. Kg 15 Ex. 4420.90 - Los demás. 4420.90.01 De Olinalá. Kg 15 Ex. 4420.90.99 Los demás. Kg 15 Ex. 44.21 Las demás manufacturas de madera. 4421.10 - Perchas para prendas de vestir. 4421.10.01 Perchas para prendas de vestir. Kg 15 Ex. 4421.20 - Ataúdes. 4421.20.01 Ataúdes. Kg 15 Ex. - Las demás: 4421.91 -- De bambú. 4421.91.01 Para fósforos; clavos para calzado. Kg 5 Ex. 4421.91.02 Tapones. Kg 10 Ex.
 Canillas, carretes y bobinas para la 4421.91.04 hilatura y el tejido, para hilo de coser y Kg 5 Ex. artículos similares de madera torneada. 4421.91.99 Los demás. Kg 15 Ex. 4421.99 -- Las demás. 4421.99.01 Para fósforos; clavos para calzado. Kg 5 Ex. 4421.99.02 Tapones. Kg 10 Ex.
 Canillas, carretes y bobinas para la 4421.99.04 hilatura y el tejido, para hilo de coser y Kg 5 Ex. artículos similares de madera torneada. 4421.99.99 Las demás. Kg 15 Ex. _______________
 
 ## Capítulo 45
+
 Corcho y sus manufacturas Nota. 1. Este Capítulo no comprende:
 
 a) el calzado y sus partes, del Capítulo 64;
@@ -4021,6 +4227,7 @@ Corcho aglomerado (incluso con 45.04 aglutinante) y manufacturas de corcho aglom
 Bloques, placas, hojas y tiras; baldosas y revestimientos similares de pared, de 4504.10 cualquier forma; cilindros macizos, incluidos los discos. 4504.10.02 Empaquetaduras. Kg 5 Ex. 4504.10.99 Los demás. Kg Ex. Ex. 4504.90 - Las demás. 4504.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 46
+
 Manufacturas de espartería o cestería Notas. 1. En este Capítulo, la expresión materia trenzable se refiere a materias en un estado o forma tales que puedan trenzarse, entrelazarse o trabajarse de modo análogo. Se consideran como tales, por ejemplo: la paja, mimbre, sauce, bambú, ratán (roten), junco, caña, cintas de madera, tiras de otros vegetales (por ejemplo: tiras de corteza, hojas estrechas y rafia u otras tiras obtenidas de hojas anchas), fibras textiles naturales sin hilar, monofilamentos, tiras y formas similares de plástico y tiras de papel, pero no las tiras de cuero o piel preparados o de cuero regenerado, de fieltro o tela sin tejer, ni el cabello, crin, mechas e hilados de materia textil ni monofilamentos, tiras y formas similares del Capítulo 54. 2. Este Capítulo no comprende:
 
 a) los revestimientos de paredes de la partida 48.14;
@@ -4041,9 +4248,11 @@ Trenzas y artículos similares, incluso 4601.99.01 Kg 15 Ex. ensamblados en tira
 Artículos de cestería obtenidos directamente en su forma con materia trenzable o confeccionados con 46.02 artículos de la partida 46.01; manufacturas de esponja vegetal (paste o "lufa"). - De materia vegetal: 4602.11 -- De bambú. 4602.11.01 De bambú. Kg 15 Ex. 4602.12 -- De ratán (roten). 4602.12.01 De ratán (roten). Kg 15 Ex. 4602.19 -- Los demás. 4602.19.99 Los demás. Kg 15 Ex. 4602.90 - Los demás. 4602.90.99 Los demás. Kg 15 Ex. _______________
 
 ## Sección X — PASTA DE MADERA O DE LAS DEMÁS MATERIAS FIBROSAS CELULÓSICAS; PAPEL O
+
 CARTÓN PARA RECICLAR (DESPERDICIOS Y DESECHOS); PAPEL O CARTÓN Y SUS APLICACIONES
 
 ## Capítulo 47
+
 Pasta de madera o de las demás materias fibrosas celulósicas; papel o cartón para reciclar (desperdicios y desechos) Nota. 1. En la partida 47.02, se entiende por pasta química de madera para disolver la pasta química cuya fracción de pasta insoluble después de una hora en una disolución al 18% de hidróxido de sodio (NaOH) a 20°C, sea superior o igual al 92% en peso en la pasta de madera a la sosa (soda) o al sulfato o superior o igual al 88% en peso en la pasta de madera al sulfito, siempre que en este último caso el contenido de cenizas sea inferior o igual al 0.15% en peso.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP. 47.01 Pasta mecánica de madera. 4701.00 Pasta mecánica de madera. 4701.00.01 Pasta mecánica de madera. Kg Ex. Ex. 47.02 Pasta química de madera para disolver. 4702.00 Pasta química de madera para disolver. 4702.00.02 Pasta química de madera para disolver. Kg Ex. Ex.
 Pasta química de madera a la sosa 47.03 (soda) o al sulfato, excepto la pasta para disolver. - Cruda: 4703.11 -- De coníferas. 4703.11.03 De coníferas. Kg Ex. Ex. 4703.19 -- Distinta de la de coníferas. 4703.19.03 Distinta de la de coníferas. Kg Ex. Ex. - Semiblanqueada o blanqueada: 4703.21 -- De coníferas. 4703.21.03 De coníferas. Kg Ex. Ex. 4703.29 -- Distinta de la de coníferas. 4703.29.03 Distinta de la de coníferas. Kg Ex. Ex.
@@ -4066,6 +4275,7 @@ Los demás, incluidos los desperdicios y 4707.90 desechos sin clasificar.
 Los demás, incluidos los desperdicios y 4707.90.91 Kg Ex. Ex. desechos sin clasificar. _______________
 
 ## Capítulo 48
+
 Papel y cartón; manufacturas de pasta de celulosa, de papel o cartón Notas. 1. En este Capítulo, salvo disposición en contrario, toda referencia a papel incluye también al cartón, sin que se tenga en cuenta el espesor o el peso por m2. 2. Este Capítulo no comprende:
 
 a) los artículos del Capítulo 30;
@@ -4129,6 +4339,7 @@ c) los revestimientos murales de papel constituidos por varios paneles, en bobin
 Las manufacturas con soporte de papel o cartón susceptibles de utilizarse como cubresuelos o como revestimientos de paredes se clasifican en la partida 48.23. 10. La partida 48.20 no comprende las hojas y tarjetas sueltas, cortadas en formatos, incluso impresas, estampadas o perforadas. 11. Se clasifican, entre otros, en la partida 48.23, el papel y cartón perforados para mecanismos Jacquard o similares y los encajes de papel. 12. El papel, cartón, guata de celulosa y las manufacturas de estas materias, con impresiones o ilustraciones que no sean accesorias en relación con su utilización principal se clasifican en el
 
 ## Capítulo 49 — , excepto los artículos de las partidas 48.14 y 48.21.
+
 Notas de subpartida. 1. En las subpartidas 4804.11 y 4804.19, se considera papel y cartón para caras (cubiertas) (“Kraftliner”), el papel y cartón alisados en ambas caras o satinados en una cara, presentados en bobinas (rollos) en los que el contenido de fibras de madera obtenidas por el procedimiento químico al sulfato o a la sosa (soda) sea superior o igual al 80% en peso del contenido total de fibra, de peso superior a 115 g/m² y con una resistencia mínima al estallido Mullen igual a los valores indicados en el cuadro siguiente o, para cualquier otro peso, sus equivalentes interpolados o extrapolados linealmente.
 Peso Resistencia mínima al estallido Mullen g/m² kPa _________ __________________________________ 115 393 125 417 200 637 300 824 400 961 2. En las subpartidas 4804.21 y 4804.29, se considera papel Kraft para sacos (bolsas) el papel alisado en ambas caras, presentado en bobinas (rollos), en el que el contenido de fibras obtenidas por el procedimiento químico al sulfato o a la sosa (soda) sea superior o igual al 80% en peso del contenido total de fibra, de peso superior o igual a 60 g/m² pero inferior o igual a 115 m2/g, y que responda a una de las condiciones siguientes:
 
@@ -4151,13 +4362,23 @@ Los demás papeles y cartones, sin fibras obtenidas por procedimiento mecánico 
 Para la impresión de billetes de banco, 4802.54.04 cuando se importe o exporte por el Banco Kg Ex. Ex. de México. 4802.54.99 Los demás. Kg 5 Ex. 2 De peso superior o igual a 40 g/m pero 4802.55 -- 2 inferior o igual a 150 g/m , en bobinas (rollos).
 Papel utilizado en máquinas copiadoras o 4802.55.02 reproductoras y cuyo revelado se hace Kg 15 Ex. por la acción del calor.
 Para la impresión de billetes de banco 4802.55.03 cuando se importe o exporte por el Banco Kg Ex. Ex. de México.
-Los demás. 4802.55.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 30) 2 De peso superior o igual a 40 g/m pero 2 inferior o igual a 150 g/m , en hojas en 4802.56 -las que un lado sea inferior o igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
+Los demás. 4802.55.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 30)
+2 De peso superior o igual a 40 g/m pero 2 inferior o igual a 150 g/m , en hojas en 4802.56 -las que un lado sea inferior o igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
 Para la impresión de billetes de banco 4802.56.02 cuando se importe o exporte por el Banco Kg Ex. Ex. de México.
-Los demás. 4802.56.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 30) Los demás, de peso superior o igual a 40 4802.57 -2 2 g/m pero inferior o igual a 150 g/m .
+Los demás. 4802.56.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 30)
+Los demás, de peso superior o igual a 40 4802.57 -2 2 g/m pero inferior o igual a 150 g/m .
 Los demás, de peso superior o igual a 40 2 2 g/m pero inferior o igual a 150 g/m . 4802.57.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 4802.58 -- De peso superior a 150 g/m 2 . 2 De peso superior a 150 g/m . 4802.58.04 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás papeles y cartones, con un contenido total de fibras obtenidas por - procedimiento mecánico o químicomecánico superior al 10% en peso del contenido total de fibra: 4802.61 -- En bobinas (rollos).
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+4802.58 -- De peso superior a 150 g/m 2 . 2 De peso superior a 150 g/m . 4802.58.04 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás papeles y cartones, con un contenido total de fibras obtenidas por - procedimiento mecánico o químicomecánico superior al 10% en peso del contenido total de fibra: 4802.61 -- En bobinas (rollos).
 En bobinas (rollos). 4802.61.03 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) En hojas en las que un lado sea inferior o 4802.62 -- igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+En hojas en las que un lado sea inferior o 4802.62 -- igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
 En hojas en las que un lado sea inferior o igual a 435 mm y el otro sea inferior o 4802.62.03 Kg 35 Ex. igual a 297 mm, medidos sin plegar.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) 4802.69 -- Los demás.
 Los demás. 4802.69.99 Kg 15 Ex.
@@ -4167,14 +4388,22 @@ Papel del tipo utilizado para papel higiénico, toallitas para desmaquillar, toa
 Papel y cartón Kraft, sin estucar ni recubrir, en bobinas (rollos) o en hojas, 48.04 excepto el de las partidas 48.02 o 48.03.
 Papel y cartón para caras (cubiertas) ("Kraftliner"): 4804.11 -- Crudos. 4804.11.01 Crudos. Kg Ex. Ex. 4804.19 -- Los demás. 4804.19.99 Los demás. Kg Ex. Ex. - Papel Kraft para sacos (bolsas): 4804.21 -- Crudo. 4804.21.01 Crudo. Kg Ex. Ex. 4804.29 -- Los demás. 4804.29.99 Los demás. Kg Ex. Ex.
 Los demás papeles y cartones Kraft, de peso inferior o igual a 150 g/m²: 4804.31 -- Crudos. 4804.31.05 Crudos. Kg Ex. Ex. 4804.39 -- Los demás.
-Los demás. 4804.39.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 30) Los demás papeles y cartones Kraft, de - peso superior a 150 g/m² pero inferior a 225 g/m²: 4804.41 -- Crudos. 4804.41.01 Crudos. Kg Ex. Ex.
+Los demás. 4804.39.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 30 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 30)
+Los demás papeles y cartones Kraft, de - peso superior a 150 g/m² pero inferior a 225 g/m²: 4804.41 -- Crudos. 4804.41.01 Crudos. Kg Ex. Ex.
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera 4804.42 -- obtenidas por procedimiento químico superior al 95% en peso del contenido total de fibra.
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera obtenidas por procedimiento químico 4804.42.01 superior al 95% en peso del contenido Kg 35 Ex. total de fibra.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 4804.49 -- Los demás. 4804.49.99 Los demás. Kg Ex. Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+4804.49 -- Los demás. 4804.49.99 Los demás. Kg Ex. Ex.
 Los demás papeles y cartones Kraft, de peso superior o igual a 225 g/m²: 4804.51 -- Crudos. 4804.51.02 Crudos. Kg Ex. Ex.
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera 4804.52 -- obtenidas por procedimiento químico superior al 95% en peso del contenido total de fibra.
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera 4804.52.01 obtenidas por procedimiento químico Kg Ex. Ex. superior al 95% en peso del contenido total de fibra. 4804.59 -- Los demás. 4804.59.99 Los demás. Kg Ex. Ex.
-Los demás papeles y cartones, sin estucar ni recubrir, en bobinas (rollos) o en hojas, que no hayan sido 48.05 sometidos a trabajos complementarios o tratamientos distintos de los especificados en la Nota 3 de este Capítulo. - Papel para acanalar: 4805.11 -- Papel semiquímico para acanalar. 4805.11.01 Papel semiquímico para acanalar. Kg Ex. Ex. 4805.12 -- Papel paja para acanalar. 4805.12.01 Papel paja para acanalar. Kg Ex. Ex. 4805.19 -- Los demás. 4805.19.99 Los demás. Kg Ex. Ex. - "Testliner" (de fibras recicladas): 4805.24 -- De peso inferior o igual a 150 g/m 2 . 2 De peso inferior o igual a 150 g/m . 4805.24.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 20) 4805.25 -- De peso superior a 150 g/m 2 . 2 De peso superior a 150 g/m . 4805.25.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 4805.30 - Papel sulfito para envolver. 4805.30.01 Papel sulfito para envolver. Kg Ex. Ex. 4805.40 - Papel y cartón filtro. 4805.40.01 Papel y cartón filtro. Kg Ex. Ex. 4805.50 - Papel y cartón fieltro, papel y cartón lana. 4805.50.01 Papel y cartón fieltro, papel y cartón lana. Kg Ex. Ex. - Los demás: 4805.91 -- De peso inferior o igual a 150 g/m². 4805.91.01 De peso inferior o igual a 150 g/m². Kg Ex. Ex.
+Los demás papeles y cartones, sin estucar ni recubrir, en bobinas (rollos) o en hojas, que no hayan sido 48.05 sometidos a trabajos complementarios o tratamientos distintos de los especificados en la Nota 3 de este Capítulo. - Papel para acanalar: 4805.11 -- Papel semiquímico para acanalar. 4805.11.01 Papel semiquímico para acanalar. Kg Ex. Ex. 4805.12 -- Papel paja para acanalar. 4805.12.01 Papel paja para acanalar. Kg Ex. Ex. 4805.19 -- Los demás. 4805.19.99 Los demás. Kg Ex. Ex. - "Testliner" (de fibras recicladas): 4805.24 -- De peso inferior o igual a 150 g/m 2 . 2 De peso inferior o igual a 150 g/m . 4805.24.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+4805.25 -- De peso superior a 150 g/m 2 . 2 De peso superior a 150 g/m . 4805.25.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+4805.30 - Papel sulfito para envolver. 4805.30.01 Papel sulfito para envolver. Kg Ex. Ex. 4805.40 - Papel y cartón filtro. 4805.40.01 Papel y cartón filtro. Kg Ex. Ex. 4805.50 - Papel y cartón fieltro, papel y cartón lana. 4805.50.01 Papel y cartón fieltro, papel y cartón lana. Kg Ex. Ex. - Los demás: 4805.91 -- De peso inferior o igual a 150 g/m². 4805.91.01 De peso inferior o igual a 150 g/m². Kg Ex. Ex.
 De peso superior a 150 g/m² pero inferior 4805.92 -a 225 g/m².
 De peso superior a 150 g/m² pero inferior 4805.92.01 Kg Ex. Ex. a 225 g/m². 4805.93 -- De peso superior o igual a 225 g/m². 4805.93.01 De peso superior o igual a 225 g/m². Kg Ex. Ex.
 Papel y cartón sulfurizados, papel resistente a las grasas, papel vegetal, papel cristal y demás papeles 48.06 calandrados transparentes o traslúcidos, en bobinas (rollos) o en hojas.
@@ -4196,30 +4425,44 @@ Papel carbón (carbónico), papel autocopia y demás papeles para copiar o trans
 Papel carbón (carbónico) y papeles 4809.90.02 Kg 5 Ex. similares. 4809.90.99 Los demás. Kg Ex. Ex.
 Papel y cartón estucados por una o las dos caras con caolín u otras sustancias inorgánicas, con aglutinante o sin él, con exclusión de cualquier otro estucado o 48.10 recubrimiento, incluso coloreados o decorados en la superficie o impresos, en bobinas (rollos) o en hojas de forma cuadrada o rectangular, de cualquier tamaño.
 Papel y cartón de los tipos utilizados para escribir, imprimir u otros fines gráficos, sin fibras obtenidas por procedimiento - mecánico o químico-mecánico o con un contenido total de estas fibras inferior o igual al 10% en peso del contenido total de fibra: 4810.13 -- En bobinas (rollos).
-En bobinas (rollos). 4810.13.07 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) En hojas en las que un lado sea inferior o 4810.14 -- igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
+En bobinas (rollos). 4810.13.07 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+En hojas en las que un lado sea inferior o 4810.14 -- igual a 435 mm y el otro sea inferior o igual a 297 mm, medidos sin plegar.
 En hojas en las que un lado sea inferior o 4810.14.07 igual a 435 mm y el otro sea inferior o Kg Ex. Ex. igual a 297 mm, medidos sin plegar. 4810.19 -- Los demás. 4810.19.99 Los demás. Kg Ex. Ex.
 Papel y cartón de los tipos utilizados para escribir, imprimir u otros fines gráficos, con un contenido total de fibras obtenidas por procedimiento mecánico o químicomecánico superior al 10% en peso del contenido total de fibra:
 Papel estucado o cuché ligero (liviano) 4810.22 -("L.W.C.").
 Papel estucado o cuché ligero (liviano) 4810.22.02 Kg Ex. Ex. ("L.W.C."). 4810.29 -- Los demás.
 Los demás. 4810.29.99 Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Papel y cartón Kraft, excepto los de los - tipos utilizados para escribir, imprimir u otros fines gráficos:
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Papel y cartón Kraft, excepto los de los - tipos utilizados para escribir, imprimir u otros fines gráficos:
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera obtenidas por procedimiento químico 4810.31 -superior al 95% en peso del contenido total de fibra, de peso inferior o igual a 150 g/m².
 Estucados, pintados o recubiertos por una 4810.31.01 o ambas caras, satinados o abrillantados, Kg Ex. Ex. con peso superior o igual a 74 g/m².
 Coloreados por ambas caras con peso inferior o igual a 120 g/m², excepto lo 4810.31.02 Kg Ex. Ex. comprendido en la fracción arancelaria 4810.31.01.
 Coloreados o decorados por una cara, 4810.31.03 excepto lo comprendido en la fracción Kg Ex. Ex. arancelaria 4810.31.01. 4810.31.99 Los demás. Kg 5 Ex.
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera obtenidas por procedimiento químico 4810.32 -superior al 95% en peso del contenido total de fibra, de peso superior a 150 g/m².
 Blanqueados uniformemente en la masa y con un contenido de fibras de madera obtenidas por procedimiento químico superior al 95% en peso del contenido 4810.32.01 Kg 25 Ex. total de fibra, de peso superior a 150 g/m².
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 4810.39 -- Los demás.
-Los demás. 4810.39.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás papeles y cartones: 4810.92 -- Multicapas.
-Multicapas. 4810.92.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 4810.99 -- Los demás.
-Los demás. 4810.99.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Papel, cartón, guata de celulosa y napa 48.11 de fibras de celulosa, estucados, recubiertos, impregnados o revestidos, coloreados o decorados en la superficie o impresos, en bobinas (rollos) o en hojas de forma cuadrada o rectangular, de cualquier tamaño, excepto los productos de los tipos descritos en el texto de las partidas 48.03, 48.09 o 48.10.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+4810.39 -- Los demás.
+Los demás. 4810.39.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás papeles y cartones: 4810.92 -- Multicapas.
+Multicapas. 4810.92.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+4810.99 -- Los demás.
+Los demás. 4810.99.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Papel, cartón, guata de celulosa y napa 48.11 de fibras de celulosa, estucados, recubiertos, impregnados o revestidos, coloreados o decorados en la superficie o impresos, en bobinas (rollos) o en hojas de forma cuadrada o rectangular, de cualquier tamaño, excepto los productos de los tipos descritos en el texto de las partidas 48.03, 48.09 o 48.10.
 Papel y cartón alquitranados, 4811.10 embetunados o asfaltados.
 Cubresuelos con soporte de papel o 4811.10.02 Kg 5 Ex. cartón, incluso recortados. 4811.10.99 Los demás. Kg Ex. Ex. - Papel y cartón engomados o adhesivos: 4811.41 -- Autoadhesivos.
 Autoadhesivos, excepto los comprendidos 4811.41.01 Kg Ex. Ex. en la fracción arancelaria 4811.41.02.
 En tiras o en bobinas (rollos). 4811.41.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4811.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4811.49 -- Los demás.
 En tiras o en bobinas (rollos). 4811.49.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4811.49.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4811.49.99 Los demás. Kg Ex. Ex.
 Papel y cartón recubiertos, impregnados o - revestidos de plástico (excepto los adhesivos):
 Blanqueados, de peso superior a 150 4811.51 -g/m².
 Recubiertos por una de sus caras, con una película de materia plástica artificial, aun cuando también lleven recubrimiento 4811.51.01 de otros materiales, excepto papel Kg Ex. Ex. milimétrico recubierto por una cara, con una película de materia plástica artificial “laminene-milimétrico”.
@@ -4239,81 +4482,117 @@ En bobinas (rollos) de anchura inferior o 4813.20.01 Kg Ex. Ex. igual a 5 cm. 48
 Papel para decorar y revestimientos 48.14 similares de paredes; papel para vidrieras.
 Papel para decorar y revestimientos similares de paredes, constituidos por papel recubierto o revestido, en la cara 4814.20 vista, con una capa de plástico graneada, gofrada, coloreada, impresa con motivos o decorada de otro modo.
 Papel para decorar y revestimientos similares de paredes, constituidos por papel recubierto o revestido, en la cara 4814.20.01 vista, con una capa de plástico graneada, Kg 25 Ex. gofrada, coloreada, impresa con motivos o decorada de otro modo.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4814.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4814.90 - Los demás.
 Papel granito ("ingrain"). 4814.90.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 4814.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Papel carbón (carbónico), papel autocopia y demás papeles para copiar o transferir (excepto los de la partida 48.16 48.09), clisés de mimeógrafo ("stencils") completos y planchas offset, de papel, incluso acondicionados en cajas. 4816.20 - Papel autocopia.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 4814.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Papel carbón (carbónico), papel autocopia y demás papeles para copiar o transferir (excepto los de la partida 48.16 48.09), clisés de mimeógrafo ("stencils") completos y planchas offset, de papel, incluso acondicionados en cajas. 4816.20 - Papel autocopia.
 Papel autocopia. 4816.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4816.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4816.90 - Los demás.
 Los demás. 4816.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Sobres, sobres carta, tarjetas postales sin ilustrar y tarjetas para correspondencia, de papel o cartón; 48.17 cajas, bolsas y presentaciones similares, de papel o cartón, con un surtido de artículos de correspondencia. 4817.10 - Sobres.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Sobres, sobres carta, tarjetas postales sin ilustrar y tarjetas para correspondencia, de papel o cartón; 48.17 cajas, bolsas y presentaciones similares, de papel o cartón, con un surtido de artículos de correspondencia. 4817.10 - Sobres.
 Sobres. 4817.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Sobres carta, tarjetas postales sin ilustrar 4817.20 y tarjetas para correspondencia.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Sobres carta, tarjetas postales sin ilustrar 4817.20 y tarjetas para correspondencia.
 Sobres carta, tarjetas postales sin ilustrar 4817.20.01 y tarjetas para correspondencia. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Cajas, bolsas y presentaciones similares 4817.30 - de papel o cartón, con un surtido de artículos de correspondencia.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Cajas, bolsas y presentaciones similares 4817.30 - de papel o cartón, con un surtido de artículos de correspondencia.
 Cajas, bolsas y presentaciones similares de papel o cartón, con un surtido de artículos de correspondencia. 4817.30.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual 48.18 a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. 4818.10 - Papel higiénico.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Papel del tipo utilizado para papel higiénico y papeles similares, guata de celulosa o napa de fibras de celulosa, de los tipos utilizados para fines domésticos o sanitarios, en bobinas (rollos) de una anchura inferior o igual 48.18 a 36 cm o cortados en formato; pañuelos, toallitas de desmaquillar, toallas, manteles, servilletas, sábanas y artículos similares para uso doméstico, de tocador, higiénico o de hospital, prendas y complementos (accesorios), de vestir, de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa. 4818.10 - Papel higiénico.
 Papel higiénico. 4818.10.01 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 5) Pañuelos, toallitas de desmaquillar y 4818.20 toallas.
 Pañuelos, toallitas de desmaquillar y 4818.20.01 toallas. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4818.30 - Manteles y servilletas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4818.30 - Manteles y servilletas.
 Manteles y servilletas.
 Arancel modificado con vigencia temporal DOF 06-01-2023 4818.30.01 (antes Imp. 5) Kg 25 Ex.
-Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 5) Fracción reformada DOF 29-12-2025 (antes Imp. 5) Prendas y complementos (accesorios), de 4818.50 vestir.
+Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 5)
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Prendas y complementos (accesorios), de 4818.50 vestir.
 Prendas y complementos (accesorios), de 4818.50.01 vestir. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4818.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4818.90 - Los demás.
 Los demás. 4818.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, 48.19 cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. 4819.10 - Cajas de papel o cartón corrugado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Cajas, sacos (bolsas), bolsitas, cucuruchos y demás envases de papel, 48.19 cartón, guata de celulosa o napa de fibras de celulosa; cartonajes de oficina, tienda o similares. 4819.10 - Cajas de papel o cartón corrugado.
 Cajas de papel o cartón corrugado. 4819.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Cajas y cartonajes, plegables, de papel o 4819.20 cartón, sin corrugar.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Cajas y cartonajes, plegables, de papel o 4819.20 cartón, sin corrugar.
 Cajas y cartonajes, plegables, de papel o 4819.20.02 cartón, sin corrugar. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Sacos (bolsas) con una anchura en la 4819.30 base superior o igual a 40 cm.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Sacos (bolsas) con una anchura en la 4819.30 base superior o igual a 40 cm.
 Sacos (bolsas) con una anchura en la 4819.30.01 base superior o igual a 40 cm. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás sacos (bolsas); bolsitas y 4819.40 cucuruchos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás sacos (bolsas); bolsitas y 4819.40 cucuruchos.
 Los demás sacos (bolsas); bolsitas y 4819.40.91 cucuruchos. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás envases, incluidas las fundas 4819.50 para discos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás envases, incluidas las fundas 4819.50 para discos.
 Los demás envases, incluidas las fundas 4819.50.91 para discos. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4819.60 - Cartonajes de oficina, tienda o similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4819.60 - Cartonajes de oficina, tienda o similares.
 Cartonajes de oficina, tienda o similares. 4819.60.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Libros registro, libros de contabilidad, talonarios (de notas, pedidos o recibos), agendas, bloques memorandos, bloques de papel de cartas y artículos similares, cuadernos, carpetas de mesa, clasificadores, encuadernaciones (de hojas móviles u otras), carpetas y cubiertas para 48.20 documentos y demás artículos escolares, de oficina o de papelería, incluso los formularios en paquetes o plegados ("manifold"), aunque lleven papel carbón (carbónico), de papel o cartón; álbumes para muestras o para colecciones y cubiertas para libros, de papel o cartón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Libros registro, libros de contabilidad, talonarios (de notas, pedidos o recibos), agendas, bloques memorandos, bloques de papel de cartas y artículos similares, cuadernos, carpetas de mesa, clasificadores, encuadernaciones (de hojas móviles u otras), carpetas y cubiertas para 48.20 documentos y demás artículos escolares, de oficina o de papelería, incluso los formularios en paquetes o plegados ("manifold"), aunque lleven papel carbón (carbónico), de papel o cartón; álbumes para muestras o para colecciones y cubiertas para libros, de papel o cartón.
 Libros registro, libros de contabilidad, talonarios (de notas, pedidos o recibos), 4820.10 bloques memorandos, bloques de papel de cartas, agendas y artículos similares.
 Libros registro, libros de contabilidad, talonarios (de notas, pedidos o recibos), 4820.10.02 bloques memorandos, bloques de papel Kg 25 Ex. de cartas, agendas y artículos similares.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4820.20 - Cuadernos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4820.20 - Cuadernos.
 Cuadernos. 4820.20.01 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Clasificadores, encuadernaciones 4820.30 - (excepto las cubiertas para libros), carpetas y cubiertas para documentos.
 Clasificadores, encuadernaciones (excepto las cubiertas para libros), 4820.30.01 Kg 25 Ex. carpetas y cubiertas para documentos.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Formularios en paquetes o plegados 4820.40 - ("manifold"), aunque lleven papel carbón (carbónico).
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Formularios en paquetes o plegados 4820.40 - ("manifold"), aunque lleven papel carbón (carbónico).
 Formularios en paquetes o plegados ("manifold"), aunque lleven papel carbón 4820.40.01 Kg 25 Ex. (carbónico).
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Álbumes para muestras o para 4820.50 colecciones.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Álbumes para muestras o para 4820.50 colecciones.
 Álbumes para muestras o para 4820.50.01 colecciones. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4820.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4820.90 - Los demás.
 Los demás. 4820.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Etiquetas de todas clases, de papel o 48.21 cartón, incluso impresas. 4821.10 - Impresas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Etiquetas de todas clases, de papel o 48.21 cartón, incluso impresas. 4821.10 - Impresas.
 Impresas. 4821.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 4821.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+4821.90 - Las demás.
 Las demás. 4821.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Carretes, bobinas, canillas y soportes similares, de pasta de papel, papel o 48.22 cartón, incluso perforados o endurecidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Carretes, bobinas, canillas y soportes similares, de pasta de papel, papel o 48.22 cartón, incluso perforados o endurecidos.
 De los tipos utilizados para el bobinado de 4822.10 hilados textiles.
 De los tipos utilizados para el bobinado de 4822.10.01 Kg 5 Ex. hilados textiles. 4822.90 - Los demás. 4822.90.99 Los demás. Kg 5 Ex.
 Los demás papeles, cartones, guata de celulosa y napa de fibras de celulosa, cortados en formato; los demás 48.23 artículos de pasta de papel, papel, cartón, guata de celulosa o napa de fibras de celulosa. 4823.20 - Papel y cartón filtro.
 Papel y cartón filtro. 4823.20.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Papel diagrama para aparatos 4823.40 - registradores, en bobinas (rollos), hojas o discos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Papel diagrama para aparatos 4823.40 - registradores, en bobinas (rollos), hojas o discos.
 Papel diagrama para aparatos registradores, en bobinas (rollos), hojas o 4823.40.01 Kg 25 Ex. discos.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bandejas, fuentes, platos, tazas, vasos y artículos similares, de papel o cartón: 4823.61 -- De bambú. 4823.61.01 De bambú. Kg 5 Ex. 4823.69 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bandejas, fuentes, platos, tazas, vasos y artículos similares, de papel o cartón: 4823.61 -- De bambú. 4823.61.01 De bambú. Kg 5 Ex. 4823.69 -- Los demás.
 Los demás. 4823.69.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Artículos moldeados o prensados, de 4823.70 pasta de papel.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Artículos moldeados o prensados, de 4823.70 pasta de papel.
 Empaquetaduras. 4823.70.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 4823.70.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 4823.90 - Los demás. 4823.90.01 Para usos dieléctricos. Kg Ex. Ex. 4823.90.02 "Crepé" en bandas, excepto lo Kg Ex. Ex. comprendido en la fracción arancelaria 4823.90.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 4823.70.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+4823.90 - Los demás. 4823.90.01 Para usos dieléctricos. Kg Ex. Ex. 4823.90.02 "Crepé" en bandas, excepto lo Kg Ex. Ex. comprendido en la fracción arancelaria 4823.90.01.
 Recubierto con resinas plásticas, con 4823.90.05 Kg Ex. Ex. ancho superior o igual a 9 mm. 4823.90.10 Semiconos de papel filtro. Kg Ex. Ex.
 Para protección de películas fotográficas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 4823.90.11 (antes Imp. Ex.) Kg 30 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 30) Cartón de pasta teñida en la masa, superficie jaspeada con peso superior a 4823.90.12 Kg Ex. Ex. 500 g/m² sin exceder de 900 g/m² ("pressboard").
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 30)
+Cartón de pasta teñida en la masa, superficie jaspeada con peso superior a 4823.90.12 Kg Ex. Ex. 500 g/m² sin exceder de 900 g/m² ("pressboard").
 Cubresuelos con soporte de papel o 4823.90.17 Kg 7 Ex. cartón, incluso recortados.
 Los demás. 4823.90.99 Kg 22 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+_______________
 
 ## Capítulo 49
+
 Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos Notas. 1. Este Capítulo no comprende:
 
 a) los negativos y positivos fotográficos con soporte transparente (Capítulo 37);
@@ -4378,6 +4657,7 @@ Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel m
 Terapéutico-pedagógicos, reconocibles como diseñados exclusivamente para 4911.99.06 Kg 5 Ex. instituciones de educación especial o similares. 4911.99.99 Los demás. Kg 15 Ex. _______________
 
 ## Sección XI — MATERIAS TEXTILES Y SUS MANUFACTURAS
+
 Notas. 1. Esta Sección no comprende:
 
 a) los pelos y cerdas para cepillería (partida 05.02), la crin y los desperdicios de crin (partida 05.11);
@@ -4407,6 +4687,7 @@ n) el calzado y sus partes, polainas y artículos similares, del Capítulo 64;
 o) las redecillas para el cabello y los sombreros y demás tocados, y sus partes, del
 
 ## Capítulo 65 — ;
+
 p) los productos del Capítulo 67;
 
 q) los productos textiles recubiertos de abrasivos (partida 68.05), así como las fibras de carbono y las manufacturas de estas fibras, de la partida 68.15;
@@ -4522,6 +4803,7 @@ b) en los productos textiles constituidos por un fondo y una superficie con pelo
 c) solo se tendrá en cuenta el fondo en los bordados de la partida 58.10 y en las manufacturas de estas materias. Sin embargo, en los bordados químicos, aéreos o sin fondo visible y en las manufacturas de estas materias, la clasificación se realizará teniendo en cuenta solamente los hilos bordadores. _______________
 
 ## Capítulo 50
+
 Seda CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Capullos de seda aptos para el 50.01 devanado. 5001.00 Capullos de seda aptos para el devanado. 5001.00.01 Capullos de seda aptos para el devanado. Kg Ex. Ex. 50.02 Seda cruda (sin torcer). 5002.00 Seda cruda (sin torcer). 5002.00.01 Seda cruda (sin torcer). Kg Ex. Ex.
 Desperdicios de seda (incluidos los 50.03 capullos no aptos para el devanado, desperdicios de hilados e hilachas).
@@ -4530,21 +4812,27 @@ Desperdicios de seda (incluidos los 5003.00.02 capullos no aptos para el devanad
 Hilados de seda (excepto los hilados de 50.04 desperdicios de seda) sin acondicionar para la venta al por menor.
 Hilados de seda (excepto los hilados de 5004.00 desperdicios de seda) sin acondicionar para la venta al por menor.
 Hilados de seda (excepto los hilados de desperdicios de seda) sin acondicionar 5004.00.01 Kg 25 Ex. para la venta al por menor.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de desperdicios de seda sin 50.05 acondicionar para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de desperdicios de seda sin 50.05 acondicionar para la venta al por menor.
 Hilados de desperdicios de seda sin 5005.00 acondicionar para la venta al por menor.
 Hilados de desperdicios de seda sin 5005.00.01 acondicionar para la venta al por menor. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de seda o de desperdicios de seda, acondicionados para la venta al 50.06 por menor; "pelo de Mesina" ("crin de Florencia").
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de seda o de desperdicios de seda, acondicionados para la venta al 50.06 por menor; "pelo de Mesina" ("crin de Florencia").
 Hilados de seda o de desperdicios de seda, acondicionados para la venta al por 5006.00 menor; "pelo de Mesina" ("crin de Florencia").
 Hilados de seda o de desperdicios de seda, acondicionados para la venta al por 5006.00.01 Kg 10 Ex. menor; "pelo de Mesina" ("crin de Florencia").
 Tejidos de seda o de desperdicios de 50.07 seda. 5007.10 - Tejidos de borrilla.
 Tejidos de borrilla. 5007.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos con un contenido de seda o de desperdicios de seda, distintos 5007.20 de la borrilla, superior o igual al 85% en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos con un contenido de seda o de desperdicios de seda, distintos 5007.20 de la borrilla, superior o igual al 85% en peso.
 Los demás tejidos con un contenido de seda o de desperdicios de seda, distintos 5007.20.91 de la borrilla, superior o igual al 85% en M² 25 Ex. peso.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5007.90 - Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5007.90 - Los demás tejidos.
 Los demás tejidos. 5007.90.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 51
+
 Lana y pelo fino u ordinario; hilados y tejidos de crin Nota. 1. En la Nomenclatura se entiende por:
 
 a) lana, la fibra natural que recubre los ovinos;
@@ -4558,63 +4846,90 @@ Los demás desperdicios de lana o pelo 5103.20 fino.
 Los demás desperdicios de lana o pelo 5103.20.91 Kg Ex. Ex. fino. 5103.30 - Desperdicios de pelo ordinario. 5103.30.01 Desperdicios de pelo ordinario. Kg Ex. Ex.
 Hilachas de lana o de pelo fino u 51.04 ordinario. 5104.00 Hilachas de lana o de pelo fino u ordinario.
 Hilachas de lana o de pelo fino u ordinario. 5104.00.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Lana y pelo fino u ordinario, cardados o 51.05 peinados (incluida la "lana peinada a granel"). 5105.10 - Lana cardada.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Lana y pelo fino u ordinario, cardados o 51.05 peinados (incluida la "lana peinada a granel"). 5105.10 - Lana cardada.
 Lana cardada. 5105.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Lana peinada: 5105.21 -- "Lana peinada a granel". "Lana peinada a granel". 5105.21.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5105.29 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Lana peinada: 5105.21 -- "Lana peinada a granel". "Lana peinada a granel". 5105.21.01 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5105.29 -- Las demás.
 Las demás. 5105.29.99 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Pelo fino cardado o peinado: 5105.31 -- De cabra de Cachemira.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Pelo fino cardado o peinado: 5105.31 -- De cabra de Cachemira.
 De cabra de Cachemira. 5105.31.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5105.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5105.39 -- Los demás.
 Los demás. 5105.39.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5105.40 - Pelo ordinario cardado o peinado.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5105.40 - Pelo ordinario cardado o peinado.
 Pelo ordinario cardado o peinado. 5105.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 51.06 Hilados de lana cardada sin acondicionar para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+51.06 Hilados de lana cardada sin acondicionar para la venta al por menor.
 Con un contenido de lana superior o igual 5106.10 al 85% en peso.
 Con un contenido de lana superior o igual 5106.10.01 al 85% en peso. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Con un contenido de lana inferior al 85% 5106.20 en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Con un contenido de lana inferior al 85% 5106.20 en peso.
 Con un contenido de lana inferior al 85% 5106.20.01 en peso. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de lana peinada sin 51.07 acondicionar para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de lana peinada sin 51.07 acondicionar para la venta al por menor.
 Con un contenido de lana superior o igual 5107.10 al 85% en peso.
 Con un contenido de lana superior o igual 5107.10.01 al 85% en peso. Kg 36 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Con un contenido de lana inferior al 85% 5107.20 en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Con un contenido de lana inferior al 85% 5107.20 en peso.
 Con un contenido de lana inferior al 85% 5107.20.01 en peso. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de pelo fino cardado o peinado, 51.08 sin acondicionar para la venta al por menor. 5108.10 - Cardado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de pelo fino cardado o peinado, 51.08 sin acondicionar para la venta al por menor. 5108.10 - Cardado.
 Cardado. 5108.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5108.20 - Peinado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5108.20 - Peinado.
 Peinado. 5108.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de lana o pelo fino, 51.09 acondicionados para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de lana o pelo fino, 51.09 acondicionados para la venta al por menor.
 Con un contenido de lana o pelo fino 5109.10 superior o igual al 85% en peso.
 Con un contenido de lana o pelo fino 5109.10.01 superior o igual al 85% en peso. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5109.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5109.90 - Los demás.
 Los demás. 5109.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de pelo ordinario o de crin (incluidos los hilados de crin 51.10 entorchados), aunque estén acondicionados para la venta al por menor. 5110.00 Hilados de pelo ordinario o de crin (incluidos los hilados de crin entorchados), aunque estén acondicionados para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de pelo ordinario o de crin (incluidos los hilados de crin 51.10 entorchados), aunque estén acondicionados para la venta al por menor. 5110.00 Hilados de pelo ordinario o de crin (incluidos los hilados de crin entorchados), aunque estén acondicionados para la venta al por menor.
 Hilados de pelo ordinario o de crin (incluidos los hilados de crin entorchados), 5110.00.01 aunque estén acondicionados para la Kg 25 Ex. venta al por menor.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de lana cardada o pelo fino 51.11 cardado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de lana cardada o pelo fino 51.11 cardado.
 Con un contenido de lana o pelo fino superior o igual al 85% en peso: 5111.11 -- De peso inferior o igual a 300 g/m².
 De peso inferior o igual a 300 g/m². 5111.11.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5111.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5111.19 -- Los demás.
 Los demás. 5111.19.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás, mezclados exclusiva o 5111.20 - principalmente con filamentos sintéticos o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás, mezclados exclusiva o 5111.20 - principalmente con filamentos sintéticos o artificiales.
 Los demás, mezclados exclusiva o principalmente con filamentos sintéticos o 5111.20.91 M² 25 Ex. artificiales.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás, mezclados exclusiva o 5111.30 - principalmente con fibras sintéticas o artificiales discontinuas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás, mezclados exclusiva o 5111.30 - principalmente con fibras sintéticas o artificiales discontinuas.
 Los demás, mezclados exclusiva o principalmente con fibras sintéticas o 5111.30.91 M² 25 Ex. artificiales discontinuas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5111.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5111.90 - Los demás.
 Los demás. 5111.90.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de lana peinada o pelo fino 51.12 peinado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de lana peinada o pelo fino 51.12 peinado.
 Con un contenido de lana o pelo fino superior o igual al 85% en peso: 5112.11 -- De peso inferior o igual a 200 g/m².
 De peso inferior o igual a 200 g/m². 5112.11.02 M² 36 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5112.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5112.19 -- Los demás.
 Los demás. 5112.19.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás, mezclados exclusiva o 5112.20 - principalmente con filamentos sintéticos o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás, mezclados exclusiva o 5112.20 - principalmente con filamentos sintéticos o artificiales.
 Los demás, mezclados exclusiva o principalmente con filamentos sintéticos o 5112.20.91 M² 25 Ex. artificiales.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás, mezclados exclusiva o 5112.30 - principalmente con fibras sintéticas o artificiales discontinuas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás, mezclados exclusiva o 5112.30 - principalmente con fibras sintéticas o artificiales discontinuas.
 Los demás, mezclados exclusiva o principalmente con fibras sintéticas o 5112.30.91 M² 25 Ex. artificiales discontinuas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5112.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5112.90 - Los demás.
 Los demás. 5112.90.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 51.13 Tejidos de pelo ordinario o de crin. 5113.00 Tejidos de pelo ordinario o de crin. 5113.00.02 Tejidos de pelo ordinario o de crin. M² 10 Ex. _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+51.13 Tejidos de pelo ordinario o de crin. 5113.00 Tejidos de pelo ordinario o de crin. 5113.00.02 Tejidos de pelo ordinario o de crin. M² 10 Ex. _______________
 
 ## Capítulo 52
+
 Algodón Nota de subpartida. 1. En las subpartidas 5209.42 y 5211.42, se entiende por tejidos de mezclilla (“denim”) los tejidos con hilados de distintos colores, de ligamento sarga de curso inferior o igual a 4, incluida la sarga quebrada (a veces llamada raso de 4), de efecto por urdimbre, en los que los hilos de urdimbre sean de un solo y mismo color y los de trama, crudos, blanqueados, teñidos de gris o coloreados con un matiz más claro que el utilizado en los hilos de urdimbre.
 UNIDAD CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN IMPUESTO IMPUESTO DE IMP. DE EXP. 52.01 Algodón sin cardar ni peinar. 5201.00 Algodón sin cardar ni peinar. 5201.00.03 Algodón sin cardar ni peinar. Kg Ex. Ex.
 Desperdicios de algodón (incluidos los 52.02 desperdicios de hilados y las hilachas). 5202.10 - Desperdicios de hilados. 5202.10.01 Desperdicios de hilados. Kg Ex. Ex. - Los demás: 5202.91 -- Hilachas. 5202.91.01 Hilachas. Kg Ex. Ex. 5202.99 -- Los demás. 5202.99.99 Los demás. Kg Ex. Ex. 52.03 Algodón cardado o peinado. 5203.00 Algodón cardado o peinado. 5203.00.01 Algodón cardado o peinado. Kg Ex. Ex.
@@ -4623,126 +4938,180 @@ Sin acondicionar para la venta al por menor:
 Con un contenido de algodón superior o 5204.11 -igual al 85% en peso.
 Con un contenido de algodón superior o 5204.11.01 Kg 10 Ex. igual al 85% en peso. 5204.19 -- Los demás. 5204.19.99 Los demás. Kg 10 Ex. 5204.20 - Acondicionado para la venta al por menor.
 Acondicionado para la venta al por menor. 5204.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de algodón (excepto el hilo de coser) con un contenido de algodón 52.05 superior o igual al 85% en peso, sin acondicionar para la venta al por menor. - Hilados sencillos de fibras sin peinar:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de algodón (excepto el hilo de coser) con un contenido de algodón 52.05 superior o igual al 85% en peso, sin acondicionar para la venta al por menor. - Hilados sencillos de fibras sin peinar:
 De título superior o igual a 714.29 decitex 5205.11 -(inferior o igual al número métrico 14).
 De título superior o igual a 714.29 decitex 5205.11.01 (inferior o igual al número métrico 14). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.12 -al número métrico 14 pero inferior o igual al número métrico 43).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.12 -al número métrico 14 pero inferior o igual al número métrico 43).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.12.01 al número métrico 14 pero inferior o igual al Kg 25 Ex. número métrico 43).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.13 -al número métrico 43 pero inferior o igual al número métrico 52).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.13 -al número métrico 43 pero inferior o igual al número métrico 52).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.13.01 al número métrico 43 pero inferior o igual al Kg 25 Ex. número métrico 52).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.14 -número métrico 52 pero inferior o igual al número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.14 -número métrico 52 pero inferior o igual al número métrico 80).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.14.01 número métrico 52 pero inferior o igual al Kg 25 Ex. número métrico 80).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex (superior al 5205.15 -número métrico 80). 5205.15.01 De título inferior a 125 decitex (superior al Kg 25 Ex. número métrico 80).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Hilados sencillos de fibras peinadas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex (superior al 5205.15 -número métrico 80). 5205.15.01 De título inferior a 125 decitex (superior al Kg 25 Ex. número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Hilados sencillos de fibras peinadas:
 De título superior o igual a 714.29 decitex 5205.21 -(inferior o igual al número métrico 14).
 De título superior o igual a 714.29 decitex 5205.21.01 (inferior o igual al número métrico 14). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.22 -al número métrico 14 pero inferior o igual al número métrico 43).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.22 -al número métrico 14 pero inferior o igual al número métrico 43).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5205.22.01 al número métrico 14 pero inferior o igual al Kg 25 Ex. número métrico 43).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.23 -al número métrico 43 pero inferior o igual al número métrico 52).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.23 -al número métrico 43 pero inferior o igual al número métrico 52).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5205.23.01 al número métrico 43 pero inferior o igual al Kg 25 Ex. número métrico 52).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.24 -número métrico 52 pero inferior o igual al número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.24 -número métrico 52 pero inferior o igual al número métrico 80).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5205.24.01 número métrico 52 pero inferior o igual al Kg 25 Ex. número métrico 80).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex pero superior o igual a 106.38 decitex (superior al número 5205.26 -métrico 80 pero inferior o igual al número métrico 94).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex pero superior o igual a 106.38 decitex (superior al número 5205.26 -métrico 80 pero inferior o igual al número métrico 94).
 De título inferior a 125 decitex pero superior o igual a 106.38 decitex (superior al número 5205.26.01 métrico 80 pero inferior o igual al número Kg 25 Ex. métrico 94).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex (superior al 5205.27 -número métrico 94 pero inferior o igual al número métrico 120).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex (superior al 5205.27 -número métrico 94 pero inferior o igual al número métrico 120).
 De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex (superior al 5205.27.01 número métrico 94 pero inferior o igual al Kg 25 Ex. número métrico 120).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5205.28 -- De título inferior a 83.33 decitex (superior al número métrico 120).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5205.28 -- De título inferior a 83.33 decitex (superior al número métrico 120).
 De título inferior a 83.33 decitex (superior al 5205.28.01 número métrico 120). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados retorcidos o cableados, de fibras sin peinar:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados retorcidos o cableados, de fibras sin peinar:
 De título superior o igual a 714.29 decitex 5205.31 -- por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo).
 De título superior o igual a 714.29 decitex por hilo sencillo (inferior o igual al número 5205.31.01 Kg 35 Ex. métrico 14 por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5205.32 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5205.32 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo sencillo (superior al número métrico 14 pero 5205.32.01 Kg 25 Ex. inferior o igual al número métrico 43, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5205.33 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5205.33 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo sencillo (superior al número métrico 43 pero 5205.33.01 Kg 35 Ex. inferior o igual al número métrico 52, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5205.34 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5205.34 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo sencillo (superior al número métrico 52 pero 5205.34.01 Kg 35 Ex. inferior o igual al número métrico 80, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex por hilo 5205.35 -- sencillo (superior al número métrico 80 por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex por hilo 5205.35 -- sencillo (superior al número métrico 80 por hilo sencillo).
 De título inferior a 125 decitex por hilo sencillo (superior al número métrico 80 por 5205.35.01 Kg 35 Ex. hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Hilados retorcidos o cableados, de fibras peinadas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Hilados retorcidos o cableados, de fibras peinadas:
 De título superior o igual a 714.29 decitex 5205.41 -- por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo).
 De título superior o igual a 714.29 decitex por hilo sencillo (inferior o igual al número 5205.41.01 Kg 25 Ex. métrico 14 por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5205.42 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5205.42 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo sencillo (superior al número métrico 14 pero 5205.42.01 Kg 25 Ex. inferior o igual al número métrico 43, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5205.43 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5205.43 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo sencillo (superior al número métrico 43 pero 5205.43.01 Kg 25 Ex. inferior o igual al número métrico 52, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5205.44 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5205.44 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo sencillo (superior al número métrico 52 pero 5205.44.01 Kg 25 Ex. inferior o igual al número métrico 80, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex pero superior o igual a 106.38 decitex, por hilo sencillo 5205.46 -- (superior al número métrico 80 pero inferior o igual al número métrico 94, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex pero superior o igual a 106.38 decitex, por hilo sencillo 5205.46 -- (superior al número métrico 80 pero inferior o igual al número métrico 94, por hilo sencillo).
 De título inferior a 125 decitex pero superior o igual a 106.38 decitex, por hilo sencillo (superior al número métrico 80 pero inferior 5205.46.01 Kg 25 Ex. o igual al número métrico 94, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5205.47 -- De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex, por hilo sencillo (superior al número métrico 94 pero inferior o igual al número métrico 120, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5205.47 -- De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex, por hilo sencillo (superior al número métrico 94 pero inferior o igual al número métrico 120, por hilo sencillo).
 De título inferior a 106.38 decitex pero superior o igual a 83.33 decitex, por hilo sencillo (superior al número métrico 94 pero 5205.47.01 Kg 25 Ex. inferior o igual al número métrico 120, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 83.33 decitex por hilo 5205.48 -- sencillo (superior al número métrico 120 por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 83.33 decitex por hilo 5205.48 -- sencillo (superior al número métrico 120 por hilo sencillo).
 De título inferior a 83.33 decitex por hilo sencillo (superior al número métrico 120 por 5205.48.01 Kg 25 Ex. hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de algodón (excepto el hilo de coser) con un contenido de algodón 52.06 inferior al 85% en peso, sin acondicionar para la venta al por menor. - Hilados sencillos de fibras sin peinar:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de algodón (excepto el hilo de coser) con un contenido de algodón 52.06 inferior al 85% en peso, sin acondicionar para la venta al por menor. - Hilados sencillos de fibras sin peinar:
 De título superior o igual a 714.29 decitex 5206.11 -(inferior o igual al número métrico 14).
 De título superior o igual a 714.29 decitex 5206.11.01 (inferior o igual al número métrico 14). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.12 -al número métrico 14 pero inferior o igual al número métrico 43).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.12 -al número métrico 14 pero inferior o igual al número métrico 43).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.12.01 al número métrico 14 pero inferior o igual al Kg 25 Ex. número métrico 43).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.13 -al número métrico 43 pero inferior o igual al número métrico 52).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.13 -al número métrico 43 pero inferior o igual al número métrico 52).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.13.01 al número métrico 43 pero inferior o igual al Kg 35 Ex. número métrico 52).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5206.14 -número métrico 52 pero inferior o igual al número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5206.14 -número métrico 52 pero inferior o igual al número métrico 80).
 De título inferior a 192.31 decitex pero 5206.14.01 superior o igual a 125 decitex (superior al Kg 25 Ex. número métrico 52 pero inferior o igual al número métrico 80).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex (superior al 5206.15 -número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex (superior al 5206.15 -número métrico 80).
 De título inferior a 125 decitex (superior al 5206.15.01 número métrico 80). Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Hilados sencillos de fibras peinadas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Hilados sencillos de fibras peinadas:
 De título superior o igual a 714.29 decitex 5206.21 -(inferior o igual al número métrico 14).
 De título superior o igual a 714.29 decitex 5206.21.01 (inferior o igual al número métrico 14). Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.22 -al número métrico 14 pero inferior o igual al número métrico 43).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.22 -al número métrico 14 pero inferior o igual al número métrico 43).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex (superior 5206.22.01 al número métrico 14 pero inferior o igual al Kg 25 Ex. número métrico 43).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.23 -al número métrico 43 pero inferior o igual al número métrico 52).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.23 -al número métrico 43 pero inferior o igual al número métrico 52).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex (superior 5206.23.01 al número métrico 43 pero inferior o igual al Kg 25 Ex. número métrico 52).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5206.24 -número métrico 52 pero inferior o igual al número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5206.24 -número métrico 52 pero inferior o igual al número métrico 80).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex (superior al 5206.24.01 número métrico 52 pero inferior o igual al Kg 25 Ex. número métrico 80).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex (superior al 5206.25 -número métrico 80).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex (superior al 5206.25 -número métrico 80).
 De título inferior a 125 decitex (superior al 5206.25.01 número métrico 80). Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados retorcidos o cableados, de fibras sin peinar:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados retorcidos o cableados, de fibras sin peinar:
 De título superior o igual a 714.29 decitex 5206.31 -- por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo).
 De título superior o igual a 714.29 decitex por hilo sencillo (inferior o igual al número 5206.31.01 Kg 35 Ex. métrico 14 por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5206.32 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5206.32 -- sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo sencillo (superior al número métrico 14 pero 5206.32.01 Kg 25 Ex. inferior o igual al número métrico 43, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5206.33 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5206.33 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo sencillo (superior al número métrico 43 pero 5206.33.01 Kg 25 Ex. inferior o igual al número métrico 52, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5206.34 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5206.34 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo sencillo (superior al número métrico 52 pero 5206.34.01 Kg 25 Ex. inferior o igual al número métrico 80, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex por hilo 5206.35 -- sencillo (superior al número métrico 80 por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex por hilo 5206.35 -- sencillo (superior al número métrico 80 por hilo sencillo).
 De título inferior a 125 decitex por hilo sencillo (superior al número métrico 80 por 5206.35.01 Kg 25 Ex. hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados retorcidos o cableados, de fibras peinadas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados retorcidos o cableados, de fibras peinadas:
 De título superior o igual a 714.29 decitex 5206.41 -- por hilo sencillo (inferior o igual al número métrico 14 por hilo sencillo).
 De título superior o igual a 714.29 decitex por hilo sencillo (inferior o igual al número 5206.41.01 Kg 25 Ex. métrico 14 por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5206.42 -sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo 5206.42 -sencillo (superior al número métrico 14 pero inferior o igual al número métrico 43, por hilo sencillo).
 De título inferior a 714.29 decitex pero superior o igual a 232.56 decitex, por hilo sencillo (superior al número métrico 14 pero 5206.42.01 Kg 25 Ex. inferior o igual al número métrico 43, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5206.43 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo 5206.43 -- sencillo (superior al número métrico 43 pero inferior o igual al número métrico 52, por hilo sencillo).
 De título inferior a 232.56 decitex pero superior o igual a 192.31 decitex, por hilo sencillo (superior al número métrico 43 pero 5206.43.01 Kg 25 Ex. inferior o igual al número métrico 52, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5206.44 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo 5206.44 -- sencillo (superior al número métrico 52 pero inferior o igual al número métrico 80, por hilo sencillo).
 De título inferior a 192.31 decitex pero superior o igual a 125 decitex, por hilo sencillo (superior al número métrico 52 pero 5206.44.01 Kg 25 Ex. inferior o igual al número métrico 80, por hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De título inferior a 125 decitex por hilo 5206.45 -- sencillo (superior al número métrico 80 por hilo sencillo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De título inferior a 125 decitex por hilo 5206.45 -- sencillo (superior al número métrico 80 por hilo sencillo).
 De título inferior a 125 decitex por hilo sencillo (superior al número métrico 80 por 5206.45.01 Kg 25 Ex. hilo sencillo).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de algodón (excepto el hilo de 52.07 coser) acondicionados para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de algodón (excepto el hilo de 52.07 coser) acondicionados para la venta al por menor.
 Con un contenido de algodón superior o 5207.10 igual al 85% en peso.
 Con un contenido de algodón superior o 5207.10.01 igual al 85% en peso. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5207.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5207.90 - Los demás.
 Los demás. 5207.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de algodón con un contenido de 52.08 algodón superior o igual al 85% en peso, de peso inferior o igual a 200 g/m². - Crudos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de algodón con un contenido de 52.08 algodón superior o igual al 85% en peso, de peso inferior o igual a 200 g/m². - Crudos:
 De ligamento tafetán, de peso inferior o 5208.11 -igual a 100 g/m².
 De ligamento tafetán, de peso inferior o igual a 100 g/m². 5208.11.01 M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De ligamento tafetán, de peso superior a 5208.12 -100 g/m².
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De ligamento tafetán, de peso superior a 5208.12 -100 g/m².
 De ligamento tafetán, de peso superior a 5208.12.01 M² 10 Ex. 100 g/m².
 De ligamento sarga, incluido el cruzado, de 5208.13 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5208.13.01 curso inferior o igual a 4. M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5208.19 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5208.19 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5208.19.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) - Blanqueados:
 De ligamento tafetán, de peso inferior o 5208.21 -igual a 100 g/m².
 De ligamento tafetán, de peso inferior o igual a 100 g/m².
-Arancel modificado con vigencia temporal DOF 15-08-2023 5208.21.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De ligamento tafetán, de peso superior a 5208.22 -100 g/m².
+Arancel modificado con vigencia temporal DOF 15-08-2023 5208.21.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De ligamento tafetán, de peso superior a 5208.22 -100 g/m².
 De ligamento tafetán, de peso superior a 5208.22.01 M² 10 Ex. 100 g/m².
 De ligamento sarga, incluido el cruzado, de 5208.23 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5208.23.01 curso inferior o igual a 4. M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5208.29 -- Los demás tejidos. 5208.29.91 Los demás tejidos. M² 10 Ex. - Teñidos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5208.29 -- Los demás tejidos. 5208.29.91 Los demás tejidos. M² 10 Ex. - Teñidos:
 De ligamento tafetán, de peso inferior o 5208.31 -igual a 100 g/m².
 De ligamento tafetán, de peso inferior o 5208.31.01 igual a 100 g/m². M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento tafetán, de peso superior a 5208.32 -100 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento tafetán, de peso superior a 5208.32 -100 g/m².
 De ligamento tafetán, de peso superior a 100 g/m². 5208.32.01 M² 15 Ex.
 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) 5208.33 -- De ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5208.33.01 M² 10 Ex. curso inferior o igual a 4. 5208.39 -- Los demás tejidos.
@@ -4750,158 +5119,231 @@ Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5208.39.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) - Con hilados de distintos colores:
 De ligamento tafetán, de peso inferior o 5208.41 -igual a 100 g/m².
 De ligamento tafetán, de peso inferior o igual a 100 g/m².
-Arancel modificado con vigencia temporal DOF 15-08-2023 5208.41.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De ligamento tafetán, de peso superior a 5208.42 -100 g/m².
+Arancel modificado con vigencia temporal DOF 15-08-2023 5208.41.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De ligamento tafetán, de peso superior a 5208.42 -100 g/m².
 De ligamento tafetán, de peso superior a 100 g/m². 5208.42.01 M² 15 Ex.
 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5208.43 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5208.43.01 M² 10 Ex. curso inferior o igual a 4. 5208.49 -- Los demás tejidos.
 Los demás tejidos. 5208.49.91 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Estampados:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Estampados:
 De ligamento tafetán, de peso inferior o 5208.51 -igual a 100 g/m².
 De ligamento tafetán, de peso inferior o 5208.51.01 igual a 100 g/m². M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento tafetán, de peso superior a 5208.52 -100 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento tafetán, de peso superior a 5208.52 -100 g/m².
 De ligamento tafetán, de peso superior a 5208.52.01 100 g/m². M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5208.59 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5208.59 -- Los demás tejidos.
 Los demás tejidos. 5208.59.91 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de algodón con un contenido de 52.09 algodón superior o igual al 85% en peso, de peso superior a 200 g/m². - Crudos: 5209.11 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de algodón con un contenido de 52.09 algodón superior o igual al 85% en peso, de peso superior a 200 g/m². - Crudos: 5209.11 -- De ligamento tafetán.
 De ligamento tafetán. 5209.11.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5209.12 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5209.12 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5209.12.01 curso inferior o igual a 4. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5209.19 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5209.19 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5209.19.91 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Blanqueados: 5209.21 -- De ligamento tafetán.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Blanqueados: 5209.21 -- De ligamento tafetán.
 De ligamento tafetán. 5209.21.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5209.22 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5209.22 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5209.22.01 curso inferior o igual a 4. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5209.29 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5209.29 -- Los demás tejidos.
 Los demás tejidos. 5209.29.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Teñidos: 5209.31 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Teñidos: 5209.31 -- De ligamento tafetán.
 De ligamento tafetán. 5209.31.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5209.32 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5209.32 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de curso inferior o igual a 4. 5209.32.01 M² 25 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5209.39 -- Los demás tejidos.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5209.39 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5209.39.91 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Con hilados de distintos colores: 5209.41 -- De ligamento tafetán.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Con hilados de distintos colores: 5209.41 -- De ligamento tafetán.
 De ligamento tafetán. 5209.41.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5209.42 -- Tejidos de mezclilla ("denim").
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5209.42 -- Tejidos de mezclilla ("denim").
 Tejidos de mezclilla ("denim"). 5209.42.04 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes M² 25 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás tejidos de ligamento sarga, 5209.43 -- incluido el cruzado, de curso inferior o igual a 4.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás tejidos de ligamento sarga, 5209.43 -- incluido el cruzado, de curso inferior o igual a 4.
 Los demás tejidos de ligamento sarga, incluido el cruzado, de curso inferior o igual 5209.43.91 M² 25 Ex. a 4.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5209.49 -- Los demás tejidos. 5209.49.91 Los demás tejidos. M² 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5209.49 -- Los demás tejidos. 5209.49.91 Los demás tejidos. M² 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) - Estampados: 5209.51 -- De ligamento tafetán.
 De ligamento tafetán. 5209.51.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5209.52 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5209.52 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5209.52.01 curso inferior o igual a 4. M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5209.59 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5209.59 -- Los demás tejidos.
 Los demás tejidos. 5209.59.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de algodón con un contenido de algodón inferior al 85% en peso, 52.10 mezclado exclusiva o principalmente con fibras sintéticas o artificiales, de peso inferior o igual a 200 g/m². - Crudos: 5210.11 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de algodón con un contenido de algodón inferior al 85% en peso, 52.10 mezclado exclusiva o principalmente con fibras sintéticas o artificiales, de peso inferior o igual a 200 g/m². - Crudos: 5210.11 -- De ligamento tafetán.
 De ligamento tafetán. 5210.11.02 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5210.19 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5210.19 -- Los demás tejidos.
 Los demás tejidos. 5210.19.91 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Blanqueados: 5210.21 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Blanqueados: 5210.21 -- De ligamento tafetán.
 De ligamento tafetán. 5210.21.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5210.29 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5210.29 -- Los demás tejidos.
 Los demás tejidos. 5210.29.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Teñidos: 5210.31 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Teñidos: 5210.31 -- De ligamento tafetán.
 De ligamento tafetán. 5210.31.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5210.32 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5210.32 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5210.32.01 curso inferior o igual a 4. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5210.39 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5210.39 -- Los demás tejidos.
 Los demás tejidos. 5210.39.91 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Con hilados de distintos colores: 5210.41 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Con hilados de distintos colores: 5210.41 -- De ligamento tafetán.
 De ligamento tafetán. 5210.41.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5210.49 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5210.49 -- Los demás tejidos.
 Los demás tejidos. 5210.49.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Estampados: 5210.51 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Estampados: 5210.51 -- De ligamento tafetán.
 De ligamento tafetán. 5210.51.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5210.59 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5210.59 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5210.59.91 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tejidos de algodón con un contenido de algodón inferior al 85% en peso, 52.11 mezclado exclusiva o principalmente con fibras sintéticas o artificiales, de peso superior a 200 g/m². - Crudos: 5211.11 -- De ligamento tafetán.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tejidos de algodón con un contenido de algodón inferior al 85% en peso, 52.11 mezclado exclusiva o principalmente con fibras sintéticas o artificiales, de peso superior a 200 g/m². - Crudos: 5211.11 -- De ligamento tafetán.
 De ligamento tafetán. 5211.11.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5211.12 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5211.12 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de 5211.12.01 curso inferior o igual a 4. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5211.19 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5211.19 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5211.19.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) 5211.20 - Blanqueados.
 Blanqueados. 5211.20.04 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Teñidos: 5211.31 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Teñidos: 5211.31 -- De ligamento tafetán.
 De ligamento tafetán. 5211.31.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5211.32 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5211.32 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
-Arancel modificado con vigencia temporal DOF 15-08-2023 5211.32.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5211.39 -- Los demás tejidos.
+Arancel modificado con vigencia temporal DOF 15-08-2023 5211.32.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5211.39 -- Los demás tejidos.
 Los demás tejidos. 5211.39.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Con hilados de distintos colores: 5211.41 -- De ligamento tafetán.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Con hilados de distintos colores: 5211.41 -- De ligamento tafetán.
 De ligamento tafetán. 5211.41.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5211.42 -- Tejidos de mezclilla ("denim"). 5211.42.04 Tejidos de mezclilla ("denim"). M² 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5211.42 -- Tejidos de mezclilla ("denim"). 5211.42.04 Tejidos de mezclilla ("denim"). M² 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Los demás tejidos de ligamento sarga, 5211.43 -- incluido el cruzado, de curso inferior o igual a 4.
 Los demás tejidos de ligamento sarga, incluido el cruzado, de curso inferior o igual a 4. 5211.43.91 M² 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) 5211.49 -- Los demás tejidos.
 Los demás tejidos. 5211.49.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes M² 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Estampados: 5211.51 -- De ligamento tafetán.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Estampados: 5211.51 -- De ligamento tafetán.
 De ligamento tafetán. 5211.51.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De ligamento sarga, incluido el cruzado, de 5211.52 -curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De ligamento sarga, incluido el cruzado, de 5211.52 -curso inferior o igual a 4.
 De ligamento sarga, incluido el cruzado, de curso inferior o igual a 4. 5211.52.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 5211.59 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+5211.59 -- Los demás tejidos.
 Los demás tejidos. 5211.59.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 52.12 Los demás tejidos de algodón. - De peso inferior o igual a 200 g/m²: 5212.11 -- Crudos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+52.12 Los demás tejidos de algodón. - De peso inferior o igual a 200 g/m²: 5212.11 -- Crudos.
 Crudos. 5212.11.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.12 -- Blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.12 -- Blanqueados.
 Blanqueados. 5212.12.01 M² 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.13 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.13 -- Teñidos.
 Teñidos. 5212.13.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.14 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.14 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5212.14.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.15 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.15 -- Estampados.
 Estampados. 5212.15.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De peso superior a 200 g/m²: 5212.21 -- Crudos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De peso superior a 200 g/m²: 5212.21 -- Crudos.
 Crudos. 5212.21.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.22 -- Blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.22 -- Blanqueados.
 Blanqueados. 5212.22.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.23 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.23 -- Teñidos.
 Teñidos. 5212.23.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.24 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.24 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5212.24.02 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5212.25 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5212.25 -- Estampados.
 Estampados. 5212.25.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 53
+
 Las demás fibras textiles vegetales; hilados de papel y tejidos de hilados de papel CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Lino en bruto o trabajado, pero sin hilar; estopas y desperdicios de lino (incluidos 53.01 los desperdicios de hilados y las hilachas). 5301.10 - Lino en bruto o enriado. 5301.10.01 Lino en bruto o enriado. Kg Ex. Ex.
 Lino agramado, espadado, peinado o trabajado de otro modo, pero sin hilar: 5301.21 -- Agramado o espadado. 5301.21.01 Agramado o espadado. Kg Ex. Ex. 5301.29 -- Los demás. 5301.29.99 Los demás. Kg Ex. Ex. 5301.30 - Estopas y desperdicios de lino. 5301.30.01 Estopas y desperdicios de lino. Kg Ex. Ex.
 Cáñamo (Cannabis sativa L.) en bruto o trabajado, pero sin hilar; estopas y 53.02 desperdicios de cáñamo (incluidos los desperdicios de hilados y las hilachas). 5302.10 - Cáñamo en bruto o enriado. 5302.10.01 Cáñamo en bruto o enriado. Kg Ex. Ex. 5302.90 - Los demás. 5302.90.99 Los demás. Kg Ex. Ex.
 Yute y demás fibras textiles del líber (excepto el lino, cáñamo y ramio), en bruto o trabajados, pero sin hilar; estopas 53.03 y desperdicios de estas fibras (incluidos los desperdicios de hilados y las hilachas).
 Yute y demás fibras textiles del líber, en 5303.10 bruto o enriados. 5303.10.01 Yute y demás fibras textiles del líber, en Kg 25 Ex. bruto o enriados.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5303.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5303.90 - Los demás.
 Los demás. 5303.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Coco, abacá (cáñamo de Manila (Musa textilis Nee)), ramio y demás fibras textiles vegetales no expresadas ni comprendidas en otra parte, en bruto o 53.05 trabajadas, pero sin hilar; estopas y desperdicios de estas fibras (incluidos los desperdicios de hilados y las hilachas).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Coco, abacá (cáñamo de Manila (Musa textilis Nee)), ramio y demás fibras textiles vegetales no expresadas ni comprendidas en otra parte, en bruto o 53.05 trabajadas, pero sin hilar; estopas y desperdicios de estas fibras (incluidos los desperdicios de hilados y las hilachas).
 Coco, abacá (cáñamo de Manila (Musa textilis Nee)), ramio y demás fibras textiles vegetales no expresadas ni comprendidas 5305.00 en otra parte, en bruto o trabajadas, pero sin hilar; estopas y desperdicios de estas fibras (incluidos los desperdicios de hilados y las hilachas).
 Coco, abacá (cáñamo de Manila (Musa textilis Nee)), ramio y demás fibras textiles vegetales no expresadas ni comprendidas 5305.00.08 en otra parte, en bruto o trabajadas, pero sin Kg Ex. Ex. hilar; estopas y desperdicios de estas fibras (incluidos los desperdicios de hilados y las hilachas). 53.06 Hilados de lino. 5306.10 - Sencillos. 5306.10.01 Sencillos. Kg 10 Ex. 5306.20 - Retorcidos o cableados. 5306.20.01 Retorcidos o cableados. Kg 10 Ex.
 Hilados de yute o demás fibras textiles 53.07 del líber de la partida 53.03. 5307.10 - Sencillos.
 Sencillos. 5307.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5307.20 - Retorcidos o cableados.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5307.20 - Retorcidos o cableados.
 Retorcidos o cableados. 5307.20.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de las demás fibras textiles 53.08 vegetales; hilados de papel. 5308.10 - Hilados de coco.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de las demás fibras textiles 53.08 vegetales; hilados de papel. 5308.10 - Hilados de coco.
 Hilados de coco. 5308.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5308.20 - Hilados de cáñamo.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5308.20 - Hilados de cáñamo.
 Hilados de cáñamo. 5308.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5308.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5308.90 - Los demás.
 De ramio. 5308.90.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás. 5308.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 53.09 Tejidos de lino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás. 5308.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+53.09 Tejidos de lino.
 Con un contenido de lino superior o igual al 85% en peso: 5309.11 -- Crudos o blanqueados. 5309.11.01 Crudos o blanqueados. M² 10 Ex. 5309.19 -- Los demás.
 Los demás. 5309.19.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Con un contenido de lino inferior al 85% en peso: 5309.21 -- Crudos o blanqueados. 5309.21.01 Crudos o blanqueados. M² 10 Ex. 5309.29 -- Los demás. 5309.29.99 Los demás. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Con un contenido de lino inferior al 85% en peso: 5309.21 -- Crudos o blanqueados. 5309.21.01 Crudos o blanqueados. M² 10 Ex. 5309.29 -- Los demás. 5309.29.99 Los demás. M² 10 Ex.
 Tejidos de yute o demás fibras textiles del 53.10 líber de la partida 53.03. 5310.10 - Crudos.
 Crudos. 5310.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5310.90 - Los demás. 5310.90.99 Los demás. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5310.90 - Los demás. 5310.90.99 Los demás. M² 10 Ex.
 Tejidos de las demás fibras textiles 53.11 vegetales; tejidos de hilados de papel.
 Tejidos de las demás fibras textiles 5311.00 vegetales; tejidos de hilados de papel.
 Tejidos de las demás fibras textiles 5311.00.02 M² 10 Ex. vegetales; tejidos de hilados de papel. _______________
 
 ## Capítulo 54
+
 Filamentos sintéticos o artificiales; tiras y formas similares de materia textil sintética o artificial Notas. 1. En la Nomenclatura, las expresiones fibras sintéticas y fibras artificiales se refieren a las fibras discontinuas y a los filamentos de polímeros orgánicos obtenidos industrialmente:
 
 a) por polimerización de monómeros orgánicos para obtener polímeros tales como poliamidas, poliésteres, poliolefinas o poliuretanos, o por modificación química de polímeros obtenidos por este procedimiento (por ejemplo, poli(alcohol vinílico) obtenido por hidrólisis del poli(acetato de vinilo));
@@ -4911,129 +5353,179 @@ Se consideran sintéticas las fibras definidas en a) y artificiales las definida
 Los términos sintético y artificial se aplican también, con el mismo sentido, a la expresión materia textil. 2. Las partidas 54.02 y 54.03 no comprenden los cables de filamentos sintéticos o artificiales del
 
 ## Capítulo 55 — .
+
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Hilo de coser de filamentos sintéticos o 54.01 artificiales, incluso acondicionado para la venta al por menor. 5401.10 - De filamentos sintéticos. 5401.10.01 De filamentos sintéticos. Kg 10 Ex. 5401.20 - De filamentos artificiales. 5401.20.01 De filamentos artificiales. Kg 10 Ex.
 Hilados de filamentos sintéticos (excepto el hilo de coser) sin 54.02 acondicionar para la venta al por menor, incluidos los monofilamentos sintéticos de título inferior a 67 decitex.
 Hilados de alta tenacidad de nailon o demás poliamidas, incluso texturados: 5402.11 -- De aramidas.
 De aramidas. 5402.11.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.19 -- Los demás. 5402.19.99 Los demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.19 -- Los demás. 5402.19.99 Los demás. Kg 5 Ex.
 Hilados de alta tenacidad de poliésteres, 5402.20 incluso texturados.
 Hilados de alta tenacidad de poliésteres, 5402.20.02 Kg 5 Ex. incluso texturados. - Hilados texturados:
 De nailon o demás poliamidas, de título 5402.31 -inferior o igual a 50 tex por hilo sencillo.
 De nailon o demás poliamidas, de título 5402.31.01 Kg 5 Ex. inferior o igual a 50 tex por hilo sencillo.
 De nailon o demás poliamidas, de título 5402.32 -superior a 50 tex por hilo sencillo.
 De nailon o demás poliamidas, de título 5402.32.01 superior a 50 tex por hilo sencillo. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5402.33 -- De poliésteres. 5402.33.01 De poliésteres. Kg 5 Ex. 5402.34 -- De polipropileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5402.33 -- De poliésteres. 5402.33.01 De poliésteres. Kg 5 Ex. 5402.34 -- De polipropileno.
 De polipropileno. 5402.34.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.39 -- Los demás.
 Los demás. 5402.39.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás hilados sencillos sin torsión o - con una torsión inferior o igual a 50 vueltas por metro: 5402.44 -- De elastómeros.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás hilados sencillos sin torsión o - con una torsión inferior o igual a 50 vueltas por metro: 5402.44 -- De elastómeros.
 De poliuretanos, del tipo de los 5402.44.01 denominados "elastanos", sin torsión, no en Kg 5 Ex. carretes de urdido (enjulios). 5402.44.99 Los demás. Kg Ex. Ex. 5402.45 -- Los demás, de nailon o demás poliamidas.
 De aramidas. 5402.45.03 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.45.99 Los demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.45.99 Los demás. Kg 5 Ex.
 Los demás, de poliésteres, parcialmente 5402.46 -orientados.
 Los demás, de poliésteres, parcialmente 5402.46.91 Kg 5 Ex. orientados. 5402.47 -- Los demás, de poliésteres. 5402.47.91 Los demás, de poliésteres. Kg 5 Ex. 5402.48 -- Los demás, de polipropileno.
 Los demás, de polipropileno. 5402.48.91 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.49 -- Los demás.
 De poliuretanos. 5402.49.06 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 5402.49.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás hilados sencillos con una torsión superior a 50 vueltas por metro: 5402.51 -- De nailon o demás poliamidas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 5402.49.99 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás hilados sencillos con una torsión superior a 50 vueltas por metro: 5402.51 -- De nailon o demás poliamidas.
 De nailon o demás poliamidas. 5402.51.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.52 -- De poliésteres. 5402.52.03 De poliésteres. Kg 5 Ex. 5402.53 -- De polipropileno. 5402.53.01 De polipropileno. Kg Ex. Ex. 5402.59 -- Los demás. 5402.59.99 Los demás. Kg Ex. Ex. - Los demás hilados retorcidos o cableados: 5402.61 -- De nailon o demás poliamidas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.52 -- De poliésteres. 5402.52.03 De poliésteres. Kg 5 Ex. 5402.53 -- De polipropileno. 5402.53.01 De polipropileno. Kg Ex. Ex. 5402.59 -- Los demás. 5402.59.99 Los demás. Kg Ex. Ex. - Los demás hilados retorcidos o cableados: 5402.61 -- De nailon o demás poliamidas.
 De nailon o demás poliamidas. 5402.61.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.62 -- De poliésteres. 5402.62.02 De poliésteres. Kg 5 Ex. 5402.63 -- De polipropileno. 5402.63.01 De polipropileno. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5402.69 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.62 -- De poliésteres. 5402.62.02 De poliésteres. Kg 5 Ex. 5402.63 -- De polipropileno. 5402.63.01 De polipropileno. Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5402.69 -- Los demás.
 Los demás. 5402.69.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de filamentos artificiales (excepto el hilo de coser) sin 54.03 acondicionar para la venta al por menor, incluidos los monofilamentos artificiales de título inferior a 67 decitex. 5403.10 - Hilados de alta tenacidad de rayón viscosa.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de filamentos artificiales (excepto el hilo de coser) sin 54.03 acondicionar para la venta al por menor, incluidos los monofilamentos artificiales de título inferior a 67 decitex. 5403.10 - Hilados de alta tenacidad de rayón viscosa.
 Hilados de alta tenacidad de rayón viscosa. 5403.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Los demás hilados sencillos:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Los demás hilados sencillos:
 De rayón viscosa, sin torsión o con una 5403.31 -- torsión inferior o igual a 120 vueltas por metro.
 De rayón viscosa, sin torsión o con una torsión inferior o igual a 120 vueltas por 5403.31.03 Kg 30 Ex. metro.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De rayón viscosa, con una torsión superior 5403.32 -a 120 vueltas por metro.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De rayón viscosa, con una torsión superior 5403.32 -a 120 vueltas por metro.
 De rayón viscosa, con una torsión superior 5403.32.03 Kg Ex. Ex. a 120 vueltas por metro. 5403.33 -- De acetato de celulosa.
 De acetato de celulosa. 5403.33.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5403.39 -- Los demás. 5403.39.99 Los demás. Kg Ex. Ex. - Los demás hilados retorcidos o cableados: 5403.41 -- De rayón viscosa. 5403.41.03 De rayón viscosa. Kg Ex. Ex. 5403.42 -- De acetato de celulosa.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5403.39 -- Los demás. 5403.39.99 Los demás. Kg Ex. Ex. - Los demás hilados retorcidos o cableados: 5403.41 -- De rayón viscosa. 5403.41.03 De rayón viscosa. Kg Ex. Ex. 5403.42 -- De acetato de celulosa.
 De acetato de celulosa. 5403.42.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5403.49 -- Los demás. 5403.49.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5403.49 -- Los demás. 5403.49.99 Los demás. Kg Ex. Ex.
 Monofilamentos sintéticos de título superior o igual a 67 decitex y cuya mayor dimensión de la sección transversal sea inferior o igual a 1 mm; 54.04 tiras y formas similares (por ejemplo, paja artificial) de materia textil sintética, de anchura aparente inferior o igual a 5 mm. - Monofilamentos: 5404.11 -- De elastómeros.
 De poliuretanos, del tipo de los 5404.11.01 Kg 5 Ex. denominados "elastanos".
 Los demás. 5404.11.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5404.12 -- Los demás, de polipropileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5404.12 -- Los demás, de polipropileno.
 Los demás, de polipropileno. 5404.12.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5404.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5404.19 -- Los demás.
 Los demás. 5404.19.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5404.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5404.90 - Las demás.
 Las demás. 5404.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Monofilamentos artificiales de título superior o igual a 67 decitex y cuya mayor dimensión de la sección transversal sea inferior o igual a 1 mm; 54.05 tiras y formas similares (por ejemplo, paja artificial) de materia textil artificial, de anchura aparente inferior o igual a 5 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Monofilamentos artificiales de título superior o igual a 67 decitex y cuya mayor dimensión de la sección transversal sea inferior o igual a 1 mm; 54.05 tiras y formas similares (por ejemplo, paja artificial) de materia textil artificial, de anchura aparente inferior o igual a 5 mm.
 Monofilamentos artificiales de título superior o igual a 67 decitex y cuya mayor dimensión de la sección transversal sea 5405.00 inferior o igual a 1 mm; tiras y formas similares (por ejemplo, paja artificial) de materia textil artificial, de anchura aparente inferior o igual a 5 mm.
 Monofilamentos artificiales de título superior o igual a 67 decitex y cuya mayor dimensión de la sección transversal sea inferior o igual a 1 mm; tiras y formas 5405.00.05 Kg 25 Ex. similares (por ejemplo, paja artificial) de materia textil artificial, de anchura aparente inferior o igual a 5 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de filamentos sintéticos o artificiales (excepto el hilo de coser), 54.06 acondicionados para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de filamentos sintéticos o artificiales (excepto el hilo de coser), 54.06 acondicionados para la venta al por menor.
 Hilados de filamentos sintéticos o artificiales 5406.00 (excepto el hilo de coser), acondicionados para la venta al por menor.
 De poliamidas o superpoliamidas. 5406.00.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De aramidas, retardantes a la flama. 5406.00.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de filamentos artificiales. 5406.00.05 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5406.00.91 Los demás hilados de filamentos sintéticos. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De aramidas, retardantes a la flama. 5406.00.02 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de filamentos artificiales. 5406.00.05 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5406.00.91 Los demás hilados de filamentos sintéticos. Kg 10 Ex.
 Tejidos de hilados de filamentos sintéticos, incluidos los tejidos 54.07 fabricados con los productos de la partida 54.04.
 Tejidos fabricados con hilados de alta 5407.10 - tenacidad de nailon o demás poliamidas o de poliésteres.
 Tejidos fabricados con hilados de alta tenacidad de nailon o demás poliamidas o 5407.10.03 M² 25 Ex. de poliésteres.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos fabricados con tiras o formas 5407.20 similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos fabricados con tiras o formas 5407.20 similares.
 Tejidos fabricados con tiras o formas 5407.20.02 similares. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Productos citados en la Nota 9 de la 5407.30 -
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Productos citados en la Nota 9 de la 5407.30 -
 
 ## Sección XI — .
+
 Productos citados en la Nota 9 de la 5407.30.04 M² 10 Ex.
 
 ## Sección XI — .
+
 Los demás tejidos con un contenido de - filamentos de nailon o demás poliamidas superior o igual al 85% en peso: 5407.41 -- Crudos o blanqueados.
 Crudos o blanqueados. 5407.41.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.42 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.42 -- Teñidos.
 Teñidos. 5407.42.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.43 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.43 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5407.43.04 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.44 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.44 -- Estampados.
 Estampados. 5407.44.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos con un contenido de - filamentos de poliéster texturados superior o igual al 85% en peso: 5407.51 -- Crudos o blanqueados. 5407.51.05 Crudos o blanqueados. M² 10 Ex. 5407.52 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos con un contenido de - filamentos de poliéster texturados superior o igual al 85% en peso: 5407.51 -- Crudos o blanqueados. 5407.51.05 Crudos o blanqueados. M² 10 Ex. 5407.52 -- Teñidos.
 Teñidos. 5407.52.05 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.53 -- Con hilados de distintos colores. 5407.53.04 Con hilados de distintos colores. M² 10 Ex. 5407.54 -- Estampados. 5407.54.05 Estampados. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.53 -- Con hilados de distintos colores. 5407.53.04 Con hilados de distintos colores. M² 10 Ex. 5407.54 -- Estampados. 5407.54.05 Estampados. M² 10 Ex.
 Los demás tejidos con un contenido de - filamentos de poliéster superior o igual al 85% en peso:
 Con un contenido de filamentos de poliéster 5407.61 -sin texturar superior o igual al 85% en peso.
 Con un contenido de filamentos de poliéster sin texturar superior o igual al 85% en peso. 5407.61.06 Arancel modificado con vigencia temporal DOF 15-08-2023 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) 5407.69 -- Los demás. 5407.69.99 Los demás. M² 10 Ex.
 Los demás tejidos con un contenido de - filamentos sintéticos superior o igual al 85% en peso: 5407.71 -- Crudos o blanqueados.
 Crudos o blanqueados. 5407.71.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.72 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.72 -- Teñidos.
 Teñidos. 5407.72.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.73 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.73 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5407.73.04 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.74 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.74 -- Estampados.
 Estampados. 5407.74.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos con un contenido de filamentos sintéticos inferior al 85% en peso, mezclados exclusiva o principalmente con algodón: 5407.81 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos con un contenido de filamentos sintéticos inferior al 85% en peso, mezclados exclusiva o principalmente con algodón: 5407.81 -- Crudos o blanqueados.
 Crudos o blanqueados. 5407.81.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.82 -- Teñidos. 5407.82.04 Teñidos. M² 10 Ex. 5407.83 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.82 -- Teñidos. 5407.82.04 Teñidos. M² 10 Ex. 5407.83 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5407.83.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.84 -- Estampados. 5407.84.01 Estampados. M² 10 Ex. - Los demás tejidos: 5407.91 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.84 -- Estampados. 5407.84.01 Estampados. M² 10 Ex. - Los demás tejidos: 5407.91 -- Crudos o blanqueados.
 Crudos o blanqueados. 5407.91.08 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.92 -- Teñidos. 5407.92.07 Teñidos. M² 10 Ex. 5407.93 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.92 -- Teñidos. 5407.92.07 Teñidos. M² 10 Ex. 5407.93 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5407.93.08 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.94 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5407.94 -- Estampados.
 Estampados. 5407.94.08 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de hilados de filamentos 54.08 artificiales, incluidos los fabricados con productos de la partida 54.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de hilados de filamentos 54.08 artificiales, incluidos los fabricados con productos de la partida 54.05.
 Tejidos fabricados con hilados de alta 5408.10 tenacidad de rayón viscosa.
 Tejidos fabricados con hilados de alta 5408.10.05 M² 10 Ex. tenacidad de rayón viscosa.
 Los demás tejidos con un contenido de filamentos o de tiras o formas similares, artificiales, superior o igual al 85% en peso: 5408.21 -- Crudos o blanqueados.
 Crudos o blanqueados. 5408.21.04 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5408.22 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5408.22 -- Teñidos.
 Teñidos. 5408.22.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5408.23 -- Con hilados de distintos colores. 5408.23.06 Con hilados de distintos colores. M² 10 Ex. 5408.24 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5408.23 -- Con hilados de distintos colores. 5408.23.06 Con hilados de distintos colores. M² 10 Ex. 5408.24 -- Estampados.
 Estampados. 5408.24.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Los demás tejidos: 5408.31 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Los demás tejidos: 5408.31 -- Crudos o blanqueados.
 Crudos o blanqueados. 5408.31.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5408.32 -- Teñidos. 5408.32.06 Teñidos. M² 10 Ex. 5408.33 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5408.32 -- Teñidos. 5408.32.06 Teñidos. M² 10 Ex. 5408.33 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5408.33.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5408.34 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5408.34 -- Estampados.
 Estampados. 5408.34.04 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 55
+
 Fibras sintéticas o artificiales discontinuas Nota. 1. En las partidas 55.01 y 55.02, se entiende por cables de filamentos sintéticos y cables de filamentos artificiales, los cables constituidos por un conjunto de filamentos paralelos de longitud uniforme e igual a la de los cables, que satisfagan las condiciones siguientes:
 
 a) longitud del cable superior a 2 m;
@@ -5048,210 +5540,296 @@ e) título total del cable superior a 20,000 decitex.
 Los cables de longitud inferior o igual a 2 m se clasifican en las partidas 55.03 o 55.04.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP. 55.01 Cables de filamentos sintéticos. - De nailon o demás poliamidas: 5501.11 -- De aramidas.
 De aramidas. 5501.11.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5501.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5501.19 -- Los demás.
 Los demás. 5501.19.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5501.20 - De poliésteres.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5501.20 - De poliésteres.
 De tereftalato de polietileno color negro, 5501.20.02 teñido en la masa. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5501.20.99 Los demás. Kg Ex. Ex. 5501.30 - Acrílicos o modacrílicos. 5501.30.01 Acrílicos o modacrílicos. Kg 5 Ex. 5501.40 - De polipropileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5501.20.99 Los demás. Kg Ex. Ex. 5501.30 - Acrílicos o modacrílicos. 5501.30.01 Acrílicos o modacrílicos. Kg 5 Ex. 5501.40 - De polipropileno.
 De polipropileno. 5501.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5501.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5501.90 - Los demás.
 Los demás. 5501.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 55.02 Cables de filamentos artificiales. 5502.10 - De acetato de celulosa.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+55.02 Cables de filamentos artificiales. 5502.10 - De acetato de celulosa.
 De acetato de celulosa. 5502.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5502.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5502.90 - Los demás.
 Cables de rayón. 5502.90.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 5502.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Fibras sintéticas discontinuas, sin 55.03 cardar, peinar ni transformar de otro modo para la hilatura. - De nailon o demás poliamidas: 5503.11 -- De aramidas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 5502.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Fibras sintéticas discontinuas, sin 55.03 cardar, peinar ni transformar de otro modo para la hilatura. - De nailon o demás poliamidas: 5503.11 -- De aramidas.
 De aramidas. 5503.11.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5503.19 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5503.19 -- Las demás.
 Las demás. 5503.19.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5503.20 - De poliésteres.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5503.20 - De poliésteres.
 De tereftalato de polietileno color negro, 5503.20.03 Kg Ex. Ex. teñidas en la masa.
 Los demás. 5503.20.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5503.30 - Acrílicas o modacrílicas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5503.30 - Acrílicas o modacrílicas.
 Acrílicas o modacrílicas. 5503.30.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5503.40 - De polipropileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5503.40 - De polipropileno.
 De polipropileno de 3 a 25 deniers. 5503.40.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 5503.40.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5503.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 5503.40.99 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5503.90 - Las demás.
 De alcohol polivinílico, de longitud inferior o 5503.90.01 Kg Ex. Ex. igual a 12 mm.
 Las demás. 5503.90.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Fibras artificiales discontinuas, sin 55.04 cardar, peinar ni transformar de otro modo para la hilatura. 5504.10 - De rayón viscosa. 5504.10.02 De rayón viscosa. Kg Ex. Ex. 5504.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Fibras artificiales discontinuas, sin 55.04 cardar, peinar ni transformar de otro modo para la hilatura. 5504.10 - De rayón viscosa. 5504.10.02 De rayón viscosa. Kg Ex. Ex. 5504.90 - Las demás.
 Las demás. 5504.90.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Desperdicios de fibras sintéticas o 55.05 artificiales (incluidas las borras, los desperdicios de hilados y las hilachas). 5505.10 - De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Desperdicios de fibras sintéticas o 55.05 artificiales (incluidas las borras, los desperdicios de hilados y las hilachas). 5505.10 - De fibras sintéticas.
 De fibras sintéticas. 5505.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5505.20 - De fibras artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5505.20 - De fibras artificiales.
 De fibras artificiales. 5505.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Fibras sintéticas discontinuas, cardadas, 55.06 peinadas o transformadas de otro modo para la hilatura. 5506.10 - De nailon o demás poliamidas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Fibras sintéticas discontinuas, cardadas, 55.06 peinadas o transformadas de otro modo para la hilatura. 5506.10 - De nailon o demás poliamidas.
 De nailon o demás poliamidas. 5506.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5506.20 - De poliésteres.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5506.20 - De poliésteres.
 De poliésteres. 5506.20.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5506.30 - Acrílicas o modacrílicas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5506.30 - Acrílicas o modacrílicas.
 Acrílicas o modacrílicas. 5506.30.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5506.40 - De polipropileno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5506.40 - De polipropileno.
 De polipropileno. 5506.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 5506.90 - Las demás. 5506.90.99 Las demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+5506.90 - Las demás. 5506.90.99 Las demás. Kg 5 Ex.
 Fibras artificiales discontinuas, 55.07 cardadas, peinadas o transformadas de otro modo para la hilatura.
 Fibras artificiales discontinuas, cardadas, 5507.00 peinadas o transformadas de otro modo para la hilatura.
 Fibras artificiales discontinuas, cardadas, peinadas o transformadas de otro modo 5507.00.01 Kg 25 Ex. para la hilatura.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Hilo de coser de fibras sintéticas o artificiales, discontinuas, incluso 55.08 acondicionado para la venta al por menor. 5508.10 - De fibras sintéticas discontinuas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Hilo de coser de fibras sintéticas o artificiales, discontinuas, incluso 55.08 acondicionado para la venta al por menor. 5508.10 - De fibras sintéticas discontinuas.
 De fibras sintéticas discontinuas. 5508.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5508.20 - De fibras artificiales discontinuas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5508.20 - De fibras artificiales discontinuas.
 De fibras artificiales discontinuas. 5508.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de fibras sintéticas discontinuas 55.09 (excepto el hilo de coser) sin acondicionar para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de fibras sintéticas discontinuas 55.09 (excepto el hilo de coser) sin acondicionar para la venta al por menor.
 Con un contenido de fibras discontinuas de - nailon o demás poliamidas superior o igual al 85% en peso: 5509.11 -- Sencillos.
 Sencillos. 5509.11.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5509.12 -- Retorcidos o cableados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5509.12 -- Retorcidos o cableados.
 Retorcidos o cableados. 5509.12.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Con un contenido de fibras discontinuas de poliéster superior o igual al 85% en peso: 5509.21 -- Sencillos. 5509.21.01 Sencillos. Kg 10 Ex. 5509.22 -- Retorcidos o cableados. 5509.22.01 Retorcidos o cableados. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Con un contenido de fibras discontinuas de poliéster superior o igual al 85% en peso: 5509.21 -- Sencillos. 5509.21.01 Sencillos. Kg 10 Ex. 5509.22 -- Retorcidos o cableados. 5509.22.01 Retorcidos o cableados. Kg 10 Ex.
 Con un contenido de fibras discontinuas - acrílicas o modacrílicas superior o igual al 85% en peso: 5509.31 -- Sencillos.
 Sencillos. 5509.31.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5509.32 -- Retorcidos o cableados. 5509.32.01 Retorcidos o cableados. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5509.32 -- Retorcidos o cableados. 5509.32.01 Retorcidos o cableados. Kg 10 Ex.
 Los demás hilados con un contenido de - fibras sintéticas discontinuas superior o igual al 85% en peso: 5509.41 -- Sencillos. 5509.41.01 Sencillos. Kg 10 Ex. 5509.42 -- Retorcidos o cableados. 5509.42.01 Retorcidos o cableados. Kg 10 Ex.
 Los demás hilados de fibras discontinuas de poliéster:
 Mezclados exclusiva o principalmente con 5509.51 -fibras artificiales discontinuas.
 Mezclados exclusiva o principalmente con 5509.51.01 Kg 10 Ex. fibras artificiales discontinuas. 5509.52 -- Mezclados exclusiva o principalmente con lana o pelo fino.
 Mezclados exclusiva o principalmente con 5509.52.01 lana o pelo fino. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Mezclados exclusiva o principalmente con 5509.53 -algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Mezclados exclusiva o principalmente con 5509.53 -algodón.
 Mezclados exclusiva o principalmente con 5509.53.01 algodón. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5509.59 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5509.59 -- Los demás.
 Los demás. 5509.59.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás hilados de fibras discontinuas acrílicas o modacrílicas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás hilados de fibras discontinuas acrílicas o modacrílicas:
 Mezclados exclusiva o principalmente con 5509.61 -lana o pelo fino.
 Mezclados exclusiva o principalmente con 5509.61.01 Kg 10 Ex. lana o pelo fino.
 Mezclados exclusiva o principalmente con 5509.62 -algodón.
 Mezclados exclusiva o principalmente con 5509.62.01 algodón. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5509.69 -- Los demás. 5509.69.99 Los demás. Kg 10 Ex. - Los demás hilados:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5509.69 -- Los demás. 5509.69.99 Los demás. Kg 10 Ex. - Los demás hilados:
 Mezclados exclusiva o principalmente con 5509.91 -lana o pelo fino.
 Mezclados exclusiva o principalmente con 5509.91.01 Kg 10 Ex. lana o pelo fino.
 Mezclados exclusiva o principalmente con 5509.92 -algodón.
 Mezclados exclusiva o principalmente con 5509.92.01 algodón. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5509.99 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5509.99 -- Los demás.
 Los demás. 5509.99.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de fibras artificiales discontinuas (excepto el hilo de coser) 55.10 sin acondicionar para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de fibras artificiales discontinuas (excepto el hilo de coser) 55.10 sin acondicionar para la venta al por menor.
 Con un contenido de fibras artificiales - discontinuas superior o igual al 85% en peso: 5510.11 -- Sencillos. 5510.11.01 Sencillos. Kg 10 Ex. 5510.12 -- Retorcidos o cableados. 5510.12.01 Retorcidos o cableados. Kg 10 Ex.
 Los demás hilados mezclados exclusiva o 5510.20 principalmente con lana o pelo fino. 5510.20.91 Los demás hilados mezclados exclusiva o Kg 10 Ex. principalmente con lana o pelo fino.
 Los demás hilados mezclados exclusiva o 5510.30 principalmente con algodón.
 Los demás hilados mezclados exclusiva o 5510.30.91 principalmente con algodón. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5510.90 - Los demás hilados. 5510.90.91 Los demás hilados. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5510.90 - Los demás hilados. 5510.90.91 Los demás hilados. Kg 10 Ex.
 Hilados de fibras sintéticas o artificiales, discontinuas (excepto el hilo de coser), 55.11 acondicionados para la venta al por menor.
 De fibras sintéticas discontinuas con un 5511.10 - contenido de estas fibras superior o igual al 85% en peso.
 De fibras sintéticas discontinuas con un 5511.10.01 contenido de estas fibras superior o igual al Kg 10 Ex. 85% en peso.
 De fibras sintéticas discontinuas con un 5511.20 - contenido de estas fibras inferior al 85% en peso.
 De fibras sintéticas discontinuas con un 5511.20.01 contenido de estas fibras inferior al 85% en Kg 10 Ex. peso. 5511.30 - De fibras artificiales discontinuas.
 De fibras artificiales discontinuas. 5511.30.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de fibras sintéticas discontinuas con un contenido de fibras sintéticas 55.12 discontinuas superior o igual al 85% en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de fibras sintéticas discontinuas con un contenido de fibras sintéticas 55.12 discontinuas superior o igual al 85% en peso.
 Con un contenido de fibras discontinuas de poliéster superior o igual al 85% en peso: 5512.11 -- Crudos o blanqueados.
 Crudos o blanqueados. 5512.11.05 M² 15 Ex.
 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) 5512.19 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5512.19.99 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Con un contenido de fibras discontinuas - acrílicas o modacrílicas superior o igual al 85% en peso: 5512.21 -- Crudos o blanqueados.
 Crudos o blanqueados. 5512.21.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5512.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5512.29 -- Los demás.
 Los demás. 5512.29.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Los demás: 5512.91 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Los demás: 5512.91 -- Crudos o blanqueados.
 Crudos o blanqueados.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5512.91.01 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5512.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5512.99 -- Los demás.
 Los demás. 5512.99.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de fibras sintéticas discontinuas con un contenido de estas fibras inferior 55.13 al 85% en peso, mezcladas exclusiva o principalmente con algodón, de peso inferior o igual a 170 g/m². - Crudos o blanqueados:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de fibras sintéticas discontinuas con un contenido de estas fibras inferior 55.13 al 85% en peso, mezcladas exclusiva o principalmente con algodón, de peso inferior o igual a 170 g/m². - Crudos o blanqueados:
 De fibras discontinuas de poliéster, de 5513.11 -ligamento tafetán.
 De fibras discontinuas de poliéster, de ligamento tafetán. 5513.11.04 M² 25 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) De fibras discontinuas de poliéster, de 5513.12 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+De fibras discontinuas de poliéster, de 5513.12 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
 De fibras discontinuas de poliéster, de ligamento sarga, incluido el cruzado, de 5513.12.01 M² 25 Ex. curso inferior o igual a 4.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos de fibras discontinuas de 5513.13 -poliéster.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos de fibras discontinuas de 5513.13 -poliéster.
 Los demás tejidos de fibras discontinuas de poliéster. 5513.13.91 Arancel modificado con vigencia temporal DOF 15-08-2023 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) 5513.19 -- Los demás tejidos.
 Los demás tejidos. 5513.19.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Teñidos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Teñidos:
 De fibras discontinuas de poliéster, de 5513.21 -ligamento tafetán.
 De fibras discontinuas de poliéster, de 5513.21.04 ligamento tafetán. M² 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos de fibras discontinuas de 5513.23 -poliéster.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos de fibras discontinuas de 5513.23 -poliéster.
 Los demás tejidos de fibras discontinuas de 5513.23.91 M² 10 Ex. poliéster. 5513.29 -- Los demás tejidos.
 Los demás tejidos. 5513.29.91 M² 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) - Con hilados de distintos colores:
 De fibras discontinuas de poliéster, de 5513.31 -ligamento tafetán.
 De fibras discontinuas de poliéster, de 5513.31.01 ligamento tafetán. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5513.39 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5513.39 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5513.39.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) - Estampados:
 De fibras discontinuas de poliéster, de 5513.41 -ligamento tafetán.
 De fibras discontinuas de poliéster, de 5513.41.01 ligamento tafetán. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5513.49 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5513.49 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5513.49.91 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tejidos de fibras sintéticas discontinuas con un contenido de estas fibras inferior 55.14 al 85% en peso, mezcladas exclusiva o principalmente con algodón, de peso superior a 170 g/m². - Crudos o blanqueados:
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tejidos de fibras sintéticas discontinuas con un contenido de estas fibras inferior 55.14 al 85% en peso, mezcladas exclusiva o principalmente con algodón, de peso superior a 170 g/m². - Crudos o blanqueados:
 De fibras discontinuas de poliéster, de 5514.11 -ligamento tafetán.
 De fibras discontinuas de poliéster, de 5514.11.01 ligamento tafetán. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De fibras discontinuas de poliéster, de 5514.12 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De fibras discontinuas de poliéster, de 5514.12 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
 De fibras discontinuas de poliéster, de ligamento sarga, incluido el cruzado, de 5514.12.01 M² 25 Ex. curso inferior o igual a 4.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5514.19 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5514.19 -- Los demás tejidos.
 Los demás tejidos. 5514.19.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Teñidos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Teñidos:
 De fibras discontinuas de poliéster, de 5514.21 -ligamento tafetán.
 De fibras discontinuas de poliéster, de ligamento tafetán. 5514.21.01 M² 25 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) De fibras discontinuas de poliéster, de 5514.22 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+De fibras discontinuas de poliéster, de 5514.22 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
 De fibras discontinuas de poliéster, de ligamento sarga, incluido el cruzado, de 5514.22.01 M² 25 Ex. curso inferior o igual a 4.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos de fibras discontinuas de 5514.23 -poliéster.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos de fibras discontinuas de 5514.23 -poliéster.
 Los demás tejidos de fibras discontinuas de poliéster.
-Arancel modificado con vigencia temporal DOF 15-08-2023 5514.23.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5514.29 -- Los demás tejidos.
+Arancel modificado con vigencia temporal DOF 15-08-2023 5514.23.91 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5514.29 -- Los demás tejidos.
 Los demás tejidos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5514.29.91 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5514.30 - Con hilados de distintos colores.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5514.30 - Con hilados de distintos colores.
 Con hilados de distintos colores. 5514.30.05 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Estampados:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Estampados:
 De fibras discontinuas de poliéster, de 5514.41 -ligamento tafetán.
 De fibras discontinuas de poliéster, de 5514.41.01 ligamento tafetán. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De fibras discontinuas de poliéster, de 5514.42 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De fibras discontinuas de poliéster, de 5514.42 -- ligamento sarga, incluido el cruzado, de curso inferior o igual a 4.
 De fibras discontinuas de poliéster, de ligamento sarga, incluido el cruzado, de 5514.42.01 M² 25 Ex. curso inferior o igual a 4.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos de fibras discontinuas de 5514.43 -poliéster.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos de fibras discontinuas de 5514.43 -poliéster.
 Los demás tejidos de fibras discontinuas de 5514.43.91 poliéster. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5514.49 -- Los demás tejidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5514.49 -- Los demás tejidos.
 Los demás tejidos. 5514.49.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás tejidos de fibras sintéticas 55.15 discontinuas. - De fibras discontinuas de poliéster:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás tejidos de fibras sintéticas 55.15 discontinuas. - De fibras discontinuas de poliéster:
 Mezcladas exclusiva o principalmente con 5515.11 -fibras discontinuas de rayón viscosa.
 Mezcladas exclusiva o principalmente con 5515.11.01 M² 10 Ex. fibras discontinuas de rayón viscosa. 5515.12 -- Mezcladas exclusiva o principalmente con filamentos sintéticos o artificiales.
 Mezcladas exclusiva o principalmente con filamentos sintéticos o artificiales. 5515.12.01 M² 25 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) Mezcladas exclusiva o principalmente con 5515.13 -lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Mezcladas exclusiva o principalmente con 5515.13 -lana o pelo fino.
 Mezcladas exclusiva o principalmente con 5515.13.02 lana o pelo fino. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5515.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5515.19 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5515.19.99 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) De fibras discontinuas acrílicas o modacrílicas:
 Mezcladas exclusiva o principalmente con 5515.21 -filamentos sintéticos o artificiales.
 Mezcladas exclusiva o principalmente con filamentos sintéticos o artificiales.
-Arancel modificado con vigencia temporal DOF 15-08-2023 5515.21.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Mezcladas exclusiva o principalmente con 5515.22 -lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 15-08-2023 5515.21.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Mezcladas exclusiva o principalmente con 5515.22 -lana o pelo fino.
 Mezcladas exclusiva o principalmente con 5515.22.02 lana o pelo fino. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5515.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5515.29 -- Los demás.
 Los demás. 5515.29.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Los demás tejidos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Los demás tejidos:
 Mezclados exclusiva o principalmente con 5515.91 -filamentos sintéticos o artificiales.
 Mezclados exclusiva o principalmente con filamentos sintéticos o artificiales.
-Arancel modificado con vigencia temporal DOF 15-08-2023 5515.91.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5515.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 5515.91.01 M² 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5515.99 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 5515.99.99 (antes Imp. 10) M² 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tejidos de fibras artificiales 55.16 discontinuas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tejidos de fibras artificiales 55.16 discontinuas.
 Con un contenido de fibras artificiales - discontinuas superior o igual al 85% en peso: 5516.11 -- Crudos o blanqueados. 5516.11.01 Crudos o blanqueados. M² 10 Ex. 5516.12 -- Teñidos. 5516.12.01 Teñidos. M² 10 Ex. 5516.13 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5516.13.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.14 -- Estampados. 5516.14.01 Estampados. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.14 -- Estampados. 5516.14.01 Estampados. M² 10 Ex.
 Con un contenido de fibras artificiales discontinuas inferior al 85% en peso, mezcladas exclusiva o principalmente con filamentos sintéticos o artificiales: 5516.21 -- Crudos o blanqueados. 5516.21.01 Crudos o blanqueados. M² 10 Ex. 5516.22 -- Teñidos.
 Teñidos. 5516.22.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.23 -- Con hilados de distintos colores. 5516.23.01 Con hilados de distintos colores. M² 10 Ex. 5516.24 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.23 -- Con hilados de distintos colores. 5516.23.01 Con hilados de distintos colores. M² 10 Ex. 5516.24 -- Estampados.
 Estampados. 5516.24.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Con un contenido de fibras artificiales discontinuas inferior al 85% en peso, mezcladas exclusiva o principalmente con lana o pelo fino: 5516.31 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Con un contenido de fibras artificiales discontinuas inferior al 85% en peso, mezcladas exclusiva o principalmente con lana o pelo fino: 5516.31 -- Crudos o blanqueados.
 Crudos o blanqueados. 5516.31.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.32 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.32 -- Teñidos.
 Teñidos. 5516.32.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.33 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.33 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5516.33.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.34 -- Estampados. 5516.34.02 Estampados. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.34 -- Estampados. 5516.34.02 Estampados. M² 10 Ex.
 Con un contenido de fibras artificiales discontinuas inferior al 85% en peso, mezcladas exclusiva o principalmente con algodón: 5516.41 -- Crudos o blanqueados. 5516.41.01 Crudos o blanqueados. M² 10 Ex. 5516.42 -- Teñidos.
 Teñidos. 5516.42.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.43 -- Con hilados de distintos colores. 5516.43.01 Con hilados de distintos colores. M² 10 Ex. 5516.44 -- Estampados. 5516.44.01 Estampados. M² 10 Ex. - Los demás: 5516.91 -- Crudos o blanqueados. 5516.91.01 Crudos o blanqueados. M² 10 Ex. 5516.92 -- Teñidos. 5516.92.01 Teñidos. M² 10 Ex. 5516.93 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.43 -- Con hilados de distintos colores. 5516.43.01 Con hilados de distintos colores. M² 10 Ex. 5516.44 -- Estampados. 5516.44.01 Estampados. M² 10 Ex. - Los demás: 5516.91 -- Crudos o blanqueados. 5516.91.01 Crudos o blanqueados. M² 10 Ex. 5516.92 -- Teñidos. 5516.92.01 Teñidos. M² 10 Ex. 5516.93 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 5516.93.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5516.94 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5516.94 -- Estampados.
 Estampados. 5516.94.01 M² 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 56
+
 Guata, fieltro y tela sin tejer; hilados especiales; cordeles, cuerdas y cordajes; artículos de cordelería Notas. 1. Este Capítulo no comprende:
 
 a) la guata, fieltro y tela sin tejer, impregnados, recubiertos o revestidos de sustancias o preparaciones (por ejemplo: de perfume o cosméticos del Capítulo 33, de jabón o detergentes de la partida 34.01, de betunes o cremas para el calzado, encáusticos, abrillantadores (lustres), etc. o preparaciones similares de la partida 34.05, de suavizantes para textiles de la partida 38.09), cuando la materia textil sea un simple soporte;
@@ -5277,131 +5855,188 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Guata de materia textil y artículos de esta guata; fibras textiles de longitud inferior 56.01 o igual a 5 mm (tundizno), nudos y motas de materia textil.
 Guata de materia textil y artículos de esta guata: 5601.21 -- De algodón. 5601.21.02 De algodón. Kg Ex. Ex. 5601.22 -- De fibras sintéticas o artificiales.
 Guata. 5601.22.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 5601.22.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5601.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 5601.22.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5601.29 -- Los demás.
 Los demás. 5601.29.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 5601.30 - Tundizno, nudos y motas de materia textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+5601.30 - Tundizno, nudos y motas de materia textil.
 Tundizno, nudos y motas de materia textil. 5601.30.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Fieltro, incluso impregnado, recubierto, 56.02 revestido o estratificado.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Fieltro, incluso impregnado, recubierto, 56.02 revestido o estratificado.
 Fieltro punzonado y productos obtenidos 5602.10 mediante costura por cadeneta.
 Fieltro punzonado y productos obtenidos 5602.10.02 mediante costura por cadeneta. Kg 22 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás fieltros sin impregnar, recubrir, revestir ni estratificar: 5602.21 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás fieltros sin impregnar, recubrir, revestir ni estratificar: 5602.21 -- De lana o pelo fino.
 De lana o pelo fino. 5602.21.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5602.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5602.29 -- De las demás materias textiles.
 De las demás materias textiles. 5602.29.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5602.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5602.90 - Los demás.
 Los demás. 5602.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tela sin tejer, incluso impregnada, 56.03 recubierta, revestida o estratificada. - De filamentos sintéticos o artificiales: 5603.11 -- De peso inferior o igual a 25 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tela sin tejer, incluso impregnada, 56.03 recubierta, revestida o estratificada. - De filamentos sintéticos o artificiales: 5603.11 -- De peso inferior o igual a 25 g/m².
 De peso inferior o igual a 25 g/m². 5603.11.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De peso superior a 25 g/m² pero inferior o 5603.12 -igual a 70 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De peso superior a 25 g/m² pero inferior o 5603.12 -igual a 70 g/m².
 De peso superior a 25 g/m² pero inferior o 5603.12.02 igual a 70 g/m². Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De peso superior a 70 g/m² pero inferior o 5603.13 -igual a 150 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De peso superior a 70 g/m² pero inferior o 5603.13 -igual a 150 g/m².
 De peso superior a 70 g/m² pero inferior o igual a 150 g/m². 5603.13.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 5603.14 -- De peso superior a 150 g/m².
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+5603.14 -- De peso superior a 150 g/m².
 De peso superior a 150 g/m². 5603.14.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Las demás: 5603.91 -- De peso inferior o igual a 25 g/m². 5603.91.01 De peso inferior o igual a 25 g/m². Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Las demás: 5603.91 -- De peso inferior o igual a 25 g/m². 5603.91.01 De peso inferior o igual a 25 g/m². Kg 10 Ex.
 De peso superior a 25 g/m² pero inferior o 5603.92 -igual a 70 g/m².
 De peso superior a 25 g/m² pero inferior o 5603.92.01 igual a 70 g/m². Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De peso superior a 70 g/m² pero inferior o 5603.93 -igual a 150 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De peso superior a 70 g/m² pero inferior o 5603.93 -igual a 150 g/m².
 De peso superior a 70 g/m² pero inferior o 5603.93.01 igual a 150 g/m². Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5603.94 -- De peso superior a 150 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5603.94 -- De peso superior a 150 g/m².
 De peso superior a 150 g/m². 5603.94.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilos y cuerdas de caucho revestidos de textiles; hilados textiles, tiras y formas 56.04 similares de las partidas 54.04 o 54.05, impregnados, recubiertos, revestidos o enfundados con caucho o plástico.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilos y cuerdas de caucho revestidos de textiles; hilados textiles, tiras y formas 56.04 similares de las partidas 54.04 o 54.05, impregnados, recubiertos, revestidos o enfundados con caucho o plástico.
 Hilos y cuerdas de caucho revestidos de 5604.10 textiles.
 Hilos y cuerdas de caucho revestidos de 5604.10.01 textiles. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5604.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5604.90 - Los demás.
 Impregnados o recubiertos de caucho 5604.90.01 vulcanizado. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De seda o de desperdicios de seda, acondicionados para la venta al por menor, pelo de Mesina (crin de Florencia); 5604.90.02 Kg 25 Ex. imitaciones de catgut preparados con hilados de seda.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Imitaciones de catgut, de materia textil sintética y artificial, continua, con diámetro 5604.90.04 superior o igual a 0.05 mm, sin exceder de Kg 25 Ex. 0.70 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De materia textil sintética y artificial, excepto lo comprendido en la fracción arancelaria 5604.90.05 Kg 25 Ex. 5604.90.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De lana, de pelos (finos u ordinarios) o de crin incluso acondicionados para la venta al 5604.90.06 Kg 25 Ex. por menor.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De lino o de ramio. 5604.90.07 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De algodón, sin acondicionar para la venta 5604.90.08 Kg 10 Ex. al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De seda o de desperdicios de seda, acondicionados para la venta al por menor, pelo de Mesina (crin de Florencia); 5604.90.02 Kg 25 Ex. imitaciones de catgut preparados con hilados de seda.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Imitaciones de catgut, de materia textil sintética y artificial, continua, con diámetro 5604.90.04 superior o igual a 0.05 mm, sin exceder de Kg 25 Ex. 0.70 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De materia textil sintética y artificial, excepto lo comprendido en la fracción arancelaria 5604.90.05 Kg 25 Ex. 5604.90.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De lana, de pelos (finos u ordinarios) o de crin incluso acondicionados para la venta al 5604.90.06 Kg 25 Ex. por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De lino o de ramio. 5604.90.07 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De algodón, sin acondicionar para la venta 5604.90.08 Kg 10 Ex. al por menor.
 De algodón, acondicionados para la venta al 5604.90.09 Kg 10 Ex. por menor.
 Hilados de alta tenacidad de poliésteres, de nailon o demás poliamidas o de rayón 5604.90.10 viscosa, impregnados o recubiertos, Kg 25 Ex. reconocibles para naves aéreas.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de alta tenacidad impregnados o 5604.90.11 recubiertos, de fibras aramídicas. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados de alta tenacidad impregnados o recubiertos, de poliamidas o 5604.90.12 Kg Ex. Ex. superpoliamidas de 44.44 decitex (40 deniers) y 34 filamentos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de alta tenacidad impregnados o 5604.90.11 recubiertos, de fibras aramídicas. Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados de alta tenacidad impregnados o recubiertos, de poliamidas o 5604.90.12 Kg Ex. Ex. superpoliamidas de 44.44 decitex (40 deniers) y 34 filamentos.
 Hilados de alta tenacidad impregnados o recubiertos, de rayón, de 1,333.33 decitex 5604.90.13 Kg 25 Ex. (1,200 deniers).
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados de alta tenacidad de poliésteres, de nailon o demás poliamidas o de rayón viscosa, impregnados o recubiertos, excepto 5604.90.14 lo comprendido en las fracciones Kg 25 Ex. arancelarias 5604.90.10, 5604.90.11, 5604.90.12 y 5604.90.13.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás. 5604.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Hilados metálicos e hilados metalizados, incluso entorchados, constituidos por hilados textiles, tiras o formas similares 56.05 de las partidas 54.04 o 54.05, combinados con metal en forma de hilos, tiras o polvo, o revestidos de metal.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados de alta tenacidad de poliésteres, de nailon o demás poliamidas o de rayón viscosa, impregnados o recubiertos, excepto 5604.90.14 lo comprendido en las fracciones Kg 25 Ex. arancelarias 5604.90.10, 5604.90.11, 5604.90.12 y 5604.90.13.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás. 5604.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Hilados metálicos e hilados metalizados, incluso entorchados, constituidos por hilados textiles, tiras o formas similares 56.05 de las partidas 54.04 o 54.05, combinados con metal en forma de hilos, tiras o polvo, o revestidos de metal.
 Hilados metálicos e hilados metalizados, incluso entorchados, constituidos por hilados textiles, tiras o formas similares de las 5605.00 partidas 54.04 o 54.05, combinados con metal en forma de hilos, tiras o polvo, o revestidos de metal.
 Hilados metálicos e hilados metalizados, incluso entorchados, constituidos por hilados textiles, tiras o formas similares de las 5605.00.01 partidas 54.04 o 54.05, combinados con Kg 30 Ex. metal en forma de hilos, tiras o polvo, o revestidos de metal.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Hilados entorchados, tiras y formas similares de las partidas 54.04 o 54.05, entorchadas (excepto los de la partida 56.06 56.05 y los hilados de crin entorchados); hilados de chenilla; hilados "de cadeneta".
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Hilados entorchados, tiras y formas similares de las partidas 54.04 o 54.05, entorchadas (excepto los de la partida 56.06 56.05 y los hilados de crin entorchados); hilados de chenilla; hilados "de cadeneta".
 Hilados entorchados, tiras y formas similares de las partidas 54.04 o 54.05, entorchadas 5606.00 (excepto los de la partida 56.05 y los hilados de crin entorchados); hilados de chenilla; hilados "de cadeneta".
 Hilados entorchados, tiras y formas similares de las partidas 54.04 o 54.05, entorchadas 5606.00.03 (excepto los de la partida 56.05 y los hilados Kg 10 Ex. de crin entorchados); hilados de chenilla; hilados "de cadeneta".
 Cordeles, cuerdas y cordajes, estén o no trenzados, incluso impregnados, 56.07 recubiertos, revestidos o enfundados con caucho o plástico.
 De sisal o demás fibras textiles del género Agave: 5607.21 -- Cordeles para atar o engavillar. 5607.21.01 Cordeles para atar o engavillar. Kg 10 Ex. 5607.29 -- Los demás.
 Los demás. 5607.29.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De polietileno o polipropileno: 5607.41 -- Cordeles para atar o engavillar.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De polietileno o polipropileno: 5607.41 -- Cordeles para atar o engavillar.
 Cordeles para atar o engavillar. 5607.41.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5607.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5607.49 -- Los demás.
 Los demás. 5607.49.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5607.50 - De las demás fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5607.50 - De las demás fibras sintéticas.
 De las demás fibras sintéticas. 5607.50.91 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 31-12-2024 (antes Imp. 10) 5607.90 - Los demás.
 De yute o demás fibras textiles del liber de la 5607.90.02 partida 53.03. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 5607.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Redes de mallas anudadas, en paño o en pieza, fabricadas con cordeles, cuerdas o 56.08 cordajes; redes confeccionadas para la pesca y demás redes confeccionadas, de materia textil. - De materia textil sintética o artificial: 5608.11 -- Redes confeccionadas para la pesca.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 5607.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Redes de mallas anudadas, en paño o en pieza, fabricadas con cordeles, cuerdas o 56.08 cordajes; redes confeccionadas para la pesca y demás redes confeccionadas, de materia textil. - De materia textil sintética o artificial: 5608.11 -- Redes confeccionadas para la pesca.
 Redes confeccionadas para la pesca. 5608.11.02 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 31-12-2024 (antes Imp. 10) 5608.19 -- Las demás.
 Las demás. 5608.19.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5608.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5608.90 - Las demás.
 Las demás. 5608.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Artículos de hilados, tiras o formas similares de las partidas 54.04 o 54.05, 56.09 cordeles, cuerdas o cordajes, no expresados ni comprendidos en otra parte.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Artículos de hilados, tiras o formas similares de las partidas 54.04 o 54.05, 56.09 cordeles, cuerdas o cordajes, no expresados ni comprendidos en otra parte.
 Artículos de hilados, tiras o formas similares de las partidas 54.04 o 54.05, cordeles, 5609.00 cuerdas o cordajes, no expresados ni comprendidos en otra parte.
 Artículos de hilados, tiras o formas similares de las partidas 54.04 o 54.05, cordeles, 5609.00.02 Kg 10 Ex. cuerdas o cordajes, no expresados ni comprendidos en otra parte. _______________
 
 ## Capítulo 57
+
 Alfombras y demás revestimientos para el suelo, de materia textil Notas. 1. En este Capítulo, se entiende por alfombras y demás revestimientos para el suelo, de materia textil, cualquier revestimiento para el suelo cuya superficie de materia textil quede al exterior después de colocado. También están comprendidos los artículos que tengan las características de los revestimientos para el suelo de materia textil pero que se utilicen para otros fines. 2. Este Capítulo no comprende los productos textiles planos y bastos de protección que se colocan bajo las alfombras y demás revestimientos para el suelo.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Alfombras de nudo de materia textil, 57.01 incluso confeccionadas. 5701.10 - De lana o pelo fino.
 De lana o pelo fino. 5701.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5701.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5701.90 - De las demás materias textiles.
 De las demás materias textiles. 5701.90.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Alfombras y demás revestimientos para el suelo, de materia textil, tejidos, excepto los de mechón insertado y los flocados, aunque estén confeccionados, 57.02 incluidas las alfombras llamadas "Kelim" o "Kilim", "Schumacks" o "Soumak", "Karamanie" y alfombras similares tejidas a mano.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Alfombras y demás revestimientos para el suelo, de materia textil, tejidos, excepto los de mechón insertado y los flocados, aunque estén confeccionados, 57.02 incluidas las alfombras llamadas "Kelim" o "Kilim", "Schumacks" o "Soumak", "Karamanie" y alfombras similares tejidas a mano.
 Alfombras llamadas “Kelim” o “Kilim”, 5702.10 - “Schumacks” o “Soumak”, “Karamanie” y alfombras similares tejidas a mano.
 Alfombras llamadas “Kelim” o “Kilim”, “Schumacks” o “Soumak”, “Karamanie” y 5702.10.01 M² 25 Ex. alfombras similares tejidas a mano.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Revestimientos para el suelo de fibras de 5702.20 coco.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Revestimientos para el suelo de fibras de 5702.20 coco.
 Revestimientos para el suelo de fibras de 5702.20.01 coco. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás, aterciopelados, sin confeccionar: 5702.31 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás, aterciopelados, sin confeccionar: 5702.31 -- De lana o pelo fino.
 De lana o pelo fino. 5702.31.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.32 -- De materia textil sintética o artificial.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.32 -- De materia textil sintética o artificial.
 De materia textil sintética o artificial. 5702.32.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.39 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.39 -- De las demás materias textiles.
 De las demás materias textiles. 5702.39.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Los demás, aterciopelados, confeccionados: 5702.41 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Los demás, aterciopelados, confeccionados: 5702.41 -- De lana o pelo fino.
 De lana o pelo fino. 5702.41.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.42 -- De materia textil sintética o artificial.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.42 -- De materia textil sintética o artificial.
 De materia textil sintética o artificial. 5702.42.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.49 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.49 -- De las demás materias textiles.
 De las demás materias textiles. 5702.49.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.50 - Los demás, sin aterciopelar ni confeccionar. 5702.50.91 Los demás, sin aterciopelar ni confeccionar. M² 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.50 - Los demás, sin aterciopelar ni confeccionar. 5702.50.91 Los demás, sin aterciopelar ni confeccionar. M² 15 Ex.
 Los demás, sin aterciopelar, confeccionados: 5702.91 -- De lana o pelo fino.
 De lana o pelo fino. 5702.91.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5702.92 -- De materia textil sintética o artificial. 5702.92.01 De materia textil sintética o artificial. M² 15 Ex. 5702.99 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5702.92 -- De materia textil sintética o artificial. 5702.92.01 De materia textil sintética o artificial. M² 15 Ex. 5702.99 -- De las demás materias textiles.
 De las demás materias textiles. 5702.99.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Alfombras y demás revestimientos para el suelo (incluido el césped), de materia 57.03 textil, con mechón insertado, incluso confeccionados. 5703.10 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Alfombras y demás revestimientos para el suelo (incluido el césped), de materia 57.03 textil, con mechón insertado, incluso confeccionados. 5703.10 - De lana o pelo fino.
 De lana o pelo fino. 5703.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - De nailon o demás poliamidas: 5703.21 -- Césped.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- De nailon o demás poliamidas: 5703.21 -- Césped.
 Césped. 5703.21.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5703.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5703.29 -- Los demás.
 Los demás. 5703.29.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) De las demás materias textiles sintéticas o de materias textiles artificiales: 5703.31 -- Césped.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+De las demás materias textiles sintéticas o de materias textiles artificiales: 5703.31 -- Césped.
 Césped. 5703.31.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5703.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5703.39 -- Los demás.
 Los demás. 5703.39.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5703.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5703.90 - De las demás materias textiles.
 De las demás materias textiles. 5703.90.91 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Alfombras y demás revestimientos para el suelo, de fieltro, excepto los de 57.04 mechón insertado y los flocados, incluso confeccionados. 5704.10 - De superficie inferior o igual a 0.3 m². 5704.10.01 De superficie inferior o igual a 0.3 m². M² 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Alfombras y demás revestimientos para el suelo, de fieltro, excepto los de 57.04 mechón insertado y los flocados, incluso confeccionados. 5704.10 - De superficie inferior o igual a 0.3 m². 5704.10.01 De superficie inferior o igual a 0.3 m². M² 15 Ex.
 De superficie superior a 0.3 m2 pero inferior 5704.20 o igual a 1 m².
 De superficie superior a 0.3 m2 pero inferior 5704.20.01 M² 15 Ex. o igual a 1 m². 5704.90 - Los demás. 5704.90.99 Los demás. M² 15 Ex.
 Las demás alfombras y revestimientos 57.05 para el suelo, de materia textil, incluso confeccionados.
 Las demás alfombras y revestimientos para 5705.00 el suelo, de materia textil, incluso confeccionados.
 Las demás alfombras y revestimientos para el suelo, de materia textil, incluso 5705.00.91 M² 25 Ex. confeccionados.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+_______________
 
 ## Capítulo 58
+
 Tejidos especiales; superficies textiles con mechón insertado; encajes; tapicería; pasamanería; bordados Notas. 1. No se clasifican en este Capítulo los tejidos especificados en la Nota 1 del Capítulo 59, impregnados, recubiertos, revestidos o estratificados ni los demás productos del Capítulo 59. 2. Se clasifican también en la partida 58.01 el terciopelo y la felpa por trama sin cortar todavía que no presenten ni pelo ni bucles en la superficie. 3. En la partida 58.03, se entiende por tejido de gasa de vuelta el tejido en el que la urdimbre esté compuesta en toda o parte de su superficie por hilos fijos (hilos derechos) y por hilos móviles (hilos de vuelta) que se cruzan con los fijos dando media vuelta, una vuelta completa o más de una vuelta, para formar un bucle que aprisiona la trama. 4. No se clasifican en la partida 58.04 las redes de mallas anudadas, en paño o en pieza, fabricadas con cordeles, cuerdas o cordajes, de la partida 56.08. 5. En la partida 58.06, se entiende por cintas:
 
 a) - los tejidos (incluido el terciopelo) en tiras de anchura inferior o igual a 30 cm y con orillos verdaderos; - las tiras de anchura inferior o igual a 30 cm obtenidas por corte de tejido y provistas de falsos orillos tejidos, pegados u obtenidos de otra forma;
@@ -5413,64 +6048,90 @@ Las cintas con flecos obtenidos durante el tejido se clasifican en la partida 58
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Terciopelo y felpa, excepto los de 58.01 punto, y tejidos de chenilla, excepto los productos de las partidas 58.02 o 58.06. 5801.10 - De lana o pelo fino.
 De lana o pelo fino. 5801.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De algodón: 5801.21 -- Terciopelo y felpa por trama, sin cortar. 5801.21.01 Terciopelo y felpa por trama, sin cortar. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De algodón: 5801.21 -- Terciopelo y felpa por trama, sin cortar. 5801.21.01 Terciopelo y felpa por trama, sin cortar. M² 10 Ex.
 Terciopelo y felpa por trama, cortados, 5801.22 -rayados (pana rayada, "corduroy").
 Terciopelo y felpa por trama, cortados, 5801.22.01 M² 10 Ex. rayados (pana rayada, "corduroy"). 5801.23 -- Los demás terciopelos y felpas por trama. 5801.23.91 Los demás terciopelos y felpas por trama. M² 10 Ex. 5801.26 -- Tejidos de chenilla.
 Tejidos de chenilla. 5801.26.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5801.27 -- Terciopelo y felpa por urdimbre.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5801.27 -- Terciopelo y felpa por urdimbre.
 Terciopelo y felpa por urdimbre. 5801.27.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De fibras sintéticas o artificiales: 5801.31 -- Terciopelo y felpa por trama, sin cortar. 5801.31.01 Terciopelo y felpa por trama, sin cortar. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De fibras sintéticas o artificiales: 5801.31 -- Terciopelo y felpa por trama, sin cortar. 5801.31.01 Terciopelo y felpa por trama, sin cortar. M² 10 Ex.
 Terciopelo y felpa por trama, cortados, 5801.32 -rayados (pana rayada, "corduroy").
 Terciopelo y felpa por trama, cortados, 5801.32.01 M² 10 Ex. rayados (pana rayada, "corduroy"). 5801.33 -- Los demás terciopelos y felpas por trama. 5801.33.91 Los demás terciopelos y felpas por trama. M² 10 Ex. 5801.36 -- Tejidos de chenilla. 5801.36.01 Tejidos de chenilla. M² 10 Ex. 5801.37 -- Terciopelo y felpa por urdimbre. 5801.37.01 Terciopelo y felpa por urdimbre. M² 10 Ex. 5801.90 - De las demás materias textiles. 5801.90.91 De las demás materias textiles. M² 10 Ex.
 Tejidos con bucles del tipo toalla, 58.02 excepto los productos de la partida 58.06; superficies textiles con mechón insertado, excepto los productos de la partida 57.03.
 Tejidos con bucles del tipo toalla, de 5802.10 algodón.
 Crudos. 5802.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás. 5802.10.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Tejidos con bucles del tipo toalla, de las 5802.20 demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás. 5802.10.99 M² 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Tejidos con bucles del tipo toalla, de las 5802.20 demás materias textiles.
 Tejidos con bucles del tipo toalla, de las 5802.20.01 M² 10 Ex. demás materias textiles. 5802.30 - Superficies textiles con mechón insertado. 5802.30.01 Superficies textiles con mechón insertado. M² 10 Ex.
 Tejidos de gasa de vuelta, excepto los 58.03 productos de la partida 58.06.
 Tejidos de gasa de vuelta, excepto los 5803.00 productos de la partida 58.06.
 Tejidos de gasa de vuelta, excepto los 5803.00.05 productos de la partida 58.06. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tul, tul-bobinot y tejidos de mallas anudadas; encajes en pieza, en tiras o 58.04 en aplicaciones, excepto los productos de las partidas 60.02 a 60.06.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tul, tul-bobinot y tejidos de mallas anudadas; encajes en pieza, en tiras o 58.04 en aplicaciones, excepto los productos de las partidas 60.02 a 60.06.
 Tul, tul-bobinot y tejidos de mallas 5804.10 anudadas.
 Tul, tul-bobinot y tejidos de mallas anudadas. 5804.10.01 Kg 15 Ex.
 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 10) - Encajes fabricados a máquina: 5804.21 -- De fibras sintéticas o artificiales.
-De fibras sintéticas o artificiales. 5804.21.01 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5804.29 -- De las demás materias textiles. 5804.29.91 De las demás materias textiles. Kg 10 Ex. 5804.30 - Encajes hechos a mano. 5804.30.01 Encajes hechos a mano. Kg 10 Ex.
+De fibras sintéticas o artificiales. 5804.21.01 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5804.29 -- De las demás materias textiles. 5804.29.91 De las demás materias textiles. Kg 10 Ex. 5804.30 - Encajes hechos a mano. 5804.30.01 Encajes hechos a mano. Kg 10 Ex.
 Tapicería tejida a mano (gobelinos, Flandes, Aubusson, Beauvais y 58.05 similares) y tapicería de aguja (por ejemplo: de "petit point", de punto de cruz), incluso confeccionadas.
 Tapicería tejida a mano (gobelinos, 5805.00 Flandes, Aubusson, Beauvais y similares) y tapicería de aguja (por ejemplo: de “petit point”, de punto de cruz), incluso confeccionadas.
 Tapicería tejida a mano (gobelinos, Flandes, Aubusson, Beauvais y similares) y tapicería de aguja (por ejemplo: de “petit 5805.00.01 M² 25 Ex. point”, de punto de cruz), incluso confeccionadas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Cintas, excepto los artículos de la partida 58.07; cintas sin trama, de 58.06 hilados o fibras paralelizados y aglutinados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Cintas, excepto los artículos de la partida 58.07; cintas sin trama, de 58.06 hilados o fibras paralelizados y aglutinados.
 Cintas de terciopelo, de felpa, de tejidos 5806.10 - de chenilla o de tejidos con bucles del tipo toalla. 5806.10.01 De seda. Kg Ex. Ex.
 Las demás. 5806.10.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Las demás cintas, con un contenido de 5806.20 - hilos de elastómeros o de hilos de caucho superior o igual al 5% en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Las demás cintas, con un contenido de 5806.20 - hilos de elastómeros o de hilos de caucho superior o igual al 5% en peso.
 De seda. 5806.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás. 5806.20.99 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Las demás cintas: 5806.31 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás. 5806.20.99 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Las demás cintas: 5806.31 -- De algodón.
 De algodón. 5806.31.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5806.32 -- De fibras sintéticas o artificiales.
-De fibras sintéticas o artificiales. 5806.32.01 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 5806.39 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5806.32 -- De fibras sintéticas o artificiales.
+De fibras sintéticas o artificiales. 5806.32.01 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+5806.39 -- De las demás materias textiles.
 De seda. 5806.39.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás. 5806.39.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Cintas sin trama, de hilados o fibras 5806.40 paralelizados y aglutinados.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás. 5806.39.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Cintas sin trama, de hilados o fibras 5806.40 paralelizados y aglutinados.
 De seda. 5806.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás. 5806.40.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Etiquetas, escudos y artículos 58.07 similares, de materia textil, en pieza, cintas o recortados, sin bordar. 5807.10 - Tejidos. 5807.10.01 Tejidos. Kg 10 Ex. 5807.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás. 5806.40.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Etiquetas, escudos y artículos 58.07 similares, de materia textil, en pieza, cintas o recortados, sin bordar. 5807.10 - Tejidos. 5807.10.01 Tejidos. Kg 10 Ex. 5807.90 - Los demás.
 Los demás. 5807.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Trenzas en pieza; artículos de pasamanería y artículos ornamentales 58.08 análogos, en pieza, sin bordar, excepto los de punto; bellotas, madroños, pompones, borlas y artículos similares. 5808.10 - Trenzas en pieza.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Trenzas en pieza; artículos de pasamanería y artículos ornamentales 58.08 análogos, en pieza, sin bordar, excepto los de punto; bellotas, madroños, pompones, borlas y artículos similares. 5808.10 - Trenzas en pieza.
 Trenzas en pieza. 5808.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5808.90 - Los demás. 5808.90.99 Los demás. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5808.90 - Los demás. 5808.90.99 Los demás. Kg 10 Ex.
 Tejidos de hilos de metal y tejidos de hilados metálicos o de hilados textiles metalizados de la partida 56.05, de los 58.09 tipos utilizados en prendas de vestir, tapicería o usos similares, no expresados ni comprendidos en otra parte.
 Tejidos de hilos de metal y tejidos de hilados metálicos o de hilados textiles metalizados de la partida 56.05, de los 5809.00 tipos utilizados en prendas de vestir, tapicería o usos similares, no expresados ni comprendidos en otra parte.
 Tejidos de hilos de metal y tejidos de hilados metálicos o de hilados textiles metalizados de la partida 56.05, de los 5809.00.01 tipos utilizados en prendas de vestir, M² 25 Ex. tapicería o usos similares, no expresados ni comprendidos en otra parte.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Bordados en pieza, en tiras o en 58.10 aplicaciones.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Bordados en pieza, en tiras o en 58.10 aplicaciones.
 Bordados químicos o aéreos y bordados 5810.10 con fondo recortado.
 Bordados químicos o aéreos y bordados 5810.10.01 con fondo recortado. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Los demás bordados: 5810.91 -- De algodón. 5810.91.01 De algodón. Kg 10 Ex. 5810.92 -- De fibras sintéticas o artificiales. 5810.92.01 De fibras sintéticas o artificiales. Kg 10 Ex. 5810.99 -- De las demás materias textiles. 5810.99.91 De las demás materias textiles. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Los demás bordados: 5810.91 -- De algodón. 5810.91.01 De algodón. Kg 10 Ex. 5810.92 -- De fibras sintéticas o artificiales. 5810.92.01 De fibras sintéticas o artificiales. Kg 10 Ex. 5810.99 -- De las demás materias textiles. 5810.99.91 De las demás materias textiles. Kg 10 Ex.
 Productos textiles acolchados en 58.11 pieza, constituidos por una o varias capas de materia textil combinadas con una materia de relleno y mantenidas mediante puntadas u otro modo de sujeción, excepto los bordados de la partida 58.10.
 Productos textiles acolchados en pieza, constituidos por una o varias capas de materia textil combinadas con una materia 5811.00 de relleno y mantenidas mediante puntadas u otro modo de sujeción, excepto los bordados de la partida 58.10.
 Productos textiles acolchados en pieza, constituidos por una o varias capas de materia textil combinadas con una materia 5811.00.01 de relleno y mantenidas mediante M² 25 Ex. puntadas u otro modo de sujeción, excepto los bordados de la partida 58.10.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 59
+
 Telas impregnadas, recubiertas, revestidas o estratificadas; artículos técnicos de materia textil Notas. 1. Salvo disposición en contrario, cuando se utilice en este Capítulo el término tela(s), se refiere a los tejidos de los Capítulos 50 a 55 y de las partidas 58.03 y 58.06, a las trenzas, artículos de pasamanería y artículos ornamentales análogos, en pieza, de la partida 58.08 y a los tejidos de punto de las partidas 60.02 a 60.06. 2. La partida 59.03 comprende:
 
 a) las telas impregnadas, recubiertas, revestidas o estratificadas con plástico, cualquiera que sea el peso por metro cuadrado y la naturaleza del plástico (compacto o celular), excepto: 1) las telas cuya impregnación, recubrimiento o revestimiento no sea perceptible a simple vista (Capítulos 50 a 55, 58 o 60, generalmente); para la aplicación de esta disposición, se hará abstracción de los cambios de color producidos por estas operaciones; 2) los productos que no puedan enrollarse a mano, sin agrietarse, en un cilindro de 7 mm de diámetro a una temperatura comprendida entre 15°C y 30°C (Capítulo 39, generalmente); 3) los productos en los que la tela esté totalmente inmersa en plástico o totalmente recubierta o revestida por las dos caras con esta misma materia, siempre que el recubrimiento o revestimiento sea perceptible a simple vista, hecha abstracción para la aplicación de esta disposición de los cambios de color producidos por estas operaciones (Capítulo 39); 4) las telas recubiertas o revestidas parcialmente de plástico, que presenten dibujos producidos por estos tratamientos (Capítulos 50 a 55, 58 o 60, generalmente); 5) las placas, hojas o tiras de plástico celular, combinadas con tela en las que ésta sea un simple soporte (Capítulo 39); 6) los productos textiles de la partida 58.11;
@@ -5512,63 +6173,92 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Telas recubiertas de cola o materias amiláceas, de los tipos utilizados para encuadernación, cartonaje, estuchería o usos similares; transparentes 59.01 textiles para calcar o dibujar; lienzos preparados para pintar; bucarán y telas rígidas similares de los tipos utilizados en sombrerería.
 Telas recubiertas de cola o materias amiláceas, de los tipos utilizados para 5901.10 encuadernación, cartonaje, estuchería o usos similares.
 Telas recubiertas de cola o materias amiláceas, de los tipos utilizados para 5901.10.01 encuadernación, cartonaje, estuchería o M² 25 Ex. usos similares.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5901.90 - Los demás. 5901.90.99 Los demás. M² 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5901.90 - Los demás. 5901.90.99 Los demás. M² 10 Ex.
 Napas tramadas para neumáticos fabricadas con hilados de alta 59.02 tenacidad de nailon o demás poliamidas, de poliésteres o de rayón viscosa. 5902.10 - De nailon o demás poliamidas.
 De nailon o demás poliamidas. 5902.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5902.20 - De poliésteres.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5902.20 - De poliésteres.
 De poliésteres. 5902.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5902.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5902.90 - Las demás.
 Las demás. 5902.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Telas impregnadas, recubiertas, revestidas o estratificadas con 59.03 plástico, excepto las de la partida 59.02. 5903.10 - Con poli(cloruro de vinilo).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Telas impregnadas, recubiertas, revestidas o estratificadas con 59.03 plástico, excepto las de la partida 59.02. 5903.10 - Con poli(cloruro de vinilo).
 Con poli(cloruro de vinilo). 5903.10.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5903.20 - Con poliuretano.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5903.20 - Con poliuretano.
 Con poliuretano. 5903.20.02 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5903.90 - Las demás. 5903.90.99 Las demás. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Linóleo, incluso cortado; revestimientos para el suelo formados 59.04 por un recubrimiento o revestimiento aplicado sobre un soporte textil, incluso cortados. 5904.10 - Linóleo.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5903.90 - Las demás. 5903.90.99 Las demás. M² 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Linóleo, incluso cortado; revestimientos para el suelo formados 59.04 por un recubrimiento o revestimiento aplicado sobre un soporte textil, incluso cortados. 5904.10 - Linóleo.
 Linóleo. 5904.10.01 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5904.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5904.90 - Los demás.
 Los demás. 5904.90.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Revestimientos de materia textil para 59.05 paredes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Revestimientos de materia textil para 59.05 paredes.
 Revestimientos de materia textil para 5905.00 paredes.
 Revestimientos de materia textil para 5905.00.01 paredes. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Telas cauchutadas, excepto las de la 59.06 partida 59.02.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Telas cauchutadas, excepto las de la 59.06 partida 59.02.
 Cintas adhesivas de anchura inferior o 5906.10 igual a 20 cm.
 Cintas adhesivas de anchura inferior o 5906.10.01 igual a 20 cm. M 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Las demás: 5906.91 -- De punto. 5906.91.02 De punto. M² 10 Ex. 5906.99 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Las demás: 5906.91 -- De punto. 5906.91.02 De punto. M² 10 Ex. 5906.99 -- Las demás.
 Las demás. 5906.99.99 M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Las demás telas impregnadas, recubiertas o revestidas; lienzos 59.07 pintados para decoraciones de teatro, fondos de estudio o usos análogos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Las demás telas impregnadas, recubiertas o revestidas; lienzos 59.07 pintados para decoraciones de teatro, fondos de estudio o usos análogos.
 Las demás telas impregnadas, recubiertas o revestidas; lienzos pintados 5907.00 para decoraciones de teatro, fondos de estudio o usos análogos.
 Tejidos impregnados con materias 5907.00.01 incombustibles. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Telas impregnadas o bañadas, con 5907.00.05 tundiznos cuya longitud sea hasta 2 mm. M² 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) De fibras sintéticas o artificiales, del tipo de los comprendidos en las fracciones 5907.00.06 M² 25 Ex. arancelarias 5907.00.01 y 5907.00.05.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás. 5907.00.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Mechas de materia textil tejida, trenzada o de punto, para lámparas, hornillos, mecheros, velas o similares; 59.08 manguitos de incandescencia y tejidos de punto tubulares utilizados para su fabricación, incluso impregnados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Telas impregnadas o bañadas, con 5907.00.05 tundiznos cuya longitud sea hasta 2 mm. M² 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+De fibras sintéticas o artificiales, del tipo de los comprendidos en las fracciones 5907.00.06 M² 25 Ex. arancelarias 5907.00.01 y 5907.00.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás. 5907.00.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Mechas de materia textil tejida, trenzada o de punto, para lámparas, hornillos, mecheros, velas o similares; 59.08 manguitos de incandescencia y tejidos de punto tubulares utilizados para su fabricación, incluso impregnados.
 Mechas de materia textil tejida, trenzada o de punto, para lámparas, hornillos, mecheros, velas o similares; manguitos 5908.00 de incandescencia y tejidos de punto tubulares utilizados para su fabricación, incluso impregnados.
 Tejidos tubulares. 5908.00.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 5908.00.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Mangueras para bombas y tubos similares, de materia textil, incluso con 59.09 armadura o accesorios de otras materias.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 5908.00.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Mangueras para bombas y tubos similares, de materia textil, incluso con 59.09 armadura o accesorios de otras materias.
 Mangueras para bombas y tubos 5909.00 similares, de materia textil, incluso con armadura o accesorios de otras materias.
 Mangueras para bombas y tubos similares, de materia textil, incluso con 5909.00.01 Kg 25 Ex. armadura o accesorios de otras materias.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Correas transportadoras o de transmisión, de materia textil, incluso 59.10 impregnadas, recubiertas, revestidas o estratificadas con plástico o reforzadas con metal u otra materia.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Correas transportadoras o de transmisión, de materia textil, incluso 59.10 impregnadas, recubiertas, revestidas o estratificadas con plástico o reforzadas con metal u otra materia.
 Correas transportadoras o de transmisión, de materia textil, incluso 5910.00 impregnadas, recubiertas, revestidas o estratificadas con plástico o reforzadas con metal u otra materia.
 Correas transportadoras o de transmisión, de materia textil, incluso impregnadas, recubiertas, revestidas o 5910.00.01 Kg 25 Ex. estratificadas con plástico o reforzadas con metal u otra materia.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Productos y artículos textiles para 59.11 usos técnicos mencionados en la Nota 8 de este Capítulo. 5911.10 - Telas, fieltro y tejidos forrados de fieltro, combinados con una o varias capas de caucho, cuero u otra materia, de los tipos utilizados para la fabricación de guarniciones de cardas y productos análogos para otros usos técnicos, incluidas las cintas de terciopelo impregnadas de caucho para forrar enjulios.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Productos y artículos textiles para 59.11 usos técnicos mencionados en la Nota 8 de este Capítulo. 5911.10 - Telas, fieltro y tejidos forrados de fieltro, combinados con una o varias capas de caucho, cuero u otra materia, de los tipos utilizados para la fabricación de guarniciones de cardas y productos análogos para otros usos técnicos, incluidas las cintas de terciopelo impregnadas de caucho para forrar enjulios.
 Cintas de terciopelo impregnadas de 5911.10.01 caucho para forrar enjulios. M 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás. 5911.10.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Gasas y telas para cerner, incluso 5911.20 confeccionadas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás. 5911.10.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Gasas y telas para cerner, incluso 5911.20 confeccionadas.
 Gasas y telas para cerner, incluso 5911.20.01 confeccionadas. M² 14 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Telas y fieltros sin fin o con dispositivos de unión, de los tipos utilizados en las - máquinas de fabricar papel o máquinas similares (por ejemplo: para pasta, para amiantocemento): 5911.31 -- De peso inferior a 650 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Telas y fieltros sin fin o con dispositivos de unión, de los tipos utilizados en las - máquinas de fabricar papel o máquinas similares (por ejemplo: para pasta, para amiantocemento): 5911.31 -- De peso inferior a 650 g/m².
 De peso inferior a 650 g/m². 5911.31.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5911.32 -- De peso superior o igual a 650 g/m².
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5911.32 -- De peso superior o igual a 650 g/m².
 De peso superior o igual a 650 g/m². 5911.32.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Telas filtrantes, tejidos gruesos y capachos de los tipos utilizados en las 5911.40 prensas de aceite o para usos técnicos análogos, incluidos los de cabello.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Telas filtrantes, tejidos gruesos y capachos de los tipos utilizados en las 5911.40 prensas de aceite o para usos técnicos análogos, incluidos los de cabello.
 Telas filtrantes, tejidos gruesos y capachos de los tipos utilizados en las 5911.40.01 prensas de aceite o para usos técnicos Kg 25 Ex. análogos, incluidos los de cabello.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5911.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+5911.90 - Los demás.
 Artículos textiles para usos técnicos u otras partes o piezas de máquinas o 5911.90.01 Kg 14 Ex. aparatos.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 5911.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 5911.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 60
+
 Tejidos de punto Notas. 1. Este Capítulo no comprende:
 
 a) los encajes de croché o ganchillo de la partida 58.04;
@@ -5581,93 +6271,145 @@ Nota de subpartida 1. La subpartida 6005.35 comprende los tejidos de monofilamen
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Terciopelo, felpa (incluidos los tejidos 60.01 de punto "de pelo largo") y tejidos con bucles, de punto. 6001.10 - Tejidos "de pelo largo". 6001.10.03 Tejidos "de pelo largo". Kg 10 Ex. - Tejidos con bucles: 6001.21 -- De algodón.
 De algodón. 6001.21.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6001.22 -- De fibras sintéticas o artificiales. 6001.22.01 De fibras sintéticas o artificiales. Kg 10 Ex. 6001.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6001.22 -- De fibras sintéticas o artificiales. 6001.22.01 De fibras sintéticas o artificiales. Kg 10 Ex. 6001.29 -- De las demás materias textiles.
 De seda. 6001.29.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6001.29.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Los demás: 6001.91 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6001.29.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Los demás: 6001.91 -- De algodón.
 De algodón. 6001.91.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6001.92 -- De fibras sintéticas o artificiales. 6001.92.01 De fibras sintéticas o artificiales. Kg 10 Ex. 6001.99 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6001.92 -- De fibras sintéticas o artificiales. 6001.92.01 De fibras sintéticas o artificiales. Kg 10 Ex. 6001.99 -- De las demás materias textiles.
 De las demás materias textiles. 6001.99.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 60.02 Tejidos de punto de anchura inferior o igual a 30 cm, con un contenido de hilados de elastómeros o de hilos de caucho superior o igual al 5% en peso, excepto los de la partida 60.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+60.02 Tejidos de punto de anchura inferior o igual a 30 cm, con un contenido de hilados de elastómeros o de hilos de caucho superior o igual al 5% en peso, excepto los de la partida 60.01.
 Con un contenido de hilados de 6002.40 - elastómeros superior o igual al 5% en peso, sin hilos de caucho.
 De seda. 6002.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6002.40.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6002.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6002.40.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6002.90 - Los demás.
 De seda. 6002.90.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6002.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de punto de anchura inferior o 60.03 igual a 30 cm, excepto los de las partidas 60.01 o 60.02. 6003.10 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6002.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de punto de anchura inferior o 60.03 igual a 30 cm, excepto los de las partidas 60.01 o 60.02. 6003.10 - De lana o pelo fino.
 De lana o pelo fino. 6003.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6003.20 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6003.20 - De algodón.
 De algodón. 6003.20.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6003.30 - De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6003.30 - De fibras sintéticas.
 De fibras sintéticas. 6003.30.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6003.40 - De fibras artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6003.40 - De fibras artificiales.
 De fibras artificiales. 6003.40.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6003.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6003.90 - Los demás.
 De seda. 6003.90.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6003.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de punto de anchura superior a 30 cm, con un contenido de hilados 60.04 de elastómeros o de hilos de caucho superior o igual al 5% en peso, excepto los de la partida 60.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6003.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de punto de anchura superior a 30 cm, con un contenido de hilados 60.04 de elastómeros o de hilos de caucho superior o igual al 5% en peso, excepto los de la partida 60.01.
 Con un contenido de hilados de 6004.10 - elastómeros superior o igual al 5% en peso, sin hilos de caucho.
 De seda. 6004.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6004.10.99 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6004.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6004.10.99 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6004.90 - Los demás.
 De seda. 6004.90.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 6004.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos de punto por urdimbre (incluidos los obtenidos en telares de 60.05 pasamanería), excepto los de las partidas 60.01 a 60.04. - De algodón: 6005.21 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 6004.90.99 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Tejidos de punto por urdimbre (incluidos los obtenidos en telares de 60.05 pasamanería), excepto los de las partidas 60.01 a 60.04. - De algodón: 6005.21 -- Crudos o blanqueados.
 Crudos o blanqueados. 6005.21.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.22 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.22 -- Teñidos.
 Teñidos. 6005.22.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.23 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.23 -- Con hilados de distintos colores.
 Con hilados de distintos colores.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6005.23.01 (antes Imp. 10) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6005.24 -- Estampados.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6005.24 -- Estampados.
 Estampados. 6005.24.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De fibras sintéticas:
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De fibras sintéticas:
 Tejidos mencionados en la Nota 1 de 6005.35 -subpartida de este Capítulo.
 Tejidos mencionados en la Nota 1 de 6005.35.01 subpartida de este Capítulo. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.36 -- Los demás, crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.36 -- Los demás, crudos o blanqueados.
 Los demás, crudos o blanqueados. 6005.36.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.37 -- Los demás, teñidos.
-Los demás, teñidos. 6005.37.91 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás, con hilados de distintos 6005.38 -colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.37 -- Los demás, teñidos.
+Los demás, teñidos. 6005.37.91 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás, con hilados de distintos 6005.38 -colores.
 Los demás, con hilados de distintos 6005.38.91 colores. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.39 -- Los demás, estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.39 -- Los demás, estampados.
 Los demás, estampados. 6005.39.91 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De fibras artificiales: 6005.41 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De fibras artificiales: 6005.41 -- Crudos o blanqueados.
 Crudos o blanqueados. 6005.41.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.42 -- Teñidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.42 -- Teñidos.
 Teñidos. 6005.42.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.43 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.43 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 6005.43.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.44 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.44 -- Estampados.
 Estampados. 6005.44.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6005.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6005.90 - Los demás.
 Los demás. 6005.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 60.06 Los demás tejidos de punto. 6006.10 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+60.06 Los demás tejidos de punto. 6006.10 - De lana o pelo fino.
 De lana o pelo fino. 6006.10.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De algodón: 6006.21 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De algodón: 6006.21 -- Crudos o blanqueados.
 Crudos o blanqueados. 6006.21.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.22 -- Teñidos.
-Teñidos. 6006.22.02 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6006.23 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.22 -- Teñidos.
+Teñidos. 6006.22.02 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 25 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6006.23 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 6006.23.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.24 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.24 -- Estampados.
 Estampados. 6006.24.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De fibras sintéticas: 6006.31 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De fibras sintéticas: 6006.31 -- Crudos o blanqueados.
 Crudos o blanqueados. 6006.31.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.32 -- Teñidos.
-Teñidos. 6006.32.03 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6006.33 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.32 -- Teñidos.
+Teñidos. 6006.32.03 Arancel modificado con vigencia temporal DOF 19-12-2024 Kg 35 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6006.33 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 6006.33.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.34 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.34 -- Estampados.
 Estampados. 6006.34.03 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - De fibras artificiales: 6006.41 -- Crudos o blanqueados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- De fibras artificiales: 6006.41 -- Crudos o blanqueados.
 Crudos o blanqueados. 6006.41.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.42 -- Teñidos. 6006.42.01 Teñidos. Kg 10 Ex. 6006.43 -- Con hilados de distintos colores.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.42 -- Teñidos. 6006.42.01 Teñidos. Kg 10 Ex. 6006.43 -- Con hilados de distintos colores.
 Con hilados de distintos colores. 6006.43.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.44 -- Estampados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.44 -- Estampados.
 Estampados. 6006.44.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 6006.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+6006.90 - Los demás.
 Los demás. 6006.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+_______________
 
 ## Capítulo 61
+
 Prendas y complementos (accesorios), de vestir, de punto Notas. 1. Este Capítulo solo comprende artículos de punto confeccionados. 2. Este Capítulo no comprende:
 
 a) los artículos de la partida 62.12;
@@ -5698,244 +6440,431 @@ Las prendas que no sean identificables como prendas para hombres o niños, o com
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de 61.01 punto, para hombres o niños, excepto los artículos de la partida 61.03. 6101.20 - De algodón.
 De algodón. 6101.20.03 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6101.30 - De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6101.30 - De fibras sintéticas o artificiales.
 Con un contenido de lana o pelo fino 6101.30.01 superior o igual a 23% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás. 6101.30.99 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6101.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás. 6101.30.99 Pza 35 Ex.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6101.90 - De las demás materias textiles.
 De las demás materias textiles. 6101.90.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de 61.02 punto, para mujeres o niñas, excepto los artículos de la partida 61.04. 6102.10 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, de 61.02 punto, para mujeres o niñas, excepto los artículos de la partida 61.04. 6102.10 - De lana o pelo fino.
 De lana o pelo fino. 6102.10.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6102.20 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6102.20 - De algodón.
 De algodón. 6102.20.03 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6102.30 - De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6102.30 - De fibras sintéticas o artificiales.
 Con un contenido de lana o pelo fino 6102.30.01 superior o igual a 23% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6102.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6102.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6102.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6102.90 - De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6102.90.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, 61.03 pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para hombres o niños. 6103.10 - Trajes (ambos o ternos).
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, 61.03 pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para hombres o niños. 6103.10 - Trajes (ambos o ternos).
 Trajes (ambos o ternos). 6103.10.05 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Conjuntos: 6103.22 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Conjuntos: 6103.22 -- De algodón.
 De algodón. 6103.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6103.23 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6103.23 -- De fibras sintéticas.
 De fibras sintéticas. 6103.23.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6103.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6103.29 -- De las demás materias textiles.
 De las demás materias textiles. 6103.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Chaquetas (sacos): 6103.31 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Chaquetas (sacos): 6103.31 -- De lana o pelo fino.
 De lana o pelo fino.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6103.31.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6103.32 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6103.32 -- De algodón.
 De algodón. 6103.32.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6103.33 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6103.33 -- De fibras sintéticas.
 De fibras sintéticas. 6103.33.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6103.39 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6103.39 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6103.39.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6103.41 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6103.41 -- De lana o pelo fino.
 De lana o pelo fino. 6103.41.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6103.42 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6103.42 -- De algodón.
 De algodón. 6103.42.03 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6103.43 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6103.43 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6103.43.01 superior o igual a 23% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6103.43.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6103.49 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6103.43.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6103.49 -- De las demás materias textiles.
 De las demás materias textiles. 6103.49.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones 61.04 con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para mujeres o niñas. - Trajes sastre: 6104.13 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, pantalones largos, pantalones 61.04 con peto, pantalones cortos (calzones) y shorts (excepto de baño), de punto, para mujeres o niñas. - Trajes sastre: 6104.13 -- De fibras sintéticas.
 De fibras sintéticas. 6104.13.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6104.19 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6104.19 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6104.19.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Conjuntos: 6104.22 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Conjuntos: 6104.22 -- De algodón.
 De algodón. 6104.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6104.23 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6104.23 -- De fibras sintéticas.
 De fibras sintéticas. 6104.23.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.29 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.29 -- De las demás materias textiles.
 De las demás materias textiles. 6104.29.91 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Chaquetas (sacos): 6104.31 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Chaquetas (sacos): 6104.31 -- De lana o pelo fino.
 De lana o pelo fino. 6104.31.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6104.32 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6104.32 -- De algodón.
 De algodón.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6104.32.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.33 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.33 -- De fibras sintéticas.
 De fibras sintéticas. 6104.33.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.39 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.39 -- De las demás materias textiles.
 De las demás materias textiles. 6104.39.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Vestidos: 6104.41 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Vestidos: 6104.41 -- De lana o pelo fino.
 De lana o pelo fino.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6104.41.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.42 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.42 -- De algodón.
 De algodón. 6104.42.03 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.43 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.43 -- De fibras sintéticas.
 De fibras sintéticas. 6104.43.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.44 -- De fibras artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.44 -- De fibras artificiales.
 De fibras artificiales. 6104.44.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.49 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.49 -- De las demás materias textiles.
 De las demás materias textiles. 6104.49.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Faldas y faldas pantalón: 6104.51 -- De lana o pelo fino.
-De lana o pelo fino. 6104.51.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 6104.52 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Faldas y faldas pantalón: 6104.51 -- De lana o pelo fino.
+De lana o pelo fino. 6104.51.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+6104.52 -- De algodón.
 De algodón. 6104.52.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.53 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.53 -- De fibras sintéticas.
 De fibras sintéticas. 6104.53.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.59 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.59 -- De las demás materias textiles.
 De las demás materias textiles. 6104.59.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6104.61 -- De lana o pelo fino.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6104.61 -- De lana o pelo fino.
 De lana o pelo fino. 6104.61.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6104.62 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6104.62 -- De algodón.
 De algodón. 6104.62.03 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.63 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.63 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6104.63.01 superior o igual a 23% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6104.63.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6104.69 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6104.63.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6104.69 -- De las demás materias textiles.
 De las demás materias textiles. 6104.69.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Camisas de punto para hombres o 61.05 niños. 6105.10 - De algodón.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Camisas de punto para hombres o 61.05 niños. 6105.10 - De algodón.
 De algodón.
 Arancel modificado con vigencia temporal DOF 18-11-2022 6105.10.02 (antes Imp. 25) Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6105.20 - De fibras sintéticas o artificiales.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6105.20 - De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6105.20.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6105.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6105.20.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6105.90 - De las demás materias textiles.
 De las demás materias textiles. 6105.90.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Camisas, blusas y blusas camiseras, de 61.06 punto, para mujeres o niñas. 6106.10 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Camisas, blusas y blusas camiseras, de 61.06 punto, para mujeres o niñas. 6106.10 - De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6106.10.02 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6106.20 - De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6106.10.02 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6106.20 - De fibras sintéticas o artificiales.
 Con un contenido de lana o pelo fino superior o igual a 23% en peso.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6106.20.01 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6106.20.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6106.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6106.20.01 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6106.20.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6106.90 - De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6106.90.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzoncillos (incluidos los largos y los slips), camisones, pijamas, albornoces 61.07 de baño, batas de casa y artículos similares, de punto, para hombres o niños.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzoncillos (incluidos los largos y los slips), camisones, pijamas, albornoces 61.07 de baño, batas de casa y artículos similares, de punto, para hombres o niños.
 Calzoncillos (incluidos los largos y los slips): 6107.11 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 6107.11.03 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6107.12 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6107.11.03 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6107.12 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6107.12.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6107.19 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6107.12.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6107.19 -- De las demás materias textiles.
 De las demás materias textiles. 6107.19.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Camisones y pijamas: 6107.21 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Camisones y pijamas: 6107.21 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6107.21.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6107.22 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6107.21.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6107.22 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6107.22.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6107.29 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6107.29 -- De las demás materias textiles.
 De las demás materias textiles. 6107.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás: 6107.91 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás: 6107.91 -- De algodón.
 De algodón. 6107.91.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6107.99 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6107.99 -- De las demás materias textiles.
 De las demás materias textiles. 6107.99.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Combinaciones, enaguas, bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura), camisones, 61.08 pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, de punto, para mujeres o niñas. - Combinaciones y enaguas: 6108.11 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Combinaciones, enaguas, bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura), camisones, 61.08 pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, de punto, para mujeres o niñas. - Combinaciones y enaguas: 6108.11 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6108.11.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6108.19 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6108.19 -- De las demás materias textiles.
 De las demás materias textiles. 6108.19.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura): 6108.21 -- De algodón. 6108.21.03 De algodón. Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.22 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura): 6108.21 -- De algodón. 6108.21.03 De algodón. Pza 35 Ex.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.22 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.22.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.29 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.22.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.29 -- De las demás materias textiles.
 De las demás materias textiles. 6108.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Camisones y pijamas: 6108.31 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Camisones y pijamas: 6108.31 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.31.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.32 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.31.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.32 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.32.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.39 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6108.32.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.39 -- De las demás materias textiles.
 De las demás materias textiles. 6108.39.91 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás: 6108.91 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás: 6108.91 -- De algodón.
 De algodón. 6108.91.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.92 -- De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.92 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6108.92.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6108.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6108.99 -- De las demás materias textiles.
 De las demás materias textiles. 6108.99.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 61.09 "T-shirts" y camisetas, de punto. 6109.10 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+61.09 "T-shirts" y camisetas, de punto. 6109.10 - De algodón.
 De algodón.
 Arancel modificado con vigencia temporal DOF 18-11-2022 6109.10.03 (antes Imp. 25) Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6109.90 - De las demás materias textiles.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6109.90 - De las demás materias textiles.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6109.90.04 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6109.90.99 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Suéteres (jerseys), pulóveres, cárdigan, 61.10 chalecos y artículos similares, de punto. - De lana o pelo fino: 6110.11 -- De lana.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6109.90.04 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6109.90.99 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Suéteres (jerseys), pulóveres, cárdigan, 61.10 chalecos y artículos similares, de punto. - De lana o pelo fino: 6110.11 -- De lana.
 De lana. 6110.11.03 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6110.12 -- De cabra de Cachemira.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6110.12 -- De cabra de Cachemira.
 De cabra de Cachemira.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6110.12.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6110.19 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6110.19 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6110.19.99 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6110.20 - De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6110.20 - De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6110.20.05 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6110.30 - De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6110.20.05 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6110.30 - De fibras sintéticas o artificiales.
 Construidos con 9 o menos puntadas por cada 2 cm, medidos en dirección horizontal, 6110.30.01 excepto los chalecos. Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6110.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6110.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6110.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6110.90 - De las demás materias textiles.
 De las demás materias textiles. 6110.90.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Prendas y complementos (accesorios), 61.11 de vestir, de punto, para bebés. 6111.20 - De algodón.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Prendas y complementos (accesorios), 61.11 de vestir, de punto, para bebés. 6111.20 - De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6111.20.12 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6111.30 - De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6111.20.12 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6111.30 - De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6111.30.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6111.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6111.30.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6111.90 - De las demás materias textiles.
 De las demás materias textiles. 6111.90.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Conjuntos de abrigo para entrenamiento o deporte (chandales), monos (overoles) 61.12 y conjuntos de esquí y bañadores, de punto.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Conjuntos de abrigo para entrenamiento o deporte (chandales), monos (overoles) 61.12 y conjuntos de esquí y bañadores, de punto.
 Conjuntos de abrigo para entrenamiento o deporte (chandales): 6112.11 -- De algodón.
 De algodón. 6112.11.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6112.12 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6112.12 -- De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6112.12.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6112.19 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6112.12.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6112.19 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6112.19.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6112.20 - Monos (overoles) y conjuntos de esquí.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6112.20 - Monos (overoles) y conjuntos de esquí.
 Monos (overoles) y conjuntos de esquí. 6112.20.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Bañadores para hombres o niños: 6112.31 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Bañadores para hombres o niños: 6112.31 -- De fibras sintéticas.
 De fibras sintéticas. 6112.31.01 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6112.39 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6112.39 -- De las demás materias textiles.
 De las demás materias textiles. 6112.39.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Bañadores para mujeres o niñas: 6112.41 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Bañadores para mujeres o niñas: 6112.41 -- De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6112.41.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6112.49 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6112.41.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6112.49 -- De las demás materias textiles.
 De las demás materias textiles. 6112.49.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Prendas de vestir confeccionadas con 61.13 tejidos de punto de las partidas 59.03, 59.06 o 59.07.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Prendas de vestir confeccionadas con 61.13 tejidos de punto de las partidas 59.03, 59.06 o 59.07.
 Prendas de vestir confeccionadas con 6113.00 tejidos de punto de las partidas 59.03, 59.06 o 59.07.
 Prendas de vestir confeccionadas con tejidos de punto de las partidas 59.03, 6113.00.02 59.06 o 59.07. Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 61.14 Las demás prendas de vestir, de punto. 6114.20 - De algodón.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+61.14 Las demás prendas de vestir, de punto. 6114.20 - De algodón.
 De algodón. 6114.20.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6114.30 - De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6114.30 - De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6114.30.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6114.90 - De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6114.90 - De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6114.90.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzas, panty-medias, leotardos, medias, calcetines y demás artículos de 61.15 calcetería, incluso de compresión progresiva (por ejemplo, medias para várices), de punto.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzas, panty-medias, leotardos, medias, calcetines y demás artículos de 61.15 calcetería, incluso de compresión progresiva (por ejemplo, medias para várices), de punto.
 Calzas, panty-medias, leotardos y medias, 6115.10 - de compresión progresiva (por ejemplo, medias para várices).
 Calzas, panty-medias, leotardos y medias, de compresión progresiva (por ejemplo, 6115.10.01 medias para várices). Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás calzas, panty-medias y leotardos:
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás calzas, panty-medias y leotardos:
 De fibras sintéticas, de título inferior a 67 6115.21 -decitex por hilo sencillo.
 De fibras sintéticas, de título inferior a 67 decitex por hilo sencillo. 6115.21.01 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De fibras sintéticas, de título superior o 6115.22 -igual a 67 decitex por hilo sencillo.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De fibras sintéticas, de título superior o 6115.22 -igual a 67 decitex por hilo sencillo.
 De fibras sintéticas, de título superior o igual a 67 decitex por hilo sencillo. 6115.22.01 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6115.29 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6115.29 -- De las demás materias textiles.
 De las demás materias textiles. 6115.29.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás medias de mujer, de título 6115.30 inferior a 67 decitex por hilo sencillo.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás medias de mujer, de título 6115.30 inferior a 67 decitex por hilo sencillo.
 Las demás medias de mujer, de título inferior a 67 decitex por hilo sencillo.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6115.30.91 Par 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás: 6115.94 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6115.30.91 Par 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás: 6115.94 -- De lana o pelo fino.
 De lana o pelo fino. 6115.94.01 Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6115.95 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6115.95 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6115.95.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6115.96 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6115.95.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6115.96 -- De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6115.96.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6115.99 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6115.96.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6115.99 -- De las demás materias textiles.
 De las demás materias textiles. 6115.99.91 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 61.16 Guantes, mitones y manoplas, de punto.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+61.16 Guantes, mitones y manoplas, de punto.
 Impregnados, recubiertos, revestidos o 6116.10 estratificados, con plástico o caucho.
 Impregnados, recubiertos, revestidos o estratificados, con plástico o caucho. 6116.10.02 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás: 6116.91 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás: 6116.91 -- De lana o pelo fino.
 De lana o pelo fino. 6116.91.01 Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6116.92 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6116.92 -- De algodón.
 De algodón. 6116.92.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6116.93 -- De fibras sintéticas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6116.93 -- De fibras sintéticas.
 De fibras sintéticas. 6116.93.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6116.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6116.99 -- De las demás materias textiles.
 De las demás materias textiles. 6116.99.91 Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás complementos (accesorios) de vestir confeccionados, de punto; 61.17 partes de prendas o de complementos (accesorios), de vestir, de punto.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás complementos (accesorios) de vestir confeccionados, de punto; 61.17 partes de prendas o de complementos (accesorios), de vestir, de punto.
 Chales, pañuelos de cuello, bufandas, 6117.10 mantillas, velos y artículos similares.
 Chales, pañuelos de cuello, bufandas, 6117.10.02 mantillas, velos y artículos similares. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás complementos (accesorios) de 6117.80 vestir.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás complementos (accesorios) de 6117.80 vestir.
 Cintas, bandas o ligas, de sujeción para el 6117.80.02 cabello y artículos similares. Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás. 6117.80.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6117.90 - Partes.9 Partes. 6117.90.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás. 6117.80.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6117.90 - Partes.9 Partes. 6117.90.01 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+_______________
 
 ## Capítulo 62
+
 Prendas y complementos (accesorios), de vestir, excepto los de punto Notas. 1. Este Capítulo solo se aplica a los artículos confeccionados con cualquier textil, excepto la guata y los artículos de punto distintos de los de la partida 62.12. 2. Este Capítulo no comprende:
 
 a) los artículos de prendería de la partida 63.09;
@@ -5965,268 +6894,494 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para 62.01 hombres o niños, excepto los artículos de la partida 62.03. 6201.20 - De lana o pelo fino.
 Abrigos, impermeables, chaquetones, capas y artículos similares.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6201.20.01 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6201.20.99 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6201.30 - De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6201.30 - De algodón.
 Con un contenido de plumón y plumas de ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón 6201.30.01 sea superior o igual al 35%, en peso; con un Pza 35 Ex. contenido del plumaje superior o igual al 10%, en peso.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6201.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6201.40 - De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6201.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6201.40 - De fibras sintéticas o artificiales.
 Con un contenido de plumón y plumas de ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón 6201.40.01 sea superior o igual al 35%, en peso; con un Pza 25 Ex. contenido del plumaje superior o igual al 10%, en peso.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6201.40.02 comprendido en la fracción arancelaria Pza 25 Ex. 6201.40.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6201.40.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6201.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6201.40.02 comprendido en la fracción arancelaria Pza 25 Ex. 6201.40.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6201.40.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6201.90 - De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6201.90.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para 62.02 mujeres o niñas, excepto los artículos de la partida 62.04. 6202.20 - De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Abrigos, chaquetones, capas, anoraks, cazadoras y artículos similares, para 62.02 mujeres o niñas, excepto los artículos de la partida 62.04. 6202.20 - De lana o pelo fino.
 Abrigos, impermeables, chaquetones, capas y artículos similares.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6202.20.01 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6202.20.99 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6202.30 - De algodón. 6202.30.01 Con un contenido de plumón y plumas de Pza 35 Ex. ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón sea superior o igual al 35%, en peso; con un contenido del plumaje superior o igual al 10%, en peso.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6202.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6202.40 - De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6202.30 - De algodón. 6202.30.01 Con un contenido de plumón y plumas de Pza 35 Ex. ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón sea superior o igual al 35%, en peso; con un contenido del plumaje superior o igual al 10%, en peso.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6202.30.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6202.40 - De fibras sintéticas o artificiales.
 Con un contenido de plumón y plumas de ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón sea superior o igual al 35%, en peso; con un contenido del plumaje superior o igual al 6202.40.01 Pza 35 Ex. 10%, en peso.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo comprendido en la fracción arancelaria 6202.40.01. 6202.40.02 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6202.40.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6202.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo comprendido en la fracción arancelaria 6202.40.01. 6202.40.02 Pza 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6202.40.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6202.90 - De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6202.90.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, 62.03 pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para hombres o niños. - Trajes (ambos o ternos): 6203.11 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Trajes (ambos o ternos), conjuntos, chaquetas (sacos), pantalones largos, 62.03 pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para hombres o niños. - Trajes (ambos o ternos): 6203.11 -- De lana o pelo fino.
 De lana o pelo fino.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 36 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 35) 6203.12 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 36 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 35)
+6203.12 -- De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.12.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.19 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.12.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.19 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6203.19.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Conjuntos: 6203.22 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Conjuntos: 6203.22 -- De algodón.
 De algodón. 6203.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6203.23 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6203.23 -- De fibras sintéticas.
 De fibras sintéticas. 6203.23.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6203.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6203.29 -- De las demás materias textiles.
 De las demás materias textiles. 6203.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Chaquetas (sacos): 6203.31 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Chaquetas (sacos): 6203.31 -- De lana o pelo fino.
 De lana o pelo fino.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.31.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.32 -- De algodón.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.31.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.32 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.32.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.33 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.32.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.33 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6203.33.01 superior o igual a 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.33.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.39 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.33.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.39 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6203.39.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6203.41 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6203.41 -- De lana o pelo fino.
 De lana o pelo fino.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.41.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.42 -- De algodón.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.41.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.42 -- De algodón.
 Con un contenido de plumón y plumas de ave acuática superior o igual al 15%, en peso, siempre que el contenido de plumón sea superior o igual al 35%, en peso; con un contenido del plumaje superior o igual al 6203.42.01 Pza 35 Ex. 10%, en peso.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Pantalones con peto y tirantes. 6203.42.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás, para hombres.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.42.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, para niños.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.42.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.43 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Pantalones con peto y tirantes. 6203.42.02 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás, para hombres.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.42.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, para niños.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.42.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.43 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6203.43.01 superior o igual a 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás, para hombres.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.43.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, para niños.
-Arancel modificado con vigencia temporal DOF 18-11-2022 6203.43.92 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6203.49 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás, para hombres.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.43.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, para niños.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6203.43.92 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6203.49 -- De las demás materias textiles.
 De las demás materias textiles.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.49.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, 62.04 pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para mujeres o niñas. - Trajes sastre: 6204.11 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6203.49.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Trajes sastre, conjuntos, chaquetas (sacos), vestidos, faldas, faldas pantalón, 62.04 pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts (excepto de baño), para mujeres o niñas. - Trajes sastre: 6204.11 -- De lana o pelo fino.
 De lana o pelo fino. 6204.11.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.12 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.12 -- De algodón.
 De algodón. 6204.12.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.13 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.13 -- De fibras sintéticas.
 De fibras sintéticas. 6204.13.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.19 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.19 -- De las demás materias textiles.
 De las demás materias textiles. 6204.19.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Conjuntos: 6204.21 -- De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Conjuntos: 6204.21 -- De lana o pelo fino.
 De lana o pelo fino. 6204.21.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.22 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.22 -- De algodón.
 De algodón. 6204.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.23 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.23 -- De fibras sintéticas.
 De fibras sintéticas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.23.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.29 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.29 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.29.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Chaquetas (sacos): 6204.31 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Chaquetas (sacos): 6204.31 -- De lana o pelo fino.
 De lana o pelo fino. 6204.31.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.32 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.32 -- De algodón.
 De algodón. 6204.32.03 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.33 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.33 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6204.33.01 superior o igual a 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lino superior o igual a 6204.33.02 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.33.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.39 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lino superior o igual a 6204.33.02 36% en peso. Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.33.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.39 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.39.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Vestidos: 6204.41 -- De lana o pelo fino.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Vestidos: 6204.41 -- De lana o pelo fino.
 De lana o pelo fino.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.41.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.42 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.42 -- De algodón.
 Hechos totalmente a mano.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.42.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.42.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.43 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.42.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.43 -- De fibras sintéticas.
 Hechos totalmente a mano. 6204.43.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.43.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.43.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.43.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.43.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.43.99 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.44 -- De fibras artificiales.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.44 -- De fibras artificiales.
 Hechos totalmente a mano. 6204.44.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.44.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.44.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.44.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.49 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.44.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.44.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.44.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.49 -- De las demás materias textiles.
 De las demás materias textiles. 6204.49.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Faldas y faldas pantalón: 6204.51 -- De lana o pelo fino.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Faldas y faldas pantalón: 6204.51 -- De lana o pelo fino.
 De lana o pelo fino. 6204.51.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.52 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.52 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.52.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.53 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.52.03 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.53 -- De fibras sintéticas.
 Hechas totalmente a mano. 6204.53.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.53.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.53.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.53.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.59 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lana o pelo fino superior o igual a 36% en peso, excepto lo 6204.53.02 comprendido en la fracción arancelaria Pza 25 Ex. 6204.53.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.53.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.59 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6204.59.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6204.61 -- De lana o pelo fino. 6204.61.01 De lana o pelo fino. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6204.62 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Pantalones largos, pantalones con peto, pantalones cortos (calzones) y shorts: 6204.61 -- De lana o pelo fino. 6204.61.01 De lana o pelo fino. Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6204.62 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.62.09 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.63 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.62.09 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.63 -- De fibras sintéticas.
 Con un contenido de lana o pelo fino 6204.63.01 superior o igual a 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás, para mujeres.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.63.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, para niñas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.63.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6204.69 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás, para mujeres.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.63.91 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, para niñas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.63.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6204.69 -- De las demás materias textiles.
 Con un contenido de seda superior o igual a 6204.69.02 70% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Con un contenido de lana o pelo fino 6204.69.03 superior o igual a 36% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.69.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 62.05 Camisas para hombres o niños. 6205.20 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Con un contenido de lana o pelo fino 6204.69.03 superior o igual a 36% en peso. Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6204.69.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+62.05 Camisas para hombres o niños. 6205.20 - De algodón.
 Hechas totalmente a mano. 6205.20.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Para hombres, excepto lo comprendido en la fracción arancelaria 6205.20.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Para hombres, excepto lo comprendido en la fracción arancelaria 6205.20.01.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6205.20.91 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Para niños, excepto lo comprendido en la fracción arancelaria 6205.20.01. 6205.20.92 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6205.30 - De fibras sintéticas o artificiales.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Para niños, excepto lo comprendido en la fracción arancelaria 6205.20.01. 6205.20.92 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6205.30 - De fibras sintéticas o artificiales.
 Hechas totalmente a mano. 6205.30.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Para hombres, excepto lo comprendido en la fracción arancelaria 6205.30.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Para hombres, excepto lo comprendido en la fracción arancelaria 6205.30.01.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6205.30.91 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Para niños, excepto lo comprendido en la fracción arancelaria 6205.30.01.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Para niños, excepto lo comprendido en la fracción arancelaria 6205.30.01.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6205.30.92 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6205.90 - De las demás materias textiles.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6205.90 - De las demás materias textiles.
 Con un contenido en seda superior o igual a 6205.90.01 70% en peso. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De lana o pelo fino. 6205.90.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Las demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6205.90.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Camisas, blusas y blusas camiseras, para 62.06 mujeres o niñas. 6206.10 - De seda o desperdicios de seda.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De lana o pelo fino. 6205.90.02 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Las demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6205.90.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Camisas, blusas y blusas camiseras, para 62.06 mujeres o niñas. 6206.10 - De seda o desperdicios de seda.
 De seda o desperdicios de seda. 6206.10.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6206.20 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6206.20 - De lana o pelo fino.
 De lana o pelo fino. 6206.20.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6206.30 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6206.30 - De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6206.30.04 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6206.40 - De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6206.30.04 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6206.40 - De fibras sintéticas o artificiales.
 Hechas totalmente a mano.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6206.40.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6206.40.02 Con un contenido de lana o pelo fino Pza 25 Ex. superior o igual a 36% en peso, excepto lo comprendido en la fracción arancelaria 6206.40.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Para mujeres, excepto lo comprendido en las fracciones arancelarias 6206.40.01 y 6206.40.02.
-Arancel modificado con vigencia temporal DOF 18-11-2022 6206.40.91 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Para niñas, excepto lo comprendido en las fracciones arancelarias 6206.40.01 y 6206.40.02.
-Arancel modificado con vigencia temporal DOF 18-11-2022 6206.40.92 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6206.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6206.40.02 Con un contenido de lana o pelo fino Pza 25 Ex. superior o igual a 36% en peso, excepto lo comprendido en la fracción arancelaria 6206.40.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Para mujeres, excepto lo comprendido en las fracciones arancelarias 6206.40.01 y 6206.40.02.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6206.40.91 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Para niñas, excepto lo comprendido en las fracciones arancelarias 6206.40.01 y 6206.40.02.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6206.40.92 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6206.90 - De las demás materias textiles.
 Con mezclas de algodón. 6206.90.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6206.90.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Camisetas, calzoncillos (incluidos los largos y los slips), camisones, pijamas, 62.07 albornoces de baño, batas de casa y artículos similares, para hombres o niños. - Calzoncillos (incluidos los largos y los slips): 6207.11 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6206.90.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Camisetas, calzoncillos (incluidos los largos y los slips), camisones, pijamas, 62.07 albornoces de baño, batas de casa y artículos similares, para hombres o niños. - Calzoncillos (incluidos los largos y los slips): 6207.11 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6207.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6207.19 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6207.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6207.19 -- De las demás materias textiles.
 De las demás materias textiles. 6207.19.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Camisones y pijamas: 6207.21 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Camisones y pijamas: 6207.21 -- De algodón.
 De algodón. 6207.21.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6207.22 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6207.22 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6207.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6207.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6207.29 -- De las demás materias textiles.
 De las demás materias textiles. 6207.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás: 6207.91 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás: 6207.91 -- De algodón.
 De algodón. 6207.91.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6207.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6207.99 -- De las demás materias textiles.
 De las demás materias textiles. 6207.99.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Camisetas, combinaciones, enaguas, bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura), 62.08 camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, para mujeres o niñas. - Combinaciones y enaguas: 6208.11 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Camisetas, combinaciones, enaguas, bragas (bombachas, calzones) (incluso las que no llegan hasta la cintura), 62.08 camisones, pijamas, saltos de cama, albornoces de baño, batas de casa y artículos similares, para mujeres o niñas. - Combinaciones y enaguas: 6208.11 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6208.11.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6208.19 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6208.19 -- De las demás materias textiles.
 De las demás materias textiles. 6208.19.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Camisones y pijamas: 6208.21 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Camisones y pijamas: 6208.21 -- De algodón.
 De algodón. 6208.21.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6208.22 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6208.22 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6208.22.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6208.29 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6208.29 -- De las demás materias textiles.
 De las demás materias textiles. 6208.29.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás: 6208.91 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás: 6208.91 -- De algodón.
 De algodón. 6208.91.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6208.92 -- De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6208.92 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6208.92.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6208.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6208.99 -- De las demás materias textiles.
 De las demás materias textiles. 6208.99.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Prendas y complementos (accesorios), 62.09 de vestir, para bebés. 6209.20 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Prendas y complementos (accesorios), 62.09 de vestir, para bebés. 6209.20 - De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6209.20.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6209.30 - De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6209.20.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6209.30 - De fibras sintéticas.
 De fibras sintéticas.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6209.30.05 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6209.90 - De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6209.30.05 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6209.90 - De las demás materias textiles.
 De las demás materias textiles. 6209.90.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Prendas de vestir confeccionadas con 62.10 productos de las partidas 56.02, 56.03, 59.03, 59.06 o 59.07. 6210.10 - Con productos de las partidas 56.02 o 56.03.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Prendas de vestir confeccionadas con 62.10 productos de las partidas 56.02, 56.03, 59.03, 59.06 o 59.07. 6210.10 - Con productos de las partidas 56.02 o 56.03.
 Con productos de las partidas 56.02 o 56.03. 6210.10.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás prendas de vestir de los tipos 6210.20 citados en la partida 62.01.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás prendas de vestir de los tipos 6210.20 citados en la partida 62.01.
 Las demás prendas de vestir de los tipos citados en la partida 62.01.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6210.20.91 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás prendas de vestir de los tipos 6210.30 citados en la partida 62.02.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6210.20.91 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás prendas de vestir de los tipos 6210.30 citados en la partida 62.02.
 Las demás prendas de vestir de los tipos citados en la partida 62.02. 6210.30.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás prendas de vestir para hombres 6210.40 o niños.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás prendas de vestir para hombres 6210.40 o niños.
 Las demás prendas de vestir para hombres o niños. 6210.40.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás prendas de vestir para mujeres o 6210.50 niñas.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás prendas de vestir para mujeres o 6210.50 niñas.
 Las demás prendas de vestir para mujeres o niñas. 6210.50.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Conjuntos de abrigo para entrenamiento o deporte (chandales), monos (overoles) 62.11 y conjuntos de esquí y bañadores; las demás prendas de vestir. - Bañadores: 6211.11 -- Para hombres o niños.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Conjuntos de abrigo para entrenamiento o deporte (chandales), monos (overoles) 62.11 y conjuntos de esquí y bañadores; las demás prendas de vestir. - Bañadores: 6211.11 -- Para hombres o niños.
 Para hombres o niños.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6211.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.12 -- Para mujeres o niñas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6211.11.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.12 -- Para mujeres o niñas.
 Para mujeres o niñas. 6211.12.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.20 - Monos (overoles) y conjuntos de esquí.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.20 - Monos (overoles) y conjuntos de esquí.
 Monos (overoles) y conjuntos de esquí. 6211.20.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Las demás prendas de vestir para hombres o niños: 6211.32 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Las demás prendas de vestir para hombres o niños: 6211.32 -- De algodón.
 De algodón. 6211.32.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.33 -- De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.33 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6211.33.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.39 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.39 -- De las demás materias textiles.
 De las demás materias textiles. 6211.39.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Las demás prendas de vestir para mujeres o niñas: 6211.42 -- De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Las demás prendas de vestir para mujeres o niñas: 6211.42 -- De algodón.
 De algodón. 6211.42.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.43 -- De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.43 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6211.43.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6211.49 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6211.49 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6211.49.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Sostenes (corpiños), fajas, corsés, 62.12 tirantes (tiradores), ligas y artículos similares, y sus partes, incluso de punto. 6212.10 - Sostenes (corpiños).
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Sostenes (corpiños), fajas, corsés, 62.12 tirantes (tiradores), ligas y artículos similares, y sus partes, incluso de punto. 6212.10 - Sostenes (corpiños).
 Sostenes (corpiños).
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.10.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6212.20 - Fajas y fajas braga (fajas bombacha).
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.10.07 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6212.20 - Fajas y fajas braga (fajas bombacha).
 Fajas y fajas braga (fajas bombacha).
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.20.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6212.30 - Fajas sostén (fajas corpiño).
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.20.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6212.30 - Fajas sostén (fajas corpiño).
 Fajas sostén (fajas corpiño).
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.30.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6212.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6212.30.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6212.90 - Los demás.
 Los demás. 6212.90.99 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 62.13 Pañuelos de bolsillo. 6213.20 - De algodón.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+62.13 Pañuelos de bolsillo. 6213.20 - De algodón.
 De algodón. 6213.20.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6213.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6213.90 - De las demás materias textiles.
 De las demás materias textiles. 6213.90.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Chales, pañuelos de cuello, bufandas, 62.14 mantillas, velos y artículos similares. 6214.10 - De seda o desperdicios de seda.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Chales, pañuelos de cuello, bufandas, 62.14 mantillas, velos y artículos similares. 6214.10 - De seda o desperdicios de seda.
 De seda o desperdicios de seda. 6214.10.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6214.20 - De lana o pelo fino.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6214.20 - De lana o pelo fino.
 De lana o pelo fino. 6214.20.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6214.30 - De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6214.30 - De fibras sintéticas.
 De fibras sintéticas. 6214.30.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6214.40 - De fibras artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6214.40 - De fibras artificiales.
 De fibras artificiales. 6214.40.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6214.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6214.90 - De las demás materias textiles.
 De las demás materias textiles. 6214.90.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 62.15 Corbatas y lazos similares. 6215.10 - De seda o desperdicios de seda.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+62.15 Corbatas y lazos similares. 6215.10 - De seda o desperdicios de seda.
 De seda o desperdicios de seda. 6215.10.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 45 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (antes Imp. 35) 6215.20 - De fibras sintéticas o artificiales.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (antes Imp. 35)
+6215.20 - De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6215.20.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6215.90 - De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6215.90 - De las demás materias textiles.
 De las demás materias textiles. 6215.90.91 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 62.16 Guantes, mitones y manoplas. 6216.00 Guantes, mitones y manoplas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+62.16 Guantes, mitones y manoplas. 6216.00 Guantes, mitones y manoplas.
 Guantes, mitones y manoplas. 6216.00.01 Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás complementos (accesorios) de vestir confeccionados; partes de 62.17 prendas o de complementos (accesorios), de vestir, excepto las de la partida 62.12. 6217.10 - Complementos (accesorios) de vestir.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás complementos (accesorios) de vestir confeccionados; partes de 62.17 prendas o de complementos (accesorios), de vestir, excepto las de la partida 62.12. 6217.10 - Complementos (accesorios) de vestir.
 Complementos (accesorios) de vestir. 6217.10.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6217.90 - Partes.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6217.90 - Partes.
 Partes. 6217.90.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) ___________
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+___________
 
 ## Capítulo 63
+
 Los demás artículos textiles confeccionados; juegos; prendería y trapos Notas. 1. El Subcapítulo I, que comprende artículos de cualquier textil, solo se aplica a los artículos confeccionados. 2. El Subcapítulo I no comprende:
 
 a) los productos de los Capítulos 56 a 62;
@@ -6241,130 +7396,215 @@ Nota de subpartida. 1. La subpartida 6304.20 comprende los artículos confeccion
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 SUBCAPÍTULO I LOS DEMÁS ARTÍCULOS TEXTILES CONFECCIONADOS 63.01 Mantas. 6301.10 - Mantas eléctricas.
 Mantas eléctricas. 6301.10.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Mantas de lana o pelo fino (excepto las 6301.20 eléctricas).
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Mantas de lana o pelo fino (excepto las 6301.20 eléctricas).
 Mantas de lana o pelo fino (excepto las eléctricas).
-Arancel modificado con vigencia temporal DOF 15-08-2023 6301.20.01 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6301.30 - Mantas de algodón (excepto las eléctricas).
+Arancel modificado con vigencia temporal DOF 15-08-2023 6301.20.01 Pza 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6301.30 - Mantas de algodón (excepto las eléctricas).
 Mantas de algodón (excepto las eléctricas). 6301.30.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Mantas de fibras sintéticas (excepto las 6301.40 eléctricas).
-Mantas de fibras sintéticas (excepto las eléctricas). 6301.40.01 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6301.90 - Las demás mantas.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Mantas de fibras sintéticas (excepto las 6301.40 eléctricas).
+Mantas de fibras sintéticas (excepto las eléctricas). 6301.40.01 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6301.90 - Las demás mantas.
 Las demás mantas. 6301.90.91 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 63.02 Ropa de cama, mesa, tocador o cocina. 6302.10 - Ropa de cama, de punto.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+63.02 Ropa de cama, mesa, tocador o cocina. 6302.10 - Ropa de cama, de punto.
 Ropa de cama, de punto. 6302.10.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Las demás ropas de cama, estampadas: 6302.21 -- De algodón.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Las demás ropas de cama, estampadas: 6302.21 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.21.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.22 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.21.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.22 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.22.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.29 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.22.01 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.29 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6302.29.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Las demás ropas de cama: 6302.31 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Las demás ropas de cama: 6302.31 -- De algodón.
 De algodón.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.31.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.32 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.31.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.32 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.32.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.39 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.32.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.39 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6302.39.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.40 - Ropa de mesa, de punto.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.40 - Ropa de mesa, de punto.
 Ropa de mesa, de punto.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6302.40.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Las demás ropas de mesa: 6302.51 -- De algodón.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Las demás ropas de mesa: 6302.51 -- De algodón.
 De algodón. 6302.51.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6302.53 -- De fibras sintéticas o artificiales.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6302.53 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6302.53.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.59 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.59 -- De las demás materias textiles.
 De las demás materias textiles. 6302.59.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Ropa de tocador o cocina, de tejido con 6302.60 bucles del tipo toalla, de algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Ropa de tocador o cocina, de tejido con 6302.60 bucles del tipo toalla, de algodón.
 Ropa de tocador o cocina, de tejido con bucles del tipo toalla, de algodón.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6302.60.06 Pza 35 Ex.
-Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Las demás: 6302.91 -- De algodón.
+Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Las demás: 6302.91 -- De algodón.
 De algodón.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6302.91.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.93 -- De fibras sintéticas o artificiales.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.93 -- De fibras sintéticas o artificiales.
 De fibras sintéticas o artificiales. 6302.93.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6302.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6302.99 -- De las demás materias textiles.
 De las demás materias textiles. 6302.99.91 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Visillos y cortinas; guardamalletas y 63.03 rodapiés de cama. - De punto: 6303.12 -- De fibras sintéticas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Visillos y cortinas; guardamalletas y 63.03 rodapiés de cama. - De punto: 6303.12 -- De fibras sintéticas.
 De fibras sintéticas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6303.12.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6303.19 -- De las demás materias textiles.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6303.19 -- De las demás materias textiles.
 De las demás materias textiles. 6303.19.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás: 6303.91 -- De algodón.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás: 6303.91 -- De algodón.
 De algodón.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6303.91.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6303.92 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6303.92 -- De fibras sintéticas.
 De fibras sintéticas. 6303.92.02 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6303.99 -- De las demás materias textiles.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6303.99 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6303.99.91 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás artículos de tapicería, 63.04 excepto los de la partida 94.04. - Colchas: 6304.11 -- De punto.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás artículos de tapicería, 63.04 excepto los de la partida 94.04. - Colchas: 6304.11 -- De punto.
 De punto. 6304.11.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6304.19 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6304.19 -- Las demás.
 Las demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6304.19.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Mosquiteros para camas, especificados en 6304.20 la Nota 1 de subpartida de este Capítulo.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6304.19.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Pza 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Mosquiteros para camas, especificados en 6304.20 la Nota 1 de subpartida de este Capítulo.
 Mosquiteros para camas, especificados en 6304.20.01 la Nota 1 de subpartida de este Capítulo. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) - Los demás: 6304.91 -- De punto.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+- Los demás: 6304.91 -- De punto.
 De punto.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6304.91.01 (antes Imp. 20) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6304.92 -- De algodón, excepto de punto.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6304.92 -- De algodón, excepto de punto.
 De algodón, excepto de punto. 6304.92.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6304.93 -- De fibras sintéticas, excepto de punto.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6304.93 -- De fibras sintéticas, excepto de punto.
 De fibras sintéticas, excepto de punto. 6304.93.01 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6304.99 -- De las demás materias textiles, excepto de punto.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6304.99 -- De las demás materias textiles, excepto de punto.
 De las demás materias textiles, excepto de 6304.99.91 punto. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 63.05 Sacos (bolsas) y talegas, para envasar.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+63.05 Sacos (bolsas) y talegas, para envasar.
 De yute o demás fibras textiles del líber de 6305.10 la partida 53.03.
 De yute o demás fibras textiles del líber de 6305.10.01 la partida 53.03. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6305.20 - De algodón.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6305.20 - De algodón.
 De algodón. 6305.20.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - De materias textiles sintéticas o artificiales:
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- De materias textiles sintéticas o artificiales:
 Continentes intermedios flexibles para 6305.32 -productos a granel.
 Continentes intermedios flexibles para productos a granel.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6305.32.01 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, de tiras o formas similares, de 6305.33 -polietileno o polipropileno.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6305.32.01 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, de tiras o formas similares, de 6305.33 -polietileno o polipropileno.
 Los demás, de tiras o formas similares, de polietileno o polipropileno. 6305.33.91 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6305.39 -- Los demás.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6305.39 -- Los demás.
 Los demás. 6305.39.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6305.90 - De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6305.90 - De las demás materias textiles.
 De las demás materias textiles. 6305.90.91 Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Pza 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Toldos de cualquier clase; tiendas (carpas, incluidos los pabellones (“gazebos”, templetes) temporales y 63.06 artículos similares); velas para embarcaciones, deslizadores o vehículos terrestres; artículos de acampar. - Toldos de cualquier clase: 6306.12 -- De fibras sintéticas.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Toldos de cualquier clase; tiendas (carpas, incluidos los pabellones (“gazebos”, templetes) temporales y 63.06 artículos similares); velas para embarcaciones, deslizadores o vehículos terrestres; artículos de acampar. - Toldos de cualquier clase: 6306.12 -- De fibras sintéticas.
 De fibras sintéticas. 6306.12.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6306.19 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6306.19 -- De las demás materias textiles.
 De las demás materias textiles.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6306.19.91 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tiendas (carpas, incluidos los pabellones - (”gazebos”, templetes) temporales y artículos similares): 6306.22 -- De fibras sintéticas.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6306.19.91 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tiendas (carpas, incluidos los pabellones - (”gazebos”, templetes) temporales y artículos similares): 6306.22 -- De fibras sintéticas.
 De fibras sintéticas. 6306.22.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6306.29 -- De las demás materias textiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6306.29 -- De las demás materias textiles.
 De las demás materias textiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6306.29.91 (antes Imp. 15) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6306.30 - Velas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6306.30 - Velas.
 Velas. 6306.30.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6306.40 - Colchones neumáticos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6306.40 - Colchones neumáticos.
 Colchones neumáticos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6306.40.02 (antes Imp. 15) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6306.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6306.90 - Los demás.
 Los demás. 6306.90.99 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás artículos confeccionados, 63.07 incluidos los patrones para prendas de vestir.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás artículos confeccionados, 63.07 incluidos los patrones para prendas de vestir.
 Paños para fregar o lavar (bayetas, paños 6307.10 - rejilla), franelas y artículos similares para limpieza.
 Paños para fregar o lavar (bayetas, paños rejilla), franelas y artículos similares para 6307.10.01 limpieza. Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6307.20 - Cinturones y chalecos salvavidas.
+Arancel modificado con vigencia temporal DOF 19-12-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6307.20 - Cinturones y chalecos salvavidas.
 Cinturones y chalecos salvavidas. 6307.20.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 6307.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+6307.90 - Los demás.
 Toallas quirúrgicas. 6307.90.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás. 6307.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) SUBCAPÍTULO II JUEGOS Juegos constituidos por piezas de tejido e hilados, incluso con accesorios, para 63.08 la confección de alfombras, tapicería, manteles o servilletas bordados o de artículos textiles similares, en envases para la venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás. 6307.90.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+SUBCAPÍTULO II JUEGOS Juegos constituidos por piezas de tejido e hilados, incluso con accesorios, para 63.08 la confección de alfombras, tapicería, manteles o servilletas bordados o de artículos textiles similares, en envases para la venta al por menor.
 Juegos constituidos por piezas de tejido e hilados, incluso con accesorios, para la confección de alfombras, tapicería, 6308.00 manteles o servilletas bordados o de artículos textiles similares, en envases para la venta al por menor.
 Juegos constituidos por piezas de tejido e hilados, incluso con accesorios, para la confección de alfombras, tapicería, 6308.00.01 manteles o servilletas bordados o de Kg 25 Ex. artículos textiles similares, en envases para la venta al por menor.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) SUBCAPÍTULO III PRENDERÍA Y TRAPOS 63.09 Artículos de prendería. 6309.00 Artículos de prendería.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+SUBCAPÍTULO III PRENDERÍA Y TRAPOS 63.09 Artículos de prendería. 6309.00 Artículos de prendería.
 Artículos de prendería. 6309.00.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Trapos; cordeles, cuerdas y cordajes, de 63.10 materia textil, en desperdicios o en artículos inservibles. 6310.10 - Clasificados.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Trapos; cordeles, cuerdas y cordajes, de 63.10 materia textil, en desperdicios o en artículos inservibles. 6310.10 - Clasificados.
 Clasificados. 6310.10.02 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6310.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+6310.90 - Los demás.
 Los demás. 6310.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+_______________
 
 ## Sección XII — CALZADO, SOMBREROS Y DEMÁS TOCADOS, PARAGUAS, QUITASOLES, BASTONES,
+
 LÁTIGOS, FUSTAS, Y SUS PARTES; PLUMAS PREPARADAS Y ARTÍCULOS DE PLUMAS;
 FLORES ARTIFICIALES; MANUFACTURAS DE CABELLO
 
 ## Capítulo 64
+
 Calzado, polainas y artículos análogos; partes de estos artículos Notas. 1. Este Capítulo no comprende:
 
 a) los artículos desechables para cubrir los pies o el calzado, de materiales livianos o poco resistentes (por ejemplo: papel, hojas de plástico) y sin suela aplicada (régimen de la materia constitutiva);
@@ -6394,79 +7634,173 @@ b) el calzado para patinar, esquiar, para la práctica de “snowboard” (tabla
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Calzado impermeable con suela y parte 64.01 superior de caucho o plástico, cuya parte superior no se haya unido a la suela por costura o por medio de remaches, clavos, tornillos, espigas o dispositivos similares, ni se haya formado con diferentes partes unidas de la misma manera. 6401.10 - Calzado con puntera metálica de protección.
 Calzado con puntera metálica de protección. 6401.10.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás calzados: 6401.92 -- Que cubran el tobillo sin cubrir la rodilla.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás calzados: 6401.92 -- Que cubran el tobillo sin cubrir la rodilla.
 Con suela y parte superior recubierta (incluidos los accesorios o refuerzos) con un contenido de poli(cloruro de vinilo) (P.V.C.) superior al 90%, incluso con soporte o forro 6401.92.11 Par 35 Ex. de poli(cloruro de vinilo) (P.V.C.), pero con exclusión de cualquier otro soporte o forro.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6401.92.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6401.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6401.92.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6401.99 -- Los demás.
 Los demás. 6401.99.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás calzados con suela y parte 64.02 superior de caucho o plástico. - Calzado de deporte:
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás calzados con suela y parte 64.02 superior de caucho o plástico. - Calzado de deporte:
 Calzado de esquí y calzado para la práctica 6402.12 -de "snowboard" (tabla para nieve).
 Calzado de esquí y calzado para la práctica de "snowboard" (tabla para nieve).
-Arancel modificado con vigencia temporal DOF 15-08-2023 6402.12.01 Par 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6402.19 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6402.12.01 Par 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6402.19 -- Los demás.
 Para hombres, adultos y jóvenes, con la parte superior (corte) con un contenido de caucho o plástico superior al 90%, excepto el que tenga una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta 6402.19.01 al corte. Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6402.19.99 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado con la parte superior de tiras o 6402.20 - bridas fijadas a la suela por tetones (espigas).
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6402.19.99 Par 35 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado con la parte superior de tiras o 6402.20 - bridas fijadas a la suela por tetones (espigas).
 Calzado con la parte superior de tiras o bridas fijadas a la suela por tetones (espigas).
-Arancel modificado con vigencia temporal DOF 18-11-2022 6402.20.04 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás calzados: 6402.91 -- Que cubran el tobillo.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6402.20.04 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás calzados: 6402.91 -- Que cubran el tobillo.
 Con puntera metálica de protección. 6402.91.02 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Sin puntera metálica.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6402.91.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6402.99 -- Los demás.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Sin puntera metálica.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6402.91.06 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6402.99 -- Los demás.
 Con puntera metálica de protección. 6402.99.06 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Sandalias.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6402.99.19 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares, excepto lo contenido en la fracción arancelaria 6402.99.20 6402.99.21. Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado que tenga una banda o aplicación similar pegada o moldeada a la suela y 6402.99.21 sobrepuesta al corte. Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás para hombres, adultos y jóvenes. 6402.99.91 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás para mujeres, adultas y jóvenes.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6402.99.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, para niños y niñas. 6402.99.93 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás para infantes. 6402.99.94 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado con suela de caucho, plástico, 64.03 cuero natural o regenerado y parte superior de cuero natural. - Calzado de deporte:
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Sandalias.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6402.99.19 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares, excepto lo contenido en la fracción arancelaria 6402.99.20 6402.99.21. Par 35 Ex.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado que tenga una banda o aplicación similar pegada o moldeada a la suela y 6402.99.21 sobrepuesta al corte. Par 35 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás para hombres, adultos y jóvenes. 6402.99.91 Par 35 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás para mujeres, adultas y jóvenes.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6402.99.92 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, para niños y niñas. 6402.99.93 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás para infantes. 6402.99.94 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado con suela de caucho, plástico, 64.03 cuero natural o regenerado y parte superior de cuero natural. - Calzado de deporte:
 Calzado de esquí y calzado para la práctica 6403.12 -de "snowboard" (tabla para nieve).
 Calzado de esquí y calzado para la práctica 6403.12.01 de "snowboard" (tabla para nieve). Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 6403.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+6403.19 -- Los demás.
 Para hombres, adultos y jóvenes, excepto de construcción "Welt". 6403.19.02 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6403.19.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado con suela de cuero natural y parte 6403.20 - superior de tiras de cuero natural que pasan por el empeine y rodean el dedo gordo.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6403.19.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado con suela de cuero natural y parte 6403.20 - superior de tiras de cuero natural que pasan por el empeine y rodean el dedo gordo.
 Calzado con suela de cuero natural y parte superior de tiras de cuero natural que pasan 6403.20.01 por el empeine y rodean el dedo gordo. Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás calzados, con puntera metálica 6403.40 de protección.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás calzados, con puntera metálica 6403.40 de protección.
 Los demás calzados, con puntera metálica de protección.
-Arancel modificado con vigencia temporal DOF 15-08-2023 6403.40.91 Par 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás calzados, con suela de cuero natural: 6403.51 -- Que cubran el tobillo.
+Arancel modificado con vigencia temporal DOF 15-08-2023 6403.40.91 Par 35 Ex. (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás calzados, con suela de cuero natural: 6403.51 -- Que cubran el tobillo.
 Que cubran el tobillo. 6403.51.05 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6403.59 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6403.59 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6403.59.99 (antes Imp. 20) Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás calzados: 6403.91 -- Que cubran el tobillo.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás calzados: 6403.91 -- Que cubran el tobillo.
 Con palmilla o plataforma de madera, sin 6403.91.04 plantillas ni puntera metálica de protección. Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De construcción "Welt". 6403.91.12 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás 6403.91.13 Par 35 Ex. actividades físicas similares.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6403.91.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6403.99 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De construcción "Welt". 6403.91.12 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás 6403.91.13 Par 35 Ex. actividades físicas similares.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6403.91.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6403.99 -- Los demás.
 De construcción "Welt". 6403.99.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Con palmilla o plataforma de madera, sin 6403.99.06 plantillas ni puntera metálica de protección. Par 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Sandalias para niños, niñas o infantes. 6403.99.12 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares. 6403.99.13 Arancel modificado con vigencia temporal DOF 18-11-2022 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Sandalias, excepto lo comprendido en la fracción arancelaria 6403.99.12.
-Arancel modificado con vigencia temporal DOF 18-11-2022 6403.99.14 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás para niños, niñas o infantes. 6403.99.91 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6403.99.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado con suela de caucho, plástico, 64.04 cuero natural o regenerado y parte superior de materia textil. - Calzado con suela de caucho o plástico:
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Con palmilla o plataforma de madera, sin 6403.99.06 plantillas ni puntera metálica de protección. Par 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Sandalias para niños, niñas o infantes. 6403.99.12 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares. 6403.99.13 Arancel modificado con vigencia temporal DOF 18-11-2022 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Sandalias, excepto lo comprendido en la fracción arancelaria 6403.99.12.
+Arancel modificado con vigencia temporal DOF 18-11-2022 6403.99.14 Par 35 Ex. (antes Imp. 30) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás para niños, niñas o infantes. 6403.99.91 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6403.99.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado con suela de caucho, plástico, 64.04 cuero natural o regenerado y parte superior de materia textil. - Calzado con suela de caucho o plástico:
 Calzado de deporte; calzado de tenis, 6404.11 -- baloncesto, gimnasia, entrenamiento y calzados similares.
 De deporte para niños, niñas o infantes, excepto los que tengan una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte. 6404.11.09 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Para niños, niñas o infantes, reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades 6404.11.12 físicas similares, excepto los que tengan una Par 35 Ex. banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) De deporte, excepto lo comprendido en la fracción arancelaria 6404.11.09 y los que tengan una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta 6404.11.16 Par 35 Ex. al corte.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares, excepto lo 6404.11.17 comprendido en la fracción arancelaria Par 35 Ex. 6404.11.12 y los que tengan una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6404.11.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6404.19 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 20) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Para niños, niñas o infantes, reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades 6404.11.12 físicas similares, excepto los que tengan una Par 35 Ex. banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+De deporte, excepto lo comprendido en la fracción arancelaria 6404.11.09 y los que tengan una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta 6404.11.16 Par 35 Ex. al corte.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Reconocibles como diseñados para la práctica de tenis, baloncesto, gimnasia, entrenamiento, caminata, ejercicios y demás actividades físicas similares, excepto lo 6404.11.17 comprendido en la fracción arancelaria Par 35 Ex. 6404.11.12 y los que tengan una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 30) 6404.11.99 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 30) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 30)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6404.19 -- Los demás.
 Para mujeres, adultas y jóvenes, excepto el que tenga una banda o aplicación similar pegada o moldeada a la suela y sobrepuesta al corte y lo comprendido en la fracción arancelaria 6404.19.08. 6404.19.02 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Sandalias para mujeres, adultas y jóvenes.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6404.19.08 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6404.19.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Calzado con suela de cuero natural o 6404.20 regenerado.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Sandalias para mujeres, adultas y jóvenes.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 25) 6404.19.08 Modificación DOF 18-11-2022 derogada por DOF 15-08-2023 Par 35 Ex. (antes Imp. 20, en consecuencia se restablece Imp. 25) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6404.19.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Calzado con suela de cuero natural o 6404.20 regenerado.
 Calzado con suela de cuero natural o regenerado. 6404.20.01 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 64.05 Los demás calzados.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+64.05 Los demás calzados.
 Con la parte superior de cuero natural o 6405.10 regenerado.
 Con la parte superior de cuero natural o regenerado. 6405.10.01 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6405.20 - Con la parte superior de materia textil.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6405.20 - Con la parte superior de materia textil.
 Con la suela de madera o corcho. 6405.20.01 Par 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Con suela y parte superior de fieltro de lana. 6405.20.02 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
-Imp. 10) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6405.20.99 Par 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 6405.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Con suela y parte superior de fieltro de lana. 6405.20.02 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Par 35 Ex.
+Imp. 10)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6405.20.99 Par 35 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+6405.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 6405.90.99 Par 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Partes de calzado (incluidas las partes superiores fijadas a las palmillas distintas 64.06 de la suela); plantillas, taloneras y artículos similares, amovibles; polainas y artículos similares, y sus partes.
 Partes superiores de calzado y sus partes, 6406.10 excepto los contrafuertes y punteras duras. 6406.10.08 Partes superiores (cortes) de calzado. Par 20 Ex. 6406.10.09 Partes de cortes de calzado. Pza 20 Ex.
@@ -6474,6 +7808,7 @@ Suelas y tacones (tacos), de caucho o 6406.20 plástico. 6406.20.01 Suelas. Pza 
 Botines, polainas y artículos similares y sus 6406.90.02 Kg Ex. Ex. partes. 6406.90.99 Los demás. Kg 10 Ex. _______________
 
 ## Capítulo 65
+
 Sombreros, demás tocados, y sus partes Notas. 1. Este Capítulo no comprende:
 
 a) los sombreros y demás tocados usados de la partida 63.09;
@@ -6500,6 +7835,7 @@ Desudadores, forros, fundas, armaduras, 6507.00 viseras y barboquejos (barbijos)
 Desudadores, forros, fundas, armaduras, 6507.00.01 viseras y barboquejos (barbijos), para Kg 15 Ex. sombreros y demás tocados. _______________
 
 ## Capítulo 66
+
 Paraguas, sombrillas, quitasoles, bastones, bastones asiento, látigos, fustas, y sus partes Notas. 1. Este Capítulo no comprende:
 
 a) los bastones medida y similares (partida 90.17);
@@ -6516,6 +7852,7 @@ Partes, guarniciones y accesorios para los 66.03 artículos de las partidas 66.0
 Monturas ensambladas, incluso con el astil o 6603.20 - mango, para paraguas, sombrillas o quitasoles. 6603.20.01 Monturas ensambladas, sin puños. Kg Ex. Ex. 6603.20.99 Los demás. Kg 15 Ex. 6603.90 - Los demás. 6603.90.99 Los demás. Kg 15 Ex. _______________
 
 ## Capítulo 67
+
 Plumas y plumón preparados y artículos de plumas o plumón; flores artificiales; manufacturas de cabello Notas. 1. Este Capítulo no comprende:
 
 a) las telas filtrantes y capachos, de cabello (partida 59.11);
@@ -6549,9 +7886,11 @@ Cabello peinado, afinado, blanqueado o preparado de otra forma; lana, pelo u otr
 Pelucas, barbas, cejas, pestañas, mechones y artículos análogos, de 67.04 cabello, pelo o materia textil; manufacturas de cabello no expresadas ni comprendidas en otra parte. - De materias textiles sintéticas: 6704.11 -- Pelucas que cubran toda la cabeza. 6704.11.01 Pelucas que cubran toda la cabeza. Kg Ex. Ex. 6704.19 -- Los demás. 6704.19.99 Los demás. Kg Ex. Ex. 6704.20 - De cabello. 6704.20.01 De cabello. Kg Ex. Ex. 6704.90 - De las demás materias. 6704.90.91 De las demás materias. Kg 15 Ex. _______________
 
 ## Sección XIII — MANUFACTURAS DE PIEDRA, YESO FRAGUABLE, CEMENTO, AMIANTO (ASBESTO),
+
 MICA O MATERIAS ANÁLOGAS; PRODUCTOS CERÁMICOS; VIDRIO Y SUS MANUFACTURAS
 
 ## Capítulo 68
+
 Manufacturas de piedra, yeso fraguable, cemento, amianto (asbesto), mica o materias análogas Notas. 1. Este Capítulo no comprende:
 
 a) los artículos del Capítulo 25;
@@ -6642,6 +7981,7 @@ Filtros, caños, codos o uniones de grafito, impermeabilizados con resinas 6815.
 Que contengan magnesita, dolomita o 6815.91.02 cromita, excepto que contengan magnesia Kg Ex. Ex. en forma de periclasa y cal dolomítica. 6815.91.99 Las demás. Kg 5 Ex. 6815.99 -- Las demás. 6815.99.01 A base de óxidos, fundidos eléctricamente. Kg Ex. Ex. 6815.99.99 Las demás. Kg 5 Ex. _______________
 
 ## Capítulo 69
+
 Productos cerámicos Notas. 1. Este Capítulo solo comprende los productos cerámicos cocidos después de darles forma:
 
 a) las partidas 69.04 a 69.14 comprenden exclusivamente los productos que no puedan clasificarse en las partidas 69.01 a 69.03;
@@ -6649,6 +7989,7 @@ a) las partidas 69.04 a 69.14 comprenden exclusivamente los productos que no pue
 b) no se pueden considerar cocidos los productos que se han calentado a temperaturas inferiores a 800°C para provocar el endurecimiento de las resinas que contienen, la aceleración de las reacciones de hidratación o la eliminación de agua o de otras sustancias volátiles eventualmente presentes. Estos productos están excluidos del
 
 ## Capítulo 69 — ;
+
 c) los artículos cerámicos se obtienen cociendo materias no metálicas inorgánicas después de haberlas preparado y de darles forma previamente, normalmente a temperatura ambiente. Las materias primas utilizadas son entre otras la arcilla, materias silíceas (incluida la sílice fundida), materias con punto de fusión elevado tales como los óxidos, carburos, nitruros, grafito u otros carbonos y, en algunos casos, aglomerantes tales como arcillas refractarias y fosfatos. 2. Este Capítulo no comprende:
 
 a) los productos de la partida 28.44;
@@ -6704,15 +8045,22 @@ Artículos con una dureza equivalente a 9 o 6909.12 -superior en la escala de Mo
 Artículos con una dureza equivalente a 9 o 6909.12.01 Kg 5 Ex. superior en la escala de Mohs. 6909.19 -- Los demás. 6909.19.99 Los demás. Kg Ex. Ex. 6909.90 - Los demás. 6909.90.99 Los demás. Kg Ex. Ex.
 Fregaderos (piletas de lavar), lavabos, pedestales de lavabo, bañeras, bidés, inodoros, cisternas (depósitos de agua) 69.10 para inodoros, urinarios y aparatos fijos similares, de cerámica, para usos sanitarios. 6910.10 - De porcelana.
 De porcelana. 6910.10.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 30 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 6910.90 - Los demás.
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+6910.90 - Los demás.
 Inodoros (retretes). 6910.90.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 6910.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Vajilla y demás artículos de uso 69.11 doméstico, higiene o tocador, de porcelana. 6911.10 - Artículos para el servicio de mesa o cocina. 6911.10.01 Artículos para el servicio de mesa o cocina. Kg 15 Ex. 6911.90 - Los demás. 6911.90.99 Los demás. Kg 15 Ex.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 6910.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
+Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Vajilla y demás artículos de uso 69.11 doméstico, higiene o tocador, de porcelana. 6911.10 - Artículos para el servicio de mesa o cocina. 6911.10.01 Artículos para el servicio de mesa o cocina. Kg 15 Ex. 6911.90 - Los demás. 6911.90.99 Los demás. Kg 15 Ex.
 Vajilla y demás artículos de uso 69.12 doméstico, higiene o tocador, de cerámica, excepto porcelana.
 Vajilla y demás artículos de uso doméstico, 6912.00 higiene o tocador, de cerámica, excepto porcelana. 6912.00.03 De Talavera. Kg 15 Ex. 6912.00.99 Los demás. Kg 15 Ex.
 Estatuillas y demás artículos para 69.13 adorno, de cerámica. 6913.10 - De porcelana. 6913.10.01 De porcelana. Kg 15 Ex. 6913.90 - Los demás. 6913.90.01 De Talavera. Kg 15 Ex. 6913.90.99 Los demás. Kg 15 Ex. 69.14 Las demás manufacturas de cerámica. 6914.10 - De porcelana. 6914.10.01 De porcelana. Kg 15 Ex. 6914.90 - Las demás. 6914.90.01 De Talavera. Kg 15 Ex. 6914.90.99 Las demás. Kg 15 Ex. _______________
 
 ## Capítulo 70
+
 Vidrio y sus manufacturas Notas. 1. Este Capítulo no comprende:
 
 a) los artículos de la partida 32.07 (por ejemplo: composiciones vitrificables, frita de vidrio y demás vidrios, en polvo, gránulos, copos o escamillas);
@@ -6732,6 +8080,7 @@ g) las luminarias y los aparatos de alumbrado, los anuncios, letreros y placas i
 h) los juegos, juguetes y accesorios para árboles de Navidad, así como los demás artículos del
 
 ## Capítulo 95 — , excepto los ojos sin mecanismo para muñecas o demás artículos del Capítulo
+
 95; ij) los botones, pulverizadores, termos y demás artículos del Capítulo 96. 2. En las partidas 70.03, 70.04 y 70.05:
 
 a) el vidrio elaborado antes del recocido no se considera trabajado;
@@ -6754,42 +8103,66 @@ Kelvin, entre 0°C y 300°C. 7002.39 -- Los demás. 7002.39.99 Los demás. Kg Ex
 Vidrio colado o laminado, en placas, hojas o perfiles, incluso con capa 70.03 absorbente, reflectante o antirreflectante, pero sin trabajar de otro modo. - Placas y hojas, sin armar:
 Coloreadas en la masa, opacificadas, 7003.12 -- chapadas o con capa absorbente, reflectante o antirreflectante.
 Coloreadas en la masa, opacificadas, chapadas o con capa absorbente, reflectante o antirreflectante. 7003.12.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7003.19 -- Las demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7003.19 -- Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7003.19.02 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7003.20 - Placas y hojas, armadas.
-Placas y hojas, armadas. 7003.20.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7003.30 - Perfiles. 7003.30.01 Perfiles. Kg 15 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7003.20 - Placas y hojas, armadas.
+Placas y hojas, armadas. 7003.20.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7003.30 - Perfiles. 7003.30.01 Perfiles. Kg 15 Ex.
 Vidrio estirado o soplado, en hojas, incluso con capa absorbente, reflectante 70.04 o antirreflectante, pero sin trabajar de otro modo.
 Vidrio coloreado en la masa, opacificado, 7004.20 - chapado o con capa absorbente, reflectante o antirreflectante.
 Vidrio coloreado en la masa, opacificado, 7004.20.03 chapado o con capa absorbente, reflectante Kg 15 Ex. o antirreflectante. 7004.90 - Los demás vidrios. 7004.90.91 Los demás vidrios. Kg 15 Ex.
 Vidrio flotado y vidrio desbastado o pulido por una o las dos caras, en placas 70.05 u hojas, incluso con capa absorbente, reflectante o antirreflectante, pero sin trabajar de otro modo.
 Vidrio sin armar con capa absorbente, 7005.10 reflectante o antirreflectante.
 Vidrio sin armar con capa absorbente, reflectante o antirreflectante.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7005.10.02 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás vidrios sin armar:
+Arancel modificado con vigencia temporal DOF 15-08-2023 7005.10.02 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás vidrios sin armar:
 Coloreados en la masa, opacificados, 7005.21 -chapados o simplemente desbastados.
 Coloreados en la masa, opacificados, chapados o simplemente desbastados.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7005.21.03 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7005.29 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7005.21.03 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7005.29 -- Los demás.
 De vidrio flotado claro, con espesor inferior o igual a 1 mm y con una superficie que no exceda de 4.65 m². 7005.29.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7005.29.99 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7005.30 - Vidrio armado.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7005.30 - Vidrio armado.
 Vidrio armado. 7005.30.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Vidrio de las partidas 70.03, 70.04 o 70.05, curvado, biselado, grabado, 70.06 taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Vidrio de las partidas 70.03, 70.04 o 70.05, curvado, biselado, grabado, 70.06 taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.
 Vidrio de las partidas 70.03, 70.04 o 70.05, curvado, biselado, grabado, taladrado, 7006.00 esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras materias.
 Vidrio de las partidas 70.03, 70.04 o 70.05, curvado, biselado, grabado, taladrado, esmaltado o trabajado de otro modo, pero sin enmarcar ni combinar con otras 7006.00.04 Kg 35 Ex. materias.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Vidrio de seguridad constituido por 70.07 vidrio templado o contrachapado. - Vidrio templado:
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Vidrio de seguridad constituido por 70.07 vidrio templado o contrachapado. - Vidrio templado:
 De dimensiones y formatos que permitan su 7007.11 -- empleo en automóviles, aeronaves, barcos u otros vehículos. 7007.11.01 Reconocibles para naves aéreas. Kg Ex. Ex.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7007.11.99 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7007.19 -- Los demás.
 Los demás. 7007.19.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Vidrio contrachapado:
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Vidrio contrachapado:
 De dimensiones y formatos que permitan su 7007.21 -- empleo en automóviles, aeronaves, barcos u otros vehículos. 7007.21.03 Reconocibles para naves aéreas. Kg Ex. Ex.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7007.21.99 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7007.29 -- Los demás.
 Los demás. 7007.29.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 70.08 Vidrieras aislantes de paredes múltiples. 7008.00 Vidrieras aislantes de paredes múltiples.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+70.08 Vidrieras aislantes de paredes múltiples. 7008.00 Vidrieras aislantes de paredes múltiples.
 Vidrieras aislantes de paredes múltiples. 7008.00.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Espejos de vidrio, enmarcados o no, 70.09 incluidos los espejos retrovisores. 7009.10 - Espejos retrovisores para vehículos. 7009.10.04 Reconocibles para naves aéreas. Kg Ex. Ex. 7009.10.99 Los demás. Kg 15 Ex. - Los demás: 7009.91 -- Sin enmarcar.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Espejos de vidrio, enmarcados o no, 70.09 incluidos los espejos retrovisores. 7009.10 - Espejos retrovisores para vehículos. 7009.10.04 Reconocibles para naves aéreas. Kg Ex. Ex. 7009.10.99 Los demás. Kg 15 Ex. - Los demás: 7009.91 -- Sin enmarcar.
 Espejos semitransparentes, sin película reflejante de plata, sin montar, con espesor 7009.91.01 igual o inferior a 2 mm y con dimensiones Kg Ex. Ex. máximas de 900 mm de largo y 320 mm de ancho.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7009.91.99 Kg 10 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 20) 7009.92 -- Enmarcados. 7009.92.01 Enmarcados. Kg 15 Ex.
@@ -6798,41 +8171,66 @@ Tapones, tapas y demás dispositivos de 7010.20 cierre.
 Tapones, tapas y demás dispositivos de 7010.20.01 Kg 5 Ex. cierre. 7010.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7010.90.99 (antes Imp. 10) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Ampollas y envolturas tubulares, abiertas, y sus partes, de vidrio, sin 70.11 guarniciones, para lámparas y fuentes luminosas, eléctricas, tubos de rayos catódicos o similares. 7011.10 - Para alumbrado eléctrico. 7011.10.05 Para alumbrado eléctrico. Kg Ex. Ex. 7011.20 - Para tubos de rayos catódicos. 7011.20.05 Para tubos de rayos catódicos. Kg Ex. Ex. 7011.90 - Las demás. 7011.90.99 Las demás. Kg Ex. Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Ampollas y envolturas tubulares, abiertas, y sus partes, de vidrio, sin 70.11 guarniciones, para lámparas y fuentes luminosas, eléctricas, tubos de rayos catódicos o similares. 7011.10 - Para alumbrado eléctrico. 7011.10.05 Para alumbrado eléctrico. Kg Ex. Ex. 7011.20 - Para tubos de rayos catódicos. 7011.20.05 Para tubos de rayos catódicos. Kg Ex. Ex. 7011.90 - Las demás. 7011.90.99 Las demás. Kg Ex. Ex.
 Artículos de vidrio para servicio de mesa, cocina, tocador, baño, oficina, adorno de 70.13 interiores o usos similares (excepto los de las partidas 70.10 o 70.18). 7013.10 - Artículos de vitrocerámica.
 Artículos de vitrocerámica. 7013.10.01 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 25 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Recipientes con pie para beber, excepto los de vitrocerámica: 7013.22 -- De cristal al plomo.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Recipientes con pie para beber, excepto los de vitrocerámica: 7013.22 -- De cristal al plomo.
 De cristal al plomo.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7013.22.01 (antes Imp. 15) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7013.28 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7013.28 -- Los demás.
 Los demás. 7013.28.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (antes Imp. 30) Los demás recipientes para beber, excepto los de vitrocerámica: 7013.33 -- De cristal al plomo.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (antes Imp. 30)
+Los demás recipientes para beber, excepto los de vitrocerámica: 7013.33 -- De cristal al plomo.
 De cristal al plomo.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7013.33.01 (antes Imp. 15) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7013.37 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7013.37 -- Los demás.
 Los demás. 7013.37.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 25 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Artículos para servicio de mesa (excluidos - los recipientes para beber) o cocina, excepto los de vitrocerámica: 7013.41 -- De cristal al plomo.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Artículos para servicio de mesa (excluidos - los recipientes para beber) o cocina, excepto los de vitrocerámica: 7013.41 -- De cristal al plomo.
 De cristal al plomo.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7013.41.01 (antes Imp. 15) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) De vidrio con un coeficiente de dilatación 7013.42 -- lineal inferior o igual a 5x10-6 por Kelvin, entre 0°C y 300°C. 7013.42.01 De vidrio con un coeficiente de dilatación Kg 25 Ex. lineal inferior o igual a 5x10-6 por Kelvin, entre 0°C y 300°C.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7013.49 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+De vidrio con un coeficiente de dilatación 7013.42 -- lineal inferior o igual a 5x10-6 por Kelvin, entre 0°C y 300°C. 7013.42.01 De vidrio con un coeficiente de dilatación Kg 25 Ex. lineal inferior o igual a 5x10-6 por Kelvin, entre 0°C y 300°C.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7013.49 -- Los demás.
 Los demás. 7013.49.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 25 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) - Los demás artículos: 7013.91 -- De cristal al plomo.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+- Los demás artículos: 7013.91 -- De cristal al plomo.
 De cristal al plomo.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7013.91.01 (antes Imp. 15) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7013.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7013.99 -- Los demás.
 Los demás. 7013.99.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 36 Ex.
-Imp. 15) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Vidrio para señalización y elementos de 70.14 óptica de vidrio (excepto los de la partida 70.15), sin trabajar ópticamente.
+Imp. 15)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Vidrio para señalización y elementos de 70.14 óptica de vidrio (excepto los de la partida 70.15), sin trabajar ópticamente.
 Vidrio para señalización y elementos de 7014.00 óptica de vidrio (excepto los de la partida 70.15), sin trabajar ópticamente. 7014.00.01 Elementos de óptica común. Kg Ex. Ex.
 Elementos de vidrio para alumbrado y 7014.00.02 Kg Ex. Ex. señalización. 7014.00.03 De borosilicato, refractivos, para alumbrado. Kg Ex. Ex.
 Lentes o reflectores de borosilicato, reconocibles como diseñados exclusivamente para la fabricación de faros 7014.00.04 Kg 25 Ex. o proyectores sellados (unidades selladas) de uso automotriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7014.00.99 Los demás. Kg 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7014.00.99 Los demás. Kg 15 Ex.
 Cristales para relojes y cristales análogos, cristales para gafas (anteojos), incluso correctores, abombados, curvados, ahuecados o similares, sin 70.15 trabajar ópticamente; esferas huecas y sus segmentos (casquetes esféricos), de vidrio, para la fabricación de estos cristales. 7015.10 - Cristales correctores para gafas (anteojos). 7015.10.01 Cristales correctores para gafas (anteojos). Kg 5 Ex. 7015.90 - Los demás. 7015.90.99 Los demás. Kg Ex. Ex. 70.16 Adoquines, baldosas, ladrillos, placas, tejas y demás artículos, de vidrio prensado o moldeado, incluso armado, para la construcción; cubos, dados y demás artículos similares, de vidrio, incluso con soporte, para mosaicos o decoraciones similares; vidrieras artísticas (vitrales, incluso de vidrios incoloros); vidrio multicelular o vidrio "espuma", en bloques, paneles, placas, coquillas o formas similares.
 Cubos, dados y demás artículos similares, 7016.10 - de vidrio, incluso con soporte, para mosaicos o decoraciones similares.
 Cubos, dados y demás artículos similares, de vidrio, incluso con soporte, para 7016.10.01 Kg 25 Ex. mosaicos o decoraciones similares.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 7016.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+7016.90 - Los demás.
 Los demás. 7016.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Artículos de vidrio para laboratorio, 70.17 higiene o farmacia, incluso graduados o calibrados. 7017.10 - De cuarzo o demás sílices fundidos. 7017.10.04 Embudos, buretas y probetas. Kg 5 Ex. 7017.10.06 Retortas. Kg 5 Ex. 7017.10.07 Frascos para el cultivo de microbios. Kg 5 Ex. 7017.10.08 Juntas. Kg 5 Ex. 7017.10.09 Tubos de viscosidad; tubos desecadores. Kg 5 Ex. 7017.10.10 Agitadores. Kg 5 Ex. 7017.10.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Artículos de vidrio para laboratorio, 70.17 higiene o farmacia, incluso graduados o calibrados. 7017.10 - De cuarzo o demás sílices fundidos. 7017.10.04 Embudos, buretas y probetas. Kg 5 Ex. 7017.10.06 Retortas. Kg 5 Ex. 7017.10.07 Frascos para el cultivo de microbios. Kg 5 Ex. 7017.10.08 Juntas. Kg 5 Ex. 7017.10.09 Tubos de viscosidad; tubos desecadores. Kg 5 Ex. 7017.10.10 Agitadores. Kg 5 Ex. 7017.10.99 Los demás. Kg Ex. Ex.
 De otro vidrio con un coeficiente de 7017.20 - dilatación lineal inferior o igual a 5x10-6 por Kelvin, entre 0°C y 300°C.
 Goteros y matraces, pipetas, vasos de 7017.20.01 Kg Ex. Ex. precipitados y vasos graduados. 7017.20.03 Cápsulas y refrigerantes. Kg Ex. Ex. 7017.20.99 Los demás. Kg 5 Ex. 7017.90 - Los demás.
 Desecadores, tapas o tiras para el cultivo de 7017.90.03 Kg 5 Ex. microbios. 7017.90.04 Tubos de viscosidad; tubos desecadores. Kg 5 Ex. 7017.90.99 Los demás. Kg Ex. Ex.
@@ -6860,9 +8258,11 @@ De ligamento tafetán, con peso inferior a 7019.66.01 250 g/m², de filamentos d
 De anchura superior a 30 cm, de ligamento tafetán, con peso inferior a 250 g/m², de 7019.90.01 Kg 5 Ex. filamentos de título inferior o igual a 136 tex por hilo sencillo, sin recubrir. 7019.90.99 Las demás. Kg Ex. Ex. 70.20 Las demás manufacturas de vidrio. 7020.00 Las demás manufacturas de vidrio. 7020.00.91 Las demás manufacturas de vidrio. Kg Ex. Ex. _______________
 
 ## Sección XIV — PERLAS NATURALES (FINAS) O CULTIVADAS, PIEDRAS PRECIOSAS O
+
 SEMIPRECIOSAS, METALES PRECIOSOS, CHAPADOS DE METAL PRECIOSO (PLAQUÉ) Y MANUFACTURAS DE ESTAS MATERIAS; BISUTERÍA; MONEDAS
 
 ## Capítulo 71
+
 Perlas naturales (finas) o cultivadas, piedras preciosas o semipreciosas, metales preciosos, chapados de metal precioso (plaqué) y manufacturas de estas materias; bisutería; monedas Notas. 1. Sin perjuicio de la aplicación de la Nota 1 A) de la Sección VI y de las excepciones previstas a continuación, se incluye en este Capítulo cualquier artículo compuesto total o parcialmente:
 
 a) de perlas naturales (finas) o cultivadas, de piedras preciosas o semipreciosas (naturales, sintéticas o reconstituidas); o
@@ -6976,6 +8376,7 @@ Monedas sin curso legal, excepto las de oro.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7118.10.01 Pza 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7118.90 - Las demás. 7118.90.99 Las demás. Pza Ex. Ex. _______________
 
 ## Sección XV — METALES COMUNES Y MANUFACTURAS DE ESTOS METALES
+
 Notas. 1. Esta Sección no comprende:
 
 a) los colores y tintas preparados a base de polvo o escamillas metálicos, así como las hojas para el marcado a fuego (partidas 32.07 a 32.10, 32.12, 32.13 o 32.15);
@@ -7032,6 +8433,7 @@ a) Barras los productos laminados, extrudidos, estirados o forjados, sin enrolla
 Sin embargo, las barras para alambrón (“wire-bars”) y los tochos, del Capítulo 74, apuntados o simplemente trabajados de otro modo en sus extremos, para facilitar su introducción en las máquinas para transformarlos, por ejemplo, en alambrón o en tubos, se consideran cobre en bruto de la partida 74.03. Esta disposición se aplica mutatis mutandis a los productos del
 
 ## Capítulo 81 — .
+
 b) Perfiles los productos laminados, extrudidos, estirados, forjados u obtenidos por conformado o plegado, enrollados o sin enrollar, de sección transversal constante en toda su longitud, que no cumplan las definiciones de barras, alambre, chapas, hojas, tiras o tubos. También se consideran perfiles, los productos de las mismas formas, moldeados, colados o sinterizados, que han recibido, después de su obtención, un trabajo superior a un desbarbado grosero, siempre que este trabajo no confiera a los productos el carácter de artículos o manufacturas comprendidos en otra parte.
 
 c) Alambre el producto laminado, extrudido o trefilado, enrollado, cuya sección transversal maciza y constante en toda su longitud, tenga forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo (incluidos los círculos aplanados y los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos). Los productos de sección transversal cuadrada, rectangular, triangular o poligonal, pueden tener las aristas redondeadas en toda su longitud.
@@ -7044,6 +8446,7 @@ e) Tubos los productos con un solo hueco cerrado, de sección transversal consta
 También se consideran tubos, los productos de sección transversal en forma de cuadrado, rectángulo, triángulo equilátero o polígono regular convexo, que tengan las aristas redondeadas en toda su longitud, siempre que las secciones transversales interior y exterior tengan la misma forma, la misma disposición y el mismo centro. Los tubos que tengan las secciones transversales citadas anteriormente pueden estar pulidos, revestidos, curvados, roscados, taladrados, estrechados o abocardados, tener forma cónica o estar provistos de bridas, collarines o anillos. _______________
 
 ## Capítulo 72
+
 Fundición, hierro y acero Notas. 1. En este Capítulo y, respecto a los apartados d), e) y f) de esta Nota, en toda la Nomenclatura, se consideran:
 
 a) Fundición en bruto las aleaciones hierro-carbono que no se presten prácticamente a la deformación plástica, con un contenido de carbono superior al 2% en peso, incluso con otro u otros elementos en las proporciones en peso siguientes: - inferior o igual al 10% de cromo - inferior o igual al 6% de manganeso - inferior o igual al 3% de fósforo - inferior o igual al 8% de silicio - inferior o igual al 10%, en total, de los demás elementos.
@@ -7095,11 +8498,13 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 SUBCAPÍTULO I PRODUCTOS BÁSICOS; GRANALLAS Y POLVO Fundición en bruto y fundición 72.01 especular, en lingotes, bloques o demás formas primarias.
 Fundición en bruto sin alear con un 7201.10 - contenido de fósforo inferior o igual al 0.5% en peso.
 Fundición en bruto sin alear con un contenido de fósforo inferior o igual al 7201.10.01 Kg 35 Ex. 0.5% en peso.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Fundición en bruto sin alear con un 7201.20 - contenido de fósforo superior al 0.5% en peso.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Fundición en bruto sin alear con un 7201.20 - contenido de fósforo superior al 0.5% en peso.
 Fundición en bruto sin alear con un 7201.20.01 contenido de fósforo superior al 0.5% en Kg Ex. Ex. peso.
 Fundición en bruto aleada; fundición 7201.50 especular.
 Fundición en bruto aleada; fundición 7201.50.02 especular. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.02 Ferroaleaciones. - Ferromanganeso:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.02 Ferroaleaciones. - Ferromanganeso:
 Con un contenido de carbono superior al 7202.11 -2% en peso.
 Con un contenido de carbono superior al 2% en peso. 7202.11.01 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 7202.19 -- Los demás.
@@ -7108,44 +8513,60 @@ Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) - Ferro
 Con un contenido de silicio superior al 7202.21 -55% en peso.
 Con un contenido de silicio superior al 7202.21.02 Kg Ex. Ex. 55% en peso. 7202.29 -- Los demás.
 Los demás. 7202.29.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7202.30 - Ferro-sílico-manganeso.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7202.30 - Ferro-sílico-manganeso.
 Ferro-sílico-manganeso. 7202.30.01 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) - Ferrocromo:
 Con un contenido de carbono superior al 7202.41 -4% en peso.
 Con un contenido de carbono superior al 7202.41.01 Kg Ex. Ex. 4% en peso. 7202.49 -- Los demás. 7202.49.99 Los demás. Kg Ex. Ex. 7202.50 - Ferro-sílico-cromo. 7202.50.01 Ferro-sílico-cromo. Kg Ex. Ex. 7202.60 - Ferroníquel. 7202.60.01 Ferroníquel. Kg Ex. Ex. 7202.70 - Ferromolibdeno.
 Ferromolibdeno. 7202.70.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7202.80 - Ferrovolframio y ferro-sílico-volframio. 7202.80.01 Ferrovolframio y ferro-sílico-volframio. Kg Ex. Ex. - Las demás: 7202.91 -- Ferrotitanio y ferro-sílico-titanio. 7202.91.04 Ferrotitanio y ferro-sílico-titanio. Kg Ex. Ex. 7202.92 -- Ferrovanadio.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7202.80 - Ferrovolframio y ferro-sílico-volframio. 7202.80.01 Ferrovolframio y ferro-sílico-volframio. Kg Ex. Ex. - Las demás: 7202.91 -- Ferrotitanio y ferro-sílico-titanio. 7202.91.04 Ferrotitanio y ferro-sílico-titanio. Kg Ex. Ex. 7202.92 -- Ferrovanadio.
 Ferrovanadio. 7202.92.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7202.93 -- Ferroniobio. 7202.93.01 Ferroniobio. Kg Ex. Ex. 7202.99 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7202.93 -- Ferroniobio. 7202.93.01 Ferroniobio. Kg Ex. Ex. 7202.99 -- Las demás.
 Las demás. 7202.99.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Productos férreos obtenidos por reducción directa de minerales de hierro y demás productos férreos esponjosos, en trozos, "pellets" o 72.03 formas similares; hierro con una pureza superior o igual al 99.94% en peso, en trozos, "pellets" o formas similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Productos férreos obtenidos por reducción directa de minerales de hierro y demás productos férreos esponjosos, en trozos, "pellets" o 72.03 formas similares; hierro con una pureza superior o igual al 99.94% en peso, en trozos, "pellets" o formas similares.
 Productos férreos obtenidos por 7203.10 reducción directa de minerales de hierro.
 Productos férreos obtenidos por 7203.10.01 reducción directa de minerales de hierro. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7203.90 - Los demás. 7203.90.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7203.90 - Los demás. 7203.90.99 Los demás. Kg Ex. Ex.
 Desperdicios y desechos (chatarra), 72.04 de fundición, hierro o acero; lingotes de chatarra de hierro o acero. 7204.10 - Desperdicios y desechos, de fundición.
 Desperdicios y desechos, de fundición. 7204.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Desperdicios y desechos, de aceros aleados: 7204.21 -- De acero inoxidable. 7204.21.01 De acero inoxidable. Kg Ex. Ex. 7204.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Desperdicios y desechos, de aceros aleados: 7204.21 -- De acero inoxidable. 7204.21.01 De acero inoxidable. Kg Ex. Ex. 7204.29 -- Los demás.
 Los demás. 7204.29.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Desperdicios y desechos, de hierro o 7204.30 acero estañados.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Desperdicios y desechos, de hierro o 7204.30 acero estañados.
 Desperdicios y desechos, de hierro o 7204.30.01 acero estañados. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Los demás desperdicios y desechos:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Los demás desperdicios y desechos:
 Torneaduras, virutas, esquirlas, limaduras (de amolado, aserrado, 7204.41 -limado) y recortes de estampado o de corte, incluso en paquetes.
 Torneaduras, virutas, esquirlas, limaduras (de amolado, aserrado, limado) 7204.41.01 y recortes de estampado o de corte, Kg 35 Ex. incluso en paquetes.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7204.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7204.49 -- Los demás.
 Los demás. 7204.49.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7204.50 - Lingotes de chatarra.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7204.50 - Lingotes de chatarra.
 Lingotes de chatarra. 7204.50.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Granallas y polvo, de fundición en 72.05 bruto, de fundición especular, de hierro o acero. 7205.10 - Granallas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Granallas y polvo, de fundición en 72.05 bruto, de fundición especular, de hierro o acero. 7205.10 - Granallas.
 Granallas. 7205.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Polvo: 7205.21 -- De aceros aleados.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Polvo: 7205.21 -- De aceros aleados.
 De aceros aleados. 7205.21.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7205.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7205.29 -- Los demás.
 Los demás. 7205.29.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) SUBCAPÍTULO II HIERRO Y ACERO SIN ALEAR Hierro y acero sin alear, en lingotes o 72.06 demás formas primarias, excepto el hierro de la partida 72.03. 7206.10 - Lingotes.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+SUBCAPÍTULO II HIERRO Y ACERO SIN ALEAR Hierro y acero sin alear, en lingotes o 72.06 demás formas primarias, excepto el hierro de la partida 72.03. 7206.10 - Lingotes.
 Lingotes. 7206.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7206.90 - Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7206.90 - Las demás.
 Las demás. 7206.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Productos intermedios de hierro o 72.07 acero sin alear.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Productos intermedios de hierro o 72.07 acero sin alear.
 Con un contenido de carbono inferior al 0.25% en peso:
 De sección transversal cuadrada o 7207.11 -- rectangular, cuya anchura sea inferior al doble del espesor.
 De sección transversal cuadrada o 7207.11.01 rectangular, cuya anchura sea inferior al Kg Ex. Ex. doble del espesor.
@@ -7157,347 +8578,589 @@ Productos laminados planos de hierro o acero sin alear, de anchura superior 72.0
 Enrollados, simplemente laminados en 7208.10 caliente, con motivos en relieve.
 Enrollados, simplemente laminados en caliente, con motivos en relieve.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.10.03 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, enrollados, simplemente laminados en caliente, decapados: 7208.25 -- De espesor superior o igual a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, enrollados, simplemente laminados en caliente, decapados: 7208.25 -- De espesor superior o igual a 4.75 mm.
 De espesor superior o igual a 4.75 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.25.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 3 mm pero 7208.26 -inferior a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.25.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 3 mm pero 7208.26 -inferior a 4.75 mm.
 De espesor superior o igual a 3 mm pero 7208.26.01 inferior a 4.75 mm. Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7208.27 -- De espesor inferior a 3 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7208.27 -- De espesor inferior a 3 mm.
 De espesor inferior a 3 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.27.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, enrollados, simplemente laminados en caliente: 7208.36 -- De espesor superior a 10 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.27.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, enrollados, simplemente laminados en caliente: 7208.36 -- De espesor superior a 10 mm.
 De espesor superior a 10 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.36.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 4.75 mm 7208.37 -pero inferior o igual a 10 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.36.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 4.75 mm 7208.37 -pero inferior o igual a 10 mm.
 De espesor superior o igual a 4.75 mm pero inferior o igual a 10 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.37.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 3 mm pero 7208.38 -inferior a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 3 mm pero 7208.38 -inferior a 4.75 mm.
 De espesor superior o igual a 3 mm pero inferior a 4.75 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.38.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7208.39 -- De espesor inferior a 3 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7208.39 -- De espesor inferior a 3 mm.
 De espesor inferior a 3 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.39.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Sin enrollar, simplemente laminados en 7208.40 caliente, con motivos en relieve.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.39.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Sin enrollar, simplemente laminados en 7208.40 caliente, con motivos en relieve.
 Sin enrollar, simplemente laminados en caliente, con motivos en relieve.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7208.40.02 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, sin enrollar, simplemente laminados en caliente: 7208.51 -- De espesor superior a 10 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7208.40.02 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, sin enrollar, simplemente laminados en caliente: 7208.51 -- De espesor superior a 10 mm.
 De espesor superior a 10 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.51.04 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 4.75 mm 7208.52 -pero inferior o igual a 10 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.51.04 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 4.75 mm 7208.52 -pero inferior o igual a 10 mm.
 De espesor superior o igual a 4.75 mm pero inferior o igual a 10 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.52.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 3 mm pero 7208.53 -inferior a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 3 mm pero 7208.53 -inferior a 4.75 mm.
 De espesor superior o igual a 3 mm pero inferior a 4.75 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.53.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7208.54 -- De espesor inferior a 3 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7208.54 -- De espesor inferior a 3 mm.
 De espesor inferior a 3 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.54.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7208.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.54.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7208.90 - Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de hierro o acero sin alear, de anchura superior 72.09 o igual a 600 mm, laminados en frío, sin chapar ni revestir.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7208.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de hierro o acero sin alear, de anchura superior 72.09 o igual a 600 mm, laminados en frío, sin chapar ni revestir.
 Enrollados, simplemente laminados en frío: 7209.15 -- De espesor superior o igual a 3 mm.
 De espesor superior o igual a 3 mm. 7209.15.04 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior a 1 mm pero inferior 7209.16 -a 3 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior a 1 mm pero inferior 7209.16 -a 3 mm.
 De espesor superior a 1 mm pero inferior a 3 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.16.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 0.5 mm 7209.17 -pero inferior o igual a 1 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 0.5 mm 7209.17 -pero inferior o igual a 1 mm.
 De espesor superior o igual a 0.5 mm pero inferior o igual a 1 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.17.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7209.18 -- De espesor inferior a 0.5 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7209.18 -- De espesor inferior a 0.5 mm.
 De espesor inferior a 0.5 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.18.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Sin enrollar, simplemente laminados en frío: 7209.25 -- De espesor superior o igual a 3 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.18.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Sin enrollar, simplemente laminados en frío: 7209.25 -- De espesor superior o igual a 3 mm.
 De espesor superior o igual a 3 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.25.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior a 1 mm pero inferior 7209.26 -a 3 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.25.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior a 1 mm pero inferior 7209.26 -a 3 mm.
 De espesor superior a 1 mm pero inferior a 3 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.26.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De espesor superior o igual a 0.5 mm 7209.27 -pero inferior o igual a 1 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De espesor superior o igual a 0.5 mm 7209.27 -pero inferior o igual a 1 mm.
 De espesor superior o igual a 0.5 mm pero inferior o igual a 1 mm. 7209.27.01 Kg 50 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7209.28 -- De espesor inferior a 0.5 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7209.28 -- De espesor inferior a 0.5 mm.
 De espesor inferior a 0.5 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.28.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7209.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.28.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7209.90 - Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de hierro o acero sin alear, de anchura superior 72.10 o igual a 600 mm, chapados o revestidos. - Estañados: 7210.11 -- De espesor superior o igual a 0.5 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7209.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de hierro o acero sin alear, de anchura superior 72.10 o igual a 600 mm, chapados o revestidos. - Estañados: 7210.11 -- De espesor superior o igual a 0.5 mm.
 De espesor superior o igual a 0.5 mm. 7210.11.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7210.12 -- De espesor inferior a 0.5 mm. 7210.12.04 De espesor inferior a 0.5 mm. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7210.12 -- De espesor inferior a 0.5 mm. 7210.12.04 De espesor inferior a 0.5 mm. Kg Ex. Ex.
 Emplomados, incluidos los revestidos 7210.20 con una aleación de plomo y estaño.
 Emplomados, incluidos los revestidos 7210.20.01 con una aleación de plomo y estaño. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7210.30 - Cincados electrolíticamente.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7210.30 - Cincados electrolíticamente.
 Cincados electrolíticamente.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7210.30.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) - Cincados de otro modo: 7210.41 -- Ondulados.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7210.30.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+- Cincados de otro modo: 7210.41 -- Ondulados.
 Láminas cincadas por las dos caras.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 3) 7210.41.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7210.41.99 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7210.49 -- Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 3) 7210.41.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7210.49.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Revestidos de óxidos de cromo o de 7210.50 cromo y óxidos de cromo.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7210.41.99 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7210.49 -- Los demás.
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7210.49.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Revestidos de óxidos de cromo o de 7210.50 cromo y óxidos de cromo.
 Revestidos de óxidos de cromo o de 7210.50.03 Kg Ex. Ex. cromo y óxidos de cromo. - Revestidos de aluminio:
 Revestidos de aleaciones de aluminio y 7210.61 -cinc.
 Revestidos de aleaciones de aluminio y cinc.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7210.61.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7210.69 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7210.69 -- Los demás.
 Los demás. 7210.69.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Pintados, barnizados o revestidos de 7210.70 plástico.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Pintados, barnizados o revestidos de 7210.70 plástico.
 Pintados, barnizados o revestidos de plástico.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal y acotación “Únicamente cuando se utilicen para la elaboración de envases para bebidas y alimentos” 7210.70.02 Kg Ex. Ex.
 DOF 06-01-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Arancel modificado con vigencia temporal y acotación “Únicamente cuando se utilicen para la elaboración de envases para bebidas y alimentos” DOF 31-12-2024 (antes Imp. 25) 7210.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7210.90.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de hierro 72.11 o acero sin alear, de anchura inferior a 600 mm, sin chapar ni revestir. - Simplemente laminados en caliente:
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de hierro 72.11 o acero sin alear, de anchura inferior a 600 mm, sin chapar ni revestir. - Simplemente laminados en caliente:
 Laminados en las cuatro caras o en 7211.13 -acanaladuras cerradas, de anchura superior a 150 mm y espesor superior o igual a 4 mm, sin enrollar y sin motivos en relieve.
 Laminados en las cuatro caras o en acanaladuras cerradas, de anchura superior a 150 mm y espesor superior o igual a 4 mm, sin enrollar y sin motivos en relieve. 7211.13.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, de espesor superior o igual 7211.14 -a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, de espesor superior o igual 7211.14 -a 4.75 mm.
 Los demás, de espesor superior o igual a 4.75 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.14.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7211.19 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7211.19 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) - Simplemente laminados en frío:
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+- Simplemente laminados en frío:
 Con un contenido de carbono inferior al 7211.23 -0.25% en peso.
 Con un contenido de carbono inferior al 0.25% en peso.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.23.03 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7211.29 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7211.29 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7211.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7211.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7211.90.99 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de hierro 72.12 o acero sin alear, de anchura inferior a 600 mm, chapados o revestidos. 7212.10 - Estañados.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de hierro 72.12 o acero sin alear, de anchura inferior a 600 mm, chapados o revestidos. 7212.10 - Estañados.
 Estañados. 7212.10.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7212.20 - Cincados electrolíticamente.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7212.20 - Cincados electrolíticamente.
 Cincados electrolíticamente.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7212.20.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7212.30 - Cincados de otro modo.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7212.20.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7212.30 - Cincados de otro modo.
 Cincados de otro modo.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7212.30.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Pintados, barnizados o revestidos de 7212.40 plástico.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7212.30.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Pintados, barnizados o revestidos de 7212.40 plástico.
 Pintados, barnizados o revestidos de plástico.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal y acotación “Únicamente cuando se utilicen para la elaboración de envases 7212.40.04 para bebidas y alimentos” DOF 06-01-2023 (antes Imp. 15) Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Arancel modificado con vigencia temporal y acotación “Únicamente cuando se utilicen para la elaboración de envases para bebidas y alimentos” DOF 31-12-2024 (antes Imp. 25) 7212.50 - Revestidos de otro modo.
 Revestidos de otro modo.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7212.50.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7212.60 - Chapados.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7212.60 - Chapados.
 Chapados. 7212.60.04 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.13 Alambrón de hierro o acero sin alear.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.13 Alambrón de hierro o acero sin alear.
 Con muescas, cordones, surcos o 7213.10 relieves, producidos en el laminado.
 Con muescas, cordones, surcos o relieves, producidos en el laminado.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7213.10.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, de acero de fácil 7213.20 mecanización.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7213.10.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, de acero de fácil 7213.20 mecanización.
 Los demás, de acero de fácil mecanización.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7213.20.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) - Los demás:
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+- Los demás:
 De sección circular con diámetro inferior 7213.91 -a 14 mm.
 De sección circular con diámetro inferior a 14 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7213.91.03 Kg 50 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 50) 7213.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 50)
+7213.99 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7213.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 50 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 50) Barras de hierro o acero sin alear, simplemente forjadas, laminadas o 72.14 extrudidas, en caliente, así como las sometidas a torsión después del laminado. 7214.10 - Forjadas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7213.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 50 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 50)
+Barras de hierro o acero sin alear, simplemente forjadas, laminadas o 72.14 extrudidas, en caliente, así como las sometidas a torsión después del laminado. 7214.10 - Forjadas.
 Forjadas. 7214.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Con muescas, cordones, surcos o relieves, producidos en el laminado o 7214.20 sometidas a torsión después del laminado.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Con muescas, cordones, surcos o relieves, producidos en el laminado o 7214.20 sometidas a torsión después del laminado.
 Varillas corrugadas o barras para armadura, para cemento u hormigón.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.20.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7214.20.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás, de acero de fácil 7214.30 mecanización.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás, de acero de fácil 7214.30 mecanización.
 Las demás, de acero de fácil mecanización.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.30.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) - Las demás: 7214.91 -- De sección transversal rectangular.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+- Las demás: 7214.91 -- De sección transversal rectangular.
 De sección transversal rectangular.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.91.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7214.99 -- Las demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.91.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7214.99 -- Las demás.
 Las demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Las demás barras de hierro o acero 72.15 sin alear.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7214.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Las demás barras de hierro o acero 72.15 sin alear.
 De acero de fácil mecanización, 7215.10 - simplemente obtenidas o acabadas en frío.
 De acero de fácil mecanización, simplemente obtenidas o acabadas en frío. 7215.10.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Las demás, simplemente obtenidas o 7215.50 acabadas en frío.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Las demás, simplemente obtenidas o 7215.50 acabadas en frío.
 Las demás, simplemente obtenidas o acabadas en frío. 7215.50.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7215.90 - Las demás.
-Las demás. 7215.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 72.16 Perfiles de hierro o acero sin alear.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7215.90 - Las demás.
+Las demás. 7215.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+72.16 Perfiles de hierro o acero sin alear.
 Perfiles en U, en I o en H, simplemente 7216.10 - laminados o extrudidos en caliente, de altura inferior a 80 mm.
 Perfiles en U, en I o en H, simplemente laminados o extrudidos en caliente, de altura inferior a 80 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7216.10.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Perfiles en L o en T, simplemente - laminados o extrudidos en caliente, de altura inferior a 80 mm: 7216.21 -- Perfiles en L.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7216.10.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Perfiles en L o en T, simplemente - laminados o extrudidos en caliente, de altura inferior a 80 mm: 7216.21 -- Perfiles en L.
 Perfiles en L.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.21.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7216.22 -- Perfiles en T.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.21.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7216.22 -- Perfiles en T.
 Perfiles en T.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.22.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Perfiles en U, en I o en H, simplemente - laminados o extrudidos en caliente, de altura superior o igual a 80 mm: 7216.31 -- Perfiles en U.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.22.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Perfiles en U, en I o en H, simplemente - laminados o extrudidos en caliente, de altura superior o igual a 80 mm: 7216.31 -- Perfiles en U.
 Perfiles en U.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.31.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7216.32 -- Perfiles en I.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.31.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7216.32 -- Perfiles en I.
 Cuyo patín (ancho de las secciones paralelas) sea superior a 270 mm y su 7216.32.04 Kg Ex. Ex. peso sea superior a 190 kg por metro lineal.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.32.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7216.33 -- Perfiles en H.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.32.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7216.33 -- Perfiles en H.
 Perfiles en H, excepto lo comprendido en la fracción arancelaria 7216.33.02.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7216.33.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Cuyo patín (ancho de las secciones 7216.33.02 Kg Ex. Ex. paralelas) sea superior a 300 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7216.33.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Cuyo patín (ancho de las secciones 7216.33.02 Kg Ex. Ex. paralelas) sea superior a 300 mm.
 Perfiles en L o en T, simplemente 7216.40 - laminados o extrudidos en caliente, de altura superior o igual a 80 mm.
 Perfiles en L o en T, simplemente laminados o extrudidos en caliente, de altura superior o igual a 80 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7216.40.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás perfiles, simplemente 7216.50 laminados o extrudidos en caliente.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7216.40.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás perfiles, simplemente 7216.50 laminados o extrudidos en caliente.
 Perfiles en forma de Z, cuyo espesor no 7216.50.01 Kg Ex. Ex. exceda de 23 cm.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.50.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Perfiles simplemente obtenidos o acabados en frío:
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.50.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Perfiles simplemente obtenidos o acabados en frío:
 Obtenidos a partir de productos 7216.61 -laminados planos.
 Perfiles en forma de H, I, L, T, U y Z, cuyo espesor no exceda a 23 cm, excepto lo comprendido en la fracción 7216.61.01 arancelaria 7216.61.02. Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) En forma de U e I, cuyo espesor sea superior o igual a 13 cm, sin exceder de 20 cm. 7216.61.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.61.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7216.69 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
 Los demás.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7216.69.99 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás:
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7216.61.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7216.69 -- Los demás.
+Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7216.69.99 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás:
 Obtenidos o acabados en frío, a partir de 7216.91 -productos laminados planos.
 Obtenidos o acabados en frío, a partir de productos laminados planos.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7216.91.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7216.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7216.91.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7216.99 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7216.99.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 72.17 Alambre de hierro o acero sin alear. 7217.10 - Sin revestir, incluso pulido.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+72.17 Alambre de hierro o acero sin alear. 7217.10 - Sin revestir, incluso pulido.
 Sin revestir, incluso pulido.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7217.10.02 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7217.20 - Cincado.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7217.20 - Cincado.
 Cincado.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7217.20.02 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7217.30 - Revestido de otro metal común.
-Revestido de otro metal común. 7217.30.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7217.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7217.30 - Revestido de otro metal común.
+Revestido de otro metal común. 7217.30.02 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7217.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7217.90.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) SUBCAPÍTULO III ACERO INOXIDABLE Acero inoxidable en lingotes o demás 72.18 formas primarias; productos intermedios de acero inoxidable. 7218.10 - Lingotes o demás formas primarias.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+SUBCAPÍTULO III ACERO INOXIDABLE Acero inoxidable en lingotes o demás 72.18 formas primarias; productos intermedios de acero inoxidable. 7218.10 - Lingotes o demás formas primarias.
 Lingotes o demás formas primarias. 7218.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Los demás: 7218.91 -- De sección transversal rectangular.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Los demás: 7218.91 -- De sección transversal rectangular.
 De sección transversal rectangular. 7218.91.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7218.99 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7218.99 -- Los demás.
 Los demás. 7218.99.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Productos laminados planos de acero 72.19 inoxidable, de anchura superior o igual a 600 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Productos laminados planos de acero 72.19 inoxidable, de anchura superior o igual a 600 mm.
 Simplemente laminados en caliente, enrollados: 7219.11 -- De espesor superior a 10 mm.
 De espesor superior a 10 mm. 7219.11.01 Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De espesor superior o igual a 4.75 mm 7219.12 -pero inferior o igual a 10 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De espesor superior o igual a 4.75 mm 7219.12 -pero inferior o igual a 10 mm.
 De espesor superior o igual a 4.75 mm 7219.12.02 pero inferior o igual a 10 mm. Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De espesor superior o igual a 3 mm pero 7219.13 -inferior a 4.75 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De espesor superior o igual a 3 mm pero 7219.13 -inferior a 4.75 mm.
 De espesor superior o igual a 3 mm pero 7219.13.01 inferior a 4.75 mm. Kg 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7219.14 -- De espesor inferior a 3 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7219.14 -- De espesor inferior a 3 mm.
 De espesor inferior a 3 mm. 7219.14.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Simplemente laminados en caliente, sin enrollar: 7219.21 -- De espesor superior a 10 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Simplemente laminados en caliente, sin enrollar: 7219.21 -- De espesor superior a 10 mm.
 De espesor superior a 10 mm. 7219.21.01 Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De espesor superior o igual a 4.75 mm 7219.22 -pero inferior o igual a 10 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De espesor superior o igual a 4.75 mm 7219.22 -pero inferior o igual a 10 mm.
 De espesor superior o igual a 4.75 mm 7219.22.01 pero inferior o igual a 10 mm. Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De espesor superior o igual a 3 mm pero 7219.23 -inferior a 4.75 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De espesor superior o igual a 3 mm pero 7219.23 -inferior a 4.75 mm.
 De espesor superior o igual a 3 mm pero 7219.23.01 inferior a 4.75 mm. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7219.24 -- De espesor inferior a 3 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7219.24 -- De espesor inferior a 3 mm.
 De espesor inferior a 3 mm. 7219.24.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Simplemente laminados en frío: 7219.31 -- De espesor superior o igual a 4.75 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Simplemente laminados en frío: 7219.31 -- De espesor superior o igual a 4.75 mm.
 De espesor superior o igual a 4.75 mm. 7219.31.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) De espesor superior o igual a 3 mm pero 7219.32 -inferior a 4.75 mm.
-De espesor superior o igual a 3 mm pero inferior a 4.75 mm. 7219.32.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 25 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) De espesor superior a 1 mm pero inferior 7219.33 -a 3 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+De espesor superior o igual a 3 mm pero 7219.32 -inferior a 4.75 mm.
+De espesor superior o igual a 3 mm pero inferior a 4.75 mm. 7219.32.02 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 25 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+De espesor superior a 1 mm pero inferior 7219.33 -a 3 mm.
 De espesor superior a 1 mm pero inferior a 3 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7219.33.01 Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) De espesor superior o igual a 0.5 mm 7219.34 -pero inferior o igual a 1 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+De espesor superior o igual a 0.5 mm 7219.34 -pero inferior o igual a 1 mm.
 De espesor superior o igual a 0.5 mm pero inferior o igual a 1 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7219.34.01 Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7219.35 -- De espesor inferior a 0.5 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7219.35 -- De espesor inferior a 0.5 mm.
 De espesor inferior a 0.5 mm.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7219.35.02 (antes Imp. Ex.) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7219.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7219.90 - Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7219.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de acero 72.20 inoxidable, de anchura inferior a 600 mm. - Simplemente laminados en caliente: 7220.11 -- De espesor superior o igual a 4.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7219.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de acero 72.20 inoxidable, de anchura inferior a 600 mm. - Simplemente laminados en caliente: 7220.11 -- De espesor superior o igual a 4.75 mm.
 De espesor superior o igual a 4.75 mm. 7220.11.01 Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7220.12 -- De espesor inferior a 4.75 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7220.12 -- De espesor inferior a 4.75 mm.
 De espesor inferior a 4.75 mm. 7220.12.01 Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7220.20 - Simplemente laminados en frío.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7220.20 - Simplemente laminados en frío.
 Simplemente laminados en frío.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7220.20.03 (antes Imp. Ex.) Kg 20 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 20) Fracción reformada DOF 29-12-2025 (mantiene Imp. 20.) 7220.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 20)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 20.)
+7220.90 - Los demás.
 Los demás. 7220.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.21 Alambrón de acero inoxidable. 7221.00 Alambrón de acero inoxidable.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.21 Alambrón de acero inoxidable. 7221.00 Alambrón de acero inoxidable.
 Alambrón de acero inoxidable. 7221.00.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.22 Barras y perfiles, de acero inoxidable.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.22 Barras y perfiles, de acero inoxidable.
 Barras simplemente laminadas o extrudidas en caliente: 7222.11 -- De sección circular.
 De sección circular. 7222.11.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7222.19 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7222.19 -- Las demás.
 Las demás. 7222.19.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Barras simplemente obtenidas o 7222.20 acabadas en frío.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Barras simplemente obtenidas o 7222.20 acabadas en frío.
 Barras simplemente obtenidas o 7222.20.01 acabadas en frío. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7222.30 - Las demás barras.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7222.30 - Las demás barras.
 Las demás barras. 7222.30.91 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7222.40 - Perfiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7222.40 - Perfiles.
 Perfiles. 7222.40.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.23 Alambre de acero inoxidable. 7223.00 Alambre de acero inoxidable.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.23 Alambre de acero inoxidable. 7223.00 Alambre de acero inoxidable.
 Alambre de acero inoxidable. 7223.00.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) SUBCAPÍTULO IV LOS DEMÁS ACEROS ALEADOS;
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+SUBCAPÍTULO IV LOS DEMÁS ACEROS ALEADOS;
 BARRAS HUECAS PARA PERFORACIÓN, DE ACERO ALEADO O SIN ALEAR Los demás aceros aleados en lingotes o demás formas primarias; productos 72.24 intermedios de los demás aceros aleados. 7224.10 - Lingotes o demás formas primarias.
 Lingotes o demás formas primarias. 7224.10.06 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7224.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7224.90 - Los demás.
 Productos intermedios, con un contenido de carbono inferior o igual a 0.006% en 7224.90.02 Kg Ex. Ex. peso, excepto de acero grado herramienta. 7224.90.99 Los demás. Kg Ex. Ex.
 Productos laminados planos de los 72.25 demás aceros aleados, de anchura superior o igual a 600 mm.
 De acero al silicio llamado "magnético" (acero magnético al silicio): 7225.11 -- De grano orientado. 7225.11.01 De grano orientado. Kg Ex. Ex. 7225.19 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, simplemente laminados en 7225.30 caliente, enrollados.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, simplemente laminados en 7225.30 caliente, enrollados.
 Los demás, simplemente laminados en caliente, enrollados.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.30.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, simplemente laminados en 7225.40 caliente, sin enrollar.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, simplemente laminados en 7225.40 caliente, sin enrollar.
 Los demás, simplemente laminados en caliente, sin enrollar.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.40.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, simplemente laminados en 7225.50 frío.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, simplemente laminados en 7225.50 frío.
 Los demás, simplemente laminados en frío.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.50.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) - Los demás: 7225.91 -- Cincados electrolíticamente.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+- Los demás: 7225.91 -- Cincados electrolíticamente.
 Cincados electrolíticamente.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.91.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7225.92 -- Cincados de otro modo.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.91.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7225.92 -- Cincados de otro modo.
 Cincados de otro modo.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.92.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7225.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7225.99 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Productos laminados planos de los 72.26 demás aceros aleados, de anchura inferior a 600 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7225.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Productos laminados planos de los 72.26 demás aceros aleados, de anchura inferior a 600 mm.
 De acero al silicio llamado "magnético" (acero magnético al silicio): 7226.11 -- De grano orientado.
 De grano orientado. 7226.11.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7226.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7226.19 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7226.20 - De acero rápido.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7226.20 - De acero rápido.
 De acero rápido. 7226.20.01 Kg Ex. Ex.
-Fracción reformada DOF 29-12-2025 (mantiene Imp. Ex.) - Los demás: 7226.91 -- Simplemente laminados en caliente.
+Fracción reformada DOF 29-12-2025 (mantiene Imp. Ex.)
+- Los demás: 7226.91 -- Simplemente laminados en caliente.
 Simplemente laminados en caliente.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.91.07 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7226.92 -- Simplemente laminados en frío.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.91.07 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7226.92 -- Simplemente laminados en frío.
 Simplemente laminados en frío.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.92.06 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7226.99 -- Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.92.06 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7226.99 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Alambrón de los demás aceros 72.27 aleados. 7227.10 - De acero rápido.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7226.99.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Alambrón de los demás aceros 72.27 aleados. 7227.10 - De acero rápido.
 De acero rápido.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.10.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7227.20 - De acero silicomanganeso.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.10.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7227.20 - De acero silicomanganeso.
 De acero silicomanganeso.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.20.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7227.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.20.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7227.90 - Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Barras y perfiles, de los demás aceros aleados; barras huecas para 72.28 perforación, de aceros aleados o sin alear. 7228.10 - Barras de acero rápido.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7227.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Barras y perfiles, de los demás aceros aleados; barras huecas para 72.28 perforación, de aceros aleados o sin alear. 7228.10 - Barras de acero rápido.
 Barras de acero rápido. 7228.10.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7228.20 - Barras de acero silicomanganeso.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7228.20 - Barras de acero silicomanganeso.
 Barras de acero silicomanganeso. 7228.20.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás barras, simplemente 7228.30 laminadas o extrudidas en caliente.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás barras, simplemente 7228.30 laminadas o extrudidas en caliente.
 En aceros grado herramienta. 7228.30.01 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Las demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7228.30.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7228.40 - Las demás barras, simplemente forjadas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7228.30.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7228.40 - Las demás barras, simplemente forjadas.
 Las demás barras, simplemente forjadas. 7228.40.91 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás barras, simplemente 7228.50 obtenidas o acabadas en frío.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás barras, simplemente 7228.50 obtenidas o acabadas en frío.
 Las demás barras, simplemente obtenidas o acabadas en frío. 7228.50.91 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7228.60 - Las demás barras. 7228.60.91 Las demás barras. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7228.70 - Perfiles.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7228.60 - Las demás barras. 7228.60.91 Las demás barras. Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7228.70 - Perfiles.
 Perfiles.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7228.70.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7228.80 - Barras huecas para perforación.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7228.70.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7228.80 - Barras huecas para perforación.
 Barras huecas para perforación. 7228.80.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 72.29 Alambre de los demás aceros aleados. 7229.20 - De acero silicomanganeso.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+72.29 Alambre de los demás aceros aleados. 7229.20 - De acero silicomanganeso.
 De acero silicomanganeso.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7229.20.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7229.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7229.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7229.90.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) _______________
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+_______________
 
 ## Capítulo 73
+
 Manufacturas de fundición, hierro o acero Notas. 1. En este Capítulo, se entiende por fundición el producto obtenido por moldeo que no responda a la composición química del acero definido en la Nota 1 d) del Capítulo 72, en el que el hierro predomine en peso sobre cada uno de los demás elementos. 2. En este Capítulo, el término alambre se refiere a los productos obtenidos en caliente o en frío cuya sección transversal, cualquiera que fuese su forma, sea inferior o igual a 16 mm en su mayor dimensión.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Tablestacas de hierro o acero, incluso perforadas o hechas con 73.01 elementos ensamblados; perfiles de hierro o acero obtenidos por soldadura. 7301.10 - Tablestacas.
 Tablestacas. 7301.10.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7301.20 - Perfiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7301.20 - Perfiles.
 Perfiles. 7301.20.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Elementos para vías férreas, de fundición, hierro o acero: carriles (rieles), contracarriles (contrarrieles) y cremalleras, agujas, puntas de corazón, varillas para mando de agujas y otros elementos para cruce o cambio de vías, traviesas 73.02 (durmientes), bridas, cojinetes, cuñas, placas de asiento, placas de unión, placas y tirantes de separación y demás piezas diseñadas especialmente para la colocación, unión o fijación de carriles (rieles). 7302.10 - Carriles (rieles).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Elementos para vías férreas, de fundición, hierro o acero: carriles (rieles), contracarriles (contrarrieles) y cremalleras, agujas, puntas de corazón, varillas para mando de agujas y otros elementos para cruce o cambio de vías, traviesas 73.02 (durmientes), bridas, cojinetes, cuñas, placas de asiento, placas de unión, placas y tirantes de separación y demás piezas diseñadas especialmente para la colocación, unión o fijación de carriles (rieles). 7302.10 - Carriles (rieles).
 Carriles (rieles). 7302.10.02 Kg 20 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Agujas, puntas de corazón, varillas para 7302.30 - mando de agujas y otros elementos para cruce o cambio de vías.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Agujas, puntas de corazón, varillas para 7302.30 - mando de agujas y otros elementos para cruce o cambio de vías.
 Agujas, puntas de corazón, varillas para 7302.30.01 mando de agujas y otros elementos Kg Ex. Ex. para cruce o cambio de vías. 7302.40 - Bridas y placas de asiento.
 Bridas y placas de asiento. 7302.40.02 Kg Ex. Ex.
-Fracción reformada DOF 29-12-2025 (mantiene Imp. Ex.) 7302.90 - Los demás. 7302.90.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (mantiene Imp. Ex.)
+7302.90 - Los demás. 7302.90.99 Los demás. Kg Ex. Ex.
 Tubos y perfiles huecos, de 73.03 fundición. 7303.00 Tubos y perfiles huecos, de fundición.
 Tubos y perfiles huecos, de fundición. 7303.00.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Tubos y perfiles huecos, sin costura 73.04 (sin soldadura), de hierro o acero.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Tubos y perfiles huecos, sin costura 73.04 (sin soldadura), de hierro o acero.
 Tubos de los tipos utilizados en oleoductos o gasoductos: 7304.11 -- De acero inoxidable.
 Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de 7304.11.01 Kg 35 Ex. diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 4 mm sin exceder de 19.5 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Tubos laminados en caliente, sin 7304.11.02 Kg 35 Ex. recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de pared superior o igual a 6.35 mm sin exceder de 38.1 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 406.4 mm y 7304.11.03 Kg 35 Ex. espesor de pared superior o igual a 9.52 mm sin exceder de 31.75 mm.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos laminados en frío, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en frío barnizados o laqueados: de 7304.11.04 Kg 35 Ex. diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 7304.11.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7304.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Tubos laminados en caliente, sin 7304.11.02 Kg 35 Ex. recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de pared superior o igual a 6.35 mm sin exceder de 38.1 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 406.4 mm y 7304.11.03 Kg 35 Ex. espesor de pared superior o igual a 9.52 mm sin exceder de 31.75 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos laminados en frío, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en frío barnizados o laqueados: de 7304.11.04 Kg 35 Ex. diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 7304.11.99 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7304.19 -- Los demás.
 Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual 7304.19.01 Kg 35 Ex. a 4 mm sin exceder de 19.5 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.19.02 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 406.4 mm y 7304.19.03 espesor de pared superior o igual a 9.52 Kg 35 Ex. mm sin exceder de 31.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.19.02 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos laminados en caliente, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en caliente barnizados o laqueados: de diámetro exterior superior a 406.4 mm y 7304.19.03 espesor de pared superior o igual a 9.52 Kg 35 Ex. mm sin exceder de 31.75 mm.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Tubos laminados en frío, sin recubrimiento u otros trabajos de superficie, incluidos los tubos laminados en frío barnizados o laqueados: de 7304.19.04 diámetro exterior inferior o igual a 114.3 Kg 35 Ex. mm y espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos semiterminados o esbozos para uso exclusivo de empresas fabricantes 7304.19.05 de tubería estirada en frío. Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7304.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Tubos de entubación ("casing") o de producción ("tubing") y tubos de perforación, de los tipos utilizados para la extracción de petróleo o gas:
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos semiterminados o esbozos para uso exclusivo de empresas fabricantes 7304.19.05 de tubería estirada en frío. Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7304.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Tubos de entubación ("casing") o de producción ("tubing") y tubos de perforación, de los tipos utilizados para la extracción de petróleo o gas:
 Tubos de perforación de acero 7304.22 -inoxidable.
 Tubos de perforación de acero inoxidable. 7304.22.04 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 25 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) 7304.23 -- Los demás tubos de perforación.
 Tubos de perforación (“Drill pipe”), laminados en caliente, con diámetro exterior superior o igual a 60.3 mm sin exceder de 168.3 mm, con extremos 7304.23.04 roscados. Kg 25 Ex.
@@ -7505,198 +9168,376 @@ Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 7304.24 -- Los demás, de acero inoxidable.
 Los demás, de acero inoxidable.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7304.24.91 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7304.29 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7304.29 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7304.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, de sección circular, de hierro o acero sin alear: 7304.31 -- Estirados o laminados en frío.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7304.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, de sección circular, de hierro o acero sin alear: 7304.31 -- Estirados o laminados en frío.
 Tubos llamados "mecánicos" o "estructurales", sin recubrimientos u otros trabajos de superficie, de diámetro exterior inferior o igual a 114.3 mm y 7304.31.01 Kg 25 Ex. espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Tubos llamados "térmicos" o de "conducción", sin recubrimientos u otros trabajos de superficie, de diámetro exterior inferior o igual a 114.3 mm y 7304.31.10 Kg 25 Ex. espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Los demás. 7304.31.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7304.39 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Tubos llamados "térmicos" o de "conducción", sin recubrimientos u otros trabajos de superficie, de diámetro exterior inferior o igual a 114.3 mm y 7304.31.10 Kg 25 Ex. espesor de pared superior o igual a 1.27 mm sin exceder de 9.5 mm.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Los demás. 7304.31.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 25 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7304.39 -- Los demás.
 Tubos llamados "mecánicos" o "estructurales", laminados en caliente, sin recubrimiento o trabajos de superficie, incluidos los tubos llamados "mecánicos" o "estructurales" laminados 7304.39.01 en caliente, laqueados o barnizados: de Kg 35 Ex. diámetro exterior inferior o igual a 114.3 mm, y espesor de pared superior o igual a 4 mm sin exceder de 19.5 mm.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos llamados "mecánicos" o 7304.39.02 "estructurales", laminados en caliente, Kg 35 Ex. sin recubrimiento u otros trabajos de superficie, incluidos los tubos llamados "mecánicos" o "estructurales", laminados en caliente, laqueados o barnizados: de diámetro exterior superior a 114.3 mm sin exceder de 355.6 mm y espesor de pared superior o igual a 6.35 mm sin exceder de 38.1 mm.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos llamados "mecánicos" o 7304.39.02 "estructurales", laminados en caliente, Kg 35 Ex. sin recubrimiento u otros trabajos de superficie, incluidos los tubos llamados "mecánicos" o "estructurales", laminados en caliente, laqueados o barnizados: de diámetro exterior superior a 114.3 mm sin exceder de 355.6 mm y espesor de pared superior o igual a 6.35 mm sin exceder de 38.1 mm.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Barras huecas laminadas en caliente, con diámetro exterior superior a 30 mm sin exceder de 50 mm, así como las de 7304.39.03 Kg 35 Ex. diámetro exterior superior a 300 mm.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Barras huecas laminadas en caliente, de diámetro exterior superior a 50 mm 7304.39.04 Kg 35 Ex. sin exceder de 300 mm.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Barras huecas laminadas en caliente, de diámetro exterior superior a 50 mm 7304.39.04 Kg 35 Ex. sin exceder de 300 mm.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Tubos aletados o con birlos. 7304.39.08 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Tubos semiterminados o esbozos, sin recubrimiento u otros trabajos de superficie, de diámetro exterior superior o igual a 20 mm sin exceder de 460 mm y espesor de pared superior o igual a 2.8 mm sin exceder de 35.4 mm, con 7304.39.09 Kg 35 Ex. extremos lisos, biselados, recalcados y/o con rosca y cople.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 4 7304.39.10 Kg 35 Ex. mm, sin exceder 19.5 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o 7304.39.11 sin trabajos de superficie, de diámetro Kg 35 Ex. exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 4 mm, sin exceder 19.5 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.39.12 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.39.13 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 406.4 mm y espesor de pared superior o igual a 9.52 mm sin 7304.39.14 Kg 35 Ex. exceder de 31.75 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 406.4 mm y espesor 7304.39.15 Kg 35 Ex. de pared superior o igual a 9.52 mm sin exceder de 31.75 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Diseñados para su uso en calderas, sobrecalentadores, intercambiadores de calor, condensadores, hornos de refinación, calentadores de agua u otros similares, excepto lo comprendido en las fracciones arancelarias 7304.39.10, 7304.39.16 Kg 35 Ex. 7304.39.12 y 7304.39.14.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás de diámetro exterior superior o igual a 38.1 mm, pero inferior o igual a 406.4 mm, con un espesor de pared superior a 12.7 mm. 7304.39.91 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás de diámetro exterior superior o igual a 38.1 mm, pero inferior o igual a 114.3 mm, con un espesor de pared superior a 6.4 mm pero inferior o igual a 12.7 mm. 7304.39.92 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7304.39.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, de sección circular, de acero inoxidable: 7304.41 -- Estirados o laminados en frío. 7304.41.03 Estirados o laminados en frío. Kg Ex. Ex. 7304.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Tubos semiterminados o esbozos, sin recubrimiento u otros trabajos de superficie, de diámetro exterior superior o igual a 20 mm sin exceder de 460 mm y espesor de pared superior o igual a 2.8 mm sin exceder de 35.4 mm, con 7304.39.09 Kg 35 Ex. extremos lisos, biselados, recalcados y/o con rosca y cople.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 4 7304.39.10 Kg 35 Ex. mm, sin exceder 19.5 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o 7304.39.11 sin trabajos de superficie, de diámetro Kg 35 Ex. exterior inferior o igual a 114.3 mm y espesor de pared superior o igual a 4 mm, sin exceder 19.5 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.39.12 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 114.3 mm sin exceder de 406.4 mm y espesor de 7304.39.13 pared superior o igual a 6.35 mm sin Kg 35 Ex. exceder de 38.1 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos llamados "térmicos", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 406.4 mm y espesor de pared superior o igual a 9.52 mm sin 7304.39.14 Kg 35 Ex. exceder de 31.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Tubos llamados de "conducción", sin recubrimientos distintos de los obtenidos por laqueado y barnizado o sin trabajos de superficie, de diámetro exterior superior a 406.4 mm y espesor 7304.39.15 Kg 35 Ex. de pared superior o igual a 9.52 mm sin exceder de 31.75 mm.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Diseñados para su uso en calderas, sobrecalentadores, intercambiadores de calor, condensadores, hornos de refinación, calentadores de agua u otros similares, excepto lo comprendido en las fracciones arancelarias 7304.39.10, 7304.39.16 Kg 35 Ex. 7304.39.12 y 7304.39.14.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás de diámetro exterior superior o igual a 38.1 mm, pero inferior o igual a 406.4 mm, con un espesor de pared superior a 12.7 mm. 7304.39.91 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás de diámetro exterior superior o igual a 38.1 mm, pero inferior o igual a 114.3 mm, con un espesor de pared superior a 6.4 mm pero inferior o igual a 12.7 mm. 7304.39.92 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7304.39.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, de sección circular, de acero inoxidable: 7304.41 -- Estirados o laminados en frío. 7304.41.03 Estirados o laminados en frío. Kg Ex. Ex. 7304.49 -- Los demás.
 Los demás. 7304.49.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás, de sección circular, de los demás aceros aleados: 7304.51 -- Estirados o laminados en frío.
-Estirados o laminados en frío. 7304.51.12 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7304.59 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás, de sección circular, de los demás aceros aleados: 7304.51 -- Estirados o laminados en frío.
+Estirados o laminados en frío. 7304.51.12 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7304.59 -- Los demás.
 Tubos aletados o con birlos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7304.59.09 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás. 7304.59.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7304.90 - Los demás.
-Los demás. 7304.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás tubos (por ejemplo: soldados o remachados) de sección 73.05 circular con diámetro exterior superior a 406.4 mm, de hierro o acero.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás. 7304.59.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7304.90 - Los demás.
+Los demás. 7304.90.99 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás tubos (por ejemplo: soldados o remachados) de sección 73.05 circular con diámetro exterior superior a 406.4 mm, de hierro o acero.
 Tubos de los tipos utilizados en oleoductos o gasoductos:
 Soldados longitudinalmente con arco 7305.11 -sumergido.
 Soldados longitudinalmente con arco sumergido.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.11.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7305.12 -- Los demás, soldados longitudinalmente.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7305.12 -- Los demás, soldados longitudinalmente.
 Los demás, soldados longitudinalmente.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.12.91 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7305.19 -- Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.12.91 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7305.19 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Tubos de entubación ("casing") de los 7305.20 - tipos utilizados para la extracción de petróleo o gas.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Tubos de entubación ("casing") de los 7305.20 - tipos utilizados para la extracción de petróleo o gas.
 Con espesor de pared inferior a 50.8 mm.
-Arancel modificado con vigencia temporal DOF 18-11-2022 7305.20.01 Kg 35 Ex. (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 7305.20.01 Kg 35 Ex. (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7305.20.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Los demás, soldados: 7305.31 -- Soldados longitudinalmente.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Los demás, soldados: 7305.31 -- Soldados longitudinalmente.
 Galvanizados.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7305.31.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De acero inoxidable con diámetro 7305.31.02 exterior superior a 1,220 mm. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Tubos aletados o con birlos.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De acero inoxidable con diámetro 7305.31.02 exterior superior a 1,220 mm. Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Tubos aletados o con birlos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7305.31.03 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Con paredes ranuradas de cualquier tipo o forma, aun cuando se presenten con recubrimientos anticorrosivos. 7305.31.04 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Con espesor de pared superior a 50.8 mm.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7305.31.05 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Conducciones forzadas de acero, incluso con zunchos, del tipo utilizado en instalaciones hidroeléctricas. 7305.31.06 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás de acero inoxidable.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.31.91 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.31.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7305.39 -- Los demás. 7305.39.01 Galvanizados. Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De acero inoxidable con diámetro 7305.39.02 exterior superior a 1,220 mm. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Tubos aletados o con birlos.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Con paredes ranuradas de cualquier tipo o forma, aun cuando se presenten con recubrimientos anticorrosivos. 7305.31.04 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Con espesor de pared superior a 50.8 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7305.31.05 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Conducciones forzadas de acero, incluso con zunchos, del tipo utilizado en instalaciones hidroeléctricas. 7305.31.06 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás de acero inoxidable.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.31.91 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.31.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7305.39 -- Los demás. 7305.39.01 Galvanizados. Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De acero inoxidable con diámetro 7305.39.02 exterior superior a 1,220 mm. Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Tubos aletados o con birlos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7305.39.03 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Con espesor de pared superior a 50.8 mm.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7305.39.04 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Conducciones forzadas de acero, incluso con zunchos, del tipo utilizado en instalaciones hidroeléctricas. 7305.39.05 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Con espesor de pared superior a 50.8 mm.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7305.39.04 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Conducciones forzadas de acero, incluso con zunchos, del tipo utilizado en instalaciones hidroeléctricas. 7305.39.05 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7305.39.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) 7305.90 - Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7305.90.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás tubos y perfiles huecos (por ejemplo: soldados, remachados, 73.06 grapados o con los bordes simplemente aproximados), de hierro o acero.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás tubos y perfiles huecos (por ejemplo: soldados, remachados, 73.06 grapados o con los bordes simplemente aproximados), de hierro o acero.
 Tubos de los tipos utilizados en oleoductos o gasoductos: 7306.11 -- Soldados, de acero inoxidable.
 Soldados, de acero inoxidable. 7306.11.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7306.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7306.19 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Tubos de entubación ("casing") o de producción ("tubing"), de los tipos utilizados para la extracción de petróleo o gas: 7306.21 -- Soldados, de acero inoxidable.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.19.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Tubos de entubación ("casing") o de producción ("tubing"), de los tipos utilizados para la extracción de petróleo o gas: 7306.21 -- Soldados, de acero inoxidable.
 Soldados, de acero inoxidable. 7306.21.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7306.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7306.29 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, soldados, de sección 7306.30 circular, de hierro o acero sin alear.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.29.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, soldados, de sección 7306.30 circular, de hierro o acero sin alear.
 Tubo de acero, al bajo carbono, galvanizado por inmersión, con diámetro exterior superior o igual a 3.92 mm pero inferior o igual a 4.08 mm, y espesor de pared superior o igual a 0.51 7306.30.02 mm pero inferior o igual a 0.77 mm. Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Galvanizados, con un espesor de pared inferior a 1.65 mm, excepto lo comprendido en la fracción arancelaria 7306.30.02. 7306.30.03 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Galvanizados, con un espesor de pared superior o igual a 1.65 mm, excepto lo comprendido en la fracción arancelaria 7306.30.02. 7306.30.04 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.30.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás, soldados, de sección 7306.40 circular, de acero inoxidable. 7306.40.01 Tubos de diámetro superior o igual a Kg 35 Ex. 0.20 mm pero inferior a 1.5 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.40.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, soldados, de sección 7306.50 circular, de los demás aceros aleados.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Galvanizados, con un espesor de pared inferior a 1.65 mm, excepto lo comprendido en la fracción arancelaria 7306.30.02. 7306.30.03 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Galvanizados, con un espesor de pared superior o igual a 1.65 mm, excepto lo comprendido en la fracción arancelaria 7306.30.02. 7306.30.04 Arancel modificado con vigencia temporal DOF 18-11-2022 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) 7306.30.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás, soldados, de sección 7306.40 circular, de acero inoxidable. 7306.40.01 Tubos de diámetro superior o igual a Kg 35 Ex. 0.20 mm pero inferior a 1.5 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.40.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, soldados, de sección 7306.50 circular, de los demás aceros aleados.
 De hierro o acero, cobrizados, de doble pared soldados por fusión (proceso 7306.50.01 “brazing”) con o sin recubrimiento Kg 35 Ex. anticorrosivo.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.50.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás, soldados, excepto los de sección circular: 7306.61 -- De sección cuadrada o rectangular.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.50.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás, soldados, excepto los de sección circular: 7306.61 -- De sección cuadrada o rectangular.
 De sección cuadrada o rectangular.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.61.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7306.69 -- Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.61.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7306.69 -- Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.69.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7306.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.69.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7306.90 - Los demás.
 Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Accesorios de tubería (por ejemplo: empalmes (racores), codos, 73.07 manguitos), de fundición, hierro o acero. - Moldeados: 7307.11 -- De fundición no maleable. 7307.11.02 De fundición no maleable. Kg Ex. Ex. 7307.19 -- Los demás. 7307.19.99 Los demás. Kg Ex. Ex. - Los demás, de acero inoxidable: 7307.21 -- Bridas. 7307.21.01 Bridas. Kg Ex. Ex. 7307.22 -- Codos, curvas y manguitos, roscados.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7306.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Accesorios de tubería (por ejemplo: empalmes (racores), codos, 73.07 manguitos), de fundición, hierro o acero. - Moldeados: 7307.11 -- De fundición no maleable. 7307.11.02 De fundición no maleable. Kg Ex. Ex. 7307.19 -- Los demás. 7307.19.99 Los demás. Kg Ex. Ex. - Los demás, de acero inoxidable: 7307.21 -- Bridas. 7307.21.01 Bridas. Kg Ex. Ex. 7307.22 -- Codos, curvas y manguitos, roscados.
 Codos, curvas y manguitos, roscados.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7307.22.02 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7307.23 -- Accesorios para soldar a tope.
 Mangas o sillas sin rosca. 7307.23.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. Ex.) 7307.23.99 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7307.29 -- Los demás. 7307.29.99 Los demás. Kg Ex. Ex. - Los demás: 7307.91 -- Bridas. 7307.91.01 Bridas. Kg Ex. Ex. 7307.92 -- Codos, curvas y manguitos, roscados. 7307.92.02 Codos, curvas y manguitos, roscados. Kg Ex. Ex. 7307.93 -- Accesorios para soldar a tope.
-Accesorios para soldar a tope. 7307.93.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7307.99 -- Los demás. 7307.99.99 Los demás. Kg Ex. Ex.
+Accesorios para soldar a tope. 7307.93.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7307.99 -- Los demás. 7307.99.99 Los demás. Kg Ex. Ex.
 Construcciones y sus partes (por ejemplo: puentes y sus partes, compuertas de esclusas, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas y sus marcos, contramarcos y umbrales, 73.08 cortinas de cierre, barandillas), de fundición, hierro o acero, excepto las construcciones prefabricadas de la partida 94.06; chapas, barras, perfiles, tubos y similares, de fundición, hierro o acero, preparados para la construcción. 7308.10 - Puentes y sus partes.
 Puentes y sus partes. 7308.10.01 Kg 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7308.20 - Torres y castilletes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7308.20 - Torres y castilletes.
 Torres y castilletes. 7308.20.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Puertas y ventanas y sus marcos, 7308.30 contramarcos y umbrales.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Puertas y ventanas y sus marcos, 7308.30 contramarcos y umbrales.
 Puertas y ventanas y sus marcos, contramarcos y umbrales.
 Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 7) 7308.30.02 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Material de andamiaje, encofrado, apeo 7308.40 o apuntalamiento.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Material de andamiaje, encofrado, apeo 7308.40 o apuntalamiento.
 Material de andamiaje, encofrado, apeo 7308.40.01 o apuntalamiento. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7308.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7308.90 - Los demás.
 Barandales; balcones; escaleras. 7308.90.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 7) Estructuras desarmadas consistentes en armaduras, columnas y sus placas de asiento, ménsulas, planchas de unión, tensores y tirantes, aun cuando se presenten con tuercas y demás 7308.90.02 Kg 35 Ex. partes para la construcción.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 7) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
-Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 7) 7308.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, 73.09 de capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
+Fracción reformada DOF 29-12-2025 (antes Imp. 7)
+Estructuras desarmadas consistentes en armaduras, columnas y sus placas de asiento, ménsulas, planchas de unión, tensores y tirantes, aun cuando se presenten con tuercas y demás 7308.90.02 Kg 35 Ex. partes para la construcción.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 7) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
+Arancel modificado con vigencia temporal DOF 18-11-2022 (antes Imp. 7) 7308.90.99 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, 73.09 de capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
 Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de 7309.00 capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
 Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de fundición, hierro o acero, de 7309.00.04 Kg Ex. Ex. capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
 Depósitos, barriles, tambores, bidones, latas o botes, cajas y recipientes similares, para cualquier materia (excepto gas comprimido o 73.10 licuado), de fundición, hierro o acero, de capacidad inferior o igual a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo. 7310.10 - De capacidad superior o igual a 50 l. 7310.10.05 De capacidad superior o igual a 50 l. Pza Ex. Ex. - De capacidad inferior a 50 l:
 Latas o botes para ser cerrados por 7310.21 -soldadura o rebordeado.
 Latas o botes para ser cerrados por soldadura o rebordeado.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7310.21.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7310.29 -- Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7310.21.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7310.29 -- Los demás.
 Barriles o tambores, excepto lo comprendido en la fracción arancelaria 7310.29.01 Kg 35 Ex. 7310.29.05.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Barriles de acero inoxidable reconocibles como diseñados 7310.29.05 Pza 35 Ex. exclusivamente para cerveza.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Barriles de acero inoxidable reconocibles como diseñados 7310.29.05 Pza 35 Ex. exclusivamente para cerveza.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) 7310.29.99 Kg Ex. Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Arancel modificado con vigencia temporal DOF 31-12-2024 (antes Imp. 35) Recipientes para gas comprimido o 73.11 licuado, de fundición, hierro o acero.
 Recipientes para gas comprimido o 7311.00 licuado, de fundición, hierro o acero.
 Recipientes para gas comprimido o 7311.00.05 Kg Ex. Ex. licuado, de fundición, hierro o acero. 73.12 Cables, trenzas, eslingas y artículos similares, de hierro o acero, sin aislar para electricidad. 7312.10 - Cables.
 Galvanizados, con diámetro mayor de 4 mm, constituidos por más de 5 alambres y con núcleos sin torcer de la misma materia, excepto los comprendidos en la fracción arancelaria 7312.10.01 Kg 35 Ex. 7312.10.07.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) De acero sin recubrimiento, con o sin lubricación, excepto los comprendidos en la fracción arancelaria 7312.10.08. 7312.10.05 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Galvanizados, con un diámetro mayor a 4 mm pero inferior a 19 mm, constituidos por 7 alambres, lubricados o sin lubricar. 7312.10.07 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Sin galvanizar, de diámetro menor o igual a 19 mm, constituidos por 7 alambres. 7312.10.08 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Los demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+De acero sin recubrimiento, con o sin lubricación, excepto los comprendidos en la fracción arancelaria 7312.10.08. 7312.10.05 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Galvanizados, con un diámetro mayor a 4 mm pero inferior a 19 mm, constituidos por 7 alambres, lubricados o sin lubricar. 7312.10.07 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Sin galvanizar, de diámetro menor o igual a 19 mm, constituidos por 7 alambres. 7312.10.08 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7312.10.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7312.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7312.90 - Los demás.
 Los demás. 7312.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Alambre de púas, de hierro o acero; alambre (simple o doble) y fleje, 73.13 torcidos, incluso con púas, de hierro o acero, de los tipos utilizados para cercar.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Alambre de púas, de hierro o acero; alambre (simple o doble) y fleje, 73.13 torcidos, incluso con púas, de hierro o acero, de los tipos utilizados para cercar.
 Alambre de púas, de hierro o acero; alambre (simple o doble) y fleje, 7313.00 torcidos, incluso con púas, de hierro o acero, de los tipos utilizados para cercar. 7313.00.01 Alambre de púas, de hierro o acero; Kg 35 Ex. alambre (simple o doble) y fleje, torcidos, incluso con púas, de hierro o acero, de los tipos utilizados para cercar.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 7) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Telas metálicas (incluidas las continuas o sin fin), redes y rejas, de 73.14 alambre de hierro o acero; chapas y tiras, extendidas (desplegadas), de hierro o acero. - Telas metálicas tejidas:
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 7) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Telas metálicas (incluidas las continuas o sin fin), redes y rejas, de 73.14 alambre de hierro o acero; chapas y tiras, extendidas (desplegadas), de hierro o acero. - Telas metálicas tejidas:
 Telas metálicas continuas o sin fin, de 7314.12 -acero inoxidable, para máquinas.
 Telas metálicas continuas o sin fin, de 7314.12.01 acero inoxidable, para máquinas. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás telas metálicas tejidas, de 7314.14 -acero inoxidable.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás telas metálicas tejidas, de 7314.14 -acero inoxidable.
 Las demás telas metálicas tejidas, de 7314.14.91 acero inoxidable. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7314.19 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7314.19 -- Las demás.
 Cincadas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.19.03 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.19.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Redes y rejas, soldadas en los puntos de cruce, de alambre cuya mayor 7314.20 - dimensión de la sección transversal sea superior o igual a 3 mm y con malla de superficie superior o igual a 100 cm².
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Redes y rejas, soldadas en los puntos de cruce, de alambre cuya mayor 7314.20 - dimensión de la sección transversal sea superior o igual a 3 mm y con malla de superficie superior o igual a 100 cm².
 Redes y rejas, soldadas en los puntos de cruce, de alambre cuya mayor dimensión de la sección transversal sea superior o igual a 3 mm y con malla de 7314.20.01 Kg 35 Ex. superficie superior o igual a 100 cm².
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás redes y rejas, soldadas en los puntos de cruce: 7314.31 -- Cincadas. 7314.31.01 Cincadas. Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) 7314.39 -- Las demás.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás redes y rejas, soldadas en los puntos de cruce: 7314.31 -- Cincadas. 7314.31.01 Cincadas. Kg 25 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+7314.39 -- Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.39.99 (antes Imp. Ex.) Kg 25 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Las demás telas metálicas, redes y rejas: 7314.41 -- Cincadas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Las demás telas metálicas, redes y rejas: 7314.41 -- Cincadas.
 Cincadas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.41.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7314.42 -- Revestidas de plástico.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7314.42 -- Revestidas de plástico.
 Revestidas de plástico.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.42.01 (antes Imp. 5) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7314.49 -- Las demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7314.49 -- Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7314.49.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Chapas y tiras, extendidas 7314.50 (desplegadas).
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Chapas y tiras, extendidas 7314.50 (desplegadas).
 Chapas y tiras, extendidas (desplegadas).
-Arancel modificado con vigencia temporal DOF 15-08-2023 7314.50.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Cadenas y sus partes, de fundición, 73.15 hierro o acero.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7314.50.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Cadenas y sus partes, de fundición, 73.15 hierro o acero.
 Cadenas de eslabones articulados y sus partes: 7315.11 -- Cadenas de rodillos. 7315.11.06 Cadenas de rodillos. Kg Ex. Ex. 7315.12 -- Las demás cadenas.
 Las demás cadenas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7315.12.91 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7315.19 -- Partes. 7315.19.04 Partes. Kg Ex. Ex. 7315.20 - Cadenas antideslizantes.
 Cadenas antideslizantes. 7315.20.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Las demás cadenas:
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Las demás cadenas:
 Cadenas de eslabones con contrete 7315.81 -(travesaño).
 Cadenas de eslabones con contrete (travesaño).
-Arancel modificado con vigencia temporal DOF 15-08-2023 7315.81.03 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Las demás cadenas, de eslabones 7315.82 -soldados.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7315.81.03 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Las demás cadenas, de eslabones 7315.82 -soldados.
 Las demás cadenas, de eslabones soldados. 7315.82.91 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7315.89 -- Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7315.89.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7315.90 - Las demás partes.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7315.90 - Las demás partes.
 Las demás partes.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7315.90.91 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Anclas, rezones y sus partes, de 73.16 fundición, hierro o acero.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Anclas, rezones y sus partes, de 73.16 fundición, hierro o acero.
 Anclas, rezones y sus partes, de 7316.00 fundición, hierro o acero.
 Anclas, rezones y sus partes, de 7316.00.01 fundición, hierro o acero. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Puntas, clavos, chinchetas (chinches), grapas apuntadas, onduladas o biseladas, y artículos 73.17 similares, de fundición, hierro o acero, incluso con cabeza de otras materias, excepto de cabeza de cobre.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Puntas, clavos, chinchetas (chinches), grapas apuntadas, onduladas o biseladas, y artículos 73.17 similares, de fundición, hierro o acero, incluso con cabeza de otras materias, excepto de cabeza de cobre.
 Puntas, clavos, chinchetas (chinches), grapas apuntadas, onduladas o biseladas, y artículos similares, de 7317.00 fundición, hierro o acero, incluso con cabeza de otras materias, excepto de cabeza de cobre.
-Clavos para herrar. 7317.00.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. 5) Fracción reformada DOF 29-12-2025 (antes Imp. 30) Púas o dientes para cardar.
+Clavos para herrar. 7317.00.01 Arancel modificado con vigencia temporal DOF 22-04-2024 Kg 35 Ex. (antes Imp. 5)
+Fracción reformada DOF 29-12-2025 (antes Imp. 30)
+Púas o dientes para cardar.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7317.00.02 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Placas con puntas en una de sus superficies, para ensamblar piezas de 7317.00.03 Kg 35 Ex. madera.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Puntas o escarpias puntiagudas, reconocibles como diseñadas exclusivamente para preparar (raspar) llantas para su vulcanización. 7317.00.04 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Placas con puntas en una de sus superficies, para ensamblar piezas de 7317.00.03 Kg 35 Ex. madera.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Puntas o escarpias puntiagudas, reconocibles como diseñadas exclusivamente para preparar (raspar) llantas para su vulcanización. 7317.00.04 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7317.00.99 Kg 35 Ex. (antes Imp. 7) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Tornillos, pernos, tuercas, tirafondos, escarpias roscadas, remaches, pasadores, chavetas, arandelas 73.18 (incluidas las arandelas de muelle (resorte)) y artículos similares, de fundición, hierro o acero. - Artículos roscados: 7318.11 -- Tirafondos.
 Tirafondos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7318.11.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7318.12 -- Los demás tornillos para madera.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7318.12 -- Los demás tornillos para madera.
 Los demás tornillos para madera.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7318.12.91 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7318.13 -- Escarpias y armellas, roscadas.
 Escarpias y armellas, roscadas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7318.13.01 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7318.14 -- Tornillos taladradores.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7318.14 -- Tornillos taladradores.
 Tornillos taladradores.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7318.14.01 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Los demás tornillos y pernos, incluso 7318.15 -con sus tuercas y arandelas. 7318.15.04 Tornillos con diámetro inferior a 6.4 mm Kg 35 Ex. (¼ pulgada) y longitud inferior a 50.8 mm (2 pulgadas), excepto las de acero inoxidable y las reconocibles para naves aéreas o uso automotriz.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Los demás.
@@ -7717,22 +9558,29 @@ Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7318.29.99 Kg 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Agujas de coser, de tejer, pasacintas, agujas de ganchillo (croché), punzones para bordar y artículos 73.19 similares, de uso manual, de hierro o acero; alfileres de gancho (imperdibles) y demás alfileres de hierro o acero, no expresados ni comprendidos en otra parte.
 Alfileres de gancho (imperdibles) y 7319.40 demás alfileres.
 Alfileres de gancho (imperdibles) y 7319.40.01 demás alfileres. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 7319.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+7319.90 - Los demás.
 Agujas de coser, zurcir o bordar. 7319.90.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 7319.90.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Muelles (resortes), ballestas y sus 73.20 hojas, de hierro o acero. 7320.10 - Ballestas y sus hojas. 7320.10.02 Ballestas y sus hojas. Kg Ex. Ex. 7320.20 - Muelles (resortes) helicoidales. 7320.20.05 Muelles (resortes) helicoidales. Kg Ex. Ex. 7320.90 - Los demás. 7320.90.99 Los demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 7319.90.99 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Muelles (resortes), ballestas y sus 73.20 hojas, de hierro o acero. 7320.10 - Ballestas y sus hojas. 7320.10.02 Ballestas y sus hojas. Kg Ex. Ex. 7320.20 - Muelles (resortes) helicoidales. 7320.20.05 Muelles (resortes) helicoidales. Kg Ex. Ex. 7320.90 - Los demás. 7320.90.99 Los demás. Kg Ex. Ex.
 Estufas, calderas con hogar, cocinas (incluidas las que puedan utilizarse accesoriamente para calefacción central), parrillas (barbacoas), 73.21 braseros, hornillos de gas, calientaplatos y aparatos no eléctricos similares, de uso doméstico, y sus partes, de fundición, hierro o acero. - Aparatos de cocción y calientaplatos:
 De combustibles gaseosos, o de gas y 7321.11 -otros combustibles.
 Cocinas que consuman combustibles gaseosos.
-Arancel modificado con vigencia temporal DOF 15-08-2023 7321.11.01 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás cocinas, excepto portátiles.
+Arancel modificado con vigencia temporal DOF 15-08-2023 7321.11.01 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás cocinas, excepto portátiles.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7321.11.91 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7321.11.99 Los demás. Pza 15 Ex. 7321.12 -- De combustibles líquidos.
 De combustibles líquidos. 7321.12.01 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás, incluidos los aparatos de 7321.19 -combustibles sólidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás, incluidos los aparatos de 7321.19 -combustibles sólidos.
 Los demás, incluidos los aparatos de 7321.19.91 Pza 15 Ex. combustibles sólidos. - Los demás aparatos:
 De combustibles gaseosos, o de gas y 7321.81 -otros combustibles.
 De combustibles gaseosos, o de gas y 7321.81.02 Pza 15 Ex. otros combustibles. 7321.82 -- De combustibles líquidos.
 De combustibles líquidos. 7321.82.02 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás, incluidos los aparatos de 7321.89 -combustibles sólidos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás, incluidos los aparatos de 7321.89 -combustibles sólidos.
 Los demás, incluidos los aparatos de 7321.89.91 Pza 15 Ex. combustibles sólidos. 7321.90 - Partes.
 Rosticeros accionados por motor eléctrico, reconocibles como diseñados 7321.90.01 Kg 15 Ex. exclusivamente para cocinas de uso doméstico.
 Reconocibles como diseñadas exclusivamente para cocinas que consuman combustibles gaseosos, 7321.90.02 Kg Ex. Ex. excepto lo comprendido en las fracciones arancelarias 7321.90.01 y 7321.90.03.
@@ -7742,17 +9590,24 @@ Cámaras de cocción, incluso sin ensamblar, reconocibles como 7321.90.05 diseñ
 Panel superior con o sin controles, con o sin quemadores, reconocibles como 7321.90.06 diseñados exclusivamente para lo Kg Ex. Ex. comprendido en la fracción arancelaria 7321.11.91.
 Ensambles de puertas, que incorporen más de uno de los siguientes componentes: paredes interiores, paredes exteriores, ventana, 7321.90.07 Kg Ex. Ex. aislamiento, reconocibles como diseñados exclusivamente para lo comprendido en la fracción arancelaria 7321.11.91.
 Los demás. 7321.90.99 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Radiadores para calefacción central, de calentamiento no eléctrico, y sus partes, de fundición, hierro o acero; generadores y distribuidores de aire caliente (incluidos los distribuidores 73.22 que puedan funcionar también como distribuidores de aire fresco o acondicionado), de calentamiento no eléctrico, que lleven un ventilador o un soplador con motor, y sus partes, de fundición, hierro o acero. - Radiadores y sus partes: 7322.11 -- De fundición.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Radiadores para calefacción central, de calentamiento no eléctrico, y sus partes, de fundición, hierro o acero; generadores y distribuidores de aire caliente (incluidos los distribuidores 73.22 que puedan funcionar también como distribuidores de aire fresco o acondicionado), de calentamiento no eléctrico, que lleven un ventilador o un soplador con motor, y sus partes, de fundición, hierro o acero. - Radiadores y sus partes: 7322.11 -- De fundición.
 De fundición. 7322.11.02 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 7322.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+7322.19 -- Los demás.
 Para naves aéreas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7322.19.01 Kg 25 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7322.19.99 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7322.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7322.90 - Los demás.
 Reconocibles para naves aéreas, 7322.90.01 Kg Ex. Ex. incluidas sus partes.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7322.90.99 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, 73.23 estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Artículos de uso doméstico y sus partes, de fundición, hierro o acero; lana de hierro o acero; esponjas, 73.23 estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de hierro o acero.
 Lana de hierro o acero; esponjas, 7323.10 - estropajos, guantes y artículos similares para fregar, lustrar o usos análogos.
 Lana de hierro o acero; esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos. 7323.10.01 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) - Los demás: 7323.91 -- De fundición, sin esmaltar. 7323.91.03 De fundición, sin esmaltar. Kg 15 Ex. 7323.92 -- De fundición, esmaltados. 7323.92.04 De fundición, esmaltados. Kg 15 Ex. 7323.93 -- De acero inoxidable.
@@ -7766,14 +9621,19 @@ Fregaderos (piletas de lavar) y lavabos, 7324.10 de acero inoxidable.
 Fregaderos (piletas de lavar) y lavabos, de acero inoxidable. 7324.10.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 25 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) - Bañeras: 7324.21 -- De fundición, incluso esmaltadas.
 De fundición, incluso esmaltadas.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7324.21.01 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7324.29 -- Las demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7324.29 -- Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7324.29.99 (antes Imp. 15) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (antes Imp. 25) 7324.90 - Los demás, incluidas las partes.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+7324.90 - Los demás, incluidas las partes.
 Los demás, incluidas las partes.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7324.90.91 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Las demás manufacturas moldeadas 73.25 de fundición, hierro o acero. 7325.10 - De fundición no maleable.
 De fundición no maleable. 7325.10.05 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) - Las demás: 7325.91 -- Bolas y artículos similares para molinos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+- Las demás: 7325.91 -- Bolas y artículos similares para molinos.
 Bolas y artículos similares para molinos. 7325.91.03 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 7325.99 -- Las demás.
 Las demás.
@@ -7781,16 +9641,24 @@ Arancel modificado con vigencia temporal DOF 15-08-2023 7325.99.99 Kg 35 Ex. (an
 Forjadas o estampadas pero sin trabajar de otro modo: 7326.11 -- Bolas y artículos similares para molinos.
 Bolas y artículos similares para molinos.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7326.11.03 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 7326.19 -- Las demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+7326.19 -- Las demás.
 Los demás. 7326.19.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Manufacturas de alambre de hierro o 7326.20 acero.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Manufacturas de alambre de hierro o 7326.20 acero.
 Manufacturas de alambre de hierro o acero. 7326.20.06 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Fracción reformada DOF 29-12-2025 (antes Imp. 30) 7326.90 - Las demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.)
+Fracción reformada DOF 29-12-2025 (antes Imp. 30)
+7326.90 - Las demás.
 Las demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7326.90.99 (antes Imp. Ex.) Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) _______________
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+_______________
 
 ## Capítulo 74
+
 Cobre y sus manufacturas Nota. 1. En este Capítulo, se entiende por:
 
 a) Cobre refinado el metal con un contenido de cobre superior o igual al 99.85% en peso; o el metal con un contenido de cobre superior o igual al 97.5% en peso, siempre que el contenido de cualquier otro elemento sea inferior o igual a los límites indicados en el cuadro siguiente:
@@ -7862,6 +9730,7 @@ Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel
 Accesorios para tendidos aéreos 7419.80.03 Kg 15 Ex. eléctricos. 7419.80.99 Los demás. Kg Ex. Ex. _______________
 
 ## Capítulo 75
+
 Níquel y sus manufacturas Notas de subpartida. 1. En este Capítulo, se entiende por:
 
 a) Níquel sin alear el metal con un contenido total de níquel y de cobalto superior o igual al 99% en peso, siempre que: 1) el contenido de cobalto sea inferior o igual al 1.5% en peso, y 2) el contenido de cualquier otro elemento sea inferior o igual a los límites que figuran en el cuadro siguiente:
@@ -7875,6 +9744,7 @@ Telas metálicas, redes y rejas, de 7508.10 alambre de níquel.
 Telas metálicas, redes y rejas, de alambre de níquel. 7508.10.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 25 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) 7508.90 - Las demás. 7508.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 76
+
 Aluminio y sus manufacturas Notas de subpartida. 1. En este Capítulo, se entiende por:
 
 a) Aluminio sin alear el metal con un contenido de aluminio superior o igual al 99% en peso, siempre que el contenido en peso de los demás elementos sea inferior o igual a los límites indicados en el cuadro siguiente:
@@ -7889,101 +9759,146 @@ Aleaciones de aluminio.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes 7601.20.02 Kg Ex. Ex.
 Imp. Ex.) Modificación DOF 22-04-2024 “suprimida” por DOF 08-05-2024 (antes Imp. 20, en consecuencia se restablece Imp. Ex.) 76.02 Desperdicios y desechos, de aluminio. 7602.00 Desperdicios y desechos, de aluminio. 7602.00.02 Desperdicios y desechos, de aluminio. Kg Ex. Ex. 76.03 Polvo y escamillas, de aluminio. 7603.10 - Polvo de estructura no laminar. 7603.10.01 Polvo de estructura no laminar. Kg Ex. Ex. 7603.20 - Polvo de estructura laminar; escamillas. 7603.20.01 Polvo de estructura laminar; escamillas. Kg Ex. Ex. 76.04 Barras y perfiles, de aluminio. 7604.10 - De aluminio sin alear.
 Con pureza mínima de 99.5%, diámetro superior o igual a 9 mm, para la 7604.10.01 Kg 10 Ex. fabricación de conductores eléctricos.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Perfiles. 7604.10.02 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Perfiles. 7604.10.02 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Los demás. 7604.10.99 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Kg 35 Ex.
-Imp. 5) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - De aleaciones de aluminio: 7604.21 -- Perfiles huecos.
+Imp. 5)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- De aleaciones de aluminio: 7604.21 -- Perfiles huecos.
 Perfiles huecos. 7604.21.01 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 7604.29 -- Los demás.
 Barras de aluminio, con un contenido de: hierro de 0.7%, silicio superior o igual al 0.4% pero inferior o igual al 0.8%, cobre superior o igual 0.15% pero inferior o igual al 0.40%, magnesio superior o igual al 7604.29.01 0.8% pero inferior o igual al 1.2%, cromo Kg 35 Ex. superior o igual al 0.04% pero inferior o igual al 0.35%, además de los otros elementos, en peso.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 3) Fracción reformada DOF 29-12-2025 (antes Imp. 25) Perfiles. 7604.29.02 Kg 25 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 3)
+Fracción reformada DOF 29-12-2025 (antes Imp. 25)
+Perfiles. 7604.29.02 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Los demás. 7604.29.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 76.05 Alambre de aluminio. - De aluminio sin alear:
 Con la mayor dimensión de la sección 7605.11 -transversal superior a 7 mm.
 De aluminio con pureza superior o igual de 99.5% y diámetro superior o igual a 9 7605.11.01 mm, para la fabricación de conductores Kg 35 Ex. eléctricos.
-Fracción reformada DOF 29-12-2025 (antes Imp. 3) Los demás. 7605.11.99 Kg 5 Ex.
-Fracción reformada DOF 29-12-2025 (mantiene Imp. 5) 7605.19 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 3)
+Los demás. 7605.11.99 Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 5)
+7605.19 -- Los demás.
 Los demás. 7605.19.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) - De aleaciones de aluminio:
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+- De aleaciones de aluminio:
 Con la mayor dimensión de la sección 7605.21 -transversal superior a 7 mm.
 Con un contenido de: hierro de 0.7%, silicio superior o igual al 0.4% pero inferior o igual al 0.8%, cobre superior o igual 0.15% pero inferior o igual al 0.40%, 7605.21.01 magnesio superior o igual al 0.8% pero Kg 3 Ex. inferior o igual al 1.2%, cromo superior o igual al 0.04% pero inferior o igual al 0.35%, además de los otros elementos, en peso. 7605.21.02 De aleación 5056. Kg Ex. Ex.
 Los demás. 7605.21.99 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7605.29 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7605.29 -- Los demás.
 Con un contenido de: hierro de 0.7%, silicio superior o igual al 0.4% pero inferior o igual al 0.8%, cobre superior o igual 0.15% pero inferior o igual al 0.40%, 7605.29.01 magnesio superior o igual al 0.8% pero Kg Ex. Ex. inferior o igual al 1.2%, cromo superior o igual al 0.04% pero inferior o igual al 0.35%, además de los otros elementos, en peso.
 De la aleación A2011TD, según Norma 7605.29.02 Kg Ex. Ex.
 JIS-H-4040, o sus equivalentes. 7605.29.99 Los demás. Kg 5 Ex.
 Chapas y tiras, de aluminio, de espesor 76.06 superior a 0.2 mm. - Cuadradas o rectangulares: 7606.11 -- De aluminio sin alear.
 Hojas o tiras o chapas en rollos, con un contenido de aluminio superior o igual al 93%, con resistencia a la tensión superior o igual a 2,812 kg/cm² y con elongación 7606.11.01 Kg Ex. Ex. superior o igual al 1% en 5 cm de longitud, reconocibles exclusivamente para la elaboración de envases para bebidas o alimentos. 7606.11.99 Los demás. Kg 5 Ex. 7606.12 -- De aleaciones de aluminio.
 Hojas o tiras o chapas en rollos, con un contenido de aluminio superior o igual al 93%, con resistencia a la tensión superior o igual a 2,812 kg/cm² y con elongación 7606.12.01 Kg Ex. Ex. superior o igual al 1% en 5 cm de longitud, reconocibles exclusivamente para la elaboración de envases para bebidas o alimentos. 7606.12.02 Reconocibles para fuselaje de naves Kg 35 Ex. aéreas.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Anodizadas, en rollos, excepto las 7606.12.03 comprendidas en la fracción arancelaria Kg 5 Ex. 7606.12.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Anodizadas, en rollos, excepto las 7606.12.03 comprendidas en la fracción arancelaria Kg 5 Ex. 7606.12.01.
 Los demás. 7606.12.99 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) - Las demás: 7606.91 -- De aluminio sin alear.
 Reconocibles para naves aéreas. 7606.91.01 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7606.91.99 Las demás. Kg 3 Ex. 7606.92 -- De aleaciones de aluminio.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7606.91.99 Las demás. Kg 3 Ex. 7606.92 -- De aleaciones de aluminio.
 Reconocibles para naves aéreas. 7606.92.01 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás. 7606.92.99 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Hojas y tiras, delgadas, de aluminio (incluso impresas o fijadas sobre papel, 76.07 cartón, plástico o soportes similares), de espesor inferior o igual a 0.2 mm (sin incluir el soporte). - Sin soporte: 7607.11 -- Simplemente laminadas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás. 7606.92.99 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Hojas y tiras, delgadas, de aluminio (incluso impresas o fijadas sobre papel, 76.07 cartón, plástico o soportes similares), de espesor inferior o igual a 0.2 mm (sin incluir el soporte). - Sin soporte: 7607.11 -- Simplemente laminadas.
 Simplemente laminadas. 7607.11.01 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 7607.19 -- Las demás. 7607.19.01 Reconocibles para naves aéreas. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+7607.19 -- Las demás. 7607.19.01 Reconocibles para naves aéreas. Kg Ex. Ex.
 Atacadas en su superficie, reconocibles 7607.19.02 para la fabricación de condensadores Kg Ex. Ex. electrolíticos.
 De espesor inferior o igual a 0.02 mm y anchura inferior a 20 mm, o en espesor inferior a 0.006 mm, en cualquier anchura, 7607.19.03 en rollos, reconocibles como diseñadas Kg 35 Ex. exclusivamente para condensadores eléctricos.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7607.19.99 Los demás. Kg 5 Ex. 7607.20 - Con soporte. 7607.20.02 Con soporte. Kg Ex. Ex. 76.08 Tubos de aluminio. 7608.10 - De aluminio sin alear.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7607.19.99 Los demás. Kg 5 Ex. 7607.20 - Con soporte. 7607.20.02 Con soporte. Kg Ex. Ex. 76.08 Tubos de aluminio. 7608.10 - De aluminio sin alear.
 Serpentines. 7608.10.03 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 7608.10.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 7608.10.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) 7608.20 - De aleaciones de aluminio.
 Con diámetro interior inferior o igual a 7608.20.01 Kg 25 Ex. 203.2 mm, excepto lo comprendido en las fracciones arancelarias 7608.20.02 y 7608.20.03.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Con diámetro interior inferior o igual a 203.2 mm, incluso con órganos de acoplamiento y compuertas laterales de 7608.20.02 descarga reconocibles como diseñados Kg 10 Ex. exclusivamente para sistemas de riego agrícola a flor de tierra.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Serpentines. 7608.20.03 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 7608.20.99 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Serpentines. 7608.20.03 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 7608.20.99 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Accesorios de tubería (por ejemplo: 76.09 empalmes (racores), codos, manguitos) de aluminio.
 Accesorios de tubería (por ejemplo: 7609.00 empalmes (racores), codos, manguitos) de aluminio.
 Accesorios de tubería (por ejemplo: empalmes (racores), codos, manguitos) de 7609.00.02 Kg 25 Ex. aluminio.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Construcciones y sus partes (por ejemplo: puentes y sus partes, torres, castilletes, pilares, columnas, armazones para techumbre, techados, puertas y ventanas, y sus marcos, 76.10 contramarcos y umbrales, barandillas), de aluminio, excepto las construcciones prefabricadas de la partida 94.06; chapas, barras, perfiles, tubos y similares, de aluminio, preparados para la construcción.
 Puertas y ventanas, y sus marcos, 7610.10 contramarcos y umbrales.
 Puertas y ventanas, y sus marcos, contramarcos y umbrales. 7610.10.01 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Fracción reformada DOF 29-12-2025 (antes Imp. 30) 7610.90 - Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (antes Imp. 30)
+7610.90 - Los demás.
 Mástiles para embarcaciones. 7610.90.01 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 7610.90.99 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 7610.90.99 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Depósitos, cisternas, cubas y 76.11 recipientes similares para cualquier materia (excepto gas comprimido o licuado), de aluminio, de capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
 Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de aluminio, de 7611.00 capacidad superior a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
 Depósitos, cisternas, cubas y recipientes similares para cualquier materia (excepto gas comprimido o licuado), de aluminio, de 7611.00.01 capacidad superior a 300 l, sin Pza 35 Ex. dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Depósitos, barriles, tambores, bidones, botes, cajas y recipientes similares, de aluminio (incluidos los envases tubulares rígidos o flexibles), para 76.12 cualquier materia (excepto gas comprimido o licuado), de capacidad inferior o igual a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo. 7612.10 - Envases tubulares flexibles. 7612.10.01 Envases tubulares flexibles. Pza 15 Ex. 7612.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Depósitos, barriles, tambores, bidones, botes, cajas y recipientes similares, de aluminio (incluidos los envases tubulares rígidos o flexibles), para 76.12 cualquier materia (excepto gas comprimido o licuado), de capacidad inferior o igual a 300 l, sin dispositivos mecánicos ni térmicos, incluso con revestimiento interior o calorífugo. 7612.10 - Envases tubulares flexibles. 7612.10.01 Envases tubulares flexibles. Pza 15 Ex. 7612.90 - Los demás.
 Reconocibles como diseñados exclusivamente para el transporte y 7612.90.01 conservación de semen para animales y Pza 35 Ex. las demás muestras biológicas.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 7612.90.99 Los demás. Pza 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+7612.90.99 Los demás. Pza 15 Ex.
 Recipientes para gas comprimido o 76.13 licuado, de aluminio.
 Recipientes para gas comprimido o 7613.00 licuado, de aluminio.
-Tanques para oxígeno de uso medicinal. 7613.00.02 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás.
+Tanques para oxígeno de uso medicinal. 7613.00.02 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 35 Ex. (antes Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7613.00.99 (antes Imp. 10) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Cables, trenzas y similares, de 76.14 aluminio, sin aislar para electricidad. 7614.10 - Con alma de acero. 7614.10.01 Con alma de acero. Kg 5 Ex. 7614.90 - Los demás. 7614.90.99 Los demás. Kg 5 Ex.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Cables, trenzas y similares, de 76.14 aluminio, sin aislar para electricidad. 7614.10 - Con alma de acero. 7614.10.01 Con alma de acero. Kg 5 Ex. 7614.90 - Los demás. 7614.90.99 Los demás. Kg 5 Ex.
 Artículos de uso doméstico, higiene o tocador, y sus partes, de aluminio; 76.15 esponjas, estropajos, guantes y artículos similares para fregar, lustrar o usos análogos, de aluminio.
 Artículos de uso doméstico y sus partes; esponjas, estropajos, guantes y artículos 7615.10 similares para fregar, lustrar o usos análogos.
 Artículos de uso doméstico y sus partes; esponjas, estropajos, guantes y artículos 7615.10.02 Kg 15 Ex. similares para fregar, lustrar o usos análogos.
 Artículos de higiene o tocador, y sus 7615.20 partes.
 Artículos de higiene o tocador, y sus 7615.20.01 partes. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 76.16 Las demás manufacturas de aluminio.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+76.16 Las demás manufacturas de aluminio.
 Puntas, clavos, grapas apuntadas, tornillos, pernos, tuercas, escarpias 7616.10 roscadas, remaches, pasadores, chavetas, arandelas y artículos similares.
 Clavos, puntillas, remaches, arandelas, 7616.10.01 Kg Ex. Ex. tornillos o tuercas. 7616.10.03 Reconocibles para naves aéreas. Kg Ex. Ex. 7616.10.99 Los demás. Kg 15 Ex. - Las demás:
 Telas metálicas, redes y rejas, de alambre 7616.91 -de aluminio.
 Telas metálicas, redes y rejas, de alambre 7616.91.01 de aluminio. Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 7616.99 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+7616.99 -- Las demás.
 Accesorios para tendidos aéreos 7616.99.01 eléctricos. Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Carretes de urdido, seccionales. 7616.99.02 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bobinas o carretes reconocibles como diseñadas exclusivamente para la 7616.99.03 Kg 10 Ex. industria textil.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bobinas o carretes, excepto lo comprendido en la fracción arancelaria 7616.99.04 Kg 10 Ex. 7616.99.03.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Quemadores de aluminio, para 7616.99.05 calentadoras de ambiente. Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Agujas para tejer a mano. 7616.99.06 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Ganchillos para tejer a mano. 7616.99.07 Kg 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Chapas o bandas extendidas. 7616.99.08 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Portagomas (casquillos) o tapas 7616.99.09 (conteras) para lápices. Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Discos con un contenido de aluminio superior o igual a 97%, excepto lo 7616.99.10 comprendido en la fracción arancelaria Kg 10 Ex. 7616.99.14.
-Fracción reformada DOF 29-12-2025 (antes Imp. 3) Anodos. 7616.99.11 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles para naves aéreas. 7616.99.12 Kg 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Escaleras. 7616.99.13 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Carretes de urdido, seccionales. 7616.99.02 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bobinas o carretes reconocibles como diseñadas exclusivamente para la 7616.99.03 Kg 10 Ex. industria textil.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bobinas o carretes, excepto lo comprendido en la fracción arancelaria 7616.99.04 Kg 10 Ex. 7616.99.03.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Quemadores de aluminio, para 7616.99.05 calentadoras de ambiente. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Agujas para tejer a mano. 7616.99.06 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Ganchillos para tejer a mano. 7616.99.07 Kg 35 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Chapas o bandas extendidas. 7616.99.08 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Portagomas (casquillos) o tapas 7616.99.09 (conteras) para lápices. Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Discos con un contenido de aluminio superior o igual a 97%, excepto lo 7616.99.10 comprendido en la fracción arancelaria Kg 10 Ex. 7616.99.14.
+Fracción reformada DOF 29-12-2025 (antes Imp. 3)
+Anodos. 7616.99.11 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles para naves aéreas. 7616.99.12 Kg 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Escaleras. 7616.99.13 Kg 35 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) Manufacturas planas con un contenido de aluminio superior o igual a 99.7%, cuyas dimensiones se circunscriban en una circunferencia de un círculo cuyo diámetro 7616.99.14 Kg 10 Ex. sea superior o igual a 12 mm, pero inferior a 70 mm, y espesor superior o igual a 3 mm, pero inferior o igual a 16 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. 3) Casquillos troquelados, reconocibles como diseñados exclusivamente para esferas de navidad. 7616.99.15 Kg 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás. 7616.99.99 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 3)
+Casquillos troquelados, reconocibles como diseñados exclusivamente para esferas de navidad. 7616.99.15 Kg 35 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Las demás. 7616.99.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) _______________
 
 ## Capítulo 78 — (Sic DOF 07-06-2022)
+
 Plomo y sus manufacturas Nota de subpartida. 1. En este Capítulo, se entiende por plomo refinado: el metal con un contenido de plomo superior o igual al 99.9% en peso, siempre que el contenido en peso de cualquier otro elemento sea inferior o igual a los límites indicados en el cuadro siguiente:
 CUADRO - Otros elementos Elemento Contenido límite % en peso Ag Plata 0.02 As Arsénico 0.005 Bi Bismuto 0.05 Ca Calcio 0.002 Cd Cadmio 0.002 Cu Cobre 0.08 Fe Hierro 0.002 S Azufre 0.002 Sb Antimonio 0.005 Sn Estaño 0.005 Zn Cinc 0.002 Los demás (por ejemplo, Te), cada uno 0.001 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP. 78.01 Plomo en bruto. 7801.10 - Plomo refinado. 7801.10.01 Plomo refinado. Kg Ex. Ex. - Los demás:
 Con antimonio como el otro elemento 7801.91 -predominante en peso.
@@ -7993,6 +9908,7 @@ Hojas y tiras, de espesor inferior o igual a 7804.11 -0.2 mm (sin incluir el sop
 Hojas y tiras, de espesor inferior o igual a 7804.11.01 Kg Ex. Ex. 0.2 mm (sin incluir el soporte). 7804.19 -- Las demás. 7804.19.99 Las demás. Kg Ex. Ex. 7804.20 - Polvo y escamillas. 7804.20.01 Polvo y escamillas. Kg Ex. Ex. 78.06 Las demás manufacturas de plomo. 7806.00 Las demás manufacturas de plomo. 7806.00.91 Las demás manufacturas de plomo. Kg Ex. Ex. ______________
 
 ## Capítulo 79
+
 Cinc y sus manufacturas Nota de subpartida. 1. En este Capítulo, se entiende por:
 
 a) Cinc sin alear el metal con un contenido de cinc superior o igual al 97.5% en peso.
@@ -8007,6 +9923,7 @@ Con un contenido de cinc inferior al 7901.12 -99.99% en peso.
 Con un contenido de cinc inferior al 7901.12.01 Kg Ex. Ex. 99.99% en peso. 7901.20 - Aleaciones de cinc. 7901.20.01 Aleaciones de cinc. Kg Ex. Ex. 79.02 Desperdicios y desechos, de cinc. 7902.00 Desperdicios y desechos, de cinc. 7902.00.01 Desperdicios y desechos, de cinc. Kg Ex. Ex. 79.03 Polvo y escamillas, de cinc. 7903.10 - Polvo de condensación. 7903.10.01 Polvo de condensación. Kg Ex. Ex. 7903.90 - Los demás. 7903.90.99 Los demás. Kg Ex. Ex. 79.04 Barras, perfiles y alambre, de cinc. 7904.00 Barras, perfiles y alambre, de cinc. 7904.00.01 Barras, perfiles y alambre, de cinc. Kg Ex. Ex. 79.05 Chapas, hojas y tiras, de cinc. 7905.00 Chapas, hojas y tiras, de cinc. 7905.00.01 Chapas, hojas y tiras, de cinc. Kg Ex. Ex. 79.07 Las demás manufacturas de cinc. 7907.00 Las demás manufacturas de cinc. 7907.00.91 Las demás manufacturas de cinc. Kg Ex. Ex. ______________
 
 ## Capítulo 80
+
 Estaño y sus manufacturas Nota de subpartida. 1. En este Capítulo, se entiende por:
 
 a) Estaño sin alear el metal con un contenido de estaño superior o igual al 99% en peso, siempre que el contenido de bismuto o de cobre, eventualmente presentes, sea inferior en peso a los límites indicados en el cuadro siguiente:
@@ -8019,6 +9936,7 @@ Hojas y tiras, delgadas, de estaño (incluso impresas o fijadas sobre papel, car
 Tubos y accesorios de tubería (por 8007.00.03 ejemplo: empalmes (racores), codos, Kg Ex. Ex. manguitos), de estaño. 8007.00.99 Las demás. Kg 15 Ex. _______________
 
 ## Capítulo 81
+
 Los demás metales comunes; cermets; manufacturas de estas materias CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Volframio (tungsteno) y sus 81.01 manufacturas, incluidos los desperdicios y desechos. 8101.10 - Polvo. 8101.10.01 Polvo. Kg Ex. Ex. - Los demás:
 Volframio (tungsteno) en bruto, incluidas 8101.94 -- las barras simplemente obtenidas por sinterizado.
@@ -8061,6 +9979,7 @@ Cermet y sus manufacturas, incluidos los 8113.00 desperdicios y desechos.
 Cermet y sus manufacturas, incluidos los 8113.00.02 Kg Ex. Ex. desperdicios y desechos. _______________
 
 ## Capítulo 82
+
 Herramientas y útiles, artículos de cuchillería y cubiertos de mesa, de metal común; partes de estos artículos, de metal común Notas. 1. Independientemente de las lámparas de soldar, de las fraguas portátiles, de las muelas con bastidor y de los juegos de manicura o pedicuro, así como de los artículos de la partida 82.09, este Capítulo comprende solamente los artículos provistos de una hoja u otra parte operante:
 
 a) de metal común;
@@ -8158,6 +10077,7 @@ Plateados, dorados o platinados.
 Arancel modificado con vigencia temporal DOF 15-08-2023 8215.91.01 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 8215.99 -- Los demás. 8215.99.99 Los demás. Pza 15 Ex. _______________
 
 ## Capítulo 83
+
 Manufacturas diversas de metal común Notas. 1. En este Capítulo, las partes de metal común se clasifican en la partida correspondiente a los artículos a los que pertenecen. Sin embargo, no se consideran partes de manufacturas de este Capítulo, los artículos de fundición, hierro o acero de las partidas 73.12, 73.15, 73.17, 73.18 o 73.20 ni los mismos artículos de otro metal común (Capítulos 74 a 76 y 78 a 81). 2. En la partida 83.02, se consideran ruedas las que tengan un diámetro (incluido el bandaje, en su caso) inferior o igual a 75 mm o las de mayor diámetro (incluido el bandaje, en su caso) siempre que la anchura de la rueda o del bandaje que se les haya montado sea inferior a 30 mm.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Candados, cerraduras y cerrojos (de llave, combinación o eléctricos), de metal común; cierres y monturas 83.01 cierre, con cerradura incorporada, de metal común; llaves de metal común para estos artículos. 8301.10 - Candados. 8301.10.01 Candados. Pza 15 Ex.
@@ -8174,7 +10094,8 @@ Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 8302.10.99 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 8302.20 - Ruedas. 8302.20.02 Ruedas. Kg 15 Ex.
 Las demás guarniciones, herrajes y 8302.30 - artículos similares, para vehículos automóviles.
 Las demás guarniciones, herrajes y artículos similares, para vehículos 8302.30.91 Kg 25 Ex. automóviles.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Las demás guarniciones, herrajes y artículos similares: 8302.41 -- Para edificios. 8302.41.06 Para edificios. Kg 15 Ex. 8302.42 -- Los demás, para muebles. 8302.42.91 Los demás, para muebles. Kg 15 Ex. 8302.49 -- Los demás. 8302.49.99 Los demás. Kg 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Las demás guarniciones, herrajes y artículos similares: 8302.41 -- Para edificios. 8302.41.06 Para edificios. Kg 15 Ex. 8302.42 -- Los demás, para muebles. 8302.42.91 Los demás, para muebles. Kg 15 Ex. 8302.49 -- Los demás. 8302.49.99 Los demás. Kg 15 Ex.
 Colgadores, perchas, soportes y artículos 8302.50 similares.
 Colgadores, perchas, soportes y artículos similares. 8302.50.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 8302.60 - Cierrapuertas automáticos. 8302.60.01 Cierrapuertas automáticos. Kg 15 Ex.
 Cajas de caudales, puertas blindadas y compartimientos para cámaras 83.03 acorazadas, cofres y cajas de seguridad y artículos similares, de metal común.
@@ -8206,7 +10127,8 @@ Cápsulas de aluminio para sobretaponar 8309.90.06 Kg Ex. Ex. botellas.
 Tapas: con un precorte a menos de 10 mm de toda su orilla y una pieza de sujeción colocada sobre la tapa mediante un remache, llamadas tapas "abre fácil" ("full open"), de acero o aluminio, para 8309.90.07 Kg Ex. Ex. envases destinados a contener bebidas o alimentos.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Arancel modificado con vigencia temporal y acotación “Únicamente cuando se utilicen para la elaboración de envases para bebidas y alimentos” DOF 31-12-2024 (antes Imp. 30) Tapas de aluminio, con una pieza de sujeción colocada sobre la tapa mediante un remache, reconocibles como diseñadas exclusivamente para envases 8309.90.08 Kg 25 Ex. destinados a contener bebidas o alimentos.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Los demás. 8309.90.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Placas indicadoras, placas rótulo, placas de direcciones y placas 83.10 similares, cifras, letras y signos diversos, de metal común, excepto los de la partida 94.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Placas indicadoras, placas rótulo, placas de direcciones y placas 83.10 similares, cifras, letras y signos diversos, de metal común, excepto los de la partida 94.05.
 Placas indicadoras, placas rótulo, placas de direcciones y placas similares, cifras, 8310.00 letras y signos diversos, de metal común, excepto los de la partida 94.05.
 Emblemas o monogramas para vehículos 8310.00.01 Kg 15 Ex. automóviles. 8310.00.99 Los demás. Kg 10 Ex. 83.11 Alambres, varillas, tubos, placas, electrodos y artículos similares, de metal común o de carburo metálico, recubiertos o rellenos de decapantes o de fundentes, para soldadura o depósito de metal o de carburo metálico; alambres y varillas, de polvo de metal común aglomerado, para la metalización por proyección.
 Electrodos recubiertos para soldadura de 8311.10 arco, de metal común. 8311.10.02 De cobre o sus aleaciones. Kg Ex. Ex.
@@ -8227,6 +10149,7 @@ Los demás. 8311.90.99 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) _______________
 
 ## Sección XVI — MÁQUINAS Y APARATOS, MATERIAL ELÉCTRICO Y SUS PARTES; APARATOS DE
+
 GRABACIÓN O REPRODUCCIÓN DE SONIDO, APARATOS DE GRABACIÓN O REPRODUCCIÓN DE IMAGEN Y SONIDO EN TELEVISIÓN, Y LAS PARTES Y ACCESORIOS DE ESTOS APARATOS Notas. 1. Esta Sección no comprende:
 
 a) las correas transportadoras o de transmisión de plástico del Capítulo 39, o de caucho vulcanizado (partida 40.10) y demás artículos de los tipos utilizados en máquinas o aparatos mecánicos o eléctricos o para otros usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16);
@@ -8274,9 +10197,11 @@ B) Los envíos que contengan una mezcla de desperdicios y desechos eléctricos y
 C) Esta Sección no comprende los desechos municipales, tal como se definen en la Nota 4 del
 
 ## Capítulo 38 — .
+
 _______________
 
 ## Capítulo 84
+
 Reactores nucleares, calderas, máquinas, aparatos y artefactos mecánicos; partes de estas máquinas o aparatos Notas. 1. Este Capítulo no comprende:
 
 a) las muelas y artículos similares para moler y demás artículos del Capítulo 68;
@@ -8355,18 +10280,26 @@ Identificables como destinadas, exclusiva 8409.91 -- o principalmente, a los mot
 Pistones (émbolos) de aluminio, con diámetro exterior superior o igual a 58 8409.91.05 mm, sin exceder de 140.0 mm, excepto Kg 5 Ex. los reconocibles para tractores agrícolas e industriales.
 Cárteres, excepto los reconocibles para 8409.91.11 Kg 5 Ex. tractores agrícolas e industriales. 8409.91.99 Los demás. Kg Ex. Ex. 8409.99 -- Las demás.
 Culatas (cabezas) o monobloques. 8409.99.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Pistones (émbolos) de aluminio, con 8409.99.02 diámetro exterior superior o igual a 58 Kg Ex. Ex. mm, sin exceder de 140 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Pistones (émbolos) de aluminio, con 8409.99.02 diámetro exterior superior o igual a 58 Kg Ex. Ex. mm, sin exceder de 140 mm.
 Pistones, camisas, anillos o válvulas, aun 8409.99.03 Kg Ex. Ex. cuando se presenten en juegos ("kits") excepto lo comprendido en las fracciones arancelarias 8409.99.02 y 8409.99.04.
 Balancines, barras de balancines, punterías (buzos), válvulas con diámetro de cabeza superior o igual a 26 mm, sin 8409.99.04 Kg 25 Ex. exceder de 52 mm, incluso en juegos ("kits").
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Bielas o portabielas. 8409.99.05 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Ejes ("pernos") para pistón (émbolo), excepto lo comprendido en las fracciones 8409.99.08 Kg 25 Ex. arancelarias 8409.99.09 y 8409.99.10.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles para motores marinos con 8409.99.09 Kg Ex. Ex. potencia superior a 600 CP.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Bielas o portabielas. 8409.99.05 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Ejes ("pernos") para pistón (émbolo), excepto lo comprendido en las fracciones 8409.99.08 Kg 25 Ex. arancelarias 8409.99.09 y 8409.99.10.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles para motores marinos con 8409.99.09 Kg Ex. Ex. potencia superior a 600 CP.
 Reconocibles como diseñadas exclusivamente para tractores agrícolas e 8409.99.10 Kg Ex. Ex. industriales, excepto lo comprendido en la fracción arancelaria 8409.99.11.
 Reconocibles como diseñadas exclusivamente para inyectores de 8409.99.11 Kg 25 Ex. combustible diésel.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Gobernadores de revoluciones. 8409.99.12 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Varillas empujadoras de válvulas, no tubulares (sólidas) para uso en motores 8409.99.13 Kg 25 Ex. de combustión interna.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Esbozos de émbolos de acero, hierro gris o aluminio, con diámetro exterior superior 8409.99.14 Kg 25 Ex. a 140 mm.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8409.99.99 Las demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Gobernadores de revoluciones. 8409.99.12 Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Varillas empujadoras de válvulas, no tubulares (sólidas) para uso en motores 8409.99.13 Kg 25 Ex. de combustión interna.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Esbozos de émbolos de acero, hierro gris o aluminio, con diámetro exterior superior 8409.99.14 Kg 25 Ex. a 140 mm.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8409.99.99 Las demás. Kg 5 Ex.
 Turbinas hidráulicas, ruedas 84.10 hidráulicas y sus reguladores. - Turbinas y ruedas hidráulicas: 8410.11 -- De potencia inferior o igual a 1,000 kW. 8410.11.01 De potencia inferior o igual a 1,000 kW. Pza Ex. Ex.
 De potencia superior a 1,000 kW pero 8410.12 -inferior o igual a 10,000 kW.
 De potencia superior a 1,000 kW pero 8410.12.02 Pza Ex. Ex. inferior o igual a 10,000 kW. 8410.13 -- De potencia superior a 10,000 kW. 8410.13.02 De potencia superior a 10,000 kW. Pza Ex. Ex. 8410.90 - Partes, incluidos los reguladores. 8410.90.01 Partes, incluidos los reguladores. Kg Ex. Ex.
@@ -8383,13 +10316,15 @@ Bombas manuales, excepto las de las 8413.20 subpartidas 8413.11 u 8413.19.
 Bombas manuales, excepto las de las 8413.20.01 Pza 15 Ex. subpartidas 8413.11 u 8413.19.
 Bombas de carburante, aceite o 8413.30 - refrigerante, para motores de encendido por chispa o compresión.
 Para gasolina. 8413.30.03 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8413.30.99 Los demás. Pza Ex. Ex. 8413.40 - Bombas para hormigón. 8413.40.02 Bombas para hormigón. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8413.30.99 Los demás. Pza Ex. Ex. 8413.40 - Bombas para hormigón. 8413.40.02 Bombas para hormigón. Pza Ex. Ex.
 Las demás bombas volumétricas 8413.50 alternativas. 8413.50.02 Para albercas. Pza 5 Ex. 8413.50.99 Los demás. Pza Ex. Ex.
 Las demás bombas volumétricas 8413.60 rotativas.
 Sumergibles, con tubería de descarga de 8413.60.01 diámetro interior superior o igual a 63 Pza 15 Ex. mm, sin exceder de 610 mm.
 Hidráulicas de paletas, para presión 8413.60.04 inferior o igual a 217 kg/cm² (210 Pza 15 Ex. atmósferas). 8413.60.06 Para albercas. Pza 5 Ex.
 Los demás. 8413.60.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8413.70 - Las demás bombas centrífugas. 8413.70.01 Portátiles, contra incendio. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8413.70 - Las demás bombas centrífugas. 8413.70.01 Portátiles, contra incendio. Pza Ex. Ex.
 Extractoras o recirculatorias de agua, reconocibles como diseñadas 8413.70.02 Pza 5 Ex. exclusivamente para aparatos acondicionadores de aire. 8413.70.05 Para albercas. Pza Ex. Ex.
 Bombas de agua, reconocibles como diseñadas exclusivamente para el 8413.70.07 Pza Ex. Ex. sistema de limpiaparabrisas, para uso automotriz. 8413.70.99 Las demás. Pza 15 Ex.
 Las demás bombas; elevadores de líquidos: 8413.81 -- Bombas.
@@ -8404,25 +10339,30 @@ Denominados abiertos, excepto lo 8414.30.02 comprendido en la fracción arancela
 Motocompresores herméticos, con 8414.30.04 potencia superior a 1½ CP, sin exceder Pza Ex. Ex. de 5 CP.
 Rotativos, de segunda etapa de 8414.30.05 Pza 15 Ex. compresión, con un desplazamiento volumétrico de hasta 15 m³ por minuto, para ser utilizados en sistemas de refrigeración de baja temperatura.
 Abiertos, con capacidad de desplazamiento por revolución superior a 108 sin exceder de 161 cm³, sin bomba 8414.30.06 de aceite, accionados a platos Pza 25 Ex. magnéticos, para aire acondicionado de uso en automóviles.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Motocompresores herméticos con potencia superior a ½ CP, sin exceder de 8414.30.07 Pza Ex. Ex. 1½ CP, excepto lo comprendido en la fracción arancelaria 8414.30.10.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Motocompresores herméticos con potencia superior a ½ CP, sin exceder de 8414.30.07 Pza Ex. Ex. 1½ CP, excepto lo comprendido en la fracción arancelaria 8414.30.10.
 Motocompresores herméticos reconocibles como diseñados 8414.30.08 exclusivamente para equipos de aire Pza Ex. Ex. acondicionado, con potencia superior a ½ CP sin exceder de 5 CP.
 Motocompresores herméticos con potencia inferior a 1 CP, de un mínimo de 8414.30.10 4.9 de eficiencia energética (BTU/Wh) y Pza 35 Ex. capacidad máxima de 750 BTU/h.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8414.30.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8414.30.99 Los demás. Pza 10 Ex.
 Compresores de aire montados en chasis 8414.40 remolcable con ruedas.
 Compresores o motocompresores, con 8414.40.01 capacidad hasta 31.5 m³ por minuto y Pza 15 Ex. presión de aire hasta 17.6 kg/cm².
 Compresores o motocompresores, con 8414.40.02 Pza Ex. Ex. capacidad superior a 31.5 m³ por minuto. 8414.40.99 Los demás. Pza 10 Ex. - Ventiladores:
 Ventiladores de mesa, suelo, pared, cielo raso, techo o ventana, con motor eléctrico 8414.51 -incorporado de potencia inferior o igual a 125 W.
 Ventiladores, de uso doméstico. 8414.51.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Ventiladores anticondensantes de 12 V, 8414.51.02 Pza 15 Ex. corriente directa. 8414.51.99 Los demás. Pza 10 Ex. 8414.59 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Ventiladores anticondensantes de 12 V, 8414.51.02 Pza 15 Ex. corriente directa. 8414.51.99 Los demás. Pza 10 Ex. 8414.59 -- Los demás.
 Ventiladores de uso doméstico. 8414.59.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8414.59.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8414.59.99 Los demás. Pza 10 Ex.
 Campanas aspirantes en las que el 8414.60 - mayor lado horizontal sea inferior o igual a 120 cm. 8414.60.01 De uso doméstico. Pza Ex. Ex. 8414.60.99 Los demás. Pza 10 Ex.
 Recintos de seguridad biológica 8414.70 herméticos a gases. 8414.70.01 Del tipo de campana aspirante. Pza 10 Ex. 8414.70.02 Filtros. Kg 5 Ex. 8414.70.99 Los demás. Pza Ex. Ex. 8414.80 - Los demás.
 Motocompresores integrales, de 4 o más cilindros motrices, excepto los 8414.80.06 Pza 15 Ex. reconocibles exclusivamente para tractores agrícolas e industriales. 8414.80.07 Compresores de cloro. Pza 5 Ex.
 Bombas de aire, de dos impulsores rotativos, con capacidad de 2.0 a 48.5 m³, 8414.80.08 por minuto, excepto los reconocibles Pza 15 Ex. exclusivamente para tractores agrícolas e industriales.
 Enfriadores circulares para hornos de 8414.80.10 Pza 15 Ex. sinterización. 8414.80.99 Los demás. Pza Ex. Ex. 8414.90 - Partes.
 Partes. 8414.90.10 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Máquinas y aparatos para acondicionamiento de aire que comprendan un ventilador con motor y 84.15 los dispositivos adecuados para modificar la temperatura y la humedad, aunque no regulen separadamente el grado higrométrico.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Máquinas y aparatos para acondicionamiento de aire que comprendan un ventilador con motor y 84.15 los dispositivos adecuados para modificar la temperatura y la humedad, aunque no regulen separadamente el grado higrométrico.
 De los tipos diseñados para ser montados sobre una ventana, pared, techo o suelo, 8415.10 - formando un solo cuerpo o del tipo sistema de elementos separados ("splitsystem").
 De los tipos diseñados para ser montados sobre una ventana, pared, techo o suelo, 8415.10.01 formando un solo cuerpo o del tipo Pza Ex. Ex. sistema de elementos separados ("splitsystem").
 De los tipos utilizados en vehículos 8415.20 automóviles para sus ocupantes.
@@ -8450,15 +10390,19 @@ Incineradores de desperdicios, excepto 8417.80.05 los comprendidos en la fracci�
 Refrigeradores, congeladores y demás material, máquinas y aparatos para producción de frío, aunque no sean 84.18 eléctricos; bombas de calor, excepto las máquinas y aparatos para acondicionamiento de aire de la partida 84.15.
 Combinaciones de refrigerador y congelador con puertas o cajones 8418.10 exteriores separados, o de combinaciones de estos elementos.
 Con peso unitario inferior o igual a 200 kg, excepto con cajones exteriores 8418.10.01 Pza 25 Ex. separados.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 8418.10.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Refrigeradores domésticos: 8418.21 -- De compresión.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 8418.10.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Refrigeradores domésticos: 8418.21 -- De compresión.
 De compresión. 8418.21.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8418.29 -- Los demás. 8418.29.01 De absorción, eléctricos. Pza 15 Ex. 8418.29.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8418.29 -- Los demás. 8418.29.01 De absorción, eléctricos. Pza 15 Ex. 8418.29.99 Los demás. Pza 10 Ex.
 Congeladores horizontales del tipo arcón 8418.30 - (cofre), de capacidad inferior o igual a 800 l.
 De absorción, eléctricos, con peso 8418.30.01 Pza 15 Ex. unitario inferior o igual a 200 kg.
 De absorción o compresión con peso 8418.30.02 Pza 15 Ex. unitario superior a 200 kg.
 De compresión, con peso unitario inferior o igual a 200 kg, excepto de uso 8418.30.04 Pza 25 Ex. doméstico.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8418.30.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8418.30.99 Los demás. Pza 10 Ex.
 Congeladores verticales del tipo armario, 8418.40 de capacidad inferior o igual a 900 l.
 De absorción, eléctricos, con peso 8418.40.01 Pza 15 Ex. unitario igual o inferior a 200 kg.
 De absorción, con peso unitario superior 8418.40.02 Pza 15 Ex. a 200 kg.
@@ -8762,19 +10706,24 @@ Máquinas y aparatos para la fabricación o acabado del fieltro o tela sin tejer
 Máquinas para lavar ropa, incluso con 84.50 dispositivo de secado.
 Máquinas de capacidad unitaria, - expresada en peso de ropa seca, inferior o igual a 10 kg: 8450.11 -- Máquinas totalmente automáticas.
 De uso doméstico. 8450.11.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8450.11.99 Las demás. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8450.11.99 Las demás. Pza Ex. Ex.
 Las demás máquinas, con secadora 8450.12 -centrífuga incorporada.
 Las demás máquinas, con secadora 8450.12.91 centrífuga incorporada. Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8450.19 -- Las demás. 8450.19.99 Las demás. Pza 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8450.19 -- Las demás. 8450.19.99 Las demás. Pza 15 Ex.
 Máquinas de capacidad unitaria, 8450.20 - expresada en peso de ropa seca, superior a 10 kg.
 Máquinas de capacidad unitaria, expresada en peso de ropa seca, 8450.20.01 Pza 25 Ex. superior a 10 kg.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8450.90 - Partes. 8450.90.03 Partes. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8450.90 - Partes. 8450.90.03 Partes. Pza Ex. Ex.
 Máquinas y aparatos (excepto las máquinas de la partida 84.50) para lavar, limpiar, escurrir, secar, planchar, prensar (incluidas las prensas para fijar), blanquear, teñir, aprestar, 84.51 acabar, recubrir o impregnar hilados, telas o manufacturas textiles y máquinas para el revestimiento de telas u otros soportes utilizados en la fabricación de cubresuelos, tales como linóleo; máquinas para enrollar, desenrollar, plegar, cortar o dentar telas. 8451.10 - Máquinas para limpieza en seco. 8451.10.01 Máquinas para limpieza en seco. Pza Ex. Ex. - Máquinas para secar:
 De capacidad unitaria, expresada en 8451.21 -- peso de ropa seca, inferior o igual a 10 kg.
 De capacidad unitaria, expresada en peso de ropa seca, inferior o igual a 10 8451.21.02 Pza 35 Ex. kg.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8451.29 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8451.29 -- Las demás.
 Los demás. 8451.29.99 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Máquinas y prensas para planchar, 8451.30 incluidas las prensas para fijar.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Máquinas y prensas para planchar, 8451.30 incluidas las prensas para fijar.
 Máquinas y prensas para planchar, 8451.30.01 Pza Ex. Ex. incluidas las prensas para fijar. 8451.40 - Máquinas para lavar, blanquear o teñir. 8451.40.01 Máquinas para lavar, blanquear o teñir. Pza Ex. Ex.
 Máquinas para enrollar, desenrollar, 8451.50 plegar, cortar o dentar telas.
 Máquinas para enrollar, desenrollar, 8451.50.01 Pza Ex. Ex. plegar, cortar o dentar telas. 8451.80 - Las demás máquinas y aparatos. 8451.80.91 Las demás máquinas y aparatos. Pza Ex. Ex. 8451.90 - Partes. 8451.90.03 Partes. Pza Ex. Ex.
@@ -8984,7 +10933,8 @@ Separadores o clasificadores de materiales o partes ferrosas, a base de 8479.89.
 Aparatos para la generación de una corriente controlada de aire ("cortinas de 8479.89.04 aire") para impedir la entrada de insectos, Pza 15 Ex. polvo y mantener la temperatura de un recinto.
 Aparatos neumáticos o hidráulicos para 8479.89.06 automatizar máquinas, aparatos o Pza 15 Ex. artefactos mecánicos. 8479.89.07 Para fabricar cierres relámpago. Pza 15 Ex.
 Frenos de motor. 8479.89.08 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8479.89.10 Acumuladores hidráulicos. Pza 15 Ex. 8479.89.12 Sulfonadores de trióxido de azufre. Pza 15 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8479.89.10 Acumuladores hidráulicos. Pza 15 Ex. 8479.89.12 Sulfonadores de trióxido de azufre. Pza 15 Ex.
 Vibradores electromagnéticos, incluso 8479.89.13 Pza 15 Ex. con alimentador.
 Reactores o convertidores catalíticos 8479.89.14 Pza 15 Ex. tubulares.
 Deshumectadores, con sistema de 8479.89.19 refrigeración incorporado, para condensar Pza 5 Ex. la humedad atmosférica.
@@ -9067,10 +11017,12 @@ Máquinas y aparatos descritos en la Nota 8486.40 11 C) de este Capítulo.
 Máquinas y aparatos descritos en la Nota 8486.40.01 Pza Ex. Ex. 11 C) de este Capítulo. 8486.90 - Partes y accesorios. 8486.90.05 Partes y accesorios. Pza Ex. Ex.
 Partes de máquinas o aparatos, no expresadas ni comprendidas en otra parte de este Capítulo, sin conexiones 84.87 eléctricas, partes aisladas eléctricamente, bobinados, contactos ni otras características eléctricas. 8487.10 - Hélices para barcos y sus paletas. 8487.10.02 Hélices para barcos y sus paletas. Kg Ex. Ex. 8487.90 - Las demás. 8487.90.01 Cilindros hidráulicos. Kg 15 Ex. 8487.90.02 Válvulas de engrase por inyección. Kg Ex. Ex.
 Guarniciones montadas de frenos. 8487.90.03 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles como diseñadas exclusivamente para tractores agrícolas e 8487.90.04 Kg Ex. Ex. industriales, excepto lo comprendido en la fracción arancelaria 8487.90.02. 8487.90.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8487.90.06 Engrasadoras de copa tipo "Stauffer". Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles como diseñadas exclusivamente para tractores agrícolas e 8487.90.04 Kg Ex. Ex. industriales, excepto lo comprendido en la fracción arancelaria 8487.90.02. 8487.90.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8487.90.06 Engrasadoras de copa tipo "Stauffer". Kg Ex. Ex.
 Portamoldes o sus partes, aun cuando se 8487.90.07 presenten sin la cavidad para recibir el Kg Ex. Ex. molde. 8487.90.99 Las demás. Kg 5 Ex. _______________
 
 ## Capítulo 85
+
 Máquinas, aparatos y material eléctrico, y sus partes; aparatos de grabación o reproducción de sonido, aparatos de grabación o reproducción de imagen y sonido en televisión, y las partes y accesorios de estos aparatos Notas. 1. Este Capítulo no comprende:
 
 a) las mantas, cojines, calientapiés y artículos similares, que se calienten eléctricamente; las prendas de vestir, calzado, orejeras y demás artículos que se lleven sobre la persona, calentados eléctricamente;
@@ -9124,14 +11076,17 @@ Motores universales de potencia 8501.20 superior a 37.5 W.
 Motores universales de potencia 8501.20.05 Pza Ex. Ex. superior a 37.5 W.
 Los demás motores de corriente continua; generadores de corriente continua, excepto los generadores fotovoltaicos: 8501.31 -- De potencia inferior o igual a 750 W. 8501.31.01 Generadores. Pza 15 Ex. 8501.31.02 Reconocibles para naves aéreas. Pza Ex. Ex.
 Motores con potencia inferior o igual a 8501.31.03 Pza 25 Ex. 264 W y voltaje de 12 V, de uso automotriz, para limpiaparabrisas, elevadores de cristales, radiadores y calefacción.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8501.31.04 Motores para máquinas esquiladoras. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8501.31.04 Motores para máquinas esquiladoras. Pza Ex. Ex.
 Motores con potencia superior o igual a 186 W (¼ CP), excepto lo 8501.31.05 Pza 15 Ex. comprendido en las fracciones arancelarias 8501.31.03 y 8501.31.04. 8501.31.99 Los demás. Pza 5 Ex.
 De potencia superior a 750 W pero 8501.32 -inferior o igual a 75 kW. 8501.32.01 Generadores. Pza 15 Ex. 8501.32.02 Reconocibles para naves aéreas. Pza Ex. Ex.
 Motores para ascensores o 8501.32.03 Pza Ex. Ex. elevadores.
 Motores para trolebuses. 8501.32.04 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Motores de potencia igual o inferior a 8501.32.05 Pza 15 Ex. 3.75 kW (5 CP).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Motores de potencia igual o inferior a 8501.32.05 Pza 15 Ex. 3.75 kW (5 CP).
 Motores reconocibles como diseñados exclusivamente para la propulsión de 8501.32.06 vehículos eléctricos de la subpartida Pza 25 Ex. 8703.80.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8501.32.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8501.32.99 Los demás. Pza 10 Ex.
 De potencia superior a 75 kW pero 8501.33 -inferior o igual a 375 kW.
 Generadores con capacidad hasta de 8501.33.01 Pza 15 Ex. 150 kW. 8501.33.02 Reconocibles para naves aéreas. Pza Ex. Ex.
 Generadores, excepto lo comprendido 8501.33.03 Pza Ex. Ex. en la fracción arancelaria 8501.33.01.
@@ -9141,7 +11096,8 @@ Los demás motores de corriente 8501.40 alterna, monofásicos.
 Síncronos, con potencia igual o inferior 8501.40.05 Pza 5 Ex. a 4,475 kW (6,000 CP).
 Motores de corriente alterna, 8501.40.08 asíncronos monofásicos, según Pza 5 Ex. normas NMX-J-75 o NMX-J-226, o sus equivalentes, excepto los motores para ascensores o elevadores; para máquinas de afeitar o cortar el pelo, incluidas las esquiladoras y lo comprendido en la fracción arancelaria 8501.40.05.
 Los demás. 8501.40.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás motores de corriente alterna, polifásicos: 8501.51 -- De potencia inferior o igual a 750 W. 8501.51.02 Asíncronos, trifásicos. Pza 15 Ex. 8501.51.99 Los demás. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás motores de corriente alterna, polifásicos: 8501.51 -- De potencia inferior o igual a 750 W. 8501.51.02 Asíncronos, trifásicos. Pza 15 Ex. 8501.51.99 Los demás. Pza Ex. Ex.
 De potencia superior a 750 W pero 8501.52 -inferior o igual a 75 kW.
 Asíncronos, trifásicos, excepto los reconocibles para naves aéreas; para 8501.52.04 Pza 15 Ex. trolebuses; para ascensores o elevadores. 8501.52.99 Los demás. Pza Ex. Ex. 8501.53 -- De potencia superior a 75 kW.
 Asíncronos, trifásicos, con potencia de salida inferior o igual a 8,952 kW 8501.53.04 (12,000 CP), excepto los reconocibles Pza 15 Ex. para naves aéreas; para trolebuses, ascensores o elevadores.
@@ -9212,7 +11168,8 @@ De plomo-ácido, con recombinación interna de gases, construcción sellada, 850
 De potencia inferior o igual a 1,500 W 8508.11 -- y de capacidad del depósito o bolsa para el polvo inferior o igual a 20 l.
 De potencia inferior o igual a 1,500 W 8508.11.01 y de capacidad del depósito o bolsa Pza 20 Ex. para el polvo inferior o igual a 20 l. 8508.19 -- Las demás. 8508.19.99 Las demás. Pza 20 Ex. 8508.60 - Las demás aspiradoras.
 Las demás aspiradoras. 8508.60.91 Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 8508.70 - Partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+8508.70 - Partes.
 Reconocibles como diseñadas exclusivamente para aspiradoras, con 8508.70.01 Kg 7 Ex. peso superior a 20 kg, para uso industrial. 8508.70.02 Carcasas. Pza 10 Ex. 8508.70.99 Las demás. Kg 10 Ex.
 Aparatos electromecánicos con motor eléctrico incorporado, de uso 85.09 doméstico, excepto las aspiradoras de la partida 85.08.
 Trituradoras y mezcladoras de 8509.40 - alimentos; extractoras de jugo de frutos u hortalizas. 8509.40.02 Exprimidoras de frutas. Pza Ex. Ex. 8509.40.03 Batidoras. Pza Ex. Ex. 8509.40.99 Las demás. Pza 15 Ex. 8509.80 - Los demás aparatos. 8509.80.03 Cuchillos. Pza Ex. Ex. 8509.80.04 Cepillos para dientes. Pza Ex. Ex.
@@ -9220,25 +11177,29 @@ De manicura, con accesorios 8509.80.07 Pza Ex. Ex. intercambiables. 8509.80.09 A
 Las demás. 8509.90.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. Ex.) Afeitadoras, máquinas de cortar el pelo o esquilar y aparatos de 85.10 depilar, con motor eléctrico incorporado. 8510.10 - Afeitadoras. 8510.10.01 Afeitadoras. Pza 15 Ex. 8510.20 - Máquinas de cortar el pelo o esquilar.
 Máquinas de cortar el pelo o esquilar. 8510.20.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8510.30 - Aparatos de depilar. 8510.30.01 Aparatos de depilar. Pza 15 Ex. 8510.90 - Partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8510.30 - Aparatos de depilar. 8510.30.01 Aparatos de depilar. Pza 15 Ex. 8510.90 - Partes.
 Peines, para máquinas de cortar el 8510.90.01 Kg Ex. Ex. pelo. 8510.90.02 Cabezales para máquinas de afeitar. Kg 15 Ex. 8510.90.03 Hojas con o sin filo. Kg 15 Ex.
 Partes reconocidas como diseñadas exclusivamente para máquinas 8510.90.04 rasuradoras o de afeitar, excepto lo Kg Ex. Ex. comprendido en las fracciones arancelarias 8510.90.02 y 8510.90.03. 8510.90.99 Los demás. Kg 10 Ex.
 Aparatos y dispositivos eléctricos de encendido o de arranque, para motores de encendido por chispa o por compresión (por ejemplo: magnetos, dinamomagnetos, bobinas de encendido, bujías de 85.11 encendido o calentamiento, motores de arranque); generadores (por ejemplo: dínamos, alternadores) y reguladores disyuntores utilizados con estos motores. 8511.10 - Bujías de encendido.
 Cuyo electrodo central sea de níquel, tungsteno; platino, iridio o de 8511.10.03 Kg 25 Ex. aleaciones de oro; o que contengan dos o más electrodos a tierra; excepto los reconocibles como diseñadas para naves aéreas, tractores agrícolas e industriales o motocicletas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8511.10.99 Las demás. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8511.10.99 Las demás. Kg Ex. Ex.
 Magnetos; dinamomagnetos; volantes 8511.20 magnéticos.
 Magnetos; dinamomagnetos; volantes 8511.20.04 Kg Ex. Ex. magnéticos. 8511.30 - Distribuidores; bobinas de encendido. 8511.30.05 Distribuidores; bobinas de encendido. Pza Ex. Ex.
 Motores de arranque, aunque 8511.40 funcionen también como generadores.
 Motores de arranque, aunque 8511.40.04 Pza Ex. Ex. funcionen también como generadores. 8511.50 - Los demás generadores. 8511.50.91 Los demás generadores. Pza Ex. Ex. 8511.80 - Los demás aparatos y dispositivos. 8511.80.01 Reguladores de arranque. Pza 15 Ex. 8511.80.02 Reconocibles para naves aéreas. Pza Ex. Ex.
 Bujías de calentado (precalentadoras). 8511.80.03 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles como diseñados 8511.80.04 exclusivamente para tractores Pza Ex. Ex. agrícolas e industriales o motocicletas. 8511.80.99 Los demás. Pza 10 Ex. 8511.90 - Partes. 8511.90.06 Partes. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles como diseñados 8511.80.04 exclusivamente para tractores Pza Ex. Ex. agrícolas e industriales o motocicletas. 8511.80.99 Los demás. Pza 10 Ex. 8511.90 - Partes. 8511.90.06 Partes. Kg Ex. Ex.
 Aparatos eléctricos de alumbrado o señalización (excepto los artículos de la partida 85.39), 85.12 limpiaparabrisas, eliminadores de escarcha o vaho, eléctricos, de los tipos utilizados en velocípedos o vehículos automóviles.
 Aparatos de alumbrado o señalización 8512.10 - visual de los tipos utilizados en bicicletas.
 Aparatos de alumbrado o señalización 8512.10.03 visual de los tipos utilizados en Kg Ex. Ex. bicicletas.
 Los demás aparatos de alumbrado o 8512.20 señalización visual.
 Faros, luces direccionales delanteras y traseras, reconocibles como 8512.20.01 Kg Ex. Ex. diseñados exclusivamente para motocicletas.
 Luces direccionales y/o calaveras traseras, excepto lo comprendido en la 8512.20.02 Kg 25 Ex. fracción arancelaria 8512.20.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8512.20.99 Los demás. Kg 5 Ex. 8512.30 - Aparatos de señalización acústica.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8512.20.99 Los demás. Kg 5 Ex. 8512.30 - Aparatos de señalización acústica.
 Alarma electrónica contra robo, para 8512.30.01 Kg 5 Ex. vehículos automóviles. 8512.30.99 Los demás. Kg Ex. Ex.
 Limpiaparabrisas y eliminadores de 8512.40 escarcha o vaho.
 Limpiaparabrisas y eliminadores de 8512.40.01 Kg Ex. Ex. escarcha o vaho. 8512.90 - Partes. 8512.90.07 Partes. Kg Ex. Ex.
@@ -9281,16 +11242,20 @@ Aparatos electrotérmicos para el - cuidado del cabello o para secar las manos: 
 Los demás aparatos para el cuidado 8516.32 -del cabello.
 Los demás aparatos para el cuidado 8516.32.91 Pza 15 Ex. del cabello. 8516.33 -- Aparatos para secar las manos. 8516.33.01 Aparatos para secar las manos. Pza Ex. Ex. 8516.40 - Planchas eléctricas.
 Planchas eléctricas. 8516.40.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8516.50 - Hornos de microondas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8516.50 - Hornos de microondas.
 Hornos de microondas. 8516.50.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás hornos; cocinas, hornillos 8516.60 - (incluidas las mesas de cocción), parrillas y asadores.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás hornos; cocinas, hornillos 8516.60 - (incluidas las mesas de cocción), parrillas y asadores.
 Hornillos (incluidas las mesas de 8516.60.01 Pza 5 Ex. cocción), parrillas y asadores. 8516.60.03 Hornos. Pza 10 Ex.
 Los demás. 8516.60.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Los demás aparatos electrotérmicos:
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Los demás aparatos electrotérmicos:
 Aparatos para la preparación de café o 8516.71 -té.
 Aparatos para la preparación de café o 8516.71.01 Pza Ex. Ex. té. 8516.72 -- Tostadoras de pan. 8516.72.01 Tostadoras de pan. Pza Ex. Ex. 8516.79 -- Los demás.
 Para calefacción de automóviles. 8516.79.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8516.79.99 Los demás. Pza 15 Ex. 8516.80 - Resistencias calentadoras. 8516.80.04 Resistencias calentadoras. Kg Ex. Ex. 8516.90 - Partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8516.79.99 Los demás. Pza 15 Ex. 8516.80 - Resistencias calentadoras. 8516.80.04 Resistencias calentadoras. Kg Ex. Ex. 8516.90 - Partes.
 Circuitos modulares reconocibles como diseñados exclusivamente para 8516.90.07 Pza Ex. Ex. lo comprendido en la subpartida 8516.50.
 Panel superior con o sin elementos de calentamiento o control reconocibles 8516.90.09 como diseñados exclusivamente para Pza Ex. Ex. cocinas y lo comprendido en las fracción arancelaria 8516.60.03. 8516.90.99 Las demás. Kg Ex. Ex.
 Teléfonos, incluidos los teléfonos inteligentes y demás teléfonos móviles (celulares) y los de otras redes inalámbricas; los demás aparatos de emisión, transmisión o recepción de voz, imagen u otros 85.17 datos, incluidos los de comunicación en red con o sin cable (tales como redes locales (LAN) o extendidas (WAN)), distintos de los aparatos de transmisión o recepción de las partidas 84.43, 85.25, 85.27 u 85.28.
@@ -9336,16 +11301,15 @@ Que utilizan un soporte magnético, 8519.81 -óptico o semiconductor.
 Reproductores de casetes (tocacasetes) con potencia superior o 8519.81.03 Pza 5 Ex. igual a 60 W, excepto lo comprendido en la fracción arancelaria 8519.81.12.
 Reproductores con sistema de lectura 8519.81.04 Pza Ex. Ex. óptica por haz de rayos láser (lectores de discos compactos), excepto los comprendidos en las fracciones arancelarias 8519.81.05 y 8519.81.06.
 Reproductores con sistema de lectura óptica por haz de rayos láser (lectores de discos compactos) reconocibles como diseñados exclusivamente para 8519.81.05 Pza 25 Ex. uso automotriz, excepto los comprendidos en la fracción arancelaria 8519.81.06.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reproductores con sistema de lectura óptica por haz de rayos láser (lectores de discos compactos), con cambiador 8519.81.06 automático incluido con capacidad de Pza Ex. Ex. 6 o más discos, reconocibles como diseñados exclusivamente para uso automotriz.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reproductores con sistema de lectura óptica por haz de rayos láser (lectores de discos compactos), con cambiador 8519.81.06 automático incluido con capacidad de Pza Ex. Ex. 6 o más discos, reconocibles como diseñados exclusivamente para uso automotriz.
 Reproductores de audio (en soportes de almacenamiento a base de 8519.81.07 Pza Ex. Ex. semiconductores) digitales extraíbles, incluyendo los de tipo diadema.
 Aparatos para dictar, incluso con dispositivo de reproducción de sonido 8519.81.08 Pza 10 Ex. incorporado, que sólo funcionen con fuente de energía eléctrica exterior.
 Aparatos de grabación y reproducción de sonido, en cinta magnética de 8519.81.09 ancho superior o igual a 6 mm, para Pza 5 Ex. estaciones difusoras de radio o televisión y estudios de grabación.
 Aparatos de grabación con dispositivo de reproducción incorporado, 8519.81.10 Pza Ex. Ex. portátiles, de sonido almacenado en soportes de tecnología digital.
 Reproductores de casetes (tocacasetes) de bolsillo; de tipo 8519.81.12 Pza Ex. Ex. doméstico y/o para automóviles, con peso unitario igual o inferior a 3.5 kg. 8519.81.13 Contestadores telefónicos. Pza 10 Ex. 8519.81.99 Los demás. Pza 15 Ex. 8519.89 -- Los demás.
 Tornamesas profesionales ("turntable"), incluso con altavoces (altoparlantes), sin cambiador 8519.89.01 automático ni mueble, reconocibles Pza 5 Ex. como diseñadas exclusivamente para el uso de radiodifusoras y estudios profesionales de grabación. 8519.89.99 Los demás. Pza Ex. Ex. 85.21 Aparatos de grabación o reproducción de imagen y sonido (vídeos), incluso con receptor de señales de imagen y sonido incorporado. 8521.10 - De cinta magnética. 8521.10.02 De cinta magnética. Pza Ex. Ex. 8521.90 - Los demás.
-Sistemas de grabación, archivo y reproducción de imágenes y sonido en televisión, compuestos por los siguientes elementos:
-
-a) unidad de 8521.90.01 manejo digital de audio y video, b) Pza Ex. Ex. unidades de control automatizado de imágenes y sonido en medios magnéticos, c) ruteadores y, d) equipos de enlace.
+Sistemas de grabación, archivo y reproducción de imágenes y sonido en televisión, compuestos por los siguientes elementos: a) unidad de 8521.90.01 manejo digital de audio y video, b) Pza Ex. Ex. unidades de control automatizado de imágenes y sonido en medios magnéticos, c) ruteadores y, d) equipos de enlace.
 De disco o de elementos en estado sólido (chips), sin altavoces, excepto 8521.90.02 lo comprendido en las fracciones Pza Ex. Ex. arancelarias 8521.90.03, 8521.90.04 y 8521.90.05.
 Unidades reproductoras de discos de video digitalizado (DVD), sin gabinete, 8521.90.03 reconocibles como diseñadas para su Pza Ex. Ex. incorporación física en aparatos receptores de televisión.
 De disco, con amplificador incorporado, salidas para altavoces y procesador digital de audio, incluso 8521.90.04 con sintonizador de canales de Pza 15 Ex. televisión y/o sintonizador de bandas de radiodifusión, aun cuando se presenten con sus altavoces.
@@ -9390,8 +11354,10 @@ Aparatos receptores de radiodifusión que solo funcionen con fuente de energía 
 Combinados con grabador o 8527.21 -reproductor de sonido.
 Receptores de radio AM-FM, aun cuando incluyan transmisores8527.21.01 receptores de radio banda civil o Pza 15 Ex. receptor de señal satelital, o entradas para "Bluethooth" o "USB". 8527.21.99 Los demás. Pza 15 Ex. 8527.29 -- Los demás.
 Receptores de radiodifusión, AM reconocibles como diseñados 8527.29.01 Pza 25 Ex. exclusivamente para uso automotriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 8527.29.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) - Los demás:
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 8527.29.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+- Los demás:
 Combinados con grabador o 8527.91 -reproductor de sonido.
 Combinados con grabador o 8527.91.02 Pza 15 Ex. reproductor de sonido.
 Sin combinar con grabador o 8527.92 -- reproductor de sonido, pero combinados con reloj.
@@ -9548,7 +11514,8 @@ Cables coaxiales, de uno o más conductores eléctricos, aislados y con funda de
 Cables coaxiales de uno o más conductores concéntricos, aislados, aun cuando vengan recubiertos de materias aislantes, con o sin 8544.20.02 Kg Ex. Ex. mensajero de acero, con una impedancia de 50 a 75 ohms, excepto lo comprendido en la fracción arancelaria 8544.20.01. 8544.20.03 Reconocibles para naves aéreas. Kg Ex. Ex. 8544.20.99 Los demás. Kg 5 Ex.
 Juegos de cables para bujías de encendido y demás juegos de cables 8544.30 de los tipos utilizados en los medios de transporte. 8544.30.01 Reconocibles para naves aéreas. Kg Ex. Ex.
 Los demás. 8544.30.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás conductores eléctricos - para una tensión inferior o igual a 1,000 V: 8544.42 -- Provistos de piezas de conexión. 8544.42.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8544.42.99 Los demás. Kg 5 Ex. 8544.49 -- Los demás. 8544.49.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8544.49.99 Los demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás conductores eléctricos - para una tensión inferior o igual a 1,000 V: 8544.42 -- Provistos de piezas de conexión. 8544.42.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8544.42.99 Los demás. Kg 5 Ex. 8544.49 -- Los demás. 8544.49.05 Reconocibles para naves aéreas. Kg Ex. Ex. 8544.49.99 Los demás. Kg 5 Ex.
 Los demás conductores eléctricos 8544.60 para una tensión superior a 1,000 V.
 Los demás conductores eléctricos 8544.60.91 Kg 5 Ex. para una tensión superior a 1,000 V. 8544.70 - Cables de fibras ópticas.
 Cables de fibras ópticas. 8544.70.01 Kg 35 Ex.
@@ -9582,6 +11549,7 @@ Que contengan pilas, baterías de pilas, acumuladores eléctricos, interruptores
 Que contengan pilas, baterías de pilas, acumuladores eléctricos, interruptores de mercurio, vidrio de tubos de rayos catódicos u otros 8549.91.01 Kg 15 Ex. vidrios activados, o componentes eléctricos o electrónicos que contengan cadmio, mercurio, plomo o bifenilos policlorados (PCB). 8549.99 -- Los demás. 8549.99.99 Los demás. Kg 15 Ex. _______________
 
 ## Sección XVII — MATERIAL DE TRANSPORTE
+
 Notas. 1. Esta Sección no comprende los artículos de las partidas 95.03 o 95.08 ni los toboganes, “bobsleighs” y similares (partida 95.06). 2. No se consideran partes o accesorios de material de transporte, aunque sean identificables como tales:
 
 a) las juntas o empaquetaduras, arandelas y similares, de cualquier materia (régimen de la materia constitutiva o partida 84.84), así como los demás artículos de caucho vulcanizado sin endurecer (partida 40.16);
@@ -9619,6 +11587,7 @@ Las partes y accesorios de vehículos de cojín (colchón) de aire se clasifican
 El material fijo para vías de aerotrenes se considera material fijo de vías férreas, y los aparatos de señalización, seguridad, control o mando para vías de aerotrenes como aparatos de señalización, seguridad, control o mando para vías férreas. _______________
 
 ## Capítulo 86
+
 Vehículos y material para vías férreas o similares, y sus partes; aparatos mecánicos (incluso electromecánicos) de señalización para vías de comunicación Notas. 1. Este Capítulo no comprende:
 
 a) las traviesas (durmientes) de madera u hormigón para vías férreas o similares y los elementos de hormigón para vías guía de aerotrenes (partidas 44.06 o 68.10);
@@ -9665,6 +11634,7 @@ Contenedores (incluidos los contenedores cisterna y los contenedores depósito) 
 Contenedores (incluidos los contenedores cisterna y los contenedores depósito) 8609.00.01 Pza 15 Ex. especialmente diseñados y equipados para uno o varios medios de transporte. _______________
 
 ## Capítulo 87
+
 Vehículos automóviles, tractores, velocípedos y demás vehículos terrestres; sus partes y accesorios Notas. 1. Este Capítulo no comprende los vehículos diseñados para circular solamente sobre carriles (rieles). 2. En este Capítulo, se entiende por tractores los vehículos con motor esencialmente diseñados para tirar o empujar otros aparatos, vehículos o cargas, incluso si tienen ciertos acondicionamientos accesorios en relación con su utilización principal, que permitan el transporte de herramientas, semillas, abonos, etc.
 Las máquinas e instrumentos de trabajo diseñados para equipar los tractores de la partida 87.01 como material intercambiable siguen su propio régimen, aunque se presenten con el tractor, incluso si están montados sobre éste. 3. Los chasis con cabina incorporada para vehículos automóviles se clasifican en las partidas 87.02 a 87.04 y no en la partida 87.06. 4. La partida 87.12 comprende todas las bicicletas para niños. Los demás velocípedos para niños se clasifican en la partida 95.03.
 Nota de subpartida. 1. La subpartida 8708.22 comprende:
@@ -9716,27 +11686,36 @@ Motociclos de tres ruedas (trimotos) que 8703.21.01 presenten una dirección tip
 Usados, excepto lo comprendido en la 8703.21.02 Pza 50 Ex. fracción arancelaria 8703.21.01. 8703.21.99 Los demás. Pza 20 Ex.
 De cilindrada superior a 1,000 cm³ pero 8703.22 -inferior o igual a 1,500 cm³. 8703.22.02 Usados. Pza 50 Ex.
 Los demás. 8703.22.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De cilindrada superior a 1,500 cm³ pero 8703.23 -inferior o igual a 3,000 cm³. 8703.23.02 Usados. Pza 50 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De cilindrada superior a 1,500 cm³ pero 8703.23 -inferior o igual a 3,000 cm³. 8703.23.02 Usados. Pza 50 Ex.
 Los demás. 8703.23.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 8703.24 -- De cilindrada superior a 3,000 cm³. 8703.24.02 Usados. Pza 50 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+8703.24 -- De cilindrada superior a 3,000 cm³. 8703.24.02 Usados. Pza 50 Ex.
 Los demás. 8703.24.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás vehículos, únicamente con - motor de émbolo (pistón), de encendido por compresión (diésel o semi-diésel): 8703.31 -- De cilindrada inferior o igual a 1,500 cm³. 8703.31.02 Usados. Pza 50 Ex. 8703.31.99 Los demás. Pza 20 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás vehículos, únicamente con - motor de émbolo (pistón), de encendido por compresión (diésel o semi-diésel): 8703.31 -- De cilindrada inferior o igual a 1,500 cm³. 8703.31.02 Usados. Pza 50 Ex. 8703.31.99 Los demás. Pza 20 Ex.
 De cilindrada superior a 1,500 cm³ pero 8703.32 -inferior o igual a 2,500 cm³. 8703.32.02 Usados. Pza 50 Ex.
 Los demás. 8703.32.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 8703.33 -- De cilindrada superior a 2,500 cm³. 8703.33.02 Usados. Pza 50 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+8703.33 -- De cilindrada superior a 2,500 cm³. 8703.33.02 Usados. Pza 50 Ex.
 Los demás. 8703.33.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por chispa y con motor 8703.40 eléctrico, excepto los que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por chispa y con motor 8703.40 eléctrico, excepto los que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica.
 Usados, excepto lo comprendido en la 8703.40.02 Pza 50 Ex. fracción arancelaria 8703.40.03.
 Motociclos de tres ruedas (trimotos), de cilindrada inferior o igual a 1,000 cm³, que presenten una dirección tipo automóvil o, 8703.40.03 al mismo tiempo, diferencial y reversa; Pza 15 Ex. motociclos de cuatro ruedas (cuadrimotos) con dirección tipo automóvil.
 Los demás. 8703.40.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) 8703.50 - Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión (diésel o semi-diésel) y con motor eléctrico, excepto los que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica. 8703.50.02 Usados. Pza 50 Ex. 8703.50.99 Los demás. Pza 20 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+8703.50 - Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión (diésel o semi-diésel) y con motor eléctrico, excepto los que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica. 8703.50.02 Usados. Pza 50 Ex. 8703.50.99 Los demás. Pza 20 Ex.
 Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por chispa y con motor 8703.60 eléctrico, que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica.
 Usados, excepto lo comprendido en la 8703.60.02 Pza 50 Ex. fracción arancelaria 8703.60.03.
 Motociclos de tres ruedas (trimotos), de cilindrada inferior o igual a 1,000 cm³, que presenten una dirección tipo automóvil o, 8703.60.03 al mismo tiempo, diferencial y reversa; Pza 15 Ex. motociclos de cuatro ruedas (cuadrimotos) con dirección tipo automóvil.
 Los demás. 8703.60.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión (diésel o 8703.70 semi-diésel) y con motor eléctrico, que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica. 8703.70.02 Usados. Pza 50 Ex. 8703.70.99 Los demás. Pza 20 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión (diésel o 8703.70 semi-diésel) y con motor eléctrico, que se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica. 8703.70.02 Usados. Pza 50 Ex. 8703.70.99 Los demás. Pza 20 Ex.
 Los demás vehículos, propulsados 8703.80 únicamente con motor eléctrico.
-Eléctricos, excepto usados. 8703.80.01 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 50 Ex. (antes Imp. 15) Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8703.80.02 Usados. Pza 15 Ex. 8703.90 - Los demás. 8703.90.02 Usados. Pza 50 Ex. 8703.90.99 Los demás. Pza 20 Ex.
+Eléctricos, excepto usados. 8703.80.01 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 50 Ex. (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8703.80.02 Usados. Pza 15 Ex. 8703.90 - Los demás. 8703.90.02 Usados. Pza 50 Ex. 8703.90.99 Los demás. Pza 20 Ex.
 Vehículos automóviles para transporte 87.04 de mercancías.
 Volquetes automotores diseñados para 8704.10 utilizarlos fuera de la red de carreteras.
 Volquetes automotores diseñados para 8704.10.02 Pza Ex. Ex. utilizarlos fuera de la red de carreteras.
@@ -9745,7 +11724,8 @@ De peso total con carga máxima inferior o 8704.21 -igual a 5 t.
 Acarreadores de escoria, excepto para la 8704.21.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.21.04 Pza 50 Ex. fracción arancelaria 8704.21.01.
 Los demás. 8704.21.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De peso total con carga máxima superior 8704.22 -a 5 t pero inferior o igual a 20 t.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De peso total con carga máxima superior 8704.22 -a 5 t pero inferior o igual a 20 t.
 Acarreadores de escoria, excepto para la 8704.22.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.22.07 Pza 50 Ex. fracción arancelaria 8704.22.01. 8704.22.99 Los demás. Pza 20 Ex.
 De peso total con carga máxima superior 8704.23 -a 20 t. 8704.23.01 Acarreadores de escoria. Pza 5 Ex.
@@ -9756,7 +11736,8 @@ Acarreadores de escoria, excepto para la 8704.31.01 Pza 5 Ex. recolección de ba
 Motociclos de tres ruedas (trimotos) que presenten una dirección tipo automóvil o, al mismo tiempo, diferencial y reversa; 8704.31.02 Pza 15 Ex. motociclos de cuatro ruedas (cuadrimotos) con dirección tipo automóvil.
 Usados, excepto lo comprendido en las 8704.31.05 fracciones arancelarias 8704.31.01 y Pza 50 Ex. 8704.31.02.
 Los demás. 8704.31.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De peso total con carga máxima superior 8704.32 -a 5 t.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De peso total con carga máxima superior 8704.32 -a 5 t.
 Acarreadores de escoria, excepto para la 8704.32.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.32.07 Pza 50 Ex. fracción arancelaria 8704.32.01. 8704.32.99 Los demás. Pza 20 Ex.
 Los demás, equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión (diésel o semidiésel) y con motor eléctrico:
@@ -9764,7 +11745,8 @@ De peso total con carga máxima inferior o 8704.41 -igual a 5 t.
 Acarreadores de escoria, excepto para la 8704.41.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.41.02 Pza 50 Ex. fracción arancelaria 8704.41.01.
 Los demás. 8704.41.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De peso total con carga máxima superior 8704.42 -a 5 t pero inferior o igual a 20 t.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De peso total con carga máxima superior 8704.42 -a 5 t pero inferior o igual a 20 t.
 Acarreadores de escoria, excepto para la 8704.42.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.42.02 Pza 50 Ex. fracción arancelaria 8704.42.01. 8704.42.99 Los demás. Pza 20 Ex.
 De peso total con carga máxima superior 8704.43 -a 20 t. 8704.43.01 Acarreadores de escoria. Pza 5 Ex.
@@ -9775,11 +11757,14 @@ Acarreadores de escoria, excepto para la 8704.51.01 Pza 5 Ex. recolección de ba
 Motociclos de tres ruedas (trimotos) que presenten una dirección tipo automóvil o, al mismo tiempo, diferencial y reversa; 8704.51.02 Pza 15 Ex. motociclos de cuatro ruedas (cuadrimotos) con dirección tipo automóvil.
 Usados, excepto lo comprendido en las 8704.51.03 fracciones arancelarias 8704.51.01 y Pza 50 Ex. 8704.51.02.
 Los demás. 8704.51.99 Pza 50 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 20) De peso total con carga máxima superior 8704.52 -a 5 t.
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+De peso total con carga máxima superior 8704.52 -a 5 t.
 Acarreadores de escoria, excepto para la 8704.52.01 Pza 5 Ex. recolección de basura doméstica.
 Usados, excepto lo comprendido en la 8704.52.02 Pza 50 Ex. fracción arancelaria 8704.52.01. 8704.52.99 Los demás. Pza 20 Ex.
 Los demás, únicamente propulsados con 8704.60 motor eléctrico. 8704.60.01 Usados. Pza 15 Ex.
-Eléctricos, excepto usados. 8704.60.02 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 50 Ex. (antes Imp. 15) Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8704.90 - Los demás. 8704.90.99 Los demás. Pza 15 Ex.
+Eléctricos, excepto usados. 8704.60.02 Arancel modificado con vigencia temporal DOF 18-11-2022 Pza 50 Ex. (antes Imp. 15)
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8704.90 - Los demás. 8704.90.99 Los demás. Pza 15 Ex.
 Vehículos automóviles para usos especiales, excepto los diseñados principalmente para transporte de personas o mercancías (por ejemplo: coches para reparaciones (auxilio 87.05 mecánico), camiones grúa, camiones de bomberos, camiones hormigonera, coches barredera, coches esparcidores, coches taller, coches radiológicos). 8705.10 - Camiones grúa. 8705.10.01 Camiones-grúa. Pza 15 Ex.
 Camiones automóviles para sondeo o 8705.20 perforación.
 Con equipos hidráulicos de perforación destinados a programas de 8705.20.01 Pza 5 Ex. abastecimiento de agua potable en el medio rural. 8705.20.99 Los demás. Pza 15 Ex. 8705.30 - Camiones de bomberos. 8705.30.01 Camiones de bomberos. Pza 5 Ex. 8705.40 - Camiones hormigonera.
@@ -9795,34 +11780,44 @@ Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel m
 Partes y accesorios de vehículos 87.08 automóviles de las partidas 87.01 a 87.05.
 Parachoques (paragolpes, defensas) y 8708.10 sus partes.
 Defensas para trolebuses. 8708.10.01 Kg 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Defensas reconocibles como diseñadas 8708.10.02 Kg Ex. Ex. exclusivamente para tractores agrícolas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Defensas reconocibles como diseñadas 8708.10.02 Kg Ex. Ex. exclusivamente para tractores agrícolas.
 Defensas completas, reconocibles como diseñadas exclusivamente para vehículos 8708.10.03 Pza 25 Ex. automóviles de hasta diez plazas.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Los demás. 8708.10.99 Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Los demás. 8708.10.99 Pza 10 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) Las demás partes y accesorios de carrocería (incluidas las de cabina): 8708.21 -- Cinturones de seguridad. 8708.21.01 Cinturones de seguridad. Pza Ex. Ex.
 Parabrisas, vidrios traseros (lunetas) y 8708.22 -- demás ventanillas especificados en la Nota 1 de subpartida de este Capítulo.
 Parabrisas, vidrios traseros (lunetas) y demás ventanillas especificados en la Nota 1 de subpartida de este Capítulo. 8708.22.01 Pza 10 Ex.
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 10) 8708.29 -- Los demás. 8708.29.01 Guardafangos. Pza Ex. Ex. 8708.29.02 Capots (cofres). Pza Ex. Ex. 8708.29.03 Estribos. Pza Ex. Ex.
 Viseras, forros de tablero, paneles de 8708.29.04 puerta, coderas, sombrereras, incluso Pza Ex. Ex. acojinadas. 8708.29.05 Para trolebuses. Pza Ex. Ex.
 Para tractores de ruedas. 8708.29.06 Pza 36 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Parrillas de adorno y protección para 8708.29.07 Pza Ex. Ex. radiador. 8708.29.08 Biseles. Pza Ex. Ex. 8708.29.09 Tapas de cajuelas portaequipajes. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Parrillas de adorno y protección para 8708.29.07 Pza Ex. Ex. radiador. 8708.29.08 Biseles. Pza Ex. Ex. 8708.29.09 Tapas de cajuelas portaequipajes. Pza Ex. Ex.
 Marcos para cristales. 8708.29.10 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Aletas, excepto de vidrio, aun cuando se 8708.29.11 presenten con marco. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8708.29.12 Soportes o armazones para acojinados. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Aletas, excepto de vidrio, aun cuando se 8708.29.11 presenten con marco. Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8708.29.12 Soportes o armazones para acojinados. Pza Ex. Ex.
 Reconocibles como diseñados 8708.29.13 Pza Ex. Ex. exclusivamente para capots (cofres).
 Toldos exteriores acojinados, techos corredizos centrales o laterales y sus 8708.29.16 Pza Ex. Ex. partes; de accionamiento manual o electrónico. 8708.29.17 Juntas preformadas para carrocería. Pza Ex. Ex.
 Reconocibles como diseñados 8708.29.18 exclusivamente para lo comprendido en Pza Ex. Ex. la fracción arancelaria 8701.30.01. 8708.29.19 Ensambles de puertas. Pza Ex. Ex.
 Partes troqueladas para carrocería. 8708.29.20 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Tableros de instrumentos, incluso con 8708.29.22 instrumentos de medida o control, para Pza 5 Ex. uso exclusivo en vehículos automóviles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Tableros de instrumentos, incluso con 8708.29.22 instrumentos de medida o control, para Pza 5 Ex. uso exclusivo en vehículos automóviles.
 Dispositivos retractores y sus partes o piezas sueltas, para cinturones de 8708.29.23 Pza 25 Ex. seguridad.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Dispositivos interiores (consolas), reconocibles como diseñados exclusivamente para vehículos 8708.29.24 Pza Ex. Ex. automóviles hasta de diez plazas, aún cuando se presenten con palancas al piso para cambios de velocidades.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Dispositivos interiores (consolas), reconocibles como diseñados exclusivamente para vehículos 8708.29.24 Pza Ex. Ex. automóviles hasta de diez plazas, aún cuando se presenten con palancas al piso para cambios de velocidades.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 8708.29.99 Pza 35 Ex. (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 10) 8708.30 - Frenos y servofrenos; sus partes.
 Para trolebuses. 8708.30.01 Pza 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles como diseñadas 8708.30.02 Kg Ex. Ex. exclusivamente para tractores de ruedas.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles como diseñadas 8708.30.02 Kg Ex. Ex. exclusivamente para tractores de ruedas.
 Guarniciones de frenos montadas, excepto lo comprendido en las fracciones arancelarias 8708.30.01, 8708.30.02 y lo 8708.30.04 reconocido como exclusivamente para lo Pza 25 Ex. comprendido en la fracción arancelaria 8701.30.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Cilindros de ruedas para mecanismos de frenos; juegos de repuesto para cilindros 8708.30.06 Pza Ex. Ex. de rueda y para cilindros maestros, presentados en surtidos (kits) para su venta al por menor.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Cilindros de ruedas para mecanismos de frenos; juegos de repuesto para cilindros 8708.30.06 Pza Ex. Ex. de rueda y para cilindros maestros, presentados en surtidos (kits) para su venta al por menor.
 Frenos de tambor accionados por leva o 8708.30.08 sus partes componentes. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Cilindros maestros para mecanismos de 8708.30.09 Pza 5 Ex. frenos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Cilindros maestros para mecanismos de 8708.30.09 Pza 5 Ex. frenos.
 Frenos de tambor accionados hidráulicamente o sus partes 8708.30.10 Pza 5 Ex. componentes, excepto lo comprendido en la fracción arancelaria 8708.30.06.
 Mangueras de frenos hidráulicos 8708.30.11 Pza 5 Ex. automotrices con conexiones. 8708.30.99 Los demás. Pza Ex. Ex. 8708.40 - Cajas de cambio y sus partes.
 Reconocibles como diseñadas exclusivamente para lo comprendido en 8708.40.01 las fracciones arancelarias 8701.91.01, Pza Ex. Ex. 8701.92.01, 8701.93.01, 8701.94.01, 8701.94.05 y 8701.95.01.
@@ -9831,10 +11826,13 @@ Cajas de velocidades mecánicas con 8708.40.04 Pza Ex. Ex. peso superior o igual
 Reconocibles como diseñadas 8708.40.05 exclusivamente para lo comprendido en Pza Ex. Ex. la fracción arancelaria 8701.30.01.
 Partes reconocibles como diseñadas exclusivamente para lo comprendido en 8708.40.07 Pza Ex. Ex. las fracciones arancelarias 8708.40.02 y 8708.40.04, excepto engranes.
 Forja de flecha, para ser utilizada en 8708.40.08 cajas de velocidad de uso automotriz. Pza 35 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Las demás. 8708.40.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Ejes con diferencial, incluso provistos con 8708.50 - otros órganos de transmisión, y ejes portadores; sus partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Las demás. 8708.40.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Ejes con diferencial, incluso provistos con 8708.50 - otros órganos de transmisión, y ejes portadores; sus partes.
 Para trolebuses. 8708.50.01 Pza 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles como diseñadas exclusivamente para lo comprendido en 8708.50.02 las fracciones arancelarias 8701.91.01, Pza Ex. Ex. 8701.92.01, 8701.93.01, 8701.94.01, 8701.94.05 y 8701.95.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles como diseñadas exclusivamente para lo comprendido en 8708.50.02 las fracciones arancelarias 8701.91.01, Pza Ex. Ex. 8701.92.01, 8701.93.01, 8701.94.01, 8701.94.05 y 8701.95.01.
 Reconocibles como diseñados 8708.50.03 exclusivamente para lo comprendido en Pza Ex. Ex. la fracción arancelaria 8701.30.01.
 Ejes con diferencial traseros sin acoplar a las masas, reconocibles como diseñados 8708.50.04 Pza Ex. Ex. exclusivamente para lo comprendido en la partida 87.03.
 Acoplados a las masas, con o sin mecanismos de frenos y tambores, 8708.50.05 Pza 5 Ex. excepto lo comprendido en las fracciones arancelarias 8708.50.04 y 8708.50.91.
@@ -9842,24 +11840,36 @@ Conjunto diferencial integral compuesto de caja de velocidades, diferencial con 
 Ejes con diferencial delanteros, excepto 8708.50.07 lo comprendido en las fracciones Pza 5 Ex. arancelarias 8708.50.06 y 8708.50.91.
 Ejes portadores delanteros, y sus partes, 8708.50.10 excepto lo comprendido en la fracción Pza Ex. Ex. arancelaria 8708.50.13.
 Ejes portadores reconocibles como diseñados exclusivamente para lo 8708.50.13 Pza 25 Ex. comprendido en la partida 87.03.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Vigas, muñones, brazos en forja para ejes delanteros de vehículos con 8708.50.14 capacidad de carga superior o igual a Pza Ex. Ex. 2,724 kg (6,000 libras), pero inferior o igual a 8,172 kg (18,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Vigas, muñones, brazos en forja para ejes delanteros de vehículos con 8708.50.14 capacidad de carga superior o igual a Pza Ex. Ex. 2,724 kg (6,000 libras), pero inferior o igual a 8,172 kg (18,000 libras).
 Corona en forja para ejes traseros de vehículos con capacidad de carga superior o igual a 8,626 kg (19,000 8708.50.15 Pza 25 Ex. libras), pero inferior o igual a 20,884 kg (46,000 libras).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Fundiciones (esbozos) de mazas para eje delantero de vehículos con capacidad de 8708.50.16 carga superior a 2,724 kg (6,000 libras), Pza Ex. Ex. pero inferior o igual a 8,172 kg (18,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Fundiciones (esbozos) de mazas para eje delantero de vehículos con capacidad de 8708.50.16 carga superior a 2,724 kg (6,000 libras), Pza Ex. Ex. pero inferior o igual a 8,172 kg (18,000 libras).
 Forjas para la fabricación de flechas de 8708.50.18 velocidad constante (homocinéticas). Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Reconocibles como diseñados exclusivamente para ejes cardán, excepto 8708.50.20 Pza 5 Ex. lo comprendido en las fracciones arancelarias 8708.50.22 y 8708.50.23.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Reconocibles como diseñados exclusivamente para ejes cardán, excepto 8708.50.20 Pza 5 Ex. lo comprendido en las fracciones arancelarias 8708.50.22 y 8708.50.23.
 Ensamble de toma de fuerza para control 8708.50.22 de tracción delantera-trasera (PTU). Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Ensamble diferencial hidráulico para estabilización de revoluciones 8708.50.23 Pza 25 Ex. ("Geromatic").
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Forjas o fundiciones de yugos, con peso unitario superior a 6.4 kg pero inferior o 8708.50.24 igual a 14 kg, para utilizarse en el eje Pza 25 Ex. trasero motriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Forjas de flechas de entrada y salida para diferencial de eje trasero; forjas de flechas semi-eje para vehículos con 8708.50.25 capacidad de carga superior a 8,626 kg Pza 25 Ex. (19,000 libras), pero inferior o igual a 20,884 kg (46,000 libras).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Conjuntos compuestos de las siguientes fundiciones: de portadiferencial, de caja para baleros, de caja diferencial, de caja 8708.50.26 cambiador y de caja piñón, todos ellos Pza 25 Ex. para integrar portadiferenciales de eje trasero de vehículos de carga.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Fundiciones de mazas para eje diferencial trasero para vehículos con 8708.50.27 capacidad de carga superior a 8,626 kg Pza Ex. Ex. (19,000 libras), pero inferior o igual a 20,884 kg (46,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Ensamble diferencial hidráulico para estabilización de revoluciones 8708.50.23 Pza 25 Ex. ("Geromatic").
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Forjas o fundiciones de yugos, con peso unitario superior a 6.4 kg pero inferior o 8708.50.24 igual a 14 kg, para utilizarse en el eje Pza 25 Ex. trasero motriz.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Forjas de flechas de entrada y salida para diferencial de eje trasero; forjas de flechas semi-eje para vehículos con 8708.50.25 capacidad de carga superior a 8,626 kg Pza 25 Ex. (19,000 libras), pero inferior o igual a 20,884 kg (46,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Conjuntos compuestos de las siguientes fundiciones: de portadiferencial, de caja para baleros, de caja diferencial, de caja 8708.50.26 cambiador y de caja piñón, todos ellos Pza 25 Ex. para integrar portadiferenciales de eje trasero de vehículos de carga.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Fundiciones de mazas para eje diferencial trasero para vehículos con 8708.50.27 capacidad de carga superior a 8,626 kg Pza Ex. Ex. (19,000 libras), pero inferior o igual a 20,884 kg (46,000 libras).
 Placas troqueladas (preformas), de acero, para la fabricación de fundas para ejes traseros con diferencial, de vehículos con 8708.50.28 capacidad de carga superior a 8,626 kg Pza 25 Ex. (19,000 libras), pero inferior o igual a 20,884 kg (46,000 libras).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Forjas de crucetas para eje trasero motriz para vehículos con capacidad de carga superior o igual a 8,846 kg (19,501 8708.50.29 Pza 25 Ex. libras), pero inferior o igual a 20,884 kg (46,000 libras).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Forjas de piñón para ejes traseros motriz, para vehículos con capacidad de carga superior o igual a 7,258 kg (16,000 8708.50.30 Pza 25 Ex. libras), pero inferior o igual a 20,884 kg (46,000 libras).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás ejes con diferencial reconocibles como diseñados exclusivamente para lo comprendido en 8708.50.91 Pza Ex. Ex. la partida 87.03, excepto los comprendidos en las fracciones arancelarias 8708.50.04 y 8708.50.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Forjas de crucetas para eje trasero motriz para vehículos con capacidad de carga superior o igual a 8,846 kg (19,501 8708.50.29 Pza 25 Ex. libras), pero inferior o igual a 20,884 kg (46,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Forjas de piñón para ejes traseros motriz, para vehículos con capacidad de carga superior o igual a 7,258 kg (16,000 8708.50.30 Pza 25 Ex. libras), pero inferior o igual a 20,884 kg (46,000 libras).
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás ejes con diferencial reconocibles como diseñados exclusivamente para lo comprendido en 8708.50.91 Pza Ex. Ex. la partida 87.03, excepto los comprendidos en las fracciones arancelarias 8708.50.04 y 8708.50.05.
 Los demás ejes con diferencial, excepto 8708.50.92 los comprendidos en la fracción Pza Ex. Ex. arancelaria 8708.50.91.
 Los demás. 8708.50.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8708.70 - Ruedas, sus partes y accesorios.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8708.70 - Ruedas, sus partes y accesorios.
 Tapones o polveras y arillos para ruedas, excepto las reconocidas como diseñadas 8708.70.06 Pza 5 Ex. exclusivamente para trolebuses y lo comprendido en la fracción arancelaria 8701.30.01. 8708.70.99 Los demás. Pza Ex. Ex.
 Sistemas de suspensión y sus partes 8708.80 (incluidos los amortiguadores). 8708.80.01 Para trolebuses. Pza Ex. Ex.
 Reconocibles como diseñadas exclusivamente para lo comprendido en 8708.80.02 las fracciones arancelarias 8701.91.01, Pza Ex. Ex. 8701.92.01, 8701.93.01, 8701.94.01, 8701.94.05 y 8701.95.01.
@@ -9868,28 +11878,37 @@ Cartuchos para amortiguadores ("Mc 8708.80.04 Pza 5 Ex.
 Pherson Struts").
 Partes reconocibles como diseñados exclusivamente para sistemas de 8708.80.05 suspensión, excepto lo comprendido en Pza Ex. Ex. las fracciones arancelarias 8708.80.07, 8708.80.10 y 8708.80.12.
 Horquillas de levante hidráulico. 8708.80.06 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Horquillas, brazos, excéntricos o pernos, 8708.80.07 Pza 5 Ex. para el sistema de suspensión delantera. 8708.80.08 Partes componentes de barras de torsión. Pza 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Horquillas, brazos, excéntricos o pernos, 8708.80.07 Pza 5 Ex. para el sistema de suspensión delantera. 8708.80.08 Partes componentes de barras de torsión. Pza 5 Ex.
 Barras de torsión. 8708.80.09 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Rótulas, para el sistema de suspensión 8708.80.10 Pza 5 Ex. delantera.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Rótulas, para el sistema de suspensión 8708.80.10 Pza 5 Ex. delantera.
 Partes reconocibles como diseñados 8708.80.11 Pza 5 Ex. exclusivamente para amortiguadores.
 Bujes para suspensión. 8708.80.12 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8708.80.99 Los demás. Pza 5 Ex. - Las demás partes y accesorios: 8708.91 -- Radiadores y sus partes.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8708.80.99 Los demás. Pza 5 Ex. - Las demás partes y accesorios: 8708.91 -- Radiadores y sus partes.
 Reconocibles como diseñadas exclusivamente para lo comprendido en las fracciones arancelarias 8701.91.01, 8708.91.01 Pza 35 Ex. 8701.92.01, 8701.93.01, 8701.94.01, 8701.94.05 y 8701.95.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Aspas para radiadores. 8708.91.02 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Radiadores de aceites lubricantes para motores de émbolo (pistón) de encendido 8708.91.03 por compresión (motores Diesel o semi- Kg 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Aspas para radiadores. 8708.91.02 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Radiadores de aceites lubricantes para motores de émbolo (pistón) de encendido 8708.91.03 por compresión (motores Diesel o semi- Kg 25 Ex.
 Diesel).
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8708.91.99 Los demás. Pza 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8708.91.99 Los demás. Pza 5 Ex.
 Silenciadores y tubos (caños) de escape; 8708.92 -sus partes. 8708.92.03 Silenciadores y tubos (caños) de escape; Pza Ex. Ex. sus partes. 8708.93 -- Embragues y sus partes. 8708.93.05 Embragues y sus partes. Pza Ex. Ex.
 Volantes, columnas y cajas de dirección; 8708.94 -sus partes.
 Volantes, columnas y cajas de dirección; 8708.94.12 Pza Ex. Ex. sus partes.
 Bolsas inflables de seguridad con sistema 8708.95 -de inflado (airbag); sus partes.
 Bolsas inflables de seguridad con sistema 8708.95.02 de inflado (airbag); sus partes. Pza 7 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8708.99 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8708.99 -- Los demás.
 Tanques de combustible, excepto los reconocidos como exclusivamente para 8708.99.04 Pza 5 Ex. trolebuses o lo comprendido en la fracción arancelaria 8701.30.01.
 Bastidores ("chasis"), excepto los reconocidos como exclusivamente para 8708.99.07 Pza 5 Ex. trolebuses o lo comprendido en la fracción arancelaria 8701.30.01.
 Perchas o columpios, excepto los reconocidos como exclusivamente para 8708.99.08 trolebuses o lo comprendido en la Pza 25 Ex. fracción arancelaria 8701.30.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) Uniones de ballestas (abrazaderas o soportes), excepto los reconocidos como exclusivamente para trolebuses o lo 8708.99.09 Pza 25 Ex. comprendido en la fracción arancelaria 8701.30.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 5) 8708.99.99 Los demás. Pza Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+Uniones de ballestas (abrazaderas o soportes), excepto los reconocidos como exclusivamente para trolebuses o lo 8708.99.09 Pza 25 Ex. comprendido en la fracción arancelaria 8701.30.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+8708.99.99 Los demás. Pza Ex. Ex.
 Carretillas automóvil sin dispositivo de elevación de los tipos utilizados en fábricas, almacenes, puertos o aeropuertos, para transporte de 87.09 mercancías a corta distancia; carretillas tractor de los tipos utilizados en estaciones ferroviarias; sus partes. - Carretillas: 8709.11 -- Eléctricas. 8709.11.01 Eléctricas. Pza Ex. Ex. 8709.19 -- Las demás. 8709.19.99 Las demás. Pza Ex. Ex. 8709.90 - Partes. 8709.90.01 Partes. Kg Ex. Ex.
 Tanques y demás vehículos 87.10 automóviles blindados de combate, incluso con su armamento; sus partes.
 Tanques y demás vehículos automóviles 8710.00 blindados de combate, incluso con su armamento; sus partes.
@@ -9897,19 +11916,27 @@ Tanques y demás vehículos automóviles 8710.00.01 blindados de combate, inclus
 Motocicletas (incluidos los ciclomotores) y velocípedos 87.11 equipados con motor auxiliar, con sidecar o sin él; sidecares.
 Con motor de émbolo (pistón) de 8711.10 cilindrada inferior o igual a 50 cm³.
 Con motor de émbolo (pistón) de 8711.10.03 cilindrada inferior o igual a 50 cm³. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con motor de émbolo (pistón) de 8711.20 - cilindrada superior a 50 cm³ pero inferior o igual a 250 cm³.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con motor de émbolo (pistón) de 8711.20 - cilindrada superior a 50 cm³ pero inferior o igual a 250 cm³.
 Con motor de émbolo (pistón) de cilindrada superior a 50 cm³ pero inferior 8711.20.05 Pza 25 Ex. o igual a 250 cm³.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con motor de émbolo (pistón) de 8711.30 - cilindrada superior a 250 cm³ pero inferior o igual a 500 cm³.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con motor de émbolo (pistón) de 8711.30 - cilindrada superior a 250 cm³ pero inferior o igual a 500 cm³.
 Con motor de émbolo (pistón) de cilindrada superior a 250 cm³ pero inferior 8711.30.04 Pza 25 Ex. o igual a 500 cm³.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con motor de émbolo (pistón) de 8711.40 - cilindrada superior a 500 cm³ pero inferior o igual a 800 cm³.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con motor de émbolo (pistón) de 8711.40 - cilindrada superior a 500 cm³ pero inferior o igual a 800 cm³.
 Motociclos de tres ruedas (trimotos) que no presenten una dirección tipo automóvil 8711.40.01 Pza 25 Ex. o, al mismo tiempo, diferencial y reversa.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Esbozo de motocicleta conteniendo conjunto formado con bastidor (cuadro) y motor de émbolo (pistón) de cilindrada 8711.40.02 Pza 25 Ex. superior a 500 cm³ pero inferior o igual a 550 cm³, ensamblado o sin ensamblar.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás. 8711.40.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con motor de émbolo (pistón) de 8711.50 cilindrada superior a 800 cm³.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Esbozo de motocicleta conteniendo conjunto formado con bastidor (cuadro) y motor de émbolo (pistón) de cilindrada 8711.40.02 Pza 25 Ex. superior a 500 cm³ pero inferior o igual a 550 cm³, ensamblado o sin ensamblar.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás. 8711.40.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con motor de émbolo (pistón) de 8711.50 cilindrada superior a 800 cm³.
 Con motor de émbolo (pistón) de 8711.50.03 cilindrada superior a 800 cm³. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 8711.60 - Propulsados con motor eléctrico.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+8711.60 - Propulsados con motor eléctrico.
 Propulsados con motor eléctrico. 8711.60.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 8711.90 - Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+8711.90 - Los demás.
 Sidecares para motociclos y velocípedos 8711.90.01 de cualquier clase, presentados Pza Ex. Ex. aisladamente. 8711.90.99 Los demás. Pza 15 Ex.
 Bicicletas y demás velocípedos 87.12 (incluidos los triciclos de reparto), sin motor.
 Bicicletas y demás velocípedos (incluidos 8712.00 los triciclos de reparto), sin motor.
@@ -9937,17 +11964,23 @@ Remolques y semirremolques, 8716.20.04 autocargadores o autodescargadores, Pza 1
 Los demás remolques y semirremolques para transporte de mercancías: 8716.31 -- Cisternas. 8716.31.03 Cisternas. Pza 15 Ex. 8716.39 -- Los demás.
 Reconocibles como diseñados exclusivamente para el transporte de 8716.39.03 Pza Ex. Ex. lanchas, yates y veleros de más de 4.5 m de eslora.
 Remolques tipo plataformas modulares 8716.39.04 con ejes direccionales, incluso con Pza 35 Ex. sección de puente transportador, acoplamientos hidráulicos y/o cuello de ganso y/o motor de accionamiento hidráulico del equipo.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Remolques o semirremolques de dos pisos, reconocibles como diseñados 8716.39.08 Pza Ex. Ex. exclusivamente para transportar ganado bovino.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Remolques o semirremolques de dos pisos, reconocibles como diseñados 8716.39.08 Pza Ex. Ex. exclusivamente para transportar ganado bovino.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 8716.39.99 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 8716.40 - Los demás remolques y semirremolques.
 Los demás remolques y semirremolques.
 Arancel modificado con vigencia temporal DOF 15-08-2023 8716.40.91 (antes Imp. 15) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 8716.80 - Los demás vehículos.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+8716.80 - Los demás vehículos.
 Carretillas, reconocibles como diseñadas 8716.80.03 para ser utilizadas en la construcción o en Pza 15 Ex. la albañilería. 8716.80.99 Los demás. Pza 15 Ex. 8716.90 - Partes. "Conchas" reconocibles como diseñadas 8716.90.03 exclusivamente para lo comprendido en Pza 5 Ex. la fracción arancelaria 8716.80.03.
 Los demás. 8716.90.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) _______________
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+_______________
 
 ## Capítulo 88
+
 Aeronaves, vehículos espaciales, y sus partes Nota. 1. En este Capítulo, se entiende por aeronave no tripulada cualquier aeronave, distinta de las de la partida 88.01, diseñada para vuelos sin piloto a bordo. Pueden estar diseñadas para transportar una carga útil o estar equipadas con cámaras digitales u otros dispositivos integrados permanentemente, para realizar funciones de utilidad durante su vuelo.
 Sin embargo, la expresión aeronave no tripulada no comprende los juguetes voladores, diseñados exclusivamente para fines recreativos (partida 95.03).
 Notas de subpartida. 1. En las subpartidas 8802.11 a 8802.40, la expresión peso en vacío se refiere al peso de los aparatos en orden normal de vuelo, excepto el peso de la tripulación, del carburante y del equipo distinto del que está fijo en forma permanente. 2. Para la aplicación de las subpartidas 8806.21 a 8806.24 y 8806.91 a 8806.94, se entiende por peso máximo de despegue, el peso máximo de los aparatos en orden normal de vuelo en el despegue, incluido el peso de la carga útil, el equipo y el carburante.
@@ -10003,6 +12036,7 @@ Las demás partes de aviones, helicópteros 8807.30 o aeronaves no tripuladas.
 Las demás partes de aviones, helicópteros 8807.30.91 Pza Ex. Ex. o aeronaves no tripuladas. 8807.90 - Las demás. 8807.90.99 Las demás. Pza 5 Ex. _______________
 
 ## Capítulo 89
+
 Barcos y demás artefactos flotantes Nota. 1. Los barcos incompletos o sin terminar y los cascos de barcos, aunque se presenten desmontados o sin montar, así como los barcos completos desmontados o sin montar, se clasifican en la partida 89.06 en caso de duda respecto de la clase de barco a que pertenecen.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Transatlánticos, barcos para excursiones (de cruceros), 89.01 transbordadores, cargueros, gabarras (barcazas) y barcos similares para transporte de personas o mercancías.
@@ -10040,10 +12074,12 @@ Barcos y demás artefactos flotantes para 8908.00 desguace.
 Barcos y demás artefactos flotantes para 8908.00.01 Pza Ex. Ex. desguace. _______________
 
 ## Sección XVIII — INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O CINEMATOGRAFÍA, DE
+
 MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS; APARATOS DE RELOJERÍA; INSTRUMENTOS MUSICALES;
 PARTES Y ACCESORIOS DE ESTOS INSTRUMENTOS O APARATOS
 
 ## Capítulo 90
+
 Instrumentos y aparatos de óptica, fotografía o cinematografía, de medida, control o precisión; instrumentos y aparatos medicoquirúrgicos; partes y accesorios de estos instrumentos o aparatos Notas. 1. Este Capítulo no comprende:
 
 a) los artículos para usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16), cuero natural o cuero regenerado (partida 42.05) o materia textil (partida 59.11);
@@ -10129,7 +12165,8 @@ Brújulas, incluidos los compases de 90.14 navegación; los demás instrumentos 
 Brújulas, incluidos los compases de 9014.10 navegación.
 Brújulas, excepto lo comprendido en la 9014.10.01 Pza Ex. Ex. fracción arancelaria 9014.10.03. 9014.10.02 Reconocibles para naves aéreas. Pza Ex. Ex.
 Brújulas de funcionamiento electrónico, reconocibles como diseñadas 9014.10.03 Pza 25 Ex. exclusivamente para uso automotriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 9014.10.99 Los demás. Pza 10 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+9014.10.99 Los demás. Pza 10 Ex.
 Instrumentos y aparatos para 9014.20 - navegación aérea o espacial (excepto las brújulas).
 Instrumentos y aparatos para 9014.20.01 navegación aérea o espacial (excepto Pza Ex. Ex. las brújulas). 9014.80 - Los demás instrumentos y aparatos. 9014.80.91 Los demás instrumentos y aparatos. Pza Ex. Ex. 9014.90 - Partes y accesorios. 9014.90.02 Partes y accesorios. Kg Ex. Ex.
 Instrumentos y aparatos de geodesia, topografía, agrimensura, nivelación, fotogrametría, hidrografía, 90.15 oceanografía, hidrología, meteorología o geofísica, excepto las brújulas; telémetros. 9015.10 - Telémetros. 9015.10.01 Telémetros. Pza Ex. Ex. 9015.20 - Teodolitos y taquímetros. 9015.20.01 Teodolitos. Pza 15 Ex. 9015.20.99 Los demás. Pza 10 Ex. 9015.30 - Niveles. 9015.30.01 Niveles. Pza Ex. Ex.
@@ -10233,7 +12270,8 @@ Cuentarrevoluciones, contadores de producción, taxímetros, 9029.10 cuentakiló
 Taxímetros electrónicos o 9029.10.03 Pza 15 Ex. electromecánicos. 9029.10.99 Los demás. Pza Ex. Ex.
 Velocímetros y tacómetros; 9029.20 estroboscopios.
 Velocímetros y tacómetros; 9029.20.06 estroboscopios. Pza 10 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 9029.90 - Partes y accesorios. 9029.90.01 Partes y accesorios. Kg Ex. Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+9029.90 - Partes y accesorios. 9029.90.01 Partes y accesorios. Kg Ex. Ex.
 Osciloscopios, analizadores de espectro y demás instrumentos y aparatos para medida o control de magnitudes eléctricas; instrumentos 90.30 y aparatos para medida o detección de radiaciones alfa, beta, gamma, X, cósmicas o demás radiaciones ionizantes.
 Instrumentos y aparatos para medida o 9030.10 detección de radiaciones ionizantes.
 Instrumentos y aparatos para medida o 9030.10.01 Pza Ex. Ex. detección de radiaciones ionizantes. 9030.20 - Osciloscopios y oscilógrafos. 9030.20.02 Osciloscopios y oscilógrafos. Pza Ex. Ex.
@@ -10264,6 +12302,7 @@ Partes y accesorios, no expresados ni comprendidos en otra parte de este 9033.00
 Capítulo, para máquinas, aparatos, instrumentos o artículos del Capítulo 90. _______________
 
 ## Capítulo 91
+
 Aparatos de relojería y sus partes Notas. 1. Este Capítulo no comprende:
 
 a) los cristales para aparatos de relojería y pesas para relojes (régimen de la materia constitutiva);
@@ -10316,6 +12355,7 @@ De metal común, incluso dorado o 9113.20.02 Kg Ex. Ex. plateado. 9113.90 - Las 
 Las demás partes de aparatos de 91.14 relojería. 9114.30 - Esferas o cuadrantes. 9114.30.01 Esferas o cuadrantes. Kg Ex. Ex. 9114.40 - Platinas y puentes. 9114.40.01 Platinas y puentes. Kg Ex. Ex. 9114.90 - Las demás. 9114.90.99 Las demás. Kg Ex. Ex. _______________
 
 ## Capítulo 92
+
 Instrumentos musicales; sus partes y accesorios Notas. 1. Este Capítulo no comprende:
 
 a) las partes y accesorios de uso general, tal como se definen en la Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos similares de plástico (Capítulo 39);
@@ -10363,7 +12403,9 @@ Gabinetes, muebles o sus partes, para 9209.94.01 Kg 5 Ex. pianos. 9209.94.99 Los
 
 ## Sección XIX — ARMAS, MUNICIONES, Y SUS PARTES Y ACCESORIOS
 
+
 ## Capítulo 93
+
 Armas, municiones, y sus partes y accesorios Notas. 1. Este Capítulo no comprende:
 
 a) los cebos y cápsulas fulminantes, detonadores, cohetes de señales o granífugos y demás artículos del Capítulo 36;
@@ -10405,7 +12447,9 @@ Sables, espadas, bayonetas, lanzas y 9307.00.01 demás armas blancas, sus partes
 
 ## Sección XX — MERCANCÍAS Y PRODUCTOS DIVERSOS
 
+
 ## Capítulo 94
+
 Muebles; mobiliario medicoquirúrgico; artículos de cama y similares; luminarias y aparatos de alumbrado no expresados ni comprendidos en otra parte; anuncios, letreros y placas indicadoras, luminosos y artículos similares; construcciones prefabricadas Notas. 1. Este Capítulo no comprende:
 
 a) los colchones, almohadas y cojines, neumáticos o de agua, de los Capítulos 39, 40 o 63;
@@ -10443,68 +12487,107 @@ Asientos de los tipos utilizados en 9401.10.01 Pza Ex. Ex. aeronaves.
 Asientos de los tipos utilizados en 9401.20 vehículos automóviles.
 Asientos de los tipos utilizados en 9401.20.01 Pza Ex. Ex. vehículos automóviles. - Asientos giratorios de altura ajustable: 9401.31 -- De madera.
 De madera. 9401.31.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9401.39 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9401.39 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 9401.39.99 (antes Imp. 10) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Asientos transformables en cama, - excepto el material de acampar o de jardín: 9401.41 -- De madera.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Asientos transformables en cama, - excepto el material de acampar o de jardín: 9401.41 -- De madera.
 De madera. 9401.41.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9401.49 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9401.49 -- Los demás.
 Los demás. 9401.49.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Asientos de ratán (roten), mimbre, bambú o materias similares: 9401.52 -- De bambú.
-De bambú. 9401.52.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Pza 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 9401.53 -- De ratán (roten).
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Asientos de ratán (roten), mimbre, bambú o materias similares: 9401.52 -- De bambú.
+De bambú. 9401.52.01 Arancel modificado con vigencia temporal DOF 15-08-2023 Pza 35 Ex. (antes Imp. 10) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+9401.53 -- De ratán (roten).
 De ratán (roten). 9401.53.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9401.59 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9401.59 -- Los demás.
 Los demás. 9401.59.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás asientos, con armazón de madera: 9401.61 -- Con relleno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás asientos, con armazón de madera: 9401.61 -- Con relleno.
 Con relleno. 9401.61.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9401.69 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9401.69 -- Los demás.
 Los demás. 9401.69.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Los demás asientos, con armazón de metal: 9401.71 -- Con relleno.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Los demás asientos, con armazón de metal: 9401.71 -- Con relleno.
 Con relleno.
 Arancel modificado con vigencia temporal DOF 15-08-2023 9401.71.01 (antes Imp. 10) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 9401.79 -- Los demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+9401.79 -- Los demás.
 Los demás. 9401.79.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9401.80 - Los demás asientos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9401.80 - Los demás asientos.
 Los demás asientos. 9401.80.91 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) - Partes: 9401.91 -- De madera.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+- Partes: 9401.91 -- De madera.
 De madera. 9401.91.01 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 9401.99 -- Las demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+9401.99 -- Las demás.
 Reconocibles como diseñadas 9401.99.01 exclusivamente para tractores agrícolas e Pza Ex. Ex. industriales.
 Las demás. 9401.99.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Mobiliario para medicina, cirugía, odontología o veterinaria (por ejemplo: mesas de operaciones o de reconocimiento, camas con 94.02 mecanismo para uso clínico, sillones de dentista); sillones de peluquería y sillones similares, con dispositivos de orientación y elevación; partes de estos artículos.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Mobiliario para medicina, cirugía, odontología o veterinaria (por ejemplo: mesas de operaciones o de reconocimiento, camas con 94.02 mecanismo para uso clínico, sillones de dentista); sillones de peluquería y sillones similares, con dispositivos de orientación y elevación; partes de estos artículos.
 Sillones de dentista, de peluquería y 9402.10 sillones similares, y sus partes. 9402.10.01 Partes. Kg 15 Ex. 9402.10.99 Los demás. Pza 15 Ex. 9402.90 - Los demás. 9402.90.01 Mesas de operaciones. Pza 10 Ex. 9402.90.02 Parihuelas o camillas. Pza 10 Ex. 9402.90.99 Los demás. Pza 15 Ex. 94.03 Los demás muebles y sus partes.
 Muebles de metal de los tipos utilizados 9403.10 en oficinas.
 Muebles de metal de los tipos utilizados en oficinas.
-Arancel modificado con vigencia temporal DOF 15-08-2023 9403.10.03 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) 9403.20 - Los demás muebles de metal.
+Arancel modificado con vigencia temporal DOF 15-08-2023 9403.10.03 Pza 35 Ex. (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+9403.20 - Los demás muebles de metal.
 Los demás muebles de metal.
 Arancel modificado con vigencia temporal DOF 15-08-2023 9403.20.91 (antes Imp. 7) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Muebles de madera de los tipos utilizados 9403.30 en oficinas.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Muebles de madera de los tipos utilizados 9403.30 en oficinas.
 Muebles de madera de los tipos utilizados en oficinas, excepto lo comprendido en la 9403.30.01 Pza 25 Ex. fracción arancelaria 9403.30.02.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Llamados "estaciones de trabajo", reconocibles como diseñados para alojar un sistema de cómputo personal, conteniendo por lo menos: una cubierta 9403.30.02 Pza 25 Ex. para monitor, una cubierta para teclado y una cubierta para la unidad central de proceso.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Muebles de madera de los tipos utilizados 9403.40 en cocinas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Llamados "estaciones de trabajo", reconocibles como diseñados para alojar un sistema de cómputo personal, conteniendo por lo menos: una cubierta 9403.30.02 Pza 25 Ex. para monitor, una cubierta para teclado y una cubierta para la unidad central de proceso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Muebles de madera de los tipos utilizados 9403.40 en cocinas.
 Muebles de madera de los tipos utilizados 9403.40.01 en cocinas. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Muebles de madera de los tipos utilizados 9403.50 en dormitorios.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Muebles de madera de los tipos utilizados 9403.50 en dormitorios.
 Muebles de madera de los tipos utilizados 9403.50.01 en dormitorios. Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9403.60 - Los demás muebles de madera.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9403.60 - Los demás muebles de madera.
 Mesas, reconocibles como diseñadas exclusivamente para dibujo o trazado (restiradores), sin equipar. 9403.60.01 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Atriles. 9403.60.02 Pza 25 Ex.
-Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 25) Llamados "estaciones de trabajo", reconocibles como diseñados para alojar un sistema de cómputo personal, conteniendo por lo menos: una cubierta 9403.60.03 Pza 25 Ex. para monitor, una cubierta para teclado y una cubierta para la unidad central de proceso.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 9403.60.99 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) 9403.70 - Muebles de plástico.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+Atriles. 9403.60.02 Pza 25 Ex.
+Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 15) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 25)
+Llamados "estaciones de trabajo", reconocibles como diseñados para alojar un sistema de cómputo personal, conteniendo por lo menos: una cubierta 9403.60.03 Pza 25 Ex. para monitor, una cubierta para teclado y una cubierta para la unidad central de proceso.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 9403.60.99 Pza 25 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+9403.70 - Muebles de plástico.
 Muebles de plástico. 9403.70.03 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Muebles de otras materias, incluidos el - ratán (roten), mimbre, bambú o materias similares: 9403.82 -- De bambú.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Muebles de otras materias, incluidos el - ratán (roten), mimbre, bambú o materias similares: 9403.82 -- De bambú.
 De bambú. 9403.82.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 9403.83 -- De ratán (roten).
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+9403.83 -- De ratán (roten).
 De ratán (roten). 9403.83.01 Pza 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) 9403.89 -- Los demás.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+9403.89 -- Los demás.
 Los demás.
 Arancel modificado con vigencia temporal DOF 15-08-2023 9403.89.99 (antes Imp. 15) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Partes: 9403.91 -- De madera. 9403.91.01 De madera. Kg Ex. Ex. 9403.99 -- Las demás.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Partes: 9403.91 -- De madera. 9403.91.01 De madera. Kg Ex. Ex. 9403.99 -- Las demás.
 Las demás. 9403.99.99 Kg 25 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs, almohadas), bien con 94.04 muelles (resortes), bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no. 9404.10 - Somieres.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Somieres; artículos de cama y artículos similares (por ejemplo: colchones, cubrepiés, edredones, cojines, pufs, almohadas), bien con 94.04 muelles (resortes), bien rellenos o guarnecidos interiormente con cualquier materia, incluidos los de caucho o plástico celulares, recubiertos o no. 9404.10 - Somieres.
 Somieres.
 Arancel modificado con vigencia temporal DOF 15-08-2023 9404.10.01 (antes Imp. 15) Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) - Colchones: 9404.21 -- De caucho o plástico celulares, recubiertos o no.
+Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25)
+Fracción reformada DOF 29-12-2025 (mantiene Imp. 35)
+- Colchones: 9404.21 -- De caucho o plástico celulares, recubiertos o no.
 De caucho o plástico celulares, 9404.21.02 Pza 15 Ex. recubiertos o no. 9404.29 -- De otras materias.
 De otras materias. 9404.29.99 Pza 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) 9404.30 - Sacos (bolsas) de dormir. 9404.30.01 Sacos (bolsas) de dormir. Pza 15 Ex.
@@ -10539,6 +12622,7 @@ Unidades de construcción modular, de 9406.20 acero.
 Unidades de construcción modular, de 9406.20.01 Kg 10 Ex. acero. 9406.90 - Las demás. 9406.90.99 Las demás. Kg 10 Ex. _______________
 
 ## Capítulo 95
+
 Juguetes, juegos y artículos para recreo o deporte; sus partes y accesorios Notas. 1. Este Capítulo no comprende:
 
 a) las velas (partida 34.06);
@@ -10548,6 +12632,7 @@ b) los artículos de pirotecnia para diversión de la partida 36.04;
 c) los hilados, monofilamentos, cordones, cuerdas de tripa y similares para la pesca, incluso cortados en longitudes determinadas, pero sin montar en sedal (tanza) con anzuelo, del
 
 ## Capítulo 39 — , partida 42.06 o Sección XI;
+
 d) las bolsas para artículos de deporte y demás continentes, de las partidas 42.02, 43.03 o 43.04;
 
 e) los disfraces de materia textil, de los Capítulos 61 o 62; las prendas de vestir de deporte y prendas especiales de materia textil, de los Capítulos 61 o 62, incluso las que incorporen accesoriamente elementos de protección, tales como placas protectoras o acolchado en las partes correspondientes a los codos, las rodillas o la ingle (por ejemplo: prendas para esgrima o suéteres (jerseys) para porteros (arqueros) de fútbol);
@@ -10602,46 +12687,75 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Triciclos, patinetes, coches de pedal y juguetes similares con ruedas; coches y sillas de ruedas para muñecas o muñecos; muñecas o muñecos; los 95.03 demás juguetes; modelos reducidos y modelos similares, para entretenimiento, incluso animados; rompecabezas de cualquier clase.
 Triciclos, patinetes, coches de pedal y juguetes similares con ruedas; coches y sillas de ruedas para muñecas o muñecos; muñecas o muñecos; los 9503.00 demás juguetes; modelos reducidos y modelos similares, para entretenimiento, incluso animados; rompecabezas de cualquier clase.
 Triciclos o cochecitos de pedal o palanca. 9503.00.01 Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Con ruedas, diseñados para que los conduzcan los niños, impulsados por ellos o por otra persona, o accionados por baterías recargables de hasta 12 V, 9503.00.02 Pza 30 Ex. excepto, en ambos casos, lo comprendido en la fracción arancelaria 9503.00.01.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Muñecas y muñecos que representen solamente seres humanos, incluso vestidos, que contengan mecanismos 9503.00.04 operados eléctrica o electrónicamente, Pza 30 Ex. excepto lo comprendido en la fracción arancelaria 9503.00.05.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Muñecas y muñecos que representen solamente seres humanos, de longitud inferior o igual a 30 cm, incluso vestidos, 9503.00.05 Pza 30 Ex. articulados o con mecanismos operados eléctrica o electrónicamente.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Trenes eléctricos, incluidos los carriles 9503.00.07 (rieles), señales y demás accesorios. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Juguetes terapéutico-pedagógicos, reconocibles como diseñados exclusivamente para usos clínicos, para corregir disfunciones psicomotrices o 9503.00.08 Kg 30 Ex. problemas de lento aprendizaje, en instituciones de educación especial o similares.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Modelos reducidos "a escala" para 9503.00.09 ensamblar, de madera de balsa. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Modelos reducidos "a escala" para ensamblar, incluso los que tengan componentes electrónicos o eléctricos, 9503.00.10 Kg 30 Ex. excepto lo comprendido en la fracción arancelaria 9503.00.07.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juegos o surtidos de construcción; los 9503.00.11 demás juguetes de construcción. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes que representen animales o 9503.00.12 seres no humanos, rellenos. Pza 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes que representen animales o seres no humanos, sin rellenar, de papel 9503.00.13 Kg 30 Ex. o cartón.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Instrumentos y aparatos, de música, de 9503.00.15 juguete. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Rompecabezas de papel o cartón. 9503.00.16 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Rompecabezas de materias distintas a 9503.00.17 papel o cartón. Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juegos o surtidos reconocibles como diseñados exclusivamente para que el niño o la niña, representen un personaje, 9503.00.18 profesión u oficio, excepto juegos que Kg 30 Ex. imiten preparaciones de belleza, de maquillaje o de manicura.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes y modelos, con motor, excepto lo comprendido en las fracciones arancelarias 9503.00.02, 9503.00.04, 9503.00.20 9503.00.05, 9503.00.07, 9503.00.09, Kg 30 Ex. 9503.00.10, 9503.00.11, 9503.00.12, 9503.00.15 y 9503.00.18.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Ábacos. 9503.00.21 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Preparaciones de materias plásticas, o caucho, reconocibles como diseñadas 9503.00.22 Kg 30 Ex. para formar globos por insuflado.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes inflables, incluso las pelotas de juguete fabricadas exclusivamente de materias plásticas, excepto lo 9503.00.23 Kg 30 Ex. comprendido en la fracción arancelaria 9503.00.22.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes destinados a niños de hasta 36 9503.00.24 meses de edad, excepto lo comprendido Kg 30 Ex. en las fracciones arancelarias 9503.00.01, 9503.00.02, 9503.00.04, 9503.00.05, 9503.00.11, 9503.00.12, 9503.00.13, 9503.00.15, 9503.00.16, 9503.00.17, 9503.00.20 y 9503.00.23.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Juguetes réplica de armas de fuego, que tengan apariencia, forma y/o configuración de las armas de la 9503.00.25 subpartida 9301.90, o de las partidas Kg 30 Ex. 93.02 y 93.03, pero que no sean las armas comprendidas en la partida 93.04.
-Fracción reformada DOF 29-12-2025 (antes Imp. 10) Juguetes reconocibles como diseñados exclusivamente para lanzar agua, 9503.00.26 excepto los comprendidos en la fracción Kg 30 Ex. arancelaria 9503.00.25.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Partes o piezas sueltas para triciclos, 9503.00.27 patinetes, coches de pedal y juguetes Kg Ex. Ex. similares con ruedas.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Con ruedas, diseñados para que los conduzcan los niños, impulsados por ellos o por otra persona, o accionados por baterías recargables de hasta 12 V, 9503.00.02 Pza 30 Ex. excepto, en ambos casos, lo comprendido en la fracción arancelaria 9503.00.01.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Muñecas y muñecos que representen solamente seres humanos, incluso vestidos, que contengan mecanismos 9503.00.04 operados eléctrica o electrónicamente, Pza 30 Ex. excepto lo comprendido en la fracción arancelaria 9503.00.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Muñecas y muñecos que representen solamente seres humanos, de longitud inferior o igual a 30 cm, incluso vestidos, 9503.00.05 Pza 30 Ex. articulados o con mecanismos operados eléctrica o electrónicamente.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Trenes eléctricos, incluidos los carriles 9503.00.07 (rieles), señales y demás accesorios. Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Juguetes terapéutico-pedagógicos, reconocibles como diseñados exclusivamente para usos clínicos, para corregir disfunciones psicomotrices o 9503.00.08 Kg 30 Ex. problemas de lento aprendizaje, en instituciones de educación especial o similares.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Modelos reducidos "a escala" para 9503.00.09 ensamblar, de madera de balsa. Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Modelos reducidos "a escala" para ensamblar, incluso los que tengan componentes electrónicos o eléctricos, 9503.00.10 Kg 30 Ex. excepto lo comprendido en la fracción arancelaria 9503.00.07.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juegos o surtidos de construcción; los 9503.00.11 demás juguetes de construcción. Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes que representen animales o 9503.00.12 seres no humanos, rellenos. Pza 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes que representen animales o seres no humanos, sin rellenar, de papel 9503.00.13 Kg 30 Ex. o cartón.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Instrumentos y aparatos, de música, de 9503.00.15 juguete. Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Rompecabezas de papel o cartón. 9503.00.16 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Rompecabezas de materias distintas a 9503.00.17 papel o cartón. Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juegos o surtidos reconocibles como diseñados exclusivamente para que el niño o la niña, representen un personaje, 9503.00.18 profesión u oficio, excepto juegos que Kg 30 Ex. imiten preparaciones de belleza, de maquillaje o de manicura.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes y modelos, con motor, excepto lo comprendido en las fracciones arancelarias 9503.00.02, 9503.00.04, 9503.00.20 9503.00.05, 9503.00.07, 9503.00.09, Kg 30 Ex. 9503.00.10, 9503.00.11, 9503.00.12, 9503.00.15 y 9503.00.18.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Ábacos. 9503.00.21 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Preparaciones de materias plásticas, o caucho, reconocibles como diseñadas 9503.00.22 Kg 30 Ex. para formar globos por insuflado.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes inflables, incluso las pelotas de juguete fabricadas exclusivamente de materias plásticas, excepto lo 9503.00.23 Kg 30 Ex. comprendido en la fracción arancelaria 9503.00.22.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes destinados a niños de hasta 36 9503.00.24 meses de edad, excepto lo comprendido Kg 30 Ex. en las fracciones arancelarias 9503.00.01, 9503.00.02, 9503.00.04, 9503.00.05, 9503.00.11, 9503.00.12, 9503.00.13, 9503.00.15, 9503.00.16, 9503.00.17, 9503.00.20 y 9503.00.23.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Juguetes réplica de armas de fuego, que tengan apariencia, forma y/o configuración de las armas de la 9503.00.25 subpartida 9301.90, o de las partidas Kg 30 Ex. 93.02 y 93.03, pero que no sean las armas comprendidas en la partida 93.04.
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Juguetes reconocibles como diseñados exclusivamente para lanzar agua, 9503.00.26 excepto los comprendidos en la fracción Kg 30 Ex. arancelaria 9503.00.25.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Partes o piezas sueltas para triciclos, 9503.00.27 patinetes, coches de pedal y juguetes Kg Ex. Ex. similares con ruedas.
 Prendas, complementos (accesorios) de vestir, calzado, sombreros y demás 9503.00.28 tocados, para muñecas y muñecos que Kg 30 Ex. representen solamente seres humanos.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Subensambles eléctricos o electrónicos, reconocibles como diseñados 9503.00.29 exclusivamente para los productos de las Kg Ex. Ex. fracciones arancelarias 9503.00.04 y 9503.00.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Subensambles eléctricos o electrónicos, reconocibles como diseñados 9503.00.29 exclusivamente para los productos de las Kg Ex. Ex. fracciones arancelarias 9503.00.04 y 9503.00.05.
 Partes y accesorios de muñecas y muñecos que representen solamente 9503.00.30 seres humanos, excepto lo comprendido Kg Ex. Ex. en las fracciones arancelarias 9503.00.28 y 9503.00.29.
 Partes y accesorios de instrumentos y 9503.00.31 Kg Ex. Ex. aparatos, de música, de juguete.
 Partes y accesorios reconocibles como diseñados exclusivamente para lo 9503.00.32 Kg Ex. Ex. comprendido en la fracción arancelaria 9503.00.20.
 Motores, excepto eléctricos reconocibles como diseñados exclusivamente para 9503.00.33 Kg Ex. Ex. montarse en juguetes o en modelos, reducidos.
 Partes y accesorios reconocibles como diseñados exclusivamente para los 9503.00.34 Kg Ex. Ex. productos comprendidos en la fracción arancelaria 9503.00.24.
 Partes, piezas y accesorios, reconocibles como diseñadas para coches y sillas de 9503.00.35 Kg 30 Ex. ruedas para muñecas o muñecos, para los demás juguetes de rueda, o para lo comprendido en las fracciones arancelarias 9503.00.21, 9503.00.25 o 9503.00.26.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) Los demás juguetes con ruedas diseñados para que los conduzcan los 9503.00.91 niños; coches y sillas de ruedas para Pza 30 Ex. muñecas o muñecos.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Las demás muñecas y muñecos que representen solamente seres humanos, incluso vestidos, excepto lo comprendido 9503.00.92 Pza 30 Ex. en las fracciones arancelarias 9503.00.04.y 9503.00.05.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás juguetes que representen animales o seres no humanos, sin 9503.00.93 Kg 30 Ex. rellenar.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Los demás. 9503.00.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Videoconsolas y máquinas de videojuego, juegos de sociedad, incluidos los juegos con motor o mecanismo, billares, mesas especiales para juegos de casino y juegos de 95.04 bolos automáticos (“bowlings”), juegos activados con monedas, billetes de banco, tarjetas bancarias, fichas o por cualquier otro medio de pago.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+Los demás juguetes con ruedas diseñados para que los conduzcan los 9503.00.91 niños; coches y sillas de ruedas para Pza 30 Ex. muñecas o muñecos.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Las demás muñecas y muñecos que representen solamente seres humanos, incluso vestidos, excepto lo comprendido 9503.00.92 Pza 30 Ex. en las fracciones arancelarias 9503.00.04.y 9503.00.05.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás juguetes que representen animales o seres no humanos, sin 9503.00.93 Kg 30 Ex. rellenar.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Los demás. 9503.00.99 Kg 30 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Videoconsolas y máquinas de videojuego, juegos de sociedad, incluidos los juegos con motor o mecanismo, billares, mesas especiales para juegos de casino y juegos de 95.04 bolos automáticos (“bowlings”), juegos activados con monedas, billetes de banco, tarjetas bancarias, fichas o por cualquier otro medio de pago.
 Billares de cualquier clase y sus 9504.20 accesorios. 9504.20.01 Tizas y bolas de billar. Kg 5 Ex. 9504.20.99 Los demás. Kg 10 Ex.
 Los demás juegos activados con monedas, billetes de banco, tarjetas 9504.30 - bancarias, fichas o por cualquier otro medio de pago, excepto los juegos de bolos automáticos ("bowlings"). 9504.30.01 Partes y accesorios. Kg Ex. Ex.
 Máquinas de funcionamiento eléctrico, electrónico, mecánico o combinación de 9504.30.02 ellos, a través de las cuales se realicen Pza 15 Ex. sorteos con números o símbolos, que están sujetos al azar. 9504.30.99 Los demás. Kg 15 Ex. 9504.40 - Naipes.
 Naipes. 9504.40.01 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Videoconsolas y máquinas de videojuego, 9504.50 excepto las de la subpartida 9504.30.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Videoconsolas y máquinas de videojuego, 9504.50 excepto las de la subpartida 9504.30.
 Partes y accesorios, para las 9504.50.03 videoconsolas y máquinas de Kg Ex. Ex. videojuegos.
 Videoconsolas y máquinas de videojuego, excepto las de la subpartida 9504.30 y lo 9504.50.04 Pza Ex. Ex. comprendido en la fracción arancelaria 9504.50.03. 9504.90 - Los demás. 9504.90.01 Pelotas de celuloide. Kg Ex. Ex.
 Bolas, excepto lo comprendido en la 9504.90.02 Pza Ex. Ex. fracción arancelaria 9504.90.01.
@@ -10651,7 +12765,8 @@ Artículos para fiestas, carnaval u otras 95.05 diversiones, incluidos los de ma
 Árboles artificiales para fiestas de 9505.10.01 Kg 15 Ex.
 Navidad. 9505.10.99 Los demás. Kg 10 Ex. 9505.90 - Los demás.
 Los demás. 9505.90.99 Kg 30 Ex.
-Fracción reformada DOF 29-12-2025 (antes Imp. 15) Artículos y material para cultura física, gimnasia, atletismo, demás deportes (incluido el tenis de mesa) o para 95.06 juegos al aire libre, no expresados ni comprendidos en otra parte de este Capítulo; piscinas, incluso infantiles.
+Fracción reformada DOF 29-12-2025 (antes Imp. 15)
+Artículos y material para cultura física, gimnasia, atletismo, demás deportes (incluido el tenis de mesa) o para 95.06 juegos al aire libre, no expresados ni comprendidos en otra parte de este Capítulo; piscinas, incluso infantiles.
 Esquís para nieve y demás artículos para práctica del esquí de nieve: 9506.11 -- Esquís. 9506.11.01 Esquís. Par Ex. Ex. 9506.12 -- Fijadores de esquí. 9506.12.01 Fijadores de esquí. Kg Ex. Ex. 9506.19 -- Los demás. 9506.19.99 Los demás. Kg Ex. Ex.
 Esquís acuáticos, tablas, deslizadores de - vela y demás artículos para práctica de deportes acuáticos: 9506.21 -- Deslizadores de vela. 9506.21.01 Deslizadores de vela. Pza Ex. Ex. 9506.29 -- Los demás. 9506.29.99 Los demás. Kg Ex. Ex.
 Palos de golf ("clubs") y demás artículos para golf: 9506.31 -- Palos de golf ("clubs") completos.
@@ -10672,6 +12787,7 @@ Simuladores de movimiento y cines 9508.24 -dinámicos.
 Simuladores de movimiento y cines 9508.24.01 Pza 10 Ex. dinámicos. 9508.25 -- Paseos acuáticos. 9508.25.01 Paseos acuáticos. Pza 10 Ex. 9508.26 -- Atracciones de parques acuáticos. 9508.26.01 Atracciones de parques acuáticos. Pza 10 Ex. 9508.29 -- Las demás. 9508.29.99 Las demás. Pza 10 Ex. 9508.30 - Atracciones de feria. 9508.30.01 Atracciones de feria. Pza Ex. Ex. 9508.40 - Teatros ambulantes. 9508.40.01 Teatros ambulantes. Pza 10 Ex. _______________
 
 ## Capítulo 96
+
 Manufacturas diversas Notas. 1. Este Capítulo no comprende:
 
 a) los lápices de maquillaje o tocador (Capítulo 33);
@@ -10755,7 +12871,8 @@ Encendedores de gas no recargables, de 9613.10.01 Pza 15 Ex. bolsillo.
 Encendedores de gas recargables, de 9613.20 bolsillo.
 Encendedores de gas recargables, de 9613.20.01 Pza 15 Ex. bolsillo. 9613.80 - Los demás encendedores y mecheros. 9613.80.02 Encendedores de mesa. Pza 15 Ex. 9613.80.99 Los demás. Pza Ex. Ex. 9613.90 - Partes.
 Reconocibles como diseñadas exclusivamente para los encendedores 9613.90.01 de cigarrillos a base de resistencia para Kg 25 Ex. uso automotriz.
-Fracción reformada DOF 29-12-2025 (antes Imp. Ex.) 9613.90.02 Para encendedores a gas. Kg Ex. Ex. 9613.90.99 Los demás. Kg 5 Ex.
+Fracción reformada DOF 29-12-2025 (antes Imp. Ex.)
+9613.90.02 Para encendedores a gas. Kg Ex. Ex. 9613.90.99 Los demás. Kg 5 Ex.
 Pipas (incluidas las cazoletas), 96.14 boquillas para cigarros (puros) o cigarrillos, y sus partes.
 Pipas (incluidas las cazoletas), boquillas 9614.00 para cigarros (puros) o cigarrillos, y sus partes. 9614.00.01 Escalabornes. Kg Ex. Ex. 9614.00.03 Partes. Kg Ex. Ex. 9614.00.99 Las demás. Kg 15 Ex.
 Peines, peinetas, pasadores y artículos similares; horquillas; rizadores, 96.15 bigudíes y artículos similares para el peinado, excepto los de la partida 85.16, y sus partes.
@@ -10774,10 +12891,16 @@ Maniquíes con peso superior o igual a 25 9618.00.01 Kg 10 Ex. kg. 9618.00.99 Lo
 Compresas y tampones higiénicos, 96.19 pañales y artículos similares, de cualquier materia.
 Compresas y tampones higiénicos, 9619.00 pañales y artículos similares, de cualquier materia.
 De pasta de papel, papel, guata de celulosa o napa de fibras de celulosa.
-Arancel modificado con vigencia temporal DOF 06-01-2023 9619.00.01 Kg 35 Ex. (antes Imp. 5) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 5) Fracción reformada DOF 29-12-2025 (antes Imp. 5) De guata de materia textil.
+Arancel modificado con vigencia temporal DOF 06-01-2023 9619.00.01 Kg 35 Ex. (antes Imp. 5) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 5)
+Fracción reformada DOF 29-12-2025 (antes Imp. 5)
+De guata de materia textil.
 Arancel modificado con vigencia temporal DOF 06-01-2023 9619.00.02 (antes Imp. 10) Kg 35 Ex.
-Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 10) Fracción reformada DOF 29-12-2025 (antes Imp. 10) Pañales y artículos similares, de otras materias textiles, excepto lo comprendido en la fracción arancelaria 9619.00.02. 9619.00.03 Pza 35 Ex.
-Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 20) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 20) Fracción reformada DOF 29-12-2025 (antes Imp. 20) Toallas sanitarias (compresas), tampones higiénicos y artículos similares, de otras materias textiles, excepto lo comprendido 9619.00.04 en la fracción arancelaria 9619.00.02. Kg 10 Ex.
+Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 10)
+Fracción reformada DOF 29-12-2025 (antes Imp. 10)
+Pañales y artículos similares, de otras materias textiles, excepto lo comprendido en la fracción arancelaria 9619.00.02. 9619.00.03 Pza 35 Ex.
+Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 20) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 20)
+Fracción reformada DOF 29-12-2025 (antes Imp. 20)
+Toallas sanitarias (compresas), tampones higiénicos y artículos similares, de otras materias textiles, excepto lo comprendido 9619.00.04 en la fracción arancelaria 9619.00.02. Kg 10 Ex.
 Arancel modificado con vigencia temporal DOF 06-01-2023 (antes Imp. 10) Arancel “eliminado” del Decreto DOF 06-01-2023 por Decreto DOF 31-12-2024 (antes Imp. Ex y se restablece Imp. 10) 9619.00.99 Los demás. Kg 20 Ex.
 Monopies, bípodes, trípodes y 96.20 artículos similares.
 Monopies, bípodes, trípodes y artículos 9620.00 similares. 9620.00.01 Tripies de cámaras fotográficas. Kg 10 Ex.
@@ -10786,7 +12909,9 @@ De las materias indicadas en la Partida 68.15. 9620.00.03 Arancel modificado con
 
 ## Sección XXI — OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES
 
+
 ## Capítulo 97
+
 Objetos de arte o colección y antigüedades Notas. 1. Este Capítulo no comprende:
 
 a) los sellos (estampillas) de correo, timbres fiscales, enteros postales, demás artículos franqueados y análogos, sin obliterar, de la partida 49.07;
@@ -10830,7 +12955,9 @@ Descripción modificada DOF 18-11-2022 9705.39.99 Las demás. Pza Ex. Ex. 97.06 
 
 ## Sección XXII — OPERACIONES ESPECIALES
 
+
 ## Capítulo 98
+
 Operaciones especiales Notas. 1. Cuando por su naturaleza, composición, presentación o denominación, las mercancías pudieran ser clasificadas en otros Capítulos de la Nomenclatura, éstas se clasificarán en el presente Capítulo cuando correspondan a alguna de las siguientes operaciones especiales:
 
 a) importaciones o exportaciones de muestras y muestrarios que cumplan con lo previsto en el artículo 2o. fracción II, Regla Complementaria 7a, inciso d), de la presente Ley (partida 98.01);
@@ -10931,6 +13058,7 @@ Maquinaria, equipo, instrumentos, materiales, animales, plantas y demás artícu
 Equipos y artículos reconocibles como destinados exclusivamente a compensar una disfunción corporal de personas con 9806.00.04 discapacidad, excepto lo comprendido en Pza Ex. Ex. las fracciones arancelarias 8713.10.01 y 8713.90.99, y excepto los vehículos del
 
 ## Capítulo 87 — .
+
 Mercancías destinadas a la reparación o 9806.00.05 mantenimiento de naves aéreas o Kg Ex. Ex. aeropartes.
 Mercancías, insumos, partes y componentes para el submontaje, montaje o producción de aeronaves o aeropartes destinadas a usos en materia de aviación civil, cuando las empresas 9806.00.06 cuenten con la aprobación de producción Kg Ex. Ex. de productos aeronáuticos y sus artículos, en cualquiera de sus tipos, emitida por la Secretaría de Infraestructura, Comunicaciones y Transportes a través de la Agencia Federal de Aviación Civil.
 Descripción modificada DOF 18-11-2022 Archivos (expedientes) conteniendo, entre otros, diagnósticos médicos, 9806.00.07 Kg Ex. Ex. radiografías, fluorangiografías, resultados de laboratorio, electrocardiogramas.
@@ -10943,9 +13071,7 @@ Mercancías producidas en territorio nacional que retornen en el mismo estado en
 .- Las Reglas Generales y las Complementarias para la aplicación e interpretación de esta Ley, son las siguientes:
 
 I. Reglas Generales.
-La clasificación de mercancías en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación se regirá por las reglas siguientes: 1. Los títulos de las Secciones, de los Capítulos o de los Subcapítulos sólo tienen un valor indicativo, ya que la clasificación está determinada legalmente por los textos de las partidas y de las Notas de Sección o de Capítulo y, si no son contrarias a los textos de dichas partidas y Notas, de acuerdo con las Reglas siguientes: 2.
-
-a) Cualquier referencia a un artículo en una partida determinada alcanza al artículo incluso incompleto o sin terminar, siempre que éste presente las características esenciales del artículo completo o terminado. Alcanza también al artículo completo o terminado, o considerado como tal en virtud de las disposiciones precedentes, cuando se presente desmontado o sin montar todavía.
+La clasificación de mercancías en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación se regirá por las reglas siguientes: 1. Los títulos de las Secciones, de los Capítulos o de los Subcapítulos sólo tienen un valor indicativo, ya que la clasificación está determinada legalmente por los textos de las partidas y de las Notas de Sección o de Capítulo y, si no son contrarias a los textos de dichas partidas y Notas, de acuerdo con las Reglas siguientes: 2. a) Cualquier referencia a un artículo en una partida determinada alcanza al artículo incluso incompleto o sin terminar, siempre que éste presente las características esenciales del artículo completo o terminado. Alcanza también al artículo completo o terminado, o considerado como tal en virtud de las disposiciones precedentes, cuando se presente desmontado o sin montar todavía.
 
 b) Cualquier referencia a una materia en una partida determinada alcanza a dicha materia incluso mezclada o asociada con otras materias. Asimismo, cualquier referencia a las manufacturas de una materia determinada alcanza también a las constituidas total o parcialmente por dicha materia. La clasificación de estos productos mezclados o de estos artículos compuestos se efectuará de acuerdo con los principios enunciados en la Regla 3. 3. Cuando una mercancía pudiera clasificarse, en principio, en dos o más partidas por aplicación de la Regla 2 b) o en cualquier otro caso, la clasificación se efectuará como sigue:
 
@@ -11005,15 +13131,14 @@ b) Las tablas de correlación de las fracciones arancelarias de la Tarifa, así 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria, mediante disposiciones de carácter general, determine que los sistemas utilizados en las operaciones de comercio exterior se encuentran listos para operar conforme a la Ley que se emite, lo cual deberá suceder dentro de los 180 días siguientes a su publicación.
-**Segundo.** Con la entrada en vigor del presente Decreto se abroga la Ley de Impuestos Generales de Importación y de Exportación publicada en el Diario Oficial de la Federación el 1 de julio de 2020.
-**Tercero.** La metodología a la que hace referencia el artículo 2, fracción II, regla 10ª de la Ley que se emite mediante el presente ordenamiento, se publicará en el Diario Oficial de la Federación dentro los 20 días naturales posteriores a la publicación del presente Decreto.
-**Cuarto.** La Secretaría de Economía dentro de los 40 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación los números de identificación comercial, así como las tablas de correlación de las fracciones arancelarias de la Tarifa y de los números de identificación comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo tercero, incisos
-
+**Primero.-** El presente Decreto entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria, mediante disposiciones de carácter general, determine que los sistemas utilizados en las operaciones de comercio exterior se encuentran listos para operar conforme a la Ley que se emite, lo cual deberá suceder dentro de los 180 días siguientes a su publicación.
+**Segundo.-** Con la entrada en vigor del presente Decreto se abroga la Ley de Impuestos Generales de Importación y de Exportación publicada en el Diario Oficial de la Federación el 1 de julio de 2020.
+**Tercero.-** La metodología a la que hace referencia el artículo 2, fracción II, regla 10ª de la Ley que se emite mediante el presente ordenamiento, se publicará en el Diario Oficial de la Federación dentro los 20 días naturales posteriores a la publicación del presente Decreto.
+**Cuarto.-** La Secretaría de Economía dentro de los 40 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación los números de identificación comercial, así como las tablas de correlación de las fracciones arancelarias de la Tarifa y de los números de identificación comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo tercero, incisos
 a) y b) de la Ley de los Impuestos Generales de Importación y de Exportación que se emite.
-**Quinto.** La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 60 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
-**Sexto.** La Secretaría de Economía y las demás dependencias competentes, dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberán publicar en el Diario Oficial de la Federación los instrumentos jurídicos cuyo contenido deba actualizarse como consecuencia de la entrada en vigor de la Ley de los Impuestos Generales de Importación y de Exportación.
-**Séptimo.** Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley que se abroga por virtud de la presente, se entenderán referidas a esta Ley que se emite.
+**Quinto.-** La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 60 días naturales posteriores a la publicación del presente Decreto, deberá publicar en el Diario Oficial de la Federación las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
+**Sexto.-** La Secretaría de Economía y las demás dependencias competentes, dentro de los 90 días naturales posteriores a la publicación del presente Decreto, deberán publicar en el Diario Oficial de la Federación los instrumentos jurídicos cuyo contenido deba actualizarse como consecuencia de la entrada en vigor de la Ley de los Impuestos Generales de Importación y de Exportación.
+**Séptimo.-** Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley que se abroga por virtud de la presente, se entenderán referidas a esta Ley que se emite.
 Ciudad de México, a 27 de abril de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
 Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
 María Macarena Chávez Flores, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de junio de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -11032,17 +13157,16 @@ DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de
 Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022
 
 I. Modificaciones a la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
-**Primero.** Se modifica la descripción de diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, para quedar como sigue: 9705.10.01 9705.10.02 9705.21.01 9705.22.01 9705.29.01 9705.31.01 9705.39.01 9802.00.24 9806.00.06
-**Segundo.** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 7208.10.03 7209.18.01 7211.90.99 7216.33.01 7208.25.02 7209.25.01 7212.20.03 7216.40.01 7208.26.01 7209.26.01 7212.30.03 7216.50.99 7208.27.01 7209.27.01 7212.40.04 7216.61.99 7208.36.01 7209.28.01 7213.10.01 7219.33.01 7208.37.01 7209.90.99 7213.20.91 7219.34.01 7208.38.01 7210.30.02 7213.91.03 7219.90.99 7208.39.01 7210.41.01 7213.99.99 7225.19.99 7208.40.02 7210.41.99 7214.20.01 7225.30.91 7208.51.04 7210.49.99 7214.30.91 7225.40.91 7208.52.01 7210.61.01 7214.91.03 7225.50.91 7208.53.01 7210.70.02 7214.99.99 7225.91.01 7208.54.01 7211.13.01 7216.10.01 7225.92.01 7208.90.99 7211.14.91 7216.21.01 7225.99.99 7209.15.04 7211.19.99 7216.22.01 7226.19.99 7209.16.01 7211.23.03 7216.31.03 7226.91.07 7209.17.01 7211.29.99 7216.32.99 7226.92.06 7226.99.99 7304.29.99 7305.11.02 7306.30.04 7227.10.01 7304.39.10 7305.12.91 7306.30.99 7227.20.01 7304.39.11 7305.19.99 7306.40.99 7227.90.99 7304.39.12 7305.20.01 7306.50.99 7228.30.99 7304.39.13 7305.31.91 7306.61.01 7228.70.01 7304.39.14 7305.31.99 7306.69.99 7304.19.01 7304.39.15 7305.39.99 7306.90.99 7304.19.02 7304.39.16 7306.19.99 7307.23.99 7304.19.03 7304.39.91 7306.29.99 7308.20.02 7304.19.99 7304.39.92 7306.30.02 7308.30.02 7304.23.04 7304.39.99 7306.30.03 7308.90.99
-**Tercero.** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 6101.30.99 6115.96.01 6204.53.99 6302.31.06 6102.30.99 6201.20.01 6204.62.09 6302.32.06 6103.43.99 6201.30.99 6204.63.91 6302.60.06 6104.63.99 6201.40.99 6204.63.92 6304.19.99 6105.10.02 6202.20.01 6204.69.99 6402.19.01 6105.20.03 6202.30.99 6205.20.91 6402.20.04 6106.10.02 6202.40.99 6205.20.92 6402.91.06 6106.20.99 6203.11.01 6205.30.91 6402.99.19 6107.11.03 6203.12.01 6205.30.92 6402.99.20 6107.12.03 6203.31.01 6205.90.99 6402.99.92 6107.21.01 6203.32.03 6206.30.04 6403.91.99 6108.21.03 6203.33.99 6206.40.91 6403.99.13 6108.22.03 6203.41.01 6206.40.92 6403.99.14 6108.31.03 6203.42.91 6206.90.99 6403.99.99 6108.32.03 6203.42.92 6207.11.01 6404.11.16 6109.10.03 6203.43.91 6209.20.07 6404.11.17 6109.90.04 6203.43.92 6209.30.05 6404.11.99 6110.20.05 6203.49.91 6211.11.01 6404.19.02 6110.30.99 6204.32.03 6212.10.07 6404.19.08 6111.20.12 6204.33.99 6212.20.01 6111.30.07 6204.42.99 6212.30.01 6112.12.01 6204.43.99 6301.40.01 6112.41.01 6204.44.99 6302.21.01 6115.95.01 6204.52.03 6302.22.01
-**Cuarto.** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 8702.40.01 8702.40.02 8702.90.01 8703.80.01 8704.60.02
-**Quinto.** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 3002.41.06 7613.00.02 ……..
+**Primero.-** Se modifica la descripción de diversas fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, para quedar como sigue: 9705.10.01 9705.10.02 9705.21.01 9705.22.01 9705.29.01 9705.31.01 9705.39.01 9802.00.24 9806.00.06
+**Segundo.-** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 7208.10.03 7209.18.01 7211.90.99 7216.33.01 7208.25.02 7209.25.01 7212.20.03 7216.40.01 7208.26.01 7209.26.01 7212.30.03 7216.50.99 7208.27.01 7209.27.01 7212.40.04 7216.61.99 7208.36.01 7209.28.01 7213.10.01 7219.33.01 7208.37.01 7209.90.99 7213.20.91 7219.34.01 7208.38.01 7210.30.02 7213.91.03 7219.90.99 7208.39.01 7210.41.01 7213.99.99 7225.19.99 7208.40.02 7210.41.99 7214.20.01 7225.30.91 7208.51.04 7210.49.99 7214.30.91 7225.40.91 7208.52.01 7210.61.01 7214.91.03 7225.50.91 7208.53.01 7210.70.02 7214.99.99 7225.91.01 7208.54.01 7211.13.01 7216.10.01 7225.92.01 7208.90.99 7211.14.91 7216.21.01 7225.99.99 7209.15.04 7211.19.99 7216.22.01 7226.19.99 7209.16.01 7211.23.03 7216.31.03 7226.91.07 7209.17.01 7211.29.99 7216.32.99 7226.92.06 7226.99.99 7304.29.99 7305.11.02 7306.30.04 7227.10.01 7304.39.10 7305.12.91 7306.30.99 7227.20.01 7304.39.11 7305.19.99 7306.40.99 7227.90.99 7304.39.12 7305.20.01 7306.50.99 7228.30.99 7304.39.13 7305.31.91 7306.61.01 7228.70.01 7304.39.14 7305.31.99 7306.69.99 7304.19.01 7304.39.15 7305.39.99 7306.90.99 7304.19.02 7304.39.16 7306.19.99 7307.23.99 7304.19.03 7304.39.91 7306.29.99 7308.20.02 7304.19.99 7304.39.92 7306.30.02 7308.30.02 7304.23.04 7304.39.99 7306.30.03 7308.90.99
+**Tercero.-** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 6101.30.99 6115.96.01 6204.53.99 6302.31.06 6102.30.99 6201.20.01 6204.62.09 6302.32.06 6103.43.99 6201.30.99 6204.63.91 6302.60.06 6104.63.99 6201.40.99 6204.63.92 6304.19.99 6105.10.02 6202.20.01 6204.69.99 6402.19.01 6105.20.03 6202.30.99 6205.20.91 6402.20.04 6106.10.02 6202.40.99 6205.20.92 6402.91.06 6106.20.99 6203.11.01 6205.30.91 6402.99.19 6107.11.03 6203.12.01 6205.30.92 6402.99.20 6107.12.03 6203.31.01 6205.90.99 6402.99.92 6107.21.01 6203.32.03 6206.30.04 6403.91.99 6108.21.03 6203.33.99 6206.40.91 6403.99.13 6108.22.03 6203.41.01 6206.40.92 6403.99.14 6108.31.03 6203.42.91 6206.90.99 6403.99.99 6108.32.03 6203.42.92 6207.11.01 6404.11.16 6109.10.03 6203.43.91 6209.20.07 6404.11.17 6109.90.04 6203.43.92 6209.30.05 6404.11.99 6110.20.05 6203.49.91 6211.11.01 6404.19.02 6110.30.99 6204.32.03 6212.10.07 6404.19.08 6111.20.12 6204.33.99 6212.20.01 6111.30.07 6204.42.99 6212.30.01 6112.12.01 6204.43.99 6301.40.01 6112.41.01 6204.44.99 6302.21.01 6115.95.01 6204.52.03 6302.22.01
+**Cuarto.-** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 8702.40.01 8702.40.02 8702.90.01 8703.80.01 8704.60.02
+**Quinto.-** Se modifican los aranceles de las fracciones arancelarias de la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, que a continuación se indican: 3002.41.06 7613.00.02 ……..
 
 ## TRANSITORIOS
 
-**PRIMERO.** El presente decreto entrará en vigor el mismo día en el que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 entre en vigor, conforme a lo previsto en el transitorio Primero del Decreto por el que se expide la misma.
-**SEGUNDO.** El arancel aplicable para las fracciones arancelarias del artículo Segundo de este decreto, será conforme a lo siguiente:
-
+**PRIMERO.-** El presente decreto entrará en vigor el mismo día en el que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 entre en vigor, conforme a lo previsto en el transitorio Primero del Decreto por el que se expide la misma.
+**SEGUNDO.-** El arancel aplicable para las fracciones arancelarias del artículo Segundo de este decreto, será conforme a lo siguiente:
 a) Para las fracciones arancelarias que a continuación se enlistan, el arancel aplicable será de 10% a partir del 1 de junio de 2023, de 5% a partir del 22 de septiembre de 2023 y exento a partir del 1 de octubre de 2024: 7208.10.03 7211.13.01 7219.90.99 7208.25.02 7211.14.91 7225.19.99 7208.26.01 7211.19.99 7225.30.91 7208.27.01 7211.23.03 7225.40.91 7208.36.01 7211.29.99 7225.50.91 7208.37.01 7211.90.99 7225.91.01 7208.38.01 7212.20.03 7225.92.01 7208.39.01 7212.30.03 7225.99.99 7208.40.02 7212.40.04 7226.19.99 7208.51.04 7213.10.01 7226.91.07 7208.52.01 7213.20.91 7226.92.06 7208.53.01 7213.91.03 7226.99.99 7208.54.01 7213.99.99 7227.10.01 7208.90.99 7214.20.01 7227.20.01 7209.15.04 7214.30.91 7227.90.99 7209.16.01 7214.91.03 7228.30.99 7209.17.01 7214.99.99 7228.70.01 7209.18.01 7216.10.01 7304.19.99 7209.25.01 7216.21.01 7304.23.04 7209.26.01 7216.22.01 7304.39.16 7209.27.01 7216.31.03 7304.39.91 7209.28.01 7216.32.99 7304.39.92 7209.90.99 7216.33.01 7304.39.99 7210.30.02 7216.40.01 7305.11.02 7210.41.99 7216.50.99 7305.12.91 7210.49.99 7216.61.99 7305.19.99 7210.61.01 7219.33.01 7305.31.91 7210.70.02 7219.34.01 7305.31.99 7305.39.99 7306.40.99 7306.90.99 7306.30.02 7306.50.99 7307.23.99 7306.30.03 7306.61.01 7306.30.04 7306.69.99
 
 b) El arancel aplicable para las fracciones arancelarias 7308.30.02 y 7308.90.99, será de 10% a partir del 1 de junio del 2023 y de 7% a partir del 22 de septiembre de 2023.
@@ -11050,12 +13174,11 @@ b) El arancel aplicable para las fracciones arancelarias 7308.30.02 y 7308.90.99
 c) El arancel aplicable para las fracciones arancelarias que a continuación se enlistan, será de 10% a partir del 1 de junio de 2023, y de 5% a partir del 22 de septiembre de 2023: 7304.19.01 7304.39.11 7305.20.01 7304.19.02 7304.39.12 7306.19.99 7304.19.03 7304.39.13 7306.29.99 7304.29.99 7304.39.14 7306.30.99 7304.39.10 7304.39.15 7308.20.02
 
 d) El arancel aplicable para la fracción arancelaria 7210.41.01, será de 10% a partir del 1 de junio de 2023, de 5% a partir del 22 de septiembre de 2023 y de 3% a partir del 1 de octubre de 2024.
-**TERCERO.** El arancel aplicable para las fracciones arancelarias listadas en el artículo Tercero estará vigente a partir del 1 de octubre de 2024.
-**CUARTO.** El arancel aplicable para las fracciones arancelarias del artículo Cuarto estará vigente desde la entrada en vigor del presente decreto y hasta el 30 de septiembre de 2024.
-**QUINTO.** El arancel aplicable para las fracciones arancelarias del artículo Quinto estará vigente desde la entrada en vigor del presente decreto y hasta la entrada en vigor del instrumento publicado en el Diario Oficial de la Federación, por el que las autoridades sanitarias determinen que la situación de contingencia derivada de la epidemia de enfermedad generada por el virus SARS-CoV-2 (COVID-19) ha finalizado en nuestro país.
-**SEXTO.** Las fracciones arancelarias 7208.39.01, 7208.51.04, 7211.29.99 y 7616.99.99 de la fracción I; 7616.99.99 de la fracción II, inciso a; 7225.19.99 de la fracción II, inciso b; 7616.99.99 de las fracciones III, IV, VI, VII, VIII, XI, XII, XIII, XV, inciso a; 7306.30.99 y 7616.99.99 de la fracción IX; 7208.26.01, 7208.27.01, 7209.16.01, 7209.17.01, 7211.29.99, 7225.30.91, 7225.40.91, 7306.30.99 y 7616.99.99 de la fracción XIX, establecidas en el artículo 5 del Decreto por el que se establecen diversos Programas de Promoción Sectorial del artículo Décimo Primero del presente decreto, tendrán una vigencia hasta el 30 de septiembre de 2024.
-**SÉPTIMO.** A partir de la entrada en vigor del presente decreto, se abrogan los siguientes decretos:
-
+**TERCERO.-** El arancel aplicable para las fracciones arancelarias listadas en el artículo Tercero estará vigente a partir del 1 de octubre de 2024.
+**CUARTO.-** El arancel aplicable para las fracciones arancelarias del artículo Cuarto estará vigente desde la entrada en vigor del presente decreto y hasta el 30 de septiembre de 2024.
+**QUINTO.-** El arancel aplicable para las fracciones arancelarias del artículo Quinto estará vigente desde la entrada en vigor del presente decreto y hasta la entrada en vigor del instrumento publicado en el Diario Oficial de la Federación, por el que las autoridades sanitarias determinen que la situación de contingencia derivada de la epidemia de enfermedad generada por el virus SARS-CoV-2 (COVID-19) ha finalizado en nuestro país.
+**SEXTO.-** Las fracciones arancelarias 7208.39.01, 7208.51.04, 7211.29.99 y 7616.99.99 de la fracción I; 7616.99.99 de la fracción II, inciso a; 7225.19.99 de la fracción II, inciso b; 7616.99.99 de las fracciones III, IV, VI, VII, VIII, XI, XII, XIII, XV, inciso a; 7306.30.99 y 7616.99.99 de la fracción IX; 7208.26.01, 7208.27.01, 7209.16.01, 7209.17.01, 7211.29.99, 7225.30.91, 7225.40.91, 7306.30.99 y 7616.99.99 de la fracción XIX, establecidas en el artículo 5 del Decreto por el que se establecen diversos Programas de Promoción Sectorial del artículo Décimo Primero del presente decreto, tendrán una vigencia hasta el 30 de septiembre de 2024.
+**SÉPTIMO.-** A partir de la entrada en vigor del presente decreto, se abrogan los siguientes decretos:
 a) El Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles, el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, el Decreto por el que se establecen diversos Programas de Promoción Sectorial y los diversos por los que se establecen aranceles-cupo, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2020;
 
 b) El Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicado en el Diario Oficial de la Federación el 22 de febrero de 2021;
@@ -11116,15 +13239,15 @@ Las autoridades competentes, de oficio o a petición de la “Empresa Importador
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2026.
+**Primero.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2026.
 Artículo reformado DOF 27-12-2023, 31-12-2024, 31-12-2025
-**Segundo.** Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican, publicados en el Diario Oficial de la Federación el 19 de octubre y 18 de noviembre de 2022, respectivamente.
+**Segundo.-** Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican, publicados en el Diario Oficial de la Federación el 19 de octubre y 18 de noviembre de 2022, respectivamente.
 Las menciones que se hagan en reglas de carácter general y demás disposiciones administrativas al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, se entenderán hechas al presente decreto.
-**Tercero.** El registro en el "Padrón de Importadores de Productos de la Canasta Básica” de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.
+**Tercero.-** El registro en el "Padrón de Importadores de Productos de la Canasta Básica” de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.
 Las Empresas Importadoras de Productos de la Canasta Básica, a las que se refiere el párrafo anterior, podrán solicitar por escrito ante el Servicio de Administración Tributaria la adición de fracciones arancelarias a su registro, siempre y cuando cumplan con las disposiciones del presente decreto.
-**Cuarto.** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2027, siempre que a más tardar el 8 de enero de 2027 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
+**Cuarto.-** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2027, siempre que a más tardar el 8 de enero de 2027 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
 Artículo reformado DOF 27-12-2023, 31-12-2024, 31-12-2025
-**Quinto.** El Servicio de Administración Tributaria emitirá o modificará las reglas de carácter general y la Agencia Nacional de Aduanas de México las reglas de operación, que resulten necesarias para la debida y correcta aplicación del presente decreto.
+**Quinto.-** El Servicio de Administración Tributaria emitirá o modificará las reglas de carácter general y la Agencia Nacional de Aduanas de México las reglas de operación, que resulten necesarias para la debida y correcta aplicación del presente decreto.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 5 de enero de 2023.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.El Secretario de Salud, Jorge Carlos Alcocer Varela.- Rúbrica.
 DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 16 de enero de 2023
@@ -11135,7 +13258,7 @@ CUOTA CÓDIGO DESCRIPCIÓN UNIDAD (ARANCEL) ACOTACIÓN IMP EXP En importación, 
 
 ## TRANSITORIO
 
-**ÚNICO.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 30 de junio de 2023.
+**ÚNICO.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 30 de junio de 2023.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 12 de enero de 2023.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.
 DECRETO por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias, publicado en el Diario Oficial de la Federación el 6 de enero de 2023.
 Publicado en el Diario Oficial de la Federación el 18 de mayo de 2023
@@ -11152,7 +13275,7 @@ Harina de trigo o de morcajo 1101.00.01 Kg Ex. Ex. (tranquillón).
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 18 de mayo de 2023.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.El Secretario de Salud, Jorge Carlos Alcocer Varela.- Rúbrica.
 DECRETO por el que se modifican diversos ordenamientos jurídicos relativos a los aranceles aplicables al maíz blanco.
 Publicado en el Diario Oficial de la Federación el 23 de junio de 2023
@@ -11167,8 +13290,8 @@ IMP. 1005.90.04 Maíz blanco (harinero). Kg 50 50
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2023.
-**Segundo.** Se abroga el “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación”, publicado en el Diario Oficial de la Federación el 16 de enero de 2023.
+**Primero.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2023.
+**Segundo.-** Se abroga el “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación”, publicado en el Diario Oficial de la Federación el 16 de enero de 2023.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 22 de junio de 2023.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.El Secretario de Salud, Jorge Carlos Alcocer Varela.- Rúbrica.
 DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 2023
@@ -11178,11 +13301,10 @@ Se modifican temporalmente los aranceles de las fracciones arancelarias de la Ta
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entra en vigor el 16 de agosto de 2023 y concluye su vigencia el 31 de julio de 2025.
+**Primero.-** El presente decreto entra en vigor el 16 de agosto de 2023 y concluye su vigencia el 31 de julio de 2025.
 Tratándose de la importación de las mercancías clasificadas en las fracciones arancelarias 7210.70.02 y 7212.40.04 a partir de la entrada en vigor del presente decreto y hasta el 31 de diciembre de 2023 se aplicará un arancel del 10%, y del 1 enero de 2024 y hasta el 31 de julio de 2025 se aplicará el arancel previsto en el artículo único del presente decreto.
-**Segundo.** Se derogan los artículos Segundo y Tercero, y los transitorios Segundo, Tercero y Sexto del “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles, el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, el Decreto de la zona libre de Chetumal, el Decreto por el que se establecen diversos Programas de Promoción Sectorial, el Decreto por el que se regula la importación definitiva de vehículos usados y los diversos por los que se establecen aranceles-cupo”, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022.
-**Tercero.** Para los efectos del “Decreto por el que se establecen diversos Programas de Promoción Sectorial”, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus modificaciones posteriores, a partir de la entrada en vigor del presente ordenamiento y hasta el 31 de julio de 2025, en los programas a que se refieren las fracciones I, II y XIX del artículo 5 de dicho decreto quedan incluidas las siguientes fracciones arancelarias:
-
+**Segundo.-** Se derogan los artículos Segundo y Tercero, y los transitorios Segundo, Tercero y Sexto del “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles, el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, el Decreto de la zona libre de Chetumal, el Decreto por el que se establecen diversos Programas de Promoción Sectorial, el Decreto por el que se regula la importación definitiva de vehículos usados y los diversos por los que se establecen aranceles-cupo”, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022.
+**Tercero.-** Para los efectos del “Decreto por el que se establecen diversos Programas de Promoción Sectorial”, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus modificaciones posteriores, a partir de la entrada en vigor del presente ordenamiento y hasta el 31 de julio de 2025, en los programas a que se refieren las fracciones I, II y XIX del artículo 5 de dicho decreto quedan incluidas las siguientes fracciones arancelarias:
 I. En el programa de la industria eléctrica, las fracciones arancelarias 7208.39.01, 7208.51.04 y 7211.29.99;
 
 II. En el programa de la industria electrónica, la fracción arancelaria 7225.19.99, únicamente para los efectos de la fracción II, inciso b, del artículo 5 del decreto a que se refiere este transitorio, y
@@ -11197,7 +13319,7 @@ Se reforman los transitorios Primero y Cuarto del "Decreto por el que se exenta 
 
 ## TRANSITORIO
 
-**Primero.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Primero.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 21 de diciembre de 2023.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.El Secretario de Salud, Jorge Carlos Alcocer Varela.- Rúbrica.
 DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 22 de abril de 2024
@@ -11207,10 +13329,9 @@ Se modifican temporalmente los aranceles de las fracciones arancelarias de la Ta
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Su vigencia es de dos años contados a partir de su entrada en vigor.
-**Segundo.** Se abroga el “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación” publicado en el Diario Oficial de la Federación el 15 de agosto de 2023.
-**Tercero.** Para los efectos del “Decreto por el que se establecen diversos Programas de Promoción Sectorial”, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus modificaciones posteriores; a partir de la entrada en vigor del presente ordenamiento y hasta el término de su vigencia, los programas a que se refieren las fracciones I, II y XIX del artículo 5 de dicho decreto quedan incluidas las siguientes fracciones arancelarias:
-
+**Primero.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Su vigencia es de dos años contados a partir de su entrada en vigor.
+**Segundo.-** Se abroga el “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación” publicado en el Diario Oficial de la Federación el 15 de agosto de 2023.
+**Tercero.-** Para los efectos del “Decreto por el que se establecen diversos Programas de Promoción Sectorial”, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus modificaciones posteriores; a partir de la entrada en vigor del presente ordenamiento y hasta el término de su vigencia, los programas a que se refieren las fracciones I, II y XIX del artículo 5 de dicho decreto quedan incluidas las siguientes fracciones arancelarias:
 I. En el programa de la industria eléctrica, las fracciones arancelarias 7208.39.01, 7208.51.04 y 7211.29.99;
 
 II. En el programa de la industria electrónica, la fracción arancelaria 7225.19.99, únicamente para los efectos de la fracción II, inciso b), del artículo 5 del decreto a que se refiere este transitorio, y
@@ -11232,17 +13353,17 @@ Se suprime del artículo Segundo del "Decreto por el que se exenta el pago de ar
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 8 de mayo de 2024.Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- La Secretaria de Economía, Raquel Buenrostro Sánchez.Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Víctor Manuel Villalobos Arámbula.- Rúbrica.El Secretario de Salud, Jorge Carlos Alcocer Varela.- Rúbrica.
 DECRETO por el que se modifica la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2024
 
 I. Modificaciones a la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
-**Primero.** Se modifican temporalmente, hasta el 23 de abril de 2026, los aranceles de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 y sus modificaciones posteriores, que a continuación se indican: 5208.32.01 6105.20.03 6116.92.01 6206.30.04 5208.42.01 6106.10.02 6116.93.01 6206.40.91 5209.32.01 6106.20.99 6201.20.01 6206.40.92 5209.42.04 6107.11.03 6201.30.99 6206.90.99 5211.49.91 6107.12.03 6201.40.99 6207.11.01 5512.11.05 6107.21.01 6202.20.01 6207.91.01 5513.11.04 6107.22.01 6202.30.99 6208.22.01 5514.21.01 6108.21.03 6202.40.99 6208.91.01 5515.12.01 6108.22.03 6203.11.01 6208.92.02 5804.10.01 6108.31.03 6203.12.01 6209.20.07 5804.21.01 6108.32.03 6203.31.01 6209.30.05 5806.20.99 6108.91.02 6203.32.03 6209.90.91 5806.32.01 6108.92.02 6203.33.99 6210.10.01 6004.10.99 6109.10.03 6203.41.01 6210.30.91 6005.37.91 6109.90.04 6203.42.91 6210.40.91 6006.22.02 6109.90.99 6203.42.92 6210.50.91 6006.32.03 6110.20.05 6203.43.91 6211.11.01 6101.20.03 6110.30.01 6203.43.92 6211.12.01 6101.30.99 6110.30.99 6203.49.91 6211.32.02 6102.20.03 6111.20.12 6204.32.03 6211.33.02 6102.30.99 6111.30.07 6204.33.99 6211.42.02 6103.33.02 6112.11.01 6204.42.99 6211.43.02 6103.42.03 6112.12.01 6204.43.99 6212.10.07 6103.43.99 6112.31.01 6204.44.99 6212.20.01 6104.23.01 6112.41.01 6204.49.91 6212.30.01 6104.33.02 6113.00.02 6204.52.03 6212.90.99 6104.42.03 6114.20.01 6204.53.99 6214.30.01 6104.43.02 6114.30.02 6204.62.09 6215.10.01 6104.44.02 6115.10.01 6204.63.91 6215.20.01 6104.52.01 6115.21.01 6204.63.92 6217.10.01 6104.53.02 6115.22.01 6204.69.99 6301.30.01 6104.59.91 6115.29.91 6205.20.91 6301.40.01 6104.62.03 6115.95.01 6205.20.92 6302.10.01 6104.63.99 6115.96.01 6205.30.91 6302.21.01 6104.69.91 6115.99.91 6205.30.92 6302.22.01 6105.10.02 6116.10.02 6205.90.99 6302.31.06 6302.32.06 6302.93.01 6304.93.01 6307.10.01 6302.53.01 6303.92.02 6305.33.91 9404.40.01 6302.60.06 6304.19.99 6305.90.91 …….
+**Primero.-** Se modifican temporalmente, hasta el 23 de abril de 2026, los aranceles de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 y sus modificaciones posteriores, que a continuación se indican: 5208.32.01 6105.20.03 6116.92.01 6206.30.04 5208.42.01 6106.10.02 6116.93.01 6206.40.91 5209.32.01 6106.20.99 6201.20.01 6206.40.92 5209.42.04 6107.11.03 6201.30.99 6206.90.99 5211.49.91 6107.12.03 6201.40.99 6207.11.01 5512.11.05 6107.21.01 6202.20.01 6207.91.01 5513.11.04 6107.22.01 6202.30.99 6208.22.01 5514.21.01 6108.21.03 6202.40.99 6208.91.01 5515.12.01 6108.22.03 6203.11.01 6208.92.02 5804.10.01 6108.31.03 6203.12.01 6209.20.07 5804.21.01 6108.32.03 6203.31.01 6209.30.05 5806.20.99 6108.91.02 6203.32.03 6209.90.91 5806.32.01 6108.92.02 6203.33.99 6210.10.01 6004.10.99 6109.10.03 6203.41.01 6210.30.91 6005.37.91 6109.90.04 6203.42.91 6210.40.91 6006.22.02 6109.90.99 6203.42.92 6210.50.91 6006.32.03 6110.20.05 6203.43.91 6211.11.01 6101.20.03 6110.30.01 6203.43.92 6211.12.01 6101.30.99 6110.30.99 6203.49.91 6211.32.02 6102.20.03 6111.20.12 6204.32.03 6211.33.02 6102.30.99 6111.30.07 6204.33.99 6211.42.02 6103.33.02 6112.11.01 6204.42.99 6211.43.02 6103.42.03 6112.12.01 6204.43.99 6212.10.07 6103.43.99 6112.31.01 6204.44.99 6212.20.01 6104.23.01 6112.41.01 6204.49.91 6212.30.01 6104.33.02 6113.00.02 6204.52.03 6212.90.99 6104.42.03 6114.20.01 6204.53.99 6214.30.01 6104.43.02 6114.30.02 6204.62.09 6215.10.01 6104.44.02 6115.10.01 6204.63.91 6215.20.01 6104.52.01 6115.21.01 6204.63.92 6217.10.01 6104.53.02 6115.22.01 6204.69.99 6301.30.01 6104.59.91 6115.29.91 6205.20.91 6301.40.01 6104.62.03 6115.95.01 6205.20.92 6302.10.01 6104.63.99 6115.96.01 6205.30.91 6302.21.01 6104.69.91 6115.99.91 6205.30.92 6302.22.01 6105.10.02 6116.10.02 6205.90.99 6302.31.06 6302.32.06 6302.93.01 6304.93.01 6307.10.01 6302.53.01 6303.92.02 6305.33.91 9404.40.01 6302.60.06 6304.19.99 6305.90.91 …….
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México, a 19 de diciembre de 2024.Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
 DECRETO por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2024
@@ -11259,11 +13380,11 @@ Se eliminan del listado del artículo Segundo del "Decreto por el que se exenta 
 
 ### Artículo Tercero
 Se reforman los transitorios Primero y Cuarto del "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias", publicado en el Diario Oficial de la Federación el 6 de enero de 2023 y sus posteriores modificaciones, para quedar como sigue: “Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta el 31 de diciembre de 2025.
-**Cuarto.** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado."
+**Cuarto.-** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado."
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Dado en la Residencia del Poder Ejecutivo Federal, en Ciudad de México, a 31 de diciembre de 2024.- Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Rogelio Eduardo Ramírez de la O.- Rúbrica.- El Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.- El Secretario de Agricultura y Desarrollo Rural, Julio Antonio Berdegué Sacristán.- Rúbrica.- El Secretario de Salud, David Kershenobich Stalnikowitz.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 21 de julio de 2025
@@ -11273,12 +13394,12 @@ Se reforman los códigos 0301.99.01, 0302.89.01, 0302.99.03, 0303.89.01 y 0303.9
 
 ## Transitorio
 
-**Único.** El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 10 de noviembre de 2025 DECRETO
-**Único.** Se modifican los aranceles de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 y sus modificaciones posteriores, que a continuación se indican:
+**Único.-** Se modifican los aranceles de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022 y sus modificaciones posteriores, que a continuación se indican:
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO DE IMPUESTO DE IMP. EXP. 1701.12.05 De remolacha. Kg 156 Ex.
 Azúcar de caña mencionado en la Nota 2 de 1701.13.01 Kg 156 Ex. subpartida de este Capítulo. 1701.14.91 Los demás azúcares de caña. Kg 156 Ex. 1701.91.04 Con adición de aromatizante o colorante. Kg 156 Ex. 1701.99.99 Los demás. Kg 156 Ex. 1702.90.01 Azúcar líquida refinada y azúcar invertido. Kg 210.44 Ex.
 Con un contenido de azúcar superior o igual 1806.10.01 Kg 156 Ex. al 90%, en peso.
@@ -11286,7 +13407,7 @@ Jarabes aromatizados o con adición de 2106.90.05 Kg 156 Ex. colorantes.
 
 ## TRANSITORIO
 
-**Único.** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Único.-** El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 10 de noviembre de 2025.Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretario de Hacienda y Crédito Público, Édgar Abraham Amador Zamora.- Rúbrica.- Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.
 DECRETO por el que se reforman diversas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2025
@@ -11296,10 +13417,10 @@ Se modifican las cuotas de diversas fracciones arancelarias de la tarifa conteni
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el primero de enero de 2026.
-**Segundo.** Las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y sus modificaciones, no previstas en el presente Decreto, seguirán vigentes en los términos en que fueron publicadas en el Diario Oficial de la Federación.
-**Tercero.** Se dejan sin efectos todas las disposiciones que se contrapongan a lo establecido en el presente Decreto.
-**Cuarto.** Sobre los aranceles motivo de esta reforma y con el objetivo de garantizar el abasto de insumos en México en condiciones competitivas, la Secretaría de Economía podrá implementar mecanismos e instrumentos jurídicos específicos correspondientes para la importación de mercancías provenientes de países con los que el Estado mexicano no tenga Tratados de Libre Comercio en vigor.
+**Primero.-** El presente Decreto entrará en vigor el primero de enero de 2026.
+**Segundo.-** Las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y sus modificaciones, no previstas en el presente Decreto, seguirán vigentes en los términos en que fueron publicadas en el Diario Oficial de la Federación.
+**Tercero.-** Se dejan sin efectos todas las disposiciones que se contrapongan a lo establecido en el presente Decreto.
+**Cuarto.-** Sobre los aranceles motivo de esta reforma y con el objetivo de garantizar el abasto de insumos en México en condiciones competitivas, la Secretaría de Economía podrá implementar mecanismos e instrumentos jurídicos específicos correspondientes para la importación de mercancías provenientes de países con los que el Estado mexicano no tenga Tratados de Libre Comercio en vigor.
 Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 23 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2025
@@ -11312,7 +13433,7 @@ Se reforman los transitorios Primero y Cuarto del "Decreto por el que se exenta 
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación, con excepción de lo establecido en su artículo Primero que entrará en vigor el 1 de enero de 2026.
-**Segundo.** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato entre el 1 de enero y el 31 de diciembre de 2025, para la adquisición de las mercancías eliminadas en el Artículo
-**Primero.** de este decreto, podrán aplicar los beneficios contenidos en el "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias”, publicado en el Diario Oficial de la Federación el 6 de enero de 2023 y sus posteriores modificaciones, hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
+**Primero.-** El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación, con excepción de lo establecido en su artículo Primero que entrará en vigor el 1 de enero de 2026.
+**Segundo.-** Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato entre el 1 de enero y el 31 de diciembre de 2025, para la adquisición de las mercancías eliminadas en el Artículo
+**Primero.-** de este decreto, podrán aplicar los beneficios contenidos en el "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias”, publicado en el Diario Oficial de la Federación el 6 de enero de 2023 y sus posteriores modificaciones, hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 30 de diciembre de 2025.Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretario de Hacienda y Crédito Público, Édgar Abraham Amador Zamora.- Rúbrica.- Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.- Secretario de Agricultura y Desarrollo Rural, Julio Antonio Berdegué Sacristán.- Rúbrica.- Secretario de Salud, David Kershenobich Stalnikowitz.- Rúbrica.

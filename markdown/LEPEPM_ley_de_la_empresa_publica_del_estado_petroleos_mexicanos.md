@@ -18,7 +18,9 @@ Se expide la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, para q
 
 ## TÍTULO PRIMERO — DE PETRÓLEOS MEXICANOS COMO EMPRESA PÚBLICA DEL ESTADO
 
+
 ## Capítulo Único — Disposiciones Generales
+
 
 ### Artículo 1
 .- La presente Ley es Reglamentaria de los artículos 25, párrafo quinto, 27, párrafo séptimo y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, es de interés público y social y tiene por objeto regular la organización, administración, funcionamiento, operación, control, evaluación y rendición de cuentas de Petróleos Mexicanos, como empresa pública del Estado, así como establecer su régimen especial.
@@ -112,7 +114,9 @@ Las personas con las que Petróleos Mexicanos celebre actos o contratos, en ning
 
 ## TÍTULO SEGUNDO — DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE PETRÓLEOS MEXICANOS
 
+
 ## Capítulo I — De la Organización
+
 
 ### Artículo 14
 .- Petróleos Mexicanos cuenta con la organización y estructura orgánica que mejor convenga para la realización de su objeto, conforme lo determine su Consejo de Administración en términos de esta Ley.
@@ -128,7 +132,9 @@ II. Una Dirección General.
 
 ## Capítulo II — De la Organización e Integración del Consejo de Administración
 
+
 ## Sección Primera
+
 Funciones
 
 ### Artículo 16
@@ -230,6 +236,7 @@ V. Los principales escenarios de riesgos estratégicos y comerciales de la empre
 Petróleos Mexicanos debe difundir en su portal de Internet una versión pública de su Programa de Desarrollo, la cual no debe contener información que pueda comprometer o poner en riesgo su operación y sus estrategias comerciales.
 
 ## Sección Segunda
+
 Integración y Funcionamiento
 
 ### Artículo 18
@@ -356,6 +363,7 @@ La obligación de confidencialidad referida permanece en vigor cinco años despu
 Petróleos Mexicanos debe difundir en su página de Internet las actas y acuerdos respectivos, en términos del párrafo anterior.
 
 ## Sección Tercera
+
 Régimen de Responsabilidad de las Personas Consejeras
 
 ### Artículo 32
@@ -431,6 +439,7 @@ II. Tomen decisiones o voten en las sesiones del Consejo de Administración o, e
 III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
 
 ## Sección Cuarta
+
 Remoción de las Personas Consejeras
 
 ### Artículo 39
@@ -456,6 +465,7 @@ La determinación referida se debe enviar a la Cámara de Senadores para su apro
 .- En el supuesto de que la causa que haya motivado la remoción de la persona consejera independiente de que se trate, implique la posible comisión de un delito o conlleve un daño o perjuicio patrimonial para Petróleos Mexicanos o para sus empresas filiales, se deben presentar las denuncias de hechos y querellas o ejercer las acciones legales que correspondan.
 
 ## Sección Quinta
+
 Comités
 
 ### Artículo 42
@@ -575,6 +585,7 @@ VIII. Las demás que determine el Consejo de Administración.
 
 ## Capítulo III — De la Dirección General
 
+
 ### Artículo 50
 .- Corresponde a la persona titular de la Dirección General la gestión, operación, funcionamiento y ejecución de los objetivos de Petróleos Mexicanos, y se debe sujetar a las estrategias, políticas y lineamientos aprobados por el Consejo de Administración. Al efecto, tiene las funciones siguientes:
 
@@ -627,6 +638,7 @@ El Consejo de Administración debe resolver las solicitudes de licencia que le p
 .- La persona titular de la Dirección General debe informar a la persona titular del Ejecutivo Federal y al Consejo de Administración sobre el incumplimiento de alguno de los requisitos que debe cubrir para su designación, así como sobre cualquier impedimento que le sobrevenga.
 
 ## TÍTULO TERCERO — VIGILANCIA Y AUDITORÍA
+
 
 ### Artículo 54
 .- La vigilancia y auditoría de Petróleos Mexicanos y, en su caso, de las empresas filiales se debe realizar por:
@@ -748,7 +760,9 @@ En el desarrollo de sus auditorías y en la formulación de sus observaciones y 
 
 ## TÍTULO CUARTO — DEL RÉGIMEN ESPECIAL
 
+
 ## Capítulo I
+
 Empresas Filiales
 
 ### Artículo 62
@@ -804,6 +818,7 @@ Para efectos de transparencia y rendición de cuentas de las inversiones de Petr
 .- El Consejo de Administración de Petróleos Mexicanos debe emitir las políticas generales conforme a las cuales Petróleos Mexicanos y sus empresas filiales, pueden participar en forma minoritaria en el capital social de otras sociedades mercantiles, nacionales o extranjeras. Estas políticas deben definir aquellas inversiones relevantes que deban ser previamente aprobadas por el propio Consejo.
 
 ## Capítulo II
+
 Remuneraciones y Austeridad
 
 ### Artículo 72
@@ -865,9 +880,11 @@ XV. Optimizar el uso del espacio físico y del mobiliario disponible y procurar 
 .- Los lineamientos de austeridad en el gasto y uso de recursos deben prever la elaboración de programas anuales que apruebe el Consejo de Administración de Petróleos Mexicanos, con la opinión favorable de la Secretaría de Energía, que contenga metas específicas de austeridad.
 
 ## Capítulo III
+
 Adquisiciones, Arrendamientos, Servicios y Obras
 
 ## Sección Primera — Disposiciones Generales
+
 
 ### Artículo 78
 .- Petróleos Mexicanos realiza las adquisiciones, arrendamientos, contratación de servicios y obras que requiera en términos de lo dispuesto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, con sujeción a los principios de economía, eficacia, eficiencia, imparcialidad y honradez, a efecto de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo con la naturaleza de la contratación.
@@ -1007,6 +1024,7 @@ Una vez firmado un contrato, todas las controversias que surjan relativas a su i
 
 ## Sección Segunda — De las Medidas para Garantizar la Integridad en las Contrataciones
 
+
 ### Artículo 85
 .- Para la celebración y ejecución de los contratos de adquisiciones, arrendamientos, servicios y obras, el Consejo de Administración de Petróleos Mexicanos, a propuesta de la persona titular de la Dirección General, debe emitir las disposiciones y políticas necesarias para que Petróleos Mexicanos cuente con mecanismos que les permitan prevenir, identificar, subsanar y sancionar actos u omisiones irregulares, ilícitos, negligentes o cualesquiera otros que en el marco de los procedimientos de contratación y de la implementación y ejecución de los contratos pudieran afectar o repercutir en la operación de Petróleos Mexicanos.
 
@@ -1053,6 +1071,7 @@ La información contenida en el sistema puede utilizarse para determinar la part
 .- Las contrataciones que realice Petróleos Mexicanos están sujetas a lo dispuesto en la Ley General de Responsabilidades Administrativas, y demás ordenamientos jurídicos aplicables. Al efecto, la Secretaría Anticorrupción y Buen Gobierno es la autoridad competente.
 
 ## Capítulo IV
+
 Bienes
 
 ### Artículo 90
@@ -1067,6 +1086,7 @@ En todos los casos, Petróleos Mexicanos debe tramitar la inscripción de los t�
 .- El Consejo de Administración debe emitir las políticas que regulen los actos de disposición y gravamen a que se refiere el artículo anterior, así como las relativas a la adquisición, arrendamiento, enajenación y administración de los bienes de Petróleos Mexicanos y, en su caso, empresas filiales, considerando lo dispuesto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y sin que sean aplicables al efecto las disposiciones relativas de la Ley General de Bienes Nacionales.
 
 ## Capítulo V
+
 Responsabilidades Administrativas
 
 ### Artículo 93
@@ -1119,6 +1139,7 @@ El personal de Petróleos Mexicanos y de sus empresas filiales, debe observar la
 .- El Consejo de Administración de Petróleos Mexicanos debe aprobar las políticas para la contratación en favor de aquellas personas que integran el Consejo de Administración, la persona titular de la Dirección General, personas directivas y aquéllas personas empleadas que determine el propio Consejo, de seguros, fianzas o cauciones que cubran el monto de la indemnización por los daños que cause su actuación, o bien, seguros para asumir los servicios de defensa y asistencia legal de dichas personas servidoras públicas.
 
 ## Capítulo VI
+
 Presupuesto
 
 ### Artículo 100
@@ -1227,6 +1248,7 @@ IX. Debe remitir exclusivamente para conocimiento a la Secretaría de Hacienda y
 .- Petróleos Mexicanos debe remitir al Congreso de la Unión la información que éste le solicite en relación con su presupuesto. Dicha solicitud debe realizarse por los órganos de gobierno de las Cámaras o por las Comisiones competentes, así como el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados.
 
 ## Capítulo VII
+
 Deuda
 
 ### Artículo 107
@@ -1269,6 +1291,7 @@ VIII. Para efectos de la fracción anterior, y con excepción de lo que al efect
 .- La persona titular de la Dirección General de Petróleos Mexicanos debe remitir un informe semestral, aprobado por el Consejo de Administración, al Congreso de la Unión y a la persona titular del Ejecutivo Federal sobre el uso del endeudamiento de la empresa, fundamentalmente respecto de la rentabilidad de los proyectos; sus condiciones financieras; el manejo de disponibilidades asociadas al endeudamiento; calendarios de ejecución y desembolsos y perfil de riesgos.
 
 ## Capítulo VIII
+
 Sostenibilidad
 
 ### Artículo 110
@@ -1301,6 +1324,7 @@ Las empresas filiales pueden adherirse al Código de Conducta o, en su caso, emi
 
 ## TÍTULO QUINTO — TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
+
 ### Artículo 117
 .- Petróleos Mexicanos se debe sujetar a las leyes aplicables en materia de transparencia y acceso a la información, de fiscalización y rendición de cuentas y combate a la corrupción, para prevenir, identificar, investigar y sancionar los actos u omisiones que las contravengan.
 
@@ -1331,6 +1355,7 @@ El informe debe suscribirse por la persona titular de la Dirección General y po
 .- Las personas integrantes del Consejo de Administración, la persona titular de la Dirección General y todo el personal de Petróleos Mexicanos deben, en términos de las disposiciones aplicables, reportar a las instancias y autoridades competentes, a las personas físicas o morales que realicen actos u omisiones contrarios a la ley, entre otros, los que tengan por objeto o consecuencia directa o indirecta influir en la toma de decisión de alguna persona servidora pública de las empresas o de los miembros del Consejo de Administración, para obtener un beneficio económico personal, directo o indirecto.
 
 ## TÍTULO SEXTO — OTRAS DISPOSICIONES
+
 
 ### Artículo 123
 .- Las controversias nacionales en que sea parte Petróleos Mexicanos, ya sea como parte o como tercero, cualquiera que sea su naturaleza, son de la competencia de los tribunales de la Federación y ésta queda exceptuada de otorgar las garantías que los ordenamientos legales exijan a las partes, aun en los casos de controversias judiciales.
@@ -1400,6 +1425,6 @@ Para efectos del párrafo anterior, los pedimentos se tienen por presentados en 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

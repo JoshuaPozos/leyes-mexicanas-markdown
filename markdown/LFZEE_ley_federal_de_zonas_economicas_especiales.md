@@ -15,6 +15,7 @@ Se expide la Ley Federal de Zonas Económicas Especiales
 
 ## CAPÍTULO PRIMERO — Disposiciones Generales
 
+
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto, en el marco de la planeación nacional del desarrollo, regular la planeación, el establecimiento y la operación de Zonas Económicas Especiales para impulsar el crecimiento económico sostenible que, entre otros fines, reduzca la pobreza, permita la provisión de servicios básicos y expanda las oportunidades para vidas saludables y productivas, en las regiones del país que tengan mayores rezagos en desarrollo social, a través del fomento de la inversión, la productividad, la competitividad, el empleo y una mejor distribución del ingreso entre la población.
 Dichas Zonas serán consideradas áreas prioritarias del desarrollo nacional y el Estado promoverá las condiciones e incentivos para que, con la participación del sector privado y social, se contribuya al desarrollo económico y social de las regiones en las que se ubiquen, a través de una política industrial sustentable con vertientes sectoriales y regionales.
@@ -71,7 +72,9 @@ Respecto a las disposiciones de carácter fiscal y aduanero previstas en esta Le
 
 ## CAPÍTULO SEGUNDO — De la determinación de las Zonas
 
+
 ## Sección I — Del procedimiento para establecer Zonas
+
 
 ### Artículo 6
 . Las Zonas se establecerán con el objeto de impulsar, a través de la inversión productiva, el crecimiento económico sostenible, sustentable y equilibrado de las regiones del país que tengan mayores rezagos en desarrollo social, siempre y cuando reúnan todos los siguientes requisitos:
@@ -213,6 +216,7 @@ Los proyectos que correspondan a la Federación incluidos en el Programa de Desa
 
 ## Sección II — De los incentivos y facilidades
 
+
 ### Artículo 13
 . El Ejecutivo Federal, mediante el decreto a que se refiere el artículo 8 de esta Ley, deberá establecer los beneficios fiscales en materia de contribuciones que se consideren necesarios para impulsar el establecimiento y desarrollo de la Zona. Los beneficios serán temporales y, en su caso, el monto de la desgravación o descuentos de las contribuciones se otorgarán de manera decreciente en el tiempo. El decreto del Ejecutivo Federal además deberá establecer las medidas relacionadas con su forma de pago y procedimientos señalados en las leyes fiscales. Los beneficios que se otorguen deberán incentivar la generación de empleos permanentes e inversiones productivas que impulsen el desarrollo económico de la Zona y la creación de infraestructura.
 En materia del impuesto al valor agregado los beneficios fiscales tendrán como propósito desgravar los bienes que se introduzcan a dichas Zonas, así como los servicios que se aprovechen en las mismas, cuando esas actividades se lleven a cabo por empresas residentes en México, actividades que estarán afectas a la tasa de 0%. Cuando los bienes que se introduzcan a las Zonas provengan del extranjero no deberán estar afectos al impuesto mencionado. Tratándose de extracción de bienes de las Zonas para introducirse al resto del país, dicha introducción estará afecta a la tasa general de pago. Si se extraen los bienes y se destinan al extranjero, tal operación no tendrá efecto alguno en el impuesto al valor agregado. Tratándose de las actividades que se realicen al interior de las Zonas no se considerarán afectas al pago del impuesto al valor agregado y las empresas que las realicen no se considerarán contribuyentes de dicho impuesto, por lo que hace a dichas actividades.
@@ -257,6 +261,7 @@ Lo dispuesto en este artículo no limita a los Administradores Integrales, Inver
 
 ## Sección III — De los Consejos Técnicos de las Zonas
 
+
 ### Artículo 16
 . Cada Zona contará con un consejo técnico multidisciplinario y con autonomía en sus funciones, que fungirá como una instancia intermedia entre la Secretaría y el Administrador Integral para efectos del seguimiento permanente a la operación de la misma, la evaluación de su desempeño y coadyuvancia para asegurar el cumplimiento de los objetivos establecidos en esta Ley en los términos del presente artículo, conforme a lo siguiente:
 
@@ -295,6 +300,7 @@ i) Las demás que establezca el Reglamento de esta Ley.
 
 ## Sección IV — Del impacto social y ambiental
 
+
 ### Artículo 17
 . Las Zonas atenderán los principios de sostenibilidad, progresividad y respeto de los derechos humanos de las personas, comunidades y pueblos de las Áreas de Influencia.
 Para efectos del Dictamen, la Secretaría, con la participación que corresponda a las secretarías de Gobernación y de Medio Ambiente y Recursos Naturales y las demás dependencias y entidades paraestatales competentes, las entidades federativas y los municipios correspondientes, y expertos independientes, realizará una Evaluación Estratégica sobre la situación e impacto sociales y ambientales respecto de la Zona y su Área de Influencia. Lo anterior, sin perjuicio de los trámites que se requieran en términos de la legislación en materia de equilibrio ecológico y protección al ambiente, así como las demás disposiciones jurídicas aplicables.
@@ -303,11 +309,14 @@ La Secretaría deberá informar al Administrador Integral sobre la presencia de 
 
 ### Artículo 18
 . Con la finalidad de tomar en cuenta los intereses y derechos de los pueblos y comunidades indígenas y afromexicanas en las Zonas y su Área de Influencia, el Instituto Nacional de los Pueblos Indígenas, la Secretaría de Gobernación y la Secretaría, en forma coordinada, realizarán los procedimientos de consulta previa, libre e informada necesarios y cualquier otra actividad necesaria para su salvaguarda, con la participación que corresponda a las entidades federativas y municipios involucrados.
-Párrafo reformado DOF 01-04-2024 En términos del Programa de Desarrollo se fomentarán programas de vinculación con empresas y trabajadores locales, y de responsabilidad social, con el objeto de promover el desarrollo humano y sustentable de las comunidades o localidades en las que se ubique la Zona y su Área de Influencia.
+Párrafo reformado DOF 01-04-2024
+En términos del Programa de Desarrollo se fomentarán programas de vinculación con empresas y trabajadores locales, y de responsabilidad social, con el objeto de promover el desarrollo humano y sustentable de las comunidades o localidades en las que se ubique la Zona y su Área de Influencia.
 
 ## CAPÍTULO TERCERO — Del establecimiento y operación de las Zonas
 
+
 ## Sección I — De los Permisos y Asignaciones
+
 
 ### Artículo 19
 . Para la construcción, desarrollo, administración y mantenimiento de una Zona, se requerirá Permiso o Asignación, según sea el caso, que otorgue la Secretaría.
@@ -457,6 +466,7 @@ Para resolver sobre la revocación del Permiso o Asignación, la Secretaría not
 
 ## Sección II — De los bienes y derechos necesarios para el Establecimiento de las Zonas
 
+
 ### Artículo 30
 . Se consideran causas de utilidad pública la construcción, mantenimiento, ampliación y desarrollo de las Zonas, así como la provisión de Servicios Asociados que sean necesarios para su operación.
 Cuando para la realización de las actividades señaladas en el párrafo anterior se requiera ejecutar las medidas previstas en la Ley de Expropiación, la Secretaría de Desarrollo Agrario, Territorial y Urbano integrará y tramitará el expediente respectivo, incluyendo la emisión de la declaratoria de utilidad pública, cuando corresponda. La Secretaría proporcionará la información que posea y resulte necesaria para la sustanciación de dichos procedimientos.
@@ -481,6 +491,7 @@ III. La afectación en la porción remanente de los inmuebles o derechos del cua
 IV. Los gastos complementarios no previstos en el valor comercial, para que los afectados sustituyan los inmuebles o derechos por adquirir, cuando sea necesaria la emigración de los afectados.
 
 ## Sección III — De los derechos y obligaciones del Administrador Integral
+
 
 ### Artículo 33
 . Además de los derechos y obligaciones establecidos en las secciones I y II anteriores, corresponde al Administrador Integral:
@@ -526,6 +537,7 @@ XVIII. Convenir con los Inversionistas que para la resolución de controversias,
 XIX. Observar lo dispuesto en las demás disposiciones jurídicas aplicables.
 
 ## Sección IV — De los derechos y obligaciones de los Inversionistas
+
 
 ### Artículo 34
 . Para realizar actividades económicas productivas en la Zona, los Inversionistas requerirán de una Autorización de la Secretaría conforme a lo dispuesto en los lineamientos que para tal efecto emita ésta, los cuales deberán publicarse en el Diario Oficial de la Federación.
@@ -576,6 +588,7 @@ XI. Convenir con el Administrador Integral o con otros Inversionistas, preferent
 XII. Observar lo dispuesto en las demás disposiciones jurídicas aplicables.
 
 ## CAPÍTULO CUARTO — De las Autoridades
+
 
 ### Artículo 36
 . La Secretaría tendrá las atribuciones siguientes para efectos de esta Ley:
@@ -692,6 +705,7 @@ XI. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ## CAPÍTULO QUINTO — De la Transparencia y de la Rendición de Cuentas
 
+
 ### Artículo 42
 . El Ejecutivo Federal, por conducto de la Secretaría, enviará a más tardar el 15 de mayo de cada año, un informe al Congreso de la Unión sobre la operación de cada Zona y los resultados obtenidos en el desarrollo económico y social del Área de Influencia. Dicho informe incluirá:
 
@@ -736,6 +750,7 @@ La actuación de los servidores públicos competentes en materia del otorgamient
 La Auditoría Superior de la Federación, en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, llevará a cabo la fiscalización de los recursos públicos que se ejerzan en términos de esta Ley.
 
 ## CAPÍTULO SEXTO — De las Infracciones y Sanciones
+
 
 ### Artículo 46
 . Los Administradores Integrales e Inversionistas que incumplan lo previsto en los Permisos, Asignaciones o Autorizaciones respectivas, además de la revocación o cancelación de los mismos, responderán por los daños y perjuicios que hayan ocasionado y podrán ser sancionados en los términos que prevean las leyes aplicables, por el incumplimiento en que hayan incurrido respecto a las concesiones o demás autorizaciones que, en su caso, les hayan sido otorgadas.

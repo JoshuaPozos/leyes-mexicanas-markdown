@@ -12,6 +12,7 @@ SE EXPIDE LA
 
 ## CAPÍTULO I — Disposiciones Generales
 
+
 ### Artículo 1o
 .- La presente Ley tiene por objeto regular los derechos y garantías básicos de los contribuyentes en sus relaciones con las autoridades fiscales. En defecto de lo dispuesto en el presente ordenamiento, se aplicarán las leyes fiscales respectivas y el Código Fiscal de la Federación.
 Los derechos y garantías consagradas en la presente Ley en beneficio de los contribuyentes, les serán igualmente aplicables a los responsables solidarios.
@@ -57,6 +58,7 @@ XIV. Derecho a señalar en el juicio ante el Tribunal Federal de Justicia Fiscal
 Las actuaciones de las autoridades fiscales que requieran la intervención de los contribuyentes deberán de llevarse a cabo en la forma que resulte menos gravosa para éstos, siempre que ello no perjudique el cumplimiento de sus obligaciones tributarias.
 
 ## CAPÍTULO II
+
 Información, Difusión y Asistencia al Contribuyente
 
 ### Artículo 5o
@@ -83,6 +85,7 @@ Dicha contestación tendrá carácter vinculatorio para las autoridades fiscales
 .- Para estimular la obligación legal de los contribuyentes de entregar comprobantes fiscales por las operaciones que realicen, las autoridades fiscales organizarán loterías fiscales en las que, con diversos premios, participarán las personas que hayan obtenido los comprobantes fiscales respectivos. Las loterías fiscales se podrán organizar tomando en cuenta los medios de pago, diversos al efectivo, que reciban los contribuyentes.
 
 ## CAPÍTULO III
+
 Derechos y garantías en los procedimientos de comprobación
 
 ### Artículo 12
@@ -121,6 +124,7 @@ Así mismo, podrán efectuar el pago en parcialidades de conformidad con lo disp
 .- Las autoridades fiscales podrán revisar nuevamente los mismos hechos, contribuciones y períodos, por los que se tuvo al contribuyente por corregido de su situación fiscal, o se le determinaron contribuciones omitidas, sin que de dicha revisión pueda derivar crédito fiscal alguno a cargo del contribuyente.
 
 ## CAPÍTULO IV
+
 Derechos y garantías en el procedimiento sancionador
 
 ### Artículo 21
@@ -130,6 +134,7 @@ Derechos y garantías en el procedimiento sancionador
 .- Los contribuyentes cuyos ingresos en el ejercicio inmediato anterior no hayan superado un monto equivalente a treinta veces el salario mínimo general, correspondiente al área geográfica del contribuyente elevado al año, cuando garanticen el interés fiscal mediante embargo en la vía administrativa, deberán ser designados como depositarios de los bienes y el embargo no podrá comprender las mercancías que integren el inventario circulante del negocio, excepto cuando se trate de mercancías de origen extranjero respecto de la cual no se acredite con la documentación correspondiente su legal estancia en el país.
 
 ## CAPÍTULO V
+
 Medios de defensa del contribuyente
 
 ### Artículo 23

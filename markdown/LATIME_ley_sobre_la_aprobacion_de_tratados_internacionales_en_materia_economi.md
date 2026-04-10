@@ -12,6 +12,7 @@ LEY SOBRE LA APROBACIÓN DE TRATADOS INTERNACIONALES EN MATERIA ECONÓMICA
 
 ## CAPÍTULO I — DISPOSICIONES GENERALES
 
+
 ### Artículo 1
 . Esta ley es de orden público y tiene como objeto reglamentar el artículo 93 de la Constitución General de la República en materia de las facultades constitucionales del Senado de requerir información a los secretarios de estado, jefes de departamento administrativo, así como a los directores de los organismos descentralizados competentes sobre la negociación, celebración y aprobación de tratados relacionados con el comercio de mercancías, servicios, inversiones, transferencia de tecnología, propiedad intelectual, doble tributación, cooperación económica y con las demás materias a que se refiere este ordenamiento cuando se relacionen con las anteriores.
 
@@ -25,7 +26,9 @@ II. La división de poderes, la distribución de facultades y las potestades de 
 
 ## CAPÍTULO II — DE LOS OBJETIVOS DE LA CELEBRACIÓN DE TRATADOS
 
+
 ## SECCIÓN I — DE LOS OBJETIVOS GENERALES
+
 
 ### Artículo 3
 . Para la aprobación de un tratado se observarán los siguientes objetivos generales:
@@ -43,6 +46,7 @@ V. Fomentar la integración de la economía mexicana con la internacional y cont
 VI. Promover la transparencia en las relaciones comerciales internacionales y el pleno respeto a los principios de política exterior de la fracción X del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## SECCIÓN II — OBJETIVOS PARTICULARES
+
 
 ### Artículo 4
 . Para la aprobación de un tratado se observará congruencia con los siguientes objetivos particulares según proceda:
@@ -72,6 +76,7 @@ VI. Prever que las normas de los tratados consideren las asimetrías, diferencia
 VII. Los demás objetivos que correspondan a la naturaleza del tratado.
 
 ## CAPÍTULO III — DE LOS PROCEDIMIENTOS DE INFORMACIÓN SOBRE LA CELEBRACIÓN DE
+
 TRATADOS
 
 ### Artículo 5
@@ -124,6 +129,7 @@ VI. Las reservas que los países miembros del tratado establecieron y las razone
 . Para la aprobación a que se refiere el artículo anterior de la presente Ley, el Senado de la República, o en su caso la Comisión Permanente deberán turnar el tratado a las comisiones competentes, en la sesión siguiente a la fecha en que el Ejecutivo Federal lo haya sometido al Senado.
 
 ## CAPÍTULO IV — DE LA PARTICIPACIÓN DE LOS PODERES DE LAS ENTIDADES FEDERATIVAS Y DE LAS
+
 ORGANIZACIONES EMPRESARIALES, CIUDADANAS Y SINDICALES
 
 ### Artículo 11
@@ -134,6 +140,7 @@ Las comunicaciones entre ciudadanos, organizaciones y las comisiones correspondi
 . El Senado de la República, a través de sus comisiones, escuchará y tomará en cuenta las propuestas que le hagan llegar o que presenten los Gobiernos y Congresos Locales.
 
 ## CAPÍTULO V — DISPOSICIONES GENERALES
+
 
 ### Artículo 13
 . Para el cálculo de los plazos y términos que fija esta Ley se entiende por días hábiles todos los días exceptuando los sábados y domingos así como los días que establece el artículo 74 de la Ley Federal del Trabajo.

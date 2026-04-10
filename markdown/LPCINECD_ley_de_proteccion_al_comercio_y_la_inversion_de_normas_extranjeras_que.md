@@ -15,20 +15,24 @@ II Que permita reclamar pagos a particulares con motivo de expropiaciones realiz
 III Que prevea restringir la entrada al país que expide la ley como uno de los medios para alcanzar los objetivos antes citados.
 ARTICULO 2o.- Queda prohibido a las personas mencionadas en el artículo 1o. de esta ley proporcionar cualquier información, por cualquier medio, que le sea requerida por tribunales o autoridades extranjeros, con base en las leyes extranjeras a que se refiere el artículo 1o.
 ARTICULO 3o. Las personas afectadas deberán informar a la Secretaría de Relaciones Exteriores y a la Secretaría de Economía, de aquellos casos en que:
-Párrafo reformado DOF 09-04-2012 I Pudieren verse perjudicadas en sus actividades o inversión, por los efectos de las leyes extranjeras a que se refiere el artículo 1o., y DERECHO INTERNACIONAL II Reciban requerimientos o notificaciones, emitidos con base en las leyes extranjeras a que se refiere el artículo 1o.
+Párrafo reformado DOF 09-04-2012
+I Pudieren verse perjudicadas en sus actividades o inversión, por los efectos de las leyes extranjeras a que se refiere el artículo 1o., y DERECHO INTERNACIONAL II Reciban requerimientos o notificaciones, emitidos con base en las leyes extranjeras a que se refiere el artículo 1o.
 ARTICULO 4o.- Los tribunales nacionales denegarán el reconocimiento y ejecución de sentencias, requerimientos judiciales o laudos arbitrales, emitidos con base en las leyes extranjeras a que se refiere el artículo 1o.
 ARTICULO 5o.- Quienes hubieren sido condenados al pago de una indemnización mediante sentencia o laudo emitido con base en las leyes extranjeras a que se refiere el artículo 1o., tendrán derecho de demandar ante tribunales federales, el pago por parte del demandante del juicio en país extranjero:
 I En concepto de daño y como suerte principal, la cantidad establecida en la sentencia o laudo extranjero, y II Los perjuicios ocasionados, así como los gastos y las costas judiciales respectivos.
 ARTICULO 6o.- Los tribunales nacionales de conformidad con la legislación aplicable, podrán homologar y ejecutar en su caso, las sentencias o laudos emitidos en el extranjero, que condenen a indemnización, pago de daños y perjuicios así como gastos y costas, a una persona que a su vez hubiere obtenido un beneficio económico derivado de una sentencia o laudo emitidos con base en las leyes extranjeras a que se refiere el artículo 1o.
 ARTICULO 7o.- La Secretaría de Relaciones Exteriores y la Secretaría de Economía asesorarán a las personas que se vean afectadas por la aplicación de las leyes a que se refiere el artículo 1o.
-Artículo reformado DOF 09-04-2012 ARTICULO 8o.- La Secretaría de Relaciones Exteriores y la Secretaría de Economía, en sus respectivas competencias, quedan facultadas para emitir criterios generales de interpretación de esta ley.
-Artículo reformado DOF 09-04-2012 ARTICULO 9o.- Sin perjuicio de las responsabilidades de carácter civil, penal o de otra índole que puedan generarse por la violación de los artículos 1o., 2o. y 3o., la Secretaría de Relaciones Exteriores podrá imponer, al infractor, las sanciones administrativas siguientes:
+Artículo reformado DOF 09-04-2012
+ARTICULO 8o.- La Secretaría de Relaciones Exteriores y la Secretaría de Economía, en sus respectivas competencias, quedan facultadas para emitir criterios generales de interpretación de esta ley.
+Artículo reformado DOF 09-04-2012
+ARTICULO 9o.- Sin perjuicio de las responsabilidades de carácter civil, penal o de otra índole que puedan generarse por la violación de los artículos 1o., 2o. y 3o., la Secretaría de Relaciones Exteriores podrá imponer, al infractor, las sanciones administrativas siguientes:
 I Por violación al primer párrafo del artículo 1o., multa hasta por 100,000 días de salario mínimo diario general, vigente en el Distrito Federal.
 II Por violación al artículo 2o., multa hasta por 50,000 días de salario mínimo diario general, vigente en el Distrito Federal.
 III Por violación al artículo 3o., con amonestación. Si se trata de la segunda infracción, multa hasta por 1,000 días de salario mínimo diario general, vigente en el Distrito Federal.
 En caso de reincidencia, se aplicará multa hasta por el doble del límite máximo de la sanción que corresponda.
 La Secretaría de Relaciones Exteriores fijará el monto de la sanción, considerando las circunstancias pertinentes del infractor y el grado en que resulten afectados el comercio o la inversión, según la Secretaría de Economía.
-Párrafo reformado DOF 09-04-2012 DERECHO INTERNACIONAL El procedimiento de imposición de las sanciones administrativas se regirá por la Ley Federal del Procedimiento Administrativo.
+Párrafo reformado DOF 09-04-2012
+DERECHO INTERNACIONAL El procedimiento de imposición de las sanciones administrativas se regirá por la Ley Federal del Procedimiento Administrativo.
 
 ## TRANSITORIO
 
@@ -45,6 +49,6 @@ Se reforman los artículos 3o, primer párrafo; 7o; 8o y 9o, cuarto párrafo de 
 
 ## TRANSITORIOS
 
-**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+**Primero.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

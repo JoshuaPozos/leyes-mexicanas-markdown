@@ -16,7 +16,9 @@ Ley General para el Control del Tabaco
 
 ## Título Primero — Disposiciones Generales
 
+
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 1
 . La presente Ley es de utilidad pública y sus disposiciones son de orden público e interés social y de observancia general en todo el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción. A falta de disposición expresa se aplicará supletoriamente la Ley General de Salud.
@@ -78,9 +80,12 @@ VIII. Emisión: Es la sustancia producida y liberada cuando un producto del taba
 IX. Empaquetado y etiquetado externos: Expresión que se aplica a todo envasado y etiquetado utilizados en la venta al por menor del producto de tabaco;
 
 X. Espacio 100 por ciento libre de humo de tabaco y emisiones: Aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;
-Fracción reformada DOF 17-02-2022 X Bis. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
-Fracción adicionada DOF 17-02-2022 X Ter. Lugar de trabajo: Son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo así como los vehículos que se utilizan mientras se realiza el trabajo;
-Fracción adicionada DOF 17-02-2022 X Quáter. Transporte público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
+Fracción reformada DOF 17-02-2022
+X Bis. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
+Fracción adicionada DOF 17-02-2022
+X Ter. Lugar de trabajo: Son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo así como los vehículos que se utilizan mientras se realiza el trabajo;
+Fracción adicionada DOF 17-02-2022
+X Quáter. Transporte público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
 Fracción adicionada DOF 17-02-2022
 
 XI. Humo de Tabaco: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
@@ -116,6 +121,7 @@ XXV. Tabaco: La planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural
 XXVI. Verificador: Persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
 
 ## Capítulo II
+
 Atribuciones de la Autoridad
 
 ### Artículo 7
@@ -185,9 +191,11 @@ XI. Proponer al Ejecutivo Federal las políticas públicas para el control del t
 . Las compañías productoras, importadoras o comercializadoras de productos del tabaco, tendrán la obligación de entregar a la Secretaría la información relativa al contenido de los productos del tabaco, los ingredientes usados y las emisiones y sus efectos en la salud conforme a las disposiciones aplicables y hacerlas públicas a la población en general.
 
 ## Título Segundo
+
 Comercio, Distribución, Venta y Suministro de los Productos del Tabaco
 
 ## Capítulo Único
+
 
 ### Artículo 14
 . Todo establecimiento que produzca, fabrique o importe productos del tabaco requerirá licencia sanitaria de acuerdo con los requisitos que establezca esta Ley y demás disposiciones aplicables.
@@ -230,7 +238,9 @@ III. Emplear a menores de edad en actividades de comercio, producción, distribu
 
 ## Título Tercero — Sobre los Productos del Tabaco
 
+
 ## Capítulo I
+
 Empaquetado y Etiquetado
 
 ### Artículo 18
@@ -267,6 +277,7 @@ De manera enunciativa más no limitativa quedan prohibidas expresiones tales com
 Este requisito será aplicable para la comercialización dentro del territorio nacional.
 
 ## Capítulo II
+
 Publicidad, Promoción y Patrocinio
 
 ### Artículo 23
@@ -280,11 +291,13 @@ Artículo reformado DOF 17-02-2022
 . Las publicaciones de comunicaciones internas para la distribución entre los empleados de la industria tabacalera no serán consideradas publicidad o promoción para efectos de esta Ley.
 
 ## Capítulo III
+
 Consumo y Protección contra la Exposición al Humo de Tabaco
 
 ### Artículo 26
 . Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco y nicotina en los espacios 100 por ciento libres de humo de tabaco y emisiones, en los espacios cerrados, los lugares de trabajo, el transporte público, espacios de concurrencia colectiva, las escuelas públicas y privadas en todos los niveles educativos y en cualquier otro lugar con acceso al público que en forma expresa lo establezca la Secretaría.
-Párrafo reformado DOF 17-02-2022 En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
+Párrafo reformado DOF 17-02-2022
+En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
 
 ### Artículo 27
 . En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría.
@@ -299,9 +312,11 @@ Artículo reformado DOF 17-02-2022
 Artículo reformado DOF 17-02-2022
 
 ## Título Cuarto
+
 Medidas para Combatir la Producción Ilegal y el Comercio Ilícito de Productos del Tabaco
 
 ## Capítulo Único
+
 
 ### Artículo 30
 . La Secretaría vigilará que los productos del tabaco y productos accesorios al tabaco materia de importación cumplan con esta Ley, sus reglamentos y demás disposiciones aplicables.
@@ -327,7 +342,9 @@ III. La Secretaría podrá muestrear y analizar los productos del tabaco y los p
 
 ## Título Quinto — De la Participación Ciudadana
 
+
 ## Capítulo Único
+
 
 ### Artículo 35
 . La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
@@ -348,9 +365,11 @@ VI. Coordinación con los consejos nacional y estatales contra las adicciones, y
 VII. Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana.
 
 ## Título Sexto
+
 Cumplimiento de esta Ley
 
 ## Capítulo I — Disposiciones Generales
+
 
 ### Artículo 36
 . Corresponde a la Secretaría con base en lo dispuesto en la Ley General de Salud y demás disposiciones aplicables:
@@ -365,6 +384,7 @@ IV. Ejecutar los actos del procedimiento para aplicar medidas de seguridad y san
 Para dar cumplimiento a lo anterior, la Secretaría emitirá las disposiciones correspondientes.
 
 ## Capítulo II — De la Vigilancia Sanitaria
+
 
 ### Artículo 37
 . Los verificadores serán nombrados y capacitados por la Secretaría, de acuerdo a lo establecido en la Ley General de Salud y demás disposiciones aplicables.
@@ -383,6 +403,7 @@ Para dar cumplimiento a lo anterior, la Secretaría emitirá las disposiciones c
 
 ## Capítulo III — De la Denuncia Ciudadana
 
+
 ### Artículo 42
 . Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables.
 
@@ -395,7 +416,9 @@ Artículo reformado DOF 17-02-2022
 
 ## Título Séptimo — De las Sanciones
 
+
 ## Capítulo Único
+
 
 ### Artículo 45
 . El incumplimiento a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionados administrativamente por las autoridades sanitarias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -455,9 +478,11 @@ III. De cuatro mil hasta diez mil veces el salario mínimo general diario vigent
 . En todo lo relativo a los procedimientos para la aplicación de medidas de seguridad y sanciones, los recursos de inconformidad y prescripción, se aplicará lo establecido en las disposiciones de la Ley General de Salud.
 
 ## Título Octavo — De los Delitos
+
 Título adicionado DOF 15-06-2018
 
 ## Capítulo Único
+
 Capítulo adicionado DOF 15-06-2018
 
 ### Artículo 56
@@ -471,11 +496,11 @@ Artículo adicionado DOF 15-06-2018
 
 ## TRANSITORIOS
 
-**PRIMERO.** La presente Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
-**SEGUNDO.** El Reglamento sobre Consumo de Tabaco, permanecerá vigente hasta en tanto se emitan las disposiciones reglamentarias de esta Ley.
-**TERCERO.** En términos de lo dispuesto por los artículos 26 y 27 de esta Ley los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivamente para fumar, contarán con 180 días después de la publicación en el Diario Oficial de la Federación de esta Ley para efecto de llevar a cabo las modificaciones o adecuaciones necesarias en dichas zonas.
+**PRIMERO.-** La presente Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Reglamento sobre Consumo de Tabaco, permanecerá vigente hasta en tanto se emitan las disposiciones reglamentarias de esta Ley.
+**TERCERO.-** En términos de lo dispuesto por los artículos 26 y 27 de esta Ley los propietarios, administradores o responsables de los establecimientos que pretendan contar con zonas exclusivamente para fumar, contarán con 180 días después de la publicación en el Diario Oficial de la Federación de esta Ley para efecto de llevar a cabo las modificaciones o adecuaciones necesarias en dichas zonas.
 En caso de que los propietarios, administradores o responsables de los establecimientos referidos en el párrafo anterior no cuenten con las posibilidades económicas o de infraestructura necesarias para llevar a cabo las modificaciones o adecuaciones señaladas, podrán recurrir a la Secretaría dentro del periodo especificado en el párrafo anterior a efectos de celebrar los convenios o instrumentos administrativos necesarios que les permitan dar cumplimiento a la presente Ley.
-**CUARTO.** Las acciones que, en cumplimiento a lo dispuesto en este instrumento y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a los ingresos aprobados en la Ley de Ingresos del ejercicio fiscal correspondiente, así como a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+**CUARTO.-** Las acciones que, en cumplimiento a lo dispuesto en este instrumento y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a los ingresos aprobados en la Ley de Ingresos del ejercicio fiscal correspondiente, así como a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ### ARTÍCULO SEGUNDO
 ……….
@@ -483,12 +508,12 @@ En caso de que los propietarios, administradores o responsables de los estableci
 ### ARTÍCULO TERCERO
 ……….
 ARTÍCULOS TRANSITORIOS
-**PRIMERO.** El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación.
-**SEGUNDO.** Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
-**TERCERO.** Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
-**CUARTO.** El gobierno del Distrito Federal, los gobiernos de las entidades federativas y de los municipios, deberán adecuar sus Leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con la presente Ley.
-**QUINTO.** La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
-**SEXTO.** Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación.
+**PRIMERO.-** El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación.
+**SEGUNDO.-** Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
+**TERCERO.-** Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+**CUARTO.-** El gobierno del Distrito Federal, los gobiernos de las entidades federativas y de los municipios, deberán adecuar sus Leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con la presente Ley.
+**QUINTO.-** La Secretaría publicará en el Diario Oficial de la Federación las disposiciones para la formulación, aprobación, aplicación, utilización e incorporación de las leyendas, imágenes, pictogramas, fotografías y mensajes sanitarios que se incorporarán en los paquetes de productos del tabaco y en todo empaquetado y etiquetado externo de los mismos, de acuerdo a lo establecido en esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.
+**SEXTO.-** Todos los empaques de tabaco fabricados en o importados hacia México deberán exhibir las nuevas advertencias de salud en un plazo de 9 meses contados a partir de la fecha en que la Secretaría publique los diseños para las advertencias sanitarias en el Diario Oficial de la Federación.
 México, D.F., a 26 de febrero de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de mayo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo 27 de la Ley General para el Control del Tabaco.
 Publicado en el Diario Oficial de la Federación el 6 de enero de 2010
@@ -519,39 +544,39 @@ Se reforma el artículo 7 de la Ley General para el Control del Tabaco, para que
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
-**Segundo.** Se abroga la Ley Orgánica de la Fiscalía General de la República.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
+**Segundo.-** Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular, respectivamente, en los términos de sus funciones constitucionales vigentes.
-**Tercero.** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
-**Cuarto.** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+**Tercero.-** Las designaciones, nombramientos y procesos en curso para designación, realizados de conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del proceso pendiente.
+**Cuarto.-** La persona titular de la Fiscalía General de la República contará con un término de noventa días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
 En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
 Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
-**Quinto.** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
+**Quinto.-** A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y de gestión, dentro del ámbito de la Fiscalía General de la República.
 Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para transitar al servicio profesional de carrera.
 Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
 El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones laborales subsistirán.
 A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la República.
 Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente Decreto.
-**Sexto.** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
-**Séptimo.** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
+**Sexto.-** El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los Estatutos y demás normatividad derivada del presente Decreto.
+**Séptimo.-** El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras públicas que no se sometan o no acrediten el proceso de evaluación.
 El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General de la República que continúa en la Fiscalía General de la República, así como para el personal de transición.
-**Octavo.** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
-**Noveno.** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-**Décimo.** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
+**Octavo.-** Las personas servidoras públicas que cuenten con nombramiento o Formato Único de Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán adherirse a los programas de liquidación que para tales efectos se expidan.
+**Noveno.-** La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
+**Décimo.-** La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-**Décimo Primero.** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
+**Décimo Primero.-** Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a la entrada en vigor del presente Decreto.
-**Décimo Segundo.** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
-**tercero.** del artículo 88 del presente Decreto.
+**Décimo Segundo.-** La persona titular de la Fiscalía General de la República contará con un plazo de un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+**tercero.-** del artículo 88 del presente Decreto.
 El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-**Décimo Tercero.** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
-**Décimo Cuarto.** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
+**Décimo Tercero.-** Las unidades administrativas de la Fiscalía General de la República que a la fecha de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el presente Decreto.
+**Décimo Cuarto.-** Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales, corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la Federación.
 Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al Órgano Interno de Control de la Fiscalía General de la República.
-**Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-**Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+**Décimo Quinto.-** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
+**Décimo Sexto.-** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para el Control del Tabaco.
 Publicado en el Diario Oficial de la Federación el 17 de febrero de 2022
@@ -561,7 +586,7 @@ Se reforman la fracción II del artículo 5; la fracción X del artículo 6; las
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** En términos de lo dispuesto por los artículos 26 y 27 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 60 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
-**Tercero.** Los gobiernos de las Entidades Federativas y de los municipios, deberán adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con lo dispuesto en el presente Decreto.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** En términos de lo dispuesto por los artículos 26 y 27 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 60 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
+**Tercero.-** Los gobiernos de las Entidades Federativas y de los municipios, deberán adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con lo dispuesto en el presente Decreto.
 Ciudad de México, a 14 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de febrero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

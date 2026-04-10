@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
+
 ## CAPÍTULO ÚNICO — OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
+
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y gestión integral de residuos, en el territorio nacional.
@@ -72,7 +74,8 @@ X. La realización inmediata de acciones de remediación de los sitios contamina
 XI. La producción limpia como medio para alcanzar el desarrollo sustentable, y
 
 XII. La valorización, la responsabilidad compartida y el manejo integral de residuos, aplicados bajo condiciones de circularidad, eficiencia ambiental, tecnológica, económica y social, en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos.
-Fracción reformada DOF 19-01-2026 En todo lo no previsto en la presente Ley, se aplicarán, en lo conducente, las disposiciones contenidas en otras leyes relacionadas con la materia que regula este ordenamiento.
+Fracción reformada DOF 19-01-2026
+En todo lo no previsto en la presente Ley, se aplicarán, en lo conducente, las disposiciones contenidas en otras leyes relacionadas con la materia que regula este ordenamiento.
 
 ### Artículo 3
 .- Se consideran de utilidad pública:
@@ -154,7 +157,8 @@ XXIX. Residuo: Material o producto cuyo propietario o poseedor desecha y que se 
 
 XXX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 XXX Bis. Residuos metalúrgicos: Son aquellos provenientes de los procesos de fundición, refinación y transformación de metales;
-Fracción adicionada DOF 08-05-2023 XXX Bis 1. Residuos mineros: Son aquellos provenientes de las actividades de la explotación y beneficio de minerales o sustancias;
+Fracción adicionada DOF 08-05-2023
+XXX Bis 1. Residuos mineros: Son aquellos provenientes de las actividades de la explotación y beneficio de minerales o sustancias;
 Fracción adicionada DOF 08-05-2023
 
 XXXI. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
@@ -187,14 +191,17 @@ Fracción adicionada DOF 18-01-2021. Reformada DOF 19-01-2026
 XLIV. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
 Fracción recorrida DOF 18-01-2021
 
-XLV. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica, y Fracción recorrida DOF 18-01-2021
+XLV. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica, y
+Fracción recorrida DOF 18-01-2021
 
 XLVI. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
 Fracción recorrida DOF 18-01-2021
 
 ## TÍTULO SEGUNDO — DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
+
 ## CAPÍTULO ÚNICO — ATRIBUCIONES DE LOS TRES ÓRDENES DE GOBIERNO Y COORDINACIÓN ENTRE
+
 DEPENDENCIAS
 
 ### Artículo 6
@@ -282,7 +289,8 @@ Fracción recorrida DOF 21-05-2013
 XXVII. Emitir las normas oficiales mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
 Fracción recorrida DOF 21-05-2013
 
-XXVIII. Convocar a entidades federativas y municipios, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten, y Fracción recorrida DOF 21-05-2013
+XXVIII. Convocar a entidades federativas y municipios, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten, y
+Fracción recorrida DOF 21-05-2013
 
 XXIX. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 Fracción recorrida DOF 21-05-2013
@@ -340,11 +348,14 @@ XIX. Coadyuvar en la promoción de la prevención de la contaminación de sitios
 XX. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 Fracción reformada DOF 07-01-2021
 
-XXI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios, y Fracción adicionada DOF 07-01-2021
+XXI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios, y
+Fracción adicionada DOF 07-01-2021
 
 XXII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
-Fracción recorrida DOF 07-01-2021 Las Legislaturas de las entidades federativas, con arreglo a sus respectivas constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
-Párrafo reformado DOF 19-01-2018 Los ayuntamientos por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones se cumplan las previsiones del presente ordenamiento.
+Fracción recorrida DOF 07-01-2021
+Las Legislaturas de las entidades federativas, con arreglo a sus respectivas constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley.
+Párrafo reformado DOF 19-01-2018
+Los ayuntamientos por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones se cumplan las previsiones del presente ordenamiento.
 
 ### Artículo 10
 .- Los municipios tienen a su cargo las funciones de manejo integral de residuos sólidos urbanos, que consisten en la recolección, traslado, tratamiento, y su disposición final, conforme a las siguientes facultades:
@@ -370,7 +381,8 @@ Fracción adicionada DOF 21-05-2013
 X. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
 Fracción recorrida DOF 21-05-2013
 
-XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y Fracción recorrida DOF 21-05-2013
+XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y
+Fracción recorrida DOF 21-05-2013
 
 XII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 Fracción recorrida DOF 21-05-2013
@@ -400,7 +412,9 @@ Los instrumentos a que se refiere este artículo deberán ser publicados en el D
 
 ## TÍTULO TERCERO — CLASIFICACIÓN DE LOS RESIDUOS
 
+
 ## CAPÍTULO ÚNICO — FINES, CRITERIOS Y BASES GENERALES
+
 
 ### Artículo 15
 .- La Secretaría agrupará y subclasificará los residuos peligrosos, sólidos urbanos y de manejo especial en categorías, con el propósito de elaborar los inventarios correspondientes, y orientar la toma de decisiones basada en criterios de riesgo y en el manejo de los mismos. La subclasificación de los residuos deberá atender a la necesidad de:
@@ -450,7 +464,8 @@ Fracción reformada DOF 19-03-2014
 IX. Pilas que contengan litio, níquel, mercurio, cadmio, manganeso, plomo, zinc, o cualquier otro elemento que permita la generación de energía en las mismas, en los niveles que no sean considerados como residuos peligrosos en la norma oficial mexicana correspondiente;
 Fracción adicionada DOF 19-03-2014. Reformada DOF 04-06-2014
 
-X. Los neumáticos usados, y Fracción adicionada DOF 04-06-2014
+X. Los neumáticos usados, y
+Fracción adicionada DOF 04-06-2014
 
 XI. Otros que determine la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral.
 Fracción recorrida DOF 19-03-2014, 04-06-2014
@@ -487,15 +502,18 @@ La Secretaría, en coordinación con los gobiernos de las entidades federativas 
 .- En el caso de la generación de residuos peligrosos considerados como infecciosos, la Secretaría, conjuntamente con la Secretaría de Salud, emitirá las normas oficiales mexicanas mediante las cuales se regule su manejo y disposición final.
 
 ## TÍTULO CUARTO — INSTRUMENTOS DE LA POLÍTICA DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS
+
 RESIDUOS
 
 ## CAPÍTULO I — PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+
 
 ### Artículo 25
 .- La Secretaría deberá formular e instrumentar el Programa Nacional para la Prevención y Gestión Integral de los Residuos, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables.
 El Programa Nacional para la Prevención y Gestión Integral de los Residuos se basará en los principios de reducción, reutilización y reciclado de los residuos, en un marco de sistemas de gestión integral, en los que aplique la responsabilidad compartida y diferenciada entre los diferentes sectores sociales y productivos, y entre los tres órdenes de gobierno.
 También debe tener como base los principios de circularidad, jerarquización y trazabilidad, previstos en la Ley General de Economía Circular.
-Párrafo adicionado DOF 19-01-2026 El Diagnóstico Básico para la Gestión Integral de Residuos es el estudio que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente.
+Párrafo adicionado DOF 19-01-2026
+El Diagnóstico Básico para la Gestión Integral de Residuos es el estudio que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente.
 Artículo reformado DOF 21-05-2013
 
 ### Artículo 26
@@ -516,6 +534,7 @@ VI. La asistencia técnica que en su caso brinde la Secretaría.
 
 ## CAPÍTULO II — PLANES DE MANEJO
 
+
 ### Artículo 27
 .- Los planes de manejo se establecerán para los siguientes fines y objetivos:
 
@@ -528,7 +547,8 @@ III. Atender a las necesidades específicas de ciertos generadores que presentan
 IV. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados;
 Fracción reformada DOF 08-05-2023
 
-V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible, y Fracción reformada DOF 08-05-2023
+V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible, y
+Fracción reformada DOF 08-05-2023
 
 VI. Evitar derrames, infiltraciones, descargas o vertidos accidentales de materiales peligrosos, residuos peligrosos, residuos mineros o residuos metalúrgicos que afecten al medio ambiente y a la salud, mediante propuestas ambientales, tecnológicas, económicas y socialmente viables.
 Fracción adicionada DOF 08-05-2023
@@ -541,10 +561,12 @@ I. Los productores, importadores, exportadores y distribuidores de los productos
 II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo 31 y de aquellos que se incluyan en las normas oficiales mexicanas correspondientes;
 Fracción reformada DOF 19-03-2014
 
-III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; los residuos de envases plásticos, incluyendo los de poliestireno expandido; así como los importadores y distribuidores de neumáticos usados, bajo los principios de valorización y responsabilidad compartida, y Fracción reformada DOF 19-03-2014, 04-06-2014
+III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; los residuos de envases plásticos, incluyendo los de poliestireno expandido; así como los importadores y distribuidores de neumáticos usados, bajo los principios de valorización y responsabilidad compartida, y
+Fracción reformada DOF 19-03-2014, 04-06-2014
 
 IV. Los grandes generadores y los productores, importadores, exportadores y distribuidores de pilas y baterías eléctricas que sean considerados como residuos de manejo especial en la norma oficial mexicana correspondiente.
-Fracción adicionada DOF 19-03-2014 Artículo reformado DOF 21-05-2013
+Fracción adicionada DOF 19-03-2014
+Artículo reformado DOF 21-05-2013
 
 ### Artículo 29
 .- Los planes de manejo aplicables a productos de consumo que al desecharse se convierten en residuos peligrosos, deberán considerar, entre otros, los siguientes aspectos:
@@ -608,12 +630,14 @@ La Secretaría determinará, conjuntamente con las partes interesadas, otros res
 
 ### Artículo 33
 .- Las empresas o establecimientos responsables de los planes de manejo deben presentar, para su registro a la Secretaría, los relativos a los residuos peligrosos, a los residuos mineros y a los residuos metalúrgicos; y para efectos de su conocimiento a las autoridades estatales los residuos de manejo especial, y a las municipales para el mismo efecto los residuos sólidos urbanos, de conformidad con lo dispuesto en esta Ley y según lo determinen su Reglamento y demás ordenamientos que de ella deriven.
-Párrafo reformado DOF 08-05-2023 En caso de que los planes de manejo planteen formas de manejo contrarias a esta Ley y a la normatividad aplicable, el plan de manejo no deberá aplicarse.
+Párrafo reformado DOF 08-05-2023
+En caso de que los planes de manejo planteen formas de manejo contrarias a esta Ley y a la normatividad aplicable, el plan de manejo no deberá aplicarse.
 
 ### Artículo 34
 .- Los sistemas de manejo ambiental que formulen y ejecuten las dependencias federales, las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, se sujetarán a lo que se establece en la presente Ley.
 
 ## CAPÍTULO III — PARTICIPACIÓN SOCIAL
+
 
 ### Artículo 35
 .- El Gobierno Federal, los gobiernos de las entidades federativas y los municipios, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, para lo cual:
@@ -630,7 +654,8 @@ IV. Celebrarán convenios con medios de comunicación masiva para la promoción 
 V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos;
 
 VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos, así como el uso de materiales que cumplan con criterios de eficiencia ambiental y tecnológica.
-Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y Fracción reformada DOF 05-12-2014
+Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
+Fracción reformada DOF 05-12-2014
 
 VII. Concertarán acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.
 
@@ -638,6 +663,7 @@ VII. Concertarán acciones e inversiones con los sectores social y privado, inst
 .- El Gobierno Federal, los gobiernos de las entidades federativas y los municipios, integrarán órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas, organizaciones sociales y empresariales que tendrán funciones de asesoría, evaluación y seguimiento en materia de la política de prevención y gestión integral de los residuos y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento, se sujetarán a las disposiciones que para tal efecto se expidan.
 
 ## CAPÍTULO IV — DERECHO A LA INFORMACIÓN
+
 
 ### Artículo 37
 .- Las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, integrarán el Sistema de Información sobre la Gestión Integral de Residuos, que contendrá la información relativa a la situación local, los inventarios de residuos generados, la infraestructura disponible para su manejo, las disposiciones jurídicas aplicables a su regulación y control y otros aspectos que faciliten el logro de los objetivos de esta Ley y los ordenamientos que de ella deriven y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; la Ley de Transparencia y de Acceso a la Información Pública y demás disposiciones aplicables.
@@ -648,15 +674,19 @@ Artículo reformado DOF 05-12-2014
 
 ### Artículo 39
 .- Los tres órdenes de gobierno deben elaborar, actualizar y difundir los inventarios de generación de residuos peligrosos, residuos mineros, residuos metalúrgicos, residuos sólidos urbanos y residuos de manejo especial, de acuerdo con sus atribuciones respectivas, para lo cual se deben basar en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven.
-Párrafo reformado DOF 08-05-2023 Además, integrarán inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole en cada entidad, en los cuales se asienten datos acerca de su ubicación, el origen, características y otros elementos de información que sean útiles a las autoridades, para desarrollar medidas tendientes a evitar o reducir riesgos. La integración de inventarios se sustentará en criterios, métodos y sistemas informáticos, previamente acordados, estandarizados y difundidos.
+Párrafo reformado DOF 08-05-2023
+Además, integrarán inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole en cada entidad, en los cuales se asienten datos acerca de su ubicación, el origen, características y otros elementos de información que sean útiles a las autoridades, para desarrollar medidas tendientes a evitar o reducir riesgos. La integración de inventarios se sustentará en criterios, métodos y sistemas informáticos, previamente acordados, estandarizados y difundidos.
 
 ## TÍTULO QUINTO — MANEJO INTEGRAL DE RESIDUOS PELIGROSOS
 
+
 ## CAPÍTULO I — DISPOSICIONES GENERALES
+
 
 ### Artículo 40
 .- Los residuos peligrosos, mineros y metalúrgicos deben ser manejados conforme a lo dispuesto en la presente Ley, su Reglamento, las normas oficiales mexicanas y las demás disposiciones que de este ordenamiento se deriven.
-Párrafo reformado DOF 08-05-2023 En las actividades en las que se generen o manejen residuos peligrosos, se deberán observar los principios previstos en el artículo 2 de este ordenamiento, en lo que resulten aplicables.
+Párrafo reformado DOF 08-05-2023
+En las actividades en las que se generen o manejen residuos peligrosos, se deberán observar los principios previstos en el artículo 2 de este ordenamiento, en lo que resulten aplicables.
 
 ### Artículo 41
 .- Los generadores de residuos peligrosos, mineros y metalúrgicos, así como los gestores de este tipo de residuos, deben manejarlos de manera segura y ambientalmente adecuada conforme a los términos señalados en esta Ley.
@@ -664,7 +694,8 @@ Artículo reformado DOF 08-05-2023
 
 ### Artículo 42
 .- Los generadores y demás poseedores de residuos peligrosos, mineros y metalúrgicos, pueden contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para tales efectos por la Secretaría, o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente haya sido autorizado por esta dependencia, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos. No obstante, compartirán de manera solidaria la responsabilidad.
-Párrafo reformado DOF 08-05-2023 La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contraten los servicios de manejo y disposición final de residuos peligrosos por empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas, independientemente de la responsabilidad que tiene el generador.
+Párrafo reformado DOF 08-05-2023
+La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contraten los servicios de manejo y disposición final de residuos peligrosos por empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas, independientemente de la responsabilidad que tiene el generador.
 Los generadores de residuos peligrosos que transfieran éstos a empresas o gestores que presten los servicios de manejo, deberán cerciorarse ante la Secretaría que cuentan con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños que ocasione su manejo.
 El manejo y disposición final de los residuos mineros y metalúrgicos es responsabilidad de quien los genera, por lo que debe presentar evidencia verificable de que opera bajo el estricto cumplimiento de la normativa aplicable.
 Párrafo adicionado DOF 08-05-2023
@@ -673,6 +704,7 @@ Párrafo adicionado DOF 08-05-2023
 .- Las personas que generen o manejen residuos peligrosos deberán notificarlo a la Secretaría o a las autoridades correspondientes de los gobiernos locales, de acuerdo con lo previsto en esta Ley y las disposiciones que de ella se deriven.
 
 ## CAPÍTULO II — GENERACIÓN DE RESIDUOS PELIGROSOS
+
 
 ### Artículo 44
 .- Los generadores de residuos peligrosos tendrán las siguientes categorías:
@@ -685,7 +717,8 @@ III. Microgeneradores.
 
 ### Artículo 45
 .- Los generadores de residuos peligrosos, mineros y metalúrgicos deben identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta Ley y en su Reglamento, así como en las normas oficiales mexicanas que al respecto expida la Secretaría.
-Párrafo reformado DOF 08-05-2023 En cualquier caso los generadores deberán dejar libres de residuos peligrosos y de contaminación que pueda representar un riesgo a la salud y al ambiente, las instalaciones en las que se hayan generado éstos, cuando se cierren o se dejen de realizar en ellas las actividades generadoras de tales residuos.
+Párrafo reformado DOF 08-05-2023
+En cualquier caso los generadores deberán dejar libres de residuos peligrosos y de contaminación que pueda representar un riesgo a la salud y al ambiente, las instalaciones en las que se hayan generado éstos, cuando se cierren o se dejen de realizar en ellas las actividades generadoras de tales residuos.
 
 ### Artículo 46
 .- Los grandes generadores de residuos peligrosos, están obligados a registrarse ante la Secretaría y someter a su consideración el Plan de Manejo de Residuos Peligrosos, así como llevar una bitácora y presentar un informe anual acerca de la generación y modalidades de manejo a las que sujetaron sus residuos de acuerdo con los lineamientos que para tal fin se establezcan en el Reglamento de la presente Ley, así como contar con un seguro ambiental, de conformidad con la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
@@ -705,6 +738,7 @@ El control de los microgeneradores de residuos peligrosos, corresponderá a las 
 En todo caso, la generación y manejo de residuos peligrosos clorados, persistentes y bioacumulables, aun por parte de micro o pequeños generadores, estarán sujetos a las disposiciones contenidas en las normas oficiales mexicanas y planes de manejo correspondientes.
 
 ## CAPÍTULO III — DE LAS AUTORIZACIONES
+
 
 ### Artículo 50
 .- Se requiere autorización de la Secretaría para:
@@ -759,6 +793,7 @@ El Reglamento que al respecto se expida señalará los términos y condiciones d
 
 ## CAPÍTULO IV — MANEJO INTEGRAL DE LOS RESIDUOS PELIGROSOS
 
+
 ### Artículo 54
 .- Se deberá evitar la mezcla de residuos peligrosos con otros materiales o residuos para no contaminarlos y no provocar reacciones, que puedan poner en riesgo la salud, el ambiente o los recursos naturales. La Secretaría establecerá los procedimientos a seguir para determinar la incompatibilidad entre un residuo peligroso y otro material o residuo.
 
@@ -791,7 +826,8 @@ En todo caso, el reciclaje de residuos se deberá desarrollar de conformidad con
 
 ### Artículo 62
 .- El co-procesamiento y la incineración de residuos, se restringirán a las condiciones que se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas. En los citados ordenamientos se incluirán especificaciones respecto a la caracterización analítica de los residuos susceptibles de co-procesamiento, así como de incineración y de las cenizas resultantes de la misma, y al monitoreo periódico de todas las emisiones sujetas a normas oficiales mexicanas, cuyos costos asumirán los responsables de las plantas de co-procesamiento o de incineración.
-Párrafo reformado DOF 18-01-2021 La Secretaría, al establecer la normatividad correspondiente, tomará en consideración los criterios de salud que al respecto establezca la Secretaría de Salud.
+Párrafo reformado DOF 18-01-2021
+La Secretaría, al establecer la normatividad correspondiente, tomará en consideración los criterios de salud que al respecto establezca la Secretaría de Salud.
 
 ### Artículo 62
 Bis.- Para el co-procesamiento de los residuos deberá seguirse la jerarquía de manejo de los residuos que determine la Secretaría, y considerar las mejores técnicas disponibles por razones de viabilidad técnica, económica o de protección ambiental.
@@ -800,7 +836,8 @@ Artículo adicionado DOF 18-01-2021
 
 ### Artículo 63
 .- La Secretaría, al reglamentar y normar la operación de los procesos de incineración y termovalorización de residuos permitidos, diferenciará estos procesos en su regulación del coprocesamiento.
-Párrafo reformado DOF 18-01-2021 Deberán distinguirse los residuos que por sus características, volúmenes de generación y acumulación, problemas ambientales e impactos económicos y sociales que ocasiona su manejo inadecuado, pudieran ser objeto de co-procesamiento. A su vez, deberán establecerse restricciones a la incineración, o al co-procesamiento mediante combustión de residuos susceptibles de ser valorizados mediante otros procesos, cuando éstos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles. En tales casos, deberán promoverse acciones que tiendan a fortalecer la infraestructura de valorización o de tratamiento de estos residuos, por otros medios.
+Párrafo reformado DOF 18-01-2021
+Deberán distinguirse los residuos que por sus características, volúmenes de generación y acumulación, problemas ambientales e impactos económicos y sociales que ocasiona su manejo inadecuado, pudieran ser objeto de co-procesamiento. A su vez, deberán establecerse restricciones a la incineración, o al co-procesamiento mediante combustión de residuos susceptibles de ser valorizados mediante otros procesos, cuando éstos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles. En tales casos, deberán promoverse acciones que tiendan a fortalecer la infraestructura de valorización o de tratamiento de estos residuos, por otros medios.
 
 ### Artículo 64
 .- En el caso del transporte y acopio de residuos que correspondan a productos desechados sujetos a planes de manejo, en términos de lo dispuesto por el artículo 31 de esta Ley, se deberán observar medidas para prevenir y responder de manera segura y ambientalmente adecuada a posibles fugas, derrames o liberación al ambiente de sus contenidos que posean propiedades peligrosas.
@@ -834,6 +871,7 @@ VIII. La dilución de residuos peligrosos en cualquier medio, cuando no sea part
 IX. La incineración de residuos peligrosos que sean o contengan compuestos orgánicos persistentes y bioacumulables; plaguicidas organoclorados; así como baterías y acumuladores usados que contengan metales tóxicos; siempre y cuando exista en el país alguna otra tecnología disponible que cause menor impacto y riesgo ambiental.
 
 ## CAPÍTULO V — RESPONSABILIDAD ACERCA DE LA CONTAMINACIÓN Y REMEDIACIÓN DE SITIOS
+
 
 ### Artículo 68
 .- Quienes resulten responsables de la contaminación de un sitio, así como de daños a la salud como consecuencia de ésta, estarán obligados a reparar el daño causado, conforme a las disposiciones legales correspondientes.
@@ -882,7 +920,8 @@ Los notarios y cualesquiera otros fedatarios públicos harán constar tal circun
 .- Las autoridades locales deberán inscribir en el Registro Público de la Propiedad correspondiente los sitios contaminados que se encuentren dentro de su jurisdicción.
 
 ### Artículo 77
-.- Las acciones en materia de remediación de sitios, y de reparación y compensación de daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que Artículo reformado DOF 07-06-2013
+.- Las acciones en materia de remediación de sitios, y de reparación y compensación de daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que
+Artículo reformado DOF 07-06-2013
 
 ### Artículo 78
 .- La Secretaría, en coordinación con la Secretaría de Salud, emitirá las normas oficiales mexicanas para la caracterización de los sitios contaminados y evaluará los riesgos al ambiente y la salud que de ello deriven, para determinar, en función del riesgo, las acciones de remediación que procedan.
@@ -891,6 +930,7 @@ Los notarios y cualesquiera otros fedatarios públicos harán constar tal circun
 .- La regulación del uso del suelo y los programas de ordenamiento ecológico y de desarrollo urbano, deberán ser considerados al determinar el grado de remediación de sitios contaminados con residuos peligrosos, con base en los riesgos que deberán evitarse.
 
 ## CAPÍTULO VI — LA PRESTACIÓN DE SERVICIOS EN MATERIA DE RESIDUOS PELIGROSOS
+
 
 ### Artículo 80
 .- Las personas interesadas en obtener autorizaciones para llevar a cabo los servicios a terceros para el transporte, acopio, almacenamiento, reutilización, reciclaje, tratamiento y disposición final de residuos, según sea el caso, deberán presentar ante la Secretaría su solicitud de autorización, en donde proporcionen, según corresponda, la siguiente información:
@@ -932,6 +972,7 @@ En el caso de la prestación de servicios de confinamiento, la responsabilidad d
 .- El trámite de las autorizaciones a que se refiere este Capítulo, se sujetará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## CAPÍTULO VII — IMPORTACIÓN Y EXPORTACIÓN DE RESIDUOS PELIGROSOS
+
 
 ### Artículo 85
 .- La importación y exportación de residuos peligrosos se sujetará a las restricciones o Competencia Económica, los tratados internacionales de los que México sea parte y los demás ordenamientos legales aplicables.
@@ -975,9 +1016,11 @@ Cuando sí lo sean, podrán ser reciclados dentro de las propias instalaciones e
 Los requerimientos de información previstos en este artículo no se aplicarán a las industrias que estén obligadas a presentar planes de manejo que incluyan la presentación a la Secretaría de informes similares.
 
 ## TÍTULO SEXTO — DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE
+
 MANEJO ESPECIAL
 
 ## CAPÍTULO ÚNICO
+
 
 ### Artículo 95
 .- La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley, la Ley General de Economía Circular, las disposiciones emitidas por las legislaturas de las entidades federativas y demás disposiciones aplicables.
@@ -1010,7 +1053,8 @@ X. Organizar y promover actividades de comunicación, educación, capacitación,
 XI. Promover la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones profesionales y de consumidores, y redes intersectoriales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia;
 Fracción reformada DOF 30-05-2012
 
-XII. Realizar las acciones necesarias para prevenir y controlar la contaminación por residuos susceptibles de provocar procesos de salinización de suelos e incrementos excesivos de carga orgánica en suelos y cuerpos de agua, y Fracción reformada DOF 30-05-2012
+XII. Realizar las acciones necesarias para prevenir y controlar la contaminación por residuos susceptibles de provocar procesos de salinización de suelos e incrementos excesivos de carga orgánica en suelos y cuerpos de agua, y
+Fracción reformada DOF 30-05-2012
 
 XIII. Identificar los requerimientos y promover la inversión para el desarrollo de infraestructura y equipamiento, a fin de garantizar el manejo integral de los residuos.
 Fracción adicionada DOF 30-05-2012
@@ -1042,12 +1086,15 @@ II. Incinerar residuos a cielo abierto, y
 
 III. Abrir nuevos tiraderos a cielo abierto.
 Asimismo prohibir la disposición final de neumáticos en predios baldíos, barrancas, cañadas, ductos de drenaje y alcantarillado, en cuerpos de agua y cavidades subterráneas.
-Párrafo adicionado DOF 04-06-2014 Los fabricantes, importadores, distribuidores, gestores y generadores quedan obligados a hacerse cargo de la gestión de los neumáticos usados y a garantizar su recolección de acuerdo con lo determinado por la norma oficial mexicana correspondiente y sus planes de manejo.
+Párrafo adicionado DOF 04-06-2014
+Los fabricantes, importadores, distribuidores, gestores y generadores quedan obligados a hacerse cargo de la gestión de los neumáticos usados y a garantizar su recolección de acuerdo con lo determinado por la norma oficial mexicana correspondiente y sus planes de manejo.
 Párrafo adicionado DOF 04-06-2014
 
 ## TÍTULO SÉPTIMO — MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
+
 ## CAPÍTULO I — VISITAS DE INSPECCIÓN
+
 
 ### Artículo 101
 . La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las medidas correctivas, de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
@@ -1061,9 +1108,11 @@ Artículo reformado DOF 22-05-2006
 
 ## CAPÍTULO II — MEDIDAS DE SEGURIDAD
 
+
 ### Artículo 104
 . Si de estas visitas de inspección se desprenden infracciones a la presente Ley, en el emplazamiento respectivo la autoridad ordenadora requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
-Párrafo adicionado DOF 22-05-2006 En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la Secretaría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+Párrafo adicionado DOF 22-05-2006
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la Secretaría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
 I. La clausura temporal total o parcial de las fuentes contaminantes, así como de las instalaciones en que se generen, manejen o dispongan finalmente los residuos peligrosos involucrados en los supuestos a los que se refiere este precepto;
 
@@ -1081,6 +1130,7 @@ Tratándose de residuos peligrosos generados por microgeneradores, las medidas d
 .- Cuando proceda, las autoridades competentes que hubieren dictado las medidas de seguridad a las que hace referencia al artículo anterior, podrán ordenar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de estas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas acciones se ordene el retiro de las medidas de seguridad impuestas.
 
 ## CAPÍTULO III — INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
 
 ### Artículo 106
 .- De conformidad con esta Ley y su Reglamento, serán sancionadas las personas que lleven a cabo cualquiera de las siguientes actividades:
@@ -1151,7 +1201,8 @@ Se considera reincidente al infractor que incurra más de una vez en conductas q
 .- Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, la autoridad correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor.
-Párrafo adicionado DOF 22-05-2006 Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+Párrafo adicionado DOF 22-05-2006
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
 Párrafo adicionado DOF 22-05-2006
 
 ### Artículo 112
@@ -1170,7 +1221,8 @@ II. Arresto administrativo hasta por treinta y seis horas;
 III. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes;
 Fracción reformada DOF 22-05-2006
 
-IV. La remediación de sitios contaminados, y Fracción reformada DOF 22-05-2006
+IV. La remediación de sitios contaminados, y
+Fracción reformada DOF 22-05-2006
 
 V. Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción.
 Fracción adicionada DOF 22-05-2006
@@ -1185,6 +1237,7 @@ Fracción adicionada DOF 22-05-2006
 .- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y en las disposiciones que de ella se deriven, se destinarán a la integración de fondos para la remediación de sitios contaminados que representen un riesgo inminente al ambiente o a la salud.
 
 ## CAPÍTULO IV — RECURSO DE REVISIÓN Y DENUNCIA POPULAR
+
 
 ### Artículo 116
 .- Los interesados afectados por los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda.
@@ -1414,8 +1467,8 @@ Se reforma el artículo 47 de la Ley General para la Prevención y Gestión Inte
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
 México, D.F., a 8 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Graciela Saldaña Fraire, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de mayo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del Artículo 5o. Constitucional relativo al ejercicio de las profesiones en el Distrito Federal, la Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General en Materia de Delitos Electorales, la Ley General del Sistema de Medios de Impugnación en Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de las facultades concurrentes para las demarcaciones territoriales.
 Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
@@ -1438,9 +1491,9 @@ Se reforman la fracción IV del artículo 7; la fracción III del artículo 10; 
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-**Segundo.** En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá publicar las normas oficiales mexicanas que establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.
-**Tercero.** En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá publicar las normas oficiales mexicanas que establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.
+**Tercero.-** En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
 Ciudad de México, a 26 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Karen Michel González Márquez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de co-procesamiento de residuos.
@@ -1456,7 +1509,7 @@ Se reforman los artículos 62, primer párrafo y 63, primer párrafo; y se adici
 **Tercero.-** La Secretaría de Medio Ambiente y Recursos Naturales expedirá en un plazo no mayor a 365 días naturales, contados a partir de la publicación del presente Decreto, las disposiciones reglamentarias y normativas correspondientes.
 **Cuarto.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 **Quinto.-** La Secretaría considerará las obligaciones de las empresas que realicen actividades de coprocesamiento, así como de incineración en las materias de registro de emisiones y transferencia de contaminantes y de registro de compuestos y gases de efecto invernadero, establecidas en la Ley Cambio Climático y su Reglamento en Materia de Registro Nacional de Emisiones, para publicar en los
-**primero.** s diez días de los meses de diciembre, en su página web y demás medios de comunicación que considere pertinentes para conocimiento de la sociedad en general, las emisiones normadas que producen las empresas que realicen de forma autorizada, conforme a lo dispuesto en esta Ley y el presente Decreto, el co-procesamiento, así como la incineración de residuos peligrosos.
+**primero.-** s diez días de los meses de diciembre, en su página web y demás medios de comunicación que considere pertinentes para conocimiento de la sociedad en general, las emisiones normadas que producen las empresas que realicen de forma autorizada, conforme a lo dispuesto en esta Ley y el presente Decreto, el co-procesamiento, así como la incineración de residuos peligrosos.
 En el cumplimiento de lo dispuesto en el párrafo anterior, la Secretaría de Medio Ambiente y Recursos Naturales se sujetará a los principios pro-persona, de máxima publicidad y demás postulados garantes de los derechos humanos, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y tratados internacionales de los que el Estado Mexicano sea Parte, observando lo dispuesto en la regulación en materia de transparencia y acceso a la información pública.
 Ciudad de México, a 15 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
@@ -1465,26 +1518,26 @@ Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
 
 ### Artículo Cuarto
 Se reforman los artículos 1, párrafo segundo, y la fracción V; 7, fracción III; 12, fracción II; 16; 17; 33, párrafo primero; 39, párrafo primero; 40, párrafo primero; 41; 42, párrafo primero; 45, párrafo primero, y se adicionan las fracciones XXX Bis y XXX Bis 1 al artículo 5; los párrafos
-**segundo.** , tercero y cuarto al artículo 17; la fracción VI al artículo 27, y un párrafo cuarto al artículo 42, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: …….
+**segundo.-** , tercero y cuarto al artículo 17; la fracción VI al artículo 27, y un párrafo cuarto al artículo 42, de la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue: …….
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
-**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
-**Cuarto.** La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
-**Quinto.** En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+**Tercero.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+**Cuarto.-** La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+**Quinto.-** En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
 Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
 Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
-**Sexto.** Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
-**Séptimo.** A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
-**Octavo.** Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
-**Noveno.** Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
-**Décimo.** Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
-**Décimo Primero.** Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+**Sexto.-** Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+**Séptimo.-** A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+**Octavo.-** Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+**Noveno.-** Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+**Décimo.-** Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+**Décimo Primero.-** Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
 Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
-**Décimo Segundo.** En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
-**Décimo Tercero.** Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
+**Décimo Segundo.-** En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+**Décimo Tercero.-** Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
@@ -1496,13 +1549,13 @@ Se reforman los artículos 2, fracción XII; 5, fracciones II, XXIV y XLIII; 35,
 
 ## Transitorios
 
-**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-**Segundo.** El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada Circular.
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada Circular.
 Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
 Para la implementación de esta disposición transitoria debe seguirse lo establecido en la fracción III del artículo 6 de esta Ley.
-**Tercero.** El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
-**Cuarto.** Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
-**Quinto.** Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
-**Sexto.** A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
-**Séptimo.** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+**Tercero.-** El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+**Cuarto.-** Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
+**Quinto.-** Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+**Sexto.-** A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
+**Séptimo.-** Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
