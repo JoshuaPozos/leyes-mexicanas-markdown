@@ -293,8 +293,17 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                                     if is_header_line(line):
                                         continue
                                     all_lines.append(line)
+                        except (ValueError, AttributeError) as e:
+                            # Coordenadas degeneradas o page object inesperado — esperable en bordes
+                            logger.debug(
+                                "crop region_above falló (page=%d, cursor_y=%s, img_top=%s): %s",
+                                page_num + 1, cursor_y, img_top, e,
+                            )
                         except Exception:
-                            pass
+                            logger.exception(
+                                "error inesperado extrayendo texto sobre tabla en página %d",
+                                page_num + 1,
+                            )
 
                     # OCR de la imagen (tabla)
                     ocr_result = _ocr_page_table(page, [img], page_num + 1)
@@ -316,8 +325,16 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                                 if is_header_line(line):
                                     continue
                                 all_lines.append(line)
+                    except (ValueError, AttributeError) as e:
+                        logger.debug(
+                            "crop region_below falló (page=%d, cursor_y=%s, page_height=%s): %s",
+                            page_num + 1, cursor_y, page_height, e,
+                        )
                     except Exception:
-                        pass
+                        logger.exception(
+                            "error inesperado extrayendo texto bajo tabla en página %d",
+                            page_num + 1,
+                        )
 
     return all_lines, total
 
@@ -349,8 +366,16 @@ def _ocr_page_table(page, large_imgs: list, page_num: int) -> list[str]:
             n = sum(1 for l in md_table if l.startswith('|'))
             logger.info("OCR tabla página %d: %d filas", page_num, n)
             result_lines.extend(md_table)
+        except pytesseract.TesseractNotFoundError:
+            logger.error(
+                "Tesseract no encontrado. Instala con: brew install tesseract / apt install tesseract-ocr",
+            )
+            result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
+        except (pytesseract.TesseractError, OSError, ValueError):
+            logger.warning("OCR falló en página %d", page_num, exc_info=True)
+            result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
         except Exception:
-            logger.exception("OCR falló página %d", page_num)
+            logger.exception("error OCR inesperado en página %d", page_num)
             result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
     return result_lines
 
