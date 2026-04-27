@@ -40,3 +40,6 @@ jobs:
 
       - name: Mypy (type-check)
         run: mypy scripts/
+
+      - name: Pytest (helpers)
+        run: pytest tests/ --cov=scripts --cov-report=term
