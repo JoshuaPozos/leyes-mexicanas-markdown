@@ -16,6 +16,7 @@ import sys
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 
 from _log import get_logger
 
@@ -341,7 +342,7 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
     return all_lines, total
 
 
-def _ocr_page_table(page, large_imgs: list, page_num: int) -> list[str]:
+def _ocr_page_table(page: Any, large_imgs: list, page_num: int) -> list[str]:
     """Extrae tablas-imagen de una página usando OCR (Tesseract).
     Usa image_to_data para obtener posiciones espaciales y reconstruir la tabla."""
     if not _HAS_OCR:

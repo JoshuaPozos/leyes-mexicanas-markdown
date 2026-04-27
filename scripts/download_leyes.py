@@ -41,7 +41,7 @@ CATALOG_PATH = ROOT / "catalogo.json"
 class LeyesTableParser(HTMLParser):
     """Analiza la tabla de leyes de diputados.gob.mx/LeyesBiblio/index.htm"""
 
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
         self.rows: list[dict] = []
         self._in_tr = False
@@ -52,7 +52,7 @@ class LeyesTableParser(HTMLParser):
         self._current_links: list[str] = []
         self._depth = 0
 
-    def handle_starttag(self, tag, attrs):
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attrs_dict = dict(attrs)
         if tag == "tr":
             self._in_tr = True
@@ -67,7 +67,7 @@ class LeyesTableParser(HTMLParser):
             if href:
                 self._current_links.append(href)
 
-    def handle_endtag(self, tag):
+    def handle_endtag(self, tag: str) -> None:
         if tag == "td" and self._in_td:
             self._in_td = False
             text = re.sub(r'\s+', ' ', self._current_text).strip()
@@ -87,7 +87,7 @@ class LeyesTableParser(HTMLParser):
             if "numero" in self._current_row and "links" in self._current_row:
                 self.rows.append(self._current_row)
 
-    def handle_data(self, data):
+    def handle_data(self, data: str) -> None:
         if self._in_td:
             self._current_text += data
 
