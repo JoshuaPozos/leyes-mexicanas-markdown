@@ -21,6 +21,10 @@ import urllib.error
 from html.parser import HTMLParser
 from pathlib import Path
 
+from _log import get_logger
+
+logger = get_logger(__name__)
+
 BASE_URL = "https://www.diputados.gob.mx/LeyesBiblio/"
 INDEX_URL = BASE_URL + "index.htm"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) mx-md/1.0"
@@ -230,6 +234,7 @@ def download_pdf(url: str, dest: Path, verbose: bool = False) -> bool:
         return True
 
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+        logger.exception("Falló descarga: %s", url)
         print(f"  ❌ Error descargando {url}: {e}", file=sys.stderr)
         return False
 
