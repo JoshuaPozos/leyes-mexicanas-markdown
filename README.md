@@ -58,7 +58,8 @@ mx-md/
 ├── catalogo.json           # Catálogo de leyes (generado automáticamente)
 ├── INDICE.md               # Índice navegable con conteo de artículos
 ├── CHANGELOG.md            # Historial de cambios
-├── requirements.txt
+├── pyproject.toml          # Empaquetado y dependencias
+├── requirements.lock       # Lockfile reproducible (versiones exactas)
 └── README.md
 ```
 
@@ -78,8 +79,19 @@ Los archivos Markdown siguen el patrón `{ABREV}_{nombre_snake_case}.md`:
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+
+# Instalación normal (rangos de versión flexibles)
+pip install -e .
+
+# Instalación reproducible (versiones exactas del lockfile)
+pip install -r requirements.lock && pip install -e . --no-deps
+
+# Para desarrollo (incluye ruff, mypy, pytest)
+pip install -e ".[dev]"
 ```
+
+> Tesseract debe estar instalado a nivel de sistema operativo para el OCR de tablas:
+> macOS: `brew install tesseract` · Ubuntu/Debian: `apt install tesseract-ocr`
 
 ### 2. Descargar todos los PDFs
 
