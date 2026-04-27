@@ -16,8 +16,8 @@ import re
 import sys
 import time
 import unicodedata
-import urllib.request
 import urllib.error
+import urllib.request
 from html.parser import HTMLParser
 from pathlib import Path
 

@@ -74,7 +74,8 @@ select = [
     "SIM",  # flake8-simplify
 ]
 ignore = [
-    "E501",  # line too long (lo maneja el formatter)
+    "E501",   # line too long (lo maneja el formatter)
+    "SIM103", # "return condition directly" — preferimos legibilidad explícita
 ]
 
 [tool.mypy]
@@ -87,7 +88,7 @@ strict_equality = true
 files = ["scripts"]
 
 [[tool.mypy.overrides]]
-module = ["pdfplumber.*", "pytesseract.*"]
+module = ["pdfplumber.*", "pytesseract.*", "jsonschema.*", "PIL.*"]
 ignore_missing_imports = true
 
 [tool.pytest.ini_options]

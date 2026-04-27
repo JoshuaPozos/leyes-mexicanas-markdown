@@ -10,9 +10,9 @@ Uso:
 
 import argparse
 import json
+import logging
 import re
 import sys
-import logging
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
@@ -31,7 +31,9 @@ except ImportError:
 _HAS_OCR = False
 try:
     import pytesseract
-    from PIL import Image
+    from PIL import (
+        Image,  # noqa: F401  # Verifica que Pillow esté instalado (requerido por pytesseract)
+    )
     _HAS_OCR = True
 except ImportError:
     pass
@@ -363,7 +365,7 @@ def _ocr_page_table(page, large_imgs: list, page_num: int) -> list[str]:
             if not md_table:
                 result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
                 continue
-            n = sum(1 for l in md_table if l.startswith('|'))
+            n = sum(1 for line in md_table if line.startswith('|'))
             logger.info("OCR tabla página %d: %d filas", page_num, n)
             result_lines.extend(md_table)
         except pytesseract.TesseractNotFoundError:
@@ -573,9 +575,9 @@ def _build_table_from_spatial(data: dict) -> list[str]:
         )
         if not has_real_word:
             continue
-        assigned = _assign_header_row(row)
+        assigned_row = _assign_header_row(row)
         for c in range(target_cols):
-            val = assigned[c].strip() if c < len(assigned) else ''
+            val = assigned_row[c].strip() if c < len(assigned_row) else ''
             if val and val not in (',', '.', '-'):
                 col_headers[c].append(val)
 

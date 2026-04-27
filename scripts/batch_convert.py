@@ -131,10 +131,10 @@ def main() -> None:
         print(f"  📄 {label} → {md_path.name}...", flush=True)
         if convert_pdf(pdf_path, md_path, title, args.verbose, CANONICAL_DIR,
                        fmt=args.format, validate=args.validate):
-            print(f"     ✅ Listo")
+            print("     ✅ Listo")
             converted += 1
         else:
-            print(f"     ❌ Error")
+            print("     ❌ Error")
             failed += 1
 
     print(f"\n📊 Resultado: {converted} convertidos, {skipped} omitidos, {failed} errores")
