@@ -26,7 +26,7 @@ El **JSON es la fuente de verdad**; el Markdown es una de sus vistas.
 
 ---
 
-## � Progreso
+## 📊 Progreso
 
 **315/315 leyes** — catálogo completo.
 
@@ -51,14 +51,17 @@ mx-md/
 │   └── example_cpeum_fragment.json
 ├── scripts/
 │   ├── download_leyes.py   # Descarga todos los PDFs desde diputados.gob.mx
-│   ├── batch_convert.py    # Convierte todos los PDFs a JSON + Markdown
+│   ├── batch_convert.py    # Convierte todos los PDFs a JSON + Markdown (paralelo)
 │   ├── pdf_to_md.py        # Conversión individual (CLI)
-│   └── gen_indice.py       # Genera INDICE.md con stats por ley
+│   ├── gen_indice.py       # Genera INDICE.md con stats por ley
+│   ├── constants.py        # Constantes operativas con docstrings (umbrales, timeouts)
+│   └── _log.py             # Logging estructurado (MX_MD_LOG_LEVEL)
+├── tests/                  # Suite de pytest (307 tests, cobertura 48 %)
 ├── origen-docs/            # PDFs descargados (no versionados)
-├── catalogo.json           # Catálogo de leyes (generado automáticamente)
+├── catalogo.json           # Catálogo de leyes con SHA-256 por PDF
 ├── INDICE.md               # Índice navegable con conteo de artículos
 ├── CHANGELOG.md            # Historial de cambios
-├── pyproject.toml          # Empaquetado y dependencias
+├── pyproject.toml          # Empaquetado y dependencias (extras: [dev])
 ├── requirements.lock       # Lockfile reproducible (versiones exactas)
 └── README.md
 ```
@@ -109,11 +112,23 @@ python scripts/download_leyes.py --skip-existing
 python scripts/download_leyes.py --limit 10
 ```
 
+El descargador valida cada PDF antes de aceptarlo (bytes mágicos `%PDF-`,
+host en allowlist `diputados.gob.mx`, retry con backoff exponencial ante
+fallos transitorios) y anota el SHA-256 de cada archivo en `catalogo.json`
+para detectar reformas upstream entre corridas.
+
 ### 3. Convertir a JSON + Markdown
 
 ```bash
-# Convertir todos los PDFs (JSON canónico + Markdown)
+# Convertir todos los PDFs en paralelo (default: os.cpu_count() workers)
 python scripts/batch_convert.py
+
+# Controlar el paralelismo (1 = serial, útil para depurar)
+python scripts/batch_convert.py --workers 4
+
+# Timeout por PDF (default 300 s) — un PDF que se cuelgue se reporta como
+# error sin bloquear al pool
+python scripts/batch_convert.py --timeout 600
 
 # Solo los que no se han convertido
 python scripts/batch_convert.py --skip-existing
@@ -130,6 +145,9 @@ python scripts/batch_convert.py --validate
 # Convertir un PDF específico
 python scripts/pdf_to_md.py origen-docs/LISR_ley_del_impuesto_sobre_la_renta.pdf --verbose
 ```
+
+Speedup medido con 8 cores: ~**2.4x** vs serial (bottleneck es OCR / I/O,
+no CPU puro).
 
 ### 4. Regenerar el índice
 
@@ -228,6 +246,51 @@ Todos los PDFs se descargan directamente de la fuente oficial:
 1. Clona el repo y ejecuta los scripts de descarga/conversión
 2. Si el Markdown de alguna ley tiene errores, mejora la lógica en `pdf_to_md.py`
 3. Abre un PR con los cambios
+
+---
+
+## 🛠️ Desarrollo
+
+### Instalar dependencias de dev
+
+```bash
+pip install -e ".[dev]"     # incluye pytest, pytest-cov, ruff, mypy
+```
+
+### Tests
+
+```bash
+pytest tests/ -q             # suite completa (~8 s, 307 tests)
+pytest tests/ --cov=scripts  # con cobertura (48 % global)
+```
+
+### Lint y type-check
+
+```bash
+ruff check scripts/ tests/
+mypy scripts/                # disallow_untyped_defs activado
+```
+
+Ambos corren automáticamente en CI (`.github/workflows/ci.yml`) sobre
+Python 3.10, 3.11 y 3.12 en cada push.
+
+### Logging estructurado
+
+Los scripts usan `getLogger(__name__)` con nivel controlable por variable
+de entorno:
+
+```bash
+MX_MD_LOG_LEVEL=DEBUG python scripts/pdf_to_md.py origen-docs/CPEUM.pdf
+```
+
+Niveles: `DEBUG`, `INFO`, `WARNING` (default), `ERROR`, `CRITICAL`.
+
+### Constantes operativas
+
+`scripts/constants.py` centraliza los umbrales y timeouts que afectan la
+conversión (tolerancias OCR, DPI, magic bytes, retries, paralelismo, etc.).
+Cada constante tiene un docstring explicando *por qué* el valor elegido.
+Cambiarlos requiere revalidar el baseline de regresión.
 
 ---
 

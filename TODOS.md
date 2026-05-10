@@ -1,4 +1,103 @@
-# TODOS — Modelo canónico + IDs estables
+# TODOS — Pipeline mx-md
+
+---
+
+## Sprint 2 — Confianza y velocidad ✅ (cerrado 2026-05-10)
+
+### 2.1 — Constantes y regex pre-compilados ✅
+
+- [x] `scripts/constants.py` con 22 constantes documentadas (umbrales OCR, timeouts, slug limits, magic bytes, allowlist).
+- [x] Regex de loops calientes movidos a nivel módulo en `pdf_to_md.py` (4) y `download_leyes.py` (6).
+- [x] Literales mágicos reemplazados por constantes nombradas en ambos scripts.
+
+### 2.2 — Paralelización de `batch_convert.py` ✅
+
+- [x] `ProcessPoolExecutor` con `--workers` configurable (default `os.cpu_count()`).
+- [x] `--timeout` por PDF (default 300 s) vía `subprocess.TimeoutExpired`.
+- [x] `_run_tasks` helper: paralelo si `workers>1`, inline secuencial si `workers<=1` (útil para tests con monkeypatch).
+- [x] Speedup medido: **2.37x** con 8 workers vs serial (5 PDFs).
+
+### 2.3 — Robustez en `download_leyes.py` ✅
+
+- [x] Retry con backoff exponencial (default 3 reintentos: 1 s, 2 s, 4 s).
+- [x] Validación de bytes mágicos `%PDF-` antes de escribir al disco.
+- [x] Allowlist de hosts (`diputados.gob.mx`), esquemas `http`/`https` exclusivos.
+- [x] SHA-256 por PDF anotado en `catalogo.json` (detección de reformas upstream).
+- [x] `download_pdf` retorna `str | None` (hash hex o `None`).
+
+### 2.4 — Schema endurecido ✅
+
+- [x] Patrones regex para `id`, `abbreviation`, `catalog_number`, `node.id`, ordinales de fracción/inciso/apartado/numeral, `dof_date`.
+- [x] `preamble: minItems: 1`, `source_page: minimum: 1`, `minLength: 1` en strings críticos.
+- [x] `"abrogado"` añadido al enum de `reform_note.action`.
+- [x] `examples` en campos clave para documentación inline.
+- [x] `tests/test_schema.py` (28 tests): validator, patterns, sample de 20 canonicals reales.
+- [x] 315/315 canonicals validan contra el schema endurecido.
+
+### Resultado Sprint 2
+
+- Suite: 250 → **307 tests** (+57).
+- ruff + mypy: clean.
+- `check_regression.sh`: 315/315 byte-a-byte idénticos.
+- Branch larga `perf/regex-y-paralelizacion` (4 commits sobre `infra/dx-baseline`).
+
+---
+
+## Sprint 1 — Fundamentos / Red de seguridad ✅ (cerrado 2026-04-26)
+
+### 1.1 — `pyproject.toml` ✅
+
+- [x] Reemplazar `requirements.txt` por `pyproject.toml`.
+- [x] `[project.scripts]`: `mx-md-convert`, `mx-md-batch`, `mx-md-download`, `mx-md-indice`.
+- [x] Dependencias pineadas con rangos de mayor (`pdfplumber>=0.11,<1.0`, etc.).
+- [x] `requirements.lock` con versiones exactas.
+- [x] Extras `[dev]`: pytest, pytest-cov, ruff, mypy.
+
+### 1.2 — Logging estructurado ✅
+
+- [x] `scripts/_log.py` con `getLogger(__name__)`.
+- [x] Variable `MX_MD_LOG_LEVEL` controla el nivel (default WARNING).
+- [x] `print()` de estado interno migrados a `logger.info/debug`.
+
+### 1.3 — Excepciones específicas ✅
+
+- [x] `except Exception: pass` reemplazado por capturas específicas con `logger.exception()`.
+
+### 1.4 — CI mínimo ✅
+
+- [x] `.github/workflows/ci.yml` corre `ruff check` y `mypy` sobre Python 3.10/3.11/3.12.
+
+### 1.5 — Tests de helpers puros ✅
+
+- [x] 111 tests sobre `_slugify_ordinal`, `is_article_heading`, `_is_roman_numeral`, `_detect_running_header`, `build_page_marker_re`.
+
+### 1.6 — Type hints completos ✅
+
+- [x] Helpers privados anotados.
+- [x] `disallow_untyped_defs = true` activado en mypy.
+
+### 1.7 — Cobertura `gen_indice.py` ✅ (0 → 98 %)
+
+- [x] 17 tests.
+
+### 1.8 — Cobertura `batch_convert.py` ✅ (0 → 99 %)
+
+- [x] 26 tests con repo falso vía `monkeypatch`.
+
+### 1.9 — Cobertura I/O `download_leyes.py` ✅ (32 → 99 %)
+
+- [x] Tests de `LeyesTableParser`, `fetch_index`, `download_pdf`, `parse_args`, `main`.
+
+### 1.10 — Cobertura `pdf_to_md.py` helpers ✅ (13 → 29 %)
+
+- [x] Tests adicionales sobre helpers puros del AST builder y renderer.
+
+### Resultado Sprint 1
+
+- 250 tests, suite verde en ~2-3 s.
+- Cobertura global: 16 % → **48 %**.
+- 315/315 leyes idénticas al baseline.
+- Branch larga `infra/dx-baseline` (10 commits, no mergeada a `main`).
 
 ---
 
