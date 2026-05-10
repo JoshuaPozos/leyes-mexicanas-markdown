@@ -179,3 +179,15 @@ SLUG_MAX_LENGTH = 70
 #: convertirse en cadena ilegible (e.g. LFTAIPGMD = 9, ya excede; en
 #: ese caso se usa el stem del PDF como abreviatura).
 ACRONYM_MAX_LENGTH = 8
+
+
+# ---------------------------------------------------------------------------
+# batch_convert — paralelización
+# ---------------------------------------------------------------------------
+
+#: Timeout (segundos) por PDF al invocar `pdf_to_md.py` como subprocess
+#: dentro del pool de conversión. 300 s = 5 min cubre LIGIE (la ley más
+#: pesada del corpus, ~50 MB con OCR de cientos de tablas) con holgura.
+#: Si un PDF excede el timeout, el worker reporta error y el batch
+#: continúa con los demás en lugar de colgarse indefinidamente.
+BATCH_CONVERT_TIMEOUT_SECS = 300
