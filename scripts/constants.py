@@ -191,3 +191,31 @@ ACRONYM_MAX_LENGTH = 8
 #: Si un PDF excede el timeout, el worker reporta error y el batch
 #: continúa con los demás en lugar de colgarse indefinidamente.
 BATCH_CONVERT_TIMEOUT_SECS = 300
+
+
+# ---------------------------------------------------------------------------
+# download_leyes — robustez (retry / validación / allowlist / hashing)
+# ---------------------------------------------------------------------------
+
+#: Reintentos máximos por PDF ante errores transitorios de red.
+#: 3 cubre fallos puntuales (timeout esporádico, 502/503 efímero) sin
+#: amplificar la carga sobre diputados.gob.mx si el sitio está caído.
+DOWNLOAD_MAX_RETRIES = 3
+
+#: Base (segundos) del backoff exponencial entre reintentos.
+#: La espera del intento N es `BASE * 2**N`: 1 s, 2 s, 4 s — total ~7 s
+#: en el peor caso, suficiente para superar throttling cortos sin
+#: alargar la corrida completa.
+DOWNLOAD_BACKOFF_BASE_SECS = 1.0
+
+#: Bytes mágicos que todo PDF válido empieza. Cualquier descarga que
+#: no comience con esta secuencia es errónea (página de error HTML,
+#: redirect a sitio caído, archivo corrupto) y debe descartarse antes
+#: de escribir al disco.
+PDF_MAGIC_BYTES = b"%PDF-"
+
+#: Allowlist de hosts permitidos para descargas. Solo aceptamos URLs
+#: del sitio oficial de la Cámara de Diputados; cualquier otro host
+#: indica un catálogo manipulado o un redirect malicioso. La tupla
+#: incluye la variante `www.` porque ambas se ven en el HTML.
+ALLOWED_DOWNLOAD_HOSTS = ("diputados.gob.mx", "www.diputados.gob.mx")

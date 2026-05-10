@@ -11,12 +11,14 @@ Uso:
 """
 
 import argparse
+import hashlib
 import json
 import re
 import sys
 import time
 import unicodedata
 import urllib.error
+import urllib.parse
 import urllib.request
 from html.parser import HTMLParser
 from pathlib import Path
@@ -24,9 +26,13 @@ from pathlib import Path
 from _log import get_logger
 from constants import (
     ACRONYM_MAX_LENGTH,
+    ALLOWED_DOWNLOAD_HOSTS,
     BETWEEN_DOWNLOADS_SLEEP_SECS,
+    DOWNLOAD_BACKOFF_BASE_SECS,
+    DOWNLOAD_MAX_RETRIES,
     INDEX_FETCH_TIMEOUT_SECS,
     PDF_DOWNLOAD_TIMEOUT_SECS,
+    PDF_MAGIC_BYTES,
     SLUG_MAX_LENGTH,
 )
 
@@ -239,26 +245,73 @@ def fetch_index() -> list[dict]:
 # Download
 # ---------------------------------------------------------------------------
 
-def download_pdf(url: str, dest: Path, verbose: bool = False) -> bool:
-    """Descarga un PDF. Devuelve True si tuvo éxito."""
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        resp = urllib.request.urlopen(req, timeout=PDF_DOWNLOAD_TIMEOUT_SECS)
-        data = resp.read()
-
-        dest.parent.mkdir(parents=True, exist_ok=True)
-        with open(dest, "wb") as f:
-            f.write(data)
-
-        if verbose:
-            size_mb = len(data) / (1024 * 1024)
-            print(f"  ✅ {dest.name} ({size_mb:.1f} MB)")
+def _is_url_allowed(url: str, allowed_hosts: tuple[str, ...]) -> bool:
+    """True si el host de `url` está en la allowlist. Lista vacía = sin
+    restricción (útil para tests). Acepta solo http/https."""
+    if not allowed_hosts:
         return True
-
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        logger.exception("Falló descarga: %s", url)
-        print(f"  ❌ Error descargando {url}: {e}", file=sys.stderr)
+    parsed = urllib.parse.urlparse(url)
+    if parsed.scheme not in ("http", "https"):
         return False
+    return parsed.hostname in allowed_hosts
+
+
+def download_pdf(
+    url: str,
+    dest: Path,
+    verbose: bool = False,
+    *,
+    max_retries: int = DOWNLOAD_MAX_RETRIES,
+    allowed_hosts: tuple[str, ...] = ALLOWED_DOWNLOAD_HOSTS,
+) -> str | None:
+    """Descarga un PDF con retry + validación. Retorna el SHA-256 hex en
+    éxito, `None` en cualquier fallo (URL fuera de allowlist, bytes mágicos
+    inválidos, error de red tras agotar reintentos)."""
+    if not _is_url_allowed(url, allowed_hosts):
+        logger.error("URL fuera de allowlist (rechazada): %s", url)
+        print(f"  ❌ URL no permitida: {url}", file=sys.stderr)
+        return None
+
+    last_err: BaseException | None = None
+    for attempt in range(max_retries + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            resp = urllib.request.urlopen(req, timeout=PDF_DOWNLOAD_TIMEOUT_SECS)
+            data = resp.read()
+
+            if not data.startswith(PDF_MAGIC_BYTES):
+                logger.error("Bytes mágicos inválidos (no es PDF) para %s", url)
+                print(f"  ❌ Respuesta no es un PDF válido: {url}", file=sys.stderr)
+                return None
+
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            with open(dest, "wb") as f:
+                f.write(data)
+
+            sha = hashlib.sha256(data).hexdigest()
+            if verbose:
+                size_mb = len(data) / (1024 * 1024)
+                print(f"  ✅ {dest.name} ({size_mb:.1f} MB, sha256={sha[:12]}…)")
+            return sha
+
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+            last_err = e
+            if attempt < max_retries:
+                backoff = DOWNLOAD_BACKOFF_BASE_SECS * (2 ** attempt)
+                logger.warning(
+                    "Descarga falló (intento %d/%d) %s: %s. Reintento en %.1fs",
+                    attempt + 1, max_retries + 1, url, e, backoff,
+                )
+                time.sleep(backoff)
+                continue
+            break
+
+    logger.error(
+        "Falló descarga tras %d intentos: %s — último error: %s",
+        max_retries + 1, url, last_err,
+    )
+    print(f"  ❌ Error descargando {url}: {last_err}", file=sys.stderr)
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -320,6 +373,7 @@ def main() -> None:
     skipped = 0
     failed = 0
 
+    catalog_dirty = False
     for i, law in enumerate(subset, 1):
         dest = output_dir / law["pdf_filename"]
         label = f"[{i}/{len(subset)}] {law['pdf_filename']}"
@@ -331,15 +385,24 @@ def main() -> None:
             continue
 
         print(f"  ⬇️  {label}...", end="", flush=True)
-        if download_pdf(law["pdf_url"], dest, verbose=False):
+        sha = download_pdf(law["pdf_url"], dest, verbose=False)
+        if sha:
             size_mb = dest.stat().st_size / (1024 * 1024)
-            print(f" ✅ ({size_mb:.1f} MB)")
+            print(f" ✅ ({size_mb:.1f} MB, sha256={sha[:12]}…)")
+            law["sha256"] = sha
+            catalog_dirty = True
             downloaded += 1
         else:
             failed += 1
 
         # Ser amable con el servidor
         time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
+
+    # Si se descargó al menos un PDF, re-escribir el catálogo con los SHAs
+    # anotados. Detecta reformas upstream comparando contra corridas previas.
+    if catalog_dirty:
+        with open(CATALOG_PATH, "w", encoding="utf-8") as f:
+            json.dump(laws, f, ensure_ascii=False, indent=2)
 
     print(f"\n📊 Resultado: {downloaded} descargados, {skipped} omitidos, {failed} errores")
     print(f"📁 PDFs en: {output_dir}")
