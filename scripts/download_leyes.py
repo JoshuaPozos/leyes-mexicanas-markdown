@@ -22,6 +22,13 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 from _log import get_logger
+from constants import (
+    ACRONYM_MAX_LENGTH,
+    BETWEEN_DOWNLOADS_SLEEP_SECS,
+    INDEX_FETCH_TIMEOUT_SECS,
+    PDF_DOWNLOAD_TIMEOUT_SECS,
+    SLUG_MAX_LENGTH,
+)
 
 logger = get_logger(__name__)
 
@@ -32,6 +39,21 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) mx-md/1.0"
 ROOT = Path(__file__).parent.parent
 ORIGEN_DIR = ROOT / "origen-docs"
 CATALOG_PATH = ROOT / "catalogo.json"
+
+
+# ---------------------------------------------------------------------------
+# Regex pre-compilados (usados dentro de loops sobre filas / leyes / palabras)
+# ---------------------------------------------------------------------------
+
+_WHITESPACE_RE = re.compile(r'\s+')
+_LAW_NAME_TRAILING_RE = re.compile(
+    r'\s*(Nueva reforma|Ley en vigor.*|Ley Abrogada.*)$',
+    re.IGNORECASE,
+)
+_SLUG_NON_ALNUM_RE = re.compile(r'[^a-z0-9]+')
+_PDF_STEM_NUMERIC_SUFFIX_RE = re.compile(r'_\d+$')
+_ACRONYM_CLAUSE_BREAK_RE = re.compile(r'[,(]')
+_ACRONYM_WORD_BREAK_RE = re.compile(r'[\s\-/]+')
 
 
 # ---------------------------------------------------------------------------
@@ -70,7 +92,7 @@ class LeyesTableParser(HTMLParser):
     def handle_endtag(self, tag: str) -> None:
         if tag == "td" and self._in_td:
             self._in_td = False
-            text = re.sub(r'\s+', ' ', self._current_text).strip()
+            text = _WHITESPACE_RE.sub(' ', self._current_text).strip()
 
             if self._td_index == 0:
                 self._current_row["numero"] = text
@@ -102,22 +124,22 @@ def parse_law_name(raw: str) -> tuple[str, str]:
     lines = raw.split("DOF")
     nombre = lines[0].strip().rstrip()
     # Limpiar espacios sobrantes, 'Nueva reforma', etc.
-    nombre = re.sub(r'\s*(Nueva reforma|Ley en vigor.*|Ley Abrogada.*)$', '', nombre, flags=re.IGNORECASE).strip()
+    nombre = _LAW_NAME_TRAILING_RE.sub('', nombre).strip()
 
     dof_date = ""
     if len(lines) > 1:
         dof_date = "DOF" + lines[1].strip().split("(")[0].strip()
-        dof_date = re.sub(r'\s+', ' ', dof_date).strip()
+        dof_date = _WHITESPACE_RE.sub(' ', dof_date).strip()
 
     return nombre, dof_date
 
 
-def slugify(text: str, max_len: int = 70) -> str:
+def slugify(text: str, max_len: int = SLUG_MAX_LENGTH) -> str:
     """Convierte texto a slug snake_case ASCII."""
     text = unicodedata.normalize('NFD', text)
     text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
     text = text.lower()
-    text = re.sub(r'[^a-z0-9]+', '_', text)
+    text = _SLUG_NON_ALNUM_RE.sub('_', text)
     text = text.strip('_')
     if len(text) > max_len:
         text = text[:max_len].rstrip('_')
@@ -130,7 +152,7 @@ _STOP_WORDS = {
     'sobre', 'entre', 'ante', 'sin', 'si', 'no', 'lo',
 }
 
-def derive_acronym(nombre: str, max_len: int = 8) -> str:
+def derive_acronym(nombre: str, max_len: int = ACRONYM_MAX_LENGTH) -> str:
     """
     Deriva un acrónimo del nombre de la ley tomando la primera letra de cada
     palabra significativa en la cláusula principal (antes de la primera coma
@@ -139,8 +161,8 @@ def derive_acronym(nombre: str, max_len: int = 8) -> str:
         'IMPUESTO sobre Servicios Expresamente Declarados...' -> 'ISEDIP'
     """
     # Tomar solo la cláusula principal (antes de la primera coma o paréntesis)
-    main = re.split(r'[,(]', nombre)[0].strip()
-    words = re.split(r'[\s\-/]+', main)
+    main = _ACRONYM_CLAUSE_BREAK_RE.split(nombre)[0].strip()
+    words = _ACRONYM_WORD_BREAK_RE.split(main)
     letters = [
         w[0].upper()
         for w in words
@@ -156,10 +178,10 @@ def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
     eliminando cualquier sufijo numérico al final (ej. LCEC_120419 → LCEC).
     Si no, deriva un acrónimo del nombre de la ley.
     """
-    name_slug = slugify(nombre, max_len=70)
+    name_slug = slugify(nombre)
     if len(pdf_stem) > 0 and not pdf_stem[0].isdigit():
         # Eliminar sufijo numérico al final (ej. _120419, _270614)
-        abbrev = re.sub(r'_\d+$', '', pdf_stem)
+        abbrev = _PDF_STEM_NUMERIC_SUFFIX_RE.sub('', pdf_stem)
     else:
         abbrev = derive_acronym(nombre)
     return f"{abbrev}_{name_slug}"
@@ -168,7 +190,7 @@ def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
 def fetch_index() -> list[dict]:
     """Obtiene y analiza la página del índice de leyes. Devuelve lista de dicts."""
     req = urllib.request.Request(INDEX_URL, headers={"User-Agent": USER_AGENT})
-    html = urllib.request.urlopen(req, timeout=30).read().decode("latin-1")
+    html = urllib.request.urlopen(req, timeout=INDEX_FETCH_TIMEOUT_SECS).read().decode("latin-1")
 
     parser = LeyesTableParser()
     parser.feed(html)
@@ -221,7 +243,7 @@ def download_pdf(url: str, dest: Path, verbose: bool = False) -> bool:
     """Descarga un PDF. Devuelve True si tuvo éxito."""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        resp = urllib.request.urlopen(req, timeout=60)
+        resp = urllib.request.urlopen(req, timeout=PDF_DOWNLOAD_TIMEOUT_SECS)
         data = resp.read()
 
         dest.parent.mkdir(parents=True, exist_ok=True)
@@ -317,7 +339,7 @@ def main() -> None:
             failed += 1
 
         # Ser amable con el servidor
-        time.sleep(0.3)
+        time.sleep(BETWEEN_DOWNLOADS_SLEEP_SECS)
 
     print(f"\n📊 Resultado: {downloaded} descargados, {skipped} omitidos, {failed} errores")
     print(f"📁 PDFs en: {output_dir}")
