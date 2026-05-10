@@ -8,23 +8,36 @@
     "schema_version": {
       "type": "string",
       "const": "1.0.0",
-      "description": "Schema version for forward compatibility."
+      "description": "Schema version for forward compatibility.",
+      "examples": ["1.0.0"]
     },
     "id": {
       "type": "string",
-      "description": "Stable unique identifier (the md_slug). E.g. 'CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos'."
+      "pattern": "^[A-Za-z][A-Za-z0-9_]+$",
+      "description": "Stable unique identifier (the md_slug). Acronym + underscore + snake_case name slug.",
+      "examples": [
+        "CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos",
+        "LISR_ley_del_impuesto_sobre_la_renta",
+        "CCom_codigo_de_comercio"
+      ]
     },
     "abbreviation": {
       "type": "string",
-      "description": "Official abbreviation. E.g. 'CPEUM', 'CFF', 'LISR'."
+      "pattern": "^[A-Za-z][A-Za-z0-9]*$",
+      "description": "Official abbreviation.",
+      "examples": ["CPEUM", "CFF", "LISR", "CCom"]
     },
     "name": {
       "type": "string",
-      "description": "Full official name. E.g. 'CONSTITUCIÓN Política de los Estados Unidos Mexicanos'."
+      "minLength": 1,
+      "description": "Full official name.",
+      "examples": ["CONSTITUCIÓN Política de los Estados Unidos Mexicanos"]
     },
     "catalog_number": {
       "type": "string",
-      "description": "Sequential number from the Cámara de Diputados index. E.g. '001'."
+      "pattern": "^\\d+$",
+      "description": "Sequential number from the Cámara de Diputados index.",
+      "examples": ["001", "315"]
     },
     "source": {
       "type": "object",
@@ -33,35 +46,41 @@
         "pdf_url": {
           "type": "string",
           "format": "uri",
-          "description": "Official PDF URL from diputados.gob.mx."
+          "description": "Official PDF URL from diputados.gob.mx.",
+          "examples": ["https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"]
         },
         "pdf_filename_origen": {
           "type": "string",
-          "description": "Original filename on the server. E.g. 'CPEUM.pdf'."
+          "description": "Original filename on the server.",
+          "examples": ["CPEUM.pdf"]
         },
         "dof_publication": {
           "type": "string",
-          "description": "Original DOF publication date. E.g. 'DOF 05/02/1917'."
+          "description": "Original DOF publication date.",
+          "examples": ["DOF 05/02/1917"]
         },
         "last_reform": {
           "type": "string",
-          "description": "Last reform as published. E.g. 'DOF 03/03/2026'."
+          "description": "Last reform as published.",
+          "examples": ["DOF 03/03/2026"]
         },
         "captured_at": {
           "type": "string",
           "format": "date-time",
-          "description": "ISO 8601 timestamp of when the PDF was downloaded and processed."
+          "description": "ISO 8601 timestamp of when the PDF was downloaded and processed.",
+          "examples": ["2026-03-21T18:30:00Z"]
         }
       }
     },
     "preamble": {
       "type": "array",
+      "minItems": 1,
       "description": "Content before the first structural division (introductory notes, publication history, fracciones, etc.).",
       "items": { "$ref": "#/$defs/content_element" }
     },
     "structure": {
       "type": "array",
-      "description": "Top-level structural divisions (Títulos, Libros, or directly Capítulos/Artículos for simpler laws).",
+      "description": "Top-level structural divisions (Títulos, Libros, or directly Capítulos/Artículos for simpler laws). Puede estar vacío en leyes que solo tienen preámbulo + transitorios.",
       "items": { "$ref": "#/$defs/node" }
     }
   },
@@ -86,19 +105,30 @@
         },
         "id": {
           "type": "string",
-          "description": "Stable path-based ID within the law. E.g. 'titulo-1', 'titulo-1.capitulo-2', 'titulo-1.capitulo-2.art-15', 'transitorios.primero'."
+          "pattern": "^[a-z0-9_-]+(\\.[a-z0-9_-]+)*$",
+          "description": "Stable path-based ID within the law. Segments are joined by '.' and use lowercase ASCII, dígitos, guiones o underscores dentro de cada segmento.",
+          "examples": [
+            "titulo-1",
+            "titulo-primero.capitulo-i",
+            "titulo-1.capitulo-2.articulo-15",
+            "transitorios",
+            "transitorios.transitorio_articulo-primero"
+          ]
         },
         "heading": {
           "type": "string",
-          "description": "The heading text. E.g. 'TÍTULO I', 'Capítulo II', 'Artículo 15', 'ARTÍCULO PRIMERO'."
+          "description": "The heading text.",
+          "examples": ["TÍTULO I", "Capítulo II", "Artículo 15", "ARTÍCULO PRIMERO"]
         },
         "descriptor": {
           "type": ["string", "null"],
-          "description": "Optional descriptive name. E.g. 'DISPOSICIONES GENERALES', 'De los Derechos Humanos y sus Garantías'."
+          "description": "Optional descriptive name.",
+          "examples": ["DISPOSICIONES GENERALES", "De los Derechos Humanos y sus Garantías"]
         },
         "ordinal": {
           "type": ["string", "null"],
-          "description": "The enumeration value. E.g. 'I', '15', '15-A', 'Bis', 'PRIMERO'."
+          "description": "The enumeration value.",
+          "examples": ["I", "15", "15-A", "Bis", "PRIMERO"]
         },
         "content": {
           "type": "array",
@@ -129,6 +159,7 @@
         "type": { "const": "paragraph" },
         "text": {
           "type": "string",
+          "minLength": 1,
           "description": "Plain text content of the paragraph."
         }
       }
@@ -140,7 +171,9 @@
         "type": { "const": "fraccion" },
         "ordinal": {
           "type": "string",
-          "description": "Roman numeral. E.g. 'I', 'II', 'XVI', 'XXIX-A'."
+          "pattern": "^[IVXLCDM]+(?:[- ][A-Za-z]+)?$",
+          "description": "Roman numeral, opcionalmente seguido de '-A', '-B', ' bis', etc.",
+          "examples": ["I", "II", "XVI", "XXIX", "XXIX-A"]
         },
         "text": {
           "type": "string",
@@ -163,7 +196,9 @@
         "type": { "const": "inciso" },
         "ordinal": {
           "type": "string",
-          "description": "Lowercase letter. E.g. 'a', 'b', 'c'."
+          "pattern": "^[a-z]$",
+          "description": "Lowercase ASCII letter.",
+          "examples": ["a", "b", "c"]
         },
         "text": {
           "type": "string",
@@ -177,7 +212,12 @@
             "required": ["type", "ordinal", "text"],
             "properties": {
               "type": { "const": "numeral" },
-              "ordinal": { "type": "string" },
+              "ordinal": {
+                "type": "string",
+                "pattern": "^\\d+$",
+                "description": "Decimal numeral.",
+                "examples": ["1", "2", "10"]
+              },
               "text": { "type": "string" }
             }
           }
@@ -195,7 +235,9 @@
         "type": { "const": "apartado" },
         "ordinal": {
           "type": "string",
-          "description": "Uppercase letter. E.g. 'A', 'B', 'C', 'D'."
+          "pattern": "^[A-Z]$",
+          "description": "Uppercase ASCII letter.",
+          "examples": ["A", "B", "C", "D"]
         },
         "text": {
           "type": "string",
@@ -218,7 +260,8 @@
         "type": { "const": "table" },
         "title": {
           "type": ["string", "null"],
-          "description": "Optional table title (e.g. 'TARIFA MENSUAL')."
+          "description": "Optional table title.",
+          "examples": ["TARIFA MENSUAL"]
         },
         "headers": {
           "type": "array",
@@ -240,7 +283,8 @@
         },
         "source_page": {
           "type": ["integer", "null"],
-          "description": "PDF page number where the table was found."
+          "minimum": 1,
+          "description": "PDF page number where the table was found (1-indexed)."
         }
       }
     },
@@ -251,16 +295,20 @@
         "type": { "const": "reform_note" },
         "text": {
           "type": "string",
-          "description": "Raw reform annotation. E.g. 'Párrafo reformado DOF 10-06-2011'."
+          "minLength": 1,
+          "description": "Raw reform annotation.",
+          "examples": ["Párrafo reformado DOF 10-06-2011"]
         },
         "action": {
           "type": ["string", "null"],
-          "enum": ["reformado", "adicionado", "derogado", "recorrido", "fe_de_erratas", null],
+          "enum": ["reformado", "adicionado", "derogado", "recorrido", "abrogado", "fe_de_erratas", null],
           "description": "Parsed reform action, if detectable."
         },
         "dof_date": {
           "type": ["string", "null"],
-          "description": "Parsed DOF date from the note, if detectable. E.g. '10-06-2011'."
+          "pattern": "^\\d{2}[-/]\\d{2}[-/]\\d{4}$",
+          "description": "Parsed DOF date from the note (dd-mm-yyyy o dd/mm/yyyy).",
+          "examples": ["10-06-2011", "30/09/2024"]
         }
       }
     }

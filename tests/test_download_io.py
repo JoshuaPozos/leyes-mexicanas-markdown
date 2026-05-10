@@ -203,40 +203,44 @@ class TestDownloadPdf:
         monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
 
         dest = tmp_path / "leyes" / "x.pdf"
-        ok = dl.download_pdf("https://example.com/x.pdf", dest)
-        assert ok is True
+        sha = dl.download_pdf("https://www.diputados.gob.mx/x.pdf", dest)
+        # SHA-256 hex tiene 64 chars
+        assert isinstance(sha, str) and len(sha) == 64
         assert dest.read_bytes() == body
 
     def test_creates_parent_dirs(
         self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:
         def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
-            return _FakeResponse(b"x")
+            return _FakeResponse(b"%PDF-1.4 x")
 
         monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
         dest = tmp_path / "a" / "b" / "c.pdf"
         assert not dest.parent.exists()
-        ok = dl.download_pdf("https://e.com/c.pdf", dest)
-        assert ok is True
+        sha = dl.download_pdf("https://www.diputados.gob.mx/c.pdf", dest)
+        assert sha is not None
         assert dest.parent.exists()
 
-    def test_verbose_prints_size(
+    def test_verbose_prints_size_and_sha_prefix(
         self,
         tmp_path: Path,
         monkeypatch: pytest.MonkeyPatch,
         capsys: pytest.CaptureFixture[str],
     ) -> None:
         def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
-            return _FakeResponse(b"a" * 2048)  # 2 KB
+            return _FakeResponse(b"%PDF-" + b"a" * 2048)  # ~2 KB
 
         monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
         dest = tmp_path / "verbose.pdf"
-        dl.download_pdf("https://e.com/v.pdf", dest, verbose=True)
+        sha = dl.download_pdf("https://www.diputados.gob.mx/v.pdf", dest, verbose=True)
+        assert sha is not None
         out = capsys.readouterr().out
         assert "verbose.pdf" in out
         assert "MB" in out
+        # El prefijo del SHA aparece en la salida verbose
+        assert sha[:12] in out
 
-    def test_returns_false_on_url_error(
+    def test_returns_none_on_url_error(
         self,
         tmp_path: Path,
         monkeypatch: pytest.MonkeyPatch,
@@ -246,22 +250,30 @@ class TestDownloadPdf:
             raise urllib.error.URLError("dns failure")
 
         monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        monkeypatch.setattr(dl.time, "sleep", lambda _s: None)
         dest = tmp_path / "broken.pdf"
-        ok = dl.download_pdf("https://e.com/b.pdf", dest)
-        assert ok is False
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/b.pdf", dest, max_retries=0,
+        )
+        assert sha is None
         assert not dest.exists()
         err = capsys.readouterr().err
         assert "Error descargando" in err
 
-    def test_returns_false_on_timeout(
+    def test_returns_none_on_timeout(
         self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
     ) -> None:
         def fake_urlopen(req: object, timeout: int = 60) -> object:
             raise TimeoutError("se tardó")
 
         monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
-        ok = dl.download_pdf("https://e.com/x.pdf", tmp_path / "t.pdf")
-        assert ok is False
+        monkeypatch.setattr(dl.time, "sleep", lambda _s: None)
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/x.pdf",
+            tmp_path / "t.pdf",
+            max_retries=0,
+        )
+        assert sha is None
 
 
 # ---------------------------------------------------------------------------
@@ -332,11 +344,14 @@ def _stub_law(num: str, slug: str) -> dict:
         "nombre": f"Ley {num}",
         "dof": "DOF 01/01/2024",
         "ultima_reforma": "01/01/2024",
-        "pdf_url": f"https://example.com/pdf/{slug}.pdf",
+        "pdf_url": f"https://www.diputados.gob.mx/pdf/{slug}.pdf",
         "pdf_filename": f"{slug}.pdf",
         "pdf_filename_origen": f"{slug}.pdf",
         "md_slug": slug,
     }
+
+
+_FAKE_SHA = "a" * 64  # SHA-256 hex de 64 chars, valor irrelevante en tests
 
 
 class TestMain:
@@ -351,11 +366,11 @@ class TestMain:
 
         downloaded_urls: list[str] = []
 
-        def fake_download(url: str, dest: Path, verbose: bool = False) -> bool:
+        def fake_download(url: str, dest: Path, verbose: bool = False, **_kw: object) -> str:
             downloaded_urls.append(url)
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_bytes(b"x" * 1024)
-            return True
+            return _FAKE_SHA
 
         monkeypatch.setattr(dl, "download_pdf", fake_download)
         monkeypatch.setattr(
@@ -390,7 +405,7 @@ class TestMain:
         monkeypatch.setattr(
             dl,
             "download_pdf",
-            lambda *a, **k: called.append("called") or True,
+            lambda *a, **k: called.append("called") or _FAKE_SHA,
         )
         monkeypatch.setattr(sys, "argv", ["download_leyes.py", "--list"])
 
@@ -417,7 +432,7 @@ class TestMain:
         monkeypatch.setattr(
             dl,
             "download_pdf",
-            lambda *a, **k: called.append("download") or True,
+            lambda *a, **k: called.append("download") or _FAKE_SHA,
         )
         monkeypatch.setattr(
             sys,
@@ -448,11 +463,11 @@ class TestMain:
 
         downloaded: list[str] = []
 
-        def fake_download(url: str, dest: Path, verbose: bool = False) -> bool:
+        def fake_download(url: str, dest: Path, verbose: bool = False, **_kw: object) -> str:
             downloaded.append(url)
             dest.parent.mkdir(parents=True, exist_ok=True)
             dest.write_bytes(b"x")
-            return True
+            return _FAKE_SHA
 
         monkeypatch.setattr(dl, "download_pdf", fake_download)
         monkeypatch.setattr(
@@ -479,7 +494,7 @@ class TestMain:
     ) -> None:
         laws = [_stub_law("1", "LA")]
         monkeypatch.setattr(dl, "fetch_index", lambda: laws)
-        monkeypatch.setattr(dl, "download_pdf", lambda *a, **k: False)
+        monkeypatch.setattr(dl, "download_pdf", lambda *a, **k: None)
         monkeypatch.setattr(
             sys,
             "argv",
@@ -488,3 +503,255 @@ class TestMain:
 
         dl.main()
         assert "1 errores" in capsys.readouterr().out
+
+
+# ---------------------------------------------------------------------------
+# Allowlist de hosts
+# ---------------------------------------------------------------------------
+
+
+class TestUrlAllowlist:
+    def test_accepts_diputados_host(self) -> None:
+        assert dl._is_url_allowed(
+            "https://www.diputados.gob.mx/x.pdf",
+            ("diputados.gob.mx", "www.diputados.gob.mx"),
+        )
+
+    def test_accepts_diputados_without_www(self) -> None:
+        assert dl._is_url_allowed(
+            "https://diputados.gob.mx/x.pdf",
+            ("diputados.gob.mx", "www.diputados.gob.mx"),
+        )
+
+    def test_rejects_other_host(self) -> None:
+        assert not dl._is_url_allowed(
+            "https://example.com/x.pdf",
+            ("diputados.gob.mx", "www.diputados.gob.mx"),
+        )
+
+    def test_rejects_non_http_scheme(self) -> None:
+        assert not dl._is_url_allowed(
+            "file:///etc/passwd",
+            ("diputados.gob.mx",),
+        )
+        assert not dl._is_url_allowed(
+            "ftp://diputados.gob.mx/x.pdf",
+            ("diputados.gob.mx",),
+        )
+
+    def test_empty_allowlist_disables_check(self) -> None:
+        # tupla vacía = sin restricción (útil para tests aislados)
+        assert dl._is_url_allowed("https://anywhere.example/x.pdf", ())
+
+
+class TestDownloadPdfAllowlist:
+    def test_rejects_url_outside_allowlist(
+        self,
+        tmp_path: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        # urlopen NO debe llamarse si el host falla la validación
+        called: list[str] = []
+
+        def fake_urlopen(*a: object, **k: object) -> object:
+            called.append("urlopen")
+            raise AssertionError("no debe llamarse")
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        sha = dl.download_pdf(
+            "https://malicious.example.com/payload.pdf",
+            tmp_path / "x.pdf",
+        )
+        assert sha is None
+        assert called == []
+        err = capsys.readouterr().err
+        assert "URL no permitida" in err
+
+
+# ---------------------------------------------------------------------------
+# Validación de magic bytes (PDF)
+# ---------------------------------------------------------------------------
+
+
+class TestDownloadPdfMagicBytes:
+    def test_rejects_non_pdf_body(
+        self,
+        tmp_path: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        body = b"<html>Error 404</html>"
+
+        def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
+            return _FakeResponse(body)
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        dest = tmp_path / "fake.pdf"
+        sha = dl.download_pdf("https://www.diputados.gob.mx/x.pdf", dest)
+        assert sha is None
+        assert not dest.exists()
+        err = capsys.readouterr().err
+        assert "no es un PDF válido" in err
+
+    def test_accepts_minimal_pdf_header(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        # Exactamente los bytes mágicos; sigue siendo "PDF" para la validación
+        def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
+            return _FakeResponse(b"%PDF-")
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/min.pdf", tmp_path / "m.pdf",
+        )
+        assert isinstance(sha, str) and len(sha) == 64
+
+
+# ---------------------------------------------------------------------------
+# Retry con backoff exponencial
+# ---------------------------------------------------------------------------
+
+
+class TestDownloadPdfRetry:
+    def test_succeeds_after_transient_failure(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        attempts = {"n": 0}
+
+        def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
+            attempts["n"] += 1
+            if attempts["n"] < 3:
+                raise urllib.error.URLError("transient")
+            return _FakeResponse(b"%PDF-1.4 ok")
+
+        sleeps: list[float] = []
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        monkeypatch.setattr(dl.time, "sleep", lambda s: sleeps.append(s))
+
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/x.pdf", tmp_path / "x.pdf",
+            max_retries=3,
+        )
+        assert sha is not None
+        assert attempts["n"] == 3
+        # Backoff: 1s, 2s entre los intentos 1→2 y 2→3
+        assert sleeps == [1.0, 2.0]
+
+    def test_exhausts_retries_then_returns_none(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        attempts = {"n": 0}
+
+        def fake_urlopen(req: object, timeout: int = 60) -> object:
+            attempts["n"] += 1
+            raise urllib.error.URLError("perma")
+
+        sleeps: list[float] = []
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        monkeypatch.setattr(dl.time, "sleep", lambda s: sleeps.append(s))
+
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/x.pdf",
+            tmp_path / "x.pdf",
+            max_retries=2,
+        )
+        assert sha is None
+        # 1 intento inicial + 2 reintentos = 3 calls
+        assert attempts["n"] == 3
+        # 2 backoffs (1s, 2s) entre los 3 intentos
+        assert sleeps == [1.0, 2.0]
+
+    def test_no_retries_when_max_zero(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        attempts = {"n": 0}
+
+        def fake_urlopen(req: object, timeout: int = 60) -> object:
+            attempts["n"] += 1
+            raise urllib.error.URLError("nope")
+
+        sleeps: list[float] = []
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        monkeypatch.setattr(dl.time, "sleep", lambda s: sleeps.append(s))
+
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/x.pdf",
+            tmp_path / "x.pdf",
+            max_retries=0,
+        )
+        assert sha is None
+        assert attempts["n"] == 1
+        assert sleeps == []
+
+
+# ---------------------------------------------------------------------------
+# SHA-256: cálculo correcto + persistencia en catálogo
+# ---------------------------------------------------------------------------
+
+
+class TestDownloadPdfSha256:
+    def test_returns_correct_sha256_hex(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        import hashlib as _hashlib
+
+        body = b"%PDF-1.4\n%alguna\n" + b"x" * 100
+        expected = _hashlib.sha256(body).hexdigest()
+
+        def fake_urlopen(req: object, timeout: int = 60) -> _FakeResponse:
+            return _FakeResponse(body)
+
+        monkeypatch.setattr(dl.urllib.request, "urlopen", fake_urlopen)
+        sha = dl.download_pdf(
+            "https://www.diputados.gob.mx/x.pdf", tmp_path / "x.pdf",
+        )
+        assert sha == expected
+
+
+class TestMainAnnotatesSha:
+    def test_catalog_gains_sha256_after_download(
+        self,
+        fake_main_env: Path,
+        monkeypatch: pytest.MonkeyPatch,
+    ) -> None:
+        laws = [_stub_law("1", "LA"), _stub_law("2", "LB")]
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+
+        def fake_download(url: str, dest: Path, verbose: bool = False, **_kw: object) -> str:
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(b"x")
+            return _FAKE_SHA
+
+        monkeypatch.setattr(dl, "download_pdf", fake_download)
+        monkeypatch.setattr(
+            sys, "argv",
+            ["download_leyes.py", "-o", str(fake_main_env / "origen-docs")],
+        )
+
+        dl.main()
+        catalog = json.loads(
+            (fake_main_env / "catalogo.json").read_text(encoding="utf-8")
+        )
+        # Las dos leyes ahora tienen sha256
+        assert all(law.get("sha256") == _FAKE_SHA for law in catalog)
+
+    def test_catalog_unchanged_when_no_downloads(
+        self,
+        fake_main_env: Path,
+        monkeypatch: pytest.MonkeyPatch,
+    ) -> None:
+        # Si todas las descargas fallan, el catálogo NO se re-escribe con sha256
+        laws = [_stub_law("1", "LA")]
+        monkeypatch.setattr(dl, "fetch_index", lambda: laws)
+        monkeypatch.setattr(dl, "download_pdf", lambda *a, **k: None)
+        monkeypatch.setattr(
+            sys, "argv",
+            ["download_leyes.py", "-o", str(fake_main_env / "origen-docs")],
+        )
+
+        dl.main()
+        catalog = json.loads(
+            (fake_main_env / "catalogo.json").read_text(encoding="utf-8")
+        )
+        assert "sha256" not in catalog[0]

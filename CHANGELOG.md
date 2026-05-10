@@ -2,6 +2,178 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Sprint 2 — Confianza y velocidad] — 2026-05-10
+
+Cuatro mejoras de robustez y performance sobre el pipeline existente. Suite
+sube de 250 a 307 tests. Baseline de regresión (315/315 leyes idénticas)
+preservado en cada item.
+
+### 2.1 — Constantes operativas centralizadas y regex pre-compilados
+
+- Nuevo `scripts/constants.py` con 22 constantes documentadas (umbrales OCR,
+  timeouts, slug limits, etc.). Cada una con docstring explicando *por qué*
+  ese valor (cambiar requiere revalidar baseline).
+- Regex pre-compilados a nivel módulo en loops calientes:
+  - `pdf_to_md.py`: `_OCR_NUM_RE`, `_OCR_UNIT_RE`, `_INCISO_INLINE_SPLIT_RE`,
+    `_RUNNING_HEADER_LETTERS_RE`.
+  - `download_leyes.py`: `_WHITESPACE_RE`, `_LAW_NAME_TRAILING_RE`,
+    `_SLUG_NON_ALNUM_RE`, `_PDF_STEM_NUMERIC_SUFFIX_RE`,
+    `_ACRONYM_CLAUSE_BREAK_RE`, `_ACRONYM_WORD_BREAK_RE`.
+- Reemplazo de literales mágicos por constantes nombradas en ambos scripts.
+- Valor principal: **mantenibilidad** (constantes con razón documentada).
+  Beneficio de performance en este contexto es marginal (la conversión está
+  dominada por pdfplumber + OCR, no por compilación de regex).
+
+### 2.2 — Paralelización de `batch_convert.py`
+
+- `ProcessPoolExecutor` con `--workers` configurable (default `os.cpu_count()`).
+  `--workers 1` cae a ejecución secuencial inline (útil para depurar y para
+  tests con `monkeypatch` de `subprocess.run`).
+- `--timeout` por PDF (default 300 s) vía `subprocess.TimeoutExpired`:
+  evita que un PDF que se cuelga bloquee al pool indefinidamente.
+- `_convert_task` a nivel módulo + `functools.partial` para que sea picklable
+  bajo el start method `spawn` (default en macOS / Windows).
+- `_run_tasks` helper: paralelo con `as_completed` si `workers>1`,
+  secuencial inline si `workers<=1`.
+
+**Speedup medido** (5 PDFs representativos: CCF, CCom, CFF, CFPC, CJM):
+
+| Workers | Tiempo real | CPU avg | Speedup |
+|---|---|---|---|
+| 1 (serial) | 6:33 min | 94% | 1.0x |
+| 4 | 4:12 min | 252% | 1.56x |
+| 8 | 2:46 min | 331% | **2.37x** |
+
+Sub-lineal porque el bottleneck son OCR + I/O, no CPU puro.
+
+### 2.3 — Robustez en `download_leyes.py`
+
+- **Retry con backoff exponencial** (default 3 reintentos: 1 s, 2 s, 4 s).
+  Cubre fallos transitorios sin amplificar carga si el sitio cae.
+- **Validación de bytes mágicos** `%PDF-` antes de escribir al disco:
+  rechaza páginas de error HTML, redirects o archivos corruptos.
+- **Allowlist de hosts**: solo `diputados.gob.mx` / `www.diputados.gob.mx`,
+  esquemas `http` / `https` exclusivamente.
+- **SHA-256 por PDF** anotado en `catalogo.json` (detección de reformas
+  upstream comparando contra corridas previas).
+- `download_pdf` cambia firma a `-> str | None` (hash hex en éxito, `None`
+  en cualquier fallo).
+
+### 2.4 — Schema endurecido
+
+Patrones agregados (validados empíricamente contra 315/315 canonicals):
+
+- `id` (root): `^[A-Za-z][A-Za-z0-9_]+$`
+- `abbreviation`: `^[A-Za-z][A-Za-z0-9]*$`
+- `catalog_number`: `^\d+$`
+- `node.id`: `^[a-z0-9_-]+(\.[a-z0-9_-]+)*$`
+- `fraccion.ordinal`: `^[IVXLCDM]+(?:[- ][A-Za-z]+)?$`
+- `inciso.ordinal`: `^[a-z]$`
+- `apartado.ordinal`: `^[A-Z]$`
+- `numeral.ordinal`: `^\d+$`
+- `reform_note.dof_date`: `^\d{2}[-/]\d{2}[-/]\d{4}$`
+
+Constraints adicionales:
+
+- `preamble`: `minItems: 1` (cuando presente).
+- `source_page`: `minimum: 1` (1-indexed).
+- `name`, `paragraph.text`, `reform_note.text`: `minLength: 1`.
+- `reform_note.action`: enum cierra con `"abrogado"` añadido (ya estaba
+  en código).
+
+Ejemplos (`examples`) añadidos en campos clave para servir de documentación
+inline.
+
+### Tests
+
+Suite total: **307/307** (250 antes del sprint, +57 nuevos):
+
+- `test_batch_convert.py`: +15 (timeout, workers, `_resolve_workers`,
+  `_run_tasks`, path paralelo con `ProcessPoolExecutor` fakeado).
+- `test_download_io.py`: +14 (allowlist, magic bytes, retry exponencial,
+  sha256, anotación de catálogo).
+- `test_schema.py` (nuevo): +28 (validator carga el schema, ejemplo CPEUM,
+  patterns por tipo, dof_date dual-separator, action enum cerrado, sample
+  de 20 canonicals reales).
+
+---
+
+## [Sprint 1 — Fundamentos / Red de seguridad] — 2026-04-26
+
+Diez items que instalan logging estructurado, packaging moderno, CI, y
+una suite de tests sobre helpers puros (cobertura global 16 % → 48 %).
+Ningún cambio altera la salida JSON/Markdown: `check_regression.sh`
+reportó 315/315 idénticos al baseline en cada commit.
+
+### 1.1 — Migrar a `pyproject.toml`
+
+- `requirements.txt` reemplazado por `pyproject.toml`.
+- `[project.scripts]`: `mx-md-convert`, `mx-md-batch`, `mx-md-download`,
+  `mx-md-indice` como entry points instalables.
+- Dependencias pineadas con rangos de mayor (`pdfplumber>=0.11,<1.0`,
+  `pytesseract>=0.3.10,<1.0`, `Pillow>=10,<12`, `jsonschema>=4,<5`).
+- `requirements.lock` generado con versiones exactas para reproducibilidad.
+- Extras `[dev]`: `pytest`, `pytest-cov`, `ruff`, `mypy`.
+
+### 1.2 — Logging estructurado
+
+- Nuevo `scripts/_log.py` con `getLogger(__name__)`.
+- Variable de entorno `MX_MD_LOG_LEVEL` controla el nivel (default `WARNING`).
+- `print()` que reportaban estado interno migrados a `logger.info/debug`.
+- Los `print` con emojis ✅/❌ se mantienen como UX (output al usuario).
+
+### 1.3 — Excepciones específicas
+
+- `except Exception: pass` reemplazado por capturas específicas
+  (`ValueError`, `OSError`, `pytesseract.TesseractNotFoundError`, etc.)
+  con `logger.exception()` cuando aplica.
+
+### 1.4 — CI mínimo (lint + typecheck)
+
+- `.github/workflows/ci.yml` corre `ruff check scripts/` y `mypy scripts/`
+  sobre Python 3.10, 3.11 y 3.12 en cada push.
+
+### 1.5 — Tests de helpers puros
+
+- `tests/` con pytest: 111 tests sobre helpers sin I/O (`_slugify_ordinal`,
+  `is_article_heading`, `_is_roman_numeral`, `_detect_running_header`,
+  `build_page_marker_re`).
+- Cobertura global pasa de 0 % a 16 %.
+
+### 1.6 — Type hints completos en helpers internos
+
+- Helpers privados (`_helper`) anotados.
+- `disallow_untyped_defs = true` activado en `mypy`.
+
+### 1.7 — Cobertura `gen_indice.py` (0 → 98 %)
+
+- 17 tests sobre el generador de índice.
+
+### 1.8 — Cobertura `batch_convert.py` (0 → 99 %)
+
+- 26 tests con repo falso (`monkeypatch` de paths) cubriendo `convert_pdf`,
+  `parse_args`, `main`, branches de error.
+
+### 1.9 — Cobertura I/O de `download_leyes.py` (32 → 99 %)
+
+- Tests de `LeyesTableParser`, `fetch_index`, `download_pdf`, `parse_args`,
+  `main` con `monkeypatch` de `urllib.request`.
+
+### 1.10 — Cobertura `pdf_to_md.py` helpers (13 → 29 %)
+
+- Tests adicionales sobre helpers puros del AST builder y renderer.
+- Cobertura global del proyecto: **48 %**.
+
+### Resultado global Sprint 1
+
+- 250 tests, suite verde en ~2-3 s.
+- Cobertura: 16 % → 48 %.
+- CI funcional sobre 3 versiones de Python.
+- `mypy --disallow-untyped-defs` clean.
+- 315/315 leyes idénticas al baseline.
+
+---
+
 ## [Modelo canónico JSON/AST] — 2026-04-09
 
 El JSON es ahora la fuente de verdad. El Markdown se renderiza desde el AST.

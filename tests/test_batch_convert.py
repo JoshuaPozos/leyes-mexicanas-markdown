@@ -5,10 +5,13 @@ from __future__ import annotations
 import json
 import subprocess
 import sys
+from collections.abc import Callable
 from pathlib import Path
+from typing import Any
 
 import batch_convert as bc
 import pytest
+from constants import BATCH_CONVERT_TIMEOUT_SECS
 
 # ---------------------------------------------------------------------------
 # load_catalog
@@ -196,6 +199,8 @@ class TestParseArgs:
         assert args.verbose is False
         assert args.format == "both"
         assert args.validate is False
+        assert args.workers is None
+        assert args.timeout == BATCH_CONVERT_TIMEOUT_SECS
 
     def test_skip_existing_flag(self, monkeypatch: pytest.MonkeyPatch) -> None:
         monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--skip-existing"])
@@ -306,7 +311,7 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 0)
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "1"])
 
         bc.main()
 
@@ -343,7 +348,7 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 0)
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--skip-existing"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--skip-existing", "--workers", "1"])
 
         bc.main()
 
@@ -371,7 +376,7 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 0)
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--limit", "2"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--limit", "2", "--workers", "1"])
 
         bc.main()
         captured = capsys.readouterr()
@@ -395,7 +400,7 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 0)
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "1"])
 
         bc.main()
         # El título por defecto es el stem con _ y - reemplazados por espacio
@@ -414,12 +419,13 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 1, stderr="boom")
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "1"])
 
         bc.main()
         captured = capsys.readouterr()
         assert "1 errores" in captured.out
-        assert "❌ Error" in captured.out
+        # El check del símbolo de fallo ahora puede aparecer como "❌ [1/1] rota.pdf → rota.md"
+        assert "❌" in captured.out
 
     def test_runs_gen_indice_when_present(
         self,
@@ -440,9 +446,259 @@ class TestMain:
             return subprocess.CompletedProcess(cmd, 0)
 
         monkeypatch.setattr(bc.subprocess, "run", fake_run)
-        monkeypatch.setattr(sys, "argv", ["batch_convert.py"])
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "1"])
 
         bc.main()
         # 1 conversión + 1 gen_indice
         assert len(calls) == 2
         assert any(str(gen_indice_path) in cmd for cmd in calls)
+
+
+# ---------------------------------------------------------------------------
+# Timeout en convert_pdf
+# ---------------------------------------------------------------------------
+
+
+class TestConvertPdfTimeout:
+    def test_passes_timeout_to_subprocess(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        captured: dict[str, Any] = {}
+
+        def fake_run(cmd: list[str], **kwargs: Any) -> subprocess.CompletedProcess:
+            captured["timeout"] = kwargs.get("timeout")
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        bc.convert_pdf(
+            tmp_path / "x.pdf", tmp_path / "y.md", "X",
+            verbose=False, timeout_secs=42,
+        )
+        assert captured["timeout"] == 42
+
+    def test_uses_default_timeout_when_not_specified(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        captured: dict[str, Any] = {}
+
+        def fake_run(cmd: list[str], **kwargs: Any) -> subprocess.CompletedProcess:
+            captured["timeout"] = kwargs.get("timeout")
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        bc.convert_pdf(tmp_path / "x.pdf", tmp_path / "y.md", "X", verbose=False)
+        assert captured["timeout"] == BATCH_CONVERT_TIMEOUT_SECS
+
+    def test_returns_false_on_timeout(
+        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        def fake_run(cmd: list[str], **kwargs: Any) -> subprocess.CompletedProcess:
+            raise subprocess.TimeoutExpired(cmd=cmd, timeout=kwargs.get("timeout", 0))
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        ok = bc.convert_pdf(
+            tmp_path / "x.pdf", tmp_path / "y.md", "X",
+            verbose=False, timeout_secs=1,
+        )
+        assert ok is False
+
+
+# ---------------------------------------------------------------------------
+# parse_args — flags nuevos --workers / --timeout
+# ---------------------------------------------------------------------------
+
+
+class TestParseArgsWorkersTimeout:
+    def test_workers_explicit(self, monkeypatch: pytest.MonkeyPatch) -> None:
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "4"])
+        assert bc.parse_args().workers == 4
+
+    def test_workers_short_flag(self, monkeypatch: pytest.MonkeyPatch) -> None:
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "-w", "2"])
+        assert bc.parse_args().workers == 2
+
+    def test_timeout_explicit(self, monkeypatch: pytest.MonkeyPatch) -> None:
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--timeout", "120"])
+        assert bc.parse_args().timeout == 120
+
+
+# ---------------------------------------------------------------------------
+# _resolve_workers
+# ---------------------------------------------------------------------------
+
+
+class TestResolveWorkers:
+    def test_positive_value_returned_as_is(self) -> None:
+        assert bc._resolve_workers(4) == 4
+
+    def test_none_falls_back_to_cpu_count(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        monkeypatch.setattr(bc.os, "cpu_count", lambda: 6)
+        assert bc._resolve_workers(None) == 6
+
+    def test_zero_or_negative_falls_back_to_cpu_count(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        monkeypatch.setattr(bc.os, "cpu_count", lambda: 3)
+        assert bc._resolve_workers(0) == 3
+        assert bc._resolve_workers(-1) == 3
+
+    def test_cpu_count_none_yields_one(
+        self, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        monkeypatch.setattr(bc.os, "cpu_count", lambda: None)
+        assert bc._resolve_workers(None) == 1
+
+
+# ---------------------------------------------------------------------------
+# _run_tasks
+# ---------------------------------------------------------------------------
+
+
+class TestRunTasksSequential:
+    def test_sequential_preserves_input_order(self, tmp_path: Path) -> None:
+        tasks = [
+            (tmp_path / f"in_{i}.pdf", tmp_path / f"out_{i}.md", f"T{i}")
+            for i in range(3)
+        ]
+        called: list[Path] = []
+
+        def fake_convert(pdf: Path, md: Path, title: str) -> bool:
+            called.append(pdf)
+            return True
+
+        results = list(bc._run_tasks(tasks, fake_convert, max_workers=1))
+        assert [pdf for pdf, _md, _ok in results] == [t[0] for t in tasks]
+        assert all(ok for _pdf, _md, ok in results)
+        assert called == [t[0] for t in tasks]
+
+    def test_sequential_with_zero_workers(self, tmp_path: Path) -> None:
+        tasks = [(tmp_path / "a.pdf", tmp_path / "a.md", "A")]
+        results = list(bc._run_tasks(tasks, lambda *_a: True, max_workers=0))
+        assert len(results) == 1
+
+    def test_sequential_propagates_convert_result(self, tmp_path: Path) -> None:
+        tasks = [
+            (tmp_path / "ok.pdf", tmp_path / "ok.md", "OK"),
+            (tmp_path / "fail.pdf", tmp_path / "fail.md", "FAIL"),
+        ]
+
+        def fake_convert(pdf: Path, md: Path, title: str) -> bool:
+            return "fail" not in pdf.name
+
+        results = {pdf.name: ok for pdf, _md, ok in bc._run_tasks(tasks, fake_convert, 1)}
+        assert results == {"ok.pdf": True, "fail.pdf": False}
+
+
+# ---------------------------------------------------------------------------
+# Path paralelo: invoca ProcessPoolExecutor con max_workers correcto
+# ---------------------------------------------------------------------------
+
+
+class _FakePoolExecutor:
+    """Reemplaza ProcessPoolExecutor en tests: ejecuta inline en el proceso
+    principal pero respeta la interfaz (submit/as_completed/context manager).
+    Permite monkeypatchear `subprocess.run` y validar que el path paralelo
+    se invoca con los argumentos correctos."""
+
+    instances: list[_FakePoolExecutor] = []
+
+    def __init__(self, max_workers: int | None = None) -> None:
+        self.max_workers = max_workers
+        self.submitted: list[tuple] = []
+        _FakePoolExecutor.instances.append(self)
+
+    def __enter__(self) -> _FakePoolExecutor:
+        return self
+
+    def __exit__(self, *exc: Any) -> None:
+        return None
+
+    def submit(self, fn: Callable[..., Any], *args: Any) -> _FakeFuture:
+        self.submitted.append((fn, args))
+        return _FakeFuture(fn, args)
+
+
+class _FakeFuture:
+    def __init__(self, fn: Callable[..., Any], args: tuple) -> None:
+        self._fn = fn
+        self._args = args
+        self._result: Any = None
+        self._done = False
+
+    def result(self) -> Any:
+        if not self._done:
+            self._result = self._fn(*self._args)
+            self._done = True
+        return self._result
+
+
+def _fake_as_completed(futures: dict[_FakeFuture, Any]) -> Any:
+    yield from futures
+
+
+class TestParallelPath:
+    def test_main_with_workers_2_uses_process_pool(
+        self,
+        fake_repo: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        _FakePoolExecutor.instances.clear()
+        _make_pdf(fake_repo, "ley_a.pdf")
+        _make_pdf(fake_repo, "ley_b.pdf")
+        (fake_repo / "catalogo.json").write_text(
+            json.dumps([
+                {"pdf_filename": "ley_a.pdf", "nombre": "Ley A", "md_slug": "LA_a"},
+                {"pdf_filename": "ley_b.pdf", "nombre": "Ley B", "md_slug": "LB_b"},
+            ]),
+            encoding="utf-8",
+        )
+
+        def fake_run(cmd: list[str], **kwargs: Any) -> subprocess.CompletedProcess:
+            return subprocess.CompletedProcess(cmd, 0)
+
+        monkeypatch.setattr(bc.subprocess, "run", fake_run)
+        monkeypatch.setattr(bc, "ProcessPoolExecutor", _FakePoolExecutor)
+        monkeypatch.setattr(bc, "as_completed", _fake_as_completed)
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "2"])
+
+        bc.main()
+
+        # Se creó exactamente un pool con max_workers=2 y se enviaron 2 tareas.
+        assert len(_FakePoolExecutor.instances) == 1
+        pool = _FakePoolExecutor.instances[0]
+        assert pool.max_workers == 2
+        assert len(pool.submitted) == 2
+        captured = capsys.readouterr()
+        assert "paralelo (workers=2)" in captured.out
+        assert "2 convertidos" in captured.out
+
+    def test_main_parallel_handles_future_exception(
+        self,
+        fake_repo: Path,
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture[str],
+    ) -> None:
+        _FakePoolExecutor.instances.clear()
+        _make_pdf(fake_repo, "ley.pdf")
+        (fake_repo / "catalogo.json").write_text("[]", encoding="utf-8")
+
+        class _ExplodingFuture(_FakeFuture):
+            def result(self) -> Any:
+                raise RuntimeError("worker crashed")
+
+        class _ExplodingPool(_FakePoolExecutor):
+            def submit(self, fn: Callable[..., Any], *args: Any) -> _FakeFuture:
+                self.submitted.append((fn, args))
+                return _ExplodingFuture(fn, args)
+
+        monkeypatch.setattr(bc, "ProcessPoolExecutor", _ExplodingPool)
+        monkeypatch.setattr(bc, "as_completed", _fake_as_completed)
+        monkeypatch.setattr(sys, "argv", ["batch_convert.py", "--workers", "2"])
+
+        bc.main()
+
+        captured = capsys.readouterr()
+        assert "1 errores" in captured.out

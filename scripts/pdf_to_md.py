@@ -19,6 +19,26 @@ from pathlib import Path
 from typing import Any
 
 from _log import get_logger
+from constants import (
+    DESCRIPTIVE_NAME_MAX_LENGTH,
+    DESCRIPTIVE_NAME_TITLE_CASE_MAX_LENGTH,
+    IMAGE_TABLE_MIN_HEIGHT,
+    IMAGE_TABLE_MIN_WIDTH,
+    NUMERIC_ROW_FRACTION,
+    NUMERIC_ROW_MIN,
+    OCR_HEADER_MIN_LETTERS,
+    OCR_LANG,
+    OCR_MIN_CONFIDENCE,
+    OCR_PSM_CONFIG,
+    OCR_RESOLUTION_DPI,
+    OCR_ROW_TOLERANCE,
+    PDFPLUMBER_X_TOLERANCE,
+    PDFPLUMBER_Y_TOLERANCE,
+    PROGRESS_LOG_INTERVAL,
+    RUNNING_HEADER_MIN_LENGTH,
+    RUNNING_HEADER_MIN_REPETITIONS,
+    TITLE_HEADER_GAP_RATIO,
+)
 
 logger = get_logger(__name__)
 
@@ -152,6 +172,14 @@ _ARTICLE_REF_TRAILING_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Patrones usados dentro de loops calientes (extracción OCR / detección de
+# headers): pre-compilados a nivel módulo para evitar recompilarlos en cada
+# fila/línea/página de un PDF largo.
+_OCR_NUM_RE = re.compile(r'^[\d$%,.]+%?$')
+_OCR_UNIT_RE = re.compile(r'^[\$%#€£¥]+$')
+_INCISO_INLINE_SPLIT_RE = re.compile(r'(?<=[\.:])\s+(?=[a-z]\)\s)')
+_RUNNING_HEADER_LETTERS_RE = re.compile(r'[A-ZÁÉÍÓÚÑ]{4,}')
+
 
 def _is_roman_numeral(s: str) -> bool:
     """Verifica si una cadena es un numeral romano válido (I-L)."""
@@ -200,7 +228,7 @@ def is_section_heading(line: str) -> bool:
 def _is_descriptive_name(line: str) -> bool:
     """Detecta nombres descriptivos de sección: 'DISPOSICIONES GENERALES', 'De la Violencia Familiar'."""
     s = line.strip()
-    if not s or len(s) > 100:
+    if not s or len(s) > DESCRIPTIVE_NAME_MAX_LENGTH:
         return False
     if re.match(r'^\d', s):
         return False
@@ -217,7 +245,7 @@ def _is_descriptive_name(line: str) -> bool:
     if s == s.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{3,}', s):
         return True
     # Title Case con prefijo descriptivo
-    if re.match(r'^(?:De |Del |Sobre |Para |En |Por |Disposiciones )', s) and len(s) < 80:
+    if re.match(r'^(?:De |Del |Sobre |Para |En |Por |Disposiciones )', s) and len(s) < DESCRIPTIVE_NAME_TITLE_CASE_MAX_LENGTH:
         return True
     return False
 
@@ -241,13 +269,13 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
         all_lines: list[str] = []
 
         for page_num, page in enumerate(pdf.pages):
-            if page_num % 20 == 0:
+            if page_num % PROGRESS_LOG_INTERVAL == 0:
                 logger.debug("Procesando página %d/%d", page_num + 1, total)
 
             # --- Detectar tablas-imagen para intercalar OCR en posición correcta ---
             large_imgs = [img for img in (page.images or [])
-                          if abs(img.get('x1', 0) - img.get('x0', 0)) > 200
-                          and abs(img.get('y1', 0) - img.get('y0', 0)) > 100]
+                          if abs(img.get('x1', 0) - img.get('x0', 0)) > IMAGE_TABLE_MIN_WIDTH
+                          and abs(img.get('y1', 0) - img.get('y0', 0)) > IMAGE_TABLE_MIN_HEIGHT]
 
             has_table_imgs = False
             if large_imgs:
@@ -257,7 +285,11 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
 
             if not has_table_imgs:
                 # Página sin tablas-imagen: extracción normal
-                text = page.extract_text(layout=False, x_tolerance=2, y_tolerance=2)
+                text = page.extract_text(
+                    layout=False,
+                    x_tolerance=PDFPLUMBER_X_TOLERANCE,
+                    y_tolerance=PDFPLUMBER_Y_TOLERANCE,
+                )
                 if not text:
                     continue
                 for raw_line in text.split('\n'):
@@ -287,7 +319,10 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                         try:
                             region_above = page.crop((0, cursor_y, page_width, img_top))
                             text_above = region_above.extract_text(
-                                layout=False, x_tolerance=2, y_tolerance=2)
+                                layout=False,
+                                x_tolerance=PDFPLUMBER_X_TOLERANCE,
+                                y_tolerance=PDFPLUMBER_Y_TOLERANCE,
+                            )
                             if text_above:
                                 for raw_line in text_above.split('\n'):
                                     line = clean_page_markers(raw_line.strip(), marker_re)
@@ -319,7 +354,10 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                     try:
                         region_below = page.crop((0, cursor_y, page_width, page_height))
                         text_below = region_below.extract_text(
-                            layout=False, x_tolerance=2, y_tolerance=2)
+                            layout=False,
+                            x_tolerance=PDFPLUMBER_X_TOLERANCE,
+                            y_tolerance=PDFPLUMBER_Y_TOLERANCE,
+                        )
                         if text_below:
                             for raw_line in text_below.split('\n'):
                                 line = clean_page_markers(raw_line.strip(), marker_re)
@@ -356,10 +394,10 @@ def _ocr_page_table(page: Any, large_imgs: list, page_num: int) -> list[str]:
         y1 = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
         try:
             cropped = page.crop((x0, y0, x1, y1))
-            pil_img = cropped.to_image(resolution=300).original
+            pil_img = cropped.to_image(resolution=OCR_RESOLUTION_DPI).original
             # Obtener datos espaciales con --psm 6 (bloque de texto uniforme)
             data = pytesseract.image_to_data(
-                pil_img, lang='spa+eng', config='--psm 6',
+                pil_img, lang=OCR_LANG, config=OCR_PSM_CONFIG,
                 output_type=pytesseract.Output.DICT,
             )
             md_table = _build_table_from_spatial(data)
@@ -392,7 +430,7 @@ def _build_table_from_spatial(data: dict) -> list[str]:
     words = []
     for i in range(len(data['text'])):
         txt = (data['text'][i] or '').strip()
-        if not txt or data['conf'][i] < 1:
+        if not txt or data['conf'][i] < OCR_MIN_CONFIDENCE:
             continue
         words.append({
             'text': txt,
@@ -406,13 +444,12 @@ def _build_table_from_spatial(data: dict) -> list[str]:
         return []
 
     # --- Paso 1: agrupar palabras en filas por y-center ---
-    ROW_TOLERANCE = 12  # píxeles
     rows_map: dict[int, list[dict]] = {}
     for w in words:
         y_center = w['top'] + w['height'] // 2
         assigned = False
         for key in rows_map:
-            if abs(y_center - key) <= ROW_TOLERANCE:
+            if abs(y_center - key) <= OCR_ROW_TOLERANCE:
                 rows_map[key].append(w)
                 assigned = True
                 break
@@ -430,12 +467,11 @@ def _build_table_from_spatial(data: dict) -> list[str]:
 
     # --- Paso 2: detectar columnas a partir de los datos numéricos ---
     # Las filas de datos numéricos son las que mejor definen las columnas.
-    # Detectar filas numéricas: >50% de palabras son números/porcentajes
-    NUM_RE = re.compile(r'^[\d$%,.]+%?$')
+    # Detectar filas numéricas (regex pre-compilado: _OCR_NUM_RE).
     numeric_rows = []
     for row in sorted_rows:
-        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
-        if num_count >= max(len(row) * 0.5, 2):
+        num_count = sum(1 for w in row if _OCR_NUM_RE.match(w['text']))
+        if num_count >= max(len(row) * NUMERIC_ROW_FRACTION, NUMERIC_ROW_MIN):
             numeric_rows.append(row)
 
     if not numeric_rows:
@@ -487,8 +523,8 @@ def _build_table_from_spatial(data: dict) -> list[str]:
     # Encontrar el índice de la primera fila numérica
     first_num_idx = None
     for i, row in enumerate(sorted_rows):
-        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
-        if num_count >= max(len(row) * 0.5, 2):
+        num_count = sum(1 for w in row if _OCR_NUM_RE.match(w['text']))
+        if num_count >= max(len(row) * NUMERIC_ROW_FRACTION, NUMERIC_ROW_MIN):
             first_num_idx = i
             break
 
@@ -524,7 +560,7 @@ def _build_table_from_spatial(data: dict) -> list[str]:
                 split_idx = i
         # Solo separar si el gap es significativo (>150% del gap promedio)
         avg_gap = (pre_ys[-1] - pre_ys[0]) / max(len(pre_ys) - 1, 1)
-        if max_gap > avg_gap * 1.5 and split_idx > 0:
+        if max_gap > avg_gap * TITLE_HEADER_GAP_RATIO and split_idx > 0:
             title_rows = pre_rows[:split_idx]
             header_rows = pre_rows[split_idx:]
         else:
@@ -570,9 +606,9 @@ def _build_table_from_spatial(data: dict) -> list[str]:
         return base
 
     for row in header_rows:
-        # Filtrar filas de ruido OCR: requiere al menos una palabra de ≥4 letras
+        # Filtrar filas de ruido OCR: requiere al menos una palabra "real"
         has_real_word = any(
-            sum(c.isalpha() for c in w['text']) >= 4 for w in row
+            sum(c.isalpha() for c in w['text']) >= OCR_HEADER_MIN_LETTERS for w in row
         )
         if not has_real_word:
             continue
@@ -590,9 +626,8 @@ def _build_table_from_spatial(data: dict) -> list[str]:
     # y si es así, incorporarla a los encabezados
     data_start_idx = first_num_idx
     first_data_row = sorted_rows[first_num_idx]
-    UNIT_RE = re.compile(r'^[\$%#€£¥]+$')
     first_row_vals = assign_to_columns(first_data_row)
-    if all(UNIT_RE.match(v.strip()) for v in first_row_vals if v.strip()):
+    if all(_OCR_UNIT_RE.match(v.strip()) for v in first_row_vals if v.strip()):
         # Fila de unidades detectada → incorporar al nombre de columna
         for c, val in enumerate(first_row_vals):
             unit = val.strip()
@@ -615,8 +650,8 @@ def _build_table_from_spatial(data: dict) -> list[str]:
     # Tabla: filas de datos y texto posterior
     post_text: list[str] = []
     for row in sorted_rows[data_start_idx:]:
-        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
-        is_numeric = num_count >= max(len(row) * 0.5, 2)
+        num_count = sum(1 for w in row if _OCR_NUM_RE.match(w['text']))
+        is_numeric = num_count >= max(len(row) * NUMERIC_ROW_FRACTION, NUMERIC_ROW_MIN)
         if is_numeric and not post_text:
             cols = assign_to_columns(row)
             md.append('| ' + ' | '.join(cols) + ' |')
@@ -641,7 +676,11 @@ def _detect_running_header(lines: list[str]) -> str:
     for line in lines:
         stripped = line.strip()
         # Los running headers son ALL CAPS, largos, y contienen el nombre de la ley
-        if len(stripped) > 15 and stripped == stripped.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{4,}', stripped):
+        if (
+            len(stripped) > RUNNING_HEADER_MIN_LENGTH
+            and stripped == stripped.upper()
+            and _RUNNING_HEADER_LETTERS_RE.search(stripped)
+        ):
             # Normalizar espacios múltiples
             norm = ' '.join(stripped.split())
             candidates[norm] += 1
@@ -649,8 +688,8 @@ def _detect_running_header(lines: list[str]) -> str:
         return ""
     # El running header es la cadena ALL CAPS que más se repite
     most_common, count = candidates.most_common(1)[0]
-    # Solo si aparece al menos 3 veces (varias páginas)
-    if count >= 3:
+    # Solo si aparece en suficientes páginas
+    if count >= RUNNING_HEADER_MIN_REPETITIONS:
         return most_common
     return ""
 
@@ -669,7 +708,7 @@ def _post_split_incisos(lines: list[str]) -> list[str]:
         if not line or line.startswith('#') or line.startswith('>') or line.startswith('---') or line.startswith('**'):
             result.append(line)
             continue
-        parts = re.split(r'(?<=[\.:])\s+(?=[a-z]\)\s)', line)
+        parts = _INCISO_INLINE_SPLIT_RE.split(line)
         if len(parts) > 1:
             for i, part in enumerate(parts):
                 result.append(part.strip())
