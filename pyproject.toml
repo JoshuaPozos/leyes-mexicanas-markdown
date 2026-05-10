@@ -1,0 +1,97 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mx-md"
+version = "1.0.0"
+description = "Leyes federales mexicanas en JSON canónico (AST) y Markdown — pipeline de conversión desde los PDFs oficiales de diputados.gob.mx"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Joshua Pozos", email = "joshua@pozoss.com" }]
+keywords = ["mexico", "leyes", "legal", "markdown", "json", "ast", "pdf", "ocr"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Legal Industry",
+    "Natural Language :: Spanish",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Text Processing :: Markup",
+]
+
+dependencies = [
+    "pdfplumber>=0.11.9,<1.0",
+    "pytesseract>=0.3.13,<1.0",
+    "Pillow>=10.0.0,<13.0",
+    "jsonschema>=4.20.0,<5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.5.0",
+    "mypy>=1.10.0",
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/JoshuaPozos/mx-md"
+Source = "https://github.com/JoshuaPozos/mx-md"
+
+# Nota: no se declaran [project.scripts] todavía. Los scripts en scripts/
+# usan Path(__file__).parent.parent para anclar al ROOT del proyecto, lo
+# que solo funciona en modo `pip install -e .`. Registrar entry points
+# formales requiere refactor de esos paths (Sprint 3 de PLANEACION.md).
+# Por ahora la invocación sigue siendo: python scripts/<modulo>.py.
+
+[tool.setuptools]
+# El proyecto está organizado como scripts sueltos, no como paquete.
+# Declaramos py-modules para que setuptools no intente autodescubrir.
+py-modules = []
+
+# ---------------------------------------------------------------------------
+# Configuración de herramientas (preparada para CI del item 1.4)
+# ---------------------------------------------------------------------------
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "F",    # pyflakes
+    "W",    # pycodestyle warnings
+    "I",    # isort
+    "B",    # flake8-bugbear
+    "UP",   # pyupgrade
+    "SIM",  # flake8-simplify
+]
+ignore = [
+    "E501",   # line too long (lo maneja el formatter)
+    "SIM103", # "return condition directly" — preferimos legibilidad explícita
+]
+
+[tool.mypy]
+python_version = "3.10"
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+no_implicit_optional = true
+strict_equality = true
+files = ["scripts"]
+
+[[tool.mypy.overrides]]
+module = ["pdfplumber.*", "pytesseract.*", "jsonschema.*", "PIL.*"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"

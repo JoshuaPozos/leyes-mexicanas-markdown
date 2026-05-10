@@ -64,7 +64,7 @@ def main() -> None:
     lines = [
         "# 📇 Índice de Leyes Federales Vigentes",
         "",
-        f"> Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  ",
+        "> Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  ",
         f"> Última actualización: **{today}** — **{done_md}/{total}** Markdown, **{done_json}/{total}** JSON canónico — **{total_arts:,}** artículos.",
         "",
         "---",

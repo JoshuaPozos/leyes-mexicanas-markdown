@@ -6,6 +6,19 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+# Build artifacts (pip install -e .)
+*.egg-info/
+build/
+dist/
+
+# Test/coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
 # PDFs fuente (pueden ser grandes; descárgalos desde diputados.gob.mx)
 origen-docs/*.pdf
 

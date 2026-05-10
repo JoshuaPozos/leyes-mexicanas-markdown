@@ -10,11 +10,17 @@ Uso:
 
 import argparse
 import json
+import logging
 import re
 import sys
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
+
+from _log import get_logger
+
+logger = get_logger(__name__)
 
 try:
     import pdfplumber
@@ -26,7 +32,9 @@ except ImportError:
 _HAS_OCR = False
 try:
     import pytesseract
-    from PIL import Image
+    from PIL import (
+        Image,  # noqa: F401  # Verifica que Pillow esté instalado (requerido por pytesseract)
+    )
     _HAS_OCR = True
 except ImportError:
     pass
@@ -218,7 +226,7 @@ def _is_descriptive_name(line: str) -> bool:
 # Extracción
 # ---------------------------------------------------------------------------
 
-def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int]:
+def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
     """
     Extrae todas las líneas de texto del PDF, filtrando encabezados repetitivos
     y marcadores de página.
@@ -227,15 +235,14 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
     """
     with pdfplumber.open(pdf_path) as pdf:
         total = len(pdf.pages)
-        if verbose:
-            print(f"📄 Total de páginas: {total}", flush=True)
+        logger.info("Total de páginas: %d", total)
 
         marker_re = build_page_marker_re(total)
         all_lines: list[str] = []
 
         for page_num, page in enumerate(pdf.pages):
-            if verbose and page_num % 20 == 0:
-                print(f"  Procesando página {page_num + 1}/{total}...", flush=True)
+            if page_num % 20 == 0:
+                logger.debug("Procesando página %d/%d", page_num + 1, total)
 
             # --- Detectar tablas-imagen para intercalar OCR en posición correcta ---
             large_imgs = [img for img in (page.images or [])
@@ -289,11 +296,20 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
                                     if is_header_line(line):
                                         continue
                                     all_lines.append(line)
+                        except (ValueError, AttributeError) as e:
+                            # Coordenadas degeneradas o page object inesperado — esperable en bordes
+                            logger.debug(
+                                "crop region_above falló (page=%d, cursor_y=%s, img_top=%s): %s",
+                                page_num + 1, cursor_y, img_top, e,
+                            )
                         except Exception:
-                            pass
+                            logger.exception(
+                                "error inesperado extrayendo texto sobre tabla en página %d",
+                                page_num + 1,
+                            )
 
                     # OCR de la imagen (tabla)
-                    ocr_result = _ocr_page_table(page, [img], page_num + 1, verbose)
+                    ocr_result = _ocr_page_table(page, [img], page_num + 1)
                     all_lines.extend(ocr_result)
 
                     cursor_y = img_bottom
@@ -312,13 +328,21 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
                                 if is_header_line(line):
                                     continue
                                 all_lines.append(line)
+                    except (ValueError, AttributeError) as e:
+                        logger.debug(
+                            "crop region_below falló (page=%d, cursor_y=%s, page_height=%s): %s",
+                            page_num + 1, cursor_y, page_height, e,
+                        )
                     except Exception:
-                        pass
+                        logger.exception(
+                            "error inesperado extrayendo texto bajo tabla en página %d",
+                            page_num + 1,
+                        )
 
     return all_lines, total
 
 
-def _ocr_page_table(page, large_imgs: list, page_num: int, verbose: bool) -> list[str]:
+def _ocr_page_table(page: Any, large_imgs: list, page_num: int) -> list[str]:
     """Extrae tablas-imagen de una página usando OCR (Tesseract).
     Usa image_to_data para obtener posiciones espaciales y reconstruir la tabla."""
     if not _HAS_OCR:
@@ -338,22 +362,28 @@ def _ocr_page_table(page, large_imgs: list, page_num: int, verbose: bool) -> lis
                 pil_img, lang='spa+eng', config='--psm 6',
                 output_type=pytesseract.Output.DICT,
             )
-            md_table = _build_table_from_spatial(data, verbose)
+            md_table = _build_table_from_spatial(data)
             if not md_table:
                 result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
                 continue
-            if verbose:
-                n = sum(1 for l in md_table if l.startswith('|'))
-                print(f"    🔍 OCR tabla página {page_num}: {n} filas", flush=True)
+            n = sum(1 for line in md_table if line.startswith('|'))
+            logger.info("OCR tabla página %d: %d filas", page_num, n)
             result_lines.extend(md_table)
-        except Exception as e:
-            if verbose:
-                print(f"    ⚠️ OCR falló página {page_num}: {e}", flush=True)
+        except pytesseract.TesseractNotFoundError:
+            logger.error(
+                "Tesseract no encontrado. Instala con: brew install tesseract / apt install tesseract-ocr",
+            )
+            result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
+        except (pytesseract.TesseractError, OSError, ValueError):
+            logger.warning("OCR falló en página %d", page_num, exc_info=True)
+            result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
+        except Exception:
+            logger.exception("error OCR inesperado en página %d", page_num)
             result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
     return result_lines
 
 
-def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
+def _build_table_from_spatial(data: dict) -> list[str]:
     """Reconstruye una tabla markdown a partir de datos espaciales de Tesseract.
     Agrupa palabras por fila (y-position) y columna (x-position)."""
     from collections import defaultdict
@@ -546,9 +576,9 @@ def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
         )
         if not has_real_word:
             continue
-        assigned = _assign_header_row(row)
+        assigned_row = _assign_header_row(row)
         for c in range(target_cols):
-            val = assigned[c].strip() if c < len(assigned) else ''
+            val = assigned_row[c].strip() if c < len(assigned_row) else ''
             if val and val not in (',', '.', '-'):
                 col_headers[c].append(val)
 
@@ -1392,6 +1422,9 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
 
+    if args.verbose:
+        logging.getLogger().setLevel(logging.INFO)
+
     pdf_path: Path = args.pdf.resolve()
     if not pdf_path.exists():
         print(f"Error: no se encontró el archivo '{pdf_path}'", file=sys.stderr)
@@ -1410,7 +1443,7 @@ def main() -> None:
     title = args.title or pdf_path.stem.replace("_", " ").replace("-", " ")
 
     print(f"Extrayendo texto de: {pdf_path.name}", flush=True)
-    lines, _ = extract_lines(pdf_path, verbose=args.verbose)
+    lines, _ = extract_lines(pdf_path)
 
     # --- Construir AST canónico (fuente de verdad) ---
     catalog_entry = _load_catalog_entry(pdf_path)

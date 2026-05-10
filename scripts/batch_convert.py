@@ -16,6 +16,10 @@ import subprocess
 import sys
 from pathlib import Path
 
+from _log import get_logger
+
+logger = get_logger(__name__)
+
 ROOT = Path(__file__).parent.parent
 SCRIPTS_DIR = ROOT / "scripts"
 PDF_TO_MD = SCRIPTS_DIR / "pdf_to_md.py"
@@ -56,7 +60,7 @@ def convert_pdf(pdf_path: Path, output_path: Path, title: str, verbose: bool,
     if result.returncode != 0:
         stderr = result.stderr.strip()
         if stderr:
-            print(f"     stderr: {stderr[:200]}", file=sys.stderr)
+            logger.error("subprocess pdf_to_md.py falló para %s\n%s", pdf_path.name, stderr)
     return result.returncode == 0
 
 
@@ -127,10 +131,10 @@ def main() -> None:
         print(f"  📄 {label} → {md_path.name}...", flush=True)
         if convert_pdf(pdf_path, md_path, title, args.verbose, CANONICAL_DIR,
                        fmt=args.format, validate=args.validate):
-            print(f"     ✅ Listo")
+            print("     ✅ Listo")
             converted += 1
         else:
-            print(f"     ❌ Error")
+            print("     ❌ Error")
             failed += 1
 
     print(f"\n📊 Resultado: {converted} convertidos, {skipped} omitidos, {failed} errores")
