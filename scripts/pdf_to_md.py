@@ -32,12 +32,16 @@ from constants import (
     OCR_PSM_CONFIG,
     OCR_RESOLUTION_DPI,
     OCR_ROW_TOLERANCE,
+    OCR_TABLE_MAX_COLS,
+    OCR_TABLE_MIN_DATA_ROWS,
     PDFPLUMBER_X_TOLERANCE,
     PDFPLUMBER_Y_TOLERANCE,
     PROGRESS_LOG_INTERVAL,
     RUNNING_HEADER_MIN_LENGTH,
     RUNNING_HEADER_MIN_REPETITIONS,
     TITLE_HEADER_GAP_RATIO,
+    VECTOR_TABLE_MIN_COLS,
+    VECTOR_TABLE_MIN_ROWS,
 )
 
 logger = get_logger(__name__)
@@ -254,6 +258,157 @@ def _is_descriptive_name(line: str) -> bool:
 # Extracción
 # ---------------------------------------------------------------------------
 
+# Marcador interno que precede a las líneas `| ... |` de una tabla y
+# transporta su procedencia hasta build_ast: método de extracción
+# ('text' = tabla vectorial nativa del PDF, 'ocr' = Tesseract) y página
+# de origen (1-indexed). build_ast lo consume y lo descarta del stream —
+# nunca llega al Markdown final ni al JSON como texto.
+_TABLE_META_RE = re.compile(r'^<!--mxmd:table src=(text|ocr) page=(\d+)-->$')
+
+# Caracteres Unicode de área privada (U+E000-U+F8FF): los PDFs de la Cámara
+# los usan para bullets de fuentes embebidas (Wingdings/Symbol). Sin la
+# fuente original son ilegibles; se sustituyen por un guion.
+_PRIVATE_USE_RE = re.compile('[\ue000-\uf8ff]')
+
+
+def _clean_cell(cell: Any) -> str:
+    """Colapsa una celda de pdfplumber a una sola línea.
+
+    None → '' (pdfplumber usa None para celdas vacías y celdas fusionadas);
+    saltos de línea y espacios múltiples → un espacio (headers multi-línea);
+    '|' → '/' (un pipe literal dentro de la celda rompería la fila markdown);
+    chars de área privada (bullets de fuentes embebidas) → '-'.
+    """
+    if cell is None:
+        return ""
+    text = _PRIVATE_USE_RE.sub("-", str(cell).replace("|", "/"))
+    return " ".join(text.split())
+
+
+def _is_valid_vector_table(data: list[list[Any]]) -> bool:
+    """Filtro de validez para tablas vectoriales de `find_tables()`.
+
+    Descarta detecciones que no son tablas reales:
+    - menos de `VECTOR_TABLE_MIN_COLS` columnas (layouts de dos columnas
+      o listas largas que pdfplumber confunde con tabla N×1),
+    - tablas sin contenido (todas las celdas vacías).
+
+    Las tablas de UNA fila se aceptan solo si la fila tiene al menos
+    `VECTOR_TABLE_MIN_COLS` celdas con contenido: los PDFs de la Cámara
+    dibujan filas de datos como tablas independientes de una fila (las
+    tablas de valuación de la LFT, 18 casos); descartarlas las aplana a
+    texto con los valores inyectados a mitad de oración. Un recuadro
+    decorativo (1×N con una sola celda llena) sigue rechazado.
+    """
+    if not data:
+        return False
+    if len(data) < VECTOR_TABLE_MIN_ROWS:
+        return sum(1 for c in data[0] if _clean_cell(c)) >= VECTOR_TABLE_MIN_COLS
+    if max(len(row) for row in data) < VECTOR_TABLE_MIN_COLS:
+        return False
+    return any(_clean_cell(c) for row in data for c in row)
+
+
+def _route_page(has_large_imgs: bool, n_vector_tables: int) -> str:
+    """Decide el flujo de extracción de una página: 'ocr' | 'vector' | 'text'.
+
+    Precedencia: las tablas vectoriales *válidas* ganan sobre el OCR —
+    si pdfplumber puede leer las celdas nativamente, el OCR solo
+    degradaría. El OCR aplica cuando hay imagen grande y NINGUNA tabla
+    vectorial válida; las detecciones inválidas (N×1, vacías) no cuentan
+    como tabla y por tanto no suprimen el OCR (una página con
+    imagen-tabla + falso positivo N×1 debe seguir yendo a OCR, no
+    aplanarse como texto).
+    """
+    if n_vector_tables:
+        return "vector"
+    if has_large_imgs:
+        return "ocr"
+    return "text"
+
+
+def _render_vector_table(data: list[list[Any]], page_num: int) -> list[str]:
+    """Emite una tabla vectorial como líneas markdown `| ... |` compatibles
+    con `_parse_table_lines`, precedidas del marcador de procedencia que
+    `build_ast` consume (source_method='text', source_page=page_num).
+
+    La primera fila se trata como encabezados; filas más cortas que la
+    más ancha se rellenan con celdas vacías para mantener la rejilla.
+    Normalizaciones sobre la rejilla:
+    - columnas 100 % vacías (artefacto de detección de find_tables, p.ej.
+      LIGIE p.881 con 9 columnas sobre 5 reales) se colapsan, siempre que
+      queden al menos `VECTOR_TABLE_MIN_COLS`;
+    - filas de datos 100 % vacías (espaciado visual de la rejilla) se
+      omiten;
+    - una tabla de UNA fila (fila de datos dibujada como tabla propia,
+      sin header en el PDF) se emite con encabezados vacíos y la fila
+      como dato — no al revés.
+    """
+    n_cols = max(len(row) for row in data)
+    grid = [
+        [_clean_cell(c) for c in row] + [''] * (n_cols - len(row))
+        for row in data
+    ]
+
+    keep = [c for c in range(n_cols) if any(row[c] for row in grid)]
+    if VECTOR_TABLE_MIN_COLS <= len(keep) < n_cols:
+        grid = [[row[c] for c in keep] for row in grid]
+        n_cols = len(keep)
+
+    if len(grid) == 1:
+        headers: list[str] = [''] * n_cols
+        body = grid
+    else:
+        headers = grid[0]
+        body = [row for row in grid[1:] if any(row)]
+
+    md: list[str] = ['', f'<!--mxmd:table src=text page={page_num}-->']
+    md.append('| ' + ' | '.join(headers) + ' |')
+    md.append('| ' + ' | '.join(['---'] * n_cols) + ' |')
+    for row in body:
+        md.append('| ' + ' | '.join(row) + ' |')
+    md.append('')
+    return md
+
+
+def _extract_region_lines(page: Any, y0: float, y1: float,
+                          marker_re: re.Pattern, page_num: int,
+                          context: str) -> list[str]:
+    """Extrae texto de la franja vertical [y0, y1) de una página, limpiando
+    marcadores de página y encabezados repetitivos.
+
+    Es el paso común de los flujos que intercalan tablas (imagen u
+    vectoriales) con el texto circundante. Coordenadas degeneradas se
+    loggean en debug y devuelven lista vacía (esperable en bordes).
+    """
+    lines: list[str] = []
+    try:
+        region = page.crop((0, y0, page.width, y1))
+        text = region.extract_text(
+            layout=False,
+            x_tolerance=PDFPLUMBER_X_TOLERANCE,
+            y_tolerance=PDFPLUMBER_Y_TOLERANCE,
+        )
+    except (ValueError, AttributeError) as e:
+        logger.debug("crop %s falló (page=%d, y0=%s, y1=%s): %s",
+                     context, page_num, y0, y1, e)
+        return lines
+    except Exception:
+        logger.exception("error inesperado extrayendo texto (%s) en página %d",
+                         context, page_num)
+        return lines
+    if not text:
+        return lines
+    for raw_line in text.split('\n'):
+        line = clean_page_markers(raw_line.strip(), marker_re)
+        if not line:
+            continue
+        if is_header_line(line):
+            continue
+        lines.append(line)
+    return lines
+
+
 def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
     """
     Extrae todas las líneas de texto del PDF, filtrando encabezados repetitivos
@@ -277,14 +432,68 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                           if abs(img.get('x1', 0) - img.get('x0', 0)) > IMAGE_TABLE_MIN_WIDTH
                           and abs(img.get('y1', 0) - img.get('y0', 0)) > IMAGE_TABLE_MIN_HEIGHT]
 
-            has_table_imgs = False
-            if large_imgs:
-                tables = page.extract_tables()
-                if not tables:
-                    has_table_imgs = True
+            # --- Detectar tablas vectoriales (celdas dibujadas como vectores
+            # PDF, sin imagen embebida). find_tables() expone bbox + contenido;
+            # el filtro de validez descarta los falsos positivos N×1. ---
+            found_tables = page.find_tables()
+            vector_tables = []
+            for t in found_tables:
+                data = t.extract()
+                if _is_valid_vector_table(data):
+                    vector_tables.append((t.bbox, data))
 
-            if not has_table_imgs:
-                # Página sin tablas-imagen: extracción normal
+            route = _route_page(bool(large_imgs), len(vector_tables))
+
+            if route == "ocr":
+                # Página con tablas-imagen: extraer texto por regiones verticales
+                # para insertar la tabla OCR en su posición correcta.
+                # Ordenar imágenes por posición vertical (top). Solo coords
+                # top-down ('top'/'bottom'): mezclarlas con 'y0'/'y1'
+                # (bottom-up) producía bboxes espejados que tragaban texto
+                # del cuerpo (auditoría OCR 2026-06-11, CR-1).
+                sorted_imgs = sorted(large_imgs, key=lambda im: im.get('top', 0))
+                cursor_y: float = 0
+                for img in sorted_imgs:
+                    img_top = img.get('top', 0)
+                    img_bottom = img.get('bottom', page.height)
+
+                    # Texto ANTES de la imagen (región superior de la página)
+                    if img_top > cursor_y + 1:
+                        all_lines.extend(_extract_region_lines(
+                            page, cursor_y, img_top, marker_re, page_num + 1,
+                            "sobre tabla-imagen"))
+
+                    # OCR de la imagen (tabla)
+                    ocr_result = _ocr_page_table(page, [img], page_num + 1)
+                    all_lines.extend(ocr_result)
+
+                    cursor_y = img_bottom
+
+                # Texto DESPUÉS de la última imagen
+                if cursor_y < page.height - 1:
+                    all_lines.extend(_extract_region_lines(
+                        page, cursor_y, page.height, marker_re, page_num + 1,
+                        "bajo tabla-imagen"))
+            elif route == "vector":
+                # Página con tablas vectoriales: texto por franjas verticales
+                # complementarias a los bboxes, intercalando cada tabla como
+                # markdown en su posición (mismo ordenamiento por top que el
+                # flujo de tablas-imagen).
+                cursor_y = 0
+                for bbox, data in sorted(vector_tables, key=lambda vt: vt[0][1]):
+                    table_top, table_bottom = bbox[1], bbox[3]
+                    if table_top > cursor_y + 1:
+                        all_lines.extend(_extract_region_lines(
+                            page, cursor_y, table_top, marker_re, page_num + 1,
+                            "sobre tabla vectorial"))
+                    all_lines.extend(_render_vector_table(data, page_num + 1))
+                    cursor_y = max(cursor_y, table_bottom)
+                if cursor_y < page.height - 1:
+                    all_lines.extend(_extract_region_lines(
+                        page, cursor_y, page.height, marker_re, page_num + 1,
+                        "bajo tabla vectorial"))
+            else:
+                # Página sin tablas: extracción normal
                 text = page.extract_text(
                     layout=False,
                     x_tolerance=PDFPLUMBER_X_TOLERANCE,
@@ -299,83 +508,6 @@ def extract_lines(pdf_path: Path) -> tuple[list[str], int]:
                     if is_header_line(line):
                         continue
                     all_lines.append(line)
-            else:
-                # Página con tablas-imagen: extraer texto por regiones verticales
-                # para insertar la tabla OCR en su posición correcta.
-                # Ordenar imágenes por posición vertical (top).
-                sorted_imgs = sorted(large_imgs,
-                                     key=lambda im: min(im.get('top', im.get('y0', 0)),
-                                                        im.get('y0', 0)))
-                page_height = page.height
-                page_width = page.width
-                cursor_y = 0  # posición vertical actual
-
-                for img in sorted_imgs:
-                    img_top = min(img.get('top', img.get('y0', 0)), img.get('y0', 0))
-                    img_bottom = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
-
-                    # Texto ANTES de la imagen (región superior de la página)
-                    if img_top > cursor_y + 1:
-                        try:
-                            region_above = page.crop((0, cursor_y, page_width, img_top))
-                            text_above = region_above.extract_text(
-                                layout=False,
-                                x_tolerance=PDFPLUMBER_X_TOLERANCE,
-                                y_tolerance=PDFPLUMBER_Y_TOLERANCE,
-                            )
-                            if text_above:
-                                for raw_line in text_above.split('\n'):
-                                    line = clean_page_markers(raw_line.strip(), marker_re)
-                                    if not line:
-                                        continue
-                                    if is_header_line(line):
-                                        continue
-                                    all_lines.append(line)
-                        except (ValueError, AttributeError) as e:
-                            # Coordenadas degeneradas o page object inesperado — esperable en bordes
-                            logger.debug(
-                                "crop region_above falló (page=%d, cursor_y=%s, img_top=%s): %s",
-                                page_num + 1, cursor_y, img_top, e,
-                            )
-                        except Exception:
-                            logger.exception(
-                                "error inesperado extrayendo texto sobre tabla en página %d",
-                                page_num + 1,
-                            )
-
-                    # OCR de la imagen (tabla)
-                    ocr_result = _ocr_page_table(page, [img], page_num + 1)
-                    all_lines.extend(ocr_result)
-
-                    cursor_y = img_bottom
-
-                # Texto DESPUÉS de la última imagen
-                if cursor_y < page_height - 1:
-                    try:
-                        region_below = page.crop((0, cursor_y, page_width, page_height))
-                        text_below = region_below.extract_text(
-                            layout=False,
-                            x_tolerance=PDFPLUMBER_X_TOLERANCE,
-                            y_tolerance=PDFPLUMBER_Y_TOLERANCE,
-                        )
-                        if text_below:
-                            for raw_line in text_below.split('\n'):
-                                line = clean_page_markers(raw_line.strip(), marker_re)
-                                if not line:
-                                    continue
-                                if is_header_line(line):
-                                    continue
-                                all_lines.append(line)
-                    except (ValueError, AttributeError) as e:
-                        logger.debug(
-                            "crop region_below falló (page=%d, cursor_y=%s, page_height=%s): %s",
-                            page_num + 1, cursor_y, page_height, e,
-                        )
-                    except Exception:
-                        logger.exception(
-                            "error inesperado extrayendo texto bajo tabla en página %d",
-                            page_num + 1,
-                        )
 
     return all_lines, total
 
@@ -388,19 +520,23 @@ def _ocr_page_table(page: Any, large_imgs: list, page_num: int) -> list[str]:
 
     result_lines: list[str] = []
     for img in large_imgs:
+        # Solo coordenadas top-down ('top'/'bottom'): mezclarlas con
+        # 'y0'/'y1' (bottom-up) producía un crop espejado verticalmente
+        # que OCR-eaba párrafos del cuerpo recortados al ancho de la
+        # imagen (auditoría OCR 2026-06-11, CR-1).
         x0 = img.get('x0', 0)
-        y0 = min(img.get('top', img.get('y0', 0)), img.get('y0', 0))
-        x1 = img.get('x1', 0)
-        y1 = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
+        top = img.get('top', 0)
+        x1 = img.get('x1', page.width)
+        bottom = img.get('bottom', page.height)
         try:
-            cropped = page.crop((x0, y0, x1, y1))
+            cropped = page.crop((x0, top, x1, bottom))
             pil_img = cropped.to_image(resolution=OCR_RESOLUTION_DPI).original
             # Obtener datos espaciales con --psm 6 (bloque de texto uniforme)
             data = pytesseract.image_to_data(
                 pil_img, lang=OCR_LANG, config=OCR_PSM_CONFIG,
                 output_type=pytesseract.Output.DICT,
             )
-            md_table = _build_table_from_spatial(data)
+            md_table = _build_table_from_spatial(data, page_num)
             if not md_table:
                 result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
                 continue
@@ -421,9 +557,33 @@ def _ocr_page_table(page: Any, large_imgs: list, page_num: int) -> list[str]:
     return result_lines
 
 
-def _build_table_from_spatial(data: dict) -> list[str]:
+def _ocr_rows_as_text(rows: list[list[dict]]) -> list[str]:
+    """Vuelca filas de palabras OCR como líneas de texto plano, sanitizadas.
+
+    Los pipes que Tesseract lee de los bordes de celda se eliminan: una
+    línea de texto plano que empiece con '|' haría que build_ast la
+    confundiera con fila de tabla y fabricara pseudo-tablas a partir de
+    ruido OCR (auditoría 2026-06-11, CR-6: las 11 tablas fantasma de
+    LISSSTE nacieron así).
+    """
+    lines: list[str] = []
+    for row in rows:
+        text = ' '.join(w['text'] for w in row).replace('|', ' ')
+        text = ' '.join(text.split())
+        if text:
+            lines.append(text)
+    return lines
+
+
+def _build_table_from_spatial(data: dict, page_num: int) -> list[str]:
     """Reconstruye una tabla markdown a partir de datos espaciales de Tesseract.
-    Agrupa palabras por fila (y-position) y columna (x-position)."""
+    Agrupa palabras por fila (y-position) y columna (x-position).
+
+    Si la reconstrucción no supera la guardia de plausibilidad (mínimo de
+    filas de datos, máximo de columnas), emite el marcador honesto
+    "[Tabla no extraíble]" seguido del texto OCR plano, en lugar de datos
+    corruptos con apariencia de válidos.
+    """
     from collections import defaultdict
 
     # Extraer palabras con posición y confianza mínima
@@ -475,11 +635,8 @@ def _build_table_from_spatial(data: dict) -> list[str]:
             numeric_rows.append(row)
 
     if not numeric_rows:
-        # Sin filas numéricas → emitir texto plano
-        lines = []
-        for row in sorted_rows:
-            lines.append(' '.join(w['text'] for w in row))
-        return ['', *lines, '']
+        # Sin filas numéricas → emitir texto plano (sanitizado)
+        return ['', *_ocr_rows_as_text(sorted_rows), '']
 
     # Encontrar el número de columnas más frecuente en filas numéricas
     from collections import Counter
@@ -517,7 +674,10 @@ def _build_table_from_spatial(data: dict) -> list[str]:
                 else:
                     break
             cols[col].append(w['text'])
-        return [' '.join(cols.get(c, [''])) for c in range(target_cols)]
+        # '|' dentro de una celda (bordes de rejilla que Tesseract lee como
+        # texto) rompería la fila markdown → '/'
+        return [' '.join(cols.get(c, [''])).replace('|', '/')
+                for c in range(target_cols)]
 
     # --- Paso 4: separar título, encabezados de columna, filas de datos, texto posterior ---
     # Encontrar el índice de la primera fila numérica
@@ -530,10 +690,7 @@ def _build_table_from_spatial(data: dict) -> list[str]:
 
     if first_num_idx is None:
         # Sin filas numéricas → texto plano (no debería llegar aquí)
-        lines = []
-        for row in sorted_rows:
-            lines.append(' '.join(w['text'] for w in row))
-        return ['', *lines, '']
+        return ['', *_ocr_rows_as_text(sorted_rows), '']
 
     # Clasificar filas pre-tabla: título vs encabezados de columna.
     # Heurística: encontrar el mayor salto vertical (gap) entre filas pre-tabla.
@@ -635,29 +792,50 @@ def _build_table_from_spatial(data: dict) -> list[str]:
                 header_names[c] = f'{header_names[c]} ({unit})' if header_names[c] != f'Col {c+1}' else unit
         data_start_idx = first_num_idx + 1
 
-    # Emitir Markdown
-    md: list[str] = ['']
-
-    # Título (texto previo que no alinea con columnas)
-    for row in title_rows:
-        text = ' '.join(w['text'] for w in row)
-        md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
-
-    # Tabla: fila de encabezado
-    md.append('| ' + ' | '.join(header_names) + ' |')
-    md.append('| ' + ' | '.join(['---'] * target_cols) + ' |')
-
-    # Tabla: filas de datos y texto posterior
-    post_text: list[str] = []
+    # Clasificar filas de datos vs texto posterior
+    data_rows: list[list[str]] = []
+    post_rows: list[list[dict]] = []
     for row in sorted_rows[data_start_idx:]:
         num_count = sum(1 for w in row if _OCR_NUM_RE.match(w['text']))
         is_numeric = num_count >= max(len(row) * NUMERIC_ROW_FRACTION, NUMERIC_ROW_MIN)
-        if is_numeric and not post_text:
-            cols = assign_to_columns(row)
-            md.append('| ' + ' | '.join(cols) + ' |')
+        if is_numeric and not post_rows:
+            data_rows.append(assign_to_columns(row))
         else:
-            post_text.append(' '.join(w['text'] for w in row))
+            post_rows.append(row)
 
+    # Guardia de plausibilidad (auditoría OCR 2026-06-11): muy pocas filas
+    # de datos o demasiadas columnas = la reconstrucción machacó la tabla
+    # (filas reales convertidas en headers, columnas fantasma por conteo
+    # de palabras). Marcador honesto + texto plano > basura estructurada.
+    if (len(data_rows) < OCR_TABLE_MIN_DATA_ROWS
+            or target_cols > OCR_TABLE_MAX_COLS):
+        return [
+            '',
+            f'> **[Tabla no extraíble — ver PDF original, página {page_num}]**',
+            '',
+            *_ocr_rows_as_text(sorted_rows),
+            '',
+        ]
+
+    # Emitir Markdown
+    md: list[str] = ['']
+
+    # Título (texto previo que no alinea con columnas); sanitizar pipes
+    # para que build_ast no lo confunda con fila de tabla
+    for row in title_rows:
+        text = ' '.join(' '.join(w['text'] for w in row).replace('|', ' ').split())
+        if not text:
+            continue
+        md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
+
+    # Marcador de procedencia (source_method='ocr', source_page) + tabla
+    md.append(f'<!--mxmd:table src=ocr page={page_num}-->')
+    md.append('| ' + ' | '.join(h.replace('|', '/') for h in header_names) + ' |')
+    md.append('| ' + ' | '.join(['---'] * target_cols) + ' |')
+    for cols in data_rows:
+        md.append('| ' + ' | '.join(cols) + ' |')
+
+    post_text = _ocr_rows_as_text(post_rows)
     if post_text:
         md.append('')
         md.extend(post_text)
@@ -786,19 +964,30 @@ def _slugify_ordinal(text: str) -> str:
     return s or 'unknown'
 
 
-def _parse_table_lines(table_lines: list[str]) -> dict:
-    """Parse markdown table lines (| ... |) into a table content node."""
+def _parse_table_lines(table_lines: list[str], meta: dict | None = None) -> dict:
+    """Parse markdown table lines (| ... |) into a table content node.
+
+    `meta` (opcional) trae la procedencia registrada por extract_lines vía
+    el marcador `_TABLE_META_RE` ({'source_method', 'source_page'}); sin
+    ella se asume el default histórico: tabla OCR sin página conocida.
+    """
     headers: list[str] = []
     rows: list[list[str]] = []
+    have_headers = False
     for line in table_lines:
         cells = [c.strip() for c in line.strip().strip('|').split('|')]
-        if all(re.fullmatch(r'-{2,}', c.strip()) for c in cells if c.strip()):
+        # Fila separadora: al menos una celda con contenido y todas las no
+        # vacías son guiones. Una fila 100 % vacía NO es separador — es el
+        # header vacío de una tabla de una fila (sin header en el PDF).
+        non_empty = [c for c in cells if c]
+        if non_empty and all(re.fullmatch(r'-{2,}', c) for c in non_empty):
             continue  # separator row
-        if not headers:
+        if not have_headers:
             headers = cells
+            have_headers = True
         else:
             rows.append(cells)
-    return {
+    node = {
         "type": "table",
         "title": None,
         "headers": headers,
@@ -806,6 +995,9 @@ def _parse_table_lines(table_lines: list[str]) -> dict:
         "source_method": "ocr",
         "source_page": None,
     }
+    if meta:
+        node.update(meta)
+    return node
 
 
 def _load_catalog_entry(pdf_path: Path) -> dict:
@@ -882,6 +1074,7 @@ def build_ast(lines: list[str], metadata: dict) -> dict:
     in_transitorios = False
     pending_section = False
     table_accum: list[str] = []
+    pending_table_meta: dict | None = None
 
     # -- inner helpers --
 
@@ -958,11 +1151,16 @@ def build_ast(lines: list[str], metadata: dict) -> dict:
             _add_text(text)
 
     def _flush_table() -> None:
-        nonlocal table_accum
+        nonlocal table_accum, pending_table_meta
         if not table_accum:
             return
-        _target_list().append(_parse_table_lines(table_accum))
+        node = _parse_table_lines(table_accum, pending_table_meta)
         table_accum = []
+        pending_table_meta = None
+        # Una tabla sin filas de datos no es tabla (artefactos OCR: nodos
+        # vacíos o headers-basura sin cuerpo) — no ensuciar el AST.
+        if node["rows"]:
+            _target_list().append(node)
 
     # ---- Main processing loop ----
 
@@ -976,6 +1174,16 @@ def build_ast(lines: list[str], metadata: dict) -> dict:
             if buffer:
                 _flush()
             pending_section = False
+            continue
+
+        # Marcador de procedencia de tabla (emitido por extract_lines para
+        # tablas vectoriales) — capturar la metadata y descartar la línea.
+        mm = _TABLE_META_RE.match(stripped)
+        if mm:
+            pending_table_meta = {
+                "source_method": mm.group(1),
+                "source_page": int(mm.group(2)),
+            }
             continue
 
         # Blockquotes (table placeholders etc.)
